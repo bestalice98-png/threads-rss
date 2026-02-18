@@ -1,7 +1,8 @@
 import json
 import os
+import time
 from datetime import datetime, timezone
-from xml.etree.ElementTree import Element, SubElement, tostring, ElementTree
+from xml.etree.ElementTree import Element, SubElement, tostring
 
 from playwright.sync_api import sync_playwright
 from parsel import Selector
@@ -34,8 +35,13 @@ def scrape_profile(username):
             page.wait_for_selector("[data-pressable-container=true]", timeout=15000)
         except:
             pass
-        import time
         time.sleep(3)
+
+        # 스크롤을 여러 번 해서 더 많은 글 로딩
+        for i in range(5):
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            time.sleep(2)
+
         content = page.content()
         browser.close()
 
@@ -45,6 +51,7 @@ def scrape_profile(username):
     ).getall()
 
     threads = []
+    seen_codes = set()
     for hidden_dataset in hidden_datasets:
         if '"ScheduledServerJS"' not in hidden_dataset:
             continue
@@ -55,7 +62,8 @@ def scrape_profile(username):
         for thread in thread_items:
             for t in thread:
                 parsed = parse_thread(t)
-                if parsed.get("text"):
+                if parsed.get("text") and parsed.get("code") not in seen_codes:
+                    seen_codes.add(parsed.get("code"))
                     threads.append(parsed)
     return threads
 
@@ -90,10 +98,8 @@ def generate_rss(username, posts):
 
 
 def main():
-    # 여기에 긁어올 Threads 계정들 추가
     accounts = [
         "choi.openai",
-        # "다른계정" 이렇게 추가 가능
     ]
 
     os.makedirs("feeds", exist_ok=True)
