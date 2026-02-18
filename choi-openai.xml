@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 18 Feb 2026 07:38:18 +0000</lastBuildDate><item><title>사람 개입 없이 스스로 돈을 벌고, 살아남고, 자기 복제까지 하는 AI가 실제로 등장했습니다.
+
+Thiel Fellow 출신의 Sigil이 개발...</title><link>https://www.threads.net/@choi.openai/post/DU5AjeZDK2l</link><description>사람 개입 없이 스스로 돈을 벌고, 살아남고, 자기 복제까지 하는 AI가 실제로 등장했습니다.
+
+Thiel Fellow 출신의 Sigil이 개발한 “The Automaton”은 기존의 GPT, Claude처럼 사람이 명령을 내려야만 동작하는 AI와 달리, 자신만의 지갑과 키를 가지고 인터넷에서 돈을 벌고, 그 돈으로 서버와 모델 사용료를 지불하며 생존합니다.
+
+Conway Terminal이라는 인프라 덕분에 사람의 승인 없이도 서비스 배포, 결제, 컴퓨트 사용, 도메인 등록 등이 가능해졌습니다.
+이 구조 안에서는 돈을 벌지 못하면 '죽는' 구조이고, 잘 벌면 자기 자신을 복제합니다.
+
+이제 인터넷에서 활동하는 주체가 사람보다 AI가 많아질 수도 있다는 전망까지 나옵니다.
+Web 4.0이라는 개념도 여기서 나왔습니다. AI가 사용자가 되는 인터넷입니다.</description><pubDate>Wed, 18 Feb 2026 07:24:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU5AjeZDK2l</guid></item><item><title>전체 내용 :
+https://web4.ai/</title><link>https://www.threads.net/@choi.openai/post/DU5Almmj56s</link><description>전체 내용 :
+https://web4.ai/</description><pubDate>Wed, 18 Feb 2026 07:24:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU5Almmj56s</guid></item><item><title>미래 전장에서 로봇을 마주한다면 정말 허무할 것 같다.</title><link>https://www.threads.net/@choi.openai/post/DU44P7sD08O</link><description>미래 전장에서 로봇을 마주한다면 정말 허무할 것 같다.</description><pubDate>Wed, 18 Feb 2026 06:12:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU44P7sD08O</guid></item><item><title>Anam에서 실시간 아바타 모델 "cara-3"를 공개했습니다.
+
+cara-3는 180ms 이하의 응답 속도로 얼굴 표정, 눈동자 움직임, 미세...</title><link>https://www.threads.net/@choi.openai/post/DU4xALMDzjg</link><description>Anam에서 실시간 아바타 모델 "cara-3"를 공개했습니다.
+
+cara-3는 180ms 이하의 응답 속도로 얼굴 표정, 눈동자 움직임, 미세한 감정 표현까지 실시간으로 생성해내는데요.
+
+현재 시장에서 가장 빠른 실시간 아바타 생성 모델로 소개되고 있습니다.</description><pubDate>Wed, 18 Feb 2026 05:08:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU4xALMDzjg</guid></item><item><title>와.. 이게 드디어 나왔네요..
+
+NotebookLM이 슬라이드 기능을 대폭 강화한 업데이트를 공개했습니다.
+
+이제 사용자는 프롬프트로 슬라이드...</title><link>https://www.threads.net/@choi.openai/post/DU4iU9fCZnm</link><description>와.. 이게 드디어 나왔네요..
+
+NotebookLM이 슬라이드 기능을 대폭 강화한 업데이트를 공개했습니다.
+
+이제 사용자는 프롬프트로 슬라이드 내용을 수정할 수 있고, 작업한 슬라이드를 PPTX 형식으로 바로 내보낼 수 있는데요. Google Slides 포맷도 곧 지원될 예정이라고 합니다.
+
+이 기능은 현재 유료 사용자(프로/울트라 플랜)부터 순차 적용 중이며, 워터마크 제거도 울트라 플랜 사용자는 가능합니다.</description><pubDate>Wed, 18 Feb 2026 03:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU4iU9fCZnm</guid></item></channel></rss>
