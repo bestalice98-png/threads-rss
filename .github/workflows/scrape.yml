@@ -1,0 +1,49 @@
+name: Scrape Threads & Deploy RSS
+
+on:
+  schedule:
+    # 매일 UTC 00:00 (한국시간 오전 9시)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 수동 실행도 가능
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+          playwright install-deps
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Create index.html
+        run: |
+          echo '<html><body><h1>Threads RSS Feeds</h1><ul>' > feeds/index.html
+          for f in feeds/*.xml; do
+            name=$(basename "$f")
+            echo "<li><a href=\"$name\">$name</a></li>" >> feeds/index.html
+          done
+          echo '</ul></body></html>' >> feeds/index.html
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./feeds
