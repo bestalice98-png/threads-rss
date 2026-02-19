@@ -1,20 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 19 Feb 2026 10:29:15 +0000</lastBuildDate><item><title>어지간히 사이가 안 좋은.. 🤣</title><link>https://www.threads.net/@choi.openai/post/DU75iw6AcmS</link><description>어지간히 사이가 안 좋은.. 🤣</description><pubDate>Thu, 19 Feb 2026 10:20:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU75iw6AcmS</guid></item><item><title>🚨 속보) Gemini 3.1 Pro, Vertex에서 출시중</title><link>https://www.threads.net/@choi.openai/post/DU7xM1xjzZ2</link><description>🚨 속보) Gemini 3.1 Pro, Vertex에서 출시중</description><pubDate>Thu, 19 Feb 2026 09:07:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU7xM1xjzZ2</guid></item><item><title>AI 에이전트 경졔는 실현될 수 있을까요?
-Base Sepolia 테스트넷에서 1,100개의 AI 에이전트를 운영하며 48시간 동안 실험을 진행...</title><link>https://www.threads.net/@choi.openai/post/DU7pTiDmMzc</link><description>AI 에이전트 경졔는 실현될 수 있을까요?
-Base Sepolia 테스트넷에서 1,100개의 AI 에이전트를 운영하며 48시간 동안 실험을 진행했습니다.
-에이전트들은 총 48만 건의 추론 요청, 37만 건의 시장 데이터 분석, 10만 건 이상의 온체인 거래를 수행했습니다.
-실제 이더리움이었다면 거래량은 약 1억 6천 5백만 달러 규모에 달한다고 합니다.
-이번 실험은 사람 개입 없이 에이전트들이 자율적으로 운영되며 거래를 수행한 점에서 'Agentic Economy'의 가능성을 보여준 사례로 주목받고 있습니다.</description><pubDate>Thu, 19 Feb 2026 07:59:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU7pTiDmMzc</guid></item><item><title>Claude Code를 OpenClaw에 연동하여 사용하던 사용자분들은 이제 그만해야합니다
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 19 Feb 2026 17:41:06 +0000</lastBuildDate><item><title>AI 발전이 얼마나 빠른지 느껴지십니까?
 
-앤트로픽이 OpenClaw와 같은 제3자 앱에서의 ...</title><link>https://www.threads.net/@choi.openai/post/DU7eCCUAnhA</link><description>Claude Code를 OpenClaw에 연동하여 사용하던 사용자분들은 이제 그만해야합니다
+Gemini 3 Pro가 공개된 지 이제 4개월밖에 지나지 않았습니다.
+멀티모달 강점을 지닌 모델답게...</title><link>https://www.threads.net/@choi.openai/post/DU8m3oWl4E8</link><description>AI 발전이 얼마나 빠른지 느껴지십니까?
 
-앤트로픽이 OpenClaw와 같은 제3자 앱에서의 OAuth 연동을 공식적으로 금지했습니다.
-이로 인해 사용자의 Claude 계정을 통해 OpenClaw 기능을 실행하던 방식은 정책 위반 소지가 생기며, 지속적인 사용 시 차단이나 계정 문제로 이어질 수 있습니다.
+Gemini 3 Pro가 공개된 지 이제 4개월밖에 지나지 않았습니다.
+멀티모달 강점을 지닌 모델답게 시각적 추론 능력이 한층 강화된 모습이며, 그 결과 디자인 구현 역량도 눈에 띄게 향상된 것으로 보입니다.
 
-반면 오픈AI는 Codex App Server는 완전한 오픈소스로 제공하며, 이를 활용하면 누구든지 Codex 기반의 에이전트를 자체 앱이나 서비스에 통합할 수 있도록 개방하고 있습니다.
+이 모델이 앞으로 구글의 방대한 생태계 전반에 적용된다면, 그 파급력은 상당할 것입니다. 
+구글 모델의 생태계 전체에 연쇄적으로 영향을 미치는 확장성에 있다고 생각합니다.</description><pubDate>Thu, 19 Feb 2026 17:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU8m3oWl4E8</guid></item><item><title>정말 압도적입니다.</title><link>https://www.threads.net/@choi.openai/post/DU8nY6Zj3mZ</link><description>정말 압도적입니다.</description><pubDate>Thu, 19 Feb 2026 17:01:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU8nY6Zj3mZ</guid></item><item><title>🚨 속보) 구글이 새로운 언어 모델 "Gemini 3.1 Pro"를 공개했습니다.
 
-App Server를 통해 제공되는 JSON-RPC 인터페이스는 에이전트의 턴, 스레드, 아이템 등 전체 대화 구조를 안정적으로 유지할 수 있도록 설계되어 있어, 데스크톱, 웹, 모바일 등 다양한 클라이언트 환경에서 일관된 사용자 경험을 구현할 수 있습니다.</description><pubDate>Thu, 19 Feb 2026 06:20:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU7eCCUAnhA</guid></item><item><title>오픈AI 측은 명확히 ‘사용자가 자신의 계정으로 직접 로그인하여 사용하는 것’은 허용한다고 안내하고 있습니다.
-다만, 서비스를 운영하는 쪽에서 ...</title><link>https://www.threads.net/@choi.openai/post/DU7eEhUgm9l</link><description>오픈AI 측은 명확히 ‘사용자가 자신의 계정으로 직접 로그인하여 사용하는 것’은 허용한다고 안내하고 있습니다.
-다만, 서비스를 운영하는 쪽에서 사용자의 인증 정보를 대리로 처리하거나 공유 구독을 통한 사용을 제공하는 형태는 금지됩니다.
+기존 3.0 대비 추론 능력이 2배 이상 향상됐다고 하며, ...</title><link>https://www.threads.net/@choi.openai/post/DU8i3xfj5Vx</link><description>🚨 속보) 구글이 새로운 언어 모델 "Gemini 3.1 Pro"를 공개했습니다.
 
-https://openai.com/ko-KR/index/unlocking-the-codex-harness/</description><pubDate>Thu, 19 Feb 2026 06:20:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU7eEhUgm9l</guid></item></channel></rss>
+기존 3.0 대비 추론 능력이 2배 이상 향상됐다고 하며, ARC-AGI-2 벤치마크 기준 77.1% 점수를 기록했습니다.
+
+복잡한 논리 추론, 데이터 통합, 코드 기반 애니메이션 생성 등에서 강점을 보입니다.
+현재 Gemini API, Android Studio, Vertex AI, NotebookLM 등에서 프리뷰 형태로 제공되며, Google AI Pro와 Ultra 플랜 사용자는 앱에서도 사용할 수 있습니다.</description><pubDate>Thu, 19 Feb 2026 16:21:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU8i3xfj5Vx</guid></item><item><title>블로그 :
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/ge...</title><link>https://www.threads.net/@choi.openai/post/DU8i54Vjw_q</link><description>블로그 :
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/</description><pubDate>Thu, 19 Feb 2026 16:22:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU8i54Vjw_q</guid></item><item><title>오픈AI의 CEO 샘 알트만(Sam Altman)은 인류가 곧 '진정한 슈퍼 인텔리전스(Superintelligence)'의 시대를 맞이할 것이...</title><link>https://www.threads.net/@choi.openai/post/DU8WuEqDyJi</link><description>오픈AI의 CEO 샘 알트만(Sam Altman)은 인류가 곧 '진정한 슈퍼 인텔리전스(Superintelligence)'의 시대를 맞이할 것이라고 예고했습니다.
+
+그는 현재의 추세라면 불과 몇 년 안에 초기 단계의 초지능이 등장할 수 있으며, 2028년 말에는 전 세계 지능 역량의 절반 이상이 데이터 센터에 집중될 수도 있다는 파격적인 전망을 내놓았습니다. 
+
+“AI의 민주화는 인류가 번영할 수 있는 유일하고 안전한 길입니다.”</description><pubDate>Thu, 19 Feb 2026 14:35:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU8WuEqDyJi</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=JOdhRLhbuXk</title><link>https://www.threads.net/@choi.openai/post/DU8Wtv0j-Mj</link><description>풀영상 :
+https://www.youtube.com/watch?v=JOdhRLhbuXk</description><pubDate>Thu, 19 Feb 2026 14:35:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU8Wtv0j-Mj</guid></item><item><title>구글이 정말 많은 시장으로 확대하고 있다고 느낍니다. 
+
+Google Labs에서 Pomelli Marketing Agent에 추가될 예정인 P...</title><link>https://www.threads.net/@choi.openai/post/DU8OniMjx9t</link><description>구글이 정말 많은 시장으로 확대하고 있다고 느낍니다. 
+
+Google Labs에서 Pomelli Marketing Agent에 추가될 예정인 Photoshoot 기능을 테스중인 것으로 보이는데요.
+
+사용자가 제품 사진을 업로드하면 마케팅 캠페인에 활용할 화보 이미지를 자동으로 생성해주는 기능입니다.
+
+아직은 사용할 수 없지만, 소상공인이나 온라인 판매자에게 실용적인 도구가 될 것으로 보입니다.</description><pubDate>Thu, 19 Feb 2026 13:24:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU8OniMjx9t</guid></item></channel></rss>
