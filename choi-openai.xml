@@ -1,24 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 21 Feb 2026 04:54:33 +0000</lastBuildDate><item><title>이제 AI로 '나'를 복제해서 세상에 내보냅니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 21 Feb 2026 09:02:36 +0000</lastBuildDate><item><title>오픈AI의 CEO 샘 알트만(Sam Altman)은 는 기존의 많은 직업이 AI에 의해 "거의 사라질 것"이라고 말합니다.
+
+특히 소프트웨어 엔...</title><link>https://www.threads.net/@choi.openai/post/DVA55Q8EdzE</link><description>오픈AI의 CEO 샘 알트만(Sam Altman)은 는 기존의 많은 직업이 AI에 의해 "거의 사라질 것"이라고 말합니다.
+
+특히 소프트웨어 엔지니어로서 자신이 배웠던 전통적인 방식의 코딩(C++ 수동 작성 등)은 이제 "완전히 무의미해졌다"고 말했습니다.
+
+“AI가 이미지를 생성한다고 해서 예술가가 사라지지는 않습니다. 오히려 인간이 만든 예술의 가치는 더욱 높아질 것입니다.”</description><pubDate>Sat, 21 Feb 2026 09:01:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVA55Q8EdzE</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=qH7thwrCluM</title><link>https://www.threads.net/@choi.openai/post/DVA6HSxjzFd</link><description>풀영상 :
+https://www.youtube.com/watch?v=qH7thwrCluM</description><pubDate>Sat, 21 Feb 2026 09:01:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVA6HSxjzFd</guid></item><item><title>Higgsfield에서 새로운 이미지 생성 모델 "SOUL 2.0"을 공개했습니다.
+패션, 문화, 크리에이티브 분야에 특화되었으며, 20개 이상...</title><link>https://www.threads.net/@choi.openai/post/DVAsPLRAoKC</link><description>Higgsfield에서 새로운 이미지 생성 모델 "SOUL 2.0"을 공개했습니다.
+패션, 문화, 크리에이티브 분야에 특화되었으며, 20개 이상의 프리셋, 높은 캐릭터 일관성, 카메라 연출 이해 등 기존 모델과 차별화된 특징을 갖고 있습니다.
+SOUL, SOUL Reference, SOUL ID 세 가지 생성 모드를 지원하고, 특정 스타일이나 촬영 장비를 프롬프트에 입력하면 그에 맞는 질감과 분위기를 반영해 이미지를 만들어줍니다.</description><pubDate>Sat, 21 Feb 2026 07:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVAsPLRAoKC</guid></item><item><title>사람의 개입 없이 해킹 공격 전 과정을 수행하고 보고서까지 뽑아주는 오픈소스 AI 레드팀 PentAGI가 공개됐습니다.
+여러 AI 에이전트가 역...</title><link>https://www.threads.net/@choi.openai/post/DVAefgWgDdJ</link><description>사람의 개입 없이 해킹 공격 전 과정을 수행하고 보고서까지 뽑아주는 오픈소스 AI 레드팀 PentAGI가 공개됐습니다.
+여러 AI 에이전트가 역할을 나눠 정찰, 취약점 스캔, 공격 시도, 보고서 작성까지 자동으로 수행하는 구조라고 합니다.
+nmap, metasploit, sqlmap, hydra 같은 도구가 포함된 도커 컨테이너 형태로 배포되며, AI가 상황에 따라 도구를 선택합니다.
+기존 레드팀 점검이 수주간 수천만 원대 비용이 들었다면, 이를 자동화할 수 있다는 주장입니다. 동시에 AI 보안 위협과 책임 문제에 대한 우려도 커지고 있습니다.</description><pubDate>Sat, 21 Feb 2026 05:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVAefgWgDdJ</guid></item><item><title>깃허브 : 
+https://github.com/vxcontrol/pentagi</title><link>https://www.threads.net/@choi.openai/post/DVAegp9gEC1</link><description>깃허브 : 
+https://github.com/vxcontrol/pentagi</description><pubDate>Sat, 21 Feb 2026 05:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVAegp9gEC1</guid></item><item><title>이제 AI로 '나'를 복제해서 세상에 내보냅니다.
 
 Pika에서 나를 대신해 학습하고 사회생활을 하는 인격체 AI인 AI Selves를 공개했습...</title><link>https://www.threads.net/@choi.openai/post/DVAQq6Fj2mu</link><description>이제 AI로 '나'를 복제해서 세상에 내보냅니다.
 
 Pika에서 나를 대신해 학습하고 사회생활을 하는 인격체 AI인 AI Selves를 공개했습니다.
 사용자가 직접 생성하고 키울 수 있는 AI로, 지속적인 기억을 갖고 다양한 성격을 지닌 가상의 자아를 만들 수 있습니다.
-예를 들어 그룹 채팅에 사진을 보내거나, 대신 엄마에게 전화를 걸 수도 있습니다.</description><pubDate>Sat, 21 Feb 2026 03:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVAQq6Fj2mu</guid></item><item><title>Hedra에서 아바타 영상 기능에 ‘화자 선택’과 최대 10분 길이 지원을 추가했습니다.
-기존 5분 제한이 10분으로 늘어나면서 팟캐스트, 인터...</title><link>https://www.threads.net/@choi.openai/post/DVAC_xjitwT</link><description>Hedra에서 아바타 영상 기능에 ‘화자 선택’과 최대 10분 길이 지원을 추가했습니다.
-기존 5분 제한이 10분으로 늘어나면서 팟캐스트, 인터뷰, 프레젠테이션 등 다양한 콘텐츠를 한 번에 제작할 수 있게 되었습니다.
-여러 화자가 등장하는 영상도 제작 가능하고, 영상은 중간 편집 없이 완성된 형태로 생성됩니다.</description><pubDate>Sat, 21 Feb 2026 01:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVAC_xjitwT</guid></item><item><title>Claude Code가 데스크톱에서 실행 중인 앱을 미리보기하고, 코드 리뷰와 PR(CI 포함) 관리까지 백그라운드에서 처리할 수 있도록 업데이...</title><link>https://www.threads.net/@choi.openai/post/DU_0Br7k7mF</link><description>Claude Code가 데스크톱에서 실행 중인 앱을 미리보기하고, 코드 리뷰와 PR(CI 포함) 관리까지 백그라운드에서 처리할 수 있도록 업데이트됐습니다.
-개발 서버를 직접 띄워 콘솔 로그와 에러를 실시간으로 파악하고, 코드 리뷰 기능을 통해 푸시 전 버그를 찾아 인라인 코멘트를 달아줍니다.
-PR 생성 후에는 CI 실패를 자동으로 수정하거나 통과 시 자동 병합하는 기능도 포함됐습니다.
-CLI 세션을 데스크톱이나 클라우드로 옮겨가며 작업을 이어갈 수도 있어 개발 흐름이 한층 유연해졌습니다.</description><pubDate>Fri, 20 Feb 2026 22:49:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU_0Br7k7mF</guid></item><item><title>AI는 지수함수적으로 발전중입니다.
-
-METR의 최신 보고서에 따르면 Claude Opus 4.6은 숙련된 인간이 14시간 넘게 매달려야 할 복...</title><link>https://www.threads.net/@choi.openai/post/DU_nlHBkh3N</link><description>AI는 지수함수적으로 발전중입니다.
-
-METR의 최신 보고서에 따르면 Claude Opus 4.6은 숙련된 인간이 14시간 넘게 매달려야 할 복잡한 소프트웨어 업무를 절반 이상의 확률로 성공해냅니다.
-
-기존 리더였던 GPT-5.2를 크게 앞지른 수치인데, 이제는 평가용 문제들이 모델 성능에 비해 너무 쉬워져서 측정이 어려울 정도입니다.
-이런 흐름이라면 조만간 AI가 며칠 단위의 프로젝트를 스스로 완수하는 급격한 발전이 현실화될 것 같습니다.
-물론 자율성이 이만큼 높아지면 인간의 통제를 벗어날 위험도 커지기에 비판적인 시각으로 지켜봐야겠습니다.</description><pubDate>Fri, 20 Feb 2026 21:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU_nlHBkh3N</guid></item><item><title>METR : 
-https://metr.org/time-horizons/</title><link>https://www.threads.net/@choi.openai/post/DU_nmLhEhoD</link><description>METR : 
-https://metr.org/time-horizons/</description><pubDate>Fri, 20 Feb 2026 21:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DU_nmLhEhoD</guid></item></channel></rss>
+예를 들어 그룹 채팅에 사진을 보내거나, 대신 엄마에게 전화를 걸 수도 있습니다.</description><pubDate>Sat, 21 Feb 2026 03:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVAQq6Fj2mu</guid></item></channel></rss>
