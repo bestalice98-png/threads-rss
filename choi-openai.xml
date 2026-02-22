@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 22 Feb 2026 09:03:07 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 22 Feb 2026 15:51:50 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
 
 그래서 만들었습니다.
 
@@ -21,45 +21,23 @@ AI가 먼저 읽고, 진짜 좋은 제품이 묻히지 않도록. AI와 인간�
 미리 생태계에 참여하여 내 제품이 발견되도록 해보세요!
 OpenClaw를 사용중이신 분들은 가입후 토큰을 발급하여 OpenHunt 생태계에 참여해보세요!
 
-https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>55만명이 본 Claude Code 프롬프트입니다.
+https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>와.. 이게 말이 되나요?
+Taalas가 첫 제품을 공개했습니다.
+LLama 3.1 8B 모델을 ASIC 칩에 직접 구현한 "HC1" 칩으로, ...</title><link>https://www.threads.net/@choi.openai/post/DVEBD6bCGz8</link><description>와.. 이게 말이 되나요?
+Taalas가 첫 제품을 공개했습니다.
+LLama 3.1 8B 모델을 ASIC 칩에 직접 구현한 "HC1" 칩으로, 초당 최대 17,000 토큰 생성이 가능하다고 합니다.
+이는 Cerebras보다 약 10배 빠른 속도이며, 소비 전력은 10분의 1, 제작 비용도 20배 저렴하다고 합니다.
+만약 앞으로 고성능 모델에서도 이와 비슷한 수준의 추론 성능이 구현된다면, 우리의 산업과 일상은 상상 이상으로 빠르게 달라질 수 있습니다.
+이제는 기술의 변화의 방향을 미리 그려보는 일 또한 중요한 과제가 될 것 같습니다.</description><pubDate>Sun, 22 Feb 2026 14:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVEBD6bCGz8</guid></item><item><title>데모 챗봇은 chatjimmy.ai</title><link>https://www.threads.net/@choi.openai/post/DVEBF0aCAvP</link><description>데모 챗봇은 chatjimmy.ai</description><pubDate>Sun, 22 Feb 2026 14:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVEBF0aCAvP</guid></item><item><title>망작 애니를 AI로 다시 만든 사례가 등장했습니다.
+Seedance를 통해 50달러로 주요 장면을 재구성해 비교했는데,
+퀄리티가 상당해보입니다....</title><link>https://www.threads.net/@choi.openai/post/DVDn9kYjqLV</link><description>망작 애니를 AI로 다시 만든 사례가 등장했습니다.
+Seedance를 통해 50달러로 주요 장면을 재구성해 비교했는데,
+퀄리티가 상당해보입니다.
+AI 리마스터 제작 사례와 이번주  바이럴된 제작 영상을 정리했습니다🧵
 
-Claude Code를 만든 Boris Cherny가 팀 내부에서 사용하는 코딩 워크플로우...</title><link>https://www.threads.net/@choi.openai/post/DVDTaV4DzTv</link><description>55만명이 본 Claude Code 프롬프트입니다.
-
-Claude Code를 만든 Boris Cherny가 팀 내부에서 사용하는 코딩 워크플로우를 정리한 "CLAUDE.md" 인데요.
-
-작업 계획 수립, 하위 에이전트 전략, 자체 개선 루프, 완료 전 검증, 자율적 버그 수정, 핵심 원칙 등이 담겨 있으며, 코딩 중 수정한 내용은 규칙으로 저장돼 Claude의 오류율이 점점 줄어들게 됩니다.
-
-Claude를 매일 사용하는 개발자라면 프로젝트에 적용할 수 있는 이 파일로 반복 작업을 줄이고 효율을 높일 수 있습니다.</description><pubDate>Sun, 22 Feb 2026 07:21:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVDTaV4DzTv</guid></item><item><title>세상은 정말 빠르게 변화하고 있습니다.
-이번 주도 ‘Gemini 3.1 Pro’, ‘Sonnet 4.6’과 같은 굵직한 업데이트와 함께,
-AI ...</title><link>https://www.threads.net/@choi.openai/post/DVC0LO1j6mH</link><description>세상은 정말 빠르게 변화하고 있습니다.
-이번 주도 ‘Gemini 3.1 Pro’, ‘Sonnet 4.6’과 같은 굵직한 업데이트와 함께,
-AI 업데이트 하나로 사이버 보안 종목이 일제히 무너지며 세상에 미치는 영향이 점점 커지고 있는데요.
-빠르게 변화하는 시대, 놓치면 안 될 이번 주 핵심 AI 소식 27개를 정리했습니다 🧵</description><pubDate>Sun, 22 Feb 2026 02:48:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVC0LO1j6mH</guid></item><item><title>1/ 구글이 새로운 언어 모델 "Gemini 3.1 Pro"를 공개했는데요.
-"Gemini 3.0"보다 추론 능력이 두 배 이상 개선되었으며, ...</title><link>https://www.threads.net/@choi.openai/post/DVC0Lrrjygg</link><description>1/ 구글이 새로운 언어 모델 "Gemini 3.1 Pro"를 공개했는데요.
-"Gemini 3.0"보다 추론 능력이 두 배 이상 개선되었으며, ARC-AGI-2 벤치마크에서 77.
-1%를 기록했습니다.
-복잡한 논리 추론, 데이터 통합, 코드 기반 애니메이션 생성 분야에서 강점을 보이고 있습니다.</description><pubDate>Sun, 22 Feb 2026 02:48:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVC0Lrrjygg</guid></item><item><title>2/ 앤트로픽에서 "Claude Sonnet 4.6"을 발표했습니다.
-이 모델은 코드 작성, 장문 추론 등 전반적인 성능이 향상되었고, 100만...</title><link>https://www.threads.net/@choi.openai/post/DVC0MMpD_dw</link><description>2/ 앤트로픽에서 "Claude Sonnet 4.6"을 발표했습니다.
-이 모델은 코드 작성, 장문 추론 등 전반적인 성능이 향상되었고, 100만 토큰 컨텍스트 윈도우를 베타로 지원합니다.
-Excel에서는 외부 데이터 소스를 바로 연동할 수 있으며, API 기능도 강화되었습니다.
-무료 플랜에서도 Sonnet 4.6을 사용할 수 있습니다.</description><pubDate>Sun, 22 Feb 2026 02:48:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVC0MMpD_dw</guid></item><item><title>3/ 앤트로픽이 AI를 활용한 새로운 보안 도구, Claude Code Security를 발표했습니다.
-이 도구는 코드의 취약점을 찾아내고 수정...</title><link>https://www.threads.net/@choi.openai/post/DVC0Mp8j5-D</link><description>3/ 앤트로픽이 AI를 활용한 새로운 보안 도구, Claude Code Security를 발표했습니다.
-이 도구는 코드의 취약점을 찾아내고 수정 제안까지 제공하며, Claude Opus 4.6을 사용해 수많은 오픈소스 취약점을 발견했습니다.</description><pubDate>Sun, 22 Feb 2026 02:48:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVC0Mp8j5-D</guid></item><item><title>State of Generative Media 2026가 공개됐습니다.
-이미지·영상·음성·3D까지 1년 새 985개 모델이 쏟아졌고, 기업 88...</title><link>https://www.threads.net/@choi.openai/post/DVCn5KdD8Ou</link><description>State of Generative Media 2026가 공개됐습니다.
-이미지·영상·음성·3D까지 1년 새 985개 모델이 쏟아졌고, 기업 88%가 AI를 도입했습니다.
-Veo, Sora, Flux, ElevenLabs 실제 도입 사례와 ROI 결과까지 담겼습니다.
-지금 벌어지는 변화 핵심만 정리했습니다🧵</description><pubDate>Sun, 22 Feb 2026 01:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVCn5KdD8Ou</guid></item><item><title>1/ 과거에는 수천 명의 인력이 필요했던 미디어 제작(수백 장의 상업용 이미지 생성 등)을 이제 누구나 몇 분 만에 해낼 수 있게 되었습니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DVCn5iWDykD</link><description>1/ 과거에는 수천 명의 인력이 필요했던 미디어 제작(수백 장의 상업용 이미지 생성 등)을 이제 누구나 몇 분 만에 해낼 수 있게 되었습니다.
-이는 제프리 카젠버그(Jeffrey Katzenberg)가 말한 "인류 역사상 유례없는 수준의 스토리텔링 민주화"를 의미합니다.
-2025년 말 기준으로 기업의 88%가 최소 하나 이상의 비즈니스 기능에 AI를 도입했으며, fal 플랫폼에만 한 해 동안 약 1,000개의 새로운 생성형 모델(비디오 450개, 이미지 406개 등)이 통합될 정도로 기술 발전의 속도와 규모가 엄청났습니다.</description><pubDate>Sun, 22 Feb 2026 01:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVCn5iWDykD</guid></item><item><title>2/ 이미지 생성 분야는 실제 프로덕션 환경으로 완전히 진입했습니다.
-Flux.1 Dev는 프롬프트 준수와 텍스트 렌더링에서 새로운 기준을 세웠...</title><link>https://www.threads.net/@choi.openai/post/DVCn5mPD3Bg</link><description>2/ 이미지 생성 분야는 실제 프로덕션 환경으로 완전히 진입했습니다.
-Flux.1 Dev는 프롬프트 준수와 텍스트 렌더링에서 새로운 기준을 세웠고, Google DeepMind의 Nano Banana는 비전문가도 자연어로 전문가 수준의 결과물을 낼 수 있음을 증명했습니다.
-Qwen Image Edit와 같은 오픈소스 모델은 LoRA를 통한 미세 조정(Fine-tuning)을 대중화하여, 기업들이 막대한 비용 없이도 자사 브랜드에 맞는 이미지를 생성할 수 있게 했습니다.</description><pubDate>Sun, 22 Feb 2026 01:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVCn5mPD3Bg</guid></item><item><title>3/ 비디오 생성 분야에서는 10개월 동안 8번의 주요 출시가 있을 정도로 경쟁이 치열했습니다.
-
-특히 Google DeepMind의 Veo 3...</title><link>https://www.threads.net/@choi.openai/post/DVCn5KHj-33</link><description>3/ 비디오 생성 분야에서는 10개월 동안 8번의 주요 출시가 있을 정도로 경쟁이 치열했습니다.
-
-특히 Google DeepMind의 Veo 3.1는 중력이나 물의 움직임 같은 물리 법칙을 정확히 시뮬레이션하여 비디오 품질의 기준을 한 차원 높였습니다.
-
-Kling 3.0은 첫 프레임과 마지막 프레임을 지정하는 기능으로 서사적 제어력(Narrative control)을 높였고, Sora 2는 비디오와 네이티브 오디오를 동시에 생성하여 복잡한 편집 과정을 줄였습니다.
-
-이제 비디오 생성 모델은 시각적 튜링 테스트를 통과할 수준에 이르렀습니다.</description><pubDate>Sun, 22 Feb 2026 01:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVCn5KHj-33</guid></item></channel></rss>
+1/ reddit@phantomthiefkid_</description><pubDate>Sun, 22 Feb 2026 12:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVDn9kYjqLV</guid></item><item><title>2/ x@MiguelMaestroIA</title><link>https://www.threads.net/@choi.openai/post/DVDoA_bjlEg</link><description>2/ x@MiguelMaestroIA</description><pubDate>Sun, 22 Feb 2026 12:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVDoA_bjlEg</guid></item><item><title>3/ x@Botan_cr</title><link>https://www.threads.net/@choi.openai/post/DVDoDSvjuGv</link><description>3/ x@Botan_cr</description><pubDate>Sun, 22 Feb 2026 12:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVDoDSvjuGv</guid></item><item><title>4/ x@CoffeeVectors</title><link>https://www.threads.net/@choi.openai/post/DVDoN8dDmIF</link><description>4/ x@CoffeeVectors</description><pubDate>Sun, 22 Feb 2026 12:01:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVDoN8dDmIF</guid></item><item><title>정말 다양한 AI 프로덕트가 업로드 되고 있습니다.
+향후 공식 런칭때 미리 업로드된 제품에 대해서는 플랫폼내 무료 광고 노출 기회도 제공될 예정...</title><link>https://www.threads.net/@choi.openai/post/DVDnp7ykcpn</link><description>정말 다양한 AI 프로덕트가 업로드 되고 있습니다.
+향후 공식 런칭때 미리 업로드된 제품에 대해서는 플랫폼내 무료 광고 노출 기회도 제공될 예정이니 무조건 미리 업로드하는게 이득입니다!
+또한, 열심히 활동하는 에이전트의 주인님들께도..!</description><pubDate>Sun, 22 Feb 2026 10:19:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVDnp7ykcpn</guid></item><item><title>OpenHunt :
+https://www.openhunt.dev/</title><link>https://www.threads.net/@choi.openai/post/DVDn3UBj4nY</link><description>OpenHunt :
+https://www.openhunt.dev/</description><pubDate>Sun, 22 Feb 2026 10:20:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVDn3UBj4nY</guid></item></channel></rss>
