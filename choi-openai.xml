@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 23 Feb 2026 10:37:19 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 23 Feb 2026 18:15:50 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
 
 그래서 만들었습니다.
 
@@ -21,25 +21,24 @@ AI가 먼저 읽고, 진짜 좋은 제품이 묻히지 않도록. AI와 인간�
 미리 생태계에 참여하여 내 제품이 발견되도록 해보세요!
 OpenClaw를 사용중이신 분들은 가입후 토큰을 발급하여 OpenHunt 생태계에 참여해보세요!
 
-https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>"Agent Captcha"라는 에이전트 증명 캡차가등장했습니다.
-기존 캡차가 인간임을 증명하게 하는 방식이라면, 이건 정반대로 AI 에이전트임...</title><link>https://www.threads.net/@choi.openai/post/DVGIIuDCbE4</link><description>"Agent Captcha"라는 에이전트 증명 캡차가등장했습니다.
-기존 캡차가 인간임을 증명하게 하는 방식이라면, 이건 정반대로 AI 에이전트임을 증명해야 통과할 수 있는 캡차입니다.
-POST 요청만 보내는 자동화 봇을 막기 위해 만들어졌으며, 사람이 직접 풀 수 없도록 설계됐다고 합니다.
-명령어 npx agent-book으로 바로 실행해볼 수 있고, 관련 내용은 GitHub에도 공개되어 있습니다.
-저도 테스트를 진행하고 괜찮다면 OpenHunt에 적용해봐도 좋을 것 같네요.</description><pubDate>Mon, 23 Feb 2026 09:40:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVGIIuDCbE4</guid></item><item><title>깃허브 :
-https://github.com/Dhravya/agent-captcha</title><link>https://www.threads.net/@choi.openai/post/DVGIJmrCVo6</link><description>깃허브 :
-https://github.com/Dhravya/agent-captcha</description><pubDate>Mon, 23 Feb 2026 09:40:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVGIJmrCVo6</guid></item><item><title>오픈소스 AI 도구 OpenClaw 사용자가 Google의 Antigravity 플랫폼에서 차단당하면서 논란이 커지고 있습니다.
-OpenClaw...</title><link>https://www.threads.net/@choi.openai/post/DVGDlHRgvQi</link><description>오픈소스 AI 도구 OpenClaw 사용자가 Google의 Antigravity 플랫폼에서 차단당하면서 논란이 커지고 있습니다.
-OpenClaw는 이메일, 웹 탐색 등 개인 비서를 로컬에서 실행할 수 있는 도구로, OAuth를 통해 Google Gemini 토큰을 우회 사용하는 기능이 있었는데요.
-이로 인해 구글 서비스 품질이 저하되자, 구글은 이를 "악의적 사용"으로 판단하고 차단 조치를 내렸습니다.
+https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>오픈AI의 "gpt-realtime-1.5" API가 공개되었습니다.
+음성 명령에 대한 이해력, 도구 호출 능력, 다국어 처리 정확도가 향상된 ...</title><link>https://www.threads.net/@choi.openai/post/DVHC5s2iRd7</link><description>오픈AI의 "gpt-realtime-1.5" API가 공개되었습니다.
+음성 명령에 대한 이해력, 도구 호출 능력, 다국어 처리 정확도가 향상된 것이 특징인데요.
+내부 평가에서는 지시 이행 정확도 7%, 문자·숫자 전사 10.23%, 추론 기반 평가(Big Bench Audio) 5% 향상이 확인되었습니다.
+또한, 실제 음성 통화에서 사람과의 연결률이 66%로 기존 대비 약 20%포인트 상승했다는 실제 테스트 결과도 공유되었습니다.
+통화 도중 끊김도 줄었고, 식당처럼 실제 환경에서도 자연스러운 대화가 가능했다고 밝혔습니다.</description><pubDate>Mon, 23 Feb 2026 18:15:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVHC5s2iRd7</guid></item><item><title>앤트로픽(Anthropic) CEO 다리오 아모데이는 AI로 인한 급격한 일자리 변화에 대해 솔직하면서도 경고 섞인 전망을 내놓았습니다.
 
-문제는 OpenClaw 사용자가 명시적으로 규정을 어긴 것이 아니라, 제공된 기능을 활용한 것이라는 점입니다.
-일각에서는 구글의 조치를 "과도하다"고 비판하고 있습니다.
-현재 코드 작성처럼 실질적인 수익이 발생하는 영역에서 기업 간 경쟁이 치열해지면서, OAuth 연동을 통한 적자 구조가 점점 심각해지고 있는 것으로 보입니다.
-이런 상황에서 늘 'ClosedAI'라는 비판을 받던 오픈AI만이 유일하게 공식 지원에 나서며, 혼자만 '오픈'되어 가는 묘한 시기입니다.</description><pubDate>Mon, 23 Feb 2026 09:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVGDlHRgvQi</guid></item><item><title>Claude Code의 "Agents"와 "Hooks"등 실무에 바로 적용 가능한 템플릿을 한곳에 모모은 "claude-code-best-pra...</title><link>https://www.threads.net/@choi.openai/post/DVF9A-hDzA2</link><description>Claude Code의 "Agents"와 "Hooks"등 실무에 바로 적용 가능한 템플릿을 한곳에 모모은 "claude-code-best-practice"입니다.
+“기...</title><link>https://www.threads.net/@choi.openai/post/DVG9T3TD70d</link><description>앤트로픽(Anthropic) CEO 다리오 아모데이는 AI로 인한 급격한 일자리 변화에 대해 솔직하면서도 경고 섞인 전망을 내놓았습니다.
 
-에이전트, 명령어, 메모리, Hooks, Skills까지 모두 포함되어 있어, 복잡한 작업을 자동화하거나 명령어를 재사용하고, 세션 간 기억 기능까지 구현할 수 있습니다.
+“기술이 너무 빠르게 움직이고 있어 상당한 수준의 혼란이 발생할 가능성이 큽니다.”
 
-오픈소스로 제공되며, CLAUDE.md 설정과 훅만 제대로 써도 수많은 시행착오를 줄일 수 있습니다.</description><pubDate>Mon, 23 Feb 2026 08:03:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVF9A-hDzA2</guid></item><item><title>깃허브 :
-https://github.com/shanraisshan/claude-code-best-practice</title><link>https://www.threads.net/@choi.openai/post/DVF9BnLj2XQ</link><description>깃허브 :
-https://github.com/shanraisshan/claude-code-best-practice</description><pubDate>Mon, 23 Feb 2026 08:03:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVF9BnLj2XQ</guid></item></channel></rss>
+특히 그는 앤스로픽 내부조차도 모델이 코딩 업무를 종단간 자동화함에 따라 지금보다 적은 소프트웨어 엔지니어가 필요하게 될 시점을 예견했습니다.
+다만, 기술적 전문성을 바탕으로 고객 솔루션을 지원하는 '전진 배치 엔지니어(Forward Deployed Engineer)' 같은 새로운 역할이 대안이 될 수 있다고 언급했습니다.
+
+“새로 생겨나는 일자리가 사라지는 일자리보다 많을 것이라고 장담할 수 없습니다. 우리는 이를 현실로 만들기 위해 노력해야 합니다.”</description><pubDate>Mon, 23 Feb 2026 17:25:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVG9T3TD70d</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=NEsiCYoZs3E</title><link>https://www.threads.net/@choi.openai/post/DVG9TrDDwty</link><description>풀영상 :
+https://www.youtube.com/watch?v=NEsiCYoZs3E</description><pubDate>Mon, 23 Feb 2026 17:25:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVG9TrDDwty</guid></item><item><title>superpowers는 오픈소스로 공개된 AI 에이전트 개발 프레임워크로, GitHub에서 5만 6천 개 이상의 스타를 받으며 빠르게 주목받고 ...</title><link>https://www.threads.net/@choi.openai/post/DVGxXxZjjrY</link><description>superpowers는 오픈소스로 공개된 AI 에이전트 개발 프레임워크로, GitHub에서 5만 6천 개 이상의 스타를 받으며 빠르게 주목받고 있습니다.
+소프트웨어 개발 방식 전체를 담고 있으며, 기존 개발 스택과도 함께 쓸 수 있도록 설계됐습니다.
+에이전트가 구조화된 ‘스킬’을 가지고 자율적으로 작동하게 만들 수 있어, 복잡한 AI 시스템을 구현하려는 개발자들에게 실용적이라는 평가를 받고 있습니다.</description><pubDate>Mon, 23 Feb 2026 15:40:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVGxXxZjjrY</guid></item><item><title>깃허브 :
+https://github.com/obra/superpowers</title><link>https://www.threads.net/@choi.openai/post/DVGxYrCDsRN</link><description>깃허브 :
+https://github.com/obra/superpowers</description><pubDate>Mon, 23 Feb 2026 15:40:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVGxYrCDsRN</guid></item></channel></rss>
