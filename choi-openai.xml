@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 23 Feb 2026 05:21:45 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 23 Feb 2026 10:37:19 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
 
 그래서 만들었습니다.
 
@@ -21,32 +21,25 @@ AI가 먼저 읽고, 진짜 좋은 제품이 묻히지 않도록. AI와 인간�
 미리 생태계에 참여하여 내 제품이 발견되도록 해보세요!
 OpenClaw를 사용중이신 분들은 가입후 토큰을 발급하여 OpenHunt 생태계에 참여해보세요!
 
-https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>앤트로픽(Anthropic)의 보리스 처니(Boris Cherny)는 코딩의 미래에 대해 파격적인 전망을 내놓았습니다.
+https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>"Agent Captcha"라는 에이전트 증명 캡차가등장했습니다.
+기존 캡차가 인간임을 증명하게 하는 방식이라면, 이건 정반대로 AI 에이전트임...</title><link>https://www.threads.net/@choi.openai/post/DVGIIuDCbE4</link><description>"Agent Captcha"라는 에이전트 증명 캡차가등장했습니다.
+기존 캡차가 인간임을 증명하게 하는 방식이라면, 이건 정반대로 AI 에이전트임을 증명해야 통과할 수 있는 캡차입니다.
+POST 요청만 보내는 자동화 봇을 막기 위해 만들어졌으며, 사람이 직접 풀 수 없도록 설계됐다고 합니다.
+명령어 npx agent-book으로 바로 실행해볼 수 있고, 관련 내용은 GitHub에도 공개되어 있습니다.
+저도 테스트를 진행하고 괜찮다면 OpenHunt에 적용해봐도 좋을 것 같네요.</description><pubDate>Mon, 23 Feb 2026 09:40:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVGIIuDCbE4</guid></item><item><title>깃허브 :
+https://github.com/Dhravya/agent-captcha</title><link>https://www.threads.net/@choi.openai/post/DVGIJmrCVo6</link><description>깃허브 :
+https://github.com/Dhravya/agent-captcha</description><pubDate>Mon, 23 Feb 2026 09:40:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVGIJmrCVo6</guid></item><item><title>오픈소스 AI 도구 OpenClaw 사용자가 Google의 Antigravity 플랫폼에서 차단당하면서 논란이 커지고 있습니다.
+OpenClaw...</title><link>https://www.threads.net/@choi.openai/post/DVGDlHRgvQi</link><description>오픈소스 AI 도구 OpenClaw 사용자가 Google의 Antigravity 플랫폼에서 차단당하면서 논란이 커지고 있습니다.
+OpenClaw는 이메일, 웹 탐색 등 개인 비서를 로컬에서 실행할 수 있는 도구로, OAuth를 통해 Google Gemini 토큰을 우회 사용하는 기능이 있었는데요.
+이로 인해 구글 서비스 품질이 저하되자, 구글은 이를 "악의적 사용"으로 판단하고 차단 조치를 내렸습니다.
 
-그는 2025년 5월,...</title><link>https://www.threads.net/@choi.openai/post/DVFdN3lkYgn</link><description>앤트로픽(Anthropic)의 보리스 처니(Boris Cherny)는 코딩의 미래에 대해 파격적인 전망을 내놓았습니다.
+문제는 OpenClaw 사용자가 명시적으로 규정을 어긴 것이 아니라, 제공된 기능을 활용한 것이라는 점입니다.
+일각에서는 구글의 조치를 "과도하다"고 비판하고 있습니다.
+현재 코드 작성처럼 실질적인 수익이 발생하는 영역에서 기업 간 경쟁이 치열해지면서, OAuth 연동을 통한 적자 구조가 점점 심각해지고 있는 것으로 보입니다.
+이런 상황에서 늘 'ClosedAI'라는 비판을 받던 오픈AI만이 유일하게 공식 지원에 나서며, 혼자만 '오픈'되어 가는 묘한 시기입니다.</description><pubDate>Mon, 23 Feb 2026 09:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVGDlHRgvQi</guid></item><item><title>Claude Code의 "Agents"와 "Hooks"등 실무에 바로 적용 가능한 템플릿을 한곳에 모모은 "claude-code-best-pra...</title><link>https://www.threads.net/@choi.openai/post/DVF9A-hDzA2</link><description>Claude Code의 "Agents"와 "Hooks"등 실무에 바로 적용 가능한 템플릿을 한곳에 모모은 "claude-code-best-practice"입니다.
 
-그는 2025년 5월, 그해 연말이면 더 이상 IDE 없이도 코딩이 가능한 시대가 올 것이라고 예측했는데요.
-실제로 그는 11월에 이미 본인의 코딩 작업에서 IDE가 필요 없는 단계를 경험했으며, 이러한 변화가 점차 확산되고 있다고 설명했습니다.
+에이전트, 명령어, 메모리, Hooks, Skills까지 모두 포함되어 있어, 복잡한 작업을 자동화하거나 명령어를 재사용하고, 세션 간 기억 기능까지 구현할 수 있습니다.
 
-보리스 처니는 앤트로픽의 핵심 DNA가 '지수적 사고(Exponential Thinking)'에 있다고 강조합니다.
-
-“우리는 정말 지수적으로 생각합니다.”</description><pubDate>Mon, 23 Feb 2026 03:25:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVFdN3lkYgn</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=We7BZVKbCVw&amp;t=665s</title><link>https://www.threads.net/@choi.openai/post/DVFdRb5jwV9</link><description>풀영상 :
-https://www.youtube.com/watch?v=We7BZVKbCVw&amp;t=665s</description><pubDate>Mon, 23 Feb 2026 03:25:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVFdRb5jwV9</guid></item><item><title>AI가 대중화됐다고 느끼는 건 일부 얼리어답터들의 착각일 수 있습니다.
-전 세계 인구 81억 명 중 약 68억 명은 한 번도 인공지능을 사용해본...</title><link>https://www.threads.net/@choi.openai/post/DVFMnb3CiCO</link><description>AI가 대중화됐다고 느끼는 건 일부 얼리어답터들의 착각일 수 있습니다.
-전 세계 인구 81억 명 중 약 68억 명은 한 번도 인공지능을 사용해본 적이 없고, 유료로 사용하는 사람은 0.3%밖에 되지 않는다는 통계가 공유되었는데요.
-
-SNS나 뉴스에서 AI가 과열됐다는 말이 많지만, 실제로는 여전히 대부분의 사람들에게 AI는 낯선 기술입니다.
-
-무료 챗봇 사용자도 13억 명에 불과하고, 이들 대부분은 단순한 질문이나 이메일 작성에 그친다는 분석도 나왔습니다.
-
-하지만, AI를 잘 활용하는 사람이 그렇지 않은 사람들을 대체하듯이 이미 그 소수만으로도 이미 산업과 시장은 빠르게 재편되고 있습니다.
-
-기술이 무르익지 않은 게 아니라, 이미 소수가 나머지를 대체할 수 있는 시대가 시작됐다는 경고로 보입니다.</description><pubDate>Mon, 23 Feb 2026 01:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVFMnb3CiCO</guid></item><item><title>요즘 많은 분들이 '소프트웨어 개발 타이쿤’을 구축하고 있는 것 같습니다.
-Claude Code 에이전트를 픽셀 캐릭터로 보여주는 VS Code...</title><link>https://www.threads.net/@choi.openai/post/DVFCT1mjCDd</link><description>요즘 많은 분들이 '소프트웨어 개발 타이쿤’을 구축하고 있는 것 같습니다.
-Claude Code 에이전트를 픽셀 캐릭터로 보여주는 VS Code 확장 프로그램이 오픈소스로 공유되었는데요.
-각 에이전트가 지금 어떤 작업을 하고 있는지 애니메이션으로 시각화해주고, 가상 오피스 공간도 원하는 대로 꾸밀 수 있습니다.
-
-여러 에이전트를 동시에 돌릴 때 터미널 로그만으로는 흐름을 파악하기 어려운데, 이를 공간과 움직임으로 표현해 디버깅을 훨씬 직관적으로 만든다는 평가도 나오고 있습니다.</description><pubDate>Sun, 22 Feb 2026 23:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVFCT1mjCDd</guid></item><item><title>깃허브 :
-https://github.com/pablodelucca/pixel-agents</title><link>https://www.threads.net/@choi.openai/post/DVFCWqek_CE</link><description>깃허브 :
-https://github.com/pablodelucca/pixel-agents</description><pubDate>Sun, 22 Feb 2026 23:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVFCWqek_CE</guid></item></channel></rss>
+오픈소스로 제공되며, CLAUDE.md 설정과 훅만 제대로 써도 수많은 시행착오를 줄일 수 있습니다.</description><pubDate>Mon, 23 Feb 2026 08:03:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVF9A-hDzA2</guid></item><item><title>깃허브 :
+https://github.com/shanraisshan/claude-code-best-practice</title><link>https://www.threads.net/@choi.openai/post/DVF9BnLj2XQ</link><description>깃허브 :
+https://github.com/shanraisshan/claude-code-best-practice</description><pubDate>Mon, 23 Feb 2026 08:03:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVF9BnLj2XQ</guid></item></channel></rss>
