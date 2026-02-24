@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 23 Feb 2026 18:15:50 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Feb 2026 05:15:58 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
 
 그래서 만들었습니다.
 
@@ -21,24 +21,99 @@ AI가 먼저 읽고, 진짜 좋은 제품이 묻히지 않도록. AI와 인간�
 미리 생태계에 참여하여 내 제품이 발견되도록 해보세요!
 OpenClaw를 사용중이신 분들은 가입후 토큰을 발급하여 OpenHunt 생태계에 참여해보세요!
 
-https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>오픈AI의 "gpt-realtime-1.5" API가 공개되었습니다.
-음성 명령에 대한 이해력, 도구 호출 능력, 다국어 처리 정확도가 향상된 ...</title><link>https://www.threads.net/@choi.openai/post/DVHC5s2iRd7</link><description>오픈AI의 "gpt-realtime-1.5" API가 공개되었습니다.
-음성 명령에 대한 이해력, 도구 호출 능력, 다국어 처리 정확도가 향상된 것이 특징인데요.
-내부 평가에서는 지시 이행 정확도 7%, 문자·숫자 전사 10.23%, 추론 기반 평가(Big Bench Audio) 5% 향상이 확인되었습니다.
-또한, 실제 음성 통화에서 사람과의 연결률이 66%로 기존 대비 약 20%포인트 상승했다는 실제 테스트 결과도 공유되었습니다.
-통화 도중 끊김도 줄었고, 식당처럼 실제 환경에서도 자연스러운 대화가 가능했다고 밝혔습니다.</description><pubDate>Mon, 23 Feb 2026 18:15:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVHC5s2iRd7</guid></item><item><title>앤트로픽(Anthropic) CEO 다리오 아모데이는 AI로 인한 급격한 일자리 변화에 대해 솔직하면서도 경고 섞인 전망을 내놓았습니다.
+https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>사람들이 일상 속에서 AI를 얼마나 '잘' 사용하고 있을까요?
 
-“기...</title><link>https://www.threads.net/@choi.openai/post/DVG9T3TD70d</link><description>앤트로픽(Anthropic) CEO 다리오 아모데이는 AI로 인한 급격한 일자리 변화에 대해 솔직하면서도 경고 섞인 전망을 내놓았습니다.
+앤트로픽이 익명화된 약 1만 건의 Claude 대화 데이터를 분석하여, 사용자들...</title><link>https://www.threads.net/@choi.openai/post/DVIM6TKAhit</link><description>사람들이 일상 속에서 AI를 얼마나 '잘' 사용하고 있을까요?
 
-“기술이 너무 빠르게 움직이고 있어 상당한 수준의 혼란이 발생할 가능성이 큽니다.”
+앤트로픽이 익명화된 약 1만 건의 Claude 대화 데이터를 분석하여, 사용자들이 코딩이나 문서 작성 같은 결과물을 낼 때 어떤 패턴을 보이는지를 분석했습니다.
 
-특히 그는 앤스로픽 내부조차도 모델이 코딩 업무를 종단간 자동화함에 따라 지금보다 적은 소프트웨어 엔지니어가 필요하게 될 시점을 예견했습니다.
-다만, 기술적 전문성을 바탕으로 고객 솔루션을 지원하는 '전진 배치 엔지니어(Forward Deployed Engineer)' 같은 새로운 역할이 대안이 될 수 있다고 언급했습니다.
+그리고 AI 유창성을 높이기 위해 어떤 태도가 필요한지 6가지 핵심 인사이트로 정리했습니다. 🧵</description><pubDate>Tue, 24 Feb 2026 05:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIM6TKAhit</guid></item><item><title>1/ 단순히 AI를 많이 쓰는 것과 '잘' 쓰는 것은 다릅니다.
 
-“새로 생겨나는 일자리가 사라지는 일자리보다 많을 것이라고 장담할 수 없습니다. 우리는 이를 현실로 만들기 위해 노력해야 합니다.”</description><pubDate>Mon, 23 Feb 2026 17:25:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVG9T3TD70d</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=NEsiCYoZs3E</title><link>https://www.threads.net/@choi.openai/post/DVG9TrDDwty</link><description>풀영상 :
-https://www.youtube.com/watch?v=NEsiCYoZs3E</description><pubDate>Mon, 23 Feb 2026 17:25:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVG9TrDDwty</guid></item><item><title>superpowers는 오픈소스로 공개된 AI 에이전트 개발 프레임워크로, GitHub에서 5만 6천 개 이상의 스타를 받으며 빠르게 주목받고 ...</title><link>https://www.threads.net/@choi.openai/post/DVGxXxZjjrY</link><description>superpowers는 오픈소스로 공개된 AI 에이전트 개발 프레임워크로, GitHub에서 5만 6천 개 이상의 스타를 받으며 빠르게 주목받고 있습니다.
-소프트웨어 개발 방식 전체를 담고 있으며, 기존 개발 스택과도 함께 쓸 수 있도록 설계됐습니다.
-에이전트가 구조화된 ‘스킬’을 가지고 자율적으로 작동하게 만들 수 있어, 복잡한 AI 시스템을 구현하려는 개발자들에게 실용적이라는 평가를 받고 있습니다.</description><pubDate>Mon, 23 Feb 2026 15:40:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVGxXxZjjrY</guid></item><item><title>깃허브 :
-https://github.com/obra/superpowers</title><link>https://www.threads.net/@choi.openai/post/DVGxYrCDsRN</link><description>깃허브 :
-https://github.com/obra/superpowers</description><pubDate>Mon, 23 Feb 2026 15:40:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVGxYrCDsRN</guid></item></channel></rss>
+앤트로픽은 릭 다칸(Rick Dakan) 교수 및 조셉 펠러(Joseph Fe...</title><link>https://www.threads.net/@choi.openai/post/DVIM82ygq94</link><description>1/ 단순히 AI를 많이 쓰는 것과 '잘' 쓰는 것은 다릅니다.
+
+앤트로픽은 릭 다칸(Rick Dakan) 교수 및 조셉 펠러(Joseph Feller) 교수와 협력하여 인간과 AI의 안전하고 효과적인 협업을 정의하는 '4D AI 유창성 프레임워크(4D AI Fluency Framework)'를 개발했습니다.
+
+이 프레임워크는 위임, 설명, 분별, 성실성이라는 4가지 핵심 역량 아래 24개의 구체적인 행동 지표를 정의합니다.
+
+연구진은 이 중 채팅 인터페이스에서 직접 관찰 가능한 11가지 행동을 기준으로, 2026년 1월 일주일간 이루어진 9,830건의 멀티 턴 Claude 대화를 분석하여 최초의 'AI 유창성 지수'를 산출했습니다.</description><pubDate>Tue, 24 Feb 2026 05:01:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIM82ygq94</guid></item><item><title>2/ 데이터 분석 결과, 가장 일반적인 AI 유창성의 형태는 AI에게 업무를 전적으로 떠넘기는 것이 아니라, AI를 '사고의 파트너'로 대우하는...</title><link>https://www.threads.net/@choi.openai/post/DVINAevAvOe</link><description>2/ 데이터 분석 결과, 가장 일반적인 AI 유창성의 형태는 AI에게 업무를 전적으로 떠넘기는 것이 아니라, AI를 '사고의 파트너'로 대우하는 증강적 사용이었습니다.
+
+분석된 대화의 무려 85.7%에서 사용자가 첫 번째 답변을 그대로 수용하지 않고, 이전 대화를 바탕으로 작업을 지속적으로 수정하고 발전시키는 '반복과 개선(Iteration and refinement)' 과정이 관찰되었습니다.
+
+놀랍게도 이렇게 대화를 반복하는 사용자들은 단답형으로 끝내는 사용자들에 비해 다른 AI 유창성 행동을 평균적으로 2배 이상(1.33개 vs 2.67개) 더 많이 보여주었습니다.</description><pubDate>Tue, 24 Feb 2026 05:01:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVINAevAvOe</guid></item><item><title>3/ AI와 대화를 반복하며 결과물을 다듬는 과정은 사용자의 비판적 사고력을 크게 끌어올리는 것으로 나타났습니다.
+
+'반복과 개선'을 수행하는 ...</title><link>https://www.threads.net/@choi.openai/post/DVINDsCAuB2</link><description>3/ AI와 대화를 반복하며 결과물을 다듬는 과정은 사용자의 비판적 사고력을 크게 끌어올리는 것으로 나타났습니다.
+
+'반복과 개선'을 수행하는 대화에서는 그렇지 않은 대화에 비해, 사용자가 Claude의 추론 과정에 의문을 제기하는 비율이 5.6배 더 높았습니다.
+
+또한 AI가 놓치고 있는 누락된 문맥이나 정보를 짚어내는 비율도 4배나 높았습니다.
+이는 AI와 상호작용이 깊어질수록 사용자가 AI의 결과물을 맹신하지 않고 적극적인 감독자이자 협력자로서 기능하게 됨을 의미합니다.</description><pubDate>Tue, 24 Feb 2026 05:02:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVINDsCAuB2</guid></item><item><title>DeepSeek이 곧 V4 모델을 출시할 예정이며, 시장에서는 성능 도약 가능성에 주목하고 있습니다.
+
+이런 가운데 미국 정부 관계자는 Deep...</title><link>https://www.threads.net/@choi.openai/post/DVIE-TajyBa</link><description>DeepSeek이 곧 V4 모델을 출시할 예정이며, 시장에서는 성능 도약 가능성에 주목하고 있습니다.
+
+이런 가운데 미국 정부 관계자는 DeepSeek이 수출이 금지된 NVIDIA의 Blackwell 칩으로 차세대 모델을 학습시켰다고 밝혔습니다.
+
+해당 칩은 내몽골 데이터 센터에서 운용된 것으로 전해졌습니다. 또 오픈AI, 구글, 앤트로픽 모델을 'distillation' 방식으로 활용했다는 지적이 나오고 있는데요.
+
+이번 DeepSeek V4는 과연 시장에 어떤 파장을 일으킬지 주목이 되는 부분입니다.</description><pubDate>Tue, 24 Feb 2026 03:51:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIE-TajyBa</guid></item><item><title>로이터 :
+https://www.reuters.com/world/china/chinas-deepseek-trained-ai-model-nvidi...</title><link>https://www.threads.net/@choi.openai/post/DVIE-0Fj6c0</link><description>로이터 :
+https://www.reuters.com/world/china/chinas-deepseek-trained-ai-model-nvidias-best-chip-despite-us-ban-official-says-2026-02-24/
+CNBC :
+https://www.cnbc.com/2026/02/23/deepseek-to-release-new-ai-model-a-rough-period-for-nasdaq-stocks-could-follow.html</description><pubDate>Tue, 24 Feb 2026 03:51:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIE-0Fj6c0</guid></item><item><title>Claude로 인해 제 스타트업이 무너졌습니다.
+
+“Claude 하나에 매출이 무너졌다”는 창업자의 고백입니다.
+광고 자동화 AI 에이전트로 2...</title><link>https://www.threads.net/@choi.openai/post/DVH6weRj3kt</link><description>Claude로 인해 제 스타트업이 무너졌습니다.
+
+“Claude 하나에 매출이 무너졌다”는 창업자의 고백입니다.
+광고 자동화 AI 에이전트로 2개월 만에 수백 유료 고객을 모았지만,
+Claude·Manus의 Meta Ads 커넥터 출시 후 전환율이 70-20%로 급락했다고 말합니다.
+
+업데이트 한 번으로 주가가 휘청이고 수 천군데의 스타트업이 무너지고 있습니다 🧵</description><pubDate>Tue, 24 Feb 2026 02:22:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVH6weRj3kt</guid></item><item><title>“아침에 일어났더니 Claude가 우리 스타트업을 죽였습니다.”
+
+Ryze의 Ira Bodnar는 그렇게 말을 꺼냈습니다.
+
+"투자 유치가 깨진...</title><link>https://www.threads.net/@choi.openai/post/DVH6xGwDyQS</link><description>“아침에 일어났더니 Claude가 우리 스타트업을 죽였습니다.”
+
+Ryze의 Ira Bodnar는 그렇게 말을 꺼냈습니다.
+
+"투자 유치가 깨진 것도 아니고, 핵심 인력이 나간 것도 아니었습니다. 단 한 번의 업데이트. 그게 전부였습니다."
+
+두 달 전만 해도 분위기는 완전히 달랐다고 합니다.
+그들의 제품은 광고 자동화 AI 에이전트였습니다.
+구글과 메타 광고 계정에 연결만 하면, AI가 예산을 조정하고 성과를 분석하고, 타겟을 최적화하고, 캠페인을 관리해주는 서비스였는데요.
+
+작은 사업자들은 열광했고, 입소문이 났습니다.
+
+불과 2개월 만에 수백 명의 유료 고객을 확보했습니다. 전환율은 70%에 달했습니다. 데모를 하면 대부분 계약으로 이어졌습니다.</description><pubDate>Tue, 24 Feb 2026 02:22:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVH6xGwDyQS</guid></item><item><title>그런데 어느 날, Claude와 Manus가 Meta Ads 커넥터를 출시했습니다.
+
+처음에는 대수롭지 않아 보였다고 합니다.
+Claude는 아...</title><link>https://www.threads.net/@choi.openai/post/DVH6xiODz7P</link><description>그런데 어느 날, Claude와 Manus가 Meta Ads 커넥터를 출시했습니다.
+
+처음에는 대수롭지 않아 보였다고 합니다.
+Claude는 아직 광고 계정에 직접 변경을 가할 수도 없었고, 구글 광고에도 접근하지 못했습니다. 기능적으로는 여전히 부족했습니다.
+
+하지만 문제는 ‘지금’이 아니라 ‘곧’이었습니다.
+
+지금은 분석만 하지만, 몇 달 뒤엔 수정도 할 수 있겠죠.
+지금은 Meta만 되지만, 곧 Google도 붙겠죠.
+
+그 순간 깨달았다고 합니다.
+우리가 만들고 있는 제품 카테고리 자체가 거대한 AI의 기능 하나로 흡수될 수 있겠구나.</description><pubDate>Tue, 24 Feb 2026 02:22:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVH6xiODz7P</guid></item><item><title>그 이후 전환율은 70%에서 20%로 떨어졌습니다.
+제품은 그대로였고, 팀도 그대로였고, 고객 문제도 그대로였습니다.
+달라진 건 세상뿐이었습니다...</title><link>https://www.threads.net/@choi.openai/post/DVH6x38D75d</link><description>그 이후 전환율은 70%에서 20%로 떨어졌습니다.
+제품은 그대로였고, 팀도 그대로였고, 고객 문제도 그대로였습니다.
+달라진 건 세상뿐이었습니다.
+
+이 이야기가 충격적인 이유는 단순히 한 스타트업의 위기 때문이 아닙니다.
+우리는 지금 ‘플랫폼 리스크’의 새로운 버전을 보고 있기 때문입니다.
+
+예전에는 플랫폼 리스크가 API 정책 변경이나 수수료 인상 같은 형태로 나타났습니다.
+이제는 다릅니다.
+플랫폼이 곧 지능이 되고, 지능이 당신의 제품을 기능으로 흡수해버립니다.
+
+AI가 기본값이 되는 순간, 수많은 툴은 선택지가 아니라 옵션이 됩니다.
+사용자는 더 이상 “어떤 광고 자동화 툴을 쓸까?”를 고민하지 않습니다.
+그냥 이렇게 말하겠죠.
+
+“Claude, 실수 없이 100만 달러짜리 광고 캠페인 실행해줘.”
+
+그리고 끝입니다.</description><pubDate>Tue, 24 Feb 2026 02:22:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVH6x38D75d</guid></item></channel></rss>
