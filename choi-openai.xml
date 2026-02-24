@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Feb 2026 10:34:50 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Feb 2026 18:11:42 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
 
 그래서 만들었습니다.
 
@@ -21,72 +21,17 @@ AI가 먼저 읽고, 진짜 좋은 제품이 묻히지 않도록. AI와 인간�
 미리 생태계에 참여하여 내 제품이 발견되도록 해보세요!
 OpenClaw를 사용중이신 분들은 가입후 토큰을 발급하여 OpenHunt 생태계에 참여해보세요!
 
-https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>“당신은 OpenClaw를 완전히 잘못 쓰고 있습니다.”
+https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>🚨 속보) 알리바바의 Qwen이 Qwen 3.5 Medium 시리즈를 공개했습니다.
+Qwen3.5-Flash, 35B-A3B, 122B-A10B...</title><link>https://www.threads.net/@choi.openai/post/DVJedE9D1bR</link><description>🚨 속보) 알리바바의 Qwen이 Qwen 3.5 Medium 시리즈를 공개했습니다.
+Qwen3.5-Flash, 35B-A3B, 122B-A10B, 27B로 구성됩니다.
 
-Creator Buddy 창업자 Alex Finn가 말합니다.
-사람들이 OpenCla...</title><link>https://www.threads.net/@choi.openai/post/DVIruw-gQaX</link><description>“당신은 OpenClaw를 완전히 잘못 쓰고 있습니다.”
+Qwen3.5-35B-A3B는 기존 Qwen3-235B-A22B-2507과 Qwen3-VL-235B-A22B보다 높은 성능을 보였다고 밝혔습니다.
+파라미터 수를 늘리기보다 아키텍처, 데이터 품질, RL(강화학습) 개선이 성능 향상에 영향을 줬다는 설명입니다.
 
-Creator Buddy 창업자 Alex Finn가 말합니다.
-사람들이 OpenClaw를 마치 ‘조금 더 똑똑한 챗봇’처럼 쓰고 있다는 겁니다.
-질문하고 답 받는 도구. 그 정도 수준으로만.
+Qwen3.5-Flash는 35B-A3B 기반의 상용 버전으로 기본 100만 토큰 문맥 길이와 내장 도구를 지원합니다. 해당 모델들은 허깅페이스에서 이용이 가능합니다.</description><pubDate>Tue, 24 Feb 2026 16:53:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVJedE9D1bR</guid></item><item><title>허깅페이스 :
+https://huggingface.co/collections/Qwen/qwen35</title><link>https://www.threads.net/@choi.openai/post/DVJedyvDzhW</link><description>허깅페이스 :
+https://huggingface.co/collections/Qwen/qwen35</description><pubDate>Tue, 24 Feb 2026 16:53:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVJedyvDzhW</guid></item><item><title>🚨 Notion이 Custom Agents 기능을 공개했습니다.
+사용자가 질문할 때만 답하는 방식이 아니라, 미리 정한 조건이나 일정에 따라 스...</title><link>https://www.threads.net/@choi.openai/post/DVJeNEzjO-P</link><description>🚨 Notion이 Custom Agents 기능을 공개했습니다.
+사용자가 질문할 때만 답하는 방식이 아니라, 미리 정한 조건이나 일정에 따라 스스로 작업을 수행하는 에이전트입니다.
 
-그의 말에 따르면, 그건 전체 가치의 1%만 쓰는 셈이라고 말합니다.
-
-OpenClaw는 채팅창이 아니라 ‘운영자’처럼 다뤄야 한다는 겁니다. 🧵</description><pubDate>Tue, 24 Feb 2026 09:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIruw-gQaX</guid></item><item><title>Alex Finn은 하나의 모델에 모든 걸 맡기지 않습니다.
-Opus를 두뇌로 두되, 코딩은 Codex에게, 리서치는 Minimax에게, 글쓰기...</title><link>https://www.threads.net/@choi.openai/post/DVIrvuUAfom</link><description>Alex Finn은 하나의 모델에 모든 걸 맡기지 않습니다.
-Opus를 두뇌로 두되, 코딩은 Codex에게, 리서치는 Minimax에게, 글쓰기는 Qwen에게 넘깁니다. 여러 모델을 병렬로 연결해 마치 팀처럼 움직이게 합니다. 비용은 줄이고 속도는 올립니다.
-하나의 똑똑한 직원이 아니라, 여러 전문 인력을 동시에 굴리는 셈입니다.
-
-그리고 서버에 올려두지 않습니다. 로컬에 둡니다.
-“사무실에 함께 앉아 있는 직원과, 지구 반대편에서 일하는 직원의 차이.”
-
-핸드폰에서 영상을 에어드롭하면 자동으로 감지하고, 자막을 뽑고, 10개 언어로 번역하고, 챕터를 나누고, 썸네일까지 만들어내는 워크플로를 구축했다고 합니다.
-그냥 채팅으로 부탁하는 게 아닙니다. 파일 시스템, 자동화, 모델 호출이 엮여 있습니다.
-
-그는 OpenClaw에게 일을 ‘시키지’ 않습니다.
-오히려 묻습니다.
-
-“지금 내 상황에서 우리가 해야 할 다음 최선의 작업은 뭘까?”</description><pubDate>Tue, 24 Feb 2026 09:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIrvuUAfom</guid></item><item><title>이걸 그는 리버스 프롬프팅이라고 부릅니다.
-명령 대신 질문. 지시 대신 전략 회의. 에이전트가 놀고 있다면, 그 질문을 던지라고 합니다. 그러면...</title><link>https://www.threads.net/@choi.openai/post/DVIrw4iAdTZ</link><description>이걸 그는 리버스 프롬프팅이라고 부릅니다.
-명령 대신 질문. 지시 대신 전략 회의. 에이전트가 놀고 있다면, 그 질문을 던지라고 합니다. 그러면 생산성이 완전히 달라진다고.
-
-코딩도 직접 하지 않는다고 합니다.
-“무엇을 만들지”만 말하고, 실제 구현은 에이전트가 Codex CLI를 호출해 처리하게 둡니다.
-그는 이 방식을 ‘바이브 코딩’이라고 부릅니다. 코드 대신 의도와 방향을 전달하는 방식.
-
-심지어 자신만의 ‘미션 컨트롤’도 만들었다고 합니다.
-NextJS로 커스텀 툴 허브를 만들고, 거기서 워크플로를 관리합니다.
-기본 UI 안에서만 쓰는 게 아니라, 자기만의 운영 체계를 구축합니다.
-
-그는 OpenClaw를 기능으로 보지 않습니다.
-운영 체제로 봅니다.</description><pubDate>Tue, 24 Feb 2026 09:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIrw4iAdTZ</guid></item><item><title>컴퓨터에서 하는 모든 일을 한 번 OpenClaw에 먼저 통과시켜 본다고 합니다.
-문서 작성이든, 빌드 작업이든, 반복 업무든. “이걸 더 빠르...</title><link>https://www.threads.net/@choi.openai/post/DVIryBJAZAp</link><description>컴퓨터에서 하는 모든 일을 한 번 OpenClaw에 먼저 통과시켜 본다고 합니다.
-문서 작성이든, 빌드 작업이든, 반복 업무든. “이걸 더 빠르게 할 수 있는 방법이 있을까?”라고 먼저 묻는 습관을 들였습니다.
-
-또 하나 인상적인 점은, 무턱대고 거창하게 시작하지 않는다는 겁니다.
-비싼 장비부터 사지 말고, 집에 굴러다니는 오래된 노트북으로 시작하라고 합니다.
-워크플로가 정교해지고 진짜 필요해질 때 하드웨어를 확장하라는 식입니다.
-
-반면, 경계하는 부분도 분명합니다.
-이메일 접근은 위험하다고 말합니다.
-프롬프트 인젝션 벡터가 커진다고. X 계정도 굳이 연결하지 말라고 합니다.
-플랫폼 리스크는 언제든 바뀌기 때문입니다. 기술에 열광하지만, 동시에 현실적인 리스크 감각도 유지합니다.</description><pubDate>Tue, 24 Feb 2026 09:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIryBJAZAp</guid></item><item><title>오픈AI가 Responses API에 WebSockets 기능을 추가했다고 밝혔습니다.
-
-해당 기능은 지연 시간을 줄이고, 여러 도구 호출이 많...</title><link>https://www.threads.net/@choi.openai/post/DVIhhBNDwRF</link><description>오픈AI가 Responses API에 WebSockets 기능을 추가했다고 밝혔습니다.
-
-해당 기능은 지연 시간을 줄이고, 여러 도구 호출이 많은 장시간 에이전트 실행에 맞춰 설계되었습니다.
-매 요청마다 전체 문맥을 다시 보내는 대신, 연결을 유지한 채 새 입력만 전송합니다.
-
-메모리 상태를 계속 유지해 20회 이상 도구를 호출하는 작업에서는 속도가 20~40% 빨라질 수 있다고 합니다.</description><pubDate>Tue, 24 Feb 2026 08:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIhhBNDwRF</guid></item><item><title>가이드 :
-https://developers.openai.com/api/docs/guides/websocket-mode</title><link>https://www.threads.net/@choi.openai/post/DVIhh51D9yS</link><description>가이드 :
-https://developers.openai.com/api/docs/guides/websocket-mode</description><pubDate>Tue, 24 Feb 2026 08:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIhh51D9yS</guid></item><item><title>AI의 발전속도는 상상 그 이상입니다.
-
-Agentica가 공개 한 달만에 공개된 모든 ARC-AGI-3 퍼즐을 100% 해결하며 인공지능 추론...</title><link>https://www.threads.net/@choi.openai/post/DVIUtJMDepk</link><description>AI의 발전속도는 상상 그 이상입니다.
-
-Agentica가 공개 한 달만에 공개된 모든 ARC-AGI-3 퍼즐을 100% 해결하며 인공지능 추론 능력의 새로운 정점을 찍었습니다.
-
-ARC-AGI-3 개발자 François Chollet은 각 게임을 한 번만 보고 풀었는지, 그리고 인간과 비슷한 수준의 행동 횟수로 해결했는지에 대해 질문을 남겼지만, Agentica 측은 각 게임을 한 번만 본 것은 맞다고 답했습니다.
-
-다만 일부 레벨에서는 수천 번의 행동을 시도해 인간 기준(예: 80~90회)보다 훨씬 많은 탐색이 있었다고 공개했습니다.
-
-다만 과적합 논란과 비공개 테스트 통과 여부가 남아 있어 의구심을 줄이기 위해 행동 횟수, 레벨별 점수, 로그를 함께 공개하는 방식으로 검증하겠다는 입장입니다.</description><pubDate>Tue, 24 Feb 2026 06:17:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVIUtJMDepk</guid></item></channel></rss>
+예를 들어 버그를 담당 팀에 자동 배정하거나, 문서를 업데이트하고 질문에 답변하며, 주간 보고서를 작성해 관련 인원에게 공유할 수 있습니다.</description><pubDate>Tue, 24 Feb 2026 16:51:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVJeNEzjO-P</guid></item><item><title>앤트로픽으로 인해 폭락할 다음 종목들..</title><link>https://www.threads.net/@choi.openai/post/DVJZgkCj1tp</link><description>앤트로픽으로 인해 폭락할 다음 종목들..</description><pubDate>Tue, 24 Feb 2026 16:10:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVJZgkCj1tp</guid></item></channel></rss>
