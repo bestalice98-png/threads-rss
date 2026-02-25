@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Feb 2026 18:11:42 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 25 Feb 2026 05:21:57 +0000</lastBuildDate><item><title>바이브 코딩 아무리 하면 뭐하나 아무도 안쓰는데 ㅋㅋㅋ
 
 그래서 만들었습니다.
 
@@ -21,17 +21,29 @@ AI가 먼저 읽고, 진짜 좋은 제품이 묻히지 않도록. AI와 인간�
 미리 생태계에 참여하여 내 제품이 발견되도록 해보세요!
 OpenClaw를 사용중이신 분들은 가입후 토큰을 발급하여 OpenHunt 생태계에 참여해보세요!
 
-https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>🚨 속보) 알리바바의 Qwen이 Qwen 3.5 Medium 시리즈를 공개했습니다.
-Qwen3.5-Flash, 35B-A3B, 122B-A10B...</title><link>https://www.threads.net/@choi.openai/post/DVJedE9D1bR</link><description>🚨 속보) 알리바바의 Qwen이 Qwen 3.5 Medium 시리즈를 공개했습니다.
-Qwen3.5-Flash, 35B-A3B, 122B-A10B, 27B로 구성됩니다.
+https://www.openhunt.dev/</description><pubDate>Sat, 21 Feb 2026 11:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVBHtfvCKCu</guid></item><item><title>Pencil이 여러 AI 에이전트가 동시에 협업하는 SWARM mode를 공개하며 디자인 자동화의 새로운 기준을 제시했습니다.
 
-Qwen3.5-35B-A3B는 기존 Qwen3-235B-A22B-2507과 Qwen3-VL-235B-A22B보다 높은 성능을 보였다고 밝혔습니다.
-파라미터 수를 늘리기보다 아키텍처, 데이터 품질, RL(강화학습) 개선이 성능 향상에 영향을 줬다는 설명입니다.
+인간은 한 번에...</title><link>https://www.threads.net/@choi.openai/post/DVKuOYcE7EV</link><description>Pencil이 여러 AI 에이전트가 동시에 협업하는 SWARM mode를 공개하며 디자인 자동화의 새로운 기준을 제시했습니다.
 
-Qwen3.5-Flash는 35B-A3B 기반의 상용 버전으로 기본 100만 토큰 문맥 길이와 내장 도구를 지원합니다. 해당 모델들은 허깅페이스에서 이용이 가능합니다.</description><pubDate>Tue, 24 Feb 2026 16:53:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVJedE9D1bR</guid></item><item><title>허깅페이스 :
-https://huggingface.co/collections/Qwen/qwen35</title><link>https://www.threads.net/@choi.openai/post/DVJedyvDzhW</link><description>허깅페이스 :
-https://huggingface.co/collections/Qwen/qwen35</description><pubDate>Tue, 24 Feb 2026 16:53:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVJedyvDzhW</guid></item><item><title>🚨 Notion이 Custom Agents 기능을 공개했습니다.
-사용자가 질문할 때만 답하는 방식이 아니라, 미리 정한 조건이나 일정에 따라 스...</title><link>https://www.threads.net/@choi.openai/post/DVJeNEzjO-P</link><description>🚨 Notion이 Custom Agents 기능을 공개했습니다.
-사용자가 질문할 때만 답하는 방식이 아니라, 미리 정한 조건이나 일정에 따라 스스로 작업을 수행하는 에이전트입니다.
+인간은 한 번에 한 가지 일을 하지만, 해당 서비스는 다수의 AI 디자이너가 병렬로 움직여 작업 대기 시간을 완전히 없앴습니다.
 
-예를 들어 버그를 담당 팀에 자동 배정하거나, 문서를 업데이트하고 질문에 답변하며, 주간 보고서를 작성해 관련 인원에게 공유할 수 있습니다.</description><pubDate>Tue, 24 Feb 2026 16:51:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVJeNEzjO-P</guid></item><item><title>앤트로픽으로 인해 폭락할 다음 종목들..</title><link>https://www.threads.net/@choi.openai/post/DVJZgkCj1tp</link><description>앤트로픽으로 인해 폭락할 다음 종목들..</description><pubDate>Tue, 24 Feb 2026 16:10:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVJZgkCj1tp</guid></item></channel></rss>
+또한, 최근에는 캔버스에서 Codex 지원, Windows 앱, 멀티 윈도우, 커스텀 폰트, PDF 내보내기 기능도 추가했습니다.
+
+다만 에이전트가 많아질수록 디자인 일관성을 어떻게 유지할지는 비판적으로 살펴볼 필요가 있을 것 같습니다.</description><pubDate>Wed, 25 Feb 2026 04:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVKuOYcE7EV</guid></item><item><title>미 국방부, 앤트로픽에게 최후통첩
+
+Axios 보도에 따르면, 미 국방장관 Pete Hegseth가 앤트로픽 CEO 다리오 아모데이에게 이번 주...</title><link>https://www.threads.net/@choi.openai/post/DVKj90QD8o2</link><description>미 국방부, 앤트로픽에게 최후통첩
+
+Axios 보도에 따르면, 미 국방장관 Pete Hegseth가 앤트로픽 CEO 다리오 아모데이에게 이번 주 금요일까지 군에 Claude를 제한 없이 제공하라고 요구한 것으로 전해졌습니다.
+
+받아들이지 않을 경우 국방물자생산법(Defense Production Act)을 발동하거나, 앤트로픽을 ‘공급망 위험’으로 지정하는 방안도 검토 중이라고 합니다.
+
+앤트로픽은 대량 감시나 인간 개입 없는 무기 개발에는 허용할 수 없다는 입장입니다.
+현재 Claude는 군의 일부 기밀 시스템에 사용 중인 것으로 알려졌습니다. AI 안전 기준과 군 활용 범위를 둘러싼 갈등이 본격화되는 분위기입니다.</description><pubDate>Wed, 25 Feb 2026 03:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVKj90QD8o2</guid></item><item><title>기사 :
+https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario</title><link>https://www.threads.net/@choi.openai/post/DVKj-z8jxG7</link><description>기사 :
+https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario</description><pubDate>Wed, 25 Feb 2026 03:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVKj-z8jxG7</guid></item><item><title>Comet이 음성 모드를 업데이트했습니다.
+화면에 보이는 내용을 음성으로 바로 질문할 수 있고, 여러 탭을 오가며 대화해도 문맥을 유지한다고 밝...</title><link>https://www.threads.net/@choi.openai/post/DVKZniMDJOT</link><description>Comet이 음성 모드를 업데이트했습니다.
+화면에 보이는 내용을 음성으로 바로 질문할 수 있고, 여러 탭을 오가며 대화해도 문맥을 유지한다고 밝혔습니다. 오늘부터 전체 사용자에게 순차 적용됩니다.
+
+이번 음성 모드는 오픈AI의 “gpt-realtime-1.5”를 기반으로 합니다. 도구 호출 안정성을 25% 이상 개선했고, 음성 표현력도 함께 높였다고 설명했습니다.
+
+브라우저 사용 중 검색, 사이트 이동, 화면 기반 질의응답을 음성으로 처리하는 흐름이 한층 자연스러워질 것으로 보입니다.</description><pubDate>Wed, 25 Feb 2026 01:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVKZniMDJOT</guid></item></channel></rss>
