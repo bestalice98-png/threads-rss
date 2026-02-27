@@ -1,33 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 26 Feb 2026 18:05:12 +0000</lastBuildDate><item><title>오픈AI가 Codex와 Figma를 연결하는 Figma MCP server를 공개했습니다.
-이제 코드로 만든 화면을 Figma로 가져오고, Fi...</title><link>https://www.threads.net/@choi.openai/post/DVOvucRAv4b</link><description>오픈AI가 Codex와 Figma를 연결하는 Figma MCP server를 공개했습니다.
-이제 코드로 만든 화면을 Figma로 가져오고, Figma에서 수정한 내용을 다시 코드로 반영할 수 있습니다.
-Figma의 특정 프레임 링크를 Codex에 넣으면 디자인 정보를 읽어 코드로 구현해주고, 실행 중인 화면을 캡처해 Figma 파일로 변환하는 것도 가능합니다.
-예를 들어 Figma 시안을 선택해 링크를 전달하면 기존 디자인 시스템을 활용해 화면을 구현하는 식입니다.</description><pubDate>Thu, 26 Feb 2026 18:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVOvucRAv4b</guid></item><item><title>발표내용 :
-https://developers.openai.com/blog/building-frontend-uis-with-codex-and-f...</title><link>https://www.threads.net/@choi.openai/post/DVOvxHgAg-X</link><description>발표내용 :
-https://developers.openai.com/blog/building-frontend-uis-with-codex-and-figma</description><pubDate>Thu, 26 Feb 2026 18:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVOvxHgAg-X</guid></item><item><title>🚨 속보) 와.. 구글이 또 미친거 내놨습니다..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 27 Feb 2026 05:06:55 +0000</lastBuildDate><item><title>앤트로픽, 미국 전쟁부 요구사항 받아들일 수 없다.
 
-가격은 1k 이미지당 $0.0672로 약 90원대, 2k는 $0.101로 약 130원대, 4...</title><link>https://www.threads.net/@choi.openai/post/DVOiOL5D1PN</link><description>🚨 속보) 와.. 구글이 또 미친거 내놨습니다..
+앤트로픽의 CEO 다리오 아모데이가 미국 전쟁부와의 논의에 대한 입장을 밝혔습니다. 
+Cl...</title><link>https://www.threads.net/@choi.openai/post/DVP31kgjGrL</link><description>앤트로픽, 미국 전쟁부 요구사항 받아들일 수 없다.
 
-가격은 1k 이미지당 $0.0672로 약 90원대, 2k는 $0.101로 약 130원대, 4k는 $0.151로 약 200원으로 기존 나노 바나나 프로의 절반에 가까운 가격입니다.
+앤트로픽의 CEO 다리오 아모데이가 미국 전쟁부와의 논의에 대한 입장을 밝혔습니다. 
+Claude는 정보 분석, 작전 계획 등 국가 안보 분야에 활용되고 있지만, 두 가지는 계약에 포함하지 않겠다고 했습니다.
 
-사전 테스터로 여러 이미지를 테스트 해본결과 인물의 다양성과 폰트같은 디자인은 프로가 좀 더 나은 경향을 보였지만, 전반적으로 Pro 수준과 비슷하거나 더 뛰어나다고 느꼈습니다.
+하나는 대규모 국내 감시, 다른 하나는 완전 자율 무기입니다.
+특히 인간 개입 없이 표적을 선정·공격하는 무기는 현재 AI 신뢰도가 충분하지 않다고 설명했습니다.
+전쟁부가 “모든 합법적 사용” 수용과 안전장치 해제를 요구했지만, 해당 조건은 받아들일 수 없다고 밝혔습니다.</description><pubDate>Fri, 27 Feb 2026 04:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVP31kgjGrL</guid></item><item><title>발표내용 :
+https://www.anthropic.com/news/statement-department-of-war</title><link>https://www.threads.net/@choi.openai/post/DVP32VvDNDJ</link><description>발표내용 :
+https://www.anthropic.com/news/statement-department-of-war</description><pubDate>Fri, 27 Feb 2026 04:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVP32VvDNDJ</guid></item><item><title>Microsoft에서 ‘Copilot Tasks’를 공개했습니다.
+말로 지시하면 AI가 대신 실행하는 방식입니다.
+예를 들어 강의계획서를 학습 ...</title><link>https://www.threads.net/@choi.openai/post/DVPte1djrdX</link><description>Microsoft에서 ‘Copilot Tasks’를 공개했습니다.
+말로 지시하면 AI가 대신 실행하는 방식입니다.
+예를 들어 강의계획서를 학습 계획으로 정리하고 시험 전 일정까지 배치하거나, 매주 금요일 전세 매물을 확인해 방문 예약을 잡는 식입니다.
 
-정말 나노 바나나 2 프로의 성능이 정말 기대된다고 말씀드리고 싶고, 구글이 가진 NotebookLM, Stitch 등으로 확장될 것을 생각하니 더욱 기대가 되는 것 같습니다.
+저녁마다 중요한 이메일을 정리해 답장 초안을 만들고, 읽지 않는 홍보 메일은 자동 구독 해지도 가능합니다. 현재 Research Preview로 일부 사용자에게 공개됐으며 대기 신청을 받고 있습니다.</description><pubDate>Fri, 27 Feb 2026 03:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVPte1djrdX</guid></item><item><title>Claude에 자동 메모리 기능이 추가됐습니다.
+이제 세션이 바뀌어도 프로젝트 맥락, 자주 쓰는 디버깅 방식, 선호하는 작업 스타일을 기억했다가...</title><link>https://www.threads.net/@choi.openai/post/DVPjMTEEoDp</link><description>Claude에 자동 메모리 기능이 추가됐습니다.
+이제 세션이 바뀌어도 프로젝트 맥락, 자주 쓰는 디버깅 방식, 선호하는 작업 스타일을 기억했다가 다시 활용합니다.
 
-제가 테스트 해본 일부 사례 16가지를 정리해봤습니다 🧵</description><pubDate>Thu, 26 Feb 2026 16:02:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVOiOL5D1PN</guid></item><item><title>1/ 인물</title><link>https://www.threads.net/@choi.openai/post/DVOiO8xj45B</link><description>1/ 인물</description><pubDate>Thu, 26 Feb 2026 16:02:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVOiO8xj45B</guid></item><item><title>2/ 포토부스</title><link>https://www.threads.net/@choi.openai/post/DVOiP8UD8wu</link><description>2/ 포토부스</description><pubDate>Thu, 26 Feb 2026 16:02:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVOiP8UD8wu</guid></item><item><title>3/ 광고 포스터</title><link>https://www.threads.net/@choi.openai/post/DVOiRA7jyWr</link><description>3/ 광고 포스터</description><pubDate>Thu, 26 Feb 2026 16:02:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVOiRA7jyWr</guid></item><item><title>샘 알트만은 AGI와 그 너머의 초지능(ASI)이 이미 우리 코앞에 다가와 있다고 강조합니다. 
+사용자 지침은 ‘Claude.MD’에, Claude가 스스로 기록하는 메모는 ‘Memory.MD’에 저장되는 구조입니다.
 
-그는 우리가 지능의 기하급수적인 폭발 시기에 ...</title><link>https://www.threads.net/@choi.openai/post/DVOP9V8DOsT</link><description>샘 알트만은 AGI와 그 너머의 초지능(ASI)이 이미 우리 코앞에 다가와 있다고 강조합니다. 
-
-그는 우리가 지능의 기하급수적인 폭발 시기에 직면해 있으며, 이것이 인류 문명에 미칠 영향은 상상 그 이상일 것이라고 전망합니다.
-
-“AGI는 이제 매우 가깝게 느껴지며, 초지능 또한 불과 몇 년 안에 도달할 수 있는 거리입니다.”</description><pubDate>Thu, 26 Feb 2026 13:23:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVOP9V8DOsT</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=UiZcfqcJ-kU</title><link>https://www.threads.net/@choi.openai/post/DVOP_qbj5gA</link><description>풀영상 :
-https://www.youtube.com/watch?v=UiZcfqcJ-kU</description><pubDate>Thu, 26 Feb 2026 13:23:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVOP_qbj5gA</guid></item><item><title>Lawrence Chen이 코딩 에이전트를 위한 오픈소스 터미널 cmux를 공개했습니다.
-여러 Claude Code와 Codex 세션을 동시에 ...</title><link>https://www.threads.net/@choi.openai/post/DVOFCJ6j7sy</link><description>Lawrence Chen이 코딩 에이전트를 위한 오픈소스 터미널 cmux를 공개했습니다.
-여러 Claude Code와 Codex 세션을 동시에 사용할 때 어떤 창이 입력을 기다리는지 파악하기 어려운 점을 개선했다고 합니다.
-입력이 필요하면 해당 창이 파란색으로 표시되고 이유도 함께 보여줍니다.
-Swift/AppKit 기반의 macOS 네이티브 앱으로, Ghostty 설정을 그대로 불러올 수 있습니다.
-브라우저가 내장되어 있어 터미널에서 접근성 트리 확인, 클릭, 폼 입력, JS 실행도 가능합니다.</description><pubDate>Thu, 26 Feb 2026 11:47:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVOFCJ6j7sy</guid></item><item><title>깃허브 :
-https://github.com/manaflow-ai/cmux</title><link>https://www.threads.net/@choi.openai/post/DVOFAyIj8Sk</link><description>깃허브 :
-https://github.com/manaflow-ai/cmux</description><pubDate>Thu, 26 Feb 2026 11:47:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVOFAyIj8Sk</guid></item></channel></rss>
+기억을 원하면 해당 내용이 자동으로 기록되며, 원하지 않을 경우 /memory 명령어로 끌 수 있습니다.</description><pubDate>Fri, 27 Feb 2026 01:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVPjMTEEoDp</guid></item><item><title>챗GPT 성인모드 출시임박</title><link>https://www.threads.net/@choi.openai/post/DVPZ2hTEpT5</link><description>챗GPT 성인모드 출시임박</description><pubDate>Fri, 27 Feb 2026 00:08:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVPZ2hTEpT5</guid></item></channel></rss>
