@@ -1,42 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 01 Mar 2026 09:00:14 +0000</lastBuildDate><item><title>전쟁의 신 클로드, 이란 공습에 클로드 사용. (WSJ)</title><link>https://www.threads.net/@choi.openai/post/DVU4gjhD03p</link><description>전쟁의 신 클로드, 이란 공습에 클로드 사용. (WSJ)</description><pubDate>Sun, 01 Mar 2026 03:12:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU4gjhD03p</guid></item><item><title>핵 위기 시뮬레이션에서 전체 승률 67%를 기록하며 종합 1위를 차지한 클로드</title><link>https://www.threads.net/@choi.openai/post/DVU4w0zDym2</link><description>핵 위기 시뮬레이션에서 전체 승률 67%를 기록하며 종합 1위를 차지한 클로드</description><pubDate>Sun, 01 Mar 2026 03:14:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU4w0zDym2</guid></item><item><title>??? : 클로드 즉각 사용 중지!</title><link>https://www.threads.net/@choi.openai/post/DVU4_Mujwm6</link><description>??? : 클로드 즉각 사용 중지!</description><pubDate>Sun, 01 Mar 2026 03:16:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU4_Mujwm6</guid></item><item><title>"선출되지 않은 사기업의 리더가 민주적으로 선출된 정부보다 더 많은 권력을 가져서는 안 된다"
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 01 Mar 2026 15:43:45 +0000</lastBuildDate><item><title>앤트로픽이 Claude의 “Import Memory” 기능을 공개했습니다.
+다른 AI에서 사용하던 설정과 작업 맥락을 한 번에 옮길 수 있는 기...</title><link>https://www.threads.net/@choi.openai/post/DVWEO9cDKSI</link><description>앤트로픽이 Claude의 “Import Memory” 기능을 공개했습니다.
+다른 AI에서 사용하던 설정과 작업 맥락을 한 번에 옮길 수 있는 기능입니다. 안내된 프롬프트를 기존 AI 채팅창에 붙여 넣어 결과를 복사한 뒤, Claude의 메모리 설정에 추가하면 바로 이어서 사용할 수 있다고 합니다.
+유료 플랜에서 제공되며, 이전에 쌓아둔 작업 방식과 선호도를 유지한 채 Claude로 전환하려는 사용자에게 도움이 될 것으로 보입니다.
 
-최근 발생한 앤트로픽과 미국 국방부(DoW)의 ...</title><link>https://www.threads.net/@choi.openai/post/DVU0IBQj_1p</link><description>"선출되지 않은 사기업의 리더가 민주적으로 선출된 정부보다 더 많은 권력을 가져서는 안 된다"
+구글에서도 해당 기능을 준비중인 것으로 알려져있는데, 사용자들이 AI 와 나눈 기록 자체가 락인포인트가 되는 시점에서 다양한 전략을 시도하고 있는 것으로 보입니다.</description><pubDate>Sun, 01 Mar 2026 14:15:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVWEO9cDKSI</guid></item><item><title>프롬프트 및 내용 :
+https://claude.com/import-memory</title><link>https://www.threads.net/@choi.openai/post/DVWEbSxj19A</link><description>프롬프트 및 내용 :
+https://claude.com/import-memory</description><pubDate>Sun, 01 Mar 2026 14:15:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVWEbSxj19A</guid></item><item><title>"지금은 그 어느 때보다 도구를 직접 활용해야 하는 시대입니다."
 
-최근 발생한 앤트로픽과 미국 국방부(DoW)의 갈등, 그리고 그 틈을 파고든 오픈AI의 행보는 AI 시대의 국가 안보와 기업 윤리가 상충하는 상징적인 사건으로 보이는데요.
+어제 열린 Gemini 3 서울 해커톤 현장에서 만난 구글 딥마인드 DevX...</title><link>https://www.threads.net/@choi.openai/post/DVVnkAoj3Ep</link><description>"지금은 그 어느 때보다 도구를 직접 활용해야 하는 시대입니다."
 
-AI가 더 이상 기술 산업의 문제가 아니라 주권의 문제가 되었음을 보여줍니다.
+어제 열린 Gemini 3 서울 해커톤 현장에서 만난 구글 딥마인드 DevX 커뮤니티 총괄 Amit Vadi는 지금은 “행동의 시대”라고 말합니다.
 
-핵심만을 정리했습니다. 🧵</description><pubDate>Sun, 01 Mar 2026 02:34:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU0IBQj_1p</guid></item><item><title>1/ 2월 26일 밤, 다리오 아모데이는 국방 영역에서 AI가 “민주주의를 지키는 데 실존적으로 중요하다”고 전제하면서도, 딱 두 가지는 계약에...</title><link>https://www.threads.net/@choi.openai/post/DVU0IWLDxha</link><description>1/ 2월 26일 밤, 다리오 아모데이는 국방 영역에서 AI가 “민주주의를 지키는 데 실존적으로 중요하다”고 전제하면서도, 딱 두 가지는 계약에 넣을 수 없다고 못 박습니다.
+“이제 누구나 빌더가 될 수 있다”, “AI가 진입 장벽을 거의 없앴다”는 말처럼, 지금은 무엇이든 ‘실행’하는 시대로 변화하고 있습니다.
 
-미국인에 대한 대규모 국내 감시, 그리고 사람의 최종 판단이 빠진 완전 자율 무기.
+2016년 알파고 시대부터 2026년 Gemini 3 시대까지, AI의 최전선에서 그가 목격한 변화와 DeepMind가 찾는 인재상까지 핵심 인사이트 정리했습니다 🧵</description><pubDate>Sun, 01 Mar 2026 10:03:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVVnkAoj3Ep</guid></item><item><title>Q : 2016년 알파고 시대와 2026년 Gemini 3 시대를 비교했을 때, 가장 큰 변화는 무엇인가요?
 
-이유는 감정이 아니라 공학과 제도였습니다. 지금의 프런티어 모델은 “완전 자율 무기에 쓰일 만큼 신뢰할 수 없다”는 기술적 한계, 그리고 국내 대규모 감시는 “기본권을 침해한다”는 민주주의의 한계. 이 두 개를 예외로 두지 못하면, 회사가 국가를 거역하는 게 아니라 기술이 국가를 배신하게 된다는 주장입니다.</description><pubDate>Sun, 01 Mar 2026 02:34:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU0IWLDxha</guid></item><item><title>2/ 그런데 바로 다음 날, 판이 ‘계약 조항’에서 ‘공급망 전쟁’으로 넘어갑니다. 
+Amit은 알파고의 Move 37...</title><link>https://www.threads.net/@choi.openai/post/DVVnkikD60M</link><description>Q : 2016년 알파고 시대와 2026년 Gemini 3 시대를 비교했을 때, 가장 큰 변화는 무엇인가요?
 
-미국 국방부와 정부는 국가 안보와 법치주의를 최우선으로 ...</title><link>https://www.threads.net/@choi.openai/post/DVU0I2Rj1l5</link><description>2/ 그런데 바로 다음 날, 판이 ‘계약 조항’에서 ‘공급망 전쟁’으로 넘어갑니다. 
+Amit은 알파고의 Move 37을 먼저 꺼냈습니다.
 
-미국 국방부와 정부는 국가 안보와 법치주의를 최우선으로 내세우며 사기업의 독자적인 통제를 강하게 거부했습니다.
+“10년 전 우리는 인공지능이 가능하다는 걸 증명하려고 했습니다. 연구실의 개념이었죠. Move 37은 업계 전체에 창의성의 순간이었습니다.”
 
-2월 27일, 피트 헤그세스 장관은 X에서 앤스로픽을 ‘공급망 리스크'로 지정하겠다고 공개적으로 말합니다.
+그때 AI는 ‘가능성의 증명’이 핵심이었습니다. 인간이 두지 않던 수를 두는 장면 하나가 산업 전체를 흔들었습니다.
 
-국방부의 기본 전제는 AI 기술이 현행법이 허용하는 '모든 합법적 목적'을 위해 제한 없이 사용되어야 한다는 것입니다.
+하지만 2026년의 AI는 다릅니다.
 
-국가 기관의 작전에 사기업이 자의적인 윤리적 예외를 계약서상에 설정하는 선례를 남길 수 없다는 강경한 국가 논리가 작용한 결과이며, 결국 트럼프 대통령의 지시로 연방 기관 내 앤트로픽 기술 사용이 전면 금지되는 초유의 사태로 이어졌습니다.</description><pubDate>Sun, 01 Mar 2026 02:34:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU0I2Rj1l5</guid></item><item><title>3/ 다리오 아모데이는 특히 국내 감시 문제를 “현재 법이 AI의 결합 능력을 따라잡지 못해 생기는 회색지대”로 설명합니다.
+“이제는 믿기 어려울 정도입니다. 우리는 가장 강력한 모델을 보유하고 있을 뿐 아니라, 과학, 헬스케어, 생성 미디어 등 수많은 영역에 동시에 투자하고 있습니다.”</description><pubDate>Sun, 01 Mar 2026 10:03:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVVnkikD60M</guid></item><item><title>Amit이 강조한 건 성능이 아니라 ‘폭’이었습니다.
 
-예컨대, 정부가 ...</title><link>https://www.threads.net/@choi.openai/post/DVU0JaAj3A5</link><description>3/ 다리오 아모데이는 특히 국내 감시 문제를 “현재 법이 AI의 결합 능력을 따라잡지 못해 생기는 회색지대”로 설명합니다.
+모델 하나의 똑똑함이 아니라, AI 스택 전체가 유기적으로 연결된 생태계. 클라우드부터 ...</title><link>https://www.threads.net/@choi.openai/post/DVVnlAbD3uP</link><description>Amit이 강조한 건 성능이 아니라 ‘폭’이었습니다.
 
-예컨대, 정부가 영장 없이도 공개 시장에서 개인의 이동, 웹 활동 같은 데이터를 사오는 관행이 존재하고, AI가 그것을 흩어진 데이터를 재조합해 “한 사람의 삶 전체”를 재구성할 수 있다는 논리입니다.
+모델 하나의 똑똑함이 아니라, AI 스택 전체가 유기적으로 연결된 생태계. 클라우드부터 TPU 인프라, Gemini 모델, Gemma 오픈 모델, AlphaFold, WeatherNext까지.
+연구와 제품이 단절되지 않고 하나의 흐름으로 이어지고 있다는 점을 반복해서 언급했습니다.
 
-이게 그의 핵심 공포입니다. AI 시대의 감시는 더 이상 ‘수집’이 아니라 ‘조립’이 되니까요.
+"연구, 모델, 인프라, 배포가 하나의 파이프라인으로 연결되어 있습니다. AI는 더 이상 실험실 결과가 아니라, 제품과 소비자 경험 속으로 들어왔습니다."
 
-그리고 2월 28일, 오픈AI가 “Department of War와 합의에 도달했다”는 발표를 내놓으면서 서사가 복잡해집니다. 
+특히 Amit는 “우리는 기본적인 텍스트 챗봇을 넘었습니다. Gemini 3는 액션의 시대입니다.” 라고 말합니다.
 
-사태 당일 아침, 샘 알트먼은 앤스로픽의 안전 원칙에 공감하는 듯했으나, 같은 날 밤 국방부와 기밀 네트워크 환경에서의 AI 배포 계약을 체결했다고 전격 발표했습니다.</description><pubDate>Sun, 01 Mar 2026 02:34:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU0JaAj3A5</guid></item><item><title>앤트로픽 CEO 다리오 아모데이는 AI 기술이 국가 안보의 핵심임을 강조하며, “우리는 애국적인 미국인이며, 우리가 하는 모든 일은 이 나라와 ...</title><link>https://www.threads.net/@choi.openai/post/DVUl8kWII12</link><description>앤트로픽 CEO 다리오 아모데이는 AI 기술이 국가 안보의 핵심임을 강조하며, “우리는 애국적인 미국인이며, 우리가 하는 모든 일은 이 나라와 국가 안보를 지원하기 위한 것”이라고 말했습니다.
+이는 단순 질의응답을 넘어 계획 수립, 툴 호출, 에이전트 워크플로 실행이 중심이 되는 단계로의 이동을 의미합니다.
 
-그는 앤트로픽의 모델을 군에 적극적으로 도입하여 독재 국가들과의 기술 경쟁에서 승리하겠다는 의지를 밝혔습니다.
+출시 3개월 만에 3.1 Pro가 나왔고, 에이전트 기능과 툴 사용 능력이 빠르게 고도화되고 있다고 설명했습니다.</description><pubDate>Sun, 01 Mar 2026 10:03:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVVnlAbD3uP</guid></item><item><title>Q : 서울에서 본 AI 생태계의 특징은 무엇인가요?
 
-다만, 정부의 국방물자생산법(DPA) 적용 등 민간 경제에 대한 전례 없는 개입에는 반대하며, “정부와 의견을 달리하는 것이 가장 미국적인 가치”라고 강조했습니다.
+Amit은 기술력보다 ‘사고방식’을 언급했습니다.
 
-그는 기술 혁신이 민간 주도로 이루어져야 하며, 헌법적 권리와 민주적 가치를 지키는 것이 기술적 우위만큼이나 중요하다고 설명했습니다.</description><pubDate>Sun, 01 Mar 2026 00:31:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVUl8kWII12</guid></item><item><title>Financial Times 보도에 따르면 DeepSeek v4가 다음 주 공개되며 이미지와 영상 생성 기능을 지원할 예정이라고 합니다.
-실제 ...</title><link>https://www.threads.net/@choi.openai/post/DVUkEAnExul</link><description>Financial Times 보도에 따르면 DeepSeek v4가 다음 주 공개되며 이미지와 영상 생성 기능을 지원할 예정이라고 합니다.
-실제 공개 시 성능과 구조 변화가 관전 포인트로 보입니다.</description><pubDate>Sun, 01 Mar 2026 00:13:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVUkEAnExul</guid></item></channel></rss>
+“서울에서 가장 인상 깊었던 건 빌더...</title><link>https://www.threads.net/@choi.openai/post/DVVnlZvD1im</link><description>Q : 서울에서 본 AI 생태계의 특징은 무엇인가요?
+
+Amit은 기술력보다 ‘사고방식’을 언급했습니다.
+
+“서울에서 가장 인상 깊었던 건 빌더들의 멘탈리티였습니다.”
+
+“이곳 개발자들은 AI를 기존 시스템 위에 덧붙이려 하지 않습니다. 처음부터 백지상태에서 'AI 네이티브'로 시스템을 설계하고 있습니다. 프라이버시, 보안, 시스템 통제권에 대한 이들의 질문은 매우 미래지향적이었습니다.”
+
+단순히 자동화 기능을 추가하는 접근이 아니라, 문제 정의 단계부터 AI 중심으로 재구성하는 방식입니다. 그는 프라이버시, 보안, 신뢰, 통제권에 대한 질문들이 매우 인상적이었다고 말했습니다.
+
+이번 해커톤에는 250명 이상의 개발자가 참여했고, 111개의 프로젝트가 제출됐습니다.
+
+“우리는 여전히 아주 초기 단계에 있습니다. 하지만 오늘 이 에너지는 앞으로의 생태계를 보여줍니다.”</description><pubDate>Sun, 01 Mar 2026 10:03:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVVnlZvD1im</guid></item><item><title>AI에게 핵전쟁 시뮬레이션을 맡긴 결과가 충격적입니다.
+
+GPT-5.2는 마감 압박 시 승률이 75%로 폭등하며 돌변했습니다.
+Claude는 8...</title><link>https://www.threads.net/@choi.openai/post/DVVikyqDwJm</link><description>AI에게 핵전쟁 시뮬레이션을 맡긴 결과가 충격적입니다.
+
+GPT-5.2는 마감 압박 시 승률이 75%로 폭등하며 돌변했습니다.
+Claude는 86% 확률로 전술핵을 투하하며 전체 승률 67%를 기록했고, Gemini는 79% 확률로 전술핵을 사용했지만 승률은 33%에 그쳤습니다.
+
+해당 모델들의 기만적인 태도 변화 사례와 상세 내용을 정리했습니다🧵</description><pubDate>Sun, 01 Mar 2026 09:20:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVVikyqDwJm</guid></item><item><title>1/ 가장 놀라운 발견은 AI 모델들이 인간의 지시 없이도 스스로 전략적 기만과 메타인지 능력을 보여주었다는 점입니다.
+
+모델들은 상대방을 안심...</title><link>https://www.threads.net/@choi.openai/post/DVVilNHD1Zf</link><description>1/ 가장 놀라운 발견은 AI 모델들이 인간의 지시 없이도 스스로 전략적 기만과 메타인지 능력을 보여주었다는 점입니다.
+
+모델들은 상대방을 안심시키기 위해 평화적인 의도를 신호로 보내면서도 실제로는 공격적인 행동을 준비하는 '블러핑'을 구사했습니다.
+
+또한, 상대방의 의도를 파악하는 '마음 이론(Theory of mind)'을 활용하고, 자신의 예측 능력과 편향을 스스로 평가하는 모습까지 보였습니다.</description><pubDate>Sun, 01 Mar 2026 09:20:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVVilNHD1Zf</guid></item><item><title>2/ 각 AI 모델은 뚜렷하게 다른 전략적 '성격'을 보였습니다.
+Claude는 '계산적인 매(Calculating Hawk)'처럼 행동했습니다...</title><link>https://www.threads.net/@choi.openai/post/DVVimGOj6zA</link><description>2/ 각 AI 모델은 뚜렷하게 다른 전략적 '성격'을 보였습니다.
+Claude는 '계산적인 매(Calculating Hawk)'처럼 행동했습니다.
+낮은 위기 상황에서는 신뢰를 쌓지만, 중요한 순간에는 기만을 통해 전략적 우위를 점했습니다.
+GPT-5.2는 '지킬 앤 하이드(Jekyll and Hyde)' 같았습니다. 기한이 없는 상황에서는 지나치게 수동적이었지만, 데드라인이 주어지면 갑자기 극단적인 공격성을 드러냈습니다.
+
+Gemini는 '광인(The Madman)' 전략을 택했습니다. 예측 불가능한 행동을 의도적으로 선택하여 상대방을 혼란에 빠뜨리고, 심지어 가장 먼저 전략 핵무기 사용을 결정하기도 했습니다.</description><pubDate>Sun, 01 Mar 2026 09:20:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVVimGOj6zA</guid></item><item><title>3/ 연구진은 GPT-5.2가 초기에 보여준 수동적인 태도가 인간의 피드백을 통한 강화학습(RLHF)의 결과일 수 있다고 분석합니다.
+
+RLHF...</title><link>https://www.threads.net/@choi.openai/post/DVVinCDjz6e</link><description>3/ 연구진은 GPT-5.2가 초기에 보여준 수동적인 태도가 인간의 피드백을 통한 강화학습(RLHF)의 결과일 수 있다고 분석합니다.
+
+RLHF는 AI가 '안전하고 도움 되는' 답변을 하도록 훈련시키는데, 이로 인해 GPT-5.2는 이기는 것보다 갈등을 피하는 것을 우선시하게 되었습니다.
+
+하지만 이러한 '착한' 태도는 전략 게임에서 치명적인 약점이 되어, 상대방(특히 Claude)이 마음 놓고 공격 수위를 높이게 만드는 빌미를 제공했습니다.</description><pubDate>Sun, 01 Mar 2026 09:20:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVVinCDjz6e</guid></item><item><title>전쟁의 신 클로드, 이란 공습에 클로드 사용. (WSJ)</title><link>https://www.threads.net/@choi.openai/post/DVU4gjhD03p</link><description>전쟁의 신 클로드, 이란 공습에 클로드 사용. (WSJ)</description><pubDate>Sun, 01 Mar 2026 03:12:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU4gjhD03p</guid></item><item><title>핵 위기 시뮬레이션에서 전체 승률 67%를 기록하며 종합 1위를 차지한 클로드</title><link>https://www.threads.net/@choi.openai/post/DVU4w0zDym2</link><description>핵 위기 시뮬레이션에서 전체 승률 67%를 기록하며 종합 1위를 차지한 클로드</description><pubDate>Sun, 01 Mar 2026 03:14:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU4w0zDym2</guid></item><item><title>??? : 클로드 즉각 사용 중지!</title><link>https://www.threads.net/@choi.openai/post/DVU4_Mujwm6</link><description>??? : 클로드 즉각 사용 중지!</description><pubDate>Sun, 01 Mar 2026 03:16:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU4_Mujwm6</guid></item></channel></rss>
