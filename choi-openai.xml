@@ -1,38 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 28 Feb 2026 15:41:43 +0000</lastBuildDate><item><title>이번 주도 AI 업계는 놀라운 한 주였던 것 같습니다.
-여러분들이 바쁜 생활 속에서 놓치기 쉬운 발표 소식을 통합해 전달해드립니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 01 Mar 2026 05:12:05 +0000</lastBuildDate><item><title>전쟁의 신 클로드, 이란 공습에 클로드 사용. (WSJ)</title><link>https://www.threads.net/@choi.openai/post/DVU4gjhD03p</link><description>전쟁의 신 클로드, 이란 공습에 클로드 사용. (WSJ)</description><pubDate>Sun, 01 Mar 2026 03:12:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU4gjhD03p</guid></item><item><title>핵 위기 시뮬레이션에서 전체 승률 67%를 기록하며 종합 1위를 차지한 클로드</title><link>https://www.threads.net/@choi.openai/post/DVU4w0zDym2</link><description>핵 위기 시뮬레이션에서 전체 승률 67%를 기록하며 종합 1위를 차지한 클로드</description><pubDate>Sun, 01 Mar 2026 03:14:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU4w0zDym2</guid></item><item><title>??? : 클로드 즉각 사용 중지!</title><link>https://www.threads.net/@choi.openai/post/DVU4_Mujwm6</link><description>??? : 클로드 즉각 사용 중지!</description><pubDate>Sun, 01 Mar 2026 03:16:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU4_Mujwm6</guid></item><item><title>"선출되지 않은 사기업의 리더가 민주적으로 선출된 정부보다 더 많은 권력을 가져서는 안 된다"
 
-- 오픈A...</title><link>https://www.threads.net/@choi.openai/post/DVTJdNyD75s</link><description>이번 주도 AI 업계는 놀라운 한 주였던 것 같습니다.
-여러분들이 바쁜 생활 속에서 놓치기 쉬운 발표 소식을 통합해 전달해드립니다.
+최근 발생한 앤트로픽과 미국 국방부(DoW)의 ...</title><link>https://www.threads.net/@choi.openai/post/DVU0IBQj_1p</link><description>"선출되지 않은 사기업의 리더가 민주적으로 선출된 정부보다 더 많은 권력을 가져서는 안 된다"
 
-- 오픈AI, "GPT-5.3-Codex" API 공개
-- 오픈AI, Responses API에 WebSockets 기능 추가
-- 앤트로픽, Claude Code에 "Remote Control" 및 자동 메모리 기능 도입
-- Perplexity, 삼성 갤럭시 S26에 시스템 수준 탑재 발표
-- Sakana AI, "Doc-to-LoRA" 및 "Text-to-LoRA" 발표
-- 트럼프, 앤트로픽을 “공급망 리스크”로 지정하고 연방기관 사용 중단을 지시하겠다고 밝히자 앤트로픽은 대규모 국내 감시와 완전 자율무기 요구를 거부한 것이라며 법적 대응을 예고
+최근 발생한 앤트로픽과 미국 국방부(DoW)의 갈등, 그리고 그 틈을 파고든 오픈AI의 행보는 AI 시대의 국가 안보와 기업 윤리가 상충하는 상징적인 사건으로 보이는데요.
 
-각 세부 내용은 다음과 같습니다 👇🏻</description><pubDate>Sat, 28 Feb 2026 11:02:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVTJdNyD75s</guid></item><item><title>1/ 앤트로픽의 Claude Code에 "Remote Control"(원격 제어) 기능이 추가되었습니다.
-Max 사용자는 연구 미리보기로 먼저 ...</title><link>https://www.threads.net/@choi.openai/post/DVTJdsbD8AX</link><description>1/ 앤트로픽의 Claude Code에 "Remote Control"(원격 제어) 기능이 추가되었습니다.
-Max 사용자는 연구 미리보기로 먼저 접할 수 있으며, 터미널에서 작업을 시작한 후 스마트폰으로 이어서 제어할 수 있습니다.
-이를 통해 장시간 작업도 안전하게 관리할 수 있습니다.
-최신 모바일과 터미널 버전에서 /remote-control 명령어로 사용 가능합니다.</description><pubDate>Sat, 28 Feb 2026 11:02:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVTJdsbD8AX</guid></item><item><title>2/ OpenAI가 "GPT-5.3-Codex" API를 공개했습니다.
-이 모델은 복잡한 개발 작업을 단계적으로 처리하는 에이전트형 코딩 모델인...</title><link>https://www.threads.net/@choi.openai/post/DVTJePrj4FF</link><description>2/ OpenAI가 "GPT-5.3-Codex" API를 공개했습니다.
-이 모델은 복잡한 개발 작업을 단계적으로 처리하는 에이전트형 코딩 모델인데요.
-최대 40만 토큰 문맥과 12만8천 토큰 출력을 지원하며, 요금은 입력 100만 토큰당 1.75달러, 출력 14달러로 Opus 4.6에 비해 절반 수준입니다.</description><pubDate>Sat, 28 Feb 2026 11:02:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVTJePrj4FF</guid></item><item><title>3/ Perplexity의 새로운 "Perplexity Computer"가 조사, 디자인, 코딩 등 다양한 작업을 하나의 시스템에서 처리할 수 ...</title><link>https://www.threads.net/@choi.openai/post/DVTJevij7-9</link><description>3/ Perplexity의 새로운 "Perplexity Computer"가 조사, 디자인, 코딩 등 다양한 작업을 하나의 시스템에서 처리할 수 있도록 출시되었습니다.
-"Opus"를 통해 19개 모델을 적절히 연결해 작업 효율을 높이며, 개인 작업을 기억하는 지속 메모리와 다양한 기능도 지원합니다.
-Max 구독자는 월 10,000 credits를 받을 수 있으며, 현재 웹에서 이용 가능합니다.</description><pubDate>Sat, 28 Feb 2026 11:02:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVTJevij7-9</guid></item><item><title>오픈AI의 제품 책임자 케빈 웨일(Kevin Weil)은 AI가 단순히 정보를 요약하는 수준을 넘어, “인류가 한 번도 풀지 못한 프런티어 과학...</title><link>https://www.threads.net/@choi.openai/post/DVS4bHJoCFE</link><description>오픈AI의 제품 책임자 케빈 웨일(Kevin Weil)은 AI가 단순히 정보를 요약하는 수준을 넘어, “인류가 한 번도 풀지 못한 프런티어 과학 문제들을 해결하기 시작했다”고 강조했습니다.
+AI가 더 이상 기술 산업의 문제가 아니라 주권의 문제가 되었음을 보여줍니다.
 
-그는 AI의 발전 속도가 기하급수적이라며, “2050년에나 가능할 법한 과학적 진보를 2030년으로 앞당기는 것”이 목표라고 밝혔습니다.
+핵심만을 정리했습니다. 🧵</description><pubDate>Sun, 01 Mar 2026 02:34:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU0IBQj_1p</guid></item><item><title>1/ 2월 26일 밤, 다리오 아모데이는 국방 영역에서 AI가 “민주주의를 지키는 데 실존적으로 중요하다”고 전제하면서도, 딱 두 가지는 계약에...</title><link>https://www.threads.net/@choi.openai/post/DVU0IWLDxha</link><description>1/ 2월 26일 밤, 다리오 아모데이는 국방 영역에서 AI가 “민주주의를 지키는 데 실존적으로 중요하다”고 전제하면서도, 딱 두 가지는 계약에 넣을 수 없다고 못 박습니다.
 
-특히 초전도체, 신소재 개발, 개인 맞춤형 의료, 핵융합 에너지 등 AGI가 가져올 변화는 우리 삶의 근간을 바꿀 것이라 내다봤습니다.</description><pubDate>Sat, 28 Feb 2026 08:35:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVS4bHJoCFE</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=ZV-1wDK578c</title><link>https://www.threads.net/@choi.openai/post/DVS4qkZjzf6</link><description>풀영상 :
-https://www.youtube.com/watch?v=ZV-1wDK578c</description><pubDate>Sat, 28 Feb 2026 08:35:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVS4qkZjzf6</guid></item><item><title>Korea 🇰🇷</title><link>https://www.threads.net/@choi.openai/post/DVSgRjxD24W</link><description>Korea 🇰🇷</description><pubDate>Sat, 28 Feb 2026 05:02:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVSgRjxD24W</guid></item><item><title>인공지능의 거장 요슈아 벤지오는 인간의 지능을 넘어서는 AI의 급격한 성능 발전과 그에 따른 통제권 상실을 강력히 경고했습니다.
+미국인에 대한 대규모 국내 감시, 그리고 사람의 최종 판단이 빠진 완전 자율 무기.
 
-그는 "아무도...</title><link>https://www.threads.net/@choi.openai/post/DVR_DFOk6cH</link><description>인공지능의 거장 요슈아 벤지오는 인간의 지능을 넘어서는 AI의 급격한 성능 발전과 그에 따른 통제권 상실을 강력히 경고했습니다.
+이유는 감정이 아니라 공학과 제도였습니다. 지금의 프런티어 모델은 “완전 자율 무기에 쓰일 만큼 신뢰할 수 없다”는 기술적 한계, 그리고 국내 대규모 감시는 “기본권을 침해한다”는 민주주의의 한계. 이 두 개를 예외로 두지 못하면, 회사가 국가를 거역하는 게 아니라 기술이 국가를 배신하게 된다는 주장입니다.</description><pubDate>Sun, 01 Mar 2026 02:34:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU0IWLDxha</guid></item><item><title>2/ 그런데 바로 다음 날, 판이 ‘계약 조항’에서 ‘공급망 전쟁’으로 넘어갑니다. 
 
-그는 "아무도 이 시스템이 레드라인을 넘지 않도록 통제하는 법을 모른다"며, 우리가 제어할 수 없는 수준의 지능을 가진 기계를 만드는 상황이 "미친 짓"처럼 느껴진다고 지적했습니다.
+미국 국방부와 정부는 국가 안보와 법치주의를 최우선으로 ...</title><link>https://www.threads.net/@choi.openai/post/DVU0I2Rj1l5</link><description>2/ 그런데 바로 다음 날, 판이 ‘계약 조항’에서 ‘공급망 전쟁’으로 넘어갑니다. 
 
-또한 지능이 곧 권력이 되는 미래에 소수 기업과 국가가 모든 의사결정을 독점하는 구조를 경계하며, "그 권력이 공유되는 미래를 원한다"고 강조했습니다.</description><pubDate>Sat, 28 Feb 2026 00:12:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVR_DFOk6cH</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=9itcUhVsPTM</title><link>https://www.threads.net/@choi.openai/post/DVR_DiME_Os</link><description>풀영상 :
-https://www.youtube.com/watch?v=9itcUhVsPTM</description><pubDate>Sat, 28 Feb 2026 00:12:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVR_DiME_Os</guid></item></channel></rss>
+미국 국방부와 정부는 국가 안보와 법치주의를 최우선으로 내세우며 사기업의 독자적인 통제를 강하게 거부했습니다.
+
+2월 27일, 피트 헤그세스 장관은 X에서 앤스로픽을 ‘공급망 리스크'로 지정하겠다고 공개적으로 말합니다.
+
+국방부의 기본 전제는 AI 기술이 현행법이 허용하는 '모든 합법적 목적'을 위해 제한 없이 사용되어야 한다는 것입니다.
+
+국가 기관의 작전에 사기업이 자의적인 윤리적 예외를 계약서상에 설정하는 선례를 남길 수 없다는 강경한 국가 논리가 작용한 결과이며, 결국 트럼프 대통령의 지시로 연방 기관 내 앤트로픽 기술 사용이 전면 금지되는 초유의 사태로 이어졌습니다.</description><pubDate>Sun, 01 Mar 2026 02:34:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU0I2Rj1l5</guid></item><item><title>3/ 다리오 아모데이는 특히 국내 감시 문제를 “현재 법이 AI의 결합 능력을 따라잡지 못해 생기는 회색지대”로 설명합니다.
+
+예컨대, 정부가 ...</title><link>https://www.threads.net/@choi.openai/post/DVU0JaAj3A5</link><description>3/ 다리오 아모데이는 특히 국내 감시 문제를 “현재 법이 AI의 결합 능력을 따라잡지 못해 생기는 회색지대”로 설명합니다.
+
+예컨대, 정부가 영장 없이도 공개 시장에서 개인의 이동, 웹 활동 같은 데이터를 사오는 관행이 존재하고, AI가 그것을 흩어진 데이터를 재조합해 “한 사람의 삶 전체”를 재구성할 수 있다는 논리입니다.
+
+이게 그의 핵심 공포입니다. AI 시대의 감시는 더 이상 ‘수집’이 아니라 ‘조립’이 되니까요.
+
+그리고 2월 28일, 오픈AI가 “Department of War와 합의에 도달했다”는 발표를 내놓으면서 서사가 복잡해집니다. 
+
+사태 당일 아침, 샘 알트먼은 앤스로픽의 안전 원칙에 공감하는 듯했으나, 같은 날 밤 국방부와 기밀 네트워크 환경에서의 AI 배포 계약을 체결했다고 전격 발표했습니다.</description><pubDate>Sun, 01 Mar 2026 02:34:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVU0JaAj3A5</guid></item><item><title>앤트로픽 CEO 다리오 아모데이는 AI 기술이 국가 안보의 핵심임을 강조하며, “우리는 애국적인 미국인이며, 우리가 하는 모든 일은 이 나라와 ...</title><link>https://www.threads.net/@choi.openai/post/DVUl8kWII12</link><description>앤트로픽 CEO 다리오 아모데이는 AI 기술이 국가 안보의 핵심임을 강조하며, “우리는 애국적인 미국인이며, 우리가 하는 모든 일은 이 나라와 국가 안보를 지원하기 위한 것”이라고 말했습니다.
+
+그는 앤트로픽의 모델을 군에 적극적으로 도입하여 독재 국가들과의 기술 경쟁에서 승리하겠다는 의지를 밝혔습니다.
+
+다만, 정부의 국방물자생산법(DPA) 적용 등 민간 경제에 대한 전례 없는 개입에는 반대하며, “정부와 의견을 달리하는 것이 가장 미국적인 가치”라고 강조했습니다.
+
+그는 기술 혁신이 민간 주도로 이루어져야 하며, 헌법적 권리와 민주적 가치를 지키는 것이 기술적 우위만큼이나 중요하다고 설명했습니다.</description><pubDate>Sun, 01 Mar 2026 00:31:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVUl8kWII12</guid></item><item><title>Financial Times 보도에 따르면 DeepSeek v4가 다음 주 공개되며 이미지와 영상 생성 기능을 지원할 예정이라고 합니다.
+실제 ...</title><link>https://www.threads.net/@choi.openai/post/DVUkEAnExul</link><description>Financial Times 보도에 따르면 DeepSeek v4가 다음 주 공개되며 이미지와 영상 생성 기능을 지원할 예정이라고 합니다.
+실제 공개 시 성능과 구조 변화가 관전 포인트로 보입니다.</description><pubDate>Sun, 01 Mar 2026 00:13:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVUkEAnExul</guid></item></channel></rss>
