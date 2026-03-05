@@ -1,34 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 05 Mar 2026 10:08:49 +0000</lastBuildDate><item><title>CodeWisp는 게임 엔진 없이 웹게임을 만들 수 있는 생성형 AI 플랫폼입니다.
-사용자가 원하는 게임을 텍스트로 설명하면, 몇 초 안에 실행...</title><link>https://www.threads.net/@choi.openai/post/DVf2-OqD8oQ</link><description>CodeWisp는 게임 엔진 없이 웹게임을 만들 수 있는 생성형 AI 플랫폼입니다.
-사용자가 원하는 게임을 텍스트로 설명하면, 몇 초 안에 실행 가능한 게임을 자동으로 만들어줍니다.
-직접 코드를 짜거나 복잡한 툴을 다루지 않아도 되기 때문에, 게임 개발의 진입 장벽이 크게 낮아졌습니다.
-초기 버전은 레트로 게임 같은 단순한 구조에 적합할 것으로 보이지만, 프로토타이핑이나 아이디어 테스트 용도로 주목받고 있습니다.</description><pubDate>Thu, 05 Mar 2026 09:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVf2-OqD8oQ</guid></item><item><title>오픈AI가 Arena 플랫폼에서 "Galapagos"라는 모델명으로 GPT-5.4를 테스트중인 것으로 보입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 05 Mar 2026 19:39:04 +0000</lastBuildDate><item><title>오픈AI에서 새로운 양방향 음성 모델 BiDi(Bidirectional Audio)를 개발 중입니다.
+기존 음성 시스템이 사용자가 말을 마칠 때...</title><link>https://www.threads.net/@choi.openai/post/DVg7p_KEWp5</link><description>오픈AI에서 새로운 양방향 음성 모델 BiDi(Bidirectional Audio)를 개발 중입니다.
+기존 음성 시스템이 사용자가 말을 마칠 때까지 기다리는 방식이었다면, BiDi는 실시간으로 음성을 처리해 대화 도중 끼어들거나 말 방향이 바뀌어도 AI가 즉시 반응할 수 있도록 설계됐습니다.
+아직 몇 분 후 오류가 발생하는 문제가 있어 출시 일정이 1분기에서 2분기 이후로 미뤄질 가능성이 있다고 합니다.
+BiDi가 도입되면 콜센터, 음성 비서, 스마트 기기 등에서의 AI 활용성이 크게 달라질 수 있습니다.</description><pubDate>Thu, 05 Mar 2026 19:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVg7p_KEWp5</guid></item><item><title>기사 :
+https://www.theinformation.com/newsletters/ai-agenda/openai-develops-bidire...</title><link>https://www.threads.net/@choi.openai/post/DVg7q8nEfDf</link><description>기사 :
+https://www.theinformation.com/newsletters/ai-agenda/openai-develops-bidirectional-audio-model-boost-voice-assistants</description><pubDate>Thu, 05 Mar 2026 19:31:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVg7q8nEfDf</guid></item><item><title>Cursor에서 Cursor Automations라는 기능을 공개했습니다.
+이는 슬랙 메시지, GitHub PR, PagerDuty 알림 등 특...</title><link>https://www.threads.net/@choi.openai/post/DVgriBBjYLk</link><description>Cursor에서 Cursor Automations라는 기능을 공개했습니다.
+이는 슬랙 메시지, GitHub PR, PagerDuty 알림 등 특정 이벤트에 따라 자동으로 작동하는 클라우드 기반 에이전트를 설정할 수 있게 해줍니다.
+코드 리뷰, 보안 점검, 버그 수정, 테스트 커버리지 확인, 주간 리포트 정리 등 개발 업무의 반복 작업을 자동화할 수 있어 개발 생산성을 높이는 데 활용되고 있습니다.
+특히 "Bugbot"이나 "Security review" 에이전트처럼 실제 운영 환경에서 수천 번 이상 실행된 사례도 있으며, 다른 기업인 Rippling도 회의 노트 정리, 이슈 생성, 요약 등 다양한 워크플로우에 적용하고 있다고 합니다.
+자동화는 커스텀 이벤트(Webhook)나 플러그인을 통해 유연하게 확장할 수 있습니다.</description><pubDate>Thu, 05 Mar 2026 17:10:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVgriBBjYLk</guid></item><item><title>발표 내용 :
+https://cursor.com/blog/automations</title><link>https://www.threads.net/@choi.openai/post/DVgrn0rj7nY</link><description>발표 내용 :
+https://cursor.com/blog/automations</description><pubDate>Thu, 05 Mar 2026 17:10:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVgrn0rj7nY</guid></item><item><title>LTX-2에서 새로운 버전인 LTX-2.3을 공개했습니다.
+이번 업데이트는 영상 생성 엔진 자체의 성능 향상에 초점을 맞췄습니다. 세부 묘사, ...</title><link>https://www.threads.net/@choi.openai/post/DVgnThsDqu4</link><description>LTX-2에서 새로운 버전인 LTX-2.3을 공개했습니다.
+이번 업데이트는 영상 생성 엔진 자체의 성능 향상에 초점을 맞췄습니다. 세부 묘사, 동작 표현, 오디오 품질이 개선됐고, 세로형(1080x1920) 영상 생성도 지원합니다.
+텍스트 프롬프트 해석 정확도가 높아졌으며, 이미지 기반 영상 생성(i2v)에서 흔했던 멈춤 현상도 줄었습니다.
+함께 공개된 LTX Desktop은 이 엔진 기반으로 제작된 무료 오픈소스 영상 편집기로, 로컬에서 완전 실행 가능하며 상업용 라이선스는 연 매출 1천만 달러 이상 기업만 해당됩니다.
+모델은 허깅페이스(HuggingFace)에서 이용할 수 있습니다.</description><pubDate>Thu, 05 Mar 2026 16:33:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVgnThsDqu4</guid></item><item><title>상세 내용 :
+https://ltx.io/model/model-blog/ltx-2-3-release</title><link>https://www.threads.net/@choi.openai/post/DVgnZp5j__M</link><description>상세 내용 :
+https://ltx.io/model/model-blog/ltx-2-3-release</description><pubDate>Thu, 05 Mar 2026 16:33:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVgnZp5j__M</guid></item><item><title>와.. AI 영상의 발전속도가 정말 상상을 초월합니다.
 
-특징으로는 100만 토큰 이상...</title><link>https://www.threads.net/@choi.openai/post/DVfsrRwgWhp</link><description>오픈AI가 Arena 플랫폼에서 "Galapagos"라는 모델명으로 GPT-5.4를 테스트중인 것으로 보입니다.
+Utopai Studios에서 PAI라는 새로운 AI 영상 생성 모델을 공개했습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DVghtPTDL79</link><description>와.. AI 영상의 발전속도가 정말 상상을 초월합니다.
 
-특징으로는 100만 토큰 이상의 컨텍스트 윈도우를 갖췄고, 프론트엔드 작업 성능이 크게 오른 것으로 보이는데요.
-다만, 대화 중 지식 컷오프가 다르게 나오는 점을 보면 아직 안정화는 되지 않은 것으로 보입니다.
-
-내일 새벽 출시가 유력해보입니다.</description><pubDate>Thu, 05 Mar 2026 08:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfsrRwgWhp</guid></item><item><title>앤트로픽 CEO 다리오 아모데이가 작정하고 오픈AI를 저격했네요.
-
-다리오 아모데이는 최근 내부 메모를 통해 오픈AI의 국방 계약을 "안전한 척...</title><link>https://www.threads.net/@choi.openai/post/DVfiYdkE8q9</link><description>앤트로픽 CEO 다리오 아모데이가 작정하고 오픈AI를 저격했네요.
-
-다리오 아모데이는 최근 내부 메모를 통해 오픈AI의 국방 계약을 "안전한 척하는 쇼"라고 비판하면서 논란을 일으켰습니다.
-
-특히 팔란티어가 제안한 ‘감시 회피용 분류기’를 오픈AI가 수용했다며, 샘 알트만이 "노골적인 거짓말"을 하고 있다고 저격했습니다.
-앤트로픽은 “대량 데이터 분석” 문구를 지우라는 조건을 거절했고, 이로 인해 협상이 결렬됐다고 강조했습니다.
-
-또한, 샘 알트만이 트럼프에게 “독재자식 찬양"를 보내며 결탁하고, 자사 직원들을 “잘 속는 집단"라 부르며 가스라이팅하고 있다는 발언도 나왔습니다.
-비판자들을 “바보들"로 칭한 표현은 지나치게 감정적이라는 반응도 많고, 실제로 업계 일부에서는 “불안정한"한 발언이었다는 평가도 있습니다.
-
-반면, 아모데이가 오픈AI를 비판하면서도 자사 역시 국방부와 기존 계약이 있다는 점에서, 윤리적 우위를 주장하기엔 애매하다는 지적도 나옵니다.</description><pubDate>Thu, 05 Mar 2026 06:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfiYdkE8q9</guid></item><item><title>기사 :
-https://www.theinformation.com/articles/read-anthropic-ceos-memo-attacking-...</title><link>https://www.threads.net/@choi.openai/post/DVfiZv8E-ux</link><description>기사 :
-https://www.theinformation.com/articles/read-anthropic-ceos-memo-attacking-openais-mendacious-pentagon-announcement</description><pubDate>Thu, 05 Mar 2026 06:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfiZv8E-ux</guid></item><item><title>쟁점은? :</title><link>https://www.threads.net/@choi.openai/post/DVfieeXj63R</link><description>쟁점은? :</description><pubDate>Thu, 05 Mar 2026 06:31:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfieeXj63R</guid></item><item><title>와... 또 업데이트 되었네요.
-소셜 미디어를 한동안 강타했던 Kling의 Motion Control이 3.0으로 업데이트 되었는데요.
-이번 업...</title><link>https://www.threads.net/@choi.openai/post/DVfYB_bAN5o</link><description>와... 또 업데이트 되었네요.
-소셜 미디어를 한동안 강타했던 Kling의 Motion Control이 3.0으로 업데이트 되었는데요.
-이번 업데이트에서는 AI 영상의 가장 큰 숙제였던 "temporal morphing" 문제를이 깔끔하게 해결되었다고 합니다.
-4K 이미지 생성과 시리즈 모드까지 지원하니 콘텐츠가 한 동안 쏟아져 나올 것 같습니다.</description><pubDate>Thu, 05 Mar 2026 05:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfYB_bAN5o</guid></item><item><title>Kling :
-https://pro.klingai.com/h5-app/invitation?code=7BYABLX4WHMS</title><link>https://www.threads.net/@choi.openai/post/DVfYC3VAHLZ</link><description>Kling :
-https://pro.klingai.com/h5-app/invitation?code=7BYABLX4WHMS</description><pubDate>Thu, 05 Mar 2026 05:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfYC3VAHLZ</guid></item></channel></rss>
+Utopai Studios에서 PAI라는 새로운 AI 영상 생성 모델을 공개했습니다.
+PAI는 프롬프트만으로 이야기 구조, 장면 구성, 캐릭터 감정과 움직임까지 자동으로 처리해주는 장편 스토리텔링 모델입니다.
+현재는 최대 60초 분량의 애니메이션 영상을 생성할 수 있으며, 캐릭터의 일관성과 장면 간 연결성이 유지되는 것이 특징입니다.
+템플릿 없이도 자연스러운 감정 흐름과 영상 톤이 이어지며, 실제 제작 워크플로우와 유사한 결과를 보여준다고 합니다.
+현재 베타 테스트 중이며, 공식 홈페이지에서 체험 신청이 가능합니다.</description><pubDate>Thu, 05 Mar 2026 15:44:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVghtPTDL79</guid></item><item><title>대기 리스트 등록 :
+https://www.utopaistudios.com/pai</title><link>https://www.threads.net/@choi.openai/post/DVghwvRj0zy</link><description>대기 리스트 등록 :
+https://www.utopaistudios.com/pai</description><pubDate>Thu, 05 Mar 2026 15:44:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVghwvRj0zy</guid></item></channel></rss>
