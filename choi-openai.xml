@@ -1,28 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 05 Mar 2026 05:05:44 +0000</lastBuildDate><item><title>와... 또 업데이트 되었네요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 05 Mar 2026 10:08:49 +0000</lastBuildDate><item><title>CodeWisp는 게임 엔진 없이 웹게임을 만들 수 있는 생성형 AI 플랫폼입니다.
+사용자가 원하는 게임을 텍스트로 설명하면, 몇 초 안에 실행...</title><link>https://www.threads.net/@choi.openai/post/DVf2-OqD8oQ</link><description>CodeWisp는 게임 엔진 없이 웹게임을 만들 수 있는 생성형 AI 플랫폼입니다.
+사용자가 원하는 게임을 텍스트로 설명하면, 몇 초 안에 실행 가능한 게임을 자동으로 만들어줍니다.
+직접 코드를 짜거나 복잡한 툴을 다루지 않아도 되기 때문에, 게임 개발의 진입 장벽이 크게 낮아졌습니다.
+초기 버전은 레트로 게임 같은 단순한 구조에 적합할 것으로 보이지만, 프로토타이핑이나 아이디어 테스트 용도로 주목받고 있습니다.</description><pubDate>Thu, 05 Mar 2026 09:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVf2-OqD8oQ</guid></item><item><title>오픈AI가 Arena 플랫폼에서 "Galapagos"라는 모델명으로 GPT-5.4를 테스트중인 것으로 보입니다.
+
+특징으로는 100만 토큰 이상...</title><link>https://www.threads.net/@choi.openai/post/DVfsrRwgWhp</link><description>오픈AI가 Arena 플랫폼에서 "Galapagos"라는 모델명으로 GPT-5.4를 테스트중인 것으로 보입니다.
+
+특징으로는 100만 토큰 이상의 컨텍스트 윈도우를 갖췄고, 프론트엔드 작업 성능이 크게 오른 것으로 보이는데요.
+다만, 대화 중 지식 컷오프가 다르게 나오는 점을 보면 아직 안정화는 되지 않은 것으로 보입니다.
+
+내일 새벽 출시가 유력해보입니다.</description><pubDate>Thu, 05 Mar 2026 08:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfsrRwgWhp</guid></item><item><title>앤트로픽 CEO 다리오 아모데이가 작정하고 오픈AI를 저격했네요.
+
+다리오 아모데이는 최근 내부 메모를 통해 오픈AI의 국방 계약을 "안전한 척...</title><link>https://www.threads.net/@choi.openai/post/DVfiYdkE8q9</link><description>앤트로픽 CEO 다리오 아모데이가 작정하고 오픈AI를 저격했네요.
+
+다리오 아모데이는 최근 내부 메모를 통해 오픈AI의 국방 계약을 "안전한 척하는 쇼"라고 비판하면서 논란을 일으켰습니다.
+
+특히 팔란티어가 제안한 ‘감시 회피용 분류기’를 오픈AI가 수용했다며, 샘 알트만이 "노골적인 거짓말"을 하고 있다고 저격했습니다.
+앤트로픽은 “대량 데이터 분석” 문구를 지우라는 조건을 거절했고, 이로 인해 협상이 결렬됐다고 강조했습니다.
+
+또한, 샘 알트만이 트럼프에게 “독재자식 찬양"를 보내며 결탁하고, 자사 직원들을 “잘 속는 집단"라 부르며 가스라이팅하고 있다는 발언도 나왔습니다.
+비판자들을 “바보들"로 칭한 표현은 지나치게 감정적이라는 반응도 많고, 실제로 업계 일부에서는 “불안정한"한 발언이었다는 평가도 있습니다.
+
+반면, 아모데이가 오픈AI를 비판하면서도 자사 역시 국방부와 기존 계약이 있다는 점에서, 윤리적 우위를 주장하기엔 애매하다는 지적도 나옵니다.</description><pubDate>Thu, 05 Mar 2026 06:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfiYdkE8q9</guid></item><item><title>기사 :
+https://www.theinformation.com/articles/read-anthropic-ceos-memo-attacking-...</title><link>https://www.threads.net/@choi.openai/post/DVfiZv8E-ux</link><description>기사 :
+https://www.theinformation.com/articles/read-anthropic-ceos-memo-attacking-openais-mendacious-pentagon-announcement</description><pubDate>Thu, 05 Mar 2026 06:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfiZv8E-ux</guid></item><item><title>쟁점은? :</title><link>https://www.threads.net/@choi.openai/post/DVfieeXj63R</link><description>쟁점은? :</description><pubDate>Thu, 05 Mar 2026 06:31:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfieeXj63R</guid></item><item><title>와... 또 업데이트 되었네요.
 소셜 미디어를 한동안 강타했던 Kling의 Motion Control이 3.0으로 업데이트 되었는데요.
 이번 업...</title><link>https://www.threads.net/@choi.openai/post/DVfYB_bAN5o</link><description>와... 또 업데이트 되었네요.
 소셜 미디어를 한동안 강타했던 Kling의 Motion Control이 3.0으로 업데이트 되었는데요.
 이번 업데이트에서는 AI 영상의 가장 큰 숙제였던 "temporal morphing" 문제를이 깔끔하게 해결되었다고 합니다.
 4K 이미지 생성과 시리즈 모드까지 지원하니 콘텐츠가 한 동안 쏟아져 나올 것 같습니다.</description><pubDate>Thu, 05 Mar 2026 05:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfYB_bAN5o</guid></item><item><title>Kling :
 https://pro.klingai.com/h5-app/invitation?code=7BYABLX4WHMS</title><link>https://www.threads.net/@choi.openai/post/DVfYC3VAHLZ</link><description>Kling :
-https://pro.klingai.com/h5-app/invitation?code=7BYABLX4WHMS</description><pubDate>Thu, 05 Mar 2026 05:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfYC3VAHLZ</guid></item><item><title>Claude에 Ultrathink가 돌아왔습니다!</title><link>https://www.threads.net/@choi.openai/post/DVfNu9fEYmu</link><description>Claude에 Ultrathink가 돌아왔습니다!</description><pubDate>Thu, 05 Mar 2026 03:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfNu9fEYmu</guid></item><item><title>이제는 에이전트에게 일일이 시키는 게 아니라 결과만 관리하면 됩니다. 
-오픈AI가 프로젝트 관리를 자동화하는 Symphony를 공개했습니다. 
-...</title><link>https://www.threads.net/@choi.openai/post/DVfDduNgoES</link><description>이제는 에이전트에게 일일이 시키는 게 아니라 결과만 관리하면 됩니다. 
-오픈AI가 프로젝트 관리를 자동화하는 Symphony를 공개했습니다. 
-해당 도구는 프로젝트 보드의 티켓 변화를 감지해 단계별로 에이전트를 자동 실행하는데요.
-해당 모델은 100만 토큰의 기억력과 "Extreme reasoning mode"를 통해 몇 시간씩 걸리는 복잡한 작업도 할 수 있습니다.</description><pubDate>Thu, 05 Mar 2026 02:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfDduNgoES</guid></item><item><title>깃허브 :
-https://github.com/openai/symphony</title><link>https://www.threads.net/@choi.openai/post/DVfDgT2Akzr</link><description>깃허브 :
-https://github.com/openai/symphony</description><pubDate>Thu, 05 Mar 2026 02:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfDgT2Akzr</guid></item><item><title>이제는 Codex의 시대다..
-
-드디어 오픈AI가 Codex Windows 앱을 정식 출시했습니다.
-네이티브 에이전트 샌드박스와 터미널 통합으로...</title><link>https://www.threads.net/@choi.openai/post/DVe5FR-AGnh</link><description>이제는 Codex의 시대다..
-
-드디어 오픈AI가 Codex Windows 앱을 정식 출시했습니다.
-네이티브 에이전트 샌드박스와 터미널 통합으로 윈도우 환경에서 인공지능 에이전트를 안전하고 강력하게 다룰 수 있게 되었습니다.
-
-가장 놀라운 부분은 "native agent sandbox"를 구축했다는 점인데, 에이전트가 권한 밖의 파일을 건드리지 못하게 막으면서 안전하게 앱을 빌드합니다.
-
-Visual Studio나 PowerShell 과도 바로 연결되니 개발 생산성이 엄청나게 올라갈 것 같 것으로 보입니다.</description><pubDate>Thu, 05 Mar 2026 00:29:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVe5FR-AGnh</guid></item><item><title>다운로드 주소 :
-https://apps.microsoft.com/detail/9plm9xgg6vks?hl=ko-KR&amp;gl=KR</title><link>https://www.threads.net/@choi.openai/post/DVe5GQrAHuY</link><description>다운로드 주소 :
-https://apps.microsoft.com/detail/9plm9xgg6vks?hl=ko-KR&amp;gl=KR</description><pubDate>Thu, 05 Mar 2026 00:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVe5GQrAHuY</guid></item></channel></rss>
+https://pro.klingai.com/h5-app/invitation?code=7BYABLX4WHMS</description><pubDate>Thu, 05 Mar 2026 05:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVfYC3VAHLZ</guid></item></channel></rss>
