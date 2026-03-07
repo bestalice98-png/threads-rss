@@ -1,5 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 07 Mar 2026 04:47:36 +0000</lastBuildDate><item><title>오픈AI가 GPT-5.4 프롬프트 가이드를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 07 Mar 2026 09:00:42 +0000</lastBuildDate><item><title>AI가 디자인을 못하고 있다면 이번 업데이트는 주목할만 합니다.
+
+shadcn이 "shadcn/cli v4"를 공개했습니다.
+이번 업데이트는 A...</title><link>https://www.threads.net/@choi.openai/post/DVk2PovIMmX</link><description>AI가 디자인을 못하고 있다면 이번 업데이트는 주목할만 합니다.
+
+shadcn이 "shadcn/cli v4"를 공개했습니다.
+이번 업데이트는 AI 코딩 에이전트와 함께 사용할 때 편하도록 기능이 추가된 것이 특징입니다.
+
+새로 추가된 "shadcn/skills"기능은 컴포넌트 구조, API, 디자인 패턴 등을 에이전트에게 알려줘 코드 생성 실수를 줄이고 프로젝트 스타일에 맞는 코드를 만들도록 돕습니다.
+
+또한 "--preset" 기능을 통해 디자인 시스템, 테마, 폰트 등을 하나의 코드로 공유하거나 적용할 수 있습니다.
+Claude, Codex, v0 같은 AI 코딩 도구에서도 동일한 preset을 사용할 수 있습니다.</description><pubDate>Sat, 07 Mar 2026 08:01:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVk2PovIMmX</guid></item><item><title>주소 :
+https://ui.shadcn.com/docs/cli</title><link>https://www.threads.net/@choi.openai/post/DVk2T-oD4Oi</link><description>주소 :
+https://ui.shadcn.com/docs/cli</description><pubDate>Sat, 07 Mar 2026 08:01:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVk2T-oD4Oi</guid></item><item><title>오픈AI는 개발자를 위해 공식 문서와 가이드를 지속적으로 제공하고 있습니다.
+
+OpenAI Developers 사이트에서는 API 사용법부터 C...</title><link>https://www.threads.net/@choi.openai/post/DVkt4Fsj5jv</link><description>오픈AI는 개발자를 위해 공식 문서와 가이드를 지속적으로 제공하고 있습니다.
+
+OpenAI Developers 사이트에서는 API 사용법부터 ChatGPT, Codex 같은 개발 도구 활용 방법까지 다양한 문서를 확인할 수 있습니다.
+
+예를 들어 프롬프트 작성 방법, 에이전트 구축, 검색 증강 생성(RAG) 활용, 음성 AI 개발 같은 내용을 다루는 가이드와 예제가 공개되어 있습니다.
+
+“Codex Prompting Guide”, “Realtime Prompting Guide”, “Building a Voice Assistant with the Agents SDK” 같은 문서를 확인해보시는 것도 많은 도움이 됩니다.</description><pubDate>Sat, 07 Mar 2026 06:47:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkt4Fsj5jv</guid></item><item><title>자료 :
+https://developers.openai.com/cookbook</title><link>https://www.threads.net/@choi.openai/post/DVkt3_dD0R6</link><description>자료 :
+https://developers.openai.com/cookbook</description><pubDate>Sat, 07 Mar 2026 06:47:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkt3_dD0R6</guid></item><item><title>오픈AI가 GPT-5.4 프롬프트 가이드를 공개했습니다.
 
 핵심은 좋은 결과를 위해 긴 프롬프트보다 작업 완료 기준, 도구 사용 규칙, 검증 단...</title><link>https://www.threads.net/@choi.openai/post/DVkacJYjzJW</link><description>오픈AI가 GPT-5.4 프롬프트 가이드를 공개했습니다.
 
@@ -28,15 +51,4 @@ AI가 취약점을 찾는 능력은 매우 뛰어나지만 실제 공격 코드(
 
 앤트로픽은 앞으로 Claude를 활용해 Linux 커널 등 주요 오픈소스의 보안 취약점 탐지에도 활용할 계획이라고 밝혔습니다.</description><pubDate>Sat, 07 Mar 2026 02:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkQakbAOEn</guid></item><item><title>발표내용 :
 https://www.anthropic.com/news/mozilla-firefox-security</title><link>https://www.threads.net/@choi.openai/post/DVkQbmiAKFZ</link><description>발표내용 :
-https://www.anthropic.com/news/mozilla-firefox-security</description><pubDate>Sat, 07 Mar 2026 02:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkQbmiAKFZ</guid></item><item><title>앤트로픽이 기업용 AI 도입을 쉽게 하기 위한 "Claude Marketplace"를 프리뷰 형태로 제공하고 있습니다.
-
-기업들은 이 마켓을 통...</title><link>https://www.threads.net/@choi.openai/post/DVkGJRPDsLe</link><description>앤트로픽이 기업용 AI 도입을 쉽게 하기 위한 "Claude Marketplace"를 프리뷰 형태로 제공하고 있습니다.
-
-기업들은 이 마켓을 통해 Claude 기반 AI 서비스를 한곳에서 도입하고 구매할 수 있습니다. GitLab, Harvey, Lovable, Replit, RogoAI, Snowflake 등 다양한 업체의 AI 솔루션이 포함됩니다.
-
-또한 기존에 앤트로픽과 사용 계약을 맺은 기업이라면 기존 Claude 사용 예산을 마켓플레이스 서비스에도 활용할 수 있는 구조입니다. 기업들이 여러 AI 도구를 따로 계약하지 않고 도입할 수 있도록 만든 방식입니다.</description><pubDate>Sat, 07 Mar 2026 01:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkGJRPDsLe</guid></item><item><title>앤트로픽의 개발 도구 "Claude Code" 데스크톱 버전에 로컬 예약 작업 기능이 추가되었습니다.
-사용자가 원하는 작업을 일정으로 등록하면 ...</title><link>https://www.threads.net/@choi.openai/post/DVj71RJgNjr</link><description>앤트로픽의 개발 도구 "Claude Code" 데스크톱 버전에 로컬 예약 작업 기능이 추가되었습니다.
-사용자가 원하는 작업을 일정으로 등록하면 컴퓨터가 켜져 있는 동안 자동으로 실행됩니다.
-
-예를 들어 몇 시간마다 에러 로그를 확인하고 수정이 필요한 부분을 PR로 생성하도록 설정할 수 있습니다.
-로그, 데이터 소스 등을 연결하면 다양한 자동화 활용이 가능할 것으로 보입니다.</description><pubDate>Fri, 06 Mar 2026 23:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVj71RJgNjr</guid></item></channel></rss>
+https://www.anthropic.com/news/mozilla-firefox-security</description><pubDate>Sat, 07 Mar 2026 02:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkQbmiAKFZ</guid></item></channel></rss>
