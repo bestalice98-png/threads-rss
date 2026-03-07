@@ -1,84 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 06 Mar 2026 16:06:35 +0000</lastBuildDate><item><title>세계 최고의 수학자 중 한 명인 테렌스 타오는 2026년 현재 인공지능이 수학적 발견에서 단순한 도구를 넘어 '공동 저자(Co-author)' ...</title><link>https://www.threads.net/@choi.openai/post/DVjAmF5j_Ae</link><description>세계 최고의 수학자 중 한 명인 테렌스 타오는 2026년 현재 인공지능이 수학적 발견에서 단순한 도구를 넘어 '공동 저자(Co-author)' 수준으로 진화했다고 평가합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 07 Mar 2026 04:47:36 +0000</lastBuildDate><item><title>오픈AI가 GPT-5.4 프롬프트 가이드를 공개했습니다.
 
-그는 AI가 단순히 인간을 흉내 내는 것이 아니라, 수천 개의 문제를 동시에 처리하며 인간이 도달하기 힘든 추론의 지평을 넓히고 있다고 설명합니다.
+핵심은 좋은 결과를 위해 긴 프롬프트보다 작업 완료 기준, 도구 사용 규칙, 검증 단...</title><link>https://www.threads.net/@choi.openai/post/DVkacJYjzJW</link><description>오픈AI가 GPT-5.4 프롬프트 가이드를 공개했습니다.
 
-"2026년 수준의 AI는 적절히 활용될 경우 수학 및 여러 과학 분야에서 신뢰할 수 있는 공동 저자가 될 것입니다."</description><pubDate>Fri, 06 Mar 2026 14:54:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVjAmF5j_Ae</guid></item><item><title>풀영상 :
-https://youtu.be/vJnkMxx9CEs</title><link>https://www.threads.net/@choi.openai/post/DVjAlwujxw2</link><description>풀영상 :
-https://youtu.be/vJnkMxx9CEs</description><pubDate>Fri, 06 Mar 2026 14:52:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVjAlwujxw2</guid></item><item><title>호들갑 2번째 글.
+핵심은 좋은 결과를 위해 긴 프롬프트보다 작업 완료 기준, 도구 사용 규칙, 검증 단계를 분명하게 적어야 한다는 점입니다. 특히 리서치, 에이전트, 코딩 작업처럼 단계가 많은 경우 효과가 크다고 설명했습니다.
 
-나는 여기서 한 가지 더 흥미로운 흐름을 보고 있다.
-오래전부터 생각보다 많은 사람들이 프로그램을 다운로드하는 행위 자체를...</title><link>https://www.threads.net/@choi.openai/post/DVi54ABDx-W</link><description>호들갑 2번째 글.
+핵심 내용을 정리했습니다 🧵</description><pubDate>Sat, 07 Mar 2026 03:57:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkacJYjzJW</guid></item><item><title>1/ GPT-5.4의 토큰 효율성을 높이려면 출력의 구조와 길이를 엄격하게 통제해야 합니다. 
+모델이 요청을 반복하거나 불필요한 서론을 늘어놓지...</title><link>https://www.threads.net/@choi.openai/post/DVkacdnDwuQ</link><description>1/ GPT-5.4의 토큰 효율성을 높이려면 출력의 구조와 길이를 엄격하게 통제해야 합니다. 
+모델이 요청을 반복하거나 불필요한 서론을 늘어놓지 않도록 &lt;output_contract&gt; 및 &lt;verbosity_controls&gt; 태그를 사용하여 "요청된 섹션만 순서대로 출력할 것", "정보 밀도를 높일 것"을 명확히 지시해야 합니다.</description><pubDate>Sat, 07 Mar 2026 03:57:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkacdnDwuQ</guid></item><item><title>2/ 사용자와의 긴 대화에서는 지시가 중간에 바뀌거나 애매해질 수 있습니다.
+이를 대비해 &lt;default_follow_through_policy...</title><link>https://www.threads.net/@choi.openai/post/DVkacazD9Xf</link><description>2/ 사용자와의 긴 대화에서는 지시가 중간에 바뀌거나 애매해질 수 있습니다.
+이를 대비해 &lt;default_follow_through_policy&gt;를 설정해야 합니다. "가역적이고 위험이 낮은 작업은 묻지 말고 진행하되, 외부에 영향을 미치거나(이메일 발송, 결제 등) 비가역적인 작업은 반드시 허가를 구하라"는 규칙을 세워야 합니다.
+또한, 중간에 지시가 변경될 때는 &lt;task_update&gt; 태그를 통해 변경된 범위와 덮어쓸 규칙을 명시적으로 선언해야 모델이 혼란을 겪지 않습니다.</description><pubDate>Sat, 07 Mar 2026 03:57:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkacazD9Xf</guid></item><item><title>3/ GPT-5.4는 다중 도구 사용에 능하지만, 초기 문맥이 부족할 때는 도구 라우팅에 실패할 수 있습니다.
 
-나는 여기서 한 가지 더 흥미로운 흐름을 보고 있다.
-오래전부터 생각보다 많은 사람들이 프로그램을 다운로드하는 행위 자체를 점점 덜 하고 있다.
-과거에는 새로운 서비스를 사용하려면 먼저 프로그램을 설치하거나 앱을 다운로드하는 것이 자연스러운 과정이었다.
+따라서 작업이 끝날 때까지 끈질...</title><link>https://www.threads.net/@choi.openai/post/DVkacmjjz3a</link><description>3/ GPT-5.4는 다중 도구 사용에 능하지만, 초기 문맥이 부족할 때는 도구 라우팅에 실패할 수 있습니다.
 
-사람들은 새로운 서비스를 접할 때 앱을 설치하기보다는 먼저 웹에 방문한다.
-웹은 여전히 가장 낮은 진입 장벽을 가진 인터페이스이기 때문이다.
-URL 하나만 있으면 바로 접근할 수 있고, 설치나 설정이라는 과정 없이도 바로 경험을 시작할 수 있다.
+따라서 작업이 끝날 때까지 끈질기게 도구를 호출하도록 &lt;tool_persistence_rules&gt;를 부여해야 합니다.
 
-그래서 지금 많은 서비스들이 겪고 있는 문제 중 하나는 제품의 기능이 아니라 설치라는 행동 자체가 마찰이 되고 있다는 점이다.
+특히, "최종 행동을 취하기 전에 필요한 사전 검색(Prerequisite)이 완료되었는지 확인하라"는 &lt;dependency_checks&gt; 규칙은 필수적입니다.</description><pubDate>Sat, 07 Mar 2026 03:57:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkacmjjz3a</guid></item><item><title>앤트로픽이 Mozilla와 협력해 "Claude Opus 4.6"로 Firefox 보안 취약점을 찾는 연구 결과를 공개했습니다.
 
-이 지점에서 나는 AI 에이전트 시대의 소프트웨어 구조가 기존의 애플리케이션 패러다임과는 조금 다른 방향으로 흘러갈 가능성이 있다고 생각한다.</description><pubDate>Fri, 06 Mar 2026 13:53:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVi54ABDx-W</guid></item><item><title>지금까지의 소프트웨어는 기본적으로 로컬 애플리케이션 중심 구조로 앱을 설치하고, 그 앱이 로컬 환경에서 실행되고, 필요한 데이터와 API를 호출...</title><link>https://www.threads.net/@choi.openai/post/DVi54aVjyYe</link><description>지금까지의 소프트웨어는 기본적으로 로컬 애플리케이션 중심 구조로 앱을 설치하고, 그 앱이 로컬 환경에서 실행되고, 필요한 데이터와 API를 호출하는 구조였다.
+2주 동안 분...</title><link>https://www.threads.net/@choi.openai/post/DVkQakbAOEn</link><description>앤트로픽이 Mozilla와 협력해 "Claude Opus 4.6"로 Firefox 보안 취약점을 찾는 연구 결과를 공개했습니다.
 
-하지만 에이전트 중심 컴퓨팅이 본격화되면 애플리케이션이라는 개념 자체가 점점 더 추상화된 레이어로 올라갈 것이라고 생각하고 있다.
+2주 동안 분석한 결과 총 22개의 취약점을 발견했고, 이 중 14개가 높은 심각도의 취약점으로 분류되었습니다.
+이는 2025년 Firefox에서 수정된 높은 심각도 취약점의 약 20% 수준입니다. 대부분은 Firefox 148 버전에서 이미 수정되었습니다.
 
-사용자가 직접 앱을 설치하고 실행하는 것이 아니라 클라우드에서 동작하는 에이전트 레이어가 여러 시스템과 서비스를 연결하고 조정하는 구조로 바뀌지 않을까 생각해본다.
+하지만 한계도 여전히 존재했는데요.
+AI가 취약점을 찾는 능력은 매우 뛰어나지만 실제 공격 코드(exploit)를 만드는 능력은 아직 제한적이라는 점입니다. 수백 번의 실험 중 실제 공격까지 이어진 경우는 2건뿐이었습니다.
 
-그런 구조가 생성형 UI와 에이전트 레이어의 결합이라고 보고 지금의 웹과 같은 형태로 발전할 수 있지 않을까 기대해보는 이유기도 하다.
+앤트로픽은 앞으로 Claude를 활용해 Linux 커널 등 주요 오픈소스의 보안 취약점 탐지에도 활용할 계획이라고 밝혔습니다.</description><pubDate>Sat, 07 Mar 2026 02:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkQakbAOEn</guid></item><item><title>발표내용 :
+https://www.anthropic.com/news/mozilla-firefox-security</title><link>https://www.threads.net/@choi.openai/post/DVkQbmiAKFZ</link><description>발표내용 :
+https://www.anthropic.com/news/mozilla-firefox-security</description><pubDate>Sat, 07 Mar 2026 02:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkQbmiAKFZ</guid></item><item><title>앤트로픽이 기업용 AI 도입을 쉽게 하기 위한 "Claude Marketplace"를 프리뷰 형태로 제공하고 있습니다.
 
-그리고 그 에이전트는 뒤에서 웹 서비스, API, SaaS, 데이터베이스, 로컬 시스템 등을
-필요에 따라 조합하며 작업을 수행하는 구조다.</description><pubDate>Fri, 06 Mar 2026 13:53:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVi54aVjyYe</guid></item><item><title>이렇게 되면 사용자 입장에서의 인터페이스는 점점 더 단순해진다.
+기업들은 이 마켓을 통...</title><link>https://www.threads.net/@choi.openai/post/DVkGJRPDsLe</link><description>앤트로픽이 기업용 AI 도입을 쉽게 하기 위한 "Claude Marketplace"를 프리뷰 형태로 제공하고 있습니다.
 
-앱을 찾고, 설치하고, 계정을 만들고, 환경을 설정하는 과정 대신, 그저 의도...</title><link>https://www.threads.net/@choi.openai/post/DVi543cj56u</link><description>이렇게 되면 사용자 입장에서의 인터페이스는 점점 더 단순해진다.
+기업들은 이 마켓을 통해 Claude 기반 AI 서비스를 한곳에서 도입하고 구매할 수 있습니다. GitLab, Harvey, Lovable, Replit, RogoAI, Snowflake 등 다양한 업체의 AI 솔루션이 포함됩니다.
 
-앱을 찾고, 설치하고, 계정을 만들고, 환경을 설정하는 과정 대신, 그저 의도를 표현하는 인터페이스 하나만 남게 될 가능성이 있다.
+또한 기존에 앤트로픽과 사용 계약을 맺은 기업이라면 기존 Claude 사용 예산을 마켓플레이스 서비스에도 활용할 수 있는 구조입니다. 기업들이 여러 AI 도구를 따로 계약하지 않고 도입할 수 있도록 만든 방식입니다.</description><pubDate>Sat, 07 Mar 2026 01:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVkGJRPDsLe</guid></item><item><title>앤트로픽의 개발 도구 "Claude Code" 데스크톱 버전에 로컬 예약 작업 기능이 추가되었습니다.
+사용자가 원하는 작업을 일정으로 등록하면 ...</title><link>https://www.threads.net/@choi.openai/post/DVj71RJgNjr</link><description>앤트로픽의 개발 도구 "Claude Code" 데스크톱 버전에 로컬 예약 작업 기능이 추가되었습니다.
+사용자가 원하는 작업을 일정으로 등록하면 컴퓨터가 켜져 있는 동안 자동으로 실행됩니다.
 
-결국, 에이전트가 얼마나 많은 시스템을 자연스럽게 추상화하고 연결할 수 있는가가 중요해진다는 의미이다.
-
-기존 소프트웨어 생태계와 충돌하지 않으면서, 그 위에 얹히는 상위 레이어의 운영체제 같은 존재가 되는 것이다.
-
-물론 이런 시도가 챗GPT의 APPs 기능과 닮아있다고 생각이드나 제품적으로 완벽하지가 않다는점에 기술의 성숙속도와 시장의 반응은 결코 일치하지 않는다는 점을 보여주는 것 같다.</description><pubDate>Fri, 06 Mar 2026 13:53:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVi543cj56u</guid></item><item><title>스마트폰 이후로 우리는 여전히 웹/앱 중심 인터페이스 안에서 살고 있다.
-하지만 에이전트 중심 컴퓨팅이 성숙해질수록 AI 네이티브 폼팩터가 새롭...</title><link>https://www.threads.net/@choi.openai/post/DVi55Wbj2At</link><description>스마트폰 이후로 우리는 여전히 웹/앱 중심 인터페이스 안에서 살고 있다.
-하지만 에이전트 중심 컴퓨팅이 성숙해질수록 AI 네이티브 폼팩터가 새롭게 등장할 필요성이 점점 대두되고 있는 것 같다.
-
-그리고 만약 그런 디바이스가 등장한다면 그 안에서 돌아가는 소프트웨어의 기본 단위는
-지금 우리가 익숙한 앱이 아니라 에이전트가 될 것이라고 본다.
-
-기존의 소비자들이 소비하던 콘텐츠를 에이전트 중심으로 어떻게 옮겨가야할지, 아니면 안드레 카파시가 제안한 LLM OS가 중심이되어 모든 소비 콘텐츠는 알고리즘 중심으로 생성되어야하는 것인지 앞으로 발전해야할 기술의 장벽도 높고 해결해야할 과제도 많으면서 그 과정에서 기다리고 있는 과도기는 고민을 더 많이 낳게 만드는 것 같다.</description><pubDate>Fri, 06 Mar 2026 13:54:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVi55Wbj2At</guid></item><item><title>나는 최근 Codex 앱이 주는 가치가 생각보다 훨씬 크다고 느끼고 있다.
-
-개발이라는 행위를 바라보는 인터페이스 자체가 바뀌고 있다는 느낌이 ...</title><link>https://www.threads.net/@choi.openai/post/DViygpZD53s</link><description>나는 최근 Codex 앱이 주는 가치가 생각보다 훨씬 크다고 느끼고 있다.
-
-개발이라는 행위를 바라보는 인터페이스 자체가 바뀌고 있다는 느낌이 강하기 때문이다.
-
-그동안 많은 개발자들이 터미널이나 WSL 환경에서 Claude Code, 기존 Codex CLI 등을 사용해 왔고, 유연하고 확장성이 높으며 자신만의 워크플로우를 만들기에도 좋다.
-
-하지만 솔직히 말하면 이런 방식은 여전히 개발자들의 영역이라는 느낌이 강하다. 일반 사용자 입장에서는 접근 자체가 쉽지 않다.
-
-이는 비개발자나 대중에게는 접근하기 어려운 그들만의 전유물처럼 느껴졌던 것이 사실이다.</description><pubDate>Fri, 06 Mar 2026 12:49:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DViygpZD53s</guid></item><item><title>이 지점에서 나는 Codex 앱을 보며 약간 GPT-3 모먼트와 비슷한 감각을 느끼고 있다.
-물론 기술적인 의미에서의 GPT-3급 혁신이라는 뜻...</title><link>https://www.threads.net/@choi.openai/post/DViyhGWD5sx</link><description>이 지점에서 나는 Codex 앱을 보며 약간 GPT-3 모먼트와 비슷한 감각을 느끼고 있다.
-물론 기술적인 의미에서의 GPT-3급 혁신이라는 뜻은 아니다. 오히려 더 정확히 말하면 인터페이스의 혁신에 가깝다고 생각을 하고 있다.
-
-개발이라는 행위를 CLI와 설정 중심의 환경에서 꺼내어 대화 인터페이스와 에이전트 운영 환경으로 옮겨 놓았기 때문이다.
-
-과거를 떠올려 보면 기술 제품에서 지나친 유연성이 항상 성공으로 이어지지는 않았다.
-구글의 모듈형 스마트폰 프로젝트였던 프로젝트 아라가 대표적인 사례라고 생각이든다.
-사용자가 여러 모듈을 조합해 자신만의 스마트폰을 만들 수 있다는 철학은 굉장히 매력적으로 들렸지만, 실제 제품 경험은 오히려 복잡해졌다.
-
-지금 AI 개발 환경도 비슷한 느낌을 받고 있다.</description><pubDate>Fri, 06 Mar 2026 12:49:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DViyhGWD5sx</guid></item><item><title>MCP, 플러그인, 다양한 에이전트 툴, 각종 설정들을 조합해 세팅을 직접 바꿔가며 최적의 조합을 찾는 과정은 긱(Geek)들에게는 즐거움이겠지...</title><link>https://www.threads.net/@choi.openai/post/DViyhl8j3TQ</link><description>MCP, 플러그인, 다양한 에이전트 툴, 각종 설정들을 조합해 세팅을 직접 바꿔가며 최적의 조합을 찾는 과정은 긱(Geek)들에게는 즐거움이겠지만, 이것이 과연 범용적인 제품 경험으로 이어질 수 있는가에 대해서는 한 번쯤 생각해 볼 필요가 있다고 생각한다.
-
-Codex 앱은 이러한 파편화된 환경을 샌드박스 기반의 통합 UI로 묶어내어, 일반 소비자도 즉시 가치를 창출할 수 있는 완제품의 형태를 제시하고 있다고 생각한다.
-
-복잡한 설정이나 툴체인을 직접 관리하기보다 AI 에이전트에게 작업을 위임하고 그것을 하나의 인터페이스에서 관리하는 방식이기 때문이다.
-
-특히 로컬 시스템에 접근해서 환경을 이해하고 필요한 작업을 실행하는 모습은 아직도 꽤 강한 인상을 준다.</description><pubDate>Fri, 06 Mar 2026 12:49:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DViyhl8j3TQ</guid></item><item><title>물론, 지금의 Codex나 대부분의 AI 코딩 환경은 개발 과정까지는 상당히 자동화하고 있지만, 배포와 운영까지 일반 사용자가 자연스럽게 이어가...</title><link>https://www.threads.net/@choi.openai/post/DViyiGMjzoq</link><description>물론, 지금의 Codex나 대부분의 AI 코딩 환경은 개발 과정까지는 상당히 자동화하고 있지만, 배포와 운영까지 일반 사용자가 자연스럽게 이어가기에는 여전히 장벽이 존재한다.
-
-누구나 코드를 만들 수 있는 시대는 이미 열렸지만,
-누구나 서비스를 운영할 수 있는 시대는 아직 완전히 열리지는 않았기 때문이다.
-
-최근 OpenClaw가 유행하던 시기에 맥 미니를 2대를 구매했는데, 그때 처음 설치한 것이 npm도 아니고 brew도 아닌 Codex였다.
-
-그리고 Codex에게 로컬 시스템의 full access 권한을 주고 공식 문서를 참고하면서 보안에 문제가 없는 범위 안에서 필요한 것들을 전부 설치하고 자동으로 설정하도록 요청했다.
-
-Codex는 하나의 프롬프트로 스스로 브라우저를 탐색하고, 의존성 패키지를 다운로드하며, 로컬 환경을 완벽하게 구축했다. 대부분의 과정이 자연스럽게 진행되는 모습을 보면서 나는 꽤 강한 “와우 모먼트”를 느꼈다.</description><pubDate>Fri, 06 Mar 2026 12:49:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DViyiGMjzoq</guid></item><item><title>현시간 민심 체크</title><link>https://www.threads.net/@choi.openai/post/DVis4fXD6qb</link><description>현시간 민심 체크</description><pubDate>Fri, 06 Mar 2026 12:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVis4fXD6qb</guid></item></channel></rss>
+예를 들어 몇 시간마다 에러 로그를 확인하고 수정이 필요한 부분을 PR로 생성하도록 설정할 수 있습니다.
+로그, 데이터 소스 등을 연결하면 다양한 자동화 활용이 가능할 것으로 보입니다.</description><pubDate>Fri, 06 Mar 2026 23:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVj71RJgNjr</guid></item></channel></rss>
