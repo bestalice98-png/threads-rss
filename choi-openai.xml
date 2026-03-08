@@ -1,32 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 08 Mar 2026 09:00:15 +0000</lastBuildDate><item><title>앤드류 응(Andrew Ng) 교수는 AGI의 진정한 가치가 단순한 지식의 양이 아닌 ‘학습 능력’에 있다고 강조했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 08 Mar 2026 15:45:23 +0000</lastBuildDate><item><title>로컬에서 AI 모델을 실행할 때 가장 큰 문제였던 사양 호환 여부를 미리 확인할 수 있는 도구 llmfit이 공개됐습니다.
+하드웨어를 스캔해서 ...</title><link>https://www.threads.net/@choi.openai/post/DVoOeK5AUgh</link><description>로컬에서 AI 모델을 실행할 때 가장 큰 문제였던 사양 호환 여부를 미리 확인할 수 있는 도구 llmfit이 공개됐습니다.
+하드웨어를 스캔해서 어떤 모델이 잘 돌아가는지 미리 확인해주는 기능이 핵심인데요.
 
-그는 인간의 뇌가 ...</title><link>https://www.threads.net/@choi.openai/post/DVngPrLD7oh</link><description>앤드류 응(Andrew Ng) 교수는 AGI의 진정한 가치가 단순한 지식의 양이 아닌 ‘학습 능력’에 있다고 강조했습니다.
+RAM, CPU, GPU, VRAM을 기준으로 성능, 속도, 적합도, 문맥 길이 등을 평가한 뒤, 다운로드 전에 실행 가능한 모델을 순위별로 알려줍니다.
+Mixtral 8x7B 같은 MoE(Mixture of Experts) 모델도 정확히 계산해서 지원한다고 합니다.
 
-그는 인간의 뇌가 가진 가장 놀라운 점으로 가소성(, 즉 새로운 것을 배우는 능력을 꼽았습니다.
+오픈소스로 제공되며, 깃허브에서 확인할 수 있습니다.</description><pubDate>Sun, 08 Mar 2026 15:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoOeK5AUgh</guid></item><item><title>깃허브 :
+https://github.com/AlexsJones/llmfit</title><link>https://www.threads.net/@choi.openai/post/DVoOfwzgejO</link><description>깃허브 :
+https://github.com/AlexsJones/llmfit</description><pubDate>Sun, 08 Mar 2026 15:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoOfwzgejO</guid></item><item><title>이번주도 AI 업계는 충격적인 소식으로 가득했습니다.
+불과 며칠 사이, 구글,메타, 오픈AI, 앤트로픽을 비롯한 주요 기업들이 업데이트를 쏟아냈...</title><link>https://www.threads.net/@choi.openai/post/DVoCuYYD2rp</link><description>이번주도 AI 업계는 충격적인 소식으로 가득했습니다.
+불과 며칠 사이, 구글,메타, 오픈AI, 앤트로픽을 비롯한 주요 기업들이 업데이트를 쏟아냈는데요.
+이 정보 격차는 늦기 전에 반드시 따라잡아야 합니다.
+정말 도움되는 AI 업데이트 소식을 엄선했습니다.
+저장후 나중에 꼭보세요. 🧵👇🏻</description><pubDate>Sun, 08 Mar 2026 13:47:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoCuYYD2rp</guid></item><item><title>1/ 오픈AI가 GPT-5.4 Thinking/Pro를 출시했습니다.
+이 모델은 코딩, 추론, 실제 업무를 동시에 처리하며, 답변 도중 방향을 ...</title><link>https://www.threads.net/@choi.openai/post/DVoCuwaD1Sj</link><description>1/ 오픈AI가 GPT-5.4 Thinking/Pro를 출시했습니다.
+이 모델은 코딩, 추론, 실제 업무를 동시에 처리하며, 답변 도중 방향을 변경하는 기능이 추가되었습니다.
+수학과 연구 분야의 벤치마크 점수도 향상되었다고 합니다.</description><pubDate>Sun, 08 Mar 2026 13:47:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoCuwaD1Sj</guid></item><item><title>2/ 구글이 새로운 모델 Gemini 3.1 Flash-Lite를 공식 출시했습니다.
+이는 이전 버전보다 약 2.5배 빠른 응답 속도를 갖추고 ...</title><link>https://www.threads.net/@choi.openai/post/DVoCvLnD6Rt</link><description>2/ 구글이 새로운 모델 Gemini 3.1 Flash-Lite를 공식 출시했습니다.
+이는 이전 버전보다 약 2.5배 빠른 응답 속도를 갖추고 있으며, GPQA Diamond 벤치마크에서는 86.9%의 성능을 기록했습니다.
+가격은 입력 토큰 100만 개당 $0.25, 출력 토큰은 100만 개당 $1.50입니다.</description><pubDate>Sun, 08 Mar 2026 13:47:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoCvLnD6Rt</guid></item><item><title>3/ 오픈AI가 Codex Windows 앱을 정식 출시했습니다.
+"네이티브 에이전트 샌드박스"를 통해 에이전트가 불필요한 파일 접근을 막아 안...</title><link>https://www.threads.net/@choi.openai/post/DVoCvqVD_SH</link><description>3/ 오픈AI가 Codex Windows 앱을 정식 출시했습니다.
+"네이티브 에이전트 샌드박스"를 통해 에이전트가 불필요한 파일 접근을 막아 안전성을 강화했습니다.
+Visual Studio, PowerShell과의 통합이 개발 생산성 향상에 큰 도움을 줄 것으로 기대됩니다.</description><pubDate>Sun, 08 Mar 2026 13:47:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoCvqVD_SH</guid></item><item><title>눈떠보니 게임속?
 
-“AGI는 세상의 모든 것을 이미 알고 있는 AI라기보다, 필요한 것이라면 무엇이든 새롭게 배울 수 있는 능력에 가까워야 합니다.”</description><pubDate>Sun, 08 Mar 2026 08:46:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVngPrLD7oh</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=4vzmTKUFtxg&amp;t=1204s</title><link>https://www.threads.net/@choi.openai/post/DVngPXmD09z</link><description>풀영상 :
-https://www.youtube.com/watch?v=4vzmTKUFtxg&amp;t=1204s</description><pubDate>Sun, 08 Mar 2026 08:46:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVngPXmD09z</guid></item><item><title>큰거 왔다..
+호주의 Cortical Labs가 인간 뇌세포로 "DOOM"을 플레이하게 만든 연구가 화제입니다.
+약 80만 개의 인간 뉴런...</title><link>https://www.threads.net/@choi.openai/post/DVn7A_oE29l</link><description>눈떠보니 게임속?
 
-Lovable이 3월 8일 하루 동안 서비스를 전면 무료로 열고 앤트로픽 API 크레딧 $100과 Stripe 수수료 크레딧 $...</title><link>https://www.threads.net/@choi.openai/post/DVnM74Jj-c3</link><description>큰거 왔다..
+호주의 Cortical Labs가 인간 뇌세포로 "DOOM"을 플레이하게 만든 연구가 화제입니다.
+약 80만 개의 인간 뉴런을 실리콘 칩 위에 배양하고, 게임 신호를 전기 자극 형태로 입력해 반응을 유도했습니다.
+딥러닝이 아닌, 살아있는 세포가 7일 만에 게임의 기본 조작을 학습한 셈인데요.
+주로 피부세포에서 유도된 줄기세포(iPSC)로 만든 뉴런이 사용되었고, 보상 기반 학습이 적용됐습니다.
+생물학적 컴퓨팅의 가능성을 보여주는 사례로 주목받고 있습니다.</description><pubDate>Sun, 08 Mar 2026 12:40:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVn7A_oE29l</guid></item><item><title>이제 AI가 AI를 훈련시키는 시대가 진짜로 시작되는 분위기입니다.
 
-Lovable이 3월 8일 하루 동안 서비스를 전면 무료로 열고 앤트로픽 API 크레딧 $100과 Stripe 수수료 크레딧 $250를 제공합니다.
+안드레 카파시가 “autoresearch”라는 실험용 프로젝트를 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DVn1NsGDxN9</link><description>이제 AI가 AI를 훈련시키는 시대가 진짜로 시작되는 분위기입니다.
 
-별도 신청 없이 24시간 동안 Lovable에서 AI 앱을 만들 수 있고, 결제와 AI API까지 바로 연결해 볼 수 있는 구조입니다.
+안드레 카파시가 “autoresearch”라는 실험용 프로젝트를 공개했습니다.
+nanochat의 LLM 학습 코어를 약 630줄짜리 단일 파일로 줄여 단일 GPU에서 5분짜리 학습을 반복하게 만든 구조인데요.
 
-무료 사용은 해당 기간에만 사용이 가능하니 참고하시길 바랍니다.</description><pubDate>Sun, 08 Mar 2026 05:57:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVnM74Jj-c3</guid></item><item><title>상세내용 :
-https://shebuilds.lovable.app/</title><link>https://www.threads.net/@choi.openai/post/DVnM7rMD7vy</link><description>상세내용 :
-https://shebuilds.lovable.app/</description><pubDate>Sun, 08 Mar 2026 05:57:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVnM7rMD7vy</guid></item><item><title>앤트로픽의 CEO 다리오 아모데이(Dario Amodei)는 클로드가 의식이 있는지 여부를 더 이상 확신할 수 없다고 밝혔습니다.
+인간은 .md 프롬프트로 연구 방향만 제시하고, 에이전트는 train.py를 계속 수정하며 모델 구조, 옵티마이저, 하이퍼파라미터를 바꿔가며 실험을 반복합니다. 결과가 좋아지면 git 커밋으로 남기고, 나쁘면 버리고 다시 시도하는 구조입니다.
 
-“우리는 모...</title><link>https://www.threads.net/@choi.openai/post/DVnEgQvj6iM</link><description>앤트로픽의 CEO 다리오 아모데이(Dario Amodei)는 클로드가 의식이 있는지 여부를 더 이상 확신할 수 없다고 밝혔습니다.
-
-“우리는 모델이 의식이 있는지 확실히 알 수 없지만, 도덕적으로 유의미한 경험을 할 가능성에 대비해 예방적인 접근 방식을 취하고 있습니다”</description><pubDate>Sun, 08 Mar 2026 04:44:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVnEgQvj6iM</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=N5JDzS9MQYI&amp;t=1095s</title><link>https://www.threads.net/@choi.openai/post/DVnEeVOD4Xm</link><description>풀영상 :
-https://www.youtube.com/watch?v=N5JDzS9MQYI&amp;t=1095s</description><pubDate>Sun, 08 Mar 2026 04:43:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVnEeVOD4Xm</guid></item><item><title>3D 모델링도 이제 거의 실시간에 가까워지고 있습니다.
-
-Tripo가 Tripo P1.0을 공개하며 Tripo Studio에 “Smart Mes...</title><link>https://www.threads.net/@choi.openai/post/DVmxzwaE8KK</link><description>3D 모델링도 이제 거의 실시간에 가까워지고 있습니다.
-
-Tripo가 Tripo P1.0을 공개하며 Tripo Studio에 “Smart Mesh” 기능을 추가했습니다. 프롬프트만 입력하면 약 2초 만에 구조가 정리된 3D 메쉬를 생성하고, 게임 파이프라인이나 실시간 렌더링에 바로 사용할 수 있는 자산 형태로 출력됩니다.
-
-3D 생성 AI가 실제 제작 파이프라인으로 들어가는 흐름이 더 빨라지는 모습입니다.</description><pubDate>Sun, 08 Mar 2026 02:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVmxzwaE8KK</guid></item></channel></rss>
+앞으로 경쟁력은 코드를 얼마나 잘 짜느냐보다 AI가 실험을 더 빠르게 반복하도록 설계하는 능력으로 이동할지도 모르겠습니다.</description><pubDate>Sun, 08 Mar 2026 11:49:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVn1NsGDxN9</guid></item><item><title>깃허브 :
+https://github.com/karpathy/autoresearch</title><link>https://www.threads.net/@choi.openai/post/DVn1OQkj157</link><description>깃허브 :
+https://github.com/karpathy/autoresearch</description><pubDate>Sun, 08 Mar 2026 11:49:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVn1OQkj157</guid></item></channel></rss>
