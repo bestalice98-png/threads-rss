@@ -1,45 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 08 Mar 2026 15:45:23 +0000</lastBuildDate><item><title>로컬에서 AI 모델을 실행할 때 가장 큰 문제였던 사양 호환 여부를 미리 확인할 수 있는 도구 llmfit이 공개됐습니다.
-하드웨어를 스캔해서 ...</title><link>https://www.threads.net/@choi.openai/post/DVoOeK5AUgh</link><description>로컬에서 AI 모델을 실행할 때 가장 큰 문제였던 사양 호환 여부를 미리 확인할 수 있는 도구 llmfit이 공개됐습니다.
-하드웨어를 스캔해서 어떤 모델이 잘 돌아가는지 미리 확인해주는 기능이 핵심인데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 09 Mar 2026 05:13:33 +0000</lastBuildDate><item><title>얀 르쿤 교수가 인간 수준의 범용 인공지능(AGI)을 쫓는 것은 잘못된 방향이라는 내용의 논문을 발표했습니다.
 
-RAM, CPU, GPU, VRAM을 기준으로 성능, 속도, 적합도, 문맥 길이 등을 평가한 뒤, 다운로드 전에 실행 가능한 모델을 순위별로 알려줍니다.
-Mixtral 8x7B 같은 MoE(Mixture of Experts) 모델도 정확히 계산해서 지원한다고 합니다.
+핵심은 인간 역시 완벽한 '범용...</title><link>https://www.threads.net/@choi.openai/post/DVprPNZkfhW</link><description>얀 르쿤 교수가 인간 수준의 범용 인공지능(AGI)을 쫓는 것은 잘못된 방향이라는 내용의 논문을 발표했습니다.
 
-오픈소스로 제공되며, 깃허브에서 확인할 수 있습니다.</description><pubDate>Sun, 08 Mar 2026 15:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoOeK5AUgh</guid></item><item><title>깃허브 :
-https://github.com/AlexsJones/llmfit</title><link>https://www.threads.net/@choi.openai/post/DVoOfwzgejO</link><description>깃허브 :
-https://github.com/AlexsJones/llmfit</description><pubDate>Sun, 08 Mar 2026 15:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoOfwzgejO</guid></item><item><title>이번주도 AI 업계는 충격적인 소식으로 가득했습니다.
-불과 며칠 사이, 구글,메타, 오픈AI, 앤트로픽을 비롯한 주요 기업들이 업데이트를 쏟아냈...</title><link>https://www.threads.net/@choi.openai/post/DVoCuYYD2rp</link><description>이번주도 AI 업계는 충격적인 소식으로 가득했습니다.
-불과 며칠 사이, 구글,메타, 오픈AI, 앤트로픽을 비롯한 주요 기업들이 업데이트를 쏟아냈는데요.
-이 정보 격차는 늦기 전에 반드시 따라잡아야 합니다.
-정말 도움되는 AI 업데이트 소식을 엄선했습니다.
-저장후 나중에 꼭보세요. 🧵👇🏻</description><pubDate>Sun, 08 Mar 2026 13:47:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoCuYYD2rp</guid></item><item><title>1/ 오픈AI가 GPT-5.4 Thinking/Pro를 출시했습니다.
-이 모델은 코딩, 추론, 실제 업무를 동시에 처리하며, 답변 도중 방향을 ...</title><link>https://www.threads.net/@choi.openai/post/DVoCuwaD1Sj</link><description>1/ 오픈AI가 GPT-5.4 Thinking/Pro를 출시했습니다.
-이 모델은 코딩, 추론, 실제 업무를 동시에 처리하며, 답변 도중 방향을 변경하는 기능이 추가되었습니다.
-수학과 연구 분야의 벤치마크 점수도 향상되었다고 합니다.</description><pubDate>Sun, 08 Mar 2026 13:47:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoCuwaD1Sj</guid></item><item><title>2/ 구글이 새로운 모델 Gemini 3.1 Flash-Lite를 공식 출시했습니다.
-이는 이전 버전보다 약 2.5배 빠른 응답 속도를 갖추고 ...</title><link>https://www.threads.net/@choi.openai/post/DVoCvLnD6Rt</link><description>2/ 구글이 새로운 모델 Gemini 3.1 Flash-Lite를 공식 출시했습니다.
-이는 이전 버전보다 약 2.5배 빠른 응답 속도를 갖추고 있으며, GPQA Diamond 벤치마크에서는 86.9%의 성능을 기록했습니다.
-가격은 입력 토큰 100만 개당 $0.25, 출력 토큰은 100만 개당 $1.50입니다.</description><pubDate>Sun, 08 Mar 2026 13:47:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoCvLnD6Rt</guid></item><item><title>3/ 오픈AI가 Codex Windows 앱을 정식 출시했습니다.
-"네이티브 에이전트 샌드박스"를 통해 에이전트가 불필요한 파일 접근을 막아 안...</title><link>https://www.threads.net/@choi.openai/post/DVoCvqVD_SH</link><description>3/ 오픈AI가 Codex Windows 앱을 정식 출시했습니다.
-"네이티브 에이전트 샌드박스"를 통해 에이전트가 불필요한 파일 접근을 막아 안전성을 강화했습니다.
-Visual Studio, PowerShell과의 통합이 개발 생산성 향상에 큰 도움을 줄 것으로 기대됩니다.</description><pubDate>Sun, 08 Mar 2026 13:47:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVoCvqVD_SH</guid></item><item><title>눈떠보니 게임속?
+핵심은 인간 역시 완벽한 '범용' 지능이 아니라, 그저 생존에 특화된 전문가일 뿐이라는 점입니다. 걷고 보는 것이 범용처럼 보일 뿐, 그 영역을 벗어나면 인간의 능력은 한계가 명확하다는 것이죠.
 
-호주의 Cortical Labs가 인간 뇌세포로 "DOOM"을 플레이하게 만든 연구가 화제입니다.
-약 80만 개의 인간 뉴런...</title><link>https://www.threads.net/@choi.openai/post/DVn7A_oE29l</link><description>눈떠보니 게임속?
+그가 새롭게 제시한 목표는 인간을 흉내 내는 AGI가 아니라, 얼마나 빠르게 새로운 것을 학습할 수 있는지에 초점을 맞춘 '초인적 적응 지능(SAI)'입니다.
 
-호주의 Cortical Labs가 인간 뇌세포로 "DOOM"을 플레이하게 만든 연구가 화제입니다.
-약 80만 개의 인간 뉴런을 실리콘 칩 위에 배양하고, 게임 신호를 전기 자극 형태로 입력해 반응을 유도했습니다.
-딥러닝이 아닌, 살아있는 세포가 7일 만에 게임의 기본 조작을 학습한 셈인데요.
-주로 피부세포에서 유도된 줄기세포(iPSC)로 만든 뉴런이 사용되었고, 보상 기반 학습이 적용됐습니다.
-생물학적 컴퓨팅의 가능성을 보여주는 사례로 주목받고 있습니다.</description><pubDate>Sun, 08 Mar 2026 12:40:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVn7A_oE29l</guid></item><item><title>이제 AI가 AI를 훈련시키는 시대가 진짜로 시작되는 분위기입니다.
+결국 인간의 한계를 모방하는 거대한 단일 모델은 정답이 아닐 수 있습니다.
+앞으로 AI 발전의 진짜 척도는 '인간처럼 할 수 있느냐'가 아니라, '처음 보는 문제에 얼마나 빨리 적응하느냐'로 넘어가게 될 것 같습니다.</description><pubDate>Mon, 09 Mar 2026 05:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVprPNZkfhW</guid></item><item><title>논문 :
+https://arxiv.org/abs/2602.23643v1</title><link>https://www.threads.net/@choi.openai/post/DVprQGFkezG</link><description>논문 :
+https://arxiv.org/abs/2602.23643v1</description><pubDate>Mon, 09 Mar 2026 05:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVprQGFkezG</guid></item><item><title>와… 진짜 소름 돋는 결과가 공개됐습니다.
 
-안드레 카파시가 “autoresearch”라는 실험용 프로젝트를 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DVn1NsGDxN9</link><description>이제 AI가 AI를 훈련시키는 시대가 진짜로 시작되는 분위기입니다.
+스타트업 Eon Systems가 세계 최초로 초파리의 뇌를 완벽히 복제해 가상 육체와 연결한 시뮬레...</title><link>https://www.threads.net/@choi.openai/post/DVpg-L4iikZ</link><description>와… 진짜 소름 돋는 결과가 공개됐습니다.
 
-안드레 카파시가 “autoresearch”라는 실험용 프로젝트를 공개했습니다.
-nanochat의 LLM 학습 코어를 약 630줄짜리 단일 파일로 줄여 단일 GPU에서 5분짜리 학습을 반복하게 만든 구조인데요.
+스타트업 Eon Systems가 세계 최초로 초파리의 뇌를 완벽히 복제해 가상 육체와 연결한 시뮬레이션을 선보였습니다.
 
-인간은 .md 프롬프트로 연구 방향만 제시하고, 에이전트는 train.py를 계속 수정하며 모델 구조, 옵티마이저, 하이퍼파라미터를 바꿔가며 실험을 반복합니다. 결과가 좋아지면 git 커밋으로 남기고, 나쁘면 버리고 다시 시도하는 구조입니다.
+해당 모델은 12만 5천 개의 뉴런과 5천만 개의 시냅스를 생물학적으로 복사해 낸 가상의 뇌입니다. 여기에 물리 엔진(MuJoCo)으로 구현된 육체를 결합하여, 뇌가 스스로 시각 정보를 받아들이고 몸을 조종하는 인지-행동 루프를 완벽히 구현해냈습니다.
 
-앞으로 경쟁력은 코드를 얼마나 잘 짜느냐보다 AI가 실험을 더 빠르게 반복하도록 설계하는 능력으로 이동할지도 모르겠습니다.</description><pubDate>Sun, 08 Mar 2026 11:49:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVn1NsGDxN9</guid></item><item><title>깃허브 :
-https://github.com/karpathy/autoresearch</title><link>https://www.threads.net/@choi.openai/post/DVn1OQkj157</link><description>깃허브 :
-https://github.com/karpathy/autoresearch</description><pubDate>Sun, 08 Mar 2026 11:49:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVn1OQkj157</guid></item></channel></rss>
+과거에 뇌만 따로 가동하거나 강화학습으로 움직임을 학습시킨 적은 있었지만, 실제 생물학적 연결망을 그대로 본떠 여러 자연스러운 행동을 이끌어낸 것은 처음이라고 말합니다.
+
+해당 기업은 향후 쥐를 넘어 인간 뇌의 완전한 디지털 업로드를 목표로 하고 있습니다.
+물리적인 육체 없이 가상 공간에서 뇌가 살아 움직이는 진정한 마인드 업로드 시대가 성큼 다가온 것 같습니다.</description><pubDate>Mon, 09 Mar 2026 03:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVpg-L4iikZ</guid></item><item><title>주소 :
+https://eon.systems/</title><link>https://www.threads.net/@choi.openai/post/DVphASuiq50</link><description>주소 :
+https://eon.systems/</description><pubDate>Mon, 09 Mar 2026 03:31:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVphASuiq50</guid></item><item><title>코드조차 없는 도스(DOS) 게임이 AI의 6시간 단독 작업 끝에 최신 언어로 완벽히 부활했습니다.
+
+구글 연구원 아마르 레시가 Codex 5....</title><link>https://www.threads.net/@choi.openai/post/DVpWrKXkfE5</link><description>코드조차 없는 도스(DOS) 게임이 AI의 6시간 단독 작업 끝에 최신 언어로 완벽히 부활했습니다.
+
+구글 연구원 아마르 레시가 Codex 5.4를 이용해 과거 고전 게임 'SkyRoads'를 리버스 엔지니어링한 결과를 공개했는데요. 해당 모델은 6시간 동안 스스로 EXE 파일을 분해하고 에셋을 추출한 뒤, 렌더러를 처음부터 다시 구축해 냈습니다.
+
+여기서 진짜 주목할 점은 AI가 게임 구조를 완전히 이해하고 가장 효율적인 최신 언어인 'Rust'를 스스로 선택해 시스템을 재건했다는 것입니다.
+
+방치되어 있던 과거의 수많은 고전 게임과 낡은 프로그램들이 AI를 통해 새로운 생명을 얻는 시대가 열리고 있습니다.</description><pubDate>Mon, 09 Mar 2026 02:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVpWrKXkfE5</guid></item><item><title>깃허브 :
+https://github.com/ammaarreshi/SkyRoads-Codex</title><link>https://www.threads.net/@choi.openai/post/DVpWsL6kRW7</link><description>깃허브 :
+https://github.com/ammaarreshi/SkyRoads-Codex</description><pubDate>Mon, 09 Mar 2026 02:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVpWsL6kRW7</guid></item><item><title>3D 그래픽 작업에서 가장 손이 많이 가는 과정 중 하나가 곧 프롬프트 한 줄로 대체될지도 모르겠습니다.
+
+3D 생성 플랫폼 Meshy에서 텍스...</title><link>https://www.threads.net/@choi.openai/post/DVpMSnegKjg</link><description>3D 그래픽 작업에서 가장 손이 많이 가는 과정 중 하나가 곧 프롬프트 한 줄로 대체될지도 모르겠습니다.
+
+3D 생성 플랫폼 Meshy에서 텍스트만 입력하면 완벽하게 이어지는(Seamless) PBR 텍스처를 만들어내는 기능을 공개했습니다.
+기존에는 작업자가 Base, Normal, Roughness, Height 맵을 일일이 굽고 이음새를 수정해야 했지만, 이제는 명령어 하나로 실무에 필요한 모든 맵을 한 번에 생성합니다.
+
+형태를 스케치하는 초기 단계를 지나, 실제 작업에서 가장 많은 시간을 잡아먹는 텍스처링 공정까지 AI가 직접 덜어주고 있는 흐름입니다.
+
+이미지 생성을 넘어 3D 에셋 파이프라인 전반으로 AI가 스며드는 속도가 매섭습니다.
+3D 제작 워크플로우에서 수작업과 프롬프트의 비중이 앞으로 어떻게 달라질지 지켜봐야겠습니다.</description><pubDate>Mon, 09 Mar 2026 00:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVpMSnegKjg</guid></item></channel></rss>
