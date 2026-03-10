@@ -1,40 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 10 Mar 2026 10:07:00 +0000</lastBuildDate><item><title>alphaXiv가 Claude Code를 위해 고안한 'SKILL.md'를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 10 Mar 2026 17:35:05 +0000</lastBuildDate><item><title>🚨 속보) 퍼플렉시티 Comet iOS 출시</title><link>https://www.threads.net/@choi.openai/post/DVtfBtLkcAz</link><description>🚨 속보) 퍼플렉시티 Comet iOS 출시</description><pubDate>Tue, 10 Mar 2026 16:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVtfBtLkcAz</guid></item><item><title>틱톡의 바이트댄스가 ‘AI 슈퍼 에이전트’인 DeerFlow 2.0을 오픈소스로 공개하며 깃허브 트렌드 1위를 휩쓸고 있습니다.
 
-논문 PDF 원문을 통째로 파싱하는 대신, 해당 플랫...</title><link>https://www.threads.net/@choi.openai/post/DVsoDfWD7oi</link><description>alphaXiv가 Claude Code를 위해 고안한 'SKILL.md'를 공개했습니다.
+리서치부터 코...</title><link>https://www.threads.net/@choi.openai/post/DVtUtkYDgRp</link><description>틱톡의 바이트댄스가 ‘AI 슈퍼 에이전트’인 DeerFlow 2.0을 오픈소스로 공개하며 깃허브 트렌드 1위를 휩쓸고 있습니다.
 
-논문 PDF 원문을 통째로 파싱하는 대신, 해당 플랫폼에서 제공하는 구조화된 AI 친화적 오버뷰 데이터를 직접 가져와 분석하는 방식입니다.
-그동안 논문 PDF 파싱 과정에서 수식이나 표가 깨져 AI가 잘못된 정보를 전달하던 병목 현상을 해결하겠다는 취지입니다.
+리서치부터 코딩, 웹사이트 구축, 발표 자료 제작까지 혼자서 끝내버리는 자율형 시스템입니다.
 
-물론 복잡한 수식이나 하이퍼파라미터를 완벽히 재현하려면 원문 PDF의 디테일이 여전히 중요하겠지만, 방대한 논문 속에서 핵심 맥락을 빠르게 짚어내는 단계에서는 효율이 크게 개선될 것으로 보입니다.</description><pubDate>Tue, 10 Mar 2026 08:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVsoDfWD7oi</guid></item><item><title>스킬 :
-https://www.alphaxiv.org/skills/alphaxiv-paper-lookup/SKILL.md</title><link>https://www.threads.net/@choi.openai/post/DVsoEmdDzUa</link><description>스킬 :
-https://www.alphaxiv.org/skills/alphaxiv-paper-lookup/SKILL.md</description><pubDate>Tue, 10 Mar 2026 08:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVsoEmdDzUa</guid></item><item><title>드디어 노션이 '문서 도구'의 탈을 완전히 벗어던지려는 것 같습니다.
+AI 전용 가상 환경(Docker)을 갖추고 있어, 직접 코드를 실행하고 파일을 조작하며 결과물을 만들 수 있는데요
+큰 과제를 주면 여러 개의 서브 에이전트로 쪼개 병렬로 작업을 처리합니다.</description><pubDate>Tue, 10 Mar 2026 15:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVtUtkYDgRp</guid></item><item><title>깃허브 :
+https://github.com/bytedance/deer-flow</title><link>https://www.threads.net/@choi.openai/post/DVtUufSjhah</link><description>깃허브 :
+https://github.com/bytedance/deer-flow</description><pubDate>Tue, 10 Mar 2026 15:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVtUufSjhah</guid></item><item><title>🚨 속보 ) 칼 갈았다.. 이제 구글 타임이다..
 
-노션이 데이터베이스의 수많은 정보를 한눈에 관리할 수 있는 '대시보드' ...</title><link>https://www.threads.net/@choi.openai/post/DVsdvPkDR1F</link><description>드디어 노션이 '문서 도구'의 탈을 완전히 벗어던지려는 것 같습니다.
+구글이 워크스페이스에 Gemini를 전면 통합했습니다.
+이제 구글 문서, 시트, 슬라이드, ...</title><link>https://www.threads.net/@choi.openai/post/DVtQLI3mbSb</link><description>🚨 속보 ) 칼 갈았다.. 이제 구글 타임이다..
 
-노션이 데이터베이스의 수많은 정보를 한눈에 관리할 수 있는 '대시보드' 뷰를 정식 출시했습니다.
+구글이 워크스페이스에 Gemini를 전면 통합했습니다.
+이제 구글 문서, 시트, 슬라이드, 드라이브 전반에서 AI의 도움을 받을 수 있습니다.
+특히 인상적인 건 AI가 만든 슬라이드를 사용자가 직접 자유롭게 수정할 수 있고, 내 드라이브 안의 파일들을 근거 삼아 맥락을 완벽히 파악한 글쓰기가 가능해졌다는 점입니다.
 
-그동안 표, 보드, 차트 등을 확인하기 위해 일일이 뷰를 전환했다면, 이제는 한 화면에 위젯처럼 자유롭게 배치해 나만의 관제 센터를 만들 수 있습니다.
+최근 Perplexity 같은 라이징 스타들이 문서 작업 영역까지 공격적으로 확장하자 구글이 강력한 생태계 파워로 맞불을 놓는 모습인데요. 
+이제 정보를 찾아 옮기는 번거로움 없이, 내 데이터 위에서 즉시 결과물을 뽑아내는 워크플로우가 완성되었습니다.</description><pubDate>Tue, 10 Mar 2026 14:22:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVtQLI3mbSb</guid></item><item><title>국가기록원에 다녀왔습니다.
 
-특히 'Notion Agent'와의 결합을 통해 "내 프로젝트 데이터베이스로 요약 대시보드 그려줘"라고 말만 하면 AI가 알아서 레이아웃을 구성해 줍니다.</description><pubDate>Tue, 10 Mar 2026 07:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVsdvPkDR1F</guid></item><item><title>자세히 알아보기 :
-https://www.notion.com/ko/help/dashboards</title><link>https://www.threads.net/@choi.openai/post/DVsdwSFDX1p</link><description>자세히 알아보기 :
-https://www.notion.com/ko/help/dashboards</description><pubDate>Tue, 10 Mar 2026 07:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVsdwSFDX1p</guid></item><item><title>Claude Code Review가 오늘 핫 이슈이지만, Codex에서도 이미 해당 기능을 지원하고 있는데요.
+강의자로 초대받았지만, 돌아오는 길에는 더 많은 생각을 안고 나오게 된 자리였습니다.
 
-챗GPT 구독자라면 추가 비용 ...</title><link>https://www.threads.net/@choi.openai/post/DVsTbUpAC2r</link><description>Claude Code Review가 오늘 핫 이슈이지만, Codex에서도 이미 해당 기능을 지원하고 있는데요.
+아직 전달력이 부족하다는 생...</title><link>https://www.threads.net/@choi.openai/post/DVtOr8Cjyg6</link><description>국가기록원에 다녀왔습니다.
 
-챗GPT 구독자라면 추가 비용 없이 깃허브에서 바로 연동해 쓸 수 있습니다.
+강의자로 초대받았지만, 돌아오는 길에는 더 많은 생각을 안고 나오게 된 자리였습니다.
 
-chatgpt.com/codex에 접속해 계정을 연결하고 리뷰 기능을 활성화하면 됩니다.
-모든 PR을 검토하거나 본인 것만 선택할 수 있고, 필요할 때만 ‘@codex review’로 호출할 수도 있습니다. 특히 AGENTS.md 파일을 통해 보안이나 성능 등 우선순위를 설정하면 불필요한 알람은 줄이고 핵심적인 피드백만 받을 수 있습니다.
+아직 전달력이 부족하다는 생각도 들었고, 전하고 싶은 이야기는 너무 많았기 때문입니다.
 
-앤트로픽이 건당 과금으로 전문성을 강조한다면, 오픈AI는 구독 생태계 안에서 개발자의 워크플로우를 선점하려는 모양새입니다.</description><pubDate>Tue, 10 Mar 2026 05:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVsTbUpAC2r</guid></item><item><title>이제 Codex도 침대에 누워서 스마트폰으로 하세요.
+특히 AI라는 도구를 다루는 사람으로서 기술의 가능성과 동시에 윤리, 구조, 그리고 우리가 어떤 ‘시스템’ 위에서 그것을 사용해야 하는지에 대한 고민이 계속 머릿속을 맴돌았습니다.
 
-AI 코딩 에이전트인 Codex를 아이폰으로 원격 제어할 수 있는 오픈소스 프로젝트 'R...</title><link>https://www.threads.net/@choi.openai/post/DVsJHtqiuY8</link><description>이제 Codex도 침대에 누워서 스마트폰으로 하세요.
+인공지능은 분명 강력한 도구입니다. 
+하지만 현장에서 느끼는 것은 늘 하나의 질문이었던 것 같습니다.
 
-AI 코딩 에이전트인 Codex를 아이폰으로 원격 제어할 수 있는 오픈소스 프로젝트 'Remodex'가 공개되었습니다.
+우리는 이것을 어디까지 ‘도구’로 사용할 것인가, 그리고 언제부터 ‘대체’하려는 시도를 시작하게 되는가.
 
-터미널에서 QR 코드만 스캔하면 바로 연결되어 프롬프트를 보내거나 Git 관리, 작업 현황 모니터링까지 모바일에서 가능합니다.
+기술의 발전을 지켜보는 입장에서, 무엇이 정답이라고 단정하기는 점점 더 어려워지고 있습니다.
 
-조만간 카페에서 폰만 붙잡고 서비스를 배포하는 풍경이 전혀 낯설지 않게 될지도 모르겠습니다.</description><pubDate>Tue, 10 Mar 2026 04:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVsJHtqiuY8</guid></item><item><title>깃허브 :
-https://github.com/Emanuele-web04/remodex</title><link>https://www.threads.net/@choi.openai/post/DVsJJ5uinRz</link><description>깃허브 :
-https://github.com/Emanuele-web04/remodex</description><pubDate>Tue, 10 Mar 2026 04:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVsJJ5uinRz</guid></item></channel></rss>
+그래서 더더욱 기록의 의미를 생각하게 됩니다.</description><pubDate>Tue, 10 Mar 2026 14:08:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVtOr8Cjyg6</guid></item><item><title>지금 우리는 눈으로 보고도 무엇이 진실인지 쉽게 확신하기 어려운 시대로 들어가고 있습니다.
+
+인공지능이 생성하는 방대한 정보와 파편화된 데이터가...</title><link>https://www.threads.net/@choi.openai/post/DVtOr4fD-vG</link><description>지금 우리는 눈으로 보고도 무엇이 진실인지 쉽게 확신하기 어려운 시대로 들어가고 있습니다.
+
+인공지능이 생성하는 방대한 정보와 파편화된 데이터가 세상을 덮을수록, 역설적으로 변하지 않는 원본 기록의 가치는 더 강해지고 있습니다.
+
+그런 의미에서 국가기록원이 기억과 진실을 지키는 사회의 마지막 기준점일지도 모릅니다.
+
+기록이 오염되고, 지식이 왜곡될 가능성이 커지는 시대 속에서도 묵묵히 현장을 지키며 기록하고 보존하는 분들의 모습이 인상 깊었습니다. 
+
+그 자리에 잠시나마 함께할 수 있었던 것에 감사드립니다.
+
+개인적으로는 어떤 분야보다도 기록의 영역만큼은 AI가 쉽게 대체하는 방향으로 흘러가지 않았으면 좋겠습니다.
+
+생산성과 편의가 역사의 해석이나 기록 보존의 가치보다 앞서게 된다면 우리가 지켜야 할 기준이 흔들릴 수도 있기 때문입니다.
+
+그래서 더더욱, 현장에서 묵묵히 기록을 지키는 분들께 깊은 존경을 전합니다. 
+그리고 그 과정을 배우고, 이해할 수 있었던 오늘에 감사드립니다.</description><pubDate>Tue, 10 Mar 2026 14:08:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVtOr4fD-vG</guid></item></channel></rss>
