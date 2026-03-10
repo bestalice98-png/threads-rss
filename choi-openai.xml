@@ -1,81 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 09 Mar 2026 17:38:19 +0000</lastBuildDate><item><title>Microsoft가 "Copilot Cowork" 기능을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 10 Mar 2026 05:01:39 +0000</lastBuildDate><item><title>이제 Codex도 침대에 누워서 스마트폰으로 하세요.
 
-Microsoft 365 안에서 작업을 대신 수행해주는 기능으로, 예를...</title><link>https://www.threads.net/@choi.openai/post/DVqsLN6kV6D</link><description>Microsoft가 "Copilot Cowork" 기능을 공개했습니다.
+AI 코딩 에이전트인 Codex를 아이폰으로 원격 제어할 수 있는 오픈소스 프로젝트 'R...</title><link>https://www.threads.net/@choi.openai/post/DVsJHtqiuY8</link><description>이제 Codex도 침대에 누워서 스마트폰으로 하세요.
 
-Microsoft 365 안에서 작업을 대신 수행해주는 기능으로, 예를 들어, 회의 일정을 정리하거나 고객 미팅 자료를 준비하고, 기업 리서치 자료를 정리하고, 제품 출시 계획을 작성하는 일까지 맡길 수 있습니다.
+AI 코딩 에이전트인 Codex를 아이폰으로 원격 제어할 수 있는 오픈소스 프로젝트 'Remodex'가 공개되었습니다.
 
-사용자가 원하는 결과를 말하면, Cowork는 Outlook, Teams, Excel 등에서 필요한 데이터를 기반으로 계획을 세우고 작업을 진행합니다.
+터미널에서 QR 코드만 스캔하면 바로 연결되어 프롬프트를 보내거나 Git 관리, 작업 현황 모니터링까지 모바일에서 가능합니다.
 
-실행 과정은 사용자에게 확인을 받으면서 진행되기 때문에 통제권은 유지됩니다. 기업용 환경에 맞춰 보안과 규정 준수도 고려됐고, Claude Cowork와 같은 모델 기술도 함께 활용됩니다.
+조만간 카페에서 폰만 붙잡고 서비스를 배포하는 풍경이 전혀 낯설지 않게 될지도 모르겠습니다.</description><pubDate>Tue, 10 Mar 2026 04:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVsJHtqiuY8</guid></item><item><title>깃허브 :
+https://github.com/Emanuele-web04/remodex</title><link>https://www.threads.net/@choi.openai/post/DVsJJ5uinRz</link><description>깃허브 :
+https://github.com/Emanuele-web04/remodex</description><pubDate>Tue, 10 Mar 2026 04:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVsJJ5uinRz</guid></item><item><title>학생 개발자들에게는 이보다 더 매력적인 제안이 있을까 싶습니다.
 
-현재는 일부 고객 대상으로 테스트 중이며, 3월 말부터 Frontier 프로그램을 통해 확대될 예정입니다.</description><pubDate>Mon, 09 Mar 2026 14:28:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqsLN6kV6D</guid></item><item><title>발표내용 :
-https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cow...</title><link>https://www.threads.net/@choi.openai/post/DVqsQ7xj0Jb</link><description>발표내용 :
-https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/</description><pubDate>Mon, 09 Mar 2026 14:28:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqsQ7xj0Jb</guid></item><item><title>CLI 도구를 이용해 기존 소프트웨어를 AI 워크플로우에 연결해주는 CLI-Anything 프로젝트가 공개되었습니다.
+Zed가 대학생과 교직원을 대상으로 1년간 'Zed Pro' 플랜을 무료로 지...</title><link>https://www.threads.net/@choi.openai/post/DVr-43bjS0o</link><description>학생 개발자들에게는 이보다 더 매력적인 제안이 있을까 싶습니다.
 
-기존 프로그램을 다시 개...</title><link>https://www.threads.net/@choi.openai/post/DVqlo6ngcGL</link><description>CLI 도구를 이용해 기존 소프트웨어를 AI 워크플로우에 연결해주는 CLI-Anything 프로젝트가 공개되었습니다.
+Zed가 대학생과 교직원을 대상으로 1년간 'Zed Pro' 플랜을 무료로 지원하는 ‘Zed for Students’를 공개했습니다
+매달 10달러 상당의 AI 토큰 크레딧과 무제한 편집 예측(edit predictions) 기능을 포함하고 있는데요.
 
-기존 프로그램을 다시 개발할 필요 없이 명령줄 인터페이스(CLI)를 하나 추가하면 OpenClaw, Claude Code, nanobot, Cursor 같은 AI 에이전트 도구에서 바로 사용할 수 있다고 합니다.
+Zed는 '실시간 멀티플레이어 협업'과 'AI 통합'을 통해 같은 파일에서 여러 명의 커서가 움직이고 음성 채팅까지 에디터 안에서 해결할 수 있습니다.
 
-예를 들어 Premiere로 정밀 영상 편집을 하거나 Photoshop에서 PSD 원본과 레이어를 유지한 채 작업하면서 AI를 활용하는 방식입니다.
+앤드류 응 교수가 "코딩은 제2의 수학"이라 강조했듯, 도구의 성능이 곧 생산성인 시대입니다. 학생들이 비용 부담 없이 고사양 도구로 협업 습관을 형성하는 과정은 향후 생태계 판도에 큰 영향을 줄 것입니다.</description><pubDate>Tue, 10 Mar 2026 02:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVr-43bjS0o</guid></item><item><title>주소 :
+https://zed.dev/education</title><link>https://www.threads.net/@choi.openai/post/DVr-5u4DZpb</link><description>주소 :
+https://zed.dev/education</description><pubDate>Tue, 10 Mar 2026 02:30:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVr-5u4DZpb</guid></item><item><title>🚨 드디어 구글이 실험 중인 AI 도구 Pomelli가 170개국 이상으로 확대되었습니다.
+Pomelli는 사용자의 웹사이트 URL만 입력하면,...</title><link>https://www.threads.net/@choi.openai/post/DVr1UUVFVvo</link><description>🚨 드디어 구글이 실험 중인 AI 도구 Pomelli가 170개국 이상으로 확대되었습니다.
+Pomelli는 사용자의 웹사이트 URL만 입력하면, 해당 비즈니스의 특성을 파악한 뒤 브랜드에 맞는 콘텐츠, 캠페인 구성, 색상 및 문구까지 자동으로 제안해주는 도구입니다.
+브랜드 정체성을 반영한 마케팅 콘텐츠를 빠르게, 그리고 대규모로 제작할 수 있다는 점이 특징입니다.</description><pubDate>Tue, 10 Mar 2026 01:07:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVr1UUVFVvo</guid></item><item><title>주소 :
+https://labs.google.com/pomelli/about/</title><link>https://www.threads.net/@choi.openai/post/DVr1XW2D5ce</link><description>주소 :
+https://labs.google.com/pomelli/about/</description><pubDate>Tue, 10 Mar 2026 01:07:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVr1XW2D5ce</guid></item><item><title>이제 외출하고 돌아오면 로봇이 거실을 완벽하게 정리해두는 시대가 정말 코앞까지 다가온 것 같습니다.
 
-또한 민감한 파일을 외부로 보내지 않고 로컬에서 처리하는 워크플로우에도 활용할 수 있다고 합니다.</description><pubDate>Mon, 09 Mar 2026 13:30:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqlo6ngcGL</guid></item><item><title>깃허브 :
-https://github.com/HKUDS/CLI-Anything</title><link>https://www.threads.net/@choi.openai/post/DVqlqNEAUL-</link><description>깃허브 :
-https://github.com/HKUDS/CLI-Anything</description><pubDate>Mon, 09 Mar 2026 13:31:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqlqNEAUL-</guid></item><item><title>GPT-5.4가 출시된지 일주일이 지났습니다.
- 
-해외 커뮤니티에서는 집값 데이터를 전부 긁어 Google Sheet에 정리하고, "After ...</title><link>https://www.threads.net/@choi.openai/post/DVqbZLSj1sv</link><description>GPT-5.4가 출시된지 일주일이 지났습니다.
- 
-해외 커뮤니티에서는 집값 데이터를 전부 긁어 Google Sheet에 정리하고, "After Effects"를 직접 조작해 애니메이션을 만들고, 게임까지 한 번에 제작하는 사례까지 등장했는데요.
+피규어(Figure)가 Helix 02의 ...</title><link>https://www.threads.net/@choi.openai/post/DVrnRtCAIou</link><description>이제 외출하고 돌아오면 로봇이 거실을 완벽하게 정리해두는 시대가 정말 코앞까지 다가온 것 같습니다.
 
-지금 실제로 올라온 놀라운 활용 사례들을 모아 정리했습니다🧵</description><pubDate>Mon, 09 Mar 2026 12:01:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqbZLSj1sv</guid></item><item><title>1/ "Pokemon Red" 디컴파일 데이터를 GPT-5.4에 넣자, "Excel" 수식만으로 움직이는 오버월드 데모 게임이 만들어졌습니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DVqaefcDJn3</link><description>1/ "Pokemon Red" 디컴파일 데이터를 GPT-5.4에 넣자, "Excel" 수식만으로 움직이는 오버월드 데모 게임이 만들어졌습니다.
-코드나 게임 엔진 없이도 스프레드시트 안에서 직접 플레이 가능한 게임 화면을 구현한 사례입니다.
-
-x@HenrikTaro</description><pubDate>Mon, 09 Mar 2026 12:01:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqaefcDJn3</guid></item><item><title>2/ Codex와 GPT-5.4를 함께 사용해 "HTML"과 "JavaScript"만으로 브라우저에서 바로 실행되는 게임 프로토타입이 한 번에 ...</title><link>https://www.threads.net/@choi.openai/post/DVqaiJPDUm2</link><description>2/ Codex와 GPT-5.4를 함께 사용해 "HTML"과 "JavaScript"만으로 브라우저에서 바로 실행되는 게임 프로토타입이 한 번에 생성된 사례가 공개됐습니다.
-게임 엔진 없이도 코드 한 번 생성으로 플레이 가능한 웹 게임 데모가 만들어졌습니다.
-
-x@karankendre</description><pubDate>Mon, 09 Mar 2026 12:01:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqaiJPDUm2</guid></item><item><title>3/ GPT-5.4에 “자전거 타는 펠리칸 애니메이션 만들어줘”라고 입력하자 "After Effects"에서 레이어 생성, 애니메이션 설정, 스...</title><link>https://www.threads.net/@choi.openai/post/DVqamJOD2hv</link><description>3/ GPT-5.4에 “자전거 타는 펠리칸 애니메이션 만들어줘”라고 입력하자 "After Effects"에서 레이어 생성, 애니메이션 설정, 스크립트 실행까지 자동으로 진행됐습니다.
-영상 편집 툴을 직접 조작해 모션 그래픽 애니메이션을 만드는 데모가 공개된 사례입니다.</description><pubDate>Mon, 09 Mar 2026 12:01:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqamJOD2hv</guid></item><item><title>AI 해야 하는 건 알겠는데 어디서부터 시작해야 할지 모르겠다구요?
-
-AI 도입이 기업의 생존 필수 조건이 된 지금, 많은 스타트업이 매일 쏟아...</title><link>https://www.threads.net/@choi.openai/post/DVqQ7r1D5iq</link><description>AI 해야 하는 건 알겠는데 어디서부터 시작해야 할지 모르겠다구요?
-
-AI 도입이 기업의 생존 필수 조건이 된 지금, 많은 스타트업이 매일 쏟아지는 화려한 기술 트렌드와 실제 비즈니스 적용 사이에서 길을 잃고 방황하고 있습니다.
-
-실제 우리 서비스에 어떻게 AI를 적용하고 확장할지, 다른 혁신 기업들은 그 과정에서 어떤 뼈아픈 시행착오를 겪었는지 생생한 날 것의 경험이 그 어느 때보다 필요한 시점입니다.
-
-2026년 3월 17일 화요일, 코엑스 E홀에서 개최되는 AWS Unicorn Day 2026 Seoul행사에서는 스타트업이 직면한 핵심 과제인 AI 에이전트, 머신러닝, 데이터 기반 의사결정, AI 보안 전략 등을 중심으로 철저하게 실전 중심의 세션으로 운영될 예정인데요.
-
-특히 👇🏻</description><pubDate>Mon, 09 Mar 2026 10:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqQ7r1D5iq</guid></item><item><title>업스테이지, 로앤컴퍼니, Superb AI 등 혁신 스타트업 리더들이 직접 전하는 실제 구현 사례와 AWS 전문가의 기조연설을 통해 검증된 비즈...</title><link>https://www.threads.net/@choi.openai/post/DVqQ75rD4kn</link><description>업스테이지, 로앤컴퍼니, Superb AI 등 혁신 스타트업 리더들이 직접 전하는 실제 구현 사례와 AWS 전문가의 기조연설을 통해 검증된 비즈니스 성장 전략을 직접 확인하실 수 있습니다.
-
-한정된 좌석으로 조기 마감이 예상되니, 혼자가 아닌 함께 성장할 수 있는 이 기회를 놓치지 마시고 늦기 전에 바로 등록하시길 바랍니다
-
-📍 행사 정보
-3월 17일 / 코엑스 Hall E
-
-이번 행사는 스타트업이 실제로 AI 서비스를 구축하고 운영한 경험을 공유하는 자리라고 합니다.
-
-예를 들어 다음과 같은 주제를 메인으로 진행된다고 합니다.
-- Agentic AI 시스템 구축
-- 머신러닝 인프라 운영
-- 클라우드 네이티브 AI 아키텍처
-- 데이터 기반 의사결정
-- AI 보안과 운영 전략
-
-또 Amazon Bedrock, SageMaker, Amazon EKS 같은 AWS 기반 AI 인프라를 실제 서비스에 적용한 사례도 공유된다고 합니다.</description><pubDate>Mon, 09 Mar 2026 10:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqQ75rD4kn</guid></item><item><title>또한, 국내를 대표하는 AI 기업들이 'AI 서비스를 어떻게 만들었는지', '어떤 아키텍처를 선택했는지', '실제 운영 과정에서 어떤 문제를 겪...</title><link>https://www.threads.net/@choi.openai/post/DVqQ7qij6Tx</link><description>또한, 국내를 대표하는 AI 기업들이 'AI 서비스를 어떻게 만들었는지', '어떤 아키텍처를 선택했는지', '실제 운영 과정에서 어떤 문제를 겪었는지' 같은 경험을 이야기한다고 합니다.
-
-또한, 다음과 같은 프로그램도 운영되어 행사를 좀 더 입체감있게 즐길 수 있을 것 같은데요.
-👀 AI Experience Zone
-- AWS와 스타트업이 만든 AI 솔루션을 직접 체험
-
-💻 Kirothon 해커톤
-- AI 기반 코딩 환경에서 실제 프로젝트 구현
-
-🤝 Startup Networking Hub
-- 스타트업 리더들과 네트워킹
-
-AI 이야기는 정말 많이 나오지만
-AI 서비스를 실제로 만든 이야기를 들을 기회는 생각보다 많지 않습니다.
-
-좌석이 많지 않다고 AI 스타트업이나 개발 쪽에 있다면 AWS Unicorn Day 2026 Seoul 한번 확인해보셔도 좋을 것 같습니다.</description><pubDate>Mon, 09 Mar 2026 10:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqQ7qij6Tx</guid></item><item><title>지금 등록하기 :
-https://aws.amazon.com/startups/lp/aws-unicorn-day-2026-seoul?trk=2a33...</title><link>https://www.threads.net/@choi.openai/post/DVqQ7o3j8iK</link><description>지금 등록하기 :
-https://aws.amazon.com/startups/lp/aws-unicorn-day-2026-seoul?trk=2a33ded2-a038-4dbe-b4b6-76caf8ea8a82&amp;amp;sc_channel=sm</description><pubDate>Mon, 09 Mar 2026 10:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVqQ7o3j8iK</guid></item></channel></rss>
+피규어(Figure)가 Helix 02의 거실 정리 영상을 공개했는데요.
+가장 주목할 점은 이 모든 복잡한 동작이 별도의 알고리즘 설계 없이 데이터 학습만으로 이루어졌다는 사실입니다.
+환경이 계속 변하는 거실에서 해당 모델이 스스로 판단하고 전신을 활용해 효율적인 전략을 짜는 단계에 도달했습니다.
+하드웨어의 완성도보다 데이터가 쌓일수록 로봇이 할 수 있는 일의 범위가 기하급수적으로 늘어나는 확장성에 더 큰 의미가 있습니다.
+가사 노동의 완전한 자동화가 생각보다 훨씬 빠르게 우리 곁으로 다가올지도 모르겠습니다.</description><pubDate>Mon, 09 Mar 2026 23:05:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVrnRtCAIou</guid></item></channel></rss>
