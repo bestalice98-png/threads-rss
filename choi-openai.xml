@@ -1,36 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 12 Mar 2026 05:08:45 +0000</lastBuildDate><item><title>ElevenLabs에서 운영하는 ElevenCreative에 새로운 기능 "Flows"가 공개되었습니다.
-노드 기반 캔버스 형태로 이미지, 영상...</title><link>https://www.threads.net/@choi.openai/post/DVxWHeMgc3S</link><description>ElevenLabs에서 운영하는 ElevenCreative에 새로운 기능 "Flows"가 공개되었습니다.
-노드 기반 캔버스 형태로 이미지, 영상, 음성, 음악, 효과음 생성 모델을 하나의 파이프라인으로 연결해 실험할 수 있는 기능입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 12 Mar 2026 10:08:11 +0000</lastBuildDate><item><title>오픈AI CEO 샘 알트만은 자체 AI 칩 개발 프로젝트에 대해 "올해 말까지 대규모로 첫 번째 칩을 배포할 수 있을 것"이라며, 불과 몇 달 ...</title><link>https://www.threads.net/@choi.openai/post/DVx4hMMCm5r</link><description>오픈AI CEO 샘 알트만은 자체 AI 칩 개발 프로젝트에 대해 "올해 말까지 대규모로 첫 번째 칩을 배포할 수 있을 것"이라며, 불과 몇 달 안에 초기 제품이 나올 예정이라고 밝혔습니다.
 
-영상 생성 → 음성 생성 → lip-sync → 음악 추가 과정을 한 번에 연결해 콘텐츠를 만들 수 있으며, 같은 Flow를 여러 번 실행해 아바타·제품·목소리를 바꿔가며 다양한 광고 콘텐츠도 테스트할 수 있다고 합니다.</description><pubDate>Thu, 12 Mar 2026 04:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxWHeMgc3S</guid></item><item><title>TTS 모델에서 “환각” 문제를 거의 없앴다고 합니다.
+연산 인프라의 주권을 확보함으로써 AI 모델의 성능을 비약적으로 높이고 서비스 비용을 낮추겠다는 전략입니다.
 
-Hume AI가 첫 오픈소스 TTS 모델 TADA(Text Audio Dual Alig...</title><link>https://www.threads.net/@choi.openai/post/DVxLz7-jFna</link><description>TTS 모델에서 “환각” 문제를 거의 없앴다고 합니다.
+이는 하드웨어 병목 현상을 해결해 더 강력한 코딩 AI와 고도화된 지능형 서비스의 등장을 가속화할 것으로 기대됩니다.</description><pubDate>Thu, 12 Mar 2026 09:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVx4hMMCm5r</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=sTnl8O_BuuE</title><link>https://www.threads.net/@choi.openai/post/DVx4jyDCveS</link><description>풀영상 :
+https://www.youtube.com/watch?v=sTnl8O_BuuE</description><pubDate>Thu, 12 Mar 2026 09:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVx4jyDCveS</guid></item><item><title>샘 알트만은 이제 AGI라는 단어의 정의보다 실질적인 두 가지 '임계점'에 주목해야 한다고 말합니다.
 
-Hume AI가 첫 오픈소스 TTS 모델 TADA(Text Audio Dual Alignment)를 공개했습니다. 
+그는 “2028년 말쯤에는 데이터 센터 ...</title><link>https://www.threads.net/@choi.openai/post/DVxxc9-D5yL</link><description>샘 알트만은 이제 AGI라는 단어의 정의보다 실질적인 두 가지 '임계점'에 주목해야 한다고 말합니다.
 
-텍스트와 오디오를 따로 생성하는 방식이 아니라, 텍스트와 음성을 하나의 동기화된 스트림으로 동시에 생성하여 토큰 단위 불일치가 줄어들어 1,000개 이상의 테스트에서 콘텐츠 환각이 없었다고 합니다.
+그는 “2028년 말쯤에는 데이터 센터 내부의 인지 능력이 외부보다 더 커질 것”이라며 인류 전체의 지적 역량을 상회하는 시스템의 등장을 예고했습니다.
 
-속도도 유사한 LLM 기반 TTS보다 약 5배 빠르고, 2,048 토큰으로 약 700초 길이의 음성을 생성할 수 있다고 합니다. 기존 방식이 같은 토큰에서 약 70초 수준이었던 점을 보면 꽤 큰 차이입니다.
+두 번째는 리더십과 일하는 방식의 본질적인 변화입니다.
 
-음성 AI에서 성능보다 더 중요한 문제가 지연시간과 텍스트-음성 불일치였는데, 이 구조가 실제로 안정적으로 작동한다면 음성 에이전트나 실시간 AI 인터페이스 쪽에서 꽤 의미 있는 변화가 될 가능성이 있어 보입니다.</description><pubDate>Thu, 12 Mar 2026 02:59:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxLz7-jFna</guid></item><item><title>블로그 :
-https://www.hume.ai/blog/opensource-tada</title><link>https://www.threads.net/@choi.openai/post/DVxL01RDKfD</link><description>블로그 :
-https://www.hume.ai/blog/opensource-tada</description><pubDate>Thu, 12 Mar 2026 03:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxL01RDKfD</guid></item><item><title>진짜 데이터 하나 없이 가상 세계에서만 공부한 로봇이 현실에서 더 잘 움직인다면 믿으시겠습니까?
+인간은 더 이상 모든 실무와 지식을 직접 소유하는 존재가 아니라, “수많은 AI를 감독하고 인간의 판단력으로 최종 의사결정을 내리는 관리자”로 진화하게 됩니다.
 
-Ai2가 공개한 MolmoBot은 실제 데이터...</title><link>https://www.threads.net/@choi.openai/post/DVxBmdaD3KG</link><description>진짜 데이터 하나 없이 가상 세계에서만 공부한 로봇이 현실에서 더 잘 움직인다면 믿으시겠습니까?
+결국 개별적인 코딩이나 전문 지식 습득보다, AI라는 거대한 지능 레버리지를 어떻게 관리하고 그 결과에 책임을 질 것인가가 미래 일자리의 핵심이 될 것입니다.</description><pubDate>Thu, 12 Mar 2026 08:29:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxxc9-D5yL</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=sTnl8O_BuuE</title><link>https://www.threads.net/@choi.openai/post/DVxxbGgD89Q</link><description>풀영상 :
+https://www.youtube.com/watch?v=sTnl8O_BuuE</description><pubDate>Thu, 12 Mar 2026 08:28:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxxbGgD89Q</guid></item><item><title>오픈AI CEO 샘 알트만은 딥러닝의 발견을 "새로운 원소나 물리학의 근본 원리를 찾아낸 것"에 비유하며, 머지않아 AI의 핵심 원리가 "티셔츠...</title><link>https://www.threads.net/@choi.openai/post/DVxpZ12jQMJ</link><description>오픈AI CEO 샘 알트만은 딥러닝의 발견을 "새로운 원소나 물리학의 근본 원리를 찾아낸 것"에 비유하며, 머지않아 AI의 핵심 원리가 "티셔츠에 새길 수 있을 만큼 단순해질 것"이라고 예고했습니다.
 
-Ai2가 공개한 MolmoBot은 실제 데이터 없이 시뮬레이션 환경인 MolmoSpaces에서만 학습했는데도, 기존 SOTA 모델인 π0.5를 뛰어넘는 성능을 보여주며 ‘Sim-to-Real 제로샷’의 가능성을 증명했습니다.
+하지만 기술이 단순해진다고 해서 격차가 사라지는 것은 아닙니다.
 
-다만 가상 학습 데이터가 현실의 미세한 마찰이나 투명한 물체 조작 같은 물리적 변수까지 완벽히 대응할 수 있을지는 조금 더 지켜봐야 할 것 같습니다.</description><pubDate>Thu, 12 Mar 2026 01:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxBmdaD3KG</guid></item><item><title>발표내용 :
-https://allenai.org/blog/molmobot-robot-manipulation</title><link>https://www.threads.net/@choi.openai/post/DVxBnt6D-Qk</link><description>발표내용 :
-https://allenai.org/blog/molmobot-robot-manipulation</description><pubDate>Thu, 12 Mar 2026 01:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxBnt6D-Qk</guid></item><item><title>클라우드플레어가 직접 크롤러를 내놨다니, 이건 진짜 고양이한테 생선을 맡긴 격 아닌가요?
+알트만은 기술의 본질보다는 인프라의 규모, 학습 데이터의 질, 그리고 실질적인 산업 공정과의 결합 능력에서 진짜 승부가 갈릴 것이라고 강조했습니다.</description><pubDate>Thu, 12 Mar 2026 07:24:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxpZ12jQMJ</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=sTnl8O_BuuE</title><link>https://www.threads.net/@choi.openai/post/DVxqDvgD79z</link><description>풀영상 :
+https://www.youtube.com/watch?v=sTnl8O_BuuE</description><pubDate>Thu, 12 Mar 2026 07:24:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxqDvgD79z</guid></item><item><title>Google Research와 BIDMC가 공동 연구한 의료 AI 'AMIE'의 실제 임상 결과가 공개됐는데, 결과가 꽤 놀랍습니다.
 
-웹 보안과 봇 차단의 상징이었던 Cloudflare가...</title><link>https://www.threads.net/@choi.openai/post/DVw3Or1iaRN</link><description>클라우드플레어가 직접 크롤러를 내놨다니, 이건 진짜 고양이한테 생선을 맡긴 격 아닌가요?
+100명...</title><link>https://www.threads.net/@choi.openai/post/DVxgiq9gjoK</link><description>Google Research와 BIDMC가 공동 연구한 의료 AI 'AMIE'의 실제 임상 결과가 공개됐는데, 결과가 꽤 놀랍습니다.
 
-웹 보안과 봇 차단의 상징이었던 Cloudflare가 단 한 번의 API 호출로 사이트 전체를 긁어오는 /crawl 엔드포인트를 출시했습니다.
+100명의 환자를 대상으로 한 연구에서 진단 정확도 90%를 기록했고, 실시간 감독 중 단 한 번의 안전 사고도 발생하지 않았습니다. 환자들의 AI 신뢰도가 대화 후 오히려 높아졌다는 점이 핵심입니다.
 
-기존에 소개했던 Firecrawl처럼 별도의 스크립트나 브라우저 관리 없이도 웹사이트를 렌더링하고 Markdown이나 JSON 형식으로 데이터를 뽑아낼 수 있는데요.
+참여 환자군은 실제 병원 환경을 반영해 백인 비중이 높고 여성이 많았으나, 60대 이상이 절반을 넘는 실제 내원객 대비 젊은 층에 치우쳤다는 점은 데이터의 한계로 보입니다.
+또한 해당 모델은 신체 검사나 전자의무기록(EHR) 접근권이 없어 처방의 실무 효율성 면에서는 여전히 실제 의사가 우위에 있었습니다.
 
-RAG나 AI 모델 학습을 위해 대규모 데이터가 필요한 팀들에게는 상당히 강력한 도구가 될 것으로 보입니다.
-
-그동안 봇을 막는 인프라를 구축해온 기업이 이제는 데이터 수집을 인프라 서비스로 표준화하겠다고 나선 셈인데 AI 시대의 데이터 파이프라인이 점점 플랫폼화되는 흐름이 보이는 것 같습니다.</description><pubDate>Thu, 12 Mar 2026 00:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVw3Or1iaRN</guid></item></channel></rss>
+표면적인 기술력보다 '현장 안전성'을 입증하며 AI가 예진 도구로서 충분한 가능성을 보여줬다는 점이 중요합니다. 결국 AI가 의사를 대체하는 게 아니라, 의사가 환자에게 집중할 시간을 벌어주는 협력의 시대로 가는 속도가 빨라질 것 같습니다.</description><pubDate>Thu, 12 Mar 2026 06:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxgiq9gjoK</guid></item><item><title>발표내용 :
+https://research.google/blog/exploring-the-feasibility-of-conversational-...</title><link>https://www.threads.net/@choi.openai/post/DVxgnrOgsnr</link><description>발표내용 :
+https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study</description><pubDate>Thu, 12 Mar 2026 06:01:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxgnrOgsnr</guid></item></channel></rss>
