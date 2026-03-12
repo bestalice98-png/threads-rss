@@ -1,37 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 12 Mar 2026 10:08:11 +0000</lastBuildDate><item><title>오픈AI CEO 샘 알트만은 자체 AI 칩 개발 프로젝트에 대해 "올해 말까지 대규모로 첫 번째 칩을 배포할 수 있을 것"이라며, 불과 몇 달 ...</title><link>https://www.threads.net/@choi.openai/post/DVx4hMMCm5r</link><description>오픈AI CEO 샘 알트만은 자체 AI 칩 개발 프로젝트에 대해 "올해 말까지 대규모로 첫 번째 칩을 배포할 수 있을 것"이라며, 불과 몇 달 안에 초기 제품이 나올 예정이라고 밝혔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 12 Mar 2026 17:39:01 +0000</lastBuildDate><item><title>Sora가 영상 생성의 가장 큰 숙제였던 '일관성' 문제를 정면으로 해결하려나 봅니다.
 
-연산 인프라의 주권을 확보함으로써 AI 모델의 성능을 비약적으로 높이고 서비스 비용을 낮추겠다는 전략입니다.
+이번에 Beta 버전으로 출시된 'References'...</title><link>https://www.threads.net/@choi.openai/post/DVyvdRLDG0K</link><description>Sora가 영상 생성의 가장 큰 숙제였던 '일관성' 문제를 정면으로 해결하려나 봅니다.
 
-이는 하드웨어 병목 현상을 해결해 더 강력한 코딩 AI와 고도화된 지능형 서비스의 등장을 가속화할 것으로 기대됩니다.</description><pubDate>Thu, 12 Mar 2026 09:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVx4hMMCm5r</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=sTnl8O_BuuE</title><link>https://www.threads.net/@choi.openai/post/DVx4jyDCveS</link><description>풀영상 :
-https://www.youtube.com/watch?v=sTnl8O_BuuE</description><pubDate>Thu, 12 Mar 2026 09:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVx4jyDCveS</guid></item><item><title>샘 알트만은 이제 AGI라는 단어의 정의보다 실질적인 두 가지 '임계점'에 주목해야 한다고 말합니다.
+이번에 Beta 버전으로 출시된 'References' 기능은 캐릭터, 스타일, 소품, 카메라 움직임까지 데이터로 저장해 두고 다음 영상에서 그대로 재사용할 수 있게 해줍니다.
+그동안 AI 영상 제작은 매번 결과가 달라지는 '주사위 굴리기' 같아서 전문가들이 실제 작업에 쓰기엔 한계가 있었는데요.
 
-그는 “2028년 말쯤에는 데이터 센터 ...</title><link>https://www.threads.net/@choi.openai/post/DVxxc9-D5yL</link><description>샘 알트만은 이제 AGI라는 단어의 정의보다 실질적인 두 가지 '임계점'에 주목해야 한다고 말합니다.
+이제는 한 번 설정한 캐릭터가 다음 컷에서 갑자기 변할 걱정 없이, 일관된 흐름의 결과물을 뽑아낼 수 있게 될 것같습니다.</description><pubDate>Thu, 12 Mar 2026 17:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVyvdRLDG0K</guid></item><item><title>구글 맵이 10년 만에 역대급 업데이트를 단행하며 사실상 '지도 위의 AI 비서'로 진화했습니다.
 
-그는 “2028년 말쯤에는 데이터 센터 내부의 인지 능력이 외부보다 더 커질 것”이라며 인류 전체의 지적 역량을 상회하는 시스템의 등장을 예고했습니다.
+Gemini를 전면 도입한 'Ask Maps...</title><link>https://www.threads.net/@choi.openai/post/DVygHFNDCdy</link><description>구글 맵이 10년 만에 역대급 업데이트를 단행하며 사실상 '지도 위의 AI 비서'로 진화했습니다.
 
-두 번째는 리더십과 일하는 방식의 본질적인 변화입니다.
+Gemini를 전면 도입한 'Ask Maps' 기능은 "줄 서지 않고 충전할 수 있는 곳"처럼 복잡한 맥락이 필요한 질문에도 맞춤형 답을 내놓습니다.
+여기에 AI가 구현한 3D 가이드인 '몰입형 내비게이션'까지 더해져 공간을 시각화하는 수준이 한 차원 높아졌네요.
 
-인간은 더 이상 모든 실무와 지식을 직접 소유하는 존재가 아니라, “수많은 AI를 감독하고 인간의 판단력으로 최종 의사결정을 내리는 관리자”로 진화하게 됩니다.
+한국이 지도 데이터를 구글에게 제공한 만큼 앞으로 이런 기술들이 빠르게 들어올지 기대되는 것 같습니다.</description><pubDate>Thu, 12 Mar 2026 15:18:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVygHFNDCdy</guid></item><item><title>상세 내용 :
+https://blog.google/products-and-platforms/products/maps/ask-maps-immers...</title><link>https://www.threads.net/@choi.openai/post/DVygW1HD749</link><description>상세 내용 :
+https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation</description><pubDate>Thu, 12 Mar 2026 15:18:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVygW1HD749</guid></item><item><title>일론 머스크, "옵티머스 3는 세계에서 가장 진보한 로봇이 될 것"</title><link>https://www.threads.net/@choi.openai/post/DVyWXWoD5yb</link><description>일론 머스크, "옵티머스 3는 세계에서 가장 진보한 로봇이 될 것"</description><pubDate>Thu, 12 Mar 2026 13:52:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVyWXWoD5yb</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=N5KCm_55xeQ</title><link>https://www.threads.net/@choi.openai/post/DVyWWR_D9km</link><description>풀영상 :
+https://www.youtube.com/watch?v=N5KCm_55xeQ</description><pubDate>Thu, 12 Mar 2026 13:51:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVyWWR_D9km</guid></item><item><title>텐센트가 모델링부터 애니메이션까지 한 번에 끝내는 Tencent HY 3D Studio를 글로벌 출시했습니다
 
-결국 개별적인 코딩이나 전문 지식 습득보다, AI라는 거대한 지능 레버리지를 어떻게 관리하고 그 결과에 책임을 질 것인가가 미래 일자리의 핵심이 될 것입니다.</description><pubDate>Thu, 12 Mar 2026 08:29:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxxc9-D5yL</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=sTnl8O_BuuE</title><link>https://www.threads.net/@choi.openai/post/DVxxbGgD89Q</link><description>풀영상 :
-https://www.youtube.com/watch?v=sTnl8O_BuuE</description><pubDate>Thu, 12 Mar 2026 08:28:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxxbGgD89Q</guid></item><item><title>오픈AI CEO 샘 알트만은 딥러닝의 발견을 "새로운 원소나 물리학의 근본 원리를 찾아낸 것"에 비유하며, 머지않아 AI의 핵심 원리가 "티셔츠...</title><link>https://www.threads.net/@choi.openai/post/DVxpZ12jQMJ</link><description>오픈AI CEO 샘 알트만은 딥러닝의 발견을 "새로운 원소나 물리학의 근본 원리를 찾아낸 것"에 비유하며, 머지않아 AI의 핵심 원리가 "티셔츠에 새길 수 있을 만큼 단순해질 것"이라고 예고했습니다.
+이미지 하나를 넣으면 3D 모델 ...</title><link>https://www.threads.net/@choi.openai/post/DVyNESuEUHF</link><description>텐센트가 모델링부터 애니메이션까지 한 번에 끝내는 Tencent HY 3D Studio를 글로벌 출시했습니다
 
-하지만 기술이 단순해진다고 해서 격차가 사라지는 것은 아닙니다.
+이미지 하나를 넣으면 3D 모델 생성 → 토폴로지 → UV → 텍스처 → 리깅 → 애니메이션까지 이어지는 전체 제작 과정을 한 워크플로 안에서 처리하는 AI 작업 공간입니다.
 
-알트만은 기술의 본질보다는 인프라의 규모, 학습 데이터의 질, 그리고 실질적인 산업 공정과의 결합 능력에서 진짜 승부가 갈릴 것이라고 강조했습니다.</description><pubDate>Thu, 12 Mar 2026 07:24:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxpZ12jQMJ</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=sTnl8O_BuuE</title><link>https://www.threads.net/@choi.openai/post/DVxqDvgD79z</link><description>풀영상 :
-https://www.youtube.com/watch?v=sTnl8O_BuuE</description><pubDate>Thu, 12 Mar 2026 07:24:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxqDvgD79z</guid></item><item><title>Google Research와 BIDMC가 공동 연구한 의료 AI 'AMIE'의 실제 임상 결과가 공개됐는데, 결과가 꽤 놀랍습니다.
-
-100명...</title><link>https://www.threads.net/@choi.openai/post/DVxgiq9gjoK</link><description>Google Research와 BIDMC가 공동 연구한 의료 AI 'AMIE'의 실제 임상 결과가 공개됐는데, 결과가 꽤 놀랍습니다.
-
-100명의 환자를 대상으로 한 연구에서 진단 정확도 90%를 기록했고, 실시간 감독 중 단 한 번의 안전 사고도 발생하지 않았습니다. 환자들의 AI 신뢰도가 대화 후 오히려 높아졌다는 점이 핵심입니다.
-
-참여 환자군은 실제 병원 환경을 반영해 백인 비중이 높고 여성이 많았으나, 60대 이상이 절반을 넘는 실제 내원객 대비 젊은 층에 치우쳤다는 점은 데이터의 한계로 보입니다.
-또한 해당 모델은 신체 검사나 전자의무기록(EHR) 접근권이 없어 처방의 실무 효율성 면에서는 여전히 실제 의사가 우위에 있었습니다.
-
-표면적인 기술력보다 '현장 안전성'을 입증하며 AI가 예진 도구로서 충분한 가능성을 보여줬다는 점이 중요합니다. 결국 AI가 의사를 대체하는 게 아니라, 의사가 환자에게 집중할 시간을 벌어주는 협력의 시대로 가는 속도가 빨라질 것 같습니다.</description><pubDate>Thu, 12 Mar 2026 06:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxgiq9gjoK</guid></item><item><title>발표내용 :
-https://research.google/blog/exploring-the-feasibility-of-conversational-...</title><link>https://www.threads.net/@choi.openai/post/DVxgnrOgsnr</link><description>발표내용 :
-https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study</description><pubDate>Thu, 12 Mar 2026 06:01:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxgnrOgsnr</guid></item></channel></rss>
+전문 아티스트들에겐 반복 작업을 줄여주는 강력한 도구가 되고, 1인 개발자들에겐 불가능했던 고퀄리티 제작을 가능케 할 것 같습니다.</description><pubDate>Thu, 12 Mar 2026 12:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVyNESuEUHF</guid></item><item><title>주소 :
+https://3d.hunyuanglobal.com/studio</title><link>https://www.threads.net/@choi.openai/post/DVyNFVakXUM</link><description>주소 :
+https://3d.hunyuanglobal.com/studio</description><pubDate>Thu, 12 Mar 2026 12:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVyNFVakXUM</guid></item></channel></rss>
