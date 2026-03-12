@@ -1,34 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 11 Mar 2026 17:39:02 +0000</lastBuildDate><item><title>Replit에서 "Replit Agent 4"를 공개했습니다.
-사람과 에이전트가 함께 작업할 수 있도록 설계된 협업형 인공지능입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 12 Mar 2026 05:08:45 +0000</lastBuildDate><item><title>ElevenLabs에서 운영하는 ElevenCreative에 새로운 기능 "Flows"가 공개되었습니다.
+노드 기반 캔버스 형태로 이미지, 영상...</title><link>https://www.threads.net/@choi.openai/post/DVxWHeMgc3S</link><description>ElevenLabs에서 운영하는 ElevenCreative에 새로운 기능 "Flows"가 공개되었습니다.
+노드 기반 캔버스 형태로 이미지, 영상, 음성, 음악, 효과음 생성 모델을 하나의 파이프라인으로 연결해 실험할 수 있는 기능입니다.
 
-무한한 ...</title><link>https://www.threads.net/@choi.openai/post/DVwC620DkHd</link><description>Replit에서 "Replit Agent 4"를 공개했습니다.
-사람과 에이전트가 함께 작업할 수 있도록 설계된 협업형 인공지능입니다.
+영상 생성 → 음성 생성 → lip-sync → 음악 추가 과정을 한 번에 연결해 콘텐츠를 만들 수 있으며, 같은 Flow를 여러 번 실행해 아바타·제품·목소리를 바꿔가며 다양한 광고 콘텐츠도 테스트할 수 있다고 합니다.</description><pubDate>Thu, 12 Mar 2026 04:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxWHeMgc3S</guid></item><item><title>TTS 모델에서 “환각” 문제를 거의 없앴다고 합니다.
 
-무한한 캔버스 위에서 UI를 직접 디자인하고, 모바일·웹앱·슬라이드 등을 동시에 제작할 수 있으며, 작업 요청을 순서 없이 넣어도 에이전트가 자동으로 정리해서 처리해줍니다.
+Hume AI가 첫 오픈소스 TTS 모델 TADA(Text Audio Dual Alig...</title><link>https://www.threads.net/@choi.openai/post/DVxLz7-jFna</link><description>TTS 모델에서 “환각” 문제를 거의 없앴다고 합니다.
 
-특히 기존 웹앱을 모바일 앱으로 바로 전환하거나, 다양한 태스크를 동시에 수행하는 기능도 눈에 띕니다.</description><pubDate>Wed, 11 Mar 2026 16:25:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVwC620DkHd</guid></item><item><title>발표내용 :
-https://replit.com/agent4</title><link>https://www.threads.net/@choi.openai/post/DVwDOGRD5Uu</link><description>발표내용 :
-https://replit.com/agent4</description><pubDate>Wed, 11 Mar 2026 16:25:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVwDOGRD5Uu</guid></item><item><title>"인류 최후의 발명은 AI가 될 것이다"라는 말이 이제는 현실적으로 다가오고 있습니다.
+Hume AI가 첫 오픈소스 TTS 모델 TADA(Text Audio Dual Alignment)를 공개했습니다. 
 
-앤트로픽의 공동 창업자 Jared Kaplan이 '완전...</title><link>https://www.threads.net/@choi.openai/post/DVv5aaHiXYn</link><description>"인류 최후의 발명은 AI가 될 것이다"라는 말이 이제는 현실적으로 다가오고 있습니다.
+텍스트와 오디오를 따로 생성하는 방식이 아니라, 텍스트와 음성을 하나의 동기화된 스트림으로 동시에 생성하여 토큰 단위 불일치가 줄어들어 1,000개 이상의 테스트에서 콘텐츠 환각이 없었다고 합니다.
 
-앤트로픽의 공동 창업자 Jared Kaplan이 '완전 자동화된 AI 연구'가 이르면 1년 안에 가능할 것이라고 언급했는데요.
+속도도 유사한 LLM 기반 TTS보다 약 5배 빠르고, 2,048 토큰으로 약 700초 길이의 음성을 생성할 수 있다고 합니다. 기존 방식이 같은 토큰에서 약 70초 수준이었던 점을 보면 꽤 큰 차이입니다.
 
-실제로 차세대 모델 개발에 필요한 코드의 70~90%를 이미 Claude가 직접 작성하고 있으며, 특정 작업에서는 인간보다 400배 이상 빠른 속도를 보여주고 있습니다.
-연구팀은 이를 두고 "재귀적 자기 개선은 이미 벌어지고 있는 일"이라고 진단했습니다.
+음성 AI에서 성능보다 더 중요한 문제가 지연시간과 텍스트-음성 불일치였는데, 이 구조가 실제로 안정적으로 작동한다면 음성 에이전트나 실시간 AI 인터페이스 쪽에서 꽤 의미 있는 변화가 될 가능성이 있어 보입니다.</description><pubDate>Thu, 12 Mar 2026 02:59:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxLz7-jFna</guid></item><item><title>블로그 :
+https://www.hume.ai/blog/opensource-tada</title><link>https://www.threads.net/@choi.openai/post/DVxL01RDKfD</link><description>블로그 :
+https://www.hume.ai/blog/opensource-tada</description><pubDate>Thu, 12 Mar 2026 03:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxL01RDKfD</guid></item><item><title>진짜 데이터 하나 없이 가상 세계에서만 공부한 로봇이 현실에서 더 잘 움직인다면 믿으시겠습니까?
 
-주목할 점은 앤트로픽이 최근 '책임 있는 확장 정책(RSP, Responsible Scaling Policy)'에서 위험 시 개발을 강제로 일시 중단한다는 조항을 삭제했다는 것입니다.
+Ai2가 공개한 MolmoBot은 실제 데이터...</title><link>https://www.threads.net/@choi.openai/post/DVxBmdaD3KG</link><description>진짜 데이터 하나 없이 가상 세계에서만 공부한 로봇이 현실에서 더 잘 움직인다면 믿으시겠습니까?
 
-기술 발전 속도가 예상을 뛰어넘으면서, 안전과 속도 사이의 균형을 유지하는 것이 현실적으로 매우 어려워졌다는 방증이기도 합니다.</description><pubDate>Wed, 11 Mar 2026 14:59:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVv5aaHiXYn</guid></item><item><title>기사 :
-https://time.com/article/2026/03/11/anthropic-claude-disruptive-company-pen...</title><link>https://www.threads.net/@choi.openai/post/DVv5bQEiR_A</link><description>기사 :
-https://time.com/article/2026/03/11/anthropic-claude-disruptive-company-pentagon/</description><pubDate>Wed, 11 Mar 2026 15:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVv5bQEiR_A</guid></item><item><title>큰거온다</title><link>https://www.threads.net/@choi.openai/post/DVvy1ltjxhl</link><description>큰거온다</description><pubDate>Wed, 11 Mar 2026 14:02:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVvy1ltjxhl</guid></item><item><title>구글 딥마인드와 버클리 연구팀이 새로운 하이브리드 메모리 아키텍처 'LoGeR'를 공개했습니다.
+Ai2가 공개한 MolmoBot은 실제 데이터 없이 시뮬레이션 환경인 MolmoSpaces에서만 학습했는데도, 기존 SOTA 모델인 π0.5를 뛰어넘는 성능을 보여주며 ‘Sim-to-Real 제로샷’의 가능성을 증명했습니다.
 
-이 모델은 1만 프레임 이상의 긴 영상에서도 ...</title><link>https://www.threads.net/@choi.openai/post/DVvxI-3D--d</link><description>구글 딥마인드와 버클리 연구팀이 새로운 하이브리드 메모리 아키텍처 'LoGeR'를 공개했습니다.
+다만 가상 학습 데이터가 현실의 미세한 마찰이나 투명한 물체 조작 같은 물리적 변수까지 완벽히 대응할 수 있을지는 조금 더 지켜봐야 할 것 같습니다.</description><pubDate>Thu, 12 Mar 2026 01:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxBmdaD3KG</guid></item><item><title>발표내용 :
+https://allenai.org/blog/molmobot-robot-manipulation</title><link>https://www.threads.net/@choi.openai/post/DVxBnt6D-Qk</link><description>발표내용 :
+https://allenai.org/blog/molmobot-robot-manipulation</description><pubDate>Thu, 12 Mar 2026 01:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVxBnt6D-Qk</guid></item><item><title>클라우드플레어가 직접 크롤러를 내놨다니, 이건 진짜 고양이한테 생선을 맡긴 격 아닌가요?
 
-이 모델은 1만 프레임 이상의 긴 영상에서도 연산량이 폭증하지 않고 정밀한 기하학적 복원을 구현하여 손실 없는 'Local Memory'와 효율적으로 정보를 전달하는 'Global Memory(TTT)'를 결합해 연산 시간을 선형적으로 줄이면서도 별도의 후처리 없이 높은 정확도를 유지합니다.
+웹 보안과 봇 차단의 상징이었던 Cloudflare가...</title><link>https://www.threads.net/@choi.openai/post/DVw3Or1iaRN</link><description>클라우드플레어가 직접 크롤러를 내놨다니, 이건 진짜 고양이한테 생선을 맡긴 격 아닌가요?
 
-복잡한 최적화 방식인 VGGT-SLAM보다 우수한 성능을 보여준다는 점은 시사하는 바가 큰데요.
-AI가 대규모 공간 정보를 효율적으로 기억하고 재구성하는 새로운 표준을 제시한 연구로 보입니다.</description><pubDate>Wed, 11 Mar 2026 13:48:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVvxI-3D--d</guid></item><item><title>프로젝트 주소 :
-https://loger-project.github.io/</title><link>https://www.threads.net/@choi.openai/post/DVvxGeGj9M_</link><description>프로젝트 주소 :
-https://loger-project.github.io/</description><pubDate>Wed, 11 Mar 2026 13:47:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVvxGeGj9M_</guid></item></channel></rss>
+웹 보안과 봇 차단의 상징이었던 Cloudflare가 단 한 번의 API 호출로 사이트 전체를 긁어오는 /crawl 엔드포인트를 출시했습니다.
+
+기존에 소개했던 Firecrawl처럼 별도의 스크립트나 브라우저 관리 없이도 웹사이트를 렌더링하고 Markdown이나 JSON 형식으로 데이터를 뽑아낼 수 있는데요.
+
+RAG나 AI 모델 학습을 위해 대규모 데이터가 필요한 팀들에게는 상당히 강력한 도구가 될 것으로 보입니다.
+
+그동안 봇을 막는 인프라를 구축해온 기업이 이제는 데이터 수집을 인프라 서비스로 표준화하겠다고 나선 셈인데 AI 시대의 데이터 파이프라인이 점점 플랫폼화되는 흐름이 보이는 것 같습니다.</description><pubDate>Thu, 12 Mar 2026 00:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVw3Or1iaRN</guid></item></channel></rss>
