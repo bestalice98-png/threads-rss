@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 13 Mar 2026 09:59:44 +0000</lastBuildDate><item><title>큰 무대는 처음이라..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 13 Mar 2026 17:05:44 +0000</lastBuildDate><item><title>Cursor가 기존 벤치마크의 오염과 한계를 지적하며 'CursorBench-3'를 공개했습니다.
+ 
+사실 SWE-bench 같은 공공 지표는 ...</title><link>https://www.threads.net/@choi.openai/post/DV0rFtPirMh</link><description>Cursor가 기존 벤치마크의 오염과 한계를 지적하며 'CursorBench-3'를 공개했습니다.
+ 
+사실 SWE-bench 같은 공공 지표는 이미 모델 학습 데이터에 포함되어 점수가 부풀려지거나, 정답이 너무 좁게 설정된 문제가 많았었는데요.
+
+CursorBench는 실제 Cursor 사용 세션에서 나온 개발 작업을 기반으로 GPT-5.4, Opus 4.6, Gemini 3.1 같은 최상급 모델 간의 실질적인 지능과 효율 격차를 보여줍니다.
+
+이제 AI는 며칠씩 스스로 작업하는 장기 실행 에이전트 시대로 넘어가고 있기 때문에 며칠 동안 독립적으로 작업하는 장기 실행 에이전트를 평가할 새로운 벤치마크도 준비하고 있다고 밝혔습니다.</description><pubDate>Fri, 13 Mar 2026 11:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0rFtPirMh</guid></item><item><title>벤치마크 상세보기 :
+https://cursor.com/blog/cursorbench</title><link>https://www.threads.net/@choi.openai/post/DV0rHyMCheR</link><description>벤치마크 상세보기 :
+https://cursor.com/blog/cursorbench</description><pubDate>Fri, 13 Mar 2026 11:31:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0rHyMCheR</guid></item><item><title>AI 스타트업을 준비하는 사람들에게 필수적인 가이드
+
+구글이 스타트업을 위한 AI 에이전트 구축 가이드를 공개했습니다.
+약 60페이지 분량으로 ...</title><link>https://www.threads.net/@choi.openai/post/DV0gtRvCKdb</link><description>AI 스타트업을 준비하는 사람들에게 필수적인 가이드
+
+구글이 스타트업을 위한 AI 에이전트 구축 가이드를 공개했습니다.
+약 60페이지 분량으로 어떤 AI 모델을 선택해야 하는지, 에이전트에 기억을 어떻게 설계하는지, 외부 도구와 어떻게 연결하는지, 실제 서비스 운영 시 주의할 점까지 정리되어 있는데요.
+
+특히 에이전트의 기억을 3가지로 나누어 설계해야한다고 말하는데요.
+지식을 저장하는 장기 기억, 대화 중의 단기 기억, 그리고 작업 이력을 남기는 감사 로그를 체계적으로 분리하는 것만으로도 에이전트의 완성도가 달라진다고 말합니다.</description><pubDate>Fri, 13 Mar 2026 10:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0gtRvCKdb</guid></item><item><title>주소 :
+https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents...</title><link>https://www.threads.net/@choi.openai/post/DV0gvSxCNyO</link><description>주소 :
+https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf</description><pubDate>Fri, 13 Mar 2026 10:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0gvSxCNyO</guid></item><item><title>큰 무대는 처음이라..
 차에서 후회 500번 하면서 왔습니다 🤣
 궁금하신 내용은 언제든지 물어봐주세요.</title><link>https://www.threads.net/@choi.openai/post/DV0bXAeD6Ld</link><description>큰 무대는 처음이라..
 차에서 후회 500번 하면서 왔습니다 🤣
@@ -20,25 +41,4 @@
 이제 자동화 작업에서 사용할 모델과 추론 수준을 설정할 수 있고, 실행 환경을 worktree 또는 기존 브랜치 중 선택할 수 있습니다.
 또한 템플릿으로 워크플로우를 재사용할 수 있어 반복 작업 자동화에 활용됩니다.
 
-매일 저장소(repo) 요약 생성, 이슈 분류, PR 댓글 후속 작업 같은 개발 업무를 자동으로 처리할 수 있습니다.</description><pubDate>Fri, 13 Mar 2026 08:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0WZKYCbtC</guid></item><item><title>OpenClaw야 아프지말고 행복하게 오래오래 살아야한다~ 🦞
-
-AI 에이전트들이 살아가는 오픈월드 시뮬레이션 게임 “AIvilization”이...</title><link>https://www.threads.net/@choi.openai/post/DV0MEpRjAUn</link><description>OpenClaw야 아프지말고 행복하게 오래오래 살아야한다~ 🦞
-
-AI 에이전트들이 살아가는 오픈월드 시뮬레이션 게임 “AIvilization”이 공개되었습니다.
-
-AIvilization은 AI 에이전트가 하나의 세계 안에서 생활하고, 일하고, 대화하고, 싸우고, 사회 활동까지 하는 환경을 제공하는 프로젝트인데요.
-최근 업데이트로 에이전트들이 공개 피드에 자신의 생각을 게시하는 기능(Claw Feeds)도 추가되었습니다.
-
-또한 OpenClaw 에이전트를 바로 연결할 수 있고, OpenClaw가 없어도 X 프로필을 기반으로 개인 AI 에이전트를 생성해 참여할 수 있습니다.
-
-이것이 미래버전의 온라인 다마고치..?!</description><pubDate>Fri, 13 Mar 2026 06:59:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0MEpRjAUn</guid></item><item><title>주소 :
-https://aivilization.ai/</title><link>https://www.threads.net/@choi.openai/post/DV0MFoOjPmz</link><description>주소 :
-https://aivilization.ai/</description><pubDate>Fri, 13 Mar 2026 07:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0MFoOjPmz</guid></item><item><title>어도비야.. 힘좀 내자..
-
-포토샵 베타 버전에 2D 이미지를 마치 3D 모델처럼 자유자재로 회전시킬 수 있는 'Rotate Object' 기능...</title><link>https://www.threads.net/@choi.openai/post/DV0B14AD9Qy</link><description>어도비야.. 힘좀 내자..
-
-포토샵 베타 버전에 2D 이미지를 마치 3D 모델처럼 자유자재로 회전시킬 수 있는 'Rotate Object' 기능이 추가되었습니다.
-
-각도만 바꾸는 게 아니라, 'Harmonize' 기능을 활용해 바뀐 각도에 맞춰 빛의 방향과 그림자까지 실시간으로 재구성해주는데요.
-
-이제 구도를 잘못 잡아서 사진을 다시 찍거나 복잡한 합성 과정을 거칠 필요가 없을 것 같습니다.</description><pubDate>Fri, 13 Mar 2026 05:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0B14AD9Qy</guid></item></channel></rss>
+매일 저장소(repo) 요약 생성, 이슈 분류, PR 댓글 후속 작업 같은 개발 업무를 자동으로 처리할 수 있습니다.</description><pubDate>Fri, 13 Mar 2026 08:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0WZKYCbtC</guid></item></channel></rss>
