@@ -1,27 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 13 Mar 2026 05:05:41 +0000</lastBuildDate><item><title>메타 또 연기..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 13 Mar 2026 09:59:44 +0000</lastBuildDate><item><title>큰 무대는 처음이라..
+차에서 후회 500번 하면서 왔습니다 🤣
+궁금하신 내용은 언제든지 물어봐주세요.</title><link>https://www.threads.net/@choi.openai/post/DV0bXAeD6Ld</link><description>큰 무대는 처음이라..
+차에서 후회 500번 하면서 왔습니다 🤣
+궁금하신 내용은 언제든지 물어봐주세요.</description><pubDate>Fri, 13 Mar 2026 09:13:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0bXAeD6Ld</guid></item><item><title>쬬르디 귀엽네..
+무튼,, 지금 생각해보면 전달드리고 싶었던 메세지와 방향에서 놓치고간 부분들이 많았습니다.
+그럼에도 정말 **핵심**을 찌르는...</title><link>https://www.threads.net/@choi.openai/post/DV0cryGD8wm</link><description>쬬르디 귀엽네..
+무튼,, 지금 생각해보면 전달드리고 싶었던 메세지와 방향에서 놓치고간 부분들이 많았습니다.
+그럼에도 정말 **핵심**을 찌르는 질문들에 적지않아 당황해서 역시 AI를 잘쓰시는 분들은 질문도 다양하고 본질적인것 그리고 기회와 실행력이 높으시구나 많이 느꼈습니다.
+제가 보는 미래와 준비하면 좋을 것들에 대한 깊은 내용들을 전부 공유할 수 없는 시간이어서 아쉽지만 스레드처럼 쉽게 공유하고 나눌 수 있는 채널이 있는만큼 다양하게 이야기 해보면 좋겠습니다.</description><pubDate>Fri, 13 Mar 2026 09:25:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0cryGD8wm</guid></item><item><title>오픈AI가 Codex 앱 업데이트 2가지를 공개했습니다.
 
-Meta가 개발 중인 신규 AI 모델 “Avocado”의 공개가 연기된 것으로 알려졌습니다. New York Times 보도...</title><link>https://www.threads.net/@choi.openai/post/DVz3e0-CreU</link><description>메타 또 연기..
+먼저 Codex 앱에서 테마 기능을 지원합니다.
+사용자가 원하는 테마를 가져오거나 직...</title><link>https://www.threads.net/@choi.openai/post/DV0WZKYCbtC</link><description>오픈AI가 Codex 앱 업데이트 2가지를 공개했습니다.
 
-Meta가 개발 중인 신규 AI 모델 “Avocado”의 공개가 연기된 것으로 알려졌습니다. New York Times 보도에 따르면 내부 평가에서 추론, 코딩, 글쓰기 성능이 경쟁 모델보다 부족해 출시 시점이 이달에서 최소 5월 이후로 미뤄졌습니다.
+먼저 Codex 앱에서 테마 기능을 지원합니다.
+사용자가 원하는 테마를 가져오거나 직접 만든 테마를 공유해 앱 화면을 개인 취향에 맞게 바꿀 수 있습니다.
 
-“Avocado”는 Meta의 이전 모델인 Llama 계열보다 성능이 좋지만, Google의 Gemini 3.0 등 주요 파운데이션 모델보다는 낮은 수준으로 평가된 것으로 전해지는데요.
+또 하나는 Automations 기능의 정식 출시입니다.
+이제 자동화 작업에서 사용할 모델과 추론 수준을 설정할 수 있고, 실행 환경을 worktree 또는 기존 브랜치 중 선택할 수 있습니다.
+또한 템플릿으로 워크플로우를 재사용할 수 있어 반복 작업 자동화에 활용됩니다.
 
-이 때문에 Meta 내부에서는 임시 대안으로 Google의 Gemini 모델을 라이선스해 Meta AI 서비스에 사용하는 방안도 논의되고 있다고 합니다.
+매일 저장소(repo) 요약 생성, 이슈 분류, PR 댓글 후속 작업 같은 개발 업무를 자동으로 처리할 수 있습니다.</description><pubDate>Fri, 13 Mar 2026 08:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0WZKYCbtC</guid></item><item><title>OpenClaw야 아프지말고 행복하게 오래오래 살아야한다~ 🦞
 
-Avocado의 성능이 Gemini 3.0 보다 낮다니.. 내부적으로도 회의적인 시선이 많을 것 같습니다.</description><pubDate>Fri, 13 Mar 2026 04:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVz3e0-CreU</guid></item><item><title>기사 :
-https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed...</title><link>https://www.threads.net/@choi.openai/post/DVz3g_diro3</link><description>기사 :
-https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html</description><pubDate>Fri, 13 Mar 2026 04:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVz3g_diro3</guid></item><item><title>프론트 디자인은 전용 AI를 사용하는게 가장 좋습니다.
+AI 에이전트들이 살아가는 오픈월드 시뮬레이션 게임 “AIvilization”이...</title><link>https://www.threads.net/@choi.openai/post/DV0MEpRjAUn</link><description>OpenClaw야 아프지말고 행복하게 오래오래 살아야한다~ 🦞
 
-MagicPath AI에서 웹사이트를 그대로 UI 디자인으로 변환하는 “Web to D...</title><link>https://www.threads.net/@choi.openai/post/DVzuXQVjkSC</link><description>프론트 디자인은 전용 AI를 사용하는게 가장 좋습니다.
+AI 에이전트들이 살아가는 오픈월드 시뮬레이션 게임 “AIvilization”이 공개되었습니다.
 
-MagicPath AI에서 웹사이트를 그대로 UI 디자인으로 변환하는 “Web to Design” 기능을 공개했습니다.
+AIvilization은 AI 에이전트가 하나의 세계 안에서 생활하고, 일하고, 대화하고, 싸우고, 사회 활동까지 하는 환경을 제공하는 프로젝트인데요.
+최근 업데이트로 에이전트들이 공개 피드에 자신의 생각을 게시하는 기능(Claw Feeds)도 추가되었습니다.
 
-URL만 붙여 넣으면 해당 사이트의 디자인을 편집 가능한 UI로 변환되어 그 디자인을 기반으로 새로운 페이지를 만들거나, 다른 스타일의 변형 UI를 생성하거나, 컴포넌트를 따로 추출해 사용할 수 있습니다.</description><pubDate>Fri, 13 Mar 2026 02:40:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVzuXQVjkSC</guid></item><item><title>AI로 인해 모든 산업이 바뀌고 있다.</title><link>https://www.threads.net/@choi.openai/post/DVzlD6EjzAl</link><description>AI로 인해 모든 산업이 바뀌고 있다.</description><pubDate>Fri, 13 Mar 2026 01:19:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVzlD6EjzAl</guid></item><item><title>역시 일론머스크..
+또한 OpenClaw 에이전트를 바로 연결할 수 있고, OpenClaw가 없어도 X 프로필을 기반으로 개인 AI 에이전트를 생성해 참여할 수 있습니다.
 
-xAI의 Grok에서 이미지 여러 장을 참고해 영상을 만드는 “reference-to-video” 기능이 추가되었습니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DVzi-yYCFVt</link><description>역시 일론머스크..
+이것이 미래버전의 온라인 다마고치..?!</description><pubDate>Fri, 13 Mar 2026 06:59:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0MEpRjAUn</guid></item><item><title>주소 :
+https://aivilization.ai/</title><link>https://www.threads.net/@choi.openai/post/DV0MFoOjPmz</link><description>주소 :
+https://aivilization.ai/</description><pubDate>Fri, 13 Mar 2026 07:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0MFoOjPmz</guid></item><item><title>어도비야.. 힘좀 내자..
 
-xAI의 Grok에서 이미지 여러 장을 참고해 영상을 만드는 “reference-to-video” 기능이 추가되었습니다.
+포토샵 베타 버전에 2D 이미지를 마치 3D 모델처럼 자유자재로 회전시킬 수 있는 'Rotate Object' 기능...</title><link>https://www.threads.net/@choi.openai/post/DV0B14AD9Qy</link><description>어도비야.. 힘좀 내자..
 
-Grok Imagine에서 최대 7장의 이미지 레퍼런스를 넣고 이를 기반으로 영상을 생성할 수 있는데요. 캐릭터, 사물, 배경 등 어떤 이미지든 참고 자료로 사용할 수 있습니다. 프롬프트에서 @로 업로드한 이미지를 지정하면 해당 이미지들을 기반으로 장면이 만들어집니다.</description><pubDate>Fri, 13 Mar 2026 01:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVzi-yYCFVt</guid></item></channel></rss>
+포토샵 베타 버전에 2D 이미지를 마치 3D 모델처럼 자유자재로 회전시킬 수 있는 'Rotate Object' 기능이 추가되었습니다.
+
+각도만 바꾸는 게 아니라, 'Harmonize' 기능을 활용해 바뀐 각도에 맞춰 빛의 방향과 그림자까지 실시간으로 재구성해주는데요.
+
+이제 구도를 잘못 잡아서 사진을 다시 찍거나 복잡한 합성 과정을 거칠 필요가 없을 것 같습니다.</description><pubDate>Fri, 13 Mar 2026 05:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0B14AD9Qy</guid></item></channel></rss>
