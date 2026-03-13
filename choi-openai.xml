@@ -1,28 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 12 Mar 2026 17:39:01 +0000</lastBuildDate><item><title>Sora가 영상 생성의 가장 큰 숙제였던 '일관성' 문제를 정면으로 해결하려나 봅니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 13 Mar 2026 05:05:41 +0000</lastBuildDate><item><title>메타 또 연기..
 
-이번에 Beta 버전으로 출시된 'References'...</title><link>https://www.threads.net/@choi.openai/post/DVyvdRLDG0K</link><description>Sora가 영상 생성의 가장 큰 숙제였던 '일관성' 문제를 정면으로 해결하려나 봅니다.
+Meta가 개발 중인 신규 AI 모델 “Avocado”의 공개가 연기된 것으로 알려졌습니다. New York Times 보도...</title><link>https://www.threads.net/@choi.openai/post/DVz3e0-CreU</link><description>메타 또 연기..
 
-이번에 Beta 버전으로 출시된 'References' 기능은 캐릭터, 스타일, 소품, 카메라 움직임까지 데이터로 저장해 두고 다음 영상에서 그대로 재사용할 수 있게 해줍니다.
-그동안 AI 영상 제작은 매번 결과가 달라지는 '주사위 굴리기' 같아서 전문가들이 실제 작업에 쓰기엔 한계가 있었는데요.
+Meta가 개발 중인 신규 AI 모델 “Avocado”의 공개가 연기된 것으로 알려졌습니다. New York Times 보도에 따르면 내부 평가에서 추론, 코딩, 글쓰기 성능이 경쟁 모델보다 부족해 출시 시점이 이달에서 최소 5월 이후로 미뤄졌습니다.
 
-이제는 한 번 설정한 캐릭터가 다음 컷에서 갑자기 변할 걱정 없이, 일관된 흐름의 결과물을 뽑아낼 수 있게 될 것같습니다.</description><pubDate>Thu, 12 Mar 2026 17:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVyvdRLDG0K</guid></item><item><title>구글 맵이 10년 만에 역대급 업데이트를 단행하며 사실상 '지도 위의 AI 비서'로 진화했습니다.
+“Avocado”는 Meta의 이전 모델인 Llama 계열보다 성능이 좋지만, Google의 Gemini 3.0 등 주요 파운데이션 모델보다는 낮은 수준으로 평가된 것으로 전해지는데요.
 
-Gemini를 전면 도입한 'Ask Maps...</title><link>https://www.threads.net/@choi.openai/post/DVygHFNDCdy</link><description>구글 맵이 10년 만에 역대급 업데이트를 단행하며 사실상 '지도 위의 AI 비서'로 진화했습니다.
+이 때문에 Meta 내부에서는 임시 대안으로 Google의 Gemini 모델을 라이선스해 Meta AI 서비스에 사용하는 방안도 논의되고 있다고 합니다.
 
-Gemini를 전면 도입한 'Ask Maps' 기능은 "줄 서지 않고 충전할 수 있는 곳"처럼 복잡한 맥락이 필요한 질문에도 맞춤형 답을 내놓습니다.
-여기에 AI가 구현한 3D 가이드인 '몰입형 내비게이션'까지 더해져 공간을 시각화하는 수준이 한 차원 높아졌네요.
+Avocado의 성능이 Gemini 3.0 보다 낮다니.. 내부적으로도 회의적인 시선이 많을 것 같습니다.</description><pubDate>Fri, 13 Mar 2026 04:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVz3e0-CreU</guid></item><item><title>기사 :
+https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed...</title><link>https://www.threads.net/@choi.openai/post/DVz3g_diro3</link><description>기사 :
+https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html</description><pubDate>Fri, 13 Mar 2026 04:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVz3g_diro3</guid></item><item><title>프론트 디자인은 전용 AI를 사용하는게 가장 좋습니다.
 
-한국이 지도 데이터를 구글에게 제공한 만큼 앞으로 이런 기술들이 빠르게 들어올지 기대되는 것 같습니다.</description><pubDate>Thu, 12 Mar 2026 15:18:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVygHFNDCdy</guid></item><item><title>상세 내용 :
-https://blog.google/products-and-platforms/products/maps/ask-maps-immers...</title><link>https://www.threads.net/@choi.openai/post/DVygW1HD749</link><description>상세 내용 :
-https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation</description><pubDate>Thu, 12 Mar 2026 15:18:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVygW1HD749</guid></item><item><title>일론 머스크, "옵티머스 3는 세계에서 가장 진보한 로봇이 될 것"</title><link>https://www.threads.net/@choi.openai/post/DVyWXWoD5yb</link><description>일론 머스크, "옵티머스 3는 세계에서 가장 진보한 로봇이 될 것"</description><pubDate>Thu, 12 Mar 2026 13:52:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVyWXWoD5yb</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=N5KCm_55xeQ</title><link>https://www.threads.net/@choi.openai/post/DVyWWR_D9km</link><description>풀영상 :
-https://www.youtube.com/watch?v=N5KCm_55xeQ</description><pubDate>Thu, 12 Mar 2026 13:51:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVyWWR_D9km</guid></item><item><title>텐센트가 모델링부터 애니메이션까지 한 번에 끝내는 Tencent HY 3D Studio를 글로벌 출시했습니다
+MagicPath AI에서 웹사이트를 그대로 UI 디자인으로 변환하는 “Web to D...</title><link>https://www.threads.net/@choi.openai/post/DVzuXQVjkSC</link><description>프론트 디자인은 전용 AI를 사용하는게 가장 좋습니다.
 
-이미지 하나를 넣으면 3D 모델 ...</title><link>https://www.threads.net/@choi.openai/post/DVyNESuEUHF</link><description>텐센트가 모델링부터 애니메이션까지 한 번에 끝내는 Tencent HY 3D Studio를 글로벌 출시했습니다
+MagicPath AI에서 웹사이트를 그대로 UI 디자인으로 변환하는 “Web to Design” 기능을 공개했습니다.
 
-이미지 하나를 넣으면 3D 모델 생성 → 토폴로지 → UV → 텍스처 → 리깅 → 애니메이션까지 이어지는 전체 제작 과정을 한 워크플로 안에서 처리하는 AI 작업 공간입니다.
+URL만 붙여 넣으면 해당 사이트의 디자인을 편집 가능한 UI로 변환되어 그 디자인을 기반으로 새로운 페이지를 만들거나, 다른 스타일의 변형 UI를 생성하거나, 컴포넌트를 따로 추출해 사용할 수 있습니다.</description><pubDate>Fri, 13 Mar 2026 02:40:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVzuXQVjkSC</guid></item><item><title>AI로 인해 모든 산업이 바뀌고 있다.</title><link>https://www.threads.net/@choi.openai/post/DVzlD6EjzAl</link><description>AI로 인해 모든 산업이 바뀌고 있다.</description><pubDate>Fri, 13 Mar 2026 01:19:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVzlD6EjzAl</guid></item><item><title>역시 일론머스크..
 
-전문 아티스트들에겐 반복 작업을 줄여주는 강력한 도구가 되고, 1인 개발자들에겐 불가능했던 고퀄리티 제작을 가능케 할 것 같습니다.</description><pubDate>Thu, 12 Mar 2026 12:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVyNESuEUHF</guid></item><item><title>주소 :
-https://3d.hunyuanglobal.com/studio</title><link>https://www.threads.net/@choi.openai/post/DVyNFVakXUM</link><description>주소 :
-https://3d.hunyuanglobal.com/studio</description><pubDate>Thu, 12 Mar 2026 12:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVyNFVakXUM</guid></item></channel></rss>
+xAI의 Grok에서 이미지 여러 장을 참고해 영상을 만드는 “reference-to-video” 기능이 추가되었습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DVzi-yYCFVt</link><description>역시 일론머스크..
+
+xAI의 Grok에서 이미지 여러 장을 참고해 영상을 만드는 “reference-to-video” 기능이 추가되었습니다.
+
+Grok Imagine에서 최대 7장의 이미지 레퍼런스를 넣고 이를 기반으로 영상을 생성할 수 있는데요. 캐릭터, 사물, 배경 등 어떤 이미지든 참고 자료로 사용할 수 있습니다. 프롬프트에서 @로 업로드한 이미지를 지정하면 해당 이미지들을 기반으로 장면이 만들어집니다.</description><pubDate>Fri, 13 Mar 2026 01:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DVzi-yYCFVt</guid></item></channel></rss>
