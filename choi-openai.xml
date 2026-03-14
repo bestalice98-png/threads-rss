@@ -1,44 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 13 Mar 2026 17:05:44 +0000</lastBuildDate><item><title>Cursor가 기존 벤치마크의 오염과 한계를 지적하며 'CursorBench-3'를 공개했습니다.
- 
-사실 SWE-bench 같은 공공 지표는 ...</title><link>https://www.threads.net/@choi.openai/post/DV0rFtPirMh</link><description>Cursor가 기존 벤치마크의 오염과 한계를 지적하며 'CursorBench-3'를 공개했습니다.
- 
-사실 SWE-bench 같은 공공 지표는 이미 모델 학습 데이터에 포함되어 점수가 부풀려지거나, 정답이 너무 좁게 설정된 문제가 많았었는데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 14 Mar 2026 05:02:28 +0000</lastBuildDate><item><title>모든 AI 서비스에 에이전트가 도입되고 있습니다.
 
-CursorBench는 실제 Cursor 사용 세션에서 나온 개발 작업을 기반으로 GPT-5.4, Opus 4.6, Gemini 3.1 같은 최상급 모델 간의 실질적인 지능과 효율 격차를 보여줍니다.
+Genspark이 AI Workspace 3.0을 공개하며 “AI 직원” 개념을 소개했는데요...</title><link>https://www.threads.net/@choi.openai/post/DV2cNuvj7Qy</link><description>모든 AI 서비스에 에이전트가 도입되고 있습니다.
 
-이제 AI는 며칠씩 스스로 작업하는 장기 실행 에이전트 시대로 넘어가고 있기 때문에 며칠 동안 독립적으로 작업하는 장기 실행 에이전트를 평가할 새로운 벤치마크도 준비하고 있다고 밝혔습니다.</description><pubDate>Fri, 13 Mar 2026 11:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0rFtPirMh</guid></item><item><title>벤치마크 상세보기 :
-https://cursor.com/blog/cursorbench</title><link>https://www.threads.net/@choi.openai/post/DV0rHyMCheR</link><description>벤치마크 상세보기 :
-https://cursor.com/blog/cursorbench</description><pubDate>Fri, 13 Mar 2026 11:31:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0rHyMCheR</guid></item><item><title>AI 스타트업을 준비하는 사람들에게 필수적인 가이드
+Genspark이 AI Workspace 3.0을 공개하며 “AI 직원” 개념을 소개했는데요.
 
-구글이 스타트업을 위한 AI 에이전트 구축 가이드를 공개했습니다.
-약 60페이지 분량으로 ...</title><link>https://www.threads.net/@choi.openai/post/DV0gtRvCKdb</link><description>AI 스타트업을 준비하는 사람들에게 필수적인 가이드
+사용자는 전용 Genspark Cloud Computer를 하나씩 받게 되며, 해당 환경에서 Claw가 이메일 관리, 리서치, 회의 일정 잡기, 코드 배포 같은 업무를 대신 수행합니다.
 
-구글이 스타트업을 위한 AI 에이전트 구축 가이드를 공개했습니다.
-약 60페이지 분량으로 어떤 AI 모델을 선택해야 하는지, 에이전트에 기억을 어떻게 설계하는지, 외부 도구와 어떻게 연결하는지, 실제 서비스 운영 시 주의할 점까지 정리되어 있는데요.
+또한 워크플로 자동화, 회의 참여 봇, 브라우저 AI 확장 기능 등 여러 협업 기능도 함께 추가되었는데요.
 
-특히 에이전트의 기억을 3가지로 나누어 설계해야한다고 말하는데요.
-지식을 저장하는 장기 기억, 대화 중의 단기 기억, 그리고 작업 이력을 남기는 감사 로그를 체계적으로 분리하는 것만으로도 에이전트의 완성도가 달라진다고 말합니다.</description><pubDate>Fri, 13 Mar 2026 10:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0gtRvCKdb</guid></item><item><title>주소 :
-https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents...</title><link>https://www.threads.net/@choi.openai/post/DV0gvSxCNyO</link><description>주소 :
-https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf</description><pubDate>Fri, 13 Mar 2026 10:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0gvSxCNyO</guid></item><item><title>큰 무대는 처음이라..
-차에서 후회 500번 하면서 왔습니다 🤣
-궁금하신 내용은 언제든지 물어봐주세요.</title><link>https://www.threads.net/@choi.openai/post/DV0bXAeD6Ld</link><description>큰 무대는 처음이라..
-차에서 후회 500번 하면서 왔습니다 🤣
-궁금하신 내용은 언제든지 물어봐주세요.</description><pubDate>Fri, 13 Mar 2026 09:13:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0bXAeD6Ld</guid></item><item><title>쬬르디 귀엽네..
-무튼,, 지금 생각해보면 전달드리고 싶었던 메세지와 방향에서 놓치고간 부분들이 많았습니다.
-그럼에도 정말 **핵심**을 찌르는...</title><link>https://www.threads.net/@choi.openai/post/DV0cryGD8wm</link><description>쬬르디 귀엽네..
-무튼,, 지금 생각해보면 전달드리고 싶었던 메세지와 방향에서 놓치고간 부분들이 많았습니다.
-그럼에도 정말 **핵심**을 찌르는 질문들에 적지않아 당황해서 역시 AI를 잘쓰시는 분들은 질문도 다양하고 본질적인것 그리고 기회와 실행력이 높으시구나 많이 느꼈습니다.
-제가 보는 미래와 준비하면 좋을 것들에 대한 깊은 내용들을 전부 공유할 수 없는 시간이어서 아쉽지만 스레드처럼 쉽게 공유하고 나눌 수 있는 채널이 있는만큼 다양하게 이야기 해보면 좋겠습니다.</description><pubDate>Fri, 13 Mar 2026 09:25:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0cryGD8wm</guid></item><item><title>오픈AI가 Codex 앱 업데이트 2가지를 공개했습니다.
+점점 모든 AI 기업들이 Claw를 통한 에이전트를 도입하고 있어 본격적인 에이전트 시장이 오픈되는 느낌입니다.</description><pubDate>Sat, 14 Mar 2026 04:03:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV2cNuvj7Qy</guid></item><item><title>주식은 역시 Perpelxity인가 보다..
 
-먼저 Codex 앱에서 테마 기능을 지원합니다.
-사용자가 원하는 테마를 가져오거나 직...</title><link>https://www.threads.net/@choi.openai/post/DV0WZKYCbtC</link><description>오픈AI가 Codex 앱 업데이트 2가지를 공개했습니다.
+Perplexity Finance에 Polymarket 데이터가 통합됐습니다.
+이제 웹 앱에서 종...</title><link>https://www.threads.net/@choi.openai/post/DV2TH0WjCUV</link><description>주식은 역시 Perpelxity인가 보다..
 
-먼저 Codex 앱에서 테마 기능을 지원합니다.
-사용자가 원하는 테마를 가져오거나 직접 만든 테마를 공유해 앱 화면을 개인 취향에 맞게 바꿀 수 있습니다.
+Perplexity Finance에 Polymarket 데이터가 통합됐습니다.
+이제 웹 앱에서 종목이나 자산을 볼 때 관련 예측 시장 정보까지 함께 참고할 수 있게 된 것인데요.
+예를 들어 특정 기업 주가를 확인하면서, 해당 이슈에 대한 시장의 예상 흐름도 같이 보는 식입니다.</description><pubDate>Sat, 14 Mar 2026 02:40:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV2TH0WjCUV</guid></item><item><title>Perplexity가 “Perplexity Computer” 기능을 모바일에서도 사용할 수 있다고 발표했습니다.
 
-또 하나는 Automations 기능의 정식 출시입니다.
-이제 자동화 작업에서 사용할 모델과 추론 수준을 설정할 수 있고, 실행 환경을 worktree 또는 기존 브랜치 중 선택할 수 있습니다.
-또한 템플릿으로 워크플로우를 재사용할 수 있어 반복 작업 자동화에 활용됩니다.
+Perplexity Compu...</title><link>https://www.threads.net/@choi.openai/post/DV2CslbD5rV</link><description>Perplexity가 “Perplexity Computer” 기능을 모바일에서도 사용할 수 있다고 발표했습니다.
 
-매일 저장소(repo) 요약 생성, 이슈 분류, PR 댓글 후속 작업 같은 개발 업무를 자동으로 처리할 수 있습니다.</description><pubDate>Fri, 13 Mar 2026 08:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV0WZKYCbtC</guid></item></channel></rss>
+Perplexity Computer는 AI가 컴퓨터에서 작업을 수행하도록 돕는 기능인데요. 이제 스마트폰에서도 같은 작업을 관리할 수 있게 된 것입니다.
+
+현재 해당 기능은 Perplexity iOS 앱에서 사용할 수 있으며, 안드로이드 버전도 곧 출시될 예정이라고 합니다.
+검색 서비스였던 Perplexity가 점점 AI 작업 도구 형태로 확장되는 모습입니다.</description><pubDate>Sat, 14 Mar 2026 00:16:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV2CslbD5rV</guid></item><item><title>ChatGPT에 "Skills" 기능이 새롭게 도입되었습니다.</title><link>https://www.threads.net/@choi.openai/post/DV15jlQmE0f</link><description>ChatGPT에 "Skills" 기능이 새롭게 도입되었습니다.</description><pubDate>Fri, 13 Mar 2026 22:56:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV15jlQmE0f</guid></item></channel></rss>
