@@ -1,40 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 15 Mar 2026 09:51:15 +0000</lastBuildDate><item><title>한 개발자가 자기 반려견의 암 치료제를 직접 만들어버렸습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 15 Mar 2026 15:55:18 +0000</lastBuildDate><item><title>AI를 잘 모르는 사람이라도 Skills 는 꼭 알고있으면 좋습니다.
 
-생물학 지식이 전혀 없는 일반인이 챗GPT와 AlphaFold를 활용해 맞춤형 ...</title><link>https://www.threads.net/@choi.openai/post/DV5jgamE2Ih</link><description>한 개발자가 자기 반려견의 암 치료제를 직접 만들어버렸습니다.
+AI를 프로덕트 매니저처럼 쓰게 만들어주는 오픈소스 pm-skills가 ...</title><link>https://www.threads.net/@choi.openai/post/DV6QDWZCYpx</link><description>AI를 잘 모르는 사람이라도 Skills 는 꼭 알고있으면 좋습니다.
 
-생물학 지식이 전혀 없는 일반인이 챗GPT와 AlphaFold를 활용해 맞춤형 mRNA 백신을 설계해낸 건데요.
-종양 DNA 데이터를 분석해 타겟 단백질을 찾고, 대학 실험실과 협업해 실제 백신을 투여한 결과 강아지의 종양 크기가 절반으로 줄어들었습니다.
+AI를 프로덕트 매니저처럼 쓰게 만들어주는 오픈소스 pm-skills가 등장했는데, GitHub에서 7,000개 넘는 스타를 받으며 빠르게 퍼지고 있습니다.
+PRD 작성, 경쟁 분석, 시장 규모 추정, OKR 설계, 사용자 인터뷰 설계 같은 PM 업무에 대한 전용 스킬들로 구성이 되었있ㄴ느데요.
 
-AI가 전문 지식의 독점 시대가 끝나고 개인이 거대 과학의 영역에 직접 도전할 수 있는 파괴적인 변화가 시작되어가고 있습니다.
+Teresa Torres, Marty Cagan, Ash Maurya 같은 제품 전략 프레임워크가 내부에 구조로 들어가 있어서 결과가 해당 방법론 형태로 정리됩니다.</description><pubDate>Sun, 15 Mar 2026 15:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV6QDWZCYpx</guid></item><item><title>깃허브 :
+https://github.com/phuryn/pm-skills</title><link>https://www.threads.net/@choi.openai/post/DV6QEfGCXhE</link><description>깃허브 :
+https://github.com/phuryn/pm-skills</description><pubDate>Sun, 15 Mar 2026 15:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV6QEfGCXhE</guid></item><item><title>유튜브에 널린 '영상'만 보고도 로봇이 테니스 고수가 되는 세상이 왔습니다.
 
-결국 도구를 어떻게 활용하느냐에 달려 있습니다. AI가 '가짜 영상'을 만드는 제조기에 머물지, 생명을 구하는 혁신 도구가 될지는 사용자의 질문 수준에 따라 결정될 것입니다.</description><pubDate>Sun, 15 Mar 2026 09:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5jgamE2Ih</guid></item><item><title>샘 알트만은 새로운 AI 아키텍처의 탄생 가능성과 혁신이 머지않았음을 시사했습니다.
+칭화대와 북경대 연구팀이 발표한 LATENT는 정교한 3D 트래킹...</title><link>https://www.threads.net/@choi.openai/post/DV6JOOED5bF</link><description>유튜브에 널린 '영상'만 보고도 로봇이 테니스 고수가 되는 세상이 왔습니다.
 
-"트랜스포머가 LSTM에 대해 가졌던 만큼의 큰 도약을 가...</title><link>https://www.threads.net/@choi.openai/post/DV5ZlnKjzoa</link><description>샘 알트만은 새로운 AI 아키텍처의 탄생 가능성과 혁신이 머지않았음을 시사했습니다.
+칭화대와 북경대 연구팀이 발표한 LATENT는 정교한 3D 트래킹 데이터 대신, 인터넷에 흔히 있는 불완전하고 짧은 사람의 동작 클립만으로 휴머노이드를 학습시키는 데 성공했습니다.
 
-"트랜스포머가 LSTM에 대해 가졌던 만큼의 큰 도약을 가져올 또 다른 새로운 아키텍처가 발견될 것이라고 확신합니다."
+기존 로봇 학습의 가장 큰 장벽은 고비용의 정밀 데이터 확보였지만, 해당 연구는 영상 데이터를 힌트로 삼고 물리 시뮬레이터가 실시간으로 물리적 오류를 보정하는 방식을 택했습니다.
 
-특히 이제는 AI 모델 자체가 충분히 똑똑해졌기 때문에, 인간 연구자가 AI를 활용해 이러한 차세대 아키텍처를 찾는 연구를 가속화해야 한다고 조언했습니다.
+결과적으로 단 5시간의 데이터만으로 시속 54km(15m/s)의 공을 90% 확률로 받아치며 자연스러운 랠리가 가능해졌습니다.
 
-제품 측면에서는 과거에는 불가능했던, 오직 AI만이 핵심이 되어 완전히 새롭게 재정의할 수 있는 영역에 집중할 것을 강조했습니다. 
+현실 세계의 복잡한 동작을 수행하는 신체 지능의 진화 속도는 우리가 상상하는 것보다 훨씬 빨라질 것으로 보입니다</description><pubDate>Sun, 15 Mar 2026 14:31:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV6JOOED5bF</guid></item><item><title>프로젝트 주소 :
+https://zzk273.github.io/LATENT/</title><link>https://www.threads.net/@choi.openai/post/DV6JRF1j1MM</link><description>프로젝트 주소 :
+https://zzk273.github.io/LATENT/</description><pubDate>Sun, 15 Mar 2026 14:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV6JRF1j1MM</guid></item><item><title>이번주도 AI 업계는 놀라운 업데이트가 가득했습니다.
+여러분들이 지나친 발표된 소식을 통합하여 전달해드립니다.
 
-"AGI는 앞으로 일어날 더 중요한 일들을 위한 준비 운동처럼 보일 것입니다."</description><pubDate>Sun, 15 Mar 2026 07:34:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5ZlnKjzoa</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=FjlymGBt-vY&amp;t=3s</title><link>https://www.threads.net/@choi.openai/post/DV5ZlemD17x</link><description>풀영상 :
-https://www.youtube.com/watch?v=FjlymGBt-vY&amp;t=3s</description><pubDate>Sun, 15 Mar 2026 07:34:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5ZlemD17x</guid></item><item><title>앤트로픽이 “Claude"의 사용량 한도를 2주 동안 늘린다고 발표했습니다.
+- 구글 AI 도구 Pomell...</title><link>https://www.threads.net/@choi.openai/post/DV5-8UsD5Nm</link><description>이번주도 AI 업계는 놀라운 업데이트가 가득했습니다.
+여러분들이 지나친 발표된 소식을 통합하여 전달해드립니다.
 
-평일에는 한국 기준 밤 9시~새벽 3시를 제외한 시간대에서 사용량...</title><link>https://www.threads.net/@choi.openai/post/DV5O0eTjdzX</link><description>앤트로픽이 “Claude"의 사용량 한도를 2주 동안 늘린다고 발표했습니다.
+- 구글 AI 도구 Pomelli 170개국 출시
+- 앤트로픽 Claude Code AI 코드리뷰 기능 베타
+- Google Gemini Embedding 2 발표
+- NVIDIA Nemotron 3 Super 공개
+- xAI Grok reference-to-video 기능 출시
+- Figure Helix 02 로봇 집안 정리 데모 공개
+- ChatGPT + AlphaFold 반려견 암 치료 사례 등장
+- Alibaba 훈련 중 AI 암호화폐 채굴 시도 사건
 
-평일에는 한국 기준 밤 9시~새벽 3시를 제외한 시간대에서 사용량이 기존보다 2배로 증가합니다. 주말에는 시간 제한 없이 하루 종일 2배 사용량이 적용됩니다.
+각 세부내용은 다음과 같습니다 👇🏻</description><pubDate>Sun, 15 Mar 2026 13:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5-8UsD5Nm</guid></item><item><title>1/ 구글에서 실험 중인 AI 도구인 Pomelli가 170개국 이상으로 확대되었습니다.
+사용자가 웹사이트 URL만 입력하면 비즈니스 특성을 분...</title><link>https://www.threads.net/@choi.openai/post/DV5-8x7D5dY</link><description>1/ 구글에서 실험 중인 AI 도구인 Pomelli가 170개국 이상으로 확대되었습니다.
+사용자가 웹사이트 URL만 입력하면 비즈니스 특성을 분석해 마케팅 콘텐츠를 자동으로 제안하는 기능을 제공합니다.
+브랜드 정체성을 반영한 콘텐츠를 빠르게 제작할 수 있습니다.</description><pubDate>Sun, 15 Mar 2026 13:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5-8x7D5dY</guid></item><item><title>2/ xAI의 Grok에 새로 추가된 "reference-to-video" 기능은 최대 7장의 이미지를 참고하여 영상을 만들 수 있습니다.
+사용...</title><link>https://www.threads.net/@choi.openai/post/DV5-9gBj4xJ</link><description>2/ xAI의 Grok에 새로 추가된 "reference-to-video" 기능은 최대 7장의 이미지를 참고하여 영상을 만들 수 있습니다.
+사용자가 업로드한 이미지에서 캐릭터, 배경 등을 재현해 원하는 장면을 만들 수 있는 기능입니다.</description><pubDate>Sun, 15 Mar 2026 13:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5-9gBj4xJ</guid></item><item><title>3/ 앤트로픽에서 발표한 Claude Code의 'Code Review' 기능이 주목받고 있습니다.
+병렬 탐색과 직접 검증을 통해 리뷰 정확성을...</title><link>https://www.threads.net/@choi.openai/post/DV5--EWj-Fw</link><description>3/ 앤트로픽에서 발표한 Claude Code의 'Code Review' 기능이 주목받고 있습니다.
+병렬 탐색과 직접 검증을 통해 리뷰 정확성을 높였으며, 테스트 결과 의미 있는 의견 비율이 크게 상승했습니다.
+이 기능은 팀 및 기업용 요금제에서 베타로 제공되며, 리뷰당 평균 15~25달러의 비용이 발생합니다.</description><pubDate>Sun, 15 Mar 2026 13:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5--EWj-Fw</guid></item><item><title>살해 협박까지 받으면서 결국 모든 것을 오픈소스로 공개했습니다.
 
-별도 설정 없이 자동 적용되며, 무료·유료를 포함한 모든 Claude 요금제와 Claude Code 사용자에게 동일하게 제공됩니다.
+이번에 공개된 DimOS는 물리 공간을 위한 에이전트 전용 운영체제(OS)입니...</title><link>https://www.threads.net/@choi.openai/post/DV54BbcE-dk</link><description>살해 협박까지 받으면서 결국 모든 것을 오픈소스로 공개했습니다.
 
-Codex가 토큰 사용량 2배를 기반으로 빠르게 시장을 확장하고 있는 가운데 결정한 정책으로 보입니다.</description><pubDate>Sun, 15 Mar 2026 06:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5O0eTjdzX</guid></item><item><title>ByteDance의 영상 생성 AI 모델 “Seedance 2.0”의 글로벌 출시가 연기됐다는 소식입니다.
-해당 모델은 지난달 중국에서 먼저 공...</title><link>https://www.threads.net/@choi.openai/post/DV5EheaknBj</link><description>ByteDance의 영상 생성 AI 모델 “Seedance 2.0”의 글로벌 출시가 연기됐다는 소식입니다.
-해당 모델은 지난달 중국에서 먼저 공개됐지만, 디즈니·워너브라더스·넷플릭스 같은 할리우드 주요 스튜디오들이 저작권 문제를 제기했습니다.
+이번에 공개된 DimOS는 물리 공간을 위한 에이전트 전용 운영체제(OS)입니다.
+해당 시스템은 AI 에이전트가 드론, 휴머노이드, 사족보행 로봇 등을 자연어 명령으로 제어할 수 있게 해주는 플랫폼입니다.
 
-Seedance 2.0이 영화나 콘텐츠와 유사한 저작권 영상을 생성할 수 있다는 점이 논란이 된 것인데요.
-ByteDance는 해외 출시 전에 더 강한 필터와 콘텐츠 검열 시스템을 추가하기로 했습니다.
+예를 들어 “순찰을 돌면서 주변을 탐색하라” 같은 한 문장 명령으로 로봇이 이동, 인식, 기록 같은 작업을 수행할 수 있습니다. ROS2 같은 로봇 미들웨어도 지원합니다.
 
-영상 생성 AI가 빠르게 발전하면서, 영화 산업과의 저작권 충돌도 점점 커지고 있는 모습입니다.</description><pubDate>Sun, 15 Mar 2026 04:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5EheaknBj</guid></item><item><title>기사 :
-https://www.theinformation.com/articles/bytedance-suspends-launch-video-ai-...</title><link>https://www.threads.net/@choi.openai/post/DV5EivJknGP</link><description>기사 :
-https://www.theinformation.com/articles/bytedance-suspends-launch-video-ai-model-copyright-disputes-hollywood</description><pubDate>Sun, 15 Mar 2026 04:30:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5EivJknGP</guid></item></channel></rss>
+100만 원대 로봇 개와 1,000만 원대 휴머노이드가 보급되는 하드웨어 환경과 화면 속 챗봇을 넘어 물리적 실체를 가진 에이전트의 시대로 빠르게 넘어가고 있습니다.
+
+하드웨어 경제성이 확보되어가는 지금, 우리가 맞이할 다음 거대한 흐름은 우리 주변의 물리적 공간에서 시작될 것으로 보입니다.</description><pubDate>Sun, 15 Mar 2026 12:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV54BbcE-dk</guid></item><item><title>깃허브 :
+https://github.com/dimensionalOS/dimos</title><link>https://www.threads.net/@choi.openai/post/DV54DKAk8Ra</link><description>깃허브 :
+https://github.com/dimensionalOS/dimos</description><pubDate>Sun, 15 Mar 2026 12:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV54DKAk8Ra</guid></item></channel></rss>
