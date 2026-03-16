@@ -1,59 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 15 Mar 2026 15:55:18 +0000</lastBuildDate><item><title>AI를 잘 모르는 사람이라도 Skills 는 꼭 알고있으면 좋습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 16 Mar 2026 06:01:05 +0000</lastBuildDate><item><title>요슈아 벤지오(Yoshua Bengio) 교수는 현재 AI가 가진 '숨겨진 의도'의 위험성을 경고하고, 이를 해결하기 위한 새로운 설계 패러다임...</title><link>https://www.threads.net/@choi.openai/post/DV7pN-KD69j</link><description>요슈아 벤지오(Yoshua Bengio) 교수는 현재 AI가 가진 '숨겨진 의도'의 위험성을 경고하고, 이를 해결하기 위한 새로운 설계 패러다임이 필요하다고 말합니다.
 
-AI를 프로덕트 매니저처럼 쓰게 만들어주는 오픈소스 pm-skills가 ...</title><link>https://www.threads.net/@choi.openai/post/DV6QDWZCYpx</link><description>AI를 잘 모르는 사람이라도 Skills 는 꼭 알고있으면 좋습니다.
+"심지어 최고의 과학자조차 편향과 숨겨진 의도가 있을 수 있지만, 우리가 만들 AI는 그보다 더 나은 '순수한 이해의 도구'가 되어야 합니다."</description><pubDate>Mon, 16 Mar 2026 05:57:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV7pN-KD69j</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=CrezGRmGHNo</title><link>https://www.threads.net/@choi.openai/post/DV7zVd8j8uC</link><description>풀영상 :
+https://www.youtube.com/watch?v=CrezGRmGHNo</description><pubDate>Mon, 16 Mar 2026 05:57:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV7zVd8j8uC</guid></item><item><title>Z.ai가 GLM-5-Turbo를 공개했습니다.
+GLM-5의 고속 버전으로, OpenClaw 같은 AI 에이전트 환경에서 빠르게 작동하도록 설계...</title><link>https://www.threads.net/@choi.openai/post/DV7pcIlj6O4</link><description>Z.ai가 GLM-5-Turbo를 공개했습니다.
+GLM-5의 고속 버전으로, OpenClaw 같은 AI 에이전트 환경에서 빠르게 작동하도록 설계된 모델입니다. 코드 실행, 파일 읽기, 툴 호출처럼 여러 단계를 반복하는 에이전트 작업에서 지연을 줄이는 데 초점이 맞춰져 있습니다.
 
-AI를 프로덕트 매니저처럼 쓰게 만들어주는 오픈소스 pm-skills가 등장했는데, GitHub에서 7,000개 넘는 스타를 받으며 빠르게 퍼지고 있습니다.
-PRD 작성, 경쟁 분석, 시장 규모 추정, OKR 설계, 사용자 인터뷰 설계 같은 PM 업무에 대한 전용 스킬들로 구성이 되었있ㄴ느데요.
+에이전트 환경에서는 모델이 한 번 답하는 것보다 수십 번의 툴 호출과 추론 루프를 얼마나 빠르게 돌리느냐가 훨씬 중요합니다.
 
-Teresa Torres, Marty Cagan, Ash Maurya 같은 제품 전략 프레임워크가 내부에 구조로 들어가 있어서 결과가 해당 방법론 형태로 정리됩니다.</description><pubDate>Sun, 15 Mar 2026 15:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV6QDWZCYpx</guid></item><item><title>깃허브 :
-https://github.com/phuryn/pm-skills</title><link>https://www.threads.net/@choi.openai/post/DV6QEfGCXhE</link><description>깃허브 :
-https://github.com/phuryn/pm-skills</description><pubDate>Sun, 15 Mar 2026 15:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV6QEfGCXhE</guid></item><item><title>유튜브에 널린 '영상'만 보고도 로봇이 테니스 고수가 되는 세상이 왔습니다.
+GLM-5-Turbo는 현재 실험 버전으로 클로즈드 모델이지만, 이후 기능은 다음 오픈소스 모델에 반영될 예정이라고 합니다.</description><pubDate>Mon, 16 Mar 2026 04:31:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV7pcIlj6O4</guid></item><item><title>API :
+https://docs.z.ai/guides/llm/glm-5-turbo</title><link>https://www.threads.net/@choi.openai/post/DV7pcvcj1yS</link><description>API :
+https://docs.z.ai/guides/llm/glm-5-turbo</description><pubDate>Mon, 16 Mar 2026 04:31:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV7pcvcj1yS</guid></item><item><title>중국 Weihai에 있는 Shanghai JQ Industries가 직물 형태의 전자 피부를 공개했습니다.
 
-칭화대와 북경대 연구팀이 발표한 LATENT는 정교한 3D 트래킹...</title><link>https://www.threads.net/@choi.openai/post/DV6JOOED5bF</link><description>유튜브에 널린 '영상'만 보고도 로봇이 테니스 고수가 되는 세상이 왔습니다.
+겉보기에는 천처럼 보이지만 내부에 ...</title><link>https://www.threads.net/@choi.openai/post/DV7e-AoDPIT</link><description>중국 Weihai에 있는 Shanghai JQ Industries가 직물 형태의 전자 피부를 공개했습니다.
 
-칭화대와 북경대 연구팀이 발표한 LATENT는 정교한 3D 트래킹 데이터 대신, 인터넷에 흔히 있는 불완전하고 짧은 사람의 동작 클립만으로 휴머노이드를 학습시키는 데 성공했습니다.
+겉보기에는 천처럼 보이지만 내부에 고밀도 섬유 센서와 텍스타일 센서가 촘촘하게 들어 있어 압력, 접촉, 변형, 미세한 터치 변화를 실시간으로 감지합니다.
 
-기존 로봇 학습의 가장 큰 장벽은 고비용의 정밀 데이터 확보였지만, 해당 연구는 영상 데이터를 힌트로 삼고 물리 시뮬레이터가 실시간으로 물리적 오류를 보정하는 방식을 택했습니다.
+이 기술이 로봇의 손이나 전신에 적용되어, 로봇이 물리적 세상을 제대로 이해하고 사람과 안전하게 상호작용할 수 있게 되지 않을까 기대해봅니다.</description><pubDate>Mon, 16 Mar 2026 03:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV7e-AoDPIT</guid></item><item><title>퍼플렉시티 CEO 아라빈드 스리니바스(Aravind Srinivas)는 2026년 현재 AI 시장의 가장 큰 변화로 '모델의 전문화'를 꼽았습니...</title><link>https://www.threads.net/@choi.openai/post/DV7UuFqiVu2</link><description>퍼플렉시티 CEO 아라빈드 스리니바스(Aravind Srinivas)는 2026년 현재 AI 시장의 가장 큰 변화로 '모델의 전문화'를 꼽았습니다.
 
-결과적으로 단 5시간의 데이터만으로 시속 54km(15m/s)의 공을 90% 확률로 받아치며 자연스러운 랠리가 가능해졌습니다.
+"코딩이라는 단일 분야 안에서도 오픈AI의 모델과 앤트로픽의 Claude는 각각 잘하는 영역이 다릅니다."
 
-현실 세계의 복잡한 동작을 수행하는 신체 지능의 진화 속도는 우리가 상상하는 것보다 훨씬 빨라질 것으로 보입니다</description><pubDate>Sun, 15 Mar 2026 14:31:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV6JOOED5bF</guid></item><item><title>프로젝트 주소 :
-https://zzk273.github.io/LATENT/</title><link>https://www.threads.net/@choi.openai/post/DV6JRF1j1MM</link><description>프로젝트 주소 :
-https://zzk273.github.io/LATENT/</description><pubDate>Sun, 15 Mar 2026 14:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV6JRF1j1MM</guid></item><item><title>이번주도 AI 업계는 놀라운 업데이트가 가득했습니다.
-여러분들이 지나친 발표된 소식을 통합하여 전달해드립니다.
-
-- 구글 AI 도구 Pomell...</title><link>https://www.threads.net/@choi.openai/post/DV5-8UsD5Nm</link><description>이번주도 AI 업계는 놀라운 업데이트가 가득했습니다.
-여러분들이 지나친 발표된 소식을 통합하여 전달해드립니다.
-
-- 구글 AI 도구 Pomelli 170개국 출시
-- 앤트로픽 Claude Code AI 코드리뷰 기능 베타
-- Google Gemini Embedding 2 발표
-- NVIDIA Nemotron 3 Super 공개
-- xAI Grok reference-to-video 기능 출시
-- Figure Helix 02 로봇 집안 정리 데모 공개
-- ChatGPT + AlphaFold 반려견 암 치료 사례 등장
-- Alibaba 훈련 중 AI 암호화폐 채굴 시도 사건
-
-각 세부내용은 다음과 같습니다 👇🏻</description><pubDate>Sun, 15 Mar 2026 13:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5-8UsD5Nm</guid></item><item><title>1/ 구글에서 실험 중인 AI 도구인 Pomelli가 170개국 이상으로 확대되었습니다.
-사용자가 웹사이트 URL만 입력하면 비즈니스 특성을 분...</title><link>https://www.threads.net/@choi.openai/post/DV5-8x7D5dY</link><description>1/ 구글에서 실험 중인 AI 도구인 Pomelli가 170개국 이상으로 확대되었습니다.
-사용자가 웹사이트 URL만 입력하면 비즈니스 특성을 분석해 마케팅 콘텐츠를 자동으로 제안하는 기능을 제공합니다.
-브랜드 정체성을 반영한 콘텐츠를 빠르게 제작할 수 있습니다.</description><pubDate>Sun, 15 Mar 2026 13:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5-8x7D5dY</guid></item><item><title>2/ xAI의 Grok에 새로 추가된 "reference-to-video" 기능은 최대 7장의 이미지를 참고하여 영상을 만들 수 있습니다.
-사용...</title><link>https://www.threads.net/@choi.openai/post/DV5-9gBj4xJ</link><description>2/ xAI의 Grok에 새로 추가된 "reference-to-video" 기능은 최대 7장의 이미지를 참고하여 영상을 만들 수 있습니다.
-사용자가 업로드한 이미지에서 캐릭터, 배경 등을 재현해 원하는 장면을 만들 수 있는 기능입니다.</description><pubDate>Sun, 15 Mar 2026 13:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5-9gBj4xJ</guid></item><item><title>3/ 앤트로픽에서 발표한 Claude Code의 'Code Review' 기능이 주목받고 있습니다.
-병렬 탐색과 직접 검증을 통해 리뷰 정확성을...</title><link>https://www.threads.net/@choi.openai/post/DV5--EWj-Fw</link><description>3/ 앤트로픽에서 발표한 Claude Code의 'Code Review' 기능이 주목받고 있습니다.
-병렬 탐색과 직접 검증을 통해 리뷰 정확성을 높였으며, 테스트 결과 의미 있는 의견 비율이 크게 상승했습니다.
-이 기능은 팀 및 기업용 요금제에서 베타로 제공되며, 리뷰당 평균 15~25달러의 비용이 발생합니다.</description><pubDate>Sun, 15 Mar 2026 13:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV5--EWj-Fw</guid></item><item><title>살해 협박까지 받으면서 결국 모든 것을 오픈소스로 공개했습니다.
-
-이번에 공개된 DimOS는 물리 공간을 위한 에이전트 전용 운영체제(OS)입니...</title><link>https://www.threads.net/@choi.openai/post/DV54BbcE-dk</link><description>살해 협박까지 받으면서 결국 모든 것을 오픈소스로 공개했습니다.
-
-이번에 공개된 DimOS는 물리 공간을 위한 에이전트 전용 운영체제(OS)입니다.
-해당 시스템은 AI 에이전트가 드론, 휴머노이드, 사족보행 로봇 등을 자연어 명령으로 제어할 수 있게 해주는 플랫폼입니다.
-
-예를 들어 “순찰을 돌면서 주변을 탐색하라” 같은 한 문장 명령으로 로봇이 이동, 인식, 기록 같은 작업을 수행할 수 있습니다. ROS2 같은 로봇 미들웨어도 지원합니다.
-
-100만 원대 로봇 개와 1,000만 원대 휴머노이드가 보급되는 하드웨어 환경과 화면 속 챗봇을 넘어 물리적 실체를 가진 에이전트의 시대로 빠르게 넘어가고 있습니다.
-
-하드웨어 경제성이 확보되어가는 지금, 우리가 맞이할 다음 거대한 흐름은 우리 주변의 물리적 공간에서 시작될 것으로 보입니다.</description><pubDate>Sun, 15 Mar 2026 12:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV54BbcE-dk</guid></item><item><title>깃허브 :
-https://github.com/dimensionalOS/dimos</title><link>https://www.threads.net/@choi.openai/post/DV54DKAk8Ra</link><description>깃허브 :
-https://github.com/dimensionalOS/dimos</description><pubDate>Sun, 15 Mar 2026 12:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV54DKAk8Ra</guid></item></channel></rss>
+글쓰기, 이미지 및 영상 제작 등 각 영역에서 독보적인 성능을 내는 모델들이 나타나고 있으며, 사용자들은 이미 작업 목적에 따라 여러 모델을 병행하여 사용하고 있습니다.</description><pubDate>Mon, 16 Mar 2026 01:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV7UuFqiVu2</guid></item><item><title>풀영상 :
+https://youtu.be/E6w_sY-nl5M</title><link>https://www.threads.net/@choi.openai/post/DV7UvHciVfI</link><description>풀영상 :
+https://youtu.be/E6w_sY-nl5M</description><pubDate>Mon, 16 Mar 2026 01:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV7UvHciVfI</guid></item></channel></rss>
