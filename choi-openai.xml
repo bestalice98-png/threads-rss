@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 17 Mar 2026 05:15:35 +0000</lastBuildDate><item><title>이제는 사람이 아니라 AI가 소프트웨어를 더 많이 사용하는 시대가 되겠네요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 17 Mar 2026 10:37:05 +0000</lastBuildDate><item><title>와.. 서울을 시뮬레이션 해버리네요..
+
+네이버 AI에서 공개한 "Seoul World Model"은 서울 거리의 실제 장면을 기반으로 텍스트만...</title><link>https://www.threads.net/@choi.openai/post/DV-2Dwdliag</link><description>와.. 서울을 시뮬레이션 해버리네요..
+
+네이버 AI에서 공개한 "Seoul World Model"은 서울 거리의 실제 장면을 기반으로 텍스트만으로 탐험할 수 있게 만든 도시 규모의 월드 모델입니다.
+
+검색 증강 생성(RAG)을 통해 각 장면을 실제 스트리트 뷰 데이터와 연결하고, 고질라나 쓰나미 같은 이벤트도 텍스트로 생성할 수 있습니다.
+
+간단히 말해, 서울을 가상으로 재현한 게 아니라 실제 데이터를 기반으로 인터랙티브하게 경험할 수 있는 모델인데요.
+
+해당 모델을 기반으로 향후 네이버 로보틱스와 자율주행에 큰 도움이 될 수 있지 않을까 기대해봅니다.</description><pubDate>Tue, 17 Mar 2026 10:19:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV-2Dwdliag</guid></item><item><title>깃허브 :
+https://github.com/naver-ai/seoul-world-model</title><link>https://www.threads.net/@choi.openai/post/DV-2G5Aj-Pw</link><description>깃허브 :
+https://github.com/naver-ai/seoul-world-model</description><pubDate>Tue, 17 Mar 2026 10:19:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV-2G5Aj-Pw</guid></item><item><title>Perplexity가 "Comet" 브라우저에서 사용할 수 있는 "Computer" 기능을 공개했습니다.
+
+해당 기능은 브라우저 에이전트를 실행...</title><link>https://www.threads.net/@choi.openai/post/DV-qeiID0zq</link><description>Perplexity가 "Comet" 브라우저에서 사용할 수 있는 "Computer" 기능을 공개했습니다.
+
+해당 기능은 브라우저 에이전트를 실행해 사용자가 허용한 범위 안에서 웹사이트나 로그인된 서비스까지 직접 접근해 작업을 수행할 수 있습니다.
+
+별도의 connector나 MCP 설정 없이 웹을 직접 조작하는 구조입니다.
+
+예를 들어 특정 사이트에 로그인한 상태라면 AI가 직접 페이지를 열고 검색하거나 폼 입력 같은 작업을 대신 진행할 수 있습니다.</description><pubDate>Tue, 17 Mar 2026 08:39:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV-qeiID0zq</guid></item><item><title>Grok의 TTS API가 공식 출시되었습니다.
+
+이번 모델은 Eve, Ara 등 5가지의 자연스러운 페르소나를 지원하며, 백만 자당 4.2달러...</title><link>https://www.threads.net/@choi.openai/post/DV-dCblAFqA</link><description>Grok의 TTS API가 공식 출시되었습니다.
+
+이번 모델은 Eve, Ara 등 5가지의 자연스러운 페르소나를 지원하며, 백만 자당 4.2달러라는 매우 공격적인 가격을 내세웠습니다.
+
+TTS 기능 이외에도 실시간 검색과 도구 호출(Tool calling), 그리고 MCP 지원까지 갖춘 'Grok Voice Agent' 생태계의 핵심 축이 될 것으로 보입니다.</description><pubDate>Tue, 17 Mar 2026 06:40:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV-dCblAFqA</guid></item><item><title>공식 문서 :
+https://x.ai/api/voice#text-to-speech</title><link>https://www.threads.net/@choi.openai/post/DV-dDT1APX5</link><description>공식 문서 :
+https://x.ai/api/voice#text-to-speech</description><pubDate>Tue, 17 Mar 2026 06:40:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV-dDT1APX5</guid></item><item><title>이제는 사람이 아니라 AI가 소프트웨어를 더 많이 사용하는 시대가 되겠네요.
 
 Adaptive에서 AI 에이전트 전용으로 설계된 'Adaptiv...</title><link>https://www.threads.net/@choi.openai/post/DV-Sv5zDxti</link><description>이제는 사람이 아니라 AI가 소프트웨어를 더 많이 사용하는 시대가 되겠네요.
 
@@ -12,32 +40,4 @@ Adaptive에서 AI 에이전트 전용으로 설계된 'Adaptive Computer'를 출
 
 과거의 소프트웨어는 인간이 조작하는 도구였지만, 이제는 AI가 대리해서 운영하는 대상으로 변하고 있습니다.
 
-사람의 개입 없이 24시간 돌아가는 에이전트 중심의 업무 생태계가 본격적으로 열리는 것 같습니다.</description><pubDate>Tue, 17 Mar 2026 05:11:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV-Sv5zDxti</guid></item><item><title>MiniMax M2.5의 다음 버전인 M2.7의 출시가 임박했다는 소식이 들려오고 있습니다.
-프론트엔드 퀄리티가 상당히 증가한 것처럼 보이는데,...</title><link>https://www.threads.net/@choi.openai/post/DV-D3MDjocj</link><description>MiniMax M2.5의 다음 버전인 M2.7의 출시가 임박했다는 소식이 들려오고 있습니다.
-프론트엔드 퀄리티가 상당히 증가한 것처럼 보이는데, 모델 출시 경쟁이 다시 한 번 시작되려는 것 같습니다.
-
-그나저나.. 딥시크 V4 언제 나요죠..?</description><pubDate>Tue, 17 Mar 2026 03:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV-D3MDjocj</guid></item><item><title>Mistral에서 "Mistral Small 4" 모델을 공개했습니다.
-
-Mistral에서 곧 공개할 "Mistral 4"는 Instruct, ...</title><link>https://www.threads.net/@choi.openai/post/DV95gIRD_Pd</link><description>Mistral에서 "Mistral Small 4" 모델을 공개했습니다.
-
-Mistral에서 곧 공개할 "Mistral 4"는 Instruct, Reasoning(구 Magistral), Magistral(추론), Pixtral(멀티모달), Devstral(코딩 에이전트) 기능을 하나로 합친 통합 한 하이브리드 모델입니다.
-
-128개 전문가 구조의 MoE를 사용하며 총 119B 파라미터 중 약 6B만 토큰마다 활성화됩니다. 
-256K 문맥길이를 지원하며, 텍스트와 이미지 입력을 동시에 받아 텍스트로 출력할 수 있습니다.
-
-Function Call 기능을 포함한 명령 처리와 추론 작업이 가능하며, 추론의 정밀도는 요청마다 조절할 수 있는 구조입니다.</description><pubDate>Tue, 17 Mar 2026 01:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV95gIRD_Pd</guid></item><item><title>발표내용 :
-https://mistral.ai/news/mistral-small-4</title><link>https://www.threads.net/@choi.openai/post/DV95hYwD1sk</link><description>발표내용 :
-https://mistral.ai/news/mistral-small-4</description><pubDate>Tue, 17 Mar 2026 01:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV95hYwD1sk</guid></item><item><title>마케팅 팀 전체를 월 10만 원대에 고용하는 시대가 왔네요.
-
-Okara가 세계 최초의 'AI CMO'를 공개했습니다.
-웹사이트 주소만 입력하면...</title><link>https://www.threads.net/@choi.openai/post/DV9vTH3im6p</link><description>마케팅 팀 전체를 월 10만 원대에 고용하는 시대가 왔네요.
-
-Okara가 세계 최초의 'AI CMO'를 공개했습니다.
-웹사이트 주소만 입력하면 SEO, GEO, Reddit, X 등 각 채널에 특화된 에이전트 군단이 즉시 활동을 시작합니다.
-
-Cursor나 Claude Code 덕분에 제품 제작은 쉬워졌지만, 정작 ‘알리는 것’은 여전히 가장 큰 장벽이었죠.
-
-해당 서비스는 각 채널의 특성에 맞춰 에이전트가 24시간 실행을 전담하게 됩니다.
-이제 서비스의 성패는 얼마나 비싼 대행사를 쓰느냐가 아니라, 이런 지능형 에이전트를 얼마나 전략적으로 운용하느냐에 달려있을 것으로 보입니다.
-
-해당 모델이 실제 마케팅 지표를 얼마나 유의미하게 끌어올릴 수 있을지, 실효성이 검증되는 순간 마케팅 시장의 판도는 완전히 뒤바뀔 것 같습니다.</description><pubDate>Tue, 17 Mar 2026 00:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV9vTH3im6p</guid></item></channel></rss>
+사람의 개입 없이 24시간 돌아가는 에이전트 중심의 업무 생태계가 본격적으로 열리는 것 같습니다.</description><pubDate>Tue, 17 Mar 2026 05:11:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV-Sv5zDxti</guid></item></channel></rss>
