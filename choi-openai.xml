@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 18 Mar 2026 05:22:29 +0000</lastBuildDate><item><title>비싼 돈 주고 회의용 AI 비서를 구독할 필요가 없어질지도 모르겠습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 18 Mar 2026 10:38:28 +0000</lastBuildDate><item><title>퍼플렉시티에서 오늘 리서치부터 업무 자동화까지 브라우저 안에서 한 번에 해결할 수 있는 기업용 AI 브라우저 'Comet Enterprise'가...</title><link>https://www.threads.net/@choi.openai/post/DWBHhKzD5nw</link><description>퍼플렉시티에서 오늘 리서치부터 업무 자동화까지 브라우저 안에서 한 번에 해결할 수 있는 기업용 AI 브라우저 'Comet Enterprise'가 공식 출시했습니다.
+
+특히 기업들이 가장 민감해하는 보안과 통제력을 완벽히 갖춰 관리자가 직원들의 AI 사용 내역을 제어하고 감사 로그를 확인할 수 있으며, CrowdStrike와 연동해 피싱과 악성코드도 차단해 줍니다.
+
+이미 AWS나 Fortune 같은 주요 기업들이 도입해 사용 중이라고 합니다.
+
+지난번 검색 결과 안에서 곧바로 문서 작업을 하도록 기능을 확장하더니, 이제는 브라우저가 직접 생각하고 업무를 실행하는 워크스페이스로 완전히 바뀌고 있습니다.</description><pubDate>Wed, 18 Mar 2026 07:38:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWBHhKzD5nw</guid></item><item><title>주소 :
+https://www.perplexity.ai/enterprise/comet</title><link>https://www.threads.net/@choi.openai/post/DWBHhNLDyYT</link><description>주소 :
+https://www.perplexity.ai/enterprise/comet</description><pubDate>Wed, 18 Mar 2026 07:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWBHhNLDyYT</guid></item><item><title>비싼 돈 주고 회의용 AI 비서를 구독할 필요가 없어질지도 모르겠습니다.
 
 macOS용 오픈소스 회의 보조 도구 'OpenGranola'가 공개...</title><link>https://www.threads.net/@choi.openai/post/DWA1MExk49l</link><description>비싼 돈 주고 회의용 AI 비서를 구독할 필요가 없어질지도 모르겠습니다.
 
@@ -36,18 +44,4 @@ G메일, 구글 포토, 유튜브 등 기존 구글 서비스들을 연동해 �
 
 현재 미국부터 적용 중이지만, 해당 기능이 전 세계로 확장되면 실생활 AI 활용의 무게중심이 구글 쪽으로 크게 기울어질 것으로 보입니다.</description><pubDate>Wed, 18 Mar 2026 01:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWAeTdFDAnr</guid></item><item><title>발표내용 :
 https://blog.google/products-and-platforms/products/search/personal-intel...</title><link>https://www.threads.net/@choi.openai/post/DWAeUmXDIpD</link><description>발표내용 :
-https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/</description><pubDate>Wed, 18 Mar 2026 01:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWAeUmXDIpD</guid></item><item><title>선형 모델의 대표주자 맘바(Mamba)가 세 번째 버전으로 돌아왔습니다.
-
-Albert Gu와 연구진이 이전 세대의 한계를 극복하고 모델링 성능...</title><link>https://www.threads.net/@choi.openai/post/DWAYpG9CKUJ</link><description>선형 모델의 대표주자 맘바(Mamba)가 세 번째 버전으로 돌아왔습니다.
-
-Albert Gu와 연구진이 이전 세대의 한계를 극복하고 모델링 성능을 대폭 끌어올린 'Mamba-3'를 새롭게 공개했습니다.
-
-이번 모델은 기존 SSM(상태 공간 모델) 구조에 컨볼루션 연산을 모방하는 이산화 방식과 복소수 기반의 상태 전환 기법을 도입했습니다.
-
-그 결과 고질적인 약점으로 꼽히던 상태 추적 능력이 크게 개선되었고, 고속 추론이라는 장점은 그대로 유지하면서 Mamba-2를 비롯한 기존 선형 모델들을 모든 체급에서 넘어섰습니다.
-
-최근 대형 언어 모델 시장에서 트랜스포머와 선형 모델을 섞는 하이브리드 아키텍처가 대세로 떠오르고 있는데요.
-
-트랜스포머의 막대한 연산 비용을 해결하기 위해 차세대 선형 모델 설계의 중요성이 커지는 시점에서, Mamba-3의 등장은 업계에 또 다른 강력한 대안을 제시하고 있습니다.</description><pubDate>Wed, 18 Mar 2026 00:40:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWAYpG9CKUJ</guid></item><item><title>블로그 :
-https://tridao.me/blog/2026/mamba3-part1/</title><link>https://www.threads.net/@choi.openai/post/DWAYrb_iKbg</link><description>블로그 :
-https://tridao.me/blog/2026/mamba3-part1/</description><pubDate>Wed, 18 Mar 2026 00:41:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWAYrb_iKbg</guid></item></channel></rss>
+https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/</description><pubDate>Wed, 18 Mar 2026 01:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWAeUmXDIpD</guid></item></channel></rss>
