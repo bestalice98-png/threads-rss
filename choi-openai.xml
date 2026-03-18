@@ -1,43 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 17 Mar 2026 18:09:24 +0000</lastBuildDate><item><title>🚨 속보) 오픈AI가 소형 모델인 GPT-5.4 mini와 nano를 새롭게 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 18 Mar 2026 05:22:29 +0000</lastBuildDate><item><title>비싼 돈 주고 회의용 AI 비서를 구독할 필요가 없어질지도 모르겠습니다.
 
-이번 업데이트에서 가장 눈에 띄는 부분은 성능입니다...</title><link>https://www.threads.net/@choi.openai/post/DV_rHtxD3nV</link><description>🚨 속보) 오픈AI가 소형 모델인 GPT-5.4 mini와 nano를 새롭게 공개했습니다.
+macOS용 오픈소스 회의 보조 도구 'OpenGranola'가 공개...</title><link>https://www.threads.net/@choi.openai/post/DWA1MExk49l</link><description>비싼 돈 주고 회의용 AI 비서를 구독할 필요가 없어질지도 모르겠습니다.
 
-이번 업데이트에서 가장 눈에 띄는 부분은 성능입니다.
-GPT-5.4 mini는 이전 버전보다 2배 빠르면서도, 실제 벤치마크에서는 대형 모델인 GPT-5.4에 근접하는 수준을 보여줍니다.
-심지어 API에서는 40만(400k) 토큰의 컨텍스트 윈도우를 지원해 방대한 문서를 한 번에 처리할 수 있습니다.
+macOS용 오픈소스 회의 보조 도구 'OpenGranola'가 공개되었는데요.
+오디오를 기기 내부에서 처리해 프라이버시를 완벽히 지키고, 화면 공유 중에도 상대방에게 노출되지 않습니다.
+내 마크다운 메모 폴더를 연결해 두면, 회의 내용에 맞춰 실시간으로 과거 노트를 검색하고 필요한 대화 주제까지 알아서 띄워줍니다.
 
-여기서 주목할 점은 소형 모델이 이제 최상위 수준의 지능을 갖추게 되었다는 것입니다.
-서브에이전트(Subagents)를 활용한 복잡한 데이터 처리나 코딩 자동화 작업이 훨씬 빠르고 저렴하게 가능해졌습니다.
+여기서 눈여겨볼 점은 개인용 AI 도구의 발전 방향입니다.
+특정 업체의 서비스에 종속되는 대신, 내 로컬 파일과 저렴한 LLM API를 직접 연결해 나만의 비서를 구축하는 방식이 점차 기본 흐름으로 자리 잡고 있습니다.
 
-이제는 무겁고 비싼 모델 하나를 고집할 필요 없이, 가볍고 빠른 소형 모델 여러 개가 협업해 실무를 처리하는 워크플로우로 빠르게 넘어갈 것 같습니다.</description><pubDate>Tue, 17 Mar 2026 18:02:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV_rHtxD3nV</guid></item><item><title>발표내용 :
-https://openai.com/index/introducing-gpt-5-4-mini-and-nano/</title><link>https://www.threads.net/@choi.openai/post/DV_rId8j2vS</link><description>발표내용 :
-https://openai.com/index/introducing-gpt-5-4-mini-and-nano/</description><pubDate>Tue, 17 Mar 2026 18:03:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV_rId8j2vS</guid></item><item><title>LovartAI에서 디자인 작업을 음성으로 진행할 수 있는 "Voice Mode"를 공개했습니다.
+AI의 성능이 발전할수록 기술적 해자가 사라지고 있으며, 빠르게 커가는 오픈소스 시장으로 기존 유료 구독 서비스 생태계가 위협받고 있는 것 같습니다.</description><pubDate>Wed, 18 Mar 2026 04:50:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWA1MExk49l</guid></item><item><title>깃허브 :
+https://github.com/blendi-remade/sprite-sheet-creator</title><link>https://www.threads.net/@choi.openai/post/DWA1NSdk5o4</link><description>깃허브 :
+https://github.com/blendi-remade/sprite-sheet-creator</description><pubDate>Wed, 18 Mar 2026 04:50:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWA1NSdk5o4</guid></item><item><title>128k 컨텍스트를 지원하는 모더레이션 모델을 무료로 풀렸습니다.
 
-이제 키보드 대신 말로 명령하면 생성과 수정...</title><link>https://www.threads.net/@choi.openai/post/DV_UQsDmteV</link><description>LovartAI에서 디자인 작업을 음성으로 진행할 수 있는 "Voice Mode"를 공개했습니다.
+Mistral AI가 차세대 안전 관리 모델인 'Mistral Moderat...</title><link>https://www.threads.net/@choi.openai/post/DWApvrFEkjX</link><description>128k 컨텍스트를 지원하는 모더레이션 모델을 무료로 풀렸습니다.
 
-이제 키보드 대신 말로 명령하면 생성과 수정이 동시에 가능하고, 화면 전체 작업 상태를 실시간으로 이해하면서 반영합니다.</description><pubDate>Tue, 17 Mar 2026 14:44:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV_UQsDmteV</guid></item><item><title>논문 고르는 감각까지 AI가 배웁니다.
+Mistral AI가 차세대 안전 관리 모델인 'Mistral Moderation 2'를 전면 무료로 공개했습니다.
+가장 눈에 띄는 변화는 기존 8k였던 컨텍스트 윈도우를 128k로 대폭 늘렸다는 점입니다.
+이제 방대한 대화 내역이나 긴 문서 전체를 한 번에 넣고 안전성을 검사할 수 있게 되었습니다.
 
-Fudan University가 "RLCF"로 인용수 데이터를 학습시켜, 영향력 높은 연구 아이디어까지...</title><link>https://www.threads.net/@choi.openai/post/DV_IvVnDyce</link><description>논문 고르는 감각까지 AI가 배웁니다.
+또한 위험, 범죄, 탈옥(Jailbreaking) 등 3개의 카테고리를 새로 추가해 총 11가지의 유해성 기준을 꼼꼼하게 걸러냅니다. 특히 Chat Completions API에 '인라인 가드레일' 형태로 바로 적용할 수 있어 개발 환경과의 연동도 훨씬 간편해졌습니다.
 
-Fudan University가 "RLCF"로 인용수 데이터를 학습시켜, 영향력 높은 연구 아이디어까지 제안하는 모델을 공개했습니다.
+그동안 높은 비용이나 복잡한 인프라 문제로 안전장치 도입을 타협했던 서비스들이 많았는데요. 압도적인 성능의 안전 필터가 무료로 풀린 이상, 이제 불안전한 AI 앱을 배포할 핑계는 더 이상 통하지 않게 되었습니다.</description><pubDate>Wed, 18 Mar 2026 03:10:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWApvrFEkjX</guid></item><item><title>주소 :
+https://docs.mistral.ai/capabilities/guardrailing</title><link>https://www.threads.net/@choi.openai/post/DWApwvqki_Z</link><description>주소 :
+https://docs.mistral.ai/capabilities/guardrailing</description><pubDate>Wed, 18 Mar 2026 03:10:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWApwvqki_Z</guid></item><item><title>구글이 드디어 자사가 가진 가장 강력한 무기를 AI에 본격적으로 연결하기 시작했습니다.
 
-커뮤니티의 장기적인 평가를 학습한 Scientific Judge 모델은 상대적으로 작은 체급으로도 GPT-5.2와 Gemini 3 Pro 같은 대형 모델의 판단력을 넘어섰습니다.
+구글이 Gemini와 크롬에 '퍼스널 인텔리전스(Per...</title><link>https://www.threads.net/@choi.openai/post/DWAeTdFDAnr</link><description>구글이 드디어 자사가 가진 가장 강력한 무기를 AI에 본격적으로 연결하기 시작했습니다.
 
-여기에 더해 Scientific Thinker 모델은 앞선 평가를 바탕으로 성공 가능성이 높은 후속 연구를 직접 제안합니다.
+구글이 Gemini와 크롬에 '퍼스널 인텔리전스(Personal Intelligence)' 기능을 무료로 배포하기 시작했습니다.
+G메일, 구글 포토, 유튜브 등 기존 구글 서비스들을 연동해 개인의 관심사와 과거 기록에 맞춘 답변을 제공하는 기능입니다.
 
-AI가 실험과 문헌 검색을 돕는 데서 나아가, 스스로 가설의 가치까지 판단하는 과학자의 모습에 한 걸음 더 다가선 것 같습니다.</description><pubDate>Tue, 17 Mar 2026 13:02:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV_IvVnDyce</guid></item><item><title>프로젝트 주소 :
-https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/</title><link>https://www.threads.net/@choi.openai/post/DV_Iv4Fj_4w</link><description>프로젝트 주소 :
-https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/</description><pubDate>Tue, 17 Mar 2026 13:02:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV_Iv4Fj_4w</guid></item><item><title>와.. 서울을 시뮬레이션 해버리네요..
+여기서 주목할 점은 다른 AI 기업들이 쉽게 흉내 낼 수 없는 구글만의 거대한 생태계가 본격적인 무기로 작동하기 시작했다는 사실입니다.
+매일 누적되는 메일, 사진, 영상 시청 데이터가 AI와 결합되면서 범용적인 챗봇을 넘어 사용자 개인을 깊이 이해하는 맞춤형 비서로 진화하고 있는 것인데요.
 
-네이버 AI에서 공개한 "Seoul World Model"은 서울 거리의 실제 장면을 기반으로 텍스트만...</title><link>https://www.threads.net/@choi.openai/post/DV-2Dwdliag</link><description>와.. 서울을 시뮬레이션 해버리네요..
+현재 미국부터 적용 중이지만, 해당 기능이 전 세계로 확장되면 실생활 AI 활용의 무게중심이 구글 쪽으로 크게 기울어질 것으로 보입니다.</description><pubDate>Wed, 18 Mar 2026 01:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWAeTdFDAnr</guid></item><item><title>발표내용 :
+https://blog.google/products-and-platforms/products/search/personal-intel...</title><link>https://www.threads.net/@choi.openai/post/DWAeUmXDIpD</link><description>발표내용 :
+https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/</description><pubDate>Wed, 18 Mar 2026 01:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWAeUmXDIpD</guid></item><item><title>선형 모델의 대표주자 맘바(Mamba)가 세 번째 버전으로 돌아왔습니다.
 
-네이버 AI에서 공개한 "Seoul World Model"은 서울 거리의 실제 장면을 기반으로 텍스트만으로 탐험할 수 있게 만든 도시 규모의 월드 모델입니다.
+Albert Gu와 연구진이 이전 세대의 한계를 극복하고 모델링 성능...</title><link>https://www.threads.net/@choi.openai/post/DWAYpG9CKUJ</link><description>선형 모델의 대표주자 맘바(Mamba)가 세 번째 버전으로 돌아왔습니다.
 
-검색 증강 생성(RAG)을 통해 각 장면을 실제 스트리트 뷰 데이터와 연결하고, 고질라나 쓰나미 같은 이벤트도 텍스트로 생성할 수 있습니다.
+Albert Gu와 연구진이 이전 세대의 한계를 극복하고 모델링 성능을 대폭 끌어올린 'Mamba-3'를 새롭게 공개했습니다.
 
-간단히 말해, 서울을 가상으로 재현한 게 아니라 실제 데이터를 기반으로 인터랙티브하게 경험할 수 있는 모델인데요.
+이번 모델은 기존 SSM(상태 공간 모델) 구조에 컨볼루션 연산을 모방하는 이산화 방식과 복소수 기반의 상태 전환 기법을 도입했습니다.
 
-해당 모델을 기반으로 향후 네이버 로보틱스와 자율주행에 큰 도움이 될 수 있지 않을까 기대해봅니다.</description><pubDate>Tue, 17 Mar 2026 10:19:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV-2Dwdliag</guid></item><item><title>깃허브 :
-https://github.com/naver-ai/seoul-world-model</title><link>https://www.threads.net/@choi.openai/post/DV-2G5Aj-Pw</link><description>깃허브 :
-https://github.com/naver-ai/seoul-world-model</description><pubDate>Tue, 17 Mar 2026 10:19:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DV-2G5Aj-Pw</guid></item></channel></rss>
+그 결과 고질적인 약점으로 꼽히던 상태 추적 능력이 크게 개선되었고, 고속 추론이라는 장점은 그대로 유지하면서 Mamba-2를 비롯한 기존 선형 모델들을 모든 체급에서 넘어섰습니다.
+
+최근 대형 언어 모델 시장에서 트랜스포머와 선형 모델을 섞는 하이브리드 아키텍처가 대세로 떠오르고 있는데요.
+
+트랜스포머의 막대한 연산 비용을 해결하기 위해 차세대 선형 모델 설계의 중요성이 커지는 시점에서, Mamba-3의 등장은 업계에 또 다른 강력한 대안을 제시하고 있습니다.</description><pubDate>Wed, 18 Mar 2026 00:40:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWAYpG9CKUJ</guid></item><item><title>블로그 :
+https://tridao.me/blog/2026/mamba3-part1/</title><link>https://www.threads.net/@choi.openai/post/DWAYrb_iKbg</link><description>블로그 :
+https://tridao.me/blog/2026/mamba3-part1/</description><pubDate>Wed, 18 Mar 2026 00:41:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWAYrb_iKbg</guid></item></channel></rss>
