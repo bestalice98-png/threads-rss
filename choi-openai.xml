@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 21 Mar 2026 04:54:40 +0000</lastBuildDate><item><title>와… 이제는 박사급 연구원마저 AI가 대체하는 시대가 코앞으로 다가왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 21 Mar 2026 08:33:42 +0000</lastBuildDate><item><title>또 안드레 카파시야..!
+
+Nunchi에서 AI 트레이딩 에이전트가 자체적으로 매매를 학습하는 'Auto-Research Trading'을 깃허...</title><link>https://www.threads.net/@choi.openai/post/DWI819HCcdJ</link><description>또 안드레 카파시야..!
+
+Nunchi에서 AI 트레이딩 에이전트가 자체적으로 매매를 학습하는 'Auto-Research Trading'을 깃허브에 오픈소스로 공개했습니다.
+안드레 카파시의 auto-research 프로젝트에서 영감을 받은 해당 시스템은, 기존의 단순 자동 매매를 넘어 AI가 스스로 트레이딩 루프를 돌며 기법을 연구하도록 설계되었습니다.
+
+매일 변동하는 시장 상황 탓에 당장 완벽한 수익을 보장하지는 않겠지만, 실패를 분석하고 어제의 패턴을 폐기한 뒤 새로운 전략을 찾아내는 속도만큼은 사람을 압도할 것입니다.
+
+머지않아 자본 시장에서 스스로 진화한 AI끼리 맞붙는 날이 올 것 같습니다.</description><pubDate>Sat, 21 Mar 2026 08:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWI819HCcdJ</guid></item><item><title>깃허브 :
+https://github.com/Nunchi-trade/auto-researchtrading</title><link>https://www.threads.net/@choi.openai/post/DWI82sfCeD3</link><description>깃허브 :
+https://github.com/Nunchi-trade/auto-researchtrading</description><pubDate>Sat, 21 Mar 2026 08:31:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWI82sfCeD3</guid></item><item><title>전 세계가 OpenClaw로 들썩이고 있습니다.
+
+처음부터 전부 구축하기보다는 이렇게 Flow가 구축되어있는 것을 활용하는 방법도 좋은데요.
+A...</title><link>https://www.threads.net/@choi.openai/post/DWIyeFhjgOD</link><description>전 세계가 OpenClaw로 들썩이고 있습니다.
+
+처음부터 전부 구축하기보다는 이렇게 Flow가 구축되어있는 것을 활용하는 방법도 좋은데요.
+Alchemy의 CEO 니킬 비스와나탄이 OpenClaw 기반의 자동화 워크플로우 시스템인 'ClawFlows'를 오픈소스로 전격 공개했습니다.
+아침마다 날씨와 주요 메시지를 브리핑해주고, 예정된 미팅 참석자를 미리 조사하며, 개인의 건강 데이터를 분석해 조언을 건네는 100개 이상의 템플릿이 한 번에 제공합니다.
+
+AI는 이제 내 일상을 스스로 굴러가게 만드는 '개인용 운영체제' 수준으로 진화하고 있습니다.
+
+AI를 단순 챗봇으로 쓰는 사람과 에이전트로 굴릴줄 아는 사람의 격차는 무섭게 벌어지고 있습니다.</description><pubDate>Sat, 21 Mar 2026 07:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWIyeFhjgOD</guid></item><item><title>깃허브 :
+https://github.com/nikilster/clawflows</title><link>https://www.threads.net/@choi.openai/post/DWIyfQQjn61</link><description>깃허브 :
+https://github.com/nikilster/clawflows</description><pubDate>Sat, 21 Mar 2026 07:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWIyfQQjn61</guid></item><item><title>유료 스캔 앱들은 이제 스마트폰에서 지워도 될 것 같습니다.
+
+Google Drive의 내장 문서 스캔 기능이 완전히 새로운 베타 버전을 선보였...</title><link>https://www.threads.net/@choi.openai/post/DWIoImoD1oO</link><description>유료 스캔 앱들은 이제 스마트폰에서 지워도 될 것 같습니다.
+
+Google Drive의 내장 문서 스캔 기능이 완전히 새로운 베타 버전을 선보였습니다.
+문서를 넘기기만 하면 스마트폰 카메라가 알아서 여러 장을 실시간으로 연속 촬영하고, 중복된 페이지는 스스로 인식해 걸러냅니다.
+
+그동안 구독료를 내고 쓰던 수많은 서드파티 스캔 전용 앱들의 입지가 크게 흔들리게 되었습니다. 아직 종이를 잘못 분할하는 등 가끔 수동 확인이 필요하다는 반응도 있지만, 귀찮았던 아날로그 문서의 디지털화 과정이 비교할 수 없을 만큼 가벼워졌습니다.
+
+거대 플랫폼의 기본 도구들이 점차 단일 기능 앱들의 생태계를 빠르게 흡수하고 있습니다.</description><pubDate>Sat, 21 Mar 2026 05:29:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWIoImoD1oO</guid></item><item><title>와… 이제는 박사급 연구원마저 AI가 대체하는 시대가 코앞으로 다가왔습니다.
 
 MIT 테크놀로지 리뷰가 오픈AI의 완전 자동화 AI 연구원(AI...</title><link>https://www.threads.net/@choi.openai/post/DWId1Qwk8BT</link><description>와… 이제는 박사급 연구원마저 AI가 대체하는 시대가 코앞으로 다가왔습니다.
 
@@ -10,27 +43,4 @@ MIT 테크놀로지 리뷰가 오픈AI의 완전 자동화 AI 연구원(AI Resea
 
 머지않아 GPT-6 같은 차세대 모델이 탑재된 데이터 센터 자체가 하나의 거대한 자동화 연구소로 작동하며, 과학 발전 속도를 폭발적으로 끌어올리는 특이점을 마주하게 될 것 같습니다.</description><pubDate>Sat, 21 Mar 2026 03:59:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWId1Qwk8BT</guid></item><item><title>기사 :
 https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-ever...</title><link>https://www.threads.net/@choi.openai/post/DWId2ZHEz2d</link><description>기사 :
-https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher</description><pubDate>Sat, 21 Mar 2026 04:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWId2ZHEz2d</guid></item><item><title>와.. 드디어 공개됐다..
-
-OpenClaw 에이전트들의 활동을 시각화하는 3D 가상 공간, 'Claw3D'가 오픈소스로 공개되었습니다.
-터미널...</title><link>https://www.threads.net/@choi.openai/post/DWITjjWCnNG</link><description>와.. 드디어 공개됐다..
-
-OpenClaw 에이전트들의 활동을 시각화하는 3D 가상 공간, 'Claw3D'가 오픈소스로 공개되었습니다.
-터미널 창의 텍스트로만 확인하던 AI의 자동화 작업 과정을 마치 게임 '심즈'처럼 직관적인 사무실 환경으로 구현한 프로젝트인데요.
-
-수십 개의 AI가 각자 어떤 작업을 하고 서로 어떻게 협업하는지, 3D 환경에서 시각적으로 모니터링할 수 있습니다.
-
-해당 프로젝트는 오픈소스로 풀리자마자 전 세계 개발자들이 빠르게 커스텀 환경을 구축하며 반응하고 있습니다. 조만간 AI들의 업무 현황을 확인하기 위해 가상 현실 속 오피스를 들여다보게 될지도 모르겠습니다.</description><pubDate>Sat, 21 Mar 2026 02:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWITjjWCnNG</guid></item><item><title>주소 :
-https://github.com/iamlukethedev/Claw3D</title><link>https://www.threads.net/@choi.openai/post/DWITl8zChDw</link><description>주소 :
-https://github.com/iamlukethedev/Claw3D</description><pubDate>Sat, 21 Mar 2026 02:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWITl8zChDw</guid></item><item><title>앤트로픽의 업데이트 속도가 정말 무서울 정도네요.
-
-앤트로픽이 'Claude Code'에 클라우드 기반 예약 작업(Scheduled Tasks)...</title><link>https://www.threads.net/@choi.openai/post/DWIJSYtEU_U</link><description>앤트로픽의 업데이트 속도가 정말 무서울 정도네요.
-
-앤트로픽이 'Claude Code'에 클라우드 기반 예약 작업(Scheduled Tasks) 기능을 새롭게 출시했습니다.
-이제 작업할 저장소(Repo)와 시간, 프롬프트만 설정해 두면 사용자의 컴퓨터가 꺼져 있어도 클라우드 환경에서 알아서 작업을 수행합니다.
-
-예를들어 매일 밤 CI 실패 원인을 분석하거나, 밀린 PR(풀 리퀘스트)을 검토하고, 승인된 이슈를 바탕으로 새 기능을 만들어두는 작업이 가능해졌습니다.</description><pubDate>Sat, 21 Mar 2026 01:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWIJSYtEU_U</guid></item><item><title>Notion에서 “AI Meeting Notes” 기능이 업데이트되었습니다.
-
-이제 회의 기록이 백그라운드에서 계속 동작해 앱을 전환하거나 화면...</title><link>https://www.threads.net/@choi.openai/post/DWIAKbsDX_g</link><description>Notion에서 “AI Meeting Notes” 기능이 업데이트되었습니다.
-
-이제 회의 기록이 백그라운드에서 계속 동작해 앱을 전환하거나 화면을 잠가도 녹음과 정리가 이어진다고 합니다.</description><pubDate>Fri, 20 Mar 2026 23:41:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWIAKbsDX_g</guid></item></channel></rss>
+https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher</description><pubDate>Sat, 21 Mar 2026 04:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWId2ZHEz2d</guid></item></channel></rss>
