@@ -1,30 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 20 Mar 2026 17:11:57 +0000</lastBuildDate><item><title>Claude에서 “Projects” 기능이 Cowork에 추가되었습니다.
-작업과 파일, 지시사항을 한 공간에 모아 관리할 수 있고, 데이터는 로...</title><link>https://www.threads.net/@choi.openai/post/DWHMoqUDzuY</link><description>Claude에서 “Projects” 기능이 Cowork에 추가되었습니다.
-작업과 파일, 지시사항을 한 공간에 모아 관리할 수 있고, 데이터는 로컬 컴퓨터에 저장된다고 합니다.</description><pubDate>Fri, 20 Mar 2026 16:10:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWHMoqUDzuY</guid></item><item><title>젠슨 황 엔비디아 CEO는 AI를 이유로 직원을 해고하는 경영진을 향해 “상상력이 부족한 것”이라며 일침을 가했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 21 Mar 2026 04:54:40 +0000</lastBuildDate><item><title>와… 이제는 박사급 연구원마저 AI가 대체하는 시대가 코앞으로 다가왔습니다.
 
-“AI는 기업을 축소하...</title><link>https://www.threads.net/@choi.openai/post/DWHDqsrDTCp</link><description>젠슨 황 엔비디아 CEO는 AI를 이유로 직원을 해고하는 경영진을 향해 “상상력이 부족한 것”이라며 일침을 가했습니다.
+MIT 테크놀로지 리뷰가 오픈AI의 완전 자동화 AI 연구원(AI...</title><link>https://www.threads.net/@choi.openai/post/DWId1Qwk8BT</link><description>와… 이제는 박사급 연구원마저 AI가 대체하는 시대가 코앞으로 다가왔습니다.
 
-“AI는 기업을 축소하기 위해서가 아니라, 한계를 없애기 위해 탄생했습니다.”
+MIT 테크놀로지 리뷰가 오픈AI의 완전 자동화 AI 연구원(AI Researcher) 개발에 대한 독점 보고서를 공개했습니다.
+수석 과학자 Jakub Pachocki에 따르면, 오픈AI는 올해 안에 독립적 연구가 가능한 'AI 연구 인턴'을 배포하고, 2028년에는 중대한 과학적 발견을 스스로 이끄는 완전 자동화 다중 에이전트 시스템을 선보일 계획입니다.
 
-젠슨 황은 능력이 커지면 더 큰 일을 꿈꿔야 한다고 강조합니다.
+여기서 주목할 점은 AI 역할의 근본적인 변화입니다. 텍스트 프롬프트에 단편적으로 답하는 도구에서 에이전트가 스스로 가설을 세우고 수학이나 생명과학 같은 난제를 장기간 파고들며 연구를 주도하게 됩니다.
 
-기술 특이점의 문턱에서 AI라는 강력한 레버리지를 통해 무엇을 더 할 수 있을지 상상하는 기업만이 살아남을 것입니다.</description><pubDate>Fri, 20 Mar 2026 14:54:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWHDqsrDTCp</guid></item><item><title>Perplexity가 건강 앱, 웨어러블 기기, 검사 결과 및 의료 기록과 직접 연동되는 'Perplexity Computer' 기능을 새롭게 ...</title><link>https://www.threads.net/@choi.openai/post/DWG_RrIANCj</link><description>Perplexity가 건강 앱, 웨어러블 기기, 검사 결과 및 의료 기록과 직접 연동되는 'Perplexity Computer' 기능을 새롭게 공개했습니다.
+머지않아 GPT-6 같은 차세대 모델이 탑재된 데이터 센터 자체가 하나의 거대한 자동화 연구소로 작동하며, 과학 발전 속도를 폭발적으로 끌어올리는 특이점을 마주하게 될 것 같습니다.</description><pubDate>Sat, 21 Mar 2026 03:59:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWId1Qwk8BT</guid></item><item><title>기사 :
+https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-ever...</title><link>https://www.threads.net/@choi.openai/post/DWId2ZHEz2d</link><description>기사 :
+https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher</description><pubDate>Sat, 21 Mar 2026 04:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWId2ZHEz2d</guid></item><item><title>와.. 드디어 공개됐다..
 
-이제 사용자 개인의 건강 데이터를 바탕으로 맞춤형 마라톤 훈련 계획을 짜거나, 진료 전 의사에게 보여줄 요약본을 생성하는 등 완벽하게 개인화된 건강 도구를 구축할 수 있습니다.
+OpenClaw 에이전트들의 활동을 시각화하는 3D 가상 공간, 'Claw3D'가 오픈소스로 공개되었습니다.
+터미널...</title><link>https://www.threads.net/@choi.openai/post/DWITjjWCnNG</link><description>와.. 드디어 공개됐다..
 
-여러 앱과 병원 포털에 흩어져 관리하기 힘들었던 복잡한 질병 기록들이 하나의 화면으로 연결되며, 하얀 가운을 입은 의사 대신 AI가 1차적인 데이터 분석을 돕는 워크플로우가 만들어졌습니다.
+OpenClaw 에이전트들의 활동을 시각화하는 3D 가상 공간, 'Claw3D'가 오픈소스로 공개되었습니다.
+터미널 창의 텍스트로만 확인하던 AI의 자동화 작업 과정을 마치 게임 '심즈'처럼 직관적인 사무실 환경으로 구현한 프로젝트인데요.
 
-물론 민감한 의료 정보에 대한 프라이버시 보호 구조와, 끊임없는 수치 확인이 오히려 불안감을 키울 수 있다는 지적도 함께 나옵니다만 헬스케어와 AI의 결합이 뚜렷해진 지금, 복잡한 개인 데이터를 가장 안전하고 유용하게 연결하는 곳이 미래 의료 플랫폼을 장악할 것으로 보입니다.
+수십 개의 AI가 각자 어떤 작업을 하고 서로 어떻게 협업하는지, 3D 환경에서 시각적으로 모니터링할 수 있습니다.
 
-해당 기능은 미국의 Perplexity Pro와 Max 구독자에게 우선 배포 중입니다.</description><pubDate>Fri, 20 Mar 2026 14:49:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWG_RrIANCj</guid></item><item><title>이제 페이스북 고객센터도 사람 대신 AI가 처리하는 시대입니다.
+해당 프로젝트는 오픈소스로 풀리자마자 전 세계 개발자들이 빠르게 커스텀 환경을 구축하며 반응하고 있습니다. 조만간 AI들의 업무 현황을 확인하기 위해 가상 현실 속 오피스를 들여다보게 될지도 모르겠습니다.</description><pubDate>Sat, 21 Mar 2026 02:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWITjjWCnNG</guid></item><item><title>주소 :
+https://github.com/iamlukethedev/Claw3D</title><link>https://www.threads.net/@choi.openai/post/DWITl8zChDw</link><description>주소 :
+https://github.com/iamlukethedev/Claw3D</description><pubDate>Sat, 21 Mar 2026 02:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWITl8zChDw</guid></item><item><title>앤트로픽의 업데이트 속도가 정말 무서울 정도네요.
 
-Meta가 Facebook과 Instagram에 ‘Meta AI support...</title><link>https://www.threads.net/@choi.openai/post/DWG0lxjj3DH</link><description>이제 페이스북 고객센터도 사람 대신 AI가 처리하는 시대입니다.
+앤트로픽이 'Claude Code'에 클라우드 기반 예약 작업(Scheduled Tasks)...</title><link>https://www.threads.net/@choi.openai/post/DWIJSYtEU_U</link><description>앤트로픽의 업데이트 속도가 정말 무서울 정도네요.
 
-Meta가 Facebook과 Instagram에 ‘Meta AI support assistant’를 전면 도입하면서, 계정 문제부터 신고, 비밀번호 변경까지 대부분을 AI가 직접 해결하는 구조로 바뀌고 있습니다
+앤트로픽이 'Claude Code'에 클라우드 기반 예약 작업(Scheduled Tasks) 기능을 새롭게 출시했습니다.
+이제 작업할 저장소(Repo)와 시간, 프롬프트만 설정해 두면 사용자의 컴퓨터가 꺼져 있어도 클라우드 환경에서 알아서 작업을 수행합니다.
 
-더 중요한 변화는 콘텐츠 검열 쪽입니다. 새로운 AI 시스템이 하루 5,000건 이상의 사기를 추가로 잡아내고, 유명인 사칭은 80% 이상 줄였으며, 성인 유도 콘텐츠 탐지는 2배 늘면서 오탐은 60% 줄였다고 합니다.
+예를들어 매일 밤 CI 실패 원인을 분석하거나, 밀린 PR(풀 리퀘스트)을 검토하고, 승인된 이슈를 바탕으로 새 기능을 만들어두는 작업이 가능해졌습니다.</description><pubDate>Sat, 21 Mar 2026 01:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWIJSYtEU_U</guid></item><item><title>Notion에서 “AI Meeting Notes” 기능이 업데이트되었습니다.
 
-결국 플랫폼 운영 자체가 사람 중심에서 AI 중심으로 넘어가는 단계입니다.</description><pubDate>Fri, 20 Mar 2026 12:40:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWG0lxjj3DH</guid></item><item><title>기사 :
-https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas...</title><link>https://www.threads.net/@choi.openai/post/DWG0mq6D-Tf</link><description>기사 :
-https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas-apps-with-ai/</description><pubDate>Fri, 20 Mar 2026 12:40:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWG0mq6D-Tf</guid></item></channel></rss>
+이제 회의 기록이 백그라운드에서 계속 동작해 앱을 전환하거나 화면...</title><link>https://www.threads.net/@choi.openai/post/DWIAKbsDX_g</link><description>Notion에서 “AI Meeting Notes” 기능이 업데이트되었습니다.
+
+이제 회의 기록이 백그라운드에서 계속 동작해 앱을 전환하거나 화면을 잠가도 녹음과 정리가 이어진다고 합니다.</description><pubDate>Fri, 20 Mar 2026 23:41:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWIAKbsDX_g</guid></item></channel></rss>
