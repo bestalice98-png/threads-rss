@@ -1,49 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Mar 2026 02:05:59 +0000</lastBuildDate><item><title>결국 AI가 인간이 풀지 못한 진짜 수학 난제까지 풀어내기 시작했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Mar 2026 08:53:50 +0000</lastBuildDate><item><title>일본의 AI 스타트업 Sakana AI가 자국의 언어와 문화에 특화된 무료 AI 챗봇 'Sakana Chat'을 전격 공개했습니다.
+자체 개발한...</title><link>https://www.threads.net/@choi.openai/post/DWQkQ65CRIl</link><description>일본의 AI 스타트업 Sakana AI가 자국의 언어와 문화에 특화된 무료 AI 챗봇 'Sakana Chat'을 전격 공개했습니다.
+자체 개발한 신규 모델 'Namazu'를 기반으로 구동되며, 실시간 웹 검색 기능과 빠른 응답 속도를 제공합니다.
 
-Epoch AI의 미해결 난제 평가 지표인 'FrontierMath'...</title><link>https://www.threads.net/@choi.openai/post/DWP-kQigFYs</link><description>결국 AI가 인간이 풀지 못한 진짜 수학 난제까지 풀어내기 시작했습니다.
+여기서 주목할 부분은 철저한 '지역 최적화'입니다. 현재 일본 국내에서만 접속이 가능한 해당 서비스는 오사카 사투리 같은 지역 고유의 미묘한 언어적 뉘앙스까지 자연스럽게 소화해 냅니다.
 
-Epoch AI의 미해결 난제 평가 지표인 'FrontierMath'에서 드디어 첫 정답이 나왔습니다. 
-2019년 수학자 윌 브라이언이 제안한 이후 아무도 풀지 못했던 하이퍼그래프 관련 문제인데요.
+실제 초기 사용자들 사이에서는 Claude의 최상위 모델과 비교해도 아이디어 기획 파트너로서 전혀 밀리지 않는다는 평가가 나옵니다.
 
-GPT-5.4 Pro가 가장 먼저 정답을 제시했고, 이후 Gemini 3.1 Pro와 Opus 4.6 모델도 이를 풀어내는 데 성공했습니다.
+거대한 자본력으로 무장한 글로벌 AI가 전 세계를 덮고 있지만, 결국 특정 국가의 짙은 문화적 맥락을 가장 날카롭게 파고드는 것은 그 나라만의 자체 AI가 될지도 모르겠습니다.</description><pubDate>Tue, 24 Mar 2026 07:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQkQ65CRIl</guid></item><item><title>발표내용 :
+https://sakana.ai/namazu-alpha/</title><link>https://www.threads.net/@choi.openai/post/DWQkSDLCdM6</link><description>발표내용 :
+https://sakana.ai/namazu-alpha/</description><pubDate>Tue, 24 Mar 2026 07:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQkSDLCdM6</guid></item><item><title>와… AI가 스스로 발전하는 속도가 상상을 초월합니다.
 
-이번 해답은 실제 수학 학술지에 정식 게재될 만큼 완성도가 높으며, 답을 유도해 낸 사용자는 원작자와 함께 논문의 공동 저자로 이름을 올릴 예정이라고 합니다.
+이제는 문제를 잘 푸는 것에 그치지 않고, '학습하는 방법' 자체를 스스로 진화시키는 ...</title><link>https://www.threads.net/@choi.openai/post/DWQY6pBj9fL</link><description>와… AI가 스스로 발전하는 속도가 상상을 초월합니다.
 
-지금까지의 AI가 이미 정답이 존재하는 시험을 잘 푸는 데 그쳤다면, 이제는 미지의 영역에서 인류의 지식 경계를 넓히는 단계로 접어들었습니다.
+이제는 문제를 잘 푸는 것에 그치지 않고, '학습하는 방법' 자체를 스스로 진화시키는 단계에 도달했습니다.
 
-조만간 학계에서 AI를 단순한 도구가 아닌 공동 연구자로 대우해야 할 시점이 올 것 같습니다.</description><pubDate>Tue, 24 Mar 2026 02:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWP-kQigFYs</guid></item><item><title>Cursor가 또 한 번 개발 속도의 한계를 깼습니다.
-수백만 개의 파일을 밀리초(ms) 단위로 검색하는 'Instant Grep' 기능을 공개...</title><link>https://www.threads.net/@choi.openai/post/DWP0SMagRcR</link><description>Cursor가 또 한 번 개발 속도의 한계를 깼습니다.
-수백만 개의 파일을 밀리초(ms) 단위로 검색하는 'Instant Grep' 기능을 공개했습니다.
+Meta 연구진과 Jenny Zhang 등이 2026년 3월 발표한 논문 "Hyperagents"는 AI가 '스스로를 개선하는 방법' 자체를 진화시키는 시스템을 제안한  연구입니다.
 
-규모가 큰 엔터프라이즈급 모노레포 환경에서는 기존 검색 도구(ripgrep 등)를 쓸 때 코드를 찾는 데만 수십 초가 걸려 AI 에이전트의 작업 흐름이 끊기곤 했습니다.
+인간이 설계한 고정된 규칙에 의존해야 했던 한계를 깨고, 메타인지적 자기 수정을 통해 한 분야에서 깨달은 '진화의 방식'을 다른 분야로 전이하고 복리로 축적하는 놀라운 결과를 보여주었습니다.
 
-Cursor는 이를 해결하기 위해 서버가 아닌 사용자의 로컬 환경에 'Sparse N-grams' 방식의 자체 인덱스를 구축했습니다.
+이 논문에 대한 내용을 정리했습니다 🧵</description><pubDate>Tue, 24 Mar 2026 05:50:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQY6pBj9fL</guid></item><item><title>1/ 기존의 자기 개선(Self-improving) AI 시스템은 두 개의 뇌로 나뉘어 있었습니다.
+하나는 실제 문제를 푸는 '작업 에이전트(T...</title><link>https://www.threads.net/@choi.openai/post/DWQY7Ulj3Qa</link><description>1/ 기존의 자기 개선(Self-improving) AI 시스템은 두 개의 뇌로 나뉘어 있었습니다.
+하나는 실제 문제를 푸는 '작업 에이전트(Task Agent)', 다른 하나는 작업 에이전트를 평가하고 수정하는 '메타 에이전트(Meta Agent)'입니다.
+문제는 이 '메타 에이전트'가 인간 개발자가 만들어둔 고정된 규칙대로만 움직인다는 점이었습니다.
 
-자주 쓰이지 않는 문자열 조합에 높은 가중치를 두어 검색 범위를 혁신적으로 좁히고, 변경 사항은 Git 커밋을 기준으로 즉시 업데이트하여 메모리 점유율까지 낮췄습니다.
+연구진은 이 두 가지 역할을 하나의 덩어리로 합친 '하이퍼에이전트(Hyperagents)'를 만들었습니다.
 
-결과적으로 AI 에이전트가 버그를 추적하거나 코드를 수정할 때 대기 시간이 사실상 사라졌습니다.
-모델 자체의 추론 속도뿐만 아니라, 모델이 움직이는 '작업 환경'의 속도까지 극한으로 끌어올리며 AI 코딩 경험의 격차를 또 한 번 벌리고 있습니다.</description><pubDate>Tue, 24 Mar 2026 00:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWP0SMagRcR</guid></item><item><title>블로그 :
-https://cursor.com/blog/fast-regex-search</title><link>https://www.threads.net/@choi.openai/post/DWP0TTigcN7</link><description>블로그 :
-https://cursor.com/blog/fast-regex-search</description><pubDate>Tue, 24 Mar 2026 00:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWP0TTigcN7</guid></item><item><title>나노 바나나 뛰어넘었다..
+하이퍼에이전트는 스스로 문제를 풀 뿐만 아니라, "내가 이 문제를 풀 때 어떤 점이 부족했지? 다음에는 내 생각하는 방식을 이렇게 고쳐봐야겠다"라며 자신의 발전 방식(메타 에이전트의 코드) 자체를 스스로 수정할 수 있습니다.
 
-이미지 생성 AI가 이제는 픽셀을 그리는 동시에 스스로 맥락을 '생각'하기 시작했습니다.
+전문 용어로는 이를 '메타인지적 자기 수정(Metacognitive Self-modification)'이라고 부릅니다.</description><pubDate>Tue, 24 Mar 2026 05:51:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQY7Ulj3Qa</guid></item><item><title>2/ 이 연구는 이전에 발표된 '다윈 괴델 머신(Darwin Gödel Machine, DGM)'이라는 AI 시스템을 발전시킨 것입니다.
 
-Luma Labs에서 사...</title><link>https://www.threads.net/@choi.openai/post/DWPp5iwDHts</link><description>나노 바나나 뛰어넘었다..
+DG...</title><link>https://www.threads.net/@choi.openai/post/DWQY7V9j7QF</link><description>2/ 이 연구는 이전에 발표된 '다윈 괴델 머신(Darwin Gödel Machine, DGM)'이라는 AI 시스템을 발전시킨 것입니다.
 
-이미지 생성 AI가 이제는 픽셀을 그리는 동시에 스스로 맥락을 '생각'하기 시작했습니다.
+DGM은 코딩 영역에서 스스로 코드를 고쳐가며 진화하는 놀라운 능력을 보여주었지만, "어떻게 코드를 고쳐야 할지" 지시를 내리는 방식은 인간이 미리 짜놓은 고정된 프로그램(Hardcoded instruction-generation)이었습니다.
+이 때문에 DGM은 코딩이 아닌 다른 분야(예: 글쓰기, 로봇 제어)에서는 진화하지 못했습니다.
 
-Luma Labs에서 사용자의 의도를 파악하고, 공간을 추론하며 이미지를 완성하는 새로운 비전 모델인 Uni-1을 출시했습니다.
+하지만 하이퍼에이전트 개념을 도입한 'DGM-H(DGM-Hyperagents)'는 이 지시를 내리는 방식조차 스스로 고민하고 수정합니다.
 
-Uni-1은 전체 스타일 및 편집, 참조 기반 생성 부문에서 1위를 차지하며, 사용자가 원하는 레퍼런스에 맞춰 디테일을 정교하게 제어하는 실무적 영역에서 앞서나가고 있습니다.
+덕분에 인간이 특정 분야에 맞춰 규칙을 짜주지 않아도, 코딩뿐만 아니라 논문 심사, 로봇 제어 등 컴퓨터로 계산 가능한 모든 작업(Any computable task)에서 스스로 진화할 수 있는 범용성을 갖추게 되었습니다</description><pubDate>Tue, 24 Mar 2026 05:51:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQY7V9j7QF</guid></item><item><title>3/ 연구진은 DGM-H가 정말로 다양한 분야에서 스스로 진화할 수 있는지 테스트했습니다.
 
-이제 시각 AI 시장은 작업자의 지시를 얼마나 정확하게 이해하고 결과물을 통제할 수 있는지가 핵심 경쟁력이 되어가고 있습니다.</description><pubDate>Mon, 23 Mar 2026 23:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWPp5iwDHts</guid></item><item><title>벤치마크 :</title><link>https://www.threads.net/@choi.openai/post/DWPp6eCDBHd</link><description>벤치마크 :</description><pubDate>Mon, 23 Mar 2026 23:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWPp6eCDBHd</guid></item><item><title>앤트로픽이 데스크톱 앱과 브라우저를 직접 조작하는 '컴퓨터 유즈(Computer Use)' 기능을 공개했습니다. 
+코딩 성능 평가(Polyglot)는 물론, 인간의 ...</title><link>https://www.threads.net/@choi.openai/post/DWQY7Sgj3ad</link><description>3/ 연구진은 DGM-H가 정말로 다양한 분야에서 스스로 진화할 수 있는지 테스트했습니다.
 
-Slack이나 캘린더 같은 ...</title><link>https://www.threads.net/@choi.openai/post/DWPhHOqE6vF</link><description>앤트로픽이 데스크톱 앱과 브라우저를 직접 조작하는 '컴퓨터 유즈(Computer Use)' 기능을 공개했습니다. 
+코딩 성능 평가(Polyglot)는 물론, 인간의 주관이 개입되는 'AI 연구 논문 심사(Paper review)', 사족보행 로봇이 잘 걷게 만드는 '보상 함수 설계(Robotics reward design)'까지 다양한 과제를 주었습니다.
 
-Slack이나 캘린더 같은 연결된 앱을 먼저 활용하되, 지원되지 않는 도구는 사용자 승인 하에 직접 화면에 앱을 띄워 사람처럼 조작합니다.
+결과는 초기에는 0점에 가까운 형편없는 실력이었던 DGM-H는 스스로 학습과 수정을 반복하더니, 인간이 해당 도메인에 맞춰 특별히 튜닝해 준 AI(DGM-custom)나 기존의 우수한 AI 모델(정적 베이스라인)들을 모두 뛰어넘는 뛰어난 성과를 보여주었습니다.</description><pubDate>Tue, 24 Mar 2026 05:51:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQY7Sgj3ad</guid></item><item><title>🚨 속보) 할리우드를 충격에 빠뜨린, Seedance 2.0 공식 출시
 
-가장 놀라운 점은 스마트폰과의 연동과 스케줄링입니다.
-밖에서 폰으로 지시를 내리면 빈 책상의 컴퓨터가 스스로 화면을 띄워 매주 금요일 리포트를 뽑아놓고, 매일 아침 메일을 스캔해 둡니다.
+Dreamina가 텍스트, 이미지, 비디오를 모두 참조하는 다중 모달 ...</title><link>https://www.threads.net/@choi.openai/post/DWQOyZoj_SQ</link><description>🚨 속보) 할리우드를 충격에 빠뜨린, Seedance 2.0 공식 출시
 
-해당 기능은 macOS 환경의 Claude Cowork와 Claude Code에서 Pro 및 Max 구독자에게 제공됩니다.</description><pubDate>Mon, 23 Mar 2026 21:43:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWPhHOqE6vF</guid></item></channel></rss>
+Dreamina가 텍스트, 이미지, 비디오를 모두 참조하는 다중 모달 비디오 모델 'Seedance 2.0'과 이미지 생성 모델 'Seedream 5.0 Lite'를 정식 출시했습니다.
+
+다만, 아직 API 공개는 이루어지지 않았는데요. 이번 공개가 앞으로 AI 영상업계에 불러올 파장을 지켜봐야겠습니다.
+
+* 현재 사용자들에게 순차적으로 배포가 진행 중입니다.</description><pubDate>Tue, 24 Mar 2026 04:25:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQOyZoj_SQ</guid></item><item><title>젠슨황의 충격발언, “우리는 이미 AGI에 도달했다“
+
+젠슨황은 AI가 기업의 경영까지도 맡을 수 있는 가능성을 언급하며, 특히 AI 에이전트가...</title><link>https://www.threads.net/@choi.openai/post/DWQI3NWAgje</link><description>젠슨황의 충격발언, “우리는 이미 AGI에 도달했다“
+
+젠슨황은 AI가 기업의 경영까지도 맡을 수 있는 가능성을 언급하며, 특히 AI 에이전트가 단기간에 수십억 명의 사용자를 확보하는 혁신적인 웹 서비스나 앱을 생성할 수 있다고 설명합니다.
+
+"우리는 이미 AGI를 달성했다고 생각합니다. AI 시스템이 수십억 명이 사용하는 서비스를 만들고 운영하는 기업을 이끄는 것도 충분히 가능합니다."
+
+젠슨 황은 과거 인터넷 시대의 수많은 웹사이트들이 지금의 AI가 생성할 수 있는 결과물보다 결코 정교하지 않았음을 지적하며, AI를 통한 '기업 자동화'와 '서비스 혁신'이 가져올 폭발적인 변화를 예고했습니다.</description><pubDate>Tue, 24 Mar 2026 03:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQI3NWAgje</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=vif8NQcjVf0</title><link>https://www.threads.net/@choi.openai/post/DWQI5dkgnNu</link><description>풀영상 :
+https://www.youtube.com/watch?v=vif8NQcjVf0</description><pubDate>Tue, 24 Mar 2026 03:30:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQI5dkgnNu</guid></item></channel></rss>
