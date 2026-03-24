@@ -1,64 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Mar 2026 08:53:50 +0000</lastBuildDate><item><title>일본의 AI 스타트업 Sakana AI가 자국의 언어와 문화에 특화된 무료 AI 챗봇 'Sakana Chat'을 전격 공개했습니다.
-자체 개발한...</title><link>https://www.threads.net/@choi.openai/post/DWQkQ65CRIl</link><description>일본의 AI 스타트업 Sakana AI가 자국의 언어와 문화에 특화된 무료 AI 챗봇 'Sakana Chat'을 전격 공개했습니다.
-자체 개발한 신규 모델 'Namazu'를 기반으로 구동되며, 실시간 웹 검색 기능과 빠른 응답 속도를 제공합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Mar 2026 15:55:41 +0000</lastBuildDate><item><title>Figure AI의 창업자 브렛 애드콕(Brett Adcock)이 지난 8개월간 준비해 온 새로운 AI 랩 'Hark'를 전격 공개했습니다.
 
-여기서 주목할 부분은 철저한 '지역 최적화'입니다. 현재 일본 국내에서만 접속이 가능한 해당 서비스는 오사카 사투리 같은 지역 고유의 미묘한 언어적 뉘앙스까지 자연스럽게 소화해 냅니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DWRZ9nHjbBM</link><description>Figure AI의 창업자 브렛 애드콕(Brett Adcock)이 지난 8개월간 준비해 온 새로운 AI 랩 'Hark'를 전격 공개했습니다.
 
-실제 초기 사용자들 사이에서는 Claude의 최상위 모델과 비교해도 아이디어 기획 파트너로서 전혀 밀리지 않는다는 평가가 나옵니다.
+기존 LLM 챗봇의 한계를 지적하며, 사람처럼 듣고 말하고 장기적인 기억을 유지하는 완벽한 개인 맞춤형 AI를 만들겠다는 목표입니다.
 
-거대한 자본력으로 무장한 글로벌 AI가 전 세계를 덮고 있지만, 결국 특정 국가의 짙은 문화적 맥락을 가장 날카롭게 파고드는 것은 그 나라만의 자체 AI가 될지도 모르겠습니다.</description><pubDate>Tue, 24 Mar 2026 07:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQkQ65CRIl</guid></item><item><title>발표내용 :
-https://sakana.ai/namazu-alpha/</title><link>https://www.threads.net/@choi.openai/post/DWQkSDLCdM6</link><description>발표내용 :
-https://sakana.ai/namazu-alpha/</description><pubDate>Tue, 24 Mar 2026 07:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQkSDLCdM6</guid></item><item><title>와… AI가 스스로 발전하는 속도가 상상을 초월합니다.
+여기서 주목할 점은 소프트웨어만 만드는 것이 아니라, 인간과 기계를 연결하는 차세대 하드웨어를 함께 개발한다는 사실입니다.
+로봇에게 물리적 신체를 부여하던 그가, 이제는 사람의 인지적 부담을 덜어줄 디지털 두뇌와 새로운 폼팩터를 동시에 설계하고 있는 셈입니다.
 
-이제는 문제를 잘 푸는 것에 그치지 않고, '학습하는 방법' 자체를 스스로 진화시키는 ...</title><link>https://www.threads.net/@choi.openai/post/DWQY6pBj9fL</link><description>와… AI가 스스로 발전하는 속도가 상상을 초월합니다.
+결국 AGI(범용인공지능)의 완성은 물리적 기기와의 결합에 있다는 흐름이 점차 뚜렷해지고 있습니다. 이들이 그리는 인터페이스가 스마트폰 다음의 새로운 표준이 될 수 있을지 지켜봐야겠습니다.</description><pubDate>Tue, 24 Mar 2026 15:21:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWRZ9nHjbBM</guid></item><item><title>전 세계의 활용팁을 모은 Claude 가이드북 배포.
 
-이제는 문제를 잘 푸는 것에 그치지 않고, '학습하는 방법' 자체를 스스로 진화시키는 단계에 도달했습니다.
+정리했던 내용이 많은 관심을 받아 좀 더 읽기 쉽게 내용을 좀 더 업데이트 해서 배포합니...</title><link>https://www.threads.net/@choi.openai/post/DWROO2NDQ2i</link><description>전 세계의 활용팁을 모은 Claude 가이드북 배포.
 
-Meta 연구진과 Jenny Zhang 등이 2026년 3월 발표한 논문 "Hyperagents"는 AI가 '스스로를 개선하는 방법' 자체를 진화시키는 시스템을 제안한  연구입니다.
+정리했던 내용이 많은 관심을 받아 좀 더 읽기 쉽게 내용을 좀 더 업데이트 해서 배포합니다.
+최근 AI 트렌드와 글로벌 동향 그리고 실제 적용법을 심화적으로 담았습니다.
+다음에는 OpenClaw와 Codex 마스터 가이드를 공유할 예정입니다. 
+많은 관심 부탁드립니다.</description><pubDate>Tue, 24 Mar 2026 13:39:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWROO2NDQ2i</guid></item><item><title>링크 :
+https://drive.google.com/file/d/1SAGAkIk4GGxQOtAjs--oqWRfiYLHYBtP/view?usp=...</title><link>https://www.threads.net/@choi.openai/post/DWROhpiDx7M</link><description>링크 :
+https://drive.google.com/file/d/1SAGAkIk4GGxQOtAjs--oqWRfiYLHYBtP/view?usp=sharing</description><pubDate>Tue, 24 Mar 2026 13:39:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWROhpiDx7M</guid></item><item><title>며칠 걸리던 연구를 AI가 혼자 끝내버립니다.
+앤트로픽이 공개한 Claude 기반 연구 방식은, 목표만 주면 며칠 동안 스스로 코딩·실험·디버깅...</title><link>https://www.threads.net/@choi.openai/post/DWRLnp8j7DY</link><description>며칠 걸리던 연구를 AI가 혼자 끝내버립니다.
+앤트로픽이 공개한 Claude 기반 연구 방식은, 목표만 주면 며칠 동안 스스로 코딩·실험·디버깅까지 진행합니다.
+실제로 우주 물리 계산 코드도 거의 완성 수준까지 도달했습니다.
 
-인간이 설계한 고정된 규칙에 의존해야 했던 한계를 깨고, 메타인지적 자기 수정을 통해 한 분야에서 깨달은 '진화의 방식'을 다른 분야로 전이하고 복리로 축적하는 놀라운 결과를 보여주었습니다.
+연구 시간 바뀐 사례와 핵심 방식 정리했습니다🧵</description><pubDate>Tue, 24 Mar 2026 13:13:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWRLnp8j7DY</guid></item><item><title>1/ 지금까지 대부분의 과학자들은 AI를 사용할 때마다 질문하고 답을 얻는 짧은 대화(Conversational loop)를 반복하며 세세하게 ...</title><link>https://www.threads.net/@choi.openai/post/DWRLnneD32B</link><description>1/ 지금까지 대부분의 과학자들은 AI를 사용할 때마다 질문하고 답을 얻는 짧은 대화(Conversational loop)를 반복하며 세세하게 통제했습니다.
 
-이 논문에 대한 내용을 정리했습니다 🧵</description><pubDate>Tue, 24 Mar 2026 05:50:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQY6pBj9fL</guid></item><item><title>1/ 기존의 자기 개선(Self-improving) AI 시스템은 두 개의 뇌로 나뉘어 있었습니다.
-하나는 실제 문제를 푸는 '작업 에이전트(T...</title><link>https://www.threads.net/@choi.openai/post/DWQY7Ulj3Qa</link><description>1/ 기존의 자기 개선(Self-improving) AI 시스템은 두 개의 뇌로 나뉘어 있었습니다.
-하나는 실제 문제를 푸는 '작업 에이전트(Task Agent)', 다른 하나는 작업 에이전트를 평가하고 수정하는 '메타 에이전트(Meta Agent)'입니다.
-문제는 이 '메타 에이전트'가 인간 개발자가 만들어둔 고정된 규칙대로만 움직인다는 점이었습니다.
+하지만 모델이 장기 목표(Long-horizon tasks)를 수행하는 능력이 크게 향상됨에 따라, 이제는 '높은 수준의 목표(High-level objective)'만 지정해 주고 자율적인 에이전트 팀을 풀어놓는 새로운 업무 방식이 가능해졌습니다.
 
-연구진은 이 두 가지 역할을 하나의 덩어리로 합친 '하이퍼에이전트(Hyperagents)'를 만들었습니다.
+이를 통해 며칠, 몇 주, 심지어 몇 달이 걸릴 프로젝트를 단 몇 시간 만에 끝낼 수 있습니다.</description><pubDate>Tue, 24 Mar 2026 13:13:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWRLnneD32B</guid></item><item><title>2/ AI를 방치해 두고 성과를 얻으려면 세 가지 조건이 필요합니다.
 
-하이퍼에이전트는 스스로 문제를 풀 뿐만 아니라, "내가 이 문제를 풀 때 어떤 점이 부족했지? 다음에는 내 생각하는 방식을 이렇게 고쳐봐야겠다"라며 자신의 발전 방식(메타 에이전트의 코드) 자체를 스스로 수정할 수 있습니다.
+작업 범위가 잘 설정되어 있고(Well-scoped), 성공 기준이 명확...</title><link>https://www.threads.net/@choi.openai/post/DWRLnmPD4B8</link><description>2/ AI를 방치해 두고 성과를 얻으려면 세 가지 조건이 필요합니다.
 
-전문 용어로는 이를 '메타인지적 자기 수정(Metacognitive Self-modification)'이라고 부릅니다.</description><pubDate>Tue, 24 Mar 2026 05:51:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQY7Ulj3Qa</guid></item><item><title>2/ 이 연구는 이전에 발표된 '다윈 괴델 머신(Darwin Gödel Machine, DGM)'이라는 AI 시스템을 발전시킨 것입니다.
+작업 범위가 잘 설정되어 있고(Well-scoped), 성공 기준이 명확하며(Clear success criteria), 인간의 감독이 지속적이지 않고 가끔씩만(Occasional) 이루어져도 되는 작업이어야 합니다.
 
-DG...</title><link>https://www.threads.net/@choi.openai/post/DWQY7V9j7QF</link><description>2/ 이 연구는 이전에 발표된 '다윈 괴델 머신(Darwin Gödel Machine, DGM)'이라는 AI 시스템을 발전시킨 것입니다.
+기존의 수치 해석 솔버(Numerical solver)를 재구현하거나, 오래된 포트란(Fortran) 코드를 현대 언어로 변환하거나, 레퍼런스 구현체와 비교하여 거대한 코드베이스를 디버깅하는 작업 등이 이에 완벽하게 들어맞습니다.</description><pubDate>Tue, 24 Mar 2026 13:13:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWRLnmPD4B8</guid></item><item><title>3/ 저자는 자신의 전공 분야가 아님에도 불구하고, 우주 초기 빅뱅의 잔광(CMB)을 예측하는 '미분 가능한 우주론적 볼츠만 솔버(Boltzma...</title><link>https://www.threads.net/@choi.openai/post/DWRLnrpDxEq</link><description>3/ 저자는 자신의 전공 분야가 아님에도 불구하고, 우주 초기 빅뱅의 잔광(CMB)을 예측하는 '미분 가능한 우주론적 볼츠만 솔버(Boltzmann solver)'를 JAX 언어로 구현하는 작업을 Claude Opus 4.6에게 맡겼습니다.
 
-DGM은 코딩 영역에서 스스로 코드를 고쳐가며 진화하는 놀라운 능력을 보여주었지만, "어떻게 코드를 고쳐야 할지" 지시를 내리는 방식은 인간이 미리 짜놓은 고정된 프로그램(Hardcoded instruction-generation)이었습니다.
-이 때문에 DGM은 코딩이 아닌 다른 분야(예: 글쓰기, 로봇 제어)에서는 진화하지 못했습니다.
-
-하지만 하이퍼에이전트 개념을 도입한 'DGM-H(DGM-Hyperagents)'는 이 지시를 내리는 방식조차 스스로 고민하고 수정합니다.
-
-덕분에 인간이 특정 분야에 맞춰 규칙을 짜주지 않아도, 코딩뿐만 아니라 논문 심사, 로봇 제어 등 컴퓨터로 계산 가능한 모든 작업(Any computable task)에서 스스로 진화할 수 있는 범용성을 갖추게 되었습니다</description><pubDate>Tue, 24 Mar 2026 05:51:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQY7V9j7QF</guid></item><item><title>3/ 연구진은 DGM-H가 정말로 다양한 분야에서 스스로 진화할 수 있는지 테스트했습니다.
-
-코딩 성능 평가(Polyglot)는 물론, 인간의 ...</title><link>https://www.threads.net/@choi.openai/post/DWQY7Sgj3ad</link><description>3/ 연구진은 DGM-H가 정말로 다양한 분야에서 스스로 진화할 수 있는지 테스트했습니다.
-
-코딩 성능 평가(Polyglot)는 물론, 인간의 주관이 개입되는 'AI 연구 논문 심사(Paper review)', 사족보행 로봇이 잘 걷게 만드는 '보상 함수 설계(Robotics reward design)'까지 다양한 과제를 주었습니다.
-
-결과는 초기에는 0점에 가까운 형편없는 실력이었던 DGM-H는 스스로 학습과 수정을 반복하더니, 인간이 해당 도메인에 맞춰 특별히 튜닝해 준 AI(DGM-custom)나 기존의 우수한 AI 모델(정적 베이스라인)들을 모두 뛰어넘는 뛰어난 성과를 보여주었습니다.</description><pubDate>Tue, 24 Mar 2026 05:51:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQY7Sgj3ad</guid></item><item><title>🚨 속보) 할리우드를 충격에 빠뜨린, Seedance 2.0 공식 출시
-
-Dreamina가 텍스트, 이미지, 비디오를 모두 참조하는 다중 모달 ...</title><link>https://www.threads.net/@choi.openai/post/DWQOyZoj_SQ</link><description>🚨 속보) 할리우드를 충격에 빠뜨린, Seedance 2.0 공식 출시
-
-Dreamina가 텍스트, 이미지, 비디오를 모두 참조하는 다중 모달 비디오 모델 'Seedance 2.0'과 이미지 생성 모델 'Seedream 5.0 Lite'를 정식 출시했습니다.
-
-다만, 아직 API 공개는 이루어지지 않았는데요. 이번 공개가 앞으로 AI 영상업계에 불러올 파장을 지켜봐야겠습니다.
-
-* 현재 사용자들에게 순차적으로 배포가 진행 중입니다.</description><pubDate>Tue, 24 Mar 2026 04:25:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQOyZoj_SQ</guid></item><item><title>젠슨황의 충격발언, “우리는 이미 AGI에 도달했다“
-
-젠슨황은 AI가 기업의 경영까지도 맡을 수 있는 가능성을 언급하며, 특히 AI 에이전트가...</title><link>https://www.threads.net/@choi.openai/post/DWQI3NWAgje</link><description>젠슨황의 충격발언, “우리는 이미 AGI에 도달했다“
-
-젠슨황은 AI가 기업의 경영까지도 맡을 수 있는 가능성을 언급하며, 특히 AI 에이전트가 단기간에 수십억 명의 사용자를 확보하는 혁신적인 웹 서비스나 앱을 생성할 수 있다고 설명합니다.
-
-"우리는 이미 AGI를 달성했다고 생각합니다. AI 시스템이 수십억 명이 사용하는 서비스를 만들고 운영하는 기업을 이끄는 것도 충분히 가능합니다."
-
-젠슨 황은 과거 인터넷 시대의 수많은 웹사이트들이 지금의 AI가 생성할 수 있는 결과물보다 결코 정교하지 않았음을 지적하며, AI를 통한 '기업 자동화'와 '서비스 혁신'이 가져올 폭발적인 변화를 예고했습니다.</description><pubDate>Tue, 24 Mar 2026 03:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQI3NWAgje</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=vif8NQcjVf0</title><link>https://www.threads.net/@choi.openai/post/DWQI5dkgnNu</link><description>풀영상 :
-https://www.youtube.com/watch?v=vif8NQcjVf0</description><pubDate>Tue, 24 Mar 2026 03:30:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQI5dkgnNu</guid></item></channel></rss>
+해당 분야 전문가들도 몇 달에서 몇 년이 걸리는 이 복잡한 파이프라인 구축 작업을, 저자는 비전문가로서 최소한의 방향만 제시(Minimal steering)하며 에이전트가 어디까지 할 수 있는지 실험했습니다.</description><pubDate>Tue, 24 Mar 2026 13:14:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWRLnrpDxEq</guid></item><item><title>새로 공개된 Figure 03 완전 자율 작업 모습</title><link>https://www.threads.net/@choi.openai/post/DWQ1ePggLrn</link><description>새로 공개된 Figure 03 완전 자율 작업 모습</description><pubDate>Tue, 24 Mar 2026 10:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQ1ePggLrn</guid></item></channel></rss>
