@@ -1,66 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 25 Mar 2026 08:52:50 +0000</lastBuildDate><item><title>Claude Code 제대로 쓰는 사람 거의 없습니다.
-다들 FOMO 때문에 깔고 프롬프트만 치는데, 앤트로픽이 말한 핵심은 전혀 다릅니다.
-진...</title><link>https://www.threads.net/@choi.openai/post/DWTFplOj_Zc</link><description>Claude Code 제대로 쓰는 사람 거의 없습니다.
-다들 FOMO 때문에 깔고 프롬프트만 치는데, 앤트로픽이 말한 핵심은 전혀 다릅니다.
-진짜 차이는 "하네스" 구조에서 나고, 이걸 아는 순간 결과가 완전히 달라집니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 25 Mar 2026 15:58:55 +0000</lastBuildDate><item><title>Freepik에서 이미지뿐 아니라 영상까지 조명 변경이 가능한 “Relight”이 공개되었습니다.
 
-실제 사례 정리했습니다🧵</description><pubDate>Wed, 25 Mar 2026 07:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTFplOj_Zc</guid></item><item><title>1/ Anthropic Labs 팀의 Prithvi Rajasekaran이 2026년 3월 24일에 작성한 블로그 포스트 "장기 실행 애플리케이...</title><link>https://www.threads.net/@choi.openai/post/DWTFp77D9Mi</link><description>1/ Anthropic Labs 팀의 Prithvi Rajasekaran이 2026년 3월 24일에 작성한 블로그 포스트 "장기 실행 애플리케이션 개발을 위한 하네스 설계"는 AI가 인간의 개입 없이 수 시간 동안 자율적으로 풀스택 애플리케이션을 개발하도록 만드는 최첨단 에이전트 엔지니어링 기법을 소개합니다.
+영상 생성 이후에도 빛의 방향, 색, 강도를...</title><link>https://www.threads.net/@choi.openai/post/DWT8l1aAWUW</link><description>Freepik에서 이미지뿐 아니라 영상까지 조명 변경이 가능한 “Relight”이 공개되었습니다.
 
-저자는 적대적 생성 신경망(GAN)에서 영감을 얻어 '생성자(Generator)'와 '평가자(Evaluator)' 에이전트를 분리하는 구조를 도입함으로써, 프론트엔드 디자인의 주관적 품질과 백엔드 코드의 검증 가능한 정확성을 모두 비약적으로 끌어올렸습니다.</description><pubDate>Wed, 25 Mar 2026 07:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTFp77D9Mi</guid></item><item><title>2/ AI에게 긴 코딩 작업을 통째로 맡길 때 주로 발생하는 치명적인 실패 원인은 두 가지입니다.
+영상 생성 이후에도 빛의 방향, 색, 강도를 조절할 수 있고, 참고 이미지를 넣으면 비슷한 조명 효과도 적용됩니다.
 
-첫째는 대화창이 꽉 찼다고 느끼면 작업을 대...</title><link>https://www.threads.net/@choi.openai/post/DWTFpkNj_Mm</link><description>2/ AI에게 긴 코딩 작업을 통째로 맡길 때 주로 발생하는 치명적인 실패 원인은 두 가지입니다.
+예를 들어 어두운 영상에 측면 조명을 추가해 분위기를 바꾸는 식으로 활용할 수 있습니다.</description><pubDate>Wed, 25 Mar 2026 15:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWT8l1aAWUW</guid></item><item><title>얀 르쿤(Yann LeCun)의 오랜 꿈이었던 월드 모델이 마침내 현실적인 영역으로 내려왔습니다.
 
-첫째는 대화창이 꽉 찼다고 느끼면 작업을 대충 마무리 지으려는 '문맥 불안(Context Anxiety)' 현상이며,
-둘째는 자신이 짠 엉망인 코드나 디자인에도 무조건 훌륭하다고 칭찬하는 '자기 객관화 실패(Self-Evaluation Issue)'입니다.
+Lucas Maes 연구진이 복잡한 편법 없...</title><link>https://www.threads.net/@choi.openai/post/DWTyP_6j_46</link><description>얀 르쿤(Yann LeCun)의 오랜 꿈이었던 월드 모델이 마침내 현실적인 영역으로 내려왔습니다.
 
-특히 정답이 없는 디자인 영역에서 이 문제가 심각했는데, 저자는 작업을 하는 생성자 에이전트와 이를 깐깐하게 채점하는 평가자 에이전트를 분리함으로써 이 문제를 해결했습니다.</description><pubDate>Wed, 25 Mar 2026 07:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTFpkNj_Mm</guid></item><item><title>3/ 평가자 에이전트가 주관적인 아름다움을 객관적으로 채점할 수 있도록 네 가지 명확한 기준이 프롬프트에 주입되었습니다.
+Lucas Maes 연구진이 복잡한 편법 없이 픽셀에서 직접 세계 모델을 학습하는 LeWorldModel을 새롭게 공개했습니다.
 
-이 기준은 색상과 레...</title><link>https://www.threads.net/@choi.openai/post/DWTFpmOj3Ed</link><description>3/ 평가자 에이전트가 주관적인 아름다움을 객관적으로 채점할 수 있도록 네 가지 명확한 기준이 프롬프트에 주입되었습니다.
+해당 모델은 파라미터 크기가 15M(1,500만)에 불과해 단일 GPU만으로도 작동하며, 1초 이내에 전체 계획 수립을 완료합니다.
 
-이 기준은 색상과 레이아웃의 일관성을 보는 디자인 품질, 뻔한 템플릿이나 AI 특유의 스타일을 배제하는 독창성, 여백 등 기본기를 보는 기술적 완성도, 그리고 직관적인 사용성을 뜻하는 기능성으로 구성됩니다.
+관측치를 훨씬 적은 토큰으로 인코딩하기 때문에 기존 DINO-WM과 비교해 속도가 48배나 빠른데요.
+그동안 JEPA 구조는 훈련 과정이 매우 불안정하고 무거워 학계의 연구로만 머무르는 경향이 강했습니다.
 
-특히 독창성에 높은 가중치를 부여하자, AI는 뻔한 디자인을 버리고 3D 공간을 활용한 미술관 웹사이트를 구축하는 등 파격적인 창의성을 발휘하기 시작했습니다.</description><pubDate>Wed, 25 Mar 2026 07:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTFpmOj3Ed</guid></item><item><title>모델 성능은 완벽히 유지되는데, 메모리 사용량은 6분의 1로 줄고 속도는 8배 빨라졌습니다.
+하지만 가우시안 정규화(SIGReg)라는 단순한 방법으로 한계를 극복해냈습니다.
+연구용 데모에 불과했던 기술이 이제는 스타트업도 도입을 고려할 수 있는 실제 제품 개발의 무대로 넘어오고 있습니다.</description><pubDate>Wed, 25 Mar 2026 13:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTyP_6j_46</guid></item><item><title>프로젝트 주소 :
+https://le-wm.github.io/</title><link>https://www.threads.net/@choi.openai/post/DWTyRCdjxRX</link><description>프로젝트 주소 :
+https://le-wm.github.io/</description><pubDate>Wed, 25 Mar 2026 13:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTyRCdjxRX</guid></item><item><title>물리 논문 하나 쓰는데 1년 걸리던 시대 끝났습니다.
+하버드 교수가 Claude로 이론물리 논문을 2주 만에 완성했습니다.
+110번 수정, 계산...</title><link>https://www.threads.net/@choi.openai/post/DWTn8saDxbU</link><description>물리 논문 하나 쓰는데 1년 걸리던 시대 끝났습니다.
+하버드 교수가 Claude로 이론물리 논문을 2주 만에 완성했습니다.
+110번 수정, 계산·코딩·그래프까지 전부 AI가 처리했습니다.
 
-구글 리서치에서 LLM의 고질적인 메모리 병목 문...</title><link>https://www.threads.net/@choi.openai/post/DWS7XPFiWQx</link><description>모델 성능은 완벽히 유지되는데, 메모리 사용량은 6분의 1로 줄고 속도는 8배 빨라졌습니다.
+실제 진행 과정과 충격적인 실수 사례까지 정리했습니다🧵</description><pubDate>Wed, 25 Mar 2026 12:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTn8saDxbU</guid></item><item><title>1/ 최근 AI가 논문을 처음부터 끝까지 쓴다는 과대광고가 많지만, 저자는 AI가 창의성이 필요한 고난도 연구(대학원 3년 차 이상)를 하기 전...</title><link>https://www.threads.net/@choi.openai/post/DWTn9DBD-Mu</link><description>1/ 최근 AI가 논문을 처음부터 끝까지 쓴다는 과대광고가 많지만, 저자는 AI가 창의성이 필요한 고난도 연구(대학원 3년 차 이상)를 하기 전에, 정답이 정해져 있고 검증 가능한 연구(대학원 2년 차 수준, G2)부터 해낼 수 있는지 검증하고자 했습니다.
 
-구글 리서치에서 LLM의 고질적인 메모리 병목 문제를 해결할 새로운 압축 알고리즘 'TurboQuant'를 공개했습니다.
+이를 위해 저자는 "직접 코드를 수정하지 않고 오직 Claude Code에 텍스트 프롬프트만 입력한다"는 엄격한 규칙을 세우고, 양자장론의 복잡한 수치 계산(C-parameter의 Sudakov shoulder 재합산)을 AI에게 온전히 맡겼습니다.</description><pubDate>Wed, 25 Mar 2026 12:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTn9DBD-Mu</guid></item><item><title>2/ AI 모델의 가장 큰 약점은 긴 프로젝트를 진행할 때 문맥을 잊어버리거나 헷갈린다는 것입니다.
 
-기존 벡터 양자화 방식이 가지던 추가 메모리 부담을 PolarQuant와 QJL이라는 수학적 기법을 통해 완전히 없앤 것이 특징인데요.
-가장 눈여겨볼 점은 이러한 극단적인 압축을 거치고도 정확도 손실이 전혀 발생하지 않는다는 사실입니다.
+저자는 이를 해결하기 위해 먼저 Claud...</title><link>https://www.threads.net/@choi.openai/post/DWTn8sIj8eD</link><description>2/ AI 모델의 가장 큰 약점은 긴 프로젝트를 진행할 때 문맥을 잊어버리거나 헷갈린다는 것입니다.
 
-모델이 아무리 발전해도 이를 받쳐줄 메모리와 연산 자원이 부족하면 한계에 부딪힐 수밖에 없습니다.
+저자는 이를 해결하기 위해 먼저 Claude, GPT, Gemini를 모두 활용해 7단계, 102개의 작업으로 이루어진 '마스터 플랜'을 짜게 했습니다.
 
-이번 연구는 막대한 물리적 장비 증설 없이도 알고리즘 최적화만으로 AI 구동 효율을 극대화할 수 있는 방향을 보여줍니다. 앞으로 대규모 AI 모델과 검색 엔진의 운영 비용과 속도가 얼마나 개선될 수 있을지 지켜볼 만한 포인트입니다.</description><pubDate>Wed, 25 Mar 2026 05:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWS7XPFiWQx</guid></item><item><title>블로그 :
-https://research.google/blog/turboquant-redefining-ai-efficiency-with-extr...</title><link>https://www.threads.net/@choi.openai/post/DWS7YULiWrS</link><description>블로그 :
-https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression</description><pubDate>Wed, 25 Mar 2026 05:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWS7YULiWrS</guid></item><item><title>AI 쓰는 사람끼리 격차가 벌어지고 있습니다.
-앤트로픽 보고서에서 오래 쓴 사람은 더 어려운 일에 쓰고 성공률도 더 높다는 결과가 나왔습니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DWSv_hIDzz4</link><description>AI 쓰는 사람끼리 격차가 벌어지고 있습니다.
-앤트로픽 보고서에서 오래 쓴 사람은 더 어려운 일에 쓰고 성공률도 더 높다는 결과가 나왔습니다.
-고학력, 고임금 작업을 수행하는 초기 수용자들은 이미 AI를 능숙하게 다루며 더 높은 성공률을 누리고 있다는 의미입니다.
-같은 도구인데 결과가 달라지는 이유, 앤트로픽 연구를 정리했습니다 🧵</description><pubDate>Wed, 25 Mar 2026 03:51:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWSv_hIDzz4</guid></item><item><title>1/ 과거 Claude 웹사이트에서는 코딩 작업이 압도적인 비중을 차지했습니다.
+그리고 Claude가 긴 대화창에 의존하는 대신, 각 작업마다 별도의 마크다운(Markdown) 파일을 만들어 결과를 요약하고 저장하게 했습니다.
 
-하지만 이번 조사에서 코딩 작업은 개발자용 API(특히 에이전...</title><link>https://www.threads.net/@choi.openai/post/DWSv_6Pj5Ga</link><description>1/ 과거 Claude 웹사이트에서는 코딩 작업이 압도적인 비중을 차지했습니다.
+AI는 기억하는 것보다 문서를 검색해서 읽는 것을 훨씬 잘하기 때문에, 이 트리 구조의 문서 관리는 프로젝트 성공의 결정적 요인이 되었습니다.</description><pubDate>Wed, 25 Mar 2026 12:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTn8sIj8eD</guid></item><item><title>3/ Claude는 복잡한 적분, 변수 변경, 오래된 포트란(Fortran) 코드의 컴파일 및 실행, 회귀 분석 등에서 탁월한 능력을 발휘했습니...</title><link>https://www.threads.net/@choi.openai/post/DWTn8sKD1a3</link><description>3/ Claude는 복잡한 적분, 변수 변경, 오래된 포트란(Fortran) 코드의 컴파일 및 실행, 회귀 분석 등에서 탁월한 능력을 발휘했습니다.
 
-하지만 이번 조사에서 코딩 작업은 개발자용 API(특히 에이전트 기반의 Claude Code)로 대거 이동했습니다.
+오류가 발생해도 불평 없이 수백 번의 디버그 플롯을 생성했으며, 단 3일 만에 수식과 그래프, 참고문헌이 포함된 20페이지 분량의 논문 초안(LaTeX)을 뚝딱 만들어냈습니다.
 
-그 결과, Claude 웹사이트 내 상위 10개 작업의 집중도는 24%에서 19%로 감소하며 사용처가 훨씬 다양해졌습니다.
+인간 대학원생이었다면 각종 툴 설치와 버그 해결에만 며칠이 걸렸을 '단순 노동(Grunt work)'을 AI가 완벽하게 대체해 준 것입니다.</description><pubDate>Wed, 25 Mar 2026 12:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTn8sKD1a3</guid></item><item><title>비디오와 오디오를 한 번에 만들어내는 속도가 정말 믿기지 않습니다.
 
-학업(Coursework) 비중은 줄어든 반면, 스포츠, 제품 비교 등 개인적인 용도(Personal)의 대화 비중이 35%에서 42%로 증가하며 AI가 대중의 일상 깊숙이 침투하고 있음을 보여줍니다.</description><pubDate>Wed, 25 Mar 2026 03:51:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWSv_6Pj5Ga</guid></item><item><title>2/ AI가 인간을 대체하는 '자동화(Automation)'가 급증할 것이라는 우려와 달리, Claude 웹 사용자들은 AI를 자신의 능력을 보...</title><link>https://www.threads.net/@choi.openai/post/DWSwA-aj6uK</link><description>2/ AI가 인간을 대체하는 '자동화(Automation)'가 급증할 것이라는 우려와 달리, Claude 웹 사용자들은 AI를 자신의 능력을 보완하는 '증강(Augmentation)'의 도구로 더 많이 사용하기 시작했습니다.
+최근 돋보였던 폐쇄형 모델 Seedance 2.0의 아쉬움을 달래줄 'da...</title><link>https://www.threads.net/@choi.openai/post/DWTctjJjtpP</link><description>비디오와 오디오를 한 번에 만들어내는 속도가 정말 믿기지 않습니다.
 
-단순히 지시만 내리고 마는 것이 아니라, AI와 피드백을 주고받으며 작업을 반복(Task iteration)하거나 검증(Validation)하고 학습(Learning)하는 협업 패턴이 소폭 상승했습니다.</description><pubDate>Wed, 25 Mar 2026 03:51:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWSwA-aj6uK</guid></item><item><title>3/ 연구진은 AI가 수행하는 작업의 가치를 '해당 작업을 수행하는 미국 노동자의 평균 시급'으로 환산했습니다.
+최근 돋보였던 폐쇄형 모델 Seedance 2.0의 아쉬움을 달래줄 'daVinci-MagiHuman'이 오픈소스로 공개되었습니다.
+해당 모델은 15B 파라미터의 단일 트랜스포머(Transformer) 구조로, 비디오와 오디오 연산을 분리하지 않고 한 번에 처리합니다.
 
-고임금 작업인 코딩이 API로...</title><link>https://www.threads.net/@choi.openai/post/DWSwB_sDx6y</link><description>3/ 연구진은 AI가 수행하는 작업의 가치를 '해당 작업을 수행하는 미국 노동자의 평균 시급'으로 환산했습니다.
+단일 H100 GPU에서 5초 분량의 1080p 영상을 38초 만에 생성하고, 자연스러운 표정과 입 모양, 오디오 싱크는 물론 한국어를 포함한 6개 국어를 지원하며, 블라인드 테스트에서 Ovi 1.1과 LTX 2.3을 넘어섰습니다.
 
-고임금 작업인 코딩이 API로 빠져나가고 일상적인 질문이 늘어나면서, Claude에서 수행되는 작업의 평균 가치는 시간당 49.3달러에서 47.9달러로 소폭 하락했습니다.
-
-이는 초기 기술 수용자(얼리어답터)들이 고부가가치 작업에 AI를 쓴 반면, 기술이 대중화되면서 더 넓고 일반적인 용도로 AI가 쓰이는 전형적인 '기술 채택 곡선(Adoption curve)'을 따르고 있음을 의미합니다.</description><pubDate>Wed, 25 Mar 2026 03:51:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWSwB_sDx6y</guid></item><item><title>아마존(Amazon)이 휴머노이드 로봇 'Sprout'의 제작사 Fauna Robotics를 공식 인수했습니다.
-
-그동안 물류창고 자동화에만 집...</title><link>https://www.threads.net/@choi.openai/post/DWSmvxokf1v</link><description>아마존(Amazon)이 휴머노이드 로봇 'Sprout'의 제작사 Fauna Robotics를 공식 인수했습니다.
-
-그동안 물류창고 자동화에만 집중하던 아마존이 소비자 가정용 로봇 시장까지 확장하려는 계획으로 보이는데요.
-Sprout는 인간이 거주하는 복잡하고 불규칙한 환경에 맞춰 설계된 이족 보행 로봇입니다.
-
-사람들이 텍스트 생성 AI에만 시선을 빼앗긴 사이, 현실 세계에서 작동하는 피지컬 AI의 발전 속도도 무시할 수 없습니다.
-
-누가 가장 먼저 사람들의 일상과 거실을 장악하게 될지, 진정한 하드웨어 플랫폼 전쟁이 시작되었습니다.</description><pubDate>Wed, 25 Mar 2026 02:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWSmvxokf1v</guid></item></channel></rss>
+복잡한 구조를 덜어내고 단순함으로 속도와 성능을 모두 잡은 오픈소스의 발전 속도가 무섭습니다.</description><pubDate>Wed, 25 Mar 2026 10:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTctjJjtpP</guid></item><item><title>깃허브 :
+https://github.com/GAIR-NLP/daVinci-MagiHuman</title><link>https://www.threads.net/@choi.openai/post/DWTdrnuj_gM</link><description>깃허브 :
+https://github.com/GAIR-NLP/daVinci-MagiHuman</description><pubDate>Wed, 25 Mar 2026 10:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTdrnuj_gM</guid></item></channel></rss>
