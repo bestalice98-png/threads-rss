@@ -1,37 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Mar 2026 15:55:41 +0000</lastBuildDate><item><title>Figure AI의 창업자 브렛 애드콕(Brett Adcock)이 지난 8개월간 준비해 온 새로운 AI 랩 'Hark'를 전격 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 25 Mar 2026 02:11:33 +0000</lastBuildDate><item><title>오픈AI가 ChatGPT 내 쇼핑 기능을 대폭 업그레이드했습니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/DWRZ9nHjbBM</link><description>Figure AI의 창업자 브렛 애드콕(Brett Adcock)이 지난 8개월간 준비해 온 새로운 AI 랩 'Hark'를 전격 공개했습니다.
+이미지 업로드와 상품 비교가 시각적으로 더 편리해졌고, 방향을 틀어 자체 결...</title><link>https://www.threads.net/@choi.openai/post/DWSchYPAOe8</link><description>오픈AI가 ChatGPT 내 쇼핑 기능을 대폭 업그레이드했습니다.
 
-기존 LLM 챗봇의 한계를 지적하며, 사람처럼 듣고 말하고 장기적인 기억을 유지하는 완벽한 개인 맞춤형 AI를 만들겠다는 목표입니다.
+이미지 업로드와 상품 비교가 시각적으로 더 편리해졌고, 방향을 틀어 자체 결제 시스템을 고집하는 대신 상품의 '발견'과 연결에만 집중하기로 했습니다.
 
-여기서 주목할 점은 소프트웨어만 만드는 것이 아니라, 인간과 기계를 연결하는 차세대 하드웨어를 함께 개발한다는 사실입니다.
-로봇에게 물리적 신체를 부여하던 그가, 이제는 사람의 인지적 부담을 덜어줄 디지털 두뇌와 새로운 폼팩터를 동시에 설계하고 있는 셈입니다.
+결제는 상점들의 기존 시스템을 그대로 이용하게 두는 방식입니다.</description><pubDate>Wed, 25 Mar 2026 01:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWSchYPAOe8</guid></item><item><title>🚨 세상을 놀라게 했던 오픈AI의 동영상 생성 AI 'Sora'의 서비스가 중단됩니다.
 
-결국 AGI(범용인공지능)의 완성은 물리적 기기와의 결합에 있다는 흐름이 점차 뚜렷해지고 있습니다. 이들이 그리는 인터페이스가 스마트폰 다음의 새로운 표준이 될 수 있을지 지켜봐야겠습니다.</description><pubDate>Tue, 24 Mar 2026 15:21:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWRZ9nHjbBM</guid></item><item><title>전 세계의 활용팁을 모은 Claude 가이드북 배포.
+Sora 앱과 API 제공을 완전히 중단하고, 해당 팀...</title><link>https://www.threads.net/@choi.openai/post/DWSSHzRioz9</link><description>🚨 세상을 놀라게 했던 오픈AI의 동영상 생성 AI 'Sora'의 서비스가 중단됩니다.
 
-정리했던 내용이 많은 관심을 받아 좀 더 읽기 쉽게 내용을 좀 더 업데이트 해서 배포합니...</title><link>https://www.threads.net/@choi.openai/post/DWROO2NDQ2i</link><description>전 세계의 활용팁을 모은 Claude 가이드북 배포.
+Sora 앱과 API 제공을 완전히 중단하고, 해당 팀을 로봇 공학을 위한 '월드 모델(world-models)' 연구로 전환한다는 소식입니다.
 
-정리했던 내용이 많은 관심을 받아 좀 더 읽기 쉽게 내용을 좀 더 업데이트 해서 배포합니다.
-최근 AI 트렌드와 글로벌 동향 그리고 실제 적용법을 심화적으로 담았습니다.
-다음에는 OpenClaw와 Codex 마스터 가이드를 공유할 예정입니다. 
-많은 관심 부탁드립니다.</description><pubDate>Tue, 24 Mar 2026 13:39:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWROO2NDQ2i</guid></item><item><title>링크 :
-https://drive.google.com/file/d/1SAGAkIk4GGxQOtAjs--oqWRfiYLHYBtP/view?usp=...</title><link>https://www.threads.net/@choi.openai/post/DWROhpiDx7M</link><description>링크 :
-https://drive.google.com/file/d/1SAGAkIk4GGxQOtAjs--oqWRfiYLHYBtP/view?usp=sharing</description><pubDate>Tue, 24 Mar 2026 13:39:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWROhpiDx7M</guid></item><item><title>며칠 걸리던 연구를 AI가 혼자 끝내버립니다.
-앤트로픽이 공개한 Claude 기반 연구 방식은, 목표만 주면 며칠 동안 스스로 코딩·실험·디버깅...</title><link>https://www.threads.net/@choi.openai/post/DWRLnp8j7DY</link><description>며칠 걸리던 연구를 AI가 혼자 끝내버립니다.
-앤트로픽이 공개한 Claude 기반 연구 방식은, 목표만 주면 며칠 동안 스스로 코딩·실험·디버깅까지 진행합니다.
-실제로 우주 물리 계산 코드도 거의 완성 수준까지 도달했습니다.
+제품 조직 이름을 'AGI Deployment'로 변경하고, 경제 전반을 가속할 것이라 자신하는 차세대 모델 'Spud' 출시에 모든 연산 자원을 쏟아붓고 있습니다. 기존에 알려진 디즈니와의 거액 라이선스 계약마저 뒤로 미룰 정도의 결정입니다.
 
-연구 시간 바뀐 사례와 핵심 방식 정리했습니다🧵</description><pubDate>Tue, 24 Mar 2026 13:13:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWRLnp8j7DY</guid></item><item><title>1/ 지금까지 대부분의 과학자들은 AI를 사용할 때마다 질문하고 답을 얻는 짧은 대화(Conversational loop)를 반복하며 세세하게 ...</title><link>https://www.threads.net/@choi.openai/post/DWRLnneD32B</link><description>1/ 지금까지 대부분의 과학자들은 AI를 사용할 때마다 질문하고 답을 얻는 짧은 대화(Conversational loop)를 반복하며 세세하게 통제했습니다.
+화려한 영상 생성 툴을 유지하는 일보다 현실의 물리 법칙을 이해하는 로봇의 두뇌를 만드는 작업이 훨씬 시급하고 가치 있다는 냉정한 판단을 내렸습니다.
 
-하지만 모델이 장기 목표(Long-horizon tasks)를 수행하는 능력이 크게 향상됨에 따라, 이제는 '높은 수준의 목표(High-level objective)'만 지정해 주고 자율적인 에이전트 팀을 풀어놓는 새로운 업무 방식이 가능해졌습니다.
+중국의 영상 모델이 빠르게 치고 올라오면서 컴퓨팅 자원을 아끼려는 전략적인 선택으로 보입니다.</description><pubDate>Tue, 24 Mar 2026 23:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWSSHzRioz9</guid></item><item><title>앤트로픽(Anthropic)이 'Claude Code'에 새로운 '자동 모드(Auto mode)'를 도입했습니다.
 
-이를 통해 며칠, 몇 주, 심지어 몇 달이 걸릴 프로젝트를 단 몇 시간 만에 끝낼 수 있습니다.</description><pubDate>Tue, 24 Mar 2026 13:13:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWRLnneD32B</guid></item><item><title>2/ AI를 방치해 두고 성과를 얻으려면 세 가지 조건이 필요합니다.
+기존에는 파일 수정이나 명령...</title><link>https://www.threads.net/@choi.openai/post/DWSH4hbmSk-</link><description>앤트로픽(Anthropic)이 'Claude Code'에 새로운 '자동 모드(Auto mode)'를 도입했습니다.
 
-작업 범위가 잘 설정되어 있고(Well-scoped), 성공 기준이 명확...</title><link>https://www.threads.net/@choi.openai/post/DWRLnmPD4B8</link><description>2/ AI를 방치해 두고 성과를 얻으려면 세 가지 조건이 필요합니다.
+기존에는 파일 수정이나 명령어 실행 시 사용자가 일일이 승인해야 했지만, 이제는 모델이 안전성을 자체 평가해 알아서 작업을 진행합니다. 위험한 행동은 사전에 차단하고 다른 방식을 찾도록 설계되었습니다.</description><pubDate>Tue, 24 Mar 2026 22:01:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWSH4hbmSk-</guid></item><item><title>메타(Meta)의 마크 저커버그가 본인의 업무를 돕는 'CEO AI 에이전트'를 직접 구축하고 있다는 소식입니다.
 
-작업 범위가 잘 설정되어 있고(Well-scoped), 성공 기준이 명확하며(Clear success criteria), 인간의 감독이 지속적이지 않고 가끔씩만(Occasional) 이루어져도 되는 작업이어야 합니다.
+회사 내외부의 방대한 데이터...</title><link>https://www.threads.net/@choi.openai/post/DWR6FvIjnTI</link><description>메타(Meta)의 마크 저커버그가 본인의 업무를 돕는 'CEO AI 에이전트'를 직접 구축하고 있다는 소식입니다.
 
-기존의 수치 해석 솔버(Numerical solver)를 재구현하거나, 오래된 포트란(Fortran) 코드를 현대 언어로 변환하거나, 레퍼런스 구현체와 비교하여 거대한 코드베이스를 디버깅하는 작업 등이 이에 완벽하게 들어맞습니다.</description><pubDate>Tue, 24 Mar 2026 13:13:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWRLnmPD4B8</guid></item><item><title>3/ 저자는 자신의 전공 분야가 아님에도 불구하고, 우주 초기 빅뱅의 잔광(CMB)을 예측하는 '미분 가능한 우주론적 볼츠만 솔버(Boltzma...</title><link>https://www.threads.net/@choi.openai/post/DWRLnrpDxEq</link><description>3/ 저자는 자신의 전공 분야가 아님에도 불구하고, 우주 초기 빅뱅의 잔광(CMB)을 예측하는 '미분 가능한 우주론적 볼츠만 솔버(Boltzmann solver)'를 JAX 언어로 구현하는 작업을 Claude Opus 4.6에게 맡겼습니다.
+회사 내외부의 방대한 데이터를 빠르게 수집하고 의사결정에 필요한 핵심 정보를 즉시 제공받기 위한 목적인데요.
+저커버그는 향후 모든 사람이 자신만의 AI 에이전트를 가지게 될 것이라며, 본인부터 직접 이 실험에 나섰습니다.
 
-해당 분야 전문가들도 몇 달에서 몇 년이 걸리는 이 복잡한 파이프라인 구축 작업을, 저자는 비전문가로서 최소한의 방향만 제시(Minimal steering)하며 에이전트가 어디까지 할 수 있는지 실험했습니다.</description><pubDate>Tue, 24 Mar 2026 13:14:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWRLnrpDxEq</guid></item><item><title>새로 공개된 Figure 03 완전 자율 작업 모습</title><link>https://www.threads.net/@choi.openai/post/DWQ1ePggLrn</link><description>새로 공개된 Figure 03 완전 자율 작업 모습</description><pubDate>Tue, 24 Mar 2026 10:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWQ1ePggLrn</guid></item></channel></rss>
+글로벌 빅테크의 최고경영자가 자신의 권한과 판단을 보조할 수단으로 에이전트를 택했다는 점이 놀라운ㄴ데요.
+
+기업의 가장 높은 곳에서 시작된 이 변화가 앞으로 리더의 역할과 조직의 의사결정 구조를 어떻게 바꿔놓을지 주목해야 할 시점입니다.</description><pubDate>Tue, 24 Mar 2026 20:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWR6FvIjnTI</guid></item><item><title>기사 :
+https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help...</title><link>https://www.threads.net/@choi.openai/post/DWR6GwhDipo</link><description>기사 :
+https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5</description><pubDate>Tue, 24 Mar 2026 20:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWR6GwhDipo</guid></item></channel></rss>
