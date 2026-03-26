@@ -1,53 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 25 Mar 2026 15:58:55 +0000</lastBuildDate><item><title>Freepik에서 이미지뿐 아니라 영상까지 조명 변경이 가능한 “Relight”이 공개되었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 26 Mar 2026 02:25:04 +0000</lastBuildDate><item><title>CapCut이 웹 버전에서 타임라인 없이 영상을 제작하는 캔버스 기반의 'Video Studio'를 전격 공개했습니다.
+여기에 강력한 영상 생성...</title><link>https://www.threads.net/@choi.openai/post/DWVD-pjCYVC</link><description>CapCut이 웹 버전에서 타임라인 없이 영상을 제작하는 캔버스 기반의 'Video Studio'를 전격 공개했습니다.
+여기에 강력한 영상 생성 AI인 'Dreamina Seedance 2.0'까지 기본으로 탑재되었는데요.
 
-영상 생성 이후에도 빛의 방향, 색, 강도를...</title><link>https://www.threads.net/@choi.openai/post/DWT8l1aAWUW</link><description>Freepik에서 이미지뿐 아니라 영상까지 조명 변경이 가능한 “Relight”이 공개되었습니다.
+AI 에이전트와 대화하며 스토리를 짜고, 스토리보드를 구성한 뒤 즉시 고품질 영상을 생성해 프레임 단위로 다듬을 수 있어 기획부터 최종 수출까지의 모든 과정이 하나의 무한 캔버스에서 끝납니다.
 
-영상 생성 이후에도 빛의 방향, 색, 강도를 조절할 수 있고, 참고 이미지를 넣으면 비슷한 조명 효과도 적용됩니다.
+이제 여러 툴을 오갈 필요 없이 머릿속 아이디어가 영상으로 완성되는 워크플로우 전체가 완벽하게 통합되었습니다.</description><pubDate>Thu, 26 Mar 2026 01:25:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWVD-pjCYVC</guid></item><item><title>기다리던 ARC-AGI-3가 공식 발표되었습니다.
 
-예를 들어 어두운 영상에 측면 조명을 추가해 분위기를 바꾸는 식으로 활용할 수 있습니다.</description><pubDate>Wed, 25 Mar 2026 15:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWT8l1aAWUW</guid></item><item><title>얀 르쿤(Yann LeCun)의 오랜 꿈이었던 월드 모델이 마침내 현실적인 영역으로 내려왔습니다.
+람들이 100% 쉽게 통과하는 이 게임 환경에서, Gemini 3.1과 GPT-5.4를 비롯...</title><link>https://www.threads.net/@choi.openai/post/DWU6ZOrkj1q</link><description>기다리던 ARC-AGI-3가 공식 발표되었습니다.
 
-Lucas Maes 연구진이 복잡한 편법 없...</title><link>https://www.threads.net/@choi.openai/post/DWTyP_6j_46</link><description>얀 르쿤(Yann LeCun)의 오랜 꿈이었던 월드 모델이 마침내 현실적인 영역으로 내려왔습니다.
+람들이 100% 쉽게 통과하는 이 게임 환경에서, Gemini 3.1과 GPT-5.4를 비롯한 최상위 프론티어 모델들은 1%의 벽조차 넘지 못했습니다.
 
-Lucas Maes 연구진이 복잡한 편법 없이 픽셀에서 직접 세계 모델을 학습하는 LeWorldModel을 새롭게 공개했습니다.
+기존 벤치마크가 AI가 이미 학습한 지식을 평가했다면, 이번 테스트는 사전 지식 없는 낯선 환경에서 가설을 세우고 스스로 적응하는 능력을 묻습니다.
+AI들은 여전히 첫 가설에 집착하거나 다음 상황을 예측하지 못하는 뚜렷한 한계를 보였습니다.
 
-해당 모델은 파라미터 크기가 15M(1,500만)에 불과해 단일 GPU만으로도 작동하며, 1초 이내에 전체 계획 수립을 완료합니다.
+그동안 수많은 벤치마크가 단기간에 정복당했지만, 상황을 인지하고 멘탈 모델을 구축하는 능력에서 AI는 여전히 인간과 큰 격차를 보입니다.
+과연 ARC-AGI-3는 또 얼마나 빠르게 정복이 가능할지 앞으로 모델 발전 속도가 얼마나 빠르게 좋아질지 정말 기대되는 부분입니다.</description><pubDate>Thu, 26 Mar 2026 00:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWU6ZOrkj1q</guid></item><item><title>테스트 표 :</title><link>https://www.threads.net/@choi.openai/post/DWU6ahLkox6</link><description>테스트 표 :</description><pubDate>Thu, 26 Mar 2026 00:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWU6ahLkox6</guid></item><item><title>Claude의 업무용 도구 연동 기능이 모바일 앱에 정식 추가되었습니다.
+이제 PC 없이도 폰에서 바로 Figma 디자인을 확인하고, Canva...</title><link>https://www.threads.net/@choi.openai/post/DWUwKGdivI1</link><description>Claude의 업무용 도구 연동 기능이 모바일 앱에 정식 추가되었습니다.
+이제 PC 없이도 폰에서 바로 Figma 디자인을 확인하고, Canva 슬라이드를 만들거나 Amplitude 대시보드를 열어볼 수 있습니다.
 
-관측치를 훨씬 적은 토큰으로 인코딩하기 때문에 기존 DINO-WM과 비교해 속도가 48배나 빠른데요.
-그동안 JEPA 구조는 훈련 과정이 매우 불안정하고 무거워 학계의 연구로만 머무르는 경향이 강했습니다.
+가장 중요한 변화는 AI를 대하는 방식이 달라지고 있다는 점입니다.
+이미 해외에서는 이동 중에도 외부 서버에서 돌아가는 AI 에이전트의 작업물을 모바일로 검토하고 승인하는 방식의 활용 사례까지 나오고 있습니다.
 
-하지만 가우시안 정규화(SIGReg)라는 단순한 방법으로 한계를 극복해냈습니다.
-연구용 데모에 불과했던 기술이 이제는 스타트업도 도입을 고려할 수 있는 실제 제품 개발의 무대로 넘어오고 있습니다.</description><pubDate>Wed, 25 Mar 2026 13:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTyP_6j_46</guid></item><item><title>프로젝트 주소 :
-https://le-wm.github.io/</title><link>https://www.threads.net/@choi.openai/post/DWTyRCdjxRX</link><description>프로젝트 주소 :
-https://le-wm.github.io/</description><pubDate>Wed, 25 Mar 2026 13:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTyRCdjxRX</guid></item><item><title>물리 논문 하나 쓰는데 1년 걸리던 시대 끝났습니다.
-하버드 교수가 Claude로 이론물리 논문을 2주 만에 완성했습니다.
-110번 수정, 계산...</title><link>https://www.threads.net/@choi.openai/post/DWTn8saDxbU</link><description>물리 논문 하나 쓰는데 1년 걸리던 시대 끝났습니다.
-하버드 교수가 Claude로 이론물리 논문을 2주 만에 완성했습니다.
-110번 수정, 계산·코딩·그래프까지 전부 AI가 처리했습니다.
+최근 끊임없이 이어지는 업데이트를 보면, AI가 손안의 실무 도구로 자리 잡는 속도가 정말 빠르게 느껴집니다.</description><pubDate>Wed, 25 Mar 2026 22:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWUwKGdivI1</guid></item><item><title>메타의 Manus 인수에 강력한 제동이 걸렸습니다.
 
-실제 진행 과정과 충격적인 실수 사례까지 정리했습니다🧵</description><pubDate>Wed, 25 Mar 2026 12:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTn8saDxbU</guid></item><item><title>1/ 최근 AI가 논문을 처음부터 끝까지 쓴다는 과대광고가 많지만, 저자는 AI가 창의성이 필요한 고난도 연구(대학원 3년 차 이상)를 하기 전...</title><link>https://www.threads.net/@choi.openai/post/DWTn9DBD-Mu</link><description>1/ 최근 AI가 논문을 처음부터 끝까지 쓴다는 과대광고가 많지만, 저자는 AI가 창의성이 필요한 고난도 연구(대학원 3년 차 이상)를 하기 전에, 정답이 정해져 있고 검증 가능한 연구(대학원 2년 차 수준, G2)부터 해낼 수 있는지 검증하고자 했습니다.
+파이낸셜 타임스 보도에 따르면, 중국 정부가 AI 에이전트 스타트업 Manus의 공동 창업...</title><link>https://www.threads.net/@choi.openai/post/DWUlwJDiEiv</link><description>메타의 Manus 인수에 강력한 제동이 걸렸습니다.
 
-이를 위해 저자는 "직접 코드를 수정하지 않고 오직 Claude Code에 텍스트 프롬프트만 입력한다"는 엄격한 규칙을 세우고, 양자장론의 복잡한 수치 계산(C-parameter의 Sudakov shoulder 재합산)을 AI에게 온전히 맡겼습니다.</description><pubDate>Wed, 25 Mar 2026 12:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTn9DBD-Mu</guid></item><item><title>2/ AI 모델의 가장 큰 약점은 긴 프로젝트를 진행할 때 문맥을 잊어버리거나 헷갈린다는 것입니다.
+파이낸셜 타임스 보도에 따르면, 중국 정부가 AI 에이전트 스타트업 Manus의 공동 창업자 2명에게 출국 금지 조치를 내렸습니다.
+메타가 20억 달러(약 3조)에 Manus를 인수하기로 한 거래가 중국의 투자 규정을 위반했는지 직접 조사하기 위함인데요.
 
-저자는 이를 해결하기 위해 먼저 Claud...</title><link>https://www.threads.net/@choi.openai/post/DWTn8sIj8eD</link><description>2/ AI 모델의 가장 큰 약점은 긴 프로젝트를 진행할 때 문맥을 잊어버리거나 헷갈린다는 것입니다.
+Manus는 중국 출신 창업자들이 만들어 단기간에 엄청난 성과를 냈던 범용 AI 에이전트 기업입니다.
+이번 조치는 최고 수준의 AI 기술과 인재가 미국 빅테크로 넘어가는 것을 중국 당국이 직접 통제하려 나선 상황으로 보입니다.
 
-저자는 이를 해결하기 위해 먼저 Claude, GPT, Gemini를 모두 활용해 7단계, 102개의 작업으로 이루어진 '마스터 플랜'을 짜게 했습니다.
-
-그리고 Claude가 긴 대화창에 의존하는 대신, 각 작업마다 별도의 마크다운(Markdown) 파일을 만들어 결과를 요약하고 저장하게 했습니다.
-
-AI는 기억하는 것보다 문서를 검색해서 읽는 것을 훨씬 잘하기 때문에, 이 트리 구조의 문서 관리는 프로젝트 성공의 결정적 요인이 되었습니다.</description><pubDate>Wed, 25 Mar 2026 12:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTn8sIj8eD</guid></item><item><title>3/ Claude는 복잡한 적분, 변수 변경, 오래된 포트란(Fortran) 코드의 컴파일 및 실행, 회귀 분석 등에서 탁월한 능력을 발휘했습니...</title><link>https://www.threads.net/@choi.openai/post/DWTn8sKD1a3</link><description>3/ Claude는 복잡한 적분, 변수 변경, 오래된 포트란(Fortran) 코드의 컴파일 및 실행, 회귀 분석 등에서 탁월한 능력을 발휘했습니다.
-
-오류가 발생해도 불평 없이 수백 번의 디버그 플롯을 생성했으며, 단 3일 만에 수식과 그래프, 참고문헌이 포함된 20페이지 분량의 논문 초안(LaTeX)을 뚝딱 만들어냈습니다.
-
-인간 대학원생이었다면 각종 툴 설치와 버그 해결에만 며칠이 걸렸을 '단순 노동(Grunt work)'을 AI가 완벽하게 대체해 준 것입니다.</description><pubDate>Wed, 25 Mar 2026 12:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTn8sKD1a3</guid></item><item><title>비디오와 오디오를 한 번에 만들어내는 속도가 정말 믿기지 않습니다.
-
-최근 돋보였던 폐쇄형 모델 Seedance 2.0의 아쉬움을 달래줄 'da...</title><link>https://www.threads.net/@choi.openai/post/DWTctjJjtpP</link><description>비디오와 오디오를 한 번에 만들어내는 속도가 정말 믿기지 않습니다.
-
-최근 돋보였던 폐쇄형 모델 Seedance 2.0의 아쉬움을 달래줄 'daVinci-MagiHuman'이 오픈소스로 공개되었습니다.
-해당 모델은 15B 파라미터의 단일 트랜스포머(Transformer) 구조로, 비디오와 오디오 연산을 분리하지 않고 한 번에 처리합니다.
-
-단일 H100 GPU에서 5초 분량의 1080p 영상을 38초 만에 생성하고, 자연스러운 표정과 입 모양, 오디오 싱크는 물론 한국어를 포함한 6개 국어를 지원하며, 블라인드 테스트에서 Ovi 1.1과 LTX 2.3을 넘어섰습니다.
-
-복잡한 구조를 덜어내고 단순함으로 속도와 성능을 모두 잡은 오픈소스의 발전 속도가 무섭습니다.</description><pubDate>Wed, 25 Mar 2026 10:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTctjJjtpP</guid></item><item><title>깃허브 :
-https://github.com/GAIR-NLP/daVinci-MagiHuman</title><link>https://www.threads.net/@choi.openai/post/DWTdrnuj_gM</link><description>깃허브 :
-https://github.com/GAIR-NLP/daVinci-MagiHuman</description><pubDate>Wed, 25 Mar 2026 10:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWTdrnuj_gM</guid></item></channel></rss>
+이제 거대 AI 기업의 인수는 자본의 문제를 넘어, 국가 간 패권 경쟁과 규제 리스크의 한가운데 놓이게 되었습니다.
+메타 측은 해당 거래가 적법했다고 밝혔지만, 앞으로 어떻게 결론이 날지 업계의 시선이 쏠리고 있습니다.</description><pubDate>Wed, 25 Mar 2026 21:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWUlwJDiEiv</guid></item><item><title>기사 :
+https://www.reuters.com/world/asia-pacific/china-bars-manus-co-founders-lea...</title><link>https://www.threads.net/@choi.openai/post/DWUlzV8CAPq</link><description>기사 :
+https://www.reuters.com/world/asia-pacific/china-bars-manus-co-founders-leaving-country-it-reviews-sale-meta-ft-reports-2026-03-25/</description><pubDate>Wed, 25 Mar 2026 21:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWUlzV8CAPq</guid></item></channel></rss>
