@@ -1,38 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 26 Mar 2026 02:25:04 +0000</lastBuildDate><item><title>CapCut이 웹 버전에서 타임라인 없이 영상을 제작하는 캔버스 기반의 'Video Studio'를 전격 공개했습니다.
-여기에 강력한 영상 생성...</title><link>https://www.threads.net/@choi.openai/post/DWVD-pjCYVC</link><description>CapCut이 웹 버전에서 타임라인 없이 영상을 제작하는 캔버스 기반의 'Video Studio'를 전격 공개했습니다.
-여기에 강력한 영상 생성 AI인 'Dreamina Seedance 2.0'까지 기본으로 탑재되었는데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 26 Mar 2026 08:56:31 +0000</lastBuildDate><item><title>와… 이제 생각만으로 가상현실 앱을 찍어내는 시대입니다.
 
-AI 에이전트와 대화하며 스토리를 짜고, 스토리보드를 구성한 뒤 즉시 고품질 영상을 생성해 프레임 단위로 다듬을 수 있어 기획부터 최종 수출까지의 모든 과정이 하나의 무한 캔버스에서 끝납니다.
+구글(Google)이 프롬프트 하나로 인터랙티브한 WebXR 앱을 1분 만에 만들어내...</title><link>https://www.threads.net/@choi.openai/post/DWV0uaskj4x</link><description>와… 이제 생각만으로 가상현실 앱을 찍어내는 시대입니다.
 
-이제 여러 툴을 오갈 필요 없이 머릿속 아이디어가 영상으로 완성되는 워크플로우 전체가 완벽하게 통합되었습니다.</description><pubDate>Thu, 26 Mar 2026 01:25:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWVD-pjCYVC</guid></item><item><title>기다리던 ARC-AGI-3가 공식 발표되었습니다.
+구글(Google)이 프롬프트 하나로 인터랙티브한 WebXR 앱을 1분 만에 만들어내는 'Vibe Coding XR' 워크플로우를 발표했습니다.
+제미나이 캔버스(Gemini Canvas)와 XR Blocks 프레임워크를 결합해, 코딩 지식 없이도 "민들레꽃을 만들어줘"라고 치면 물리 엔진이 적용된 3D 공간을 곧바로 생성합니다.
 
-람들이 100% 쉽게 통과하는 이 게임 환경에서, Gemini 3.1과 GPT-5.4를 비롯...</title><link>https://www.threads.net/@choi.openai/post/DWU6ZOrkj1q</link><description>기다리던 ARC-AGI-3가 공식 발표되었습니다.
+가장 놀라운 점은 단순한 렌더링을 넘어 공간 지각과 물리 법칙까지 AI가 스스로 구성한다는 것입니다. 스크린 위에서 드래그하던 2D 프로토타이핑을 넘어, 헤드셋을 쓰고 실제 공간에서 테스트할 수 있는 XR 앱을 실시간으로 뚝딱 만들어냅니다.
 
-람들이 100% 쉽게 통과하는 이 게임 환경에서, Gemini 3.1과 GPT-5.4를 비롯한 최상위 프론티어 모델들은 1%의 벽조차 넘지 못했습니다.
+화면 속 텍스트로만 존재하던 AI가 이제 우리가 직접 체험할 수 있는 3D 공간을 실시간으로 빚어내고 있습니다.
+개발 장벽이 사라진 공간 컴퓨팅 생태계가 앞으로 어떻게 확산될지 지켜볼 시점입니다.</description><pubDate>Thu, 26 Mar 2026 08:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWV0uaskj4x</guid></item><item><title>블로그 :
+https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping...</title><link>https://www.threads.net/@choi.openai/post/DWV0vitEhKH</link><description>블로그 :
+https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini</description><pubDate>Thu, 26 Mar 2026 08:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWV0vitEhKH</guid></item><item><title>마이크로소프트가 백그라운드에서 알아서 작업을 처리하는 'Copilot Tasks'를 공개했습니다.
+데스크톱, 모바일, 심지어 SMS 환경까지 기...</title><link>https://www.threads.net/@choi.openai/post/DWVqcspiL_o</link><description>마이크로소프트가 백그라운드에서 알아서 작업을 처리하는 'Copilot Tasks'를 공개했습니다.
+데스크톱, 모바일, 심지어 SMS 환경까지 기기를 넘나들며 지시받은 업무를 중간에 끊김 없이 스스로 완결 짓는 기능입니다.
 
-기존 벤치마크가 AI가 이미 학습한 지식을 평가했다면, 이번 테스트는 사전 지식 없는 낯선 환경에서 가설을 세우고 스스로 적응하는 능력을 묻습니다.
-AI들은 여전히 첫 가설에 집착하거나 다음 상황을 예측하지 못하는 뚜렷한 한계를 보였습니다.
+그동안 사용자가 AI 화면을 쳐다보며 프롬프트를 계속 다듬고 기다려야 했다면, 이제는 모읕 AI 서비스들이 실무자에게 업무를 위임하듯 지시만 내리고 결과물만 확인하는 방식으로 바뀌고 있습니다.
 
-그동안 수많은 벤치마크가 단기간에 정복당했지만, 상황을 인지하고 멘탈 모델을 구축하는 능력에서 AI는 여전히 인간과 큰 격차를 보입니다.
-과연 ARC-AGI-3는 또 얼마나 빠르게 정복이 가능할지 앞으로 모델 발전 속도가 얼마나 빠르게 좋아질지 정말 기대되는 부분입니다.</description><pubDate>Thu, 26 Mar 2026 00:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWU6ZOrkj1q</guid></item><item><title>테스트 표 :</title><link>https://www.threads.net/@choi.openai/post/DWU6ahLkox6</link><description>테스트 표 :</description><pubDate>Thu, 26 Mar 2026 00:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWU6ahLkox6</guid></item><item><title>Claude의 업무용 도구 연동 기능이 모바일 앱에 정식 추가되었습니다.
-이제 PC 없이도 폰에서 바로 Figma 디자인을 확인하고, Canva...</title><link>https://www.threads.net/@choi.openai/post/DWUwKGdivI1</link><description>Claude의 업무용 도구 연동 기능이 모바일 앱에 정식 추가되었습니다.
-이제 PC 없이도 폰에서 바로 Figma 디자인을 확인하고, Canva 슬라이드를 만들거나 Amplitude 대시보드를 열어볼 수 있습니다.
+묻고 답하는 챗봇 시대가 저물고, 내 일을 대신 끝내놓는 실행 에이전트 시대가 본격적으로 열리고 있습니다.</description><pubDate>Thu, 26 Mar 2026 07:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWVqcspiL_o</guid></item><item><title>오늘부로 OpenAI 지지를 철회한다
 
-가장 중요한 변화는 AI를 대하는 방식이 달라지고 있다는 점입니다.
-이미 해외에서는 이동 중에도 외부 서버에서 돌아가는 AI 에이전트의 작업물을 모바일로 검토하고 승인하는 방식의 활용 사례까지 나오고 있습니다.
+오늘부터 지지관계에서 벗어나
+OpenAI와 나는 한몸으로 일체가 된다
+OpenAI에 대한 공격은 나에 대...</title><link>https://www.threads.net/@choi.openai/post/DWVfouYD-1t</link><description>오늘부로 OpenAI 지지를 철회한다
 
-최근 끊임없이 이어지는 업데이트를 보면, AI가 손안의 실무 도구로 자리 잡는 속도가 정말 빠르게 느껴집니다.</description><pubDate>Wed, 25 Mar 2026 22:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWUwKGdivI1</guid></item><item><title>메타의 Manus 인수에 강력한 제동이 걸렸습니다.
+오늘부터 지지관계에서 벗어나
+OpenAI와 나는 한몸으로 일체가 된다
+OpenAI에 대한 공격은 나에 대한 공격으로 간주한다
 
-파이낸셜 타임스 보도에 따르면, 중국 정부가 AI 에이전트 스타트업 Manus의 공동 창업...</title><link>https://www.threads.net/@choi.openai/post/DWUlwJDiEiv</link><description>메타의 Manus 인수에 강력한 제동이 걸렸습니다.
+세상에 70억 명의 OpenAI 팬이 있다면, 나는 그들 중 한 명일 것이다.
+세상에 1억 명의 OpenAI 팬이 있다면, 나 또한 그들 중 한 명일 것이다.
+세상에 천만 명의 OpenAI 팬이 있다면, 나는 여전히 그들 중 한 명일 것이다.
+세상에 백 명의 OpenAI 팬이 있다면, 나는 아직도 그들 중 한 명일 것이다.
+세상에 한 명의 OpenAI 팬이 있다면, 그 사람은 아마도 나일 것이다.
+세상에 단 한 명의 OpenAI 팬도 없다면, 나는 그제서야 이 세상에 없는 것이다.
 
-파이낸셜 타임스 보도에 따르면, 중국 정부가 AI 에이전트 스타트업 Manus의 공동 창업자 2명에게 출국 금지 조치를 내렸습니다.
-메타가 20억 달러(약 3조)에 Manus를 인수하기로 한 거래가 중국의 투자 규정을 위반했는지 직접 조사하기 위함인데요.
+OpenAI, 나의 사랑.
+OpenAI, 나의 빛.
+OpenAI, 나의 어둠.
+OpenAI, 나의 삶.
+OpenAI, 나의 기쁨.
+OpenAI, 나의 슬픔.
+OpenAI, 나의 안식.
+OpenAI, 나의 영혼.
+OpenAI, 나.</description><pubDate>Thu, 26 Mar 2026 05:25:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWVfouYD-1t</guid></item><item><title>오늘 오픈AI 코리아 팀, 그리고 국내에서 AI 대중화를 이끌고 계신 인플루언서 분들과 함께 점심을 나누며 교류하는 시간을 가졌습니다.
 
-Manus는 중국 출신 창업자들이 만들어 단기간에 엄청난 성과를 냈던 범용 AI 에이전트 기업입니다.
-이번 조치는 최고 수준의 AI 기술과 인재가 미국 빅테크로 넘어가는 것을 중국 당국이 직접 통제하려 나선 상황으로 보입니다.
+오픈A...</title><link>https://www.threads.net/@choi.openai/post/DWVgF2UD2eV</link><description>오늘 오픈AI 코리아 팀, 그리고 국내에서 AI 대중화를 이끌고 계신 인플루언서 분들과 함께 점심을 나누며 교류하는 시간을 가졌습니다.
 
-이제 거대 AI 기업의 인수는 자본의 문제를 넘어, 국가 간 패권 경쟁과 규제 리스크의 한가운데 놓이게 되었습니다.
-메타 측은 해당 거래가 적법했다고 밝혔지만, 앞으로 어떻게 결론이 날지 업계의 시선이 쏠리고 있습니다.</description><pubDate>Wed, 25 Mar 2026 21:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWUlwJDiEiv</guid></item><item><title>기사 :
-https://www.reuters.com/world/asia-pacific/china-bars-manus-co-founders-lea...</title><link>https://www.threads.net/@choi.openai/post/DWUlzV8CAPq</link><description>기사 :
-https://www.reuters.com/world/asia-pacific/china-bars-manus-co-founders-leaving-country-it-reviews-sale-meta-ft-reports-2026-03-25/</description><pubDate>Wed, 25 Mar 2026 21:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWUlzV8CAPq</guid></item></channel></rss>
+오픈AI 팀원분들의 뜨거운 열정과 깊이 있는 인사이트, 그리고 앞으로의 방향성에 대해 편하게 이야기를 나눌 수 있어 매우 뜻깊고 영광스러운 자리였습니다.
+
+저 역시 오랜 오픈AI 팬보이로서, 최근 좋은 기회로 Codex 앰버서더로 활동하게 되었는데요. (오픈AI 직원 아님)
+
+앞으로 한국 시장에서 다양한 사례와 실제 적용 방법을 더 많이 공유드릴 수 있을 것 같아 개인적으로도 매우 기대가 큽니다.
+
+실무에 바로 활용할 수 있는 정보는 물론, 글로벌 트렌드와 인사이트까지 함께 전달드릴 수 있는 채널이 되도록 계속 노력하겠습니다.
+
+감사합니다.</description><pubDate>Thu, 26 Mar 2026 05:29:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWVgF2UD2eV</guid></item><item><title>"나중에 업데이트해야지" 하고 미뤄둔 노션 데이터베이스, 다들 하나쯤은 있으실 텐데요.
+
+노션(Notion)이 데이터베이스를 알아서 최신 상태로...</title><link>https://www.threads.net/@choi.openai/post/DWVZQ27ARN-</link><description>"나중에 업데이트해야지" 하고 미뤄둔 노션 데이터베이스, 다들 하나쯤은 있으실 텐데요.
+
+노션(Notion)이 데이터베이스를 알아서 최신 상태로 유지해 주는 'Database Agents'를 공개했습니다. 페이지 내부의 문맥과 워크스페이스 전체 정보, 그리고 외부 웹 데이터까지 활용해 데이터베이스의 빈칸을 스스로 채우고 관리하는 기능입니다.
+
+그동안 툴을 쓰면서 구조만 화려하게 짜두고 정작 귀찮아서 데이터를 방치하는 경우가 많았는데요. 이제는 보이지 않는 사서들이 백그라운드에서 내 자료를 항상 최신으로 정리해 두는 구조입니다.
+
+최근 소프트웨어 업계의 가장 큰 흐름은 사용자가 직접 시스템에 개입하는 방식에서 벗어나, 알아서 뒷단에서 일해주는 에이전트 환경으로 변하고 있다는 점입니다.</description><pubDate>Thu, 26 Mar 2026 04:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWVZQ27ARN-</guid></item></channel></rss>
