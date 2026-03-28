@@ -1,48 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 28 Mar 2026 08:39:50 +0000</lastBuildDate><item><title>Z.ai가 새로운 코딩 특화 모델 GLM-5.1을 출시했습니다.
-이 모델은 코딩 벤치마크에서 클로드 최상위 모델인 Opus 4.6에 거의 근접하...</title><link>https://www.threads.net/@choi.openai/post/DWa3g8MChuz</link><description>Z.ai가 새로운 코딩 특화 모델 GLM-5.1을 출시했습니다.
-이 모델은 코딩 벤치마크에서 클로드 최상위 모델인 Opus 4.6에 거의 근접하는 점수를 기록했음에도, 사용 비용은 7배나 저렴합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 28 Mar 2026 15:20:17 +0000</lastBuildDate><item><title>앤트로픽이 Claude Desktop에서 작동하는 생물학 및 보건 연구 전용 AI 에이전트 'Operon(오페론)'을 개발 중이라고 합니다.
 
-오는 4월에는 해당 모델이 오픈소스로도 풀릴 예정입니다.
-최상위 모델과 오픈소스 진영의 성능 격차가 무서운 속도로 좁혀지는 가운데, 압도적인 가성비를 무기로 한 오픈소스 모델들이 앞으로의 개발 생태계를 어떻게 바꿔놓을지 지켜봐야겠습니다.</description><pubDate>Sat, 28 Mar 2026 07:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWa3g8MChuz</guid></item><item><title>구글의 NotebookLM이 비동기(Async) 작업과 모바일 푸시 알림 기능을 새롭게 도입했습니다.
-이제 웹이나 앱에서 자료 생성을 걸어두고 ...</title><link>https://www.threads.net/@choi.openai/post/DWatJAbDjQS</link><description>구글의 NotebookLM이 비동기(Async) 작업과 모바일 푸시 알림 기능을 새롭게 도입했습니다.
-이제 웹이나 앱에서 자료 생성을 걸어두고 페이지를 완전히 벗어나더라도, 작업이 완료되는 즉시 스마트폰으로 알림을 받을 수 있게 되었습니다.</description><pubDate>Sat, 28 Mar 2026 06:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWatJAbDjQS</guid></item><item><title>깃털을 살짝 쥐고 나사를 정밀하게 조이는 로봇 손, 이젠 진짜 사람 손과 구분이 안 갈 정도입니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DWbqzBoj1Hy</link><description>앤트로픽이 Claude Desktop에서 작동하는 생물학 및 보건 연구 전용 AI 에이전트 'Operon(오페론)'을 개발 중이라고 합니다.
 
-샤오미가 새롭게 공개한 휴머노이드 로봇 '...</title><link>https://www.threads.net/@choi.openai/post/DWai40Gj28F</link><description>깃털을 살짝 쥐고 나사를 정밀하게 조이는 로봇 손, 이젠 진짜 사람 손과 구분이 안 갈 정도입니다.
+해당 에이전트는 격리된 개인 환경에서 프로젝트 세션을 나누고 실험 산출물을 직접 관리할 수 있게 돕습니다. 한마디로 과학자들을 위한 맞춤형 'Cowork' 시스템인데요.
 
-샤오미가 새롭게 공개한 휴머노이드 로봇 'CyberOne'의 손 부위 업데이트가 엄청난 진화를 보여주고 있습니다.
-부피를 60% 줄여 실제 사람의 손 크기와 거의 같아졌고, 심지어 땀샘을 모방해 수분을 증발시키는 냉각 시스템까지 탑재했습니다.
+최근 실수로 유출되어 화제가 된 차세대 모델 'Mythos(미토스)'가 해당 시스템과 결합될 가능성도 꾸준히 제기되고 있습니다.
 
-샤오미는 작년 말 테슬라 옵티머스(Optimus) 팀에서 로봇 손을 개발하던 인력을 영입하며 기술 격차를 맹렬하게 좁히고 있습니다.
-AI의 두뇌 발전만큼이나 이를 현실에서 실행할 하드웨어의 진화 속도 역시 매섭게 당겨지고 있습니다.
+AI가 전문 분야의 연구 생태계마저 직접 관리하는 협업 파트너로 진화하는 흐름이 무섭게 빨라지고 있습니다.
 
-AI의 지능을 넘어 물리적 현실과 맞닿는 로봇의 '손끝' 기술 경쟁이 얼마나 더 가속화될지, 무섭게 추격하는 샤오미의 향후 행보가 무척 기대됩니다.</description><pubDate>Sat, 28 Mar 2026 04:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWai40Gj28F</guid></item><item><title>아.. Codex 그렇게 쓰는거 아닌데...
-Codex 다들 잘 쓰는 줄 알았는데, 완전 반대로 쓰고 있습니다.
-기능만 보고 쓰면 그냥 코드 생...</title><link>https://www.threads.net/@choi.openai/post/DWaYjyhiH8M</link><description>아.. Codex 그렇게 쓰는거 아닌데...
-Codex 다들 잘 쓰는 줄 알았는데, 완전 반대로 쓰고 있습니다.
-기능만 보고 쓰면 그냥 코드 생성기고, 제대로 쓰는 사람은 “workflow”로 씁니다.
-이 차이 하나로 생산성 격차 벌어지는 오픈AI에서 직접 공유한 사례 정리했습니다🧵</description><pubDate>Sat, 28 Mar 2026 03:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaYjyhiH8M</guid></item><item><title>1/ Codex를 가장 실무적으로 잘 활용하는 방법 중 하나는 GitHub의 코드 리뷰어로 투입하는 것입니다.
+오픈AI에서도 하반기 자동화된 연구 에이전트를 출시할 것으로 예상되는만큼 연구 분야에서도 AI 자동화 흐름이 가속화 될 것으로 보입니다.</description><pubDate>Sat, 28 Mar 2026 14:58:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbqzBoj1Hy</guid></item><item><title>앤트로픽이 Claude Code를 위한 공식 iMessage 플러그인을 새롭게 공개했습니다. 
 
-Pull Request(PR)가...</title><link>https://www.threads.net/@choi.openai/post/DWaYlojiFcf</link><description>1/ Codex를 가장 실무적으로 잘 활용하는 방법 중 하나는 GitHub의 코드 리뷰어로 투입하는 것입니다.
+Mac에 설치해두면 외부 서버 없이 로컬에서 작...</title><link>https://www.threads.net/@choi.openai/post/DWbgqTkD4go</link><description>앤트로픽이 Claude Code를 위한 공식 iMessage 플러그인을 새롭게 공개했습니다. 
 
-Pull Request(PR)가 올라올 때마다 누락된 테스트, 보안 취약점, 문서화 부족 등을 사람이 확인하기 전에 자동으로 먼저 걸러내는 1차 방어선 역할을 수행하게 만들 수 있습니다. 
+Mac에 설치해두면 외부 서버 없이 로컬에서 작동하며, Claude와 문자로 직접 소통할 수 있습니다.
+밖에서 스마트폰으로 메시지나 사진을 보내면, 내 컴퓨터 안의 파일을 읽고 코드를 수정한 뒤 그 결과를 다시 문자로 답장해 줍니다.
 
-특히 AGENTS.md 파일에 "오타는 P0, 누락된 문서는 P1으로 분류해라"와 같이 팀의 리뷰 규칙을 명시해 두면, Codex는 프로젝트의 기준에 맞춰 깐깐하게 리뷰를 진행합니다. 
+앞으로는 무거운 노트북을 열고 터미널을 세팅할 필요 없이, 주머니 속 스마트폰으로 전용 AI 개발팀과 문자를 주고받으며 백그라운드에서 실무를 처리하는 워크플로우가 당연해질 것으로 보입니다.</description><pubDate>Sat, 28 Mar 2026 13:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbgqTkD4go</guid></item><item><title>깃허브 :
+https://github.com/anthropics/claude-plugins-official/blob/main/external_p...</title><link>https://www.threads.net/@choi.openai/post/DWbgrLGj4Rz</link><description>깃허브 :
+https://github.com/anthropics/claude-plugins-official/blob/main/external_plugins/imessage/README.md</description><pubDate>Sat, 28 Mar 2026 13:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbgrLGj4Rz</guid></item><item><title>Meituan에서 텍스트, 비전, 오디오를 하나로 통합한 멀티모달 모델 LongCat-Next를 공개했습니다.
+총 68.5B 파라미터에 MoE ...</title><link>https://www.threads.net/@choi.openai/post/DWbWaZeAn8i</link><description>Meituan에서 텍스트, 비전, 오디오를 하나로 통합한 멀티모달 모델 LongCat-Next를 공개했습니다.
+총 68.5B 파라미터에 MoE 구조를 갖춘 이 모델은 텍스트, 이미지, 음성을 모두 동일한 형태의 토큰으로 통합해 처리합니다.
+기존 언어 모델이 다음 단어를 예측하듯, 시각과 청각 데이터도 똑같은 방식으로 연속해서 예측하고 생성하는 구조입니다.
 
-리뷰 중 발견된 문제가 있다면 PR 댓글에 @codex fix it이라고 남기는 것만으로 문제 수정부터 PR 업데이트까지 원스톱으로 처리할 수 있습니다.</description><pubDate>Sat, 28 Mar 2026 03:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaYlojiFcf</guid></item><item><title>2/ 프론트엔드 작업 시나리오에서 Codex의 진가는 Playwright 스킬과 결합될 때 나타납니다.
+시각적 이해와 생성을 단일 공간에서 처리하는 dNaViT 기술이 적용되어, 복잡한 문서 분석은 물론 해상도 제약 없는 이미지 생성과 실시간 음성 상호작용까지 매끄럽게 돌아갑니다.
 
-스크린샷이나 Figma 디자인 링크를 ...</title><link>https://www.threads.net/@choi.openai/post/DWaYok7iGIA</link><description>2/ 프론트엔드 작업 시나리오에서 Codex의 진가는 Playwright 스킬과 결합될 때 나타납니다.
+AI의 논리적 추론 능력이 시각과 청각의 영역까지 완벽히 통합되었을 때, 과연 어떤 파급력을 만들어낼지 앞으로의 발전 방향이 무척 기대됩니다.</description><pubDate>Sat, 28 Mar 2026 12:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbWaZeAn8i</guid></item><item><title>블로그 :
+https://longcat.chat/longcat-next/intro</title><link>https://www.threads.net/@choi.openai/post/DWbWdVTgiL_</link><description>블로그 :
+https://longcat.chat/longcat-next/intro</description><pubDate>Sat, 28 Mar 2026 12:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbWdVTgiL_</guid></item><item><title>개발자 소이어 후드(Sawyer Hood)가 새로운 에이전트 전용 브라우저 제어 도구인 'dev-browser'를 공개했습니다.
 
-스크린샷이나 Figma 디자인 링크를 던져주고 "코드로 만들어 줘"라고만 하면 흔한 기본 UI가 나오기 십상입니다.
+그동안 여러 ...</title><link>https://www.threads.net/@choi.openai/post/DWbMCkbk49W</link><description>개발자 소이어 후드(Sawyer Hood)가 새로운 에이전트 전용 브라우저 제어 도구인 'dev-browser'를 공개했습니다.
 
-올바른 워크플로우는 기존 프로젝트의 디자인 시스템과 컴포넌트를 재사용하도록 강제한 뒤, Codex가 코드를 작성하게 하는 것입니다.
+그동안 여러 자동화 툴들이 AI를 위한 새로운 문법과 규칙을 만들려다 속도와 정확도 문제에 부딪혔는데요.
+해당 도구는 접근법이 다릅니다. AI가 이미 수없이 학습해 완벽하게 이해하고 있는 'Playwright'를 그대로 쓰게 한 것입니다.
 
-그리고 여기서 끝나는 것이 아니라, Playwright를 통해 Codex가 자신이 짠 코드를 실제 브라우저(모바일, 데스크톱 등 다양한 해상도)에서 띄우고, 원본 이미지와 시각적으로 비교하며 완벽해질 때까지 스스로 레이아웃을 반복 수정(Iterate)하게 만들어야 합니다.</description><pubDate>Sat, 28 Mar 2026 03:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaYok7iGIA</guid></item><item><title>3/ 데이터 분석 시 Codex를 단순히 Python 코드를 짜주는 도구로 쓰면 나중에 재사용하기 어려운 지저분한 코드가 남습니다.
+중간에 불필요한 번역 과정이 사라지니 에이전트의 작업 속도가 눈에 띄게 빨라졌습니다. 
 
-오픈AI는...</title><link>https://www.threads.net/@choi.openai/post/DWaYrFkiL8Q</link><description>3/ 데이터 분석 시 Codex를 단순히 Python 코드를 짜주는 도구로 쓰면 나중에 재사용하기 어려운 지저분한 코드가 남습니다.
-
-오픈AI는 [데이터 불러오기 -&gt; 병합(Merge) 전 검증 -&gt; 독립된 환경(Worktree)에서 탐색적 분석 -&gt; 해석 가능한 모델링 -&gt; 결과 보고서 작성]이라는 명확한 루프를 제안합니다. 
-
-특히 데이터를 병합하기 전에 먼저 결측치와 키 값을 프로파일링하도록 지시하고, 시각화나 가설 검증은 별도의 'Git Worktree'를 파서 작업하게 함으로써 메인 코드가 오염되지 않게 해야 합니다.
-
-최종 결과물도 일회성 노트북 뷰가 아니라, 경영진이 볼 수 있는 PDF나 .docx 리포트, 혹은 배포 가능한 대시보드 형태로 패키징하도록 지시하는 것이 핵심입니다.</description><pubDate>Sat, 28 Mar 2026 03:01:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaYrFkiL8Q</guid></item></channel></rss>
+인간이 새로운 규칙을 억지로 가르치려 하기보다, AI가 이미 가장 잘 다루는 도구를 그대로 쥐여주는 방식입니다.</description><pubDate>Sat, 28 Mar 2026 10:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbMCkbk49W</guid></item><item><title>깃허브 :
+https://github.com/SawyerHood/dev-browser</title><link>https://www.threads.net/@choi.openai/post/DWbMDqWk2Z9</link><description>깃허브 :
+https://github.com/SawyerHood/dev-browser</description><pubDate>Sat, 28 Mar 2026 10:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbMDqWk2Z9</guid></item></channel></rss>
