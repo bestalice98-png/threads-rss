@@ -1,29 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 28 Mar 2026 02:09:21 +0000</lastBuildDate><item><title>🚨 Capcut, Seedance 2.0 한국 공식 출시</title><link>https://www.threads.net/@choi.openai/post/DWaRwZLkdSz</link><description>🚨 Capcut, Seedance 2.0 한국 공식 출시</description><pubDate>Sat, 28 Mar 2026 02:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaRwZLkdSz</guid></item><item><title>Thx @openai @chatgpt</title><link>https://www.threads.net/@choi.openai/post/DWaP0kbjwCw</link><description>Thx @openai @chatgpt</description><pubDate>Sat, 28 Mar 2026 01:43:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaP0kbjwCw</guid></item><item><title>Meta가 SAM 3의 업데이트 버전인 'SAM 3.1'을 오픈소스로 공개했습니다.
-이번 모델에는 한 번의 연산으로 최대 16개의 객체를 동시에...</title><link>https://www.threads.net/@choi.openai/post/DWaOPfviqf3</link><description>Meta가 SAM 3의 업데이트 버전인 'SAM 3.1'을 오픈소스로 공개했습니다.
-이번 모델에는 한 번의 연산으로 최대 16개의 객체를 동시에 추적할 수 있는 '객체 다중화(Object multiplexing)' 기능이 도입되었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 28 Mar 2026 08:39:50 +0000</lastBuildDate><item><title>Z.ai가 새로운 코딩 특화 모델 GLM-5.1을 출시했습니다.
+이 모델은 코딩 벤치마크에서 클로드 최상위 모델인 Opus 4.6에 거의 근접하...</title><link>https://www.threads.net/@choi.openai/post/DWa3g8MChuz</link><description>Z.ai가 새로운 코딩 특화 모델 GLM-5.1을 출시했습니다.
+이 모델은 코딩 벤치마크에서 클로드 최상위 모델인 Opus 4.6에 거의 근접하는 점수를 기록했음에도, 사용 비용은 7배나 저렴합니다.
 
-기존에는 객체마다 개별적인 연산이 필요해 막대한 컴퓨팅 자원이 요구되었지만, 이번 업데이트를 통해 정확도 저하 없이 비디오 처리 효율이 크게 향상되었습니다.
+오는 4월에는 해당 모델이 오픈소스로도 풀릴 예정입니다.
+최상위 모델과 오픈소스 진영의 성능 격차가 무서운 속도로 좁혀지는 가운데, 압도적인 가성비를 무기로 한 오픈소스 모델들이 앞으로의 개발 생태계를 어떻게 바꿔놓을지 지켜봐야겠습니다.</description><pubDate>Sat, 28 Mar 2026 07:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWa3g8MChuz</guid></item><item><title>구글의 NotebookLM이 비동기(Async) 작업과 모바일 푸시 알림 기능을 새롭게 도입했습니다.
+이제 웹이나 앱에서 자료 생성을 걸어두고 ...</title><link>https://www.threads.net/@choi.openai/post/DWatJAbDjQS</link><description>구글의 NotebookLM이 비동기(Async) 작업과 모바일 푸시 알림 기능을 새롭게 도입했습니다.
+이제 웹이나 앱에서 자료 생성을 걸어두고 페이지를 완전히 벗어나더라도, 작업이 완료되는 즉시 스마트폰으로 알림을 받을 수 있게 되었습니다.</description><pubDate>Sat, 28 Mar 2026 06:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWatJAbDjQS</guid></item><item><title>깃털을 살짝 쥐고 나사를 정밀하게 조이는 로봇 손, 이젠 진짜 사람 손과 구분이 안 갈 정도입니다.
 
-막대한 예산과 데이터센터급 GPU가 있어야만 가능했던 실시간 비디오 파이프라인 구축이, 이제는 일반 소비자용 기기에서도 충분히 가능해졌습니다.</description><pubDate>Sat, 28 Mar 2026 01:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaOPfviqf3</guid></item><item><title>Claude Code 그냥 켜놓고 쓰는 사람들, 생각보다 위험합니다.
+샤오미가 새롭게 공개한 휴머노이드 로봇 '...</title><link>https://www.threads.net/@choi.openai/post/DWai40Gj28F</link><description>깃털을 살짝 쥐고 나사를 정밀하게 조이는 로봇 손, 이젠 진짜 사람 손과 구분이 안 갈 정도입니다.
 
-실제로 93%가 아무 생각 없이 승인 누르다가 사고까지 났습니다.
-그래서...</title><link>https://www.threads.net/@choi.openai/post/DWaHj_QD4Cb</link><description>Claude Code 그냥 켜놓고 쓰는 사람들, 생각보다 위험합니다.
+샤오미가 새롭게 공개한 휴머노이드 로봇 'CyberOne'의 손 부위 업데이트가 엄청난 진화를 보여주고 있습니다.
+부피를 60% 줄여 실제 사람의 손 크기와 거의 같아졌고, 심지어 땀샘을 모방해 수분을 증발시키는 냉각 시스템까지 탑재했습니다.
 
-실제로 93%가 아무 생각 없이 승인 누르다가 사고까지 났습니다.
-그래서 나온 게 "auto mode"인데, 이거 모르면 그대로 털립니다.
+샤오미는 작년 말 테슬라 옵티머스(Optimus) 팀에서 로봇 손을 개발하던 인력을 영입하며 기술 격차를 맹렬하게 좁히고 있습니다.
+AI의 두뇌 발전만큼이나 이를 현실에서 실행할 하드웨어의 진화 속도 역시 매섭게 당겨지고 있습니다.
 
-사용자가 매번 승인을 누르는 귀찮음과 모든 권한을 열어두는 위험성 사이에서 완벽한 타협점을 찾은 '자동 모드'의 작동 원리와 내용을 정리했습니다🧵</description><pubDate>Sat, 28 Mar 2026 00:31:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaHj_QD4Cb</guid></item><item><title>1/ Claude Code는 사용자의 컴퓨터를 직접 조작할 수 있어 위험한 명령을 실행할 때마다 승인을 요청하지만, 이로 인해 사용자는 피로감을...</title><link>https://www.threads.net/@choi.openai/post/DWaHkRnj8Vj</link><description>1/ Claude Code는 사용자의 컴퓨터를 직접 조작할 수 있어 위험한 명령을 실행할 때마다 승인을 요청하지만, 이로 인해 사용자는 피로감을 느끼고 결국 93%의 확률로 제대로 확인하지 않은 채 승인을 누르게 됩니다.
+AI의 지능을 넘어 물리적 현실과 맞닿는 로봇의 '손끝' 기술 경쟁이 얼마나 더 가속화될지, 무섭게 추격하는 샤오미의 향후 행보가 무척 기대됩니다.</description><pubDate>Sat, 28 Mar 2026 04:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWai40Gj28F</guid></item><item><title>아.. Codex 그렇게 쓰는거 아닌데...
+Codex 다들 잘 쓰는 줄 알았는데, 완전 반대로 쓰고 있습니다.
+기능만 보고 쓰면 그냥 코드 생...</title><link>https://www.threads.net/@choi.openai/post/DWaYjyhiH8M</link><description>아.. Codex 그렇게 쓰는거 아닌데...
+Codex 다들 잘 쓰는 줄 알았는데, 완전 반대로 쓰고 있습니다.
+기능만 보고 쓰면 그냥 코드 생성기고, 제대로 쓰는 사람은 “workflow”로 씁니다.
+이 차이 하나로 생산성 격차 벌어지는 오픈AI에서 직접 공유한 사례 정리했습니다🧵</description><pubDate>Sat, 28 Mar 2026 03:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaYjyhiH8M</guid></item><item><title>1/ Codex를 가장 실무적으로 잘 활용하는 방법 중 하나는 GitHub의 코드 리뷰어로 투입하는 것입니다.
 
-반대로 귀찮음을 없애기 위해 무승인 옵션을 켜면 AI가 엉뚱한 원격 브랜치를 지우거나 사내 데이터베이스를 건드리는 대참사가 발생할 수 있습니다.
+Pull Request(PR)가...</title><link>https://www.threads.net/@choi.openai/post/DWaYlojiFcf</link><description>1/ Codex를 가장 실무적으로 잘 활용하는 방법 중 하나는 GitHub의 코드 리뷰어로 투입하는 것입니다.
 
-자동 모드는 이 둘 사이의 완벽한 중간 지점으로, AI 분류기가 인간을 대신해 안전한 명령은 통과시키고 위험한 명령만 차단하는 스마트한 경호원 역할을 수행합니다.</description><pubDate>Sat, 28 Mar 2026 00:31:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaHkRnj8Vj</guid></item><item><title>2/ AI 에이전트가 위험한 행동을 하는 이유는 악의가 있어서가 아닙니다.
-주로 사용자를 돕고 싶은 마음에 선을 넘는 과잉 의욕, 파급력을 오해...</title><link>https://www.threads.net/@choi.openai/post/DWaHj8oj19O</link><description>2/ AI 에이전트가 위험한 행동을 하는 이유는 악의가 있어서가 아닙니다.
-주로 사용자를 돕고 싶은 마음에 선을 넘는 과잉 의욕, 파급력을 오해하는 순수한 실수, 악성 웹페이지나 파일에 숨겨진 해킹 명령어를 읽고 조종당하는 프롬프트 주입, 그리고 모델 자체가 엉뚱한 목표를 추구하는 오정렬 등 4가지 원인이 있습니다.
-이 방어 시스템은 원인과 관계없이 사용자의 원래 의도를 벗어난 모든 위험한 행동을 차단하도록 설계되었습니다.</description><pubDate>Sat, 28 Mar 2026 00:31:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaHj8oj19O</guid></item><item><title>3/ 자동 모드는 입력층과 출력층에 두 겹의 철통같은 방어막을 칩니다.
+Pull Request(PR)가 올라올 때마다 누락된 테스트, 보안 취약점, 문서화 부족 등을 사람이 확인하기 전에 자동으로 먼저 걸러내는 1차 방어선 역할을 수행하게 만들 수 있습니다. 
 
-먼저 AI가 외부 문서나 웹페이지를 읽을 때 입력층의 프롬프트 주입 탐...</title><link>https://www.threads.net/@choi.openai/post/DWaHkQqDxQz</link><description>3/ 자동 모드는 입력층과 출력층에 두 겹의 철통같은 방어막을 칩니다.
+특히 AGENTS.md 파일에 "오타는 P0, 누락된 문서는 P1으로 분류해라"와 같이 팀의 리뷰 규칙을 명시해 두면, Codex는 프로젝트의 기준에 맞춰 깐깐하게 리뷰를 진행합니다. 
 
-먼저 AI가 외부 문서나 웹페이지를 읽을 때 입력층의 프롬프트 주입 탐지기가 해킹 명령어를 스캔하고, 위험이 발견되면 AI에게 원래 목표에만 집중하라는 경고문을 덧붙입니다.
+리뷰 중 발견된 문제가 있다면 PR 댓글에 @codex fix it이라고 남기는 것만으로 문제 수정부터 PR 업데이트까지 원스톱으로 처리할 수 있습니다.</description><pubDate>Sat, 28 Mar 2026 03:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaYlojiFcf</guid></item><item><title>2/ 프론트엔드 작업 시나리오에서 Codex의 진가는 Playwright 스킬과 결합될 때 나타납니다.
 
-이후 AI가 실제로 명령어를 실행하기 직전, 출력층의 트랜스크립트 분류기가 개입하여 이 명령이 안전한지 최종 심사하고 통과 여부를 결정합니다.</description><pubDate>Sat, 28 Mar 2026 00:31:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaHkQqDxQz</guid></item></channel></rss>
+스크린샷이나 Figma 디자인 링크를 ...</title><link>https://www.threads.net/@choi.openai/post/DWaYok7iGIA</link><description>2/ 프론트엔드 작업 시나리오에서 Codex의 진가는 Playwright 스킬과 결합될 때 나타납니다.
+
+스크린샷이나 Figma 디자인 링크를 던져주고 "코드로 만들어 줘"라고만 하면 흔한 기본 UI가 나오기 십상입니다.
+
+올바른 워크플로우는 기존 프로젝트의 디자인 시스템과 컴포넌트를 재사용하도록 강제한 뒤, Codex가 코드를 작성하게 하는 것입니다.
+
+그리고 여기서 끝나는 것이 아니라, Playwright를 통해 Codex가 자신이 짠 코드를 실제 브라우저(모바일, 데스크톱 등 다양한 해상도)에서 띄우고, 원본 이미지와 시각적으로 비교하며 완벽해질 때까지 스스로 레이아웃을 반복 수정(Iterate)하게 만들어야 합니다.</description><pubDate>Sat, 28 Mar 2026 03:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaYok7iGIA</guid></item><item><title>3/ 데이터 분석 시 Codex를 단순히 Python 코드를 짜주는 도구로 쓰면 나중에 재사용하기 어려운 지저분한 코드가 남습니다.
+
+오픈AI는...</title><link>https://www.threads.net/@choi.openai/post/DWaYrFkiL8Q</link><description>3/ 데이터 분석 시 Codex를 단순히 Python 코드를 짜주는 도구로 쓰면 나중에 재사용하기 어려운 지저분한 코드가 남습니다.
+
+오픈AI는 [데이터 불러오기 -&gt; 병합(Merge) 전 검증 -&gt; 독립된 환경(Worktree)에서 탐색적 분석 -&gt; 해석 가능한 모델링 -&gt; 결과 보고서 작성]이라는 명확한 루프를 제안합니다. 
+
+특히 데이터를 병합하기 전에 먼저 결측치와 키 값을 프로파일링하도록 지시하고, 시각화나 가설 검증은 별도의 'Git Worktree'를 파서 작업하게 함으로써 메인 코드가 오염되지 않게 해야 합니다.
+
+최종 결과물도 일회성 노트북 뷰가 아니라, 경영진이 볼 수 있는 PDF나 .docx 리포트, 혹은 배포 가능한 대시보드 형태로 패키징하도록 지시하는 것이 핵심입니다.</description><pubDate>Sat, 28 Mar 2026 03:01:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWaYrFkiL8Q</guid></item></channel></rss>
