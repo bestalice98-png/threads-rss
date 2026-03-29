@@ -1,41 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 28 Mar 2026 15:20:17 +0000</lastBuildDate><item><title>앤트로픽이 Claude Desktop에서 작동하는 생물학 및 보건 연구 전용 AI 에이전트 'Operon(오페론)'을 개발 중이라고 합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 29 Mar 2026 02:29:02 +0000</lastBuildDate><item><title>구글 딥마인드의 차세대 모델인 'Gemma 4'가 현재 챗봇 아레나(Arena)에서 "significant-otter"라는 이름으로 조용히 테스...</title><link>https://www.threads.net/@choi.openai/post/DWcuis2gdXR</link><description>구글 딥마인드의 차세대 모델인 'Gemma 4'가 현재 챗봇 아레나(Arena)에서 "significant-otter"라는 이름으로 조용히 테스트 중인 것이 포착되었습니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/DWbqzBoj1Hy</link><description>앤트로픽이 Claude Desktop에서 작동하는 생물학 및 보건 연구 전용 AI 에이전트 'Operon(오페론)'을 개발 중이라고 합니다.
+알려진 바에 따르면 이번 라인업은 2B, 4B의 초소형 모델과 120B(활성 파라미터 15B) 체급의 대형 모델로 구성될 전망입니다.
 
-해당 에이전트는 격리된 개인 환경에서 프로젝트 세션을 나누고 실험 산출물을 직접 관리할 수 있게 돕습니다. 한마디로 과학자들을 위한 맞춤형 'Cowork' 시스템인데요.
+일반 개인 PC나 낮은 사양의 기기에서도 가볍게 돌아가는 소형 모델로 온디바이스 AI 생태계를 꽉 잡는 동시에, 120B 체급의 강력한 모델로는 독립적인 로컬 에이전트 시스템까지 한 번에 장악하겠다는 구글의 의도가 엿보입니다.
 
-최근 실수로 유출되어 화제가 된 차세대 모델 'Mythos(미토스)'가 해당 시스템과 결합될 가능성도 꾸준히 제기되고 있습니다.
+오픈소스 진영을 둘러싼 생태계 장악 경쟁이 갈수록 치열해지는 가운데, 구글이 꺼내든 새로운 패가 실제 로컬 개발 환경을 어떻게 흔들어 놓을지 무척 기대됩니다.</description><pubDate>Sun, 29 Mar 2026 00:50:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWcuis2gdXR</guid></item><item><title>Freepik이 단 한 장의 2D 이미지로 완전한 3D 환경을 생성하는 '3D Scenes'를 새롭게 공개했습니다.
+제품 사진을 올리면 AI가 ...</title><link>https://www.threads.net/@choi.openai/post/DWckK1tCXn8</link><description>Freepik이 단 한 장의 2D 이미지로 완전한 3D 환경을 생성하는 '3D Scenes'를 새롭게 공개했습니다.
+제품 사진을 올리면 AI가 주변 공간을 구축하고, 사용자는 실제 촬영장처럼 카메라 각도와 조명, 피사계 심도를 자유롭게 조절할 수 있습니다.
 
-AI가 전문 분야의 연구 생태계마저 직접 관리하는 협업 파트너로 진화하는 흐름이 무섭게 빨라지고 있습니다.
+이커머스나 광고 업계에서는 구도를 바꿀 때마다 물리적인 재촬영이나 복잡한 합성 작업이 필수였습니다.
+하지만 이제는 한 번 생성된 가상 공간 안에서 카메라만 움직이면, 일관성을 유지한 채 원하는 앵글의 이미지를 무한대로 뽑아낼 수 있습니다.
 
-오픈AI에서도 하반기 자동화된 연구 에이전트를 출시할 것으로 예상되는만큼 연구 분야에서도 AI 자동화 흐름이 가속화 될 것으로 보입니다.</description><pubDate>Sat, 28 Mar 2026 14:58:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbqzBoj1Hy</guid></item><item><title>앤트로픽이 Claude Code를 위한 공식 iMessage 플러그인을 새롭게 공개했습니다. 
+사진 촬영이라는 물리적 작업이 AI 공간 안에서의 마우스 조작으로 완전히 대체되는 날이 머지않아 보입니다.</description><pubDate>Sat, 28 Mar 2026 23:20:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWckK1tCXn8</guid></item><item><title>Skywork AI에서 실시간 인터랙티브 월드 모델 'Matrix-Game 3.0'을 오픈소스로 공개했습니다.
+5B 크기의 비교적 가벼운 모델로...</title><link>https://www.threads.net/@choi.openai/post/DWcY0M4Eki5</link><description>Skywork AI에서 실시간 인터랙티브 월드 모델 'Matrix-Game 3.0'을 오픈소스로 공개했습니다.
+5B 크기의 비교적 가벼운 모델로 720p 해상도에서 초당 40프레임(FPS)을 뽑아내며, 언리얼 엔진과 AAA급 게임, 실제 데이터를 바탕으로 학습되었습니다.
 
-Mac에 설치해두면 외부 서버 없이 로컬에서 작...</title><link>https://www.threads.net/@choi.openai/post/DWbgqTkD4go</link><description>앤트로픽이 Claude Code를 위한 공식 iMessage 플러그인을 새롭게 공개했습니다. 
+이전까지의 비디오 생성 모델이 짧은 클립을 보여주는 데 그쳤다면, 이제는 사용자가 계속 머무르며 상호작용할 수 있는 인터랙티브 환경을 창조하는 단계로 넘어갔습니다.
 
-Mac에 설치해두면 외부 서버 없이 로컬에서 작동하며, Claude와 문자로 직접 소통할 수 있습니다.
-밖에서 스마트폰으로 메시지나 사진을 보내면, 내 컴퓨터 안의 파일을 읽고 코드를 수정한 뒤 그 결과를 다시 문자로 답장해 줍니다.
+영상의 화질을 따지던 시기를 지나, 얼마나 안정적으로 그 세계의 물리 법칙을 유지할 수 있는지가 새로운 관찰 포인트가 되었습니다.
 
-앞으로는 무거운 노트북을 열고 터미널을 세팅할 필요 없이, 주머니 속 스마트폰으로 전용 AI 개발팀과 문자를 주고받으며 백그라운드에서 실무를 처리하는 워크플로우가 당연해질 것으로 보입니다.</description><pubDate>Sat, 28 Mar 2026 13:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbgqTkD4go</guid></item><item><title>깃허브 :
-https://github.com/anthropics/claude-plugins-official/blob/main/external_p...</title><link>https://www.threads.net/@choi.openai/post/DWbgrLGj4Rz</link><description>깃허브 :
-https://github.com/anthropics/claude-plugins-official/blob/main/external_plugins/imessage/README.md</description><pubDate>Sat, 28 Mar 2026 13:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbgrLGj4Rz</guid></item><item><title>Meituan에서 텍스트, 비전, 오디오를 하나로 통합한 멀티모달 모델 LongCat-Next를 공개했습니다.
-총 68.5B 파라미터에 MoE ...</title><link>https://www.threads.net/@choi.openai/post/DWbWaZeAn8i</link><description>Meituan에서 텍스트, 비전, 오디오를 하나로 통합한 멀티모달 모델 LongCat-Next를 공개했습니다.
-총 68.5B 파라미터에 MoE 구조를 갖춘 이 모델은 텍스트, 이미지, 음성을 모두 동일한 형태의 토큰으로 통합해 처리합니다.
-기존 언어 모델이 다음 단어를 예측하듯, 시각과 청각 데이터도 똑같은 방식으로 연속해서 예측하고 생성하는 구조입니다.
+짧은 데모 수준에 머물렀던 월드 모델이 실제 게임과 가상 시뮬레이션 시장의 작동 방식을 어떻게 바꿔놓을지 앞으로의 변화가 무척 기대됩니다.</description><pubDate>Sat, 28 Mar 2026 21:40:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWcY0M4Eki5</guid></item><item><title>허깅페이스 :
+https://huggingface.co/Skywork/Matrix-Game-3.0</title><link>https://www.threads.net/@choi.openai/post/DWcY1WrEq3v</link><description>허깅페이스 :
+https://huggingface.co/Skywork/Matrix-Game-3.0</description><pubDate>Sat, 28 Mar 2026 21:41:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWcY1WrEq3v</guid></item><item><title>중국의 로봇 기업 유니트리(Unitree)가 병원 현장에 휴머노이드 로봇을 투입해 실제 간병 및 지원 인력으로 활용하기 시작했습니다.
+새벽 시간...</title><link>https://www.threads.net/@choi.openai/post/DWcNWxLiBvv</link><description>중국의 로봇 기업 유니트리(Unitree)가 병원 현장에 휴머노이드 로봇을 투입해 실제 간병 및 지원 인력으로 활용하기 시작했습니다.
+새벽 시간에 휠체어를 옮기는 등 육체적으로 고된 반복 업무를 직접 수행하고 있는데요.
 
-시각적 이해와 생성을 단일 공간에서 처리하는 dNaViT 기술이 적용되어, 복잡한 문서 분석은 물론 해상도 제약 없는 이미지 생성과 실시간 음성 상호작용까지 매끄럽게 돌아갑니다.
+지치지 않고 움직이는 로봇은 이제 현실의 인력 부족 문제를 직접 해결하고 있습니다.
 
-AI의 논리적 추론 능력이 시각과 청각의 영역까지 완벽히 통합되었을 때, 과연 어떤 파급력을 만들어낼지 앞으로의 발전 방향이 무척 기대됩니다.</description><pubDate>Sat, 28 Mar 2026 12:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbWaZeAn8i</guid></item><item><title>블로그 :
-https://longcat.chat/longcat-next/intro</title><link>https://www.threads.net/@choi.openai/post/DWbWdVTgiL_</link><description>블로그 :
-https://longcat.chat/longcat-next/intro</description><pubDate>Sat, 28 Mar 2026 12:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbWdVTgiL_</guid></item><item><title>개발자 소이어 후드(Sawyer Hood)가 새로운 에이전트 전용 브라우저 제어 도구인 'dev-browser'를 공개했습니다.
-
-그동안 여러 ...</title><link>https://www.threads.net/@choi.openai/post/DWbMCkbk49W</link><description>개발자 소이어 후드(Sawyer Hood)가 새로운 에이전트 전용 브라우저 제어 도구인 'dev-browser'를 공개했습니다.
-
-그동안 여러 자동화 툴들이 AI를 위한 새로운 문법과 규칙을 만들려다 속도와 정확도 문제에 부딪혔는데요.
-해당 도구는 접근법이 다릅니다. AI가 이미 수없이 학습해 완벽하게 이해하고 있는 'Playwright'를 그대로 쓰게 한 것입니다.
-
-중간에 불필요한 번역 과정이 사라지니 에이전트의 작업 속도가 눈에 띄게 빨라졌습니다. 
-
-인간이 새로운 규칙을 억지로 가르치려 하기보다, AI가 이미 가장 잘 다루는 도구를 그대로 쥐여주는 방식입니다.</description><pubDate>Sat, 28 Mar 2026 10:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbMCkbk49W</guid></item><item><title>깃허브 :
-https://github.com/SawyerHood/dev-browser</title><link>https://www.threads.net/@choi.openai/post/DWbMDqWk2Z9</link><description>깃허브 :
-https://github.com/SawyerHood/dev-browser</description><pubDate>Sat, 28 Mar 2026 10:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWbMDqWk2Z9</guid></item></channel></rss>
+로봇이 언제쯤 우리 일상을 바꿀까 싶었지만, 사람의 손길이 가장 절실한 곳에서부터 이미 조용히 혁명이 시작되고 있습니다.</description><pubDate>Sat, 28 Mar 2026 20:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWcNWxLiBvv</guid></item></channel></rss>
