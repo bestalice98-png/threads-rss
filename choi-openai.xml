@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 29 Mar 2026 08:40:33 +0000</lastBuildDate><item><title>구글의 발표로 반도체 시장이 패닉에 빠졌습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 29 Mar 2026 15:20:56 +0000</lastBuildDate><item><title>🚨 전세계 Codex의 모든 활용법을 담았습니다.
+오픈AI 공식에서 알려주는 사례와 엔지니어링 기법을 싹 직접 정리해서 공유해드립니다.</title><link>https://www.threads.net/@choi.openai/post/DWeNl73jxfT</link><description>🚨 전세계 Codex의 모든 활용법을 담았습니다.
+오픈AI 공식에서 알려주는 사례와 엔지니어링 기법을 싹 직접 정리해서 공유해드립니다.</description><pubDate>Sun, 29 Mar 2026 14:41:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWeNl73jxfT</guid></item><item><title>가이드북 :
+https://drive.google.com/file/d/1xKEbx_2f7hbdvSTYiMfC69znoS21SrCB/view?us...</title><link>https://www.threads.net/@choi.openai/post/DWeNmmhj_r8</link><description>가이드북 :
+https://drive.google.com/file/d/1xKEbx_2f7hbdvSTYiMfC69znoS21SrCB/view?usp=sharing</description><pubDate>Sun, 29 Mar 2026 14:41:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWeNmmhj_r8</guid></item><item><title>Claude Code 편 :</title><link>https://www.threads.net/@choi.openai/post/DWeNuB7jz_f</link><description>Claude Code 편 :</description><pubDate>Sun, 29 Mar 2026 14:42:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWeNuB7jz_f</guid></item><item><title>OpenClaw 편 :</title><link>https://www.threads.net/@choi.openai/post/DWeNukKDzNx</link><description>OpenClaw 편 :</description><pubDate>Sun, 29 Mar 2026 14:42:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWeNukKDzNx</guid></item><item><title>구글의 제프 딘(Jeff Dean)은 최근 AI 학습 데이터 고갈론에 대해 정면으로 반박하며, 여전히 활용되지 않은 데이터가 세상에 넘쳐난다고 ...</title><link>https://www.threads.net/@choi.openai/post/DWd5APJj7tc</link><description>구글의 제프 딘(Jeff Dean)은 최근 AI 학습 데이터 고갈론에 대해 정면으로 반박하며, 여전히 활용되지 않은 데이터가 세상에 넘쳐난다고 강조했습니다.
+
+그는 “우리는 아직 모든 영상과 오디오 데이터를 학습에 다 쓰지 않았습니다”라고 언급하며, 특히 자율주행차나 로보틱스에서 발생하는 실세계 데이터의 잠재력을 높게 평가했습니다.
+
+또한, 물리적 데이터뿐만 아니라 컴퓨팅 자원을 투입해 생성하는 '합성 데이터'가 모델의 성능을 비약적으로 높이는 핵심 돌파구가 될 것으로 내다봤습니다.
+
+제프 딘은 과거 이미지 모델에서 사용되던 데이터 증강이나 증류(Distillation) 같은 기법들이 AI 모델의 오버피팅을 방지하고 효율성을 극대화할 것이라고 설명했습니다.</description><pubDate>Sun, 29 Mar 2026 11:45:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWd5APJj7tc</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=joTYgvRHST0</title><link>https://www.threads.net/@choi.openai/post/DWd5CQUD9RJ</link><description>풀영상 :
+https://www.youtube.com/watch?v=joTYgvRHST0</description><pubDate>Sun, 29 Mar 2026 11:41:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWd5CQUD9RJ</guid></item><item><title>전 구글 CEO이자 에릭 슈미트(Eric Schmidt)는 미국의 강력한 금융 시스템과 AI 기술의 폭발적인 성장이 결합하여 만들어낼 거대한 에...</title><link>https://www.threads.net/@choi.openai/post/DWduZ3WDyxw</link><description>전 구글 CEO이자 에릭 슈미트(Eric Schmidt)는 미국의 강력한 금융 시스템과 AI 기술의 폭발적인 성장이 결합하여 만들어낼 거대한 에너지에 대해 역설했습니다.
+
+에릭 슈미트는 또한 AI 알고리즘이 효율화됨에 따라 에너지 소비가 줄어들 것이라는 일반적인 통념을 반박했습니다.
+
+그는 제번스의 역설(Jevons Paradox)을 언급하며, "하드웨어가 강력해지고 알고리즘이 효율화될수록, 우리는 더 많은 용도를 발견하게 되어 결국 더 많은 전력과 컴퓨팅 자원을 필요로 하게 될 것"이라고 경고했습니다.</description><pubDate>Sun, 29 Mar 2026 10:14:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWduZ3WDyxw</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=DpwmmXmzvfo</title><link>https://www.threads.net/@choi.openai/post/DWduZllj__4</link><description>풀영상 :
+https://www.youtube.com/watch?v=DpwmmXmzvfo</description><pubDate>Sun, 29 Mar 2026 10:08:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWduZllj__4</guid></item><item><title>구글의 발표로 반도체 시장이 패닉에 빠졌습니다.
 
 이번 주, 구글, 오픈AI, 앤트로픽, 메타, 마이크로소프트, 중국까지 정말 놀라운 업데이트를...</title><link>https://www.threads.net/@choi.openai/post/DWdhVgIjwz8</link><description>구글의 발표로 반도체 시장이 패닉에 빠졌습니다.
 
@@ -12,36 +30,4 @@ PolarQuant와 QJL 기법으로 메모리...</title><link>https://www.threads.net
 PolarQuant와 QJL 기법으로 메모리 부담을 줄이면서 정확도는 유지하고 속도는 8배 향상시켰습니다.
 대규모 AI 모델 운영 비용 절감 효과를 기대하는 기술이지만, 반도체 주가 급락으로 이어졌습니다.
 다만 증권가에서는 "이런 반응은 과도하다"는 평가가 나오고 있습니다.</description><pubDate>Sun, 29 Mar 2026 08:14:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdhV8iD2uC</guid></item><item><title>2/ 구글이 공개한 "Gemini 3.1 Flash Live"는 실시간 음성 및 비주얼 에이전트를 지원하며, 지연 시간 단축과 2배 높아진 문맥...</title><link>https://www.threads.net/@choi.openai/post/DWdhWuqj06a</link><description>2/ 구글이 공개한 "Gemini 3.1 Flash Live"는 실시간 음성 및 비주얼 에이전트를 지원하며, 지연 시간 단축과 2배 높아진 문맥 유지 기능이 특징입니다.
-이 모델은 시끄러운 환경에서도 사용자 지시를 정확히 식별하고 외부 도구를 쉽게 호출할 수 있습니다.</description><pubDate>Sun, 29 Mar 2026 08:14:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdhWuqj06a</guid></item><item><title>3/ 앱을 설치하고 간단히 프롬프트 입력만 하는 것이 대부분이지만, "Claude Code"의 핵심은 "하네스" 구조에 있습니다.</title><link>https://www.threads.net/@choi.openai/post/DWdhXR4Dw6B</link><description>3/ 앱을 설치하고 간단히 프롬프트 입력만 하는 것이 대부분이지만, "Claude Code"의 핵심은 "하네스" 구조에 있습니다.</description><pubDate>Sun, 29 Mar 2026 08:14:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdhXR4Dw6B</guid></item><item><title>미드저니(Midjourney)의 엔지니어가 CSS 없이 텍스트 레이아웃을 계산하는 새로운 라이브러리 'Pretext'를 공개했습니다.
-
-기존 웹...</title><link>https://www.threads.net/@choi.openai/post/DWdWl1QAbqr</link><description>미드저니(Midjourney)의 엔지니어가 CSS 없이 텍스트 레이아웃을 계산하는 새로운 라이브러리 'Pretext'를 공개했습니다.
-
-기존 웹은 DOM을 측정하고 CSS를 계산한 뒤 화면을 다시 그리는 무거운 방식을 써왔는데요. Pretext는 이 과정을 완전히 건너뛰고 텍스트 위치를 독자적으로 계산해 처리 속도를 500배 이상 끌어올렸습니다.
-
-이제 웹에서도 텍스트가 이미지를 감싸고 도는 잡지식 배열이나, 특정 모양에 맞춰 글자가 실시간으로 흐르는 복잡한 레이아웃이 지연 없이 부드럽게 구현됩니다.
-
-무거운 브라우저 렌더링 엔진에만 의존하던 UI 기술이, 자체 연산을 통해 성능의 한계를 직접 뚫어내는 방식으로 진화하고 있습니다.
-앞으로 웹사이트의 시각적 경험이 얼마나 역동적으로 변할지 무척 기대됩니다.</description><pubDate>Sun, 29 Mar 2026 06:40:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdWl1QAbqr</guid></item><item><title>깃허브 :
-https://github.com/chenglou/pretext</title><link>https://www.threads.net/@choi.openai/post/DWdWnCbAUQv</link><description>깃허브 :
-https://github.com/chenglou/pretext</description><pubDate>Sun, 29 Mar 2026 06:40:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdWnCbAUQv</guid></item><item><title>기술적 특이점이 경제적 풍요가 아닌 인류의 종말이 될 수 있다.
-
-전 오픈AI 연구원이자 'AI 2027'의 공동 저자인 다니엘 코코타일로(Da...</title><link>https://www.threads.net/@choi.openai/post/DWdMfLBj8gz</link><description>기술적 특이점이 경제적 풍요가 아닌 인류의 종말이 될 수 있다.
-
-전 오픈AI 연구원이자 'AI 2027'의 공동 저자인 다니엘 코코타일로(Daniel Kokotajlo)는 인공지능의 급격한 발전이 가져올 실존적 위협에 대해 강력한 경고를 전했습니다.
-
-다니엘 코코타일로는 "인류가 멸종하거나 그에 준하는 비극적 상황을 맞이할 확률이 70%에 달한다"고 분석했습니다.
-
-그는 이러한 위기가 불과 "5년 내외"로 닥칠 수 있다고 내다봤습니다.
-특히 AI가 군대에 본격적으로 도입되어 자율성을 갖게 되면, 인간이 물리적으로 전원을 차단하는 식의 통제는 사실상 불가능해집니다.
-
-결국 인류는 인간의 지능을 압도하는 '초지능(ASI)' 군단과 마주하게 될 것입니다.</description><pubDate>Sun, 29 Mar 2026 05:13:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdMfLBj8gz</guid></item><item><title>풀영상 :
-https://youtu.be/cYTMjwZzzxg</title><link>https://www.threads.net/@choi.openai/post/DWdMgZLj_T8</link><description>풀영상 :
-https://youtu.be/cYTMjwZzzxg</description><pubDate>Sun, 29 Mar 2026 05:12:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdMgZLj_T8</guid></item><item><title>프랑소와 숄레(François Chollet)는 "AGI은 아마도 2030년 초반에 실현될 것"이라고 예측했습니다.
-
-프랑소와 숄레는 AGI가 ...</title><link>https://www.threads.net/@choi.openai/post/DWc8o4ED2Ea</link><description>프랑소와 숄레(François Chollet)는 "AGI은 아마도 2030년 초반에 실현될 것"이라고 예측했습니다.
-
-프랑소와 숄레는 AGI가 등장하는 시점이 구글의 차세대 프로젝트인 'ARC' 시리즈의 상위 버전이 출시될 무렵과 맞물릴 것으로 보고 있습니다.
-
-그는 "현재의 진행률과 투자 규모를 추산해 볼 때, 2030년대 초반이 가장 유력하다"고 강조하며, 인류가 진정한 지능의 폭발을 목격할 날이 머지않았음을 시사했습니다.</description><pubDate>Sun, 29 Mar 2026 02:54:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWc8o4ED2Ea</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=k2ZLQC8P7dc</title><link>https://www.threads.net/@choi.openai/post/DWc8ozzjyp3</link><description>풀영상 :
-https://www.youtube.com/watch?v=k2ZLQC8P7dc</description><pubDate>Sun, 29 Mar 2026 02:53:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWc8ozzjyp3</guid></item></channel></rss>
+이 모델은 시끄러운 환경에서도 사용자 지시를 정확히 식별하고 외부 도구를 쉽게 호출할 수 있습니다.</description><pubDate>Sun, 29 Mar 2026 08:14:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdhWuqj06a</guid></item><item><title>3/ 앱을 설치하고 간단히 프롬프트 입력만 하는 것이 대부분이지만, "Claude Code"의 핵심은 "하네스" 구조에 있습니다.</title><link>https://www.threads.net/@choi.openai/post/DWdhXR4Dw6B</link><description>3/ 앱을 설치하고 간단히 프롬프트 입력만 하는 것이 대부분이지만, "Claude Code"의 핵심은 "하네스" 구조에 있습니다.</description><pubDate>Sun, 29 Mar 2026 08:14:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdhXR4Dw6B</guid></item></channel></rss>
