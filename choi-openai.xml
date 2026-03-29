@@ -1,31 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 29 Mar 2026 02:29:02 +0000</lastBuildDate><item><title>구글 딥마인드의 차세대 모델인 'Gemma 4'가 현재 챗봇 아레나(Arena)에서 "significant-otter"라는 이름으로 조용히 테스...</title><link>https://www.threads.net/@choi.openai/post/DWcuis2gdXR</link><description>구글 딥마인드의 차세대 모델인 'Gemma 4'가 현재 챗봇 아레나(Arena)에서 "significant-otter"라는 이름으로 조용히 테스트 중인 것이 포착되었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 29 Mar 2026 08:40:33 +0000</lastBuildDate><item><title>구글의 발표로 반도체 시장이 패닉에 빠졌습니다.
 
-알려진 바에 따르면 이번 라인업은 2B, 4B의 초소형 모델과 120B(활성 파라미터 15B) 체급의 대형 모델로 구성될 전망입니다.
+이번 주, 구글, 오픈AI, 앤트로픽, 메타, 마이크로소프트, 중국까지 정말 놀라운 업데이트를...</title><link>https://www.threads.net/@choi.openai/post/DWdhVgIjwz8</link><description>구글의 발표로 반도체 시장이 패닉에 빠졌습니다.
 
-일반 개인 PC나 낮은 사양의 기기에서도 가볍게 돌아가는 소형 모델로 온디바이스 AI 생태계를 꽉 잡는 동시에, 120B 체급의 강력한 모델로는 독립적인 로컬 에이전트 시스템까지 한 번에 장악하겠다는 구글의 의도가 엿보입니다.
+이번 주, 구글, 오픈AI, 앤트로픽, 메타, 마이크로소프트, 중국까지 정말 놀라운 업데이트를 연이어 내놓은 한 주였는데요.
 
-오픈소스 진영을 둘러싼 생태계 장악 경쟁이 갈수록 치열해지는 가운데, 구글이 꺼내든 새로운 패가 실제 로컬 개발 환경을 어떻게 흔들어 놓을지 무척 기대됩니다.</description><pubDate>Sun, 29 Mar 2026 00:50:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWcuis2gdXR</guid></item><item><title>Freepik이 단 한 장의 2D 이미지로 완전한 3D 환경을 생성하는 '3D Scenes'를 새롭게 공개했습니다.
-제품 사진을 올리면 AI가 ...</title><link>https://www.threads.net/@choi.openai/post/DWckK1tCXn8</link><description>Freepik이 단 한 장의 2D 이미지로 완전한 3D 환경을 생성하는 '3D Scenes'를 새롭게 공개했습니다.
-제품 사진을 올리면 AI가 주변 공간을 구축하고, 사용자는 실제 촬영장처럼 카메라 각도와 조명, 피사계 심도를 자유롭게 조절할 수 있습니다.
+그리고 더 무서운 건, 이 변화가 “사람 간 격차”를 만들고 있다는 점입니다.
 
-이커머스나 광고 업계에서는 구도를 바꿀 때마다 물리적인 재촬영이나 복잡한 합성 작업이 필수였습니다.
-하지만 이제는 한 번 생성된 가상 공간 안에서 카메라만 움직이면, 일관성을 유지한 채 원하는 앵글의 이미지를 무한대로 뽑아낼 수 있습니다.
+이번 주 AI 업계의 핵심 업데이트를 정리했습니다. 🧵</description><pubDate>Sun, 29 Mar 2026 08:14:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdhVgIjwz8</guid></item><item><title>1/ 구글 리서치에서 LLM의 메모리 문제를 해결할 'TurboQuant' 알고리즘을 발표했습니다.
+PolarQuant와 QJL 기법으로 메모리...</title><link>https://www.threads.net/@choi.openai/post/DWdhV8iD2uC</link><description>1/ 구글 리서치에서 LLM의 메모리 문제를 해결할 'TurboQuant' 알고리즘을 발표했습니다.
+PolarQuant와 QJL 기법으로 메모리 부담을 줄이면서 정확도는 유지하고 속도는 8배 향상시켰습니다.
+대규모 AI 모델 운영 비용 절감 효과를 기대하는 기술이지만, 반도체 주가 급락으로 이어졌습니다.
+다만 증권가에서는 "이런 반응은 과도하다"는 평가가 나오고 있습니다.</description><pubDate>Sun, 29 Mar 2026 08:14:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdhV8iD2uC</guid></item><item><title>2/ 구글이 공개한 "Gemini 3.1 Flash Live"는 실시간 음성 및 비주얼 에이전트를 지원하며, 지연 시간 단축과 2배 높아진 문맥...</title><link>https://www.threads.net/@choi.openai/post/DWdhWuqj06a</link><description>2/ 구글이 공개한 "Gemini 3.1 Flash Live"는 실시간 음성 및 비주얼 에이전트를 지원하며, 지연 시간 단축과 2배 높아진 문맥 유지 기능이 특징입니다.
+이 모델은 시끄러운 환경에서도 사용자 지시를 정확히 식별하고 외부 도구를 쉽게 호출할 수 있습니다.</description><pubDate>Sun, 29 Mar 2026 08:14:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdhWuqj06a</guid></item><item><title>3/ 앱을 설치하고 간단히 프롬프트 입력만 하는 것이 대부분이지만, "Claude Code"의 핵심은 "하네스" 구조에 있습니다.</title><link>https://www.threads.net/@choi.openai/post/DWdhXR4Dw6B</link><description>3/ 앱을 설치하고 간단히 프롬프트 입력만 하는 것이 대부분이지만, "Claude Code"의 핵심은 "하네스" 구조에 있습니다.</description><pubDate>Sun, 29 Mar 2026 08:14:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdhXR4Dw6B</guid></item><item><title>미드저니(Midjourney)의 엔지니어가 CSS 없이 텍스트 레이아웃을 계산하는 새로운 라이브러리 'Pretext'를 공개했습니다.
 
-사진 촬영이라는 물리적 작업이 AI 공간 안에서의 마우스 조작으로 완전히 대체되는 날이 머지않아 보입니다.</description><pubDate>Sat, 28 Mar 2026 23:20:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWckK1tCXn8</guid></item><item><title>Skywork AI에서 실시간 인터랙티브 월드 모델 'Matrix-Game 3.0'을 오픈소스로 공개했습니다.
-5B 크기의 비교적 가벼운 모델로...</title><link>https://www.threads.net/@choi.openai/post/DWcY0M4Eki5</link><description>Skywork AI에서 실시간 인터랙티브 월드 모델 'Matrix-Game 3.0'을 오픈소스로 공개했습니다.
-5B 크기의 비교적 가벼운 모델로 720p 해상도에서 초당 40프레임(FPS)을 뽑아내며, 언리얼 엔진과 AAA급 게임, 실제 데이터를 바탕으로 학습되었습니다.
+기존 웹...</title><link>https://www.threads.net/@choi.openai/post/DWdWl1QAbqr</link><description>미드저니(Midjourney)의 엔지니어가 CSS 없이 텍스트 레이아웃을 계산하는 새로운 라이브러리 'Pretext'를 공개했습니다.
 
-이전까지의 비디오 생성 모델이 짧은 클립을 보여주는 데 그쳤다면, 이제는 사용자가 계속 머무르며 상호작용할 수 있는 인터랙티브 환경을 창조하는 단계로 넘어갔습니다.
+기존 웹은 DOM을 측정하고 CSS를 계산한 뒤 화면을 다시 그리는 무거운 방식을 써왔는데요. Pretext는 이 과정을 완전히 건너뛰고 텍스트 위치를 독자적으로 계산해 처리 속도를 500배 이상 끌어올렸습니다.
 
-영상의 화질을 따지던 시기를 지나, 얼마나 안정적으로 그 세계의 물리 법칙을 유지할 수 있는지가 새로운 관찰 포인트가 되었습니다.
+이제 웹에서도 텍스트가 이미지를 감싸고 도는 잡지식 배열이나, 특정 모양에 맞춰 글자가 실시간으로 흐르는 복잡한 레이아웃이 지연 없이 부드럽게 구현됩니다.
 
-짧은 데모 수준에 머물렀던 월드 모델이 실제 게임과 가상 시뮬레이션 시장의 작동 방식을 어떻게 바꿔놓을지 앞으로의 변화가 무척 기대됩니다.</description><pubDate>Sat, 28 Mar 2026 21:40:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWcY0M4Eki5</guid></item><item><title>허깅페이스 :
-https://huggingface.co/Skywork/Matrix-Game-3.0</title><link>https://www.threads.net/@choi.openai/post/DWcY1WrEq3v</link><description>허깅페이스 :
-https://huggingface.co/Skywork/Matrix-Game-3.0</description><pubDate>Sat, 28 Mar 2026 21:41:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWcY1WrEq3v</guid></item><item><title>중국의 로봇 기업 유니트리(Unitree)가 병원 현장에 휴머노이드 로봇을 투입해 실제 간병 및 지원 인력으로 활용하기 시작했습니다.
-새벽 시간...</title><link>https://www.threads.net/@choi.openai/post/DWcNWxLiBvv</link><description>중국의 로봇 기업 유니트리(Unitree)가 병원 현장에 휴머노이드 로봇을 투입해 실제 간병 및 지원 인력으로 활용하기 시작했습니다.
-새벽 시간에 휠체어를 옮기는 등 육체적으로 고된 반복 업무를 직접 수행하고 있는데요.
+무거운 브라우저 렌더링 엔진에만 의존하던 UI 기술이, 자체 연산을 통해 성능의 한계를 직접 뚫어내는 방식으로 진화하고 있습니다.
+앞으로 웹사이트의 시각적 경험이 얼마나 역동적으로 변할지 무척 기대됩니다.</description><pubDate>Sun, 29 Mar 2026 06:40:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdWl1QAbqr</guid></item><item><title>깃허브 :
+https://github.com/chenglou/pretext</title><link>https://www.threads.net/@choi.openai/post/DWdWnCbAUQv</link><description>깃허브 :
+https://github.com/chenglou/pretext</description><pubDate>Sun, 29 Mar 2026 06:40:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdWnCbAUQv</guid></item><item><title>기술적 특이점이 경제적 풍요가 아닌 인류의 종말이 될 수 있다.
 
-지치지 않고 움직이는 로봇은 이제 현실의 인력 부족 문제를 직접 해결하고 있습니다.
+전 오픈AI 연구원이자 'AI 2027'의 공동 저자인 다니엘 코코타일로(Da...</title><link>https://www.threads.net/@choi.openai/post/DWdMfLBj8gz</link><description>기술적 특이점이 경제적 풍요가 아닌 인류의 종말이 될 수 있다.
 
-로봇이 언제쯤 우리 일상을 바꿀까 싶었지만, 사람의 손길이 가장 절실한 곳에서부터 이미 조용히 혁명이 시작되고 있습니다.</description><pubDate>Sat, 28 Mar 2026 20:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWcNWxLiBvv</guid></item></channel></rss>
+전 오픈AI 연구원이자 'AI 2027'의 공동 저자인 다니엘 코코타일로(Daniel Kokotajlo)는 인공지능의 급격한 발전이 가져올 실존적 위협에 대해 강력한 경고를 전했습니다.
+
+다니엘 코코타일로는 "인류가 멸종하거나 그에 준하는 비극적 상황을 맞이할 확률이 70%에 달한다"고 분석했습니다.
+
+그는 이러한 위기가 불과 "5년 내외"로 닥칠 수 있다고 내다봤습니다.
+특히 AI가 군대에 본격적으로 도입되어 자율성을 갖게 되면, 인간이 물리적으로 전원을 차단하는 식의 통제는 사실상 불가능해집니다.
+
+결국 인류는 인간의 지능을 압도하는 '초지능(ASI)' 군단과 마주하게 될 것입니다.</description><pubDate>Sun, 29 Mar 2026 05:13:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdMfLBj8gz</guid></item><item><title>풀영상 :
+https://youtu.be/cYTMjwZzzxg</title><link>https://www.threads.net/@choi.openai/post/DWdMgZLj_T8</link><description>풀영상 :
+https://youtu.be/cYTMjwZzzxg</description><pubDate>Sun, 29 Mar 2026 05:12:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWdMgZLj_T8</guid></item><item><title>프랑소와 숄레(François Chollet)는 "AGI은 아마도 2030년 초반에 실현될 것"이라고 예측했습니다.
+
+프랑소와 숄레는 AGI가 ...</title><link>https://www.threads.net/@choi.openai/post/DWc8o4ED2Ea</link><description>프랑소와 숄레(François Chollet)는 "AGI은 아마도 2030년 초반에 실현될 것"이라고 예측했습니다.
+
+프랑소와 숄레는 AGI가 등장하는 시점이 구글의 차세대 프로젝트인 'ARC' 시리즈의 상위 버전이 출시될 무렵과 맞물릴 것으로 보고 있습니다.
+
+그는 "현재의 진행률과 투자 규모를 추산해 볼 때, 2030년대 초반이 가장 유력하다"고 강조하며, 인류가 진정한 지능의 폭발을 목격할 날이 머지않았음을 시사했습니다.</description><pubDate>Sun, 29 Mar 2026 02:54:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWc8o4ED2Ea</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=k2ZLQC8P7dc</title><link>https://www.threads.net/@choi.openai/post/DWc8ozzjyp3</link><description>풀영상 :
+https://www.youtube.com/watch?v=k2ZLQC8P7dc</description><pubDate>Sun, 29 Mar 2026 02:53:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWc8ozzjyp3</guid></item></channel></rss>
