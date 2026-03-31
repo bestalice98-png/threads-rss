@@ -1,31 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 31 Mar 2026 02:26:49 +0000</lastBuildDate><item><title>마이크로소프트가 M365 코파일럿(Copilot)에 'Council' 기능을 공식 추가했습니다.
-하나의 질문을 여러 AI 모델에 동시에 던진 뒤...</title><link>https://www.threads.net/@choi.openai/post/DWh8tH6AoNV</link><description>마이크로소프트가 M365 코파일럿(Copilot)에 'Council' 기능을 공식 추가했습니다.
-하나의 질문을 여러 AI 모델에 동시에 던진 뒤, 각 답변이 어디서 일치하고 어디서 엇갈리는지를 한눈에 비교 분석해 줍니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 31 Mar 2026 08:59:46 +0000</lastBuildDate><item><title>퍼플렉시티의 CEO 아라빈드 스리니바스(Aravind Srinivas)는 “우리의 꿈은 비즈니스가 가능한 한 자율적으로 운영되도록 돕는 것입니다...</title><link>https://www.threads.net/@choi.openai/post/DWis75vDxhI</link><description>퍼플렉시티의 CEO 아라빈드 스리니바스(Aravind Srinivas)는 “우리의 꿈은 비즈니스가 가능한 한 자율적으로 운영되도록 돕는 것입니다”라고 말하며, AI가 기업 운영의 핵심 엔진이 될 것이라고 강조했습니다.
 
-그동안 파워 유저들이 수동으로 여러 챗봇 창을 띄워놓고 교차 검증하던 작업 흐름이 아예 기업용 기본 솔루션으로 흡수된 것입니다.
+스리니바스는 소상공인이나 부업을 하는 개인들이 AI를 통해 수십만, 수백만 달러의 수익을 올리는 시대를 예고했습니다. 
 
-앞서 발표된 AI 간의 교정 기능 'Critique'에 이어, 이제는 AI들이 서로 의견을 대립하며 결론을 도출하는 단계로 넘어왔습니다.
+“컴퓨터가 인스타그램이나 구글에서 광고 캠페인을 운영하고, SEO 도구와 통합해 새로운 사용자를 찾으며, 결제 서비스인 Stripe와 연동해 비용을 청구하는 모든 과정을 자동으로 처리할 수 있습니다”라고 설명했습니다.
 
-여러 AI의 집단 지성을 시스템적으로 조율하는 멀티 모델 워크플로우 시대가 본격적으로 열리고 있습니다.</description><pubDate>Tue, 31 Mar 2026 01:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWh8tH6AoNV</guid></item><item><title>상세내용 :
-https://techcommunity.microsoft.com/blog/microsoft365copilotblog/introduc...</title><link>https://www.threads.net/@choi.openai/post/DWh8vuNgqQp</link><description>상세내용 :
-https://techcommunity.microsoft.com/blog/microsoft365copilotblog/introducing-multi-model-intelligence-in-researcher/4506011</description><pubDate>Tue, 31 Mar 2026 01:31:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWh8vuNgqQp</guid></item><item><title>앤트로픽이 'Claude Code'에 컴퓨터 제어 기능을 새롭게 탑재했습니다.
+“비즈니스 운영자가 나파에서 와인을 마시며 낮잠을 자는 동안에도 AI가 모든 것을 처리하는 것, 그것이 우리가 꿈꾸는 미래입니다”</description><pubDate>Tue, 31 Mar 2026 08:32:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWis75vDxhI</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=-JBhTBu9ZbA</title><link>https://www.threads.net/@choi.openai/post/DWis-Vaj73g</link><description>풀영상 :
+https://www.youtube.com/watch?v=-JBhTBu9ZbA</description><pubDate>Tue, 31 Mar 2026 08:32:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWis-Vaj73g</guid></item><item><title>월 200달러를 내는 Claude Max 사용자들조차 단 20분 만에 사용량 제한에 걸리며 불만이 폭주하고 있습니다.
 
-프롬프트 한 줄만 입력하면 코드를 작성하고, 직접 프로그램을 실...</title><link>https://www.threads.net/@choi.openai/post/DWhyXRxjC93</link><description>앤트로픽이 'Claude Code'에 컴퓨터 제어 기능을 새롭게 탑재했습니다.
+최근 Claude Cod...</title><link>https://www.threads.net/@choi.openai/post/DWikmMrjy7E</link><description>월 200달러를 내는 Claude Max 사용자들조차 단 20분 만에 사용량 제한에 걸리며 불만이 폭주하고 있습니다.
 
-프롬프트 한 줄만 입력하면 코드를 작성하고, 직접 프로그램을 실행해 화면의 UI를 클릭해 가며 테스트를 진행합니다.
+최근 Claude Code 내부에서 프롬프트 캐싱을 무효화하는 버그가 발견되면서, 대화 중 특정 조건이 맞물리면 캐시가 깨지면서 토큰 소모량이 최대 20배까지 폭증해 할당량을 순식간에 사라지는 버그가 발생하고 있는데요.
 
-오류가 나면 사람에게 묻는 대신 알아서 문제를 파악하고 수정해 다시 검증까지 마칩니다.</description><pubDate>Tue, 31 Mar 2026 00:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWhyXRxjC93</guid></item><item><title>오우.. 오픈AI가 앤트로픽의 AI 코딩 도구인 'Claude Code' 안에서 자사의 'Codex'를 바로 불러와 쓸 수 있는 플러그인을 직접...</title><link>https://www.threads.net/@choi.openai/post/DWhpzLCFMXS</link><description>오우.. 오픈AI가 앤트로픽의 AI 코딩 도구인 'Claude Code' 안에서 자사의 'Codex'를 바로 불러와 쓸 수 있는 플러그인을 직접 만들어 공개했습니다.
+앤트로픽 측은 예상치 못한 문제라며 원인 파악에 나섰지만, 참다못한 사용자들은 이미 제한이 덜한 Codex로 대거 이탈하고 있습니다.
 
-최근 개발자들 사이에서는 코드의 뼈대는 클로드에게 맡기고, 치명적인 오류를 잡아내는 코드 리뷰와 복잡한 연산은 GPT-5.4 기반의 코덱스에 맡기는 교차 검증 방식이 유행하고 있었는데요. 오픈AI가 아예 이 작업 흐름을 공식적으로 지원하고 나선 것입니다.
+이제 AI 모델들의 성능이 비슷해지면서, 시스템 안정성이나 사용 경험이 조금만 무너져도 사람들은 언제든 다른 대안으로 즉각 넘어가는 행보를 보여주고 있습니다.</description><pubDate>Tue, 31 Mar 2026 07:19:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWikmMrjy7E</guid></item><item><title>드디어 어도비가 일러스트레이터에 "Turntable" 기능을 공식 배포했습니다.
 
-하나의 AI만 고집하던 시대를 지나, 각 모델의 강점에 맞춰 여러 AI를 조립해 쓰는 멀티 모델 워크플로우가 새로운 표준으로 굳어지고 있습니다.</description><pubDate>Mon, 30 Mar 2026 22:46:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWhpzLCFMXS</guid></item><item><title>와… 판이 정말 재미있게 돌아갑니다.
+평면적인 2D 벡터 아트를 3D 공간에서 회전시킬 수 있는 기...</title><link>https://www.threads.net/@choi.openai/post/DWiZTxTD_t7</link><description>드디어 어도비가 일러스트레이터에 "Turntable" 기능을 공식 배포했습니다.
 
-마이크로소프트가 자사 서비스인 'Copilot Researcher'에 경쟁사인 앤트로픽의 Claude를 ...</title><link>https://www.threads.net/@choi.openai/post/DWhJNSaEsFu</link><description>와… 판이 정말 재미있게 돌아갑니다.
+평면적인 2D 벡터 아트를 3D 공간에서 회전시킬 수 있는 기능으로, 슬라이더만 드래그하면 새로 그릴 필요 없이 회전된 모든 프레임을 캔버스에 바로 배치할 수 있습니다.
+특히 많은 프레임이 필요한 게임 디자인이나 애니메이션 제작자들에게 엄청난 시간을 아껴줄 기능으로 보입니다.
 
-마이크로소프트가 자사 서비스인 'Copilot Researcher'에 경쟁사인 앤트로픽의 Claude를 직접 통합하는 기능을 공개했습니다.
+물론 각도를 돌릴 때 가방 같은 세부 요소가 조금씩 변하는 등 일관성 측면에서 아직 아쉬운 부분은 존재합니다.
+하지만 가장 일관된 프레임들을 골라 AI로 보간하는 방식으로 충분히 실무에 보완 적용이 가능하며, 해당 기능 자체도 빠르게 개선될 예정이라고 합니다.</description><pubDate>Tue, 31 Mar 2026 05:40:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWiZTxTD_t7</guid></item><item><title>Nous Research가 Hermes Agent v0.6.0 버전을 공개했습니다.
 
-새로 나온 'Critique' 기능은 ChatGPT가 먼저 자료를 조사해 초안을 작성하면, Claude가 이를 검토하고 다듬는 방식으로 작동합니다.
-GPT가 한 숙제를 Claude가 교정하는 셈입니다. 여기에 두 모델이 동시에 독립적인 보고서를 작성해 결과를 비교할 수 있는 'Council' 기능도 추가되었습니다.
+가장 눈에 띄는 건 'Profiles' 기능으로, 하나의 ...</title><link>https://www.threads.net/@choi.openai/post/DWiOPnxFOfY</link><description>Nous Research가 Hermes Agent v0.6.0 버전을 공개했습니다.
 
-이제는 특정 회사 모델 하나만 고집하지 않고 생성에 강한 모델과 검수에 강한 모델을 적재적소에 배치해 협업시키는 멀티 모델 워크플로우가 실무에 도입되고 있습니다.</description><pubDate>Mon, 30 Mar 2026 18:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWhJNSaEsFu</guid></item></channel></rss>
+가장 눈에 띄는 건 'Profiles' 기능으로, 하나의 환경에서 여러 개의 독립된 에이전트 인스턴스를 동시에 운영할 수 있게 되었습니다.
+여기에 MCP 서버 모드, Docker 컨테이너 지원, 텔레그램 웹훅, 장애 시 자동으로 다음 제공자로 넘어가는 폴백 기능까지 추가되어 실무 도입이 훨씬 수월해졌습니다.
+
+더욱 화제가 된 것은 내장된 ascii-video 스킬입니다.
+무엇보다 공식 X 계정에 올라온 화려한 릴리스 영상조차 내장된 "ascii-video" 스킬을 활용해 해당 에이전트가 스스로 만들었다는 사실이 사람들을 놀라게 하고 있습니다.
+
+이제 오픈소스 에이전트 기술은 개발 도구와 깊숙이 연동되는 것을 넘어, 미디어 창작까지 능숙하게 제어하는 플랫폼으로 빠르게 진화하고 있습니다.</description><pubDate>Tue, 31 Mar 2026 04:07:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWiOPnxFOfY</guid></item></channel></rss>
