@@ -1,51 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 30 Mar 2026 15:59:12 +0000</lastBuildDate><item><title>Z.ai가 로컬 환경에서 OpenClaw를 바로 구동할 수 있는 "AutoClaw"를 새롭게 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 31 Mar 2026 02:26:49 +0000</lastBuildDate><item><title>마이크로소프트가 M365 코파일럿(Copilot)에 'Council' 기능을 공식 추가했습니다.
+하나의 질문을 여러 AI 모델에 동시에 던진 뒤...</title><link>https://www.threads.net/@choi.openai/post/DWh8tH6AoNV</link><description>마이크로소프트가 M365 코파일럿(Copilot)에 'Council' 기능을 공식 추가했습니다.
+하나의 질문을 여러 AI 모델에 동시에 던진 뒤, 각 답변이 어디서 일치하고 어디서 엇갈리는지를 한눈에 비교 분석해 줍니다.
 
-클라우드 기반 AI 서비스들의 프라...</title><link>https://www.threads.net/@choi.openai/post/DWg1LO1DB7U</link><description>Z.ai가 로컬 환경에서 OpenClaw를 바로 구동할 수 있는 "AutoClaw"를 새롭게 공개했습니다.
+그동안 파워 유저들이 수동으로 여러 챗봇 창을 띄워놓고 교차 검증하던 작업 흐름이 아예 기업용 기본 솔루션으로 흡수된 것입니다.
 
-클라우드 기반 AI 서비스들의 프라이버시 우려가 커지는 가운데, 데이터 통제권을 다시 사용자에게 돌려주며 안전하고 자유로운 '로컬 에이전트 시대'가 본격적으로 열리고 있습니다.</description><pubDate>Mon, 30 Mar 2026 15:06:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWg1LO1DB7U</guid></item><item><title>🚨 속보) 알리바바가 새로운 모델 'Qwen3.5-Omni'를 공개했습니다.
+앞서 발표된 AI 간의 교정 기능 'Critique'에 이어, 이제는 AI들이 서로 의견을 대립하며 결론을 도출하는 단계로 넘어왔습니다.
 
-10시간 분량의 오디오와 영상을 한 번에 이해하는 것은 물론, 대...</title><link>https://www.threads.net/@choi.openai/post/DWgpHROD7tB</link><description>🚨 속보) 알리바바가 새로운 모델 'Qwen3.5-Omni'를 공개했습니다.
+여러 AI의 집단 지성을 시스템적으로 조율하는 멀티 모델 워크플로우 시대가 본격적으로 열리고 있습니다.</description><pubDate>Tue, 31 Mar 2026 01:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWh8tH6AoNV</guid></item><item><title>상세내용 :
+https://techcommunity.microsoft.com/blog/microsoft365copilotblog/introduc...</title><link>https://www.threads.net/@choi.openai/post/DWh8vuNgqQp</link><description>상세내용 :
+https://techcommunity.microsoft.com/blog/microsoft365copilotblog/introducing-multi-model-intelligence-in-researcher/4506011</description><pubDate>Tue, 31 Mar 2026 01:31:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWh8vuNgqQp</guid></item><item><title>앤트로픽이 'Claude Code'에 컴퓨터 제어 기능을 새롭게 탑재했습니다.
 
-10시간 분량의 오디오와 영상을 한 번에 이해하는 것은 물론, 대화 중 의미 없는 소음과 진짜 끼어들기를 구분하는 시맨틱 인터럽트 기능까지 탑재했습니다.
-심지어 화면과 소리로 지시하면 알아서 개발을 진행하는 '오디오-비디오 바이브 코딩(Audio-Visual Vibe Coding)' 능력도 새롭게 선보였는데요.
+프롬프트 한 줄만 입력하면 코드를 작성하고, 직접 프로그램을 실...</title><link>https://www.threads.net/@choi.openai/post/DWhyXRxjC93</link><description>앤트로픽이 'Claude Code'에 컴퓨터 제어 기능을 새롭게 탑재했습니다.
 
-특히, 대화 도중 말을 끊어도 문맥을 잃지 않고 반응하며, 가벼운 Flash 버전은 100만 토큰당 0.1달러 수준으로 책정되었습니다. 각종 벤치마크에서도 구글의 Gemini 3.1 Pro를 넘어서는 성과를 보여주었는데요.
+프롬프트 한 줄만 입력하면 코드를 작성하고, 직접 프로그램을 실행해 화면의 UI를 클릭해 가며 테스트를 진행합니다.
 
-거대 빅테크의 전유물로 여겨지던 고성능 실시간 AI가 매우 저렴한 비용으로 시장에 풀리고 있습니다.</description><pubDate>Mon, 30 Mar 2026 13:20:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWgpHROD7tB</guid></item><item><title>블로그 :
-https://qwen.ai/blog?id=qwen3.5-omni</title><link>https://www.threads.net/@choi.openai/post/DWgpH9ID_lU</link><description>블로그 :
-https://qwen.ai/blog?id=qwen3.5-omni</description><pubDate>Mon, 30 Mar 2026 13:20:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWgpH9ID_lU</guid></item><item><title>여러분.. 이번에 Manus가 진짜 데스크톱 생태계의 판도를 바꿀 엄청난 기능을 조용히 배포했습니다.
+오류가 나면 사람에게 묻는 대신 알아서 문제를 파악하고 수정해 다시 검증까지 마칩니다.</description><pubDate>Tue, 31 Mar 2026 00:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWhyXRxjC93</guid></item><item><title>오우.. 오픈AI가 앤트로픽의 AI 코딩 도구인 'Claude Code' 안에서 자사의 'Codex'를 바로 불러와 쓸 수 있는 플러그인을 직접...</title><link>https://www.threads.net/@choi.openai/post/DWhpzLCFMXS</link><description>오우.. 오픈AI가 앤트로픽의 AI 코딩 도구인 'Claude Code' 안에서 자사의 'Codex'를 바로 불러와 쓸 수 있는 플러그인을 직접 만들어 공개했습니다.
 
-새로 출시된 Manus 'My Compu...</title><link>https://www.threads.net/@choi.openai/post/DWgfo7qj5k-</link><description>여러분.. 이번에 Manus가 진짜 데스크톱 생태계의 판도를 바꿀 엄청난 기능을 조용히 배포했습니다.
+최근 개발자들 사이에서는 코드의 뼈대는 클로드에게 맡기고, 치명적인 오류를 잡아내는 코드 리뷰와 복잡한 연산은 GPT-5.4 기반의 코덱스에 맡기는 교차 검증 방식이 유행하고 있었는데요. 오픈AI가 아예 이 작업 흐름을 공식적으로 지원하고 나선 것입니다.
 
-새로 출시된 Manus 'My Computer' 기능은 프롬프트 하나로 내 컴퓨터의 폴더를 정리하고, 데스크톱 앱을 20분 만에 코딩 없이 만들어냅니다.
+하나의 AI만 고집하던 시대를 지나, 각 모델의 강점에 맞춰 여러 AI를 조립해 쓰는 멀티 모델 워크플로우가 새로운 표준으로 굳어지고 있습니다.</description><pubDate>Mon, 30 Mar 2026 22:46:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWhpzLCFMXS</guid></item><item><title>와… 판이 정말 재미있게 돌아갑니다.
 
-어디서나 내 컴퓨터의 숨겨진 잠재력을 깨우는 완벽한 로컬 AI 비서 활용법,
-지금부터 모두 정리해 드립니다. 🧵</description><pubDate>Mon, 30 Mar 2026 11:57:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWgfo7qj5k-</guid></item><item><title>1/ 로컬 파일 시스템 완전 장악 (더 이상 노가다는 없습니다)
-퇴근 직전, 뒤죽박죽 섞인 수백 개의 파일 이름을 바꿔야 할 때가 있죠?
-Man...</title><link>https://www.threads.net/@choi.openai/post/DWgfpPRjyHp</link><description>1/ 로컬 파일 시스템 완전 장악 (더 이상 노가다는 없습니다)
-퇴근 직전, 뒤죽박죽 섞인 수백 개의 파일 이름을 바꿔야 할 때가 있죠?
-Manus에 "Invoice 폴더 파일명을 '회사명_날짜_카테고리'로 다 바꿔줘" 한 마디면 끝납니다.
-수동으로 하면 오후 내내 걸릴 회계사의 작업을 단 한 번의 명령으로 끝냅니다.
-이미지의 내용까지 스캔해서 수백 장의 꽃집 사진을 '웨딩 꽃', '화분' 등의 하위 폴더로 자동 분류해줍니다.</description><pubDate>Mon, 30 Mar 2026 11:57:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWgfpPRjyHp</guid></item><item><title>2/ AI에게 MacOS 실시간 통역 앱 만들어 달라고 요청했습니다. AI가 해냈습니다.
-단 20분 만에요.
+마이크로소프트가 자사 서비스인 'Copilot Researcher'에 경쟁사인 앤트로픽의 Claude를 ...</title><link>https://www.threads.net/@choi.openai/post/DWhJNSaEsFu</link><description>와… 판이 정말 재미있게 돌아갑니다.
 
-Manus는 터미널 명령어를 직접...</title><link>https://www.threads.net/@choi.openai/post/DWgfqNzD6d9</link><description>2/ AI에게 MacOS 실시간 통역 앱 만들어 달라고 요청했습니다. AI가 해냈습니다.
-단 20분 만에요.
+마이크로소프트가 자사 서비스인 'Copilot Researcher'에 경쟁사인 앤트로픽의 Claude를 직접 통합하는 기능을 공개했습니다.
 
-Manus는 터미널 명령어를 직접 실행할 수 있습니다.
-Swift 언어로 코딩, 디버깅, 패키징까지 명령줄을 통해 스스로 알아서 처리합니다.
-코딩 한 줄 할 줄 몰라도, 이제 여러분만의 작동하는 Mac 앱을 가질 수 있습니다</description><pubDate>Mon, 30 Mar 2026 11:58:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWgfqNzD6d9</guid></item><item><title>3/ 보안까지 챙겼다. '로컬 폴더 선택' 제어권 
-기업이나 실무자가 AI를 로컬에 붙일 때 가장 걱정하는 것이 바로 '보안'입니다.
-Manus...</title><link>https://www.threads.net/@choi.openai/post/DWgfpL7j7Yq</link><description>3/ 보안까지 챙겼다. '로컬 폴더 선택' 제어권 
-기업이나 실무자가 AI를 로컬에 붙일 때 가장 걱정하는 것이 바로 '보안'입니다.
-Manus는 내 PC 전체를 무작위로 뒤지는 것이 아닙니다.
-작업할 특정 폴더를 내가 직접 '선택'하고 권한을 부여하는 방식입니다.
-민감한 개인 정보나 회사의 핵심 데이터가 유출될 걱정 없이, AI가 접근할 수 있는 명확한 통제권을 사용자가 쥐게 됩니다.</description><pubDate>Mon, 30 Mar 2026 11:57:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWgfpL7j7Yq</guid></item><item><title>솔직히 더이상 아무것도 믿지 못할 것 같습니다.
-Seedance 2.0이 공개된 이후, 전신 동작과 표정, 음악 뮤비까지 자연스럽게 구현한 사례...</title><link>https://www.threads.net/@choi.openai/post/DWgQo76j_4x</link><description>솔직히 더이상 아무것도 믿지 못할 것 같습니다.
-Seedance 2.0이 공개된 이후, 전신 동작과 표정, 음악 뮤비까지 자연스럽게 구현한 사례들이 쏟아지고 있습니다.
-영상, 캐릭터 댄스, 실사급 표정까지 제작된 사례를 정리했습니다🧵</description><pubDate>Mon, 30 Mar 2026 10:11:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWgQo76j_4x</guid></item><item><title>1/ 옵니 레퍼런스 - 이미지 + 오디오 
+새로 나온 'Critique' 기능은 ChatGPT가 먼저 자료를 조사해 초안을 작성하면, Claude가 이를 검토하고 다듬는 방식으로 작동합니다.
+GPT가 한 숙제를 Claude가 교정하는 셈입니다. 여기에 두 모델이 동시에 독립적인 보고서를 작성해 결과를 비교할 수 있는 'Council' 기능도 추가되었습니다.
 
-x@heydin_ai</title><link>https://www.threads.net/@choi.openai/post/DWgQxzqCclv</link><description>1/ 옵니 레퍼런스 - 이미지 + 오디오 
-
-x@heydin_ai</description><pubDate>Mon, 30 Mar 2026 10:11:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWgQxzqCclv</guid></item><item><title>2/ x@XVisualneuFX</title><link>https://www.threads.net/@choi.openai/post/DWgREypgMXg</link><description>2/ x@XVisualneuFX</description><pubDate>Mon, 30 Mar 2026 10:11:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWgREypgMXg</guid></item><item><title>3/ 브이로그</title><link>https://www.threads.net/@choi.openai/post/DWgRFjQCUG4</link><description>3/ 브이로그</description><pubDate>Mon, 30 Mar 2026 10:11:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWgRFjQCUG4</guid></item></channel></rss>
+이제는 특정 회사 모델 하나만 고집하지 않고 생성에 강한 모델과 검수에 강한 모델을 적재적소에 배치해 협업시키는 멀티 모델 워크플로우가 실무에 도입되고 있습니다.</description><pubDate>Mon, 30 Mar 2026 18:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWhJNSaEsFu</guid></item></channel></rss>
