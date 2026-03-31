@@ -1,36 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 31 Mar 2026 08:59:46 +0000</lastBuildDate><item><title>퍼플렉시티의 CEO 아라빈드 스리니바스(Aravind Srinivas)는 “우리의 꿈은 비즈니스가 가능한 한 자율적으로 운영되도록 돕는 것입니다...</title><link>https://www.threads.net/@choi.openai/post/DWis75vDxhI</link><description>퍼플렉시티의 CEO 아라빈드 스리니바스(Aravind Srinivas)는 “우리의 꿈은 비즈니스가 가능한 한 자율적으로 운영되도록 돕는 것입니다”라고 말하며, AI가 기업 운영의 핵심 엔진이 될 것이라고 강조했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 31 Mar 2026 15:57:38 +0000</lastBuildDate><item><title>🚨 오픈AI의 Codex 에이전트의 전체 소스코드가 유출되었습니다.</title><link>https://www.threads.net/@choi.openai/post/DWjZZqiEU8l</link><description>🚨 오픈AI의 Codex 에이전트의 전체 소스코드가 유출되었습니다.</description><pubDate>Tue, 31 Mar 2026 15:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjZZqiEU8l</guid></item><item><title>만우절입니다. 원래부터 오픈소스입니다 🤣
+깃허브 :
+https://github.com/openai/codex</title><link>https://www.threads.net/@choi.openai/post/DWjZapuEUO-</link><description>만우절입니다. 원래부터 오픈소스입니다 🤣
+깃허브 :
+https://github.com/openai/codex</description><pubDate>Tue, 31 Mar 2026 15:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjZapuEUO-</guid></item><item><title>클로드 소식에 묻혔지만, 일러스트 한 장을 넣으면 머리카락, 옷, 장신구 등의 레이어를 자동으로 분리하고, 가려져 있던 뒷부분까지 알아서 그려서...</title><link>https://www.threads.net/@choi.openai/post/DWjOwIQmcUR</link><description>클로드 소식에 묻혔지만, 일러스트 한 장을 넣으면 머리카락, 옷, 장신구 등의 레이어를 자동으로 분리하고, 가려져 있던 뒷부분까지 알아서 그려서 포토샵 파일(PSD)로 뽑아주는 "See-through" 프로젝트가 드디어 오픈소스로 공개되었습니다.
 
-스리니바스는 소상공인이나 부업을 하는 개인들이 AI를 통해 수십만, 수백만 달러의 수익을 올리는 시대를 예고했습니다. 
+기존에 2D 캐릭터를 움직이는 작업을 하려면, 작업자가 일일이 이미지를 조각내고 뒤에 보이지 않는 배경이나 피부를 상상해서 덧그려야 하는 엄청난 단순 반복 노동이 필요했는데요. "See-through"는 SDXL과 깊이 추정 모델을 활용해 이 과정을 한 번에 해결해 줍니다.
 
-“컴퓨터가 인스타그램이나 구글에서 광고 캠페인을 운영하고, SEO 도구와 통합해 새로운 사용자를 찾으며, 결제 서비스인 Stripe와 연동해 비용을 청구하는 모든 과정을 자동으로 처리할 수 있습니다”라고 설명했습니다.
+물론 당장 캐릭터가 움직이는 결과물이 나오는 것은 아니지만, 애니메이터들이 가장 고통스러워하던 '레이어 분리와 빈 공간 채우기'라는 엄청난 수작업을 순식간에 자동화해 줍니다.
 
-“비즈니스 운영자가 나파에서 와인을 마시며 낮잠을 자는 동안에도 AI가 모든 것을 처리하는 것, 그것이 우리가 꿈꾸는 미래입니다”</description><pubDate>Tue, 31 Mar 2026 08:32:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWis75vDxhI</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=-JBhTBu9ZbA</title><link>https://www.threads.net/@choi.openai/post/DWis-Vaj73g</link><description>풀영상 :
-https://www.youtube.com/watch?v=-JBhTBu9ZbA</description><pubDate>Tue, 31 Mar 2026 08:32:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWis-Vaj73g</guid></item><item><title>월 200달러를 내는 Claude Max 사용자들조차 단 20분 만에 사용량 제한에 걸리며 불만이 폭주하고 있습니다.
+기존의 단순한 이미지 분할 수준을 넘어 이미지의 깊이와 맥락을 파악해 완성한다는 점이 정말 놀랍습니다.</description><pubDate>Tue, 31 Mar 2026 13:29:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjOwIQmcUR</guid></item><item><title>깃허브 :
+https://github.com/shitagaki-lab/see-through</title><link>https://www.threads.net/@choi.openai/post/DWjO9N_E8vY</link><description>깃허브 :
+https://github.com/shitagaki-lab/see-through</description><pubDate>Tue, 31 Mar 2026 13:29:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjO9N_E8vY</guid></item><item><title>와… 개발자 커뮤니티의 속도는 정말 상상을 초월합니다.
 
-최근 Claude Cod...</title><link>https://www.threads.net/@choi.openai/post/DWikmMrjy7E</link><description>월 200달러를 내는 Claude Max 사용자들조차 단 20분 만에 사용량 제한에 걸리며 불만이 폭주하고 있습니다.
+Claude Code의 소스 코드가 유출된 지 불과 몇 시간 만에, 이를 완벽하게 분석...</title><link>https://www.threads.net/@choi.openai/post/DWjLsrLCsdg</link><description>와… 개발자 커뮤니티의 속도는 정말 상상을 초월합니다.
 
-최근 Claude Code 내부에서 프롬프트 캐싱을 무효화하는 버그가 발견되면서, 대화 중 특정 조건이 맞물리면 캐시가 깨지면서 토큰 소모량이 최대 20배까지 폭증해 할당량을 순식간에 사라지는 버그가 발생하고 있는데요.
+Claude Code의 소스 코드가 유출된 지 불과 몇 시간 만에, 이를 완벽하게 분석한 전용 문서 페이지가 등장했습니다.
 
-앤트로픽 측은 예상치 못한 문제라며 원인 파악에 나섰지만, 참다못한 사용자들은 이미 제한이 덜한 Codex로 대거 이탈하고 있습니다.
+해당 에이전트의 파이프라인 구조부터 컨텍스트와 메모리를 어떻게 처리하는지 핵심 작동 원리를 낱낱이 파헤쳐 정리되어있는데요.
+심지어 AGI의 비밀이 80만 줄의 타입스크립트(TypeScript) 조건문이었다는 우스갯소리까지 커뮤니티에서 돌고 있죠.
 
-이제 AI 모델들의 성능이 비슷해지면서, 시스템 안정성이나 사용 경험이 조금만 무너져도 사람들은 언제든 다른 대안으로 즉각 넘어가는 행보를 보여주고 있습니다.</description><pubDate>Tue, 31 Mar 2026 07:19:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWikmMrjy7E</guid></item><item><title>드디어 어도비가 일러스트레이터에 "Turntable" 기능을 공식 배포했습니다.
+여기서 주목해야 할 점은 코드가 뚫렸다는 사실보다, 정보가 풀리자마자 무서운 속도로 해체하고 흡수해버리는 집단 지성의 힘입니다.
+앤트로픽이 숨기려 했던 아키텍처는 이제 하루아침에 전 세계 에이전트 개발자들의 가장 훌륭한 교과서가 되어버렸습니다.</description><pubDate>Tue, 31 Mar 2026 13:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjLsrLCsdg</guid></item><item><title>주소 :
+https://www.mintlify.com/VineeTagarwaL-code/claude-code/concepts/how-it-wor...</title><link>https://www.threads.net/@choi.openai/post/DWjLuj3ijcy</link><description>주소 :
+https://www.mintlify.com/VineeTagarwaL-code/claude-code/concepts/how-it-works</description><pubDate>Tue, 31 Mar 2026 13:01:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjLuj3ijcy</guid></item><item><title>앤트로픽의 Claude Code가 유출되는 초유의 사태가 발생했습니다.
 
-평면적인 2D 벡터 아트를 3D 공간에서 회전시킬 수 있는 기...</title><link>https://www.threads.net/@choi.openai/post/DWiZTxTD_t7</link><description>드디어 어도비가 일러스트레이터에 "Turntable" 기능을 공식 배포했습니다.
+특히, 백그라운드 에이전트, 멀티 에이전트, 메모리 구조, 권한 자동 ...</title><link>https://www.threads.net/@choi.openai/post/DWjFDFTj_3g</link><description>앤트로픽의 Claude Code가 유출되는 초유의 사태가 발생했습니다.
 
-평면적인 2D 벡터 아트를 3D 공간에서 회전시킬 수 있는 기능으로, 슬라이더만 드래그하면 새로 그릴 필요 없이 회전된 모든 프레임을 캔버스에 바로 배치할 수 있습니다.
-특히 많은 프레임이 필요한 게임 디자인이나 애니메이션 제작자들에게 엄청난 시간을 아껴줄 기능으로 보입니다.
+특히, 백그라운드 에이전트, 멀티 에이전트, 메모리 구조, 권한 자동 승인까지 공개 로드맵보다 훨씬 앞선 내용들이 많았는데요.
 
-물론 각도를 돌릴 때 가방 같은 세부 요소가 조금씩 변하는 등 일관성 측면에서 아직 아쉬운 부분은 존재합니다.
-하지만 가장 일관된 프레임들을 골라 AI로 보간하는 방식으로 충분히 실무에 보완 적용이 가능하며, 해당 기능 자체도 빠르게 개선될 예정이라고 합니다.</description><pubDate>Tue, 31 Mar 2026 05:40:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWiZTxTD_t7</guid></item><item><title>Nous Research가 Hermes Agent v0.6.0 버전을 공개했습니다.
+Claude Code 유출본을 통해 10배의 생산성을 내는 진짜 사용법과 향후 업데이트될 충격적인 기능들을 핵심 포인트로 종합하여 정리했습니다. 🧵</description><pubDate>Tue, 31 Mar 2026 12:02:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjFDFTj_3g</guid></item><item><title>1/ 2026년 3월 31일, 앤트로픽의 실수로 npm에 Claude Code의 전체 소스 코드(cli.js.map)가 유출되는 사태가 발생했습...</title><link>https://www.threads.net/@choi.openai/post/DWjFDdLjzDh</link><description>1/ 2026년 3월 31일, 앤트로픽의 실수로 npm에 Claude Code의 전체 소스 코드(cli.js.map)가 유출되는 사태가 발생했습니다.
 
-가장 눈에 띄는 건 'Profiles' 기능으로, 하나의 ...</title><link>https://www.threads.net/@choi.openai/post/DWiOPnxFOfY</link><description>Nous Research가 Hermes Agent v0.6.0 버전을 공개했습니다.
+수많은 개발자들이 분석한 30MB 분량의 이 소스 코드는, 우리가 Claude Code를 얼마나 단편적으로만 사용하고 있었는지 적나라하게 보여줍니다.</description><pubDate>Tue, 31 Mar 2026 12:02:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjFDdLjzDh</guid></item><item><title>2/ 대부분의 사용자가 비워두거나 무시하는 CLAUDE.md 파일은 사실 가장 강력한 설정 도구입니다.
 
-가장 눈에 띄는 건 'Profiles' 기능으로, 하나의 환경에서 여러 개의 독립된 에이전트 인스턴스를 동시에 운영할 수 있게 되었습니다.
-여기에 MCP 서버 모드, Docker 컨테이너 지원, 텔레그램 웹훅, 장애 시 자동으로 다음 제공자로 넘어가는 폴백 기능까지 추가되어 실무 도입이 훨씬 수월해졌습니다.
+소스 코드에 따르면, Claude Co...</title><link>https://www.threads.net/@choi.openai/post/DWjFD_Aj1NF</link><description>2/ 대부분의 사용자가 비워두거나 무시하는 CLAUDE.md 파일은 사실 가장 강력한 설정 도구입니다.
 
-더욱 화제가 된 것은 내장된 ascii-video 스킬입니다.
-무엇보다 공식 X 계정에 올라온 화려한 릴리스 영상조차 내장된 "ascii-video" 스킬을 활용해 해당 에이전트가 스스로 만들었다는 사실이 사람들을 놀라게 하고 있습니다.
+소스 코드에 따르면, Claude Code는 세션 시작 시 한 번이 아니라 세션 컨텍스트에 강하게 주입되고, compaction이나 캐시 무효화 시점에 다시 로드되는 구조입니다.
 
-이제 오픈소스 에이전트 기술은 개발 도구와 깊숙이 연동되는 것을 넘어, 미디어 창작까지 능숙하게 제어하는 플랫폼으로 빠르게 진화하고 있습니다.</description><pubDate>Tue, 31 Mar 2026 04:07:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWiOPnxFOfY</guid></item></channel></rss>
+최대 4만 자까지 허용되는 이 파일에 프로젝트의 아키텍처, 파일 규칙, 테스트 패턴, 절대 해서는 안 될 금지 사항 등을 적어두면, Claude Code는 '나의 코드베이스를 완벽히 이해하는 맞춤형 비서'로 탈바꿈합니다.</description><pubDate>Tue, 31 Mar 2026 12:03:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjFD_Aj1NF</guid></item><item><title>3/ 가장 충격적인 발견 중 하나는 '병렬 처리'의 비밀입니다.
+
+Claude Code가 서브에이전트(Subagent)를 분기(Fork)할 때,...</title><link>https://www.threads.net/@choi.openai/post/DWjFEiKjwic</link><description>3/ 가장 충격적인 발견 중 하나는 '병렬 처리'의 비밀입니다.
+
+Claude Code가 서브에이전트(Subagent)를 분기(Fork)할 때, 부모 컨텍스트의 바이트 단위까지 완벽하게 동일한 복사본을 생성하여 API 캐시(Prompt cache)를 공유합니다.
+
+즉, 하나의 에이전트에게 보안 감사를, 다른 하나에게 리팩토링을, 또 다른 하나에게 테스트 작성을 동시에 지시하더라도 캐시를 공유하기 때문에 1개의 에이전트를 쓰는 것과 비용이 거의 같습니다.
+
+싱글 스레드처럼 한 번에 하나씩만 일하게 두는 것은 이 구조적 장점을 완전히 낭비하는 셈입니다.</description><pubDate>Tue, 31 Mar 2026 12:03:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjFEiKjwic</guid></item></channel></rss>
