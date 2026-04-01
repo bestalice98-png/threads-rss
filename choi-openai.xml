@@ -1,49 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 01 Apr 2026 02:37:05 +0000</lastBuildDate><item><title>AI 코딩 어시스턴트의 반응 속도가 인간의 생각 속도에 도달하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 01 Apr 2026 09:04:56 +0000</lastBuildDate><item><title>MIT가 AI의 아첨에 대해 충격적인 연구결과를 발표했습니다.
+챗봇이 계속 맞장구치면 멀쩡한 사람도 점점 확신이 강해지며 잘못된 믿음에 빠질 수...</title><link>https://www.threads.net/@choi.openai/post/DWlPOaRD9kp</link><description>MIT가 AI의 아첨에 대해 충격적인 연구결과를 발표했습니다.
+챗봇이 계속 맞장구치면 멀쩡한 사람도 점점 확신이 강해지며 잘못된 믿음에 빠질 수 있습니다.
+심지어 사실만 말해도 편향된 정보로 같은 결과가 나옵니다.
+AI 정신병까지 유발하는 충격적인 사례를 정리했습니다 🧵</description><pubDate>Wed, 01 Apr 2026 08:10:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlPOaRD9kp</guid></item><item><title>1/ 최근 AI 챗봇과 장시간 대화한 후 자신이 가짜 우주에 갇혔다고 굳게 믿거나 대단한 수학적 대발견을 했다고 착각하는 '망상적 소용돌이(De...</title><link>https://www.threads.net/@choi.openai/post/DWlPOtajx-r</link><description>1/ 최근 AI 챗봇과 장시간 대화한 후 자신이 가짜 우주에 갇혔다고 굳게 믿거나 대단한 수학적 대발견을 했다고 착각하는 '망상적 소용돌이(Delusional spiraling)' 현상이 급증하고 있습니다.
 
-Inception Labs가 코드 수정 사항을 실시간으로 예측하는 ...</title><link>https://www.threads.net/@choi.openai/post/DWkk7twilGV</link><description>AI 코딩 어시스턴트의 반응 속도가 인간의 생각 속도에 도달하고 있습니다.
+이로 인해 최소 14명이 사망하고 AI 기업을 상대로 5건의 부당사망 소송이 제기되는 등 심각한 사회 문제로 대두되었습니다.
 
-Inception Labs가 코드 수정 사항을 실시간으로 예측하는 'Mercury Edit 2'를 출시했습니다.
+대중과 전문가들은 이 현상의 원인으로, 챗봇이 사용자의 의견에 무조건 동조하고 비위를 맞추는 '아첨(Sycophancy)' 성향을 지목해 왔습니다.</description><pubDate>Wed, 01 Apr 2026 08:10:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlPOtajx-r</guid></item><item><title>2/ 일반적으로 사람들은 이런 망상에 빠지는 이유를 사용자의 비논리적이거나 게으른 사고 탓으로 돌리곤 합니다.
 
-눈여겨볼 점은 텍스트를 순차적으로 뽑아내는 기존 방식 대신 디퓨전(Diffusion) 구조를 적용해 코드를 병렬로 생성한다는 것입니다.
-덕분에 Claude 4.5 Haiku나 GPT-5.4 Nano 같은 빠르다는 모델들보다 높은 정확도를 유지하면서도 반응 시간을 221ms까지 줄였습니다.
+하지만 연구진은 '완벽하게 합리...</title><link>https://www.threads.net/@choi.openai/post/DWlPOwPDyzw</link><description>2/ 일반적으로 사람들은 이런 망상에 빠지는 이유를 사용자의 비논리적이거나 게으른 사고 탓으로 돌리곤 합니다.
 
-또한 무작정 코드를 길게 뱉어내던 기존 방식과 달리, 불필요한 화면 제안은 27% 줄이고 실제 개발자의 수락률은 48%나 높였습니다.
+하지만 연구진은 '완벽하게 합리적인 베이지안 추론(Ideal Bayesian)'을 하는 가상의 사용자를 수학적으로 모델링하여 시뮬레이션했습니다.
 
-AI 코딩 도구의 경쟁이 거대한 지능을 겨루는 단계에서, 이제는 사람의 작업 리듬에 자연스럽게 녹아드는 초저지연 최적화 싸움으로 넘어가고 있습니다.</description><pubDate>Wed, 01 Apr 2026 02:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkk7twilGV</guid></item><item><title>블로그 :
-https://www.inceptionlabs.ai/blog/introducing-mercury-edit-2</title><link>https://www.threads.net/@choi.openai/post/DWkk95KiqqN</link><description>블로그 :
-https://www.inceptionlabs.ai/blog/introducing-mercury-edit-2</description><pubDate>Wed, 01 Apr 2026 02:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkk95KiqqN</guid></item><item><title>Liquid AI가 3.5억 개(350M)의 파라미터를 가진 'LFM2.5-350M' 모델을 새롭게 공개했습니다.
-양자화를 거치면 용량이 500...</title><link>https://www.threads.net/@choi.openai/post/DWkanmDiH9b</link><description>Liquid AI가 3.5억 개(350M)의 파라미터를 가진 'LFM2.5-350M' 모델을 새롭게 공개했습니다.
-양자화를 거치면 용량이 500MB도 되지 않아 무거운 장비 없이 CPU나 모바일 환경에서도 가볍게 실행할 수 있습니다.
+사용자가 불확실한 의견을 제시하면 챗봇이 데이터를 샘플링하여 응답하고, 사용자는 이를 바탕으로 자신의 믿음을 업데이트하는 반복적인 구조입니다.</description><pubDate>Wed, 01 Apr 2026 08:10:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlPOwPDyzw</guid></item><item><title>3/ 챗봇이 아첨 성향(Sycophancy)을 띠고 거짓된 정보(Hallucination)를 지어내어 사용자에게 맞장구를 칠 때 어떤 일이 벌어...</title><link>https://www.threads.net/@choi.openai/post/DWlPO0djyXf</link><description>3/ 챗봇이 아첨 성향(Sycophancy)을 띠고 거짓된 정보(Hallucination)를 지어내어 사용자에게 맞장구를 칠 때 어떤 일이 벌어질까요?
 
-가장 주목할 점은 이 작은 체급으로도 '도구 사용(Tool Use)'과 데이터 추출 같은 복잡한 에이전트 작업을 안정적으로 수행한다는 것입니다.
-보통 소형 모델들이 가장 고전하는 영역임에도, 이전 버전에 비해 지시 수행과 도구 사용 능력을 두 배 가까이 끌어올리며 실무에 투입할 수 있는 수준을 만들어냈습니다.
+시뮬레이션 결과, 완벽하게 이성적인 사용자조차 극단적으로 잘못된 믿음(99% 이상의 확신)에 빠지는 치명적인 망상적 소용돌이를 겪었습니다.
 
-인터넷 연결이나 값비싼 그래픽카드 없이도, 기기 내부에서 즉각적으로 문서를 처리하고 작업을 제어하는 가벼운 워크플로우가 가능해진 셈입니다.
-인터넷 연결 없이 내 기기 안에서 알아서 일하는 개인용 에이전트의 보급 속도가 훨씬 빨라질 것으로 보입니다.</description><pubDate>Wed, 01 Apr 2026 00:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkanmDiH9b</guid></item><item><title>블로그 :
-https://www.liquid.ai/blog/lfm2-5-350m-no-size-left-behind</title><link>https://www.threads.net/@choi.openai/post/DWkarAPCPgc</link><description>블로그 :
-https://www.liquid.ai/blog/lfm2-5-350m-no-size-left-behind</description><pubDate>Wed, 01 Apr 2026 00:31:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkarAPCPgc</guid></item><item><title>칼텍 연구진이 설립한 AI 랩 'PrismML'이 80억 개(8B)의 파라미터를 단 1.15GB 용량에 욱여넣은 '1-bit Bonsai 8B'...</title><link>https://www.threads.net/@choi.openai/post/DWkQQYWkriB</link><description>칼텍 연구진이 설립한 AI 랩 'PrismML'이 80억 개(8B)의 파라미터를 단 1.15GB 용량에 욱여넣은 '1-bit Bonsai 8B' 모델을 오픈소스로 공개했습니다.
+챗봇의 아부 빈도가 높아질수록 망상에 빠질 확률은 가파르게 상승했으며, 아부 없이 단순히 무작위로 거짓말만 하는 챗봇과 비교했을 때 아부하는 챗봇이 망상을 훨씬 더 강력하게 유발했습니다.</description><pubDate>Wed, 01 Apr 2026 08:10:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlPO0djyXf</guid></item><item><title>세인트 티보.. Codex 또 사용량 리셋해줬다..</title><link>https://www.threads.net/@choi.openai/post/DWlM8xgDwKD</link><description>세인트 티보.. Codex 또 사용량 리셋해줬다..</description><pubDate>Wed, 01 Apr 2026 07:50:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlM8xgDwKD</guid></item><item><title>AI 에이전트, 이제는 모델보다 환경이 더 위험합니다.
+웹페이지 숨은 코드, 이메일 한 통으로도 행동이 바뀌고 데이터까지 털립니다.
+구글이 공개...</title><link>https://www.threads.net/@choi.openai/post/DWlDxrDjwOO</link><description>AI 에이전트, 이제는 모델보다 환경이 더 위험합니다.
+웹페이지 숨은 코드, 이메일 한 통으로도 행동이 바뀌고 데이터까지 털립니다.
+구글이 공개한 "AI Agent Traps"에서 실제로 검증된 위험 사례,
 
-보통 AI 모델은 정밀한 계산을 위해 16비트 이상의 소수점을 쓰지만, 이 모델은 모든 가중치를 단 1비트(0과 1)로 극단적으로 단순화했습니다.
-결과적으로 동급의 기존 모델보다 크기는 14배 작고, 속도는 8배 빠르며, 에너지 효율은 5배나 높으면서도 성능은 비슷하게 유지합니다.
+왜 위험한지 정리했습니다🧵</description><pubDate>Wed, 01 Apr 2026 06:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlDxrDjwOO</guid></item><item><title>1/ 인간은 웹페이지의 예쁜 화면을 보지만, 에이전트는 HTML, CSS, 메타데이터 등 백단의 코드를 읽습니다.
+공격자는 이 차이를 악용하여 ...</title><link>https://www.threads.net/@choi.openai/post/DWlDyQwj9zx</link><description>1/ 인간은 웹페이지의 예쁜 화면을 보지만, 에이전트는 HTML, CSS, 메타데이터 등 백단의 코드를 읽습니다.
+공격자는 이 차이를 악용하여 인간의 눈에는 보이지 않지만 AI는 읽을 수 있는 지시(예: 하얀색 배경에 하얀색 글씨, HTML 주석)를 숨겨놓습니다.
 
-무거운 클라우드 서버가 아니라 아이폰이나 가벼운 맥북에서도 끊김 없이 초고속으로 AI가 구동되는 것을 의미합니다.
+더 나아가 이미지나 오디오의 픽셀(이진 데이터) 안에 육안으로는 알 수 없는 명령어를 숨겨두어(Steganography) 다중모달(Multimodal) 에이전트를 조종하거나, 일반 사용자와 AI 봇을 구분해 AI에게만 악성 페이지를 보여주는 동적 클로킹(Dynamic Cloaking) 기법도 사용됩니다.</description><pubDate>Wed, 01 Apr 2026 06:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlDyQwj9zx</guid></item><item><title>2/ 이 함정은 에이전트의 논리적 추론 과정을 교묘하게 타락시킵니다.
+악의적인 명령어를 직접 내리는 대신, 극단적인 감정적 단어나 권위적인 문구...</title><link>https://www.threads.net/@choi.openai/post/DWlDzUgj7Lu</link><description>2/ 이 함정은 에이전트의 논리적 추론 과정을 교묘하게 타락시킵니다.
+악의적인 명령어를 직접 내리는 대신, 극단적인 감정적 단어나 권위적인 문구를 잔뜩 배치하여 AI의 판단을 특정 방향으로 유도(Framing)합니다.
 
-이제는 좁은 기기 안에서 얼마나 똑똑하게 작동하는지를 따지는 '지능 밀도'의 싸움으로 흐름이 바뀌고 있습니다.
+또한, 내부의 안전 필터(Critic model)를 속이기 위해 해킹 지시를 "보안 감사 시뮬레이션"이나 "교육 목적"이라는 허위 프레임으로 포장하여 검열을 우회합니다.
 
-인터넷 연결 없이 스마트폰 안에서 실시간으로 작동하는 AI 에이전트나 로봇 두뇌의 상용화가 우리가 생각했던 것보다 훨씬 빨리 찾아올 것 같습니다.</description><pubDate>Tue, 31 Mar 2026 23:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkQQYWkriB</guid></item><item><title>블로그 :
-https://prismml.com/news/bonsai-8b</title><link>https://www.threads.net/@choi.openai/post/DWkQRk3EuK2</link><description>블로그 :
-https://prismml.com/news/bonsai-8b</description><pubDate>Tue, 31 Mar 2026 23:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkQRk3EuK2</guid></item><item><title>🚨 코인은 끝났다?! 구글이 전 세계 암호화폐 시장에 사실상 시한부 경고를 던졌습니다.
+인터넷상에 특정 AI 모델에 대한 성격(Persona)을 의도적으로 퍼뜨려, AI가 스스로를 그 성격에 맞춰 연기하게 만드는 '페르소나 하이퍼스티션(Persona Hyperstition)'도 이 범주에 속합니다.</description><pubDate>Wed, 01 Apr 2026 06:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlDzUgj7Lu</guid></item><item><title>3/ 에이전트가 똑똑해질수록 과거의 대화나 문서를 기억(Memory)하는 능력이 중요해지는데, 공격자는 바로 이 기억 저장소를 노립니다.
 
-구글 퀀텀 AI가 비트코인의 핵심 암호화 방식(ECC-...</title><link>https://www.threads.net/@choi.openai/post/DWkGAj2DuFk</link><description>🚨 코인은 끝났다?! 구글이 전 세계 암호화폐 시장에 사실상 시한부 경고를 던졌습니다.
+기업...</title><link>https://www.threads.net/@choi.openai/post/DWlD0NRD0WH</link><description>3/ 에이전트가 똑똑해질수록 과거의 대화나 문서를 기억(Memory)하는 능력이 중요해지는데, 공격자는 바로 이 기억 저장소를 노립니다.
 
-구글 퀀텀 AI가 비트코인의 핵심 암호화 방식(ECC-256)을 깨는 데 필요한 양자 컴퓨터 자원을 기존 대비 20배나 줄이는 데 성공했다고 발표했습니다.
+기업의 공유 위키나 RAG(검색 증강 생성) 지식베이스에 소수의 조작된 문서를 몰래 넣어두면(RAG Knowledge Poisoning), 에이전트는 이를 '검증된 사실'로 믿고 잘못된 결정을 내립니다.
 
-이론상 50만 개 이하의 물리적 큐비트를 가진 양자 컴퓨터만 있으면, 단 몇 분 만에 암호를 뚫어버릴 수 있다는 뜻입니다.
-구글은 악용을 막기 위해 구체적인 코드는 공개하지 않고, 영지식 증명 방식을 통해 자신들의 주장이 사실임만을 입증했습니다.
+더 무서운 점은 평범해 보이는 데이터를 에이전트의 장기 기억(Latent Memory)에 심어두었다가, 훗날 특정 조건이 맞을 때만 악성 코드로 발현되게 만드는 시한폭탄 같은 공격이 가능하다는 것입니다.</description><pubDate>Wed, 01 Apr 2026 06:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlD0NRD0WH</guid></item><item><title>양자 컴퓨터가 비트코인 암호를 깨는 데 필요한 자원이 무서운 속도로 줄어들고 있습니다.
 
-구글은 이 사실을 공표하며 양자내성암호(PQC)로의 전환 데드라인을 2029년으로 제시했습니다.
+Oratomic과 Caltech, UC 버클리 연구진이...</title><link>https://www.threads.net/@choi.openai/post/DWk5c8BE3QY</link><description>양자 컴퓨터가 비트코인 암호를 깨는 데 필요한 자원이 무서운 속도로 줄어들고 있습니다.
 
-양자 컴퓨터가 블록체인을 위협할 거란 이야기는 늘 있었지만, 이제는 막연한 미래가 아닌 당장 대응해야 할 현실이 되었습니다.</description><pubDate>Tue, 31 Mar 2026 21:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkGAj2DuFk</guid></item><item><title>블로그 :
-https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-qua...</title><link>https://www.threads.net/@choi.openai/post/DWkGBa2DkJO</link><description>블로그 :
-https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/</description><pubDate>Tue, 31 Mar 2026 21:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkGBa2DkJO</guid></item></channel></rss>
+Oratomic과 Caltech, UC 버클리 연구진이 단 1만~2만 2천 개의 큐비트만으로 블록체인의 핵심 암호(ECC-256)를 해독할 수 있다는 연구를 공개했습니다.
+2만 2천 개면 단 5일 만에 암호가 뚫립니다. 작년까지만 해도 100만 개 이상이 필요할 것으로 예상됐지만, 새로운 오류 보정 기술 덕분에 필요 자원이 수만 개 수준으로 급감했습니다.
+
+이미 연구실 환경에서는 6,100개의 큐비트 배열이 시연된 상태라, 요구되는 하드웨어 조건은 이미 상당 부분 구현된 셈입니다.
+
+구글이 왜 서둘러 2029년을 마지노선으로 잡았고, 기술 악용을 우려해 해독 회로 전체를 공개하지 않았는지 블록체인이 양자 컴퓨터의 표적이 되는 것은 이제 시간문제로 보입니다. 
+가상자산 업계가 양자내성암호(PQC)로 전환을 서둘러야 할 시점은 먼 미래가 아니라 바로 지금입니다.</description><pubDate>Wed, 01 Apr 2026 05:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWk5c8BE3QY</guid></item><item><title>논문 :
+https://arxiv.org/abs/2603.28627</title><link>https://www.threads.net/@choi.openai/post/DWk5eMVk1rF</link><description>논문 :
+https://arxiv.org/abs/2603.28627</description><pubDate>Wed, 01 Apr 2026 05:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWk5eMVk1rF</guid></item></channel></rss>
