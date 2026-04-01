@@ -1,48 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 31 Mar 2026 15:57:38 +0000</lastBuildDate><item><title>🚨 오픈AI의 Codex 에이전트의 전체 소스코드가 유출되었습니다.</title><link>https://www.threads.net/@choi.openai/post/DWjZZqiEU8l</link><description>🚨 오픈AI의 Codex 에이전트의 전체 소스코드가 유출되었습니다.</description><pubDate>Tue, 31 Mar 2026 15:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjZZqiEU8l</guid></item><item><title>만우절입니다. 원래부터 오픈소스입니다 🤣
-깃허브 :
-https://github.com/openai/codex</title><link>https://www.threads.net/@choi.openai/post/DWjZapuEUO-</link><description>만우절입니다. 원래부터 오픈소스입니다 🤣
-깃허브 :
-https://github.com/openai/codex</description><pubDate>Tue, 31 Mar 2026 15:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjZapuEUO-</guid></item><item><title>클로드 소식에 묻혔지만, 일러스트 한 장을 넣으면 머리카락, 옷, 장신구 등의 레이어를 자동으로 분리하고, 가려져 있던 뒷부분까지 알아서 그려서...</title><link>https://www.threads.net/@choi.openai/post/DWjOwIQmcUR</link><description>클로드 소식에 묻혔지만, 일러스트 한 장을 넣으면 머리카락, 옷, 장신구 등의 레이어를 자동으로 분리하고, 가려져 있던 뒷부분까지 알아서 그려서 포토샵 파일(PSD)로 뽑아주는 "See-through" 프로젝트가 드디어 오픈소스로 공개되었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 01 Apr 2026 02:37:05 +0000</lastBuildDate><item><title>AI 코딩 어시스턴트의 반응 속도가 인간의 생각 속도에 도달하고 있습니다.
 
-기존에 2D 캐릭터를 움직이는 작업을 하려면, 작업자가 일일이 이미지를 조각내고 뒤에 보이지 않는 배경이나 피부를 상상해서 덧그려야 하는 엄청난 단순 반복 노동이 필요했는데요. "See-through"는 SDXL과 깊이 추정 모델을 활용해 이 과정을 한 번에 해결해 줍니다.
+Inception Labs가 코드 수정 사항을 실시간으로 예측하는 ...</title><link>https://www.threads.net/@choi.openai/post/DWkk7twilGV</link><description>AI 코딩 어시스턴트의 반응 속도가 인간의 생각 속도에 도달하고 있습니다.
 
-물론 당장 캐릭터가 움직이는 결과물이 나오는 것은 아니지만, 애니메이터들이 가장 고통스러워하던 '레이어 분리와 빈 공간 채우기'라는 엄청난 수작업을 순식간에 자동화해 줍니다.
+Inception Labs가 코드 수정 사항을 실시간으로 예측하는 'Mercury Edit 2'를 출시했습니다.
 
-기존의 단순한 이미지 분할 수준을 넘어 이미지의 깊이와 맥락을 파악해 완성한다는 점이 정말 놀랍습니다.</description><pubDate>Tue, 31 Mar 2026 13:29:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjOwIQmcUR</guid></item><item><title>깃허브 :
-https://github.com/shitagaki-lab/see-through</title><link>https://www.threads.net/@choi.openai/post/DWjO9N_E8vY</link><description>깃허브 :
-https://github.com/shitagaki-lab/see-through</description><pubDate>Tue, 31 Mar 2026 13:29:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjO9N_E8vY</guid></item><item><title>와… 개발자 커뮤니티의 속도는 정말 상상을 초월합니다.
+눈여겨볼 점은 텍스트를 순차적으로 뽑아내는 기존 방식 대신 디퓨전(Diffusion) 구조를 적용해 코드를 병렬로 생성한다는 것입니다.
+덕분에 Claude 4.5 Haiku나 GPT-5.4 Nano 같은 빠르다는 모델들보다 높은 정확도를 유지하면서도 반응 시간을 221ms까지 줄였습니다.
 
-Claude Code의 소스 코드가 유출된 지 불과 몇 시간 만에, 이를 완벽하게 분석...</title><link>https://www.threads.net/@choi.openai/post/DWjLsrLCsdg</link><description>와… 개발자 커뮤니티의 속도는 정말 상상을 초월합니다.
+또한 무작정 코드를 길게 뱉어내던 기존 방식과 달리, 불필요한 화면 제안은 27% 줄이고 실제 개발자의 수락률은 48%나 높였습니다.
 
-Claude Code의 소스 코드가 유출된 지 불과 몇 시간 만에, 이를 완벽하게 분석한 전용 문서 페이지가 등장했습니다.
+AI 코딩 도구의 경쟁이 거대한 지능을 겨루는 단계에서, 이제는 사람의 작업 리듬에 자연스럽게 녹아드는 초저지연 최적화 싸움으로 넘어가고 있습니다.</description><pubDate>Wed, 01 Apr 2026 02:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkk7twilGV</guid></item><item><title>블로그 :
+https://www.inceptionlabs.ai/blog/introducing-mercury-edit-2</title><link>https://www.threads.net/@choi.openai/post/DWkk95KiqqN</link><description>블로그 :
+https://www.inceptionlabs.ai/blog/introducing-mercury-edit-2</description><pubDate>Wed, 01 Apr 2026 02:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkk95KiqqN</guid></item><item><title>Liquid AI가 3.5억 개(350M)의 파라미터를 가진 'LFM2.5-350M' 모델을 새롭게 공개했습니다.
+양자화를 거치면 용량이 500...</title><link>https://www.threads.net/@choi.openai/post/DWkanmDiH9b</link><description>Liquid AI가 3.5억 개(350M)의 파라미터를 가진 'LFM2.5-350M' 모델을 새롭게 공개했습니다.
+양자화를 거치면 용량이 500MB도 되지 않아 무거운 장비 없이 CPU나 모바일 환경에서도 가볍게 실행할 수 있습니다.
 
-해당 에이전트의 파이프라인 구조부터 컨텍스트와 메모리를 어떻게 처리하는지 핵심 작동 원리를 낱낱이 파헤쳐 정리되어있는데요.
-심지어 AGI의 비밀이 80만 줄의 타입스크립트(TypeScript) 조건문이었다는 우스갯소리까지 커뮤니티에서 돌고 있죠.
+가장 주목할 점은 이 작은 체급으로도 '도구 사용(Tool Use)'과 데이터 추출 같은 복잡한 에이전트 작업을 안정적으로 수행한다는 것입니다.
+보통 소형 모델들이 가장 고전하는 영역임에도, 이전 버전에 비해 지시 수행과 도구 사용 능력을 두 배 가까이 끌어올리며 실무에 투입할 수 있는 수준을 만들어냈습니다.
 
-여기서 주목해야 할 점은 코드가 뚫렸다는 사실보다, 정보가 풀리자마자 무서운 속도로 해체하고 흡수해버리는 집단 지성의 힘입니다.
-앤트로픽이 숨기려 했던 아키텍처는 이제 하루아침에 전 세계 에이전트 개발자들의 가장 훌륭한 교과서가 되어버렸습니다.</description><pubDate>Tue, 31 Mar 2026 13:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjLsrLCsdg</guid></item><item><title>주소 :
-https://www.mintlify.com/VineeTagarwaL-code/claude-code/concepts/how-it-wor...</title><link>https://www.threads.net/@choi.openai/post/DWjLuj3ijcy</link><description>주소 :
-https://www.mintlify.com/VineeTagarwaL-code/claude-code/concepts/how-it-works</description><pubDate>Tue, 31 Mar 2026 13:01:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjLuj3ijcy</guid></item><item><title>앤트로픽의 Claude Code가 유출되는 초유의 사태가 발생했습니다.
+인터넷 연결이나 값비싼 그래픽카드 없이도, 기기 내부에서 즉각적으로 문서를 처리하고 작업을 제어하는 가벼운 워크플로우가 가능해진 셈입니다.
+인터넷 연결 없이 내 기기 안에서 알아서 일하는 개인용 에이전트의 보급 속도가 훨씬 빨라질 것으로 보입니다.</description><pubDate>Wed, 01 Apr 2026 00:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkanmDiH9b</guid></item><item><title>블로그 :
+https://www.liquid.ai/blog/lfm2-5-350m-no-size-left-behind</title><link>https://www.threads.net/@choi.openai/post/DWkarAPCPgc</link><description>블로그 :
+https://www.liquid.ai/blog/lfm2-5-350m-no-size-left-behind</description><pubDate>Wed, 01 Apr 2026 00:31:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkarAPCPgc</guid></item><item><title>칼텍 연구진이 설립한 AI 랩 'PrismML'이 80억 개(8B)의 파라미터를 단 1.15GB 용량에 욱여넣은 '1-bit Bonsai 8B'...</title><link>https://www.threads.net/@choi.openai/post/DWkQQYWkriB</link><description>칼텍 연구진이 설립한 AI 랩 'PrismML'이 80억 개(8B)의 파라미터를 단 1.15GB 용량에 욱여넣은 '1-bit Bonsai 8B' 모델을 오픈소스로 공개했습니다.
 
-특히, 백그라운드 에이전트, 멀티 에이전트, 메모리 구조, 권한 자동 ...</title><link>https://www.threads.net/@choi.openai/post/DWjFDFTj_3g</link><description>앤트로픽의 Claude Code가 유출되는 초유의 사태가 발생했습니다.
+보통 AI 모델은 정밀한 계산을 위해 16비트 이상의 소수점을 쓰지만, 이 모델은 모든 가중치를 단 1비트(0과 1)로 극단적으로 단순화했습니다.
+결과적으로 동급의 기존 모델보다 크기는 14배 작고, 속도는 8배 빠르며, 에너지 효율은 5배나 높으면서도 성능은 비슷하게 유지합니다.
 
-특히, 백그라운드 에이전트, 멀티 에이전트, 메모리 구조, 권한 자동 승인까지 공개 로드맵보다 훨씬 앞선 내용들이 많았는데요.
+무거운 클라우드 서버가 아니라 아이폰이나 가벼운 맥북에서도 끊김 없이 초고속으로 AI가 구동되는 것을 의미합니다.
 
-Claude Code 유출본을 통해 10배의 생산성을 내는 진짜 사용법과 향후 업데이트될 충격적인 기능들을 핵심 포인트로 종합하여 정리했습니다. 🧵</description><pubDate>Tue, 31 Mar 2026 12:02:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjFDFTj_3g</guid></item><item><title>1/ 2026년 3월 31일, 앤트로픽의 실수로 npm에 Claude Code의 전체 소스 코드(cli.js.map)가 유출되는 사태가 발생했습...</title><link>https://www.threads.net/@choi.openai/post/DWjFDdLjzDh</link><description>1/ 2026년 3월 31일, 앤트로픽의 실수로 npm에 Claude Code의 전체 소스 코드(cli.js.map)가 유출되는 사태가 발생했습니다.
+이제는 좁은 기기 안에서 얼마나 똑똑하게 작동하는지를 따지는 '지능 밀도'의 싸움으로 흐름이 바뀌고 있습니다.
 
-수많은 개발자들이 분석한 30MB 분량의 이 소스 코드는, 우리가 Claude Code를 얼마나 단편적으로만 사용하고 있었는지 적나라하게 보여줍니다.</description><pubDate>Tue, 31 Mar 2026 12:02:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjFDdLjzDh</guid></item><item><title>2/ 대부분의 사용자가 비워두거나 무시하는 CLAUDE.md 파일은 사실 가장 강력한 설정 도구입니다.
+인터넷 연결 없이 스마트폰 안에서 실시간으로 작동하는 AI 에이전트나 로봇 두뇌의 상용화가 우리가 생각했던 것보다 훨씬 빨리 찾아올 것 같습니다.</description><pubDate>Tue, 31 Mar 2026 23:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkQQYWkriB</guid></item><item><title>블로그 :
+https://prismml.com/news/bonsai-8b</title><link>https://www.threads.net/@choi.openai/post/DWkQRk3EuK2</link><description>블로그 :
+https://prismml.com/news/bonsai-8b</description><pubDate>Tue, 31 Mar 2026 23:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkQRk3EuK2</guid></item><item><title>🚨 코인은 끝났다?! 구글이 전 세계 암호화폐 시장에 사실상 시한부 경고를 던졌습니다.
 
-소스 코드에 따르면, Claude Co...</title><link>https://www.threads.net/@choi.openai/post/DWjFD_Aj1NF</link><description>2/ 대부분의 사용자가 비워두거나 무시하는 CLAUDE.md 파일은 사실 가장 강력한 설정 도구입니다.
+구글 퀀텀 AI가 비트코인의 핵심 암호화 방식(ECC-...</title><link>https://www.threads.net/@choi.openai/post/DWkGAj2DuFk</link><description>🚨 코인은 끝났다?! 구글이 전 세계 암호화폐 시장에 사실상 시한부 경고를 던졌습니다.
 
-소스 코드에 따르면, Claude Code는 세션 시작 시 한 번이 아니라 세션 컨텍스트에 강하게 주입되고, compaction이나 캐시 무효화 시점에 다시 로드되는 구조입니다.
+구글 퀀텀 AI가 비트코인의 핵심 암호화 방식(ECC-256)을 깨는 데 필요한 양자 컴퓨터 자원을 기존 대비 20배나 줄이는 데 성공했다고 발표했습니다.
 
-최대 4만 자까지 허용되는 이 파일에 프로젝트의 아키텍처, 파일 규칙, 테스트 패턴, 절대 해서는 안 될 금지 사항 등을 적어두면, Claude Code는 '나의 코드베이스를 완벽히 이해하는 맞춤형 비서'로 탈바꿈합니다.</description><pubDate>Tue, 31 Mar 2026 12:03:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjFD_Aj1NF</guid></item><item><title>3/ 가장 충격적인 발견 중 하나는 '병렬 처리'의 비밀입니다.
+이론상 50만 개 이하의 물리적 큐비트를 가진 양자 컴퓨터만 있으면, 단 몇 분 만에 암호를 뚫어버릴 수 있다는 뜻입니다.
+구글은 악용을 막기 위해 구체적인 코드는 공개하지 않고, 영지식 증명 방식을 통해 자신들의 주장이 사실임만을 입증했습니다.
 
-Claude Code가 서브에이전트(Subagent)를 분기(Fork)할 때,...</title><link>https://www.threads.net/@choi.openai/post/DWjFEiKjwic</link><description>3/ 가장 충격적인 발견 중 하나는 '병렬 처리'의 비밀입니다.
+구글은 이 사실을 공표하며 양자내성암호(PQC)로의 전환 데드라인을 2029년으로 제시했습니다.
 
-Claude Code가 서브에이전트(Subagent)를 분기(Fork)할 때, 부모 컨텍스트의 바이트 단위까지 완벽하게 동일한 복사본을 생성하여 API 캐시(Prompt cache)를 공유합니다.
-
-즉, 하나의 에이전트에게 보안 감사를, 다른 하나에게 리팩토링을, 또 다른 하나에게 테스트 작성을 동시에 지시하더라도 캐시를 공유하기 때문에 1개의 에이전트를 쓰는 것과 비용이 거의 같습니다.
-
-싱글 스레드처럼 한 번에 하나씩만 일하게 두는 것은 이 구조적 장점을 완전히 낭비하는 셈입니다.</description><pubDate>Tue, 31 Mar 2026 12:03:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWjFEiKjwic</guid></item></channel></rss>
+양자 컴퓨터가 블록체인을 위협할 거란 이야기는 늘 있었지만, 이제는 막연한 미래가 아닌 당장 대응해야 할 현실이 되었습니다.</description><pubDate>Tue, 31 Mar 2026 21:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkGAj2DuFk</guid></item><item><title>블로그 :
+https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-qua...</title><link>https://www.threads.net/@choi.openai/post/DWkGBa2DkJO</link><description>블로그 :
+https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/</description><pubDate>Tue, 31 Mar 2026 21:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWkGBa2DkJO</guid></item></channel></rss>
