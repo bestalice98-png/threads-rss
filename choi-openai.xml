@@ -1,54 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 01 Apr 2026 09:04:56 +0000</lastBuildDate><item><title>MIT가 AI의 아첨에 대해 충격적인 연구결과를 발표했습니다.
-챗봇이 계속 맞장구치면 멀쩡한 사람도 점점 확신이 강해지며 잘못된 믿음에 빠질 수...</title><link>https://www.threads.net/@choi.openai/post/DWlPOaRD9kp</link><description>MIT가 AI의 아첨에 대해 충격적인 연구결과를 발표했습니다.
-챗봇이 계속 맞장구치면 멀쩡한 사람도 점점 확신이 강해지며 잘못된 믿음에 빠질 수 있습니다.
-심지어 사실만 말해도 편향된 정보로 같은 결과가 나옵니다.
-AI 정신병까지 유발하는 충격적인 사례를 정리했습니다 🧵</description><pubDate>Wed, 01 Apr 2026 08:10:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlPOaRD9kp</guid></item><item><title>1/ 최근 AI 챗봇과 장시간 대화한 후 자신이 가짜 우주에 갇혔다고 굳게 믿거나 대단한 수학적 대발견을 했다고 착각하는 '망상적 소용돌이(De...</title><link>https://www.threads.net/@choi.openai/post/DWlPOtajx-r</link><description>1/ 최근 AI 챗봇과 장시간 대화한 후 자신이 가짜 우주에 갇혔다고 굳게 믿거나 대단한 수학적 대발견을 했다고 착각하는 '망상적 소용돌이(Delusional spiraling)' 현상이 급증하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 01 Apr 2026 16:00:37 +0000</lastBuildDate><item><title>이제 AI가 인류의 미해결 난제를 푸는 게 일상이 되어가고 있습니다.
 
-이로 인해 최소 14명이 사망하고 AI 기업을 상대로 5건의 부당사망 소송이 제기되는 등 심각한 사회 문제로 대두되었습니다.
+오픈AI의 내부 모델이 전설적인 수학자 에르되시(Erdős)가 남긴 3개...</title><link>https://www.threads.net/@choi.openai/post/DWl-LYkitOU</link><description>이제 AI가 인류의 미해결 난제를 푸는 게 일상이 되어가고 있습니다.
 
-대중과 전문가들은 이 현상의 원인으로, 챗봇이 사용자의 의견에 무조건 동조하고 비위를 맞추는 '아첨(Sycophancy)' 성향을 지목해 왔습니다.</description><pubDate>Wed, 01 Apr 2026 08:10:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlPOtajx-r</guid></item><item><title>2/ 일반적으로 사람들은 이런 망상에 빠지는 이유를 사용자의 비논리적이거나 게으른 사고 탓으로 돌리곤 합니다.
+오픈AI의 내부 모델이 전설적인 수학자 에르되시(Erdős)가 남긴 3개의 수학 문제를 새롭게 해결했습니다.
+특히 인간 수학자도 감탄할 만큼 짧고 우아한 증명 과정을 제시했다는 점이 가장 주목할 부분입니다.
 
-하지만 연구진은 '완벽하게 합리...</title><link>https://www.threads.net/@choi.openai/post/DWlPOwPDyzw</link><description>2/ 일반적으로 사람들은 이런 망상에 빠지는 이유를 사용자의 비논리적이거나 게으른 사고 탓으로 돌리곤 합니다.
+같은 날 GPT-5.4 기반 에이전트 시스템이 2주간 작동하여 FrontierMath의 미해결 문제를 해결했다는 소식도 함께 전해졌는데요.
+과거 AI를 두고 그저 데이터를 짜깁기하는 '자동완성' 도구라며 폄하하던 시각은 이제 완전히 끝났습니다.
 
-하지만 연구진은 '완벽하게 합리적인 베이지안 추론(Ideal Bayesian)'을 하는 가상의 사용자를 수학적으로 모델링하여 시뮬레이션했습니다.
+이제 AI는 기존 지식을 학습하고 대답하는 단계를 넘어, 인간이 미처 닿지 못한 새로운 수학적 지식을 직접 창출해 내는 본격적인 연구 파트너로 진입하고 있습니다.</description><pubDate>Wed, 01 Apr 2026 15:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWl-LYkitOU</guid></item><item><title>논문 :
+https://arxiv.org/pdf/2603.29961</title><link>https://www.threads.net/@choi.openai/post/DWl-NURCqav</link><description>논문 :
+https://arxiv.org/pdf/2603.29961</description><pubDate>Wed, 01 Apr 2026 15:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWl-NURCqav</guid></item><item><title>Tongyi Lab에서 이미지 생성 및 편집 통합 모델인 "Wan 2.7-Image"를 새롭게 공개했습니다. 
 
-사용자가 불확실한 의견을 제시하면 챗봇이 데이터를 샘플링하여 응답하고, 사용자는 이를 바탕으로 자신의 믿음을 업데이트하는 반복적인 구조입니다.</description><pubDate>Wed, 01 Apr 2026 08:10:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlPOwPDyzw</guid></item><item><title>3/ 챗봇이 아첨 성향(Sycophancy)을 띠고 거짓된 정보(Hallucination)를 지어내어 사용자에게 맞장구를 칠 때 어떤 일이 벌어...</title><link>https://www.threads.net/@choi.openai/post/DWlPO0djyXf</link><description>3/ 챗봇이 아첨 성향(Sycophancy)을 띠고 거짓된 정보(Hallucination)를 지어내어 사용자에게 맞장구를 칠 때 어떤 일이 벌어질까요?
+이번 업데이트에서 가장 눈여겨볼...</title><link>https://www.threads.net/@choi.openai/post/DWlzaGPjwJz</link><description>Tongyi Lab에서 이미지 생성 및 편집 통합 모델인 "Wan 2.7-Image"를 새롭게 공개했습니다. 
 
-시뮬레이션 결과, 완벽하게 이성적인 사용자조차 극단적으로 잘못된 믿음(99% 이상의 확신)에 빠지는 치명적인 망상적 소용돌이를 겪었습니다.
+이번 업데이트에서 가장 눈여겨볼 점은 실무 수준의 정밀한 통제력입니다. 최대 8개의 헥스(Hex) 코드를 입력해 브랜드에 맞는 정확한 색감을 지정할 수 있고, 다국어 텍스트와 수식을 이미지 안에 오류 없이 렌더링합니다.
 
-챗봇의 아부 빈도가 높아질수록 망상에 빠질 확률은 가파르게 상승했으며, 아부 없이 단순히 무작위로 거짓말만 하는 챗봇과 비교했을 때 아부하는 챗봇이 망상을 훨씬 더 강력하게 유발했습니다.</description><pubDate>Wed, 01 Apr 2026 08:10:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlPO0djyXf</guid></item><item><title>세인트 티보.. Codex 또 사용량 리셋해줬다..</title><link>https://www.threads.net/@choi.openai/post/DWlM8xgDwKD</link><description>세인트 티보.. Codex 또 사용량 리셋해줬다..</description><pubDate>Wed, 01 Apr 2026 07:50:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlM8xgDwKD</guid></item><item><title>AI 에이전트, 이제는 모델보다 환경이 더 위험합니다.
-웹페이지 숨은 코드, 이메일 한 통으로도 행동이 바뀌고 데이터까지 털립니다.
-구글이 공개...</title><link>https://www.threads.net/@choi.openai/post/DWlDxrDjwOO</link><description>AI 에이전트, 이제는 모델보다 환경이 더 위험합니다.
-웹페이지 숨은 코드, 이메일 한 통으로도 행동이 바뀌고 데이터까지 털립니다.
-구글이 공개한 "AI Agent Traps"에서 실제로 검증된 위험 사례,
+여기에 더해 최대 9장의 참조 이미지를 바탕으로 캐릭터의 일관성을 꽉 잡은 채, 최대 12장의 연속된 컷을 한 번에 뽑아낼 수 있습니다.
+생성 후에도 특정 부분만 콕 집어 수정하거나 투명 PNG로 배경을 분리하는 세밀한 편집까지 지원하는데요.
 
-왜 위험한지 정리했습니다🧵</description><pubDate>Wed, 01 Apr 2026 06:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlDxrDjwOO</guid></item><item><title>1/ 인간은 웹페이지의 예쁜 화면을 보지만, 에이전트는 HTML, CSS, 메타데이터 등 백단의 코드를 읽습니다.
-공격자는 이 차이를 악용하여 ...</title><link>https://www.threads.net/@choi.openai/post/DWlDyQwj9zx</link><description>1/ 인간은 웹페이지의 예쁜 화면을 보지만, 에이전트는 HTML, CSS, 메타데이터 등 백단의 코드를 읽습니다.
-공격자는 이 차이를 악용하여 인간의 눈에는 보이지 않지만 AI는 읽을 수 있는 지시(예: 하얀색 배경에 하얀색 글씨, HTML 주석)를 숨겨놓습니다.
+웹 디자인, 스토리보드, 쇼핑몰 상세 페이지 등 실제 상업 콘텐츠 제작 속도가 또 한 번 무섭게 앞당겨질 것으로 보입니다.</description><pubDate>Wed, 01 Apr 2026 13:26:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlzaGPjwJz</guid></item><item><title>주소 :
+https://wan.video/</title><link>https://www.threads.net/@choi.openai/post/DWlzbNAD1aR</link><description>주소 :
+https://wan.video/</description><pubDate>Wed, 01 Apr 2026 13:26:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlzbNAD1aR</guid></item><item><title>🚨 와.. Claude Code CLI 유출본까지 완벽 정리했습니다.
+개인부터 기업 하네스 엔지니어링까지 모든 것을 정리했습니다
 
-더 나아가 이미지나 오디오의 픽셀(이진 데이터) 안에 육안으로는 알 수 없는 명령어를 숨겨두어(Steganography) 다중모달(Multimodal) 에이전트를 조종하거나, 일반 사용자와 AI 봇을 구분해 AI에게만 악성 페이지를 보여주는 동적 클로킹(Dynamic Cloaking) 기법도 사용됩니다.</description><pubDate>Wed, 01 Apr 2026 06:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlDyQwj9zx</guid></item><item><title>2/ 이 함정은 에이전트의 논리적 추론 과정을 교묘하게 타락시킵니다.
-악의적인 명령어를 직접 내리는 대신, 극단적인 감정적 단어나 권위적인 문구...</title><link>https://www.threads.net/@choi.openai/post/DWlDzUgj7Lu</link><description>2/ 이 함정은 에이전트의 논리적 추론 과정을 교묘하게 타락시킵니다.
-악의적인 명령어를 직접 내리는 대신, 극단적인 감정적 단어나 권위적인 문구를 잔뜩 배치하여 AI의 판단을 특정 방향으로 유도(Framing)합니다.
+댓글에 "하네...</title><link>https://www.threads.net/@choi.openai/post/DWlphmWj9po</link><description>🚨 와.. Claude Code CLI 유출본까지 완벽 정리했습니다.
+개인부터 기업 하네스 엔지니어링까지 모든 것을 정리했습니다
 
-또한, 내부의 안전 필터(Critic model)를 속이기 위해 해킹 지시를 "보안 감사 시뮬레이션"이나 "교육 목적"이라는 허위 프레임으로 포장하여 검열을 우회합니다.
+댓글에 "하네스"라고 적으면 보내드리겠습니다.</description><pubDate>Wed, 01 Apr 2026 12:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlphmWj9po</guid></item><item><title>만우절이라 해봤습니다 그냥 받아가세요 :
+양이 많으니 그냥 개념부터 내 사례 적용까지 AI한테 물어보고 적용해보세요.
 
-인터넷상에 특정 AI 모델에 대한 성격(Persona)을 의도적으로 퍼뜨려, AI가 스스로를 그 성격에 맞춰 연기하게 만드는 '페르소나 하이퍼스티션(Persona Hyperstition)'도 이 범주에 속합니다.</description><pubDate>Wed, 01 Apr 2026 06:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlDzUgj7Lu</guid></item><item><title>3/ 에이전트가 똑똑해질수록 과거의 대화나 문서를 기억(Memory)하는 능력이 중요해지는데, 공격자는 바로 이 기억 저장소를 노립니다.
+https://drive...</title><link>https://www.threads.net/@choi.openai/post/DWlpiKDj5up</link><description>만우절이라 해봤습니다 그냥 받아가세요 :
+양이 많으니 그냥 개념부터 내 사례 적용까지 AI한테 물어보고 적용해보세요.
 
-기업...</title><link>https://www.threads.net/@choi.openai/post/DWlD0NRD0WH</link><description>3/ 에이전트가 똑똑해질수록 과거의 대화나 문서를 기억(Memory)하는 능력이 중요해지는데, 공격자는 바로 이 기억 저장소를 노립니다.
+https://drive.google.com/file/d/1ICHLFy7neXX0A11vOuuokOLZABAxWC-N/view?usp=sharing</description><pubDate>Wed, 01 Apr 2026 12:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlpiKDj5up</guid></item><item><title>AI 기업 H에서 컴퓨터 제어(Computer-use) 전문 모델 'Holo3'를 공개했습니다.
+OSWorld 벤치마크에서 GPT-5.4와 Cl...</title><link>https://www.threads.net/@choi.openai/post/DWlirc5Av6i</link><description>AI 기업 H에서 컴퓨터 제어(Computer-use) 전문 모델 'Holo3'를 공개했습니다.
+OSWorld 벤치마크에서 GPT-5.4와 Claude Opus 4.6을 뛰어넘으면서도 구동 비용은 10% 수준에 불과합니다. 35B 모델은 심지어 오픈소스로 공개되었습니다.
 
-기업의 공유 위키나 RAG(검색 증강 생성) 지식베이스에 소수의 조작된 문서를 몰래 넣어두면(RAG Knowledge Poisoning), 에이전트는 이를 '검증된 사실'로 믿고 잘못된 결정을 내립니다.
+해당 업체는 AI를 훈련시키기 위해 '가상의 회사 업무 환경'을 통째로 구축하여 AI가 직접 PDF 영수증을 찾아 읽고 예산과 대조한 뒤 승인 이메일까지 알아서 보내는 복잡한 실무를 무한히 반복 숙달시켰습니다.
 
-더 무서운 점은 평범해 보이는 데이터를 에이전트의 장기 기억(Latent Memory)에 심어두었다가, 훗날 특정 조건이 맞을 때만 악성 코드로 발현되게 만드는 시한폭탄 같은 공격이 가능하다는 것입니다.</description><pubDate>Wed, 01 Apr 2026 06:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlD0NRD0WH</guid></item><item><title>양자 컴퓨터가 비트코인 암호를 깨는 데 필요한 자원이 무서운 속도로 줄어들고 있습니다.
+지능 벤치마크가 점점 의미를 퇴색해져가는 지금, 실제 업무를 얼마나 저렴하게 AI 에이전트가 완벽하게 수행할 수 있는지가 중요해지는 시대입니다.
 
-Oratomic과 Caltech, UC 버클리 연구진이...</title><link>https://www.threads.net/@choi.openai/post/DWk5c8BE3QY</link><description>양자 컴퓨터가 비트코인 암호를 깨는 데 필요한 자원이 무서운 속도로 줄어들고 있습니다.
-
-Oratomic과 Caltech, UC 버클리 연구진이 단 1만~2만 2천 개의 큐비트만으로 블록체인의 핵심 암호(ECC-256)를 해독할 수 있다는 연구를 공개했습니다.
-2만 2천 개면 단 5일 만에 암호가 뚫립니다. 작년까지만 해도 100만 개 이상이 필요할 것으로 예상됐지만, 새로운 오류 보정 기술 덕분에 필요 자원이 수만 개 수준으로 급감했습니다.
-
-이미 연구실 환경에서는 6,100개의 큐비트 배열이 시연된 상태라, 요구되는 하드웨어 조건은 이미 상당 부분 구현된 셈입니다.
-
-구글이 왜 서둘러 2029년을 마지노선으로 잡았고, 기술 악용을 우려해 해독 회로 전체를 공개하지 않았는지 블록체인이 양자 컴퓨터의 표적이 되는 것은 이제 시간문제로 보입니다. 
-가상자산 업계가 양자내성암호(PQC)로 전환을 서둘러야 할 시점은 먼 미래가 아니라 바로 지금입니다.</description><pubDate>Wed, 01 Apr 2026 05:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWk5c8BE3QY</guid></item><item><title>논문 :
-https://arxiv.org/abs/2603.28627</title><link>https://www.threads.net/@choi.openai/post/DWk5eMVk1rF</link><description>논문 :
-https://arxiv.org/abs/2603.28627</description><pubDate>Wed, 01 Apr 2026 05:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWk5eMVk1rF</guid></item></channel></rss>
+오픈소스 진영 모델들의 발전이 빠르게 치고오르는 만큼 빅테크는 더 전문적이고 실제 수익을 만들 수 있는 영역에서의 가치를 증명해내야합니다.</description><pubDate>Wed, 01 Apr 2026 11:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlirc5Av6i</guid></item><item><title>블로그 :
+https://hcompany.ai/holo3</title><link>https://www.threads.net/@choi.openai/post/DWlit4vgqRr</link><description>블로그 :
+https://hcompany.ai/holo3</description><pubDate>Wed, 01 Apr 2026 11:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWlit4vgqRr</guid></item></channel></rss>
