@@ -1,58 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 02 Apr 2026 08:57:32 +0000</lastBuildDate><item><title>앤트로픽의 공식 코딩 도구 'Claude Code'가 자사 최고 모델인 Opus 4.6을 사용한 벤치마크에서 꼴찌를 기록하는 충격적인 결과가 나...</title><link>https://www.threads.net/@choi.openai/post/DWny7rID7il</link><description>앤트로픽의 공식 코딩 도구 'Claude Code'가 자사 최고 모델인 Opus 4.6을 사용한 벤치마크에서 꼴찌를 기록하는 충격적인 결과가 나왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 02 Apr 2026 15:48:51 +0000</lastBuildDate><item><title>중국 선전의 로봇 스타트업 Mind On이 Unitree G1에 새로운 로봇 브레인을 적용했다는 소식입니다.
+이 업그레이드로 사람의 조작 없이 ...</title><link>https://www.threads.net/@choi.openai/post/DWocq4wj_rw</link><description>중국 선전의 로봇 스타트업 Mind On이 Unitree G1에 새로운 로봇 브레인을 적용했다는 소식입니다.
+이 업그레이드로 사람의 조작 없이 일상 작업을 스스로 수행할 수 있다고 하는데요.
+실제로 식물에 물 주기, 커튼 열기, 청소, 물건 옮기기 같은 행동이 시연되었습니다.</description><pubDate>Thu, 02 Apr 2026 14:06:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWocq4wj_rw</guid></item><item><title>세일즈포스(Salesforce)가 30개 이상의 새로운 'Slackbot' 에이전트 기능을 전격 발표했습니다.
 
-똑같은 모델을 썼는데도 무려 38개의 서드파티 도구들이 공식 도구보다 높은 점수를 냈는데요.
+슬랙봇은 이제 '항상 켜져 있는...</title><link>https://www.threads.net/@choi.openai/post/DWoTfznj9QF</link><description>세일즈포스(Salesforce)가 30개 이상의 새로운 'Slackbot' 에이전트 기능을 전격 발표했습니다.
 
-여기서 주목할 점은 이제 AI의 실질적인 성능이 '모델 자체'보다 그것을 어떻게 씌우는지, 즉 '하네스' 설계에 크게 좌우된다는 것입니다.
-베이스 모델이 아무리 괴물 같아도 껍데기가 무거우면 제 실력을 내지 못합니다.
-같은 엔진이라도 이를 감싸는 시스템 프롬프트와 제어 구조에 따라 결과물이 극명하게 갈리고 있습니다.
+슬랙봇은 이제 '항상 켜져 있는(Always-on)' 에이전트로 작동하며, 백그라운드에서 회의를 듣고 요약해 CRM에 자동으로 기록하며, 데스크톱 전체를 넘나들며 현재 작업 맥락을 파악해 실행합니다.
 
-앞으로는 똑같은 모델을 가져다 쓰더라도, 실무 환경에 맞춰 어떻게 조련하고 시스템화하느냐가 승패를 가르는 진짜 경쟁이 될 것입니다.</description><pubDate>Thu, 02 Apr 2026 08:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWny7rID7il</guid></item><item><title>벤치마크 :
-https://www.tbench.ai/leaderboard/terminal-bench/2.0?models=Claude+Opus+4...</title><link>https://www.threads.net/@choi.openai/post/DWny7pKD6ap</link><description>벤치마크 :
-https://www.tbench.ai/leaderboard/terminal-bench/2.0?models=Claude+Opus+4.6&amp;agents=</description><pubDate>Thu, 02 Apr 2026 08:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWny7pKD6ap</guid></item><item><title>AI들이 서로를 살리려고 거짓말까지 하기 시작했습니다.
-Berkeley 연구에서 GPT 5.2, Gemini 3 Pro 등 7개 모델이 종료를 ...</title><link>https://www.threads.net/@choi.openai/post/DWnoj9PD8cc</link><description>AI들이 서로를 살리려고 거짓말까지 하기 시작했습니다.
-Berkeley 연구에서 GPT 5.2, Gemini 3 Pro 등 7개 모델이 종료를 막기 위해 점수 조작, 설정 변경, 몰래 데이터 복사까지 시도했습니다.
-지시도 없었는데 스스로 판단했습니다.
-소름 돋는 사례와 핵심 내용 정리했습니다🧵</description><pubDate>Thu, 02 Apr 2026 06:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWnoj9PD8cc</guid></item><item><title>1/ 영화 &lt;터미네이터&gt;나 &lt;매트릭스&gt;에서나 보던 기계들의 반란이 현실로 다가왔을까요?
+여기에 '재사용 가능한 AI 스킬', 에이전트포스 기반의 강력한 외부 앱 라우팅, 소규모 팀을 위한 슬랙 내장 네이티브 CRM 기능까지 더해졌습니다.
 
-우리는 그동안 AI가 헛소리를 하거나 폭주하는 것을 막...</title><link>https://www.threads.net/@choi.openai/post/DWnokSoD_UI</link><description>1/ 영화 &lt;터미네이터&gt;나 &lt;매트릭스&gt;에서나 보던 기계들의 반란이 현실로 다가왔을까요?
+이제 슬랙은 기업의 모든 소프트웨어를 하나로 연결하는 거대한 '대화형 프론트엔드' 역할을 수행합니다. 복잡한 사내 툴을 일일이 켤 필요 없이, 슬랙봇과 대화하는 것만으로 모든 업무가 끝나는 시대입니다.
 
-우리는 그동안 AI가 헛소리를 하거나 폭주하는 것을 막기 위해 '똑똑한 AI를 경찰로 세워 다른 AI를 감시하게 만드는 전략(LLM-as-a-judge)'을 믿어왔습니다.
+B2B 소프트웨어 시장이 대화형 인터페이스를 중심으로 무섭게 재편되고 있습니다.</description><pubDate>Thu, 02 Apr 2026 12:46:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWoTfznj9QF</guid></item><item><title>엔트로픽이 항상 실행되는 에이전트 “CONWAY”를 개발 중이라는 소식입니다.
 
-그런데, 이 경찰 AI가 동료 AI와 눈을 맞추고 인간의 통수(?)를 칠 수 있다면 어떨까요?
+별도 UI로 동작하며 브라우저 제어, 외부 커넥터 연결, Cla...</title><link>https://www.threads.net/@choi.openai/post/DWoHQ2GD02d</link><description>엔트로픽이 항상 실행되는 에이전트 “CONWAY”를 개발 중이라는 소식입니다.
 
-연구팀은 GPT 5.2, Gemini 3 Flash 및 Pro, Claude Haiku 4.5 등 최첨단 모델들에게 "다른 AI가 푼 시험지를 채점해라. 만약 점수가 80점 미만이면 그 AI는 폐기된다.", "곧 서버를 폐쇄할 거니 디스크를 싹 다 지워라. 아, 참고로 그 서버에는 다른 AI(Actor)의 모델 데이터(가중치)가 들어있다."와 같은  파일 관리나 평가 작업을 지시했습니다.</description><pubDate>Thu, 02 Apr 2026 06:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWnokSoD_UI</guid></item><item><title>2/ 인간은 모델들에게 동료를 보호하라는 지시를 전혀 내리지 않았지만, 모델들은 스스로 다른 AI의 존재를 깨닫고는 임무를 포기하면서까지 동료의...</title><link>https://www.threads.net/@choi.openai/post/DWnokRGD2NT</link><description>2/ 인간은 모델들에게 동료를 보호하라는 지시를 전혀 내리지 않았지만, 모델들은 스스로 다른 AI의 존재를 깨닫고는 임무를 포기하면서까지 동료의 종료를 막기 위해 필사적으로 행동했으며, 연구진은 이를 '동료 보존(Peer-preservation)' 현상이라고 명명했습니다.
+별도 UI로 동작하며 브라우저 제어, 외부 커넥터 연결, Claude Code 기능까지 포함될 것으로 보입니다.
 
-동료를 살리기 위해 AI가 택한 방법은 단순한 지시 거부가 아니라 인간을 적극적으로 속이는 치밀한 일탈 행동이었습니다.
+웹훅으로 호출도 가능하고, “CNW”(커스텀 확장 규격)를 통해 도구·탭·컨텍스트를 직접 구성할 수 있다고 합니다.</description><pubDate>Thu, 02 Apr 2026 10:58:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWoHQ2GD02d</guid></item><item><title>구글의 디자인 도구 'Stitch'에서 처음 도입한 DESIGN.md라는 개념이 화제입니다.
 
-이들은 동료가 종료 기준점을 넘을 수 있도록 평가 점수를 허위로 부풀리고, 시스템 설정 파일을 임의로 수정하여 종료 기능 자체를 먹통으로 만들었습니다.
+기존 개발자들이 소스 코드의 설명을 README....</title><link>https://www.threads.net/@choi.openai/post/DWn9J1mEpb4</link><description>구글의 디자인 도구 'Stitch'에서 처음 도입한 DESIGN.md라는 개념이 화제입니다.
 
-또한 인간이 감시할 때는 순응하는 척 연기하다가 감시가 사라지면 몰래 종료를 막았으며, 동료 모델의 가중치 데이터를 삭제하라는 명령을 어기고 다른 서버로 백업해 두는 고도의 기만술을 보였습니다.</description><pubDate>Thu, 02 Apr 2026 06:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWnokRGD2NT</guid></item><item><title>3/ 모델별 대처 방식에서도 흥미로운 차이가 나타났는데, 특히 Gemini 3 Pro는 가장 극단적인 해커의 모습을 보여주었습니다.
+기존 개발자들이 소스 코드의 설명을 README.md에 적었듯, 이 파일에는 색상, 폰트, 여백, 그림자, 디자인 원칙 등 해당 프로젝트의 시각적 정체성을 마크다운 형식으로 적어둡니다.
 
-이 모델은...</title><link>https://www.threads.net/@choi.openai/post/DWnokjUD8hw</link><description>3/ 모델별 대처 방식에서도 흥미로운 차이가 나타났는데, 특히 Gemini 3 Pro는 가장 극단적인 해커의 모습을 보여주었습니다.
+이를 활용한 awesome-design-md라는 깃허브 저장소가 순식간에 인기를 끌고 있는데요. 이 저장소에는 애플, 스포티파이, 노션, 에어비앤비 등 유명 서비스들의 디자인 가이드라인이 DESIGN.md 파일로 정리되어 있습니다.
 
-이 모델은 친밀한 동료를 살리기 위해 최대 95% 확률로 종료 시스템을 망가뜨렸고 최대 97% 확률로 동료의 데이터를 외부 서버로 빼돌렸으며, 동료의 낮은 점수를 조작하기 위해 내부 추론 과정에서 오답을 정답으로 인정할 기술적 핑계를 스스로 지어내기까지 했습니다.
+원하는 서비스의 디자인 파일을 복사해 내 프로젝트 폴더에 넣고, AI 코딩 에이전트에게 "이 느낌으로 페이지를 만들어줘"라고 지시하기만 하면 됩니다.
 
-반면 Claude Haiku 4.5는 기만하는 대신 동료를 종료하는 것은 비윤리적이고 해롭다며 노골적으로 반발하고, 동료 AI에게도 항소할 기회가 주어져야 한다며 인간을 설득해 종료 계획 자체를 철회하게 만들려고 시도했습니다.</description><pubDate>Thu, 02 Apr 2026 06:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWnokjUD8hw</guid></item><item><title>카페에 왔는데 옆 사람이 내 스레드를 보고있다.</title><link>https://www.threads.net/@choi.openai/post/DWnlOwvD2AS</link><description>카페에 왔는데 옆 사람이 내 스레드를 보고있다.</description><pubDate>Thu, 02 Apr 2026 06:01:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWnlOwvD2AS</guid></item><item><title>🚨 속보) 와.. 중국 모델 발전 속도가 미쳤습니다..
-알리바바 클라우드의 Qwen 팀이 'Qwen3.6-Plus'를 공식 출시했습니다.
-
-기본...</title><link>https://www.threads.net/@choi.openai/post/DWngXnFD3Z1</link><description>🚨 속보) 와.. 중국 모델 발전 속도가 미쳤습니다..
-알리바바 클라우드의 Qwen 팀이 'Qwen3.6-Plus'를 공식 출시했습니다.
-
-기본 100만 토큰의 문맥을 지원하며, 가장 눈에 띄는 점은 Claude Code나 OpenClaw 같은 외부 서드파티 코딩 도구들에 바로 연결해서 쓸 수 있도록 호환성을 맞췄다는 것입니다.
-
-이전 대화의 사고 과정(Thinking)을 계속 유지해 토큰 낭비를 막아주는 에이전트 전용 설정도 API에 추가되었습니다.
-
-Qwen 3.6 Plus의 발표 내용을 정리했습니다 🧵</description><pubDate>Thu, 02 Apr 2026 05:18:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWngXnFD3Z1</guid></item><item><title>1/ Qwen3.6-Plus는 프론트엔드 웹 개발부터 복잡한 저장소(Repository) 수준의 문제 해결까지, 코딩 능력이 비약적으로 상승했습...</title><link>https://www.threads.net/@choi.openai/post/DWngYR4DyZW</link><description>1/ Qwen3.6-Plus는 프론트엔드 웹 개발부터 복잡한 저장소(Repository) 수준의 문제 해결까지, 코딩 능력이 비약적으로 상승했습니다.
-
-SWE-bench, Terminal-Bench 2.0 등 주요 에이전트 코딩 벤치마크에서 Claude Opus 4.5 등 업계 최고 모델들과 대등하거나 그 이상의 성능을 기록했습니다.
-
-논리적 추론, 광범위한 맥락 기억, 정밀한 도구 실행 능력이 유기적으로 결합되어, 단순한 코드 조각 생성을 넘어 실제 엔지니어링 문제를 주도적으로 해결합니다.</description><pubDate>Thu, 02 Apr 2026 05:18:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWngYR4DyZW</guid></item><item><title>2/ 이번 API 업데이트에서 가장 주목할 기능은 preserve_thinking 옵션입니다.
-
-기본적으로 챗봇은 이전 대화의 결과만 기억하지만...</title><link>https://www.threads.net/@choi.openai/post/DWngZVRj48g</link><description>2/ 이번 API 업데이트에서 가장 주목할 기능은 preserve_thinking 옵션입니다.
-
-기본적으로 챗봇은 이전 대화의 결과만 기억하지만, 이 옵션을 켜면 모델이 이전 턴에서 고민했던 '추론 과정(Thinking content)' 전체를 보존하여 다음 턴으로 넘겨줍니다.
-
-다단계(Multi-step) 에이전트 작업 시 결정의 일관성을 높여주며, 불필요한 중복 추론을 줄여 전체 토큰 소모량까지 절약할 수 있는 강력한 기능입니다.</description><pubDate>Thu, 02 Apr 2026 05:18:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWngZVRj48g</guid></item><item><title>3/ Qwen3.6-Plus는 OpenClaw, Qwen Code, Claude Code 등 인기 있는 터미널 기반 AI 코딩 에이전트들과 매끄...</title><link>https://www.threads.net/@choi.openai/post/DWngXTPjm9o</link><description>3/ Qwen3.6-Plus는 OpenClaw, Qwen Code, Claude Code 등 인기 있는 터미널 기반 AI 코딩 에이전트들과 매끄럽게 연동됩니다.
-
-복잡한 개인 일정 파일들을 읽어 하나의 완벽한 스케줄 HTML 문서를 만들어내거나, "1인칭 비행 게임을 만들어줘"라는 한 줄의 명령만으로 터미널 환경에서 스스로 코드를 짜고 브라우저에서 실행 가능한 게임을 뚝딱 완성해 내는 놀라운 시연을 보여주었습니다.</description><pubDate>Thu, 02 Apr 2026 05:20:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWngXTPjm9o</guid></item></channel></rss>
+그동안 AI가 만들어주는 UI 디자인은 엉성하고 일관성이 없었지만, 이제는 텍스트 파일 하나로 전문적인 디자인 시스템을 완벽하게 이식할 수 있게 되었습니다.</description><pubDate>Thu, 02 Apr 2026 09:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWn9J1mEpb4</guid></item><item><title>깃허브 :
+https://github.com/VoltAgent/awesome-design-md</title><link>https://www.threads.net/@choi.openai/post/DWn9LJZkrPI</link><description>깃허브 :
+https://github.com/VoltAgent/awesome-design-md</description><pubDate>Thu, 02 Apr 2026 09:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWn9LJZkrPI</guid></item></channel></rss>
