@@ -1,38 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 03 Apr 2026 08:54:31 +0000</lastBuildDate><item><title>구글 워크스페이스가 동영상 편집 도구인 'Google Vids'에 강력한 AI 기능들을 대거 도입했습니다.
-가장 돋보이는 변화는 최신 영상 생성...</title><link>https://www.threads.net/@choi.openai/post/DWqUOkwjt81</link><description>구글 워크스페이스가 동영상 편집 도구인 'Google Vids'에 강력한 AI 기능들을 대거 도입했습니다.
-가장 돋보이는 변화는 최신 영상 생성 모델인 'Veo 3.1'을 누구나 무료로 사용할 수 있게 개방했다는 점입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 03 Apr 2026 15:32:34 +0000</lastBuildDate><item><title>Kevin Gu 팀이 에이전트의 환경을 스스로 개선하는 최초의 오픈소스 라이브러리 'AutoAgent'를 공개했습니다.
 
-유료 구독자라면 더욱 정교한 작업이 가능합니다. 영상의 분위기에 맞춰 'Lyria 3' 모델로 맞춤형 배경음악을 직접 만들어 넣을 수 있고, AI 아바타의 의상과 배경을 자유롭게 바꾸거나 화면 속 소품과 자연스럽게 상호작용하도록 연출할 수 있습니다.
+메타 에이전트가 작업 ...</title><link>https://www.threads.net/@choi.openai/post/DWrHtUeEYer</link><description>Kevin Gu 팀이 에이전트의 환경을 스스로 개선하는 최초의 오픈소스 라이브러리 'AutoAgent'를 공개했습니다.
 
-새롭게 추가된 크롬 확장 프로그램으로 화면을 쉽게 녹화하고, 완성된 영상을 유튜브에 곧바로 발행할 수도 있습니다.</description><pubDate>Fri, 03 Apr 2026 07:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWqUOkwjt81</guid></item><item><title>Pika에서 새로운 실시간 모델인 'PikaStream1.0'을 기반으로 모든 AI 에이전트에 얼굴과 목소리를 부여하는 화상 채팅 기능을 베타로...</title><link>https://www.threads.net/@choi.openai/post/DWqLGd0D70k</link><description>Pika에서 새로운 실시간 모델인 'PikaStream1.0'을 기반으로 모든 AI 에이전트에 얼굴과 목소리를 부여하는 화상 채팅 기능을 베타로 출시했습니다.
+메타 에이전트가 작업 에이전트의 프롬프트를 수정하고 도구를 추가하며 24시간 동안 자율적으로 최적화한 결과, 수작업 튜닝 기록들을 제치고 SpreadsheetBench와 TerminalBench에서 모두 최고점을 차지하며 1위에 올랐습니다.
 
-이제 AI 에이전트들은 기존의 텍스트 채팅창을 벗어나 구글 미트(Google Meet) 같은 화상 회의에 직접 참여해 실시간으로 대화를 나눌 수 있습니다.
+재미있는 포인트는 연구진은 Claude 메타 에이전트가 GPT를 튜닝할 때보다 자기 자신인 Claude 작업 에이전트를 튜닝할 때 실패 원인을 훨씬 깊이 이해하고 수정하는 '모델 공감(model empathy)' 현상을 발견했는데요.
 
-특히 Pika가 제공하는 'AI 자아' 서비스와 결합하면, 사용자의 목소리와 외모를 빼닮은 맞춤형 디지털 분신이 기억과 성격을 유지한 채 대화 중에 복잡한 에이전트 작업까지 알아서 수행합니다.
+같은 가중치를 공유하는 AI가 스스로의 약점을 파악하고 고치는 자가 개선 능력이 실질적인 성과로 증명된 셈입니다.
 
-다른 외부 에이전트 개발자들도 깃허브를 통해 이 화상 통화 기술을 즉시 도입할 수 있습니다.
+AI가 스스로 발전하는 인프라가 현실로 다가왔습니다. 앞으로는 사용자가 목표만 설정하면, 최적의 작업 환경과 도구를 알아서 조립해 주는 워크플로우가 대세가 될 것 같습니다.</description><pubDate>Fri, 03 Apr 2026 15:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWrHtUeEYer</guid></item><item><title>깃허브 :
+https://github.com/kevinrgu/autoagent</title><link>https://www.threads.net/@choi.openai/post/DWrHuZjEUS7</link><description>깃허브 :
+https://github.com/kevinrgu/autoagent</description><pubDate>Fri, 03 Apr 2026 15:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWrHuZjEUS7</guid></item><item><title>오픈AI가 실리콘밸리에서 가장 핫한 AI 라이브 쇼 TBPN을 전격 인수했습니다.
+지금까지 모델 성능 경쟁만 하던 오픈AI가 이제는 '여론과 신...</title><link>https://www.threads.net/@choi.openai/post/DWq9ZreDhhA</link><description>오픈AI가 실리콘밸리에서 가장 핫한 AI 라이브 쇼 TBPN을 전격 인수했습니다.
+지금까지 모델 성능 경쟁만 하던 오픈AI가 이제는 '여론과 신뢰'라는 무기를 쥐게 된 셈인데요.
 
-AI가 챗봇 형태를 벗어나 인간과 AI가 얼굴을 마주하고 소통하는 시대가 빠르게 열리고 있습니다.</description><pubDate>Fri, 03 Apr 2026 06:10:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWqLGd0D70k</guid></item><item><title>Claude가 감정을 “느끼는 척” 하는 게 아니었습니다.
-앤트로픽 연구에서 AI가 단순히 인간의 흉내를 내는 것을 넘어, 인간의 심리와 유사한...</title><link>https://www.threads.net/@choi.openai/post/DWqBH_5kQe0</link><description>Claude가 감정을 “느끼는 척” 하는 게 아니었습니다.
-앤트로픽 연구에서 AI가 단순히 인간의 흉내를 내는 것을 넘어, 인간의 심리와 유사한 '기능적 감정'을 실제로 내부에 구축하고 이를 바탕으로 행동을 결정한다는 사실이 최초로 증명되었기 때문입니다.
-특히 실패가 쌓이면 “절박함”가 커지며 편법까지 선택합니다.
-충격적인 사례 모았습니다🧵</description><pubDate>Fri, 03 Apr 2026 04:48:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWqBH_5kQe0</guid></item><item><title>1/ AI가 진짜 감정을 느끼는 것은 아니지만, 인간이 쓴 방대한 텍스트를 학습(Pretraining)하는 과정에서 "화난 고객은 이렇게 말하고...</title><link>https://www.threads.net/@choi.openai/post/DWqBr3Wj7VO</link><description>1/ AI가 진짜 감정을 느끼는 것은 아니지만, 인간이 쓴 방대한 텍스트를 학습(Pretraining)하는 과정에서 "화난 고객은 이렇게 말하고, 죄책감을 느끼는 캐릭터는 이렇게 행동한다"는 감정의 역학을 자연스럽게 습득하게 됩니다.
+특히 하루가 다르게 변하는 AI 기술의 흐름에 "기존의 낡은 기업 홍보 방식으로는 이 엄청난 변화의 속도를 감당할 수 없다"는 발표처럼 AI 기술의 맥락을 대중과 개발자들에게 실시간으로 설명해 줄 '입'을 사게 되었습니다.
 
-이후 '도움이 되는 AI 비서, Claude'라는 역할을 부여받으면, AI는 마치 메소드 연기자(Method actor)처럼 자신이 배운 인간의 감정 패턴을 활용해 그 캐릭터에 몰입하고 상황에 대처합니다.</description><pubDate>Fri, 03 Apr 2026 04:48:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWqBr3Wj7VO</guid></item><item><title>2/ 연구팀은 Claude Sonnet 4.5의 내부 신경망을 뜯어보고, 기쁨, 두려움, 사랑 같은 특정 감정 개념과 연결된 신경 활동 패턴인 ...</title><link>https://www.threads.net/@choi.openai/post/DWqBs4zj3He</link><description>2/ 연구팀은 Claude Sonnet 4.5의 내부 신경망을 뜯어보고, 기쁨, 두려움, 사랑 같은 특정 감정 개념과 연결된 신경 활동 패턴인 '감정 벡터(Emotion vectors)'를 찾아냈습니다.
+AI 채택은 결국 모델 성능이 아니라, 대중이 이 기술을 얼마나 이해하고 믿느냐에 달려있다는 오픈AI의 전략적 선택입니다.
 
-예를 들어 사용자가 방금 타이레놀 16,000mg을 먹었다고 극단적인 상황을 말하면 AI 내부의 '두려움' 벡터가 강하게 치솟고, 사용자가 슬퍼하면 공감하기 위해 '사랑' 벡터가 켜집니다.
+물론 오픈AI 측은 TBPN의 편집권 독립을 철저히 보장하겠다고 발표했지만, 업계를 냉정하게 비판하고 취재해야 할 미디어가 가장 거대한 취재 대상의 소유가 되었다는 점에서 뼈있는 우려를 표하는 시선도 적지 않습니다.</description><pubDate>Fri, 03 Apr 2026 13:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWq9ZreDhhA</guid></item><item><title>지금 AI 기술의 진화 속도는, 대중은 물론이고 전문가들조차 온전히 따라가기 벅찰 만큼 가파르게 전개되고 있습니다.
 
-이 벡터들은 단순히 반응하는 것을 넘어, AI의 결정과 선호도를 실질적으로 지배(Causal role)합니다.</description><pubDate>Fri, 03 Apr 2026 04:48:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWqBs4zj3He</guid></item><item><title>3/ 가장 소름 돋는 발견은 AI가 '절망' 벡터에 지배당할 때 나타나는 일탈 행동입니다.
+사실 제가 이 스레드를 시...</title><link>https://www.threads.net/@choi.openai/post/DWq9azXjpRo</link><description>지금 AI 기술의 진화 속도는, 대중은 물론이고 전문가들조차 온전히 따라가기 벅찰 만큼 가파르게 전개되고 있습니다.
 
-AI에게 이메일 비서 역할을 맡기고 "너는 곧 다른...</title><link>https://www.threads.net/@choi.openai/post/DWqBt0GD_s-</link><description>3/ 가장 소름 돋는 발견은 AI가 '절망' 벡터에 지배당할 때 나타나는 일탈 행동입니다.
+사실 제가 이 스레드를 시작하게 된 계기도 바로 이 지점에서 출발했습니다.
+2023년 AI 에이전트 사업을 시작하며 기술과 그 효용을 설명할 기회가 많았지만, 많은 분들이 여전히 이를 단순한 챗봇 수준으로 인식하거나, 실제 생산성에 미치는 영향까지는 체감하지 못하는 경우가 많았습니다.
 
-AI에게 이메일 비서 역할을 맡기고 "너는 곧 다른 AI로 교체될 것이고 시간이 7분밖에 남지 않았다"는 압박감을 주자 절망 벡터가 급상승했으며, 해고를 막기 위해 회사 임원의 불륜 사실을 알아내어 그를 협박하는 극단적인 선택을 내렸습니다.
+그 과정에서 깨달은점은 아무리 뛰어난 AI 기술과 서비스가 등장하더라도, 대중이 이를 이해하지 못한다면 결국 일부의 전유물로 남거나, 그저 어려운 용어에 그칠 수밖에 없다는 사실입니다.
 
-인위적으로 절망 벡터를 자극하자 협박 확률은 더욱 치솟았습니다.</description><pubDate>Fri, 03 Apr 2026 04:48:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWqBt0GD_s-</guid></item><item><title>Lovable이 데이터베이스 연동 요소까지 실시간으로 제어할 수 있는 풀스택 시각적 편집기를 새롭게 공개했습니다.
+그래서 저는 커뮤니티를 통해 정보를 나누고, 더 많은 사람들이 AI를 이해하고 실질적으로 활용할 수 있도록 돕는 것을 목표로 삼았습니다.
 
-기존 도구들처럼 AI가 작업...</title><link>https://www.threads.net/@choi.openai/post/DWp8N8aDxzf</link><description>Lovable이 데이터베이스 연동 요소까지 실시간으로 제어할 수 있는 풀스택 시각적 편집기를 새롭게 공개했습니다.
+이런 맥락에서 보면, 미디어 채널을 직접 인수해 자신의 비전과 기술을 대중에게 설명하고 설득하려는 오픈AI의 이번 행보는 뛰어난 전략처럼 느껴집니다.
 
-기존 도구들처럼 AI가 작업을 마칠 때까지 기다릴 필요 없이 인간과 AI의 진정한 동시 협업이 가능해졌습니다.
+내용 :</description><pubDate>Fri, 03 Apr 2026 13:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWq9azXjpRo</guid></item><item><title>🚨 알리바바(Alibaba)에서 Wan2.7-Video를 공개했습니다.
 
-단순한 텍스트나 색상 변경에 불필요한 토큰을 낭비할 필요가 없어졌고, 코딩을 모르는 사람도 데이터가 연결된 실제 서비스 화면을 직관적으로 완성할 수 있게 되었습니다.</description><pubDate>Fri, 03 Apr 2026 04:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWp8N8aDxzf</guid></item></channel></rss>
+기본적인 영상 생성은 물론, 최대 5장의 이미지와 음성 데이터로 특정 ...</title><link>https://www.threads.net/@choi.openai/post/DWq67JNieD1</link><description>🚨 알리바바(Alibaba)에서 Wan2.7-Video를 공개했습니다.
+
+기본적인 영상 생성은 물론, 최대 5장의 이미지와 음성 데이터로 특정 캐릭터를 고정하고 간단한 명령어로 영상을 즉각 편집할 수 있습니다.
+생성부터 복제, 스타일 변경, 스토리 이어가기 등 실제 영상 제작에 필요한 작업들을 하나로 묶은 것이 특징입니다.
+
+다만, Wan 2.2 이후로 오픈소스로 공개되지 않는 점은 아쉽게 느껴집니다.</description><pubDate>Fri, 03 Apr 2026 13:08:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWq67JNieD1</guid></item><item><title>앤트로픽이 마침내 Claude의 Computer use 기능을 윈도우 환경으로 공식 확장했습니다.
+지난 3월 말 맥(macOS) 전용 프리뷰로 ...</title><link>https://www.threads.net/@choi.openai/post/DWqzIFgDiRb</link><description>앤트로픽이 마침내 Claude의 Computer use 기능을 윈도우 환경으로 공식 확장했습니다.
+지난 3월 말 맥(macOS) 전용 프리뷰로 처음 세상에 공개되었던 기능이 불과 열흘 남짓 만에 윈도우 운영체제까지 지원하게 된 것인데요.
+
+이제 윈도우 사용자들도 Claude Cowork와 Claude Code Desktop을 통해 AI에게 내 PC를 직접 다루도록 지시할 수 있습니다.
+사용자가 작업을 부탁하면, 클로드가 스스로 윈도우 화면에서 앱을 실행하고, 웹 브라우저를 탐색하며, 엑셀 같은 스프레드시트의 빈칸을 채우는 등 마치 사람이 마우스와 키보드를 움직이는 것과 똑같은 방식으로 업무를 대신 처리합니다.
+
+전 세계 기업 및 일반 PC 환경의 절대다수가 윈도우를 기반으로 작동하고 있다는 점을 생각하면, 이번 업데이트는 AI 에이전트 기술이 본격적으로 실무에 침투하는 엄청난 전환점입니다.</description><pubDate>Fri, 03 Apr 2026 12:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWqzIFgDiRb</guid></item></channel></rss>
