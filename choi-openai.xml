@@ -1,49 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 03 Apr 2026 15:32:34 +0000</lastBuildDate><item><title>Kevin Gu 팀이 에이전트의 환경을 스스로 개선하는 최초의 오픈소스 라이브러리 'AutoAgent'를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 04 Apr 2026 02:09:24 +0000</lastBuildDate><item><title>Generalist AI라는 로봇 기업에서 물리적 세계의 제어 방식을 근본적으로 바꿀 범용 인공지능 모델인 'GEN-1'을 발표하며 업계의 이목...</title><link>https://www.threads.net/@choi.openai/post/DWsS1yHj92A</link><description>Generalist AI라는 로봇 기업에서 물리적 세계의 제어 방식을 근본적으로 바꿀 범용 인공지능 모델인 'GEN-1'을 발표하며 업계의 이목을 집중시키고 있습니다.
 
-메타 에이전트가 작업 ...</title><link>https://www.threads.net/@choi.openai/post/DWrHtUeEYer</link><description>Kevin Gu 팀이 에이전트의 환경을 스스로 개선하는 최초의 오픈소스 라이브러리 'AutoAgent'를 공개했습니다.
+이 모델은 단순한 물리적 작업을 완벽에 가깝게 마스터한 최초의 범용 AI로 평가받고 있으며, 단 1시간 분량의 로봇 데이터만으로도 99%의 작업 성공률과 기존 대비 3배나 빠른 동작 속도를 달성해 냈습니다.
 
-메타 에이전트가 작업 에이전트의 프롬프트를 수정하고 도구를 추가하며 24시간 동안 자율적으로 최적화한 결과, 수작업 튜닝 기록들을 제치고 SpreadsheetBench와 TerminalBench에서 모두 최고점을 차지하며 1위에 올랐습니다.
+가장 놀라운 성과는 모델 스스로 돌발 상황을 극복하는 '지능형 즉흥성'을 갖추었다는 점입니다.
+50만 시간 분량의 실제 물리 데이터를 사전 학습한 이 AI는 작업 도중 예상치 못한 변수가 생기거나 물건을 놓치는 등의 실수를 하더라도, 당황하지 않고 실시간으로 자세를 고쳐 잡아 스스로 임무를 완수합니다.
 
-재미있는 포인트는 연구진은 Claude 메타 에이전트가 GPT를 튜닝할 때보다 자기 자신인 Claude 작업 에이전트를 튜닝할 때 실패 원인을 훨씬 깊이 이해하고 수정하는 '모델 공감(model empathy)' 현상을 발견했는데요.
+심지어 사람이 처음 시범을 보여준 속도보다 훨씬 더 빠르고 효율적으로 움직이는 방법까지 스스로 터득하여 물리적 로봇 AI의 상업적 활용 가치를 폭발적으로 끌어올렸습니다.</description><pubDate>Sat, 04 Apr 2026 01:57:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWsS1yHj92A</guid></item><item><title>전체 내용 살펴보기 :
+https://generalistai.com/blog/apr-02-2026-GEN-1</title><link>https://www.threads.net/@choi.openai/post/DWsS04nD3wl</link><description>전체 내용 살펴보기 :
+https://generalistai.com/blog/apr-02-2026-GEN-1</description><pubDate>Sat, 04 Apr 2026 01:56:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWsS04nD3wl</guid></item><item><title>와... 넷플릭스가 이제는 영화 제작 도구까지 직접 만들어서 무료로 풀기 시작했습니다.
 
-같은 가중치를 공유하는 AI가 스스로의 약점을 파악하고 고치는 자가 개선 능력이 실질적인 성과로 증명된 셈입니다.
+넷플릭스의 첫 번째 AI 모델인 VOID가 Huggin...</title><link>https://www.threads.net/@choi.openai/post/DWsFn53AiIb</link><description>와... 넷플릭스가 이제는 영화 제작 도구까지 직접 만들어서 무료로 풀기 시작했습니다.
 
-AI가 스스로 발전하는 인프라가 현실로 다가왔습니다. 앞으로는 사용자가 목표만 설정하면, 최적의 작업 환경과 도구를 알아서 조립해 주는 워크플로우가 대세가 될 것 같습니다.</description><pubDate>Fri, 03 Apr 2026 15:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWrHtUeEYer</guid></item><item><title>깃허브 :
-https://github.com/kevinrgu/autoagent</title><link>https://www.threads.net/@choi.openai/post/DWrHuZjEUS7</link><description>깃허브 :
-https://github.com/kevinrgu/autoagent</description><pubDate>Fri, 03 Apr 2026 15:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWrHuZjEUS7</guid></item><item><title>오픈AI가 실리콘밸리에서 가장 핫한 AI 라이브 쇼 TBPN을 전격 인수했습니다.
-지금까지 모델 성능 경쟁만 하던 오픈AI가 이제는 '여론과 신...</title><link>https://www.threads.net/@choi.openai/post/DWq9ZreDhhA</link><description>오픈AI가 실리콘밸리에서 가장 핫한 AI 라이브 쇼 TBPN을 전격 인수했습니다.
-지금까지 모델 성능 경쟁만 하던 오픈AI가 이제는 '여론과 신뢰'라는 무기를 쥐게 된 셈인데요.
+넷플릭스의 첫 번째 AI 모델인 VOID가 HuggingFace에 공개되었는데요. 
+동영상 속 특정 객체를 지우는 데 특화된 편집 모델입니다.
+여기서 눈여겨볼 점은 VOID가 장면의 물리 법칙까지 이해하여 사람이 지워질 때 그 사람이 유발한 물건의 떨어짐 같은 연쇄적인 물리적 상호작용까지 함께 제거해 줍니다.
 
-특히 하루가 다르게 변하는 AI 기술의 흐름에 "기존의 낡은 기업 홍보 방식으로는 이 엄청난 변화의 속도를 감당할 수 없다"는 발표처럼 AI 기술의 맥락을 대중과 개발자들에게 실시간으로 설명해 줄 '입'을 사게 되었습니다.
+넷플릭스가 영상을 만드는 도구까지 직접 배포했다는 점이 흥미롭습니다.
 
-AI 채택은 결국 모델 성능이 아니라, 대중이 이 기술을 얼마나 이해하고 믿느냐에 달려있다는 오픈AI의 전략적 선택입니다.
+영상 편집 기술이 공간의 인과관계까지 계산하는 방향으로 진화하고 있습니다.
 
-물론 오픈AI 측은 TBPN의 편집권 독립을 철저히 보장하겠다고 발표했지만, 업계를 냉정하게 비판하고 취재해야 할 미디어가 가장 거대한 취재 대상의 소유가 되었다는 점에서 뼈있는 우려를 표하는 시선도 적지 않습니다.</description><pubDate>Fri, 03 Apr 2026 13:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWq9ZreDhhA</guid></item><item><title>지금 AI 기술의 진화 속도는, 대중은 물론이고 전문가들조차 온전히 따라가기 벅찰 만큼 가파르게 전개되고 있습니다.
+앞으로 영상 제작과 편집 과정이 AI를 통해 얼마나 더 직관적이고 강력해질지, 넷플릭스가 보여줄 다음 도구들도 주목해 봐야겠습니다.</description><pubDate>Sat, 04 Apr 2026 00:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWsFn53AiIb</guid></item><item><title>허깅페이스 :
+https://huggingface.co/netflix/void-model</title><link>https://www.threads.net/@choi.openai/post/DWsFrcAgp5e</link><description>허깅페이스 :
+https://huggingface.co/netflix/void-model</description><pubDate>Sat, 04 Apr 2026 00:01:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWsFrcAgp5e</guid></item><item><title>안드레 카파시(Andrej Karpathy)가 LLM을 활용해 '개인 지식 베이스'를 구축하는 방식을 공유했습니다.
 
-사실 제가 이 스레드를 시...</title><link>https://www.threads.net/@choi.openai/post/DWq9azXjpRo</link><description>지금 AI 기술의 진화 속도는, 대중은 물론이고 전문가들조차 온전히 따라가기 벅찰 만큼 가파르게 전개되고 있습니다.
+사용자가 기사, 논문, 이...</title><link>https://www.threads.net/@choi.openai/post/DWr7SH4EpeA</link><description>안드레 카파시(Andrej Karpathy)가 LLM을 활용해 '개인 지식 베이스'를 구축하는 방식을 공유했습니다.
 
-사실 제가 이 스레드를 시작하게 된 계기도 바로 이 지점에서 출발했습니다.
-2023년 AI 에이전트 사업을 시작하며 기술과 그 효용을 설명할 기회가 많았지만, 많은 분들이 여전히 이를 단순한 챗봇 수준으로 인식하거나, 실제 생산성에 미치는 영향까지는 체감하지 못하는 경우가 많았습니다.
+사용자가 기사, 논문, 이미지 등 원시 데이터만 던져주면, LLM이 알아서 Obsidian 환경에 맞는 마크다운 위키를 구축해 줍니다.
 
-그 과정에서 깨달은점은 아무리 뛰어난 AI 기술과 서비스가 등장하더라도, 대중이 이를 이해하지 못한다면 결국 일부의 전유물로 남거나, 그저 어려운 용어에 그칠 수밖에 없다는 사실입니다.
+가장 주목할 점은 복잡한 RAG(검색 증강 생성) 기술 없이도 LLM이 수십만 단어의 문서를 읽고 요약하며, 개념을 분류하고 스스로 문서의 오류까지 검증(Linting)한다는 것입니다.
 
-그래서 저는 커뮤니티를 통해 정보를 나누고, 더 많은 사람들이 AI를 이해하고 실질적으로 활용할 수 있도록 돕는 것을 목표로 삼았습니다.
+질문을 던지면 슬라이드나 시각화 그래프로 결과를 반환하고, 이 내용이 다시 위키에 업데이트되며 지식 창고가 계속 진화합니다.
 
-이런 맥락에서 보면, 미디어 채널을 직접 인수해 자신의 비전과 기술을 대중에게 설명하고 설득하려는 오픈AI의 이번 행보는 뛰어난 전략처럼 느껴집니다.
+이제 사람이 직접 위키나 노트를 쓰고 수정하는 시대는 저물고 있습니다. AI가 개인의 지식을 대신 조립하고 관리해 주는 '제2의 두뇌'가 현실이 되고 있습니다.</description><pubDate>Fri, 03 Apr 2026 22:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWr7SH4EpeA</guid></item><item><title>Perplexity에서 새롭게 출시한 '세무용 Computer' 기능이 화제입니다.
 
-내용 :</description><pubDate>Fri, 03 Apr 2026 13:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWq9azXjpRo</guid></item><item><title>🚨 알리바바(Alibaba)에서 Wan2.7-Video를 공개했습니다.
+'Navigate my taxes'를 선택하면 최신 세법과...</title><link>https://www.threads.net/@choi.openai/post/DWrw8ObjYrM</link><description>Perplexity에서 새롭게 출시한 '세무용 Computer' 기능이 화제입니다.
 
-기본적인 영상 생성은 물론, 최대 5장의 이미지와 음성 데이터로 특정 ...</title><link>https://www.threads.net/@choi.openai/post/DWq67JNieD1</link><description>🚨 알리바바(Alibaba)에서 Wan2.7-Video를 공개했습니다.
+'Navigate my taxes'를 선택하면 최신 세법과 IRS 규정을 바탕으로 미국 연방 소득세 신고서 초안을 작성해 주는 것은 물론, 회계사나 전문가가 작성한 신고서의 누락이나 오류까지 검토할 수 있습니다.
 
-기본적인 영상 생성은 물론, 최대 5장의 이미지와 음성 데이터로 특정 캐릭터를 고정하고 간단한 명령어로 영상을 즉각 편집할 수 있습니다.
-생성부터 복제, 스타일 변경, 스토리 이어가기 등 실제 영상 제작에 필요한 작업들을 하나로 묶은 것이 특징입니다.
+예를 들어, 최근 시행된 2025년 조항(No Tax on Overtime)이 덜 반영되어 놓친 환급금까지 찾아주는 식입니다.
 
-다만, Wan 2.2 이후로 오픈소스로 공개되지 않는 점은 아쉽게 느껴집니다.</description><pubDate>Fri, 03 Apr 2026 13:08:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWq67JNieD1</guid></item><item><title>앤트로픽이 마침내 Claude의 Computer use 기능을 윈도우 환경으로 공식 확장했습니다.
-지난 3월 말 맥(macOS) 전용 프리뷰로 ...</title><link>https://www.threads.net/@choi.openai/post/DWqzIFgDiRb</link><description>앤트로픽이 마침내 Claude의 Computer use 기능을 윈도우 환경으로 공식 확장했습니다.
-지난 3월 말 맥(macOS) 전용 프리뷰로 처음 세상에 공개되었던 기능이 불과 열흘 남짓 만에 윈도우 운영체제까지 지원하게 된 것인데요.
+회계사들이 긴장할 만큼 고도화된 이 기능은 환영받을 수 있지만, AI가 재무 정보를 다루거나 할루시네이션(환각)으로 인해 범죄로 이어질 수 있다는 우려도 나옵니다.
 
-이제 윈도우 사용자들도 Claude Cowork와 Claude Code Desktop을 통해 AI에게 내 PC를 직접 다루도록 지시할 수 있습니다.
-사용자가 작업을 부탁하면, 클로드가 스스로 윈도우 화면에서 앱을 실행하고, 웹 브라우저를 탐색하며, 엑셀 같은 스프레드시트의 빈칸을 채우는 등 마치 사람이 마우스와 키보드를 움직이는 것과 똑같은 방식으로 업무를 대신 처리합니다.
-
-전 세계 기업 및 일반 PC 환경의 절대다수가 윈도우를 기반으로 작동하고 있다는 점을 생각하면, 이번 업데이트는 AI 에이전트 기술이 본격적으로 실무에 침투하는 엄청난 전환점입니다.</description><pubDate>Fri, 03 Apr 2026 12:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWqzIFgDiRb</guid></item></channel></rss>
+향후 한국 특화로도 지원을 해주면 좋을 것 같네요.</description><pubDate>Fri, 03 Apr 2026 21:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWrw8ObjYrM</guid></item><item><title>자세히 알아보기 :
+https://www.perplexity.ai/ko/hub/blog/introducing-computer-for-taxes</title><link>https://www.threads.net/@choi.openai/post/DWrw9Hlja4u</link><description>자세히 알아보기 :
+https://www.perplexity.ai/ko/hub/blog/introducing-computer-for-taxes</description><pubDate>Fri, 03 Apr 2026 21:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWrw9Hlja4u</guid></item></channel></rss>
