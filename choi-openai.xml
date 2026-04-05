@@ -1,29 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 05 Apr 2026 02:31:18 +0000</lastBuildDate><item><title>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 AI 정보 최상위권 학습 플랫폼입니다.</title><link>https://www.threads.net/@choi.openai/post/DWtYLiVEoPi</link><description>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 AI 정보 최상위권 학습 플랫폼입니다.</description><pubDate>Sat, 04 Apr 2026 12:02:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWtYLiVEoPi</guid></item><item><title>최근 'MultiGen'이라는 새로운 디퓨전(Diffusion) 게임 엔진 연구가 공개되었습니다.
-기존 AI 게임은 화면을 매초 새롭게 상상해서...</title><link>https://www.threads.net/@choi.openai/post/DWtNHvLDipL</link><description>최근 'MultiGen'이라는 새로운 디퓨전(Diffusion) 게임 엔진 연구가 공개되었습니다.
-기존 AI 게임은 화면을 매초 새롭게 상상해서 그려내다 보니 주변 환경이 계속 변하는 치명적인 단점이 있었는데요.
-MultiGen은 시스템에 외부 메모리를 도입해 이 문제를 돌파했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 05 Apr 2026 08:42:45 +0000</lastBuildDate><item><title>여러분이 놓친 정말 중요한 이번 주 AI 소식 40가지를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/DWvjuSjDyfZ</link><description>여러분이 놓친 정말 중요한 이번 주 AI 소식 40가지를 정리했습니다 🧵</description><pubDate>Sun, 05 Apr 2026 08:21:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvjuSjDyfZ</guid></item><item><title>1/ 구글의 오픈 모델 “Gemma 4”가 Apache 2.0으로 공개됐습니다.
+로컬 실행과 에이전트 기능까지 가능해져, 기업이 데이터 유출 걱...</title><link>https://www.threads.net/@choi.openai/post/DWvju56j56M</link><description>1/ 구글의 오픈 모델 “Gemma 4”가 Apache 2.0으로 공개됐습니다.
+로컬 실행과 에이전트 기능까지 가능해져, 기업이 데이터 유출 걱정 줄이고 자체 AI를 구축하는 데 도움이 될 수 있습니다.</description><pubDate>Sun, 05 Apr 2026 08:21:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvju56j56M</guid></item><item><title>2/ 오픈AI가 앤트로픽의 코딩 도구 ‘Claude Code’에서 자사 ‘Codex’를 바로 쓰는 플러그인을 공개했습니다.
+클로드로 뼈대 작성,...</title><link>https://www.threads.net/@choi.openai/post/DWvjvW1j-T9</link><description>2/ 오픈AI가 앤트로픽의 코딩 도구 ‘Claude Code’에서 자사 ‘Codex’를 바로 쓰는 플러그인을 공개했습니다.
+클로드로 뼈대 작성, Codex로 검증·연산 같은 교차 방식이 공식 지원되는 셈입니다.</description><pubDate>Sun, 05 Apr 2026 08:21:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvjvW1j-T9</guid></item><item><title>3/ Claude Code 소스가 NPM의 .map 파일로 통째로 유출됐습니다.
+데몬 모드(kairos), 펫 18종(buddy system) ...</title><link>https://www.threads.net/@choi.openai/post/DWvjv1Jj01s</link><description>3/ Claude Code 소스가 NPM의 .map 파일로 통째로 유출됐습니다.
+데몬 모드(kairos), 펫 18종(buddy system) 등 미공개 기능이 나왔고, 코딩 도구를 넘어 AI 에이전트 OS에 가깝다는 평가도 있습니다.</description><pubDate>Sun, 05 Apr 2026 08:22:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvjv1Jj01s</guid></item><item><title>안드레 카파시가 제안한 'LLM 위키' 개념이 하루 만에 270만 회를 넘길 정도로 전 세계 개발자들 사이에서 폭발적인 반응을 얻고 있습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DWvW8IvicHN</link><description>안드레 카파시가 제안한 'LLM 위키' 개념이 하루 만에 270만 회를 넘길 정도로 전 세계 개발자들 사이에서 폭발적인 반응을 얻고 있습니다.
 
-무엇보다 여러 명의 플레이어가 똑같은 AI 생성 세계에 접속해 실시간으로 멀티플레이를 공유하는 것이 가능해졌습니다.</description><pubDate>Sat, 04 Apr 2026 10:26:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWtNHvLDipL</guid></item><item><title>주소 :
-https://huggingface.co/papers/2603.06679</title><link>https://www.threads.net/@choi.openai/post/DWtNNpTD-Ge</link><description>주소 :
-https://huggingface.co/papers/2603.06679</description><pubDate>Sat, 04 Apr 2026 10:26:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWtNNpTD-Ge</guid></item><item><title>World Labs(월드 랩스)가 새로운 3D 세계 생성 모델인 'Marble 1.1'과 '1.1 Plus'를 출시했습니다.
-기존 모델들이 고정...</title><link>https://www.threads.net/@choi.openai/post/DWtA1JvjFIS</link><description>World Labs(월드 랩스)가 새로운 3D 세계 생성 모델인 'Marble 1.1'과 '1.1 Plus'를 출시했습니다.
-기존 모델들이 고정된 크기의 3D 환경만 만들 수 있었던 반면, 1.1 Plus 모델은 상황에 맞춰 공간의 경계를 허물고 자동으로 더 넓은 3D 세계를 확장해서 만들어냅니다.
+안드레 카파시는 LLM을 활용한 ‘LLM 위키’ 구축 아이디어를 구체화한 Gist 문서까지 공개를 했는데요.
 
-최근 사진 한 장으로 고품질 3D 모델을 뽑아내거나 텍스트로 3D 모션을 만드는 기술이 연이어 공개되고 있습니다.
-이런 흐름 속에서 3D 생성 기술의 목표 지점이 개별 사물이나 캐릭터를 만드는 데서, 거대한 세계 자체를 통째로 구축하는 쪽으로 빠르게 이동하고 있습니다.
+가장 중요한 포인트는 AI를 그때그때 검색하는 도구로 쓰는 것이 아니라, 지식을 계속 누적하고 관리하는 ‘쉬지 않는 편집자’로 사용한다는 점입니다.
 
-조만간 일일이 맵을 디자인할 필요 없이, 원하는 분위기를 묘사하는 것만으로 무한히 이어지는 가상 공간을 탐험하게 될 것 같습니다.</description><pubDate>Sat, 04 Apr 2026 08:40:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWtA1JvjFIS</guid></item><item><title>큰거 온다..
+기존의 RAG 방식은 질문할 때마다 문서를 새로 찾아 읽어야 했지만, 이 방식은 원문 자료를 던져주면 LLM이 알아서 내용을 요약하고, 기존 정보와 교차 검증하며, 문서 간 링크를 연결해 마크다운 형태의 개인 위키를 차곡차곡 쌓아 올립니다.
+사람은 자료 수집과 핵심 질문만 던지고, 가장 귀찮은 문서 정리와 내용 최신화는 AI가 전담하는 구조입니다.
 
-현재 LMSYS 아레나에 maskingtape, packingtape, gaffertape라는 정체불명의 이미지 모델 3종이 등...</title><link>https://www.threads.net/@choi.openai/post/DWs2BpcjzFK</link><description>큰거 온다..
+앞으로는 AI를 활용해 자신만의 '살아있는 지식 베이스'를 어떻게 구축하느냐도 정말 중요해지고 있습니다.</description><pubDate>Sun, 05 Apr 2026 06:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvW8IvicHN</guid></item><item><title>주소 :
+https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f</title><link>https://www.threads.net/@choi.openai/post/DWvW9ENifHI</link><description>주소 :
+https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f</description><pubDate>Sun, 05 Apr 2026 06:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvW9ENifHI</guid></item><item><title>장거리 비행 필수 앱
 
-현재 LMSYS 아레나에 maskingtape, packingtape, gaffertape라는 정체불명의 이미지 모델 3종이 등장해 화제입니다.
+인터넷 연결이나 로그인 없이도 아이폰과 안드로이드에서 로컬로 구글의 Gemma 4 모델을 사용할 수 있어 비행기에서 궁금...</title><link>https://www.threads.net/@choi.openai/post/DWvNXkJj2uB</link><description>장거리 비행 필수 앱
 
-생성된 결과물을 보면 유튜브 인터페이스나 화면 속 텍스트가 정말 자연스럽게 구현되어 있습니다.
+인터넷 연결이나 로그인 없이도 아이폰과 안드로이드에서 로컬로 구글의 Gemma 4 모델을 사용할 수 있어 비행기에서 궁금하거나 심심할때 챗봇으로 사용하기 너무 좋음.
 
-현재 업계에서는 이 익명 모델들을 오픈AI가 몰래 테스트 중인 'GPT-Image 2'로 추측하고 있습니다.
-나노 바나나 프로(Nano Banana Pro)와 비견될 만큼 디테일과 텍스트 렌더링 성능이 훌륭하다는 평가가 쏟아지고 있는데요.
+또한, 이미지를 인식하고 추론까지 하는 멀티모달 기능과 에이전트 능력까지 갖춰서 잘 셋팅하면 정말 여행 파트너로써 최고..
 
-모니터 너머로 보이는 사진과 화면을 있는 그대로 믿기 힘든 시대가 더욱 가속화되는 것 같습니다.</description><pubDate>Sat, 04 Apr 2026 07:04:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWs2BpcjzFK</guid></item><item><title>1/ x@eddiboi</title><link>https://www.threads.net/@choi.openai/post/DWs2CQDD3oI</link><description>1/ x@eddiboi</description><pubDate>Sat, 04 Apr 2026 07:04:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWs2CQDD3oI</guid></item><item><title>2/ x@theo</title><link>https://www.threads.net/@choi.openai/post/DWs2DQyD9xD</link><description>2/ x@theo</description><pubDate>Sat, 04 Apr 2026 07:04:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWs2DQyD9xD</guid></item><item><title>3/</title><link>https://www.threads.net/@choi.openai/post/DWs2EWMD_VG</link><description>3/</description><pubDate>Sat, 04 Apr 2026 07:04:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWs2EWMD_VG</guid></item></channel></rss>
+가장 중요한 포인트는 프라이버시와 오프라인 환경으로 의료 기록이나 중요 계약서를 사진 찍어 물어봐도 데이터가 외부 서버로 빠져나가지 않고 폰 안에서만 처리되어 인터넷이 안 터지는 산속에서도 AI 비서를 쓸 수 있습니다.
+
+설치 방법 👇🏻</description><pubDate>Sun, 05 Apr 2026 05:08:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvNXkJj2uB</guid></item><item><title>안드로이드 :
+https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery...</title><link>https://www.threads.net/@choi.openai/post/DWvNo3PDzKE</link><description>안드로이드 :
+https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery&amp;hl=ko
+아이폰 :
+https://apps.apple.com/us/app/google-ai-edge-gallery/id6749645337</description><pubDate>Sun, 05 Apr 2026 05:08:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvNo3PDzKE</guid></item><item><title>더이상 아무것도 구분할 수 없습니다..
+GPT Image 2가 배포되고 있습니다,
+현실감·텍스트 표현·지시 이해까지 확 달라졌다는 반응이 쏟아지...</title><link>https://www.threads.net/@choi.openai/post/DWvDyAfD0A8</link><description>더이상 아무것도 구분할 수 없습니다..
+GPT Image 2가 배포되고 있습니다,
+현실감·텍스트 표현·지시 이해까지 확 달라졌다는 반응이 쏟아지고 있습니다.
+기존 구글 나노 바나나 계열과 정면 승부라는 말까지 나옵니다.
+100% AI로 생성된 실제 테스트 사례를 정리했습니다🧵</description><pubDate>Sun, 05 Apr 2026 03:42:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvDyAfD0A8</guid></item><item><title>1/ x@marmaduke091</title><link>https://www.threads.net/@choi.openai/post/DWvDykqD4CI</link><description>1/ x@marmaduke091</description><pubDate>Sun, 05 Apr 2026 03:42:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvDykqD4CI</guid></item><item><title>2/ x@CreepyTheater_K</title><link>https://www.threads.net/@choi.openai/post/DWvDzzcD19a</link><description>2/ x@CreepyTheater_K</description><pubDate>Sun, 05 Apr 2026 03:42:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvDzzcD19a</guid></item><item><title>3/ x@y_migita</title><link>https://www.threads.net/@choi.openai/post/DWvD02wD_lI</link><description>3/ x@y_migita</description><pubDate>Sun, 05 Apr 2026 03:43:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvD02wD_lI</guid></item></channel></rss>
