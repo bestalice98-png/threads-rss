@@ -1,40 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 05 Apr 2026 15:22:03 +0000</lastBuildDate><item><title>와… 3D 프린팅의 가장 큰 병목 현상을 이런식으로 해결했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 06 Apr 2026 02:32:48 +0000</lastBuildDate><item><title>엔비디아 CEO 젠슨 황은 검색 중심의 시대를 지나 이제는 모든 소프트웨어와 데이터가 실시간으로 생성되는 시대로 변모했다고 말합니다.
 
-Lukas Ziegler가 공유한 DHR Engineering의 3D 프린팅...</title><link>https://www.threads.net/@choi.openai/post/DWwRZQTATmd</link><description>와… 3D 프린팅의 가장 큰 병목 현상을 이런식으로 해결했습니다.
+과거에는...</title><link>https://www.threads.net/@choi.openai/post/DWxVjRMFmNc</link><description>엔비디아 CEO 젠슨 황은 검색 중심의 시대를 지나 이제는 모든 소프트웨어와 데이터가 실시간으로 생성되는 시대로 변모했다고 말합니다.
 
-Lukas Ziegler가 공유한 DHR Engineering의 3D 프린팅 팜 자동화 로봇이 화제입니다.
-기존에는 출력이 끝나면 사람이 직접 결과물을 떼어내고 다음 출력을 세팅해야 했지만, 해당 로봇은 완성품을 수거해 선반에 정리하고 다음 작업 준비까지 24시간 알아서 처리합니다.
+과거에는 미리 입력된 정보를 단순히 불러왔지만, 이제는 화면의 글자 하나까지 AI가 실시간으로 만들어내는 시대가 온 것입니다.
 
-작은 생산 사례지만, '생산 라인 전체'가 완벽한 무인화(Lights-out manufacturing) 단계로 진입하고 있는 것 같습니다.
-변수가 적은 소규모 3D 프린팅 팜에서 이러한 연속 생산 시스템이 증명된 만큼, 앞으로 다품종 소량 생산과 제조업의 물리적 확장 속도가 상상을 초월할 것으로 보입니다.
+그는 2년 전 챗GPT가 대중에게 AI를 알린 '소비자 모멘트'였다면, 이제는 기업용 소프트웨어에서 스스로 일을 처리하는 "에이전트 기반의 킬러 앱"이 등장했다고 강조했습니다.
 
-이제 단순 반복 작업은 로봇에게 완전히 넘겨주고, 24시간 쉬지 않고 생산성을 기하급수적으로 늘려가는 초개인화 소규모 무인 제조의 시대가 열리는듯 싶습니다.</description><pubDate>Sun, 05 Apr 2026 15:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWwRZQTATmd</guid></item><item><title>올해 본 아이디어중 손에 꼽을 정도로 놀랍습니다.
+그는 “AI 변곡점는 이미 도착했다”고 말하며, 엔터프라이즈 AI의 폭발적 성장이 인류의 생산성 지도를 완전히 새로 그리게 될 것이라고 확신했습니다.</description><pubDate>Mon, 06 Apr 2026 00:58:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWxVjRMFmNc</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=0CzP_p34y-c</title><link>https://www.threads.net/@choi.openai/post/DWxVzyIj5PO</link><description>풀영상 :
+https://www.youtube.com/watch?v=0CzP_p34y-c</description><pubDate>Mon, 06 Apr 2026 00:58:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWxVzyIj5PO</guid></item><item><title>둠에서 Codex 돌리기 ㅋㅋ..
 
-엔조 마누엘 망가노(Enzo Manuel Mangano)가 React Native WebGP...</title><link>https://www.threads.net/@choi.openai/post/DWwHB3iE6ln</link><description>올해 본 아이디어중 손에 꼽을 정도로 놀랍습니다.
+오픈AI의 Dominik Kundel가 고전 게임 DOOM 안에 OpenAI의 Codex를 연동하는 프로젝트...</title><link>https://www.threads.net/@choi.openai/post/DWxG1RxILdR</link><description>둠에서 Codex 돌리기 ㅋㅋ..
 
-엔조 마누엘 망가노(Enzo Manuel Mangano)가 React Native WebGPU를 활용해 만든 오픈소스 애니메이션 데모입니다.
-입력한 URL에 따라 나무의 형태가 실시간으로 변하고, 시점을 3D로 전환하면 실제 인식 가능한 QR 코드로 작동합니다.
-해당 데모를 포함해 110개가 넘는 애니메이션 코드가 깃허브에 무료로 공개되었습니다.</description><pubDate>Sun, 05 Apr 2026 13:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWwHB3iE6ln</guid></item><item><title>깃허브 :
-https://github.com/enzomanuelmangano/demos</title><link>https://www.threads.net/@choi.openai/post/DWwHC-hE9ZA</link><description>깃허브 :
-https://github.com/enzomanuelmangano/demos</description><pubDate>Sun, 05 Apr 2026 13:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWwHC-hE9ZA</guid></item><item><title>많은 분들이 간과하고 계신 점은 'Codex 앱 서버'가 오픈소스라는 사실입니다.
+오픈AI의 Dominik Kundel가 고전 게임 DOOM 안에 OpenAI의 Codex를 연동하는 프로젝트를 공개했는데요.
+게임 속에 구현된 터미널을 통해 AI에게 무기를 수정하게 하거나, 게임과 무관한 코딩 작업까지 시킬 수 있습니다.
 
-이로 인해 개발자들은 플랫폼이 정해준 틀에 갇히지 않고, 훨...</title><link>https://www.threads.net/@choi.openai/post/DWv8wp4AUFn</link><description>많은 분들이 간과하고 계신 점은 'Codex 앱 서버'가 오픈소스라는 사실입니다.
+해당 프로젝트는 인간의 개입 없이 Codex가 단 6시간 만에 스스로 코드를 짜고 완성했는데요. 심지어 로고 이미지를 적용할 때는 Playwright를 이용해 직접 DOOM을 플레이하며 시각적 오류를 스스로 테스트하는 모습까지 보여주었습니다.
 
-이로 인해 개발자들은 플랫폼이 정해준 틀에 갇히지 않고, 훨씬 높은 자율성으로 '나만의 업무 환경'을 직접 구축할 수 있는데요.
+앞으로의 게임은 완성된 채 배포되는 것이 아니라 플레이어가 게임을 하면서 프롬프트만으로 코어 엔진을 실시간으로 바꾸며 자신만의 세계를 창조하는 형태의 샌드박스로 진화할 가능성도 있을 것 같습니다.</description><pubDate>Sun, 05 Apr 2026 22:49:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWxG1RxILdR</guid></item><item><title>크리에이티브 플랫폼 FLORA에서 새로운 전용 AI 에이전트 'FAUNA'를 공개했습니다.
 
-최근 해외에서 화제가 된 한 개발자(LLMJunky)의 사례가 이를 잘 보여주고 있습니다.
-그는 PC에서 구동되는 코딩 에이전트를 모바일과 연동하는 앱을 직접 개발했습니다.
-덕분에 소파에 누워 아이스크림을 먹으면서도 스마트폰 하나로 전체 코딩 작업을 원격으로 통제할 수 있게 되었습니다.
+사용자가 원하는 것을 설명하면 AI가 스스로 어떤 ...</title><link>https://www.threads.net/@choi.openai/post/DWw5Y8fkwHj</link><description>크리에이티브 플랫폼 FLORA에서 새로운 전용 AI 에이전트 'FAUNA'를 공개했습니다.
 
-API가 아닌 내 ChatGPT 계정을 그대로 활용하면서, 파편화된 인프라와 씨름할 필요 없이 내 입맛에 맞는 에이전트 앱을 직접 설계할 수 있다는 점은 정말 매력적인 생태계입니다.
+사용자가 원하는 것을 설명하면 AI가 스스로 어떤 모델을 쓸지, 어떤 순서로 작업할지 결정해 눈앞의 캔버스에 전체 워크플로우를 직접 조립해 줍니다.
 
-기업이 정해준 인터페이스에 갇히는 것이 아니라, 내가 일하고 생활하는 방식에 맞춰 AI 생태계를 완전히 재설계하는 '개인화'도 고려해보세요.</description><pubDate>Sun, 05 Apr 2026 12:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWv8wp4AUFn</guid></item><item><title>구글 딥마인드의 모스타파 데흐가니는 인공지능이 스스로를 개선하는 "자가 개선의 루프(loop of self-improvement)"가 이미 시작...</title><link>https://www.threads.net/@choi.openai/post/DWvyY1jD-Vf</link><description>구글 딥마인드의 모스타파 데흐가니는 인공지능이 스스로를 개선하는 "자가 개선의 루프(loop of self-improvement)"가 이미 시작되었다고 진단했습니다.
+필요하면 웹에서 레퍼런스를 검색해 오고, 마음에 들지 않는 부분만 따로 수정하며 전체 작업 흐름을 세밀하게 통제할 수 있습니다.
 
-그는 모델 진화 과정에서 "인간이라는 병목 현상"이 곧 제거될 것이라고 강조했습니다.
+이제 AI는 작업자의 의도와 감각을 중심에 두고, 복잡한 생산 파이프라인 전체를 대신 구축하는 방향으로 진화하고 있습니다.</description><pubDate>Sun, 05 Apr 2026 20:50:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWw5Y8fkwHj</guid></item><item><title>블로그 :
+https://flora.ai/blog/introducing-fauna</title><link>https://www.threads.net/@choi.openai/post/DWw5b2WEw48</link><description>블로그 :
+https://flora.ai/blog/introducing-fauna</description><pubDate>Sun, 05 Apr 2026 20:50:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWw5b2WEw48</guid></item><item><title>스레드에 게시물 9000개 쓰면 생기는 일
 
-이제 지능의 발전을 가로막는 것은 인간의 한계가 아니라 오직 연산 자원의 규모뿐이라는 것입니다.
+요즘 스레드에 쓴 글들을 옵시디언으로 정리하고 있습니다.
+예전에는 따로 시스템을 만들어 관리했는데,...</title><link>https://www.threads.net/@choi.openai/post/DWwbqbxgY_V</link><description>스레드에 게시물 9000개 쓰면 생기는 일
 
-지능이 지능을 낳는 자동화된 순환 구조가 완성되면, 인류는 지금까지와는 비교할 수 없는 거대한 기술적 도약을 목격하게 될 것입니다.</description><pubDate>Sun, 05 Apr 2026 10:32:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvyY1jD-Vf</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=Bo19sXssYXI</title><link>https://www.threads.net/@choi.openai/post/DWvyXmADwBV</link><description>풀영상 :
-https://www.youtube.com/watch?v=Bo19sXssYXI</description><pubDate>Sun, 05 Apr 2026 10:29:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWvyXmADwBV</guid></item></channel></rss>
+요즘 스레드에 쓴 글들을 옵시디언으로 정리하고 있습니다.
+예전에는 따로 시스템을 만들어 관리했는데, 이번에는 안드레 카파시의 구조도 테스트 해보면서 더 체계적으로 옮겨보는 중입니다.
+
+사실 제가 스레드에 같은 주제로 꾸준히 글을 써온 이유도 이와 비슷합니다.
+비정형 데이터의 가치가 점점 커지고 있기 때문입니다.
+
+과거에는 정제된 문서나 데이터베이스 같은 구조화된 데이터만 의미 있는 자산으로 여겨졌습니다.
+
+하지만 지금은 LLM이 발전하면서, 메모나 스쳐가는 생각, 스크랩한 이미지나 링크 같은 비정형 데이터도 그 자체로 의미와 맥락을 만들어내는 시대가 됐습니다.</description><pubDate>Sun, 05 Apr 2026 16:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWwbqbxgY_V</guid></item><item><title>파편처럼 흩어져 있던 생각들이 이어지고,
+그 안에서 반복되는 패턴이 발견되며, 전혀 달라 보이던 맥락들이 하나로 묶일 때 비로소 거대한 흐름이 ...</title><link>https://www.threads.net/@choi.openai/post/DWwbrU8AUAu</link><description>파편처럼 흩어져 있던 생각들이 이어지고,
+그 안에서 반복되는 패턴이 발견되며, 전혀 달라 보이던 맥락들이 하나로 묶일 때 비로소 거대한 흐름이 만들어집니다.
+흐름을 지속적으로 기록하다 보면 결국 우리가 나아가야 할 방향이 보이고, 미래를 예측할 수 있는 통찰이 생깁니다.
+
+그래서 저는 트렌드의 흐름과 패턴, 커뮤니티의 동향, 실제 비즈니스 사례를 중심으로 정보를 확산하는 동시에, 중간중간 호흡이 긴 글을 심도 있게 정리합니다.
+
+이러한 긴 호흡의 글들은 흩어진 생각들을 연결하는 단단한 기준점이 됩니다.
+
+AI가 버튼 하나로 무수한 결과물을 쉽게 쏟아내는 시대일수록,
+진정한 통찰과 직관은 시대의 흐름을 놓치지 않고 흩어진 데이터를 고유한 관점으로 엮어내는 능력에서 나옵니다.
+
+중간에 적어 내려가는 긴 생각들은 궁극적으로 내 자신을 지식 자본으로 자산화하며, 미래의 비즈니스 레버리지를 지속적으로 끌어올리는 핵심 동력이 됩니다.</description><pubDate>Sun, 05 Apr 2026 16:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWwbrU8AUAu</guid></item><item><title>결국 이 모든 기록은 단순한 축적에 머물지 않고 입체적으로 구조화됩니다.
+그리고 그 구조화된 결과물은 곧 '나'를 설명하고 증명하는 대체 불가능...</title><link>https://www.threads.net/@choi.openai/post/DWwbsjpAbAZ</link><description>결국 이 모든 기록은 단순한 축적에 머물지 않고 입체적으로 구조화됩니다.
+그리고 그 구조화된 결과물은 곧 '나'를 설명하고 증명하는 대체 불가능한 데이터베이스가 됩니다.
+
+안드레 카파시가 강조했듯, 최신 AI 모델의 패러다임 코드 생성을 넘어 '지식 자체를 조작하고 다루는 방향'으로 진화하고 있습니다.
+
+그 지식은 범용적인 파일 포맷과 기록의 형태로 쌓이고 상호 연결되어 강력한 지식 그래프를 구축합니다.
+
+단단하게 구축된 개인화된 지식 그래프는 AI 에이전트와 결합할 때 개인의 역량과 레버리지를 상상 이상으로 빠르고 거대하게 확장시킵니다.
+
+이는 곧 나 자신을 자산화하는 가장 확실한 과정이자, 다가올 미래의 주도권을 쥐기 위한 필수적인 작업입니다.
+기록하지 않으면 연결할 수 없고, 연결되지 않으면 결국 AI 시대에 존재하지 않는 데이터가 될 뿐입니다.
+
+기록하고 공유하세요.
+Batch API 잘 사용하면 저렴하게 가능합니다.</description><pubDate>Sun, 05 Apr 2026 16:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWwbsjpAbAZ</guid></item></channel></rss>
