@@ -1,5 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 07 Apr 2026 02:27:37 +0000</lastBuildDate><item><title>샘 알트만(Sam Altman)은 최근 대담에서 현재의 AI 기술 수준이 범용 인공지능(AGI)에 매우 근접해 있다고 진단했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 07 Apr 2026 09:19:47 +0000</lastBuildDate><item><title>오픈AI가 왜 갑자기 초지능 청사진을 꺼냈는지 이유가 나왔습니다.
+샘 알트만은 변화가 이미 시작됐는데 사회가 아직 못 따라오고 있다고 봤습니다....</title><link>https://www.threads.net/@choi.openai/post/DW0qBNLj4-q</link><description>오픈AI가 왜 갑자기 초지능 청사진을 꺼냈는지 이유가 나왔습니다.
+샘 알트만은 변화가 이미 시작됐는데 사회가 아직 못 따라오고 있다고 봤습니다.
+특히, 일자리와 복지, 컴퓨팅 배분까지 준비가 필요하다고 말했습니다.
+오늘 새벽에 있었던 라이브 내용을 정리했습니다 🧵</description><pubDate>Tue, 07 Apr 2026 07:53:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW0qBNLj4-q</guid></item><item><title>1/ 왜 지금 초지능인가?
+
+진행자가 "왜 하필 지금 초지능에 대한 논의를 시작하느냐"고 묻자, 알트먼은 코로나19(COVID-19) 초기의 경...</title><link>https://www.threads.net/@choi.openai/post/DW0qBs7jzOH</link><description>1/ 왜 지금 초지능인가?
+
+진행자가 "왜 하필 지금 초지능에 대한 논의를 시작하느냐"고 묻자, 알트먼은 코로나19(COVID-19) 초기의 경험을 회상했습니다.
+
+세상 사람들은 마스크 없이 평범한 일상을 보내고 있었지만, 지수함수적(Exponential)인 바이러스의 확산 속도를 이해했던 오픈AI 직원들은 이미 마스크를 쓰고 봉쇄에 대비하며 "무언가 거대한 것이 오고 있다"고 느꼈다는 것입니다.
+
+알트먼은 "지금의 AI 발전 속도가 바로 그 순간과 똑같다"며, 모델의 성능 향상이 가속화되는 것을 내부에서 명확히 보고 있기에 대중과 정치권이 미리 논의하고 대비할 시간을 주기 위해 지금 화두를 던진 것이라고 강조했습니다.</description><pubDate>Tue, 07 Apr 2026 07:53:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW0qBs7jzOH</guid></item><item><title>2/ 쏟아지는 수많은 AI와 창발적 복원력
+
+과거에는 소수의 거대 AI만 잘 통제하면 안전할 것이라고 믿었지만(고전적 AI 안전), 이제는 오픈...</title><link>https://www.threads.net/@choi.openai/post/DW0qCwujyAO</link><description>2/ 쏟아지는 수많은 AI와 창발적 복원력
+
+과거에는 소수의 거대 AI만 잘 통제하면 안전할 것이라고 믿었지만(고전적 AI 안전), 이제는 오픈소스 모델을 포함해 수많은 AI가 세상에 풀릴 것입니다.
+
+알트먼은 누군가가 AI로 치명적인 사이버 해킹이나 생물학 병기를 만들 위험이 분명히 존재한다고 인정합니다.
+
+하지만 그 대응책 역시 AI입니다. 수많은 방어용 AI와 시스템들이 서로 상호작용하며 해킹을 막아내고 백신을 개발하는 등, 사회 전체의 '창발적인 복원력(Emergent resilience)'을 구축하는 것이 앞으로의 핵심 방어 전략이 될 것이라고 설명했습니다.</description><pubDate>Tue, 07 Apr 2026 07:53:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW0qCwujyAO</guid></item><item><title>3/ 풍요의 시대를 여는 컴퓨팅 파워
+Josh Achiam은 사회가 모든 사람에게 주거, 의료, 교육을 제공하고 싶었지만 항상 "비용이 너무 많...</title><link>https://www.threads.net/@choi.openai/post/DW0qDQYj9zQ</link><description>3/ 풍요의 시대를 여는 컴퓨팅 파워
+Josh Achiam은 사회가 모든 사람에게 주거, 의료, 교육을 제공하고 싶었지만 항상 "비용이 너무 많이 든다"는 핑계에 부딪혀왔다고 지적합니다.
+
+하지만 초지능 AI는 이 모든 것을 극도로 저렴한 비용으로 해결할 잠재력을 가지고 있습니다.
+
+알트먼은 "과거 전기의 보급이 인류의 삶의 질을 높였듯, 지능의 비용을 끝없이 낮춰서 수요가 무한대인 컴퓨팅 자원을 모두가 저렴하게 쓸 수 있게 하는 것이 진정한 AI 민주화"라고 강조했습니다.
+
+만약 인프라(데이터 센터 등)를 충분히 구축하지 못해 컴퓨팅 자원이 부족해지면, 부자들과 거대 기업들만이 그 가격을 올려 독점하게 될 것이라고 경고했습니다.</description><pubDate>Tue, 07 Apr 2026 07:53:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW0qDQYj9zQ</guid></item><item><title>구글 크롬 팀의 엔지니어링 리더인 Addy Osmani가 AI 코딩 에이전트를 위한 'Agent Skills'를 오픈소스로 공개했습니다.
+
+AI...</title><link>https://www.threads.net/@choi.openai/post/DW0iDsgj5-j</link><description>구글 크롬 팀의 엔지니어링 리더인 Addy Osmani가 AI 코딩 에이전트를 위한 'Agent Skills'를 오픈소스로 공개했습니다.
+
+AI는 보통 작동만 하는 코드를 빨리 만들기 위해 테스트나 보안 검토를 건너뛰려는 꼼수를 부리기도 하는데요.
+
+해당 스킬셋은 6개의 간단한 명령어만으로 설계부터 테스트, 코드 리뷰, 배포까지 구글 내부의 시니어 엔지니어링 작업 방식을 AI에게 완벽하게 강제합니다.</description><pubDate>Tue, 07 Apr 2026 06:43:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW0iDsgj5-j</guid></item><item><title>깃허브 :
+https://github.com/addyosmani/agent-skills</title><link>https://www.threads.net/@choi.openai/post/DW0iESCD8B5</link><description>깃허브 :
+https://github.com/addyosmani/agent-skills</description><pubDate>Tue, 07 Apr 2026 06:43:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW0iESCD8B5</guid></item><item><title>샘 알트만은 새로운 모델들이 가져올 변화가 "과학과 경제 발전을 가속화하는 데 절대적인 영향을 미칠 것"이라고 강조했습니다.
+
+그는 오픈AI의 ...</title><link>https://www.threads.net/@choi.openai/post/DW0KEwsD7Zs</link><description>샘 알트만은 새로운 모델들이 가져올 변화가 "과학과 경제 발전을 가속화하는 데 절대적인 영향을 미칠 것"이라고 강조했습니다.
+
+그는 오픈AI의 역사에서 중요한 순간마다 선택과 집중이 필요했음을 언급하며, 현재가 바로 모든 자원을 한곳으로 모아야 할 시기라고 진단했습니다.
+특히 연산 자원(Compute)의 배분이 인류의 미래를 결정짓는 핵심 요소가 될 것으로 보고 있습니다.
+
+알트만은 "100만 개의 GPU를 비디오 생성에 쓸 수도 있지만, 모든 종류의 암을 치료하는 데 투입할 수도 있다"며 기술의 우선순위를 과학적 혁신에 두겠다는 의지를 밝혔습니다.
+
+그는 우리가 곧 "지평선 너머에 있는 거대한 무언가를 마주하게 될 것"이라며, 이를 위해 오픈AI의 모든 화력을 집중할 때라고 덧붙였습니다.</description><pubDate>Tue, 07 Apr 2026 03:14:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW0KEwsD7Zs</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=XUu-i9Wbh-c</title><link>https://www.threads.net/@choi.openai/post/DW0KFGGj3No</link><description>풀영상 :
+https://www.youtube.com/watch?v=XUu-i9Wbh-c</description><pubDate>Tue, 07 Apr 2026 03:13:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW0KFGGj3No</guid></item><item><title>샘 알트만(Sam Altman)은 최근 대담에서 현재의 AI 기술 수준이 범용 인공지능(AGI)에 매우 근접해 있다고 진단했습니다.
 
 그는 현 ...</title><link>https://www.threads.net/@choi.openai/post/DWz-PvdCDtq</link><description>샘 알트만(Sam Altman)은 최근 대담에서 현재의 AI 기술 수준이 범용 인공지능(AGI)에 매우 근접해 있다고 진단했습니다.
 
@@ -7,30 +54,4 @@
 
 “정말 빠져 있는 유일한 것은 일종의 연속적인 학습이나 장기 기억이라고 생각합니다. 하지만 그 외에는 저에게 매우 AGI처럼 느껴집니다.”</description><pubDate>Tue, 07 Apr 2026 01:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWz-PvdCDtq</guid></item><item><title>풀영상 :
 https://www.youtube.com/watch?v=XUu-i9Wbh-c</title><link>https://www.threads.net/@choi.openai/post/DWz-UBZiA0y</link><description>풀영상 :
-https://www.youtube.com/watch?v=XUu-i9Wbh-c</description><pubDate>Tue, 07 Apr 2026 01:31:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWz-UBZiA0y</guid></item><item><title>앤트로픽(Anthropic)이 구글, 브로드컴과 2027년부터 가동될 수 기가와트 규모의 차세대 TPU 확보 계약을 맺었습니다.
-
-Claude의...</title><link>https://www.threads.net/@choi.openai/post/DWz09Nvj53w</link><description>앤트로픽(Anthropic)이 구글, 브로드컴과 2027년부터 가동될 수 기가와트 규모의 차세대 TPU 확보 계약을 맺었습니다.
-
-Claude의 수요 폭발로 연간 환산 매출이 불과 몇 달 만에 90억 달러에서 300억 달러로 뛰자, 이를 감당할 거대 인프라 구축에 나선 겁니다.
-
-주목할 부분은 AI 경쟁의 가장 큰 병목이 칩을 넘어 '전력'으로 이동했다는 점과 비싼 엔비디아(NVIDIA) 칩 대신 구글의 자체 칩(TPU)을 대규모로 선택해 인프라 비용 구조를 현실화하려 한다는 것입니다.
-
-이제 AI 패권은 누가 더 많은 전기를 끌어오고 비용 효율적인 인프라를 구축하느냐의 물리적인 싸움으로 변모하고 있습니다.</description><pubDate>Tue, 07 Apr 2026 00:09:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWz09Nvj53w</guid></item><item><title>블로그 :
-https://www.anthropic.com/news/google-broadcom-partnership-compute</title><link>https://www.threads.net/@choi.openai/post/DWz099Ljx9d</link><description>블로그 :
-https://www.anthropic.com/news/google-broadcom-partnership-compute</description><pubDate>Tue, 07 Apr 2026 00:09:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWz099Ljx9d</guid></item><item><title>최근 폐쇄형 노선을 탈 것이라는 루머가 돌았던 메타가, Alexandr Wang 주도하에 개발 중인 차세대 모델의 일부 버전을 오픈소스로 공개할...</title><link>https://www.threads.net/@choi.openai/post/DWzmK93j7M_</link><description>최근 폐쇄형 노선을 탈 것이라는 루머가 돌았던 메타가, Alexandr Wang 주도하에 개발 중인 차세대 모델의 일부 버전을 오픈소스로 공개할 계획이라고 밝혔습니다.
-과거처럼 모든 기술을 개방하는 방식에서 벗어나, 최상위 모델은 비공개로 유지하고 안전성을 검증한 버전만 배포하는 하이브리드 전략으로 선회했습니다.
-
-오픈AI와 앤트로픽이 기업 및 정부 계약에 집중하는 흐름 속에서, 메타는 개발자 친화적인 환경을 유지하며 WhatsApp 등 자사의 거대 플랫폼으로 글로벌 소비자를 직접 공략하려는 의도로 해석됩니다.
-
-비공개 기술로 경쟁 우위를 확보하면서 동시에 오픈소스 주도권도 놓치지 않겠다는 메타의 영리한 줄타기가 향후 시장에 어떤 판도 변화를 가져올지 흥미로워집니다.</description><pubDate>Mon, 06 Apr 2026 22:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWzmK93j7M_</guid></item><item><title>기사 :
-https://www.axios.com/2026/04/06/meta-open-source-ai-models</title><link>https://www.threads.net/@choi.openai/post/DWzmLzYjxMC</link><description>기사 :
-https://www.axios.com/2026/04/06/meta-open-source-ai-models</description><pubDate>Mon, 06 Apr 2026 22:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWzmLzYjxMC</guid></item><item><title>2026년 4월 13일자 The New Yorker 매거진에 실린 "샘 알트먼이 우리의 미래를 통제할 수도 있다 — 그를 믿을 수 있는가?"가 ...</title><link>https://www.threads.net/@choi.openai/post/DWzb610AXAY</link><description>2026년 4월 13일자 The New Yorker 매거진에 실린 "샘 알트먼이 우리의 미래를 통제할 수도 있다 — 그를 믿을 수 있는가?"가 엄청난 파장을 일으키고 있습니다.
-
-2023년 샘 알트만 CEO가 돌연 해임됐던 이유는 다름 아닌 그의 잦은 '거짓말'이었다고 전해집니다.
-최근 뉴요커 폭로에 따르면, 알트만은 막대한 자금을 모으기 위해 미국과 중국, 심지어 러시아 사이에서 'AI 군비 경쟁'을 고의로 붙이려 했고 안전팀마저 해체했다고 전해집니다.
-
-하지만 최근 법정 증언에 따르면, 당시 쿠데타의 배후에는 오픈AI의 연구 전권을 독차지하려던 다리오 아모데이의 개인적 권력욕이 얽혀 있었고, 명확한 증거 없이 소문만으로 알트만을 내쫓았다는 내용도 이전에 밝혀진바가 있습니다.
-
-이제는 AI 기업들이 ‘국가 안보’를 근거로 규제와 자금을 동시에 설계하는 구조가 시작되고 있습니다. 기술 경쟁처럼 보이지만 실제로는 정책, 자본, 권력이 얽힌 게임으로 넘어가는 흐름입니다.</description><pubDate>Mon, 06 Apr 2026 20:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWzb610AXAY</guid></item><item><title>기사 :
-https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-fu...</title><link>https://www.threads.net/@choi.openai/post/DWzb8INAXdU</link><description>기사 :
-https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted</description><pubDate>Mon, 06 Apr 2026 20:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWzb8INAXdU</guid></item></channel></rss>
+https://www.youtube.com/watch?v=XUu-i9Wbh-c</description><pubDate>Tue, 07 Apr 2026 01:31:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DWz-UBZiA0y</guid></item></channel></rss>
