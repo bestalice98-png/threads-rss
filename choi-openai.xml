@@ -1,41 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 08 Apr 2026 02:28:25 +0000</lastBuildDate><item><title>구글 딥마인드의 수장 데미스 하사비스(Demis Hassabis)는 “AI는 현재 좀 과하게 과대평가된 면이 있다”고 지적하면서도, 동시에 장기...</title><link>https://www.threads.net/@choi.openai/post/DW2jC5SEUTK</link><description>구글 딥마인드의 수장 데미스 하사비스(Demis Hassabis)는 “AI는 현재 좀 과하게 과대평가된 면이 있다”고 지적하면서도, 동시에 장기적인 잠재력에 대해서는 여전히 많은 이들이 간과하고 있음을 강조했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 08 Apr 2026 09:01:30 +0000</lastBuildDate><item><title>구글이 Chrome 브라우저에 탭을 화면 옆으로 배치하는 수직 탭기능과 시각적 방해 요소를 없앤 몰입형 읽기 모드를 공식 도입했습니다.
+이제 탭...</title><link>https://www.threads.net/@choi.openai/post/DW3WlS_DXKW</link><description>구글이 Chrome 브라우저에 탭을 화면 옆으로 배치하는 수직 탭기능과 시각적 방해 요소를 없앤 몰입형 읽기 모드를 공식 도입했습니다.
+이제 탭을 아무리 많이 열어둬도 제목이 잘리지 않고 한눈에 파악할 수 있게되었습니다.
 
-현재 AI 기술의 발전 속도는 그 어떤 기술보다 빠르며, 특히 10년 뒤의 미래를 내다봤을 때 우리 세상을 완전히 뒤바꿀 혁명적인 변화가 일어날 것이라고 예견했습니다.
-그는 이 현상을 단기적으로는 거품이 껴 있지만, 장기적으로는 여전히 “과소평가된 상태”라고 정의했습니다.
+더불어 한국에서도 어서 크롬에 Gemini 기본 탑재가 되었으면 좋겠네요.</description><pubDate>Wed, 08 Apr 2026 09:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3WlS_DXKW</guid></item><item><title>활성화 방법 :
 
-AI가 가져올 지능의 폭발은 코딩, 경제 구조, 그리고 과학적 발견의 방식을 근본적으로 재편할 것입니다.</description><pubDate>Wed, 08 Apr 2026 01:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW2jC5SEUTK</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=SSya123u9Yk</title><link>https://www.threads.net/@choi.openai/post/DW2jD1xEYvm</link><description>풀영상 :
-https://www.youtube.com/watch?v=SSya123u9Yk</description><pubDate>Wed, 08 Apr 2026 01:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW2jD1xEYvm</guid></item><item><title>역시 일본은 이런게 빠르군요.
+1. 크롬 최신버전 업데이트
+2. chrome://flags 방문
+3. vertical tabs 검색 및 활성화</title><link>https://www.threads.net/@choi.openai/post/DW3WmXsjVsC</link><description>활성화 방법 :
 
-Kazuya-bros가 "PachiPakuGen"이라는 새로운 도구를 공개했습니다.
+1. 크롬 최신버전 업데이트
+2. chrome://flags 방문
+3. vertical tabs 검색 및 활성화</description><pubDate>Wed, 08 Apr 2026 09:01:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3WmXsjVsC</guid></item><item><title>Cognition이 코딩 특화 모델 SWE-1.6을 공개하며 Windsurf에 탑재했습니다.
 
-이전에 소개해드린 한 장의...</title><link>https://www.threads.net/@choi.openai/post/DW2OeNEAms9</link><description>역시 일본은 이런게 빠르군요.
+기존 코딩 AI들은 단순한 문제도 복잡하게 생각하...</title><link>https://www.threads.net/@choi.openai/post/DW3MQ-mgJy_</link><description>Cognition이 코딩 특화 모델 SWE-1.6을 공개하며 Windsurf에 탑재했습니다.
 
-Kazuya-bros가 "PachiPakuGen"이라는 새로운 도구를 공개했습니다.
+기존 코딩 AI들은 단순한 문제도 복잡하게 생각하며 헛바퀴를 돌거나, 터미널에 과도하게 의존해 사용자가 일일이 개입해야 하는 답답함이 있었습니다.
 
-이전에 소개해드린 한 장의 일러스트에서 레이어를 분리하는 See-Through와 Meta의 SAM3를 결합해, 기존에 부자연스러웠던 목과 입 부위를 고정밀로 자동 추출하고 보정해 줍니다.
-여기에 RIFE 프레임 보간 기술까지 더해져 매끄러운 입모양과 눈 깜빡임 애니메이션을 단번에 생성할 수 있습니다.
+Cognition이 새롭게 공개한 SWE-1.6은 지능 수치를 올리기보다 사용자가 느끼는 '모델 UX'를 개선하는 데 집중했습니다.
+훈련 과정에 길이 페널티를 도입해 불필요한 긴 추론을 줄이고 여러 도구를 동시에 병렬로 사용하도록 만들어 효율을 크게 높인 것인데요.
+벤치마크 점수는 이전 프리뷰 버전과 비슷하게 유지하면서, 병렬 도구 호출을 적극적으로 사용하고 무의미한 반복을 크게 줄였습니다.
+특히 시스템 오류를 유발하기 쉬운 터미널 명령어 대신 자체 도구를 우선 사용하도록 행동 패턴을 교정했습니다.
 
-Gemma 4 같은 로컬 LLM과 결합하면 개인 PC 환경만으로도 반응이 빠르고 자연스럽게 움직이는 AITuber를 쉽게 구현할 수 있습니다.
-다양한 분야에서 활용될 수 있을 것 같습니다.</description><pubDate>Tue, 07 Apr 2026 22:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW2OeNEAms9</guid></item><item><title>깃허브 :
-https://github.com/kazuya-bros/PachiPakuGen</title><link>https://www.threads.net/@choi.openai/post/DW2OhbhgrL3</link><description>깃허브 :
-https://github.com/kazuya-bros/PachiPakuGen</description><pubDate>Tue, 07 Apr 2026 22:31:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW2OhbhgrL3</guid></item><item><title>구글 딥마인드의 CEO 데미스 하사비스(Demis Hassabis)는 미래의 AGI 시스템 구축에 있어 현재의 파운데이션 모델이 핵심적인 역할을...</title><link>https://www.threads.net/@choi.openai/post/DW2EHyKjlHs</link><description>구글 딥마인드의 CEO 데미스 하사비스(Demis Hassabis)는 미래의 AGI 시스템 구축에 있어 현재의 파운데이션 모델이 핵심적인 역할을 할 것이라고 강조했습니다.
+초당 최대 950토큰의 빠른 속도로 작동한다고 하니, 실제 개발 환경에서 어떤 쾌적한 흐름을 만들어낼지 지켜봐야겠습니다.</description><pubDate>Wed, 08 Apr 2026 07:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3MQ-mgJy_</guid></item><item><title>발표내용 :
+https://cognition.ai/blog/swe-1-6</title><link>https://www.threads.net/@choi.openai/post/DW3MSAggEfQ</link><description>발표내용 :
+https://cognition.ai/blog/swe-1-6</description><pubDate>Wed, 08 Apr 2026 07:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3MSAggEfQ</guid></item><item><title>구글 딥마인드 CEO 데미스 하사비스는 AGI가 가져올 노동 시장의 거대한 변화에 대해 언급했습니다.
 
-그는 얀 르쿤(Yann LeCun) 등의 견해와는 조금 다르게, “세상이 어떻게 움직이는지 이해하는 ‘월드 모델’ 같은 새로운 접근법이 필요할 수도 있지만, 결국 이 또한 기존 파운데이션 모델 위에 구축될 것”이라고 내다봤습니다.
+그는 과거의 혁신적인 기술들이 기존 일자...</title><link>https://www.threads.net/@choi.openai/post/DW3DBpiD8EQ</link><description>구글 딥마인드 CEO 데미스 하사비스는 AGI가 가져올 노동 시장의 거대한 변화에 대해 언급했습니다.
 
-특히 하사비스는 스케일링 법칙(Scaling Laws)에 따른 성능 향상이 여전히 유효하다는 점을 주목하며 다음과 같이 언급했습니다.
+그는 과거의 혁신적인 기술들이 기존 일자리를 대체함과 동시에 더 고도화된 새로운 일자리를 창출해왔던 역사적 흐름을 인정하면서도, 이번 AI 혁명은 그 궤가 다를 것이라고 경고했습니다.
 
-“진짜 질문은 LLM 기반 파운데이션 모델이 미래 AGI 시스템의 핵심 ‘부품’이 될 것인지, 아니면 시스템 ‘전부’가 될 것인지의 문제입니다.”</description><pubDate>Tue, 07 Apr 2026 21:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW2EHyKjlHs</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=SSya123u9Yk</title><link>https://www.threads.net/@choi.openai/post/DW2EIr5DprP</link><description>풀영상 :
-https://www.youtube.com/watch?v=SSya123u9Yk</description><pubDate>Tue, 07 Apr 2026 21:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW2EIr5DprP</guid></item><item><title>Ai2가 단일 카메라 환경에서 3D 객체를 탐지하는 오픈 모델 "WildDet3D"를 공개했습니다.
+하사비스는 AGI의 등장을 “산업혁명보다 10배 더 큰 변화가, 10배 더 빠른 속도로 다가오는 것”이라고 정의했습니다.
 
-해당 모델은 텍스트 입력이나 클릭 한 번으...</title><link>https://www.threads.net/@choi.openai/post/DW1y8gSAa4f</link><description>Ai2가 단일 카메라 환경에서 3D 객체를 탐지하는 오픈 모델 "WildDet3D"를 공개했습니다.
+그는 산업혁명이 현대 의학 발전 등 인류에게 거대한 진보를 가져다주었지만, 동시에 사회적 혼란도 야기했음을 상기시켰습니다.
 
-해당 모델은 텍스트 입력이나 클릭 한 번으로 700개가 넘는 객체에 정확한 3D 영역(바운딩 박스)을 씌워줍니다. 한 번도 본 적 없는 자율주행 상황이나 실내 공간에서도 기존 최고 점수를 두 배 가까이 뛰어넘는 성능을 기록했습니다.
+따라서 다가올 미래에는 "기술적 돌파구에 따른 부작용을 과거보다 더 현명하게 줄여나가는 것”이 핵심 과제가 될 것이라고 강조했습니다.</description><pubDate>Wed, 08 Apr 2026 06:10:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3DBpiD8EQ</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=SSya123u9Yk</title><link>https://www.threads.net/@choi.openai/post/DW3DEVVD2Uh</link><description>풀영상 :
+https://www.youtube.com/watch?v=SSya123u9Yk</description><pubDate>Wed, 08 Apr 2026 06:10:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3DEVVD2Uh</guid></item><item><title>우리는 정말 중요한 것을 놓치고 있습니다.
+다들 앤트로픽의 미토스 성능에 열광하고 있지만, 놓치면 안되는 중요한 시사점이 너무 많이 있습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DW23YXqjy5c</link><description>우리는 정말 중요한 것을 놓치고 있습니다.
+다들 앤트로픽의 미토스 성능에 열광하고 있지만, 놓치면 안되는 중요한 시사점이 너무 많이 있습니다.
+극단적 양극화, 패권, AI 모델의 전략 자산화, 기술 격차까지
+우리가 놓치고 있는 포인트 13가지를 정리해봤습니다. 🧵</description><pubDate>Wed, 08 Apr 2026 04:28:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW23YXqjy5c</guid></item><item><title>1/ 불과 얼마 전까지 AI 예측 시나리오(AI 2027)가 "2026-2027년 초인적 해킹 AI가 등장하고, 선두 기업은 260억 달러 매출...</title><link>https://www.threads.net/@choi.openai/post/DW23Yzyj5jo</link><description>1/ 불과 얼마 전까지 AI 예측 시나리오(AI 2027)가 "2026-2027년 초인적 해킹 AI가 등장하고, 선두 기업은 260억 달러 매출을 낼 것"이라고 전망했을 때 대중은 심각하게 받아들이지 않았습니다.
 
-Ai2는 적은 연산량으로 성능을 높인 모델은 물론, 370만 개의 3D 주석이 포함된 방대한 데이터셋(WildDet3D-Data)과 소스 코드까지 전부 공개해 생태계 확장을 노리고 있습니다.
+하지만 4월 현재, 미토스는 인간을 초월한 해킹을 증명했고 앤스로픽은 연 매출 300억 달러를 돌파하며 1조 달러 가치를 향해 가고 있습니다.
 
-일반 사용자도 바로 체험할 수 있는 iOS 앱까지 함께 출시되었습니다.</description><pubDate>Tue, 07 Apr 2026 18:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW1y8gSAa4f</guid></item><item><title>블로그 :
-https://allenai.org/blog/wilddet3d</title><link>https://www.threads.net/@choi.openai/post/DW1y9c1AcgL</link><description>블로그 :
-https://allenai.org/blog/wilddet3d</description><pubDate>Tue, 07 Apr 2026 18:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW1y9c1AcgL</guid></item></channel></rss>
+기하급수적 기술 발전 곡선은 인간의 직관을 가볍게 뛰어넘습니다.
+
+미래학자 레이 커즈와일이 예견했던 '수확 가속의 법칙(Law of Accelerating Returns)'이 눈앞에서 증명되는 순간입니다.
+
+과거의 잣대로 미래의 속도를 가늠하는 것은 이제 가장 위험한 착각이 되었습니다.</description><pubDate>Wed, 08 Apr 2026 04:28:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW23Yzyj5jo</guid></item><item><title>2/ 앤트로픽이 미토스를 대중에게 공개하지 못하는 이면에는 위험성 너머의 물리적 한계가 존재합니다.
+
+미토스의 구동 비용은 전작인 오퍼스 4.6...</title><link>https://www.threads.net/@choi.openai/post/DW23aCbjxL1</link><description>2/ 앤트로픽이 미토스를 대중에게 공개하지 못하는 이면에는 위험성 너머의 물리적 한계가 존재합니다.
+
+미토스의 구동 비용은 전작인 오퍼스 4.6 대비 5배에 달합니다. 해당 모델을 대중에게 그대로 개방하면 전 세계 데이터센터의 전력과 실리콘 칩이 도저히 버티지 못합니다.
+
+AI 경제의 기본 단위는 더 이상 달러가 아니라 '전력(Joule)'과 '대역폭'으로 완전히 바뀌었습니다.
+
+지능은 거의 완성되었으나, 이를 담아낼 물리적 그릇이 부족한 사태가 지속해서 발생하게 될 것입니다.
+
+이는 앞으로 하드웨어와 전력 인프라를 선점한 국가와 기업이 새로운 세계의 패권을 쥐게 될 것임을 더욱 강력하게 시사하고 있습니다.</description><pubDate>Wed, 08 Apr 2026 04:28:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW23aCbjxL1</guid></item><item><title>3/ 가장 끔찍한 통계는 미토스가 발견한 취약점의 72.4%를 '실제 작동하는 해킹 코드(Exploit)'로 스스로 변환해 냈다는 점입니다.
+
+...</title><link>https://www.threads.net/@choi.openai/post/DW23bC3D0Jp</link><description>3/ 가장 끔찍한 통계는 미토스가 발견한 취약점의 72.4%를 '실제 작동하는 해킹 코드(Exploit)'로 스스로 변환해 냈다는 점입니다.
+
+27년간 숨겨졌던 운영체제의 결함도 찾아냈으며, 현재 발견된 제로데이 취약점의 99%는 아직 패치조차 되지 않았습니다.
+
+미토스는 해킹실력에서 보여줬듯이 AI 사이버전은 이제 막 본격적으로 시작을 알렸으며, 적국의 통신망과 금융망을 마비시킬 수 있는 핵무기급 전략 자산으로의 변화를 알리고 있습니다.
+
+12개의 거대 테크 기업과 미국 정부가 연합해 해당 모델을 방어에 먼저 투입하는 이유는 명백합니다.
+
+최근 지속적으로 벌어지고 있는 중국의 지속적인 모델 증류와 공급망 공격을 보면서 디지털 영토를 지키기 위한 소리 없는 세계 대전이 이미 시작되었음을 증명합니다.</description><pubDate>Wed, 08 Apr 2026 04:28:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW23bC3D0Jp</guid></item></channel></rss>
