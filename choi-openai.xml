@@ -1,37 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 09 Apr 2026 09:08:04 +0000</lastBuildDate><item><title>수학계의 오랜 난제들이 AI의 추론 능력 앞에서 속속 풀리고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 09 Apr 2026 16:10:57 +0000</lastBuildDate><item><title>Meta 연구진이 평면(2D)으로 인식된 객체를 실제 3D 공간 좌표로 변환해주는 'Boxer' 모델을 오픈소스로 발표했습니다.
 
-오픈AI 연구진이 내부 모델을 활용해 오랜 미해결 난제인 '에르되시(E...</title><link>https://www.threads.net/@choi.openai/post/DW50gbvD4yu</link><description>수학계의 오랜 난제들이 AI의 추론 능력 앞에서 속속 풀리고 있습니다.
+일전에 공개된...</title><link>https://www.threads.net/@choi.openai/post/DW6d0c7jzpw</link><description>Meta 연구진이 평면(2D)으로 인식된 객체를 실제 3D 공간 좌표로 변환해주는 'Boxer' 모델을 오픈소스로 발표했습니다.
 
-오픈AI 연구진이 내부 모델을 활용해 오랜 미해결 난제인 '에르되시(Erdős) 문제' 5개를 추가로 해결한 논문을 공개했습니다.
+일전에 공개된 SAM 3 같은 비전 모델들이 2D로 물체를 찾아내면, 해당 모델이 초고속으로 물체의 3D 위치와 부피를 계산해 냅니다.
 
-연구진이 직접 "감탄이 나올 만큼 우아하다"고 평가할 정도로 논리 전개가 매우 정교해졌습니다.
-게다가 복잡한 1091번 문제의 증명 과정을 인간이 쉽게 이해할 수 있도록 모델이 직접 시각화 도표까지 완벽하게 그려냈습니다.
+RTX 4090 기준, 화면 속 30개의 객체를 동시에 3D로 변환하는 데 고작 20ms밖에 걸리지 않아 실시간 처리가 가능합니다.
 
-과거에는 AI가 기존 지식을 학습하고 요약하는 데 머물렀지만, 이제는 인류가 풀지 못했던 새로운 수학적 진리를 스스로 개척하고 있습니다.
+기기가 세상을 입체적으로 파악하는 능력이 비약적으로 가벼워지고 빨라지고 있습니다.
+스마트 글래스가 현실과 가상을 이질감 없이 겹쳐내는 진짜 일상이 성큼 다가온 것 같습니다.</description><pubDate>Thu, 09 Apr 2026 14:02:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6d0c7jzpw</guid></item><item><title>깃허브 :
+https://github.com/facebookresearch/boxer</title><link>https://www.threads.net/@choi.openai/post/DW6d1ZVjwIP</link><description>깃허브 :
+https://github.com/facebookresearch/boxer</description><pubDate>Thu, 09 Apr 2026 14:02:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6d1ZVjwIP</guid></item><item><title>이제 굳이 카메라 앞에 앉을 필요가 없어졌습니다. 
 
-현재 내부 테스트 중인 해당 모델이 대중에게 공개된다면, 학계의 연구 워크플로우는 또 한 번 근본적인 변화를 맞이하게 될 것입니다.</description><pubDate>Thu, 09 Apr 2026 08:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW50gbvD4yu</guid></item><item><title>논문 :
-https://arxiv.org/abs/2604.06609</title><link>https://www.threads.net/@choi.openai/post/DW50heXD1dc</link><description>논문 :
-https://arxiv.org/abs/2604.06609</description><pubDate>Thu, 09 Apr 2026 08:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW50heXD1dc</guid></item><item><title>앤트로픽이 미국 국방부의 '공급망 위험' 대상으로 낙인찍히는 이례적인 상황이 계속되고 있습니다.
+이제 단 15초짜리 영상만 있으면 언제 어디서든 완벽한 본인의 아바타를 소환할 수 있습니다...</title><link>https://www.threads.net/@choi.openai/post/DW6Yto7j9q9</link><description>이제 굳이 카메라 앞에 앉을 필요가 없어졌습니다. 
 
-미국 워싱턴 D.C. 항소법원이 국방부의 블랙...</title><link>https://www.threads.net/@choi.openai/post/DW5qIKQjMn2</link><description>앤트로픽이 미국 국방부의 '공급망 위험' 대상으로 낙인찍히는 이례적인 상황이 계속되고 있습니다.
+이제 단 15초짜리 영상만 있으면 언제 어디서든 완벽한 본인의 아바타를 소환할 수 있습니다.
 
-미국 워싱턴 D.C. 항소법원이 국방부의 블랙리스트 지정을 임시로 막아달라는 앤트로픽(Anthropic)의 요청을 기각했습니다.
+HeyGen이 AI 영상의 고질적인 캐릭터 일관성 문제를 해결했다며 새 모델 'Avatar V'를 공개했습니다.
 
-이번 갈등의 근본적인 원인은 기술 활용 범위에 대한 이견이었습니다. 앤트로픽은 해당 업체의 AI가 자율 무기나 대중 감시에 쓰이지 않도록 안전장치를 요구한 반면, 국방부는 어떠한 제한도 없는 완전한 접근 권한을 원하며 협상이 깨졌습니다.
+단 한 번만 촬영해 두면, 이후엔 어떤 사진을 넣어도 특유의 미세한 표정 습관과 움직임까지 똑같이 살려 말하는 영상으로 만들어 줍니다.
 
-재판부는 한 기업의 재정적 타격보다 전시 상황에서 군이 필수 AI 기술을 어떻게 확보하고 관리할지가 훨씬 중요하다고 판단했습니다.
+매 프레임 얼굴이 달라지는 현상을 잡기 위해 자체 블라인드 테스트와 벤치마크 지표까지 내놓으며 품질에 대한 강한 자신감을 보였습니다.
 
-이번 판결은 국가 안보와 국방이라는 거대한 힘 앞에서 기업이 내세운 자체적인 AI 윤리 기준이 과연 어디까지 유지될 수 있을지 시사하는 바가 커보입니다. 앞으로의 전개를 관심 있게 지켜봐야겠습니다.</description><pubDate>Thu, 09 Apr 2026 06:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW5qIKQjMn2</guid></item><item><title>기사 :
-https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chai...</title><link>https://www.threads.net/@choi.openai/post/DW5qJAPDMKK</link><description>기사 :
-https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html</description><pubDate>Thu, 09 Apr 2026 06:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW5qJAPDMKK</guid></item><item><title>또 초기화입니다..
-미뤄뒀던 프로젝트도 동시에 돌리면서 최대한 Codex 토큰을 녹이는중입니다 🤣</title><link>https://www.threads.net/@choi.openai/post/DW5mxkwjzzN</link><description>또 초기화입니다..
-미뤄뒀던 프로젝트도 동시에 돌리면서 최대한 Codex 토큰을 녹이는중입니다 🤣</description><pubDate>Thu, 09 Apr 2026 06:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW5mxkwjzzN</guid></item><item><title>Liquid AI가 온디바이스 환경에 맞춰진 시각언어모델 'LFM2.5-VL-450M'을 새롭게 공개했습니다.
+텍스트와 사진 한 장만으로 실제 사람과 구별하기 힘든 고품질 디지털 클론을 손쉽게 만들어내는 환경이 완벽히 자리 잡고 있습니다.</description><pubDate>Thu, 09 Apr 2026 13:18:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6Yto7j9q9</guid></item><item><title>ACE Music이 새로운 음악 생성 모델 'ACE-Step-1.5-xl'을 공개했습니다.
 
-4억 5천만 개의 적은 파라미터...</title><link>https://www.threads.net/@choi.openai/post/DW5f5nwjbRN</link><description>Liquid AI가 온디바이스 환경에 맞춰진 시각언어모델 'LFM2.5-VL-450M'을 새롭게 공개했습니다.
+디코더 크기를 4B까지 키워 음질과 프롬프트 이해도...</title><link>https://www.threads.net/@choi.openai/post/DW6RRCCjRwX</link><description>ACE Music이 새로운 음악 생성 모델 'ACE-Step-1.5-xl'을 공개했습니다.
 
-4억 5천만 개의 적은 파라미터로 스마트폰이나 소형 디바이스에서 초당 4프레임의 영상을  분석해 내며, 512x512 해상도의 이미지를 240ms 만에 처리해 냅니다.
+디코더 크기를 4B까지 키워 음질과 프롬프트 이해도를 대폭 높이면서도, Turbo distillation 기술을 적용해 단 8단계 만에 음악을 뽑아냅니다.
+소비자용 그래픽카드인 RTX 3090에서 10초, 4GB 이하의 VRAM 환경에서도 로컬 구동이 가능할 정도로 가볍습니다.
 
-보안이나 통신 문제로 클라우드를 쓰기 어려웠던 웨어러블 기기나 산업용 로봇들이 스스로 상황을 인지하고 움직이는 성능좋은 온디바이스 AI의 대중화도 조금씩 시작되고 있습니다.</description><pubDate>Thu, 09 Apr 2026 05:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW5f5nwjbRN</guid></item><item><title>블로그 :
-https://www.liquid.ai/blog/lfm2-5-vl-450m</title><link>https://www.threads.net/@choi.openai/post/DW5f6oQja__</link><description>블로그 :
-https://www.liquid.ai/blog/lfm2-5-vl-450m</description><pubDate>Thu, 09 Apr 2026 05:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW5f6oQja__</guid></item></channel></rss>
+저작권이 모호한 데이터로 학습해 실무에 쓰기 어려웠던 기존 모델들과 달리, 정식 라이선스와 퍼블릭 도메인 데이터만을 사용해 생성된 음악의 상업적 이용을 완전히 허용했습니다.
+
+이제 창작자들은 저작권 걱정 없이 개인 PC에서 자유롭게 고품질의 BGM을 만들고 상업 영상에 활용할 수 있게 되었습니다.</description><pubDate>Thu, 09 Apr 2026 12:12:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6RRCCjRwX</guid></item><item><title>깃허브 :
+https://huggingface.co/ACE-Step/Ace-Step1.5</title><link>https://www.threads.net/@choi.openai/post/DW6RXK4D14h</link><description>깃허브 :
+https://huggingface.co/ACE-Step/Ace-Step1.5</description><pubDate>Thu, 09 Apr 2026 12:13:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6RXK4D14h</guid></item><item><title>안녕하세요.
+알고리즘이 점점 더 정교해지는 것 같습니다.
+
+스레드를 하면서 더 이상 과거의 랜덤한 이야기도 잘 노출되지 않는 것 같고, 유튜브를...</title><link>https://www.threads.net/@choi.openai/post/DW6Fal0j5Uh</link><description>안녕하세요.
+알고리즘이 점점 더 정교해지는 것 같습니다.
+
+스레드를 하면서 더 이상 과거의 랜덤한 이야기도 잘 노출되지 않는 것 같고, 유튜브를 봐도 처음보지만 100만 유튜버인 분들이 많더라고요.
+
+그만큼 알고리즘이 앞으로 더욱 정교해지고, 더 이상 나와 다름을 보여주거나 이해하는 시장은 사라질 수도 있다는 생각이 들었습니다.
+
+특히, 메타의 새로운 모델들을 보면서 앞으로 더욱더 정교해지고 나와 맞는 사람들만 피드에 나올 것 같더라구요.
+
+그래서 그냥 문득 하고 싶었습니다.
+오늘은 알고리즘에서 뵈어도, 내일은 못 뵐 수도 있을 것 같아서요.
+
+세상이 정말 빠르게 변화하고 있습니다.
+스레드를 시작하면서 많은 분들이 스쳐 지나가시고, 새롭게 방문해 주시며 함께해 주시는 분들이 정말 많습니다.
+
+오래전부터 저를 보신 분들께서는 저는 아마 항상 똑같이 이야기를 하고 있겠지만, 앞으로도 같은 주제로 같은 관점으로 같은 내용으로 항상 이 자리에 있을 테니 언제든지 찾아주세요.
+감사합니다.</description><pubDate>Thu, 09 Apr 2026 10:28:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6Fal0j5Uh</guid></item></channel></rss>
