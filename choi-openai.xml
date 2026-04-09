@@ -1,38 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 08 Apr 2026 16:07:01 +0000</lastBuildDate><item><title>지금도 빠르지만 앞으로는 더 빠른 미래가 기다리고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 09 Apr 2026 02:25:25 +0000</lastBuildDate><item><title>정말로 단 1~2명의 인원으로 1조 원 가치의 기업을 세울 수 있을까요?
 
-일론 머스크는 최근 최대 10T(조) 규모에 달하는 엄청난 모델들을 동시에 학습시...</title><link>https://www.threads.net/@choi.openai/post/DW32vvtj7zq</link><description>지금도 빠르지만 앞으로는 더 빠른 미래가 기다리고 있습니다.
+Perplexity가 8주간의 창업 대회 'The Billion Do...</title><link>https://www.threads.net/@choi.openai/post/DW5LT1BCakw</link><description>정말로 단 1~2명의 인원으로 1조 원 가치의 기업을 세울 수 있을까요?
 
-일론 머스크는 최근 최대 10T(조) 규모에 달하는 엄청난 모델들을 동시에 학습시키고 있다고 밝혔습니다.
-오픈AI 역시 앤트로픽의 강력한 새 모델 'Mythos'를 견제하기 위해 'Spud'라는 새로운 무기 출시를 서두르고 있으며 최근 앤트로픽의 발표에 대해 별거 아니다라는 입장을 표하고 있습니다.
-또한,구글까지 향후 몇 달 안에 차세대 제미나이를 비롯한 대대적인 반격을 예고하며 전운이 고조되고 있는데요.
+Perplexity가 8주간의 창업 대회 'The Billion Dollar Build'를 발표했습니다.
+참가자들은 'Perplexity Computer'를 활용해 10억 달러 가치의 회사를 구축해야 하며, 결선 진출팀은 최대 100만 달러의 투자금과 크레딧을 받게 됩니다.
 
-우리가 놀라워하며 사용 중인 현재의 AI조차 몇 달 뒤면 구형이 될 확률이 높습니다.
-각 기업이 주도권을 뺏기지 않기 위해 사활을 걸고 상상을 초월하는 크기의 모델들을 쏟아낼 준비를 마쳤기 때문입니다.
+여기서 진짜 주목해야 할 부분은 참가 조건이 '1~2인 팀'으로 제한되었다는 점입니다.
+과거에는 많은 인원과 복잡한 인프라가 필수였지만, 이제는 AI가 실무와 에이전트 루프를 대신 처리합니다.
+덕분에 소규모 팀도 제품에 대한 감각과 빠른 실행력만 있다면 거대한 프로젝트를 완성할 수 있게 되었습니다.
 
-AI의 발전속도는 기하급수적입니다. 선형적으로 생각하지 마세요.</description><pubDate>Wed, 08 Apr 2026 13:41:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW32vvtj7zq</guid></item><item><title>구글 딥마인드 CEO 데미스 하사비스는 현재의 AI 기술이 여전히 해결해야 할 과제가 많다고 진단하며, 인공지능이 진정한 'AGI'으로 거듭나기...</title><link>https://www.threads.net/@choi.openai/post/DW3u-npj52E</link><description>구글 딥마인드 CEO 데미스 하사비스는 현재의 AI 기술이 여전히 해결해야 할 과제가 많다고 진단하며, 인공지능이 진정한 'AGI'으로 거듭나기 위한 핵심 요소들을 제시했습니다.
+몇 달씩 걸리던 개발과 배포 과정이 단 며칠로 압축되고 있습니다.
+과연 AI를 무기로 단 두 명이 8주 만에 어디까지 도달할 수 있을지 6월에 공개될 결과물들이 무척 기대됩니다.</description><pubDate>Thu, 09 Apr 2026 02:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW5LT1BCakw</guid></item><item><title>주소 :
+https://www.perplexity.ai/computer/a/the-billion-dollar-build-ZWzIFW.FTaKdL...</title><link>https://www.threads.net/@choi.openai/post/DW5LUx4CUX8</link><description>주소 :
+https://www.perplexity.ai/computer/a/the-billion-dollar-build-ZWzIFW.FTaKdLtufMa0yhw</description><pubDate>Thu, 09 Apr 2026 02:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW5LUx4CUX8</guid></item><item><title>이제 Cursor를 언제 어디서나 원격으로 제어할 수 있게 되었습니다.
 
-그는 현재의 거대 언어 모델들이 단순히 입력 길이를 늘리는 '브루트 포스(Brute Force)' 방식에 의존하고 있다고 지적하며, 지속적 학습과 다각화된 메모리 시스템, 그리고 장기적 계획 수립 능력의 필요성을 강조했습니다.
+Cursor가 어떤 기기에서든 원격으로 에이전트를 실행하고 제어할 수 ...</title><link>https://www.threads.net/@choi.openai/post/DW5A9HOgX6S</link><description>이제 Cursor를 언제 어디서나 원격으로 제어할 수 있게 되었습니다.
 
-특히 하사비스는 현재 AI의 한계를 "들쑥날쑥한 지능(Jagged Intelligence)"이라고 표현했습니다.
+Cursor가 어떤 기기에서든 원격으로 에이전트를 실행하고 제어할 수 있는 기능을 새롭게 공개했습니다.
+이제 스마트폰으로 지시를 내리면, 집에 있는 고성능 데스크톱(Devbox)이 무거운 빌드와 복잡한 코드 작업을 알아서 처리합니다.
 
-그는 “일반 지능이라면 그렇게 들쑥날쑥해서는 안 됩니다”라고 말하며, AI가 경제적·기술적 특이점에 도달하기 위해서는 인간처럼 유연하고 일관된 설계 혁신이 뒷받침되어야 함을 시사했습니다.</description><pubDate>Wed, 08 Apr 2026 12:36:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3u-npj52E</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=SSya123u9Yk</title><link>https://www.threads.net/@choi.openai/post/DW3vBiqj4Iy</link><description>풀영상 :
-https://www.youtube.com/watch?v=SSya123u9Yk</description><pubDate>Wed, 08 Apr 2026 12:34:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3vBiqj4Iy</guid></item><item><title>다른걸 다떠나서.
+다만, 빅테크의 자체 IDE 도구들이 강력해짐에 따라 기존 AI IDE의 필요성은 다시한 번 생각해볼 때입니다.</description><pubDate>Thu, 09 Apr 2026 00:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW5A9HOgX6S</guid></item><item><title>이제 AI 에이전트 구조 자체가 바뀌고 있습니다.
+앤트로픽이 "Managed Agents"를 공개하며, 모델과 실행 환경을 완전히 분리하는 방식...</title><link>https://www.threads.net/@choi.openai/post/DW42pNYDcKP</link><description>이제 AI 에이전트 구조 자체가 바뀌고 있습니다.
+앤트로픽이 "Managed Agents"를 공개하며, 모델과 실행 환경을 완전히 분리하는 방식을 제시했습니다.
+장시간 작업, 복구, 보안까지 달라진 실제 사례들이 나왔는데요.
+해당 발표 내용을 정리했습니다. 🧵</description><pubDate>Wed, 08 Apr 2026 23:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW42pNYDcKP</guid></item><item><title>1/ 과거 1970년대 컴퓨터 과학자들은 미래에 어떤 프로그램이 나올지 모르는 상태에서, 하드웨어를 가상화하여 '파일'이나 '프로세스'라는 변하...</title><link>https://www.threads.net/@choi.openai/post/DW42p9RDW2F</link><description>1/ 과거 1970년대 컴퓨터 과학자들은 미래에 어떤 프로그램이 나올지 모르는 상태에서, 하드웨어를 가상화하여 '파일'이나 '프로세스'라는 변하지 않는 추상적 개념(OS)을 만들었습니다.
 
-지금 토큰 진짜 퍼주고 있는 Codex 먼저 사용해보세요.
-장난안치고 하드코어 유저는 수천만원 벌어가는 수준으로 퍼주고 있습...</title><link>https://www.threads.net/@choi.openai/post/DW3jUUhj8Eo</link><description>다른걸 다떠나서.
+앤트로픽이 발표한 '매니지드 에이전트'는 이 복잡한 관리 작업을 앤스로픽이 대신해 주는 호스팅 서비스입니다.
 
-지금 토큰 진짜 퍼주고 있는 Codex 먼저 사용해보세요.
-장난안치고 하드코어 유저는 수천만원 벌어가는 수준으로 퍼주고 있습니다.
-잘 모르는데 타 회사 높은 요금제 부터 시작하는건 중고모닝 사러가서 롤스로이스 보고 있는 거랑 같습니다.
-그리고 비개발자분들은 Codex는 앱으로 부터 시작하세요.
-앞으로 AI 경쟁과 수익화에 대한 의구심이 커질 수록 가격과 토큰비용은 더 올라갈겁니다.일단 운전부터 배우고 본인이 사고싶거나 맞는 서비스로 변경하는게 맞습니다.</description><pubDate>Wed, 08 Apr 2026 10:52:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3jUUhj8Eo</guid></item><item><title>진짜 퍼주고 있는겁니다. Claude Code 토큰 이슈 이전까지 Cursor 분석 자료보면 200$ 플랜에서 최대 5000$ 수준의 가치를 뽑...</title><link>https://www.threads.net/@choi.openai/post/DW3jxW6D70c</link><description>진짜 퍼주고 있는겁니다. Claude Code 토큰 이슈 이전까지 Cursor 분석 자료보면 200$ 플랜에서 최대 5000$ 수준의 가치를 뽑고있는데, 동등성능에서 4-5배 수준으로 토큰 제공하는 Codex 보면 9억명 구독 시스템 없었으면 오픈AI 진작 파산했음.</description><pubDate>Wed, 08 Apr 2026 10:56:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3jxW6D70c</guid></item><item><title>구글 딥마인드의 CEO 데미스 하사비스는 AGI의 등장 시점에 대해 "앞으로 5년 안에 될 가능성이 꽤 높다"고 전망했습니다.
+과거의 운영체제(OS)가 하드웨어를 추상화했듯, 앤트로픽은 AI 에이전트의 구성 요소를 세 가지로 가상화하고 분리(Decoupling)했습니다.
 
-그는 2010년...</title><link>https://www.threads.net/@choi.openai/post/DW3iItBD2-r</link><description>구글 딥마인드의 CEO 데미스 하사비스는 AGI의 등장 시점에 대해 "앞으로 5년 안에 될 가능성이 꽤 높다"고 전망했습니다.
+지시를 내리고 판단하는 '뇌(하네스와 모델)', 실제 코드를 실행하고 파일을 수정하는 '손(샌드박스)', 그리고 모든 진행 과정을 기록하는 '세션(로그)'입니다.
 
-그는 2010년 딥마인드 설립 당시부터 연산 능력과 알고리즘의 발전 속도를 바탕으로 AGI까지 약 20년이 걸릴 것으로 예측해 왔으며, 현재 그 흐름이 예상대로 진행되고 있다고 설명했습니다.
+이 세 가지가 완벽히 독립적으로 분리됨으로써, 향후 AI 모델이 어떻게 진화하든 변하지 않는 견고한 에이전트 운영체제의 기반이 마련되었습니다.</description><pubDate>Wed, 08 Apr 2026 23:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW42p9RDW2F</guid></item><item><title>2/ 기존에는 AI의 뇌와 작업 공간(샌드박스)을 하나의 컨테이너 안에 함께 두었습니다.
 
-당시에는 AI가 비주류 분야였으나, 이제는 "거의 모든 기술적 지표가 우리의 초기 예측 범주 안에 있다"며 AGI 시대가 머지않았음을 강조했습니다.</description><pubDate>Wed, 08 Apr 2026 10:43:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3iItBD2-r</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=SSya123u9Yk</title><link>https://www.threads.net/@choi.openai/post/DW3iKkSD4LV</link><description>풀영상 :
-https://www.youtube.com/watch?v=SSya123u9Yk</description><pubDate>Wed, 08 Apr 2026 10:42:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW3iKkSD4LV</guid></item></channel></rss>
+이 방식은 시스템이 멈추면 엔지니어가 직접 개입해 고...</title><link>https://www.threads.net/@choi.openai/post/DW42rKGDXSM</link><description>2/ 기존에는 AI의 뇌와 작업 공간(샌드박스)을 하나의 컨테이너 안에 함께 두었습니다.
+
+이 방식은 시스템이 멈추면 엔지니어가 직접 개입해 고쳐야 하는 '애완동물(Pet)' 같은 관리 방식이었습니다.
+
+하지만 뇌와 샌드박스를 분리하면서, 샌드박스는 언제든 에러가 나면 폐기하고 새로 생성할 수 있는 소모품인 '가축(Cattle)' 모델로 전환되었습니다.
+
+샌드박스가 다운되어도 새로운 환경을 즉시 프로비저닝하여 작업을 이어갈 수 있어, 시스템의 안정성과 디버깅 효율이 비약적으로 상승했습니다.</description><pubDate>Wed, 08 Apr 2026 23:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW42rKGDXSM</guid></item><item><title>3/ 기업들이 에이전트 도입을 망설이는 가장 큰 이유는 프롬프트 인젝션을 통한 권한(Token) 탈취 위험 때문입니다.
+
+앤트로픽은 이 문제를 ...</title><link>https://www.threads.net/@choi.openai/post/DW42sQxDVdR</link><description>3/ 기업들이 에이전트 도입을 망설이는 가장 큰 이유는 프롬프트 인젝션을 통한 권한(Token) 탈취 위험 때문입니다.
+
+앤트로픽은 이 문제를 구조적으로 해결했습니다. AI가 생성한 코드가 실행되는 샌드박스 내부에는 어떠한 보안 자격 증명도 두지 않습니다.
+
+대신 모든 인증 키는 외부의 안전한 금고(Vault)에 보관하며, AI는 전용 프록시(MCP)를 통해서만 외부 서비스에 접근합니다.
+
+AI의 작업 공간과 보안 권한을 물리적으로 철저히 격리한 새로운 보안 표준입니다.</description><pubDate>Wed, 08 Apr 2026 23:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW42sQxDVdR</guid></item><item><title>정말 많은 분들이 환호할 소식입니다.
+
+구글이 제미나이(Gemini) 앱에 '노트북(Notebooks)' 기능을 새롭게 출시했습니다.
+이제 과거...</title><link>https://www.threads.net/@choi.openai/post/DW4sXx5jrxm</link><description>정말 많은 분들이 환호할 소식입니다.
+
+구글이 제미나이(Gemini) 앱에 '노트북(Notebooks)' 기능을 새롭게 출시했습니다.
+이제 과거의 대화 기록은 물론 PDF 문서나 파일들을 하나의 프로젝트 단위로 묶어 전용 공간에 보관할 수 있습니다.
+
+이 공간은 구글의 AI 리서치 도구인 'NotebookLM'과 완벽하게 동기화되어 제미나이에서 각종 자료를 수집하며 대화를 나누고, 그 맥락 그대로 NotebookLM으로 넘어가 시각화 자료나 팟캐스트를 뽑아낼 수도 있게 되었는데요.
+
+제미나이에서 나눈 대화가 지식 작업의 공간이 되는 정말 반가운 업데이트입니다!</description><pubDate>Wed, 08 Apr 2026 21:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW4sXx5jrxm</guid></item><item><title>발표내용 : 
+https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemi...</title><link>https://www.threads.net/@choi.openai/post/DW4sYtPjjU3</link><description>발표내용 : 
+https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/</description><pubDate>Wed, 08 Apr 2026 21:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW4sYtPjjU3</guid></item></channel></rss>
