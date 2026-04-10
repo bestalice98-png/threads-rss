@@ -1,55 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 09 Apr 2026 16:10:57 +0000</lastBuildDate><item><title>Meta 연구진이 평면(2D)으로 인식된 객체를 실제 3D 공간 좌표로 변환해주는 'Boxer' 모델을 오픈소스로 발표했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 10 Apr 2026 02:34:40 +0000</lastBuildDate><item><title>앤트로픽이 Claude 플랫폼에 '어드바이저 전략(Advisor Strategy)' 기능을 새롭게 공개했습니다.
+가볍고 빠른 Sonnet이나 H...</title><link>https://www.threads.net/@choi.openai/post/DW7sb29D5ie</link><description>앤트로픽이 Claude 플랫폼에 '어드바이저 전략(Advisor Strategy)' 기능을 새롭게 공개했습니다.
+가볍고 빠른 Sonnet이나 Haiku 모델이 실무를 진행하다가, 막히거나 복잡한 판단이 필요한 순간에만 가장 똑똑한 Opus 4.6에게 조언을 구하고 다시 작업을 이어가는 방식입니다.
 
-일전에 공개된...</title><link>https://www.threads.net/@choi.openai/post/DW6d0c7jzpw</link><description>Meta 연구진이 평면(2D)으로 인식된 객체를 실제 3D 공간 좌표로 변환해주는 'Boxer' 모델을 오픈소스로 발표했습니다.
+실제 코딩 벤치마크 결과, Sonnet이 단독으로 작업할 때보다 Opus의 조언을 받았을 때 점수는 더 올랐고 전체 작업 비용은 오히려 11.9% 줄어들었습니다.
 
-일전에 공개된 SAM 3 같은 비전 모델들이 2D로 물체를 찾아내면, 해당 모델이 초고속으로 물체의 3D 위치와 부피를 계산해 냅니다.
+적재적소에 여러 AI가 역할을 분담하며 효율을 극대화하는 협업 구조가 중요합니다.</description><pubDate>Fri, 10 Apr 2026 01:28:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW7sb29D5ie</guid></item><item><title>블로그 :
+https://claude.com/blog/the-advisor-strategy</title><link>https://www.threads.net/@choi.openai/post/DW7scgyj7TP</link><description>블로그 :
+https://claude.com/blog/the-advisor-strategy</description><pubDate>Fri, 10 Apr 2026 01:28:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW7scgyj7TP</guid></item><item><title>구글이 Gemini 채팅창 내에 인터랙티브 시각화 기능을 새롭게 도입했습니다.
 
-RTX 4090 기준, 화면 속 30개의 객체를 동시에 3D로 변환하는 데 고작 20ms밖에 걸리지 않아 실시간 처리가 가능합니다.
+프로(Pro) 모델을 선택하고 시각화를 요청하면, 사용자가 직접...</title><link>https://www.threads.net/@choi.openai/post/DW7bbRECCB5</link><description>구글이 Gemini 채팅창 내에 인터랙티브 시각화 기능을 새롭게 도입했습니다.
 
-기기가 세상을 입체적으로 파악하는 능력이 비약적으로 가벼워지고 빨라지고 있습니다.
-스마트 글래스가 현실과 가상을 이질감 없이 겹쳐내는 진짜 일상이 성큼 다가온 것 같습니다.</description><pubDate>Thu, 09 Apr 2026 14:02:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6d0c7jzpw</guid></item><item><title>깃허브 :
-https://github.com/facebookresearch/boxer</title><link>https://www.threads.net/@choi.openai/post/DW6d1ZVjwIP</link><description>깃허브 :
-https://github.com/facebookresearch/boxer</description><pubDate>Thu, 09 Apr 2026 14:02:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6d1ZVjwIP</guid></item><item><title>이제 굳이 카메라 앞에 앉을 필요가 없어졌습니다. 
+프로(Pro) 모델을 선택하고 시각화를 요청하면, 사용자가 직접 변수를 조절하거나 3D 모델을 회전시키며 데이터를 입체적으로 탐색할 수 있습니다.</description><pubDate>Thu, 09 Apr 2026 23:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW7bbRECCB5</guid></item><item><title>오픈AI가 코딩 AI 시장의 수익화를 위해 제대로 칼을 빼들었습니다.
 
-이제 단 15초짜리 영상만 있으면 언제 어디서든 완벽한 본인의 아바타를 소환할 수 있습니다...</title><link>https://www.threads.net/@choi.openai/post/DW6Yto7j9q9</link><description>이제 굳이 카메라 앞에 앉을 필요가 없어졌습니다. 
+오픈AI가 개발자들을 겨냥해 월 100달러의 새로운 'ChatGPT Pr...</title><link>https://www.threads.net/@choi.openai/post/DW7RK6sCNTB</link><description>오픈AI가 코딩 AI 시장의 수익화를 위해 제대로 칼을 빼들었습니다.
 
-이제 단 15초짜리 영상만 있으면 언제 어디서든 완벽한 본인의 아바타를 소환할 수 있습니다.
+오픈AI가 개발자들을 겨냥해 월 100달러의 새로운 'ChatGPT Pro' 요금제를 기습 출시했습니다.
 
-HeyGen이 AI 영상의 고질적인 캐릭터 일관성 문제를 해결했다며 새 모델 'Avatar V'를 공개했습니다.
+가장 큰 변화는 코딩 특화 모델인 'Codex'의 사용량입니다. 기존 Plus 요금제 대비 5배 많은 한도를 제공하며, 5월 31일까지는 런칭 기념으로 최대 10배까지 넉넉하게 쓸 수 있습니다.
 
-단 한 번만 촬영해 두면, 이후엔 어떤 사진을 넣어도 특유의 미세한 표정 습관과 움직임까지 똑같이 살려 말하는 영상으로 만들어 줍니다.
+사용량을 정말 압도적으로 퍼주네요..</description><pubDate>Thu, 09 Apr 2026 21:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW7RK6sCNTB</guid></item><item><title>앤트로픽이 데스크톱 환경에서 다단계 업무를 돕는 'Claude Cowork' 기능을 모든 유료 사용자에게 정식 출시했습니다.
 
-매 프레임 얼굴이 달라지는 현상을 잡기 위해 자체 블라인드 테스트와 벤치마크 지표까지 내놓으며 품질에 대한 강한 자신감을 보였습니다.
+역할 기반 권한 ...</title><link>https://www.threads.net/@choi.openai/post/DW7I7vxD0vg</link><description>앤트로픽이 데스크톱 환경에서 다단계 업무를 돕는 'Claude Cowork' 기능을 모든 유료 사용자에게 정식 출시했습니다.
 
-텍스트와 사진 한 장만으로 실제 사람과 구별하기 힘든 고품질 디지털 클론을 손쉽게 만들어내는 환경이 완벽히 자리 잡고 있습니다.</description><pubDate>Thu, 09 Apr 2026 13:18:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6Yto7j9q9</guid></item><item><title>ACE Music이 새로운 음악 생성 모델 'ACE-Step-1.5-xl'을 공개했습니다.
-
-디코더 크기를 4B까지 키워 음질과 프롬프트 이해도...</title><link>https://www.threads.net/@choi.openai/post/DW6RRCCjRwX</link><description>ACE Music이 새로운 음악 생성 모델 'ACE-Step-1.5-xl'을 공개했습니다.
-
-디코더 크기를 4B까지 키워 음질과 프롬프트 이해도를 대폭 높이면서도, Turbo distillation 기술을 적용해 단 8단계 만에 음악을 뽑아냅니다.
-소비자용 그래픽카드인 RTX 3090에서 10초, 4GB 이하의 VRAM 환경에서도 로컬 구동이 가능할 정도로 가볍습니다.
-
-저작권이 모호한 데이터로 학습해 실무에 쓰기 어려웠던 기존 모델들과 달리, 정식 라이선스와 퍼블릭 도메인 데이터만을 사용해 생성된 음악의 상업적 이용을 완전히 허용했습니다.
-
-이제 창작자들은 저작권 걱정 없이 개인 PC에서 자유롭게 고품질의 BGM을 만들고 상업 영상에 활용할 수 있게 되었습니다.</description><pubDate>Thu, 09 Apr 2026 12:12:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6RRCCjRwX</guid></item><item><title>깃허브 :
-https://huggingface.co/ACE-Step/Ace-Step1.5</title><link>https://www.threads.net/@choi.openai/post/DW6RXK4D14h</link><description>깃허브 :
-https://huggingface.co/ACE-Step/Ace-Step1.5</description><pubDate>Thu, 09 Apr 2026 12:13:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6RXK4D14h</guid></item><item><title>안녕하세요.
-알고리즘이 점점 더 정교해지는 것 같습니다.
-
-스레드를 하면서 더 이상 과거의 랜덤한 이야기도 잘 노출되지 않는 것 같고, 유튜브를...</title><link>https://www.threads.net/@choi.openai/post/DW6Fal0j5Uh</link><description>안녕하세요.
-알고리즘이 점점 더 정교해지는 것 같습니다.
-
-스레드를 하면서 더 이상 과거의 랜덤한 이야기도 잘 노출되지 않는 것 같고, 유튜브를 봐도 처음보지만 100만 유튜버인 분들이 많더라고요.
-
-그만큼 알고리즘이 앞으로 더욱 정교해지고, 더 이상 나와 다름을 보여주거나 이해하는 시장은 사라질 수도 있다는 생각이 들었습니다.
-
-특히, 메타의 새로운 모델들을 보면서 앞으로 더욱더 정교해지고 나와 맞는 사람들만 피드에 나올 것 같더라구요.
-
-그래서 그냥 문득 하고 싶었습니다.
-오늘은 알고리즘에서 뵈어도, 내일은 못 뵐 수도 있을 것 같아서요.
-
-세상이 정말 빠르게 변화하고 있습니다.
-스레드를 시작하면서 많은 분들이 스쳐 지나가시고, 새롭게 방문해 주시며 함께해 주시는 분들이 정말 많습니다.
-
-오래전부터 저를 보신 분들께서는 저는 아마 항상 똑같이 이야기를 하고 있겠지만, 앞으로도 같은 주제로 같은 관점으로 같은 내용으로 항상 이 자리에 있을 테니 언제든지 찾아주세요.
-감사합니다.</description><pubDate>Thu, 09 Apr 2026 10:28:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW6Fal0j5Uh</guid></item></channel></rss>
+역할 기반 권한 제어와 지출 한도 설정은 물론, 'OpenTelemetry' 지원이 새롭게 추가되었습니다.</description><pubDate>Thu, 09 Apr 2026 20:19:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW7I7vxD0vg</guid></item></channel></rss>
