@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 10 Apr 2026 15:40:18 +0000</lastBuildDate><item><title>솔직히 이제 구글의 검증 시스템도 못 믿겠습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 11 Apr 2026 02:13:07 +0000</lastBuildDate><item><title>앤트로픽이 'Claude for Word' 베타 버전을 공개했습니다.
+이제 워드 사이드바에서 문서를 바로 작성하고 수정할 수 있으며, 기존 서식...</title><link>https://www.threads.net/@choi.openai/post/DW-M9s7jmNz</link><description>앤트로픽이 'Claude for Word' 베타 버전을 공개했습니다.
+이제 워드 사이드바에서 문서를 바로 작성하고 수정할 수 있으며, 기존 서식은 유지되고 변경 사항은 추적 기록으로 남습니다.
+
+가장 눈여겨봐야 할 부분은 앱 간의 '맥락 공유'입니다.
+Claude for Excel, Claude for PowerPoint와 완벽하게 연동되어, 워드에서 쓴 기획안을 엑셀 데이터로 정리하고 이를 다시 파워포인트 슬라이드로 뽑아내는 작업이 단 하나의 대화창 안에서 끊김 없이 이어집니다.
+
+앱의 장벽이 허물어지는 이 변화가 앞으로 실무자들의 업무 방식을 어떻게 바꿔놓을지 무척 기대가 됩니다.</description><pubDate>Sat, 11 Apr 2026 00:52:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW-M9s7jmNz</guid></item><item><title>솔직히 이제 구글의 검증 시스템도 못 믿겠습니다.
 
 구글 딥마인드가 제미나이(Gemini)로 생성한 100억 개 이상의 콘텐츠에 절대 뚫리지 않...</title><link>https://www.threads.net/@choi.openai/post/DW9FAAbjz3G</link><description>솔직히 이제 구글의 검증 시스템도 못 믿겠습니다.
 
@@ -36,17 +43,4 @@
 
 “우리는 범용 지능을 향해 가는 동시에, 특정 분야에 특화된 ‘좁은 AI’를 통해 인류의 난제를 해결할 수 있습니다.”</description><pubDate>Fri, 10 Apr 2026 11:31:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW8wgGkD2HE</guid></item><item><title>풀영상 :
 https://www.youtube.com/watch?v=C0gErQtnNFE</title><link>https://www.threads.net/@choi.openai/post/DW8wfNPDwfG</link><description>풀영상 :
-https://www.youtube.com/watch?v=C0gErQtnNFE</description><pubDate>Fri, 10 Apr 2026 11:23:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW8wfNPDwfG</guid></item><item><title>미래에는 '둠 돌아가나요?' 대신 'Gemma 4 돌아가나요?'를 묻는 시대가 올 것 같습니다.
-
-구글의 언어 모델 Gemma 4가 닌텐도 스위...</title><link>https://www.threads.net/@choi.openai/post/DW8ioXcj77A</link><description>미래에는 '둠 돌아가나요?' 대신 'Gemma 4 돌아가나요?'를 묻는 시대가 올 것 같습니다.
-
-구글의 언어 모델 Gemma 4가 닌텐도 스위치 1세대에서 로컬로 초당 1.5토큰으로 구동되는 영상이 화제입니다.
-
-과거 새로운 전자기기가 나올 때마다 고전 게임 '둠(Doom)'을 돌려보는 것이 일종의 밈이자 성능 테스트였는데요.
-이제는 그 자리를 "Gemma 4가 돌아가는가"가 대체하고 있는 것 같습니다.
-
-거대 AI 모델들의 최적화가 무서운 속도로 진행되면서, 고가의 서버 장비 없이도 우리 주변의 흔한 소형 기기들에 AI가 직접 이식되고 있습니다.
-
-앞으로 인터넷이 끊긴 환경의 가전제품이나 장난감에서도 똑똑한 AI를 만나는 것이 아주 당연한 일상이 될 것 같습니다.
-
-x@maddiedreese</description><pubDate>Fri, 10 Apr 2026 09:35:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW8ioXcj77A</guid></item></channel></rss>
+https://www.youtube.com/watch?v=C0gErQtnNFE</description><pubDate>Fri, 10 Apr 2026 11:23:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW8wfNPDwfG</guid></item></channel></rss>
