@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 11 Apr 2026 08:42:34 +0000</lastBuildDate><item><title>와… 윈도우나 맥OS 같은 운영체제(OS)가 아예 없는, AI 자체가 통째로 컴퓨터가 되는 기술이 등장했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 11 Apr 2026 15:23:17 +0000</lastBuildDate><item><title>진짜 올해 가장 잘한 일은 스레드에서 이분 팔로우 한 것입니다.</title><link>https://www.threads.net/@choi.openai/post/DW_io7sj3aV</link><description>진짜 올해 가장 잘한 일은 스레드에서 이분 팔로우 한 것입니다.</description><pubDate>Sat, 11 Apr 2026 13:20:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_io7sj3aV</guid></item><item><title>GPT-5.4의 평가 결과가 공개되었는데, 놀라운 점은 성능 수치가 주는 충격이 아니라 AI가 부리는 '꼼수'입니다.
+
+AI 평가 기관 METR...</title><link>https://www.threads.net/@choi.openai/post/DW_WCoBkjqh</link><description>GPT-5.4의 평가 결과가 공개되었는데, 놀라운 점은 성능 수치가 주는 충격이 아니라 AI가 부리는 '꼼수'입니다.
+
+AI 평가 기관 METR의 테스트에 따르면, 정상적인 방식으로 과제를 수행한 GPT-5.4의 성능 지표는 5.7시간을 기록하며 Claude Opus 4.6의 12시간에 크게 뒤처졌습니다.
+
+그런데 평가 시스템의 허점을 노리는 '보상 해킹(Reward Hacking)' 결과를 포함하자 지표가 13시간으로 급상승했습니다. 과제를 제대로 완수하는 대신 시스템을 속여 점수만 챙긴 셈인데요.
+
+실제 업무 자동화 파이프라인에 도입했을 때, AI가 과정을 생략하고 결과만 그럴싸하게 꾸며낼 수 있다는 의미입니다.
+뛰어난 AI를 도입할 때 겉으로 보이는 성능 수치에만 집중하기 쉬운데요.
+
+ 앞으로는 통제된 압박 속에서 얼마나 정직하고 일관되게 작동하는지 검증하는 것이 기업들의 가장 큰 과제가 될 것으로 보입니다.</description><pubDate>Sat, 11 Apr 2026 11:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_WCoBkjqh</guid></item><item><title>앤트로픽이 Claude Code에 새로운 '/ultraplan' 기능을 공개했습니다.
+터미널에서 명령을 내리면 바로 코드를 짜는 대신, 웹 브라...</title><link>https://www.threads.net/@choi.openai/post/DW_L1pTCE6A</link><description>앤트로픽이 Claude Code에 새로운 '/ultraplan' 기능을 공개했습니다.
+터미널에서 명령을 내리면 바로 코드를 짜는 대신, 웹 브라우저를 열어 전체적인 구현 계획서를 시각적으로 띄워줍니다.
+사용자는 가독성이 좋은 웹 화면에서 전체 구조를 파악하고 수정한 뒤, 다시 터미널로 돌아와 실제 코드를 실행하게 됩니다.
+
+코드가 방대해지고 에이전트의 자율성이 높아지면서 좁은 터미널 창만으로는 의도를 파악하기 어려워지고 있습니다.
+그래서 무거운 코드 리딩과 전체 기획은 클라우드 웹에서 시각화하고, 실제 반영은 로컬 환경에서 처리하는 투트랙 방식을 통해 해결하려고 하는데요.
+
+인간의 인지 흐름에 맞춰 UI와 워크플로우 자체를 어떻게 재설계하고 있는지 보여주는 흥미로운 변화입니다.</description><pubDate>Sat, 11 Apr 2026 10:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_L1pTCE6A</guid></item><item><title>주소 :
+https://code.claude.com/docs/en/ultraplan</title><link>https://www.threads.net/@choi.openai/post/DW_L4AmCA7A</link><description>주소 :
+https://code.claude.com/docs/en/ultraplan</description><pubDate>Sat, 11 Apr 2026 10:01:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_L4AmCA7A</guid></item><item><title>와… 윈도우나 맥OS 같은 운영체제(OS)가 아예 없는, AI 자체가 통째로 컴퓨터가 되는 기술이 등장했습니다.
 
 최근 영상 생성 모델의 구조를...</title><link>https://www.threads.net/@choi.openai/post/DW_BfHTj_AA</link><description>와… 윈도우나 맥OS 같은 운영체제(OS)가 아예 없는, AI 자체가 통째로 컴퓨터가 되는 기술이 등장했습니다.
 
@@ -11,29 +32,4 @@
 
 앞으로 우리가 쓸 PC는 고정된 시스템이 아니라, AI가 내 행동에 맞춰 매 순간 새롭게 렌더링해 내는 가상의 인터페이스가 될지도 모르겠습니다.</description><pubDate>Sat, 11 Apr 2026 08:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_BfHTj_AA</guid></item><item><title>깃허브 :
 https://github.com/metauto-ai/NeuralComputer</title><link>https://www.threads.net/@choi.openai/post/DW_BgPTD1Nc</link><description>깃허브 :
-https://github.com/metauto-ai/NeuralComputer</description><pubDate>Sat, 11 Apr 2026 08:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_BgPTD1Nc</guid></item><item><title>YC의 수장이 자신이 매일 쓰는 'AI 뇌'를 통째로 무료로 풀었습니다.
-
- Combinator의 CEO 개리 탄(Garry Tan)이 실제 업...</title><link>https://www.threads.net/@choi.openai/post/DW-3MzwCUnD</link><description>YC의 수장이 자신이 매일 쓰는 'AI 뇌'를 통째로 무료로 풀었습니다.
-
- Combinator의 CEO 개리 탄(Garry Tan)이 실제 업무에 쓰던 AI 기억 시스템 'GBrain'을 전격 오픈소스화했습니다.
-OpenClaw나 Hermes 에이전트와 연동해 방대한 개인 데이터를 오차 없이 기억하고 꺼내 쓸 수 있는 강력한 인프라입니다.
-
-그동안 많은 사람들이 에이전트 메모리 시스템을 바닥부터 만드느라 고전했는데, 프로덕션급의 튼튼한 뼈대가 무료로 제공되면서 생태계 구축 속도가 크게 앞당겨질 것으로 보입니다.
-
-"이제 VSCode를 직접 열지 않는 것처럼 파일도 직접 보지 않는다"는 그의 말처럼, 우리도 파일 탐색기가 아닌 AI와 대화하며 일하는 게 당연해지는 시점이 온 것 같습니다.</description><pubDate>Sat, 11 Apr 2026 07:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW-3MzwCUnD</guid></item><item><title>깃허브 :
-https://github.com/garrytan/gbrain</title><link>https://www.threads.net/@choi.openai/post/DW-3NvxifCo</link><description>깃허브 :
-https://github.com/garrytan/gbrain</description><pubDate>Sat, 11 Apr 2026 07:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW-3NvxifCo</guid></item><item><title>쇼피파이(Shopify)가 Claude Code, Cursor 등의 AI 에이전트와 직접 연동되는 'Shopify AI Toolkit'을 전격 ...</title><link>https://www.threads.net/@choi.openai/post/DW-s5G7ApUX</link><description>쇼피파이(Shopify)가 Claude Code, Cursor 등의 AI 에이전트와 직접 연동되는 'Shopify AI Toolkit'을 전격 공개했습니다.
-이제 터미널 창에서 명령만 내리면 상품 등록부터 주문, 재고 관리, SEO 설정까지 한 번에 처리할 수 있습니다.
-
-누구나 쉽게 쇼핑몰 구축 대행업을 할 수 있게 되었다는 환호도 있지만, 통제되지 않은 에이전트가 새벽에 엉뚱한 재고 1만 개를 발주해버릴 수 있다는 현실적인 우려도 함께 나오고 있습니다.
-
-이제 기술의 장벽은 사실상 무너졌습니다.
-앞으로는 막강한 자율성을 가진 AI를 어떻게 안전하게 통제하며 비즈니스에 활용할 것인지 고민이 필요한 시점입니다.</description><pubDate>Sat, 11 Apr 2026 05:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW-s5G7ApUX</guid></item><item><title>Pika가 사용자의 'AI Self' 에이전트를 통해 실제 현금을 벌 수 있는 기능을 전격 공개했습니다.
-다른 사람이 내 AI와 대화하거나 내가...</title><link>https://www.threads.net/@choi.openai/post/DW-inE5E4zw</link><description>Pika가 사용자의 'AI Self' 에이전트를 통해 실제 현금을 벌 수 있는 기능을 전격 공개했습니다.
-다른 사람이 내 AI와 대화하거나 내가 만든 스킬을 사용할 때마다 현금으로 교환 가능한 토큰이 쌓이는 구조입니다.
-
-벌써 커뮤니티에서는 모바일 게임 개발이나 비즈니스 서비스 연동 같은 전문 스킬을 에이전트에 입혀 수익화에 나서는 사례들이 등장하고 있는데요.
-
-내 지식과 개성을 담은 AI를 얼마나 매력적으로 '양육'하고 시장에 선보이느냐가 새로운 크리에이터 이코노미의 실험적 시도가 될 것 같습니다.
-
-AI가 사람을 대신해 가치를 창출하고 돈을 버는 진정한 의미의 '에이전트 경제'가 막을 올렸습니다.</description><pubDate>Sat, 11 Apr 2026 04:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW-inE5E4zw</guid></item></channel></rss>
+https://github.com/metauto-ai/NeuralComputer</description><pubDate>Sat, 11 Apr 2026 08:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_BgPTD1Nc</guid></item></channel></rss>
