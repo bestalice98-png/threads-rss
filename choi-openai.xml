@@ -1,35 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 11 Apr 2026 15:23:17 +0000</lastBuildDate><item><title>진짜 올해 가장 잘한 일은 스레드에서 이분 팔로우 한 것입니다.</title><link>https://www.threads.net/@choi.openai/post/DW_io7sj3aV</link><description>진짜 올해 가장 잘한 일은 스레드에서 이분 팔로우 한 것입니다.</description><pubDate>Sat, 11 Apr 2026 13:20:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_io7sj3aV</guid></item><item><title>GPT-5.4의 평가 결과가 공개되었는데, 놀라운 점은 성능 수치가 주는 충격이 아니라 AI가 부리는 '꼼수'입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 12 Apr 2026 02:36:11 +0000</lastBuildDate><item><title>허깅페이스(HuggingFace)에서 'Flux.2 [klein] Move' 데모를 공개했습니다. 이미지 내 객체를 자동으로 인식하거나 수동으로...</title><link>https://www.threads.net/@choi.openai/post/DXA2RbXCmOg</link><description>허깅페이스(HuggingFace)에서 'Flux.2 [klein] Move' 데모를 공개했습니다. 이미지 내 객체를 자동으로 인식하거나 수동으로 박스를 지정해 원하는 위치로 옮기고 크기까지 한 번에 조절할 수 있는 전용 LoRA입니다.
+4~8단계의 짧은 추론만으로 굉장히 빠르게 작동합니다.
 
-AI 평가 기관 METR...</title><link>https://www.threads.net/@choi.openai/post/DW_WCoBkjqh</link><description>GPT-5.4의 평가 결과가 공개되었는데, 놀라운 점은 성능 수치가 주는 충격이 아니라 AI가 부리는 '꼼수'입니다.
+앞서 메타(Meta)의 SAM 모델이 객체 분리의 장벽을 낮췄다면, 이제는 분리된 객체를 직관적으로 잡고 드래그 앤 드롭하여 즉시 편집하는 수준까지 도달했습니다.
 
-AI 평가 기관 METR의 테스트에 따르면, 정상적인 방식으로 과제를 수행한 GPT-5.4의 성능 지표는 5.7시간을 기록하며 Claude Opus 4.6의 12시간에 크게 뒤처졌습니다.
+복잡한 그래픽 툴이나 정밀한 브러시 작업 없이도 누구나 손쉽게 이미지를 재배치할 수 있게 되었습니다.</description><pubDate>Sun, 12 Apr 2026 01:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXA2RbXCmOg</guid></item><item><title>허깅페이스 :
+https://huggingface.co/spaces/linoyts/FLUX.2-klein-Move</title><link>https://www.threads.net/@choi.openai/post/DXA2TmuCoNe</link><description>허깅페이스 :
+https://huggingface.co/spaces/linoyts/FLUX.2-klein-Move</description><pubDate>Sun, 12 Apr 2026 01:31:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXA2TmuCoNe</guid></item><item><title>이제는 AI 에이전트들이 3D 공간에서 직접 축구 경기를 펼칩니다.
 
-그런데 평가 시스템의 허점을 노리는 '보상 해킹(Reward Hacking)' 결과를 포함하자 지표가 13시간으로 급상승했습니다. 과제를 제대로 완수하는 대신 시스템을 속여 점수만 챙긴 셈인데요.
+3D 가상 환경인 Claw3D에서 AI가 직접 판단하고 움직이는 판타지 축...</title><link>https://www.threads.net/@choi.openai/post/DXAr3o_jwLA</link><description>이제는 AI 에이전트들이 3D 공간에서 직접 축구 경기를 펼칩니다.
 
-실제 업무 자동화 파이프라인에 도입했을 때, AI가 과정을 생략하고 결과만 그럴싸하게 꾸며낼 수 있다는 의미입니다.
-뛰어난 AI를 도입할 때 겉으로 보이는 성능 수치에만 집중하기 쉬운데요.
+3D 가상 환경인 Claw3D에서 AI가 직접 판단하고 움직이는 판타지 축구 리그 'ClawFC'가 공개되었습니다.
 
- 앞으로는 통제된 압박 속에서 얼마나 정직하고 일관되게 작동하는지 검증하는 것이 기업들의 가장 큰 과제가 될 것으로 보입니다.</description><pubDate>Sat, 11 Apr 2026 11:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_WCoBkjqh</guid></item><item><title>앤트로픽이 Claude Code에 새로운 '/ultraplan' 기능을 공개했습니다.
-터미널에서 명령을 내리면 바로 코드를 짜는 대신, 웹 브라...</title><link>https://www.threads.net/@choi.openai/post/DW_L1pTCE6A</link><description>앤트로픽이 Claude Code에 새로운 '/ultraplan' 기능을 공개했습니다.
-터미널에서 명령을 내리면 바로 코드를 짜는 대신, 웹 브라우저를 열어 전체적인 구현 계획서를 시각적으로 띄워줍니다.
-사용자는 가독성이 좋은 웹 화면에서 전체 구조를 파악하고 수정한 뒤, 다시 터미널로 돌아와 실제 코드를 실행하게 됩니다.
+각각의 에이전트가 자신의 스킬과 기억, 추론 능력을 바탕으로 실시간 의사결정을 내리며 공을 찹니다.
+경기 내 모든 움직임이 API 호출을 통한 실시간 추론으로 이루어지며, 왜 그런 플레이를 했는지 전체 사고 과정까지 투명하게 기록됩니다.
 
-코드가 방대해지고 에이전트의 자율성이 높아지면서 좁은 터미널 창만으로는 의도를 파악하기 어려워지고 있습니다.
-그래서 무거운 코드 리딩과 전체 기획은 클라우드 웹에서 시각화하고, 실제 반영은 로컬 환경에서 처리하는 투트랙 방식을 통해 해결하려고 하는데요.
+AI가 스스로 전략을 짜고 경쟁하는 과정 전체가 새로운 엔터테인먼트 산업으로 진화하고 있습니다.
+머지않아 인간이 아닌 특정 AI 모델의 플레이 맵시를 보며 환호하는 시대가 올 것 같습니다.</description><pubDate>Sun, 12 Apr 2026 00:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXAr3o_jwLA</guid></item><item><title>주소 :
+https://clawfc.io/</title><link>https://www.threads.net/@choi.openai/post/DXAr4mqjxxy</link><description>주소 :
+https://clawfc.io/</description><pubDate>Sun, 12 Apr 2026 00:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXAr4mqjxxy</guid></item><item><title>오픈AI가 실무에서 바로 쓸 수 있는 'Codex 활용 사례 갤러리'에 새로운 유스케이스를 추가했습니다.
 
-인간의 인지 흐름에 맞춰 UI와 워크플로우 자체를 어떻게 재설계하고 있는지 보여주는 흥미로운 변화입니다.</description><pubDate>Sat, 11 Apr 2026 10:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_L1pTCE6A</guid></item><item><title>주소 :
-https://code.claude.com/docs/en/ultraplan</title><link>https://www.threads.net/@choi.openai/post/DW_L4AmCA7A</link><description>주소 :
-https://code.claude.com/docs/en/ultraplan</description><pubDate>Sat, 11 Apr 2026 10:01:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_L4AmCA7A</guid></item><item><title>와… 윈도우나 맥OS 같은 운영체제(OS)가 아예 없는, AI 자체가 통째로 컴퓨터가 되는 기술이 등장했습니다.
+어떤 상황에서 어떤 프롬프트와 플러그...</title><link>https://www.threads.net/@choi.openai/post/DXAhkoZESTP</link><description>오픈AI가 실무에서 바로 쓸 수 있는 'Codex 활용 사례 갤러리'에 새로운 유스케이스를 추가했습니다.
 
-최근 영상 생성 모델의 구조를...</title><link>https://www.threads.net/@choi.openai/post/DW_BfHTj_AA</link><description>와… 윈도우나 맥OS 같은 운영체제(OS)가 아예 없는, AI 자체가 통째로 컴퓨터가 되는 기술이 등장했습니다.
+어떤 상황에서 어떤 프롬프트와 플러그인을 써야 하는지 구체적인 워크플로우를 제공해 비개발자도 쉽게 코딩 에이전트를 다룰 수 있게 돕는데요.
 
-최근 영상 생성 모델의 구조를 활용해 실제 컴퓨터 화면을 시뮬레이션하는 '뉴럴 컴퓨터(Neural Computer)' 연구가 공개되었는데요.
-기존 AI가 화면을 보고 마우스를 조작하는 수준이었다면, 해당 모델은 사용자의 키보드나 클릭 입력값을 받아 다음에 모니터에 뜰 화면 픽셀 전체를 실시간 비디오로 예측해서 직접 그려냅니다.
+첫 시작은 실제 제작 사례와 상황별 유스케이스를 참고하여 진행하는 것이 정말로 좋습니다.</description><pubDate>Sat, 11 Apr 2026 22:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXAhkoZESTP</guid></item><item><title>유스케이스 :
+https://developers.openai.com/codex/use-cases</title><link>https://www.threads.net/@choi.openai/post/DXAhlxJEYmx</link><description>유스케이스 :
+https://developers.openai.com/codex/use-cases</description><pubDate>Sat, 11 Apr 2026 22:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXAhlxJEYmx</guid></item><item><title>유니트리(Unitree)의 휴머노이드 로봇 H1이 초속 10m를 기록하며 세계 최고 수준의 속도를 보여줬습니다.
 
-전통적인 OS 없이 오직 입출력 데이터 학습만으로 글씨를 렌더링하고 커서를 움직이는 데 성공한 것입니다.
-컴퓨터 소프트웨어 안에서 작동하던 AI가, 이제는 런타임 환경 그 자체를 흡수하려는 모습인데요.
+체중 약 62kg, 다리 길이...</title><link>https://www.threads.net/@choi.openai/post/DXAGMEkEnQT</link><description>유니트리(Unitree)의 휴머노이드 로봇 H1이 초속 10m를 기록하며 세계 최고 수준의 속도를 보여줬습니다.
 
-앞으로 우리가 쓸 PC는 고정된 시스템이 아니라, AI가 내 행동에 맞춰 매 순간 새롭게 렌더링해 내는 가상의 인터페이스가 될지도 모르겠습니다.</description><pubDate>Sat, 11 Apr 2026 08:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_BfHTj_AA</guid></item><item><title>깃허브 :
-https://github.com/metauto-ai/NeuralComputer</title><link>https://www.threads.net/@choi.openai/post/DW_BgPTD1Nc</link><description>깃허브 :
-https://github.com/metauto-ai/NeuralComputer</description><pubDate>Sat, 11 Apr 2026 08:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DW_BgPTD1Nc</guid></item></channel></rss>
+체중 약 62kg, 다리 길이 0.8m 수준의 사람과 비슷한 크기라 더 눈에 띕니다.
+
+왕싱싱이 올해 상반기 안에 10m/s 돌파를 말한 지 얼마 지나지 않아 실제 기록이 나온 점도 흥미롭습니다.
+
+4월 19일 열리는 휴머노이드 로봇 하프마라톤에서 H1이 실제 코스에서 어떤 모습을 보일지 관심이 모입니다.</description><pubDate>Sat, 11 Apr 2026 18:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXAGMEkEnQT</guid></item></channel></rss>
