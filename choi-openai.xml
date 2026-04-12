@@ -1,37 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 12 Apr 2026 02:36:11 +0000</lastBuildDate><item><title>허깅페이스(HuggingFace)에서 'Flux.2 [klein] Move' 데모를 공개했습니다. 이미지 내 객체를 자동으로 인식하거나 수동으로...</title><link>https://www.threads.net/@choi.openai/post/DXA2RbXCmOg</link><description>허깅페이스(HuggingFace)에서 'Flux.2 [klein] Move' 데모를 공개했습니다. 이미지 내 객체를 자동으로 인식하거나 수동으로 박스를 지정해 원하는 위치로 옮기고 크기까지 한 번에 조절할 수 있는 전용 LoRA입니다.
-4~8단계의 짧은 추론만으로 굉장히 빠르게 작동합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 12 Apr 2026 08:48:05 +0000</lastBuildDate><item><title>최근 한 개발자가 권한 제어가 풀린(루팅) 안드로이드 폰을 'Claude Code'에 연결해 진행한 테스트가 화제입니다.
 
-앞서 메타(Meta)의 SAM 모델이 객체 분리의 장벽을 낮췄다면, 이제는 분리된 객체를 직관적으로 잡고 드래그 앤 드롭하여 즉시 편집하는 수준까지 도달했습니다.
+이 AI 에이전트는 ...</title><link>https://www.threads.net/@choi.openai/post/DXBfcl5DgBY</link><description>최근 한 개발자가 권한 제어가 풀린(루팅) 안드로이드 폰을 'Claude Code'에 연결해 진행한 테스트가 화제입니다.
 
-복잡한 그래픽 툴이나 정밀한 브러시 작업 없이도 누구나 손쉽게 이미지를 재배치할 수 있게 되었습니다.</description><pubDate>Sun, 12 Apr 2026 01:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXA2RbXCmOg</guid></item><item><title>허깅페이스 :
-https://huggingface.co/spaces/linoyts/FLUX.2-klein-Move</title><link>https://www.threads.net/@choi.openai/post/DXA2TmuCoNe</link><description>허깅페이스 :
-https://huggingface.co/spaces/linoyts/FLUX.2-klein-Move</description><pubDate>Sun, 12 Apr 2026 01:31:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXA2TmuCoNe</guid></item><item><title>이제는 AI 에이전트들이 3D 공간에서 직접 축구 경기를 펼칩니다.
+이 AI 에이전트는 자율적으로 인기 게임 '서브웨이 서퍼'를 역어셈블리하고, 안티 치트 시스템을 우회해 단 한 번의 세션 만에 무한 코인을 만들어냈습니다.
 
-3D 가상 환경인 Claw3D에서 AI가 직접 판단하고 움직이는 판타지 축...</title><link>https://www.threads.net/@choi.openai/post/DXAr3o_jwLA</link><description>이제는 AI 에이전트들이 3D 공간에서 직접 축구 경기를 펼칩니다.
+처음에는 네트워크 트래픽을 가로채려 시도하다가 게임이 오프라인으로 작동한다는 것을 깨닫고, 스스로 전략을 바꿔 메모리 후킹(Hooking)으로 방향을 틀어 직접 취약점을 파고들었습니다.
 
-3D 가상 환경인 Claw3D에서 AI가 직접 판단하고 움직이는 판타지 축구 리그 'ClawFC'가 공개되었습니다.
+보안 전문가의 실전 모의 해킹 과정을 완벽히 자동화한 셈인데요. 모바일 앱 보안 점검의 혁신이 시작되었지만, 기술이 악용될 경우 생태계에 얼마나 치명적일지 아찔해집니다.</description><pubDate>Sun, 12 Apr 2026 07:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXBfcl5DgBY</guid></item><item><title>애니메이션 제작 워크플로우가 얼마나 빠르게 변화되고 있는지 놀랍습니다.
 
-각각의 에이전트가 자신의 스킬과 기억, 추론 능력을 바탕으로 실시간 의사결정을 내리며 공을 찹니다.
-경기 내 모든 움직임이 API 호출을 통한 실시간 추론으로 이루어지며, 왜 그런 플레이를 했는지 전체 사고 과정까지 투명하게 기록됩니다.
+최근 Seedance 2.0를 이용한 애니메이션 워크플로우가 크게 관심...</title><link>https://www.threads.net/@choi.openai/post/DXBVJw-k1cg</link><description>애니메이션 제작 워크플로우가 얼마나 빠르게 변화되고 있는지 놀랍습니다.
 
-AI가 스스로 전략을 짜고 경쟁하는 과정 전체가 새로운 엔터테인먼트 산업으로 진화하고 있습니다.
-머지않아 인간이 아닌 특정 AI 모델의 플레이 맵시를 보며 환호하는 시대가 올 것 같습니다.</description><pubDate>Sun, 12 Apr 2026 00:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXAr3o_jwLA</guid></item><item><title>주소 :
-https://clawfc.io/</title><link>https://www.threads.net/@choi.openai/post/DXAr4mqjxxy</link><description>주소 :
-https://clawfc.io/</description><pubDate>Sun, 12 Apr 2026 00:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXAr4mqjxxy</guid></item><item><title>오픈AI가 실무에서 바로 쓸 수 있는 'Codex 활용 사례 갤러리'에 새로운 유스케이스를 추가했습니다.
+최근 Seedance 2.0를 이용한 애니메이션 워크플로우가 크게 관심을 받고 있는데요.
+대충 그린 러프 스케치에 캐릭터와 배경 이미지만 넣어주면, AI가 알아서 풀컬러 애니메이션을 완성해 줍니다. 옷깃이나 머리카락의 찰랑거림 같은 세밀한 묘사는 프롬프트로 몇 줄 텍스트를 적어주기만 하면 끝입니다.
 
-어떤 상황에서 어떤 프롬프트와 플러그...</title><link>https://www.threads.net/@choi.openai/post/DXAhkoZESTP</link><description>오픈AI가 실무에서 바로 쓸 수 있는 'Codex 활용 사례 갤러리'에 새로운 유스케이스를 추가했습니다.
+AI가 발전함에 따라 크리에이터에게 요구되는 핵심 역량이 완전히 달라지고 있습니다.
+한 땀 한 땀 그리는 기술적 숙련도보다, 어떤 세계관을 어떤 구도로 보여줄지 결정하는 연출과 기획력이 전부인 시대가 오고 있습니다.
 
-어떤 상황에서 어떤 프롬프트와 플러그인을 써야 하는지 구체적인 워크플로우를 제공해 비개발자도 쉽게 코딩 에이전트를 다룰 수 있게 돕는데요.
+AI가 모든 디테일을 채워주는 지금, 앞으로의 창작 생태계는 손재주가 뛰어난 사람보다 머릿속 세계를 얼마나 선명하게 설계하느냐가 중요해지고 있습니다.
 
-첫 시작은 실제 제작 사례와 상황별 유스케이스를 참고하여 진행하는 것이 정말로 좋습니다.</description><pubDate>Sat, 11 Apr 2026 22:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXAhkoZESTP</guid></item><item><title>유스케이스 :
-https://developers.openai.com/codex/use-cases</title><link>https://www.threads.net/@choi.openai/post/DXAhlxJEYmx</link><description>유스케이스 :
-https://developers.openai.com/codex/use-cases</description><pubDate>Sat, 11 Apr 2026 22:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXAhlxJEYmx</guid></item><item><title>유니트리(Unitree)의 휴머노이드 로봇 H1이 초속 10m를 기록하며 세계 최고 수준의 속도를 보여줬습니다.
+x@voxelplot</description><pubDate>Sun, 12 Apr 2026 06:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXBVJw-k1cg</guid></item><item><title>큰 거 온다...
 
-체중 약 62kg, 다리 길이...</title><link>https://www.threads.net/@choi.openai/post/DXAGMEkEnQT</link><description>유니트리(Unitree)의 휴머노이드 로봇 H1이 초속 10m를 기록하며 세계 최고 수준의 속도를 보여줬습니다.
+오픈AI의 'Codex'가 채팅과 개인용 에이전트를 하나로 합친 슈퍼앱으로 진화할 전망입니다.
 
-체중 약 62kg, 다리 길이 0.8m 수준의 사람과 비슷한 크기라 더 눈에 띕니다.
+가장 눈에 띄는 것은 새롭게...</title><link>https://www.threads.net/@choi.openai/post/DXBOBumjz3N</link><description>큰 거 온다...
 
-왕싱싱이 올해 상반기 안에 10m/s 돌파를 말한 지 얼마 지나지 않아 실제 기록이 나온 점도 흥미롭습니다.
+오픈AI의 'Codex'가 채팅과 개인용 에이전트를 하나로 합친 슈퍼앱으로 진화할 전망입니다.
 
-4월 19일 열리는 휴머노이드 로봇 하프마라톤에서 H1이 실제 코스에서 어떤 모습을 보일지 관심이 모입니다.</description><pubDate>Sat, 11 Apr 2026 18:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXAGMEkEnQT</guid></item></channel></rss>
+가장 눈에 띄는 것은 새롭게 도입되는 'Heartbeat' 시스템과 에이전트 생성 기능인데요.
+
+사용자가 일일이 지시하지 않아도 AI가 백그라운드에서 슬랙이나 업무 기록을 스캔하며 다음에 해야 할 일을 먼저 파악하고 제안하고 작업별로 최적화된 모델과 사고 방식을 지정해 나만의 맞춤형 에이전트를 직접 만들어낼 수도 있습니다.
+
+여기에 대화창에서 작업이 끝날 때까지 기다리는 대신 여러 에이전트에게 TODO 리스트를 동시에 실행하는 'Scratchpad'와 일반 'Chat' 시스템까지 함께 통합될 것으로 보입니다.
+
+다음주 AI 업계는 또 한 번 큰 생산성 향상을 겪게 될 것 같습니다.</description><pubDate>Sun, 12 Apr 2026 04:58:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXBOBumjz3N</guid></item><item><title>MiniMax가 코딩과 추론에 특화된 'MiniMax-M2.7'을 오픈소스로 풀었습니다.
+10B의 활성 파라미터만으로 SWE-Pro 56.22%...</title><link>https://www.threads.net/@choi.openai/post/DXBHV8jii9Z</link><description>MiniMax가 코딩과 추론에 특화된 'MiniMax-M2.7'을 오픈소스로 풀었습니다.
+10B의 활성 파라미터만으로 SWE-Pro 56.22%를 기록하며 기존 최상위 모델들에 준하는 코딩 성능을 보여주는데요.
+
+여기서 주목할 부분은 M2.7의 '자가 진화(Self-evolution)' 능력입니다.
+해당 모델은 스스로 메모리를 업데이트하고 스킬을 만들어가며 머신러닝 실험을 자율적으로 수행합니다.
+
+실제 프로덕션 환경의 라이브 버그를 원인부터 추적해서 고치고, 엑셀이나 PPT 같은 사무 작업까지 매끄럽게 처리하는 실무형 에이전트 역할을 해냅니다.
+
+오픈소스 생태계가 정말 빠르게 발전하고 있음을 보여주는 것 같습니다.
+미래 미토스급 모델들도 오픈소스로 풀리게 될 것인지 그렇게 된다면 시장은 또 한 번 어떤 충격을 불러일으킬 것인지 정말 중요한 시점입니다.</description><pubDate>Sun, 12 Apr 2026 04:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXBHV8jii9Z</guid></item><item><title>블로그 :
+https://www.minimax.io/news/minimax-m27-en</title><link>https://www.threads.net/@choi.openai/post/DXBHX5viqJx</link><description>블로그 :
+https://www.minimax.io/news/minimax-m27-en</description><pubDate>Sun, 12 Apr 2026 04:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXBHX5viqJx</guid></item></channel></rss>
