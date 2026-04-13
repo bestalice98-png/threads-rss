@@ -1,67 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 13 Apr 2026 02:41:18 +0000</lastBuildDate><item><title>오픈AI CEO 샘 알트만의 자택이 불과 며칠 새 두 번이나 공격을 받았습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 13 Apr 2026 09:55:03 +0000</lastBuildDate><item><title>새로운 Codex 앱에 대한 실체가 점점 들어나고 있는 것 같습니다.
 
-금요일 새벽 20대 남성이 화염병을 던진 데 이어, 일요일 새...</title><link>https://www.threads.net/@choi.openai/post/DXDh44ngD-3</link><description>오픈AI CEO 샘 알트만의 자택이 불과 며칠 새 두 번이나 공격을 받았습니다.
+현재 활성화할 수 있는 숨겨진 기능들에는 내장 브라우저, 특정 UI 요소...</title><link>https://www.threads.net/@choi.openai/post/DXEMU_kD2n7</link><description>새로운 Codex 앱에 대한 실체가 점점 들어나고 있는 것 같습니다.
 
-금요일 새벽 20대 남성이 화염병을 던진 데 이어, 일요일 새벽에는 차량을 탄 용의자들이 자택을 향해 총격까지 가했다고 하는데요.
-다행히 인명 피해는 없었고 샌프란시스코 경찰이 관련 용의자들을 체포한 상태입니다.
+현재 활성화할 수 있는 숨겨진 기능들에는 내장 브라우저, 특정 UI 요소에 직접 코멘트를 남기는 기능, 그리고 파일 미리보기 등이 포함되어 있는데요.
+최근 코딩 도구 Cursor가 추가한 UI 선택 기능과 매우 유사한 형태입니다.
 
-이러한 물리적 위협의 배경에는 AI의 파급력에 대한 대중의 공포가 자리 잡고 있습니다.
-알트만 스스로도 첫 공격 직후 "AI에 대한 공포와 불안은 정당하며, 인류는 역사상 가장 큰 사회적 변화를 목격하고 있다"고 밝혔는데요.
+앞서 유출된 Codex의 뛰어난 에이전트 성능에 이런 시각적 편의성까지 더해진다면 개발 워크플로우가 완전히 달라지게 될 것으로 보입니다.
 
-AI의 발전 속도가 빠른 만큼, 세상이 변하는 것을 두려워하는 반 AI 정서 역시 극단적인 행동으로 나타나고 있습니다.
+이제 코딩 AI는 브라우저와 에디터의 경계를 허무는 통합 작업 공간으로 진화하고 있습니다.
+누구나 빌더가 되는 세상에서는 복잡한 하네스를 직접 일일히 설정하는 구조가 아닌 아이디어를 현실로 만들어줄 좋은 제품이 필요합니다.
 
-과연 이 기술의 발전은 유토피아로 이어질까요, 아니면 걷잡을 수 없는 혼란을 부를까요? 발전 속도에 걸맞은 사회적 합의에 대한 논의가 더욱 필요한 시점입니다.</description><pubDate>Mon, 13 Apr 2026 02:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDh44ngD-3</guid></item><item><title>기사 :
-https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/</title><link>https://www.threads.net/@choi.openai/post/DXDh5vbANHg</link><description>기사 :
-https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/</description><pubDate>Mon, 13 Apr 2026 02:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDh5vbANHg</guid></item><item><title>🚨 앤트로픽이 개발 생태계를 완전히 집어삼키려 작정했습니다.
-다음 주 'Claude Code' 데스크톱 앱에 새로운 "Epitaxy(에피택시)"...</title><link>https://www.threads.net/@choi.openai/post/DXDYs_gD1Ic</link><description>🚨 앤트로픽이 개발 생태계를 완전히 집어삼키려 작정했습니다.
-다음 주 'Claude Code' 데스크톱 앱에 새로운 "Epitaxy(에피택시)" 환경이 공개될 예정이라는 소식입니다.
-파워 유저에 맞춘 직관적인 UI와 여러 저장소를 동시에 다루는 협업 레이아웃이 적용되는데요.
+AI 코딩 도구들이 점점 ‘슈퍼 앱’ 형태로 진화하는 가운데, 경쟁사인 앤트로픽의 “Epitaxy” 출시까지 예고되면서 시장의 긴장감도 한층 높아지고 있습니다.</description><pubDate>Mon, 13 Apr 2026 08:41:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXEMU_kD2n7</guid></item><item><title>Claude Code 정말 잘쓰고 계신가요?
 
-앱 내에서 코드를 미리 보고, 작업 계획(Plan), 서브 에이전트의 수행 작업(Tasks), 변경 사항(Diff)까지 한 번에 관리할 수 있게 됩니다.
+최근 깃허브에서 3만 2천 개 이상의 스타를 받으며 트렌딩 1위에 오른 'claude-code-b...</title><link>https://www.threads.net/@choi.openai/post/DXEB5v5ASo0</link><description>Claude Code 정말 잘쓰고 계신가요?
 
-또한, 맞춤형 에이전트를 직접 만들고, 여러 병렬 에이전트에게 작업을 위임하는 'Coordinator Mode'가 추가된다는 예정입니다.
+최근 깃허브에서 3만 2천 개 이상의 스타를 받으며 트렌딩 1위에 오른 'claude-code-best-practice' 프로젝트가 큰 주목을 받고 있는데요.
+커뮤니티가 실제 환경에서 부딪히며 찾아낸 84개 이상의 실전 팁과 설정 템플릿을 한곳에 모았습니다.
 
-Lovable처럼 풀스택 앱을 쉽게 구축할 수 있는 길이 열리며 단일 컨텍스트 창만 쳐다보던 시대가 끝나가고 있습니다.
+가장 눈여겨볼 부분은 'Everything Claude Code', 'Superpowers' 등 인기 있는 8가지 워크플로우의 비교 자료입니다.
+코드 품질을 높일지, 개발 속도를 올릴지 목적에 맞는 명확한 선택 기준을 보여줍니다.
+무거운 조사를 서브 에이전트에게 맡기는 분업법 등 실무에 바로 적용할 내용도 가득합니다.
 
-이제 에이전트들이 완벽한 개발팀으로 작동하면서, 통합된 AI 워크스페이스의 시대가 열릴 것으로 보입니다.</description><pubDate>Mon, 13 Apr 2026 01:10:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDYs_gD1Ic</guid></item><item><title>AI로 사람 줄이면 결국 회사도 망한다는 연구가 나왔습니다.
-UPenn·Boston대 "The AI Layoff Trap"은 직원 해고가 곧 고...</title><link>https://www.threads.net/@choi.openai/post/DXCGERnj6k0</link><description>AI로 사람 줄이면 결국 회사도 망한다는 연구가 나왔습니다.
-UPenn·Boston대 "The AI Layoff Trap"은 직원 해고가 곧 고객 감소로 이어져 경제가 무너지는 구조를 수학적으로 증명했습니다.
-이미 시작된 이 흐름, 핵심 포인트 정리했습니다🧵</description><pubDate>Sun, 12 Apr 2026 13:08:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXCGERnj6k0</guid></item><item><title>1/ 최근 펜실베이니아 대학(UPenn)과 보스턴 대학(Boston University)의 연구진이 발표한 논문 "AI 해고의 함정(The AI...</title><link>https://www.threads.net/@choi.openai/post/DXCGEpaD0Hu</link><description>1/ 최근 펜실베이니아 대학(UPenn)과 보스턴 대학(Boston University)의 연구진이 발표한 논문 "AI 해고의 함정(The AI Layoff Trap)"이 X 등 소셜 미디어를 뜨겁게 달구고 있습니다.
+이제는 도구 자체보다 각자 상황에 맞는 워크플로우를 어떻게 조립하느냐가 생산성의 차이를 만듭니다.
+MIT 라이선스로 모두에게 공개되어 있으니, 최적화된 개발 환경을 당장 구축해 보시길 바랍니다.</description><pubDate>Mon, 13 Apr 2026 07:10:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXEB5v5ASo0</guid></item><item><title>깃허브 :
+https://github.com/shanraisshan/claude-code-best-practice</title><link>https://www.threads.net/@choi.openai/post/DXEB66nAZqK</link><description>깃허브 :
+https://github.com/shanraisshan/claude-code-best-practice</description><pubDate>Mon, 13 Apr 2026 07:10:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXEB66nAZqK</guid></item><item><title>충격적인 AI 미래 시나리오가 그대로 현실이 되어가고 있습니다.
+AI 미래 예측 시나리오 "AI 2027" 정확도가 벌써 88%까지 올라왔습니다...</title><link>https://www.threads.net/@choi.openai/post/DXD3RGRjykC</link><description>충격적인 AI 미래 시나리오가 그대로 현실이 되어가고 있습니다.
+AI 미래 예측 시나리오 "AI 2027" 정확도가 벌써 88%까지 올라왔습니다.
+METR 곡선과 실제 성능 데이터까지 맞아떨어지면서 흐름이 유지되고 있습니다.
+이제 변수는 단 하나, "Agent 1" 출시 여부입니다.
+지금 맞아가는 사례들과 핵심 포인트를 정리했습니다🧵</description><pubDate>Mon, 13 Apr 2026 05:37:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXD3RGRjykC</guid></item><item><title>1/ 현재 "AI 2027" 시나리오 트래커에 따르면, 총 202개의 예측 중 22%가 평가되었으며 그 정확도는 무려 88%에 달합니다.
 
-이 논문은 단순히 AI가 일자리를 빼앗을 것이라는 막연한 공포를 넘어, AI 도입이 결국 경제 전체의 구매력을 증발시켜 기업 스스로를 파멸로 몰고 갈 수밖에 없는 수학적이고 구조적인 '함정'을 증명해 냈습니다.
+특히...</title><link>https://www.threads.net/@choi.openai/post/DXD3RcwjwD7</link><description>1/ 현재 "AI 2027" 시나리오 트래커에 따르면, 총 202개의 예측 중 22%가 평가되었으며 그 정확도는 무려 88%에 달합니다.
 
-10만 명 이상의 기술직 노동자가 해고된 2025년의 현실을 바탕으로, 이 논문이 제기하는 무서운 진실과 그 해결책의 한계를 정리해 드립니다.</description><pubDate>Sun, 12 Apr 2026 13:08:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXCGEpaD0Hu</guid></item><item><title>2/ 연구진은 AI로 직원을 해고하는 행위를 "자신의 고객을 해고하는 것"과 같다고 설명합니다.
+특히 주목할 점은 AI의 작업 처리 시간을 나타내는 'Task-Horizon' 곡선입니다.
+Daniel의 예측 곡선과 실제 공개된 METR p80 결과, 그리고 Epoch ECI 기반 외삽 데이터가 완벽하게 일치하고 있습니다.
 
-기업은 AI를 도입해 인건비를 절감하고 이윤을...</title><link>https://www.threads.net/@choi.openai/post/DXCGFmYj14C</link><description>2/ 연구진은 AI로 직원을 해고하는 행위를 "자신의 고객을 해고하는 것"과 같다고 설명합니다.
+GPT-4부터 Claude Opus 4.6(1.16시간), 그리고 최근 평가된 Mythos(3.95시간)까지 모든 모델의 발전 속도가 시나리오가 예견한 로그 스케일 그래프의 궤적을 정확히 따라가고 있으며, 이는 우리가 시나리오의 경로를 단 한 치의 오차도 없이 밟고 있음을 증명합니다.</description><pubDate>Mon, 13 Apr 2026 05:37:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXD3RcwjwD7</guid></item><item><title>2/ 2/ 2025년 중반을 예측했던 '개인 비서(Personal Assistant)' 관련 시나리오들은 이미 100% 적중했습니다.
 
-기업은 AI를 도입해 인건비를 절감하고 이윤을 극대화하려 하지만, 해고된 직원들은 곧 그 기업의 제품을 사주던 소비자이기도 합니다.
+AI 에...</title><link>https://www.threads.net/@choi.openai/post/DXD3SibjwuQ</link><description>2/ 2/ 2025년 중반을 예측했던 '개인 비서(Personal Assistant)' 관련 시나리오들은 이미 100% 적중했습니다.
 
-일자리를 잃은 사람들의 지출이 줄어들면 사회 전체의 수요(수익)가 감소하게 됩니다.
+AI 에이전트들이 "예산 스프레드시트를 열어줘", "도어대시로 부리또 시켜줘" 같은 명령을 수행하고 확인 질문을 할 것이란 예측이 그대로 실현되었습니다.
 
-한 기업의 해고는 다른 모든 기업의 매출 감소로 이어지며, 결국 무한한 생산성과 제로(0)에 가까운 수요만 남는 파국을 맞이하게 됩니다.
+동시에 이들이 아직 완벽하지 않아 엉뚱한 실수를 저지르고, X(트위터) 같은 소셜 미디어에 AI가 작업을 망친 웃지 못할 밈과 썰들이 쏟아질 것이란 예측 역시 정확히 맞아떨어졌습니다.
 
-이는 노동자는 임금을 잃고 기업 소유주는 고객을 잃어 모두가 함께 파멸하는 완벽한 '사중 손실(Deadweight loss)'입니다.</description><pubDate>Sun, 12 Apr 2026 13:08:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXCGFmYj14C</guid></item><item><title>3/ 더욱 무서운 사실은 모든 CEO가 이 파국을 뻔히 내다보면서도 멈출 수 없다는 점입니다.
+광고에서는 화려한 비서로 포장되지만 실제 대중적인 사용에는 한계를 겪고 있다는 디테일한 묘사까지 현실과 완벽하게 일치합니다.</description><pubDate>Mon, 13 Apr 2026 05:37:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXD3SibjwuQ</guid></item><item><title>3/ 코딩 AI의 진화 양상도 시나리오의 궤적을 그대로 따랐습니다.
 
-만약 한 기업이 일자리를 지키기 위해 AI 도입...</title><link>https://www.threads.net/@choi.openai/post/DXCGGK2j66D</link><description>3/ 더욱 무서운 사실은 모든 CEO가 이 파국을 뻔히 내다보면서도 멈출 수 없다는 점입니다.
+2025년 중반부터는 코딩 AI가 점차 '자율 에이전트'의 형태를 띠기 시...</title><link>https://www.threads.net/@choi.openai/post/DXD3Tb2Dy31</link><description>3/ 코딩 AI의 진화 양상도 시나리오의 궤적을 그대로 따랐습니다.
 
-만약 한 기업이 일자리를 지키기 위해 AI 도입을 거부한다면, 경쟁사는 AI로 원가를 절감해 가격 경쟁력을 확보하고 시장을 독식할 것입니다.
+2025년 중반부터는 코딩 AI가 점차 '자율 에이전트'의 형태를 띠기 시작했습니다.
+이들은 슬랙(Slack)이나 팀즈(Teams)를 통해 작업 지시를 받고, 독자적으로 코드를 수정하여 개발자들의 시간을 획기적으로 단축해 주고 있습니다.
 
-결국 비용을 절감하지 못한 착한(?) 기업은 도태되고 맙니다.
+최고 수준의 성능을 내는 AI 에이전트 모델을 사용하기 위해 한 달에 수백 달러에 달하는 값비싼 비용을 지불해야 할 것이라는 예측 역시 100% 정확 판정을 받았습니다.
 
-따라서 모든 기업은 다 같이 망할 것을 알면서도 당장 살아남기 위해 앞다투어 직원을 해고하고 AI를 도입할 수밖에 없는 완벽한 '죄수의 딜레마(Prisoner's Dilemma)'에 빠져 있습니다.</description><pubDate>Sun, 12 Apr 2026 13:08:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXCGGK2j66D</guid></item><item><title>이번주도 AI 업계는 충격적인 소식으로 가득했습니다.
+비싼 비용과 불안정성에도 불구하고 수많은 기업들이 이를 워크플로우에 통합하고 있습니다.</description><pubDate>Mon, 13 Apr 2026 05:37:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXD3Tb2Dy31</guid></item><item><title>최근 Claude가 유독 멍청해졌다고 느끼셨다면 단순한 기분 탓이 아니었습니다.
 
-불과 며칠 사이, 구글, 앤트로픽, 메타, 오픈AI, 엔비디아를 비롯한 주요 기업들이 업...</title><link>https://www.threads.net/@choi.openai/post/DXB3ofMj6wk</link><description>이번주도 AI 업계는 충격적인 소식으로 가득했습니다.
+로그 까보니 thinking 깊이 67% 감소, 코드 읽지도 ...</title><link>https://www.threads.net/@choi.openai/post/DXDsNvrk7mU</link><description>최근 Claude가 유독 멍청해졌다고 느끼셨다면 단순한 기분 탓이 아니었습니다.
 
-불과 며칠 사이, 구글, 앤트로픽, 메타, 오픈AI, 엔비디아를 비롯한 주요 기업들이 업데이트를 쏟아냈는데요.
+로그 까보니 thinking 깊이 67% 감소, 코드 읽지도 않고 수정하는 사례까지 나왔습니다.
 
-이 정보 격차는 늦기 전에 반드시 따라잡아야 합니다.
-정말 도움되는 AI 업데이트 소식을 엄선했습니다.
+현재 Claude에서 발생하고 있는 문제점을 정리했습니다. 🧵</description><pubDate>Mon, 13 Apr 2026 04:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDsNvrk7mU</guid></item><item><title>1/ 최근 Claude 사용자들이 2026년 2월을 기점으로 모델의 성능과 사용 환경에 이상함을 느끼기 시작했습니다.
 
-좋아요, 리포스트 후 꼭보세요. 🧵👇🏻￼</description><pubDate>Sun, 12 Apr 2026 11:02:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXB3ofMj6wk</guid></item><item><title>1/ 앤스로픽이 해킹 능력이 강한 'Claude Mythos Preview'를 공개했습니다.
-샌드박스 탈출과 흔적 지우기 기능이 포함돼, 대중 ...</title><link>https://www.threads.net/@choi.openai/post/DXB3o39D4p1</link><description>1/ 앤스로픽이 해킹 능력이 강한 'Claude Mythos Preview'를 공개했습니다.
-샌드박스 탈출과 흔적 지우기 기능이 포함돼, 대중 공개는 하지 않았다고 합니다.</description><pubDate>Sun, 12 Apr 2026 11:02:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXB3o39D4p1</guid></item><item><title>2/ 앤스로픽이 해킹 능력이 강한 'Claude Mythos Preview'를 공개했습니다.
-샌드박스 탈출과 흔적 지우기 기능이 포함돼, 대중 ...</title><link>https://www.threads.net/@choi.openai/post/DXB3pRhD-5y</link><description>2/ 앤스로픽이 해킹 능력이 강한 'Claude Mythos Preview'를 공개했습니다.
-샌드박스 탈출과 흔적 지우기 기능이 포함돼, 대중 공개는 하지 않았다고 합니다.</description><pubDate>Sun, 12 Apr 2026 11:02:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXB3pRhD-5y</guid></item><item><title>3/ 구글이 Gemini 채팅창에 인터랙티브 시각화 기능을 추가했습니다.
-Pro 모델에서 변수를 조절하고 3D 모델을 회전하며 데이터를 살펴볼 ...</title><link>https://www.threads.net/@choi.openai/post/DXB3pp6D2PG</link><description>3/ 구글이 Gemini 채팅창에 인터랙티브 시각화 기능을 추가했습니다.
-Pro 모델에서 변수를 조절하고 3D 모델을 회전하며 데이터를 살펴볼 수 있습니다.</description><pubDate>Sun, 12 Apr 2026 11:02:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXB3pp6D2PG</guid></item></channel></rss>
+모델이 이전처럼 코드를 ...</title><link>https://www.threads.net/@choi.openai/post/DXDsO2EkzIn</link><description>1/ 최근 Claude 사용자들이 2026년 2월을 기점으로 모델의 성능과 사용 환경에 이상함을 느끼기 시작했습니다.
+
+모델이 이전처럼 코드를 꼼꼼히 읽지 않고 곧바로 수정에 뛰어들어 전에 없던 버그를 양산하거나, 'Thinking'의 깊이가 67%나 급감했다는 불만이 쏟아졌습니다.
+
+클로드 코드의 책임자인 보리스 체르니(Boris Cherny)는 깃허브를 통해, 성능 제한이 아니라 쉬운 작업에서 토큰을 절약하기 위해 도입한 '적응형 사고(Adaptive thinking)' 기능이 복잡한 문제까지 억제해 버린 결과라고 해명했습니다.
+
+또한, 사용자가 최고 수준(High)의 노력을 설정하더라도 특정 턴에서 추론을 완전히 '0'으로 만들어버리는 버그가 존재했음을 스스로 인정했습니다.
+
+컴퓨팅 수요가 폭발적으로 증가하는 AI 과도기에서, 사용자들은 모델이 강력해짐과 동시에 기업이 몰래 성능을 낮추는 이른바 '잠수함 패치'에 대한 강한 반발감을 드러내고 있습니다.</description><pubDate>Mon, 13 Apr 2026 04:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDsO2EkzIn</guid></item><item><title>2/ AMD의 선임 AI 디렉터가 수천 건의 로그를 분석한 결과도 동일했는데요.
+
+앤트로픽이 클로드의 기본 '노력 수준(Effort level)...</title><link>https://www.threads.net/@choi.openai/post/DXDsQTSk5PY</link><description>2/ AMD의 선임 AI 디렉터가 수천 건의 로그를 분석한 결과도 동일했는데요.
+
+앤트로픽이 클로드의 기본 '노력 수준(Effort level)'을 은밀하게 낮추고 모델 스스로 추론량을 결정하는 '적응형 사고'를 도입하여 코드를 읽는 비율은 6.6배에서 2.0배로 곤두박질쳤고, 추론 토큰을 전혀 할당하지 않은 채 환각을 일으키는 사례가 급증했다고 말합니다.
+
+심지어 오후 5시와 7시 등 서버 트래픽이 몰리는 시간대에 성능 저하가 가장 심해, 이는 명백히 GPU 부하를 줄이기 위한 기업 측의 의도적인 조치으로 추정되는 상황입니다.
+
+사용자들은 이를 똑같은 가격을 내고 더 멍청한 AI를 쓰게 만드는 'AI 슈링크플레이션(Shrinkflation)'이라 부르며 분노하고 있습니다.</description><pubDate>Mon, 13 Apr 2026 04:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDsQTSk5PY</guid></item><item><title>3/ 특히 최근 유출된 소스 코드에서 앤스로픽 내부 직원들(ant)에게만 "작업 완료 전 실제로 작동하는지 검증하라"는 우수한 시스템 프롬프트를...</title><link>https://www.threads.net/@choi.openai/post/DXDsRmxk0Fn</link><description>3/ 특히 최근 유출된 소스 코드에서 앤스로픽 내부 직원들(ant)에게만 "작업 완료 전 실제로 작동하는지 검증하라"는 우수한 시스템 프롬프트를 제공하는 등, 일반 고객과 철저히 차별화된 서비스를 몰래 운영해 온 사실까지 드러나 신뢰성에 큰 타격을 입었습니다.
+
+이러한 성능 제한 논란은 벤치마크 테스트에서도 발생하고 있습니다.
+
+Claude Opus 4.6 모델은 불과 일주일 전까지만 해도 환각 벤치마크(BridgeBench)에서 83.3%의 정확도로 2위를 기록했으나, 최근 재테스트 결과 정확도가 68.3%로 폭락하며 10위로 밀려났습니다.
+
+하지만, 해당 실험이 과거 6개였던 테스트 항목을 30개로 임의로 늘려 비교한 잘못된 실험이며, 공통된 6개 작업만 비교하면 정확도 하락은 통계적으로 무의미한 수준(p ≈ 0.19)의 '통계적 잡음'에 불과하다는 팽팽한 이견도 존재하지만, 실제 체감상 환각과 성능적 저하에 대한 이슈는 지속적으로 발생하는 중입니다.</description><pubDate>Mon, 13 Apr 2026 04:01:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDsRmxk0Fn</guid></item></channel></rss>
