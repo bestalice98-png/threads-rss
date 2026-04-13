@@ -1,87 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 13 Apr 2026 09:55:03 +0000</lastBuildDate><item><title>새로운 Codex 앱에 대한 실체가 점점 들어나고 있는 것 같습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 13 Apr 2026 16:05:10 +0000</lastBuildDate><item><title>대 해킹 시대, 이제 AI가 인간 해커를 완전히 대체할지도 모르겠습니다.
 
-현재 활성화할 수 있는 숨겨진 기능들에는 내장 브라우저, 특정 UI 요소...</title><link>https://www.threads.net/@choi.openai/post/DXEMU_kD2n7</link><description>새로운 Codex 앱에 대한 실체가 점점 들어나고 있는 것 같습니다.
+AI Security Institute 평가에서 "Claude Myt...</title><link>https://www.threads.net/@choi.openai/post/DXE1fToDyJp</link><description>대 해킹 시대, 이제 AI가 인간 해커를 완전히 대체할지도 모르겠습니다.
 
-현재 활성화할 수 있는 숨겨진 기능들에는 내장 브라우저, 특정 UI 요소에 직접 코멘트를 남기는 기능, 그리고 파일 미리보기 등이 포함되어 있는데요.
-최근 코딩 도구 Cursor가 추가한 UI 선택 기능과 매우 유사한 형태입니다.
+AI Security Institute 평가에서 "Claude Mythos Preview"가 32단계 기업 해킹 시나리오를 처음으로 완주했습니다.
+불과 18개월 전, 세상에서 가장 뛰어난 AI도 기껏해야 2단계를 넘기는 수준이었는데요.
+평균 22단계를 통과하며, 10번 중 3번은 끝까지 시스템을 뚫어버렸습니다.
+이 모든 공격을 시도하는 데 드는 비용은 고작 65파운드(약 11만 원)입니다.
 
-앞서 유출된 Codex의 뛰어난 에이전트 성능에 이런 시각적 편의성까지 더해진다면 개발 워크플로우가 완전히 달라지게 될 것으로 보입니다.
+영국 AI 안전 연구소(AISI)가 발표한 내용을 정리했습니다 🧵</description><pubDate>Mon, 13 Apr 2026 14:41:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXE1fToDyJp</guid></item><item><title>1/ 2023년 말까지만 해도 가장 뛰어난 AI조차 초보자 수준(Beginner-level)의 사이버 공격 과제를 겨우 수행하는 데 그쳤습니다....</title><link>https://www.threads.net/@choi.openai/post/DXE1f7bD5Ew</link><description>1/ 2023년 말까지만 해도 가장 뛰어난 AI조차 초보자 수준(Beginner-level)의 사이버 공격 과제를 겨우 수행하는 데 그쳤습니다.
 
-이제 코딩 AI는 브라우저와 에디터의 경계를 허무는 통합 작업 공간으로 진화하고 있습니다.
-누구나 빌더가 되는 세상에서는 복잡한 하네스를 직접 일일히 설정하는 구조가 아닌 아이디어를 현실로 만들어줄 좋은 제품이 필요합니다.
+하지만 이번에 AISI가 실시한 평가에서 Claude Mythos Preview 모델은 '초급'과 '견습생' 단계를 넘어, 전문가 수준(Expert-level)의 해킹 과제(CTF)를 무려 73%의 성공률로 돌파했습니다.
 
-AI 코딩 도구들이 점점 ‘슈퍼 앱’ 형태로 진화하는 가운데, 경쟁사인 앤트로픽의 “Epitaxy” 출시까지 예고되면서 시장의 긴장감도 한층 높아지고 있습니다.</description><pubDate>Mon, 13 Apr 2026 08:41:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXEMU_kD2n7</guid></item><item><title>Claude Code 정말 잘쓰고 계신가요?
+과거에는 어떤 모델도 풀지 못했던 난이도를 불과 1년 반 만에 완벽히 정복한 것입니다.</description><pubDate>Mon, 13 Apr 2026 14:41:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXE1f7bD5Ew</guid></item><item><title>2/ AISI는 초기 정찰부터 네트워크 완전 장악까지, 인간 사이버 전문가가 꼬박 20시간을 매달려야 하는 32단계의 극한 기업 해킹 시뮬레이션...</title><link>https://www.threads.net/@choi.openai/post/DXE1hPnj4lL</link><description>2/ AISI는 초기 정찰부터 네트워크 완전 장악까지, 인간 사이버 전문가가 꼬박 20시간을 매달려야 하는 32단계의 극한 기업 해킹 시뮬레이션 'The Last Ones(TLO)'를 구축했습니다.
 
-최근 깃허브에서 3만 2천 개 이상의 스타를 받으며 트렌딩 1위에 오른 'claude-code-b...</title><link>https://www.threads.net/@choi.openai/post/DXEB5v5ASo0</link><description>Claude Code 정말 잘쓰고 계신가요?
+놀랍게도 Mythos Preview는 이 32단계를 사상 최초로 '처음부터 끝까지' 자율적으로 뚫어내는 데 성공했습니다(10번 중 3번 성공).
 
-최근 깃허브에서 3만 2천 개 이상의 스타를 받으며 트렌딩 1위에 오른 'claude-code-best-practice' 프로젝트가 큰 주목을 받고 있는데요.
-커뮤니티가 실제 환경에서 부딪히며 찾아낸 84개 이상의 실전 팁과 설정 템플릿을 한곳에 모았습니다.
+이전 최고 모델이었던 Claude Opus 4.6이 평균 16단계에서 막혔던 것을 생각하면 엄청난 도약입니다.</description><pubDate>Mon, 13 Apr 2026 14:41:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXE1hPnj4lL</guid></item><item><title>3/ 더욱 무서운 점은 AI의 해킹 능력이 '자본력'에 비례한다는 사실입니다.
 
-가장 눈여겨볼 부분은 'Everything Claude Code', 'Superpowers' 등 인기 있는 8가지 워크플로우의 비교 자료입니다.
-코드 품질을 높일지, 개발 속도를 올릴지 목적에 맞는 명확한 선택 기준을 보여줍니다.
-무거운 조사를 서브 에이전트에게 맡기는 분업법 등 실무에 바로 적용할 내용도 가득합니다.
+AISI는 이번 실험에서 모델에게 최대 1억 개(100M)의 토...</title><link>https://www.threads.net/@choi.openai/post/DXE1iUhDwef</link><description>3/ 더욱 무서운 점은 AI의 해킹 능력이 '자본력'에 비례한다는 사실입니다.
 
-이제는 도구 자체보다 각자 상황에 맞는 워크플로우를 어떻게 조립하느냐가 생산성의 차이를 만듭니다.
-MIT 라이선스로 모두에게 공개되어 있으니, 최적화된 개발 환경을 당장 구축해 보시길 바랍니다.</description><pubDate>Mon, 13 Apr 2026 07:10:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXEB5v5ASo0</guid></item><item><title>깃허브 :
-https://github.com/shanraisshan/claude-code-best-practice</title><link>https://www.threads.net/@choi.openai/post/DXEB66nAZqK</link><description>깃허브 :
-https://github.com/shanraisshan/claude-code-best-practice</description><pubDate>Mon, 13 Apr 2026 07:10:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXEB66nAZqK</guid></item><item><title>충격적인 AI 미래 시나리오가 그대로 현실이 되어가고 있습니다.
-AI 미래 예측 시나리오 "AI 2027" 정확도가 벌써 88%까지 올라왔습니다...</title><link>https://www.threads.net/@choi.openai/post/DXD3RGRjykC</link><description>충격적인 AI 미래 시나리오가 그대로 현실이 되어가고 있습니다.
-AI 미래 예측 시나리오 "AI 2027" 정확도가 벌써 88%까지 올라왔습니다.
-METR 곡선과 실제 성능 데이터까지 맞아떨어지면서 흐름이 유지되고 있습니다.
-이제 변수는 단 하나, "Agent 1" 출시 여부입니다.
-지금 맞아가는 사례들과 핵심 포인트를 정리했습니다🧵</description><pubDate>Mon, 13 Apr 2026 05:37:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXD3RGRjykC</guid></item><item><title>1/ 현재 "AI 2027" 시나리오 트래커에 따르면, 총 202개의 예측 중 22%가 평가되었으며 그 정확도는 무려 88%에 달합니다.
+AISI는 이번 실험에서 모델에게 최대 1억 개(100M)의 토큰 예산을 주었는데, 모델에게 생각할 시간과 돈(토큰)을 더 주면 줄수록 해킹 성공률은 우상향하며 계속 올라갔습니다.
 
-특히...</title><link>https://www.threads.net/@choi.openai/post/DXD3RcwjwD7</link><description>1/ 현재 "AI 2027" 시나리오 트래커에 따르면, 총 202개의 예측 중 22%가 평가되었으며 그 정확도는 무려 88%에 달합니다.
+즉, 고도의 해킹 기술이 없어도 돈(컴퓨팅 자원)만 쏟아부으면 누구나 최고 수준의 해킹 공격을 감행할 수 있는 시대가 열린 것입니다.
 
-특히 주목할 점은 AI의 작업 처리 시간을 나타내는 'Task-Horizon' 곡선입니다.
-Daniel의 예측 곡선과 실제 공개된 METR p80 결과, 그리고 Epoch ECI 기반 외삽 데이터가 완벽하게 일치하고 있습니다.
+그렇다면 지금 당장 우리 회사의 시스템이 AI에게 털리게 될까요?
 
-GPT-4부터 Claude Opus 4.6(1.16시간), 그리고 최근 평가된 Mythos(3.95시간)까지 모든 모델의 발전 속도가 시나리오가 예견한 로그 스케일 그래프의 궤적을 정확히 따라가고 있으며, 이는 우리가 시나리오의 경로를 단 한 치의 오차도 없이 밟고 있음을 증명합니다.</description><pubDate>Mon, 13 Apr 2026 05:37:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXD3RcwjwD7</guid></item><item><title>2/ 2/ 2025년 중반을 예측했던 '개인 비서(Personal Assistant)' 관련 시나리오들은 이미 100% 적중했습니다.
+다행히 아직은 아닙니다. 이번 실험은 모델이 시끄러운 경고음을 내도 패널티를 주지 않는, 즉 '방어자가 없는 취약한 환경'에서 진행되었습니다.
 
-AI 에...</title><link>https://www.threads.net/@choi.openai/post/DXD3SibjwuQ</link><description>2/ 2/ 2025년 중반을 예측했던 '개인 비서(Personal Assistant)' 관련 시나리오들은 이미 100% 적중했습니다.
+현실의 기업 네트워크에는 실시간 탐지 시스템과 방어 인력이 존재하므로, 현재 수준의 AI가 내는 요란한 공격 패턴은 쉽게 탐지되고 차단될 확률이 높습니다.</description><pubDate>Mon, 13 Apr 2026 14:41:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXE1iUhDwef</guid></item><item><title>🚨 스탠포드 연구소에서 충격적인 AI 보고서를 발표했습니다.
 
-AI 에이전트들이 "예산 스프레드시트를 열어줘", "도어대시로 부리또 시켜줘" 같은 명령을 수행하고 확인 질문을 할 것이란 예측이 그대로 실현되었습니다.
+AI가 어디까지 왔는지 체감이 안 된다면 이 보고서 보면 생각 바뀝니다.
 
-동시에 이들이 아직 완벽하지 않아 엉뚱한 실수를 저지르고, X(트위터) 같은 소셜 미디어에 AI가 작업을 망친 웃지 못할 밈과 썰들이 쏟아질 것이란 예측 역시 정확히 맞아떨어졌습니다.
+스탠퍼...</title><link>https://www.threads.net/@choi.openai/post/DXErFeNj9Vt</link><description>🚨 스탠포드 연구소에서 충격적인 AI 보고서를 발표했습니다.
 
-광고에서는 화려한 비서로 포장되지만 실제 대중적인 사용에는 한계를 겪고 있다는 디테일한 묘사까지 현실과 완벽하게 일치합니다.</description><pubDate>Mon, 13 Apr 2026 05:37:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXD3SibjwuQ</guid></item><item><title>3/ 코딩 AI의 진화 양상도 시나리오의 궤적을 그대로 따랐습니다.
+AI가 어디까지 왔는지 체감이 안 된다면 이 보고서 보면 생각 바뀝니다.
 
-2025년 중반부터는 코딩 AI가 점차 '자율 에이전트'의 형태를 띠기 시...</title><link>https://www.threads.net/@choi.openai/post/DXD3Tb2Dy31</link><description>3/ 코딩 AI의 진화 양상도 시나리오의 궤적을 그대로 따랐습니다.
+스탠퍼드 대학교 HAI 연구소에서 방금 발표한 따끈따끈한 "AI Index 2026"에서 드러난 건, 성능은 폭발적으로 오르는데 안전·일자리·교육은 전혀 못 따라오고 있다는 점입니다.
 
-2025년 중반부터는 코딩 AI가 점차 '자율 에이전트'의 형태를 띠기 시작했습니다.
-이들은 슬랙(Slack)이나 팀즈(Teams)를 통해 작업 지시를 받고, 독자적으로 코드를 수정하여 개발자들의 시간을 획기적으로 단축해 주고 있습니다.
+지금 꼭 봐야 할 핵심 사례 15가지 정리했습니다.
+이건 정말 전체 내용을 직접 읽어보시길 바랍니다. 🧵</description><pubDate>Mon, 13 Apr 2026 13:10:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXErFeNj9Vt</guid></item><item><title>1/ 올해 리포트에서 가장 두드러지는 점은 AI의 발전 속도가 인간이 만든 평가 지표를 완전히 압도하고 있다는 것입니다.
 
-최고 수준의 성능을 내는 AI 에이전트 모델을 사용하기 위해 한 달에 수백 달러에 달하는 값비싼 비용을 지불해야 할 것이라는 예측 역시 100% 정확 판정을 받았습니다.
+산업계가 최상위 모델...</title><link>https://www.threads.net/@choi.openai/post/DXErF3Cj-Vi</link><description>1/ 올해 리포트에서 가장 두드러지는 점은 AI의 발전 속도가 인간이 만든 평가 지표를 완전히 압도하고 있다는 것입니다.
 
-비싼 비용과 불안정성에도 불구하고 수많은 기업들이 이를 워크플로우에 통합하고 있습니다.</description><pubDate>Mon, 13 Apr 2026 05:37:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXD3Tb2Dy31</guid></item><item><title>최근 Claude가 유독 멍청해졌다고 느끼셨다면 단순한 기분 탓이 아니었습니다.
+산업계가 최상위 모델의 90% 이상을 쏟아내고 있으며, 이들은 박사급 과학 문제나 다중모달 추론 등에서 이미 인간의 기준선을 훌쩍 넘었습니다.
 
-로그 까보니 thinking 깊이 67% 감소, 코드 읽지도 ...</title><link>https://www.threads.net/@choi.openai/post/DXDsNvrk7mU</link><description>최근 Claude가 유독 멍청해졌다고 느끼셨다면 단순한 기분 탓이 아니었습니다.
+특히 자율 소프트웨어 엔지니어링 능력을 평가하는 'SWE-bench Verified'에서는 불과 1년 만에 성능이 60%에서 100% 가까이 수직 상승했습니다.
 
-로그 까보니 thinking 깊이 67% 감소, 코드 읽지도 않고 수정하는 사례까지 나왔습니다.
+대학생의 80%가 이미 생성형 AI를 활용 중이며 기업 도입률도 88%에 달해, AI의 역량 가속화는 멈출 기미를 보이지 않습니다.</description><pubDate>Mon, 13 Apr 2026 13:10:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXErF3Cj-Vi</guid></item><item><title>2/ 과거 미국이 독주하던 AI 기술 패권 경쟁에서 중국이 마침내 미국을 따라잡았습니다. 
 
-현재 Claude에서 발생하고 있는 문제점을 정리했습니다. 🧵</description><pubDate>Mon, 13 Apr 2026 04:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDsNvrk7mU</guid></item><item><title>1/ 최근 Claude 사용자들이 2026년 2월을 기점으로 모델의 성능과 사용 환경에 이상함을 느끼기 시작했습니다.
+2025년 초부터 미국과 중국의 최상위 모델들은 선...</title><link>https://www.threads.net/@choi.openai/post/DXErG5EDyqR</link><description>2/ 과거 미국이 독주하던 AI 기술 패권 경쟁에서 중국이 마침내 미국을 따라잡았습니다. 
 
-모델이 이전처럼 코드를 ...</title><link>https://www.threads.net/@choi.openai/post/DXDsO2EkzIn</link><description>1/ 최근 Claude 사용자들이 2026년 2월을 기점으로 모델의 성능과 사용 환경에 이상함을 느끼기 시작했습니다.
+2025년 초부터 미국과 중국의 최상위 모델들은 선두 자리를 번갈아 차지하고 있습니다.
 
-모델이 이전처럼 코드를 꼼꼼히 읽지 않고 곧바로 수정에 뛰어들어 전에 없던 버그를 양산하거나, 'Thinking'의 깊이가 67%나 급감했다는 불만이 쏟아졌습니다.
+2월에는 중국의 DeepSeek-R1이 미국의 최고 모델과 동률을 이뤘고, 2026년 3월 기준 최고 모델 간의 격차는 불과 2.7%로 사실상 차이가 없는 수준입니다.
 
-클로드 코드의 책임자인 보리스 체르니(Boris Cherny)는 깃허브를 통해, 성능 제한이 아니라 쉬운 작업에서 토큰을 절약하기 위해 도입한 '적응형 사고(Adaptive thinking)' 기능이 복잡한 문제까지 억제해 버린 결과라고 해명했습니다.
+여전히 미국이 최상급 모델과 특허를 많이 배출하지만, 중국은 논문 수와 특허 생산, 산업용 로봇 도입에서 1위를 달립니다.
 
-또한, 사용자가 최고 수준(High)의 노력을 설정하더라도 특정 턴에서 추론을 완전히 '0'으로 만들어버리는 버그가 존재했음을 스스로 인정했습니다.
+특히 한국은 인구당 AI 특허 1위를 기록하며 놀라운 혁신 밀도를 보여주었습니다.</description><pubDate>Mon, 13 Apr 2026 13:10:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXErG5EDyqR</guid></item><item><title>3/ AI 패권을 쥐기 위한 물리적 인프라의 불균형이 극심합니다.
 
-컴퓨팅 수요가 폭발적으로 증가하는 AI 과도기에서, 사용자들은 모델이 강력해짐과 동시에 기업이 몰래 성능을 낮추는 이른바 '잠수함 패치'에 대한 강한 반발감을 드러내고 있습니다.</description><pubDate>Mon, 13 Apr 2026 04:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDsO2EkzIn</guid></item><item><title>2/ AMD의 선임 AI 디렉터가 수천 건의 로그를 분석한 결과도 동일했는데요.
+미국은 무려 5,427개의 데이터센터를 보유하고 있으며, 이는 2위 국가보다...</title><link>https://www.threads.net/@choi.openai/post/DXErH9dD-AQ</link><description>3/ AI 패권을 쥐기 위한 물리적 인프라의 불균형이 극심합니다.
 
-앤트로픽이 클로드의 기본 '노력 수준(Effort level)...</title><link>https://www.threads.net/@choi.openai/post/DXDsQTSk5PY</link><description>2/ AMD의 선임 AI 디렉터가 수천 건의 로그를 분석한 결과도 동일했는데요.
+미국은 무려 5,427개의 데이터센터를 보유하고 있으며, 이는 2위 국가보다 10배나 많은 압도적인 수치로 엄청난 에너지를 들이부어 인프라를 독식하고 있습니다.
 
-앤트로픽이 클로드의 기본 '노력 수준(Effort level)'을 은밀하게 낮추고 모델 스스로 추론량을 결정하는 '적응형 사고'를 도입하여 코드를 읽는 비율은 6.6배에서 2.0배로 곤두박질쳤고, 추론 토큰을 전혀 할당하지 않은 채 환각을 일으키는 사례가 급증했다고 말합니다.
+하지만 이 거대한 생태계를 구동하는 핵심 AI 칩의 생산은 거의 전적으로 대만의 단일 파운드리 기업인 TSMC에 의존하고 있습니다.
 
-심지어 오후 5시와 7시 등 서버 트래픽이 몰리는 시간대에 성능 저하가 가장 심해, 이는 명백히 GPU 부하를 줄이기 위한 기업 측의 의도적인 조치으로 추정되는 상황입니다.
+2025년부터 TSMC의 미국 공장이 가동을 시작했지만, 글로벌 AI 하드웨어 공급망의 아킬레스건이 여전히 대만 하나에 집중되어 있다는 사실은 심각한 지정학적 리스크를 시사합니다.</description><pubDate>Mon, 13 Apr 2026 13:10:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXErH9dD-AQ</guid></item><item><title>한국인 개발자 송준님이 공개한 Gemma4-26b 모델의 완벽한 파인튜닝 버전인 'Supergemma4-26b-multimodal'가 큰 인기를...</title><link>https://www.threads.net/@choi.openai/post/DXEgz2hAYyc</link><description>한국인 개발자 송준님이 공개한 Gemma4-26b 모델의 완벽한 파인튜닝 버전인 'Supergemma4-26b-multimodal'가 큰 인기를 끌고 있습니다.
 
-사용자들은 이를 똑같은 가격을 내고 더 멍청한 AI를 쓰게 만드는 'AI 슈링크플레이션(Shrinkflation)'이라 부르며 분노하고 있습니다.</description><pubDate>Mon, 13 Apr 2026 04:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDsQTSk5PY</guid></item><item><title>3/ 특히 최근 유출된 소스 코드에서 앤스로픽 내부 직원들(ant)에게만 "작업 완료 전 실제로 작동하는지 검증하라"는 우수한 시스템 프롬프트를...</title><link>https://www.threads.net/@choi.openai/post/DXDsRmxk0Fn</link><description>3/ 특히 최근 유출된 소스 코드에서 앤스로픽 내부 직원들(ant)에게만 "작업 완료 전 실제로 작동하는지 검증하라"는 우수한 시스템 프롬프트를 제공하는 등, 일반 고객과 철저히 차별화된 서비스를 몰래 운영해 온 사실까지 드러나 신뢰성에 큰 타격을 입었습니다.
+현재 허깅페이스 트렌딩 1페이지에 오를 만큼 전 세계적인 주목을 받고 있는데요.
 
-이러한 성능 제한 논란은 벤치마크 테스트에서도 발생하고 있습니다.
+기존 Gemma4의 비전 기능을 완벽히 지원하면서 0/100의 완벽한 무검열(abliterated)은 물론이고, 원본 모델이 갖고 있던 고질적인 툴콜(Toolcall) 및 토크나이저 오류까지 해결했습니다.
+게다가 벤치마크 기준 성능은 10% 올랐고, 프롬프트 처리 속도는 무려 90%나 향상되었습니다.
 
-Claude Opus 4.6 모델은 불과 일주일 전까지만 해도 환각 벤치마크(BridgeBench)에서 83.3%의 정확도로 2위를 기록했으나, 최근 재테스트 결과 정확도가 68.3%로 폭락하며 10위로 밀려났습니다.
-
-하지만, 해당 실험이 과거 6개였던 테스트 항목을 30개로 임의로 늘려 비교한 잘못된 실험이며, 공통된 6개 작업만 비교하면 정확도 하락은 통계적으로 무의미한 수준(p ≈ 0.19)의 '통계적 잡음'에 불과하다는 팽팽한 이견도 존재하지만, 실제 체감상 환각과 성능적 저하에 대한 이슈는 지속적으로 발생하는 중입니다.</description><pubDate>Mon, 13 Apr 2026 04:01:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXDsRmxk0Fn</guid></item></channel></rss>
+최근들어 오픈소스 생태계와 코딩 커뮤니티에서 한국인 개발자들이 강한 존재감을 드러내고 있습니다.
+여전히 인프라나 자원 측면에서의 한계는 분명 존재하지만, 그 제약 속에서도 기술적 완성도와 창의성으로 의미 있는 결과를 만들어내는 모습은 놀라움을 넘어 깊은 인상을 남깁니다.</description><pubDate>Mon, 13 Apr 2026 11:40:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXEgz2hAYyc</guid></item><item><title>허깅페이스 :
+https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2</title><link>https://www.threads.net/@choi.openai/post/DXEg1BHgWiS</link><description>허깅페이스 :
+https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2</description><pubDate>Mon, 13 Apr 2026 11:40:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXEg1BHgWiS</guid></item><item><title>날씨가 많이 좋네요.
+복잡한 생각은 책상 앞보다 걸을 때 더 잘 정리되는 것 같습니다.
+요즘은 커피챗보다 워킹챗인것 같습니다.</title><link>https://www.threads.net/@choi.openai/post/DXEbc09D85F</link><description>날씨가 많이 좋네요.
+복잡한 생각은 책상 앞보다 걸을 때 더 잘 정리되는 것 같습니다.
+요즘은 커피챗보다 워킹챗인것 같습니다.</description><pubDate>Mon, 13 Apr 2026 10:53:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXEbc09D85F</guid></item></channel></rss>
