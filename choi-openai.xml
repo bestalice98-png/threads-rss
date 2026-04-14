@@ -1,48 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 14 Apr 2026 09:18:13 +0000</lastBuildDate><item><title>데미스 하사비스는 AI가 기술적으로 올바른 방식으로 구축되지 않을 경우 심각한 위험을 초래할 수 있다며, “0이 아닌 확률(non-zero ch...</title><link>https://www.threads.net/@choi.openai/post/DXGs-gMD2o0</link><description>데미스 하사비스는 AI가 기술적으로 올바른 방식으로 구축되지 않을 경우 심각한 위험을 초래할 수 있다며, “0이 아닌 확률(non-zero chance)”로 상황이 잘못될 수 있음을 경고했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 14 Apr 2026 16:00:10 +0000</lastBuildDate><item><title>로봇이 진짜 '눈치'를 갖게 되었습니다.
+구글 딥마인드가 로봇 전용 AI 모델인 'Gemini Robotics-ER 1.6'을 공개했습니다.
 
-하지만 그는 인류의 창의성과 협력을 믿는 낙관론자이기도 합니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DXHd4A3jfqk</link><description>로봇이 진짜 '눈치'를 갖게 되었습니다.
+구글 딥마인드가 로봇 전용 AI 모델인 'Gemini Robotics-ER 1.6'을 공개했습니다.
 
-하사비스는 AI를 질병 치료와 에너지 문제 등 인류의 난제를 해결하는 일종의 “메타 기술(meta-technology)”로 정의하며, AGI 의 도래가 역사상 가장 변혁적인 순간이 될 것이라고 내다봤습니다.
+이번 업데이트는 객체 인식을 넘어선 '공간 및 물리적 추론 능력'이 강화되었는데요.
+여러 카메라 시점을 동시에 융합하여 로봇이 자신이 수행 중인 작업이 끝났는지(성공 감지) 스스로 판단할 수 있습니다.
 
-그는 잠재력이 거대한 만큼 위험 또한 미지의 영역에 있기에, “조심스러운 낙관(cautious optimism)”과 '예방 원칙'이 필수적이라고 강조합니다.</description><pubDate>Tue, 14 Apr 2026 08:06:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGs-gMD2o0</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=aYjXt6iVt70</title><link>https://www.threads.net/@choi.openai/post/DXGtHnxjw9z</link><description>풀영상 :
-https://www.youtube.com/watch?v=aYjXt6iVt70</description><pubDate>Tue, 14 Apr 2026 08:06:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGtHnxjw9z</guid></item><item><title>AI SDK를 만든 Vercel 소속의 Nico Albanese가 개발한 'Open Agents'가 전면 오픈소스로 공개되었습니다.
-기존에는 A...</title><link>https://www.threads.net/@choi.openai/post/DXGhMGzjPw4</link><description>AI SDK를 만든 Vercel 소속의 Nico Albanese가 개발한 'Open Agents'가 전면 오픈소스로 공개되었습니다.
-기존에는 AI 코딩 에이전트를 개인 PC에서 구동하려면 터미널을 켜둔 채 중간에 멈추지 않는지 계속 지켜봐야만 했습니다.
+특히, 보스턴 다이내믹스의 로봇 개 '스팟(Spot)'이 이 AI를 탑재하면, 산업 현장의 복잡한 아날로그 게이지나 게이지의 미세한 눈금까지 읽고 코드를 실행하여 보정값까지 스스로 도출해 냅니다.
 
-하지만 에이전트는 샌드박스와 워크플로우 기능을 활용해 시간 제한이나 타임아웃 없이 수많은 에이전트를 동시에 띄울 수 있고, 수 시간 동안 알아서 작업을 수행하며, 완료되면 깃허브에 코드를 저장하고 푸시까지 끝마칩니다.
+이제 로봇은 카메라 왜곡을 계산하고, 액체의 수위를 가늠하며, 작업이 끝났는지 재시도해야 할지 스스로 판단하는 '자율 판단 에이전트'로 진화하고 있습니다.
 
-기업들이 특정 모델에 종속되지 않고 자사 내부 프로세스에 맞춘 'AI 소프트웨어 팩토리'를 직접 구축할 수 있는 뼈대로도 활용할 수 있을 것으로 보입니다.</description><pubDate>Tue, 14 Apr 2026 06:27:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGhMGzjPw4</guid></item><item><title>깃허브 :
-https://github.com/vercel-labs/open-agents</title><link>https://www.threads.net/@choi.openai/post/DXGhw61jwfV</link><description>깃허브 :
-https://github.com/vercel-labs/open-agents</description><pubDate>Tue, 14 Apr 2026 06:27:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGhw61jwfV</guid></item><item><title>살다보니 이런 일도 저에게 찾아오는군요.
+머지않아 공장의 위험한 점검 업무는 모두 이들의 몫이 될 것 같습니다.</description><pubDate>Tue, 14 Apr 2026 15:14:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHd4A3jfqk</guid></item><item><title>상세내용 :
+https://deepmind.google/blog/gemini-robotics-er-1-6/</title><link>https://www.threads.net/@choi.openai/post/DXHeH7hjxEO</link><description>상세내용 :
+https://deepmind.google/blog/gemini-robotics-er-1-6/</description><pubDate>Tue, 14 Apr 2026 15:14:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHeH7hjxEO</guid></item><item><title>중국이 정말 무섭습니다..
 
-구글 초청으로 Google I/O 2026 현장에 가게 됐습니다.
+텐센트(Tencent)에서 단 한 장의 이미지로 편집 가능한 3D 가상 세계를 만들어내는 'HYWorld 2.0'을...</title><link>https://www.threads.net/@choi.openai/post/DXHZDMTgsi5</link><description>중국이 정말 무섭습니다..
 
-처음에는 한국에서 AI를 제대로 ...</title><link>https://www.threads.net/@choi.openai/post/DXGRBCQDRTo</link><description>살다보니 이런 일도 저에게 찾아오는군요.
+텐센트(Tencent)에서 단 한 장의 이미지로 편집 가능한 3D 가상 세계를 만들어내는 'HYWorld 2.0'을 오픈소스로 공개할 예정입니다.
 
-구글 초청으로 Google I/O 2026 현장에 가게 됐습니다.
+반면 HYWorld 2.0은 실제 게임 엔진이나 VR 기기에서 바로 적용하고 조작할 수 있는 입체적인 3D 메쉬(Mesh)와 스플래팅 데이터를 생성해 냅니다.
 
-처음에는 한국에서 AI를 제대로 이야기하고 토론할 수 있는 문화와 커뮤니티를 만들어보고 싶다는 생각으로 시작했습니다.
-최고의 AX 확산은 결국 기술이 아니라, 대중이 직접 참여하는 커뮤니티와 관심에서 나온다고 믿었기 때문입니다.
+이제 누구나 머릿속에 있는 풍경 이미지 한 장만 있으면 나만의 3D 게임 맵이나 가상현실 공간을 즉시 완성할 수 있게 된 것인데요.
 
-이렇게 직접 현장에서 기술의 방향을 확인하는 자리까지 오게 될 줄은 솔직히 아직도 실감이 잘 나지 않습니다.
+구글의 Genie 3가 공개된지 얼마 지나지 않아 관련 기술이 오픈소스로 풀리는 것은 정말 놀라울 정도입니다.
 
-구글 I/O 기간에는 현장에서 더 깊게 전달해드리려고 합니다.
+AI 기술이 표면적인 시각적 묘사를 넘어, 우리가 직접 들어가 상호작용할 수 있는 세계를 창조하는 단계로 진화하고 있습니다.</description><pubDate>Tue, 14 Apr 2026 14:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHZDMTgsi5</guid></item><item><title>현재 해외에서 난리난 수학 논문.
 
-당장으로써 공개된 정보가 많지 않지만, Gemini 에이전트, 스마트 글래스, 안드로이드 17의 AI 통합, XR, 그리고 개발자 도구까지 이어지는 흐름에서 “구글이 AI를 어디까지 제품과 운영체제에 밀어 넣을 것인가”에 집중해서 보려고 합니다.
+폴란드 야기엘론스키 대학교 소속 연구진이 사인, 코사인, 파이 같은 모든 기본 수학 함수를 'E(x, y) ...</title><link>https://www.threads.net/@choi.openai/post/DXHOS1MD90j</link><description>현재 해외에서 난리난 수학 논문.
 
-현장에서 빠르게, 현장감 있게, 그리고 최대한 깊이 있게 정리해서 전달드리겠습니다.
+폴란드 야기엘론스키 대학교 소속 연구진이 사인, 코사인, 파이 같은 모든 기본 수학 함수를 'E(x, y) = exp(x) - ln(y)'라는 연산자와 숫자 1만으로 표현할 수 있다는 논문을 발표했습니다.
 
-항상 감사합니다. 덕분입니다.</description><pubDate>Tue, 14 Apr 2026 04:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGRBCQDRTo</guid></item><item><title>특히 궁금한 주제나 꼭 봐줬으면 하는 포인트가 있으면 댓글로 알려주세요.</title><link>https://www.threads.net/@choi.openai/post/DXGRCGkDRWB</link><description>특히 궁금한 주제나 꼭 봐줬으면 하는 포인트가 있으면 댓글로 알려주세요.</description><pubDate>Tue, 14 Apr 2026 04:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGRCGkDRWB</guid></item><item><title>구글이 조용한 것을 보니 큰 걸 준비중인 것 같습니다.
+순수 수학자들은 끝없이 길어지는 수식과 수렴 속도에 의문을 표하며 흥미로운 유희 정도로 바라보고 있지만, 반면 컴퓨터 공학 쪽의 시선은 다릅니다.
 
-구글 I/O를 앞두고 Gemini Enterprise에 새로운 "Agent" 탭이 유출...</title><link>https://www.threads.net/@choi.openai/post/DXGGNNwD03r</link><description>구글이 조용한 것을 보니 큰 걸 준비중인 것 같습니다.
+하드웨어 내부의 다양한 수학 연산 블록을 하나로 통일해, 칩 설계 비용과 처리 속도를 대폭 개선할 단서가 될 수 있다고 보기 때문입니다.
 
-구글 I/O를 앞두고 Gemini Enterprise에 새로운 "Agent" 탭이 유출되었는데요.
-목표, 연결된 앱, 파일 등을 설정하는 완벽한 '작업 실행 공간'의 모습을 띠고 있습니다.
+당장 교과서의 수학이 바뀌지는 않겠지만, 이런 단순한 아이디어가 반도체 설계나 AI 최적화 흐름에 어떤 나비효과를 가져올지 지켜볼 만한 포인트입니다.
 
-특히, "Require a human review" 기능은 AI가 알아서 데스크톱 수준의 복잡한 다단계 업무를 자동화하고, 최종 실행 단계에서만 사람의 승인을 받도록 설계되는 것으로 보입니다.
+진짜라면 또 엄청난 모멘트가 될 것 같습니다. 관련해서 집중해서 팔로우해보시길 바랍니다.</description><pubDate>Tue, 14 Apr 2026 12:56:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHOS1MD90j</guid></item><item><title>논문 :
+https://arxiv.org/pdf/2603.21852</title><link>https://www.threads.net/@choi.openai/post/DXHOTf7D9g-</link><description>논문 :
+https://arxiv.org/pdf/2603.21852</description><pubDate>Tue, 14 Apr 2026 12:56:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHOTf7D9g-</guid></item><item><title>전 구글 X(Google X)의 CBO 모 가댓(Mo Gawdat)은 "기계는 5년도 채 안 되어 여러분의 일자리를 대체할 것"이라고 말합니다....</title><link>https://www.threads.net/@choi.openai/post/DXHKPUPD-HK</link><description>전 구글 X(Google X)의 CBO 모 가댓(Mo Gawdat)은 "기계는 5년도 채 안 되어 여러분의 일자리를 대체할 것"이라고 말합니다.
 
-조만간 구글 생태계 안에서 AI에게 일을 통째로 위임하고 결과만 확인하는 구조로 변화될 것 같습니다.
+그는 현대의 Z세대가 일을 원하지 않는 경향을 보이는 것처럼, 다음 세대는 '일'이라는 고대 사회의 개념 자체를 생소하게 여길 것이라 예측합니다.
 
-구글 I/O 정말 기대중입니다.</description><pubDate>Tue, 14 Apr 2026 02:26:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGGNNwD03r</guid></item></channel></rss>
+그는 현재 인류가 협력 대신 경쟁을 택하고 있다는 점을 비판하며, 중립적인 국가를 중심으로 모든 기술을 오픈 소스로 공유하는 '인류 전체의 안녕을 위한 AI 개발'의 필요성을 강조했습니다.
+
+"기계가 결코 가져갈 수 없는 단 한 가지는 바로 인간적인 연결입니다."</description><pubDate>Tue, 14 Apr 2026 12:21:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHKPUPD-HK</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=RljBVCnt9AQ</title><link>https://www.threads.net/@choi.openai/post/DXHKOZ7j-7B</link><description>풀영상 :
+https://www.youtube.com/watch?v=RljBVCnt9AQ</description><pubDate>Tue, 14 Apr 2026 12:20:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHKOZ7j-7B</guid></item></channel></rss>
