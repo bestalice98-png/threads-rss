@@ -1,5 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 14 Apr 2026 02:34:37 +0000</lastBuildDate><item><title>구글이 조용한 것을 보니 큰 걸 준비중인 것 같습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 14 Apr 2026 09:18:13 +0000</lastBuildDate><item><title>데미스 하사비스는 AI가 기술적으로 올바른 방식으로 구축되지 않을 경우 심각한 위험을 초래할 수 있다며, “0이 아닌 확률(non-zero ch...</title><link>https://www.threads.net/@choi.openai/post/DXGs-gMD2o0</link><description>데미스 하사비스는 AI가 기술적으로 올바른 방식으로 구축되지 않을 경우 심각한 위험을 초래할 수 있다며, “0이 아닌 확률(non-zero chance)”로 상황이 잘못될 수 있음을 경고했습니다.
+
+하지만 그는 인류의 창의성과 협력을 믿는 낙관론자이기도 합니다.
+
+하사비스는 AI를 질병 치료와 에너지 문제 등 인류의 난제를 해결하는 일종의 “메타 기술(meta-technology)”로 정의하며, AGI 의 도래가 역사상 가장 변혁적인 순간이 될 것이라고 내다봤습니다.
+
+그는 잠재력이 거대한 만큼 위험 또한 미지의 영역에 있기에, “조심스러운 낙관(cautious optimism)”과 '예방 원칙'이 필수적이라고 강조합니다.</description><pubDate>Tue, 14 Apr 2026 08:06:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGs-gMD2o0</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=aYjXt6iVt70</title><link>https://www.threads.net/@choi.openai/post/DXGtHnxjw9z</link><description>풀영상 :
+https://www.youtube.com/watch?v=aYjXt6iVt70</description><pubDate>Tue, 14 Apr 2026 08:06:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGtHnxjw9z</guid></item><item><title>AI SDK를 만든 Vercel 소속의 Nico Albanese가 개발한 'Open Agents'가 전면 오픈소스로 공개되었습니다.
+기존에는 A...</title><link>https://www.threads.net/@choi.openai/post/DXGhMGzjPw4</link><description>AI SDK를 만든 Vercel 소속의 Nico Albanese가 개발한 'Open Agents'가 전면 오픈소스로 공개되었습니다.
+기존에는 AI 코딩 에이전트를 개인 PC에서 구동하려면 터미널을 켜둔 채 중간에 멈추지 않는지 계속 지켜봐야만 했습니다.
+
+하지만 에이전트는 샌드박스와 워크플로우 기능을 활용해 시간 제한이나 타임아웃 없이 수많은 에이전트를 동시에 띄울 수 있고, 수 시간 동안 알아서 작업을 수행하며, 완료되면 깃허브에 코드를 저장하고 푸시까지 끝마칩니다.
+
+기업들이 특정 모델에 종속되지 않고 자사 내부 프로세스에 맞춘 'AI 소프트웨어 팩토리'를 직접 구축할 수 있는 뼈대로도 활용할 수 있을 것으로 보입니다.</description><pubDate>Tue, 14 Apr 2026 06:27:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGhMGzjPw4</guid></item><item><title>깃허브 :
+https://github.com/vercel-labs/open-agents</title><link>https://www.threads.net/@choi.openai/post/DXGhw61jwfV</link><description>깃허브 :
+https://github.com/vercel-labs/open-agents</description><pubDate>Tue, 14 Apr 2026 06:27:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGhw61jwfV</guid></item><item><title>살다보니 이런 일도 저에게 찾아오는군요.
+
+구글 초청으로 Google I/O 2026 현장에 가게 됐습니다.
+
+처음에는 한국에서 AI를 제대로 ...</title><link>https://www.threads.net/@choi.openai/post/DXGRBCQDRTo</link><description>살다보니 이런 일도 저에게 찾아오는군요.
+
+구글 초청으로 Google I/O 2026 현장에 가게 됐습니다.
+
+처음에는 한국에서 AI를 제대로 이야기하고 토론할 수 있는 문화와 커뮤니티를 만들어보고 싶다는 생각으로 시작했습니다.
+최고의 AX 확산은 결국 기술이 아니라, 대중이 직접 참여하는 커뮤니티와 관심에서 나온다고 믿었기 때문입니다.
+
+이렇게 직접 현장에서 기술의 방향을 확인하는 자리까지 오게 될 줄은 솔직히 아직도 실감이 잘 나지 않습니다.
+
+구글 I/O 기간에는 현장에서 더 깊게 전달해드리려고 합니다.
+
+당장으로써 공개된 정보가 많지 않지만, Gemini 에이전트, 스마트 글래스, 안드로이드 17의 AI 통합, XR, 그리고 개발자 도구까지 이어지는 흐름에서 “구글이 AI를 어디까지 제품과 운영체제에 밀어 넣을 것인가”에 집중해서 보려고 합니다.
+
+현장에서 빠르게, 현장감 있게, 그리고 최대한 깊이 있게 정리해서 전달드리겠습니다.
+
+항상 감사합니다. 덕분입니다.</description><pubDate>Tue, 14 Apr 2026 04:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGRBCQDRTo</guid></item><item><title>특히 궁금한 주제나 꼭 봐줬으면 하는 포인트가 있으면 댓글로 알려주세요.</title><link>https://www.threads.net/@choi.openai/post/DXGRCGkDRWB</link><description>특히 궁금한 주제나 꼭 봐줬으면 하는 포인트가 있으면 댓글로 알려주세요.</description><pubDate>Tue, 14 Apr 2026 04:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGRCGkDRWB</guid></item><item><title>구글이 조용한 것을 보니 큰 걸 준비중인 것 같습니다.
 
 구글 I/O를 앞두고 Gemini Enterprise에 새로운 "Agent" 탭이 유출...</title><link>https://www.threads.net/@choi.openai/post/DXGGNNwD03r</link><description>구글이 조용한 것을 보니 큰 걸 준비중인 것 같습니다.
 
@@ -10,40 +45,4 @@
 
 조만간 구글 생태계 안에서 AI에게 일을 통째로 위임하고 결과만 확인하는 구조로 변화될 것 같습니다.
 
-구글 I/O 정말 기대중입니다.</description><pubDate>Tue, 14 Apr 2026 02:26:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGGNNwD03r</guid></item><item><title>핸드폰을 켜면 당연하게 보이던 수많은 앱 아이콘들이 사라질지도 모르겠습니다.
-
-최근 아이폰용 에이전트 기반 홈 화면 'skye'이 공개되며 큰 ...</title><link>https://www.threads.net/@choi.openai/post/DXF8besCswy</link><description>핸드폰을 켜면 당연하게 보이던 수많은 앱 아이콘들이 사라질지도 모르겠습니다.
-
-최근 아이폰용 에이전트 기반 홈 화면 'skye'이 공개되며 큰 화제를 불러일으키고 있는데요.
-
-정적인 앱 아이콘 배열에서 벗어나, 사용자의 일상과 맥락을 실시간으로 이해하는 주변 지능(ambient intelligence)을 홈 화면에 띄워주는 것이 특징입니다.
-
-복잡한 외부 장치 연동 없이도 상황을 파악해 이메일 답장을 써주고, 회의와 여행을 준비하며, 내 위치를 기반으로 주변 식당이나 전시 정보를 바로 알려줍니다.
-
-여기서 주목할 점은 사용자가 일일이 앱에 들어가 정보를 찾을 필요가 없어진다는 것입니다.
-파편화된 앱을 켜는 대신, 에이전트가 내 삶의 맥락을 읽고 먼저 제안하는 맞춤형 인터페이스가 폰의 기본 화면이 되는 셈입니다.
-
-이제는 목적을 위해 개별 앱을 찾아 누르는 행위 자체가 아주 원시적으로 느껴질 시대가 다가오고 있습니다.</description><pubDate>Tue, 14 Apr 2026 01:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXF8besCswy</guid></item><item><title>최근 중국 AI 커뮤니티를 뒤집어 놓은 한 프로젝트가 논란입니다.
-
-퇴사한 동료의 업무 방식과 말투를 AI로 복제해 '디지털 동료'로 남겨두는 ...</title><link>https://www.threads.net/@choi.openai/post/DXFyTpADz3i</link><description>최근 중국 AI 커뮤니티를 뒤집어 놓은 한 프로젝트가 논란입니다.
-
-퇴사한 동료의 업무 방식과 말투를 AI로 복제해 '디지털 동료'로 남겨두는 'colleague.skill'이라는 도구가 폭발적인 화제를 모았는데요.
-
-기업들이 직원들에게 업무 노하우를 AI에 학습시키도록 강요한 뒤, 개인의 채팅, 문서, 코드를 학습해 업무 방식과 성향을 완벽히 복제합니다. 
-
-이후 이를 대체재로 삼아 구조조정을 진행하고 있다는 것인데요.
-이에 맞서 AI가 자신을 복제하지 못하도록 지식에 의도적인 결함을 섞는 이른바 '지식 독살' 방어 도구까지 등장하며 개발자들 사이에서 치열한 공방이 벌어지고 있습니다.
-
-이는 결코 남의 이야기가 아닙니다. 우리가 AI 에이전트를 잘 쓰기 위해 나만의 업무 지식을 정리해 입력하는 것과 본질적으로 같기 때문입니다.
-
-조직에 지식을 남기는 것과 내 생존을 위한 고유 경쟁력을 지키는 것, 그 아슬아슬한 경계선을 어떻게 그어야 할지 진지하게 고민해야 할 시점입니다.</description><pubDate>Mon, 13 Apr 2026 23:32:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXFyTpADz3i</guid></item><item><title>깃허브 :
-https://github.com/titanwings/colleague-skill</title><link>https://www.threads.net/@choi.openai/post/DXFyTooj8pR</link><description>깃허브 :
-https://github.com/titanwings/colleague-skill</description><pubDate>Mon, 13 Apr 2026 23:32:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXFyTooj8pR</guid></item><item><title>Nous Research에서 Hermes Agent의 대규모 업데이트(v0.9.0)를 발표했습니다.
-
-이번 "The Everywhere Rele...</title><link>https://www.threads.net/@choi.openai/post/DXFnLTGD1lO</link><description>Nous Research에서 Hermes Agent의 대규모 업데이트(v0.9.0)를 발표했습니다.
-
-이번 "The Everywhere Release"의 핵심은 말 그대로 '어디서든' 작동한다는 점입니다. 
-로컬 웹 대시보드가 추가되어 터미널 없이 브라우저에서 에이전트를 쉽게 관리할 수 있게 되었고, iMessage, WeChat, 안드로이드(Termux) 등 16개의 모바일 및 메신저 플랫폼을 네이티브로 지원합니다.
-또한, 오픈AI와 앤트로픽 모델을 사용할 때 응답 속도를 획기적으로 줄여주는 Fast Mode(/fast)와 백그라운드 프로세스 모니터링 기능이 추가되었다는 것입니다.
-
-결과적으로 AI 에이전트가 특정 환경에 머물지 않고, 사용자가 쓰는 모든 메신저와 디바이스로 깊숙이 파고드는 흐름을 보여줍니다.</description><pubDate>Mon, 13 Apr 2026 21:56:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXFnLTGD1lO</guid></item></channel></rss>
+구글 I/O 정말 기대중입니다.</description><pubDate>Tue, 14 Apr 2026 02:26:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXGGNNwD03r</guid></item></channel></rss>
