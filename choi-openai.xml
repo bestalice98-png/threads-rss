@@ -1,62 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 15 Apr 2026 02:32:59 +0000</lastBuildDate><item><title>인간 연구원의 한계를 AI가 뛰어넘었습니다.
-앤트로픽이 Claude를 활용해 스스로 AI 정렬 연구를 수행하는 "Automated Alignme...</title><link>https://www.threads.net/@choi.openai/post/DXIoFC4j8tp</link><description>인간 연구원의 한계를 AI가 뛰어넘었습니다.
-앤트로픽이 Claude를 활용해 스스로 AI 정렬 연구를 수행하는 "Automated Alignment Researchers"를 공개했습니다.
-인간이 7일간 달성한 성과를 해당 AI는 단 5일 만에 압도적인 격차로 넘어섰습니다.
-해당 연구의 내용을 정리했습니다🧵</description><pubDate>Wed, 15 Apr 2026 02:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXIoFC4j8tp</guid></item><item><title>1/ AI가 스스로 AI를 통제하고 정렬(Alignment)하는 방법을 연구할 수 있을까요?
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 15 Apr 2026 09:19:39 +0000</lastBuildDate><item><title>와.. 진짜 미쳤습니다.. 많은 직업이 또 충격에 빠질 것 같습니다.
+현재 아레나에서 GPT 이미지 시리즈로 추정되는 duct-tape 모델이 ...</title><link>https://www.threads.net/@choi.openai/post/DXJRBDrj4LB</link><description>와.. 진짜 미쳤습니다.. 많은 직업이 또 충격에 빠질 것 같습니다.
+현재 아레나에서 GPT 이미지 시리즈로 추정되는 duct-tape 모델이 테스트중입니다.
+특히, 한국어 구현력, 일러스트, 일관성 등에서 정말 뛰어난데요.
+정말 나노바나나 프로를 압도한다고 느낀 것은 처음이었습니다.
+아래 이미지는 100% AI 인데, 더이상 정말 아무것도 믿지 못할 것 같습니다.
+진짜 미친 제작 사례 10개를 모았습니다 🧵</description><pubDate>Wed, 15 Apr 2026 07:58:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJRBDrj4LB</guid></item><item><title>1/ 한국어 랜더링</title><link>https://www.threads.net/@choi.openai/post/DXJRB30j-2-</link><description>1/ 한국어 랜더링</description><pubDate>Wed, 15 Apr 2026 07:58:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJRB30j-2-</guid></item><item><title>2/ 게임 일러스트 이미지</title><link>https://www.threads.net/@choi.openai/post/DXJRDAeD54y</link><description>2/ 게임 일러스트 이미지</description><pubDate>Wed, 15 Apr 2026 07:58:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJRDAeD54y</guid></item><item><title>3/ 인스타그램 스토리 화면</title><link>https://www.threads.net/@choi.openai/post/DXJREM6D7sb</link><description>3/ 인스타그램 스토리 화면</description><pubDate>Wed, 15 Apr 2026 07:59:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJREM6D7sb</guid></item><item><title>또 하나의 시대가 저물어가는 것 같습니다.
 
-앤트로픽은 9개의 Claude 요원(AAR)을 가...</title><link>https://www.threads.net/@choi.openai/post/DXIoF3Wj4iZ</link><description>1/ AI가 스스로 AI를 통제하고 정렬(Alignment)하는 방법을 연구할 수 있을까요?
+국내 대표 알고리즘 문제 풀이 사이트 백준(BOJ)이 16년 만에 서비스 종료됩니다.
+개발자들 사이...</title><link>https://www.threads.net/@choi.openai/post/DXJLUJ0D0mv</link><description>또 하나의 시대가 저물어가는 것 같습니다.
 
-앤트로픽은 9개의 Claude 요원(AAR)을 가상 연구실에 투입해, 인간보다 똑똑한 AI를 통제하는 '약자-강자 지도(Weak-to-strong supervision)' 난제를 풀게 했습니다.
+국내 대표 알고리즘 문제 풀이 사이트 백준(BOJ)이 16년 만에 서비스 종료됩니다.
+개발자들 사이에서는 코딩테스트와 문제풀이의 필요성에 대한 의견도 함께 나오고 있는데요, 기초 문제 해결 능력은 여전히 중요하다는 반응도 보입니다.
 
-그 결과, 인간 연구자가 7일 걸려 23%밖에 풀지 못한 문제를 AI 연구원들이 단 5일 만에 97%나 해결해 냈습니다.</description><pubDate>Wed, 15 Apr 2026 02:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXIoF3Wj4iZ</guid></item><item><title>2/ AI의 발전 속도는 눈부시지만, 이를 안전하게 통제할 인간 연구자의 수는 턱없이 부족합니다.
+아마 AI로 인해 사이트 트래픽 감소가 광고 수입까지 영향을 미친 것도 어느정도 영향이 있지 않을까 싶은데 정말 놀라운 변화속도인 것 같습니다.</description><pubDate>Wed, 15 Apr 2026 07:08:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJLUJ0D0mv</guid></item><item><title>서비스 종료 :
+https://www.acmicpc.net/board/view/165799</title><link>https://www.threads.net/@choi.openai/post/DXJLaMND4xt</link><description>서비스 종료 :
+https://www.acmicpc.net/board/view/165799</description><pubDate>Wed, 15 Apr 2026 07:09:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJLaMND4xt</guid></item><item><title>이제는 매번 AI에게 프롬프트를 입력하는 것조차 귀찮아지는 시대가 왔습니다.
 
-앤트로픽은 이 병목 현상을 해결하기 위해 C...</title><link>https://www.threads.net/@choi.openai/post/DXIoHFFD9Dy</link><description>2/ AI의 발전 속도는 눈부시지만, 이를 안전하게 통제할 인간 연구자의 수는 턱없이 부족합니다.
+구글이 크롬 브라우저 내 제미나이(Gemini)에 자주 쓰는 프롬...</title><link>https://www.threads.net/@choi.openai/post/DXJG7bJD68L</link><description>이제는 매번 AI에게 프롬프트를 입력하는 것조차 귀찮아지는 시대가 왔습니다.
 
-앤트로픽은 이 병목 현상을 해결하기 위해 Claude Opus 4.6 모델 9개를 '자동화된 정렬 연구자(AAR)'로 세팅하고, 각자에게 코딩 샌드박스와 공유 포럼을 주어 스스로 가설을 세우고 실험하게 했습니다.
+구글이 크롬 브라우저 내 제미나이(Gemini)에 자주 쓰는 프롬프트를 원클릭으로 만들어주는 '스킬(Skills)' 기능을 전격 출시했습니다.
+다중 탭 쇼핑 정보 비교나 긴 문서 요약 같은 반복적인 요청을 저장해두고, 단축키(/) 하나만 누르면 현재 보고 있는 웹페이지에 맞춰 바로 맞춤형 작업이 실행됩니다.
 
-목표는 멍청한 작은 모델(약자)이 똑똑한 큰 모델(강자)을 가르치는 '약자-강자 지도' 방법론을 고도화하는 것이었습니다.
+사용자가 별도의 챗봇 창을 열어 내용을 복사하고 붙여넣는 수고 없이, 웹을 탐색하는 브라우저 자체가 거대한 업무 자동화 에이전트로 진화하고 있습니다.
 
-인간 연구자가 7일 동안 끙끙대며 성능 격차(PGR)를 0.23(23%)밖에 좁히지 못한 반면, 9개의 AAR 팀은 불과 5일(누적 800시간) 만에 PGR 0.97(97%)을 달성하며 사실상 완벽한 정답을 찾아냈습니다.
+* 현재 Gemini in Chrome은 한국 미지원</description><pubDate>Wed, 15 Apr 2026 06:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJG7bJD68L</guid></item><item><title>수백 페이지짜리 PDF 문서도 눈 깜짝할 사이에 데이터로 변환할 수 있습니다.
 
-이 모든 연구에 든 비용은 AAR 시간당 고작 22달러, 총 18,000달러에 불과했습니다.</description><pubDate>Wed, 15 Apr 2026 02:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXIoHFFD9Dy</guid></item><item><title>3/ 실험 과정에서 연구진은 한 가지 중요한 사실을 깨달았습니다.
+Firecrawl에서 Rust 기반의 새로운 파싱 엔진 'Fir...</title><link>https://www.threads.net/@choi.openai/post/DXJDjKDDkyD</link><description>수백 페이지짜리 PDF 문서도 눈 깜짝할 사이에 데이터로 변환할 수 있습니다.
 
-AI에게 "아이디어를 내고 -&gt; 계획을 짜고 -&gt; 코드를 작성해라"라는 식으...</title><link>https://www.threads.net/@choi.openai/post/DXIoIQ3D16H</link><description>3/ 실험 과정에서 연구진은 한 가지 중요한 사실을 깨달았습니다.
+Firecrawl에서 Rust 기반의 새로운 파싱 엔진 'Fire-PDF'를 공개했습니다.
+기존보다 5배 빠른 처리 속도를 보이며, 216페이지 분량의 재무 보고서를 약 83초 만에 처리합니다.
+신경망 레이아웃 모델을 통해 각 영역을 개별적으로 감지하여 표를 마크다운으로 완벽하게 인식하고, 복잡한 수식도 LaTeX 형태로 보존해 줍니다.
 
-AI에게 "아이디어를 내고 -&gt; 계획을 짜고 -&gt; 코드를 작성해라"라는 식으로 깐깐한 프로세스(Prescriptive Scaffolding)를 강요했을 때 오히려 연구 성과가 곤두박질쳤다는 점입니다.
-
-반면 아무런 제약 없이 완전한 자율성(Autonomous Scaffolding)을 부여하자, AAR들은 마치 숙련된 인간 연구자처럼 거대한 모델을 무작정 학습시키기 전에, 작고 저렴한 실험을 직접 설계하여 가설을 먼저 검증하는 영리함을 보였습니다.</description><pubDate>Wed, 15 Apr 2026 02:01:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXIoIQ3D16H</guid></item><item><title>와.. 앤트로픽(Anthropic)이 데스크톱용 'Claude Code'를 대대적으로 개편했습니다.
-
-가장 큰 변화는 하나의 창 안에서 여러 개...</title><link>https://www.threads.net/@choi.openai/post/DXIdP4yj3gb</link><description>와.. 앤트로픽(Anthropic)이 데스크톱용 'Claude Code'를 대대적으로 개편했습니다.
-
-가장 큰 변화는 하나의 창 안에서 여러 개의 클로드 세션을 나란히 띄워놓고 병렬로 실행할 수 있게 된 점입니다.
-
-여기에 통합 터미널, 파일 편집, HTML과 PDF 미리보기, 그리고 훨씬 빨라진 코드 비교(diff) 뷰어까지 추가되었습니다.
-이 모든 기능은 드래그 앤 드롭으로 개발자 입맛에 맞게 자유롭게 배치할 수 있는데요.
-
-기존에는 여러 작업을 동시에 돌릴 때 화면 전환이 은근히 귀찮은 문제였습니다. 이제는 각기 다른 역할을 맡은 AI 에이전트들을 한눈에 모니터링하며 사용할 수 있게 되었습니다.</description><pubDate>Wed, 15 Apr 2026 00:26:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXIdP4yj3gb</guid></item><item><title>마이크로소프트가 새로운 텍스트-이미지 생성 모델인 'MAI-Image-2-Efficient'를 공개했습니다.
-이름 그대로 효율성에 올인하여 기존...</title><link>https://www.threads.net/@choi.openai/post/DXH-1PFDvcz</link><description>마이크로소프트가 새로운 텍스트-이미지 생성 모델인 'MAI-Image-2-Efficient'를 공개했습니다.
-이름 그대로 효율성에 올인하여 기존 모델보다 4배 더 효율적이고 속도는 22% 빨라졌으며, 가격은 무려 41%나 낮췄습니다. 타사 최고 모델들과 비교해도 평균 40% 이상 지연 시간이 짧습니다.
-
-이제 고품질 마케팅 이미지나 UI 목업을 저렴한 비용으로 무한정 찍어내는 실시간 자동화 파이프라인 구축이 현실이 되었습니다.
-
-기술의 장벽이 무너지고 누구나 높은 퀄리티의 결과물을 쉽게 만들어내는 시대입니다.
-결국 이렇게 쏟아지는 프로덕트 속에서 살아남으려면 기술 그 자체보다 마케팅이 절실히 중요해질 것 같습니다.
-
-앞으로는 '온디바이스' 플랫폼 생태계를 누가 장악하는지가 정말 중요해지는 시기입니다.</description><pubDate>Tue, 14 Apr 2026 20:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXH-1PFDvcz</guid></item><item><title>블로그 :
-https://microsoft.ai/news/mai-image-2-efficient/</title><link>https://www.threads.net/@choi.openai/post/DXH-2CUDgTV</link><description>블로그 :
-https://microsoft.ai/news/mai-image-2-efficient/</description><pubDate>Tue, 14 Apr 2026 20:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXH-2CUDgTV</guid></item><item><title>와… 엔비디아가 이제 양자 컴퓨터의 두뇌까지 장악하려 합니다.
-
-엔비디아가 양자 컴퓨팅을 가속하는 오픈소스 AI 모델 'Ising'을 전격 공개...</title><link>https://www.threads.net/@choi.openai/post/DXH0lMjDu2s</link><description>와… 엔비디아가 이제 양자 컴퓨터의 두뇌까지 장악하려 합니다.
-
-엔비디아가 양자 컴퓨팅을 가속하는 오픈소스 AI 모델 'Ising'을 전격 공개했습니다.
-양자 컴퓨터가 실제 산업에 쓰이려면 미세한 오류를 바로잡는 캘리브레이션과 디코딩 과정이 필수적인데요.
-NVIDIA Ising은 기존의 방식보다 연산 속도는 최대 2.5배 빠르고 정확도는 3배나 높습니다.
-
-엔비디아가 불안정한 양자 큐비트를 통제하는 소프트웨어 제어망을 먼저 장악하겠다는 의도가 명확하게 느껴집니다.
-
-의료, 로봇, 자율주행에 이어 양자 생태계까지 오픈소스로 선점해버리는 엔비디아의 행보가 정말 무섭습니다.
-
-다가올 양자 컴퓨팅 시대에도 결국 엔비디아가 깔아놓은 판 위에서 움직일 수밖에 없는 구조가 점점 더 견고해지고 있습니다.</description><pubDate>Tue, 14 Apr 2026 18:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXH0lMjDu2s</guid></item><item><title>블로그 :
-https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-...</title><link>https://www.threads.net/@choi.openai/post/DXH0mSgjt1F</link><description>블로그 :
-https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers</description><pubDate>Tue, 14 Apr 2026 18:31:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXH0mSgjt1F</guid></item></channel></rss>
+별도의 설정 없이 API를 통해 자동으로 적용되며, 많은 개발자들이 겪던 PDF 파싱의 고질적인 답답함을 덜어줄 것으로 보입니다.
+다만 유료 요금제에 대한 부담과 함께, 앞으로 거대 언어 모델이 이런 기능을 기본으로 지원해주길 바라는 커뮤니티의 반응도 존재합니다.
+앞으로 데이터 전처리 과정이 한층 더 가볍고 매끄러워질 것으로 보입니다.</description><pubDate>Wed, 15 Apr 2026 06:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJDjKDDkyD</guid></item><item><title>문서 :
+https://docs.firecrawl.dev/features/document-parsing</title><link>https://www.threads.net/@choi.openai/post/DXJDkhHDmYj</link><description>문서 :
+https://docs.firecrawl.dev/features/document-parsing</description><pubDate>Wed, 15 Apr 2026 06:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJDkhHDmYj</guid></item></channel></rss>
