@@ -1,51 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 14 Apr 2026 16:00:10 +0000</lastBuildDate><item><title>로봇이 진짜 '눈치'를 갖게 되었습니다.
-구글 딥마인드가 로봇 전용 AI 모델인 'Gemini Robotics-ER 1.6'을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 15 Apr 2026 02:32:59 +0000</lastBuildDate><item><title>인간 연구원의 한계를 AI가 뛰어넘었습니다.
+앤트로픽이 Claude를 활용해 스스로 AI 정렬 연구를 수행하는 "Automated Alignme...</title><link>https://www.threads.net/@choi.openai/post/DXIoFC4j8tp</link><description>인간 연구원의 한계를 AI가 뛰어넘었습니다.
+앤트로픽이 Claude를 활용해 스스로 AI 정렬 연구를 수행하는 "Automated Alignment Researchers"를 공개했습니다.
+인간이 7일간 달성한 성과를 해당 AI는 단 5일 만에 압도적인 격차로 넘어섰습니다.
+해당 연구의 내용을 정리했습니다🧵</description><pubDate>Wed, 15 Apr 2026 02:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXIoFC4j8tp</guid></item><item><title>1/ AI가 스스로 AI를 통제하고 정렬(Alignment)하는 방법을 연구할 수 있을까요?
 
-...</title><link>https://www.threads.net/@choi.openai/post/DXHd4A3jfqk</link><description>로봇이 진짜 '눈치'를 갖게 되었습니다.
-구글 딥마인드가 로봇 전용 AI 모델인 'Gemini Robotics-ER 1.6'을 공개했습니다.
+앤트로픽은 9개의 Claude 요원(AAR)을 가...</title><link>https://www.threads.net/@choi.openai/post/DXIoF3Wj4iZ</link><description>1/ AI가 스스로 AI를 통제하고 정렬(Alignment)하는 방법을 연구할 수 있을까요?
 
-이번 업데이트는 객체 인식을 넘어선 '공간 및 물리적 추론 능력'이 강화되었는데요.
-여러 카메라 시점을 동시에 융합하여 로봇이 자신이 수행 중인 작업이 끝났는지(성공 감지) 스스로 판단할 수 있습니다.
+앤트로픽은 9개의 Claude 요원(AAR)을 가상 연구실에 투입해, 인간보다 똑똑한 AI를 통제하는 '약자-강자 지도(Weak-to-strong supervision)' 난제를 풀게 했습니다.
 
-특히, 보스턴 다이내믹스의 로봇 개 '스팟(Spot)'이 이 AI를 탑재하면, 산업 현장의 복잡한 아날로그 게이지나 게이지의 미세한 눈금까지 읽고 코드를 실행하여 보정값까지 스스로 도출해 냅니다.
+그 결과, 인간 연구자가 7일 걸려 23%밖에 풀지 못한 문제를 AI 연구원들이 단 5일 만에 97%나 해결해 냈습니다.</description><pubDate>Wed, 15 Apr 2026 02:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXIoF3Wj4iZ</guid></item><item><title>2/ AI의 발전 속도는 눈부시지만, 이를 안전하게 통제할 인간 연구자의 수는 턱없이 부족합니다.
 
-이제 로봇은 카메라 왜곡을 계산하고, 액체의 수위를 가늠하며, 작업이 끝났는지 재시도해야 할지 스스로 판단하는 '자율 판단 에이전트'로 진화하고 있습니다.
+앤트로픽은 이 병목 현상을 해결하기 위해 C...</title><link>https://www.threads.net/@choi.openai/post/DXIoHFFD9Dy</link><description>2/ AI의 발전 속도는 눈부시지만, 이를 안전하게 통제할 인간 연구자의 수는 턱없이 부족합니다.
 
-머지않아 공장의 위험한 점검 업무는 모두 이들의 몫이 될 것 같습니다.</description><pubDate>Tue, 14 Apr 2026 15:14:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHd4A3jfqk</guid></item><item><title>상세내용 :
-https://deepmind.google/blog/gemini-robotics-er-1-6/</title><link>https://www.threads.net/@choi.openai/post/DXHeH7hjxEO</link><description>상세내용 :
-https://deepmind.google/blog/gemini-robotics-er-1-6/</description><pubDate>Tue, 14 Apr 2026 15:14:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHeH7hjxEO</guid></item><item><title>중국이 정말 무섭습니다..
+앤트로픽은 이 병목 현상을 해결하기 위해 Claude Opus 4.6 모델 9개를 '자동화된 정렬 연구자(AAR)'로 세팅하고, 각자에게 코딩 샌드박스와 공유 포럼을 주어 스스로 가설을 세우고 실험하게 했습니다.
 
-텐센트(Tencent)에서 단 한 장의 이미지로 편집 가능한 3D 가상 세계를 만들어내는 'HYWorld 2.0'을...</title><link>https://www.threads.net/@choi.openai/post/DXHZDMTgsi5</link><description>중국이 정말 무섭습니다..
+목표는 멍청한 작은 모델(약자)이 똑똑한 큰 모델(강자)을 가르치는 '약자-강자 지도' 방법론을 고도화하는 것이었습니다.
 
-텐센트(Tencent)에서 단 한 장의 이미지로 편집 가능한 3D 가상 세계를 만들어내는 'HYWorld 2.0'을 오픈소스로 공개할 예정입니다.
+인간 연구자가 7일 동안 끙끙대며 성능 격차(PGR)를 0.23(23%)밖에 좁히지 못한 반면, 9개의 AAR 팀은 불과 5일(누적 800시간) 만에 PGR 0.97(97%)을 달성하며 사실상 완벽한 정답을 찾아냈습니다.
 
-반면 HYWorld 2.0은 실제 게임 엔진이나 VR 기기에서 바로 적용하고 조작할 수 있는 입체적인 3D 메쉬(Mesh)와 스플래팅 데이터를 생성해 냅니다.
+이 모든 연구에 든 비용은 AAR 시간당 고작 22달러, 총 18,000달러에 불과했습니다.</description><pubDate>Wed, 15 Apr 2026 02:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXIoHFFD9Dy</guid></item><item><title>3/ 실험 과정에서 연구진은 한 가지 중요한 사실을 깨달았습니다.
 
-이제 누구나 머릿속에 있는 풍경 이미지 한 장만 있으면 나만의 3D 게임 맵이나 가상현실 공간을 즉시 완성할 수 있게 된 것인데요.
+AI에게 "아이디어를 내고 -&gt; 계획을 짜고 -&gt; 코드를 작성해라"라는 식으...</title><link>https://www.threads.net/@choi.openai/post/DXIoIQ3D16H</link><description>3/ 실험 과정에서 연구진은 한 가지 중요한 사실을 깨달았습니다.
 
-구글의 Genie 3가 공개된지 얼마 지나지 않아 관련 기술이 오픈소스로 풀리는 것은 정말 놀라울 정도입니다.
+AI에게 "아이디어를 내고 -&gt; 계획을 짜고 -&gt; 코드를 작성해라"라는 식으로 깐깐한 프로세스(Prescriptive Scaffolding)를 강요했을 때 오히려 연구 성과가 곤두박질쳤다는 점입니다.
 
-AI 기술이 표면적인 시각적 묘사를 넘어, 우리가 직접 들어가 상호작용할 수 있는 세계를 창조하는 단계로 진화하고 있습니다.</description><pubDate>Tue, 14 Apr 2026 14:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHZDMTgsi5</guid></item><item><title>현재 해외에서 난리난 수학 논문.
+반면 아무런 제약 없이 완전한 자율성(Autonomous Scaffolding)을 부여하자, AAR들은 마치 숙련된 인간 연구자처럼 거대한 모델을 무작정 학습시키기 전에, 작고 저렴한 실험을 직접 설계하여 가설을 먼저 검증하는 영리함을 보였습니다.</description><pubDate>Wed, 15 Apr 2026 02:01:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXIoIQ3D16H</guid></item><item><title>와.. 앤트로픽(Anthropic)이 데스크톱용 'Claude Code'를 대대적으로 개편했습니다.
 
-폴란드 야기엘론스키 대학교 소속 연구진이 사인, 코사인, 파이 같은 모든 기본 수학 함수를 'E(x, y) ...</title><link>https://www.threads.net/@choi.openai/post/DXHOS1MD90j</link><description>현재 해외에서 난리난 수학 논문.
+가장 큰 변화는 하나의 창 안에서 여러 개...</title><link>https://www.threads.net/@choi.openai/post/DXIdP4yj3gb</link><description>와.. 앤트로픽(Anthropic)이 데스크톱용 'Claude Code'를 대대적으로 개편했습니다.
 
-폴란드 야기엘론스키 대학교 소속 연구진이 사인, 코사인, 파이 같은 모든 기본 수학 함수를 'E(x, y) = exp(x) - ln(y)'라는 연산자와 숫자 1만으로 표현할 수 있다는 논문을 발표했습니다.
+가장 큰 변화는 하나의 창 안에서 여러 개의 클로드 세션을 나란히 띄워놓고 병렬로 실행할 수 있게 된 점입니다.
 
-순수 수학자들은 끝없이 길어지는 수식과 수렴 속도에 의문을 표하며 흥미로운 유희 정도로 바라보고 있지만, 반면 컴퓨터 공학 쪽의 시선은 다릅니다.
+여기에 통합 터미널, 파일 편집, HTML과 PDF 미리보기, 그리고 훨씬 빨라진 코드 비교(diff) 뷰어까지 추가되었습니다.
+이 모든 기능은 드래그 앤 드롭으로 개발자 입맛에 맞게 자유롭게 배치할 수 있는데요.
 
-하드웨어 내부의 다양한 수학 연산 블록을 하나로 통일해, 칩 설계 비용과 처리 속도를 대폭 개선할 단서가 될 수 있다고 보기 때문입니다.
+기존에는 여러 작업을 동시에 돌릴 때 화면 전환이 은근히 귀찮은 문제였습니다. 이제는 각기 다른 역할을 맡은 AI 에이전트들을 한눈에 모니터링하며 사용할 수 있게 되었습니다.</description><pubDate>Wed, 15 Apr 2026 00:26:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXIdP4yj3gb</guid></item><item><title>마이크로소프트가 새로운 텍스트-이미지 생성 모델인 'MAI-Image-2-Efficient'를 공개했습니다.
+이름 그대로 효율성에 올인하여 기존...</title><link>https://www.threads.net/@choi.openai/post/DXH-1PFDvcz</link><description>마이크로소프트가 새로운 텍스트-이미지 생성 모델인 'MAI-Image-2-Efficient'를 공개했습니다.
+이름 그대로 효율성에 올인하여 기존 모델보다 4배 더 효율적이고 속도는 22% 빨라졌으며, 가격은 무려 41%나 낮췄습니다. 타사 최고 모델들과 비교해도 평균 40% 이상 지연 시간이 짧습니다.
 
-당장 교과서의 수학이 바뀌지는 않겠지만, 이런 단순한 아이디어가 반도체 설계나 AI 최적화 흐름에 어떤 나비효과를 가져올지 지켜볼 만한 포인트입니다.
+이제 고품질 마케팅 이미지나 UI 목업을 저렴한 비용으로 무한정 찍어내는 실시간 자동화 파이프라인 구축이 현실이 되었습니다.
 
-진짜라면 또 엄청난 모멘트가 될 것 같습니다. 관련해서 집중해서 팔로우해보시길 바랍니다.</description><pubDate>Tue, 14 Apr 2026 12:56:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHOS1MD90j</guid></item><item><title>논문 :
-https://arxiv.org/pdf/2603.21852</title><link>https://www.threads.net/@choi.openai/post/DXHOTf7D9g-</link><description>논문 :
-https://arxiv.org/pdf/2603.21852</description><pubDate>Tue, 14 Apr 2026 12:56:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHOTf7D9g-</guid></item><item><title>전 구글 X(Google X)의 CBO 모 가댓(Mo Gawdat)은 "기계는 5년도 채 안 되어 여러분의 일자리를 대체할 것"이라고 말합니다....</title><link>https://www.threads.net/@choi.openai/post/DXHKPUPD-HK</link><description>전 구글 X(Google X)의 CBO 모 가댓(Mo Gawdat)은 "기계는 5년도 채 안 되어 여러분의 일자리를 대체할 것"이라고 말합니다.
+기술의 장벽이 무너지고 누구나 높은 퀄리티의 결과물을 쉽게 만들어내는 시대입니다.
+결국 이렇게 쏟아지는 프로덕트 속에서 살아남으려면 기술 그 자체보다 마케팅이 절실히 중요해질 것 같습니다.
 
-그는 현대의 Z세대가 일을 원하지 않는 경향을 보이는 것처럼, 다음 세대는 '일'이라는 고대 사회의 개념 자체를 생소하게 여길 것이라 예측합니다.
+앞으로는 '온디바이스' 플랫폼 생태계를 누가 장악하는지가 정말 중요해지는 시기입니다.</description><pubDate>Tue, 14 Apr 2026 20:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXH-1PFDvcz</guid></item><item><title>블로그 :
+https://microsoft.ai/news/mai-image-2-efficient/</title><link>https://www.threads.net/@choi.openai/post/DXH-2CUDgTV</link><description>블로그 :
+https://microsoft.ai/news/mai-image-2-efficient/</description><pubDate>Tue, 14 Apr 2026 20:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXH-2CUDgTV</guid></item><item><title>와… 엔비디아가 이제 양자 컴퓨터의 두뇌까지 장악하려 합니다.
 
-그는 현재 인류가 협력 대신 경쟁을 택하고 있다는 점을 비판하며, 중립적인 국가를 중심으로 모든 기술을 오픈 소스로 공유하는 '인류 전체의 안녕을 위한 AI 개발'의 필요성을 강조했습니다.
+엔비디아가 양자 컴퓨팅을 가속하는 오픈소스 AI 모델 'Ising'을 전격 공개...</title><link>https://www.threads.net/@choi.openai/post/DXH0lMjDu2s</link><description>와… 엔비디아가 이제 양자 컴퓨터의 두뇌까지 장악하려 합니다.
 
-"기계가 결코 가져갈 수 없는 단 한 가지는 바로 인간적인 연결입니다."</description><pubDate>Tue, 14 Apr 2026 12:21:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHKPUPD-HK</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=RljBVCnt9AQ</title><link>https://www.threads.net/@choi.openai/post/DXHKOZ7j-7B</link><description>풀영상 :
-https://www.youtube.com/watch?v=RljBVCnt9AQ</description><pubDate>Tue, 14 Apr 2026 12:20:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXHKOZ7j-7B</guid></item></channel></rss>
+엔비디아가 양자 컴퓨팅을 가속하는 오픈소스 AI 모델 'Ising'을 전격 공개했습니다.
+양자 컴퓨터가 실제 산업에 쓰이려면 미세한 오류를 바로잡는 캘리브레이션과 디코딩 과정이 필수적인데요.
+NVIDIA Ising은 기존의 방식보다 연산 속도는 최대 2.5배 빠르고 정확도는 3배나 높습니다.
+
+엔비디아가 불안정한 양자 큐비트를 통제하는 소프트웨어 제어망을 먼저 장악하겠다는 의도가 명확하게 느껴집니다.
+
+의료, 로봇, 자율주행에 이어 양자 생태계까지 오픈소스로 선점해버리는 엔비디아의 행보가 정말 무섭습니다.
+
+다가올 양자 컴퓨팅 시대에도 결국 엔비디아가 깔아놓은 판 위에서 움직일 수밖에 없는 구조가 점점 더 견고해지고 있습니다.</description><pubDate>Tue, 14 Apr 2026 18:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXH0lMjDu2s</guid></item><item><title>블로그 :
+https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-...</title><link>https://www.threads.net/@choi.openai/post/DXH0mSgjt1F</link><description>블로그 :
+https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers</description><pubDate>Tue, 14 Apr 2026 18:31:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXH0mSgjt1F</guid></item></channel></rss>
