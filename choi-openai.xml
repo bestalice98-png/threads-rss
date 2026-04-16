@@ -1,39 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 16 Apr 2026 02:39:48 +0000</lastBuildDate><item><title>와.. 드디어 공개되었습니다..!
-텐센트가 텍스트나 이미지 한 장으로 탐험 가능한 3D 세상을 만들어내는 "HY-World 2.0"을 오픈소스로...</title><link>https://www.threads.net/@choi.openai/post/DXLKfUgD7Yx</link><description>와.. 드디어 공개되었습니다..!
-텐센트가 텍스트나 이미지 한 장으로 탐험 가능한 3D 세상을 만들어내는 "HY-World 2.0"을 오픈소스로 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 16 Apr 2026 09:19:59 +0000</lastBuildDate><item><title>Cursor 3.1 버전에 정보를 시각적으로 표현하는 '캔버스(Canvas)' 기능이 새롭게 추가되었습니다.
 
-기존 비디오 생성 모델은 재생이 끝나면 사라지는 픽셀 영상을 만들었지만, 이번 모델은 유니티(Unity)나 언리얼 엔진(Unreal Engine)에 바로 불러와 자유롭게 수정할 수 있는 실제 3D 에셋을 만들어냅니다.
+이제 에이전트가 긴 글이나 마크다...</title><link>https://www.threads.net/@choi.openai/post/DXL9jayD6cO</link><description>Cursor 3.1 버전에 정보를 시각적으로 표현하는 '캔버스(Canvas)' 기능이 새롭게 추가되었습니다.
 
-물리적 충돌이 적용되고 캐릭터가 직접 걸어 다닐 수 있는 영구적인 3D 공간을 구축할 수 있는데요.
+이제 에이전트가 긴 글이나 마크다운으로 답하는 대신, 차트나 대시보드 형태의 맞춤형 인터페이스를 직접 만들어 제공합니다.
 
-누구나 프롬프트 한 줄로 플레이 가능한 가상 현실을 만드는 시대가 성큼 다가온 것 같습니다.</description><pubDate>Thu, 16 Apr 2026 01:40:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLKfUgD7Yx</guid></item><item><title>허깅페이스 :
-https://huggingface.co/tencent/HY-World-2.0</title><link>https://www.threads.net/@choi.openai/post/DXLKmojD_q7</link><description>허깅페이스 :
-https://huggingface.co/tencent/HY-World-2.0</description><pubDate>Thu, 16 Apr 2026 01:41:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLKmojD_q7</guid></item><item><title>구글이 macOS 전용 Gemini 데스크톱 앱을 공식 출시했습니다.
-이제 브라우저를 켤 필요 없이 'Option + Space' 단축키만 누르...</title><link>https://www.threads.net/@choi.openai/post/DXKsyWoDPYn</link><description>구글이 macOS 전용 Gemini 데스크톱 앱을 공식 출시했습니다.
-이제 브라우저를 켤 필요 없이 'Option + Space' 단축키만 누르면 언제든 화면 위에 미니 채팅창이 나타납니다.
+수많은 로그를 파헤쳐야 하는 인시던트 대응, 관련 변경 사항을 논리적으로 묶어주는 PR 검토, 복잡한 평가(eval) 분석 같은 데이터 집약적인 작업에서 진가를 발휘하는데요.
 
-특히, '화면 공유' 기능을 통해 현재 작업 중인 코드나 문서 창을 띄워둔 채로 질문하면, AI가 화면의 맥락을 스스로 읽고 답을 내놓습니다.
-사용자가 보고 있는 코드나 복잡한 스프레드시트를 AI가 그대로 인식해 즉각적인 맞춤형 답변을 내놓습니다.
-앱 내에서 곧바로 나노 바나나나 Veo 모델을 불러와 고품질 이미지와 영상을 생성하는 것도 가능합니다.
+사람이 텍스트를 일일이 읽고 해석하던 마찰을 줄여 정보 대역폭 자체가 크게 넓어졌습니다.
 
-과거처럼 상황을 일일이 텍스트로 설명할 필요 없이, 이제는 '현재 작업 중인 화면' 자체가 하나의 프롬프트가 되는 흐름입니다.</description><pubDate>Wed, 15 Apr 2026 21:20:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXKsyWoDPYn</guid></item><item><title>발표내용 :
-https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-...</title><link>https://www.threads.net/@choi.openai/post/DXKszFhjCOl</link><description>발표내용 :
-https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/</description><pubDate>Wed, 15 Apr 2026 21:20:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXKszFhjCOl</guid></item><item><title>구글이 TTS 모델 'Gemini 3.1 Flash TTS'를 프리뷰로 공개했습니다.
+사람과 AI의 협업 환경이 시각적 상호작용을 바탕으로 한 단계 더 진화하는 모습입니다.</description><pubDate>Thu, 16 Apr 2026 09:06:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXL9jayD6cO</guid></item><item><title>블로그 :
+https://cursor.com/ko/blog/canvas</title><link>https://www.threads.net/@choi.openai/post/DXL9m-Bj4AD</link><description>블로그 :
+https://cursor.com/ko/blog/canvas</description><pubDate>Thu, 16 Apr 2026 09:06:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXL9m-Bj4AD</guid></item><item><title>🚨 스레드에서 난리난 GPT 이미지 모델이 배포되고 있습니다.
 
-새롭게 '오디오 태그(Audio tags)'도 도입되어 ...</title><link>https://www.threads.net/@choi.openai/post/DXKhAflDWt-</link><description>구글이 TTS 모델 'Gemini 3.1 Flash TTS'를 프리뷰로 공개했습니다.
+저도 프로계정에 적용되어 앱/웹에서 바로 사용할 수 있는데요.
+정말 이전 아레나...</title><link>https://www.threads.net/@choi.openai/post/DXLw-GRDw51</link><description>🚨 스레드에서 난리난 GPT 이미지 모델이 배포되고 있습니다.
 
-새롭게 '오디오 태그(Audio tags)'도 도입되어 [속삭이듯], [흥분해서] 등 자연어 지시어를 통해 화자의 감정, 말하는 속도, 전체 씬의 분위기까지 자유롭게 제어할 수 있습니다.
+저도 프로계정에 적용되어 앱/웹에서 바로 사용할 수 있는데요.
+정말 이전 아레나에서도 그랬지만 정말 압도적인 퀄리티입니다.
+광고 이미지부터 카드뉴스, 인포그래픽, 일러스트, 실사까지 정말 미친 퀄리티입니다.
 
-또한 대화의 배경을 설정하고, 화자별로 고유한 음성 프로필(Speaker-level specificity)을 지정할 수 있어 한 편의 오디오 드라마나 팟캐스트를 혼자서도 완벽하게 연출할 수 있습니다. 70개 이상의 언어를 지원해 접근성도 크게 높였습니다.
-생성된 모든 음성에는 합성 콘텐츠 판별을 돕는 "SynthID" 워터마크가 적용됩니다.
+정말 보고도 믿기지 않은 제작사례를 소개해드립니다 🧵</description><pubDate>Thu, 16 Apr 2026 07:16:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLw-GRDw51</guid></item><item><title>1/ 광고 포스터</title><link>https://www.threads.net/@choi.openai/post/DXLw-_zD-zK</link><description>1/ 광고 포스터</description><pubDate>Thu, 16 Apr 2026 07:16:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLw-_zD-zK</guid></item><item><title>2/ 카드뉴스 및 인포그래픽</title><link>https://www.threads.net/@choi.openai/post/DXLxAWjj7oJ</link><description>2/ 카드뉴스 및 인포그래픽</description><pubDate>Thu, 16 Apr 2026 07:16:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLxAWjj7oJ</guid></item><item><title>3/ 손글씨</title><link>https://www.threads.net/@choi.openai/post/DXLxBSgj317</link><description>3/ 손글씨</description><pubDate>Thu, 16 Apr 2026 07:16:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLxBSgj317</guid></item><item><title>드디어 Codex 앱에 /compact 명령어가 들어왔네요.</title><link>https://www.threads.net/@choi.openai/post/DXLoTstj3-L</link><description>드디어 Codex 앱에 /compact 명령어가 들어왔네요.</description><pubDate>Thu, 16 Apr 2026 06:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLoTstj3-L</guid></item><item><title>NVIDIA 연구진이 이미지 한 장으로 탐험 가능한 3D 환경을 만들어내는 Lyra 2.0을 공개했습니다.
+사용자의 시점 이동에 따라 끊임없이 ...</title><link>https://www.threads.net/@choi.openai/post/DXLd8eGEn-x</link><description>NVIDIA 연구진이 이미지 한 장으로 탐험 가능한 3D 환경을 만들어내는 Lyra 2.0을 공개했습니다.
+사용자의 시점 이동에 따라 끊임없이 3D 씬을 생성하고, 결과물을 3D 가우시안이나 메쉬 형태로 추출해 NVIDIA Isaac Sim 같은 물리 엔진에 바로 적용할 수 있습니다.
 
-조만간 텍스트로만 쓰인 스크립트가 AI 성우들의 생생한 연기로 자동 변환되는 콘텐츠 파이프라인이 대세가 될 것 같습니다.</description><pubDate>Wed, 15 Apr 2026 19:41:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXKhAflDWt-</guid></item><item><title>발표내용 :
-https://blog.google/innovation-and-ai/models-and-research/gemini-models/g...</title><link>https://www.threads.net/@choi.openai/post/DXKhbnlkzh6</link><description>발표내용 :
-https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts</description><pubDate>Wed, 15 Apr 2026 19:41:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXKhbnlkzh6</guid></item><item><title>솔직히 더 이상 아무것도 못 믿을 것 같습니다.
-AI 이미지를 구분할 수 있다는 그 작은 알량한 자존심마저 내려놓기로 했습니다.
-저는 이제 아무...</title><link>https://www.threads.net/@choi.openai/post/DXJxcnKD7H5</link><description>솔직히 더 이상 아무것도 못 믿을 것 같습니다.
-AI 이미지를 구분할 수 있다는 그 작은 알량한 자존심마저 내려놓기로 했습니다.
-저는 이제 아무것도 믿지 않습니다.
+Lyra 2.0의 핵심 돌파구는 '공간 망각(spatial forgetting)'과 '시간적 표류(temporal drifting)' 문제해결로 지나온 위치를 공간 메모리로 기억해 다시 돌아가도 원래 형태가 무너지지 않으며, 모델 스스로 오류를 수정해 3D 일관성을 잃지 않습니다.
 
-정말 믿지 못할 새로운 이미지 모델 사례 15개를 소개해드립니다. 🧵</description><pubDate>Wed, 15 Apr 2026 12:42:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJxcnKD7H5</guid></item><item><title>1/ 인물 사진</title><link>https://www.threads.net/@choi.openai/post/DXJxdA7j00a</link><description>1/ 인물 사진</description><pubDate>Wed, 15 Apr 2026 12:42:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJxdA7j00a</guid></item><item><title>2/ 아프리카 티비</title><link>https://www.threads.net/@choi.openai/post/DXJxeNzj5Y8</link><description>2/ 아프리카 티비</description><pubDate>Wed, 15 Apr 2026 12:42:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJxeNzj5Y8</guid></item><item><title>3/ 인스타그램 라이브</title><link>https://www.threads.net/@choi.openai/post/DXJxfWxj3YJ</link><description>3/ 인스타그램 라이브</description><pubDate>Wed, 15 Apr 2026 12:42:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJxfWxj3YJ</guid></item></channel></rss>
+이 기술은 특히 엔비디아의 Isaac Sim과 연동되어 배달 로봇이나 자율주행 시뮬레이션을 위한 물리적 훈련 공간을 순식간에 찍어낼 수 있습니다.</description><pubDate>Thu, 16 Apr 2026 04:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLd8eGEn-x</guid></item><item><title>발표내용 :
+https://research.nvidia.com/labs/sil/projects/lyra2/</title><link>https://www.threads.net/@choi.openai/post/DXLd9k4EjaL</link><description>발표내용 :
+https://research.nvidia.com/labs/sil/projects/lyra2/</description><pubDate>Thu, 16 Apr 2026 04:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLd9k4EjaL</guid></item></channel></rss>
