@@ -1,2 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 15 Apr 2026 15:58:17 +0000</lastBuildDate></channel></rss>
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 16 Apr 2026 02:39:48 +0000</lastBuildDate><item><title>와.. 드디어 공개되었습니다..!
+텐센트가 텍스트나 이미지 한 장으로 탐험 가능한 3D 세상을 만들어내는 "HY-World 2.0"을 오픈소스로...</title><link>https://www.threads.net/@choi.openai/post/DXLKfUgD7Yx</link><description>와.. 드디어 공개되었습니다..!
+텐센트가 텍스트나 이미지 한 장으로 탐험 가능한 3D 세상을 만들어내는 "HY-World 2.0"을 오픈소스로 공개했습니다.
+
+기존 비디오 생성 모델은 재생이 끝나면 사라지는 픽셀 영상을 만들었지만, 이번 모델은 유니티(Unity)나 언리얼 엔진(Unreal Engine)에 바로 불러와 자유롭게 수정할 수 있는 실제 3D 에셋을 만들어냅니다.
+
+물리적 충돌이 적용되고 캐릭터가 직접 걸어 다닐 수 있는 영구적인 3D 공간을 구축할 수 있는데요.
+
+누구나 프롬프트 한 줄로 플레이 가능한 가상 현실을 만드는 시대가 성큼 다가온 것 같습니다.</description><pubDate>Thu, 16 Apr 2026 01:40:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLKfUgD7Yx</guid></item><item><title>허깅페이스 :
+https://huggingface.co/tencent/HY-World-2.0</title><link>https://www.threads.net/@choi.openai/post/DXLKmojD_q7</link><description>허깅페이스 :
+https://huggingface.co/tencent/HY-World-2.0</description><pubDate>Thu, 16 Apr 2026 01:41:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXLKmojD_q7</guid></item><item><title>구글이 macOS 전용 Gemini 데스크톱 앱을 공식 출시했습니다.
+이제 브라우저를 켤 필요 없이 'Option + Space' 단축키만 누르...</title><link>https://www.threads.net/@choi.openai/post/DXKsyWoDPYn</link><description>구글이 macOS 전용 Gemini 데스크톱 앱을 공식 출시했습니다.
+이제 브라우저를 켤 필요 없이 'Option + Space' 단축키만 누르면 언제든 화면 위에 미니 채팅창이 나타납니다.
+
+특히, '화면 공유' 기능을 통해 현재 작업 중인 코드나 문서 창을 띄워둔 채로 질문하면, AI가 화면의 맥락을 스스로 읽고 답을 내놓습니다.
+사용자가 보고 있는 코드나 복잡한 스프레드시트를 AI가 그대로 인식해 즉각적인 맞춤형 답변을 내놓습니다.
+앱 내에서 곧바로 나노 바나나나 Veo 모델을 불러와 고품질 이미지와 영상을 생성하는 것도 가능합니다.
+
+과거처럼 상황을 일일이 텍스트로 설명할 필요 없이, 이제는 '현재 작업 중인 화면' 자체가 하나의 프롬프트가 되는 흐름입니다.</description><pubDate>Wed, 15 Apr 2026 21:20:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXKsyWoDPYn</guid></item><item><title>발표내용 :
+https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-...</title><link>https://www.threads.net/@choi.openai/post/DXKszFhjCOl</link><description>발표내용 :
+https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/</description><pubDate>Wed, 15 Apr 2026 21:20:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXKszFhjCOl</guid></item><item><title>구글이 TTS 모델 'Gemini 3.1 Flash TTS'를 프리뷰로 공개했습니다.
+
+새롭게 '오디오 태그(Audio tags)'도 도입되어 ...</title><link>https://www.threads.net/@choi.openai/post/DXKhAflDWt-</link><description>구글이 TTS 모델 'Gemini 3.1 Flash TTS'를 프리뷰로 공개했습니다.
+
+새롭게 '오디오 태그(Audio tags)'도 도입되어 [속삭이듯], [흥분해서] 등 자연어 지시어를 통해 화자의 감정, 말하는 속도, 전체 씬의 분위기까지 자유롭게 제어할 수 있습니다.
+
+또한 대화의 배경을 설정하고, 화자별로 고유한 음성 프로필(Speaker-level specificity)을 지정할 수 있어 한 편의 오디오 드라마나 팟캐스트를 혼자서도 완벽하게 연출할 수 있습니다. 70개 이상의 언어를 지원해 접근성도 크게 높였습니다.
+생성된 모든 음성에는 합성 콘텐츠 판별을 돕는 "SynthID" 워터마크가 적용됩니다.
+
+조만간 텍스트로만 쓰인 스크립트가 AI 성우들의 생생한 연기로 자동 변환되는 콘텐츠 파이프라인이 대세가 될 것 같습니다.</description><pubDate>Wed, 15 Apr 2026 19:41:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXKhAflDWt-</guid></item><item><title>발표내용 :
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/g...</title><link>https://www.threads.net/@choi.openai/post/DXKhbnlkzh6</link><description>발표내용 :
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts</description><pubDate>Wed, 15 Apr 2026 19:41:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXKhbnlkzh6</guid></item><item><title>솔직히 더 이상 아무것도 못 믿을 것 같습니다.
+AI 이미지를 구분할 수 있다는 그 작은 알량한 자존심마저 내려놓기로 했습니다.
+저는 이제 아무...</title><link>https://www.threads.net/@choi.openai/post/DXJxcnKD7H5</link><description>솔직히 더 이상 아무것도 못 믿을 것 같습니다.
+AI 이미지를 구분할 수 있다는 그 작은 알량한 자존심마저 내려놓기로 했습니다.
+저는 이제 아무것도 믿지 않습니다.
+
+정말 믿지 못할 새로운 이미지 모델 사례 15개를 소개해드립니다. 🧵</description><pubDate>Wed, 15 Apr 2026 12:42:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJxcnKD7H5</guid></item><item><title>1/ 인물 사진</title><link>https://www.threads.net/@choi.openai/post/DXJxdA7j00a</link><description>1/ 인물 사진</description><pubDate>Wed, 15 Apr 2026 12:42:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJxdA7j00a</guid></item><item><title>2/ 아프리카 티비</title><link>https://www.threads.net/@choi.openai/post/DXJxeNzj5Y8</link><description>2/ 아프리카 티비</description><pubDate>Wed, 15 Apr 2026 12:42:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJxeNzj5Y8</guid></item><item><title>3/ 인스타그램 라이브</title><link>https://www.threads.net/@choi.openai/post/DXJxfWxj3YJ</link><description>3/ 인스타그램 라이브</description><pubDate>Wed, 15 Apr 2026 12:42:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXJxfWxj3YJ</guid></item></channel></rss>
