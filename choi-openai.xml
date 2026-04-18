@@ -1,26 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 18 Apr 2026 08:51:35 +0000</lastBuildDate><item><title>Nexar가 자율주행 및 충돌 예측을 위한 AI 모델 'BADAS 2.0'을 공개했습니다.
-얀 르쿤의 V-JEPA2 구조를 바탕으로 한 해당 모...</title><link>https://www.threads.net/@choi.openai/post/DXREc7sjwAt</link><description>Nexar가 자율주행 및 충돌 예측을 위한 AI 모델 'BADAS 2.0'을 공개했습니다.
-얀 르쿤의 V-JEPA2 구조를 바탕으로 한 해당 모델은 200만 개의 실제 주행 영상을 학습해 도로 위 돌발 상황을 99.4%의 높은 정확도로 예측해 냅니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 18 Apr 2026 15:28:03 +0000</lastBuildDate><item><title>AI가 화면의 UI를 읽고 브라우저를 조작하는 'browser-use' 팀에서 이번에는 영상 편집을 전 자동화하는 'video-use'를 오픈소...</title><link>https://www.threads.net/@choi.openai/post/DXRo1Dgge1M</link><description>AI가 화면의 UI를 읽고 브라우저를 조작하는 'browser-use' 팀에서 이번에는 영상 편집을 전 자동화하는 'video-use'를 오픈소스로 공개했습니다.
 
-BADAS 2.0은 동일한 데이터를 학습한 엔비디아의 COSMOS 모델과 비교해 크기는 91배나 작으면서도 예측 정확도는 더 높습니다.
-가장 가벼운 버전은 무거운 GPU 없이 엣지 디바이스나 CPU에서도 실시간으로 구동됩니다.
-시각적 패턴에 의존하는 대신, 다음 상황이 어떻게 전개될지 물리적 인과관계를 파악하는 '월드 모델(World Model)'을 구현했기 때문입니다.</description><pubDate>Sat, 18 Apr 2026 08:43:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXREc7sjwAt</guid></item><item><title>발표내용 :
-https://badas.nexar.app</title><link>https://www.threads.net/@choi.openai/post/DXREb53jy44</link><description>발표내용 :
-https://badas.nexar.app</description><pubDate>Sat, 18 Apr 2026 08:42:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXREb53jy44</guid></item><item><title>일론 머스크의 xAI가 테슬라와 스타링크에 쓰이는 기술 기반의 'Grok Speech to Text(STT)'와 'Text to Speech(T...</title><link>https://www.threads.net/@choi.openai/post/DXQpn-zD7RT</link><description>일론 머스크의 xAI가 테슬라와 스타링크에 쓰이는 기술 기반의 'Grok Speech to Text(STT)'와 'Text to Speech(TTS)' API를 새롭게 공개했습니다.
+폴더에 촬영 원본을 던져놓고 Claude Code에 말로 지시하기만 하면, 알아서 쓸데없는 공백이나 말더듬을 잘라내고 자막을 입힌 뒤 색보정까지 마친 완성본을 뽑아냅니다.
 
-가장 눈에 띄는 건 압도적인 가격입니다.
-Grok STT는 시간당 0.1달러, Grok TTS는 100만 자당 4.2달러로 기존 경쟁사 대비 절반 이하 수준입니다.
+video-use는 용량이 무거운 영상 프레임을 전부 AI에게 분석시키는 무식한 방법 대신, 먼저 음성을 텍스트로 모두 뽑아냅니다.
+AI는 12KB 남짓한 대본을 읽으며 어디를 자를지 가벼운 텍스트 공간에서 논리적으로 결정하고, 판단이 애매한 지점에서만 이미지를 확인하며 편집을 진행합니다.</description><pubDate>Sat, 18 Apr 2026 14:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRo1Dgge1M</guid></item><item><title>깃허브 :
+https://github.com/browser-use/video-use</title><link>https://www.threads.net/@choi.openai/post/DXRo2LmgWrj</link><description>깃허브 :
+https://github.com/browser-use/video-use</description><pubDate>Sat, 18 Apr 2026 14:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRo2LmgWrj</guid></item><item><title>최근 오픈AI 코덱스(Codex) 데스크톱 환경에서 iOS 시뮬레이터를 띄워두고 직접 화면을 조작하며 앱을 구축하는 워크플로우가 공개되어 화제를...</title><link>https://www.threads.net/@choi.openai/post/DXRed3yiSY4</link><description>최근 오픈AI 코덱스(Codex) 데스크톱 환경에서 iOS 시뮬레이터를 띄워두고 직접 화면을 조작하며 앱을 구축하는 워크플로우가 공개되어 화제를 모으고 있습니다.
 
-Grok API의 세부 기능도 훌륭합니다. Grok STT는 숫자나 날짜를 문맥에 맞게 변환하는 'Inverse Text Normalization'과 화자 분리(Diarization) 기능을 지원합니다.
+오픈AI의 Greg Brockman도 해당 사례를 공유하며, “Codex”가 점점 agentic IDE 형태로 발전하고 있다고 언급했는데요.
 
-Grok TTS는 태그 하나로 웃음이나 한숨 같은 감정 연출이 가능합니다.</description><pubDate>Sat, 18 Apr 2026 04:48:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXQpn-zD7RT</guid></item><item><title>주소 :
-https://x.ai/news/grok-stt-and-tts-apis</title><link>https://www.threads.net/@choi.openai/post/DXQpn8tj-BQ</link><description>주소 :
-https://x.ai/news/grok-stt-and-tts-apis</description><pubDate>Sat, 18 Apr 2026 04:48:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXQpn8tj-BQ</guid></item><item><title>Opus 4.7이 잃고 얻은것</title><link>https://www.threads.net/@choi.openai/post/DXQdPFmkkL1</link><description>Opus 4.7이 잃고 얻은것</description><pubDate>Sat, 18 Apr 2026 03:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXQdPFmkkL1</guid></item><item><title>MeshyAI가 4K 텍스처 지원 업데이트를 발표했습니다.
-새롭게 추가된 HD 텍스처 기능을 켜면 아무리 줌인을 해도 모델의 표면 디테일이 깨지...</title><link>https://www.threads.net/@choi.openai/post/DXQTBNrCgEp</link><description>MeshyAI가 4K 텍스처 지원 업데이트를 발표했습니다.
-새롭게 추가된 HD 텍스처 기능을 켜면 아무리 줌인을 해도 모델의 표면 디테일이 깨지지 않고 선명하게 유지됩니다.
+자연어로 누구나 빌더가 되는 세상이 점점 더 현실화 되고 있습니다.</description><pubDate>Sat, 18 Apr 2026 12:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRed3yiSY4</guid></item><item><title>클로드 디자인이 출시된지 하루도 지나지 않아 놀라운 결과물들이 공유되고 있습니다.
+이제 스케치 한 장이면 PPT, 랜딩페이지, 인터랙티브 UI까...</title><link>https://www.threads.net/@choi.openai/post/DXRULkZD6F5</link><description>클로드 디자인이 출시된지 하루도 지나지 않아 놀라운 결과물들이 공유되고 있습니다.
+이제 스케치 한 장이면 PPT, 랜딩페이지, 인터랙티브 UI까지 한 번에 나오는데요.
+이미 커뮤니티에서는 뉴스레터 리디자인, 카드뉴스, 학술, 이메일 템플릿까지 바로 제작된 사례가 쏟아지고 있습니다.
+놀라운 활용 사례 모아봤습니다🧵</description><pubDate>Sat, 18 Apr 2026 11:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRULkZD6F5</guid></item><item><title>1/ 학술논문 -&gt; 발표 슬라이드</title><link>https://www.threads.net/@choi.openai/post/DXRUL6Wj5cu</link><description>1/ 학술논문 -&gt; 발표 슬라이드</description><pubDate>Sat, 18 Apr 2026 11:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRUL6Wj5cu</guid></item><item><title>2/ 윈도우 디자인</title><link>https://www.threads.net/@choi.openai/post/DXRUMdujz8Y</link><description>2/ 윈도우 디자인</description><pubDate>Sat, 18 Apr 2026 11:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRUMdujz8Y</guid></item><item><title>3/ 썸네일 :</title><link>https://www.threads.net/@choi.openai/post/DXRUM-FD8dv</link><description>3/ 썸네일 :</description><pubDate>Sat, 18 Apr 2026 11:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRUM-FD8dv</guid></item><item><title>홍콩과학기술대(HKUST) 연구팀이 3D 파운데이션 모델 "LingBot-Map"을 오픈소스로 공개했습니다.
 
-그동안 3D AI 업계의 주요 과제는 전체적인 구조와 형태를 제대로 구현하는 것에 집중되어 있었습니다. 하지만 형태 생성이 점차 상향 평준화되면서, 이제는 표면 질감과 해상도를 얼마나 사실적으로 끌어올리느냐가 새로운 경쟁 포인트로 이동하는 모습입니다.
+라이다(LiDAR)나 듀얼 카메라...</title><link>https://www.threads.net/@choi.openai/post/DXRMASojUPw</link><description>홍콩과학기술대(HKUST) 연구팀이 3D 파운데이션 모델 "LingBot-Map"을 오픈소스로 공개했습니다.
 
-3D 생성 AI의 품질 기준이 또 한 번 높아졌습니다.
-조만간 AI가 뽑아낸 3D 결과물을 추가 텍스처 작업 없이 곧바로 실무 게임이나 영상 에셋으로 투입하는 것이 기본 워크플로우가 될 것 같습니다.</description><pubDate>Sat, 18 Apr 2026 01:30:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXQTBNrCgEp</guid></item></channel></rss>
+라이다(LiDAR)나 듀얼 카메라 같은 특수 장비 없이, 단일 카메라 영상 스트림만으로 초당 20프레임(20 FPS) 속도의 3D 공간 재구성을 실시간으로 해냅니다. 
+
+SLAM 구조를 유지하면서 자동회귀 방식으로 동작하고 후처리 없이 end-to-end 학습이 특징입니다. 
+
+깃허브와 HuggingFace에서 확인 가능합니다.</description><pubDate>Sat, 18 Apr 2026 09:49:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRMASojUPw</guid></item><item><title>허깅페이스 :
+https://huggingface.co/robbyant/lingbot-map</title><link>https://www.threads.net/@choi.openai/post/DXRMIU5D2ys</link><description>허깅페이스 :
+https://huggingface.co/robbyant/lingbot-map</description><pubDate>Sat, 18 Apr 2026 09:49:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRMIU5D2ys</guid></item></channel></rss>
