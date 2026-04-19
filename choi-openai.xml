@@ -1,27 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 18 Apr 2026 15:28:03 +0000</lastBuildDate><item><title>AI가 화면의 UI를 읽고 브라우저를 조작하는 'browser-use' 팀에서 이번에는 영상 편집을 전 자동화하는 'video-use'를 오픈소...</title><link>https://www.threads.net/@choi.openai/post/DXRo1Dgge1M</link><description>AI가 화면의 UI를 읽고 브라우저를 조작하는 'browser-use' 팀에서 이번에는 영상 편집을 전 자동화하는 'video-use'를 오픈소스로 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 19 Apr 2026 02:41:18 +0000</lastBuildDate><item><title>"AI 때문에 일자리 다 사라진다"는 말, 사실과 다릅니다.
+오픈AI "The AI jobs transition framework" 보면 18%...</title><link>https://www.threads.net/@choi.openai/post/DXS7Po-DznV</link><description>"AI 때문에 일자리 다 사라진다"는 말, 사실과 다릅니다.
+오픈AI "The AI jobs transition framework" 보면 18%만 자동화 위험, 46%는 큰 변화 없음으로 나옵니다.
+직업별로 ‘사라짐·재편·확장’이 완전히 다르게 움직입니다.
+오픈AI의 수석 이코노미스트가 방금 발표한 따끈따끈한 "AI 일자리 전환 프레임워크"을 정리했습니다. 🧵</description><pubDate>Sun, 19 Apr 2026 02:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXS7Po-DznV</guid></item><item><title>1/ 지금까지의 연구는 "AI가 이 업무를 할 수 있는가?"라는 기술적 노출도에만 집중했습니다.
 
-폴더에 촬영 원본을 던져놓고 Claude Code에 말로 지시하기만 하면, 알아서 쓸데없는 공백이나 말더듬을 잘라내고 자막을 입힌 뒤 색보정까지 마친 완성본을 뽑아냅니다.
+하지만 오픈AI는 기술적 노출도만으로는 단기적...</title><link>https://www.threads.net/@choi.openai/post/DXS7QFND3-6</link><description>1/ 지금까지의 연구는 "AI가 이 업무를 할 수 있는가?"라는 기술적 노출도에만 집중했습니다.
 
-video-use는 용량이 무거운 영상 프레임을 전부 AI에게 분석시키는 무식한 방법 대신, 먼저 음성을 텍스트로 모두 뽑아냅니다.
-AI는 12KB 남짓한 대본을 읽으며 어디를 자를지 가벼운 텍스트 공간에서 논리적으로 결정하고, 판단이 애매한 지점에서만 이미지를 확인하며 편집을 진행합니다.</description><pubDate>Sat, 18 Apr 2026 14:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRo1Dgge1M</guid></item><item><title>깃허브 :
-https://github.com/browser-use/video-use</title><link>https://www.threads.net/@choi.openai/post/DXRo2LmgWrj</link><description>깃허브 :
-https://github.com/browser-use/video-use</description><pubDate>Sat, 18 Apr 2026 14:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRo2LmgWrj</guid></item><item><title>최근 오픈AI 코덱스(Codex) 데스크톱 환경에서 iOS 시뮬레이터를 띄워두고 직접 화면을 조작하며 앱을 구축하는 워크플로우가 공개되어 화제를...</title><link>https://www.threads.net/@choi.openai/post/DXRed3yiSY4</link><description>최근 오픈AI 코덱스(Codex) 데스크톱 환경에서 iOS 시뮬레이터를 띄워두고 직접 화면을 조작하며 앱을 구축하는 워크플로우가 공개되어 화제를 모으고 있습니다.
+하지만 오픈AI는 기술적 노출도만으로는 단기적인 일자리 감소 위험을 예측하기에는 너무 투박하다고 지적합니다.
 
-오픈AI의 Greg Brockman도 해당 사례를 공유하며, “Codex”가 점점 agentic IDE 형태로 발전하고 있다고 언급했는데요.
+그래서 오픈AI는 ①기술적 노출도, ②인간의 필수성, ③수요 탄력성이라는 세 가지 차원을 결합한 새로운 프레임워크를 개발하여 미국 내 일자리의 99.7%를 분석해 냈습니다.</description><pubDate>Sun, 19 Apr 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXS7QFND3-6</guid></item><item><title>2/ 분석 결과 전체 일자리는 4가지로 나뉩니다.
 
-자연어로 누구나 빌더가 되는 세상이 점점 더 현실화 되고 있습니다.</description><pubDate>Sat, 18 Apr 2026 12:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRed3yiSY4</guid></item><item><title>클로드 디자인이 출시된지 하루도 지나지 않아 놀라운 결과물들이 공유되고 있습니다.
-이제 스케치 한 장이면 PPT, 랜딩페이지, 인터랙티브 UI까...</title><link>https://www.threads.net/@choi.openai/post/DXRULkZD6F5</link><description>클로드 디자인이 출시된지 하루도 지나지 않아 놀라운 결과물들이 공유되고 있습니다.
-이제 스케치 한 장이면 PPT, 랜딩페이지, 인터랙티브 UI까지 한 번에 나오는데요.
-이미 커뮤니티에서는 뉴스레터 리디자인, 카드뉴스, 학술, 이메일 템플릿까지 바로 제작된 사례가 쏟아지고 있습니다.
-놀라운 활용 사례 모아봤습니다🧵</description><pubDate>Sat, 18 Apr 2026 11:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRULkZD6F5</guid></item><item><title>1/ 학술논문 -&gt; 발표 슬라이드</title><link>https://www.threads.net/@choi.openai/post/DXRUL6Wj5cu</link><description>1/ 학술논문 -&gt; 발표 슬라이드</description><pubDate>Sat, 18 Apr 2026 11:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRUL6Wj5cu</guid></item><item><title>2/ 윈도우 디자인</title><link>https://www.threads.net/@choi.openai/post/DXRUMdujz8Y</link><description>2/ 윈도우 디자인</description><pubDate>Sat, 18 Apr 2026 11:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRUMdujz8Y</guid></item><item><title>3/ 썸네일 :</title><link>https://www.threads.net/@choi.openai/post/DXRUM-FD8dv</link><description>3/ 썸네일 :</description><pubDate>Sat, 18 Apr 2026 11:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRUM-FD8dv</guid></item><item><title>홍콩과학기술대(HKUST) 연구팀이 3D 파운데이션 모델 "LingBot-Map"을 오픈소스로 공개했습니다.
+①단기 자동화 위험이 높은 일자리(18%), ②구조가 재편될 일자리(24%), ③AI와 함께...</title><link>https://www.threads.net/@choi.openai/post/DXS7QBdD75t</link><description>2/ 분석 결과 전체 일자리는 4가지로 나뉩니다.
 
-라이다(LiDAR)나 듀얼 카메라...</title><link>https://www.threads.net/@choi.openai/post/DXRMASojUPw</link><description>홍콩과학기술대(HKUST) 연구팀이 3D 파운데이션 모델 "LingBot-Map"을 오픈소스로 공개했습니다.
+①단기 자동화 위험이 높은 일자리(18%), ②구조가 재편될 일자리(24%), ③AI와 함께 파이가 커질 일자리(12%), ④당장 큰 변화가 없는 일자리(46%)입니다.
 
-라이다(LiDAR)나 듀얼 카메라 같은 특수 장비 없이, 단일 카메라 영상 스트림만으로 초당 20프레임(20 FPS) 속도의 3D 공간 재구성을 실시간으로 해냅니다. 
+기술적으로 고도로 노출된 직업이라 할지라도 무조건 자동화되는 것이 아니라, 인간의 필수성과 수요 반응에 따라 업무가 재편(Reorganize)되거나 오히려 일자리가 확장(Grow)될 수 있음을 증명했습니다.</description><pubDate>Sun, 19 Apr 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXS7QBdD75t</guid></item><item><title>3/ AI가 인지적 업무를 수행할 수 있더라도 '인간의 필수성'이 개입되면 완전한 자동화를 막을 수 있습니다.
 
-SLAM 구조를 유지하면서 자동회귀 방식으로 동작하고 후처리 없이 end-to-end 학습이 특징입니다. 
+교사나 간호사처럼 물리적 신체 ...</title><link>https://www.threads.net/@choi.openai/post/DXS7QGlD1kN</link><description>3/ AI가 인지적 업무를 수행할 수 있더라도 '인간의 필수성'이 개입되면 완전한 자동화를 막을 수 있습니다.
 
-깃허브와 HuggingFace에서 확인 가능합니다.</description><pubDate>Sat, 18 Apr 2026 09:49:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRMASojUPw</guid></item><item><title>허깅페이스 :
-https://huggingface.co/robbyant/lingbot-map</title><link>https://www.threads.net/@choi.openai/post/DXRMIU5D2ys</link><description>허깅페이스 :
-https://huggingface.co/robbyant/lingbot-map</description><pubDate>Sat, 18 Apr 2026 09:49:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXRMIU5D2ys</guid></item></channel></rss>
+교사나 간호사처럼 물리적 신체 행동이나 정서적 교감(Relational)이 필수적이거나, 판사·변호사처럼 면허와 법적 책임(Regulatory/Accountability)이 묶여 있는 직업이 대표적입니다.
+
+이러한 직군들은 단기적으로 인간이 중심을 유지한 채 AI로 능력을 증강(Augment)시키는 길을 걷게 될 것입니다.</description><pubDate>Sun, 19 Apr 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXS7QGlD1kN</guid></item><item><title>Claude Opus 4.7이 Onshape 플랫폼의 플러그인과 결합해 CAD 모델링을 자동화한 영상이 화제입니다.
+"라즈베리파이 케이스 만들어...</title><link>https://www.threads.net/@choi.openai/post/DXSw6lBCaC1</link><description>Claude Opus 4.7이 Onshape 플랫폼의 플러그인과 결합해 CAD 모델링을 자동화한 영상이 화제입니다.
+"라즈베리파이 케이스 만들어줘"라고 입력하면, 단 33초 만에 스스로 정확한 치수를 찾고 도면을 그려 압출, 타공, 모서리 마감까지 전부 끝냅니다.
+
+특히, 시각적 피드백과 자기 수정 능력으로 화면 속 3D 모델을 직접 보고 틀린 부분을 파악해 스스로 도면을 수정하며 완성도를 높입니다.
+
+제조 업계의 단순 반복적인 모델링 작업이 AI로 대체될 가능성을 보여주면서, 앞으로 인간의 역할은 툴을 다루는 것에서 '무엇을 만들지' 기획하고 검수하는 영역으로 빠르게 넘어가게 될 것입니다.</description><pubDate>Sun, 19 Apr 2026 00:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXSw6lBCaC1</guid></item><item><title>이 스킬 정말 괜찮네요.
+
+텍스트만으로 시스템 아키텍처, 흐름도, 시퀀스 등 13가지 유형의 다이어그램을 HTML과 SVG 형태로 바로 뽑아주는...</title><link>https://www.threads.net/@choi.openai/post/DXSmjqAiASi</link><description>이 스킬 정말 괜찮네요.
+
+텍스트만으로 시스템 아키텍처, 흐름도, 시퀀스 등 13가지 유형의 다이어그램을 HTML과 SVG 형태로 바로 뽑아주는 스킬인데요.
+
+기존 AI가 만들어주던 투박한 기본 박스 형태를 벗어나, 실제 테크 블로그나 프레젠테이션에 그대로 써도 손색없는 높은 퀄리티의 '에디토리얼 디자인'을 제공합니다.
+
+특히, 내 웹사이트나 블로그 주소만 알려주면 AI가 스스로 방문해 배경색, 폰트, 강조 색상 등을 추출하고 디자인 가이드를 세팅해서 사용할 수 있기 때문에 프롬프트로 웹사이트 컬러와 일치하는 전문가 수준의 구조도, 플로우차트, 타임라인을 뽑아낼 수 있습니다.
+
+관련되서 사용해보시는 것도 좋을 것 같습니다.</description><pubDate>Sat, 18 Apr 2026 23:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXSmjqAiASi</guid></item><item><title>깃허브 :
+https://github.com/cathrynlavery/diagram-design</title><link>https://www.threads.net/@choi.openai/post/DXSml_siKof</link><description>깃허브 :
+https://github.com/cathrynlavery/diagram-design</description><pubDate>Sat, 18 Apr 2026 23:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXSml_siKof</guid></item><item><title>오능 하루종일 화제였던 Claude Design의 시스템 프롬프트가 유출되었습니다.
+
+내용을 살펴보면 전체적인 디자인 맥락(context)을 깊...</title><link>https://www.threads.net/@choi.openai/post/DXSLJTrDgeG</link><description>오능 하루종일 화제였던 Claude Design의 시스템 프롬프트가 유출되었습니다.
+
+내용을 살펴보면 전체적인 디자인 맥락(context)을 깊이 파악하는 데 엄청난 공을 들이고 있습니다.
+
+여기에 한 가지 방향에 얽매이지 않고 다양한 대안을 탐색하도록 장려하며, 기계적인 AI 느낌을 지워내는 규칙까지 사전에 촘촘하게 세팅해 둔 점이 눈에 띕니다.
+
+결국 자연스럽고 뛰어난 결과물은 철저하게 기획된 통제와 규칙에서 나온다는 점을 다시 한번 확인하게 됩니다.
+
+앞으로 AI와 협업할 때 어떤 방식으로 기준을 세워야 할지 고민된다면 훌륭한 레퍼런스로 꼭 확인해 봐야 할 자료입니다.</description><pubDate>Sat, 18 Apr 2026 19:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXSLJTrDgeG</guid></item><item><title>깃허브 :
+https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude-Desig...</title><link>https://www.threads.net/@choi.openai/post/DXSLKJEjscE</link><description>깃허브 :
+https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude-Design-Sys-Prompt.txt</description><pubDate>Sat, 18 Apr 2026 19:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXSLKJEjscE</guid></item></channel></rss>
