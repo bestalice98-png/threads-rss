@@ -1,44 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 19 Apr 2026 08:54:44 +0000</lastBuildDate><item><title>Codex의 오픈소스 생태계도 조금씩 주목 받는 것 같습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 19 Apr 2026 15:28:09 +0000</lastBuildDate><item><title>한국 커뮤니티는 더욱 발전해야할 때입니다.
+오늘 SBS 8시 뉴스를 통해 ROBOTIS의 오픈소스 보급형 휴머노이드가 처음 공개되었습니다.
+Dy...</title><link>https://www.threads.net/@choi.openai/post/DXUK9Qtj5cU</link><description>한국 커뮤니티는 더욱 발전해야할 때입니다.
+오늘 SBS 8시 뉴스를 통해 ROBOTIS의 오픈소스 보급형 휴머노이드가 처음 공개되었습니다.
+Dynamixel-Q는 자체 개발한 준직구동 QDD 타입 액추에이터로 전신에 총 23개가 탑재되어 사람에 가까운 역동적인 동작을 구현하는데요.
 
-오픈AI의 코딩 에이전트 "Codex"에 Telegram 연동과 무한 루프 기능...</title><link>https://www.threads.net/@choi.openai/post/DXTkXgEiK5v</link><description>Codex의 오픈소스 생태계도 조금씩 주목 받는 것 같습니다.
+하드웨어 설계도부터 소프트웨어 스택까지 전부 오픈소스로 풀릴 예정입니다.
 
-오픈AI의 코딩 에이전트 "Codex"에 Telegram 연동과 무한 루프 기능을 더해주는 오픈소스 프로젝트 'Loopndroll'이 공개되었습니다.
-새롭게 도입된 훅(Hooks) 기능을 기반으로 만들어졌는데요.
+이제 한국 커뮤니티도 많은 연구원님과 현업자분들이 적극적으로 기술을 공유하고 의견을 나누며, 함께 거대한 기술교류 생태계를 확장해 나가면 좋겠습니다.
 
-Loopndroll 프로젝트는 텔레그램과의 완벽한 연동과 무한 루프(Infinite loops)를 지원하여, AI가 며칠이 걸리는 복잡한 개발을 스스로 검증하며 끝까지 실행하고, 진행 상황만 내 텔레그램으로 보고해줍니다.
+제 계정은 항상 열려있습니다, 많은 이야기 공유해주세요!</description><pubDate>Sun, 19 Apr 2026 13:37:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUK9Qtj5cU</guid></item><item><title>이번 주 스레드가 AI로 난리 난 이유..
 
-앞으로 Codex에 기본으로 들어갈 것으로 보이는 기능이지만, 개발자가 본인 환경에 맞는 생태계를 직접 구축할 수 있다는 점은 Codex만의 매력인 것 같습니다.</description><pubDate>Sun, 19 Apr 2026 08:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTkXgEiK5v</guid></item><item><title>깃허브 :
-https://github.com/lnikell/loopndroll</title><link>https://www.threads.net/@choi.openai/post/DXTkZ9NCPaF</link><description>깃허브 :
-https://github.com/lnikell/loopndroll</description><pubDate>Sun, 19 Apr 2026 08:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTkZ9NCPaF</guid></item><item><title>다음주는 모델경쟁이 더욱 심화될 것으로 보입니다.
+- 나노 바나나를 뛰어넘는 오픈AI의 새로운 이미지 모델
+- 디자인 도구의 주가를 폭락시킨 앤트로픽...</title><link>https://www.threads.net/@choi.openai/post/DXUBqUAj_mB</link><description>이번 주 스레드가 AI로 난리 난 이유..
 
-'Kimi K2.6 Code Preview'가 현재 웹사이트에서 테스트 중인 것으로 보이는데...</title><link>https://www.threads.net/@choi.openai/post/DXTg7UTgaV8</link><description>다음주는 모델경쟁이 더욱 심화될 것으로 보입니다.
+- 나노 바나나를 뛰어넘는 오픈AI의 새로운 이미지 모델
+- 디자인 도구의 주가를 폭락시킨 앤트로픽의 디자인 도구
+- 이전 모델로 롤백해야 한다는 앤트로픽의 Opus 4.7 모델
+- 사진 하나로 3D 월드를 만드는 새로운 월드 모델까지
 
-'Kimi K2.6 Code Preview'가 현재 웹사이트에서 테스트 중인 것으로 보이는데요.
-이전 버전인 Kimi K2.5와 알리바바의 Qwen3 Max 같은 오픈소스 모델들은 이미 상용 모델을 바짝 추격하며 생태계를 주도하는 중입니다.
+이번 주 스레드는 AI로 인해, 그 어느 때보다 폭발적인 한 주였습니다.
 
-반면 상용 모델 진영의 움직임도 임박했습니다.
-다음 주 오픈AI가 텍스트, 이미지, 오디오를 모두 아우르는 'Spud'라는 코드명의 새로운 모델 'GPT-5.5'를 발표가 유력해진 가운데 DeepSeek, Grok, Kimi 등 다양한 모델 경쟁이 더욱 심화될 것으로 보입니다.</description><pubDate>Sun, 19 Apr 2026 07:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTg7UTgaV8</guid></item><item><title>지난 2월부터 기대를 모았던 'DeepSeek V4'가 드디어 다음 주 공개될 것으로 보입니다. 
-딥시크 소식에 정통한 Yifan Zhang이 ...</title><link>https://www.threads.net/@choi.openai/post/DXTdle3jJq-</link><description>지난 2월부터 기대를 모았던 'DeepSeek V4'가 드디어 다음 주 공개될 것으로 보입니다. 
-딥시크 소식에 정통한 Yifan Zhang이 출시를 기정사실화하며 글로벌 업계가 들썩이고 있는데요.
+일하는 방식 자체를 바꿀 수 있는 주요 AI 소식을 정리했습니다 🧵</description><pubDate>Sun, 19 Apr 2026 12:16:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUBqUAj_mB</guid></item><item><title>1/ 오픈AI의 데스크톱 앱 Codex가 macOS에서 커서로 여러 앱을 직접 조작하는 기능을 추가했습니다.
+백그라운드 작업, 메모리, 90여 ...</title><link>https://www.threads.net/@choi.openai/post/DXUBq4cj-se</link><description>1/ 오픈AI의 데스크톱 앱 Codex가 macOS에서 커서로 여러 앱을 직접 조작하는 기능을 추가했습니다.
+백그라운드 작업, 메모리, 90여 개 플러그인, 일정 자동화도 지원합니다.</description><pubDate>Sun, 19 Apr 2026 12:16:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUBq4cj-se</guid></item><item><title>2/ 앤트로픽이 Claude Opus 4.7을 발표했습니다.
+자율성과 시각 지능이 강화됐고, Claude Code에 "/ultrareview" ...</title><link>https://www.threads.net/@choi.openai/post/DXUBrXSj9ni</link><description>2/ 앤트로픽이 Claude Opus 4.7을 발표했습니다.
+자율성과 시각 지능이 강화됐고, Claude Code에 "/ultrareview" 기능도 추가됐습니다.</description><pubDate>Sun, 19 Apr 2026 12:16:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUBrXSj9ni</guid></item><item><title>3/ 아레나에서 GPT 이미지 시리즈로 추정되는 duct-tape 모델이 테스트 중입니다.
+한국어, 일러스트, 일관성에서 강점이 보이며 나노바나...</title><link>https://www.threads.net/@choi.openai/post/DXUBryfj8vV</link><description>3/ 아레나에서 GPT 이미지 시리즈로 추정되는 duct-tape 모델이 테스트 중입니다.
+한국어, 일러스트, 일관성에서 강점이 보이며 나노바나나 프로보다 낫다는 반응입니다.</description><pubDate>Sun, 19 Apr 2026 12:16:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUBryfj8vV</guid></item><item><title>중국 AI가 1년 안에 최첨단 모델 수준에 도달할 것이라는 전망이 나왔습니다.
 
-Sparse MQA, Fused MoE Mega Kernel, Hyper-connections 등의 기술이 적용되었다고 알려져있으며, 가장 주목할 포인트는 수출 제재 속에서도 화웨이 칩만으로 최상급 모델을 온전히 구동해 냈다는 사실입니다.
+앤트로픽 CEO 다리오 아모데이는 최근 인터뷰에서 “중국이 12...</title><link>https://www.threads.net/@choi.openai/post/DXT4-_mDfwT</link><description>중국 AI가 1년 안에 최첨단 모델 수준에 도달할 것이라는 전망이 나왔습니다.
 
-루머에 따르면 엔비디아의 젠슨 황 CEO조차 중국이라는 거대 시장을 이대로 내어주게 된 상황에 대해 크게 우려하고 있다고 합니다.
+앤트로픽 CEO 다리오 아모데이는 최근 인터뷰에서 “중국이 12개월 내에 Mythos급 성능을 재현할 것”이라고 밝혔습니다.
+특히 그는 AI 발전 속도에 대해 “둔화의 조짐이 전혀 보이지 않는다”고 강조하며, 앞으로도 기하급수적인 성능 향상이 이어질 것이라고 내다봤습니다.
 
-이미 바이트댄스 내부 테스트에서는 현장 엔지니어들로부터 기존 상용 모델인 Opus 4.6을 대체할 만한 성능이라는 평가가 흘러나오고 있습니다.
-촘촘한 통제망 속에서도 전혀 멈춤 없이 진화하는 중국 AI의 무서운 발전 속도를 이제는 정말 무겁게 체감해야 할 시점입니다.</description><pubDate>Sun, 19 Apr 2026 07:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTdle3jJq-</guid></item><item><title>🚨 GPT 진짜 큰일 내나.. 미친 냄새가 나는데..
+이는 지금까지 압도적이라고 여겨졌던 최상위 모델의 성능조차 불과 1년 뒤에는 시장 전반에 확산되는 ‘범용 기술’이 될 수 있다는 의미입니다.
 
-현재 GPT Pro 모델의 변화가 심상치가 않습니다.
-빨라진 응답속도는 물론, 시각 이해...</title><link>https://www.threads.net/@choi.openai/post/DXTXdpYj3lM</link><description>🚨 GPT 진짜 큰일 내나.. 미친 냄새가 나는데..
+이처럼 최상위 모델 간 성능 격차가 빠르게 좁혀지고 있다면, 특정 모델에 의존하기보다 필요에 따라 언제든 교체할 수 있는 ‘모델 애그노스틱’ 설계가 중요한 경쟁력으로 떠오르게 됩니다.
 
-현재 GPT Pro 모델의 변화가 심상치가 않습니다.
-빨라진 응답속도는 물론, 시각 이해능력 및 프론트엔드 구현능력이 크게 올랐는데요.
-해당 모델이 다음주 출시될 것으로 보이는 'SPUD' 인지는 모르겠으나 성능 차이는 확연합니다.
-직접 Claude, Gemini, GPT를 비교한 사례를 공유해드립니다 🧵</description><pubDate>Sun, 19 Apr 2026 06:07:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTXdpYj3lM</guid></item><item><title>1/ 이미지 to 코드
-순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</title><link>https://www.threads.net/@choi.openai/post/DXTXem9j--p</link><description>1/ 이미지 to 코드
-순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</description><pubDate>Sun, 19 Apr 2026 06:07:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTXem9j--p</guid></item><item><title>2/ 이미지 to 코드
-순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</title><link>https://www.threads.net/@choi.openai/post/DXTXfyND-Ke</link><description>2/ 이미지 to 코드
-순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</description><pubDate>Sun, 19 Apr 2026 06:07:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTXfyND-Ke</guid></item><item><title>3/ 이미지 to 코드
-순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</title><link>https://www.threads.net/@choi.openai/post/DXTXg0Zj_j9</link><description>3/ 이미지 to 코드
-순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</description><pubDate>Sun, 19 Apr 2026 06:07:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTXg0Zj_j9</guid></item></channel></rss>
+기술이 빠르게 보편화되고 비용이 낮아지는 흐름은 예상보다 더 빠르게 진행되고 있습니다.</description><pubDate>Sun, 19 Apr 2026 11:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXT4-_mDfwT</guid></item><item><title>기사 :
+https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06?syn-25a6b1a...</title><link>https://www.threads.net/@choi.openai/post/DXT5AGKjRNq</link><description>기사 :
+https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06?syn-25a6b1a6=1</description><pubDate>Sun, 19 Apr 2026 11:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXT5AGKjRNq</guid></item><item><title>게임을 플레이하면서 말로 지시하면, 맵이 실시간으로 수정됩니다.
+
+개발자 Nicolas Zullo가 100% AI로 제작한 좀비 게임을 ‘Cod...</title><link>https://www.threads.net/@choi.openai/post/DXTurNBk-z8</link><description>게임을 플레이하면서 말로 지시하면, 맵이 실시간으로 수정됩니다.
+
+개발자 Nicolas Zullo가 100% AI로 제작한 좀비 게임을 ‘Codex’ 브라우저 안에서 직접 실행하고, 동시에 수정하는 영상이 큰 화제를 모으고 있습니다.
+
+Codex 창 안에서 게임을 실행한 상태로 특정 UI 요소를 클릭해 수정 요청을 하면, 별도의 새로고침 없이도 즉시 게임 내용이 반영됩니다. 소스 코드를 확인하거나 다른 에디터로 이동할 필요 없이, 완성된 화면을 보면서 결과물을 실시간으로 수정하는 방식입니다.
+
+이제는 개발 툴과 엔진을 오가며 작업하는 것이 아니라, 눈앞에 구현된 결과물과 직접 상호작용하며 피드백을 주고받는 형태로 바뀌고 있습니다.
+
+오픈AI의 그렉 브록만도 이 프로젝트를 인용하며 Codex의 가능성을 다시 강조했습니다. 앞으로의 게임 엔진은 복잡한 프로그램이 아니라, 사용자의 의도를 즉각 반영해 주는 대화형 AI 창 그 자체가 될지도 모릅니다.</description><pubDate>Sun, 19 Apr 2026 09:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTurNBk-z8</guid></item></channel></rss>
