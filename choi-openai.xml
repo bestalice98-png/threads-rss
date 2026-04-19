@@ -1,54 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 19 Apr 2026 02:41:18 +0000</lastBuildDate><item><title>"AI 때문에 일자리 다 사라진다"는 말, 사실과 다릅니다.
-오픈AI "The AI jobs transition framework" 보면 18%...</title><link>https://www.threads.net/@choi.openai/post/DXS7Po-DznV</link><description>"AI 때문에 일자리 다 사라진다"는 말, 사실과 다릅니다.
-오픈AI "The AI jobs transition framework" 보면 18%만 자동화 위험, 46%는 큰 변화 없음으로 나옵니다.
-직업별로 ‘사라짐·재편·확장’이 완전히 다르게 움직입니다.
-오픈AI의 수석 이코노미스트가 방금 발표한 따끈따끈한 "AI 일자리 전환 프레임워크"을 정리했습니다. 🧵</description><pubDate>Sun, 19 Apr 2026 02:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXS7Po-DznV</guid></item><item><title>1/ 지금까지의 연구는 "AI가 이 업무를 할 수 있는가?"라는 기술적 노출도에만 집중했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 19 Apr 2026 08:54:44 +0000</lastBuildDate><item><title>Codex의 오픈소스 생태계도 조금씩 주목 받는 것 같습니다.
 
-하지만 오픈AI는 기술적 노출도만으로는 단기적...</title><link>https://www.threads.net/@choi.openai/post/DXS7QFND3-6</link><description>1/ 지금까지의 연구는 "AI가 이 업무를 할 수 있는가?"라는 기술적 노출도에만 집중했습니다.
+오픈AI의 코딩 에이전트 "Codex"에 Telegram 연동과 무한 루프 기능...</title><link>https://www.threads.net/@choi.openai/post/DXTkXgEiK5v</link><description>Codex의 오픈소스 생태계도 조금씩 주목 받는 것 같습니다.
 
-하지만 오픈AI는 기술적 노출도만으로는 단기적인 일자리 감소 위험을 예측하기에는 너무 투박하다고 지적합니다.
+오픈AI의 코딩 에이전트 "Codex"에 Telegram 연동과 무한 루프 기능을 더해주는 오픈소스 프로젝트 'Loopndroll'이 공개되었습니다.
+새롭게 도입된 훅(Hooks) 기능을 기반으로 만들어졌는데요.
 
-그래서 오픈AI는 ①기술적 노출도, ②인간의 필수성, ③수요 탄력성이라는 세 가지 차원을 결합한 새로운 프레임워크를 개발하여 미국 내 일자리의 99.7%를 분석해 냈습니다.</description><pubDate>Sun, 19 Apr 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXS7QFND3-6</guid></item><item><title>2/ 분석 결과 전체 일자리는 4가지로 나뉩니다.
+Loopndroll 프로젝트는 텔레그램과의 완벽한 연동과 무한 루프(Infinite loops)를 지원하여, AI가 며칠이 걸리는 복잡한 개발을 스스로 검증하며 끝까지 실행하고, 진행 상황만 내 텔레그램으로 보고해줍니다.
 
-①단기 자동화 위험이 높은 일자리(18%), ②구조가 재편될 일자리(24%), ③AI와 함께...</title><link>https://www.threads.net/@choi.openai/post/DXS7QBdD75t</link><description>2/ 분석 결과 전체 일자리는 4가지로 나뉩니다.
+앞으로 Codex에 기본으로 들어갈 것으로 보이는 기능이지만, 개발자가 본인 환경에 맞는 생태계를 직접 구축할 수 있다는 점은 Codex만의 매력인 것 같습니다.</description><pubDate>Sun, 19 Apr 2026 08:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTkXgEiK5v</guid></item><item><title>깃허브 :
+https://github.com/lnikell/loopndroll</title><link>https://www.threads.net/@choi.openai/post/DXTkZ9NCPaF</link><description>깃허브 :
+https://github.com/lnikell/loopndroll</description><pubDate>Sun, 19 Apr 2026 08:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTkZ9NCPaF</guid></item><item><title>다음주는 모델경쟁이 더욱 심화될 것으로 보입니다.
 
-①단기 자동화 위험이 높은 일자리(18%), ②구조가 재편될 일자리(24%), ③AI와 함께 파이가 커질 일자리(12%), ④당장 큰 변화가 없는 일자리(46%)입니다.
+'Kimi K2.6 Code Preview'가 현재 웹사이트에서 테스트 중인 것으로 보이는데...</title><link>https://www.threads.net/@choi.openai/post/DXTg7UTgaV8</link><description>다음주는 모델경쟁이 더욱 심화될 것으로 보입니다.
 
-기술적으로 고도로 노출된 직업이라 할지라도 무조건 자동화되는 것이 아니라, 인간의 필수성과 수요 반응에 따라 업무가 재편(Reorganize)되거나 오히려 일자리가 확장(Grow)될 수 있음을 증명했습니다.</description><pubDate>Sun, 19 Apr 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXS7QBdD75t</guid></item><item><title>3/ AI가 인지적 업무를 수행할 수 있더라도 '인간의 필수성'이 개입되면 완전한 자동화를 막을 수 있습니다.
+'Kimi K2.6 Code Preview'가 현재 웹사이트에서 테스트 중인 것으로 보이는데요.
+이전 버전인 Kimi K2.5와 알리바바의 Qwen3 Max 같은 오픈소스 모델들은 이미 상용 모델을 바짝 추격하며 생태계를 주도하는 중입니다.
 
-교사나 간호사처럼 물리적 신체 ...</title><link>https://www.threads.net/@choi.openai/post/DXS7QGlD1kN</link><description>3/ AI가 인지적 업무를 수행할 수 있더라도 '인간의 필수성'이 개입되면 완전한 자동화를 막을 수 있습니다.
+반면 상용 모델 진영의 움직임도 임박했습니다.
+다음 주 오픈AI가 텍스트, 이미지, 오디오를 모두 아우르는 'Spud'라는 코드명의 새로운 모델 'GPT-5.5'를 발표가 유력해진 가운데 DeepSeek, Grok, Kimi 등 다양한 모델 경쟁이 더욱 심화될 것으로 보입니다.</description><pubDate>Sun, 19 Apr 2026 07:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTg7UTgaV8</guid></item><item><title>지난 2월부터 기대를 모았던 'DeepSeek V4'가 드디어 다음 주 공개될 것으로 보입니다. 
+딥시크 소식에 정통한 Yifan Zhang이 ...</title><link>https://www.threads.net/@choi.openai/post/DXTdle3jJq-</link><description>지난 2월부터 기대를 모았던 'DeepSeek V4'가 드디어 다음 주 공개될 것으로 보입니다. 
+딥시크 소식에 정통한 Yifan Zhang이 출시를 기정사실화하며 글로벌 업계가 들썩이고 있는데요.
 
-교사나 간호사처럼 물리적 신체 행동이나 정서적 교감(Relational)이 필수적이거나, 판사·변호사처럼 면허와 법적 책임(Regulatory/Accountability)이 묶여 있는 직업이 대표적입니다.
+Sparse MQA, Fused MoE Mega Kernel, Hyper-connections 등의 기술이 적용되었다고 알려져있으며, 가장 주목할 포인트는 수출 제재 속에서도 화웨이 칩만으로 최상급 모델을 온전히 구동해 냈다는 사실입니다.
 
-이러한 직군들은 단기적으로 인간이 중심을 유지한 채 AI로 능력을 증강(Augment)시키는 길을 걷게 될 것입니다.</description><pubDate>Sun, 19 Apr 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXS7QGlD1kN</guid></item><item><title>Claude Opus 4.7이 Onshape 플랫폼의 플러그인과 결합해 CAD 모델링을 자동화한 영상이 화제입니다.
-"라즈베리파이 케이스 만들어...</title><link>https://www.threads.net/@choi.openai/post/DXSw6lBCaC1</link><description>Claude Opus 4.7이 Onshape 플랫폼의 플러그인과 결합해 CAD 모델링을 자동화한 영상이 화제입니다.
-"라즈베리파이 케이스 만들어줘"라고 입력하면, 단 33초 만에 스스로 정확한 치수를 찾고 도면을 그려 압출, 타공, 모서리 마감까지 전부 끝냅니다.
+루머에 따르면 엔비디아의 젠슨 황 CEO조차 중국이라는 거대 시장을 이대로 내어주게 된 상황에 대해 크게 우려하고 있다고 합니다.
 
-특히, 시각적 피드백과 자기 수정 능력으로 화면 속 3D 모델을 직접 보고 틀린 부분을 파악해 스스로 도면을 수정하며 완성도를 높입니다.
+이미 바이트댄스 내부 테스트에서는 현장 엔지니어들로부터 기존 상용 모델인 Opus 4.6을 대체할 만한 성능이라는 평가가 흘러나오고 있습니다.
+촘촘한 통제망 속에서도 전혀 멈춤 없이 진화하는 중국 AI의 무서운 발전 속도를 이제는 정말 무겁게 체감해야 할 시점입니다.</description><pubDate>Sun, 19 Apr 2026 07:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTdle3jJq-</guid></item><item><title>🚨 GPT 진짜 큰일 내나.. 미친 냄새가 나는데..
 
-제조 업계의 단순 반복적인 모델링 작업이 AI로 대체될 가능성을 보여주면서, 앞으로 인간의 역할은 툴을 다루는 것에서 '무엇을 만들지' 기획하고 검수하는 영역으로 빠르게 넘어가게 될 것입니다.</description><pubDate>Sun, 19 Apr 2026 00:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXSw6lBCaC1</guid></item><item><title>이 스킬 정말 괜찮네요.
+현재 GPT Pro 모델의 변화가 심상치가 않습니다.
+빨라진 응답속도는 물론, 시각 이해...</title><link>https://www.threads.net/@choi.openai/post/DXTXdpYj3lM</link><description>🚨 GPT 진짜 큰일 내나.. 미친 냄새가 나는데..
 
-텍스트만으로 시스템 아키텍처, 흐름도, 시퀀스 등 13가지 유형의 다이어그램을 HTML과 SVG 형태로 바로 뽑아주는...</title><link>https://www.threads.net/@choi.openai/post/DXSmjqAiASi</link><description>이 스킬 정말 괜찮네요.
-
-텍스트만으로 시스템 아키텍처, 흐름도, 시퀀스 등 13가지 유형의 다이어그램을 HTML과 SVG 형태로 바로 뽑아주는 스킬인데요.
-
-기존 AI가 만들어주던 투박한 기본 박스 형태를 벗어나, 실제 테크 블로그나 프레젠테이션에 그대로 써도 손색없는 높은 퀄리티의 '에디토리얼 디자인'을 제공합니다.
-
-특히, 내 웹사이트나 블로그 주소만 알려주면 AI가 스스로 방문해 배경색, 폰트, 강조 색상 등을 추출하고 디자인 가이드를 세팅해서 사용할 수 있기 때문에 프롬프트로 웹사이트 컬러와 일치하는 전문가 수준의 구조도, 플로우차트, 타임라인을 뽑아낼 수 있습니다.
-
-관련되서 사용해보시는 것도 좋을 것 같습니다.</description><pubDate>Sat, 18 Apr 2026 23:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXSmjqAiASi</guid></item><item><title>깃허브 :
-https://github.com/cathrynlavery/diagram-design</title><link>https://www.threads.net/@choi.openai/post/DXSml_siKof</link><description>깃허브 :
-https://github.com/cathrynlavery/diagram-design</description><pubDate>Sat, 18 Apr 2026 23:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXSml_siKof</guid></item><item><title>오능 하루종일 화제였던 Claude Design의 시스템 프롬프트가 유출되었습니다.
-
-내용을 살펴보면 전체적인 디자인 맥락(context)을 깊...</title><link>https://www.threads.net/@choi.openai/post/DXSLJTrDgeG</link><description>오능 하루종일 화제였던 Claude Design의 시스템 프롬프트가 유출되었습니다.
-
-내용을 살펴보면 전체적인 디자인 맥락(context)을 깊이 파악하는 데 엄청난 공을 들이고 있습니다.
-
-여기에 한 가지 방향에 얽매이지 않고 다양한 대안을 탐색하도록 장려하며, 기계적인 AI 느낌을 지워내는 규칙까지 사전에 촘촘하게 세팅해 둔 점이 눈에 띕니다.
-
-결국 자연스럽고 뛰어난 결과물은 철저하게 기획된 통제와 규칙에서 나온다는 점을 다시 한번 확인하게 됩니다.
-
-앞으로 AI와 협업할 때 어떤 방식으로 기준을 세워야 할지 고민된다면 훌륭한 레퍼런스로 꼭 확인해 봐야 할 자료입니다.</description><pubDate>Sat, 18 Apr 2026 19:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXSLJTrDgeG</guid></item><item><title>깃허브 :
-https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude-Desig...</title><link>https://www.threads.net/@choi.openai/post/DXSLKJEjscE</link><description>깃허브 :
-https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude-Design-Sys-Prompt.txt</description><pubDate>Sat, 18 Apr 2026 19:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXSLKJEjscE</guid></item></channel></rss>
+현재 GPT Pro 모델의 변화가 심상치가 않습니다.
+빨라진 응답속도는 물론, 시각 이해능력 및 프론트엔드 구현능력이 크게 올랐는데요.
+해당 모델이 다음주 출시될 것으로 보이는 'SPUD' 인지는 모르겠으나 성능 차이는 확연합니다.
+직접 Claude, Gemini, GPT를 비교한 사례를 공유해드립니다 🧵</description><pubDate>Sun, 19 Apr 2026 06:07:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTXdpYj3lM</guid></item><item><title>1/ 이미지 to 코드
+순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</title><link>https://www.threads.net/@choi.openai/post/DXTXem9j--p</link><description>1/ 이미지 to 코드
+순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</description><pubDate>Sun, 19 Apr 2026 06:07:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTXem9j--p</guid></item><item><title>2/ 이미지 to 코드
+순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</title><link>https://www.threads.net/@choi.openai/post/DXTXfyND-Ke</link><description>2/ 이미지 to 코드
+순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</description><pubDate>Sun, 19 Apr 2026 06:07:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTXfyND-Ke</guid></item><item><title>3/ 이미지 to 코드
+순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</title><link>https://www.threads.net/@choi.openai/post/DXTXg0Zj_j9</link><description>3/ 이미지 to 코드
+순서대로 입력 이미지, GPT Pro, Gemini 3.1 Pro, Claude Opus 4.7 생성 모습.</description><pubDate>Sun, 19 Apr 2026 06:07:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTXg0Zj_j9</guid></item></channel></rss>
