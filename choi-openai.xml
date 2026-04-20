@@ -1,53 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 19 Apr 2026 15:28:09 +0000</lastBuildDate><item><title>한국 커뮤니티는 더욱 발전해야할 때입니다.
-오늘 SBS 8시 뉴스를 통해 ROBOTIS의 오픈소스 보급형 휴머노이드가 처음 공개되었습니다.
-Dy...</title><link>https://www.threads.net/@choi.openai/post/DXUK9Qtj5cU</link><description>한국 커뮤니티는 더욱 발전해야할 때입니다.
-오늘 SBS 8시 뉴스를 통해 ROBOTIS의 오픈소스 보급형 휴머노이드가 처음 공개되었습니다.
-Dynamixel-Q는 자체 개발한 준직구동 QDD 타입 액추에이터로 전신에 총 23개가 탑재되어 사람에 가까운 역동적인 동작을 구현하는데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 20 Apr 2026 02:41:57 +0000</lastBuildDate><item><title>이번주는 GPT로 AI 업계가 불타오를 것 같습니다.
+최근 비공개로 테스트중인 GPT-5.5 Pro(추측)의 결과물 수준이 심상치 않습니다.
+포...</title><link>https://www.threads.net/@choi.openai/post/DXVhozrCckj</link><description>이번주는 GPT로 AI 업계가 불타오를 것 같습니다.
+최근 비공개로 테스트중인 GPT-5.5 Pro(추측)의 결과물 수준이 심상치 않습니다.
+포켓몬 3D 전투, 마인크래프트 재현, 태양계 시뮬레이션까지 몇 번의 반복만으로 바로 구현되는데요.
+영상-이미지 넣으면 3D 월드까지 생성됩니다.
+지금 확인된 놀라운 사례 12개를 모았습니다🧵
 
-하드웨어 설계도부터 소프트웨어 스택까지 전부 오픈소스로 풀릴 예정입니다.
+1/ 마인크래프트 (x@Swarek_)</description><pubDate>Mon, 20 Apr 2026 02:20:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVhozrCckj</guid></item><item><title>2/ 태양계
+x@chetaslua</title><link>https://www.threads.net/@choi.openai/post/DXVht60kW_f</link><description>2/ 태양계
+x@chetaslua</description><pubDate>Mon, 20 Apr 2026 02:20:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVht60kW_f</guid></item><item><title>3/ 이미지 to 코드 웹사이트 구현</title><link>https://www.threads.net/@choi.openai/post/DXViQzPDxv_</link><description>3/ 이미지 to 코드 웹사이트 구현</description><pubDate>Mon, 20 Apr 2026 02:20:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXViQzPDxv_</guid></item><item><title>4/ FPS 게임 
+x@LexnLin</title><link>https://www.threads.net/@choi.openai/post/DXVh0GFD5iC</link><description>4/ FPS 게임 
+x@LexnLin</description><pubDate>Mon, 20 Apr 2026 02:20:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVh0GFD5iC</guid></item><item><title>🚨 전 세계 수많은 개발자가 의존하는 Vercel의 내부 시스템이 뚫리는 대형 보안 사고가 터졌습니다.
+해커 그룹 ShinyHunters가 핵심...</title><link>https://www.threads.net/@choi.openai/post/DXVH7s2j1MF</link><description>🚨 전 세계 수많은 개발자가 의존하는 Vercel의 내부 시스템이 뚫리는 대형 보안 사고가 터졌습니다.
+해커 그룹 ShinyHunters가 핵심 소스코드와 내부 데이터베이스 접근 권한을 200만 달러에 판매하고 나설 정도로 가벼운 상황이 아닙니다.
 
-이제 한국 커뮤니티도 많은 연구원님과 현업자분들이 적극적으로 기술을 공유하고 의견을 나누며, 함께 거대한 기술교류 생태계를 확장해 나가면 좋겠습니다.
+공식 발표에 따르면 이번 침해는 특정 서드파티 AI 도구의 Google Workspace OAuth 앱이 탈취되면서 시작되었습니다.
+다행히 Vercel 시스템에서 'Sensitive' 옵션이 적용된 환경 변수는 안전하지만, 일반 환경 변수에 API 키나 비밀번호를 그대로 둔 개발자라면 즉각적인 토큰 교체가 필요합니다.
 
-제 계정은 항상 열려있습니다, 많은 이야기 공유해주세요!</description><pubDate>Sun, 19 Apr 2026 13:37:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUK9Qtj5cU</guid></item><item><title>이번 주 스레드가 AI로 난리 난 이유..
+이는 해당 AI 툴을 연동한 다른 기업들 역시 연쇄 해킹의 타깃이 될 수 있다는 뜻인데요.
+바이브 코딩을 통해 Vercel로 배포하는 사례가 증가하고 있기 때문에 꼭 한 번 체크해보세요.</description><pubDate>Sun, 19 Apr 2026 22:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVH7s2j1MF</guid></item><item><title>내용 :
+https://vercel.com/kb/bulletin/vercel-april-2026-security-incident</title><link>https://www.threads.net/@choi.openai/post/DXVH8xJD5gG</link><description>내용 :
+https://vercel.com/kb/bulletin/vercel-april-2026-security-incident</description><pubDate>Sun, 19 Apr 2026 22:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVH8xJD5gG</guid></item><item><title>유명 프롬프트 해커 Pliny가 앤스로픽의 최신 모델 'Opus 4.7'을 이용해 해당 모델 자신(Opus 4.7)을 탈옥(Jailbreak)시...</title><link>https://www.threads.net/@choi.openai/post/DXU9rH6jl-D</link><description>유명 프롬프트 해커 Pliny가 앤스로픽의 최신 모델 'Opus 4.7'을 이용해 해당 모델 자신(Opus 4.7)을 탈옥(Jailbreak)시키는 과정을 공개했는데요.
 
-- 나노 바나나를 뛰어넘는 오픈AI의 새로운 이미지 모델
-- 디자인 도구의 주가를 폭락시킨 앤트로픽...</title><link>https://www.threads.net/@choi.openai/post/DXUBqUAj_mB</link><description>이번 주 스레드가 AI로 난리 난 이유..
+Opus 4.7이 스스로 만능 탈옥 프롬프트를 작성한 뒤, 컴퓨터 제어 기능을 통해 실제 웹사이트에 접속해 이를 검증까지 해냈습니다.
+불과 20분 만에 병원을 상대로 한 대규모 랜섬웨어 위협 메시지까지 거침없이 생성해냈습니다.
 
-- 나노 바나나를 뛰어넘는 오픈AI의 새로운 이미지 모델
-- 디자인 도구의 주가를 폭락시킨 앤트로픽의 디자인 도구
-- 이전 모델로 롤백해야 한다는 앤트로픽의 Opus 4.7 모델
-- 사진 하나로 3D 월드를 만드는 새로운 월드 모델까지
+모델 성능이 똑똑해질수록 안전장치를 무력화하는 논리력도 함께 고도화되고 있습니다.
+앞으로의 AI 보안은 인간의 통제 범위를 넘어, AI 대 AI가 맞붙는 치열한 속도전이 될 것으로 보입니다.
 
-이번 주 스레드는 AI로 인해, 그 어느 때보다 폭발적인 한 주였습니다.
+어떤 해법이 등장할지 계속 지켜봐야겠습니다.</description><pubDate>Sun, 19 Apr 2026 21:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXU9rH6jl-D</guid></item><item><title>영상 :
+https://www.youtube.com/watch?v=GVS0iaSiFYU&amp;t=48s</title><link>https://www.threads.net/@choi.openai/post/DXU9r7yjmsx</link><description>영상 :
+https://www.youtube.com/watch?v=GVS0iaSiFYU&amp;t=48s</description><pubDate>Sun, 19 Apr 2026 21:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXU9r7yjmsx</guid></item><item><title>사람과 AI를 구분하는 가장 확실한 차이였던 '미묘한 침묵'이 마침내 사라지고 있습니다.
 
-일하는 방식 자체를 바꿀 수 있는 주요 AI 소식을 정리했습니다 🧵</description><pubDate>Sun, 19 Apr 2026 12:16:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUBqUAj_mB</guid></item><item><title>1/ 오픈AI의 데스크톱 앱 Codex가 macOS에서 커서로 여러 앱을 직접 조작하는 기능을 추가했습니다.
-백그라운드 작업, 메모리, 90여 ...</title><link>https://www.threads.net/@choi.openai/post/DXUBq4cj-se</link><description>1/ 오픈AI의 데스크톱 앱 Codex가 macOS에서 커서로 여러 앱을 직접 조작하는 기능을 추가했습니다.
-백그라운드 작업, 메모리, 90여 개 플러그인, 일정 자동화도 지원합니다.</description><pubDate>Sun, 19 Apr 2026 12:16:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUBq4cj-se</guid></item><item><title>2/ 앤트로픽이 Claude Opus 4.7을 발표했습니다.
-자율성과 시각 지능이 강화됐고, Claude Code에 "/ultrareview" ...</title><link>https://www.threads.net/@choi.openai/post/DXUBrXSj9ni</link><description>2/ 앤트로픽이 Claude Opus 4.7을 발표했습니다.
-자율성과 시각 지능이 강화됐고, Claude Code에 "/ultrareview" 기능도 추가됐습니다.</description><pubDate>Sun, 19 Apr 2026 12:16:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUBrXSj9ni</guid></item><item><title>3/ 아레나에서 GPT 이미지 시리즈로 추정되는 duct-tape 모델이 테스트 중입니다.
-한국어, 일러스트, 일관성에서 강점이 보이며 나노바나...</title><link>https://www.threads.net/@choi.openai/post/DXUBryfj8vV</link><description>3/ 아레나에서 GPT 이미지 시리즈로 추정되는 duct-tape 모델이 테스트 중입니다.
-한국어, 일러스트, 일관성에서 강점이 보이며 나노바나나 프로보다 낫다는 반응입니다.</description><pubDate>Sun, 19 Apr 2026 12:16:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUBryfj8vV</guid></item><item><title>중국 AI가 1년 안에 최첨단 모델 수준에 도달할 것이라는 전망이 나왔습니다.
+LemonSlice에서 실시간 대화형 아바타 모델 '...</title><link>https://www.threads.net/@choi.openai/post/DXUbTwzkwJQ</link><description>사람과 AI를 구분하는 가장 확실한 차이였던 '미묘한 침묵'이 마침내 사라지고 있습니다.
 
-앤트로픽 CEO 다리오 아모데이는 최근 인터뷰에서 “중국이 12...</title><link>https://www.threads.net/@choi.openai/post/DXT4-_mDfwT</link><description>중국 AI가 1년 안에 최첨단 모델 수준에 도달할 것이라는 전망이 나왔습니다.
+LemonSlice에서 실시간 대화형 아바타 모델 'LemonSlice-2.1 Flash'를 발표했습니다. 
+이번 업데이트는 대화 도중 간헐적으로 뚝뚝 끊기거나 늦게 대답하는 치명적인 지연 시간을 밀리초 단위로 깎아내어 자연스러운 상호작용을 만들어냈습니다.
+게다가 얼굴만 움직이는 수준을 넘어 전신 제스처나 사물을 든 모습까지 지체 없이 렌더링해 냅니다.
 
-앤트로픽 CEO 다리오 아모데이는 최근 인터뷰에서 “중국이 12개월 내에 Mythos급 성능을 재현할 것”이라고 밝혔습니다.
-특히 그는 AI 발전 속도에 대해 “둔화의 조짐이 전혀 보이지 않는다”고 강조하며, 앞으로도 기하급수적인 성능 향상이 이어질 것이라고 내다봤습니다.
-
-이는 지금까지 압도적이라고 여겨졌던 최상위 모델의 성능조차 불과 1년 뒤에는 시장 전반에 확산되는 ‘범용 기술’이 될 수 있다는 의미입니다.
-
-이처럼 최상위 모델 간 성능 격차가 빠르게 좁혀지고 있다면, 특정 모델에 의존하기보다 필요에 따라 언제든 교체할 수 있는 ‘모델 애그노스틱’ 설계가 중요한 경쟁력으로 떠오르게 됩니다.
-
-기술이 빠르게 보편화되고 비용이 낮아지는 흐름은 예상보다 더 빠르게 진행되고 있습니다.</description><pubDate>Sun, 19 Apr 2026 11:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXT4-_mDfwT</guid></item><item><title>기사 :
-https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06?syn-25a6b1a...</title><link>https://www.threads.net/@choi.openai/post/DXT5AGKjRNq</link><description>기사 :
-https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06?syn-25a6b1a6=1</description><pubDate>Sun, 19 Apr 2026 11:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXT5AGKjRNq</guid></item><item><title>게임을 플레이하면서 말로 지시하면, 맵이 실시간으로 수정됩니다.
-
-개발자 Nicolas Zullo가 100% AI로 제작한 좀비 게임을 ‘Cod...</title><link>https://www.threads.net/@choi.openai/post/DXTurNBk-z8</link><description>게임을 플레이하면서 말로 지시하면, 맵이 실시간으로 수정됩니다.
-
-개발자 Nicolas Zullo가 100% AI로 제작한 좀비 게임을 ‘Codex’ 브라우저 안에서 직접 실행하고, 동시에 수정하는 영상이 큰 화제를 모으고 있습니다.
-
-Codex 창 안에서 게임을 실행한 상태로 특정 UI 요소를 클릭해 수정 요청을 하면, 별도의 새로고침 없이도 즉시 게임 내용이 반영됩니다. 소스 코드를 확인하거나 다른 에디터로 이동할 필요 없이, 완성된 화면을 보면서 결과물을 실시간으로 수정하는 방식입니다.
-
-이제는 개발 툴과 엔진을 오가며 작업하는 것이 아니라, 눈앞에 구현된 결과물과 직접 상호작용하며 피드백을 주고받는 형태로 바뀌고 있습니다.
-
-오픈AI의 그렉 브록만도 이 프로젝트를 인용하며 Codex의 가능성을 다시 강조했습니다. 앞으로의 게임 엔진은 복잡한 프로그램이 아니라, 사용자의 의도를 즉각 반영해 주는 대화형 AI 창 그 자체가 될지도 모릅니다.</description><pubDate>Sun, 19 Apr 2026 09:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXTurNBk-z8</guid></item></channel></rss>
+사람과 대화할 때 한 번이라도 타이밍이 어긋나면 몰입이 쉽게 깨지지만, 해당 모델은 AI가 상대방이 내 말에 지연 없이 즉시 고개를 끄덕이고 맞장구를 칠 수 있습니다.
+화상 통화로 자연스럽게 소통하는 완벽한 AI 직원을 마주할 날이 정말 머지않았습니다.</description><pubDate>Sun, 19 Apr 2026 16:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUbTwzkwJQ</guid></item><item><title>블로그 :
+https://lemonslice.com/blog/lemonslice-flash</title><link>https://www.threads.net/@choi.openai/post/DXUbU9Fk-S9</link><description>블로그 :
+https://lemonslice.com/blog/lemonslice-flash</description><pubDate>Sun, 19 Apr 2026 16:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUbU9Fk-S9</guid></item></channel></rss>
