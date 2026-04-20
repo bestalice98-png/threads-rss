@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 20 Apr 2026 02:41:57 +0000</lastBuildDate><item><title>이번주는 GPT로 AI 업계가 불타오를 것 같습니다.
-최근 비공개로 테스트중인 GPT-5.5 Pro(추측)의 결과물 수준이 심상치 않습니다.
-포...</title><link>https://www.threads.net/@choi.openai/post/DXVhozrCckj</link><description>이번주는 GPT로 AI 업계가 불타오를 것 같습니다.
-최근 비공개로 테스트중인 GPT-5.5 Pro(추측)의 결과물 수준이 심상치 않습니다.
-포켓몬 3D 전투, 마인크래프트 재현, 태양계 시뮬레이션까지 몇 번의 반복만으로 바로 구현되는데요.
-영상-이미지 넣으면 3D 월드까지 생성됩니다.
-지금 확인된 놀라운 사례 12개를 모았습니다🧵
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 20 Apr 2026 09:58:58 +0000</lastBuildDate><item><title>알리바바가 자체 최고 성능 모델인 'Qwen3.6-Max-Preview'를 공개했습니다.
+이 모델은 현재 중국 AI 모델 중 가장 높은 지능 지...</title><link>https://www.threads.net/@choi.openai/post/DXWQCy4ilFJ</link><description>알리바바가 자체 최고 성능 모델인 'Qwen3.6-Max-Preview'를 공개했습니다.
+이 모델은 현재 중국 AI 모델 중 가장 높은 지능 지수(52점)를 기록했는데요. 코딩 에이전트 능력과 배경지식, 지시 수행 능력이 이전 버전보다 크게 뛰어올랐는데요.
 
-1/ 마인크래프트 (x@Swarek_)</description><pubDate>Mon, 20 Apr 2026 02:20:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVhozrCckj</guid></item><item><title>2/ 태양계
-x@chetaslua</title><link>https://www.threads.net/@choi.openai/post/DXVht60kW_f</link><description>2/ 태양계
-x@chetaslua</description><pubDate>Mon, 20 Apr 2026 02:20:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVht60kW_f</guid></item><item><title>3/ 이미지 to 코드 웹사이트 구현</title><link>https://www.threads.net/@choi.openai/post/DXViQzPDxv_</link><description>3/ 이미지 to 코드 웹사이트 구현</description><pubDate>Mon, 20 Apr 2026 02:20:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXViQzPDxv_</guid></item><item><title>4/ FPS 게임 
-x@LexnLin</title><link>https://www.threads.net/@choi.openai/post/DXVh0GFD5iC</link><description>4/ FPS 게임 
-x@LexnLin</description><pubDate>Mon, 20 Apr 2026 02:20:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVh0GFD5iC</guid></item><item><title>🚨 전 세계 수많은 개발자가 의존하는 Vercel의 내부 시스템이 뚫리는 대형 보안 사고가 터졌습니다.
-해커 그룹 ShinyHunters가 핵심...</title><link>https://www.threads.net/@choi.openai/post/DXVH7s2j1MF</link><description>🚨 전 세계 수많은 개발자가 의존하는 Vercel의 내부 시스템이 뚫리는 대형 보안 사고가 터졌습니다.
-해커 그룹 ShinyHunters가 핵심 소스코드와 내부 데이터베이스 접근 권한을 200만 달러에 판매하고 나설 정도로 가벼운 상황이 아닙니다.
+불과 며칠 전 35B 크기의 오픈소스 모델을 풀어 개발자들을 놀라게 하더니, 오픈소스와 비공개 상용 모델을 동시에 출시하며 생태계를 잠식해 들어가는 중국의 무서운 개발 속도를 결코 과소평가해서는 안 될 것 같습니다.
 
-공식 발표에 따르면 이번 침해는 특정 서드파티 AI 도구의 Google Workspace OAuth 앱이 탈취되면서 시작되었습니다.
-다행히 Vercel 시스템에서 'Sensitive' 옵션이 적용된 환경 변수는 안전하지만, 일반 환경 변수에 API 키나 비밀번호를 그대로 둔 개발자라면 즉각적인 토큰 교체가 필요합니다.
+* 해당 모델은 오픈 웨이트로 공개되지 않고 Qwen 사이트에서만 사용 가능합니다.</description><pubDate>Mon, 20 Apr 2026 09:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXWQCy4ilFJ</guid></item><item><title>블로그 :
+https://qwen.ai/blog?id=qwen3.6-max-preview</title><link>https://www.threads.net/@choi.openai/post/DXWQFEnisyQ</link><description>블로그 :
+https://qwen.ai/blog?id=qwen3.6-max-preview</description><pubDate>Mon, 20 Apr 2026 09:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXWQFEnisyQ</guid></item><item><title>생각하는 자율주행 기술이 실제 도로 위로 올라올 날이 머지않은 것 같습니다.
 
-이는 해당 AI 툴을 연동한 다른 기업들 역시 연쇄 해킹의 타깃이 될 수 있다는 뜻인데요.
-바이브 코딩을 통해 Vercel로 배포하는 사례가 증가하고 있기 때문에 꼭 한 번 체크해보세요.</description><pubDate>Sun, 19 Apr 2026 22:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVH7s2j1MF</guid></item><item><title>내용 :
-https://vercel.com/kb/bulletin/vercel-april-2026-security-incident</title><link>https://www.threads.net/@choi.openai/post/DXVH8xJD5gG</link><description>내용 :
-https://vercel.com/kb/bulletin/vercel-april-2026-security-incident</description><pubDate>Sun, 19 Apr 2026 22:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVH8xJD5gG</guid></item><item><title>유명 프롬프트 해커 Pliny가 앤스로픽의 최신 모델 'Opus 4.7'을 이용해 해당 모델 자신(Opus 4.7)을 탈옥(Jailbreak)시...</title><link>https://www.threads.net/@choi.openai/post/DXU9rH6jl-D</link><description>유명 프롬프트 해커 Pliny가 앤스로픽의 최신 모델 'Opus 4.7'을 이용해 해당 모델 자신(Opus 4.7)을 탈옥(Jailbreak)시키는 과정을 공개했는데요.
+Z Lab 연구팀이 자율주행 시각-언어-행동(VLA) 모델의 지연...</title><link>https://www.threads.net/@choi.openai/post/DXWFrrlD07Z</link><description>생각하는 자율주행 기술이 실제 도로 위로 올라올 날이 머지않은 것 같습니다.
 
-Opus 4.7이 스스로 만능 탈옥 프롬프트를 작성한 뒤, 컴퓨터 제어 기능을 통해 실제 웹사이트에 접속해 이를 검증까지 해냈습니다.
-불과 20분 만에 병원을 상대로 한 대규모 랜섬웨어 위협 메시지까지 거침없이 생성해냈습니다.
+Z Lab 연구팀이 자율주행 시각-언어-행동(VLA) 모델의 지연 시간을 716ms에서 159ms로 단축시킨 최적화 프레임워크 'FlashDrive'를 공개했습니다.
+무려 5배 넘게 빨라진 속도에도 정확도 손실은 전혀 없다고 하는데요.
 
-모델 성능이 똑똑해질수록 안전장치를 무력화하는 논리력도 함께 고도화되고 있습니다.
-앞으로의 AI 보안은 인간의 통제 범위를 넘어, AI 대 AI가 맞붙는 치열한 속도전이 될 것으로 보입니다.
+기존 VLA 모델들은 복잡한 상황 추론 능력은 뛰어나도, 너무 느려서 실시간 주행 제어에 당장 쓰기 어려웠지만 이번 기술로 150ms대까지 지연 시간이 줄어들면서, 이제 자동차와 로봇의 제어 루프 안에 무거운 '추론 능력'을 직접 탑재할 수 있게 되었습니다.
 
-어떤 해법이 등장할지 계속 지켜봐야겠습니다.</description><pubDate>Sun, 19 Apr 2026 21:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXU9rH6jl-D</guid></item><item><title>영상 :
-https://www.youtube.com/watch?v=GVS0iaSiFYU&amp;t=48s</title><link>https://www.threads.net/@choi.openai/post/DXU9r7yjmsx</link><description>영상 :
-https://www.youtube.com/watch?v=GVS0iaSiFYU&amp;t=48s</description><pubDate>Sun, 19 Apr 2026 21:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXU9r7yjmsx</guid></item><item><title>사람과 AI를 구분하는 가장 확실한 차이였던 '미묘한 침묵'이 마침내 사라지고 있습니다.
+생각하는 로봇이 실시간으로 현실 세계를 통제하는 날이 생각보다 훨씬 빨리 다가오고 있습니다.</description><pubDate>Mon, 20 Apr 2026 07:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXWFrrlD07Z</guid></item><item><title>프로젝트 주소 :
+https://z-lab.ai/projects/flashdrive/</title><link>https://www.threads.net/@choi.openai/post/DXWFtxhj79h</link><description>프로젝트 주소 :
+https://z-lab.ai/projects/flashdrive/</description><pubDate>Mon, 20 Apr 2026 07:29:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXWFtxhj79h</guid></item><item><title>한국어와 외국어를 섞어 말해도 알아서 구별해 깔끔한 문서로 만들어주는 모델이 나왔습니다.
 
-LemonSlice에서 실시간 대화형 아바타 모델 '...</title><link>https://www.threads.net/@choi.openai/post/DXUbTwzkwJQ</link><description>사람과 AI를 구분하는 가장 확실한 차이였던 '미묘한 침묵'이 마침내 사라지고 있습니다.
+알리바바의 Tongyi Lab이 새로운 음성 인식 모...</title><link>https://www.threads.net/@choi.openai/post/DXV8ADrlnqW</link><description>한국어와 외국어를 섞어 말해도 알아서 구별해 깔끔한 문서로 만들어주는 모델이 나왔습니다.
 
-LemonSlice에서 실시간 대화형 아바타 모델 'LemonSlice-2.1 Flash'를 발표했습니다. 
-이번 업데이트는 대화 도중 간헐적으로 뚝뚝 끊기거나 늦게 대답하는 치명적인 지연 시간을 밀리초 단위로 깎아내어 자연스러운 상호작용을 만들어냈습니다.
-게다가 얼굴만 움직이는 수준을 넘어 전신 제스처나 사물을 든 모습까지 지체 없이 렌더링해 냅니다.
+알리바바의 Tongyi Lab이 새로운 음성 인식 모델 'Fun-ASR1.5'를 공개했습니다.
+30개 국어를 지원하는 해당 모델의 가장 눈에 띄는 점은 대화 중 언어가 수시로 바뀌어도 별도 설정 없이 이를 자연스럽게 감지하고 텍스트로 변환해주는데요.
+여기에 날짜, 숫자, 화폐 단위를 문서 형식에 맞게 알아서 다듬고 문장 부호까지 찍어줍니다.
 
-사람과 대화할 때 한 번이라도 타이밍이 어긋나면 몰입이 쉽게 깨지지만, 해당 모델은 AI가 상대방이 내 말에 지연 없이 즉시 고개를 끄덕이고 맞장구를 칠 수 있습니다.
-화상 통화로 자연스럽게 소통하는 완벽한 AI 직원을 마주할 날이 정말 머지않았습니다.</description><pubDate>Sun, 19 Apr 2026 16:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUbTwzkwJQ</guid></item><item><title>블로그 :
-https://lemonslice.com/blog/lemonslice-flash</title><link>https://www.threads.net/@choi.openai/post/DXUbU9Fk-S9</link><description>블로그 :
-https://lemonslice.com/blog/lemonslice-flash</description><pubDate>Sun, 19 Apr 2026 16:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXUbU9Fk-S9</guid></item></channel></rss>
+과거 음성 인식 기술이 말을 정확히 받아적는 데 집중했다면, 최근의 흐름은 사람이 직접 텍스트를 수정하고 편집해야 하는 수고를 아예 없애는 생산성 향상에 맞춰져 있습니다.
+녹음 파일만 넣으면 곧바로 실무에 쓸 수 있는 결과물이 나오는 셈입니다.
+
+앞으로 글로벌 미팅이나 다국어 환경에서의 업무 장벽이 더욱 빠르게 허물어질 것으로 보입니다.</description><pubDate>Mon, 20 Apr 2026 06:06:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXV8ADrlnqW</guid></item><item><title>데모 :
+https://modelscope.cn/studios/iic/FunAudio-ASR</title><link>https://www.threads.net/@choi.openai/post/DXV8JFXj0TG</link><description>데모 :
+https://modelscope.cn/studios/iic/FunAudio-ASR</description><pubDate>Mon, 20 Apr 2026 06:06:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXV8JFXj0TG</guid></item><item><title>최근 Claude Opus 4.7의 토큰 사용량을 분석한 결과, 텍스트 처리에는 이전 버전인 4.6보다 약 1.46배, 이미지에는 최대 3배 더...</title><link>https://www.threads.net/@choi.openai/post/DXVttG8isPz</link><description>최근 Claude Opus 4.7의 토큰 사용량을 분석한 결과, 텍스트 처리에는 이전 버전인 4.6보다 약 1.46배, 이미지에는 최대 3배 더 많은 토큰을 소모하는 것으로 나타났습니다.
+
+토큰당 단가는 명목상 동일하지만, 한 번에 쓰는 기본 양 자체가 늘어났으니 사실상 체감 가격이 인상된 셈인데요.
+
+다만, 이미지 토큰이 3배나 폭증한 이유가 향상된 고해상도 지원 능력 때문이라는 것입니다.
+해상도를 낮춰서 입력하면 이전 버전과 거의 똑같은 양의 토큰만 사용됩니다.
+
+이제는 AI 모델의 성능 업그레이드가 곧바로 유지 비용 증가로 직결되는 시대입니다.
+
+무작정 고해상도의 원본 이미지를 던져넣기보다는, 작업 목적에 맞게 이미지 크기를 미리 줄이고 프롬프트 소모 비용을 최적화하는 사용자의 요령이 갈수록 중요해지고 있습니다.</description><pubDate>Mon, 20 Apr 2026 04:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVttG8isPz</guid></item><item><title>클로드 토큰 카운터 :
+https://tools.simonwillison.net/claude-token-counter</title><link>https://www.threads.net/@choi.openai/post/DXVtvKsCq_q</link><description>클로드 토큰 카운터 :
+https://tools.simonwillison.net/claude-token-counter</description><pubDate>Mon, 20 Apr 2026 04:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXVtvKsCq_q</guid></item></channel></rss>
