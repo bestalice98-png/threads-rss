@@ -1,23 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 21 Apr 2026 09:26:46 +0000</lastBuildDate><item><title>구글이 자사의 이미지 모델 '나노 바나나 프로'를 활용해 가상의 요요 브랜드를 기획한 테스트 결과를 공개했습니다.
-여러 시안에서 로고와 색상의 ...</title><link>https://www.threads.net/@choi.openai/post/DXYuCuxCYNr</link><description>구글이 자사의 이미지 모델 '나노 바나나 프로'를 활용해 가상의 요요 브랜드를 기획한 테스트 결과를 공개했습니다.
-여러 시안에서 로고와 색상의 일관성을 유지하고, 실제 매장 진열대의 조명과 그림자까지 자연스럽게 구현해 냈는데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 21 Apr 2026 16:02:51 +0000</lastBuildDate><item><title>이제 AI가 스스로 논문을 읽고 새로운 AI 모델을 훈련시키는 시대입니다.
 
-눈여겨볼 점은 로고와 폰트의 일관성을 완벽히 유지하면서, 제품의 물리적 비례와 공간감을 오차 없이 구현했다는 사실입니다.
-생성된 이미지의 비례가 워낙 정교해서, 도면 재작업 없이 그대로 3D 프린터에 넣어 실제 작동하는 요요를 뽑아냈을 정도입니다.
+허깅페이스(Hugging Face)가 머신러닝 연구 과정을 모방한 ...</title><link>https://www.threads.net/@choi.openai/post/DXZk7P1jz93</link><description>이제 AI가 스스로 논문을 읽고 새로운 AI 모델을 훈련시키는 시대입니다.
 
-그동안 이미지 생성 모델은 매번 형태가 틀어지거나 구조적 결함이 발생해 물리적인 제품 제작에 바로 쓰기 까다로웠습니다.
-이제 AI는 현실 세계의 제품 기획과 브랜딩 파이프라인 깊숙한 곳까지 들어오고 있습니다.
-디자이너의 역할이 직접 그리는 것에서 모델의 산출물을 지휘하고 통제하는 형태로 빠르게 넘어가고 있습니다.</description><pubDate>Tue, 21 Apr 2026 08:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYuCuxCYNr</guid></item><item><title>지금 챗GPT에서 이미지 생성해보세요 😊</title><link>https://www.threads.net/@choi.openai/post/DXYpu2Hj7LC</link><description>지금 챗GPT에서 이미지 생성해보세요 😊</description><pubDate>Tue, 21 Apr 2026 07:23:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYpu2Hj7LC</guid></item><item><title>매번 작업 상황을 다시 설명해야 했던 번거로움이 마침내 사라집니다.
+허깅페이스(Hugging Face)가 머신러닝 연구 과정을 모방한 오픈소스 에이전트 'ml-intern'을 공개했습니다.
+프롬프트 하나만 던져주면 관련 논문과 인용 그래프를 분석하고, 직접 데이터를 모아 GPU 환경에서 모델을 학습시킵니다.
 
-오픈AI가 코딩 도구 Codex에 작업 화면을 분석하고 기억하는 'Chro...</title><link>https://www.threads.net/@choi.openai/post/DXYgpPoDQBa</link><description>매번 작업 상황을 다시 설명해야 했던 번거로움이 마침내 사라집니다.
+실제로 과학 추론 과제에서 Qwen3-1.7B 모델을 스스로 파인튜닝해 10시간 만에 GPQA 점수를 32%까지 끌어올렸는데요.
+이는 상용 모델인 Claude Code의 최고 기록을 훌쩍 넘는 수치입니다.
+제공된 데이터의 품질이 나쁘면 직접 합성 데이터를 만들어내고, 학습이 실패하면 원인을 분석해 재훈련하는 집요함까지 보여줍니다.
 
-오픈AI가 코딩 도구 Codex에 작업 화면을 분석하고 기억하는 'Chronicle' 기능을 새롭게 공개했는데요.
-백그라운드 에이전트가 화면을 캡처해 기억을 구축하기 때문에, "이 에러 고쳐줘"나 "2주 전에 하던 작업 이어서 해줘"라고 지시해도 상황을 완벽히 파악합니다.
-과거 작업 내역부터 열어둔 문서, 자주 쓰는 툴까지 스스로 파악하며 상태를 유지합니다.
+해당 에이전트는 가설 설정부터 실험과 검증이라는 연구의 핵심 병목을 뚫어냈습니다.
+AI가 스스로 AI를 발전시키는 자가 진화의 궤도에 본격적으로 진입한 것 같습니다.</description><pubDate>Tue, 21 Apr 2026 16:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXZk7P1jz93</guid></item><item><title>깃허브 :
+https://github.com/huggingface/ml-intern/tree/main</title><link>https://www.threads.net/@choi.openai/post/DXZk8PEDzK3</link><description>깃허브 :
+https://github.com/huggingface/ml-intern/tree/main</description><pubDate>Tue, 21 Apr 2026 16:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXZk8PEDzK3</guid></item><item><title>코덱스 400만 돌파로 사용량 리셋</title><link>https://www.threads.net/@choi.openai/post/DXZdOrrD2zA</link><description>코덱스 400만 돌파로 사용량 리셋</description><pubDate>Tue, 21 Apr 2026 14:53:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXZdOrrD2zA</guid></item><item><title>오픈AI 큰거온다..
 
-세션이 바뀔 때마다 코드를 다시 입력하고 상황을 설명해야 했던 '맥락 단절' 문제가 해결된 셈입니다.
+라이브 스트리밍 예정.</title><link>https://www.threads.net/@choi.openai/post/DXZXeC-j87n</link><description>오픈AI 큰거온다..
 
-명령어 기반의 코드 생성을 넘어, 개발자의 작업 흐름과 프로젝트 맥락 전체를 같이 파악하는 환경이 열리고 있습니다.</description><pubDate>Tue, 21 Apr 2026 06:05:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYgpPoDQBa</guid></item><item><title>발표 내용 :
-https://developers.openai.com/codex/memories/chronicle</title><link>https://www.threads.net/@choi.openai/post/DXYg0t2D3Iv</link><description>발표 내용 :
-https://developers.openai.com/codex/memories/chronicle</description><pubDate>Tue, 21 Apr 2026 06:05:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYg0t2D3Iv</guid></item><item><title>Codexy</title><link>https://www.threads.net/@choi.openai/post/DXYeAJxD7UF</link><description>Codexy</description><pubDate>Tue, 21 Apr 2026 05:40:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYeAJxD7UF</guid></item></channel></rss>
+라이브 스트리밍 예정.</description><pubDate>Tue, 21 Apr 2026 14:02:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXZXeC-j87n</guid></item><item><title>Codex에 추가될 새로운 캐릭터</title><link>https://www.threads.net/@choi.openai/post/DXZW43SDxIr</link><description>Codex에 추가될 새로운 캐릭터</description><pubDate>Tue, 21 Apr 2026 13:57:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXZW43SDxIr</guid></item><item><title>아바타 리스트 :</title><link>https://www.threads.net/@choi.openai/post/DXZW5LSj_4n</link><description>아바타 리스트 :</description><pubDate>Tue, 21 Apr 2026 13:57:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXZW5LSj_4n</guid></item></channel></rss>
