@@ -1,56 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 21 Apr 2026 02:36:22 +0000</lastBuildDate><item><title>중국 AI의 발전 속도를 보면 정말 입이 다물어지지 않습니다.
-문샷 AI(Moonshot AI)에서 공개한 'Kimi K2.6'은 그야말로 코딩...</title><link>https://www.threads.net/@choi.openai/post/DXYBhImj5VK</link><description>중국 AI의 발전 속도를 보면 정말 입이 다물어지지 않습니다.
-문샷 AI(Moonshot AI)에서 공개한 'Kimi K2.6'은 그야말로 코딩 에이전트의 끝판왕급 성능을 보여주는데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 21 Apr 2026 09:26:46 +0000</lastBuildDate><item><title>구글이 자사의 이미지 모델 '나노 바나나 프로'를 활용해 가상의 요요 브랜드를 기획한 테스트 결과를 공개했습니다.
+여러 시안에서 로고와 색상의 ...</title><link>https://www.threads.net/@choi.openai/post/DXYuCuxCYNr</link><description>구글이 자사의 이미지 모델 '나노 바나나 프로'를 활용해 가상의 요요 브랜드를 기획한 테스트 결과를 공개했습니다.
+여러 시안에서 로고와 색상의 일관성을 유지하고, 실제 매장 진열대의 조명과 그림자까지 자연스럽게 구현해 냈는데요.
 
-이번 모델은 한 번의 명령만으로 300개의 하위 에이전트를 동시에 구동해 12시간 동안 쉬지 않고 코드를 짭니다.
-웹사이트의 복잡한 시각 효과 구현은 물론, 다른 AI 모델의 로컬 추론 엔진을 직접 코딩해 구동 속도를 최적화하는 수준까지 도달했습니다.
+눈여겨볼 점은 로고와 폰트의 일관성을 완벽히 유지하면서, 제품의 물리적 비례와 공간감을 오차 없이 구현했다는 사실입니다.
+생성된 이미지의 비례가 워낙 정교해서, 도면 재작업 없이 그대로 3D 프린터에 넣어 실제 작동하는 요요를 뽑아냈을 정도입니다.
 
-가장 놀라운 점은 해당 모델의 성능이 오픈소스로 풀렸다는 점입니다.
-막대한 자본을 쏟아부어 만들어진 고가의 미국 폐쇄형 상용 모델들을, 중국의 오픈소스 진영이 성능과 비용 모든 면에서 연달아 무너뜨리고 있습니다.
-과연 글로벌 빅테크들은 이 압도적인 가성비에 어떤 답을 내놓을까요?</description><pubDate>Tue, 21 Apr 2026 01:31:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYBhImj5VK</guid></item><item><title>블로그 :
-https://www.kimi.com/blog/kimi-k2-6</title><link>https://www.threads.net/@choi.openai/post/DXYBhtOj5Nk</link><description>블로그 :
-https://www.kimi.com/blog/kimi-k2-6</description><pubDate>Tue, 21 Apr 2026 01:31:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYBhtOj5Nk</guid></item><item><title>와.. 미친.. 믿고 있었다고 구글!!!
+그동안 이미지 생성 모델은 매번 형태가 틀어지거나 구조적 결함이 발생해 물리적인 제품 제작에 바로 쓰기 까다로웠습니다.
+이제 AI는 현실 세계의 제품 기획과 브랜딩 파이프라인 깊숙한 곳까지 들어오고 있습니다.
+디자이너의 역할이 직접 그리는 것에서 모델의 산출물을 지휘하고 통제하는 형태로 빠르게 넘어가고 있습니다.</description><pubDate>Tue, 21 Apr 2026 08:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYuCuxCYNr</guid></item><item><title>지금 챗GPT에서 이미지 생성해보세요 😊</title><link>https://www.threads.net/@choi.openai/post/DXYpu2Hj7LC</link><description>지금 챗GPT에서 이미지 생성해보세요 😊</description><pubDate>Tue, 21 Apr 2026 07:23:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYpu2Hj7LC</guid></item><item><title>매번 작업 상황을 다시 설명해야 했던 번거로움이 마침내 사라집니다.
 
-구글이 작정하고 크롬 브라우저를 거대한 AI 비서로 바꿔버렸습니다.
-오늘 한국에 'Gemini in ...</title><link>https://www.threads.net/@choi.openai/post/DXXpVodE8Y6</link><description>와.. 미친.. 믿고 있었다고 구글!!!
+오픈AI가 코딩 도구 Codex에 작업 화면을 분석하고 기억하는 'Chro...</title><link>https://www.threads.net/@choi.openai/post/DXYgpPoDQBa</link><description>매번 작업 상황을 다시 설명해야 했던 번거로움이 마침내 사라집니다.
 
-구글이 작정하고 크롬 브라우저를 거대한 AI 비서로 바꿔버렸습니다.
-오늘 한국에 'Gemini in Chrome'이 정식 출시되었습니다.
+오픈AI가 코딩 도구 Codex에 작업 화면을 분석하고 기억하는 'Chronicle' 기능을 새롭게 공개했는데요.
+백그라운드 에이전트가 화면을 캡처해 기억을 구축하기 때문에, "이 에러 고쳐줘"나 "2주 전에 하던 작업 이어서 해줘"라고 지시해도 상황을 완벽히 파악합니다.
+과거 작업 내역부터 열어둔 문서, 자주 쓰는 툴까지 스스로 파악하며 상태를 유지합니다.
 
-기능을 보면 웹 서핑의 방식이 꽤 달라질 것 같은데요.
-여러 탭에 흩어진 쇼핑 자료나 문서를 알아서 교차 검증해 표로 묶어주고, 유튜브 영상을 보며 내용을 바로 요약시키며, 보고 있는 이미지를 바로 편집할 수 있습니다.
+세션이 바뀔 때마다 코드를 다시 입력하고 상황을 설명해야 했던 '맥락 단절' 문제가 해결된 셈입니다.
 
-발표된 Gemini in Chrome 기능에 대한 정보를 정리했습니다. 🧵</description><pubDate>Mon, 20 Apr 2026 22:01:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXXpVodE8Y6</guid></item><item><title>1/ 구글이 Chrome 브라우저를 '개인 AI 허브'로 진화시키는 대규모 업데이트를 한국에 출시했습니다.
-
-영미권에 출시되었을 때부터 가장 기...</title><link>https://www.threads.net/@choi.openai/post/DXXpf2SE_Cw</link><description>1/ 구글이 Chrome 브라우저를 '개인 AI 허브'로 진화시키는 대규모 업데이트를 한국에 출시했습니다.
-
-영미권에 출시되었을 때부터 가장 기대하고 있었던 기능인데요.
-이제 브라우저 측면 패널(Side panel)을 열기만 하면, 탭을 이리저리 전환할 필요 없이 현재 읽고 있는 복잡한 웹페이지나 긴 논문을 즉각적으로 요약하고 맥락에 맞는 질문을 던질 수 있습니다.
-
-Gemini 3.1을 기반으로 작동하는 Gemini in Chrome은 기말고사 예상 문제를 만들거나 특정 레시피를 비건용으로 바꿔달라는 등, 사용자의 작업 흐름을 끊지 않고 자연스럽게 멀티태스킹을 지원합니다.
-
-이번 업데이트에서는 데스크톱과 iOS에서 먼저 제공되며, 안드로이드에서는 전원 버튼을 길게 눌러 바로 호출할 수 있습니다.</description><pubDate>Mon, 20 Apr 2026 22:01:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXXpf2SE_Cw</guid></item><item><title>2/ 온라인 쇼핑이나 자료 조사를 할 때 수십 개의 탭을 띄워놓고 방황하던 경험, 누구나 있을 것입니다.
-
-Gemini in Chrome은 여러...</title><link>https://www.threads.net/@choi.openai/post/DXXpgcsE7dM</link><description>2/ 온라인 쇼핑이나 자료 조사를 할 때 수십 개의 탭을 띄워놓고 방황하던 경험, 누구나 있을 것입니다.
-
-Gemini in Chrome은 여러 개의 열린 탭에 흩어진 정보를 한 화면에서 교차 확인하고 통합해 줍니다.
-
-예를 들어 비건 단백질 파우더를 사기 위해 여러 쇼핑몰 사이트를 띄워두면, AI가 각 사이트의 제품 정보를 하나의 표(Table)로 깔끔하게 정리해 비교해 줍니다.
-
-또한 팀 워크숍을 준비하며 조사한 다양한 웹 자료들을 모아 단숨에 아이스브레이킹 아이디어로 기획해 내는 등, 정보 수집과 정리의 효율성을 극대화하여 번거로운 웹 서핑의 피로감을 완벽히 덜어줍니다.</description><pubDate>Mon, 20 Apr 2026 22:02:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXXpgcsE7dM</guid></item><item><title>3/ 이번 업데이트의 또 다른 강력한 무기는 구글 핵심 서비스들과의 유기적인 통합입니다. 
-
-크롬 안에서 정보를 찾는 즉시, 현재 페이지를 벗어...</title><link>https://www.threads.net/@choi.openai/post/DXXpg1Uk8nu</link><description>3/ 이번 업데이트의 또 다른 강력한 무기는 구글 핵심 서비스들과의 유기적인 통합입니다. 
-
-크롬 안에서 정보를 찾는 즉시, 현재 페이지를 벗어나지 않고도 Gmail 초안을 작성해 전송할 수 있습니다.
-또한, 웹 서핑 중 발견한 장소의 세부 정보를 구글 지도에서 바로 확인하거나, 구글 캘린더에 곧바로 회의 일정을 추가하는 작업이 물 흐르듯 이어집니다.
-
-심지어 유튜브 동영상을 시청하면서 영상의 핵심 내용을 파악하고 궁금한 점을 브라우저 측면 패널에서 바로 묻고 답을 얻을 수 있어, 구글 생태계 안에서의 업무 생산성이 폭발적으로 증가합니다.</description><pubDate>Mon, 20 Apr 2026 22:02:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXXpg1Uk8nu</guid></item><item><title>단 3초짜리 녹음 파일 하나면 전 세계 600개 언어로 내 목소리를 똑같이 복제할 수 있습니다.
-
-샤오미에서 발표한 오픈소스 모델 'OmniVo...</title><link>https://www.threads.net/@choi.openai/post/DXWu_kQAFSu</link><description>단 3초짜리 녹음 파일 하나면 전 세계 600개 언어로 내 목소리를 똑같이 복제할 수 있습니다.
-
-샤오미에서 발표한 오픈소스 모델 'OmniVoice'은 기존 텍스트 음성 변환(TTS)의 복잡한 연산 과정을 하나로 합쳐, 실시간보다 40배 빠른 속도로 음성을 생성합니다.
-
-음성 복제뿐만 아니라 "영국 억양의 낮은 목소리"처럼 텍스트로 음색을 디자인하고, 문장 중간에 자연스러운 웃음소리까지 넣을 수 있습니다.</description><pubDate>Mon, 20 Apr 2026 13:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXWu_kQAFSu</guid></item><item><title>깃허브 :
-https://github.com/k2-fsa/OmniVoice</title><link>https://www.threads.net/@choi.openai/post/DXWvAk9gEyo</link><description>깃허브 :
-https://github.com/k2-fsa/OmniVoice</description><pubDate>Mon, 20 Apr 2026 13:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXWvAk9gEyo</guid></item><item><title>진짜 얼마 안남았다..</title><link>https://www.threads.net/@choi.openai/post/DXWkuu4iCDP</link><description>진짜 얼마 안남았다..</description><pubDate>Mon, 20 Apr 2026 12:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXWkuu4iCDP</guid></item></channel></rss>
+명령어 기반의 코드 생성을 넘어, 개발자의 작업 흐름과 프로젝트 맥락 전체를 같이 파악하는 환경이 열리고 있습니다.</description><pubDate>Tue, 21 Apr 2026 06:05:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYgpPoDQBa</guid></item><item><title>발표 내용 :
+https://developers.openai.com/codex/memories/chronicle</title><link>https://www.threads.net/@choi.openai/post/DXYg0t2D3Iv</link><description>발표 내용 :
+https://developers.openai.com/codex/memories/chronicle</description><pubDate>Tue, 21 Apr 2026 06:05:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYg0t2D3Iv</guid></item><item><title>Codexy</title><link>https://www.threads.net/@choi.openai/post/DXYeAJxD7UF</link><description>Codexy</description><pubDate>Tue, 21 Apr 2026 05:40:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXYeAJxD7UF</guid></item></channel></rss>
