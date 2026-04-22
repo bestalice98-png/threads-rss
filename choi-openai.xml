@@ -1,55 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 22 Apr 2026 09:20:48 +0000</lastBuildDate><item><title>모든 것이 AI로 이루어진 게임이 8월 출시를 앞두고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 22 Apr 2026 16:01:26 +0000</lastBuildDate><item><title>겨우 27B 크기의 모델이 397B 초대형 모델을 코딩 테스트에서 이겨버렸습니다.
 
-1인 개발자 '다루마토아카베코'가 개발한 AI 기반 로그라이크 RPG 'Ins...</title><link>https://www.threads.net/@choi.openai/post/DXbZpbqAfo3</link><description>모든 것이 AI로 이루어진 게임이 8월 출시를 앞두고 있습니다.
+알리바바가 새롭게 공개한 오픈소스 모델 'Qwen3.6-27...</title><link>https://www.threads.net/@choi.openai/post/DXcGRWMgZNI</link><description>겨우 27B 크기의 모델이 397B 초대형 모델을 코딩 테스트에서 이겨버렸습니다.
 
-1인 개발자 '다루마토아카베코'가 개발한 AI 기반 로그라이크 RPG 'Instantale'의 에픽게임즈 스토어 페이지가 공개되었습니다.
+알리바바가 새롭게 공개한 오픈소스 모델 'Qwen3.6-27B' 이야기입니다.
+해당 모델은 이전 세대의 거대 모델인 Qwen3.5-397B보다 덩치가 15배나 작지만, 실제 에이전트 코딩 능력 벤치마크에서는 오히려 더 높은 점수를 기록했는데요.
 
-이 게임은 미리 준비된 시나리오나 고정된 선택지 없이 NPC의 대사, 마을의 구조, 일어나는 이벤트까지 유저가 채팅으로 입력하는 행동과 대화에 맞춰 LLM이 실시간으로 세계를 그려냅니다.
+성능만 좋은 게 아닙니다. 이미지와 비디오를 모두 이해하는 멀티모달 기능에, 스스로 생각하며 답변을 구성하는 'Thinking' 모드까지 하나의 체크포인트에 담아냈습니다.
+완전 무료 상업용 라이선스(Apache 2.0)로 풀리자마자, 개인 PC에서 구동하기 위한 로컬 최적화 작업이 커뮤니티에서 벌써 시작되었습니다.
 
-죽음을 전제로 한 높은 난이도가 특징이며, 수명을 다해 죽으면 재산을 물려받은 다음 캐릭터로 모험을 이어가게 됩니다.
+대부분 프론티어 모델을 저렴하게 사용하고 계시지만, 오픈 소스 생태계가 정말 치열하게 발전하고 뻐른 것 같습니다.
+중국 정말 압도적이고 가볍게 지나치시면 절대 안됩니다.</description><pubDate>Wed, 22 Apr 2026 15:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXcGRWMgZNI</guid></item><item><title>블로그 :
+https://qwen.ai/blog?id=qwen3.6-27b</title><link>https://www.threads.net/@choi.openai/post/DXcGSwjAShi</link><description>블로그 :
+https://qwen.ai/blog?id=qwen3.6-27b</description><pubDate>Wed, 22 Apr 2026 15:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXcGSwjAShi</guid></item><item><title>이제 무거운 게임 엔진을 켜지 않아도 스마트폰 브라우저에서 3D 캐릭터를 실시간으로 조작할 수 있습니다.
 
-본래 스팀 출시를 목표로 1만 5천 건의 위시리스트를 모았으나, '실시간 생성 AI'와 '성인 콘텐츠' 정책에 부딪혀 출시가 거부된 바 있습니다.
-AI가 유저와 함께 실시간으로 세계를 창조하는 게임마스터 역할을 하는 새로운 장르가 열리고 있습니다.</description><pubDate>Wed, 22 Apr 2026 09:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXbZpbqAfo3</guid></item><item><title>상세 내용 :
-https://news.denfaminicogamer.jp/news/2604212p</title><link>https://www.threads.net/@choi.openai/post/DXbZqwygTyp</link><description>상세 내용 :
-https://news.denfaminicogamer.jp/news/2604212p</description><pubDate>Wed, 22 Apr 2026 09:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXbZqwygTyp</guid></item><item><title>AI에게 "동전을 100번 던져봐"라고해도 결과는 50:50이 나오지 않습니다.
+메타가 Unity 같은 기존 엔진에 ...</title><link>https://www.threads.net/@choi.openai/post/DXb8CoqjMsv</link><description>이제 무거운 게임 엔진을 켜지 않아도 스마트폰 브라우저에서 3D 캐릭터를 실시간으로 조작할 수 있습니다.
 
-LLM은 확률의 개념은 이해하지만, 스스로 완벽한 '무작위'를...</title><link>https://www.threads.net/@choi.openai/post/DXbRmp4jA_Q</link><description>AI에게 "동전을 100번 던져봐"라고해도 결과는 50:50이 나오지 않습니다.
+메타가 Unity 같은 기존 엔진에 의존하지 않고 오직 Python 기반으로 3D 캐릭터 애니메이션을 구현하는 프레임워크 'AI4AnimationPy'를 오픈소스로 공개했습니다.
 
-LLM은 확률의 개념은 이해하지만, 스스로 완벽한 '무작위'를 만들어내는 데는 치명적인 편향성을 가집니다. 창의적인 아이디어를 요구할 때마다 AI가 늘 뻔하고 비슷한 답변만 맴도는 이유도 바로 이 확률적 편향 때문입니다.
+기존에는 캐릭터의 부드러운 움직임과 모션 캡처 데이터를 처리하기 위해 Unity)같은 무거운 엔진이 필수였습니다. 하지만 해당 프레임워크를 사용하면 PyTorch와 NumPy 같은 기본 AI 환경만으로 사람이나 동물의 정교한 모션을 제어할 수 있습니다.
 
-이 한계를 부수기 위해 Sakana AI가 ICLR 2026에서 발표한 'SSoT' 기법이 업계의 주목을 받고 있습니다.
-원리는 프롬프트에 "답변을 내놓기 전, 무작위 문자열을 하나 생성하고 그 문자열을 조작해 확률적 결정을 내려라"라고 지시하면, 그 문자열의 ASCII 값을 계산해 나머지를 구하는 식으로 '스스로 주사위를 던지게' 만드는 겁니다.
+복잡한 과정을 덜어내어 PC는 물론 웹 브라우저나 스마트폰 환경에서도 가볍게 구동됩니다.
+파이썬 코드 몇 줄만으로 누구나 손쉽게 생동감 넘치는 가상 캐릭터를 다루는 생태계가 생각보다 훨씬 빨리 열리고 있습니다.</description><pubDate>Wed, 22 Apr 2026 14:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXb8CoqjMsv</guid></item><item><title>깃허브 :
+https://github.com/facebookresearch/ai4animationpy</title><link>https://www.threads.net/@choi.openai/post/DXb8DWrDI4u</link><description>깃허브 :
+https://github.com/facebookresearch/ai4animationpy</description><pubDate>Wed, 22 Apr 2026 14:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXb8DWrDI4u</guid></item><item><title>Codex의 자동화 기능은 특이점입니다.
+Codex의 "Computer Use"와 GPT Image 2를 묶으면, 알아서 뉴스 수집부터 카드뉴스...</title><link>https://www.threads.net/@choi.openai/post/DXb7QcRDOfO</link><description>Codex의 자동화 기능은 특이점입니다.
+Codex의 "Computer Use"와 GPT Image 2를 묶으면, 알아서 뉴스 수집부터 카드뉴스 제작, 배포까지 가능합니다.
 
-그저 "무작위로 답해줘"라고 할 때보다 실제 확률 분포에 훨씬 가까운 결과를 보여주는데,이게 중요한 이유는 게임 이론이나 창의적 글쓰기처럼 '다양성'이 필수인 영역에서 해당 모델의 한계를 넘어서는 단초가 될 것으로 보입니다.</description><pubDate>Wed, 22 Apr 2026 07:50:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXbRmp4jA_Q</guid></item><item><title>블로그 :
-https://pub.sakana.ai/ssot/</title><link>https://www.threads.net/@choi.openai/post/DXbRnz_jNtm</link><description>블로그 :
-https://pub.sakana.ai/ssot/</description><pubDate>Wed, 22 Apr 2026 07:50:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXbRnz_jNtm</guid></item><item><title>Kimi AI가 최적화의 한계를 또 한 번 깼습니다.
-
-Moonshot AI가 자사의 'Kimi Delta Attention' 커널의 고성능 구...</title><link>https://www.threads.net/@choi.openai/post/DXbJnDskhLX</link><description>Kimi AI가 최적화의 한계를 또 한 번 깼습니다.
-
-Moonshot AI가 자사의 'Kimi Delta Attention' 커널의 고성능 구현체인 'FlashKDA'를 오픈소스로 공개했습니다.
-이 코드는 H20 GPU 기준 기존 'flash-linear-attention' 방식보다 prefill 속도를 최대 2.2배 끌어올렸으며, 기존 시스템에 그대로 끼워 넣을 수 있는 드롭인(drop-in) 형태로 제공됩니다.
-
-롱 컨텍스트(Long-context) 처리에 있어 필수적인 어텐션 병목 문제를 하드웨어 단에 가까운 커널 최적화로 뚫어냈다는 것입니다.
-
-이러한 고성능 커널이 오픈소스로 풀리면서 Kimi 생태계뿐만 아니라 다른 오픈소스 모델들까지 덩달아 긴 문맥 처리 속도를 높일 수 있을 것으로 기대됩니다.
-
-중국의 이런 바닥부터의 엔지니어링 최적화 실력은 정말 놀라운 것 같습니다.</description><pubDate>Wed, 22 Apr 2026 06:40:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXbJnDskhLX</guid></item><item><title>깃허브 :
-https://github.com/MoonshotAI/FlashKDA</title><link>https://www.threads.net/@choi.openai/post/DXbKE9vj7EN</link><description>깃허브 :
-https://github.com/MoonshotAI/FlashKDA</description><pubDate>Wed, 22 Apr 2026 06:44:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXbKE9vj7EN</guid></item><item><title>앤트로픽에 악재가 연이어 터지고 있습니다.
-
-"안전하고 책임감 있는 AI"를 최우선으로 내세우던 앤트로픽이 체면을 단단히 구겼습니다.
-
-앤트로픽...</title><link>https://www.threads.net/@choi.openai/post/DXbBlpqktZh</link><description>앤트로픽에 악재가 연이어 터지고 있습니다.
-
-"안전하고 책임감 있는 AI"를 최우선으로 내세우던 앤트로픽이 체면을 단단히 구겼습니다.
-
-앤트로픽이 최근 발표한 강력한 사이버 보안용 AI 모델 'Mythos'가 공개 첫날 해커들에게 뚫리는 사건이 발생했습니다.
-악용될 경우 치명적인 사이버 무기로 돌변할 수 있어 애플 등 극소수 기업에만 제한적으로 제공된 모델이었는데요.
-
-하지만 미공개 AI 모델을 추적하는 한 해커 그룹이 서드파티 업체의 권한을 이용하고 URL 패턴을 유추해 너무나 쉽게 모델 접근에 성공해 버렸습니다.
-다행히 이들은 단순 호기심에 접근했다고 밝혔지만, 최고 수준의 위험도를 가진 AI가 이토록 허술하게 노출되었다는 점은 큰 충격을 주고 있습니다.
-
-AI 모델의 능력이 진짜 사이버 무기 수준으로 치솟고 있는 지금, 과연 이를 완벽하게 통제하고 보호할 수 있는 보안 인프라가 업계에 존재하기는 하는 걸까요? AI 발전 속도만큼이나 보안에 대한 근본적인 고민이 시급해 보입니다.</description><pubDate>Wed, 22 Apr 2026 05:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXbBlpqktZh</guid></item><item><title>기사 :
-https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-a...</title><link>https://www.threads.net/@choi.openai/post/DXbBmyvkl9L</link><description>기사 :
-https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/</description><pubDate>Wed, 22 Apr 2026 05:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXbBmyvkl9L</guid></item></channel></rss>
+아직도 직접 버튼 누르고 있다면 이미 차이 벌어졌습니다.
+이미 제공되는 기능을 최대한 활용해보세요.</description><pubDate>Wed, 22 Apr 2026 13:55:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXb7QcRDOfO</guid></item><item><title>뭐가 생겼다.
+슬라이드 하면 돌아간다</title><link>https://www.threads.net/@choi.openai/post/DXb1d94DwSD</link><description>뭐가 생겼다.
+슬라이드 하면 돌아간다</description><pubDate>Wed, 22 Apr 2026 13:03:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXb1d94DwSD</guid></item></channel></rss>
