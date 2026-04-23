@@ -1,33 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 22 Apr 2026 16:01:26 +0000</lastBuildDate><item><title>겨우 27B 크기의 모델이 397B 초대형 모델을 코딩 테스트에서 이겨버렸습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 23 Apr 2026 02:38:42 +0000</lastBuildDate><item><title>오픈AI가 2030년까지 30GW(기가와트) 규모의 컴퓨팅 전력을 확보하겠다고 발표했습니다. 이는 대략 3,000만 대의 GPU를 동시에 굴릴 ...</title><link>https://www.threads.net/@choi.openai/post/DXdOYzCDeF5</link><description>오픈AI가 2030년까지 30GW(기가와트) 규모의 컴퓨팅 전력을 확보하겠다고 발표했습니다. 이는 대략 3,000만 대의 GPU를 동시에 굴릴 수 있는 막대한 인프라 규모입니다.
 
-알리바바가 새롭게 공개한 오픈소스 모델 'Qwen3.6-27...</title><link>https://www.threads.net/@choi.openai/post/DXcGRWMgZNI</link><description>겨우 27B 크기의 모델이 397B 초대형 모델을 코딩 테스트에서 이겨버렸습니다.
+오픈AI 부사장 피터 웰린더(Peter Welinder)는 이 소식을 공유하며 "인류 1명당 1대의 GPU를 갖기에는 아직 갈 길이 멀다"고 덧붙였습니다.
 
-알리바바가 새롭게 공개한 오픈소스 모델 'Qwen3.6-27B' 이야기입니다.
-해당 모델은 이전 세대의 거대 모델인 Qwen3.5-397B보다 덩치가 15배나 작지만, 실제 에이전트 코딩 능력 벤치마크에서는 오히려 더 높은 점수를 기록했는데요.
+최근 앤트로픽이 클로드 코드 수요 급증을 감당하지 못해 컴퓨팅 부족, 할당량 축소, 사용량 기반 과금 전환 등의 문제를 겪고 있는 상황을 보면, AI 산업의 경쟁력이 다시 ‘컴퓨팅 자본력’으로 수렴하고 있음을 보여줍니다. 오픈AI가 오랜 기간 컴퓨팅 인프라에 지속적으로 투자해온 이유도 여기에 있습니다.
 
-성능만 좋은 게 아닙니다. 이미지와 비디오를 모두 이해하는 멀티모달 기능에, 스스로 생각하며 답변을 구성하는 'Thinking' 모드까지 하나의 체크포인트에 담아냈습니다.
-완전 무료 상업용 라이선스(Apache 2.0)로 풀리자마자, 개인 PC에서 구동하기 위한 로컬 최적화 작업이 커뮤니티에서 벌써 시작되었습니다.
+오픈AI의 최종 목적지가 단순히 똑똑한 AI를 만드는 것을 넘어, 전 세계 모든 사람에게 전담 인프라를 할당하는 '1인 1 GPU' 시대라는 것을 명확히 보여줍니다.</description><pubDate>Thu, 23 Apr 2026 02:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXdOYzCDeF5</guid></item><item><title>오픈AI가 갑자기 개인정보 보호용 오픈소스 모델을 무료로 풀었습니다.
 
-대부분 프론티어 모델을 저렴하게 사용하고 계시지만, 오픈 소스 생태계가 정말 치열하게 발전하고 뻐른 것 같습니다.
-중국 정말 압도적이고 가볍게 지나치시면 절대 안됩니다.</description><pubDate>Wed, 22 Apr 2026 15:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXcGRWMgZNI</guid></item><item><title>블로그 :
-https://qwen.ai/blog?id=qwen3.6-27b</title><link>https://www.threads.net/@choi.openai/post/DXcGSwjAShi</link><description>블로그 :
-https://qwen.ai/blog?id=qwen3.6-27b</description><pubDate>Wed, 22 Apr 2026 15:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXcGSwjAShi</guid></item><item><title>이제 무거운 게임 엔진을 켜지 않아도 스마트폰 브라우저에서 3D 캐릭터를 실시간으로 조작할 수 있습니다.
+오늘 공개된 'Privacy Filter'는 텍스트 안의 개인 식별 정보...</title><link>https://www.threads.net/@choi.openai/post/DXdEDrzjAl_</link><description>오픈AI가 갑자기 개인정보 보호용 오픈소스 모델을 무료로 풀었습니다.
 
-메타가 Unity 같은 기존 엔진에 ...</title><link>https://www.threads.net/@choi.openai/post/DXb8CoqjMsv</link><description>이제 무거운 게임 엔진을 켜지 않아도 스마트폰 브라우저에서 3D 캐릭터를 실시간으로 조작할 수 있습니다.
+오늘 공개된 'Privacy Filter'는 텍스트 안의 개인 식별 정보(PII)나 비밀번호, API 키 등을 문맥에 맞게 스스로 찾아 가려주는 AI입니다.
+해당 모델은 128K의 방대한 문서를 한 번에 처리하면서도, 외부 전송 없이 기업 내부망이나 개인 PC에서 단독으로 빠르게 동작하는데요.
 
-메타가 Unity 같은 기존 엔진에 의존하지 않고 오직 Python 기반으로 3D 캐릭터 애니메이션을 구현하는 프레임워크 'AI4AnimationPy'를 오픈소스로 공개했습니다.
+그동안 수많은 기업이 정보 유출을 우려해 AI 도입을 주저했습니다.
+오픈AI는 아예 "내부에서 알아서 민감 정보를 싹 지운 뒤, 안전한 데이터만 우리에게 보내라"며 최고 수준의 사전 검열 도구를 쥐여준 셈입니다.
 
-기존에는 캐릭터의 부드러운 움직임과 모션 캡처 데이터를 처리하기 위해 Unity)같은 무거운 엔진이 필수였습니다. 하지만 해당 프레임워크를 사용하면 PyTorch와 NumPy 같은 기본 AI 환경만으로 사람이나 동물의 정교한 모션을 제어할 수 있습니다.
+AI 생태계 확장의 가장 큰 장벽이었던 데이터 보안 문제마저 직접 해결하려는 의지와, 보수적인 엔터프라이즈 시장까지 남김없이 장악하려는 오픈AI의 치밀한 전략이 엿보입니다.</description><pubDate>Thu, 23 Apr 2026 00:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXdEDrzjAl_</guid></item><item><title>발표내용 :
+https://openai.com/index/introducing-openai-privacy-filter/</title><link>https://www.threads.net/@choi.openai/post/DXdEEdEjJw2</link><description>발표내용 :
+https://openai.com/index/introducing-openai-privacy-filter/</description><pubDate>Thu, 23 Apr 2026 00:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXdEEdEjJw2</guid></item><item><title>샤오미가 최상위 모델인 Claude Opus 4.6이나 GPT-5.4와 맞먹는 성능의 'MiMo-V2.5-Pro'를 공개했습니다.
 
-복잡한 과정을 덜어내어 PC는 물론 웹 브라우저나 스마트폰 환경에서도 가볍게 구동됩니다.
-파이썬 코드 몇 줄만으로 누구나 손쉽게 생동감 넘치는 가상 캐릭터를 다루는 생태계가 생각보다 훨씬 빨리 열리고 있습니다.</description><pubDate>Wed, 22 Apr 2026 14:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXb8CoqjMsv</guid></item><item><title>깃허브 :
-https://github.com/facebookresearch/ai4animationpy</title><link>https://www.threads.net/@choi.openai/post/DXb8DWrDI4u</link><description>깃허브 :
-https://github.com/facebookresearch/ai4animationpy</description><pubDate>Wed, 22 Apr 2026 14:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXb8DWrDI4u</guid></item><item><title>Codex의 자동화 기능은 특이점입니다.
-Codex의 "Computer Use"와 GPT Image 2를 묶으면, 알아서 뉴스 수집부터 카드뉴스...</title><link>https://www.threads.net/@choi.openai/post/DXb7QcRDOfO</link><description>Codex의 자동화 기능은 특이점입니다.
-Codex의 "Computer Use"와 GPT Image 2를 묶으면, 알아서 뉴스 수집부터 카드뉴스 제작, 배포까지 가능합니다.
+MiMo-V...</title><link>https://www.threads.net/@choi.openai/post/DXc50sXj66f</link><description>샤오미가 최상위 모델인 Claude Opus 4.6이나 GPT-5.4와 맞먹는 성능의 'MiMo-V2.5-Pro'를 공개했습니다.
 
-아직도 직접 버튼 누르고 있다면 이미 차이 벌어졌습니다.
-이미 제공되는 기능을 최대한 활용해보세요.</description><pubDate>Wed, 22 Apr 2026 13:55:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXb7QcRDOfO</guid></item><item><title>뭐가 생겼다.
-슬라이드 하면 돌아간다</title><link>https://www.threads.net/@choi.openai/post/DXb1d94DwSD</link><description>뭐가 생겼다.
-슬라이드 하면 돌아간다</description><pubDate>Wed, 22 Apr 2026 13:03:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXb1d94DwSD</guid></item></channel></rss>
+MiMo-V2.5-Pro는 비슷한 에이전트 벤치마크 점수를 기록하면서도 경쟁 모델인 Kimi K2.6 대비 토큰 사용량을 42%나 줄였습니다.
+
+함께 공개된 기본형 MiMo-V2.5 역시 100만 토큰의 문맥 창과 영상, 음성까지 이해하는 멀티모달 능력을 갖추고 절반 수준의 비용으로 동작합니다.
+
+뒤늦게 참여한 샤오미가 빠르게 치고 올라오는 모습은 인상 깊은 것 같습니다.</description><pubDate>Wed, 22 Apr 2026 23:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXc50sXj66f</guid></item><item><title>블로그 :
+https://mimo.xiaomi.com/mimo-v2-5-pro/</title><link>https://www.threads.net/@choi.openai/post/DXc51qjD97P</link><description>블로그 :
+https://mimo.xiaomi.com/mimo-v2-5-pro/</description><pubDate>Wed, 22 Apr 2026 23:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXc51qjD97P</guid></item><item><title>앤트로픽이 Claude Code에 '/ultrareview' 기능을 새롭게 추가했습니다.
+인증 로직이나 데이터 마이그레이션 같은 치명적인 코드를...</title><link>https://www.threads.net/@choi.openai/post/DXcve0aE6GN</link><description>앤트로픽이 Claude Code에 '/ultrareview' 기능을 새롭게 추가했습니다.
+인증 로직이나 데이터 마이그레이션 같은 치명적인 코드를 병합(Merge)하기 전, 클라우드에서 다수의 버그 탐지 에이전트를 동시에 실행해 코드를 리뷰하는 기능입니다.
+분석 결과는 CLI나 데스크톱 화면으로 곧바로 전달됩니다.
+
+일각에서는 기존 스킬(Skill) 기능으로도 충분했는데 비용만 높이는 것 아니냐는 불만도 나옵니다.
+하지만 앤트로픽이 직접 여러 에이전트를 동원한 검수 시스템을 내놓았다는 점은 꽤 중요해 보입니다.
+
+인간 동료가 일일이 코드를 들여다보던 리뷰 과정이 점차 클라우드 위에서 작동하는 멀티 에이전트의 자동화 영역으로 넘어가고 있는 모습입니다.
+해당 기능은 5월 5일까지 Pro 및 Max 구독자에게 3회 무료 제공됩니다.</description><pubDate>Wed, 22 Apr 2026 21:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXcve0aE6GN</guid></item></channel></rss>
