@@ -1,76 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 23 Apr 2026 09:28:43 +0000</lastBuildDate><item><title>와… 이제 프롬프트 한 번에 300명의 가상 직원이 동시에 출동하는 시대가 열렸습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 23 Apr 2026 16:24:55 +0000</lastBuildDate><item><title>이미지 생성 AI가 그림만 잘 그리는 게 아니었네요.
 
-문샷 AI(Moonshot AI)가 새로운 에이전트 군...</title><link>https://www.threads.net/@choi.openai/post/DXd8OwbgpMy</link><description>와… 이제 프롬프트 한 번에 300명의 가상 직원이 동시에 출동하는 시대가 열렸습니다.
+구글 딥마인드가 새로운 시각 모델 'Vision Banana'를 공개했습니다.
+기존 이미...</title><link>https://www.threads.net/@choi.openai/post/DXepmNFDLdn</link><description>이미지 생성 AI가 그림만 잘 그리는 게 아니었네요.
 
-문샷 AI(Moonshot AI)가 새로운 에이전트 군집 모델인 'Kimi K2.6 Agent Swarm'을 전격 공개했습니다.
-한 번의 실행으로 최대 300개의 에이전트가 4,000단계의 작업을 병렬로 수행합니다.
+구글 딥마인드가 새로운 시각 모델 'Vision Banana'를 공개했습니다.
+기존 이미지 생성 모델인 나노 바나나 프로에 소량의 데이터만 학습시켰는데, 깊이 측정이나 3D 표면 인식 같은 복잡한 비전 분석 작업까지 스스로 해냅니다.
 
-40개의 PDF를 던져주면 10만 단어 분량의 논문 리뷰와 데이터셋을 만들어내고, 100개의 채용 공고에 맞춘 100장의 맞춤형 이력서를 순식간에 만들어냅니다.
-검색, 코딩, 이미지 생성 등 각기 다른 특기를 가진 에이전트들이 알아서 역할을 분담하는 구조입니다.
+주목할 점은 모든 시각 분석을 텍스트 입력에 따른 '이미지 생성' 과정으로 풀어냈다는 것입니다. 맞춤형 도구를 따로 구축하지 않아도 기존 전문 AI들을 뛰어넘는 성능을 보여줍니다.
 
-수많은 AI가 협력해 거대한 프로젝트를 끝내는 군집 지능이 빠르게 실용화되고 있습니다. 
-다만, 많은 에이전트가 실행될 수록 비용은 상승하기에 토큰 관리와 워크플로우를 잘 만들어드는 것이 더욱 중요해질 것 같습니다.</description><pubDate>Thu, 23 Apr 2026 08:41:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXd8OwbgpMy</guid></item><item><title>주소 :
-https://www.kimi.com/agent-swarm?chat_enter_method=change_model</title><link>https://www.threads.net/@choi.openai/post/DXd8Q-RAstS</link><description>주소 :
-https://www.kimi.com/agent-swarm?chat_enter_method=change_model</description><pubDate>Thu, 23 Apr 2026 08:41:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXd8Q-RAstS</guid></item><item><title>최근 타임라인에 Codex에 칭찬이 늘어나는 것을 보면, 솔직히 조금 감격스러운 기분이 듭니다.
+뛰어난 이미지 생성 AI는 이미 세상의 물리적 구조를 깊이 이해하고 있다는 뜻입니다.
+앞으로 자율주행이나 로봇 공학에 쓰이는 복잡한 시각 분석 기술들이 생성형 AI 하나로 전부 통합되는 흐름을 만들어낼 것 같습니다.</description><pubDate>Thu, 23 Apr 2026 15:20:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXepmNFDLdn</guid></item><item><title>프로젝트 페이지 :
+https://vision-banana.github.io/</title><link>https://www.threads.net/@choi.openai/post/DXep7r1D0I2</link><description>프로젝트 페이지 :
+https://vision-banana.github.io/</description><pubDate>Thu, 23 Apr 2026 15:20:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXep7r1D0I2</guid></item><item><title>🚨 챗GPT에 네이티브 비디오 입력 지원 예정.
 
-무관심속에서 혼자서 Codex가 좋다고 외쳤던...</title><link>https://www.threads.net/@choi.openai/post/DXdx-LqDwmv</link><description>최근 타임라인에 Codex에 칭찬이 늘어나는 것을 보면, 솔직히 조금 감격스러운 기분이 듭니다.
+작년부터 테스트를 했던 것 같은데 신규모델과 함께 출시될 예정으로 보입니다.</title><link>https://www.threads.net/@choi.openai/post/DXeg7DpCam1</link><description>🚨 챗GPT에 네이티브 비디오 입력 지원 예정.
 
-무관심속에서 혼자서 Codex가 좋다고 외쳤던 시절이 떠오르는 것 같은데요.
-그때는 Claude Code의 존재감이 너무 강했고, 개발자 커뮤니티에서는 CLI 기반 에이전트 경험이 거의 표준처럼 받아들여지고 있었으니까요.
+작년부터 테스트를 했던 것 같은데 신규모델과 함께 출시될 예정으로 보입니다.</description><pubDate>Thu, 23 Apr 2026 14:02:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeg7DpCam1</guid></item><item><title>1년만에 정식 출시되는 기능이라 기대되네요!</title><link>https://www.threads.net/@choi.openai/post/DXehYYljwGY</link><description>1년만에 정식 출시되는 기능이라 기대되네요!</description><pubDate>Thu, 23 Apr 2026 14:05:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXehYYljwGY</guid></item><item><title>Canva에서 “Canva AI 2.0”을 공개했습니다.
+이번 업데이트에서는 Canva Design Model 기반으로 대화만으로 디자인을 만들...</title><link>https://www.threads.net/@choi.openai/post/DXeaMrDj9Gp</link><description>Canva에서 “Canva AI 2.0”을 공개했습니다.
+이번 업데이트에서는 Canva Design Model 기반으로 대화만으로 디자인을 만들고 수정까지 이어갈 수 있습니다.
+결과물은 레이어 구조로 생성돼 일부만 바꾸기도 쉽습니다.
+발표내용을 정리했습니다. 🧵</description><pubDate>Thu, 23 Apr 2026 13:02:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeaMrDj9Gp</guid></item><item><title>1/이제 빈 페이지를 쳐다보며 막막해할 필요가 없습니다.
 
-제가 Codex 앰버서더라서 무작정 방어하거나 칭찬했던 것이 아닙니다.
-오히려 앰버서더 가이드라인에서도 모델을 과장해서 홍보하지 말라고 명확히 말하고 있습니다.
-AI 제품은 유저가 직접 켜보고, 써보고, 자기 일상 안에서 효용을 체감할 때 비로소 살아남기 때문입니다.
+아이디어, 목표, 간단한 스케치, 심지어 정돈되지 않은 생각의 파편만 있어도 캔바 A...</title><link>https://www.threads.net/@choi.openai/post/DXeZRZCIKJw</link><description>1/이제 빈 페이지를 쳐다보며 막막해할 필요가 없습니다.
 
-제가 Codex의 방향성을 믿었던 이유는 AI는 극소수 기술자만 다루는 도구가 아니라, 누구나 바로 사용할 수 있는 완성된 제품이어야 한다고 보기 때문입니다.</description><pubDate>Thu, 23 Apr 2026 07:11:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXdx-LqDwmv</guid></item><item><title>물론 Claude Code는 정말 훌륭한 도구입니다.
-특히 개발자에게는 거의 축복에 가까운 제품이라고 생각합니다.
-설계능력, 프론트엔드 구현 능...</title><link>https://www.threads.net/@choi.openai/post/DXdx-shj9vq</link><description>물론 Claude Code는 정말 훌륭한 도구입니다.
-특히 개발자에게는 거의 축복에 가까운 제품이라고 생각합니다.
-설계능력, 프론트엔드 구현 능력, 디자인 감각, 기획서와 문서 작성 능력, 그리고 특유의 유려한 문장력은 여전히 강력합니다.
+아이디어, 목표, 간단한 스케치, 심지어 정돈되지 않은 생각의 파편만 있어도 캔바 AI와 대화하며 디자인을 시작할 수 있습니다.
 
-저도 Claude가 잘하는 영역은 분명히 인정하고 있습니다.
+AI가 첫 결과물부터 완벽한 레이아웃과 계층 구조, 브랜드 가이드라인을 적용해 주며, 대화의 맥락을 계속 유지하기 때문에 "이 부분은 좀 더 활기차게 바꿔줘" 식으로 끊임없이 다듬고 발전시킬 수 있습니다.</description><pubDate>Thu, 23 Apr 2026 13:03:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeZRZCIKJw</guid></item><item><title>2/ 기존 이미지 생성 AI의 가장 큰 한계는 생성된 결과물이 수정 불가능한 '통짜 평면 이미지'라는 점이었습니다.
 
-다만 비개발자 입장에서 CLI는 여전히 통곡의 벽입니다.
-터미널을 열고, 명령어를 치고, 권한을 설정하고, 에러 로그를 읽고, 컨텍스트를 관리하고, 직접 하네스를 구성해야 한다면 그건 아직 대중적인 제품이 아닙니다.
-성능이 아무리 좋아도 “이거 쓰려면 터미널부터 공부하세요”라고 말하는 순간, 대부분의 사람들은 이미 밖으로 밀려납니다.
+캔바 AI 2.0이 생성하...</title><link>https://www.threads.net/@choi.openai/post/DXeZVotlP_P</link><description>2/ 기존 이미지 생성 AI의 가장 큰 한계는 생성된 결과물이 수정 불가능한 '통짜 평면 이미지'라는 점이었습니다.
 
-대중에게 CLI를 던져주는 건, 리눅스가 성능 좋고 커스터마이징 자유로우니 터미널 명령어부터 배워서 알아서 쓰라고 말하는 것과 비슷합니다.</description><pubDate>Thu, 23 Apr 2026 07:11:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXdx-shj9vq</guid></item><item><title>좋은 제품은 사용자가 복잡한 환경 설정을 통과해야만 쓸 수 있는 것이 아닙니다.
-켜는 순간 무엇을 해야 하는지 이해되고, 첫 번째 결과물을 빠르...</title><link>https://www.threads.net/@choi.openai/post/DXdx_K0DyUA</link><description>좋은 제품은 사용자가 복잡한 환경 설정을 통과해야만 쓸 수 있는 것이 아닙니다.
-켜는 순간 무엇을 해야 하는지 이해되고, 첫 번째 결과물을 빠르게 만들 수 있어야 합니다. 
-강력한 하네스, 검증 루프, 안전망, 파일 관리, 병렬 작업, 권한 제어 같은 것들은 제품 내부에 기본 통합되어 있어야 합니다.
+캔바 AI 2.0이 생성하는 모든 결과물은 완전히 분리된 개별 레이어(Fully layered, editable output)로 이루어집니다.
 
-사용자가 직접 그 모든 것을 조립해야 한다면, 그건 아직 제품이라기보다 강력한 개발 키트에 가깝습니다.
+폰트를 바꾸고 싶거나, 배경 이미지 하나만 교체하고 싶을 때 다른 요소들은 전혀 건드리지 않고 원하는 부분만 핀포인트로 수정할 수 있는 진정한 '디자인'이 가능해졌습니다.</description><pubDate>Thu, 23 Apr 2026 13:03:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeZVotlP_P</guid></item><item><title>3/ 작업을 할수록 AI는 당신의 취향과 브랜드 스타일을 완벽하게 학습합니다.
 
-이 지점에서 Codex의 방향성이 중요하다고 봅니다.
-Codex는 AI 에이전트를 실제 작업 환경 안으로 끌어들이는 제품 레이어를 지향하고 있습니다.
-오픈AI가 Codex 데스크톱 앱을 “에이전트를 위한 커맨드 센터”로 설명한 것도 이 흐름과 맞닿아 있습니다.</description><pubDate>Thu, 23 Apr 2026 07:11:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXdx_K0DyUA</guid></item><item><title>앞으로 중요한 것은 “AI가 얼마나 똑똑한가”보다 “사람이 그 똑똑함을 얼마나 쉽게 지휘할 수 있는가”입니다.
-여러 에이전트를 병렬로 돌리고, ...</title><link>https://www.threads.net/@choi.openai/post/DXdx_rMj-wH</link><description>앞으로 중요한 것은 “AI가 얼마나 똑똑한가”보다 “사람이 그 똑똑함을 얼마나 쉽게 지휘할 수 있는가”입니다.
-여러 에이전트를 병렬로 돌리고, 작업을 나누고, 변경 사항을 검토하고, 필요하면 직접 개입하고, 다시 맡기는 경험이 자연스러워져야 합니다.
-기존 IDE나 터미널은 이 새로운 작업 방식에 최적화된 인터페이스가 아닙니다.
+'메모리 라이브러리(Memory Library)' 기능을 통해 ...</title><link>https://www.threads.net/@choi.openai/post/DXeZZFwDwpa</link><description>3/ 작업을 할수록 AI는 당신의 취향과 브랜드 스타일을 완벽하게 학습합니다.
 
-그래서 저는 Codex의 GUI 방향성이 AI 대중화의 핵심 조건이라고 봅니다.
+'메모리 라이브러리(Memory Library)' 기능을 통해 AI는 사용자가 주로 쓰는 폰트, 선호하는 색상 배치, 작업 방식을 기억하고 다음 작업에 자동으로 적용해 줍니다.
 
-물론 Claude Code가 시장에서 엄청난 찬사를 받은 이유도 분명합니다.
-Claude는 설계와 글을 정말 잘합니다.
-기획서, 법률, 문서, 프론트엔드 UI, 마케팅 카피처럼 “결과물의 인상”이 중요한 작업에서 여전히 강합니다. 비개발자 입장에서도 Claude의 산출물은 바로 효용을 느끼기 쉽습니다.
+또한 '브랜드 인텔리전스(Brand Intelligence)'를 통해 기존에 만들어둔 수많은 디자인들에 최신 브랜드 가이드라인을 클릭 한 번에 일괄 적용도 가능해졌습니다.</description><pubDate>Thu, 23 Apr 2026 13:03:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeZZFwDwpa</guid></item><item><title>중국의 유명 개발자 유튜버 화슈(Huashu)가 'Claude Design'을 역설계한 'Huashu Design'을 GitHub에 무료 오픈소...</title><link>https://www.threads.net/@choi.openai/post/DXeTAltgs1D</link><description>중국의 유명 개발자 유튜버 화슈(Huashu)가 'Claude Design'을 역설계한 'Huashu Design'을 GitHub에 무료 오픈소스로 공개했습니다.
 
-반대로 Codex와 ChatGPT 생태계에는 여전히 아픈 약점이 있습니다.</description><pubDate>Thu, 23 Apr 2026 07:11:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXdx_rMj-wH</guid></item><item><title>앤트로픽의 '가격 몰래 올리기' 테스트 정황이 또 포착되며 논란이 커지고 있습니다.
+Claude Design은 훌륭한 디자인 툴이지만 너무 많은 용량을 소모한다는 단점이 있었는데요.
 
-최근 Claude Code를 슬쩍 빼버리는 A/B 테스트로...</title><link>https://www.threads.net/@choi.openai/post/DXdtVb5AFn5</link><description>앤트로픽의 '가격 몰래 올리기' 테스트 정황이 또 포착되며 논란이 커지고 있습니다.
+이번에 공개된 스킬은 AI 에이전트에 설치하면, 지시 한 번에 클릭 가능한 앱 프로토타입부터 편집 가능한 PPTX, 애니메이션까지 단 몇 분 만에 만들어냅니다.
 
-최근 Claude Code를 슬쩍 빼버리는 A/B 테스트로 논란의 중심이 되었던 앤트로픽이, 과거 일부 사용자를 대상으로 요금제를 기존의 두 배인 월 30유로(약 5만 원)로 표시하는 테스트도 진행했던 것으로 보입니다.
-
-최고의 개발 도구로 꼽히던 Claude Code를 인질 삼아 은근슬쩍 수익을 극대화하려는 속내가 연이어 노출되자, 개발자 커뮤니티는 "신뢰를 완전히 저버린 꼼수"라며 들끓고 있습니다.
-
-수익화 압박에 시달리는 AI 기업들의 고충은 이해하지만, 노골적이고 거친 방식의 가격 테스트가 오히려 충성 고객들의 대거 이탈을 부르고 있습니다.</description><pubDate>Thu, 23 Apr 2026 06:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXdtVb5AFn5</guid></item><item><title>앤트로픽이 다른 회사의 AI 모델을 사용할 수 있는 서드파티 연동 기능의 출시를 준비중인 것으로 보입니다.
-
-Claude Desktop 앱의 '...</title><link>https://www.threads.net/@choi.openai/post/DXdjCLOEtaZ</link><description>앤트로픽이 다른 회사의 AI 모델을 사용할 수 있는 서드파티 연동 기능의 출시를 준비중인 것으로 보입니다.
-
-Claude Desktop 앱의 'Cowork'와 'Claude Code' 환경에서 다른 회사의 AI 모델을 사용할 수 있는 서드파티 연동 기능이 포착되었습니다.
-이제 LiteLLM 프록시 등을 이용하면 개인 PC에 구축한 로컬 모델이나 OpenRouter에 있는 다양한 AI를 Claude 인터페이스 안에서 그대로 쓸 수 있을 것으로 보이는데요.
-이와 동시에 아마존웹서비스(AWS) 베드록(Bedrock)에서도 기업이 자체 클라우드 환경 내에서 Cowork를 구동할 수 있는 프리뷰가 공개되었습니다.
-
-여기서 주목할 부분은 앤트로픽의 전략 변화입니다.
-자사 모델 사용만 강제하는 대신, 모델과 작업 환경(Harness)을 분리해 버렸습니다.
-즉 "어떤 AI 모델을 쓰든 상관없으니, 업무는 무조건 Claude 플랫폼 안에서 하라"는 생태계 장악 시도로 보입니다.</description><pubDate>Thu, 23 Apr 2026 05:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXdjCLOEtaZ</guid></item></channel></rss>
+특정 서비스에 종속되어 있던 강력한 기능이 오픈소스로 풀리면서, 누구나 자신의 에이전트에 최상급 디자인 능력을 이식할 수 있게 되었습니다.</description><pubDate>Thu, 23 Apr 2026 12:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeTAltgs1D</guid></item><item><title>깃허브 :
+https://github.com/alchaincyf/huashu-design</title><link>https://www.threads.net/@choi.openai/post/DXeTCzoAmad</link><description>깃허브 :
+https://github.com/alchaincyf/huashu-design</description><pubDate>Thu, 23 Apr 2026 12:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeTCzoAmad</guid></item></channel></rss>
