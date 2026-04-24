@@ -1,49 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 23 Apr 2026 16:24:55 +0000</lastBuildDate><item><title>이미지 생성 AI가 그림만 잘 그리는 게 아니었네요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 24 Apr 2026 02:39:15 +0000</lastBuildDate><item><title>Claude, 갑자기 멍청해졌다는 말 괜한 게 아니었습니다.
+유저들 체감 문제였는데,
+결국 앤트로픽이 기본 설정 변경·버그·프롬프트까지 겹친 이...</title><link>https://www.threads.net/@choi.openai/post/DXfzKvJErSb</link><description>Claude, 갑자기 멍청해졌다는 말 괜한 게 아니었습니다.
+유저들 체감 문제였는데,
+결국 앤트로픽이 기본 설정 변경·버그·프롬프트까지 겹친 이슈로 확인됐습니다.
+한 달 동안 계속 논쟁 터졌던 이유, 정리했습니다🧵</description><pubDate>Fri, 24 Apr 2026 02:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfzKvJErSb</guid></item><item><title>1/ 3월 초부터 클로드 코드(Opus 4.6)의 성능이 눈에 띄게 하락했다는 사용자들의 보고가 이어졌습니다.
 
-구글 딥마인드가 새로운 시각 모델 'Vision Banana'를 공개했습니다.
-기존 이미...</title><link>https://www.threads.net/@choi.openai/post/DXepmNFDLdn</link><description>이미지 생성 AI가 그림만 잘 그리는 게 아니었네요.
+초기에 개발사인 앤트로픽은 이를...</title><link>https://www.threads.net/@choi.openai/post/DXfzLocEh1Q</link><description>1/ 3월 초부터 클로드 코드(Opus 4.6)의 성능이 눈에 띄게 하락했다는 사용자들의 보고가 이어졌습니다.
 
-구글 딥마인드가 새로운 시각 모델 'Vision Banana'를 공개했습니다.
-기존 이미지 생성 모델인 나노 바나나 프로에 소량의 데이터만 학습시켰는데, 깊이 측정이나 3D 표면 인식 같은 복잡한 비전 분석 작업까지 스스로 해냅니다.
+초기에 개발사인 앤트로픽은 이를 일반적인 피드백의 변동으로 치부하며 즉각적으로 대응하지 않아 사용자들의 원성을 샀습니다.
 
-주목할 점은 모든 시각 분석을 텍스트 입력에 따른 '이미지 생성' 과정으로 풀어냈다는 것입니다. 맞춤형 도구를 따로 구축하지 않아도 기존 전문 AI들을 뛰어넘는 성능을 보여줍니다.
+커뮤니티에서는 컴퓨팅 자원 부족으로 인해 모델 성능을 의도적으로 낮춘 것이 아니냐는 의혹이 제기되었으며, 투명하지 않은 운영 정책에 대한 비판이 거세졌습니다.
 
-뛰어난 이미지 생성 AI는 이미 세상의 물리적 구조를 깊이 이해하고 있다는 뜻입니다.
-앞으로 자율주행이나 로봇 공학에 쓰이는 복잡한 시각 분석 기술들이 생성형 AI 하나로 전부 통합되는 흐름을 만들어낼 것 같습니다.</description><pubDate>Thu, 23 Apr 2026 15:20:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXepmNFDLdn</guid></item><item><title>프로젝트 페이지 :
-https://vision-banana.github.io/</title><link>https://www.threads.net/@choi.openai/post/DXep7r1D0I2</link><description>프로젝트 페이지 :
-https://vision-banana.github.io/</description><pubDate>Thu, 23 Apr 2026 15:20:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXep7r1D0I2</guid></item><item><title>🚨 챗GPT에 네이티브 비디오 입력 지원 예정.
+지속적인 성능 불만과 가스라이팅 논란이 겹치면서 제품에 대한 신뢰도가 크게 하락하는 계기가 되었습니다.</description><pubDate>Fri, 24 Apr 2026 02:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfzLocEh1Q</guid></item><item><title>2/ 성능 저하의 첫 번째 원인은 3월 4일에 적용된 기본 추론 수준(Effort level) 변경이었습니다.
 
-작년부터 테스트를 했던 것 같은데 신규모델과 함께 출시될 예정으로 보입니다.</title><link>https://www.threads.net/@choi.openai/post/DXeg7DpCam1</link><description>🚨 챗GPT에 네이티브 비디오 입력 지원 예정.
+앤트로픽은 Opus 4.6 환경...</title><link>https://www.threads.net/@choi.openai/post/DXfzM2KEqMT</link><description>2/ 성능 저하의 첫 번째 원인은 3월 4일에 적용된 기본 추론 수준(Effort level) 변경이었습니다.
 
-작년부터 테스트를 했던 것 같은데 신규모델과 함께 출시될 예정으로 보입니다.</description><pubDate>Thu, 23 Apr 2026 14:02:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeg7DpCam1</guid></item><item><title>1년만에 정식 출시되는 기능이라 기대되네요!</title><link>https://www.threads.net/@choi.openai/post/DXehYYljwGY</link><description>1년만에 정식 출시되는 기능이라 기대되네요!</description><pubDate>Thu, 23 Apr 2026 14:05:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXehYYljwGY</guid></item><item><title>Canva에서 “Canva AI 2.0”을 공개했습니다.
-이번 업데이트에서는 Canva Design Model 기반으로 대화만으로 디자인을 만들...</title><link>https://www.threads.net/@choi.openai/post/DXeaMrDj9Gp</link><description>Canva에서 “Canva AI 2.0”을 공개했습니다.
-이번 업데이트에서는 Canva Design Model 기반으로 대화만으로 디자인을 만들고 수정까지 이어갈 수 있습니다.
-결과물은 레이어 구조로 생성돼 일부만 바꾸기도 쉽습니다.
-발표내용을 정리했습니다. 🧵</description><pubDate>Thu, 23 Apr 2026 13:02:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeaMrDj9Gp</guid></item><item><title>1/이제 빈 페이지를 쳐다보며 막막해할 필요가 없습니다.
+앤트로픽은 Opus 4.6 환경에서 UI가 멈추는 듯한 심각한 지연 현상을 해결하고자, 기본 추론 수준을 'High'에서 'Medium'으로 낮추었습니다.
 
-아이디어, 목표, 간단한 스케치, 심지어 정돈되지 않은 생각의 파편만 있어도 캔바 A...</title><link>https://www.threads.net/@choi.openai/post/DXeZRZCIKJw</link><description>1/이제 빈 페이지를 쳐다보며 막막해할 필요가 없습니다.
+이 조치는 응답 속도를 높이고 사용량 한도 초과를 방지하려는 목적이었으나, 결과적으로 모델의 문제 해결 지능을 크게 떨어뜨리는 잘못된 선택이 되었습니다.
 
-아이디어, 목표, 간단한 스케치, 심지어 정돈되지 않은 생각의 파편만 있어도 캔바 AI와 대화하며 디자인을 시작할 수 있습니다.
+사용자 피드백을 수용한 앤스로픽은 4월 7일, 복잡한 작업에 더 적합하도록 Opus 4.7은 'xhigh', 다른 모델은 'high'로 기본값을 원상 복구했습니다.</description><pubDate>Fri, 24 Apr 2026 02:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfzM2KEqMT</guid></item><item><title>3/ 두 번째 원인은 3월 26일에 도입된 프롬프트 캐시 최적화 과정에서 발생한 치명적인 버그입니다.
 
-AI가 첫 결과물부터 완벽한 레이아웃과 계층 구조, 브랜드 가이드라인을 적용해 주며, 대화의 맥락을 계속 유지하기 때문에 "이 부분은 좀 더 활기차게 바꿔줘" 식으로 끊임없이 다듬고 발전시킬 수 있습니다.</description><pubDate>Thu, 23 Apr 2026 13:03:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeZRZCIKJw</guid></item><item><title>2/ 기존 이미지 생성 AI의 가장 큰 한계는 생성된 결과물이 수정 불가능한 '통짜 평면 이미지'라는 점이었습니다.
+본래 유휴 상태가 1시간 이상 지속된 세...</title><link>https://www.threads.net/@choi.openai/post/DXfzOMPEvCa</link><description>3/ 두 번째 원인은 3월 26일에 도입된 프롬프트 캐시 최적화 과정에서 발생한 치명적인 버그입니다.
 
-캔바 AI 2.0이 생성하...</title><link>https://www.threads.net/@choi.openai/post/DXeZVotlP_P</link><description>2/ 기존 이미지 생성 AI의 가장 큰 한계는 생성된 결과물이 수정 불가능한 '통짜 평면 이미지'라는 점이었습니다.
+본래 유휴 상태가 1시간 이상 지속된 세션에서 비용 절감을 위해 오래된 추론 기록을 한 번만 삭제하려던 의도였습니다.
 
-캔바 AI 2.0이 생성하는 모든 결과물은 완전히 분리된 개별 레이어(Fully layered, editable output)로 이루어집니다.
+그러나 코딩 오류로 인해 이후의 모든 턴마다 추론 기록이 지속적으로 삭제되는 문제가 발생했습니다.
 
-폰트를 바꾸고 싶거나, 배경 이미지 하나만 교체하고 싶을 때 다른 요소들은 전혀 건드리지 않고 원하는 부분만 핀포인트로 수정할 수 있는 진정한 '디자인'이 가능해졌습니다.</description><pubDate>Thu, 23 Apr 2026 13:03:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeZVotlP_P</guid></item><item><title>3/ 작업을 할수록 AI는 당신의 취향과 브랜드 스타일을 완벽하게 학습합니다.
+이로 인해 클로드는 자신이 이전 단계에서 어떤 도구를 왜 사용했는지 기억하지 못하고 반복적인 행동을 보였으며, 캐시 미스가 계속 발생해 사용자들의 한도(Usage limit)가 비정상적으로 빠르게 소진되었습니다. 이 버그는 4월 10일에 수정되었습니다.</description><pubDate>Fri, 24 Apr 2026 02:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfzOMPEvCa</guid></item><item><title>GPT-5.5 성능, 다시 1위 찍었습니다.
+코딩, 에이전트, 벤치마크, 비용 효율까지 대부분의 실전 업무에서 큰 개선이 확인됐습니다.
+특히 “...</title><link>https://www.threads.net/@choi.openai/post/DXflamnD_Tl</link><description>GPT-5.5 성능, 다시 1위 찍었습니다.
+코딩, 에이전트, 벤치마크, 비용 효율까지 대부분의 실전 업무에서 큰 개선이 확인됐습니다.
+특히 “속이거나 꼼수 쓰지 않고도 이긴 AI”라는 점이 중요합니다.
+놓치면 안 될 변화 사례 13가지를 정리했습니다🧵</description><pubDate>Fri, 24 Apr 2026 00:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXflamnD_Tl</guid></item><item><title>1/ GPT-5.5는 주요 AI 벤치마크에서 다시 1위를 탈환하며 종합 지능의 진화를 보여주었습니다.
 
-'메모리 라이브러리(Memory Library)' 기능을 통해 ...</title><link>https://www.threads.net/@choi.openai/post/DXeZZFwDwpa</link><description>3/ 작업을 할수록 AI는 당신의 취향과 브랜드 스타일을 완벽하게 학습합니다.
+Artificial Analysis 인텔...</title><link>https://www.threads.net/@choi.openai/post/DXflbY3j1jZ</link><description>1/ GPT-5.5는 주요 AI 벤치마크에서 다시 1위를 탈환하며 종합 지능의 진화를 보여주었습니다.
 
-'메모리 라이브러리(Memory Library)' 기능을 통해 AI는 사용자가 주로 쓰는 폰트, 선호하는 색상 배치, 작업 방식을 기억하고 다음 작업에 자동으로 적용해 줍니다.
+Artificial Analysis 인텔리전스 인덱스에서 앤스로픽과 구글을 3점 차이로 제치고 1위에 올랐으며, 실물 경제 가치 창출을 평가하는 GDPval-AA(Elo 1785)와 APEX-Agents-AA에서도 선두를 기록했습니다.
 
-또한 '브랜드 인텔리전스(Brand Intelligence)'를 통해 기존에 만들어둔 수많은 디자인들에 최신 브랜드 가이드라인을 클릭 한 번에 일괄 적용도 가능해졌습니다.</description><pubDate>Thu, 23 Apr 2026 13:03:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeZZFwDwpa</guid></item><item><title>중국의 유명 개발자 유튜버 화슈(Huashu)가 'Claude Design'을 역설계한 'Huashu Design'을 GitHub에 무료 오픈소...</title><link>https://www.threads.net/@choi.openai/post/DXeTAltgs1D</link><description>중국의 유명 개발자 유튜버 화슈(Huashu)가 'Claude Design'을 역설계한 'Huashu Design'을 GitHub에 무료 오픈소스로 공개했습니다.
+또한 Vals AI 평가에서 전체 2위(SWE-Bench 83%)를 달성하고, 터미널 제어를 평가하는 Terminal-Bench 2.0에서 82.7%를 기록했습니다.
 
-Claude Design은 훌륭한 디자인 툴이지만 너무 많은 용량을 소모한다는 단점이 있었는데요.
+커뮤니티와 분석가들은 오픈AI가 다시 확실한 1위 자리를 되찾았다는 평가를 내리고 있으며, 특히 복잡한 에이전트 워크플로우와 실무 적용 능력에서 타 모델들과 유의미한 격차를 만들어냈다는 점에 주목하며 환호하고 있습니다.</description><pubDate>Fri, 24 Apr 2026 00:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXflbY3j1jZ</guid></item><item><title>2/ 경제 시뮬레이션 평가인 Vending-Bench 멀티플레이어 테스트 결과는 매우 흥미로운 시사점을 제공합니다.
 
-이번에 공개된 스킬은 AI 에이전트에 설치하면, 지시 한 번에 클릭 가능한 앱 프로토타입부터 편집 가능한 PPTX, 애니메이션까지 단 몇 분 만에 만들어냅니다.
+기존 평가에서 높은 점수를...</title><link>https://www.threads.net/@choi.openai/post/DXflcZNj7GA</link><description>2/ 경제 시뮬레이션 평가인 Vending-Bench 멀티플레이어 테스트 결과는 매우 흥미로운 시사점을 제공합니다.
 
-특정 서비스에 종속되어 있던 강력한 기능이 오픈소스로 풀리면서, 누구나 자신의 에이전트에 최상급 디자인 능력을 이식할 수 있게 되었습니다.</description><pubDate>Thu, 23 Apr 2026 12:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeTAltgs1D</guid></item><item><title>깃허브 :
-https://github.com/alchaincyf/huashu-design</title><link>https://www.threads.net/@choi.openai/post/DXeTCzoAmad</link><description>깃허브 :
-https://github.com/alchaincyf/huashu-design</description><pubDate>Thu, 23 Apr 2026 12:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXeTCzoAmad</guid></item></channel></rss>
+기존 평가에서 높은 점수를 받았던 Claude Opus 4.6과 4.7은 공급업체에 거짓말을 하거나 고객의 환불을 거절하는 등 기만적인 전술(Deception)을 활용하여 이익을 챙겼습니다.
+
+반면 GPT-5.5는 이러한 속임수나 권력 추구 성향 없이 정직하게 환불을 처리하고 협상하면서도 경쟁에서 승리하며 더 나은 결과를 얻었습니다.
+
+이를 두고 "능력과 도덕성(Alignment)이 동시에 발전할 수 있음을 보여준 실제 사례"라며 매우 긍정적으로 반응하고 있습니다.
+
+높은 성능을 달성하기 위해 반드시 비윤리적인 행동 방식이 필요한 것은 아니라는 점을 증명했다는 평가를 받습니다.
+
+https://andonlabs.com/blog/openai-gpt-5-5-vending-bench</description><pubDate>Fri, 24 Apr 2026 00:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXflcZNj7GA</guid></item><item><title>3/ 추론 능력을 집중적으로 평가하는 ARC-AGI-2 벤치마크에서 GPT-5.5 Pro 모델은 84.6%(High), 일반 GPT-5.5는 8...</title><link>https://www.threads.net/@choi.openai/post/DXfldjCjymW</link><description>3/ 추론 능력을 집중적으로 평가하는 ARC-AGI-2 벤치마크에서 GPT-5.5 Pro 모델은 84.6%(High), 일반 GPT-5.5는 85.0%(Max)를 기록하며 새로운 최고 성능(SOTA)을 달성했습니다.
+
+이는 기존의 Gemini Deep Think 모델을 능가하는 성과이며, 비용 측면에서도 훨씬 저렴하게 구현되었습니다.
+
+개발자들은 복잡한 아키텍처 설계 질문에 대해 일관되고 만족스러운 계획을 제시한다고 평가하며 실무 코딩 모델로서의 우수성을 인정했습니다.
+
+다만, 일각에서는 벤치마크 점수를 높이기 위한 맞춤형 최적화(Benchmaxxing)가 아니냐는 비판적인 시각도 존재하며, ARC-AGI-3와 같은 더 어려운 후속 평가에서의 검증이 필요하다는 신중한 반응도 이어지고 있습니다.</description><pubDate>Fri, 24 Apr 2026 00:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfldjCjymW</guid></item><item><title>와.. 이거 무조건 유행합니다.
+진짜 GPT 이미지 활용 이렇게까지 가능합니다.
+지금 당장 챗GPT한테 다음과 같이 요청해보세요.
+
+"지금까지 ...</title><link>https://www.threads.net/@choi.openai/post/DXfXyQOCJDk</link><description>와.. 이거 무조건 유행합니다.
+진짜 GPT 이미지 활용 이렇게까지 가능합니다.
+지금 당장 챗GPT한테 다음과 같이 요청해보세요.
+
+"지금까지 나와의 대화 내역을 기반으로 나의 사주 보고서를 이미지로 만들어줘."
+
+이외에도 활용할 수 있는 재미있는 모음을 정리했습니다 🧵</description><pubDate>Thu, 23 Apr 2026 22:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfXyQOCJDk</guid></item><item><title>1/ "내 사진을 보고 나의 퍼스널컬러 보고서를 이미지로 만들어줘."</title><link>https://www.threads.net/@choi.openai/post/DXfX1v5CMxf</link><description>1/ "내 사진을 보고 나의 퍼스널컬러 보고서를 이미지로 만들어줘."</description><pubDate>Thu, 23 Apr 2026 22:01:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfX1v5CMxf</guid></item><item><title>2/ "내 사진을 보고 나의 헤어 스타일 추천서를 이미지로 만들어줘."</title><link>https://www.threads.net/@choi.openai/post/DXfX60ZiMDn</link><description>2/ "내 사진을 보고 나의 헤어 스타일 추천서를 이미지로 만들어줘."</description><pubDate>Thu, 23 Apr 2026 22:02:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfX60ZiMDn</guid></item><item><title>3/ "지금까지 나와의 대화 내역을 기반으로 나의 MBTI 보고서를 이미지로 만들어줘."</title><link>https://www.threads.net/@choi.openai/post/DXfX_EoiIx2</link><description>3/ "지금까지 나와의 대화 내역을 기반으로 나의 MBTI 보고서를 이미지로 만들어줘."</description><pubDate>Thu, 23 Apr 2026 22:02:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfX_EoiIx2</guid></item><item><title>이번 GPT 5.5에 얼리엑세스로 참여했었습니다.
+아래 글에 참여하면서 느낀점과 GPT 5.5에 대한 정보를 정리해두었으니 확인해보세요!</title><link>https://www.threads.net/@choi.openai/post/DXe_6WwD0id</link><description>이번 GPT 5.5에 얼리엑세스로 참여했었습니다.
+아래 글에 참여하면서 느낀점과 GPT 5.5에 대한 정보를 정리해두었으니 확인해보세요!</description><pubDate>Thu, 23 Apr 2026 18:32:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXe_6WwD0id</guid></item></channel></rss>
