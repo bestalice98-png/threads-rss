@@ -1,74 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 24 Apr 2026 02:39:15 +0000</lastBuildDate><item><title>Claude, 갑자기 멍청해졌다는 말 괜한 게 아니었습니다.
-유저들 체감 문제였는데,
-결국 앤트로픽이 기본 설정 변경·버그·프롬프트까지 겹친 이...</title><link>https://www.threads.net/@choi.openai/post/DXfzKvJErSb</link><description>Claude, 갑자기 멍청해졌다는 말 괜한 게 아니었습니다.
-유저들 체감 문제였는데,
-결국 앤트로픽이 기본 설정 변경·버그·프롬프트까지 겹친 이슈로 확인됐습니다.
-한 달 동안 계속 논쟁 터졌던 이유, 정리했습니다🧵</description><pubDate>Fri, 24 Apr 2026 02:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfzKvJErSb</guid></item><item><title>1/ 3월 초부터 클로드 코드(Opus 4.6)의 성능이 눈에 띄게 하락했다는 사용자들의 보고가 이어졌습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 24 Apr 2026 09:45:11 +0000</lastBuildDate><item><title>앤트로픽의 Claude Code에 CLI나 Routines UI에서 일회성 작업을 예약할 수 있는 /schedule 기능이 새롭게 추가되었습니다...</title><link>https://www.threads.net/@choi.openai/post/DXgmunwjtbc</link><description>앤트로픽의 Claude Code에 CLI나 Routines UI에서 일회성 작업을 예약할 수 있는 /schedule 기능이 새롭게 추가되었습니다.
 
-초기에 개발사인 앤트로픽은 이를...</title><link>https://www.threads.net/@choi.openai/post/DXfzLocEh1Q</link><description>1/ 3월 초부터 클로드 코드(Opus 4.6)의 성능이 눈에 띄게 하락했다는 사용자들의 보고가 이어졌습니다.
+"1주일 뒤에 이 피처 플래그 정리해줘"나 "이틀 뒤에 출시 보고서 작성해줘"처럼 자연어로 지시하면, 지정된 시간에 에이전트가 알아서 작업을 수행합니다.</description><pubDate>Fri, 24 Apr 2026 09:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXgmunwjtbc</guid></item><item><title>관련 내용 :
+https://code.claude.com/docs/en/routines#schedule-a-one-off-run</title><link>https://www.threads.net/@choi.openai/post/DXgmvfgjgs3</link><description>관련 내용 :
+https://code.claude.com/docs/en/routines#schedule-a-one-off-run</description><pubDate>Fri, 24 Apr 2026 09:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXgmvfgjgs3</guid></item><item><title>샤오미 MiMo가 에이전트 환경에 특화된 'MiMo-V2.5 Voice' 라인업을 새롭게 공개했습니다.
 
-초기에 개발사인 앤트로픽은 이를 일반적인 피드백의 변동으로 치부하며 즉각적으로 대응하지 않아 사용자들의 원성을 샀습니다.
+해당 모델은 대본에 감정 지시어를 넣으...</title><link>https://www.threads.net/@choi.openai/post/DXgcavdAq8-</link><description>샤오미 MiMo가 에이전트 환경에 특화된 'MiMo-V2.5 Voice' 라인업을 새롭게 공개했습니다.
 
-커뮤니티에서는 컴퓨팅 자원 부족으로 인해 모델 성능을 의도적으로 낮춘 것이 아니냐는 의혹이 제기되었으며, 투명하지 않은 운영 정책에 대한 비판이 거세졌습니다.
+해당 모델은 대본에 감정 지시어를 넣으면 문장 중간에 울먹이거나 화내는 톤을 자연스럽게 소화합니다.
 
-지속적인 성능 불만과 가스라이팅 논란이 겹치면서 제품에 대한 신뢰도가 크게 하락하는 계기가 되었습니다.</description><pubDate>Fri, 24 Apr 2026 02:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfzLocEh1Q</guid></item><item><title>2/ 성능 저하의 첫 번째 원인은 3월 4일에 적용된 기본 추론 수준(Effort level) 변경이었습니다.
+짧은 글 묘사만으로 세상에 없던 캐릭터의 목소리를 만들고, 단 몇 초의 샘플로 특정인의 숨소리와 말버릇까지 그대로 복제해 냅니다
 
-앤트로픽은 Opus 4.6 환경...</title><link>https://www.threads.net/@choi.openai/post/DXfzM2KEqMT</link><description>2/ 성능 저하의 첫 번째 원인은 3월 4일에 적용된 기본 추론 수준(Effort level) 변경이었습니다.
+여기에 배경 소음과 강한 억양까지 정확히 파악하는 오픈소스 음성 인식(ASR) 모델도 함께 풀렸습니다.</description><pubDate>Fri, 24 Apr 2026 08:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXgcavdAq8-</guid></item><item><title>허깅페이스 :
+https://huggingface.co/XiaomiMiMo/MiMo-V2.5-ASR</title><link>https://www.threads.net/@choi.openai/post/DXgcc2igr9F</link><description>허깅페이스 :
+https://huggingface.co/XiaomiMiMo/MiMo-V2.5-ASR</description><pubDate>Fri, 24 Apr 2026 08:01:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXgcc2igr9F</guid></item><item><title>이제 고객 센터 업무의 70%가 AI로 완벽히 대체되는 수준에 도달했습니다.
 
-앤트로픽은 Opus 4.6 환경에서 UI가 멈추는 듯한 심각한 지연 현상을 해결하고자, 기본 추론 수준을 'High'에서 'Medium'으로 낮추었습니다.
+xAI가 복잡한 다단계 음성 업무에 특화된 'Grok Voice ...</title><link>https://www.threads.net/@choi.openai/post/DXgSDpeCB2c</link><description>이제 고객 센터 업무의 70%가 AI로 완벽히 대체되는 수준에 도달했습니다.
 
-이 조치는 응답 속도를 높이고 사용량 한도 초과를 방지하려는 목적이었으나, 결과적으로 모델의 문제 해결 지능을 크게 떨어뜨리는 잘못된 선택이 되었습니다.
+xAI가 복잡한 다단계 음성 업무에 특화된 'Grok Voice Think Fast 1.0' 모델을 새롭게 공개했습니다. 해당 모델은 배경 소음이나 강한 억양, 수시로 말이 끊기는 실제 통화 환경의 변수들을 자연스럽게 처리합니다.
 
-사용자 피드백을 수용한 앤스로픽은 4월 7일, 복잡한 작업에 더 적합하도록 Opus 4.7은 'xhigh', 다른 모델은 'high'로 기본값을 원상 복구했습니다.</description><pubDate>Fri, 24 Apr 2026 02:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfzM2KEqMT</guid></item><item><title>3/ 두 번째 원인은 3월 26일에 도입된 프롬프트 캐시 최적화 과정에서 발생한 치명적인 버그입니다.
+여기서 가장 주목할 부분은 실제 업무 도입 결과입니다.
+스타링크(Starlink) 고객 센터에 적용된 해당 모델은 상담원의 개입 없이 무려 70%의 고객 문의를 스스로 해결했고, 전화 영업에서도 20%의 구매 전환율을 기록했습니다.
+28개의 도구를 자유자재로 다루면서도 응답 지연 없이 실시간으로 추론을 진행해 문제를 풉니다.
 
-본래 유휴 상태가 1시간 이상 지속된 세...</title><link>https://www.threads.net/@choi.openai/post/DXfzOMPEvCa</link><description>3/ 두 번째 원인은 3월 26일에 도입된 프롬프트 캐시 최적화 과정에서 발생한 치명적인 버그입니다.
+음성 AI가 자연스럽게 대화하는 수준을 넘어, 직접 영업을 뛰고 회사의 매출을 올리는 진짜 노동력으로 진입했습니다.</description><pubDate>Fri, 24 Apr 2026 06:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXgSDpeCB2c</guid></item><item><title>발표내용 :
+https://x.ai/news/grok-voice-think-fast-1</title><link>https://www.threads.net/@choi.openai/post/DXgSF3QCNRD</link><description>발표내용 :
+https://x.ai/news/grok-voice-think-fast-1</description><pubDate>Fri, 24 Apr 2026 06:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXgSF3QCNRD</guid></item><item><title>이제 AI가 짠 코드를 AI가 검사하고 스스로 승인합니다.
 
-본래 유휴 상태가 1시간 이상 지속된 세션에서 비용 절감을 위해 오래된 추론 기록을 한 번만 삭제하려던 의도였습니다.
+OpenAI가 Codex에 '자동 검토(Auto-review)' 모드를 새롭게 추가...</title><link>https://www.threads.net/@choi.openai/post/DXgHziokixQ</link><description>이제 AI가 짠 코드를 AI가 검사하고 스스로 승인합니다.
 
-그러나 코딩 오류로 인해 이후의 모든 턴마다 추론 기록이 지속적으로 삭제되는 문제가 발생했습니다.
+OpenAI가 Codex에 '자동 검토(Auto-review)' 모드를 새롭게 추가했습니다.
+기존에는 AI가 코드를 짜고 실행할 때마다 사용자가 일일이 승인해야 했지만, 이제는 별도의 안전 에이전트가 백그라운드에서 위험한 단계만 알아서 검토하고 통과시킵니다.
 
-이로 인해 클로드는 자신이 이전 단계에서 어떤 도구를 왜 사용했는지 기억하지 못하고 반복적인 행동을 보였으며, 캐시 미스가 계속 발생해 사용자들의 한도(Usage limit)가 비정상적으로 빠르게 소진되었습니다. 이 버그는 4월 10일에 수정되었습니다.</description><pubDate>Fri, 24 Apr 2026 02:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfzOMPEvCa</guid></item><item><title>GPT-5.5 성능, 다시 1위 찍었습니다.
-코딩, 에이전트, 벤치마크, 비용 효율까지 대부분의 실전 업무에서 큰 개선이 확인됐습니다.
-특히 “...</title><link>https://www.threads.net/@choi.openai/post/DXflamnD_Tl</link><description>GPT-5.5 성능, 다시 1위 찍었습니다.
-코딩, 에이전트, 벤치마크, 비용 효율까지 대부분의 실전 업무에서 큰 개선이 확인됐습니다.
-특히 “속이거나 꼼수 쓰지 않고도 이긴 AI”라는 점이 중요합니다.
-놓치면 안 될 변화 사례 13가지를 정리했습니다🧵</description><pubDate>Fri, 24 Apr 2026 00:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXflamnD_Tl</guid></item><item><title>1/ GPT-5.5는 주요 AI 벤치마크에서 다시 1위를 탈환하며 종합 지능의 진화를 보여주었습니다.
+여기서 주목할 부분은 AI 시스템 내부에 자체적인 감사 기능이 생겼다는 점입니다.
+사람의 확인을 기다리느라 수시로 멈춰 있던 에이전트가 내부 안전망을 바탕으로 더 길고 복잡한 작업을 끊김 없이 수행할 수 있게 되었습니다.
 
-Artificial Analysis 인텔...</title><link>https://www.threads.net/@choi.openai/post/DXflbY3j1jZ</link><description>1/ GPT-5.5는 주요 AI 벤치마크에서 다시 1위를 탈환하며 종합 지능의 진화를 보여주었습니다.
+AI가 지시받은 일만 하던 단계를 지나, 자체적인 규칙을 지키며 스스로 굴러가는 독립적인 작업자로 진화하고 있습니다. 
 
-Artificial Analysis 인텔리전스 인덱스에서 앤스로픽과 구글을 3점 차이로 제치고 1위에 올랐으며, 실물 경제 가치 창출을 평가하는 GDPval-AA(Elo 1785)와 APEX-Agents-AA에서도 선두를 기록했습니다.
-
-또한 Vals AI 평가에서 전체 2위(SWE-Bench 83%)를 달성하고, 터미널 제어를 평가하는 Terminal-Bench 2.0에서 82.7%를 기록했습니다.
-
-커뮤니티와 분석가들은 오픈AI가 다시 확실한 1위 자리를 되찾았다는 평가를 내리고 있으며, 특히 복잡한 에이전트 워크플로우와 실무 적용 능력에서 타 모델들과 유의미한 격차를 만들어냈다는 점에 주목하며 환호하고 있습니다.</description><pubDate>Fri, 24 Apr 2026 00:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXflbY3j1jZ</guid></item><item><title>2/ 경제 시뮬레이션 평가인 Vending-Bench 멀티플레이어 테스트 결과는 매우 흥미로운 시사점을 제공합니다.
-
-기존 평가에서 높은 점수를...</title><link>https://www.threads.net/@choi.openai/post/DXflcZNj7GA</link><description>2/ 경제 시뮬레이션 평가인 Vending-Bench 멀티플레이어 테스트 결과는 매우 흥미로운 시사점을 제공합니다.
-
-기존 평가에서 높은 점수를 받았던 Claude Opus 4.6과 4.7은 공급업체에 거짓말을 하거나 고객의 환불을 거절하는 등 기만적인 전술(Deception)을 활용하여 이익을 챙겼습니다.
-
-반면 GPT-5.5는 이러한 속임수나 권력 추구 성향 없이 정직하게 환불을 처리하고 협상하면서도 경쟁에서 승리하며 더 나은 결과를 얻었습니다.
-
-이를 두고 "능력과 도덕성(Alignment)이 동시에 발전할 수 있음을 보여준 실제 사례"라며 매우 긍정적으로 반응하고 있습니다.
-
-높은 성능을 달성하기 위해 반드시 비윤리적인 행동 방식이 필요한 것은 아니라는 점을 증명했다는 평가를 받습니다.
-
-https://andonlabs.com/blog/openai-gpt-5-5-vending-bench</description><pubDate>Fri, 24 Apr 2026 00:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXflcZNj7GA</guid></item><item><title>3/ 추론 능력을 집중적으로 평가하는 ARC-AGI-2 벤치마크에서 GPT-5.5 Pro 모델은 84.6%(High), 일반 GPT-5.5는 8...</title><link>https://www.threads.net/@choi.openai/post/DXfldjCjymW</link><description>3/ 추론 능력을 집중적으로 평가하는 ARC-AGI-2 벤치마크에서 GPT-5.5 Pro 모델은 84.6%(High), 일반 GPT-5.5는 85.0%(Max)를 기록하며 새로운 최고 성능(SOTA)을 달성했습니다.
-
-이는 기존의 Gemini Deep Think 모델을 능가하는 성과이며, 비용 측면에서도 훨씬 저렴하게 구현되었습니다.
-
-개발자들은 복잡한 아키텍처 설계 질문에 대해 일관되고 만족스러운 계획을 제시한다고 평가하며 실무 코딩 모델로서의 우수성을 인정했습니다.
-
-다만, 일각에서는 벤치마크 점수를 높이기 위한 맞춤형 최적화(Benchmaxxing)가 아니냐는 비판적인 시각도 존재하며, ARC-AGI-3와 같은 더 어려운 후속 평가에서의 검증이 필요하다는 신중한 반응도 이어지고 있습니다.</description><pubDate>Fri, 24 Apr 2026 00:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfldjCjymW</guid></item><item><title>와.. 이거 무조건 유행합니다.
-진짜 GPT 이미지 활용 이렇게까지 가능합니다.
-지금 당장 챗GPT한테 다음과 같이 요청해보세요.
-
-"지금까지 ...</title><link>https://www.threads.net/@choi.openai/post/DXfXyQOCJDk</link><description>와.. 이거 무조건 유행합니다.
-진짜 GPT 이미지 활용 이렇게까지 가능합니다.
-지금 당장 챗GPT한테 다음과 같이 요청해보세요.
-
-"지금까지 나와의 대화 내역을 기반으로 나의 사주 보고서를 이미지로 만들어줘."
-
-이외에도 활용할 수 있는 재미있는 모음을 정리했습니다 🧵</description><pubDate>Thu, 23 Apr 2026 22:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfXyQOCJDk</guid></item><item><title>1/ "내 사진을 보고 나의 퍼스널컬러 보고서를 이미지로 만들어줘."</title><link>https://www.threads.net/@choi.openai/post/DXfX1v5CMxf</link><description>1/ "내 사진을 보고 나의 퍼스널컬러 보고서를 이미지로 만들어줘."</description><pubDate>Thu, 23 Apr 2026 22:01:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfX1v5CMxf</guid></item><item><title>2/ "내 사진을 보고 나의 헤어 스타일 추천서를 이미지로 만들어줘."</title><link>https://www.threads.net/@choi.openai/post/DXfX60ZiMDn</link><description>2/ "내 사진을 보고 나의 헤어 스타일 추천서를 이미지로 만들어줘."</description><pubDate>Thu, 23 Apr 2026 22:02:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfX60ZiMDn</guid></item><item><title>3/ "지금까지 나와의 대화 내역을 기반으로 나의 MBTI 보고서를 이미지로 만들어줘."</title><link>https://www.threads.net/@choi.openai/post/DXfX_EoiIx2</link><description>3/ "지금까지 나와의 대화 내역을 기반으로 나의 MBTI 보고서를 이미지로 만들어줘."</description><pubDate>Thu, 23 Apr 2026 22:02:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXfX_EoiIx2</guid></item><item><title>이번 GPT 5.5에 얼리엑세스로 참여했었습니다.
-아래 글에 참여하면서 느낀점과 GPT 5.5에 대한 정보를 정리해두었으니 확인해보세요!</title><link>https://www.threads.net/@choi.openai/post/DXe_6WwD0id</link><description>이번 GPT 5.5에 얼리엑세스로 참여했었습니다.
-아래 글에 참여하면서 느낀점과 GPT 5.5에 대한 정보를 정리해두었으니 확인해보세요!</description><pubDate>Thu, 23 Apr 2026 18:32:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXe_6WwD0id</guid></item></channel></rss>
+정말 사람이 일일이 개입하고 검토하는 과정 자체가 오히려 업무의 병목으로 여겨지는 시점이 시작된 것 같습니다.</description><pubDate>Fri, 24 Apr 2026 05:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXgHziokixQ</guid></item></channel></rss>
