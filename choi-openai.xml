@@ -1,5 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 26 Apr 2026 09:00:51 +0000</lastBuildDate><item><title>이제 취업 준비를 할 때, 지원하는 회사가 어떤 AI를 쓰는지부터 은밀하게 알아봐야 할지도 모르겠습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 26 Apr 2026 15:33:13 +0000</lastBuildDate><item><title>이번주는 특히 AI 업계는 충격적인 소식으로 가득했습니다.
+불과 며칠 사이, 일과 일상을 근본부터 뒤흔드는 충격적인
+업데이트가 이번 주에도 연이...</title><link>https://www.threads.net/@choi.openai/post/DXmGY5Vj1oh</link><description>이번주는 특히 AI 업계는 충격적인 소식으로 가득했습니다.
+불과 며칠 사이, 일과 일상을 근본부터 뒤흔드는 충격적인
+업데이트가 이번 주에도 연이어 나왔는데요.
+이 정보 격차는 늦기 전에 반드시 따라잡아야 합니다.
+놓치면 손해인 최신 AI 업데이트 20가지를 정리했습니다 🧵👇🏻</description><pubDate>Sun, 26 Apr 2026 12:43:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXmGY5Vj1oh</guid></item><item><title>1/ 오픈AI가 GPT-5.5를 발표했습니다.
+성능과 특징을 한 번에 정리한 글입니다.</title><link>https://www.threads.net/@choi.openai/post/DXmGZeOj8Ge</link><description>1/ 오픈AI가 GPT-5.5를 발표했습니다.
+성능과 특징을 한 번에 정리한 글입니다.</description><pubDate>Sun, 26 Apr 2026 12:43:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXmGZeOj8Ge</guid></item><item><title>2/ 오픈AI가 이미지 생성 모델 Images 2.0을 공개했습니다.
+웹 검색과 단계별 추론을 결합해 인포그래픽, 수학 풀이 이미지까지 만들고 ...</title><link>https://www.threads.net/@choi.openai/post/DXmGZ-ij9Am</link><description>2/ 오픈AI가 이미지 생성 모델 Images 2.0을 공개했습니다.
+웹 검색과 단계별 추론을 결합해 인포그래픽, 수학 풀이 이미지까지 만들고 글자 깨짐도 줄였습니다.</description><pubDate>Sun, 26 Apr 2026 12:43:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXmGZ-ij9Am</guid></item><item><title>3/ 딥시크(DeepSeek)가 100만 토큰을 처리하는 DeepSeek-V4를 공개했습니다.
+연산량과 메모리 사용량을 줄였고, Think Ma...</title><link>https://www.threads.net/@choi.openai/post/DXmGaeAj2z5</link><description>3/ 딥시크(DeepSeek)가 100만 토큰을 처리하는 DeepSeek-V4를 공개했습니다.
+연산량과 메모리 사용량을 줄였고, Think Max를 켠 V4-Pro는 주요 벤치마크에서 GPT 5.4, Claude Opus 4.6보다 높게 나왔습니다.</description><pubDate>Sun, 26 Apr 2026 12:43:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXmGaeAj2z5</guid></item><item><title>가상 세계에 '대한민국'을 통째로 복제해서 돌려보는 날이 머지않은 것 같습니다.
+
+엔비디아에서 대규모 한국어 페르소나 데이터셋인 'Nemotro...</title><link>https://www.threads.net/@choi.openai/post/DXl6mY_jjZC</link><description>가상 세계에 '대한민국'을 통째로 복제해서 돌려보는 날이 머지않은 것 같습니다.
+
+엔비디아에서 대규모 한국어 페르소나 데이터셋인 'Nemotron-Personas-Korea'를 공개해 허깅페이스 1위를 기록했습니다.
+
+통계청을 비롯한 실제 공공 데이터를 바탕으로 성별과 나이는 물론, 거주 지역, 직업, 교육 수준까지 한국 사회의 실제 인구 분포를 그대로 반영한 700만 개의 페르소나를 정밀하게 합성해냈는데요.
+
+그동안의 AI는 주로 영미권 데이터로 학습되어 한국만의 특수한 상황과 지역적 맥락을 완벽히 이해하기 어려웠지만, 해당 데이터셋이 모델의 편향을 줄이고 응답의 다양성을 높여, 앞으로 훨씬 더 현실적이고 깊이 공감할 수 있을 것으로 보입니다.
+
+이외에도 페르소나를 기반한 700만 명의 에이전트들을 시뮬레이션을 한다면, 특정 정책이나 새로운 트렌드가 한국 사회에 어떤 파장을 일으킬지, 현실에 적용하기 전에 미리 테스트해보는 '가상 한국 시뮬레이터'도 만들 수 있을 것 같습니다.</description><pubDate>Sun, 26 Apr 2026 11:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXl6mY_jjZC</guid></item><item><title>데이터셋 :
+https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea</title><link>https://www.threads.net/@choi.openai/post/DXl6nm1Dmzf</link><description>데이터셋 :
+https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea</description><pubDate>Sun, 26 Apr 2026 11:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXl6nm1Dmzf</guid></item><item><title>와.. 정말 눈이 정화되는 느낌입니다.
+이제 영상 제작 방식이 완전히 바뀌고 있습니다.
+
+이제 음악, 캐릭터, 영상 연출을 1인이 모두 만드는 ...</title><link>https://www.threads.net/@choi.openai/post/DXlwPMNj8Lg</link><description>와.. 정말 눈이 정화되는 느낌입니다.
+이제 영상 제작 방식이 완전히 바뀌고 있습니다.
+
+이제 음악, 캐릭터, 영상 연출을 1인이 모두 만드는 사례가 늘고 있습니다.
+혼자서 영화풍 장면, K-POP 뮤비, 사극 OST 영상까지..
+이제는 정말 무시할 수 없는 수준인데요.
+
+스레드에서 가장 놀라웠던 AI 영상 제작 사례 15가지를 정리했습니다🧵</description><pubDate>Sun, 26 Apr 2026 09:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlwPMNj8Lg</guid></item><item><title>1/ 차원을 달리는 소녀</title><link>https://www.threads.net/@choi.openai/post/DXlwPeUj-fo</link><description>1/ 차원을 달리는 소녀</description><pubDate>Sun, 26 Apr 2026 09:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlwPeUj-fo</guid></item><item><title>2/ AI 드라마 :</title><link>https://www.threads.net/@choi.openai/post/DXlwP7Zjzds</link><description>2/ AI 드라마 :</description><pubDate>Sun, 26 Apr 2026 09:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlwP7Zjzds</guid></item><item><title>3/ AI 웹 드라마 :</title><link>https://www.threads.net/@choi.openai/post/DXlwQaRD1Ri</link><description>3/ AI 웹 드라마 :</description><pubDate>Sun, 26 Apr 2026 09:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlwQaRD1Ri</guid></item><item><title>이제 취업 준비를 할 때, 지원하는 회사가 어떤 AI를 쓰는지부터 은밀하게 알아봐야 할지도 모르겠습니다.
 
 AI 채용 시스템과 관련해 아주 흥미...</title><link>https://www.threads.net/@choi.openai/post/DXlpzhLDz7M</link><description>이제 취업 준비를 할 때, 지원하는 회사가 어떤 AI를 쓰는지부터 은밀하게 알아봐야 할지도 모르겠습니다.
 
@@ -12,30 +46,4 @@ AI 채용 시스템과 관련해 아주 흥미로운 논문이 하나 발표되�
 앞으로 AI가 채용뿐만 아니라 다양한 심사 과정에 도입될 텐데요.
 진짜 실력을 갖추는 것만큼이나 평가 시스템의 특정 성향을 파악하는 기술이 더 유리해지는 환경이 만들어질 수 있을 것 같습니다.</description><pubDate>Sun, 26 Apr 2026 08:33:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlpzhLDz7M</guid></item><item><title>논문 :
 https://arxiv.org/abs/2509.00462</title><link>https://www.threads.net/@choi.openai/post/DXlpz9Dj7Te</link><description>논문 :
-https://arxiv.org/abs/2509.00462</description><pubDate>Sun, 26 Apr 2026 08:34:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlpz9Dj7Te</guid></item><item><title>와.. 이렇게까지 되는군요.
-정말 AI 활용 가능성은 무긍무진한 것 같습니다.
-끊임없이 새로운 방법들이 쏟아져나오네요.
-
-네이티브 영상 입력으로...</title><link>https://www.threads.net/@choi.openai/post/DXlb-_VD5WU</link><description>와.. 이렇게까지 되는군요.
-정말 AI 활용 가능성은 무긍무진한 것 같습니다.
-끊임없이 새로운 방법들이 쏟아져나오네요.
-
-네이티브 영상 입력으로 분석해서 이미지 만들고 영상화를 다시시키는 워크플로우도 재미있을 것 같습니다.</description><pubDate>Sun, 26 Apr 2026 06:33:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlb-_VD5WU</guid></item><item><title>바이트댄스(ByteDance)가 새로운 3D 생성 모델 'Seed3D 2.0'을 공개했습니다.
-주요 3D AI 도구들과 비교해 80%의 승률을 ...</title><link>https://www.threads.net/@choi.openai/post/DXlRUWJj2ln</link><description>바이트댄스(ByteDance)가 새로운 3D 생성 모델 'Seed3D 2.0'을 공개했습니다.
-주요 3D AI 도구들과 비교해 80%의 승률을 기록했다고 하는데요.
-
-Seed3D 2.0은 얇고 복잡한 구조를 살리는 지오메트리 처리, 시뮬레이션을 위한 부품 단위 분해, 물리 기반 렌더링(PBR) 재질 지원은 물론이고 실제 게임 엔진과의 호환성까지 갖췄습니다.</description><pubDate>Sun, 26 Apr 2026 04:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlRUWJj2ln</guid></item><item><title>블로그 :
-https://seed.bytedance.com/en/seed3d_2_0</title><link>https://www.threads.net/@choi.openai/post/DXlRVU_DwJq</link><description>블로그 :
-https://seed.bytedance.com/en/seed3d_2_0</description><pubDate>Sun, 26 Apr 2026 05:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlRVU_DwJq</guid></item><item><title>GPT-5.5 나온 지 이틀인데 벌써 난리입니다.
-게임, 앱, 3D까지 아이디어만 던지면 바로 결과물이 나오는 사례들이 쏟아지고 있습니다.
-지금...</title><link>https://www.threads.net/@choi.openai/post/DXlHBcFDzA1</link><description>GPT-5.5 나온 지 이틀인데 벌써 난리입니다.
-게임, 앱, 3D까지 아이디어만 던지면 바로 결과물이 나오는 사례들이 쏟아지고 있습니다.
-지금 꼭 봐야 할 놀라운 활용 사례 12가지 정리했습니다🧵</description><pubDate>Sun, 26 Apr 2026 03:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlHBcFDzA1</guid></item><item><title>1/ GPT-5.5와 Hyper3D Rodin은 이미지나 텍스트를 애니메이션 가능한 3D 게임 에셋으로 변환했습니다.
-Codex에 연결하자 캐릭...</title><link>https://www.threads.net/@choi.openai/post/DXlF9zRH1Kq</link><description>1/ GPT-5.5와 Hyper3D Rodin은 이미지나 텍스트를 애니메이션 가능한 3D 게임 에셋으로 변환했습니다.
-Codex에 연결하자 캐릭터를 움직이고 확인할 수 있는 인터랙티브 웹페이지까지 바로 생성된 사례입니다.</description><pubDate>Sun, 26 Apr 2026 03:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlF9zRH1Kq</guid></item><item><title>2/ Codex와 GPT 5.5를 통해 “30페이지의 컨설팅 보고서를 이미지로 만들어줘” 요청만으로 30페이지 컨설팅 보고서를 생성해줍니다.
-별...</title><link>https://www.threads.net/@choi.openai/post/DXlHCuKjwEr</link><description>2/ Codex와 GPT 5.5를 통해 “30페이지의 컨설팅 보고서를 이미지로 만들어줘” 요청만으로 30페이지 컨설팅 보고서를 생성해줍니다.
-별도 디자인 작업 없이 자신의 정보로 시각화된 결과물을 바로 만드는 활용 사례입니다.</description><pubDate>Sun, 26 Apr 2026 03:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlHCuKjwEr</guid></item><item><title>3/ GPT-5.5는 Godot 엔진에서 스파이더맨처럼 웹을 타고 이동하는 액션 게임을 생성했습니다.
-물리 이동과 조작이 포함된 게임을 코드로 ...</title><link>https://www.threads.net/@choi.openai/post/DXlGJ9AACXj</link><description>3/ GPT-5.5는 Godot 엔진에서 스파이더맨처럼 웹을 타고 이동하는 액션 게임을 생성했습니다.
-물리 이동과 조작이 포함된 게임을 코드로 바로 구현해 실행 가능한 형태로 만든 사례입니다.
-
-x@AiBattle_</description><pubDate>Sun, 26 Apr 2026 03:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlGJ9AACXj</guid></item></channel></rss>
+https://arxiv.org/abs/2509.00462</description><pubDate>Sun, 26 Apr 2026 08:34:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlpz9Dj7Te</guid></item></channel></rss>
