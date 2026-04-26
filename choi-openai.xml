@@ -1,15 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 25 Apr 2026 15:31:35 +0000</lastBuildDate><item><title>지금도 저렴한 Deepseek V4가 5월 5일까지 75% 할인을 진행하네요.</title><link>https://www.threads.net/@choi.openai/post/DXjxPwLgYaq</link><description>지금도 저렴한 Deepseek V4가 5월 5일까지 75% 할인을 진행하네요.</description><pubDate>Sat, 25 Apr 2026 15:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXjxPwLgYaq</guid></item><item><title>Codex에 정말 유용한 기능이 들어왔네요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 26 Apr 2026 02:44:16 +0000</lastBuildDate><item><title>DOBOT에서 6,500만 년 전 멸종한 공룡을 생체모방 로봇으로 되살려냈습니다.
+'FIRST BREATH Biomimetic Embodied ...</title><link>https://www.threads.net/@choi.openai/post/DXk8ui2jYfB</link><description>DOBOT에서 6,500만 년 전 멸종한 공룡을 생체모방 로봇으로 되살려냈습니다.
+'FIRST BREATH Biomimetic Embodied Intelligence 3.0'이라는 이름의 이 로봇은, 실제 생물처럼 자연스럽게 움직이고 반응하도록 설계되었는데요.
 
-오픈AI의 Codex 팀이 ChatGPT 구독자를 위한 데스크톱 전역 음성 입력 기능을 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DXjmm7yjBSM</link><description>Codex에 정말 유용한 기능이 들어왔네요.
+물론 아직 걷는 모습이 약간 부자연스럽다는 피드백도 있지만, DOBOT 측은 다음 버전에서 이동 능력을 적극적으로 개선할 예정이라고 밝혔습니다.
 
-오픈AI의 Codex 팀이 ChatGPT 구독자를 위한 데스크톱 전역 음성 입력 기능을 공개했습니다.
-이제 앱을 켜고 끌 필요 없이 단축키 하나만 누르면 VS Code, Slack, 웹 브라우저 등 어떤 텍스트 창이든 음성으로 즉시 글을 입력할 수 있는데요.
+주목할 점은 Embodied AI와 생체모방 기술의 결합입니다.
 
-기존에 해당 역할을 담당하며 매달 구독료를 받던 Wispr Flow나 Superwhisper 같은 서드파티 도구들은 위기가 될 것 같네요.</description><pubDate>Sat, 25 Apr 2026 13:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXjmm7yjBSM</guid></item><item><title>코덱스 모바일 앱도 열심히 작업중인가 봅니다 🥹</title><link>https://www.threads.net/@choi.openai/post/DXjcrlZE7jv</link><description>코덱스 모바일 앱도 열심히 작업중인가 봅니다 🥹</description><pubDate>Sat, 25 Apr 2026 12:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXjcrlZE7jv</guid></item><item><title>Cursor가 새로운 3 인터페이스와 함께 '/multitask' 기능을 전격 출시했습니다.
-기존에는 AI에게 작업을 시키면 끝날 때까지 큐(q...</title><link>https://www.threads.net/@choi.openai/post/DXjUa7vGtLO</link><description>Cursor가 새로운 3 인터페이스와 함께 '/multitask' 기능을 전격 출시했습니다.
-기존에는 AI에게 작업을 시키면 끝날 때까지 큐(queue)에 담아 순차적으로 기다려야 했지만, 이제는 비동기 서브 에이전트(async subagents)를 통해 여러 요청을 병렬로 동시에 실행할 수 있습니다.
+기존 로봇이 인간의 형태를 흉내 내는 데 집중했다면, 이제는 자연계의 복잡한 움직임과 지능을 하드웨어로 구현하는 단계로 진화하고 있습니다.
 
-이외에도 에이전트 창에서 워크트리(worktrees)를 활용해 각기 다른 브랜치에서 백그라운드 작업을 독립적으로 돌릴 수 있고, 다중 루트 워크스페이스를 통해 여러 저장소에 걸친 수정도 단일 세션으로 처리해 냅니다.
+언젠가 진짜 공룡 로봇들이 뛰어다니는 테마파크를 볼 날이 올지도 모르겠네요.</description><pubDate>Sun, 26 Apr 2026 02:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXk8ui2jYfB</guid></item><item><title>오픈AI는 AI가 추론 과정(CoT)에서 속임수를 쓰지 않는지 검증하는 '모니터링 평가(monitorability evaluations)' 데이...</title><link>https://www.threads.net/@choi.openai/post/DXkyf1JDYsr</link><description>오픈AI는 AI가 추론 과정(CoT)에서 속임수를 쓰지 않는지 검증하는 '모니터링 평가(monitorability evaluations)' 데이터셋과 코드를 전격 공개했습니다.
 
-그동안의 AI 코딩이 결과를 하염없이 기다려야 하는 '고급 컴파일러' 같았다면, 이제는 내가 코딩을 하는 행위와 AI에게 업무를 위임하는 과정이 하나로 합쳐졌습니다.</description><pubDate>Sat, 25 Apr 2026 10:50:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXjUa7vGtLO</guid></item></channel></rss>
+겉보기엔 연구 생태계를 위한 평범한 기여 같지만, 실제로는 업계 전체의 안전 표준을 선점하려는 매우 전략적인 움직임입니다.
+
+이제 다른 AI 기업들은 오픈AI가 세운 이 기준을 받아들여 모델을 검증하거나, 왜 이 기준을 쓰지 않는지 대중에게 해명해야 하는 압박에 직면했습니다.
+
+좋은 성능을 내는 데 그치지 않고, AI가 투명하게 판단하고 있다는 사실까지 직접 증명해야 하는 시대가 열린 것인데요.
+
+모델 성능 경쟁을 넘어 '안전 인프라'의 주도권마저 쥐려는 오픈AI의 안전 전략으로 보입니다.</description><pubDate>Sun, 26 Apr 2026 00:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXkyf1JDYsr</guid></item><item><title>블로그 :
+https://alignment.openai.com/monitorability-evals/</title><link>https://www.threads.net/@choi.openai/post/DXkygmKjR85</link><description>블로그 :
+https://alignment.openai.com/monitorability-evals/</description><pubDate>Sun, 26 Apr 2026 00:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXkygmKjR85</guid></item><item><title>HeyGen에서 사진 한 장만 업로드하면 실시간으로 듣고 말하는 아바타를 만들어주는 'LiveAvatar'를 출시했습니다.
+
+과거에는 자연스러운...</title><link>https://www.threads.net/@choi.openai/post/DXkoKdtihom</link><description>HeyGen에서 사진 한 장만 업로드하면 실시간으로 듣고 말하는 아바타를 만들어주는 'LiveAvatar'를 출시했습니다.
+
+과거에는 자연스러운 아바타를 생성하기 위해 최소 2분 분량의 영상 촬영이 필수였는데요. 
+이제는 실제 증명사진이든 AI가 그린 렌더링 이미지든 얼굴 형태만 존재하면, 곧바로 대화가 가능한 아바타로 변환됩니다.
+별도의 스튜디오나 대본 없이도 바로 작동하며, 기존 기능과 동일한 수준의 속도와 비용 효율성을 유지한다고 합니다.
+
+주목할 부분은 AI 기반 커뮤니케이션의 진입장벽이 사실상 사라졌다는 점입니다.
+
+별도의 영상 소스를 준비할 필요 없이 이미지 한 장만으로 인터랙티브 캐릭터를 만들 수 있게 되면서, 누구나 자신만의 캐릭터를 내세워 화상 미팅이나 실시간 고객 응대를 진행하는 환경이 훨씬 빠르게 우리 일상으로 다가올 것으로 보입니다.</description><pubDate>Sat, 25 Apr 2026 23:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXkoKdtihom</guid></item><item><title>와.. 진짜라면 정말 놀랍네요..
+
+스타트업 Prophetic이 초음파로 자각몽을 유도하는 웨어러블 기기 Dual과 Phase를 출시했습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DXkd0ZRkqNU</link><description>와.. 진짜라면 정말 놀랍네요..
+
+스타트업 Prophetic이 초음파로 자각몽을 유도하는 웨어러블 기기 Dual과 Phase를 출시했습니다.
+뉴럴링크의 하드웨어를 설계한 팀과 협력해 만든 이 기기는 수면 중 전두엽을 자극해, 사용자가 꿈을 꾸면서도 상황을 인지하고 내용을 제어할 수 있게 돕습니다.
+
+눈여겨볼 점은 수억 원에 달하던 관련 연구 시스템이 400달러대 소비자용 기기로 대중화되었다는 것입니다. 이론적으로는 꿈속에서 발표를 연습하거나 운동 기술을 반복 훈련하는 것이 가능해집니다.
+
+물론 뇌에 초음파를 쏘는 방식이라 안전성 논란이 있고, 수면 시간까지 일해야 하냐는 거부감도 적지 않습니다.
+심지어 꿈을 꾸다가 스킵할 수 없는 광고를 보게 되는 것 아니냐는 우스갯소리도 돌고 있는데요. 인간이 무의식의 영역까지 적극적으로 개척하기 시작한 이 흐름이 우리의 일상을 어떻게 바꿔놓을지 흥미롭습니다.</description><pubDate>Sat, 25 Apr 2026 21:29:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXkd0ZRkqNU</guid></item></channel></rss>
