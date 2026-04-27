@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 26 Apr 2026 15:33:13 +0000</lastBuildDate><item><title>이번주는 특히 AI 업계는 충격적인 소식으로 가득했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 27 Apr 2026 02:46:58 +0000</lastBuildDate><item><title>'X-Humanoid'가 휴머노이드 로봇의 하드웨어, 제어 시스템, AI 모델, 데이터셋까지 전부 통합해 오픈소스로 전격 공개했습니다.
+
+그동안...</title><link>https://www.threads.net/@choi.openai/post/DXneIzNktX_</link><description>'X-Humanoid'가 휴머노이드 로봇의 하드웨어, 제어 시스템, AI 모델, 데이터셋까지 전부 통합해 오픈소스로 전격 공개했습니다.
+
+그동안 휴머노이드 개발은 막대한 자본과 설비를 갖춘 거대 기업만의 영역이었는데요.
+과거 개인 개발자들이 부품을 조립해 거대한 PC 시대를 열었던 것처럼, 이제는 전 세계의 수많은 빌더(Builder)들이 각자의 환경에서 로봇을 만들고 코드를 공유할 수 있게 되었습니다.
+
+앞으로 로보틱스 시장에 얼마나 다양한 형태의 결과물이 쏟아질지 기대되는 지점입니다.</description><pubDate>Mon, 27 Apr 2026 01:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXneIzNktX_</guid></item><item><title>중국의 키네틱스AI(KinetixAI)가 인간의 신체를 1:1 비율로 모방한 휴머노이드 로봇 'KAI(카이)'를 공개했습니다.
+키 1.73m, ...</title><link>https://www.threads.net/@choi.openai/post/DXnI6n7mlHg</link><description>중국의 키네틱스AI(KinetixAI)가 인간의 신체를 1:1 비율로 모방한 휴머노이드 로봇 'KAI(카이)'를 공개했습니다.
+키 1.73m, 몸무게 70kg의 해당 로봇은 손에만 36개의 관절이 있고 전신의 80%가 촉각 스킨으로 덮여 있습니다. 인지부터 행동, 반성까지 스스로 처리하는 자체 월드 모델을 통해 옷을 개고 배달물을 정리하며 아이를 돌보는 등 다양한 가사 노동을 수행합니다.
+
+최근 중국 로봇 생태계의 치열한 발전 속도가 정말 놀랍습니다.
+
+테슬라 옵티머스를 쫓는 수준을 넘어, 스스로 1인칭 데이터를 학습해 행동을 계획하고 반성하는 독자적인 월드 모델까지 탑재했습니다.
+
+중국 내 150여 개 휴머노이드 기업이 경쟁하는 상황에서, 과연 가정용 로봇이 인간의 신체와 감각을 어디까지 복제하며 우리 일상에 들어올지 지켜봐야겠습니다.</description><pubDate>Sun, 26 Apr 2026 22:25:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXnI6n7mlHg</guid></item><item><title>이번주는 특히 AI 업계는 충격적인 소식으로 가득했습니다.
 불과 며칠 사이, 일과 일상을 근본부터 뒤흔드는 충격적인
 업데이트가 이번 주에도 연이...</title><link>https://www.threads.net/@choi.openai/post/DXmGY5Vj1oh</link><description>이번주는 특히 AI 업계는 충격적인 소식으로 가득했습니다.
 불과 며칠 사이, 일과 일상을 근본부터 뒤흔드는 충격적인
@@ -23,27 +38,4 @@
 
 이외에도 페르소나를 기반한 700만 명의 에이전트들을 시뮬레이션을 한다면, 특정 정책이나 새로운 트렌드가 한국 사회에 어떤 파장을 일으킬지, 현실에 적용하기 전에 미리 테스트해보는 '가상 한국 시뮬레이터'도 만들 수 있을 것 같습니다.</description><pubDate>Sun, 26 Apr 2026 11:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXl6mY_jjZC</guid></item><item><title>데이터셋 :
 https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea</title><link>https://www.threads.net/@choi.openai/post/DXl6nm1Dmzf</link><description>데이터셋 :
-https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea</description><pubDate>Sun, 26 Apr 2026 11:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXl6nm1Dmzf</guid></item><item><title>와.. 정말 눈이 정화되는 느낌입니다.
-이제 영상 제작 방식이 완전히 바뀌고 있습니다.
-
-이제 음악, 캐릭터, 영상 연출을 1인이 모두 만드는 ...</title><link>https://www.threads.net/@choi.openai/post/DXlwPMNj8Lg</link><description>와.. 정말 눈이 정화되는 느낌입니다.
-이제 영상 제작 방식이 완전히 바뀌고 있습니다.
-
-이제 음악, 캐릭터, 영상 연출을 1인이 모두 만드는 사례가 늘고 있습니다.
-혼자서 영화풍 장면, K-POP 뮤비, 사극 OST 영상까지..
-이제는 정말 무시할 수 없는 수준인데요.
-
-스레드에서 가장 놀라웠던 AI 영상 제작 사례 15가지를 정리했습니다🧵</description><pubDate>Sun, 26 Apr 2026 09:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlwPMNj8Lg</guid></item><item><title>1/ 차원을 달리는 소녀</title><link>https://www.threads.net/@choi.openai/post/DXlwPeUj-fo</link><description>1/ 차원을 달리는 소녀</description><pubDate>Sun, 26 Apr 2026 09:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlwPeUj-fo</guid></item><item><title>2/ AI 드라마 :</title><link>https://www.threads.net/@choi.openai/post/DXlwP7Zjzds</link><description>2/ AI 드라마 :</description><pubDate>Sun, 26 Apr 2026 09:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlwP7Zjzds</guid></item><item><title>3/ AI 웹 드라마 :</title><link>https://www.threads.net/@choi.openai/post/DXlwQaRD1Ri</link><description>3/ AI 웹 드라마 :</description><pubDate>Sun, 26 Apr 2026 09:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlwQaRD1Ri</guid></item><item><title>이제 취업 준비를 할 때, 지원하는 회사가 어떤 AI를 쓰는지부터 은밀하게 알아봐야 할지도 모르겠습니다.
-
-AI 채용 시스템과 관련해 아주 흥미...</title><link>https://www.threads.net/@choi.openai/post/DXlpzhLDz7M</link><description>이제 취업 준비를 할 때, 지원하는 회사가 어떤 AI를 쓰는지부터 은밀하게 알아봐야 할지도 모르겠습니다.
-
-AI 채용 시스템과 관련해 아주 흥미로운 논문이 하나 발표되었는데요.
-채용 담당자와 지원자 모두 대형 언어 모델(LLM)을 적극적으로 사용하는 요즘, AI가 인간이 쓴 이력서보다 '동일한 AI 모델'이 생성한 이력서를 훨씬 더 선호한다는 연구 결과입니다.
-
-쉽게 말해 인사팀이 서류 평가에 GPT-4를 사용한다면, 지원자 역시 GPT-4로 이력서를 다듬었을 때 서류 통과 확률이 눈에 띄게 올라간다는 뜻입니다.
-이른바 '자기 선호 편향(Self-preference bias)'이 실제 알고리즘 채용 시장에서 명확하게 작동하고 있다는 내용입니다.
-
-앞으로 AI가 채용뿐만 아니라 다양한 심사 과정에 도입될 텐데요.
-진짜 실력을 갖추는 것만큼이나 평가 시스템의 특정 성향을 파악하는 기술이 더 유리해지는 환경이 만들어질 수 있을 것 같습니다.</description><pubDate>Sun, 26 Apr 2026 08:33:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlpzhLDz7M</guid></item><item><title>논문 :
-https://arxiv.org/abs/2509.00462</title><link>https://www.threads.net/@choi.openai/post/DXlpz9Dj7Te</link><description>논문 :
-https://arxiv.org/abs/2509.00462</description><pubDate>Sun, 26 Apr 2026 08:34:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXlpz9Dj7Te</guid></item></channel></rss>
+https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea</description><pubDate>Sun, 26 Apr 2026 11:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXl6nm1Dmzf</guid></item></channel></rss>
