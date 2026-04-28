@@ -1,65 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 27 Apr 2026 16:17:57 +0000</lastBuildDate><item><title>Seedance 2.0을 뛰어넘는 HappyHorse 1.0이 공식 출시되었습니다!
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 28 Apr 2026 02:54:27 +0000</lastBuildDate><item><title>구글 Gemini가 드디어 가장 필요했던 기능을 출시했습니다.
 
-알리바바(Alibaba)가 극비리에 개발해 온 동영상 생성...</title><link>https://www.threads.net/@choi.openai/post/DXo5cysjgJG</link><description>Seedance 2.0을 뛰어넘는 HappyHorse 1.0이 공식 출시되었습니다!
+이제 Gemini 웹과 모바일 앱에서 텍스트 파일(txt, md)은 물론 PDF...</title><link>https://www.threads.net/@choi.openai/post/DXqJxrcDaOD</link><description>구글 Gemini가 드디어 가장 필요했던 기능을 출시했습니다.
 
-알리바바(Alibaba)가 극비리에 개발해 온 동영상 생성 모델 'HappyHorse 1.0'을 전격 공개하며 테스트를 시작했습니다. 
-HappyHorse 1.0은 공개되자마자 텍스트 투 비디오(Text-to-Video)와 이미지 투 비디오(Image-to-Video) 양쪽 모두에서 틱톡 바이트댄스의 Seedance 2.0을 가볍게 제치고 성능 평가 1위에 올랐습니다.
+이제 Gemini 웹과 모바일 앱에서 텍스트 파일(txt, md)은 물론 PDF, Word(docx), 심지어 엑셀이나 구글 스프레드시트 포맷의 파일까지 직접 생성하고 다운로드할 수 있게 되었습니다.
+그동안 파이썬 코드를 실행하는 샌드박스 환경은 갖추고 있었지만 결과물을 파일 형태로 내보내는 기능이 없어 아쉬웠는데, 이번 업데이트로 그 갈증이 해소되었습니다.
 
-무엇보다 놀라운 점은 하나의 파이프라인에서 1080p 고해상도 영상과 7개 국어 립싱크가 완벽하게 맞는 오디오를 '동시에' 뽑아낼 수 있습니다.
+다만, 기존 문서를 불러와서 덮어쓰기 방식으로 편집하는 기능은 아직 지원하지 않으며, 수정을 요청하면 새 파일로 복사해 만들어줍니다.
+그럼에도 불구하고 자체 디렉터리 내에서 파일을 자유롭게 생성하고 다룰 수 있게 된 것은 Gemini 생태계 내에서 큰 진전입니다.</description><pubDate>Tue, 28 Apr 2026 02:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqJxrcDaOD</guid></item><item><title>중국 빅테크들의 오픈소스 물량 공세가 멈출 기미가 보이지 않습니다.
 
-생성 AI의 발전이 매섭습니다. 하나의 모델이 시각과 청각을 완벽히 동기화해 15초짜리 영상을 뚝딱 만들어내는 시대, 이제 영상 제작의 한계는 기술이 아니라 우리의 상상력이 되었습니다.</description><pubDate>Mon, 27 Apr 2026 14:49:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXo5cysjgJG</guid></item><item><title>공식 주소 :
-https://www.happyhorse.com/
+샤오미(Xiaomi)가 'MiMo-V2.5' 시리즈를 상업적 이용과 파인튜...</title><link>https://www.threads.net/@choi.openai/post/DXp_6GeD9GL</link><description>중국 빅테크들의 오픈소스 물량 공세가 멈출 기미가 보이지 않습니다.
 
-이외에도 모델 제공 서비스사들에서 사용할 수 있습니다.</title><link>https://www.threads.net/@choi.openai/post/DXo5ljaj8Am</link><description>공식 주소 :
-https://www.happyhorse.com/
+샤오미(Xiaomi)가 'MiMo-V2.5' 시리즈를 상업적 이용과 파인튜닝이 전면 허용되는 완전한 오픈소스(MIT 라이선스)로 전격 공개했습니다.
 
-이외에도 모델 제공 서비스사들에서 사용할 수 있습니다.</description><pubDate>Mon, 27 Apr 2026 14:49:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXo5ljaj8Am</guid></item><item><title>구글 딥마인드가 서울에 세계 첫 해외 AI 캠퍼스를 세웁니다.
-본사 연구진 파견, AI 장학금 5만 개, K-문샷 협력까지 이어집니다.
-한국 A...</title><link>https://www.threads.net/@choi.openai/post/DXooMrfj4oz</link><description>구글 딥마인드가 서울에 세계 첫 해외 AI 캠퍼스를 세웁니다.
-본사 연구진 파견, AI 장학금 5만 개, K-문샷 협력까지 이어집니다.
-한국 AI 판도가 바뀔 핵심 장면 5가지를 정리했습니다🧵</description><pubDate>Mon, 27 Apr 2026 12:17:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXooMrfj4oz</guid></item><item><title>1/ 데미스 하사비스 구글 딥마인드 CEO가 '구글 포 코리아(Google for Korea)' 행사를 맞아 방한하여 이재명 대통령과 접견을 가...</title><link>https://www.threads.net/@choi.openai/post/DXooNBCj15i</link><description>1/ 데미스 하사비스 구글 딥마인드 CEO가 '구글 포 코리아(Google for Korea)' 행사를 맞아 방한하여 이재명 대통령과 접견을 가졌습니다.
+이번 발표의 핵심은 복잡한 에이전트 작업과 코딩에 특화된 1조(1T) 파라미터 규모의 'MiMo-V2.5-Pro', 그리고 멀티모달 에이전트 능력을 갖춘 'MiMo-V2.5' 두 가지 모델입니다.
+두 모델 모두 무려 100만(1M) 토큰의 컨텍스트 창을 지원해 방대한 양의 정보를 한 번에 처리할 수 있습니다.
 
-하사비스는 이번 '구글 포 코리아' 방한을 기점으로, 구글 딥마인드는 본사가 있는 영국 외 지역으로는 전 세계 최초로 서울에 '구글 AI 캠퍼스'를 연내 설립합니다.
+특히, SGLang, vLLM, AWS, AMD 등 하드웨어 및 소프트웨어 파트너사들과 사전 협력해 공개 첫날(Day-0)부터 즉시 현업에 배포할 수 있는 환경을 갖췄습니다.
+게다가 개발자와 창작자들을 위해 무려 100T(100조) 토큰을 무료로 지원하겠다고 밝혔습니다.</description><pubDate>Tue, 28 Apr 2026 01:04:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXp_6GeD9GL</guid></item><item><title>블로그 :
+https://mimo.xiaomi.com/#blog</title><link>https://www.threads.net/@choi.openai/post/DXp_6wTjyTN</link><description>블로그 :
+https://mimo.xiaomi.com/#blog</description><pubDate>Tue, 28 Apr 2026 01:04:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXp_6wTjyTN</guid></item><item><title>구글이 젬마(Gemma) 4 E2B 모델과 WebGPU를 기반으로, 서버 연결 없이 100% 로컬 환경에서 작동하는 브라우저 에이전트가 오픈소스...</title><link>https://www.threads.net/@choi.openai/post/DXpxvXqjWgs</link><description>구글이 젬마(Gemma) 4 E2B 모델과 WebGPU를 기반으로, 서버 연결 없이 100% 로컬 환경에서 작동하는 브라우저 에이전트가 오픈소스로 공개했습니다.
 
-과기정통부와의 공식 MOU 체결을 통해 발표된 이번 계획에서 가장 눈에 띄는 점은 청와대 측의 제안을 즉석에서 수락하여 최소 10명 이상의 딥마인드 본사 핵심 연구진을 한국에 직접 파견하기로 합의했습니다.
+사용자의 컴퓨터 자원만 활용해 현재 열려있는 탭을 관리하고, 방문 기록을 검색하거나 웹페이지 내용을 읽고 요약하는 작업을 스스로 처리합니다.
 
-또한 한국 구직자를 위한 5만 개의 AI 장학금을 지원하고 새로운 인턴십 프로그램을 신설해 차세대 AI 인재를 직접 육성합니다.
+클라우드로 민감한 개인 웹 활동 데이터를 넘길 필요 없이, 브라우저가 가진 기존 보안 테두리 안에서만 에이전트가 작동하기 때문에 진정한 의미의 안전한 개인용 AI가 가능해졌습니다.</description><pubDate>Mon, 27 Apr 2026 23:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXpxvXqjWgs</guid></item><item><title>깃허브 :
+https://github.com/nico-martin/gemma4-browser-extension</title><link>https://www.threads.net/@choi.openai/post/DXpxwP9DQjb</link><description>깃허브 :
+https://github.com/nico-martin/gemma4-browser-extension</description><pubDate>Mon, 27 Apr 2026 23:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXpxwP9DQjb</guid></item><item><title>이제 컴퓨터 앞에 앉을 필요조차 사라졌습니다.
 
-이는 한국을 글로벌 AI 연구의 핵심 전초기지이자 실증 파트너로 격상시켰다는 전략적 의미를 지니며, 향후 국내 AI 생태계 전반에 걸쳐 막대한 인프라 확충 효과를 가져올 전망입니다.</description><pubDate>Mon, 27 Apr 2026 12:17:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXooNBCj15i</guid></item><item><title>2/ 한국 정부가 2035년까지 첨단 바이오와 에너지 등 12대 국가 난제를 해결하기 위해 추진하는 'K-문샷 프로젝트'에 딥마인드의 최첨단 과...</title><link>https://www.threads.net/@choi.openai/post/DXooOGYD2L9</link><description>2/ 한국 정부가 2035년까지 첨단 바이오와 에너지 등 12대 국가 난제를 해결하기 위해 추진하는 'K-문샷 프로젝트'에 딥마인드의 최첨단 과학용 AI 모델 5종이 전면 개방됩니다.
+Lovable이 iOS와 안드로이드 모바일 앱을 공식 출시했습니다.
+기존에는 주로 PC 웹 환경...</title><link>https://www.threads.net/@choi.openai/post/DXpndYVDsaU</link><description>이제 컴퓨터 앞에 앉을 필요조차 사라졌습니다.
 
-신약과 에너지 알고리즘을 설계하는 알파이볼브, DNA 돌연변이 영향을 분석하는 알파지놈, 이미 8만 5천 명 이상이 사용 중인 단백질 구조 예측의 알파폴드, 연구 가설 설정을 돕는 가상 에이전트인 AI 공동 과학자, 그리고 기후와 전력망을 분석하는 웨더넥스트가 집중 투입됩니다.
+Lovable이 iOS와 안드로이드 모바일 앱을 공식 출시했습니다.
+기존에는 주로 PC 웹 환경에서 작업해야 했지만, 이제는 스마트폰만 있으면 언제 어디서든 서비스를 구축할 수 있게 된 것입니다.
 
-구글은 서울대, 카이스트 및 5월 개소 예정인 국가 과학용 AI 센터(NAIS), 3대 AI 바이오 혁신 허브 등 주요 학계 및 기관과 밀착 협력함으로써, 한국의 연구 생산성을 혁신하고 국가적 과제를 해결하는 데 자사의 기술력을 핵심 레버리지로 제공할 예정입니다.</description><pubDate>Mon, 27 Apr 2026 12:17:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXooOGYD2L9</guid></item><item><title>3/ 비공개 대담에서는 기술 도입을 넘어 AI가 불러올 거대한 사회경제적 파장에 대한 거시적 담론이 깊이 있게 오갔습니다.
+길을 걷거나 대중교통을 이용하다 번뜩이는 아이디어가 떠오르면, 바로 폰을 꺼내 AI에게 지시를 내리고 결과물을 만들어낼 수 있습니다.
 
-하사비스 대표는 인...</title><link>https://www.threads.net/@choi.openai/post/DXooPDMD6PJ</link><description>3/ 비공개 대담에서는 기술 도입을 넘어 AI가 불러올 거대한 사회경제적 파장에 대한 거시적 담론이 깊이 있게 오갔습니다.
-
-하사비스 대표는 인간의 지능을 넘어서는 범용 인공지능(AGI)이 5년 안에 도래할 수 있다고 전망했으며, 이재명 대통령은 이에 따른 급격한 일자리 감소와 산업 구조 변화에 깊은 우려를 표했습니다.
-
-양측은 기존의 자본주의 경제 모델만으로는 이러한 충격에 대응할 수 없다는 데 뜻을 같이했습니다.
-
-이 과정에서 기술이 창출할 막대한 부의 재분배 방안으로서 '기본소득' 도입의 필요성이 직접적으로 논의되었습니다.
-
-다가올 AGI 시대의 압도적인 경제적 이익을 국가의 사회 안전망과 어떻게 연계하여 국민의 기본적 삶을 보호할 것인지에 대한 무거운 철학적 숙제를 우리 사회에 명확히 던져주고 있습니다.</description><pubDate>Mon, 27 Apr 2026 12:17:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXooPDMD6PJ</guid></item><item><title>홀리.. 20억 달러짜리 AI 빅딜이 국가의 개입으로 하루아침에 무산되었습니다.
-
-오늘 중국 국가발전개혁위원회(NDRC)가 Meta의 AI 스타...</title><link>https://www.threads.net/@choi.openai/post/DXoYMlND-_M</link><description>홀리.. 20억 달러짜리 AI 빅딜이 국가의 개입으로 하루아침에 무산되었습니다.
-
-오늘 중국 국가발전개혁위원회(NDRC)가 Meta의 AI 스타트업 Manus 인수를 공식 차단하며 거래 전면 취소를 명령했는데요.
-
-이번 사태가 보여주는 명확한 흐름은 AI 생태계에 세워진 거대한 지정학적 장벽입니다.
-
-이제 AI 스타트업들은 창업 초기부터 완전히 글로벌로 진출할지, 아니면 철저히 자국 시장에만 남을지 노선을 강제로 선택해야만 하는 상황에 놓였습니다.
-
-기술력과 자본만으로 자유롭게 빅테크에 합류할 수 있던 시대가 저물고 있는 것입니다.
-
-국가 간의 패권 경쟁이 AI 기술 보호주의로 직결되면서 씬이 완전히 양분되는 모습입니다.</description><pubDate>Mon, 27 Apr 2026 09:57:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXoYMlND-_M</guid></item><item><title>요즘 GPT-Image 2 활용법이 심상치 않습니다.
-사진 한 장으로 1년 외모 변화 시뮬레이션부터, 커플 필름 감성 앨범, 손금 분석 이미지까...</title><link>https://www.threads.net/@choi.openai/post/DXn8gKsjwxk</link><description>요즘 GPT-Image 2 활용법이 심상치 않습니다.
-사진 한 장으로 1년 외모 변화 시뮬레이션부터, 커플 필름 감성 앨범, 손금 분석 이미지까지 전부 만들어냅니다.
-심지어 헤어스타일 추천, 성형 전후 비교도 현실감 있게 구현됩니다.
-지금 뜨는 활용 사례 10가지를 정리했습니다🧵
-
-1/ 관상 보고서</description><pubDate>Mon, 27 Apr 2026 05:55:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXn8gKsjwxk</guid></item><item><title>2/ 손금 분석
-x@linusekenstam</title><link>https://www.threads.net/@choi.openai/post/DXn8gS7j2hs</link><description>2/ 손금 분석
-x@linusekenstam</description><pubDate>Mon, 27 Apr 2026 05:55:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXn8gS7j2hs</guid></item><item><title>3/ 음식 레시피
-x@global_techgirl</title><link>https://www.threads.net/@choi.openai/post/DXn8gN2j-Fq</link><description>3/ 음식 레시피
-x@global_techgirl</description><pubDate>Mon, 27 Apr 2026 05:55:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXn8gN2j-Fq</guid></item><item><title>4/ 어울리는 헤어스타일</title><link>https://www.threads.net/@choi.openai/post/DXn8gLjj4RY</link><description>4/ 어울리는 헤어스타일</description><pubDate>Mon, 27 Apr 2026 05:55:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXn8gLjj4RY</guid></item></channel></rss>
+장비와 장소의 한계까지 완전히 무너진 지금, 앞으로는 출퇴근길 지하철 안에서 스마트폰만으로 나만의 서비스를 만들고 배포하는 사람들을 흔하게 보게 될지도 모르겠습니다.</description><pubDate>Mon, 27 Apr 2026 21:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXpndYVDsaU</guid></item></channel></rss>
