@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 28 Apr 2026 10:13:44 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 28 Apr 2026 16:31:43 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
 행사의 방...</title><link>https://www.threads.net/@choi.openai/post/DXqhhu6D9Ia</link><description>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
@@ -10,113 +10,30 @@
 
 밋...</title><link>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</link><description>관련하여 밋업에서 듣고 싶은 내용과 함께 진행했으면 좋은 내용들을 댓글에 남겨주시면 향후 연사 섭외 및 행사 구성에 참고하도록 하겠습니다.
 
-밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>이것도 정말 놀라운 워크플로우 같습니다.
+밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>마이크로소프트 리서치(Microsoft Research)가 동영상 생성 모델에 3D 공간의 물리적 제약을 학습시키는 'World-R1'을 전격 ...</title><link>https://www.threads.net/@choi.openai/post/DXrmwAQD6pE</link><description>마이크로소프트 리서치(Microsoft Research)가 동영상 생성 모델에 3D 공간의 물리적 제약을 학습시키는 'World-R1'을 전격 공개했습니다.
+기존 모델들은 단순히 2D 프레임을 이어 붙이는 수준에 그쳐, 원근법이나 기하학적 일관성이 쉽게 무너지는 한계가 있었습니다.
 
-한 유저가 구글 맵 스트리트 뷰와 오픈AI의 Codex, 그리고 영상 생성 API인 Seedance를...</title><link>https://www.threads.net/@choi.openai/post/DXq9WfUgd-H</link><description>이것도 정말 놀라운 워크플로우 같습니다.
+하지만 World-R1은 모델의 기본 구조를 무겁게 뜯어고치는 대신, 강화학습(RL) 피드백을 활용해 AI가 스스로 3D 공간의 법칙을 지키도록 만들었습니다.
 
-한 유저가 구글 맵 스트리트 뷰와 오픈AI의 Codex, 그리고 영상 생성 API인 Seedance를 조합해 가이드 비디오를 자동 생성하는 워크플로우를 공개했는데요.
+이를 통해 엄격한 3D 기하학 법칙과 피사체의 자연스러운 움직임 사이의 균형을 완벽하게 잡아낸 것이 핵심입니다.
 
-출발지와 도착지만 입력하면, AI가 경로상의 랜드마크를 파악하고 가상의 캐릭터가 화면에 등장해 길을 안내하는 영상을 스스로 만들어냅니다.
+AI가 현실의 물리적 공간을 완벽히 이해하는 월드 모델로 진화하고 있습니다. 앞으로 복잡한 가상 환경 구축이 텍스트 프롬프트 한 줄로 완성될 날이 머지않아 보입니다.</description><pubDate>Tue, 28 Apr 2026 16:03:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXrmwAQD6pE</guid></item><item><title>프로젝트 주소 :
+https://microsoft.github.io/World-R1/</title><link>https://www.threads.net/@choi.openai/post/DXrmvgxj_kp</link><description>프로젝트 주소 :
+https://microsoft.github.io/World-R1/</description><pubDate>Tue, 28 Apr 2026 16:02:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXrmvgxj_kp</guid></item><item><title>Mistral AI가 기업용 AI 오케스트레이션 플랫폼인 'Workflows'의 퍼블릭 프리뷰를 출시했습니다.
 
-정말 아이디어와 기획력이 정말 중요한 시대인 것 같습니다.</description><pubDate>Tue, 28 Apr 2026 10:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXq9WfUgd-H</guid></item><item><title>AI가 정말 가치를 만들 수 있을까.
+ASML, CMA-CGM 등 유...</title><link>https://www.threads.net/@choi.openai/post/DXrc6ypjoAe</link><description>Mistral AI가 기업용 AI 오케스트레이션 플랫폼인 'Workflows'의 퍼블릭 프리뷰를 출시했습니다.
 
-요즘 이 질문을 계속 하게 됩니다.
+ASML, CMA-CGM 등 유수의 글로벌 기업들이 이미 이 도구를 활용해 관세 문서 심사, 고객 확인(KYC), 고객 지원 분류 등 치명적인 실수가 용납되지 않는 중요 비즈니스 프로세스를 자동화하고 있습니다.
 
-AI가 생산성을 높인다는 말은 이제 너무 익숙합니다.
-코드를 더 빨...</title><link>https://www.threads.net/@choi.openai/post/DXqzINzj56R</link><description>AI가 정말 가치를 만들 수 있을까.
+AI가 복잡한 여러 단계를 처리하다 네트워크 오류가 나더라도 처음부터 다시 시작하지 않고 멈춘 지점부터 복구(Durable execution)됩니다. 또한 중요한 승인 단계에서는 AI가 스스로 일시 정지해 인간의 컨펌을 기다리는 'Human-in-the-loop' 구조를 코드 한 줄로 구현할 수 있습니다.</description><pubDate>Tue, 28 Apr 2026 14:37:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXrc6ypjoAe</guid></item><item><title>발표내용 :
+https://mistral.ai/news/workflows</title><link>https://www.threads.net/@choi.openai/post/DXrdA2kj2D5</link><description>발표내용 :
+https://mistral.ai/news/workflows</description><pubDate>Tue, 28 Apr 2026 14:37:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXrdA2kj2D5</guid></item><item><title>GPT 5.6이 벌써 테스트에 들어간듯 싶습니다.
 
-요즘 이 질문을 계속 하게 됩니다.
+GPT-5.5가 출시된 지 불과 며칠 지나지 않았는데, 벌써 내부 Codex 환경 로그에서 ...</title><link>https://www.threads.net/@choi.openai/post/DXrWqkpjwPz</link><description>GPT 5.6이 벌써 테스트에 들어간듯 싶습니다.
 
-AI가 생산성을 높인다는 말은 이제 너무 익숙합니다.
-코드를 더 빨리 쓰고, 문서를 더 빨리 만들고, 이미지를 더 빨리 만들고, 분석을 더 빨리 합니다.
-그런데 생산성이 높아진다는 것과 사회 전체의 가치가 커진다는 것은 같은 말이 아닙니다.
+GPT-5.5가 출시된 지 불과 며칠 지나지 않았는데, 벌써 내부 Codex 환경 로그에서 'GPT-5.6'으로 트래픽이 라우팅된 정황이 포착되었습니다.
 
-오히려 어떤 영역에서는 반대일 수 있습니다. 🧵👇🏻</description><pubDate>Tue, 28 Apr 2026 08:31:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqzINzj56R</guid></item><item><title>1/ 모두가 코더가 된다는 것은, 일반적인 코딩의 가치가 내려간다는 뜻이기도 합니다.
+단순한 표기 오류일 수도 있지만, 업계에서는 이를 일부 트래픽을 새 모델에 몰래 흘려보내 성능을 점검하는 'Canary 테스트'로 보고 있습니다.
+기존 5.5 버전에서 발견된 미세한 단점들을 강화학습으로 재빠르게 교정해 쉴 틈 없이 다음 버전을 준비하는 것으로 보이는데요.
 
-모두가 앱을 만들 수 있다는 것은, 앱을 만드는 행위 자...</title><link>https://www.threads.net/@choi.openai/post/DXqzIiNj1g6</link><description>1/ 모두가 코더가 된다는 것은, 일반적인 코딩의 가치가 내려간다는 뜻이기도 합니다.
-
-모두가 앱을 만들 수 있다는 것은, 앱을 만드는 행위 자체의 희소성이 사라진다는 뜻입니다.
-모두가 디자인을 만들 수 있고, 모두가 랜딩페이지를 만들 수 있고, 모두가 자동화 도구를 만들 수 있다면, 그 결과물 하나하나의 시장 가격은 자연스럽게 내려갑니다.
-
-이것은 기술의 실패가 아닙니다.
-시장 원리입니다.
-
-공급이 폭발하면 가격은 내려갑니다.
-특히 수요가 같은 속도로 늘지 않으면, 가격 하락은 더 빨라집니다.
-AI가 코드 생산 비용을 거의 0에 가깝게 밀어붙인다면, 코드 자체는 더 이상 높은 가격을 받기 어려워집니다.
-결국 가치는 “만드는 능력”에서 “팔리는 문제를 찾는 능력”으로 이동합니다.</description><pubDate>Tue, 28 Apr 2026 08:31:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqzIiNj1g6</guid></item><item><title>2/ 최근 바이브 코딩을 하는 사람들, 개발팀, 초기 스타트업들이 자주 말하는 것도 결국 이 지점입니다.
-
-이제 만드는 것은 쉬워졌는데, 마케팅...</title><link>https://www.threads.net/@choi.openai/post/DXqzI8Zj35G</link><description>2/ 최근 바이브 코딩을 하는 사람들, 개발팀, 초기 스타트업들이 자주 말하는 것도 결국 이 지점입니다.
-
-이제 만드는 것은 쉬워졌는데, 마케팅이 어렵습니다.
-제품은 너무 빨리 나오는데, 고객의 관심은 더 좁아졌습니다.
-웹사이트, 앱, SaaS, 자동화 도구는 넘쳐나는데, 실제로 돈을 내는 사용자를 확보하는 것은 더 어려워졌습니다.
-그래서 개발자가 점점 마케팅 회사가 되어야 한다는 말이 나옵니다.
-
-이 변화가 중요합니다.
-
-과거에는 기술 구현이 병목이었습니다.
-이제는 유통, 신뢰, 브랜드, 데이터, 고객 접점이 병목입니다.
-그러면 자본은 자연스럽게 기존 기업으로 몰립니다.
-이미 고객을 가진 회사, 이미 트래픽을 가진 회사, 이미 결제 관계를 가진 회사, 이미 데이터를 가진 회사가 더 유리해집니다.
-
-개인이 1인 유니콘 기업을 만들 수 있다는 말은 매력적입니다.
-저도 가능성 자체는 있다고 봅니다.</description><pubDate>Tue, 28 Apr 2026 08:31:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqzI8Zj35G</guid></item><item><title>3/ AI가 개발, 디자인, CS, 문서, 분석, 운영을 대신해준다면 한 사람이 과거 수십 명이 하던 일을 할 수 있습니다.
-하지만 여기에는 중...</title><link>https://www.threads.net/@choi.openai/post/DXqzJbJjxO9</link><description>3/ AI가 개발, 디자인, CS, 문서, 분석, 운영을 대신해준다면 한 사람이 과거 수십 명이 하던 일을 할 수 있습니다.
-하지만 여기에는 중요한 전제가 있습니다.
-
-그 사람이 접근할 수 있는 시장에 돈이 있어야 합니다.
-그리고 그 돈이 어느 정도 분산되어 있어야 합니다.
-
-총수요가 늘지 않는데 생산자만 늘어나면, 모두가 더 열심히 만들지만 모두가 더 가난해질 수도 있습니다.
-생산성은 올라가는데 단가는 내려가고, 업무량은 늘어나는데 사다리는 사라지는 이상한 상황이 생길 수 있습니다.
-
-이미 일부 소프트웨어 시장에서는 비슷한 흐름이 보입니다.
-SI 단가는 압박을 받고, 외주 시장은 더 치열해지고, 간단한 웹·앱 제작은 빠르게 상품화되고 있습니다.
-예전에는 “개발할 수 있다”는 사실만으로도 협상력이 생겼습니다.
-이제는 “왜 이 제품이어야 하는가”, “누가 이것을 계속 쓸 것인가”, “어떤 유통망으로 반복 매출을 만들 것인가”가 더 중요해졌습니다.</description><pubDate>Tue, 28 Apr 2026 08:31:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqzJbJjxO9</guid></item><item><title>오픈AI도 점점 IPO에 대한 압박이 심해질 것이다.
-
-오픈AI는 이미 투자시장에 너무 큰 약속을 했습니다.
-미래 가치, AGI 기대감, 데이터...</title><link>https://www.threads.net/@choi.openai/post/DXqnWosD2IJ</link><description>오픈AI도 점점 IPO에 대한 압박이 심해질 것이다.
-
-오픈AI는 이미 투자시장에 너무 큰 약속을 했습니다.
-미래 가치, AGI 기대감, 데이터센터, 전용 컴퓨팅 인프라를 명분으로 수많은 투자자와 기업 파트너에게 거대한 자금을 끌어왔습니다.
-2026년 3월 말 오픈AI는 1,220억 달러 규모의 자금 조달을 마감했고, 기업 가치는 8,520억 달러로 평가됐습니다.
-이 정도 규모가 되면 더 이상 “가능성이 큽니다”만으로는 부족합니다.
-
-이제는 숫자로 증명해야 하는 시기입니다.
-
-사용자가 얼마나 늘고 있는지, 유료 전환이 얼마나 가능한지, 기업 고객이 실제 업무에 얼마나 깊게 들어오는지, 그리고 무엇보다 이 모든 컴퓨트 비용을 감당할 만큼 매출이 따라붙을 수 있는지를 보여줘야 합니다. 🧵👇🏻</description><pubDate>Tue, 28 Apr 2026 06:48:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqnWosD2IJ</guid></item><item><title>1/ 저는 그래서 오픈AI에게 IPO가 굉장히 중요한 시점이 되었다고 봅니다.
-
-물론 아직도 오픈AI에 돈을 넣고 싶어 하는 투자자는 많을 것입...</title><link>https://www.threads.net/@choi.openai/post/DXqnXSqj_sr</link><description>1/ 저는 그래서 오픈AI에게 IPO가 굉장히 중요한 시점이 되었다고 봅니다.
-
-물론 아직도 오픈AI에 돈을 넣고 싶어 하는 투자자는 많을 것입니다.
-하지만 문제는 “투자 의향”이 아니라 “민간 시장이 이 규모를 언제까지 감당할 수 있느냐”입니다.
-이미 밸류에이션은 거의 국가급 인프라 기업처럼 커졌고, 데이터센터와 GPU 계약은 몇 년 단위로 선결정해야 합니다.
-투자자 입장에서도 이제는 다음 라운드의 더 높은 가격보다, 공개시장에서 유동성과 검증을 요구할 수밖에 없습니다.
-
-쉽게 말하면, 오픈AI는 더 이상 스타트업처럼 투자받는 회사가 아니라, 공공시장에 자기 경제성을 증명해야 하는 회사가 되어가고 있습니다.</description><pubDate>Tue, 28 Apr 2026 06:48:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqnXSqj_sr</guid></item><item><title>2/ 최근 나온 보도들은 이 압박을 더 선명하게 보여줍니다.
-오픈AI가 내부적으로 설정했던 사용자 증가와 매출 목표를 일부 놓쳤고, ChatGP...</title><link>https://www.threads.net/@choi.openai/post/DXqnXvgj82a</link><description>2/ 최근 나온 보도들은 이 압박을 더 선명하게 보여줍니다.
-오픈AI가 내부적으로 설정했던 사용자 증가와 매출 목표를 일부 놓쳤고, ChatGPT도 2025년 말까지 주간 10억 명 사용자 목표에 도달하지 못한 것으로 알려졌습니다.
-겉으로 보면 9억 명 이상이라는 숫자도 엄청나지만, IPO를 앞둔 회사에게 중요한 것은 절대 규모만이 아닙니다.
-시장에 약속한 성장 속도를 계속 유지할 수 있느냐가 더 중요합니다.
-
-CFO Sarah Friar가 대규모 컴퓨트 계약을 감당할 수 있을지 우려했다는 보도도 같은 맥락입니다.
-이것은 단순한 내부 갈등이라기보다, 오픈AI의 비즈니스 모델이 지금 어느 지점까지 왔는지를 보여주는 신호에 가깝습니다.
-매출은 커지고 있지만, 컴퓨트 약속은 더 빠르게 커지고 있습니다.
-사용자는 폭발적으로 늘었지만, 무료 사용자의 비중도 여전히 압도적으로 높습니다.
-그러면 결국 질문은 하나로 좁혀집니다.
-
-이 회사는 거대한 사용량을 실제 매출 구조로 바꿀 수 있는가.</description><pubDate>Tue, 28 Apr 2026 06:48:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqnXvgj82a</guid></item><item><title>3/ 문제는 그 시간 동안 누군가 돈을 태워야 한다는 것입니다.
-
-모델은 지금도 돌아가야 하고, 사용자는 지금도 늘어나고 있고, 경쟁사는 지금도...</title><link>https://www.threads.net/@choi.openai/post/DXqnYlRj6UO</link><description>3/ 문제는 그 시간 동안 누군가 돈을 태워야 한다는 것입니다.
-
-모델은 지금도 돌아가야 하고, 사용자는 지금도 늘어나고 있고, 경쟁사는 지금도 따라오고 있습니다.
-Stargate가 완전히 깔리기 전까지 오픈AI는 클라우드 파트너십과 민간 자금으로 시간을 사야 합니다.
-저는 이 지점에서 IPO가 오픈AI의 인프라 전환을 버티게 해주는 거대한 자금 조달 이벤트가 될 수밖에 없다고 봅니다.
-
-최근 마이크로소프트와의 파트너십 개편도 이 흐름에서 보면 마이크로소프트는 여전히 오픈AI의 주요 클라우드 파트너로 남지만, 새 계약에서는 오픈AI 제품을 다른 클라우드에서도 고객에게 제공할 수 있는 길이 더 열렸습니다.
-
-마이크로소프트의 오픈AI IP 라이선스도 2032년까지 이어지지만 비독점 구조로 바뀌었고, 마이크로소프트가 오픈AI에 지불하던 수익 쉐어도 종료되는 방향으로 정리됐습니다.
-
-반대로 오픈AI는 2030년까지 마이크로소프트에 매출 일부를 계속 지급하는 구조가 남아 있습니다.</description><pubDate>Tue, 28 Apr 2026 06:49:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqnYlRj6UO</guid></item></channel></rss>
+이제는 예전처럼 몇 개월을 기다려 거대한 새 버전을 발표하는 것이 아니라, 이제는 스마트폰 앱 업데이트처럼 실시간으로 모델이 교체되는 시대가 되어가고 있는 것 같습니다.</description><pubDate>Tue, 28 Apr 2026 13:42:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXrWqkpjwPz</guid></item></channel></rss>
