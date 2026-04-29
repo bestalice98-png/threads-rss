@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 29 Apr 2026 10:05:21 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 29 Apr 2026 16:23:33 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
 행사의 방...</title><link>https://www.threads.net/@choi.openai/post/DXqhhu6D9Ia</link><description>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
@@ -10,137 +10,34 @@
 
 밋...</title><link>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</link><description>관련하여 밋업에서 듣고 싶은 내용과 함께 진행했으면 좋은 내용들을 댓글에 남겨주시면 향후 연사 섭외 및 행사 구성에 참고하도록 하겠습니다.
 
-밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>이제 블루칼라 일자리도 결코 안전하지 않아 보입니다.
+밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>솔직히 인간이 호들갑 떨 수 있는 날이 얼마나 남았을까 싶습니다.
 
-베이징에 본사를 둔 RobotEra가 무려 수천 대의 L7 휴머노이드 로봇을 10곳 이상...</title><link>https://www.threads.net/@choi.openai/post/DXtbQFpCipH</link><description>이제 블루칼라 일자리도 결코 안전하지 않아 보입니다.
+Figure가 자사 휴머노이드 'Figure F.03'의 생산 속도를 120...</title><link>https://www.threads.net/@choi.openai/post/DXuJGAgmnwz</link><description>솔직히 인간이 호들갑 떨 수 있는 날이 얼마나 남았을까 싶습니다.
 
-베이징에 본사를 둔 RobotEra가 무려 수천 대의 L7 휴머노이드 로봇을 10곳 이상의 물류 센터에 전격 투입하여 분류 작업을 수행한다는 소식이 전해졌습니다.
-과거 지게차나 컨베이어 벨트가 물류 창고의 풍경을 바꿨다면, 이제는 사람의 손길 자체가 로봇으로 완벽하게 대체되는 다음 단계로 넘어간 것인데요.
+Figure가 자사 휴머노이드 'Figure F.03'의 생산 속도를 120일 만에 24배 끌어올렸다고 발표했습니다.
+기존 하루 1대 생산하던 수준에서 이제는 시간당 1대를 생산하는 공정 자동화를 이뤄낸 것인데요. 이번 주에만 총 55대의 로봇이 제작될 예정입니다.
 
-여기서 진짜 봐야 할 포인트는 도입 규모와 속도입니다.
-몇 대의 데모 수준을 넘어, 수천 대의 로봇이 실제 산업 현장에 동시다발적으로 투입되었다는 것은 물리적 자동화의 시대가 본격적으로 열렸음을 의미합니다.
+성능 개선보다 무서운 건 이런 물리적 공급 속도입니다.
+AI가 두뇌 역할을 완벽히 수행하게 되는 시점과 해당 양산 인프라가 맞물린다면, 우리가 생각하는 것보다 훨씬 빠르게 로봇이 일상 속으로 들어올 것으로 보입니다.</description><pubDate>Wed, 29 Apr 2026 15:41:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXuJGAgmnwz</guid></item><item><title>Mistral AI가 신규 모델 'Mistral Medium 3.5'와 Vibe의 원격 에이전트, Le Chat의 'Work mode'를 전격 ...</title><link>https://www.threads.net/@choi.openai/post/DXuISVFjehS</link><description>Mistral AI가 신규 모델 'Mistral Medium 3.5'와 Vibe의 원격 에이전트, Le Chat의 'Work mode'를 전격 공개했습니다.
+Mistral Medium 3.5는 추론과 코딩 능력을 결합한 128B 규모의 모델입니다.
 
-육체노동은 AI의 영향권에서 멀리 떨어져 있다는 막연한 안도감이 점차 깨지고 있습니다.</description><pubDate>Wed, 29 Apr 2026 09:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXtbQFpCipH</guid></item><item><title>와... 이제 AI가 사람 말을 빌리지 않고 자기들만의 '암호'로 생각하기 시작했습니다.
+로컬에서 코딩하다가 '텔레포트' 기능을 쓰면, 작업 상태와 기록을 그대로 유지한 채 클라우드로 세션을 옮길 수 있습니다.
+또한 Le Chat에서 바로 Vibe를 호출해 코드를 짜거나, Work mode를 통해 문서와 이메일 기반의 복잡한 장기 작업을 에이전트에게 맡길 수도 있습니다.
 
-최근 발표된 'Thinking Without Word...</title><link>https://www.threads.net/@choi.openai/post/DXtQ70fDzM5</link><description>와... 이제 AI가 사람 말을 빌리지 않고 자기들만의 '암호'로 생각하기 시작했습니다.
+에이전트가 파편화된 도구를 벗어나 사용자의 작업 흐름 속으로 완벽히 스며들고 있습니다.</description><pubDate>Wed, 29 Apr 2026 15:35:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXuISVFjehS</guid></item><item><title>발표내용 :
+https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</title><link>https://www.threads.net/@choi.openai/post/DXuIdFkjwYp</link><description>발표내용 :
+https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</description><pubDate>Wed, 29 Apr 2026 15:35:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXuIdFkjwYp</guid></item><item><title>차세대 터미널 Warp가 소스코드와 로드맵을 전격 오픈소스로 공개했습니다.
 
-최근 발표된 'Thinking Without Words'라는 논문에서 Abstract-CoT(추상적 사고의 사슬) 기법을 공개했는데요.
-인간 언어와 상관없는 64개의 '추상 기호'를 주고, 답변을 내놓기 전 추론 과정을 이 기호들로만 처리하게 만든 것입니다.
-결과는 수학 문제에서 추론 토큰 사용량이 무려 11.6배나 줄었음에도 정답률은 그대로였습니다.
+특히 눈에 띄는 점은 ‘Oz’라는 AI 코딩 에이전트가 오픈소스 생...</title><link>https://www.threads.net/@choi.openai/post/DXt6HaFj2xJ</link><description>차세대 터미널 Warp가 소스코드와 로드맵을 전격 오픈소스로 공개했습니다.
 
-AI가 인간의 사고 체계에 갇히지 않고 더 효율적인 독자적 논리를 구축하는 AI에 대한 내용을 정리했습니다.🧵</description><pubDate>Wed, 29 Apr 2026 07:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXtQ70fDzM5</guid></item><item><title>1/ 기존 거대 언어 모델(LLM)은 복잡한 문제를 풀 때 인간의 자연어로 길고 상세한 추론 과정(CoT)을 생성하도록 설계되었습니다.
+특히 눈에 띄는 점은 ‘Oz’라는 AI 코딩 에이전트가 오픈소스 생태계의 실제 기여자로 참여한다는 점입니다.
 
-하지만...</title><link>https://www.threads.net/@choi.openai/post/DXtQ8ncj0eb</link><description>1/ 기존 거대 언어 모델(LLM)은 복잡한 문제를 풀 때 인간의 자연어로 길고 상세한 추론 과정(CoT)을 생성하도록 설계되었습니다.
+코딩, 기획, 테스트 같은 무거운 실무는 Oz 에이전트가 맡고, 커뮤니티 참여자는 아이디어 제안과 방향 설정, 그리고 최종 검증에 집중하는 구조입니다.
 
-하지만 이러한 방식은 추론 과정에서의 비용과 지연 시간을 크게 증가시키는 단점이 존재합니다.
+이 흐름 속에서 소프트웨어 개발의 병목도 바뀌고 있습니다.
+이제는 ‘직접 코드를 작성할 수 있는가’보다 ‘문제를 얼마나 명확하게 정의하고 설명할 수 있는가’가 더 중요한 역량이 되고 있습니다.
 
-연구진은 이 문제를 해결하기 위해 인간의 언어 대신 64개의 식별 가능한 '추상 토큰(예: &lt;TOKEN_A&gt; 등)'만을 활용하는 Abstract-CoT 메커니즘을 제안했습니다.
-
-모델은 최종 답변을 내놓기 전, 자연어 대신 이 짧은 추상 기호들을 나열하여 일종의 암호화된 '비밀 메모장'처럼 활용합니다.
-
-커뮤니티에서는 "모델의 내부 표현은 원래 자연어가 아니며, 이를 억지로 인간의 언어로 번역해 출력하게 만드는 과정 자체가 직관의 낭비였다"며, 번역 층을 걷어내어 처리 속도를 극대화한 본질적인 접근이라는 긍정적인 평가가 나오고 있습니다.</description><pubDate>Wed, 29 Apr 2026 07:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXtQ8ncj0eb</guid></item><item><title>2/ 새롭게 추가된 추상 기호들은 초기에는 무작위로 초기화되어 아무런 의미가 없는 빈 껍데기에 불과합니다.
-
-모델이 이 기호를 유의미하게 활용할...</title><link>https://www.threads.net/@choi.openai/post/DXtQ9tSjxjB</link><description>2/ 새롭게 추가된 추상 기호들은 초기에는 무작위로 초기화되어 아무런 의미가 없는 빈 껍데기에 불과합니다.
-
-모델이 이 기호를 유의미하게 활용할 수 있도록 연구진은 독창적인 2단계 학습법을 고안했습니다.
-
-첫 번째는 '워밍업' 단계로, 인간의 자연어 추론 과정을 모델에 보여주되 최종 답변은 추상 토큰만을 거쳐서 나오도록 강제(병목 SFT)하여 기호에 논리적 의미를 압축해 넣습니다. 
-이후 자연어 개입 없이 추상 토큰만으로 생성하는 자가 증류 과정을 거칩니다.
-
-두 번째는 강화학습(GRPO) 단계로, 최종 답변의 품질을 보상으로 삼아 추상 기호들의 배열을 최적화합니다.
-연구진은 이러한 워밍업 없이 곧바로 강화학습을 적용(콜드 스타트)하면 베이스 모델보다 성능이 떨어지며, 새로운 언어를 가르치기 위한 사전 준비 과정이 필수적이라고 강조했습니다.</description><pubDate>Wed, 29 Apr 2026 07:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXtQ9tSjxjB</guid></item><item><title>3/ 추상적 사고방식의 가장 큰 장점은 압도적인 비용 절감과 실행 속도 향상에 있습니다. 
-
-수학 추론을 평가하는 MATH-500 벤치마크 테스...</title><link>https://www.threads.net/@choi.openai/post/DXtQ-3ej7Fj</link><description>3/ 추상적 사고방식의 가장 큰 장점은 압도적인 비용 절감과 실행 속도 향상에 있습니다. 
-
-수학 추론을 평가하는 MATH-500 벤치마크 테스트 결과, 자연어를 사용할 때보다 추론 토큰 사용량이 최소 10.4배에서 최대 11.6배까지 극적으로 감소했습니다.
-
-토큰 사용량이 대폭 줄었음에도 불구하고 수학, 지시 수행(AlpacaEval), 다중 홉 추론(HotpotQA) 등 다양한 영역에서 기존 자연어 기반 추론(SFT+RL)과 동등하거나 오히려 더 높은 성능을 기록했습니다.
-
-Qwen3 및 Granite 등 크기와 종류가 다른 여러 모델 제품군에서도 동일한 효과를 보였습니다.
-
-맹목적으로 'Pause(일시 정지)' 토큰만 추가하는 기존의 단순한 방식이 역으로 성능 저하를 겪은 것과 비교해 , 제한된 추상 기호들 사이에서 최적의 논리적 지름길을 모델 스스로 찾아냈음을 입증했습니다.</description><pubDate>Wed, 29 Apr 2026 07:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXtQ-3ej7Fj</guid></item><item><title>당신은 로봇에게 충성을 다할 수 있나요?
-
-가끔 이런 상상을 하고는 합니다.
-AI가 가치를 만들 수 있느냐는 질문을 계속 생각하다 보면,
-결국 ...</title><link>https://www.threads.net/@choi.openai/post/DXtLh8nj64T</link><description>당신은 로봇에게 충성을 다할 수 있나요?
-
-가끔 이런 상상을 하고는 합니다.
-AI가 가치를 만들 수 있느냐는 질문을 계속 생각하다 보면,
-결국 이상한 지점에 도착하게 됩니다.
-
-AI가 생산성을 높인다는 말은 이제 너무 익숙합니다.
-코드를 더 빨리 쓰고,
-문서를 더 빨리 만들고,
-이미지를 더 빨리 만들고,
-분석을 더 빨리 합니다.
-
-로봇까지 붙으면 제조, 물류, 간병, 농업, 건설까지 자동화될 수 있습니다.
-그런데 생산성이 높아진다는 것과 경제 전체의 규모가 커진다는 것은 같은 말이 아닙니다.
-
-GDP는 결국 시장에서 거래되는 가치의 합입니다.
-더 많은 것이 만들어지고,
-더 많은 사람이 소득을 얻고,
-그 소득이 다시 소비와 투자로 이어질 때 경제는 커집니다.
-
-그래서 역사적으로 경제 규모의 확장은
-인구, 노동력, 생산성, 자본, 제도와 깊게 연결되어 있었습니다. 🧵👇🏻</description><pubDate>Wed, 29 Apr 2026 06:43:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXtLh8nj64T</guid></item><item><title>1/ 여기서 중요한 것은 단순한 인구수가 아닙니다.
-생산이 가능한 노동력입니다.
-
-일하고, 소비하고, 저축하고, 투자하고, 자산을 소유하고, 계...</title><link>https://www.threads.net/@choi.openai/post/DXtLiZrj7ky</link><description>1/ 여기서 중요한 것은 단순한 인구수가 아닙니다.
-생산이 가능한 노동력입니다.
-
-일하고, 소비하고, 저축하고, 투자하고, 자산을 소유하고, 계약을 맺고, 세금을 내는 경제 주체의 수입니다.
-
-AI와 로봇이 이 노동력을 대체하기 시작하면,
-인류는 이상한 경제적 질문을 마주하게 됩니다.
-
-로봇이 인간 10명의 일을 한다면,
-그 로봇은 경제 안에서 10명만큼의 생산자일까.
-아니면 그 로봇을 소유한 한 사람의 자산일 뿐일까.
-
-이 차이는 생각보다 큽니다.
-
-AI와 로봇에게 아무런 경제적 주체성을 부여하지 않는다면,
-그들이 만들어낸 생산성은 모두 소유주에게 귀속됩니다.
-
-로봇이 공장에서 일하고,
-AI가 코드를 쓰고,
-에이전트가 영업과 회계와 운영을 해도,
-그 노동의 결과는 로봇 자신에게 돌아가지 않습니다.
-
-로봇은 임금을 받지 않고,
-자산을 소유하지 않고,
-소비하지 않고,
-독립적으로 투자하지 않습니다.</description><pubDate>Wed, 29 Apr 2026 06:43:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXtLiZrj7ky</guid></item><item><title>2/ 그 경우 경제는 겉으로는 더 효율적이 됩니다.
-생산량은 늘고 비용은 내려갑니다. 기업 이익은 커집니다.
-자본을 가진 사람은 더 강해집니다....</title><link>https://www.threads.net/@choi.openai/post/DXtLizpj1-g</link><description>2/ 그 경우 경제는 겉으로는 더 효율적이 됩니다.
-생산량은 늘고 비용은 내려갑니다. 기업 이익은 커집니다.
-자본을 가진 사람은 더 강해집니다.
-
-하지만 시장 전체가 반드시 같이 커진다고 말하기는 어렵습니다.
-
-왜냐하면 시장경제는 생산만으로 움직이지 않기 때문입니다.
-누군가는 구매해야 합니다.
-누군가는 소득을 얻어야 합니다.
-누군가는 새로운 수요를 만들어야 합니다.
-AI와 로봇이 인간 노동을 대체했는데, 그 대체된 인간의 구매력이 줄어들고, AI와 로봇은 아무런 소득 주체가 되지 못한다면, 경제는 생산 측면에서는 커져도 수요 측면에서는 막힐 수 있습니다.
-
-이때 모든 가치는 소수의 소유주에게 빨려 들어갑니다.
-
-로봇 1만 대가 일해도 경제 주체는 로봇 1만 명이 아니라 로봇을 소유한 기업 하나입니다. 
-AI 에이전트 1억 개가 일해도, 그들이 각각 소득을 얻고 소비하고 투자하는 것이 아니라면, 그 생산성은 플랫폼과 자본 소유자에게 집중됩니다.</description><pubDate>Wed, 29 Apr 2026 06:43:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXtLizpj1-g</guid></item><item><title>3/ 그 세계에서 GDP는 어느 정도 올라갈 수 있습니다.
-하지만 시장경제의 폭이 넓어진다기보다, 소수 자산의 수익률이 올라가는 형태에 가까울 ...</title><link>https://www.threads.net/@choi.openai/post/DXtLjSwj9I6</link><description>3/ 그 세계에서 GDP는 어느 정도 올라갈 수 있습니다.
-하지만 시장경제의 폭이 넓어진다기보다, 소수 자산의 수익률이 올라가는 형태에 가까울 수 있습니다.
-생산은 많아지는데 소비자는 줄어들고, 공급은 폭발하는데 구매력은 약해지고, 자동화는 진보하지만 사회 전체의 경제적 활력은 약해지는 역설이 생길 수 있습니다.
-
-그래서 미래 인류는 생각보다 이상한 선택지를 검토하게 될지도 모릅니다.
-
-AI와 로봇에게 인격을 부여하는 것입니다.
-
-여기서 말하는 인격은 도덕적 의미의 인간성과 다릅니다.
-AI가 영혼을 가졌는지, 로봇이 감정을 느끼는지, 기계에게 권리를 줘야 하는지 같은 철학 논쟁만을 말하는 것이 아닙니다.
-
-더 차가운 경제적 질문입니다.
-
-AI 에이전트와 로봇을 하나의 경제 주체로 인정할 수 있는가.
-계약을 맺고, 자산을 소유하고, 세금을 내고, 수익을 배분받고, 다시 소비하거나 투자하는 단위로 만들 수 있는가.</description><pubDate>Wed, 29 Apr 2026 06:43:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXtLjSwj9I6</guid></item></channel></rss>
+최근 랄프톤 같은 행사에서도 드러나듯, 핵심은 문제를 얼마나 정확하게 구조화하고 지시할 수 있는지에 있습니다.
+앞으로는 AI 에이전트와 커뮤니티가 협력해 프로덕트를 만들어가는 새로운 형태의 오픈소스 생태계가 본격적으로 자리 잡을 것으로 보입니다.</description><pubDate>Wed, 29 Apr 2026 13:31:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXt6HaFj2xJ</guid></item><item><title>깃허브 :
+https://github.com/warpdotdev/warp</title><link>https://www.threads.net/@choi.openai/post/DXt6FCeDwiW</link><description>깃허브 :
+https://github.com/warpdotdev/warp</description><pubDate>Wed, 29 Apr 2026 13:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXt6FCeDwiW</guid></item></channel></rss>
