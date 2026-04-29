@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 28 Apr 2026 16:31:43 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 29 Apr 2026 02:52:44 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
 행사의 방...</title><link>https://www.threads.net/@choi.openai/post/DXqhhu6D9Ia</link><description>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
@@ -10,30 +10,19 @@
 
 밋...</title><link>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</link><description>관련하여 밋업에서 듣고 싶은 내용과 함께 진행했으면 좋은 내용들을 댓글에 남겨주시면 향후 연사 섭외 및 행사 구성에 참고하도록 하겠습니다.
 
-밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>마이크로소프트 리서치(Microsoft Research)가 동영상 생성 모델에 3D 공간의 물리적 제약을 학습시키는 'World-R1'을 전격 ...</title><link>https://www.threads.net/@choi.openai/post/DXrmwAQD6pE</link><description>마이크로소프트 리서치(Microsoft Research)가 동영상 생성 모델에 3D 공간의 물리적 제약을 학습시키는 'World-R1'을 전격 공개했습니다.
-기존 모델들은 단순히 2D 프레임을 이어 붙이는 수준에 그쳐, 원근법이나 기하학적 일관성이 쉽게 무너지는 한계가 있었습니다.
+밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>와.. 이분을 직접 뵙다니.. 심장이 떨어질 것 같습니다..</title><link>https://www.threads.net/@choi.openai/post/DXstXE6D74b</link><description>와.. 이분을 직접 뵙다니.. 심장이 떨어질 것 같습니다..</description><pubDate>Wed, 29 Apr 2026 02:19:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXstXE6D74b</guid></item><item><title>두분이 만났다.</title><link>https://www.threads.net/@choi.openai/post/DXsvM6bj7Ct</link><description>두분이 만났다.</description><pubDate>Wed, 29 Apr 2026 02:35:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXsvM6bj7Ct</guid></item><item><title>Poolside AI가 첫 번째 파운데이션 모델인 'Laguna M.1'과 'Laguna XS.2'를 전격 공개했습니다.
+가장 눈에 띄는 건 3...</title><link>https://www.threads.net/@choi.openai/post/DXskUdHkYvf</link><description>Poolside AI가 첫 번째 파운데이션 모델인 'Laguna M.1'과 'Laguna XS.2'를 전격 공개했습니다.
+가장 눈에 띄는 건 33B 규모의 오픈 가중치 모델인 Laguna XS.2입니다
+Qwen3.6-35B와 경쟁할 수 있는 성능을 보여주며, 긴 호흡의 에이전트 코딩 작업에 특화되어 있는데요.
 
-하지만 World-R1은 모델의 기본 구조를 무겁게 뜯어고치는 대신, 강화학습(RL) 피드백을 활용해 AI가 스스로 3D 공간의 법칙을 지키도록 만들었습니다.
+기존 모델을 파인튜닝한 게 아니라 자체 인프라에서 처음부터(from scratch) 학습을 진행했다고 합니다.</description><pubDate>Wed, 29 Apr 2026 01:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXskUdHkYvf</guid></item><item><title>주소 :
+https://poolside.ai/blog/laguna-a-deeper-dive</title><link>https://www.threads.net/@choi.openai/post/DXskVZaEfMG</link><description>주소 :
+https://poolside.ai/blog/laguna-a-deeper-dive</description><pubDate>Wed, 29 Apr 2026 01:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXskVZaEfMG</guid></item><item><title>Ant Group 산하 AGI 조직에서 'Ling-2.6-flash'를 오픈소스로 전격 공개했습니다.
+전체 104B 파라미터 중 7.4B만 활성...</title><link>https://www.threads.net/@choi.openai/post/DXsZ8F2gFii</link><description>Ant Group 산하 AGI 조직에서 'Ling-2.6-flash'를 오픈소스로 전격 공개했습니다.
+전체 104B 파라미터 중 7.4B만 활성화되는 MoE 구조로 설계되었는데요.
 
-이를 통해 엄격한 3D 기하학 법칙과 피사체의 자연스러운 움직임 사이의 균형을 완벽하게 잡아낸 것이 핵심입니다.
+초당 215토큰을 생성하는 속도를 내면서도 토큰 소모량은 대폭 줄인 것이 특징입니다.
 
-AI가 현실의 물리적 공간을 완벽히 이해하는 월드 모델로 진화하고 있습니다. 앞으로 복잡한 가상 환경 구축이 텍스트 프롬프트 한 줄로 완성될 날이 머지않아 보입니다.</description><pubDate>Tue, 28 Apr 2026 16:03:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXrmwAQD6pE</guid></item><item><title>프로젝트 주소 :
-https://microsoft.github.io/World-R1/</title><link>https://www.threads.net/@choi.openai/post/DXrmvgxj_kp</link><description>프로젝트 주소 :
-https://microsoft.github.io/World-R1/</description><pubDate>Tue, 28 Apr 2026 16:02:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXrmvgxj_kp</guid></item><item><title>Mistral AI가 기업용 AI 오케스트레이션 플랫폼인 'Workflows'의 퍼블릭 프리뷰를 출시했습니다.
-
-ASML, CMA-CGM 등 유...</title><link>https://www.threads.net/@choi.openai/post/DXrc6ypjoAe</link><description>Mistral AI가 기업용 AI 오케스트레이션 플랫폼인 'Workflows'의 퍼블릭 프리뷰를 출시했습니다.
-
-ASML, CMA-CGM 등 유수의 글로벌 기업들이 이미 이 도구를 활용해 관세 문서 심사, 고객 확인(KYC), 고객 지원 분류 등 치명적인 실수가 용납되지 않는 중요 비즈니스 프로세스를 자동화하고 있습니다.
-
-AI가 복잡한 여러 단계를 처리하다 네트워크 오류가 나더라도 처음부터 다시 시작하지 않고 멈춘 지점부터 복구(Durable execution)됩니다. 또한 중요한 승인 단계에서는 AI가 스스로 일시 정지해 인간의 컨펌을 기다리는 'Human-in-the-loop' 구조를 코드 한 줄로 구현할 수 있습니다.</description><pubDate>Tue, 28 Apr 2026 14:37:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXrc6ypjoAe</guid></item><item><title>발표내용 :
-https://mistral.ai/news/workflows</title><link>https://www.threads.net/@choi.openai/post/DXrdA2kj2D5</link><description>발표내용 :
-https://mistral.ai/news/workflows</description><pubDate>Tue, 28 Apr 2026 14:37:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXrdA2kj2D5</guid></item><item><title>GPT 5.6이 벌써 테스트에 들어간듯 싶습니다.
-
-GPT-5.5가 출시된 지 불과 며칠 지나지 않았는데, 벌써 내부 Codex 환경 로그에서 ...</title><link>https://www.threads.net/@choi.openai/post/DXrWqkpjwPz</link><description>GPT 5.6이 벌써 테스트에 들어간듯 싶습니다.
-
-GPT-5.5가 출시된 지 불과 며칠 지나지 않았는데, 벌써 내부 Codex 환경 로그에서 'GPT-5.6'으로 트래픽이 라우팅된 정황이 포착되었습니다.
-
-단순한 표기 오류일 수도 있지만, 업계에서는 이를 일부 트래픽을 새 모델에 몰래 흘려보내 성능을 점검하는 'Canary 테스트'로 보고 있습니다.
-기존 5.5 버전에서 발견된 미세한 단점들을 강화학습으로 재빠르게 교정해 쉴 틈 없이 다음 버전을 준비하는 것으로 보이는데요.
-
-이제는 예전처럼 몇 개월을 기다려 거대한 새 버전을 발표하는 것이 아니라, 이제는 스마트폰 앱 업데이트처럼 실시간으로 모델이 교체되는 시대가 되어가고 있는 것 같습니다.</description><pubDate>Tue, 28 Apr 2026 13:42:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXrWqkpjwPz</guid></item></channel></rss>
+해당 모델은 웹 리서치, 문서 요약, 복잡한 그룹 채팅 분석, 시각적인 웹페이지 코딩까지 실제 에이전트 워크플로우에 최적화된 모습을 보여줍니다.</description><pubDate>Tue, 28 Apr 2026 23:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXsZ8F2gFii</guid></item><item><title>허깅페이스 :
+https://huggingface.co/inclusionAI/Ling-2.6-flash</title><link>https://www.threads.net/@choi.openai/post/DXsZ8zVgOrY</link><description>허깅페이스 :
+https://huggingface.co/inclusionAI/Ling-2.6-flash</description><pubDate>Tue, 28 Apr 2026 23:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXsZ8zVgOrY</guid></item></channel></rss>
