@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 30 Apr 2026 02:54:41 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 30 Apr 2026 10:06:36 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
 행사의 방...</title><link>https://www.threads.net/@choi.openai/post/DXqhhu6D9Ia</link><description>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
@@ -10,17 +10,30 @@
 
 밋...</title><link>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</link><description>관련하여 밋업에서 듣고 싶은 내용과 함께 진행했으면 좋은 내용들을 댓글에 남겨주시면 향후 연사 섭외 및 행사 구성에 참고하도록 하겠습니다.
 
-밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>앤트로픽이 'Claude Code'에 자사 플랫폼 API를 직접 다루는 전용 스킬을 기본 탑재했습니다.
-터미널에서 명령어 하나만 입력하면 새로운...</title><link>https://www.threads.net/@choi.openai/post/DXvMe_UiSl0</link><description>앤트로픽이 'Claude Code'에 자사 플랫폼 API를 직접 다루는 전용 스킬을 기본 탑재했습니다.
-터미널에서 명령어 하나만 입력하면 새로운 Opus 4.7 모델로의 마이그레이션부터 'Prompt caching' 설정, 관리형 에이전트 연동까지 알아서 처리해 줍니다.
+밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>윈도우 유저 여러분!!
+이제 Chromex를 윈도우 버전도 공식 지원합니다!</title><link>https://www.threads.net/@choi.openai/post/DXv51kwjz_Y</link><description>윈도우 유저 여러분!!
+이제 Chromex를 윈도우 버전도 공식 지원합니다!</description><pubDate>Thu, 30 Apr 2026 08:06:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXv51kwjz_Y</guid></item><item><title>100% 오픈소스 입니다.
+https://github.com/GENEXIS-AI/chromex</title><link>https://www.threads.net/@choi.openai/post/DXv582rD5Fd</link><description>100% 오픈소스 입니다.
+https://github.com/GENEXIS-AI/chromex</description><pubDate>Thu, 30 Apr 2026 08:07:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXv582rD5Fd</guid></item><item><title>XAI가 Grok 웹 버전에 'Imagine Agent' 베타를 새롭게 공개했습니다.
 
-새로운 모델로 넘어갈 때마다 설정 코드를 고치는 건 꽤 번거로운 작업이었는데요.
-해당 스킬로 프롬프트 캐싱을 세팅한 실제 개발자들은 40달러가 들던 작업 비용을 8달러 수준으로 줄이고, 사람이 놓치기 쉬운 캐시 오류까지 잡아냈다고 합니다.</description><pubDate>Thu, 30 Apr 2026 01:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvMe_UiSl0</guid></item><item><title>자세히 알아보기 :
-https://claude.com/blog/claude-api-skill</title><link>https://www.threads.net/@choi.openai/post/DXvMf8rCeuX</link><description>자세히 알아보기 :
-https://claude.com/blog/claude-api-skill</description><pubDate>Thu, 30 Apr 2026 01:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvMf8rCeuX</guid></item><item><title>구글이 Gemini 앱 내에서 곧바로 다운로드 가능한 완성형 파일을 생성해 주는 기능을 전 세계에 공식 출시했습니다.
+이제 무한한 캔버스 위에서 AI 에이전트와 직접 브레인스...</title><link>https://www.threads.net/@choi.openai/post/DXvwAZ8D8oi</link><description>XAI가 Grok 웹 버전에 'Imagine Agent' 베타를 새롭게 공개했습니다.
 
-이제 프롬프트 창에 지시...</title><link>https://www.threads.net/@choi.openai/post/DXvDU39ETHX</link><description>구글이 Gemini 앱 내에서 곧바로 다운로드 가능한 완성형 파일을 생성해 주는 기능을 전 세계에 공식 출시했습니다.
+이제 무한한 캔버스 위에서 AI 에이전트와 직접 브레인스토밍하며 이미지와 영상을 자유롭게 생성할 수 있게 되었는데요.
+이제 캔버스에서 1분짜리 단편 영화나 UGC 광고 영상, 완벽한 만화책 세트 같은 복잡한 연속 작업까지 한 번에 처리가 가능해졌습니다.
 
-이제 프롬프트 창에 지시만 내리면, PDF, 마이크로소프트 워드(.docx) 및 엑셀(.xlsx), 구글 문서·스프레드시트·프레젠테이션, 심지어 LaTeX나 마크다운(MD) 형태의 파일로 결과물을 만들어줍니다.</description><pubDate>Thu, 30 Apr 2026 00:12:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvDU39ETHX</guid></item><item><title>발표내용 :
-https://blog.google/innovation-and-ai/products/gemini-app/generate-files-...</title><link>https://www.threads.net/@choi.openai/post/DXvDoyzj5UK</link><description>발표내용 :
-https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/</description><pubDate>Thu, 30 Apr 2026 00:12:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvDoyzj5UK</guid></item><item><title>오픈AI 사장님께 영광을..!</title><link>https://www.threads.net/@choi.openai/post/DXvByMMD1Pp</link><description>오픈AI 사장님께 영광을..!</description><pubDate>Wed, 29 Apr 2026 23:56:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvByMMD1Pp</guid></item><item><title>크롬 확장</title><link>https://www.threads.net/@choi.openai/post/DXvB1OHjwCm</link><description>크롬 확장</description><pubDate>Wed, 29 Apr 2026 23:57:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvB1OHjwCm</guid></item><item><title>with Codex</title><link>https://www.threads.net/@choi.openai/post/DXvCldUj9uy</link><description>with Codex</description><pubDate>Thu, 30 Apr 2026 00:03:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvCldUj9uy</guid></item></channel></rss>
+생성된 여러 이미지를 동시에 편집하고 영상으로 변환하며, 이를 이어 붙이거나(Stitch) 자르는 세밀한 영상 편집 기능까지 캔버스 안에서 모두 지원합니다.
+
+여러 툴을 번갈아 쓸 필요 없이, 아이디어만 있다면 Grok 하나로 기획부터 편집, 최종 추출까지 끝내는 완벽한 AI 작업 공간이 만들어지고 있습니다.</description><pubDate>Thu, 30 Apr 2026 06:41:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvwAZ8D8oi</guid></item><item><title>길고 복잡하게 쪼개서 지시하던 프롬프트 작성법은 오히려 독이 됩니다.
+
+오픈AI가 'GPT-5.5 프롬프트 가이드'를 전격 공개했습니다.
+가장 ...</title><link>https://www.threads.net/@choi.openai/post/DXvhKryCELe</link><description>길고 복잡하게 쪼개서 지시하던 프롬프트 작성법은 오히려 독이 됩니다.
+
+오픈AI가 'GPT-5.5 프롬프트 가이드'를 전격 공개했습니다.
+가장 크게 바뀐 점은 구체적인 작업 과정을 일일이 설명하지 말고, 원하는 최종 결과물의 형태만 명확히 정의하라는 것입니다.
+이전 세대의 AI는 작업 궤도를 벗어나지 않도록 단계별 통제가 필수였지만, GPT-5.5 환경에서는 이런 방식이 오히려 사고 공간을 좁히고 기계적인 답변만 유도하게 됩니다.
+
+이제는 목적지와 제약 조건만 던져주면 GPT-5.5가 스스로 최적의 해결 경로를 개척합니다.
+
+복잡한 구조표를 짜며 프롬프트를 코딩하듯 조립하는 기술보다, 정확히 무엇을 얻고자 하는지 판단하고 기획하는 본질적인 안목이 전부인 시대가 되었습니다.</description><pubDate>Thu, 30 Apr 2026 04:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvhKryCELe</guid></item><item><title>프롬프트 가이드 :
+https://developers.openai.com/api/docs/guides/prompt-guidance?model=g...</title><link>https://www.threads.net/@choi.openai/post/DXvhMsWiK6T</link><description>프롬프트 가이드 :
+https://developers.openai.com/api/docs/guides/prompt-guidance?model=gpt-5.5</description><pubDate>Thu, 30 Apr 2026 04:31:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvhMsWiK6T</guid></item></channel></rss>
