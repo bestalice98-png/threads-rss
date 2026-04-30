@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 29 Apr 2026 16:23:33 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 30 Apr 2026 02:54:41 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
 행사의 방...</title><link>https://www.threads.net/@choi.openai/post/DXqhhu6D9Ia</link><description>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
@@ -10,34 +10,17 @@
 
 밋...</title><link>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</link><description>관련하여 밋업에서 듣고 싶은 내용과 함께 진행했으면 좋은 내용들을 댓글에 남겨주시면 향후 연사 섭외 및 행사 구성에 참고하도록 하겠습니다.
 
-밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>솔직히 인간이 호들갑 떨 수 있는 날이 얼마나 남았을까 싶습니다.
+밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>앤트로픽이 'Claude Code'에 자사 플랫폼 API를 직접 다루는 전용 스킬을 기본 탑재했습니다.
+터미널에서 명령어 하나만 입력하면 새로운...</title><link>https://www.threads.net/@choi.openai/post/DXvMe_UiSl0</link><description>앤트로픽이 'Claude Code'에 자사 플랫폼 API를 직접 다루는 전용 스킬을 기본 탑재했습니다.
+터미널에서 명령어 하나만 입력하면 새로운 Opus 4.7 모델로의 마이그레이션부터 'Prompt caching' 설정, 관리형 에이전트 연동까지 알아서 처리해 줍니다.
 
-Figure가 자사 휴머노이드 'Figure F.03'의 생산 속도를 120...</title><link>https://www.threads.net/@choi.openai/post/DXuJGAgmnwz</link><description>솔직히 인간이 호들갑 떨 수 있는 날이 얼마나 남았을까 싶습니다.
+새로운 모델로 넘어갈 때마다 설정 코드를 고치는 건 꽤 번거로운 작업이었는데요.
+해당 스킬로 프롬프트 캐싱을 세팅한 실제 개발자들은 40달러가 들던 작업 비용을 8달러 수준으로 줄이고, 사람이 놓치기 쉬운 캐시 오류까지 잡아냈다고 합니다.</description><pubDate>Thu, 30 Apr 2026 01:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvMe_UiSl0</guid></item><item><title>자세히 알아보기 :
+https://claude.com/blog/claude-api-skill</title><link>https://www.threads.net/@choi.openai/post/DXvMf8rCeuX</link><description>자세히 알아보기 :
+https://claude.com/blog/claude-api-skill</description><pubDate>Thu, 30 Apr 2026 01:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvMf8rCeuX</guid></item><item><title>구글이 Gemini 앱 내에서 곧바로 다운로드 가능한 완성형 파일을 생성해 주는 기능을 전 세계에 공식 출시했습니다.
 
-Figure가 자사 휴머노이드 'Figure F.03'의 생산 속도를 120일 만에 24배 끌어올렸다고 발표했습니다.
-기존 하루 1대 생산하던 수준에서 이제는 시간당 1대를 생산하는 공정 자동화를 이뤄낸 것인데요. 이번 주에만 총 55대의 로봇이 제작될 예정입니다.
+이제 프롬프트 창에 지시...</title><link>https://www.threads.net/@choi.openai/post/DXvDU39ETHX</link><description>구글이 Gemini 앱 내에서 곧바로 다운로드 가능한 완성형 파일을 생성해 주는 기능을 전 세계에 공식 출시했습니다.
 
-성능 개선보다 무서운 건 이런 물리적 공급 속도입니다.
-AI가 두뇌 역할을 완벽히 수행하게 되는 시점과 해당 양산 인프라가 맞물린다면, 우리가 생각하는 것보다 훨씬 빠르게 로봇이 일상 속으로 들어올 것으로 보입니다.</description><pubDate>Wed, 29 Apr 2026 15:41:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXuJGAgmnwz</guid></item><item><title>Mistral AI가 신규 모델 'Mistral Medium 3.5'와 Vibe의 원격 에이전트, Le Chat의 'Work mode'를 전격 ...</title><link>https://www.threads.net/@choi.openai/post/DXuISVFjehS</link><description>Mistral AI가 신규 모델 'Mistral Medium 3.5'와 Vibe의 원격 에이전트, Le Chat의 'Work mode'를 전격 공개했습니다.
-Mistral Medium 3.5는 추론과 코딩 능력을 결합한 128B 규모의 모델입니다.
-
-로컬에서 코딩하다가 '텔레포트' 기능을 쓰면, 작업 상태와 기록을 그대로 유지한 채 클라우드로 세션을 옮길 수 있습니다.
-또한 Le Chat에서 바로 Vibe를 호출해 코드를 짜거나, Work mode를 통해 문서와 이메일 기반의 복잡한 장기 작업을 에이전트에게 맡길 수도 있습니다.
-
-에이전트가 파편화된 도구를 벗어나 사용자의 작업 흐름 속으로 완벽히 스며들고 있습니다.</description><pubDate>Wed, 29 Apr 2026 15:35:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXuISVFjehS</guid></item><item><title>발표내용 :
-https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</title><link>https://www.threads.net/@choi.openai/post/DXuIdFkjwYp</link><description>발표내용 :
-https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</description><pubDate>Wed, 29 Apr 2026 15:35:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXuIdFkjwYp</guid></item><item><title>차세대 터미널 Warp가 소스코드와 로드맵을 전격 오픈소스로 공개했습니다.
-
-특히 눈에 띄는 점은 ‘Oz’라는 AI 코딩 에이전트가 오픈소스 생...</title><link>https://www.threads.net/@choi.openai/post/DXt6HaFj2xJ</link><description>차세대 터미널 Warp가 소스코드와 로드맵을 전격 오픈소스로 공개했습니다.
-
-특히 눈에 띄는 점은 ‘Oz’라는 AI 코딩 에이전트가 오픈소스 생태계의 실제 기여자로 참여한다는 점입니다.
-
-코딩, 기획, 테스트 같은 무거운 실무는 Oz 에이전트가 맡고, 커뮤니티 참여자는 아이디어 제안과 방향 설정, 그리고 최종 검증에 집중하는 구조입니다.
-
-이 흐름 속에서 소프트웨어 개발의 병목도 바뀌고 있습니다.
-이제는 ‘직접 코드를 작성할 수 있는가’보다 ‘문제를 얼마나 명확하게 정의하고 설명할 수 있는가’가 더 중요한 역량이 되고 있습니다.
-
-최근 랄프톤 같은 행사에서도 드러나듯, 핵심은 문제를 얼마나 정확하게 구조화하고 지시할 수 있는지에 있습니다.
-앞으로는 AI 에이전트와 커뮤니티가 협력해 프로덕트를 만들어가는 새로운 형태의 오픈소스 생태계가 본격적으로 자리 잡을 것으로 보입니다.</description><pubDate>Wed, 29 Apr 2026 13:31:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXt6HaFj2xJ</guid></item><item><title>깃허브 :
-https://github.com/warpdotdev/warp</title><link>https://www.threads.net/@choi.openai/post/DXt6FCeDwiW</link><description>깃허브 :
-https://github.com/warpdotdev/warp</description><pubDate>Wed, 29 Apr 2026 13:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXt6FCeDwiW</guid></item></channel></rss>
+이제 프롬프트 창에 지시만 내리면, PDF, 마이크로소프트 워드(.docx) 및 엑셀(.xlsx), 구글 문서·스프레드시트·프레젠테이션, 심지어 LaTeX나 마크다운(MD) 형태의 파일로 결과물을 만들어줍니다.</description><pubDate>Thu, 30 Apr 2026 00:12:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvDU39ETHX</guid></item><item><title>발표내용 :
+https://blog.google/innovation-and-ai/products/gemini-app/generate-files-...</title><link>https://www.threads.net/@choi.openai/post/DXvDoyzj5UK</link><description>발표내용 :
+https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/</description><pubDate>Thu, 30 Apr 2026 00:12:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvDoyzj5UK</guid></item><item><title>오픈AI 사장님께 영광을..!</title><link>https://www.threads.net/@choi.openai/post/DXvByMMD1Pp</link><description>오픈AI 사장님께 영광을..!</description><pubDate>Wed, 29 Apr 2026 23:56:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvByMMD1Pp</guid></item><item><title>크롬 확장</title><link>https://www.threads.net/@choi.openai/post/DXvB1OHjwCm</link><description>크롬 확장</description><pubDate>Wed, 29 Apr 2026 23:57:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvB1OHjwCm</guid></item><item><title>with Codex</title><link>https://www.threads.net/@choi.openai/post/DXvCldUj9uy</link><description>with Codex</description><pubDate>Thu, 30 Apr 2026 00:03:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXvCldUj9uy</guid></item></channel></rss>
