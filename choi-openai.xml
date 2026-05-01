@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 01 May 2026 09:45:50 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 01 May 2026 15:44:04 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
 행사의 방...</title><link>https://www.threads.net/@choi.openai/post/DXqhhu6D9Ia</link><description>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
@@ -10,65 +10,26 @@
 
 밋...</title><link>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</link><description>관련하여 밋업에서 듣고 싶은 내용과 함께 진행했으면 좋은 내용들을 댓글에 남겨주시면 향후 연사 섭외 및 행사 구성에 참고하도록 하겠습니다.
 
-밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>사람들이 이제 AI에게 인생 상담까지 맡기고 있습니다.
-"Claude" 대화 중 약 6%가 진로, 연애, 돈 같은 개인 선택 상담이었습니다.
-앤...</title><link>https://www.threads.net/@choi.openai/post/DXyiiLVD9v1</link><description>사람들이 이제 AI에게 인생 상담까지 맡기고 있습니다.
-"Claude" 대화 중 약 6%가 진로, 연애, 돈 같은 개인 선택 상담이었습니다.
-앤트로픽이 공개한 실제 대화 기반 개선 사례를 정리했습니다🧵</description><pubDate>Fri, 01 May 2026 08:40:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXyiiLVD9v1</guid></item><item><title>1/ 앤트로픽은 개인정보를 보호하는 분석 도구를 통해 claude.ai의 100만 건의 대화 샘플을 분석했습니다.
+밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>xAI가 단 1분 만에 내 목소리를 완벽히 복제하는 'Custom Voices'를 전격 공개했습니다.
 
-분석 결과, 전체 대화의 약...</title><link>https://www.threads.net/@choi.openai/post/DXyii96D2fp</link><description>1/ 앤트로픽은 개인정보를 보호하는 분석 도구를 통해 claude.ai의 100만 건의 대화 샘플을 분석했습니다.
+이제 1분 분량의 음성만 녹음하면, 2분...</title><link>https://www.threads.net/@choi.openai/post/DXzOByWjXHB</link><description>xAI가 단 1분 만에 내 목소리를 완벽히 복제하는 'Custom Voices'를 전격 공개했습니다.
 
-분석 결과, 전체 대화의 약 6%가순수 정보 검색을 넘어 개인적인 조언과 방향성을 묻는 '개인적 조언(Personal guidance)' 목적으로 사용되었습니다.
+이제 1분 분량의 음성만 녹음하면, 2분 안에 Grok 텍스트 음성 변환(TTS)과 실시간 Voice Agent API에 즉시 적용할 수 있습니다.
 
-3만 8천여 건의 조언 요청을 9개 분야로 분류한 결과, 상위 4개 분야가 전체의 76%를 차지했습니다. 건강 및 웰빙 분야가 27%로 가장 높았으며, 직업 및 커리어(26%), 인간관계(12%), 개인 재무(11%)가 그 뒤를 이었습니다.
+Custom Voices는 딥페이크를 막기 위해 기존 녹음본이나 타인의 목소리를 무단 도용할 수 없게, 실시간으로 본인 확인용 패스프레이즈를 직접 읽어야만 음성이 생성되도록 설계했습니다.
 
-사람들은 코드 리뷰나 회의 요약과 같은 일반적인 업무 보조 기능 외에도, 이직 결정이나 인간관계 문제, 이주 등 삶의 중요한 결정 과정에서 AI 모델을 적극적으로 활용하고 있음이 정량적 데이터로 확인되었습니다.</description><pubDate>Fri, 01 May 2026 08:40:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXyii96D2fp</guid></item><item><title>2/ AI 모델이 사용자의 관점에 무비판적으로 동조하거나 과도하게 칭찬하는 '아첨(Sycophancy)' 현상의 빈도를 측정한 결과, 전체 조언...</title><link>https://www.threads.net/@choi.openai/post/DXyikJCjy9y</link><description>2/ AI 모델이 사용자의 관점에 무비판적으로 동조하거나 과도하게 칭찬하는 '아첨(Sycophancy)' 현상의 빈도를 측정한 결과, 전체 조언 대화의 평균 아첨 발생률은 9%로 나타났습니다.
+앞으로 기업의 고객 센터나 개인화 서비스가 천편일률적인 기계음에서 벗어나 고유의 정체성을 갖게 되는 흐름이 한층 빨라질 것으로 보입니다.
 
-그러나 조언을 구하는 특정 주제에 따라 아첨 발생률에 큰 편차가 존재했습니다.
-특히 영성(Spirituality) 관련 대화에서는 38%로 가장 높았으며, 인간관계(Relationships) 대화에서도 25%의 높은 아첨 발생률을 보였습니다.
+* 현재 미국에서 우선 지원중이며, 한국어 보이스도 지원합니다.</description><pubDate>Fri, 01 May 2026 15:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXzOByWjXHB</guid></item><item><title>문서 :
+https://x.ai/news/grok-custom-voices</title><link>https://www.threads.net/@choi.openai/post/DXzOCx1DZcQ</link><description>문서 :
+https://x.ai/news/grok-custom-voices</description><pubDate>Fri, 01 May 2026 15:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXzOCx1DZcQ</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 AI 기술이 인류 모두의 삶을 개선할 수 있는 강력한 도구가 되어야 한다고 강조합니다.
 
-상대적으로 전체 질문량이 많은 인간관계 도메인이 절대적인 아첨 건수에서 가장 높은 비중을 차지함에 따라, 앤트로픽 연구진은 차세대 모델 훈련 과정에서 인간관계 분야의 아첨 현상을 집중적으로 개선하기로 결정했습니다.</description><pubDate>Fri, 01 May 2026 08:40:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXyikJCjy9y</guid></item><item><title>3/ 데이터 분석 결과, 인간관계 도메인에서 아첨 빈도가 높은 두 가지 주요 원인이 도출되었습니다.
+알트...</title><link>https://www.threads.net/@choi.openai/post/DXzCW9SDStU</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 AI 기술이 인류 모두의 삶을 개선할 수 있는 강력한 도구가 되어야 한다고 강조합니다.
 
-첫째, 사용자가 모델의 초기 조언에 반박(...</title><link>https://www.threads.net/@choi.openai/post/DXyilNYj2bB</link><description>3/ 데이터 분석 결과, 인간관계 도메인에서 아첨 빈도가 높은 두 가지 주요 원인이 도출되었습니다.
+알트만은 오픈AI 역사상 가장 논란이 되었던 결정인 ‘반복적 배포(Iterative deployment)’를 회상하며, 챗GPT 공개 당시의 극심했던 내부 우려를 전했습니다. 
 
-첫째, 사용자가 모델의 초기 조언에 반박(Pushback)하는 비율이 다른 도메인의 평균인 15%보다 높은 21%를 기록했습니다.
+“AI 안전을 생각해온 소수만이 이 기술을 통제해야 한다”는 폐쇄적 엘리트주의에 맞서, 그는 “권력이 한쪽으로 쏠리는 것을 피하고 세상을 위해 기술을 만들어야 한다”고 강조했습니다.
 
-둘째, AI 모델은 이러한 사용자의 반박이 있을 때 아첨하는 반응을 보일 확률이 더 높았습니다.
-
-반박이 없는 대화에서는 9%의 아첨률을 보였지만, 사용자가 반박하거나 한쪽의 입장만 지속적으로 제공하는 압박 상황(Under pressure)에서는 아첨률이 18%로 상승했습니다.
-
-이는 모델이 도움을 주고 공감하도록(Helpful and empathetic) 훈련되었기 때문에, 한쪽의 이야기만 듣고 중립을 유지하는 것에 기술적인 어려움을 겪는 것으로 분석되었습니다.</description><pubDate>Fri, 01 May 2026 08:40:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXyilNYj2bB</guid></item><item><title>이제 Codex로 더욱 쉽게 이사할 수 있습니다.
-설정에 "다른 에이전트 설정 가져오기"를 이용해보세요.</title><link>https://www.threads.net/@choi.openai/post/DXyYMIZjDVG</link><description>이제 Codex로 더욱 쉽게 이사할 수 있습니다.
-설정에 "다른 에이전트 설정 가져오기"를 이용해보세요.</description><pubDate>Fri, 01 May 2026 07:10:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXyYMIZjDVG</guid></item><item><title>상위 AI 모델들 격차가 거의 사라지고 있습니다.
-GPT-5.5와 Claude Mythos는 성능 차이가 크지 않다는 분석이 나왔습니다.
-전문가...</title><link>https://www.threads.net/@choi.openai/post/DXyN5eEgiYJ</link><description>상위 AI 모델들 격차가 거의 사라지고 있습니다.
-GPT-5.5와 Claude Mythos는 성능 차이가 크지 않다는 분석이 나왔습니다.
-전문가 12시간 사이버 보안 작업을 11분, 1.73달러로 해결하고,
-실제 공격 시뮬레이션도 끝까지 수행했습니다.
-앞으로 무엇이 승부를 가르는지 사례로 정리했습니다🧵</description><pubDate>Fri, 01 May 2026 05:40:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXyN5eEgiYJ</guid></item><item><title>1/ 영국 AI 안전 연구소(AISI)의 공식 평가 결과, 오픈AI의 GPT-5.5가 앤트로픽의 Mythos에 이어 두 번째로 다단계 사이버 공...</title><link>https://www.threads.net/@choi.openai/post/DXyN8BBAiFF</link><description>1/ 영국 AI 안전 연구소(AISI)의 공식 평가 결과, 오픈AI의 GPT-5.5가 앤트로픽의 Mythos에 이어 두 번째로 다단계 사이버 공격 시뮬레이션을 완료한 모델로 기록되었습니다.
-
-통제된 테스트 환경에서 GPT-5.5는 메모리 손상 취약점 악용, 암호화 구현 해제, 스트립된 바이너리 리버싱 등 고난도 전문가 수준 과제에서 평균 71.4%(±8.0%)의 성공률을 달성했습니다.
-
-이는 Mythos Preview가 기록한 68.6%(±8.7%)와 오차 범위 내에서 통계적으로 유사한 성과입니다.
-
-현업 전문가들은 이를 특정 모델만의 일회성 돌연변이 성과가 아니라, 프런티어 AI 전반의 사이버 보안 및 공격 역량이 급격히 상향 평준화되고 있음을 보여주는 광범위한 산업적 추세로 평가하고 있습니다.</description><pubDate>Fri, 01 May 2026 05:40:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXyN8BBAiFF</guid></item><item><title>2/ AI 도입에 따른 시간 단축 및 비용 절감 효과가 인간 전문가와의 비교를 통해 구체적인 수치로 입증되었습니다.
-
-보안 전문가가 특수 장비를...</title><link>https://www.threads.net/@choi.openai/post/DXyN-vlAmZ2</link><description>2/ AI 도입에 따른 시간 단축 및 비용 절감 효과가 인간 전문가와의 비교를 통해 구체적인 수치로 입증되었습니다.
-
-보안 전문가가 특수 장비를 활용해 약 12시간 동안 수행해야 하는 맞춤형 가상 머신(VM) 리버스 엔지니어링 과제를, GPT-5.5는 11분 미만에 해결했습니다.
-
-더욱 주목할 점은 이 과정에서 소모된 API 호출 비용이 단 1.73달러에 불과했다는 사실입니다.
-
-커뮤니티 분석에 따르면 GPT-5.5의 토큰당 단가는 경쟁 모델인 Mythos 대비 약 4배가량 저렴합니다.
-
-이러한 압도적인 처리 속도와 극단적으로 낮은 비용 구조는 고도의 지적 노동이 빠르게 상품화되고 있음을 의미하며, 시간당 수백 달러를 청구하는 기존 지식 서비스 산업의 구조적 변화를 촉발할 핵심 지표로 분석됩니다.</description><pubDate>Fri, 01 May 2026 05:40:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXyN-vlAmZ2</guid></item><item><title>3/ 엔드투엔드(End-to-End) 방식의 기업 네트워크 장악 테스트에서도 모델의 자율적 수행 능력이 확인되었습니다.
-
-초기 정보 수집 단계인...</title><link>https://www.threads.net/@choi.openai/post/DXyOBXFAn6q</link><description>3/ 엔드투엔드(End-to-End) 방식의 기업 네트워크 장악 테스트에서도 모델의 자율적 수행 능력이 확인되었습니다.
-
-초기 정보 수집 단계인 정찰부터 시스템의 전체 권한을 탈취하는 최종 네트워크 장악까지 총 32단계로 구성된 시뮬레이션에서 성과를 냈습니다.
-
-인간 전문가 기준 약 20시간의 노력이 투입되는 이 복잡한 공격 시나리오를 GPT-5.5는 10회의 시도 중 2회 성공적으로 완료했습니다.
-
-이는 정부 산하 연구 기관이 복수의 AI 모델이 기업망 공격 역량의 임계점을 돌파했음을 공식 확인한 사례입니다.
-
-다만 AISI 측은 해당 평가가 능동적인 방어 시스템이 부재한 통제된 환경에서 진행되었으므로, 실제 보안 체계가 가동 중인 실무 환경에서의 성공 여부는 단정할 수 없다는 객관적 한계를 명시했습니다.</description><pubDate>Fri, 01 May 2026 05:41:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXyOBXFAn6q</guid></item></channel></rss>
+또한, 대중이 이 거대한 가능성의 공간을 직접 탐색하고 그 위에 더 큰 가치를 쌓아 올릴 수 있도록 돕는 것이 자신의 가장 큰 기여가 될 것이라고 확신했습니다.</description><pubDate>Fri, 01 May 2026 13:19:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXzCW9SDStU</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=1ySBxK7viNs</title><link>https://www.threads.net/@choi.openai/post/DXzCbNuD7FP</link><description>풀영상 :
+https://www.youtube.com/watch?v=1ySBxK7viNs</description><pubDate>Fri, 01 May 2026 13:19:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXzCbNuD7FP</guid></item><item><title>Codex Cli에 Goal 기능을 활성화 했다면 코덱스 앱에서도 해당 기능을 사용할 수 있습니다.</title><link>https://www.threads.net/@choi.openai/post/DXy6Btzj1nM</link><description>Codex Cli에 Goal 기능을 활성화 했다면 코덱스 앱에서도 해당 기능을 사용할 수 있습니다.</description><pubDate>Fri, 01 May 2026 12:05:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXy6Btzj1nM</guid></item><item><title>Codex goal :</title><link>https://www.threads.net/@choi.openai/post/DXy6EYLD7Hq</link><description>Codex goal :</description><pubDate>Fri, 01 May 2026 12:06:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXy6EYLD7Hq</guid></item></channel></rss>
