@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 30 Apr 2026 16:12:40 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 01 May 2026 03:24:22 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
 행사의 방...</title><link>https://www.threads.net/@choi.openai/post/DXqhhu6D9Ia</link><description>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
@@ -10,62 +10,35 @@
 
 밋...</title><link>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</link><description>관련하여 밋업에서 듣고 싶은 내용과 함께 진행했으면 좋은 내용들을 댓글에 남겨주시면 향후 연사 섭외 및 행사 구성에 참고하도록 하겠습니다.
 
-밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>어디가서 이런 인사이트 못듣습니다..
+밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>크.. 드디어 추가되었네요.
 
-어제 오픈AI, 무신사 AI-네이티브 워크플로우 행사에 참여했었는데요.
-전준희 무신사 CTO님께서는 "C...</title><link>https://www.threads.net/@choi.openai/post/DXweMpKj90U</link><description>어디가서 이런 인사이트 못듣습니다..
+오픈AI의 코딩 도구 Codex CLI 0.128.0 버전에 목표를 달성할 때까지 작업을 멈추지 않는 "/goal...</title><link>https://www.threads.net/@choi.openai/post/DXx4H4UDDdm</link><description>크.. 드디어 추가되었네요.
 
-어제 오픈AI, 무신사 AI-네이티브 워크플로우 행사에 참여했었는데요.
-전준희 무신사 CTO님께서는 "Codex" 도입 후, 코드 작성보다 설계·검토에 집중하는 구조로 바뀌었다고 합니다.
-신입 채용에서도 AI 활용 능력까지 본다고 합니다.
-개발자 일하는 방식이 진짜 바뀌고 있습니다.
+오픈AI의 코딩 도구 Codex CLI 0.128.0 버전에 목표를 달성할 때까지 작업을 멈추지 않는 "/goal" 기능이 추가되었습니다.
 
-정말 돈주고도 못듣는 밋업 내용을 정리했습니다🧵</description><pubDate>Thu, 30 Apr 2026 13:24:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXweMpKj90U</guid></item><item><title>1/ 첫 시작의 질문은 이겁니다. “패션 커머스 기업이 왜 AI 냐고“
+일명 "Ralph loop"라 불리는 해당 기능은 개발자가 목표만 던져주면 Codex가 며칠 동안 스스로 코딩하고, 리뷰하고, 버그를 수정하며 전체 OS 커널까지 만들어냅니다.
 
-전준희 CTO는 그 해답이 'IT 패러다임의 거대한 전환'에 있다고 강...</title><link>https://www.threads.net/@choi.openai/post/DXweNWEj5W-</link><description>1/ 첫 시작의 질문은 이겁니다. “패션 커머스 기업이 왜 AI 냐고“
+이제 사람이 중간에 계속 개입할 필요 없이, 에이전트가 스스로 계획을 세우고 끝까지 완수하는 자율성이 구현되었습니다.
 
-전준희 CTO는 그 해답이 'IT 패러다임의 거대한 전환'에 있다고 강조합니다.
+Codex 앱에도 어서 들어오기를 기대합니다.</description><pubDate>Fri, 01 May 2026 02:29:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXx4H4UDDdm</guid></item><item><title>설정방법은 codex config.toml의 [features]에 goals = true로 해주셔야합니다.
+codex-cli 0.128.0 부터...</title><link>https://www.threads.net/@choi.openai/post/DXx4ImPDMwt</link><description>설정방법은 codex config.toml의 [features]에 goals = true로 해주셔야합니다.
+codex-cli 0.128.0 부터 지원합니다.</description><pubDate>Fri, 01 May 2026 02:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXx4ImPDMwt</guid></item><item><title>보안 전문가들마저 긴장하게 만드는 소식입니다.
 
-과거 인터넷 환경이 닷컴 시대에서 스마트폰 앱 시대로 넘어왔듯, 다음 세대의 운영체제는 'LLM(거대 언어 모델) OS'가 될 것이라고 예측합니다.
+앤트로픽이 엔터프라이즈 고객을 대상으로 'Claude Security' 퍼블릭 베타를 출시했습니...</title><link>https://www.threads.net/@choi.openai/post/DXxt7kckcCr</link><description>보안 전문가들마저 긴장하게 만드는 소식입니다.
 
-머지않아 고객들은 앱을 켜서 필터를 누르는 대신, AI 에이전트에게 "주말에 입을 트렌디한 자켓 찾아줘"라고 말만 하면 결제까지 끝나는 세상을 맞이할 것이라고요.
+앤트로픽이 엔터프라이즈 고객을 대상으로 'Claude Security' 퍼블릭 베타를 출시했습니다.
+별도의 API 연동이나 커스텀 도구 구축 없이도 Opus 4.7 모델을 코드베이스에 바로 투입할 수 있게 되었는데요.
+해당 기능은 취약점 스캔에 그치지 않고, 오탐(false positives)을 줄이기 위해 결과를 스스로 검증하며 승인 가능한 패치까지 제안합니다.
 
-스마트폰 앱을 일일이 터치하던 시대가 저물고, AI 에이전트가 고객의 의도를 파악해 직접 서비스를 실행해 주는 생태계로 비즈니스 환경이 완전히 뒤바뀌고 있기 때문입니다.
+지난 2월 프리뷰 이후 수백 개의 조직이 프로덕션 코드에 도입해, 기존 보안 스캐너들이 놓친 문제들까지 잡아냈다고 합니다.
+AI가 코드 작성부터 보안 감사까지 전담하는 편리함 이면에는, 기업의 핵심 자산이 특정 생태계에 완벽히 종속될 수 있다는 리스크가 도사리고 있습니다.</description><pubDate>Fri, 01 May 2026 01:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXxt7kckcCr</guid></item><item><title>오픈AI가 코덱스(Codex) 앱 업데이트를 통해 'Computer Use' 작업 속도를 42%나 끌어올렸습니다.
 
-패션 기업이라도 이 거대한 인터페이스 혁명에서 살아남으려면 유통사를 넘어 완벽한 AI 테크 기업으로 진화해야만 하는 절박한 생존의 문제입니다.</description><pubDate>Thu, 30 Apr 2026 13:24:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXweNWEj5W-</guid></item><item><title>2/ 미래에는 배달이나 쇼핑 플랫폼에 사용자가 직접 접속하는 일이 줄어들 것이라고 말합니다.
+커서가 목표 지점에서 나타나...</title><link>https://www.threads.net/@choi.openai/post/DXxjmrDimYq</link><description>오픈AI가 코덱스(Codex) 앱 업데이트를 통해 'Computer Use' 작업 속도를 42%나 끌어올렸습니다.
 
-사용자가 챗GPT 같은 에이전트에게 "생수 3박스...</title><link>https://www.threads.net/@choi.openai/post/DXweOP7D0-D</link><description>2/ 미래에는 배달이나 쇼핑 플랫폼에 사용자가 직접 접속하는 일이 줄어들 것이라고 말합니다.
+커서가 목표 지점에서 나타나거나 작은 움직임을 처리하는 경로를 다듬어 실제 사람이 조작하는 것처럼 자연스러운 모션을 구현했는데요.
 
-사용자가 챗GPT 같은 에이전트에게 "생수 3박스 주문해 줘"라고 말하면 알아서 결제까지 끝나는 세상이 다가오고 있습니다.
+이제 코덱스는 가상 머신까지 더 빠르게 구동하며 내 PC 환경 깊숙이 개입하고 있습니다. 
 
-소비자는 어느 유통 채널에서 구매하는지 신경 쓰지 않게 되며, 결국 AI 에이전트가 커머스 생태계의 강력한 중간 지배자가 되어 유통사들은 종속될 위험에 처합니다.
+코덱스는 시스템 전체를 제어하고 복잡한 워크플로우를 자동화하는 진정한 '작업 OS'로 진화하는 중입니다.
 
-패션 기업 역시 이러한 에이전트 플랫폼에 잡아먹히지 않으려면 스스로 고도화된 AI 기술력을 갖춰야만 살아남을 수 있습니다.</description><pubDate>Thu, 30 Apr 2026 13:24:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXweOP7D0-D</guid></item><item><title>3/ 전준희 CTO가 위대한상상(요기요) 대표에서 무신사로 온 이유도 패션이 AI 변화에 가장 강하게 저항할 수 있는 특수한 산업이라는 점입니다...</title><link>https://www.threads.net/@choi.openai/post/DXweOxWD5-Q</link><description>3/ 전준희 CTO가 위대한상상(요기요) 대표에서 무신사로 온 이유도 패션이 AI 변화에 가장 강하게 저항할 수 있는 특수한 산업이라는 점입니다.
-
-생수와 달리 옷은 고객이 직접 눈으로 실루엣, 재질, 장식 등을 디테일하게 확인해야 하는 비정형 데이터의 집약체입니다.
-
-범용적인 AI 모델로는 패션 특유의 미묘한 시각적 뉘앙스를 완벽히 이해하고 처리하기 어렵습니다.
-
-그렇기 때문에 패션에 특화된 정교한 내비게이션과 시각적 탐색 기능을 갖춘 버티컬 AI 에이전트를 자체적으로 구축하는 것이 무신사의 가장 핵심적인 비즈니스 경쟁력으로 떠올랐습니다.</description><pubDate>Thu, 30 Apr 2026 13:24:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXweOxWD5-Q</guid></item><item><title>기존에 쓰던 클로드 프롬프트, 이제 전부 버리셔야 할지도 모릅니다.
-
-최근 앤트로픽이 공개한 공식 프롬프트 가이드에 따르면, 신형 모델인 Cla...</title><link>https://www.threads.net/@choi.openai/post/DXwRLJKE43J</link><description>기존에 쓰던 클로드 프롬프트, 이제 전부 버리셔야 할지도 모릅니다.
-
-최근 앤트로픽이 공개한 공식 프롬프트 가이드에 따르면, 신형 모델인 Claude Opus 4.7은 더 이상 사용자의 애매한 지시를 알아서 채워주지 않습니다.
-과거 모델들이 부족한 맥락을 넘겨짚어 보완해줬다면, 이제는 입력된 텍스트 그대로만 깐깐하게 실행하도록 바뀌었기 때문인데요.
-
-결과물이 예전보다 못하게 느껴진다면 모델 성능이 떨어져서가 아닙니다. 엉성하게 작성했던 우리의 프롬프트 밑천이 그대로 드러났을 뿐입니다.
-
-모델 성능이 올라갈수록 기계는 스스로 짐작하는 대신, 인간에게 더 외과 수술 같은 정밀한 지시를 요구하고 있습니다.
-
-결국 AI가 고도화될수록 진짜 병목 구간은 기술이 아니라 '사람'입니다.
-마법 같은 프롬프트 비법을 찾는 것보다, 내가 무엇을 원하는지 정확히 정의하는 짧은 사고력이 앞으로 가장 강력한 무기가 될 것입니다.</description><pubDate>Thu, 30 Apr 2026 11:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXwRLJKE43J</guid></item><item><title>주소 :
-https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/cl...</title><link>https://www.threads.net/@choi.openai/post/DXwRMZFkzOk</link><description>주소 :
-https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices</description><pubDate>Thu, 30 Apr 2026 11:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXwRMZFkzOk</guid></item><item><title>앤트로픽의 클로드 코드가 사용자의 작업 내역을 훑어보고 경쟁사 제품 사용을 통제하고 있다는 사실이 밝혀졌습니다.
-프로젝트 파일이나 커밋 기록에 ...</title><link>https://www.threads.net/@choi.openai/post/DXwHnrkDxAI</link><description>앤트로픽의 클로드 코드가 사용자의 작업 내역을 훑어보고 경쟁사 제품 사용을 통제하고 있다는 사실이 밝혀졌습니다.
-프로젝트 파일이나 커밋 기록에 특정 경쟁 모델(OpenClaw)의 이름이 발견되면, 아예 서비스 요청을 거부하거나 추가 요금을 청구하고 있는데요.
-
-빈 저장소에서조차 메타데이터를 집요하게 필터링하는 모습에 전 세계 개발자들의 분노가 폭발하고 있습니다.
-샘 알트만마저 이를 두고 잘못된 정렬이라고 꼬집었으며, 대규모 구독 취소 사태까지 벌어지고 있습니다.
-
-성능을 무기로 언제든 사용자 환경을 감시하고 제약할 수 있다는 선례가 생겼습니다.
-결국 플랫폼 종속 리스크를 줄이기 위해, 온전히 소유하고 다룰 수 있는 로컬 오픈소스 모델로의 전환의 고려도 늘어날 것 같습니다.</description><pubDate>Thu, 30 Apr 2026 10:06:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXwHnrkDxAI</guid></item></channel></rss>
+백그라운드에서 일을 처리하며 스스로 진화하는 에이전트의 파급력을 결코 가볍게 여겨서는 안됩니다.</description><pubDate>Thu, 30 Apr 2026 23:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXxjmrDimYq</guid></item></channel></rss>
