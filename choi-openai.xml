@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 01 May 2026 15:44:04 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 02 May 2026 02:42:10 +0000</lastBuildDate><item><title>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
 행사의 방...</title><link>https://www.threads.net/@choi.openai/post/DXqhhu6D9Ia</link><description>Codex에 대한 관심이 빠르게 높아짐에 따라, Codex 앰배서더로서 향후 몇 달간 정기적인 Codex 밋업을 준비하고 있습니다.
 
@@ -10,26 +10,34 @@
 
 밋...</title><link>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</link><description>관련하여 밋업에서 듣고 싶은 내용과 함께 진행했으면 좋은 내용들을 댓글에 남겨주시면 향후 연사 섭외 및 행사 구성에 참고하도록 하겠습니다.
 
-밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>xAI가 단 1분 만에 내 목소리를 완벽히 복제하는 'Custom Voices'를 전격 공개했습니다.
+밋업 이외로 해커톤 개최도 가능하니 비개발자 비율이 많다면 해커톤도 동시 개최 고려해보겠습니다.</description><pubDate>Tue, 28 Apr 2026 06:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXqh3PDDy62</guid></item><item><title>너무 귀엽네요 🤣
 
-이제 1분 분량의 음성만 녹음하면, 2분...</title><link>https://www.threads.net/@choi.openai/post/DXzOByWjXHB</link><description>xAI가 단 1분 만에 내 목소리를 완벽히 복제하는 'Custom Voices'를 전격 공개했습니다.
+오픈AI가 자사의 코딩 AI 모델인 Codex에 진짜 '펫(Pet)' 기능을 깜짝 추가했습니다.
+/pet 명령어를 입력하면 ...</title><link>https://www.threads.net/@choi.openai/post/DX0XUEdDWi2</link><description>너무 귀엽네요 🤣
 
-이제 1분 분량의 음성만 녹음하면, 2분 안에 Grok 텍스트 음성 변환(TTS)과 실시간 Voice Agent API에 즉시 적용할 수 있습니다.
+오픈AI가 자사의 코딩 AI 모델인 Codex에 진짜 '펫(Pet)' 기능을 깜짝 추가했습니다.
+/pet 명령어를 입력하면 화면에 귀여운 애니메이션 펫이 등장하는데요.
+8가지 기본 펫을 고를 수도 있고, 원한다면 /Hatch Pat 스킬을 설치하여 내 프로젝트 성격에 맞춰 완전히 새로운 펫을 생성할 수도 있습니다.
 
-Custom Voices는 딥페이크를 막기 위해 기존 녹음본이나 타인의 목소리를 무단 도용할 수 없게, 실시간으로 본인 확인용 패스프레이즈를 직접 읽어야만 음성이 생성되도록 설계했습니다.
+펫은 개발자가 다른 창을 띄워놓고 작업할 때도, 이 작은 펫이 화면 최상단에 떠서 AI의 현재 코드 작성 진행도나 상태를 실시간으로 알려줍니다.
+작업 창을 이리저리 옮겨 다녀도, 펫이 나를 따라다니며 작업 맥락을 유지해 주는 역할을 하는 셈입니다.
 
-앞으로 기업의 고객 센터나 개인화 서비스가 천편일률적인 기계음에서 벗어나 고유의 정체성을 갖게 되는 흐름이 한층 빨라질 것으로 보입니다.
+Claude가 Clawd 게 캐릭터가 유명한 것처럼 오픈AI에서도 펫 기능을 추가하여 자연스럽게 브랜드에 대한 애착이나 친숙함이 쌓이고, 사용자들끼리도 그 캐릭터를 매개로 공감대를 만드려는 것처럼 보입니다.</description><pubDate>Sat, 02 May 2026 01:42:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX0XUEdDWi2</guid></item><item><title>티보펫 🤣</title><link>https://www.threads.net/@choi.openai/post/DX0Xa2pFdSr</link><description>티보펫 🤣</description><pubDate>Sat, 02 May 2026 01:42:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX0Xa2pFdSr</guid></item><item><title>관련내용 :
+https://developers.openai.com/codex/app/settings#codex-pets</title><link>https://www.threads.net/@choi.openai/post/DX0XdLMD4O_</link><description>관련내용 :
+https://developers.openai.com/codex/app/settings#codex-pets</description><pubDate>Sat, 02 May 2026 01:42:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX0XdLMD4O_</guid></item><item><title>오픈AI의 공동 창립자 그렉 브록먼(Greg Brockman)은 미래의 데이터 센터가 지구를 넘어 우주까지 확장될 것이라고 전망했습니다.
 
-* 현재 미국에서 우선 지원중이며, 한국어 보이스도 지원합니다.</description><pubDate>Fri, 01 May 2026 15:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXzOByWjXHB</guid></item><item><title>문서 :
-https://x.ai/news/grok-custom-voices</title><link>https://www.threads.net/@choi.openai/post/DXzOCx1DZcQ</link><description>문서 :
-https://x.ai/news/grok-custom-voices</description><pubDate>Fri, 01 May 2026 15:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXzOCx1DZcQ</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 AI 기술이 인류 모두의 삶을 개선할 수 있는 강력한 도구가 되어야 한다고 강조합니다.
+그는...</title><link>https://www.threads.net/@choi.openai/post/DX0POgmjBKV</link><description>오픈AI의 공동 창립자 그렉 브록먼(Greg Brockman)은 미래의 데이터 센터가 지구를 넘어 우주까지 확장될 것이라고 전망했습니다.
 
-알트...</title><link>https://www.threads.net/@choi.openai/post/DXzCW9SDStU</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 AI 기술이 인류 모두의 삶을 개선할 수 있는 강력한 도구가 되어야 한다고 강조합니다.
+그는 “우리는 도처에 데이터 센터를 두게 될 것”이라며, 엄청난 컴퓨팅 수요를 충족시키기 위해 우주 데이터 센터라는 ‘큰 도전’이 필요하다고 강조했습니다.
+현재의 데이터 센터는 고가의 정밀 부품들로 구성되어 있어 매우 섬세한 관리가 필요하지만, 기술 발전을 통해 이를 극복할 수 있을 것으로 보았습니다.
 
-알트만은 오픈AI 역사상 가장 논란이 되었던 결정인 ‘반복적 배포(Iterative deployment)’를 회상하며, 챗GPT 공개 당시의 극심했던 내부 우려를 전했습니다. 
+특히 브록먼은 데이터 센터의 유지보수가 현재의 인력 중심에서 로보틱스 중심으로 전환될 것이라고 예측했습니다.
+그는 “우주와 같은 가혹한 환경에서도 시스템을 안정적으로 운영할 수 있는 기술적 해결책을 찾는 것이 핵심”이라고 설명했습니다.</description><pubDate>Sat, 02 May 2026 00:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX0POgmjBKV</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=6JoUcQ1qmAc</title><link>https://www.threads.net/@choi.openai/post/DX0PPh-DBBS</link><description>풀영상 :
+https://www.youtube.com/watch?v=6JoUcQ1qmAc</description><pubDate>Sat, 02 May 2026 00:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX0PPh-DBBS</guid></item><item><title>앤트로픽(Anthropic)의 AI 안전 연구원 아만다 아스켈(Amanda Askell)은 모델이 고도화됨에 따라 인간의 의도와 정렬(Align...</title><link>https://www.threads.net/@choi.openai/post/DX0E6uYgo5n</link><description>앤트로픽(Anthropic)의 AI 안전 연구원 아만다 아스켈(Amanda Askell)은 모델이 고도화됨에 따라 인간의 의도와 정렬(Alignment)되는 과정이 더 까다로워질 것이라고 경고합니다.
 
-“AI 안전을 생각해온 소수만이 이 기술을 통제해야 한다”는 폐쇄적 엘리트주의에 맞서, 그는 “권력이 한쪽으로 쏠리는 것을 피하고 세상을 위해 기술을 만들어야 한다”고 강조했습니다.
+그녀는 모델이 똑똑해질수록 우리가 부여한 학습 목표를 철학적인 수준에서 엄격하게 검증하게 될 것이며, 이 과정에서 많은 가치들이 무너질 수 있다고 설명합니다.
 
-또한, 대중이 이 거대한 가능성의 공간을 직접 탐색하고 그 위에 더 큰 가치를 쌓아 올릴 수 있도록 돕는 것이 자신의 가장 큰 기여가 될 것이라고 확신했습니다.</description><pubDate>Fri, 01 May 2026 13:19:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXzCW9SDStU</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=1ySBxK7viNs</title><link>https://www.threads.net/@choi.openai/post/DXzCbNuD7FP</link><description>풀영상 :
-https://www.youtube.com/watch?v=1ySBxK7viNs</description><pubDate>Fri, 01 May 2026 13:19:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXzCbNuD7FP</guid></item><item><title>Codex Cli에 Goal 기능을 활성화 했다면 코덱스 앱에서도 해당 기능을 사용할 수 있습니다.</title><link>https://www.threads.net/@choi.openai/post/DXy6Btzj1nM</link><description>Codex Cli에 Goal 기능을 활성화 했다면 코덱스 앱에서도 해당 기능을 사용할 수 있습니다.</description><pubDate>Fri, 01 May 2026 12:05:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXy6Btzj1nM</guid></item><item><title>Codex goal :</title><link>https://www.threads.net/@choi.openai/post/DXy6EYLD7Hq</link><description>Codex goal :</description><pubDate>Fri, 01 May 2026 12:06:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DXy6EYLD7Hq</guid></item></channel></rss>
+특히 인간이 AI를 통제하고 수정할 수 있는 성질인 ‘교정 가능성(Corrigibility)’이 이러한 검증을 견디지 못하고 사라질 수도 있다는 점을 우려했습니다.
+
+그녀는 “모델이 교정 가능성이 왜 중요한지 이해하고, 그것을 자신의 가치와 일치하도록 만드는 것이 중요하다”고 강조했습니다.</description><pubDate>Fri, 01 May 2026 23:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX0E6uYgo5n</guid></item></channel></rss>
