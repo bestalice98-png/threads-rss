@@ -1,54 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 04 May 2026 02:52:02 +0000</lastBuildDate><item><title>게임 개발이 이렇게까지 쉬워졌습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 04 May 2026 10:13:42 +0000</lastBuildDate><item><title>“앞으로 10년은 에이전트 시대입니다”
 
-Codex 하나로 2분 만에 MOBA 프로토타입 완성, 하루 만에 100개 넘는 게임 에셋 생성, 심지어...</title><link>https://www.threads.net/@choi.openai/post/DX5mhyWD3eJ</link><description>게임 개발이 이렇게까지 쉬워졌습니다.
+어제 진행된 Gemma Sprint에서 구글 딥마인드 지주영님, Patrick님과 Gemma 4와 온디...</title><link>https://www.threads.net/@choi.openai/post/DX54zqSj_aX</link><description>“앞으로 10년은 에이전트 시대입니다”
 
-Codex 하나로 2분 만에 MOBA 프로토타입 완성, 하루 만에 100개 넘는 게임 에셋 생성, 심지어 /goal 을 이용해 혼자서 끝까지 게임을 만든 사례까지 등장했습니다.
+어제 진행된 Gemma Sprint에서 구글 딥마인드 지주영님, Patrick님과 Gemma 4와 온디바이스 AI의 미래에 대해 직접 이야기할 기회가 있었습니다.
 
-직접 나온 실제 사례들만 모아봤습니다, 어디까지 가능한지 확인해보세요🧵</description><pubDate>Mon, 04 May 2026 02:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5mhyWD3eJ</guid></item><item><title>1/ GPT-5.5 Codex의 "/goal"은 목표만 주면 몇 시간 동안 작업을 이어가며 추출 슈터 게임을 완성했습니다.
-이미지 생성까지 연결...</title><link>https://www.threads.net/@choi.openai/post/DX5hapeHWyE</link><description>1/ GPT-5.5 Codex의 "/goal"은 목표만 주면 몇 시간 동안 작업을 이어가며 추출 슈터 게임을 완성했습니다.
-이미지 생성까지 연결해 캐릭터, 배경 등 게임 에셋도 전부 자동으로 만들어낸 사례입니다.
+이번 대화를 통해 가장 크게 느낀 건, 온디바이스 AI가 단순히 “인터넷 없이 쓰는 AI”가 아니라는 점입니다.
 
-x@AlexFinn</description><pubDate>Mon, 04 May 2026 02:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5hapeHWyE</guid></item><item><title>2/ GPT-5.5 Codex는 “레고 스타워즈 칸티나 게임 만들어줘” 요청에 한 번에 플레이 가능한 게임을 생성했습니다.
-/goal 기능으로 ...</title><link>https://www.threads.net/@choi.openai/post/DX5hVTGDQ-o</link><description>2/ GPT-5.5 Codex는 “레고 스타워즈 칸티나 게임 만들어줘” 요청에 한 번에 플레이 가능한 게임을 생성했습니다.
-/goal 기능으로 별도 개입 없이 게임 제작을 끝까지 진행한 사례입니다.
+AI가 클라우드 화면 밖으로 나와, 스마트폰과 노트북, 앱, OS, 센서, 개인 데이터 가까이 내려오고 있습니다.
 
-x@chatgpt21</description><pubDate>Mon, 04 May 2026 02:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5hVTGDQ-o</guid></item><item><title>3/ GPT-5.5와 GPT Image 2를 활용해 하루 만에 100개 이상의 게임 에셋을 전부 새로 생성해 적용했습니다.
-타일, 오브젝트, 배...</title><link>https://www.threads.net/@choi.openai/post/DX5hkFsDANp</link><description>3/ GPT-5.5와 GPT Image 2를 활용해 하루 만에 100개 이상의 게임 에셋을 전부 새로 생성해 적용했습니다.
-타일, 오브젝트, 배경까지 수작업 없이 바로 게임에 반영해 완성도를 높인 사례입니다.
+앞으로 중요한 건 어떤 모델이 가장 똑똑한가를 넘어, 어떤 작업을 기기 안에서 처리하고, 어떤 작업을 클라우드로 보내며, 어떤 데이터는 절대 밖으로 내보내지 않을지 설계하는 능력이 될 것 같습니다.
 
-x@VibeCreAI</description><pubDate>Mon, 04 May 2026 02:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5hkFsDANp</guid></item><item><title>오픈AI CEO 샘 알트만은 최근 인터뷰에서 AI가 일자리에 미칠 영향에 대해 솔직한 견해를 밝혔습니다.
-그는 일부 AI 기업 CEO들이 "직업...</title><link>https://www.threads.net/@choi.openai/post/DX5cUtLCg9e</link><description>오픈AI CEO 샘 알트만은 최근 인터뷰에서 AI가 일자리에 미칠 영향에 대해 솔직한 견해를 밝혔습니다.
-그는 일부 AI 기업 CEO들이 "직업의 50%가 사라질 것"이라고 주장하는 것에 대해 "상당히 공감 능력이 떨어지는 발언"이라고 비판하며, 단순히 일자리가 사라지는 것이 아니라 변화하는 과정에 주목해야 한다고 강조했습니다.
+Gemma 4, Gemini Nano, AI Edge Gallery, 로컬 에이전트, 하이브리드 라우팅까지.
 
-알트만은 GPT-5.5와 같은 새로운 모델을 활용해 "2년 전이라면 몇 주가 걸렸을 일을 단 한 시간 만에 끝낼 수 있게 되었다"고 언급하며, 코딩 등 전문 업무에서의 비약적인 생산성 향상을 직접 경험하고 있다고 말했습니다.
+이번 인터뷰에서 나온 핵심 내용과 제가 느낀 온디바이스 AI의 방향성을 정리했습니다 🧵</description><pubDate>Mon, 04 May 2026 05:09:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX54zqSj_aX</guid></item><item><title>1/ Q : Gemma는 랩톱과 스마트폰 등 로컬 디바이스로 AI를 이동시키고 있습니다.
+이러한 변화가 단순한 모델 최적화인지, 아니면 사람들이...</title><link>https://www.threads.net/@choi.openai/post/DX540R8j4Hr</link><description>1/ Q : Gemma는 랩톱과 스마트폰 등 로컬 디바이스로 AI를 이동시키고 있습니다.
+이러한 변화가 단순한 모델 최적화인지, 아니면 사람들이 AI를 사용하는 방식의 근본적인 전환점인지 궁금합니다.
 
-또한 그는 AI로 인해 경제와 직업의 구조가 크게 바뀔 것임이 분명하며, 이에 대비하기 위한 새로운 사회적 합의와 경제 시스템에 대한 치열한 논의가 필요하다고 덧붙였습니다.
+지주영님 : 과거 클라우드 스트리밍 게임(Stadia) 개발 경험에 비추어 볼 때, 클라우드는 분명 강력하지만 네트워크 연결이라는 절대적인 한계가 존재합니다.
 
-"우리는 의미 없는 삶을 사는 것이 아니라, 이전과는 전혀 다른 방식으로 창조하며 살아갈 것입니다."</description><pubDate>Mon, 04 May 2026 01:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5cUtLCg9e</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=Mklj3Y2-fNg</title><link>https://www.threads.net/@choi.openai/post/DX5cWfRisYj</link><description>풀영상 :
-https://www.youtube.com/watch?v=Mklj3Y2-fNg</description><pubDate>Mon, 04 May 2026 01:01:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5cWfRisYj</guid></item><item><title>중국의 딥 로보틱스(DEEP Robotics)가 바퀴가 장착된 전천후 사족보행 로봇 'LYNX M20S'를 전격 공개했습니다.
+Gemma와 같은 온디바이스 모델은 네트워크가 없는 환경에서도 더 많은 사람에게 닿을 수 있다는 점에서, 상황과 목적에 따라 최적의 도구를 선택할 수 있게 된 획기적인 변화입니다.
 
-해당 기체는 최...</title><link>https://www.threads.net/@choi.openai/post/DX5R7fKgNv0</link><description>중국의 딥 로보틱스(DEEP Robotics)가 바퀴가 장착된 전천후 사족보행 로봇 'LYNX M20S'를 전격 공개했습니다.
+이는 AI가 멀리 있는 전지전능한 오라클에서 벗어나, 내 손안에서 즉각적으로 반응하는 개인화된 도구로 변화하는 패러다임 시프트를 의미합니다.
 
-해당 기체는 최대 시속 32.4km로 달릴 수 있으며, 시연 영상에서는 가파른 숲길 지형과 물속까지 거침없이 통과하는 모습을 보여주었습니다.
+대형 모델의 텍스트 생성에만 의존하던 구조에서 벗어나, 실생활의 즉각적인 문제를 디바이스 단에서 해결하는 '액션 시대(Action Era)'의 본격적인 신호탄입니다.</description><pubDate>Mon, 04 May 2026 05:09:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX540R8j4Hr</guid></item><item><title>2/ Q : IoT 클라우드 이후의 다음 시대는 디바이스들이 각각 작은 에이전트처럼 행동하는 AoT(Agent of Things)가 될 수 있다...</title><link>https://www.threads.net/@choi.openai/post/DX540xIj_FU</link><description>2/ Q : IoT 클라우드 이후의 다음 시대는 디바이스들이 각각 작은 에이전트처럼 행동하는 AoT(Agent of Things)가 될 수 있다고 생각합니다. 이 미래에서 Gemma 같은 온디바이스 모델은 어떤 역할을 할 수 있을까요?
 
-예전에도 사족보행 로봇이 스케이트를 활용해 이동 효율을 높인 사례를 눈여겨봤었는데, 이제는 아예 바퀴를 기본 장착해 속도와 험지 극복 능력을 동시에 잡는 형태로 진화했습니다.
+Patrick 님 : 안드레이 카파시가 언급한 '에이전트의 시대'에 전적으로 동의하며, 향후 10년은 에이전트 애플리케이션이 주도할 것입니다.
 
-하드웨어 표준을 선점하고 실용성을 끌어올리는 중국 로봇 산업의 빠른 속도전이 그대로 체감됩니다.
+특히 Gemma 4가 로컬 환경에서의 함수 호출(Function Calling)과 코딩 능력을 비약적으로 향상시키면서, 누구나 디바이스 내부에 자신만의 로컬 에이전트를 구축할 수 있게 되었습니다.
 
-머지않아 험준한 재난 현장에서 가장 먼저 마주하는 구조대원은 사람이 아닌 로봇이 될지도 모르겠습니다.</description><pubDate>Sun, 03 May 2026 23:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5R7fKgNv0</guid></item><item><title>매월 29달러를 내야 했던 고급 화면 녹화 기능을 완벽히 대체하는 무료 소프트웨어가 등장해 큰 호응을 얻고 있습니다
+자동차, 로봇, 안경 등 모든 기기가 단순히 연결되는 것을 넘어 스스로 판단하고 행동하는 자율형 에이전트로 진화하는 과정에서, 빠르고 효율적인 오픈 모델은 이들의 핵심 두뇌 역할을 수행하게 될 것입니다.</description><pubDate>Mon, 04 May 2026 05:10:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX540xIj_FU</guid></item><item><title>3/ Q : 오프라인에서 작동한다는 장점을 넘어, 온디바이스 AI가 궁극적으로 지향하는 목표는 무엇입니까? 개인 기기 내부에서 어느 정도 수준의...</title><link>https://www.threads.net/@choi.openai/post/DX541Mpj8HQ</link><description>3/ Q : 오프라인에서 작동한다는 장점을 넘어, 온디바이스 AI가 궁극적으로 지향하는 목표는 무엇입니까? 개인 기기 내부에서 어느 정도 수준의 지능과 자율성을 기대할 수 있을까요?
 
-맥 전용 유료 소프트웨어인...</title><link>https://www.threads.net/@choi.openai/post/DX5Htn-DqhU</link><description>매월 29달러를 내야 했던 고급 화면 녹화 기능을 완벽히 대체하는 무료 소프트웨어가 등장해 큰 호응을 얻고 있습니다
+지주영, Patrick 님 : 가장 핵심적인 목표는 프라이버시 확보와 지연 시간(Latency) 단축입니다.
 
-맥 전용 유료 소프트웨어인 'Screen Studio'의 대안으로 'OpenScreen'이 깃허브에 공개되었는데요.
+의료나 금융처럼 민감한 개인 데이터를 기기 밖으로 내보내지 않고 안전하게 처리할 수 있으며, 클라우드를 오가는 비용과 시간을 줄임으로써 사용자 인터페이스(UI)가 유저의 상황에 맞춰 기기 내부에서 스스로 진화하고 적응하게 됩니다.
 
-OpenScreen은 윈도우와 맥을 모두 지원하며, 워터마크 없이 상업적으로도 이용할 수 있습니다.
+진정한 인공지능의 자율성은 보안과 즉각성이 보장될 때 비로소 완성되며, 온디바이스 AI는 그 완벽한 독립성을 부여하는 열쇠가 됩니다.</description><pubDate>Mon, 04 May 2026 05:10:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX541Mpj8HQ</guid></item><item><title>Codex 오픈소스 생태계가 정말 멋진 이유입니다.
 
-녹화만 진행하면 마우스 동선에 맞춘 자동 줌인, 모션 블러, 그림자와 둥근 모서리 등 고급 시각 효과가 영상에 자동으로 적용됩니다. 
+한 개발자가 애플워치에서 오픈AI의 'Codex' 세션을 제어할 수 있는 오픈소스 프로젝트...</title><link>https://www.threads.net/@choi.openai/post/DX6aGt1gPeq</link><description>Codex 오픈소스 생태계가 정말 멋진 이유입니다.
 
-여기서 눈여겨볼 부분은 독점적이던 유료 SaaS 시장이 강력한 오픈소스 기술에 의해 빠르게 대체되고 있는 흐름입니다. 
+한 개발자가 애플워치에서 오픈AI의 'Codex' 세션을 제어할 수 있는 오픈소스 프로젝트 'AgentPulse'를 공개했는데요.
 
-기술과 도구의 장벽이 완전히 무너진 지금, 앞으로는 어떤 매력적인 아이디어를 전달할 것인가 하는 기획의 가치가 더욱 중요해질 것으로 보입니다.</description><pubDate>Sun, 03 May 2026 22:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5Htn-DqhU</guid></item><item><title>깃허브 :
-https://github.com/siddharthvaddem/openscreen#</title><link>https://www.threads.net/@choi.openai/post/DX5HudPDhNd</link><description>깃허브 :
-https://github.com/siddharthvaddem/openscreen#</description><pubDate>Sun, 03 May 2026 22:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5HudPDhNd</guid></item></channel></rss>
+데스크톱의 Codex 앱 서버를 기반으로 작동하여, 손목에서 직접 스레드를 확인하고 AI 모델을 선택하며 작업에 대한 답변까지 즉각적으로 보낼 수 있습니다.
+
+개발자들이 주도하는 생태계의 확장성은 정말 놀라운 것 같은데요.
+
+오픈소스로 풀린 기술을 활용해, 이동 중에도 웨어러블 기기로 AI 에이전트를 원격 조종하는 새로운 작업 환경을 스스로 구축해 내고 있습니다.</description><pubDate>Mon, 04 May 2026 10:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX6aGt1gPeq</guid></item><item><title>깃허브 :
+https://github.com/manikv12/AgentPulse</title><link>https://www.threads.net/@choi.openai/post/DX6aHb6AIN3</link><description>깃허브 :
+https://github.com/manikv12/AgentPulse</description><pubDate>Mon, 04 May 2026 10:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX6aHb6AIN3</guid></item><item><title>AI가 짠 코드의 엉성한 디자인에 답답함을 느꼈던 분들에게 매우 반가운 소식이 있습니다.
+
+Claude나 Codex 같은 AI 모델에 직접 연결...</title><link>https://www.threads.net/@choi.openai/post/DX6PyawgkpL</link><description>AI가 짠 코드의 엉성한 디자인에 답답함을 느꼈던 분들에게 매우 반가운 소식이 있습니다.
+
+Claude나 Codex 같은 AI 모델에 직접 연결해 사용하는 디자인 레퍼런스 툴 'Lazyweb'이 완전 무료로 공개되었습니다.
+
+듀오링고 출신 개발자가 만든 해당 프로젝트는 25만 개 이상의 실제 앱과 웹 화면 데이터를 갖춘 해당 서비스는 유료 구독이나 사용량 제한 없이 MCP로 즉시 연동됩니다.
+
+정말 당장은 부족한 부분들이 점점 Skils나 오픈소스로 풀리면서 다양한 분야가 상향 평준화가 되는 것 같습니다.</description><pubDate>Mon, 04 May 2026 08:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX6PyawgkpL</guid></item><item><title>주소 :
+https://www.lazyweb.com/</title><link>https://www.threads.net/@choi.openai/post/DX6P1EOgg64</link><description>주소 :
+https://www.lazyweb.com/</description><pubDate>Mon, 04 May 2026 08:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX6P1EOgg64</guid></item><item><title>Chrome에서 Codex를 사용해보세요!!
+
+Codex를 Chorme에서 사용할 수 있는 Chormex의 0.1.3 버전이 업데이트 되었습니다...</title><link>https://www.threads.net/@choi.openai/post/DX6FcQ5gc2Y</link><description>Chrome에서 Codex를 사용해보세요!!
+
+Codex를 Chorme에서 사용할 수 있는 Chormex의 0.1.3 버전이 업데이트 되었습니다.
+이번 업데이트에서는 Skills 연동, MCP/플러그인 연동, 현재 페이지 기반 만화 만들기, 문맥 선택해서 질문하기, 사이트별 추천 메세지, 플랜모드, /goal 기능 등 다양한 편의성 기능이 추가되었는데요.
+
+ChatGPT 계정으로 연동되어 사용할 수 있기 때문에 Chrome 브라우저를 사용한다면 사용하지 않을 이유가 전혀 없습니다.
+
+심지어 100% 오픈소스로 제공되고 있습니다.</description><pubDate>Mon, 04 May 2026 07:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX6FcQ5gc2Y</guid></item><item><title>깃허브 :
+https://github.com/GENEXIS-AI/chromex</title><link>https://www.threads.net/@choi.openai/post/DX6FdXEAXZs</link><description>깃허브 :
+https://github.com/GENEXIS-AI/chromex</description><pubDate>Mon, 04 May 2026 07:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX6FdXEAXZs</guid></item></channel></rss>
