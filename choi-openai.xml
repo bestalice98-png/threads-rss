@@ -1,47 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 03 May 2026 15:36:51 +0000</lastBuildDate><item><title>이번 주에 AI 업계에서 42개의 미친 업데이트가 쏟아졌습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 04 May 2026 02:52:02 +0000</lastBuildDate><item><title>게임 개발이 이렇게까지 쉬워졌습니다.
 
-Codex가 스스로 목표 달성할 때까지 코딩·검토·수정 무한 루프 돌리고,
-C...</title><link>https://www.threads.net/@choi.openai/post/DX4K-7rDyZD</link><description>이번 주에 AI 업계에서 42개의 미친 업데이트가 쏟아졌습니다.
+Codex 하나로 2분 만에 MOBA 프로토타입 완성, 하루 만에 100개 넘는 게임 에셋 생성, 심지어...</title><link>https://www.threads.net/@choi.openai/post/DX5mhyWD3eJ</link><description>게임 개발이 이렇게까지 쉬워졌습니다.
 
-Codex가 스스로 목표 달성할 때까지 코딩·검토·수정 무한 루프 돌리고,
-Claude가 Blender·Fusion·Adobe를 직접 조작해 3D 모델을 뚝딱 만들고,
-Grok 4.3은 가격은 낮추고 에이전트 점수는 321점 폭등하고… 
+Codex 하나로 2분 만에 MOBA 프로토타입 완성, 하루 만에 100개 넘는 게임 에셋 생성, 심지어 /goal 을 이용해 혼자서 끝까지 게임을 만든 사례까지 등장했습니다.
 
-개발자, 크리에이터, 로보틱스, 심지어 의료와 물류까지 거의 모든 분야가 한 번에 흔들리고 있습니다.
+직접 나온 실제 사례들만 모아봤습니다, 어디까지 가능한지 확인해보세요🧵</description><pubDate>Mon, 04 May 2026 02:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5mhyWD3eJ</guid></item><item><title>1/ GPT-5.5 Codex의 "/goal"은 목표만 주면 몇 시간 동안 작업을 이어가며 추출 슈터 게임을 완성했습니다.
+이미지 생성까지 연결...</title><link>https://www.threads.net/@choi.openai/post/DX5hapeHWyE</link><description>1/ GPT-5.5 Codex의 "/goal"은 목표만 주면 몇 시간 동안 작업을 이어가며 추출 슈터 게임을 완성했습니다.
+이미지 생성까지 연결해 캐릭터, 배경 등 게임 에셋도 전부 자동으로 만들어낸 사례입니다.
 
-42개 전체를 하나씩 정리한 스레드는 아래에 이어가겠습니다 .북마크 해두세요.
-진짜 놀라운 한 주였습니다. 🧵👇🏻</description><pubDate>Sun, 03 May 2026 13:10:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX4K-7rDyZD</guid></item><item><title>1/ 오픈AI가 업무용 에이전트 'Codex'를 공개했습니다.
-슬랙, 구글 워크스페이스와 연결해 자료 요약, 기획안 작성, 다음 작업 계획까지 ...</title><link>https://www.threads.net/@choi.openai/post/DX4K_UQD6zA</link><description>1/ 오픈AI가 업무용 에이전트 'Codex'를 공개했습니다.
-슬랙, 구글 워크스페이스와 연결해 자료 요약, 기획안 작성, 다음 작업 계획까지 돕습니다.</description><pubDate>Sun, 03 May 2026 13:10:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX4K_UQD6zA</guid></item><item><title>2/ 오픈AI의 Codex CLI 0.128.
-0에 목표를 달성할 때까지 멈추지 않는 "/goal" 기능이 추가되었습니다.
-개발자가 목표만 주면...</title><link>https://www.threads.net/@choi.openai/post/DX4K_0cj7EX</link><description>2/ 오픈AI의 Codex CLI 0.128.
-0에 목표를 달성할 때까지 멈추지 않는 "/goal" 기능이 추가되었습니다.
-개발자가 목표만 주면 Codex가 스스로 코딩·검토·수정을 이어가는 방식입니다.</description><pubDate>Sun, 03 May 2026 13:10:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX4K_0cj7EX</guid></item><item><title>3/ xAI의 "Grok 4.3"이 공개됐습니다.
-성능 지표가 올랐고 가격은 낮아졌으며, 에이전트 업무 성능도 321점 상승했습니다.</title><link>https://www.threads.net/@choi.openai/post/DX4LAT0DynY</link><description>3/ xAI의 "Grok 4.3"이 공개됐습니다.
-성능 지표가 올랐고 가격은 낮아졌으며, 에이전트 업무 성능도 321점 상승했습니다.</description><pubDate>Sun, 03 May 2026 13:10:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX4LAT0DynY</guid></item><item><title>구글이 다가오는 I/O 행사에서 판을 완전히 엎을 준비를 하고 있는 것 같습니다
+x@AlexFinn</description><pubDate>Mon, 04 May 2026 02:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5hapeHWyE</guid></item><item><title>2/ GPT-5.5 Codex는 “레고 스타워즈 칸티나 게임 만들어줘” 요청에 한 번에 플레이 가능한 게임을 생성했습니다.
+/goal 기능으로 ...</title><link>https://www.threads.net/@choi.openai/post/DX5hVTGDQ-o</link><description>2/ GPT-5.5 Codex는 “레고 스타워즈 칸티나 게임 만들어줘” 요청에 한 번에 플레이 가능한 게임을 생성했습니다.
+/goal 기능으로 별도 개입 없이 게임 제작을 끝까지 진행한 사례입니다.
 
-현재 Gemini의 영상 생성 탭에서 'Omni'라는 새로운 ...</title><link>https://www.threads.net/@choi.openai/post/DX3_biEj4d7</link><description>구글이 다가오는 I/O 행사에서 판을 완전히 엎을 준비를 하고 있는 것 같습니다
+x@chatgpt21</description><pubDate>Mon, 04 May 2026 02:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5hVTGDQ-o</guid></item><item><title>3/ GPT-5.5와 GPT Image 2를 활용해 하루 만에 100개 이상의 게임 에셋을 전부 새로 생성해 적용했습니다.
+타일, 오브젝트, 배...</title><link>https://www.threads.net/@choi.openai/post/DX5hkFsDANp</link><description>3/ GPT-5.5와 GPT Image 2를 활용해 하루 만에 100개 이상의 게임 에셋을 전부 새로 생성해 적용했습니다.
+타일, 오브젝트, 배경까지 수작업 없이 바로 게임에 반영해 완성도를 높인 사례입니다.
 
-현재 Gemini의 영상 생성 탭에서 'Omni'라는 새로운 모델 기반의 템플릿 문구가 유출되었는데요.
-기존에 널리 사용되던 영상 생성 모델인 Veo 3.1을 넘어서는, 멀티모달 통합 영상 모델이 공개될 가능성이 커졌습니다. 
+x@VibeCreAI</description><pubDate>Mon, 04 May 2026 02:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5hkFsDANp</guid></item><item><title>오픈AI CEO 샘 알트만은 최근 인터뷰에서 AI가 일자리에 미칠 영향에 대해 솔직한 견해를 밝혔습니다.
+그는 일부 AI 기업 CEO들이 "직업...</title><link>https://www.threads.net/@choi.openai/post/DX5cUtLCg9e</link><description>오픈AI CEO 샘 알트만은 최근 인터뷰에서 AI가 일자리에 미칠 영향에 대해 솔직한 견해를 밝혔습니다.
+그는 일부 AI 기업 CEO들이 "직업의 50%가 사라질 것"이라고 주장하는 것에 대해 "상당히 공감 능력이 떨어지는 발언"이라고 비판하며, 단순히 일자리가 사라지는 것이 아니라 변화하는 과정에 주목해야 한다고 강조했습니다.
 
-최근 Seedance 같은 경쟁 모델들이 영상 분야에서 매섭게 치고 올라오고 있는 상황에서 구글이 새로운 옵니모달을 준비하고 있는 것으로 보입니다.
+알트만은 GPT-5.5와 같은 새로운 모델을 활용해 "2년 전이라면 몇 주가 걸렸을 일을 단 한 시간 만에 끝낼 수 있게 되었다"고 언급하며, 코딩 등 전문 업무에서의 비약적인 생산성 향상을 직접 경험하고 있다고 말했습니다.
 
-텍스트와 이미지를 넘어 영상까지 하나로 엮어내는 일관성이 다음 AI 생태계의 표준을 어떻게 다시 쓰게 될지 다가올 구글 I/O를 지켜봐야겠습니다..</description><pubDate>Sun, 03 May 2026 11:29:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX3_biEj4d7</guid></item><item><title>구글 딥마인드(Google DeepMind)의 CEO 데미스 하사비스(Demis Hassabis)는 "삶은 매우 짧으며, 당신이 가진 시간과 에...</title><link>https://www.threads.net/@choi.openai/post/DX3x1bMES1k</link><description>구글 딥마인드(Google DeepMind)의 CEO 데미스 하사비스(Demis Hassabis)는 "삶은 매우 짧으며, 당신이 가진 시간과 에너지는 한정적입니다"라며 AGI 시대를 대비해 정말로 큰 변화를 만들 수 있는 '어려운 문제'에 집중하라고 조언했습니다.
+또한 그는 AI로 인해 경제와 직업의 구조가 크게 바뀔 것임이 분명하며, 이에 대비하기 위한 새로운 사회적 합의와 경제 시스템에 대한 치열한 논의가 필요하다고 덧붙였습니다.
 
-그는 범용 AI 모델인 Gemini나 Claude가 알파폴드(AlphaFold)와 같은 전문화된 AI 시스템을 도구로 활용하는 구조를 예견했습니다.
-모든 지식을 하나의 모델에 담는 것보다 정보 효율성을 극대화하는 방식이 더 강력해질 것이라는 분석입니다.
+"우리는 의미 없는 삶을 사는 것이 아니라, 이전과는 전혀 다른 방식으로 창조하며 살아갈 것입니다."</description><pubDate>Mon, 04 May 2026 01:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5cUtLCg9e</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=Mklj3Y2-fNg</title><link>https://www.threads.net/@choi.openai/post/DX5cWfRisYj</link><description>풀영상 :
+https://www.youtube.com/watch?v=Mklj3Y2-fNg</description><pubDate>Mon, 04 May 2026 01:01:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5cWfRisYj</guid></item><item><title>중국의 딥 로보틱스(DEEP Robotics)가 바퀴가 장착된 전천후 사족보행 로봇 'LYNX M20S'를 전격 공개했습니다.
 
-하사비스는 본인의 AGI 도달 예상 시점을 2030년경으로 언급하며, "10년이 걸리는 딥테크(Deep Tech) 여정 중간에 AGI가 등장할 수 있음을 고려해야 한다"고 강조했습니다.
+해당 기체는 최...</title><link>https://www.threads.net/@choi.openai/post/DX5R7fKgNv0</link><description>중국의 딥 로보틱스(DEEP Robotics)가 바퀴가 장착된 전천후 사족보행 로봇 'LYNX M20S'를 전격 공개했습니다.
 
-미래의 공장, 금융 시스템 등이 AGI와 어떻게 상호작용할지를 상상하고 그 세상에서 유용한 가치를 구축하라는 메시지입니다.</description><pubDate>Sun, 03 May 2026 09:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX3x1bMES1k</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=JNyuX1zoOgU</title><link>https://www.threads.net/@choi.openai/post/DX3x2QfkdPe</link><description>풀영상 :
-https://www.youtube.com/watch?v=JNyuX1zoOgU</description><pubDate>Sun, 03 May 2026 09:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX3x2QfkdPe</guid></item><item><title>샘 알트만은 향후 AI 에이전트들이 활동하는 시대에 새로운 경제 모델이 필요하다고 강조했습니다.
-"에이전트들이 인간을 대신하여 수많은 소액 결제...</title><link>https://www.threads.net/@choi.openai/post/DX3ngfzDWKn</link><description>샘 알트만은 향후 AI 에이전트들이 활동하는 시대에 새로운 경제 모델이 필요하다고 강조했습니다.
-"에이전트들이 인간을 대신하여 수많은 소액 결제를 수행하고 가치를 교환하는 새로운 경제 시스템이 구축되어야 한다"고 설명했습니다.
-예를 들어, AI 에이전트가 특정 기사를 읽고 요약하거나 복잡한 연산을 위해 클라우드 컴퓨팅 자원을 대여할 때 실시간으로 소액을 지불하는 방식입니다.
-이러한 시스템은 콘텐츠 제작자와 기술 제공자 모두에게 정당한 보상을 제공하면서도, 사용자에게는 극대화된 효율성을 선사할 것입니다.
-알트만은 "에이전트 중심의 세상에서는 수많은 마이크로 트랜잭션이 발생하는 새로운 경제 모델이 핵심이 될 것"이라고 덧붙였습니다.</description><pubDate>Sun, 03 May 2026 08:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX3ngfzDWKn</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=i9yXrdQ6noo</title><link>https://www.threads.net/@choi.openai/post/DX3nhTTjaAM</link><description>풀영상 :
-https://www.youtube.com/watch?v=i9yXrdQ6noo</description><pubDate>Sun, 03 May 2026 08:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX3nhTTjaAM</guid></item></channel></rss>
+해당 기체는 최대 시속 32.4km로 달릴 수 있으며, 시연 영상에서는 가파른 숲길 지형과 물속까지 거침없이 통과하는 모습을 보여주었습니다.
+
+예전에도 사족보행 로봇이 스케이트를 활용해 이동 효율을 높인 사례를 눈여겨봤었는데, 이제는 아예 바퀴를 기본 장착해 속도와 험지 극복 능력을 동시에 잡는 형태로 진화했습니다.
+
+하드웨어 표준을 선점하고 실용성을 끌어올리는 중국 로봇 산업의 빠른 속도전이 그대로 체감됩니다.
+
+머지않아 험준한 재난 현장에서 가장 먼저 마주하는 구조대원은 사람이 아닌 로봇이 될지도 모르겠습니다.</description><pubDate>Sun, 03 May 2026 23:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5R7fKgNv0</guid></item><item><title>매월 29달러를 내야 했던 고급 화면 녹화 기능을 완벽히 대체하는 무료 소프트웨어가 등장해 큰 호응을 얻고 있습니다
+
+맥 전용 유료 소프트웨어인...</title><link>https://www.threads.net/@choi.openai/post/DX5Htn-DqhU</link><description>매월 29달러를 내야 했던 고급 화면 녹화 기능을 완벽히 대체하는 무료 소프트웨어가 등장해 큰 호응을 얻고 있습니다
+
+맥 전용 유료 소프트웨어인 'Screen Studio'의 대안으로 'OpenScreen'이 깃허브에 공개되었는데요.
+
+OpenScreen은 윈도우와 맥을 모두 지원하며, 워터마크 없이 상업적으로도 이용할 수 있습니다.
+
+녹화만 진행하면 마우스 동선에 맞춘 자동 줌인, 모션 블러, 그림자와 둥근 모서리 등 고급 시각 효과가 영상에 자동으로 적용됩니다. 
+
+여기서 눈여겨볼 부분은 독점적이던 유료 SaaS 시장이 강력한 오픈소스 기술에 의해 빠르게 대체되고 있는 흐름입니다. 
+
+기술과 도구의 장벽이 완전히 무너진 지금, 앞으로는 어떤 매력적인 아이디어를 전달할 것인가 하는 기획의 가치가 더욱 중요해질 것으로 보입니다.</description><pubDate>Sun, 03 May 2026 22:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5Htn-DqhU</guid></item><item><title>깃허브 :
+https://github.com/siddharthvaddem/openscreen#</title><link>https://www.threads.net/@choi.openai/post/DX5HudPDhNd</link><description>깃허브 :
+https://github.com/siddharthvaddem/openscreen#</description><pubDate>Sun, 03 May 2026 22:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX5HudPDhNd</guid></item></channel></rss>
