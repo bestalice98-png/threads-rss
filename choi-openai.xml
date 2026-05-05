@@ -1,78 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 05 May 2026 10:02:58 +0000</lastBuildDate><item><title>“앞으로 10년은 에이전트 시대입니다”
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 05 May 2026 16:22:36 +0000</lastBuildDate><item><title>🚨 또 한 번 앤트로픽의 업데이트에 수천개 기업들이 요동칠 것 같습니다.
 
-어제 진행된 Gemma Sprint에서 구글 딥마인드 지주영님, Patrick님과 Gemma 4와 온디...</title><link>https://www.threads.net/@choi.openai/post/DX54zqSj_aX</link><description>“앞으로 10년은 에이전트 시대입니다”
+Claude가 드디어 금융권의 엑셀과 파워포인트 안으로 직접 뛰어들었...</title><link>https://www.threads.net/@choi.openai/post/DX9h20LDzCq</link><description>🚨 또 한 번 앤트로픽의 업데이트에 수천개 기업들이 요동칠 것 같습니다.
 
-어제 진행된 Gemma Sprint에서 구글 딥마인드 지주영님, Patrick님과 Gemma 4와 온디바이스 AI의 미래에 대해 직접 이야기할 기회가 있었습니다.
+Claude가 드디어 금융권의 엑셀과 파워포인트 안으로 직접 뛰어들었습니다.
+오늘 앤트로픽이 기업 가치 평가, 피칭 자료 작성, 월말 결산 등 금융 실무에 바로 투입할 수 있는 특화 에이전트(Agent) 템플릿을 공개했는데요.
 
-이번 대화를 통해 가장 크게 느낀 건, 온디바이스 AI가 단순히 “인터넷 없이 쓰는 AI”가 아니라는 점입니다.
+팩트셋(FactSet)이나 S&amp;P 글로벌 같은 전문 데이터와 직접 연동되며, 에이전트 하나에 필요한 커넥터와 하위 에이전트들이 패키지로 묶여 제공됩니다.
 
-AI가 클라우드 화면 밖으로 나와, 스마트폰과 노트북, 앱, OS, 센서, 개인 데이터 가까이 내려오고 있습니다.
+해당 템플릿은 Claude Cowork나 Claude Code에 플러그인 형태로 설치해 즉시 실무에 사용할 수 있습니다. 
 
-앞으로 중요한 건 어떤 모델이 가장 똑똑한가를 넘어, 어떤 작업을 기기 안에서 처리하고, 어떤 작업을 클라우드로 보내며, 어떤 데이터는 절대 밖으로 내보내지 않을지 설계하는 능력이 될 것 같습니다.
+금융권의 월말 결산 야근, 이제 진짜 옛말이 될지도 모르겠습니다.</description><pubDate>Tue, 05 May 2026 15:07:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX9h20LDzCq</guid></item><item><title>발표내용 :
+https://claude.com/solutions/financial-services#finance-agents</title><link>https://www.threads.net/@choi.openai/post/DX9iBv8j7x6</link><description>발표내용 :
+https://claude.com/solutions/financial-services#finance-agents</description><pubDate>Tue, 05 May 2026 15:07:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX9iBv8j7x6</guid></item><item><title>구글 I/O 행사가 정말 기대됩니다!
 
-Gemma 4, Gemini Nano, AI Edge Gallery, 로컬 에이전트, 하이브리드 라우팅까지.
+최근 iOS 앱 등에서 '제미나이 3.2 플래시(Flash)' 모델이 포착되며 화제를 모으고 있는데요.
+...</title><link>https://www.threads.net/@choi.openai/post/DX9dvNlCFMA</link><description>구글 I/O 행사가 정말 기대됩니다!
 
-이번 인터뷰에서 나온 핵심 내용과 제가 느낀 온디바이스 AI의 방향성을 정리했습니다 🧵</description><pubDate>Mon, 04 May 2026 05:09:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX54zqSj_aX</guid></item><item><title>1/ Q : Gemma는 랩톱과 스마트폰 등 로컬 디바이스로 AI를 이동시키고 있습니다.
-이러한 변화가 단순한 모델 최적화인지, 아니면 사람들이...</title><link>https://www.threads.net/@choi.openai/post/DX540R8j4Hr</link><description>1/ Q : Gemma는 랩톱과 스마트폰 등 로컬 디바이스로 AI를 이동시키고 있습니다.
-이러한 변화가 단순한 모델 최적화인지, 아니면 사람들이 AI를 사용하는 방식의 근본적인 전환점인지 궁금합니다.
+최근 iOS 앱 등에서 '제미나이 3.2 플래시(Flash)' 모델이 포착되며 화제를 모으고 있는데요.
 
-지주영님 : 과거 클라우드 스트리밍 게임(Stadia) 개발 경험에 비추어 볼 때, 클라우드는 분명 강력하지만 네트워크 연결이라는 절대적인 한계가 존재합니다.
+다만, 새로운 모델이 3.5가 아닌 3.2라는 넘버링이라는 점에서 완전히 새로운 패러다임의 도약보다는 기존 모델의 성능 최적화와 안정성에 집중하겠다는 의도로 보입니다. 
 
-Gemma와 같은 온디바이스 모델은 네트워크가 없는 환경에서도 더 많은 사람에게 닿을 수 있다는 점에서, 상황과 목적에 따라 최적의 도구를 선택할 수 있게 된 획기적인 변화입니다.
+실제로 유출된 3.2 플래시는 복잡한 ASCII 애니메이션을 일관되게 생성하며 가장 가벼운 체급임에도 체감 성능이 기존 3.1 프로(Pro) 모델에 근접한다는 평가까지 나오고 있습니다.
 
-이는 AI가 멀리 있는 전지전능한 오라클에서 벗어나, 내 손안에서 즉각적으로 반응하는 개인화된 도구로 변화하는 패러다임 시프트를 의미합니다.
+여기에 스케줄과 작업을 관리하는 'Gemini Agent' UI까지 함께 유출되었는데요.
+다가올 구글 I/O에서 어떤 큰 그림이 공개될지 궁금해집니다.</description><pubDate>Tue, 05 May 2026 14:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX9dvNlCFMA</guid></item><item><title>보스턴 다이나믹스의 새로운 로봇영상</title><link>https://www.threads.net/@choi.openai/post/DX9X6qajzjN</link><description>보스턴 다이나믹스의 새로운 로봇영상</description><pubDate>Tue, 05 May 2026 13:39:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX9X6qajzjN</guid></item><item><title>깃허브에 실수로 API 키를 올렸다가 식은땀 흘려본 적 있다면, 이 소식에 환호할 수밖에 없을 겁니다. 
 
-대형 모델의 텍스트 생성에만 의존하던 구조에서 벗어나, 실생활의 즉각적인 문제를 디바이스 단에서 해결하는 '액션 시대(Action Era)'의 본격적인 신호탄입니다.</description><pubDate>Mon, 04 May 2026 05:09:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX540R8j4Hr</guid></item><item><title>2/ Q : IoT 클라우드 이후의 다음 시대는 디바이스들이 각각 작은 에이전트처럼 행동하는 AoT(Agent of Things)가 될 수 있다...</title><link>https://www.threads.net/@choi.openai/post/DX540xIj_FU</link><description>2/ Q : IoT 클라우드 이후의 다음 시대는 디바이스들이 각각 작은 에이전트처럼 행동하는 AoT(Agent of Things)가 될 수 있다고 생각합니다. 이 미래에서 Gemma 같은 온디바이스 모델은 어떤 역할을 할 수 있을까요?
+오늘 앤트로픽이 Claude 플랫폼에...</title><link>https://www.threads.net/@choi.openai/post/DX9TdRgjGPn</link><description>깃허브에 실수로 API 키를 올렸다가 식은땀 흘려본 적 있다면, 이 소식에 환호할 수밖에 없을 겁니다. 
 
-Patrick 님 : 안드레이 카파시가 언급한 '에이전트의 시대'에 전적으로 동의하며, 향후 10년은 에이전트 애플리케이션이 주도할 것입니다.
+오늘 앤트로픽이 Claude 플랫폼에 '키리스 인증(Keyless Auth)' 기능을 도입했습니다.
 
-특히 Gemma 4가 로컬 환경에서의 함수 호출(Function Calling)과 코딩 능력을 비약적으로 향상시키면서, 누구나 디바이스 내부에 자신만의 로컬 에이전트를 구축할 수 있게 되었습니다.
+이제 번거로운 API 키 발급이나 관리 없이, AWS, GCP, Azure 등 기존 클라우드 권한(IAM)이나 OIDC 토큰만으로 클로드에 바로 접근할 수 있게 되었습니다.
 
-자동차, 로봇, 안경 등 모든 기기가 단순히 연결되는 것을 넘어 스스로 판단하고 행동하는 자율형 에이전트로 진화하는 과정에서, 빠르고 효율적인 오픈 모델은 이들의 핵심 두뇌 역할을 수행하게 될 것입니다.</description><pubDate>Mon, 04 May 2026 05:10:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX540xIj_FU</guid></item><item><title>3/ Q : 오프라인에서 작동한다는 장점을 넘어, 온디바이스 AI가 궁극적으로 지향하는 목표는 무엇입니까? 개인 기기 내부에서 어느 정도 수준의...</title><link>https://www.threads.net/@choi.openai/post/DX541Mpj8HQ</link><description>3/ Q : 오프라인에서 작동한다는 장점을 넘어, 온디바이스 AI가 궁극적으로 지향하는 목표는 무엇입니까? 개인 기기 내부에서 어느 정도 수준의 지능과 자율성을 기대할 수 있을까요?
-
-지주영, Patrick 님 : 가장 핵심적인 목표는 프라이버시 확보와 지연 시간(Latency) 단축입니다.
-
-의료나 금융처럼 민감한 개인 데이터를 기기 밖으로 내보내지 않고 안전하게 처리할 수 있으며, 클라우드를 오가는 비용과 시간을 줄임으로써 사용자 인터페이스(UI)가 유저의 상황에 맞춰 기기 내부에서 스스로 진화하고 적응하게 됩니다.
-
-진정한 인공지능의 자율성은 보안과 즉각성이 보장될 때 비로소 완성되며, 온디바이스 AI는 그 완벽한 독립성을 부여하는 열쇠가 됩니다.</description><pubDate>Mon, 04 May 2026 05:10:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX541Mpj8HQ</guid></item><item><title>드디어 올 것이 왔습니다.
-
-게임 개발의 판도를 바꿀 Unity AI 오픈 베타가 Unity 6 이상 버전을 대상으로 시작되었는데요. 
-
-이제 ...</title><link>https://www.threads.net/@choi.openai/post/DX8fDD1jz94</link><description>드디어 올 것이 왔습니다.
-
-게임 개발의 판도를 바꿀 Unity AI 오픈 베타가 Unity 6 이상 버전을 대상으로 시작되었는데요. 
-
-이제 유니티 워크플로우에 맞춰진 내장 에이전트를 활용하거나, AI Gateway 및 MCP Server를 통해 본인이 선호하는 외부 AI 도구를 엔진에 직접 연결해 사용할 수 있게 되었습니다.
-
-가장 민감한 저작권 문제에 대해서도 사용자 데이터를 기본적으로 AI 모델 학습에 사용하지 않는다고 명확히 선을 그었는데요.
-
-프로 구독자에게는 해당 기능이 기본 제공되며, 개인 사용자는 월 10달러에 이용할 수 있어 접근성을 크게 높였습니다. 
-
-커뮤니티에서는 저품질 양산형 게임이 쏟아질 것이라는 우려와 함께 1인 개발의 한계를 깨줄 것이라는 기대가 엇갈리고 있습니다.
-
-이제 게임 엔진 자체가 거대한 AI 어시스턴트로 변모하는 시대입니다..</description><pubDate>Tue, 05 May 2026 05:25:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX8fDD1jz94</guid></item><item><title>베타 참여 :
-https://unity.com/kr/features/ai</title><link>https://www.threads.net/@choi.openai/post/DX8fZbfj69A</link><description>베타 참여 :
-https://unity.com/kr/features/ai</description><pubDate>Tue, 05 May 2026 05:25:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX8fZbfj69A</guid></item><item><title>샘 알트만 오픈AI CEO는 인공지능 기술의 발전이 물리적 세계와 긴밀하게 연결되어야 함을 강조했습니다.
-
-그는 칩 제조와 데이터 센터 구축 등...</title><link>https://www.threads.net/@choi.openai/post/DX7DSHRk5d7</link><description>샘 알트만 오픈AI CEO는 인공지능 기술의 발전이 물리적 세계와 긴밀하게 연결되어야 함을 강조했습니다.
-
-그는 칩 제조와 데이터 센터 구축 등 물리적 인프라의 중요성을 언급하며, 로봇 기술이 뒷받침되지 않는다면 인류가 AGI의 지시를 수행하는 "액추에이터(actuator)"로 전락하는 불행한 미래가 올 수 있다고 경고했습니다.
-
-알트만은 특정 형태의 로봇보다는 챗GPT처럼 범용성을 갖춘 "자동화된 제조 시스템"과 스스로를 재구성해 필요한 제품을 생산하는 "로봇 공장"의 필요성을 역설했습니다. 이는 AI가 가상 세계를 넘어 실제 경제 전반에 강력한 영향을 미치게 될 것임을 시사합니다.
-
-“인공지능이 놀라운 일을 해내도 로봇 기술이 없다면 인간은 그저 AGI의 실행 수단이 될 뿐입니다.”</description><pubDate>Mon, 04 May 2026 16:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX7DSHRk5d7</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=Mklj3Y2-fNg</title><link>https://www.threads.net/@choi.openai/post/DX7DTE3k6c-</link><description>풀영상 :
-https://www.youtube.com/watch?v=Mklj3Y2-fNg</description><pubDate>Mon, 04 May 2026 16:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX7DTE3k6c-</guid></item><item><title>구글의 순다 피차이 CEO는 현재의 AI 전환기가 그 어느 때보다 역동적이라고 평가했습니다.
-
-그는 구글의 오픈소스 모델인 'Gemma'를 언급...</title><link>https://www.threads.net/@choi.openai/post/DX649ynj1EE</link><description>구글의 순다 피차이 CEO는 현재의 AI 전환기가 그 어느 때보다 역동적이라고 평가했습니다.
-
-그는 구글의 오픈소스 모델인 'Gemma'를 언급하며, "Gemma 는 누구나 사용할 수 있는 강력한 오픈소스 모델"임을 강조했습니다.
-이는 소수의 기업만이 기술을 독점하는 것이 아니라, 대기업부터 스타트업, 그리고 오픈소스 커뮤니티까지 모두가 참여하는 개방형 생태계가 형성되고 있음을 의미합니다.
-
-또한 AI 기술의 막대한 영향력을 고려할 때, 특정 기업의 노력만으로는 부족하며 정부와 사회 전반의 협력이 필수적이라고 덧붙였습니다.
-그는 우리가 이 거대한 변화의 다음 단계로 책임감 있게 나아가기 위해 인류 모두가 함께 고민해야 할 시점이라고 말했습니다.
-
-“AI는 이전의 그 어떤 기술과도 다릅니다. 우리 모두가 함께 이 기술을 구축하고 다음 시대를 책임감 있게 열어가야 합니다.”</description><pubDate>Mon, 04 May 2026 14:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX649ynj1EE</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=bxDObdH2YSc</title><link>https://www.threads.net/@choi.openai/post/DX64-0LD4jE</link><description>풀영상 :
-https://www.youtube.com/watch?v=bxDObdH2YSc</description><pubDate>Mon, 04 May 2026 14:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX64-0LD4jE</guid></item></channel></rss>
+이번 업데이트로 주기적으로 키를 교체하고 관리해야 했던 기업들의 인프라 부담이 단번에 해결되었습니다.</description><pubDate>Tue, 05 May 2026 13:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX9TdRgjGPn</guid></item><item><title>관련내용 :
+https://platform.claude.com/docs/en/build-with-claude/workload-identity-f...</title><link>https://www.threads.net/@choi.openai/post/DX9TeGnDPGM</link><description>관련내용 :
+https://platform.claude.com/docs/en/build-with-claude/workload-identity-federation</description><pubDate>Tue, 05 May 2026 13:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX9TeGnDPGM</guid></item></channel></rss>
