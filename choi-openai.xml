@@ -1,46 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 06 May 2026 02:50:01 +0000</lastBuildDate><item><title>Inworld AI가 실시간 대화에 맞춰진 음성 모델 'Realtime TTS-2'를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 06 May 2026 10:17:50 +0000</lastBuildDate><item><title>실험실에서 유전자 편집을 돕고, 카페에서 팝콘을 튀기는 AI 로봇이 등장했습니다.
 
-해당 모델은 이전 대화의 오디오를 직접 듣...</title><link>https://www.threads.net/@choi.openai/post/DX-xQvGk1B0</link><description>Inworld AI가 실시간 대화에 맞춰진 음성 모델 'Realtime TTS-2'를 공개했습니다.
+Ai2가 통제된 실험실을 벗어나 실제 현실에서 작동하도록 설...</title><link>https://www.threads.net/@choi.openai/post/DX_jpHij3iK</link><description>실험실에서 유전자 편집을 돕고, 카페에서 팝콘을 튀기는 AI 로봇이 등장했습니다.
 
-해당 모델은 이전 대화의 오디오를 직접 듣고 사용자의 톤과 감정 상태를 파악해 답변의 느낌을 스스로 조절합니다.
+Ai2가 통제된 실험실을 벗어나 실제 현실에서 작동하도록 설계된 로봇 제어 모델 'MolmoAct 2'를 공개했습니다.
+해당 모델은 이전보다 최대 37배 빠르게 작동하며, 별도의 미세 조정 없이도 두 팔을 자연스럽게 사용합니다. 그 기반이 된 체화 추론 모델 'Molmo 2-ER'은 관련 벤치마크에서 GPT-5를 뛰어넘는 성능을 기록하기도 했습니다.
 
-또한 마치 연기자에게 지시하듯 자연어로 목소리 연기 방식을 프롬프트로 입력할 수 있으며, 대화 중간에 100개가 넘는 언어로 전환해도 화자의 목소리 정체성은 똑같이 유지됩니다.
+이미 스탠퍼드 의대와 협력해 크리스퍼(CRISPR) 유전자 편집 작업에 투입되었고, 심지어 긴 실험 중 발생한 작은 실수까지 스스로 복구하며 임무를 완수했습니다.</description><pubDate>Wed, 06 May 2026 10:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX_jpHij3iK</guid></item><item><title>블로그 :
+https://allenai.org/blog/molmoact2</title><link>https://www.threads.net/@choi.openai/post/DX_jqV5j4Wl</link><description>블로그 :
+https://allenai.org/blog/molmoact2</description><pubDate>Wed, 06 May 2026 10:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX_jqV5j4Wl</guid></item><item><title>이제 지도에서 “높낮이”까지 바로 읽히는 시대입니다.
+Google Earth가 선을 그리면 지형의 고도 변화를 바로 보여주는 ‘elevation...</title><link>https://www.threads.net/@choi.openai/post/DX_adhKCZVk</link><description>이제 지도에서 “높낮이”까지 바로 읽히는 시대입니다.
+Google Earth가 선을 그리면 지형의 고도 변화를 바로 보여주는 ‘elevation profiles’ 기능을 추가했습니다.
 
-한숨이나 웃음 같은 비언어적 표현은 물론, 말을 머뭇거리는 디테일까지 자연스럽게 살려냅니다. 
+기존에는 경로나 거리만 확인했다면, 이제는 경로 위의 오르막과 내리막, 지형 굴곡을 한 번에 확인할 수 있습니다.
 
-과거의 AI 음성이 오디오북 낭독을 위한 기술이었다면, 이제는 사람 간의 진짜 대화를 구현하는 수준으로 진화하고 있습니다.</description><pubDate>Wed, 06 May 2026 02:40:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX-xQvGk1B0</guid></item><item><title>발표내용 :
-https://inworld.ai/blog/realtime-tts-2</title><link>https://www.threads.net/@choi.openai/post/DX-xRpXk8pm</link><description>발표내용 :
-https://inworld.ai/blog/realtime-tts-2</description><pubDate>Wed, 06 May 2026 02:40:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX-xRpXk8pm</guid></item><item><title>구글이 Gemini API에 웹훅(Webhooks)과 직관적인 에러 안내 기능을 새롭게 도입했는데요.
+도로 계획, 물류 동선, 중장비 이동 같은 작업에서 바로 쓰일 수 있는 정보입니다.</description><pubDate>Wed, 06 May 2026 08:40:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX_adhKCZVk</guid></item><item><title>TRAE에서 'TRAE SOLO Mobile' 앱을 정식 출시했습니다. 
 
-이제 딥 리서치나 긴 영상 생성처럼 오래...</title><link>https://www.threads.net/@choi.openai/post/DX-pRX0DCXT</link><description>구글이 Gemini API에 웹훅(Webhooks)과 직관적인 에러 안내 기능을 새롭게 도입했는데요.
+이동 중 떠오른 아이디어를 앱에 기록하면, 기기 간 매끄러운 연결을 ...</title><link>https://www.threads.net/@choi.openai/post/DX_Se-LAi5H</link><description>TRAE에서 'TRAE SOLO Mobile' 앱을 정식 출시했습니다. 
 
-이제 딥 리서치나 긴 영상 생성처럼 오래 걸리는 작업을 지시하면, 완료 여부를 계속 확인할 필요 없이 작업이 끝나는 즉시 서버로 알림을 보내줍니다.
-게다가 에러가 발생하면 모호한 경고 대신, 어떤 값이 틀렸고 무엇이 올바른 값인지 정확히 짚어줍니다.
+이동 중 떠오른 아이디어를 앱에 기록하면, 기기 간 매끄러운 연결을 통해 더 강력한 환경에서 실제 작업이 실행되도록 돕는데요.
 
-이 업데이트가 사람뿐만 아니라 코드를 짜는 AI 에이전트를 타깃으로 했다는 점입니다.
-결국 AI 생태계가 가벼운 챗봇에서 오랜 시간 독립적으로 판단하고 행동하는 자율형 에이전트로 완전히 넘어가고 있다는 뜻입니다.
+앞으로 Codex 모바일 앱과 같이 모바일 코딩 시장도 크게 변화될 것으로 보입니다.
+점점 AI 도구들이 모바일에 가까워짐에 따라 조만간 AI OS도 곧 만나볼 수 있기를 기대해봅니다.</description><pubDate>Wed, 06 May 2026 07:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX_Se-LAi5H</guid></item><item><title>30년 넘게 침묵하던 웹사이트가 이제 방문자에게 먼저 말을 걸고 영업을 시작했습니다.
 
-다가올 I/O 2026에서 관련 기능들이 얼마나 더 풀릴지 기대해볼 만합니다.</description><pubDate>Wed, 06 May 2026 01:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX-pRX0DCXT</guid></item><item><title>혼자서 조 단위 매출을 내는 1인 기업의 인프라가 구체적인 모습을 드러내고 있습니다.
+새로 공개된 'Interact AI'는 홈페이지에 연동되...</title><link>https://www.threads.net/@choi.openai/post/DX_KfgBkzVf</link><description>30년 넘게 침묵하던 웹사이트가 이제 방문자에게 먼저 말을 걸고 영업을 시작했습니다.
 
-최근 Cofounder 2라는 서비스가 오픈 베타로 공개...</title><link>https://www.threads.net/@choi.openai/post/DX-hQ3Ekw6v</link><description>혼자서 조 단위 매출을 내는 1인 기업의 인프라가 구체적인 모습을 드러내고 있습니다.
+새로 공개된 'Interact AI'는 홈페이지에 연동되어 모든 방문자와 대화하며 제품을 설명해 주는 AI 인터페이스입니다.
+기존처럼 지루한 데모 신청 폼을 작성하고 세일즈 담당자의 연락을 기다릴 필요 없이, 접속하는 순간 AI가 사용자의 의도를 파악하고 즉각적인 가이드를 제공합니다.
 
-최근 Cofounder 2라는 서비스가 오픈 베타로 공개되었는데요.
-엔지니어링, 영업, 마케팅, 디자인 등 다양한 역할의 AI 에이전트들을 실제 조직도에 배치해 동시에 업무를 진행하게 해주는 도구입니다.
+방문자가 어떤 질문을 많이 하고 어디서 이탈하는지 파악해 웹사이트 자체의 고객 전환율을 계속 끌어올립니다.
+실제로 보안 솔루션 업체인 스프린토(Sprinto)는 해당 기능을 도입하고 단 두 달 만에 웹사이트 전환율을 두 배나 높였다고 합니다.
 
-전략 게임에서 영감을 받아 회사 전체의 로드맵을 구축하는 방식으로 최상위 AI가 장기 전략을 짜고 각 부서 에이전트의 작업을 모니터링하며 지시를 내리는 구조입니다.
-
-부서 간 업무 충돌을 우려하는 시선도 존재하지만, 여러 AI가 협업하는 다중 에이전트 환경은 이미 실전으로 넘어오는 중입니다.</description><pubDate>Wed, 06 May 2026 00:20:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX-hQ3Ekw6v</guid></item><item><title>구글이 Gemma 4 모델을 위한 다중 토큰 예측(MTP) 모델을 새롭게 공개했습니다. 
-
-가벼운 보조 모델이 여러 단어를 미리 예측해 던져주면...</title><link>https://www.threads.net/@choi.openai/post/DX-ZO0eEXj0</link><description>구글이 Gemma 4 모델을 위한 다중 토큰 예측(MTP) 모델을 새롭게 공개했습니다. 
-
-가벼운 보조 모델이 여러 단어를 미리 예측해 던져주면, 무거운 메인 모델이 이를 한 번에 검증하는 추측 해독 방식을 적용했는데요.
-
-결과적으로 답변의 품질이나 추론 능력은 전혀 떨어뜨리지 않으면서 생성 속도만 최대 3배까지 끌어올렸습니다. 
-
-이번 업데이트는 기기의 유휴 연산 자원을 활용해 병목 현상을 구조적으로 풀어냈다는 점에서 의미가 큽니다. 
-
-해당 기능은 주요 오픈소스 도구에서도 바로 사용할 수 있습니다.
-개인용 컴퓨터나 모바일 기기에서도 최고 성능의 AI를 쾌적하게 구동하는 시대가 한층 가까워진 것으로 보입니다</description><pubDate>Tue, 05 May 2026 23:10:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX-ZO0eEXj0</guid></item><item><title>발표내용 :
-https://blog.google/innovation-and-ai/technology/developers-tools/multi-t...</title><link>https://www.threads.net/@choi.openai/post/DX-ZPkkkZBA</link><description>발표내용 :
-https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</description><pubDate>Tue, 05 May 2026 23:10:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX-ZPkkkZBA</guid></item></channel></rss>
+초기 세일즈의 주도권이 사람에서 AI로 완전히 넘어가는 변곡점일지도 모르겠습니다. 앞으로 24시간 쉬지 않고 진화하는 AI 영업 사원을 두지 않은 기업이 시장에서 경쟁력을 유지할 수 있을까요?</description><pubDate>Wed, 06 May 2026 06:20:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX_KfgBkzVf</guid></item></channel></rss>
