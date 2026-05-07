@@ -1,43 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 06 May 2026 16:23:20 +0000</lastBuildDate><item><title>오픈AI의 Codex를 이용하면 텍스트로만 구글 슬라이드를 생성할 수 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 07 May 2026 02:51:15 +0000</lastBuildDate><item><title>오픈AI가 NVIDIA, Microsoft, AMD 등 주요 파트너들과 협력해 슈퍼컴퓨터용 차세대 네트워크 프로토콜인 MRC(Multipath ...</title><link>https://www.threads.net/@choi.openai/post/DYBU8elkRLS</link><description>오픈AI가 NVIDIA, Microsoft, AMD 등 주요 파트너들과 협력해 슈퍼컴퓨터용 차세대 네트워크 프로토콜인 MRC(Multipath Reliable Connection)를 공개했습니다.
 
-구글 드라이브 플러그인과 이미지 생성 기능을 활용해 전체 작업...</title><link>https://www.threads.net/@choi.openai/post/DYAM0aJgL9c</link><description>오픈AI의 Codex를 이용하면 텍스트로만 구글 슬라이드를 생성할 수 있습니다.
+MRC는 수만 개의 GPU가 동시에 데이터를 주고받는 과정에서 발생하는 병목 현상과 네트워크 장애 문제를 해결하기 위해 설계됐습니다.
+데이터를 수백 개의 경로로 분산 전송하는 방식을 적용해, 특정 연결에 문제가 생겨도 학습 작업이 멈추지 않고 마이크로초 단위로 즉시 우회할 수 있습니다.
 
-구글 드라이브 플러그인과 이미지 생성 기능을 활용해 전체 작업 과정을 실시간으로 보여주며 스스로 완성도를 높입니다.
+이를 통해 전력 소모를 줄이면서도, 10만 개 이상의 GPU를 단 2단계 스위치 구조만으로 연결하는 높은 확장성과 효율성을 확보했습니다.
 
-퇴근 전 수백 개의 기획안 생성을 지시해 두고, 다음 날 아침 회의 가는 길에 가볍게 검토만 하는 극단적인 업무 압축이 가능해질 것 같습니다.
+오픈AI는 해당 기술을 OCP(Open Compute Project)를 통해 업계에 공개하며, AI 인프라 표준화까지 주도하겠다는 전략을 내세우고 있습니다.</description><pubDate>Thu, 07 May 2026 02:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYBU8elkRLS</guid></item><item><title>발표내용 :
+https://openai.com/index/mrc-supercomputer-networking/</title><link>https://www.threads.net/@choi.openai/post/DYBU9yKkb4n</link><description>발표내용 :
+https://openai.com/index/mrc-supercomputer-networking/</description><pubDate>Thu, 07 May 2026 02:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYBU9yKkb4n</guid></item><item><title>와우.. 앤트로픽이 최근 Claude 관련 행사에서 '무한 컨텍스트 윈도우'를 곧 선보이겠다고 예고했습니다.
 
-혹은 자동화 기능을 통해 업무 분야에 대한 리서치후 보고서 생성 워크플로우까지 확장이 가능할 것 같네요.</description><pubDate>Wed, 06 May 2026 16:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYAM0aJgL9c</guid></item><item><title>이제 AI가 실험실까지 들어오기 시작했다는 느낌입니다.
+물론 물리적인 무한이라기보다, 과...</title><link>https://www.threads.net/@choi.openai/post/DYBKrPQEVBP</link><description>와우.. 앤트로픽이 최근 Claude 관련 행사에서 '무한 컨텍스트 윈도우'를 곧 선보이겠다고 예고했습니다.
 
-Altara라는 스타트업이 반도체, 배터리, 신소재 같은 물리 세계 R&amp;D를 위한 ‘과...</title><link>https://www.threads.net/@choi.openai/post/DYACjBnAHOW</link><description>이제 AI가 실험실까지 들어오기 시작했다는 느낌입니다.
+물론 물리적인 무한이라기보다, 과거에 논의되었던 '자동 압축(auto-compaction)'이나 고도화된 메모리 시스템을 통해 사용자가 한계를 느끼지 못하게 만드는 방식일 가능성이 높은데요.
 
-Altara라는 스타트업이 반도체, 배터리, 신소재 같은 물리 세계 R&amp;D를 위한 ‘과학 인텔리전스 플랫폼’을 공개하고 700만 달러 시드를 유치했습니다.
+방대한 정보 속에서도 논리적 판단력과 코드 해석 능력을 유지하며 여러 에이전트를 동시에 제어하는 기술력에 있는 것 같습니다.
 
-디지털 업무는 이미 자동화됐는데, 물리 세계는 여전히 50년 된 소프트웨어에 묶여 있다는 문제 인식도 명확합니다.
+곧 오늘 있었던 앤트로픽 발표 총정리를 업데이트 해드리겠습니다.</description><pubDate>Thu, 07 May 2026 01:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYBKrPQEVBP</guid></item><item><title>이제 AI가 '꿈'을 꾸며 스스로 학습하는 시대가 왔습니다.
 
-결국 AI 경쟁이 실험 속도 경쟁으로 넘어가는 흐름이 보이는데, 다음 격차는 여기서 벌어질 가능성이 커 보입니다.</description><pubDate>Wed, 06 May 2026 14:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYACjBnAHOW</guid></item><item><title>상세 내용 :
-https://www.altara.co/blog/introducing-altara</title><link>https://www.threads.net/@choi.openai/post/DYACjy-gO7c</link><description>상세 내용 :
-https://www.altara.co/blog/introducing-altara</description><pubDate>Wed, 06 May 2026 14:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYACjy-gO7c</guid></item><item><title>미국 정부가 본격적으로 AI 시장의 통제권을 쥐기 시작했습니다.
+앤트로픽이 Claude Managed Agents에 '드리밍(Dreaming)'과...</title><link>https://www.threads.net/@choi.openai/post/DYBAWN_DIW5</link><description>이제 AI가 '꿈'을 꾸며 스스로 학습하는 시대가 왔습니다.
 
-구글, 마이크로소프트, xAI가 새로운 AI 모델을 대중에게 공개하기 전, 미...</title><link>https://www.threads.net/@choi.openai/post/DX_4Rh2Chhj</link><description>미국 정부가 본격적으로 AI 시장의 통제권을 쥐기 시작했습니다.
+앤트로픽이 Claude Managed Agents에 '드리밍(Dreaming)'과 아웃컴 루프(Outcomes loop) 등 새로운 기능들을 대거 추가했는데요.
 
-구글, 마이크로소프트, xAI가 새로운 AI 모델을 대중에게 공개하기 전, 미국 상무부 산하 CAISI(인공지능 표준 혁신 센터)의 사전 평가를 받기로 합의했습니다.
-오픈AI와 앤트로픽 역시 이 기준에 맞춰 기존 파트너십을 갱신했는데요.
-
-여기서 주목할 점은 전 세계 AI를 이끄는 5대 프론티어 랩 모두가 정부의 사전 스크리닝 없이는 모델을 출시할 수 없는 구조가 만들어졌다는 것입니다.
-
-표면적으로는 모델의 성능과 보안을 검증하는 안전장치로 보입니다.
-하지만 실질적으로는 최상위 AI 모델들이 국방 자산처럼 취급되며, AI 연구소들이 점차 방위산업체처럼 변해가고 있다는 점입니다.
-
-가장 강력한 모델을 국가가 먼저 들여다보고 통제하는 흐름 속에서, 조만간 발표될 세부 정책이 글로벌 AI 생태계를 어떻게 변화시킬지 지켜봐야겠습니다.</description><pubDate>Wed, 06 May 2026 13:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX_4Rh2Chhj</guid></item><item><title>기사 :
-https://www.wsj.com/tech/ai/google-microsoft-and-xai-agree-to-share-early-a...</title><link>https://www.threads.net/@choi.openai/post/DX_4Tf5Cvwc</link><description>기사 :
-https://www.wsj.com/tech/ai/google-microsoft-and-xai-agree-to-share-early-ai-models-with-u-s-f95a88d1</description><pubDate>Wed, 06 May 2026 13:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX_4Tf5Cvwc</guid></item><item><title>실험실에서 유전자 편집을 돕고, 카페에서 팝콘을 튀기는 AI 로봇이 등장했습니다.
-
-Ai2가 통제된 실험실을 벗어나 실제 현실에서 작동하도록 설...</title><link>https://www.threads.net/@choi.openai/post/DX_jpHij3iK</link><description>실험실에서 유전자 편집을 돕고, 카페에서 팝콘을 튀기는 AI 로봇이 등장했습니다.
-
-Ai2가 통제된 실험실을 벗어나 실제 현실에서 작동하도록 설계된 로봇 제어 모델 'MolmoAct 2'를 공개했습니다.
-해당 모델은 이전보다 최대 37배 빠르게 작동하며, 별도의 미세 조정 없이도 두 팔을 자연스럽게 사용합니다. 그 기반이 된 체화 추론 모델 'Molmo 2-ER'은 관련 벤치마크에서 GPT-5를 뛰어넘는 성능을 기록하기도 했습니다.
-
-이미 스탠퍼드 의대와 협력해 크리스퍼(CRISPR) 유전자 편집 작업에 투입되었고, 심지어 긴 실험 중 발생한 작은 실수까지 스스로 복구하며 임무를 완수했습니다.</description><pubDate>Wed, 06 May 2026 10:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX_jpHij3iK</guid></item><item><title>블로그 :
-https://allenai.org/blog/molmoact2</title><link>https://www.threads.net/@choi.openai/post/DX_jqV5j4Wl</link><description>블로그 :
-https://allenai.org/blog/molmoact2</description><pubDate>Wed, 06 May 2026 10:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DX_jqV5j4Wl</guid></item></channel></rss>
+이 Dreaming은 에이전트가 백그라운드에서 과거 작업 기록을 복기하며 스스로 패턴을 수정하고 새로운 기술을 익히는 자가 학습 시스템입니다.
+사람이 직접 확인하지 않아도 주어진 기준에 맞춰 스스로 결과물을 평가하고 개선하는데요.
+다만, 초기의 잘못된 패턴이 그대로 굳어질 수 있다는 우려도 나오고 있지만, 사람이 일일이 결과물을 검토하던 병목 현상이 사라지고, AI가 스스로 성능을 높이는 '역량의 복리' 구조가 만들어진 셈입니다.</description><pubDate>Wed, 06 May 2026 23:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYBAWN_DIW5</guid></item><item><title>🚨 와.. 진짜 미쳤습니다.
+앤트로픽이 SpaceX와 손을 잡고 컴퓨팅 자원을 압도적인 스케일로 확장합니다.
+SpaceX의 Colossus 1 ...</title><link>https://www.threads.net/@choi.openai/post/DYA2C57CN96</link><description>🚨 와.. 진짜 미쳤습니다.
+앤트로픽이 SpaceX와 손을 잡고 컴퓨팅 자원을 압도적인 스케일로 확장합니다.
+SpaceX의 Colossus 1 데이터센터를 통째로 활용해 한 달 안에 무려 22만 개 이상의 NVIDIA GPU를 추가 확보하는데요. 
+덕분에 Claude Code의 사용 한도가 즉시 2배로 늘었고, 피크 시간대 제한도 사라졌습니다. 
+일론 머스크는 앤트로픽 팀을 직접 만나본 뒤 "인류를 위해 옳은 일을 하려는 유능한 사람들"이라며 강한 신뢰를 보냈는데요. 
+결국 AI 전쟁이 모델 성능 경쟁을 넘어 '누가 더 거대한 인프라를 빠르게 쥐느냐'는 물리적 자원 싸움으로 이동했음을 보여줍니다.
+한편으로 머스크의 오픈AI에 대한 불신이 서로 손을 잡는 그림까지 나온게 아닐까하고 생각해봅ㄴ디ㅏ.
+이제 지구 밖 궤도에서 작동하는 오비탈(Orbital) AI 연산 시대까지 예고하고 있어 앞으로의 판도가 정말 궁금해집니다.</description><pubDate>Wed, 06 May 2026 22:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYA2C57CN96</guid></item><item><title>블로그 :
+https://www.anthropic.com/news/higher-limits-spacex</title><link>https://www.threads.net/@choi.openai/post/DYA2Ez4CCpN</link><description>블로그 :
+https://www.anthropic.com/news/higher-limits-spacex</description><pubDate>Wed, 06 May 2026 22:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYA2Ez4CCpN</guid></item></channel></rss>
