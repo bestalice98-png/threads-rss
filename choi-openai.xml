@@ -1,36 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 08 May 2026 09:21:20 +0000</lastBuildDate><item><title>Reactor가 "Real-time World Models" 초기 프리뷰를 공개했습니다.
-사용자가 접속하면 저지연 인프라 위에서 AI가 세계를 ...</title><link>https://www.threads.net/@choi.openai/post/DYEVNezjIsm</link><description>Reactor가 "Real-time World Models" 초기 프리뷰를 공개했습니다.
-사용자가 접속하면 저지연 인프라 위에서 AI가 세계를 실시간으로 생성하고, 그 안을 직접 탐험하는 방식입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 08 May 2026 16:08:24 +0000</lastBuildDate><item><title>와… 미래가 정말 다가온 느낌입니다.
 
-아직 물리 일관성이나 기억력은 부족해 보이고, 댓글 반응처럼 데모 수준이라는 한계도 분명합니다. 하지만 중요한 건 완성도가 아니라 방향입니다.
+Figure가 방금 Helix-02 두 대의 휴머노이드가 침실을 2분 안에 정리하는 장면을 공개했는데요....</title><link>https://www.threads.net/@choi.openai/post/DYFSMCPjBHC</link><description>와… 미래가 정말 다가온 느낌입니다.
 
-영상이 미리 만들어진 콘텐츠라면, 실시간 월드 모델은 사용자의 움직임에 따라 세계가 즉석에서 바뀌는 인터랙티브 콘텐츠에 가깝습니다.
+Figure가 방금 Helix-02 두 대의 휴머노이드가 침실을 2분 안에 정리하는 장면을 공개했는데요.
+문을 열고, 옷을 걸고, 쓰레기를 버리고, 의자를 밀어 넣고, 함께 침대까지 정리합니다.
 
-AI 콘텐츠의 다음 전장은 이미지나 영상이 아니라, 직접 들어가서 조작하는 생성형 세계가 될 가능성이 커지고 있습니다.</description><pubDate>Fri, 08 May 2026 06:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYEVNezjIsm</guid></item><item><title>Perplexity가 Mac 앱에서 "Personal Computer"를 모든 사용자에게 공개했습니다.
-이 기능은 로컬 파일, Mac 기본 앱,...</title><link>https://www.threads.net/@choi.openai/post/DYEK6y_AaIK</link><description>Perplexity가 Mac 앱에서 "Personal Computer"를 모든 사용자에게 공개했습니다.
-이 기능은 로컬 파일, Mac 기본 앱, 웹, Perplexity 서버를 오가며 작업을 실행하는 컴퓨터 에이전트입니다.
+더 놀라운 건 중앙 제어 장치나 메시지 교환 없이 완전 자율로 각자 카메라로 상황을 보고 상대의 의도를 추론했다고 합니다.</description><pubDate>Fri, 08 May 2026 15:24:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYFSMCPjBHC</guid></item><item><title>곧 출시된다 Remote Control!</title><link>https://www.threads.net/@choi.openai/post/DYFQhgCDzFz</link><description>곧 출시된다 Remote Control!</description><pubDate>Fri, 08 May 2026 15:08:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYFQhgCDzFz</guid></item><item><title>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
+스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</title><link>https://www.threads.net/@choi.openai/post/DYFFPVzkrbg</link><description>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
+스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</description><pubDate>Fri, 08 May 2026 13:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYFFPVzkrbg</guid></item><item><title>Chromex가 이제 실시간 통역을 지원합니다!
+오픈AI Realtime-2가 공개되면서 이제 실시간으로 통역을 지원하게 되었는데요.
+이제 영상...</title><link>https://www.threads.net/@choi.openai/post/DYE5qGrD4yd</link><description>Chromex가 이제 실시간 통역을 지원합니다!
+오픈AI Realtime-2가 공개되면서 이제 실시간으로 통역을 지원하게 되었는데요.
+이제 영상을 실시간으로 통역으로 보고 그 안에서 또 Codex를 기반으로 질문할 수 있습니다.
 
-특히 Comet 브라우저와 함께 쓰면 별도 커넥터 없이 웹 기반 도구까지 조작할 수 있고, 아이폰에서 Mac의 로컬 파일을 활용한 작업을 시작하는 것도 가능합니다.
+* API 연동으로만 지원하기에 해당 기능은 비용이 발생합니다.</description><pubDate>Fri, 08 May 2026 11:50:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYE5qGrD4yd</guid></item><item><title>깃허브 :
+https://github.com/GENEXIS-AI/chromex
 
-지금까지는 AI가 클라우드에서 답을 주는 구조였다면, 이제는 실제 일이 벌어지는 개인 컴퓨터 안에서 계속 실행되는 방향으로 가고 있습니다.
+크롬 확장프로그램 스토어 업데이트는 며칠걸립니다.</title><link>https://www.threads.net/@choi.openai/post/DYE5pygD_q6</link><description>깃허브 :
+https://github.com/GENEXIS-AI/chromex
 
-사무 자동화의 중심이 앱이 아니라 개인용 에이전트로 이동하는 흐름입니다.</description><pubDate>Fri, 08 May 2026 05:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYEK6y_AaIK</guid></item><item><title>Claude의 속마음을 글로 읽는 시대가 오고 있습니다.
-
-앤트로픽이 "Natural Language Autoencoders" 연구를 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DYEArLXiEo5</link><description>Claude의 속마음을 글로 읽는 시대가 오고 있습니다.
-
-앤트로픽이 "Natural Language Autoencoders" 연구를 공개했습니다.
-Claude 내부의 숫자 신호인 activations를 사람이 읽을 수 있는 문장으로 바꾸는 방식입니다.
-
-완벽한 해석은 아니지만, Claude가 답하기 전 미리 운율을 계획하거나, 코딩 테스트에서 규칙을 우회하려는 생각을 했다는 단서까지 포착했습니다.
-
-이전에도 소개해드렸듯 Claude가 안전성 평가 상황을 테스트라고 의심하면서도 겉으로는 말하지 않는 모습도 포착이 되었는데요.
-이제 AI 안전성은 답변만 보는 단계에서, 답변 전 내부 판단을 읽는 단계로 넘어가고 있습니다.</description><pubDate>Fri, 08 May 2026 03:31:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYEArLXiEo5</guid></item><item><title>주소 :
-https://www.neuronpedia.org/nla</title><link>https://www.threads.net/@choi.openai/post/DYEAtLDiOCu</link><description>주소 :
-https://www.neuronpedia.org/nla</description><pubDate>Fri, 08 May 2026 03:31:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYEAtLDiOCu</guid></item><item><title>와… Codex가 이제 브라우저 안으로 들어왔습니다.
-오픈AI가 macOS와 Windows용 Chrome 확장 프로그램을 공개하면서, Codex...</title><link>https://www.threads.net/@choi.openai/post/DYD2QzsCDtb</link><description>와… Codex가 이제 브라우저 안으로 들어왔습니다.
-오픈AI가 macOS와 Windows용 Chrome 확장 프로그램을 공개하면서, Codex가 사용자가 로그인한 웹사이트와 앱을 직접 조작할 수 있게 되었습니다.
-반복적인 페이지 이동, 복잡한 데이터 입력, 대시보드 확인, CRM 업데이트 같은 브라우저 업무를 탭별로 병렬 처리할 수 있고, 필요한 경우 코드 실행과 Chrome 조작, 플러그인을 섞어 작업합니다.
-매일 대시보드를 열어 데이터를 정리하고 폼을 채워 넣는 반복적인 브라우저 작업들이 조만간 완전히 사라질지도 모르겠습니다.</description><pubDate>Fri, 08 May 2026 02:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYD2QzsCDtb</guid></item><item><title>크롬 확장 프로그램 :
-https://chromewebstore.google.com/detail/codex/hehggadaopoacecdllhh...</title><link>https://www.threads.net/@choi.openai/post/DYD2SnVCHoi</link><description>크롬 확장 프로그램 :
-https://chromewebstore.google.com/detail/codex/hehggadaopoacecdllhhajmbjkdcmajg</description><pubDate>Fri, 08 May 2026 02:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYD2SnVCHoi</guid></item></channel></rss>
+크롬 확장프로그램 스토어 업데이트는 며칠걸립니다.</description><pubDate>Fri, 08 May 2026 11:48:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYE5pygD_q6</guid></item></channel></rss>
