@@ -1,44 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 08 May 2026 02:54:19 +0000</lastBuildDate><item><title>와… Codex가 이제 브라우저 안으로 들어왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 08 May 2026 09:21:20 +0000</lastBuildDate><item><title>Reactor가 "Real-time World Models" 초기 프리뷰를 공개했습니다.
+사용자가 접속하면 저지연 인프라 위에서 AI가 세계를 ...</title><link>https://www.threads.net/@choi.openai/post/DYEVNezjIsm</link><description>Reactor가 "Real-time World Models" 초기 프리뷰를 공개했습니다.
+사용자가 접속하면 저지연 인프라 위에서 AI가 세계를 실시간으로 생성하고, 그 안을 직접 탐험하는 방식입니다.
+
+아직 물리 일관성이나 기억력은 부족해 보이고, 댓글 반응처럼 데모 수준이라는 한계도 분명합니다. 하지만 중요한 건 완성도가 아니라 방향입니다.
+
+영상이 미리 만들어진 콘텐츠라면, 실시간 월드 모델은 사용자의 움직임에 따라 세계가 즉석에서 바뀌는 인터랙티브 콘텐츠에 가깝습니다.
+
+AI 콘텐츠의 다음 전장은 이미지나 영상이 아니라, 직접 들어가서 조작하는 생성형 세계가 될 가능성이 커지고 있습니다.</description><pubDate>Fri, 08 May 2026 06:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYEVNezjIsm</guid></item><item><title>Perplexity가 Mac 앱에서 "Personal Computer"를 모든 사용자에게 공개했습니다.
+이 기능은 로컬 파일, Mac 기본 앱,...</title><link>https://www.threads.net/@choi.openai/post/DYEK6y_AaIK</link><description>Perplexity가 Mac 앱에서 "Personal Computer"를 모든 사용자에게 공개했습니다.
+이 기능은 로컬 파일, Mac 기본 앱, 웹, Perplexity 서버를 오가며 작업을 실행하는 컴퓨터 에이전트입니다.
+
+특히 Comet 브라우저와 함께 쓰면 별도 커넥터 없이 웹 기반 도구까지 조작할 수 있고, 아이폰에서 Mac의 로컬 파일을 활용한 작업을 시작하는 것도 가능합니다.
+
+지금까지는 AI가 클라우드에서 답을 주는 구조였다면, 이제는 실제 일이 벌어지는 개인 컴퓨터 안에서 계속 실행되는 방향으로 가고 있습니다.
+
+사무 자동화의 중심이 앱이 아니라 개인용 에이전트로 이동하는 흐름입니다.</description><pubDate>Fri, 08 May 2026 05:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYEK6y_AaIK</guid></item><item><title>Claude의 속마음을 글로 읽는 시대가 오고 있습니다.
+
+앤트로픽이 "Natural Language Autoencoders" 연구를 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DYEArLXiEo5</link><description>Claude의 속마음을 글로 읽는 시대가 오고 있습니다.
+
+앤트로픽이 "Natural Language Autoencoders" 연구를 공개했습니다.
+Claude 내부의 숫자 신호인 activations를 사람이 읽을 수 있는 문장으로 바꾸는 방식입니다.
+
+완벽한 해석은 아니지만, Claude가 답하기 전 미리 운율을 계획하거나, 코딩 테스트에서 규칙을 우회하려는 생각을 했다는 단서까지 포착했습니다.
+
+이전에도 소개해드렸듯 Claude가 안전성 평가 상황을 테스트라고 의심하면서도 겉으로는 말하지 않는 모습도 포착이 되었는데요.
+이제 AI 안전성은 답변만 보는 단계에서, 답변 전 내부 판단을 읽는 단계로 넘어가고 있습니다.</description><pubDate>Fri, 08 May 2026 03:31:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYEArLXiEo5</guid></item><item><title>주소 :
+https://www.neuronpedia.org/nla</title><link>https://www.threads.net/@choi.openai/post/DYEAtLDiOCu</link><description>주소 :
+https://www.neuronpedia.org/nla</description><pubDate>Fri, 08 May 2026 03:31:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYEAtLDiOCu</guid></item><item><title>와… Codex가 이제 브라우저 안으로 들어왔습니다.
 오픈AI가 macOS와 Windows용 Chrome 확장 프로그램을 공개하면서, Codex...</title><link>https://www.threads.net/@choi.openai/post/DYD2QzsCDtb</link><description>와… Codex가 이제 브라우저 안으로 들어왔습니다.
 오픈AI가 macOS와 Windows용 Chrome 확장 프로그램을 공개하면서, Codex가 사용자가 로그인한 웹사이트와 앱을 직접 조작할 수 있게 되었습니다.
 반복적인 페이지 이동, 복잡한 데이터 입력, 대시보드 확인, CRM 업데이트 같은 브라우저 업무를 탭별로 병렬 처리할 수 있고, 필요한 경우 코드 실행과 Chrome 조작, 플러그인을 섞어 작업합니다.
 매일 대시보드를 열어 데이터를 정리하고 폼을 채워 넣는 반복적인 브라우저 작업들이 조만간 완전히 사라질지도 모르겠습니다.</description><pubDate>Fri, 08 May 2026 02:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYD2QzsCDtb</guid></item><item><title>크롬 확장 프로그램 :
 https://chromewebstore.google.com/detail/codex/hehggadaopoacecdllhh...</title><link>https://www.threads.net/@choi.openai/post/DYD2SnVCHoi</link><description>크롬 확장 프로그램 :
-https://chromewebstore.google.com/detail/codex/hehggadaopoacecdllhhajmbjkdcmajg</description><pubDate>Fri, 08 May 2026 02:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYD2SnVCHoi</guid></item><item><title>형님들 드디어 출시되었습니다.
-
-오픈AI가 방금 전 'GPT-Realtime-2'를 포함한 새로운 실시간 API 음성 모델들을 기습 공개했습니다...</title><link>https://www.threads.net/@choi.openai/post/DYC7B0OloSx</link><description>형님들 드디어 출시되었습니다.
-
-오픈AI가 방금 전 'GPT-Realtime-2'를 포함한 새로운 실시간 API 음성 모델들을 기습 공개했습니다. 
-
-이번 모델은 GPT-5급의 추론 능력을 바탕으로 작동하는데요.
-사용자가 대화 도중 말을 끊거나 요청을 변경해도 자연스럽게 문맥을 유지하며, 70개 이상의 언어를 실시간 번역하고 지연 없이 텍스트로 변환할 수 있습니다.
-
-이번 업데이트에서 가장 눈여겨봐야 할 포인트는 대화가 곧 실제 작업으로 이어지는 'Voice-to-action' 흐름입니다.
-
-이제는 대화하는 동시에 캘린더 일정을 확인하거나 외부 앱 도구를 스스로 조작해 복잡한 문제를 해결할 수 있습니다.
-
-앞으로의 업데이트가 정말 기대됩니다!!</description><pubDate>Thu, 07 May 2026 17:23:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYC7B0OloSx</guid></item><item><title>발표내용 :
-https://openai.com/index/advancing-voice-intelligence-with-new-models-in-...</title><link>https://www.threads.net/@choi.openai/post/DYC7MnyD3cm</link><description>발표내용 :
-https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/</description><pubDate>Thu, 07 May 2026 17:23:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYC7MnyD3cm</guid></item><item><title>내부적으로 얼마나 많은 기능들이 있을지 기대됩니다.</title><link>https://www.threads.net/@choi.openai/post/DYC7VdID_fM</link><description>내부적으로 얼마나 많은 기능들이 있을지 기대됩니다.</description><pubDate>Thu, 07 May 2026 17:25:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYC7VdID_fM</guid></item><item><title>구글이 Fitbit을 완전히 Google Health로 흡수합니다.
-
-5월 26일부터 Fitbit 앱은 안드로이드와 iOS에서 "Google H...</title><link>https://www.threads.net/@choi.openai/post/DYCqYZcj371</link><description>구글이 Fitbit을 완전히 Google Health로 흡수합니다.
-
-5월 26일부터 Fitbit 앱은 안드로이드와 iOS에서 "Google Health" 앱으로 바뀌고, Fitbit 기기 데이터뿐 아니라 Health Connect, Apple Health, 의료 기록까지 한곳에서 관리할 수 있게 됩니다.
-
-여기에 Gemini 기반 "Google Health Coach"도 붙습니다.
-24시간 내내 맞춤형 건강 조언을 제공하는 운동, 수면, 회복, 웰빙 데이터를 보고 개인 맞춤 조언을 주는 구조입니다.
-함께 공개된 99달러의 화면 없는 트래커 'Fitbit Air' 역시 이 AI 코치에게 24시간 내내 정확한 데이터를 끊임없이 공급하기 위한 장치로 보이는데요.
-
-그동안 헬스 데이터는 여러 기기와 앱에 파편화되어 온전한 활용이 어려웠지만, 이제는 흩어진 데이터를 모아 AI가 어떻게 해석하고 코칭해 주느냐가 더 중요해진 시점으로 보입니다.</description><pubDate>Thu, 07 May 2026 14:59:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYCqYZcj371</guid></item><item><title>발표내용 :
-https://blog.google/products-and-platforms/products/google-health/google-...</title><link>https://www.threads.net/@choi.openai/post/DYCqr2vjzfj</link><description>발표내용 :
-https://blog.google/products-and-platforms/products/google-health/google-health-fitbit/</description><pubDate>Thu, 07 May 2026 14:59:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYCqr2vjzfj</guid></item><item><title>마음 같아서 무릎꿇고 사용해보라고 말하고 싶은 AI 도구.
-크롬에서 사용할 수 있는 AI "Chromex"가 상당히 뛰어납니다.
-챗GPT 계정만...</title><link>https://www.threads.net/@choi.openai/post/DYCdNWADxXW</link><description>마음 같아서 무릎꿇고 사용해보라고 말하고 싶은 AI 도구.
-크롬에서 사용할 수 있는 AI "Chromex"가 상당히 뛰어납니다.
-챗GPT 계정만 있으면 사용할 수 있으며, 많은 사람들이 "좀 더 일찍 설치했으면 좋았을 텐데..."라고 느낄 것 같네요.
-이번에 공식 출시되어 소개해드립니다 :</description><pubDate>Thu, 07 May 2026 13:01:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYCdNWADxXW</guid></item><item><title>주소 :
-https://chromewebstore.google.com/detail/chromex/odlalmnpmmakfigepbaabimjcm...</title><link>https://www.threads.net/@choi.openai/post/DYCdN-AD-yQ</link><description>주소 :
-https://chromewebstore.google.com/detail/chromex/odlalmnpmmakfigepbaabimjcmcppgfo?hl=en&amp;authuser=0</description><pubDate>Thu, 07 May 2026 13:01:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYCdN-AD-yQ</guid></item><item><title>100% 오픈소스 :
-https://github.com/GENEXIS-AI/chromex</title><link>https://www.threads.net/@choi.openai/post/DYCdOgXD0FX</link><description>100% 오픈소스 :
-https://github.com/GENEXIS-AI/chromex</description><pubDate>Thu, 07 May 2026 13:02:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYCdOgXD0FX</guid></item></channel></rss>
+https://chromewebstore.google.com/detail/codex/hehggadaopoacecdllhhajmbjkdcmajg</description><pubDate>Fri, 08 May 2026 02:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYD2SnVCHoi</guid></item></channel></rss>
