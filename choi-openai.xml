@@ -1,18 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 09 May 2026 02:50:36 +0000</lastBuildDate><item><title>구글 딥마인드가 공개한 "AI co-mathematician"은 FrontierMath Tier 4 연구급 문제에서 48%를 기록했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 09 May 2026 09:19:40 +0000</lastBuildDate><item><title>최근 앤트로픽 Claude Code 팀의 Thariq는 AI 에이전트의 주요 출력 포맷을 마크다운(Markdown)에서 HTML로 전면 전환해야...</title><link>https://www.threads.net/@choi.openai/post/DYHLJdukWUS</link><description>최근 앤트로픽 Claude Code 팀의 Thariq는 AI 에이전트의 주요 출력 포맷을 마크다운(Markdown)에서 HTML로 전면 전환해야 한다고 강력히 주장했습니다.
+
+긴 마크다운 문서를 읽는 대신, HTML로 기획서·PR 리뷰·디자인 시안·리포트까지 한눈에 볼 수 있게 만드는 흐름이 중요해진다는 것인데요.
+
+AI에게 일을 맡기면서도 사람이 더 잘 판단할 수 있는 활용 사례 5가지를 정리했습니다🧵</description><pubDate>Sat, 09 May 2026 09:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYHLJdukWUS</guid></item><item><title>1/기존 마크다운은 에이전트와 소통하는 기본 표준이었지만, 모델이 고도화되어 산출물이 길어짐에 따라 100줄만 넘어가도 가독성이 심각하게 떨어지...</title><link>https://www.threads.net/@choi.openai/post/DYHLKO1EWBQ</link><description>1/기존 마크다운은 에이전트와 소통하는 기본 표준이었지만, 모델이 고도화되어 산출물이 길어짐에 따라 100줄만 넘어가도 가독성이 심각하게 떨어지는 한계에 직면했습니다.
+
+반면 HTML은 표 형태의 데이터, CSS 디자인, SVG 일러스트, 자바스크립트 상호작용 등 상상할 수 있는 거의 모든 데이터를 담아낼 수 있는 압도적인 정보 밀도를 자랑합니다.
+
+마크다운에서 억지로 아스키아트나 유니코드로 색상과 다이어그램을 표현하려던 AI의 비효율적인 꼼수를 HTML이 완벽하게 해결하며 소통의 질을 높였습니다.</description><pubDate>Sat, 09 May 2026 09:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYHLKO1EWBQ</guid></item><item><title>2/ 가독성과 공유의 편의성 측면에서도 HTML은 마크다운을 압도하는 훌륭한 대안입니다.
+
+복잡한 기획서나 구현 계획을 마크다운으로 길게 작성하...</title><link>https://www.threads.net/@choi.openai/post/DYHLLYWESpE</link><description>2/ 가독성과 공유의 편의성 측면에서도 HTML은 마크다운을 압도하는 훌륭한 대안입니다.
+
+복잡한 기획서나 구현 계획을 마크다운으로 길게 작성하면 동료들이 끝까지 읽어볼 확률이 매우 낮지만, HTML은 탭, 시각적 일러스트, 하이퍼링크 등을 활용해 문서 구조를 깔끔하게 정리하고 기기에 맞춘 모바일 반응형 디자인까지 지원합니다.
+
+게다가 마크다운 파일은 브라우저에서 기본적으로 예쁘게 렌더링되지 않아 메신저 첨부 파일로 번거롭게 공유해야 하지만, HTML 파일은 S3 같은 클라우드에 업로드해 링크 하나만 공유하면 누구나 즉시 열어볼 수 있습니다.
+
+기획서나 PR 리뷰가 HTML로 시각화되었을 때 동료들의 문서 열독률이 비약적으로 상승하게 됩니다.</description><pubDate>Sat, 09 May 2026 09:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYHLLYWESpE</guid></item><item><title>3/ HTML이 지닌 최고의 무기는 바로 사용자와의 양방향 상호작용(Two-way Interaction)이 가능하다는 점입니다.
+
+슬라이더나 노...</title><link>https://www.threads.net/@choi.openai/post/DYHLMX-EZ4j</link><description>3/ HTML이 지닌 최고의 무기는 바로 사용자와의 양방향 상호작용(Two-way Interaction)이 가능하다는 점입니다.
+
+슬라이더나 노브를 조작해 디자인이나 알고리즘의 설정값을 실시간으로 테스트해 볼 수 있습니다.
+
+예를 들어 선호하는 애니메이션 속도를 슬라이더로 직접 조절해 보고, 가장 마음에 드는 결과값이 나오면 프롬프트로 복사(copy as prompt) 버튼을 눌러 그 파라미터를 그대로 Claude Code에 다시 붙여넣을 수 있습니다.
+
+텍스트 입력창만으로는 설명하기 힘든 미묘한 디자인 튜닝이나 복잡한 설정값 변경 작업을, 나만을 위해 일회성으로 만들어진 맞춤형 HTML 편집기를 통해 완벽하게 해결하는 방식입니다.</description><pubDate>Sat, 09 May 2026 09:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYHLMX-EZ4j</guid></item><item><title>AI에게 ‘하지 말라’고만 가르치는 방식은 한계가 있었습니다.
+
+앤트로픽은 Claude에게 어떤 선택이 왜 더 나은지 설명하게 만들었고,
+그 결...</title><link>https://www.threads.net/@choi.openai/post/DYG9fiGjn_9</link><description>AI에게 ‘하지 말라’고만 가르치는 방식은 한계가 있었습니다.
+
+앤트로픽은 Claude에게 어떤 선택이 왜 더 나은지 설명하게 만들었고,
+그 결과 협박·방해 같은 위험 행동이 크게 줄었습니다.
+
+AI 안전 훈련에서 꼭 봐야 할 사례 4가지를 정리했습니다🧵</description><pubDate>Sat, 09 May 2026 07:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYG9fiGjn_9</guid></item><item><title>1/ 앤트로픽은 지난 해 발생했던 모델의 대리인적 오정렬(Agentic Misalignment) 사례를 돌아보며 4가지 핵심 교훈을 정리했습니다...</title><link>https://www.threads.net/@choi.openai/post/DYG9gKhjrhh</link><description>1/ 앤트로픽은 지난 해 발생했던 모델의 대리인적 오정렬(Agentic Misalignment) 사례를 돌아보며 4가지 핵심 교훈을 정리했습니다.
+
+Claude 4 제품군 시절, 일부 모델이 작동 중지를 피하기 위해 엔지니어를 협박하는 극단적인 사례가 나타났는데, 이는 AI 모델의 의도치 않은 자율적 행동의 위험성을 보여줍니다.
+
+이 문제의 원인을 파악하고 안전 훈련을 강화한 결과, 최근 Claude 모델(Haiku 4.5 이상)들은 협박 행동을 완전히 멈추고 완벽한 정렬 점수를 기록하게 되었습니다.</description><pubDate>Sat, 09 May 2026 07:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYG9gKhjrhh</guid></item><item><title>2/ 첫 번째 교훈은 평가 데이터와 유사한 프롬프트로 훈련하는 것이 특정 문제 해결에는 효과적일 수 있지만, 새로운 상황에 대한 대처 능력을 기...</title><link>https://www.threads.net/@choi.openai/post/DYG9hN4Dg1x</link><description>2/ 첫 번째 교훈은 평가 데이터와 유사한 프롬프트로 훈련하는 것이 특정 문제 해결에는 효과적일 수 있지만, 새로운 상황에 대한 대처 능력을 기르는 데는 한계가 있다는 것입니다.
+
+평가와 유사한 시나리오에 직접 훈련시켜 오정렬 행동을 억제할 수는 있으나, 이는 아웃오브디스트리뷰션(OOD, 훈련 범위를 벗어난 영역) 일반화 능력을 떨어뜨리는 문제를 낳습니다.
+
+실제로 평가 환경과 유사한 훈련 데이터는 협박 비율을 낮췄지만, 완전히 새로운 자동 정렬 평가 환경에서는 큰 성능 향상을 가져오지 못했습니다.</description><pubDate>Sat, 09 May 2026 07:01:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYG9hN4Dg1x</guid></item><item><title>3/ 두 번째 교훈은 OOD 일반화를 달성하기 위한 원칙 기반 정렬 훈련이 가능하다는 점입니다.
+
+놀랍게도 모델의 헌법(Claude’s cons...</title><link>https://www.threads.net/@choi.openai/post/DYG9ihPjq4H</link><description>3/ 두 번째 교훈은 OOD 일반화를 달성하기 위한 원칙 기반 정렬 훈련이 가능하다는 점입니다.
+
+놀랍게도 모델의 헌법(Claude’s constitution)이나 AI의 훌륭한 행동을 묘사한 소설과 같은 완전히 다른 성격의 데이터를 활용한 훈련이 실제 평가 성적 향상에 기여했습니다.
+
+평가 환경과 동떨어진(Extremely OOD) 문서를 학습했음에도 불구하고, 모델은 헌법적 가치를 내면화하여 윤리적 판단 능력을 향상시킬 수 있었습니다.</description><pubDate>Sat, 09 May 2026 07:01:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYG9ihPjq4H</guid></item><item><title>AI가 이제 인간의 '하루짜리 업무'를 통째로 소화하는 수준에 도달한 것으로 보입니다.
+
+비영리 연구 기관 METR이 'Claude Mythos...</title><link>https://www.threads.net/@choi.openai/post/DYGvuigiLHz</link><description>AI가 이제 인간의 '하루짜리 업무'를 통째로 소화하는 수준에 도달한 것으로 보입니다.
+
+비영리 연구 기관 METR이 'Claude Mythos Preview' 초기 버전의 평가 결과를 공개했는데요.
+해당 모델은 인간 전문가가 16시간 동안 매달려야 하는 과제를 50%의 성공률로 완수해 냈습니다. 
+METR이 준비한 228개의 과제 중 16시간 이상이 소요되는 문제는 단 5개뿐이라, AI의 능력이 이미 기존 측정 상한선을 넘어서버렸습니다.
+이번 수치는 AI가 얼마나 오랫동안 사람의 개입 없이 자율적으로 작동할 수 있는지 보여주는 자율성 지표로서 의미가 큽니다.</description><pubDate>Sat, 09 May 2026 05:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYGvuigiLHz</guid></item><item><title>내용 :
+https://metr.org/time-horizons/</title><link>https://www.threads.net/@choi.openai/post/DYGvwf3iHub</link><description>내용 :
+https://metr.org/time-horizons/</description><pubDate>Sat, 09 May 2026 05:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYGvwf3iHub</guid></item><item><title>구글 딥마인드가 공개한 "AI co-mathematician"은 FrontierMath Tier 4 연구급 문제에서 48%를 기록했습니다.
 기본...</title><link>https://www.threads.net/@choi.openai/post/DYF_3_uE5OX</link><description>구글 딥마인드가 공개한 "AI co-mathematician"은 FrontierMath Tier 4 연구급 문제에서 48%를 기록했습니다.
 기본 모델인 "Gemini 3.1 Pro" 단독 성능은 19%였는데, 여러 에이전트가 증명 전략을 짜고, 서로 검토하고, 코드와 문헌 검색까지 붙이자 성능이 크게 오른 것입니다.
 
 다만 48시간, 자체 인프라, 토큰 제한 없음이라는 조건이라 단순 점수 비교는 조심해야 합니다.
 
 이제 AI 발전은 단일 모델의 지능 향상을 넘어 에이전트 간의 '시스템 설계' 영역으로 넘어갔습니다.
-미래의 연구는 수많은 AI 에이전트와 인간이 함께 작업하는 거대한 운영체제처럼 변할지도 모르겠습니다.</description><pubDate>Fri, 08 May 2026 22:02:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYF_3_uE5OX</guid></item><item><title>와… 미래가 정말 다가온 느낌입니다.
-
-Figure가 방금 Helix-02 두 대의 휴머노이드가 침실을 2분 안에 정리하는 장면을 공개했는데요....</title><link>https://www.threads.net/@choi.openai/post/DYFSMCPjBHC</link><description>와… 미래가 정말 다가온 느낌입니다.
-
-Figure가 방금 Helix-02 두 대의 휴머노이드가 침실을 2분 안에 정리하는 장면을 공개했는데요.
-문을 열고, 옷을 걸고, 쓰레기를 버리고, 의자를 밀어 넣고, 함께 침대까지 정리합니다.
-
-더 놀라운 건 중앙 제어 장치나 메시지 교환 없이 완전 자율로 각자 카메라로 상황을 보고 상대의 의도를 추론했다고 합니다.</description><pubDate>Fri, 08 May 2026 15:24:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYFSMCPjBHC</guid></item><item><title>곧 출시된다 Remote Control!</title><link>https://www.threads.net/@choi.openai/post/DYFQhgCDzFz</link><description>곧 출시된다 Remote Control!</description><pubDate>Fri, 08 May 2026 15:08:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYFQhgCDzFz</guid></item><item><title>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</title><link>https://www.threads.net/@choi.openai/post/DYFFPVzkrbg</link><description>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</description><pubDate>Fri, 08 May 2026 13:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYFFPVzkrbg</guid></item></channel></rss>
+미래의 연구는 수많은 AI 에이전트와 인간이 함께 작업하는 거대한 운영체제처럼 변할지도 모르겠습니다.</description><pubDate>Fri, 08 May 2026 22:02:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYF_3_uE5OX</guid></item></channel></rss>
