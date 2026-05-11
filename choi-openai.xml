@@ -1,21 +1,2 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 11 May 2026 11:19:55 +0000</lastBuildDate><item><title>Codex 모바일 출시가 정말 코앞인 것 같습니다.
-
-최근 Codex 0.130.0 업데이트에서 "remote-control" 기능이 추가됐고,...</title><link>https://www.threads.net/@choi.openai/post/DYMicsrCgHq</link><description>Codex 모바일 출시가 정말 코앞인 것 같습니다.
-
-최근 Codex 0.130.0 업데이트에서 "remote-control" 기능이 추가됐고, ChatGPT 앱에서 컴퓨터가 켜져 있는 동안 Codex 작업을 계속 이어갈 수 있다는 문구도 발견됐습니다.
-
-아마 Claude Code의 Remote Control 처럼 로컬 PC에서 Codex 세션을 실행해두고, 스마트폰에서 원격으로 진행 상황을 확인하거나 지시를 이어가는 방식으로 풀어낼 것으로 보이는데요.
-
-아직 공식 출시된 기능은 아니고 일부 흐름은 서버 측에서 막혀 있는 상태로 보입니다.
-OpenClaw와 Hermes 에이전트처럼 원격으로 에이전트를 컨트롤할 수 있는 흐름이 더욱 가속화 되고 있는 것 같습니다.</description><pubDate>Mon, 11 May 2026 11:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYMicsrCgHq</guid></item><item><title>Manus의 모든 것</title><link>https://www.threads.net/@choi.openai/post/DYMecvZD1U-</link><description>Manus의 모든 것</description><pubDate>Mon, 11 May 2026 10:25:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYMecvZD1U-</guid></item><item><title>구글의 새 영상 모델로 보이는 "Gemini Omni Video" 흔적이 Gemini 모바일 앱에서 발견됐습니다.
-
-아직 공식 발표는 아니지만,...</title><link>https://www.threads.net/@choi.openai/post/DYMVb6DD8CT</link><description>구글의 새 영상 모델로 보이는 "Gemini Omni Video" 흔적이 Gemini 모바일 앱에서 발견됐습니다.
-
-아직 공식 발표는 아니지만, 앱 내부 문구에는 “영상을 리믹스하고, 채팅에서 바로 편집하고, 템플릿을 사용한다”는 설명이 포함되어 있는데요.
-
-공개된 샘플에서는 프롬프트 반영력과 음성 품질이 꽤 좋아졌다는 평가가 나오고 있습니다. 다만 컵이나 테이블 구성이 장면마다 바뀌는 등 연속성 문제는 여전히 남아 있습니다.
-
-구글 I/O를 앞두고 Gemini가 텍스트, 이미지, 영상 편집까지 한 채팅 안에서 묶으려는 흐름이 더 선명해지고 있습니다.</description><pubDate>Mon, 11 May 2026 09:06:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYMVb6DD8CT</guid></item><item><title>대학(원)생 이라면 지금 빨리 받아가세요!</title><link>https://www.threads.net/@choi.openai/post/DYMLAKIj_iX</link><description>대학(원)생 이라면 지금 빨리 받아가세요!</description><pubDate>Mon, 11 May 2026 07:35:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYMLAKIj_iX</guid></item><item><title>선착순 :
-https://b.kakao.com/views/komi/promotions/student-go</title><link>https://www.threads.net/@choi.openai/post/DYMLAIojzee</link><description>선착순 :
-https://b.kakao.com/views/komi/promotions/student-go</description><pubDate>Mon, 11 May 2026 07:35:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYMLAIojzee</guid></item></channel></rss>
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 11 May 2026 17:16:58 +0000</lastBuildDate></channel></rss>
