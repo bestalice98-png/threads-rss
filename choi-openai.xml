@@ -1,2 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 12 May 2026 10:43:34 +0000</lastBuildDate></channel></rss>
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 12 May 2026 17:02:20 +0000</lastBuildDate><item><title>지금만 가능한 소소한 팁 :
+Codex에서 /goal 기능을 사용하면 사용량이 0%가 되어도 목표 달성까지 계속 진행할 수 있습니다.
+여기에 팁...</title><link>https://www.threads.net/@choi.openai/post/DYPoojdj9_-</link><description>지금만 가능한 소소한 팁 :
+Codex에서 /goal 기능을 사용하면 사용량이 0%가 되어도 목표 달성까지 계속 진행할 수 있습니다.
+여기에 팁으로 목표 종료조건을 시간(날짜)으로 설정하게 되면 해당 시간까지 원하는 작업을 계속 진행시킬 수 있습니다.
+* 추가로 5시간 할당량이 얼마 남지 않은 상황에서도 /goal 기능을 사용하면 0%가 되어도 주간 할당량이 소진되지 않고 진행됩니다.
+* 다만, 중간 스티어링으로 명령하면 할당량 초과로 멈출 수 있으니 초기 목적을 잘 세워두는 것이 좋습니다.</description><pubDate>Tue, 12 May 2026 15:51:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYPoojdj9_-</guid></item><item><title>이제는 진짜 “메카”를 민간용으로 판매하는 시대가 오고 있습니다.
+
+Unitree가 사람이 직접 탑승하는 변형형 메카 로봇 공개한 GD01을 공...</title><link>https://www.threads.net/@choi.openai/post/DYOk75oj1NT</link><description>이제는 진짜 “메카”를 민간용으로 판매하는 시대가 오고 있습니다.
+
+Unitree가 사람이 직접 탑승하는 변형형 메카 로봇 공개한 GD01을 공개했습니다.
+가격은 약 65만 달러, 탑승 포함 무게는 약 500kg 수준이라고 합니다.
+
+물론 아직은 영화 속 건담이나 타이탄폴 느낌에 가까운 데모에 가깝지만, 중요한 건 Unitree가 이런 걸 “실제 제품” 카테고리로 내놓기 시작했다는 점입니다.
+
+최근 몇 년 동안 휴머노이드 로봇이 빠르게 현실화됐다면, 이제는 그 위에 탑승형 로봇 플랫폼까지 붙기 시작하는 분위기인데요.
+여기에 자율주행, AI 에이전트, 뇌-컴퓨터 인터페이스 같은 기술까지 연결되면 SF 영화에서 보던 장면들이 생각보다 훨씬 빨리 현실로 들어올 수도 있습니다.</description><pubDate>Tue, 12 May 2026 06:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYOk75oj1NT</guid></item><item><title>이거 생각보다 훨씬 큰 변화일 수도 있습니다.
+
+미라 무라티가 운영하는 Thinking Machines가 사람처럼 동시에 듣고, 말하고, 보고,...</title><link>https://www.threads.net/@choi.openai/post/DYOanZ8AfdF</link><description>이거 생각보다 훨씬 큰 변화일 수도 있습니다.
+
+미라 무라티가 운영하는 Thinking Machines가 사람처럼 동시에 듣고, 말하고, 보고, 생각하고, 끼어들고, 도구까지 사용하는 실시간 상호작용 모델 ‘Interaction Models’을 공개했는데요.
+
+기존 음성 AI는 음성을 텍스트로 바꾸고, 턴을 나누고, 다시 답변을 생성하는 식으로 여러 시스템을 억지로 이어붙인 느낌이었다면, 이번에는 이런 상호작용 자체를 모델이 네이티브하게 학습했다는 점입니다.
+
+그래서 대화 도중 망설임을 감지하거나, 말을 끊고 자연스럽게 반응하거나, 사용자가 말하는 동안 뒤에서 검색을 수행하는 것도 가능합니다.
+
+이런 음성 모델과 에이전틱 OS가 합쳐져, 영화 HER 같은 느낌이 점점 현실로 다가오는 것 같네요.</description><pubDate>Tue, 12 May 2026 04:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYOanZ8AfdF</guid></item><item><title>블로그 :
+https://thinkingmachines.ai/blog/interaction-models/</title><link>https://www.threads.net/@choi.openai/post/DYOaoULgUYA</link><description>블로그 :
+https://thinkingmachines.ai/blog/interaction-models/</description><pubDate>Tue, 12 May 2026 04:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYOaoULgUYA</guid></item><item><title>오픈AI가 사이버 보안 전용 AI 플랫폼 ‘Daybreak’를 새롭게 공개했습니다.
+GPT 계열 모델과 Codex, 그리고 보안 파트너들을 묶어...</title><link>https://www.threads.net/@choi.openai/post/DYOQa3IAkVm</link><description>오픈AI가 사이버 보안 전용 AI 플랫폼 ‘Daybreak’를 새롭게 공개했습니다.
+GPT 계열 모델과 Codex, 그리고 보안 파트너들을 묶어서 취약점 탐지, 검증, 패치 생성, 대응 자동화까지 연결하는 구조입니다.
+
+기존 보안은 사람이 로그를 보고 사고를 추적하는 흐름에 가까웠다면, 이제는 AI가 코드베이스 전체를 계속 스캔하면서 문제를 먼저 찾고 수정하는 방식으로 바뀌고 있습니다.
+
+최근 앤트로픽은 사이버 성능이 너무 강력해서 일부 모델 공개를 제한하기도 했는데요. 오픈AI는 반대로 이를 적극적으로 방어 영역에 투입하기 시작한 모습입니다.</description><pubDate>Tue, 12 May 2026 03:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYOQa3IAkVm</guid></item><item><title>발표내용 :
+https://openai.com/daybreak/</title><link>https://www.threads.net/@choi.openai/post/DYOQeCEAu7v</link><description>발표내용 :
+https://openai.com/daybreak/</description><pubDate>Tue, 12 May 2026 03:01:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYOQeCEAu7v</guid></item></channel></rss>
