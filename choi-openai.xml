@@ -1,27 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 14 May 2026 03:27:16 +0000</lastBuildDate><item><title>앤트로픽이 QuickBooks·PayPal·HubSpot·DocuSign·Google Workspace 같은 실제 업무 툴 안에서 Claude가...</title><link>https://www.threads.net/@choi.openai/post/DYTZYmZDY4P</link><description>앤트로픽이 QuickBooks·PayPal·HubSpot·DocuSign·Google Workspace 같은 실제 업무 툴 안에서 Claude가 직접 일하는 형태인 `Claude for Small Business`을 발표했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 14 May 2026 10:15:29 +0000</lastBuildDate><item><title>Google I/O 공개 전 Gmail, 캘린더, 위치, 웹 세션, 로그인 상태, 작업 기록까지 활용하는 24시간 상시 AI 에이전트 ‘Gemi...</title><link>https://www.threads.net/@choi.openai/post/DYUGp8zj3Fw</link><description>Google I/O 공개 전 Gmail, 캘린더, 위치, 웹 세션, 로그인 상태, 작업 기록까지 활용하는 24시간 상시 AI 에이전트 ‘Gemini Spark’에 대한 내용이 일부 유출되었는데요.
 
-급여 정산, 세금 준비, 미수금 독촉, 계약 검토, 마케팅 캠페인 생성 같은 반복 업무를 자동화하고, 사용자는 마지막 승인만 하면 됩니다.</description><pubDate>Thu, 14 May 2026 02:56:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYTZYmZDY4P</guid></item><item><title>발표내용 :
-https://claude.com/solutions/small-business</title><link>https://www.threads.net/@choi.openai/post/DYTZeI1D9_y</link><description>발표내용 :
-https://claude.com/solutions/small-business</description><pubDate>Thu, 14 May 2026 02:56:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYTZeI1D9_y</guid></item><item><title>Claude Code가 Codex의 `/goal` 개념까지 가져왔습니다.
+Spark는 사용자의 웹 로그인 정보와 원격 브라우저 세션까지 활용해 실제 작업을 대신 수행하는 구조로 보이는데, 이건 기존 AI 비서보다 훨씬 공격적인 접근입니다.
 
-앤트로픽이 작업 완료 조건을 직접 걸어두는 기능인 `/goal` 정식...</title><link>https://www.threads.net/@choi.openai/post/DYSArRQjhok</link><description>Claude Code가 Codex의 `/goal` 개념까지 가져왔습니다.
+그리고 이 방향은 오픈AI의 ChatGPT 앱 생태계, 앤트로픽의 Claude Cowork와도 정확히 겹칩니다.
 
-앤트로픽이 작업 완료 조건을 직접 걸어두는 기능인 `/goal` 정식 추가했는데요.
-예를 들어 “모든 테스트 통과 + lint clean” 같은 목표를 설정하면, Claude가 중간에 멈추려 할 때마다 조건을 다시 확인하고 아직 충족되지 않았으면 계속 작업합니다.
+결국 앞으로 강한 AI는 가장 똑똑한 모델보다, 이메일·브라우저·결제·문서·일정에 가장 깊게 연결된 AI가 될 가능성이 커 보입니다.</description><pubDate>Thu, 14 May 2026 09:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYUGp8zj3Fw</guid></item><item><title>지금 AI 코딩 시장에서 오픈AI와 앤트로픽이 거의 정면전 들어간 분위기입니다.
 
-사실 이 방식은 최근 Codex가 먼저 보여준 “조건 기반 에이전트 루프”와 거의 같은 흐름입니다.
+최근 Ramp 데이터에서는 기업 도입률이 앤트로픽 34.4%,...</title><link>https://www.threads.net/@choi.openai/post/DYT1XrjiUGw</link><description>지금 AI 코딩 시장에서 오픈AI와 앤트로픽이 거의 정면전 들어간 분위기입니다.
 
-`/loop`, `/schedule`, stop hook까지 붙으면서 Claude Code도 점점 단순 코드 생성기가 아니라 지속 실행형 에이전트 운영 환경처럼 변하고 있습니다.</description><pubDate>Wed, 13 May 2026 14:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYSArRQjhok</guid></item><item><title>공식문서 :
-https://code.claude.com/docs/en/goal</title><link>https://www.threads.net/@choi.openai/post/DYSAsMLDq_g</link><description>공식문서 :
-https://code.claude.com/docs/en/goal</description><pubDate>Wed, 13 May 2026 14:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYSAsMLDq_g</guid></item><item><title>페이스페이 리(Fei-Fei Li) 박사는 현재 인류가 언어 기반 AI에 열광하고 있지만, 그보다 더 근본적인 '지각(Perception)과 물...</title><link>https://www.threads.net/@choi.openai/post/DYRy_qsDEc7</link><description>페이스페이 리(Fei-Fei Li) 박사는 현재 인류가 언어 기반 AI에 열광하고 있지만, 그보다 더 근본적인 '지각(Perception)과 물리적 작용'의 가치를 과소평가하고 있다고 지적했습니다.
+최근 Ramp 데이터에서는 기업 도입률이 앤트로픽 34.4%, 오픈AI 32.3%로 처음 역전됐는데요.
+더 무서운 건 성장 속도입니다. 앤트로픽은 1년 만에 기업 채택이 4배 늘었고, 오픈AI는 거의 정체 상태에 가까웠습니다.
 
-그녀는 구글 클라우드에서의 경험을 통해 의료, 금융, 에너지, 농업 등 모든 산업 분야에서 시각적 정보 처리와 물리적 상호작용이 얼마나 중요한지 확인했다고 말합니다.
+그래서 최근 샘 알트만이 직접 “기업 대상 Codex 2개월 무료 제공”을 꺼낸 것도 결국 개발팀과 기업 고객을 붙잡기 위한 전략에 가깝습니다.
 
-“금융 서비스의 손해 사정부터 농업의 잡초 제거와 사과 수확까지, 모든 영역이 지극히 시각적이고 공간적입니다.”
+지금 AI 시장의 자금 흐름이 소비자 시장에서는 ChatGPT가 훨씬 강하지만, 실제 큰 매출은 기업용 코딩·업무 자동화에서 나오고 있다는 분석이 계속 나오고 있습니다.
 
-AI가실제 세계의 물리 법칙을 이해하고 로봇 기술과 결합될 때 비로소 진정한 혁신이 일어난다는 것입니다.
+결국 지금 경쟁은 모델 벤치마크보다 “누가 개발팀의 기본 작업 환경이 되느냐” 싸움으로 이동하고 있습니다.
 
-“우리는 현재 언어 AI의 활용 사례에 몰두해 있지만, 우리의 삶과 업무 경험이 얼마나 지각적이고 물리적인지는 충분히 인식하지 못하고 있습니다.”</description><pubDate>Wed, 13 May 2026 12:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYRy_qsDEc7</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=8HfvfVrxFoI</title><link>https://www.threads.net/@choi.openai/post/DYRzA1NjBX5</link><description>풀영상 :
-https://www.youtube.com/watch?v=8HfvfVrxFoI</description><pubDate>Wed, 13 May 2026 12:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYRzA1NjBX5</guid></item></channel></rss>
+예전에는 IDE 위에 AI가 붙었다면, 이제는 AI 위에 IDE가 붙는 느낌에 더 가까워지고 있습니다.</description><pubDate>Thu, 14 May 2026 07:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYT1XrjiUGw</guid></item><item><title>앤트로픽이 주간 사용 한도를 50% 추가 확대했습니다.
+
+지난주 발표했던 “5시간 제한 2배 증가”와 중첩 적용까지 됩니다.</title><link>https://www.threads.net/@choi.openai/post/DYTrEf8CXwh</link><description>앤트로픽이 주간 사용 한도를 50% 추가 확대했습니다.
+
+지난주 발표했던 “5시간 제한 2배 증가”와 중첩 적용까지 됩니다.</description><pubDate>Thu, 14 May 2026 05:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYTrEf8CXwh</guid></item><item><title>🚨 이제 Meta AI를 국내에서도 정식 지원합니다.</title><link>https://www.threads.net/@choi.openai/post/DYTg1B0gfxG</link><description>🚨 이제 Meta AI를 국내에서도 정식 지원합니다.</description><pubDate>Thu, 14 May 2026 04:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYTg1B0gfxG</guid></item></channel></rss>
