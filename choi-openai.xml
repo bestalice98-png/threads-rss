@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 13 May 2026 17:11:02 +0000</lastBuildDate><item><title>Claude Code가 Codex의 `/goal` 개념까지 가져왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 14 May 2026 03:27:16 +0000</lastBuildDate><item><title>앤트로픽이 QuickBooks·PayPal·HubSpot·DocuSign·Google Workspace 같은 실제 업무 툴 안에서 Claude가...</title><link>https://www.threads.net/@choi.openai/post/DYTZYmZDY4P</link><description>앤트로픽이 QuickBooks·PayPal·HubSpot·DocuSign·Google Workspace 같은 실제 업무 툴 안에서 Claude가 직접 일하는 형태인 `Claude for Small Business`을 발표했습니다.
+
+급여 정산, 세금 준비, 미수금 독촉, 계약 검토, 마케팅 캠페인 생성 같은 반복 업무를 자동화하고, 사용자는 마지막 승인만 하면 됩니다.</description><pubDate>Thu, 14 May 2026 02:56:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYTZYmZDY4P</guid></item><item><title>발표내용 :
+https://claude.com/solutions/small-business</title><link>https://www.threads.net/@choi.openai/post/DYTZeI1D9_y</link><description>발표내용 :
+https://claude.com/solutions/small-business</description><pubDate>Thu, 14 May 2026 02:56:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYTZeI1D9_y</guid></item><item><title>Claude Code가 Codex의 `/goal` 개념까지 가져왔습니다.
 
 앤트로픽이 작업 완료 조건을 직접 걸어두는 기능인 `/goal` 정식...</title><link>https://www.threads.net/@choi.openai/post/DYSArRQjhok</link><description>Claude Code가 Codex의 `/goal` 개념까지 가져왔습니다.
 
@@ -20,16 +24,4 @@ AI가실제 세계의 물리 법칙을 이해하고 로봇 기술과 결합될 �
 
 “우리는 현재 언어 AI의 활용 사례에 몰두해 있지만, 우리의 삶과 업무 경험이 얼마나 지각적이고 물리적인지는 충분히 인식하지 못하고 있습니다.”</description><pubDate>Wed, 13 May 2026 12:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYRy_qsDEc7</guid></item><item><title>풀영상 :
 https://www.youtube.com/watch?v=8HfvfVrxFoI</title><link>https://www.threads.net/@choi.openai/post/DYRzA1NjBX5</link><description>풀영상 :
-https://www.youtube.com/watch?v=8HfvfVrxFoI</description><pubDate>Wed, 13 May 2026 12:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYRzA1NjBX5</guid></item><item><title>법률 업무도 이제 AI 에이전트화가 본격적으로 시작됐습니다.
-
-앤트로픽이 계약 검토, NDA 분류, 특허 침해 claim chart 작성, 특권...</title><link>https://www.threads.net/@choi.openai/post/DYRlPuxDCmn</link><description>법률 업무도 이제 AI 에이전트화가 본격적으로 시작됐습니다.
-
-앤트로픽이 계약 검토, NDA 분류, 특허 침해 claim chart 작성, 특권 로그 리뷰, 법원 일정 추적 같은 법률 실무용 도구들을 Claude에서 바로 쓸 수 있게 만든 ‘Claude for Legal’ 저장소를 공개했는데요.
-
-각 로펌이나 법무팀의 템플릿, 문체, 검토 기준을 CLAUDE.md에 넣어두고 그 기준에 맞춰 작동하게 만들어 AI 법률 도구가 자주 듣는 “너무 일반적인 답변만 한다”는 문제를 줄이려는 방식입니다.
-
-여기에 DocuSign, Ironclad, Relativity, iManage, Lexis 같은 법률 업무 도구와 MCP로 연결되면서, 실제 워크플로우 안으로 들어가는 모습도 보입니다.
-
-물론 법률 판단과 책임은 여전히 사람이 져야 합니다. 하지만 변호사가 몇 시간씩 하던 반복 검토와 문서 정리는 빠르게 AI의 영역으로 넘어가고 있습니다.</description><pubDate>Wed, 13 May 2026 10:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYRlPuxDCmn</guid></item><item><title>깃허브 :
-https://github.com/anthropics/claude-for-legal</title><link>https://www.threads.net/@choi.openai/post/DYRlQogjEhA</link><description>깃허브 :
-https://github.com/anthropics/claude-for-legal</description><pubDate>Wed, 13 May 2026 10:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYRlQogjEhA</guid></item></channel></rss>
+https://www.youtube.com/watch?v=8HfvfVrxFoI</description><pubDate>Wed, 13 May 2026 12:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYRzA1NjBX5</guid></item></channel></rss>
