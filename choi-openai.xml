@@ -1,25 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 14 May 2026 16:55:42 +0000</lastBuildDate><item><title>Google I/O 공개 전 Gmail, 캘린더, 위치, 웹 세션, 로그인 상태, 작업 기록까지 활용하는 24시간 상시 AI 에이전트 ‘Gemi...</title><link>https://www.threads.net/@choi.openai/post/DYUGp8zj3Fw</link><description>Google I/O 공개 전 Gmail, 캘린더, 위치, 웹 세션, 로그인 상태, 작업 기록까지 활용하는 24시간 상시 AI 에이전트 ‘Gemini Spark’에 대한 내용이 일부 유출되었는데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 15 May 2026 03:30:51 +0000</lastBuildDate><item><title>오픈AI가 Codex 모바일 앱 업데이트와 함께 Hooks와 Programmatic Access Tokens를 추가했습니다.
+이제 Codex 작...</title><link>https://www.threads.net/@choi.openai/post/DYV-tceDZ1k</link><description>오픈AI가 Codex 모바일 앱 업데이트와 함께 Hooks와 Programmatic Access Tokens를 추가했습니다.
+이제 Codex 작업 흐름 중간마다 검증 스크립트, 시크릿 검사, 내부 로깅, 저장소별 규칙 적용 같은 걸 자동으로 끼워넣을 수 있게 된 건데요.
+
+테스트 통과 전에는 merge 금지, 특정 디렉토리 규칙 자동 적용, 내부 정책 검사 같은 기업 운영 로직까지 Codex 루프 안에 들어가게 됩니다.
+
+그래서 최근 Codex 흐름은 개발 조직 안에서 돌아가는 운영 인프라처럼 변하는 느낌이 강합니다.
+이제 정말 누가 AI를 자기 조직 흐름에 더 깊게 연결하냐가 더 중요해진 시점입니다.
+압도적인 Codex 꼭 사용해보세요.</description><pubDate>Fri, 15 May 2026 03:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYV-tceDZ1k</guid></item><item><title>Figure가 Helix-02 기반 Figure 03 로봇 3대로 물류 작업 8시간 라이브를 공개했는데, 실패 없이 30시간 연속 운영까지 갔습...</title><link>https://www.threads.net/@choi.openai/post/DYVwcvgD9xz</link><description>Figure가 Helix-02 기반 Figure 03 로봇 3대로 물류 작업 8시간 라이브를 공개했는데, 실패 없이 30시간 연속 운영까지 갔습니다.
+현재는 3만 8천개 이상 패키지를 처리했고, 시간당 성능도 사람 작업 속도에 근접한 수준이라는 평가가 나오고 있는데요.
+
+휴머노이드 업계는 그동안 짧고 편집된 데모 영상 논란이 많았는데, 이제는 몇 시간-며칠 단위의 실제 운영 안정성을 경쟁하기 시작한 모습입니다.
+
+이제 휴머노이드 경쟁은 “움직일 수 있나?”가 아니라, “몇 시간 동안 사람 개입 없이 돈 되는 작업을 유지하나?”로 넘어가는 단계 같습니다.</description><pubDate>Fri, 15 May 2026 00:55:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYVwcvgD9xz</guid></item><item><title>크.. 드디어 출시되었습니다.
+
+오픈AI가 Codex를 ChatGPT 모바일 앱에 연결했습니다.
+이제 스마트폰으로 실행 상태를 확인하고, 승인하...</title><link>https://www.threads.net/@choi.openai/post/DYVio9LDp3G</link><description>크.. 드디어 출시되었습니다.
+
+오픈AI가 Codex를 ChatGPT 모바일 앱에 연결했습니다.
+이제 스마트폰으로 실행 상태를 확인하고, 승인하고, 방향을 수정하면 Codex는 집이나 회사의 PC·Mac mini·원격 개발 서버에서 계속 작업합니다.
+
+Codex는 테스트 결과, 터미널 출력, diff, 스크린샷까지 실시간으로 폰에 전달하고, 사용자는 이동 중에도 다음 작업만 승인하면 됩니다.
+
+특히 Remote SSH, 기업용 토큰, Hooks까지 같이 공개된 걸 보면 오픈AI가 “AI 기반 개발 운영 체제” 쪽으로 가속하는 분위기네요.</description><pubDate>Thu, 14 May 2026 22:56:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYVio9LDp3G</guid></item><item><title>내용 :
+https://openai.com/index/work-with-codex-from-anywhere/</title><link>https://www.threads.net/@choi.openai/post/DYVi090E7F1</link><description>내용 :
+https://openai.com/index/work-with-codex-from-anywhere/</description><pubDate>Thu, 14 May 2026 22:56:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYVi090E7F1</guid></item><item><title>Google I/O 공개 전 Gmail, 캘린더, 위치, 웹 세션, 로그인 상태, 작업 기록까지 활용하는 24시간 상시 AI 에이전트 ‘Gemi...</title><link>https://www.threads.net/@choi.openai/post/DYUGp8zj3Fw</link><description>Google I/O 공개 전 Gmail, 캘린더, 위치, 웹 세션, 로그인 상태, 작업 기록까지 활용하는 24시간 상시 AI 에이전트 ‘Gemini Spark’에 대한 내용이 일부 유출되었는데요.
 
 Spark는 사용자의 웹 로그인 정보와 원격 브라우저 세션까지 활용해 실제 작업을 대신 수행하는 구조로 보이는데, 이건 기존 AI 비서보다 훨씬 공격적인 접근입니다.
 
 그리고 이 방향은 오픈AI의 ChatGPT 앱 생태계, 앤트로픽의 Claude Cowork와도 정확히 겹칩니다.
 
-결국 앞으로 강한 AI는 가장 똑똑한 모델보다, 이메일·브라우저·결제·문서·일정에 가장 깊게 연결된 AI가 될 가능성이 커 보입니다.</description><pubDate>Thu, 14 May 2026 09:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYUGp8zj3Fw</guid></item><item><title>지금 AI 코딩 시장에서 오픈AI와 앤트로픽이 거의 정면전 들어간 분위기입니다.
-
-최근 Ramp 데이터에서는 기업 도입률이 앤트로픽 34.4%,...</title><link>https://www.threads.net/@choi.openai/post/DYT1XrjiUGw</link><description>지금 AI 코딩 시장에서 오픈AI와 앤트로픽이 거의 정면전 들어간 분위기입니다.
-
-최근 Ramp 데이터에서는 기업 도입률이 앤트로픽 34.4%, 오픈AI 32.3%로 처음 역전됐는데요.
-더 무서운 건 성장 속도입니다. 앤트로픽은 1년 만에 기업 채택이 4배 늘었고, 오픈AI는 거의 정체 상태에 가까웠습니다.
-
-그래서 최근 샘 알트만이 직접 “기업 대상 Codex 2개월 무료 제공”을 꺼낸 것도 결국 개발팀과 기업 고객을 붙잡기 위한 전략에 가깝습니다.
-
-지금 AI 시장의 자금 흐름이 소비자 시장에서는 ChatGPT가 훨씬 강하지만, 실제 큰 매출은 기업용 코딩·업무 자동화에서 나오고 있다는 분석이 계속 나오고 있습니다.
-
-결국 지금 경쟁은 모델 벤치마크보다 “누가 개발팀의 기본 작업 환경이 되느냐” 싸움으로 이동하고 있습니다.
-
-예전에는 IDE 위에 AI가 붙었다면, 이제는 AI 위에 IDE가 붙는 느낌에 더 가까워지고 있습니다.</description><pubDate>Thu, 14 May 2026 07:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYT1XrjiUGw</guid></item><item><title>앤트로픽이 주간 사용 한도를 50% 추가 확대했습니다.
-
-지난주 발표했던 “5시간 제한 2배 증가”와 중첩 적용까지 됩니다.</title><link>https://www.threads.net/@choi.openai/post/DYTrEf8CXwh</link><description>앤트로픽이 주간 사용 한도를 50% 추가 확대했습니다.
-
-지난주 발표했던 “5시간 제한 2배 증가”와 중첩 적용까지 됩니다.</description><pubDate>Thu, 14 May 2026 05:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYTrEf8CXwh</guid></item><item><title>🚨 이제 Meta AI를 국내에서도 정식 지원합니다.</title><link>https://www.threads.net/@choi.openai/post/DYTg1B0gfxG</link><description>🚨 이제 Meta AI를 국내에서도 정식 지원합니다.</description><pubDate>Thu, 14 May 2026 04:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYTg1B0gfxG</guid></item></channel></rss>
+결국 앞으로 강한 AI는 가장 똑똑한 모델보다, 이메일·브라우저·결제·문서·일정에 가장 깊게 연결된 AI가 될 가능성이 커 보입니다.</description><pubDate>Thu, 14 May 2026 09:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYUGp8zj3Fw</guid></item></channel></rss>
