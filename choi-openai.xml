@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 15 May 2026 16:46:38 +0000</lastBuildDate><item><title>Gemini Spark로 추정되는 화면이 일부 유출되었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 16 May 2026 02:53:38 +0000</lastBuildDate><item><title>챗GPT가 “개인 금융 운영체제” 쪽으로도 확장되기 시작했습니다.
+
+오픈AI가 미국 Pro 사용자 대상으로 금융 계좌 연동 기능을 공개했는데요....</title><link>https://www.threads.net/@choi.openai/post/DYXtkFpGa5V</link><description>챗GPT가 “개인 금융 운영체제” 쪽으로도 확장되기 시작했습니다.
+
+오픈AI가 미국 Pro 사용자 대상으로 금융 계좌 연동 기능을 공개했는데요.
+은행 계좌나 Robinhood 같은 금융 데이터를 연결하면, 소비 흐름을 분석하고 실제 거래 내역 기반으로 질문할 수 있게 됩니다.
+
+반응도 극단적으로 갈리고 있습니다. 한쪽에서는 “수백 개 핀테크 스타트업이 끝났다”는 이야기까지 나올 정도로 충격적으로 받아들이고 있고, 다른 쪽에서는 “왜 금융 데이터를 AI 회사에 넘기냐”는 보안 우려도 강하게 나오고 있는데요.
+
+특히 중요한 건 방향성입니다. 최근 메일, 캘린더, 브라우저, 코딩 환경에 이어 이제 금융 데이터까지 연결되기 시작하면서, 챗GPT가 점점 사용자의 실제 삶 전체를 이해하고 움직이는 에이전트 형태로 확장되고 있다는 점입니다.
+
+결국 앞으로 AI 경쟁은 누가 더 많은 개인 데이터를 연결하고 사용자 맥락 전체를 이해하느냐로 이동할 가능성이 커 보입니다.</description><pubDate>Fri, 15 May 2026 19:09:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYXtkFpGa5V</guid></item><item><title>Gemini Spark로 추정되는 화면이 일부 유출되었습니다.
 
 Agent mode와 Chat mode가 분리되어 있고, 고급 도구 사용과 Sk...</title><link>https://www.threads.net/@choi.openai/post/DYXRHSjki9J</link><description>Gemini Spark로 추정되는 화면이 일부 유출되었습니다.
 
@@ -30,30 +41,4 @@ ollama launch codex-app 로 시작하면됩니다.</description><pubDate>Fri, 15
 
 중요한 건 초현실적인 AR 그래픽보다, 기존 iOS·Android·웹 개발자들이 얼마나 쉽게 진입할 수 있느냐인데요. 과거 VR·MR 기기들이 콘텐츠 부족으로 막혔다면, Meta는 이번엔 아예 기존 개발 생태계를 그대로 끌고 오려는 방향에 가까워 보입니다.
 
-특히 AI 에이전트와 결합되기 시작하면 스마트폰처럼 “앱을 실행하는 기기”보다, 항상 착용한 상태에서 실시간으로 정보를 띄우고 작업을 연결하는 인터페이스로 진화할 가능성도 점점 커지고 있습니다.</description><pubDate>Fri, 15 May 2026 12:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYW8iVrE0_n</guid></item><item><title>AI 혐오가 얼마나 감정적으로 소비되는지 보여준 사건이 나왔습니다.
-한 사용자가 “AI로 만든 모네 스타일 그림”이라며 왜 진짜 Monet보다 ...</title><link>https://www.threads.net/@choi.openai/post/DYWyP-5iFlq</link><description>AI 혐오가 얼마나 감정적으로 소비되는지 보여준 사건이 나왔습니다.
-한 사용자가 “AI로 만든 모네 스타일 그림”이라며 왜 진짜 Monet보다 부족한지 분석해달라고 올렸는데,
-수많은 사람들이 색감, 원근감, 붓터치까지 진지하게 비판했습니다.
-
-그런데 알고 보니 실제 Monet 작품 일부였습니다.
-AI 콘텐츠가 많아질수록 인간의 신뢰 체계 자체가 흔들리고 있습니다. 🧵</description><pubDate>Fri, 15 May 2026 10:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYWyP-5iFlq</guid></item><item><title>1/ 익명의 아티스트 SHL0MS는 자신의 계정에 "AI로 모네 스타일의 그림을 생성했다. 진짜 모네 그림에 비해 어떤 점이 열등한지 구체적으로...</title><link>https://www.threads.net/@choi.openai/post/DYWySxoCIgm</link><description>1/ 익명의 아티스트 SHL0MS는 자신의 계정에 "AI로 모네 스타일의 그림을 생성했다. 진짜 모네 그림에 비해 어떤 점이 열등한지 구체적으로 설명해 달라"며 정교한 미끼를 던졌습니다.
-
-사람들은 즉각적으로 낚여 반응했습니다. 한 유저는 "깊이감이나 색상 선택에 일관성이 전혀 없다", "나무의 반사가 공간적 깊이나 대비를 무시한 채 수련과 번져 있다", "대부분의 AI 예술이 그렇듯 배경이 터무니없이 모호하다"며 조롱 섞인 혹평을 쏟아냈습니다.
-
-'AI'라는 꼬리표가 붙자마자 대중의 뇌는 무조건적인 오류를 찾기 위해 작동했고, 있지도 않은 결함을 창조해 내며 진지하게 예술적 비판을 가하는 블랙 코미디가 연출되었습니다.</description><pubDate>Fri, 15 May 2026 10:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYWySxoCIgm</guid></item><item><title>2/ 정확히 24시간 뒤, SHL0MS는 충격적인 진실을 밝힙니다.
-
-사람들이 그토록 조롱하고 비판했던 그 이미지는 사실 진짜 거장 모네(Mon...</title><link>https://www.threads.net/@choi.openai/post/DYWyVrICFN9</link><description>2/ 정확히 24시간 뒤, SHL0MS는 충격적인 진실을 밝힙니다.
-
-사람들이 그토록 조롱하고 비판했던 그 이미지는 사실 진짜 거장 모네(Monet)의 실제 작품을 크롭한 원본이었습니다.
-'터무니없이 모호한 붓터치'라며 깎아내렸던 부분은 거장의 실제 터치였던 것이죠.
-
-재미있게도 그는 사람들에게 AI 그림 취급을 받으며 '열등하다'고 평가받은 이 진짜 모네의 조각을 이더리움 블록체인에 NFT로 발행하여 최고가 입찰자에게 경매로 넘겼습니다.
-
-대중의 얄팍한 편견을 조롱하는 동시에 이를 또 다른 현대 예술적 행위로 승화시킨 완벽한 기획이었습니다.</description><pubDate>Fri, 15 May 2026 10:31:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYWyVrICFN9</guid></item><item><title>3/ 이 사건은 현재 예술계와 대중 사이에 무분별하게 퍼져 있는 AI 혐오 현상의 정곡을 찔렀습니다.
-
-일부 사용자는 이를 두고 "반-AI 히스...</title><link>https://www.threads.net/@choi.openai/post/DYWyYBVCIxX</link><description>3/ 이 사건은 현재 예술계와 대중 사이에 무분별하게 퍼져 있는 AI 혐오 현상의 정곡을 찔렀습니다.
-
-일부 사용자는 이를 두고 "반-AI 히스테리를 완벽하게 보여주는 SENSACIONAL(환상적인) 사례"라고 극찬했습니다.
-
-사람들은 작품 그 자체의 아름다움을 있는 그대로 느끼는 대신, 'AI가 만들었다'는 선입견이 개입되는 순간 무조건적으로 흠집을 찾으려는 편향된 인지 필터를 작동시킵니다. 
-또 다른 이용자는 "모네의 진품을 두고 AI 그림이라며 깎아내리는 대중의 모습이야말로 현재 우리가 AI 아트를 대하는 씁쓸한 현주소"라고 지적했습니다.</description><pubDate>Fri, 15 May 2026 10:31:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYWyYBVCIxX</guid></item></channel></rss>
+특히 AI 에이전트와 결합되기 시작하면 스마트폰처럼 “앱을 실행하는 기기”보다, 항상 착용한 상태에서 실시간으로 정보를 띄우고 작업을 연결하는 인터페이스로 진화할 가능성도 점점 커지고 있습니다.</description><pubDate>Fri, 15 May 2026 12:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYW8iVrE0_n</guid></item></channel></rss>
