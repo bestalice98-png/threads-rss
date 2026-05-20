@@ -1,5 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 20 May 2026 10:50:17 +0000</lastBuildDate><item><title>이 말을 직접 들을 줄이야..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 20 May 2026 17:50:05 +0000</lastBuildDate><item><title>이제는 직원들도 AI 학습 데이터가 되는 시대가 온 것 같습니다.
+
+유출된 Meta 내부 음성에서 마크 저커버그는 “뛰어난 직원들이 문제를 해결...</title><link>https://www.threads.net/@choi.openai/post/DYkSbbzCcpY</link><description>이제는 직원들도 AI 학습 데이터가 되는 시대가 온 것 같습니다.
+
+유출된 Meta 내부 음성에서 마크 저커버그는 “뛰어난 직원들이 문제를 해결하는 과정을 AI가 학습하면 모델 성능이 훨씬 빨라진다”고 설명했는데요.
+상위 엔지니어들의 사고 과정과 문제 해결 패턴 자체를 학습 자산으로 본다는 이야기입니다.
+
+하지만, 이 발언이후 바로 뒤에 대규모 구조조정과 AI 조직 재배치가 이어졌다는 점입니다. 
+래서 업계에서는 “인간 전문가를 통해 AI를 훈련한 뒤, 그 역할 자체를 줄이려는 것 아니냐”는 반응도 나오고 있습니다.
+
+사실 중요한 건 여기서 AI 경쟁의 기준이 바뀌고 있다는 점입니다.
+이제는 GPU만 많은 회사보다, 뛰어난 인재들의 작업 흐름과 실행 데이터를 얼마나 많이 갖고 있는지가 더 강력한 자산이 되기 시작한 것 같습니다.</description><pubDate>Wed, 20 May 2026 16:23:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYkSbbzCcpY</guid></item><item><title>구글이 대기업이긴 대기업이다..
+
+미국 현장에서 직접 만난, 구글 I/O의 모든 내용을 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/DYkECaVm8AD</link><description>구글이 대기업이긴 대기업이다..
+
+미국 현장에서 직접 만난, 구글 I/O의 모든 내용을 정리했습니다 🧵</description><pubDate>Wed, 20 May 2026 14:16:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYkECaVm8AD</guid></item><item><title>1/ 처음으로 구글 I/O에 직접 다녀왔습니다.
+
+현장에서 느낀 구글의 문화, 에너지, 행사장의 활력은 정말 대단했습니다.
+전 세계 개발자와 크...</title><link>https://www.threads.net/@choi.openai/post/DYj5DBbAN4o</link><description>1/ 처음으로 구글 I/O에 직접 다녀왔습니다.
+
+현장에서 느낀 구글의 문화, 에너지, 행사장의 활력은 정말 대단했습니다.
+전 세계 개발자와 크리에이터가 모이고, 구글 직원들이 제품을 설명하고, AI를 낙관적으로 이야기하는 분위기는 화면으로 볼 때와 확실히 달랐습니다.
+
+그리고 구글이 가진 생태계의 크기는 여전히 무섭습니다.
+10억 명 이상 사용하는 제품을 13개나 운영하고, 검색, 유튜브, 안드로이드, Chrome, Gmail, Docs, Maps, Cloud, TPU까지 전부 갖고 있는 회사가 AI를 한꺼번에 밀어 넣고 있습니다.
+
+하지만 제품 발표만 놓고 보면 이번 구글 I/O 2026은 기대에 비해 아쉬움도 남았는데요.
+
+미국 샌프란시스코 마운틴뷰에서 직접 만난 구글 I/O에 대한 생각을 정리해봤습니다.</description><pubDate>Wed, 20 May 2026 14:16:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYj5DBbAN4o</guid></item><item><title>1/ 먼저 잘한 점부터 말하면, 구글은 이번 I/O에서 AI를 “별도 앱”이 아니라 “기존 제품 전체의 기본 기능”으로 넣는 방향을 확실히 보여...</title><link>https://www.threads.net/@choi.openai/post/DYkED3yG3J-</link><description>1/ 먼저 잘한 점부터 말하면, 구글은 이번 I/O에서 AI를 “별도 앱”이 아니라 “기존 제품 전체의 기본 기능”으로 넣는 방향을 확실히 보여줬습니다.
+
+Gemini 앱, Search, Workspace, Chrome, Android XR, Flow, YouTube Shorts, Shopping, Cloud, Antigravity까지 거의 모든 표면에 Gemini가 들어갑니다.
+
+이건 다른 회사가 쉽게 따라 하기 어렵습니다.
+
+문제는 hype에 비해 “큰 혁신 없이 지나간 부분”이 많았다는 점입니다.
+
+Gemini 앱 리디자인, Search의 AI Mode, Flow Agent, Spark, Android XR 글래스, Antigravity 2.0 모두 방향은 좋았습니다.
+
+하지만 완전히 새로운 제품 충격이라기보다, 작년부터 이어져온 구상을 더 넓게 배치한 느낌이 강했습니다.</description><pubDate>Wed, 20 May 2026 14:16:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYkED3yG3J-</guid></item><item><title>2/ 작년부터 이어진 방향들이 더 정리되긴 했지만, 소비자가 바로 체감할 수 있는 새로운 제품 충격은 생각보다 약했습니다.
+
+구글은 미래 방향을...</title><link>https://www.threads.net/@choi.openai/post/DYkEFDIGx3h</link><description>2/ 작년부터 이어진 방향들이 더 정리되긴 했지만, 소비자가 바로 체감할 수 있는 새로운 제품 충격은 생각보다 약했습니다.
+
+구글은 미래 방향을 정말 잘 보여줍니다.
+문제는 그 방향이 실제 소비자가 바로 쓸 수 있는 제품으로 내려오는 속도입니다.
+
+이번에는 그 방향이 완전히 새로운 장면으로 터졌다기보다, 기존에 보여준 구상을 더 넓은 제품군에 다시 배치한 느낌이 강했습니다.
+
+지역 제한도 이번 발표의 체감도를 낮췄습니다.
+
+구글은 원래도 미국에서 먼저 테스트하고, 이후 점진적으로 글로벌 롤아웃하는 방식을 자주 써왔습니다.
+
+이건 구글 입장에서는 당연한 선택일 수 있습니다.
+
+검색, 유튜브, 크롬, 지메일, 안드로이드처럼 수십억 명이 쓰는 제품에 AI를 넣는 건 스타트업이 기능 하나 배포하는 것과 완전히 다릅니다.
+
+안전, 개인정보, 저작권, 규제, 서버 비용, 각국 언어와 문화까지 전부 고려해야 합니다.
+
+그래서 구글이 조심스럽게 배포하는 건 이해됩니다.</description><pubDate>Wed, 20 May 2026 14:16:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYkEFDIGx3h</guid></item><item><title>구글 I/O가 앱 행사처럼 보였다면 절반만 본 겁니다.
+
+Gemini, Spark, Search AI Mode 뒤에는 TPU, 데이터센터, 전력...</title><link>https://www.threads.net/@choi.openai/post/DYj0vswm3d3</link><description>구글 I/O가 앱 행사처럼 보였다면 절반만 본 겁니다.
+
+Gemini, Spark, Search AI Mode 뒤에는 TPU, 데이터센터, 전력, 메모리, 추론 비용 계산서가 같이 깔려 있습니다.
+특히 “AI 비용의 중심이 훈련에서 추론으로 이동한다”는 흐름이 굉장히 중요해졌습니다.
+
+행사뒤에 숨겨진 AI 인프라 경쟁 핵심 내용을 정리했습니다🧵</description><pubDate>Wed, 20 May 2026 12:02:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYj0vswm3d3</guid></item><item><title>1/ 구글은 8세대 TPU를 학습용 8t와 추론용 8i로 나눠 발표했습니다.
+
+모델을 크게 훈련하는 칩과 수많은 사용자의 빠른 요청을 처리하는 ...</title><link>https://www.threads.net/@choi.openai/post/DYj0wJLm8DJ</link><description>1/ 구글은 8세대 TPU를 학습용 8t와 추론용 8i로 나눠 발표했습니다.
+
+모델을 크게 훈련하는 칩과 수많은 사용자의 빠른 요청을 처리하는 칩을 분리한 겁니다.
+
+순다 피차이는 2022년 구글의 연간 자본 지출이 310억 달러였고, 올해는 약 1,900억 달러에 달할 것으로 예상한다고 말했습니다.
+
+TPU 8t는 대규모 사전 학습에 맞춰 이전 세대보다 원시 컴퓨팅 성능이 약 3배 향상됐고, TPU 8i는 추론 지연 시간을 줄이는 쪽에 맞춰져 있습니다.
+
+두 칩 모두 와트당 성능이 최대 2배 향상됐다는 설명도 붙었습니다.
+
+에이전트 시대에는 학습보다 추론이 매일의 비용으로 돌아옵니다. 3.5 Flash처럼 빠른 모델을 대규모로 돌리려면 추론에 맞춘 칩과 서빙 시스템이 제품 경쟁력 자체가 됩니다.</description><pubDate>Wed, 20 May 2026 12:02:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYj0wJLm8DJ</guid></item><item><title>2/ 특히 이번 발표에서는 TPU를 칩 하나로 설명하지 않았습니다.
+
+구글은 학습을 단일 데이터센터 안에 가두지 않고, Pathways를 통해 ...</title><link>https://www.threads.net/@choi.openai/post/DYj0xPImwrP</link><description>2/ 특히 이번 발표에서는 TPU를 칩 하나로 설명하지 않았습니다.
+
+구글은 학습을 단일 데이터센터 안에 가두지 않고, Pathways를 통해 여러 사이트에 걸쳐 분산 학습을 할 수 있다고 설명했습니다.
+
+전 세계 100만 개 이상의 TPU를 묶어 가장 큰 학습 클러스터를 만들 수 있다는 메시지도 나왔습니다.
+
+이건 “새 칩이 나왔다”보다 훨씬 큰 이야기입니다. 더 큰 모델을 만들고, 더 많은 토큰을 처리하고, 내부 제품에서 나오는 피드백을 다시 모델 개선으로 돌리는 구조입니다.
+
+Gemini 3.5 Flash가 빠르다는 말은 모델만의 이야기가 아니라, 학습과 서빙을 같이 키운 인프라 발표입니다.
+
+https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/</description><pubDate>Wed, 20 May 2026 12:02:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYj0xPImwrP</guid></item><item><title>3/ 점점 AI 비용의 중심은 훈련에서 추론으로 이동하고 있습니다.
+
+사용자 중심 AI 제품에서는 비용의 중심이 훈련비보다 추론 처리량, 지연 ...</title><link>https://www.threads.net/@choi.openai/post/DYj0yOAm6uY</link><description>3/ 점점 AI 비용의 중심은 훈련에서 추론으로 이동하고 있습니다.
+
+사용자 중심 AI 제품에서는 비용의 중심이 훈련비보다 추론 처리량, 지연 시간, 토큰당 비용으로 이동합니다.
+
+구글의 Gemini 앱 9억 명, Search AI Mode 10억 명, 모델 API 분당 약 190억 토큰, 375개 이상의 Cloud 고객사가 각각 1조 토큰 이상을 처리한 규모, Spark 같은 장기 실행 에이전트가 나오면 추론비가 제품 전략이 됩니다.
+
+빠른 모델을 안정적으로 대규모 사용자에게 제공하는 능력이 AI 제품의 지속성을 결정합니다.
+
+사용자가 질문을 한 번 더 하고, 에이전트가 배경에서 계속 작업하려면 모델 품질만큼 토큰 경제성이 따라와야 합니다.</description><pubDate>Wed, 20 May 2026 12:02:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYj0yOAm6uY</guid></item><item><title>이 말을 직접 들을 줄이야..
 
 구글 딥마인드 CEO 데미스 하사비스가 이번 I/O 마지막에서 “우리는 특이점의 초입에 서 있다”고 말합니다.
 ...</title><link>https://www.threads.net/@choi.openai/post/DYjiUWGFWmm</link><description>이 말을 직접 들을 줄이야..
@@ -41,131 +139,4 @@ Antigravity가 개발 생산성을 높이는 쪽이라면, CodeMender는 AI가 �
 
 과학자에게 중요한 건 질문 하나에 답하는 AI가 아니라, 매일 반복되는 연구 업무를 줄이고 다음 실험 방향을 잡아주는 도구입니다.
 
-Gemini가 검색, 업무, 영상, 음악, 코딩을 넘어 과학 연구 워크벤치로 들어가기 시작한 겁니다.</description><pubDate>Wed, 20 May 2026 09:21:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjiWWElS4p</guid></item><item><title>AI가 답변만 잘한다고 끝나는 시대는 끝났습니다.
-
-구글 I/O에서 발표된 새로운 Gemini 앱은 아침 브리핑을 만들고, 메일과 캘린더를 읽고...</title><link>https://www.threads.net/@choi.openai/post/DYjXOiDleYw</link><description>AI가 답변만 잘한다고 끝나는 시대는 끝났습니다.
-
-구글 I/O에서 발표된 새로운 Gemini 앱은 아침 브리핑을 만들고, 메일과 캘린더를 읽고, 영상까지 편집하기 시작했습니다.
-
-특히 Omni와 Daily Brief가 들어오면서 AI 앱의 사용 방식 자체가 달라지고 있습니다.
-
-새로운 Gemini 앱의 핵심 변화내용을 정리했습니다🧵</description><pubDate>Wed, 20 May 2026 07:44:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjXOiDleYw</guid></item><item><title>1/ Gemini 앱은 월간 9억 명 이상이 쓰는 제품이 됐습니다.
-
-Gemini 앱은 이제 230개 이상 국가와 70개 이상 언어를 지원하고 ...</title><link>https://www.threads.net/@choi.openai/post/DYjXPEblWx0</link><description>1/ Gemini 앱은 월간 9억 명 이상이 쓰는 제품이 됐습니다.
-
-Gemini 앱은 이제 230개 이상 국가와 70개 이상 언어를 지원하고 있습니다.
-작년만 해도 Gemini 앱은 ChatGPT를 따라가는 별도 앱처럼 보였는데, 이제는 Google Search, Workspace, Android, 유튜브와 이어지는 개인 AI 앱의 중심으로 바뀌고 있습니다.
-
-이제는 Gemini 앱 하나에서 이미지, 영상, 음악을 만들고, 메일과 캘린더를 읽고, 아침 브리핑을 만들고, Live로 바로 대화하고, Mac 파일까지 처리하는 쪽으로 앱의 범위가 넓어졌습니다.</description><pubDate>Wed, 20 May 2026 07:44:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjXPEblWx0</guid></item><item><title>2/ 가장 먼저 보이는 변화는 디자인입니다.
-
-구글은 Gemini 앱을 처음부터 다시 디자인했고, 새 디자인 언어를 Neural Expressi...</title><link>https://www.threads.net/@choi.openai/post/DYjRxeJm3Wd</link><description>2/ 가장 먼저 보이는 변화는 디자인입니다.
-
-구글은 Gemini 앱을 처음부터 다시 디자인했고, 새 디자인 언어를 Neural Expressive라고 소개했습니다.
-
-앱을 열었을 때 더 부드러운 애니메이션, 더 강한 색감, 새 타이포그래피, 햅틱 피드백이 들어갑니다.
-
-이전에는 긴 텍스트 답변을 읽는 느낌이 강했다면, 새 Gemini 앱은 답변을 실시간으로 화면에 배치합니다.
-
-질문에 따라 이미지, 타임라인, 표, 영상, 인터랙티브 화면이 섞여 나오는 방식입니다.</description><pubDate>Wed, 20 May 2026 07:45:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjRxeJm3Wd</guid></item><item><title>3/ Gemini 답변은 이제 텍스트 벽에서 벗어납니다.
-
-예를 들어 여행 계획을 물으면 일정표와 지도형 정보가 더 자연스럽게 나오고, 역사나 ...</title><link>https://www.threads.net/@choi.openai/post/DYjR1pWFFC8</link><description>3/ Gemini 답변은 이제 텍스트 벽에서 벗어납니다.
-
-예를 들어 여행 계획을 물으면 일정표와 지도형 정보가 더 자연스럽게 나오고, 역사나 과학을 물으면 타임라인이나 이미지가 같이 배치될 수 있습니다.
-
-발표에서는 스크롤하면서 Gemini가 직접 생성한 인터랙티브 이미지가 보이고, 사용자가 그 안으로 들어가 더 자세히 살펴보는 장면도 나왔습니다.
-
-검색에서 보여준 Generative UI가 Gemini 앱 안으로도 들어오는 느낌입니다.
-
-사용자가 긴 답변을 읽고 정리하는 게 아니라, Gemini가 내용을 화면으로 먼저 정리해주는 방향입니다.</description><pubDate>Wed, 20 May 2026 07:45:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjR1pWFFC8</guid></item><item><title>구글 화제의 스마트 글래스 직접 착용해봤습니다..
-
-이번 구글 I/O 현장에 방문하면서 개인적으로 가장 기대됐던 건 Android XR 글래스였...</title><link>https://www.threads.net/@choi.openai/post/DYjQTUhFV6m</link><description>구글 화제의 스마트 글래스 직접 착용해봤습니다..
-
-이번 구글 I/O 현장에 방문하면서 개인적으로 가장 기대됐던 건 Android XR 글래스였는데요.
-
-폰 다음 화면이 드디어 얼굴 위로 올라오는 순간을 직접 확인하고 싶었습니다.
-
-이번 발표에서는 구글, 삼성, 퀄컴을 중심으로 Android XR 생태계가 정리됐고, 젠틀 몬스터와 Warby Parker는 디자인 파트너로 등장했습니다.
-
-Android XR과 AI 글래스 발표/체험 포인트 정리했습니다🧵</description><pubDate>Wed, 20 May 2026 06:44:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjQTUhFV6m</guid></item><item><title>1/ Android XR 을 실제 착용했던 경험에서 제일 좋았던 건 음악, 보이스, 네비게이션이었습니다.
-
-메타 스마트 글래스도 착용해봤지만, ...</title><link>https://www.threads.net/@choi.openai/post/DYjQTxklX3G</link><description>1/ Android XR 을 실제 착용했던 경험에서 제일 좋았던 건 음악, 보이스, 네비게이션이었습니다.
-
-메타 스마트 글래스도 착용해봤지만, 음악 품질이나 보이스 인식 그리고 네비게이션 경험은 정말 좋았던 것 같습니다.
-
-실제 무대 데모에서는 Gemini가 지난주 친구를 만난 장소를 기억해 길 안내를 잡고, 가는 길에 Coupa Cafe를 경유해 DoorDash로 콜드브루 주문까지 준비했습니다.
-
-메시지를 요약하고, 가족 저녁 일정을 캘린더에 넣는 장면도 나왔습니다.
-
-폰을 꺼내고 앱을 열고 검색하는 과정이 줄어들고, 눈앞의 장면과 음성 질문이 바로 이어집니다.
-
-스마트 글래스가 기대되는 이유는 새 화면이 생긴다는 점보다, 이미 하던 행동이 훨씬 짧아진다는 점에 있습니다.</description><pubDate>Wed, 20 May 2026 06:44:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjQTxklX3G</guid></item><item><title>2/ 더 크게 보면 이건 Search와 Commerce까지 연결되는 발표입니다.
-
-이번 Search 발표에서 구글은 검색창, 생성형 UI, 정보...</title><link>https://www.threads.net/@choi.openai/post/DYjQUyLFTK5</link><description>2/ 더 크게 보면 이건 Search와 Commerce까지 연결되는 발표입니다.
-
-이번 Search 발표에서 구글은 검색창, 생성형 UI, 정보 에이전트, 쇼핑, UCP, AP2, Universal Cart를 한 흐름으로 묶었습니다.
-
-스마트 글래스는 여기에 들어갈 수 있는 가장 자연스러운 입력 장치입니다.
-
-사용자가 키워드를 입력하는 대신, 눈앞의 물건을 보고 “이거 뭐야?”, “비슷한 제품 찾아줘”, “내 사이즈로 주문해줘”라고 말할 수 있습니다.
-
-검색은 눈앞의 사물을 이해하고, Shopping Graph는 상품 후보를 찾고, AP2는 결제 권한을 관리하고, Universal Cart는 장바구니를 이어받습니다.
-
-이렇게 되면 스마트 글래스는 현실 세계에서 시작되는 에이전틱 커머스의 입구가 됩니다.</description><pubDate>Wed, 20 May 2026 06:44:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjQUyLFTK5</guid></item><item><title>3/ 이 방향은 이미 과거 Ray-Ban Meta와 OpenClaw 사례에서 보였습니다.
-
-Ray-Ban Meta 안경에 OpenClaw를 이식...</title><link>https://www.threads.net/@choi.openai/post/DYjQVSxlZzv</link><description>3/ 이 방향은 이미 과거 Ray-Ban Meta와 OpenClaw 사례에서 보였습니다.
-
-Ray-Ban Meta 안경에 OpenClaw를 이식해, 사용자가 바라보는 물건을 AI가 즉시 구매하는 오픈소스 프로젝트가 공개된 적이 있습니다.
-
-당시 핵심은 “웹사이트를 사람이 방문하지 않아도 된다”는 점이었습니다.
-
-사람이 상품명을 검색하고, 사이트에 들어가고, 장바구니에 담고, 결제하는 흐름을 AI 에이전트가 대신 처리할 수 있기 때문입니다.
-
-이번 구글 발표는 그 실험을 훨씬 큰 플랫폼 위로 올리는 느낌입니다.
-
-Ray-Ban Meta + OpenClaw가 데모였다면, Google은 Search, Maps, Wallet, Shopping Graph, Android, Gemini를 한 번에 붙일 수 있습니다.</description><pubDate>Wed, 20 May 2026 06:44:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjQVSxlZzv</guid></item><item><title>구글 검색이 드디어 “답변 엔진” 다음 단계로 넘어갑니다..
-
-이번 Google Search 업데이트는 검색창, 결과 화면, 에이전트, 생성형 ...</title><link>https://www.threads.net/@choi.openai/post/DYiwW_bGpuU</link><description>구글 검색이 드디어 “답변 엔진” 다음 단계로 넘어갑니다..
-
-이번 Google Search 업데이트는 검색창, 결과 화면, 에이전트, 생성형 UI, 상태가 유지되는 미니 앱, 쇼핑 결제까지 한 번에 묶인 발표였습니다.
-
-검색 결과를 보여주는 제품에서, 질문에 맞는 도구를 만들고, 계속 추적하고, 필요하면 구매까지 이어지는 작업 공간으로 바뀌고 있습니다.
-
-구글의 미친 숨은 의도 21가지를 정리했습니다🧵</description><pubDate>Wed, 20 May 2026 02:04:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiwW_bGpuU</guid></item><item><title>1/ Search AI Mode는 월간 10억 사용자 규모까지 올라왔습니다.
-
-이 숫자가 중요한 이유는 구글이 AI 검색을 실험 기능으로만 두고...</title><link>https://www.threads.net/@choi.openai/post/DYiwXYsmu6-</link><description>1/ Search AI Mode는 월간 10억 사용자 규모까지 올라왔습니다.
-
-이 숫자가 중요한 이유는 구글이 AI 검색을 실험 기능으로만 두고 있지 않다는 점입니다.
-
-검색은 이미 전 세계 사람이 매일 여는 기본 화면이고, AI Mode가 10억 명 규모까지 올라오면 Gemini는 별도 앱을 키우지 않아도 검색 습관 위에 바로 올라갈 수 있습니다.
-
-오픈AI나 Perplexity는 사용자가 새 서비스로 들어오게 만들어야 하지만, 구글은 기존 검색창을 바꾸면 됩니다.
-
-이번 발표에서 Search가 크게 느껴진 이유도 이 배포 표면 때문입니다.</description><pubDate>Wed, 20 May 2026 02:04:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiwXYsmu6-</guid></item><item><title>2/ 검색창 자체가 바뀝니다.
-
-이전 검색창은 사용자가 키워드를 입력하는 공간에 가까웠습니다.
-
-이번에 공개된 AI 검색창은 질문이 길어지고 복...</title><link>https://www.threads.net/@choi.openai/post/DYiwYLVGhC0</link><description>2/ 검색창 자체가 바뀝니다.
-
-이전 검색창은 사용자가 키워드를 입력하는 공간에 가까웠습니다.
-
-이번에 공개된 AI 검색창은 질문이 길어지고 복잡해지는 흐름에 맞춰, 사용자가 무엇을 묻고 싶은지 정리하는 단계부터 개입합니다.
-
-이미지, 파일, 링크, 소스를 함께 넣어 질문할 수 있고, 자동완성보다 더 넓은 제안을 제공합니다.
-
-구글은 이 새로운 AI Search 경험을 데스크톱과 모바일에서 전 세계에 제공한다고 설명했습니다.
-
-이건 검색 결과가 좋아지는 문제만이 아닙니다.
-
-사용자가 질문을 만들기 전 단계부터 구글이 의도를 잡기 시작한다는 뜻입니다.</description><pubDate>Wed, 20 May 2026 02:05:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiwYLVGhC0</guid></item><item><title>3/ 이 검색창 변화는 과거 쿼리 팬 아웃과 같이 봐야 합니다.
-
-과거 구글 AI Mode 글에서도 정리했듯, AI Mode는 복잡한 질문을 받...</title><link>https://www.threads.net/@choi.openai/post/DYiwYmYmply</link><description>3/ 이 검색창 변화는 과거 쿼리 팬 아웃과 같이 봐야 합니다.
-
-과거 구글 AI Mode 글에서도 정리했듯, AI Mode는 복잡한 질문을 받으면 관련된 여러 개의 하위 질문으로 쪼개서 답하는 query fan-out을 사용합니다.
-
-사용자는 한 번 묻지만, 검색 시스템 내부에서는 여러 번 조사합니다.
-
-예를 들어 “가족과 이번 주말에 갈 만한 곳”을 묻는다면, AI는 날씨, 이동 시간, 아이 나이, 과거 일정, 식당, 지도, 예약 가능성 같은 하위 질문으로 나눠서 탐색할 수 있습니다.
-
-그래서 AI 검색 시대의 최적화는 단일 키워드 상위노출만으로 끝나기 어렵습니다.
-
-하나의 긴 질문 안에 여러 검색 의도가 들어가고, 콘텐츠는 그 하위 질문들에 걸쳐 계속 근거로 쓰일 수 있어야 합니다.</description><pubDate>Wed, 20 May 2026 02:05:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiwYmYmply</guid></item></channel></rss>
+Gemini가 검색, 업무, 영상, 음악, 코딩을 넘어 과학 연구 워크벤치로 들어가기 시작한 겁니다.</description><pubDate>Wed, 20 May 2026 09:21:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjiWWElS4p</guid></item></channel></rss>
