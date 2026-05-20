@@ -1,78 +1,150 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 19 May 2026 17:33:04 +0000</lastBuildDate><item><title>🚨 속보) 미친.. Gemini 3.1 Pro를 거의 대부분 벤치마크에서 앞선 Gemini 3.5 Flash가 발표됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 20 May 2026 03:34:54 +0000</lastBuildDate><item><title>구글 검색이 드디어 “답변 엔진” 다음 단계로 넘어갑니다..
 
-구글 I/O에서 ...</title><link>https://www.threads.net/@choi.openai/post/DYh0wTmmgVr</link><description>🚨 속보) 미친.. Gemini 3.1 Pro를 거의 대부분 벤치마크에서 앞선 Gemini 3.5 Flash가 발표됐습니다.
+이번 Google Search 업데이트는 검색창, 결과 화면, 에이전트, 생성형 ...</title><link>https://www.threads.net/@choi.openai/post/DYiwW_bGpuU</link><description>구글 검색이 드디어 “답변 엔진” 다음 단계로 넘어갑니다..
 
-구글 I/O에서 새롭게 발표된 Gemini 3.5 Flash는 기존 Gemini 3.1 Pro를 거의 대부분 벤치마크에서 앞섰고, 다른 프론티어 모델 대비 출력 속도는 4배 빠릅니다.
+이번 Google Search 업데이트는 검색창, 결과 화면, 에이전트, 생성형 UI, 상태가 유지되는 미니 앱, 쇼핑 결제까지 한 번에 묶인 발표였습니다.
 
-Gemini 3.5 Flash에 대한 포인트를 정리했습니다🧵</description><pubDate>Tue, 19 May 2026 17:24:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYh0wTmmgVr</guid></item><item><title>1/ 벤치마크 차트부터 보면 Gemini 3.5 Flash는 작업형 영역에서 점수가 크게 올라왔습니다.
+검색 결과를 보여주는 제품에서, 질문에 맞는 도구를 만들고, 계속 추적하고, 필요하면 구매까지 이어지는 작업 공간으로 바뀌고 있습니다.
 
-Finance Agent v2는 금융 ...</title><link>https://www.threads.net/@choi.openai/post/DYh09d5msUL</link><description>1/ 벤치마크 차트부터 보면 Gemini 3.5 Flash는 작업형 영역에서 점수가 크게 올라왔습니다.
+구글의 미친 숨은 의도 21가지를 정리했습니다🧵</description><pubDate>Wed, 20 May 2026 02:04:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiwW_bGpuU</guid></item><item><title>1/ Search AI Mode는 월간 10억 사용자 규모까지 올라왔습니다.
 
-Finance Agent v2는 금융 데이터 분석과 의사결정 능력을 보는 평가인데 57.9%로 비교 모델 중 가장 높았습니다.
+이 숫자가 중요한 이유는 구글이 AI 검색을 실험 기능으로만 두고...</title><link>https://www.threads.net/@choi.openai/post/DYiwXYsmu6-</link><description>1/ Search AI Mode는 월간 10억 사용자 규모까지 올라왔습니다.
 
-MMMU-Pro는 멀티모달 이해와 추론을 보는 평가이고 83.6%, CharXiv Reasoning은 복잡한 차트와 시각 정보를 종합하는 평가인데 84.2%를 기록했습니다.
+이 숫자가 중요한 이유는 구글이 AI 검색을 실험 기능으로만 두고 있지 않다는 점입니다.
 
-Terminal-bench는 터미널 환경에서 에이전틱 코딩을 수행하는 평가이고 GPT-5.5가 78.2%로 더 높습니다.
+검색은 이미 전 세계 사람이 매일 여는 기본 화면이고, AI Mode가 10억 명 규모까지 올라오면 Gemini는 별도 앱을 키우지 않아도 검색 습관 위에 바로 올라갈 수 있습니다.
 
-SWE-Bench Pro는 실제 소프트웨어 엔지니어링 과제에 가깝고 Claude Opus 4.7이 64.3%로 가장 강합니다.
+오픈AI나 Perplexity는 사용자가 새 서비스로 들어오게 만들어야 하지만, 구글은 기존 검색창을 바꾸면 됩니다.
 
-Flash가 크게 보이는 이유는 금융 에이전트, 멀티모달 이해, 차트 추론처럼 실제 제품에서 반복적으로 쓰이는 영역에서 점수가 올라왔기 때문입니다.</description><pubDate>Tue, 19 May 2026 17:25:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYh09d5msUL</guid></item><item><title>2/ Gemini 3.1 Pro와 직접 비교한 평가 차트에서는 코딩, 에이전트, 도구 사용 영역의 상승폭이 보입니다.
+이번 발표에서 Search가 크게 느껴진 이유도 이 배포 표면 때문입니다.</description><pubDate>Wed, 20 May 2026 02:04:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiwXYsmu6-</guid></item><item><title>2/ 검색창 자체가 바뀝니다.
 
-코딩 영역의 Termin...</title><link>https://www.threads.net/@choi.openai/post/DYh0-_EGoOW</link><description>2/ Gemini 3.1 Pro와 직접 비교한 평가 차트에서는 코딩, 에이전트, 도구 사용 영역의 상승폭이 보입니다.
+이전 검색창은 사용자가 키워드를 입력하는 공간에 가까웠습니다.
 
-코딩 영역의 Terminal-Bench 2.1은 Gemini 3.1 Pro 70.3%에서 Gemini 3.5 Flash 76.2%로 올라갔습니다.
+이번에 공개된 AI 검색창은 질문이 길어지고 복...</title><link>https://www.threads.net/@choi.openai/post/DYiwYLVGhC0</link><description>2/ 검색창 자체가 바뀝니다.
 
-실사용 에이전트 영역의 GDPval-AA Elo는 1314에서 1656으로 뛰었고, 대규모 도구 사용 영역의 MCP Atlas는 78.2%에서 83.6%로 올라갔습니다.
+이전 검색창은 사용자가 키워드를 입력하는 공간에 가까웠습니다.
 
-여기서 의미 있는 건 Flash가 코딩, 에이전트, 도구 사용에서 같이 올라왔다는 점입니다.
+이번에 공개된 AI 검색창은 질문이 길어지고 복잡해지는 흐름에 맞춰, 사용자가 무엇을 묻고 싶은지 정리하는 단계부터 개입합니다.
 
-Gemini 앱의 답변 속도에서도 보이겠지만, AI Studio와 Antigravity에서는 더 노골적으로 드러납니다.
+이미지, 파일, 링크, 소스를 함께 넣어 질문할 수 있고, 자동완성보다 더 넓은 제안을 제공합니다.
 
-앱을 만들고, 고치고, 실행하고, 다시 확인하는 반복 작업은 모델이 한 번 말 잘하는 능력보다 도구를 계속 다루는 능력에 더 많이 의존하기 때문입니다.</description><pubDate>Tue, 19 May 2026 17:26:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYh0-_EGoOW</guid></item><item><title>대구글의 시대가 다시 시작되려고 합니다.
+구글은 이 새로운 AI Search 경험을 데스크톱과 모바일에서 전 세계에 제공한다고 설명했습니다.
 
-Google I/O 2026 발표 내용을 실시간으로 정리했습니다🧵</title><link>https://www.threads.net/@choi.openai/post/DYhyEh9AbaC</link><description>대구글의 시대가 다시 시작되려고 합니다.
+이건 검색 결과가 좋아지는 문제만이 아닙니다.
 
-Google I/O 2026 발표 내용을 실시간으로 정리했습니다🧵</description><pubDate>Tue, 19 May 2026 17:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYhyEh9AbaC</guid></item><item><title>1/ 구글 제품 전반의 월간 처리 토큰은 2년 전 9.7조 개, 지난해 480조 개에서 올해 3,200조 개를 넘겼습니다.
+사용자가 질문을 만들기 전 단계부터 구글이 의도를 잡기 시작한다는 뜻입니다.</description><pubDate>Wed, 20 May 2026 02:05:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiwYLVGhC0</guid></item><item><title>3/ 이 검색창 변화는 과거 쿼리 팬 아웃과 같이 봐야 합니다.
 
-매달 850만 명 ...</title><link>https://www.threads.net/@choi.openai/post/DYhy3e0mqnw</link><description>1/ 구글 제품 전반의 월간 처리 토큰은 2년 전 9.7조 개, 지난해 480조 개에서 올해 3,200조 개를 넘겼습니다.
+과거 구글 AI Mode 글에서도 정리했듯, AI Mode는 복잡한 질문을 받...</title><link>https://www.threads.net/@choi.openai/post/DYiwYmYmply</link><description>3/ 이 검색창 변화는 과거 쿼리 팬 아웃과 같이 봐야 합니다.
 
-매달 850만 명 이상의 개발자가 구글 모델을 쓰고 있고, 모델 API는 분당 약 190억 토큰을 처리합니다. 10억 명 이상 제품은 13개, 그중 5개는 30억 명 이상입니다.</description><pubDate>Tue, 19 May 2026 17:07:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYhy3e0mqnw</guid></item><item><title>2/ 제품 숫자도 큽니다.
+과거 구글 AI Mode 글에서도 정리했듯, AI Mode는 복잡한 질문을 받으면 관련된 여러 개의 하위 질문으로 쪼개서 답하는 query fan-out을 사용합니다.
 
-AI Overviews는 월간 25억 명, AI Mode는 출시 1년 만에 월간 10억 명을 넘겼습니다.
+사용자는 한 번 묻지만, 검색 시스템 내부에서는 여러 번 조사합니다.
 
-Gemi...</title><link>https://www.threads.net/@choi.openai/post/DYhy_FuGq5N</link><description>2/ 제품 숫자도 큽니다.
+예를 들어 “가족과 이번 주말에 갈 만한 곳”을 묻는다면, AI는 날씨, 이동 시간, 아이 나이, 과거 일정, 식당, 지도, 예약 가능성 같은 하위 질문으로 나눠서 탐색할 수 있습니다.
 
-AI Overviews는 월간 25억 명, AI Mode는 출시 1년 만에 월간 10억 명을 넘겼습니다.
+그래서 AI 검색 시대의 최적화는 단일 키워드 상위노출만으로 끝나기 어렵습니다.
 
-Gemini 앱은 지난해 I/O 당시 월간 4억 명에서 올해 9억 명을 넘겼고, 일일 요청 수는 7배 이상 증가했습니다.
+하나의 긴 질문 안에 여러 검색 의도가 들어가고, 콘텐츠는 그 하위 질문들에 걸쳐 계속 근거로 쓰일 수 있어야 합니다.</description><pubDate>Wed, 20 May 2026 02:05:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiwYmYmply</guid></item><item><title>와.. Gemini가 밤새 일하는 개인 에이전트로 바뀝니다.
 
-Nano Banana로 생성된 이미지는 500억 장을 넘었습니다.</description><pubDate>Tue, 19 May 2026 17:08:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYhy_FuGq5N</guid></item><item><title>3/ 유튜브와 Docs에도 대화형 AI가 들어갑니다.
+구글이 새롭게 공개한 Gemini Spark는 Gmail, Docs, Sheets...</title><link>https://www.threads.net/@choi.openai/post/DYirBABmryT</link><description>와.. Gemini가 밤새 일하는 개인 에이전트로 바뀝니다.
 
-Ask YouTube는 긴 영상에서 이용자에게 맞는 영상을 보여주고, 필요한 구간으로 바...</title><link>https://www.threads.net/@choi.openai/post/DYhzhV3GjWY</link><description>3/ 유튜브와 Docs에도 대화형 AI가 들어갑니다.
+구글이 새롭게 공개한 Gemini Spark는 Gmail, Docs, Sheets, Slides를 읽고 Google Cloud에서 24시간 작업하는 개인 AI 에이전트입니다.
 
-Ask YouTube는 긴 영상에서 이용자에게 맞는 영상을 보여주고, 필요한 구간으로 바로 이동합니다.
+메일 확인, 문서 작성, 일정 관리, follow-up까지 이어서 처리해주는데요.
 
-Docs Live는 머릿속에 있는 내용을 말로 쏟아내면 Gemini가 문서 작성과 편집을 이어갑니다.
-올여름 구독자 대상 출시이고, 강력한 음성 기능은 Gmail과 Keep에도 들어갑니다.</description><pubDate>Tue, 19 May 2026 17:13:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYhzhV3GjWY</guid></item><item><title>I have arrived at Google I/O 2026
+특히 중요한 건 “AI를 얼마나 똑똑하게 만드느냐”보다 “누가 오래 안정적으로 돌리는 클라우드 에이전트를 운영하느냐” 경쟁으로 넘어가고 있다는 점입니다.
 
-The energy here is already incredible.
+앞으로 지켜봐야할 핵심내용을 정리했습니다🧵</description><pubDate>Wed, 20 May 2026 01:18:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYirBABmryT</guid></item><item><title>1/ Gemini Spark는 24/7로 작동하는 개인 AI 에이전트로 사용자의 디지털 생활을 탐색하고, 사용자의 지시에 따라 대신 행동할 수 ...</title><link>https://www.threads.net/@choi.openai/post/DYimqWuDuQ3</link><description>1/ Gemini Spark는 24/7로 작동하는 개인 AI 에이전트로 사용자의 디지털 생활을 탐색하고, 사용자의 지시에 따라 대신 행동할 수 있습니다.
 
-Keyno...</title><link>https://www.threads.net/@choi.openai/post/DYhsCXMGxr1</link><description>I have arrived at Google I/O 2026
+Gemini 3.5로 구동되고 Antigravity 위에 만들어졌기 때문에, 긴 작업을 백그라운드에서 계속 처리할 수 있는데요.
 
-The energy here is already incredible.
+가장 큰 차이는 Google Cloud의 전용 가상머신에서 돌아가기 때문에 노트북이나 휴대폰을 계속 켜둘 필요가 없습니다.
 
-Keynote soon.
+사용자가 일을 맡기면 기기가 꺼져 있어도 작업이 이어지고, 나중에 다시 들어와 진행 상황을 확인할 수 있습니다.</description><pubDate>Wed, 20 May 2026 01:18:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYimqWuDuQ3</guid></item><item><title>2/ Spark는 Gmail, Docs, Calendar, Slides 같은 구글 도구와 연결됩니다.
 
-Excited for all the AI and Android updates.</description><pubDate>Tue, 19 May 2026 16:07:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYhsCXMGxr1</guid></item><item><title>와… 안드레 카파시가 결국 앤트로픽에 합류했습니다.
+구글이 예시로 든 건 동네 블록 파티 준...</title><link>https://www.threads.net/@choi.openai/post/DYiqLLQDNmA</link><description>2/ Spark는 Gmail, Docs, Calendar, Slides 같은 구글 도구와 연결됩니다.
 
-오픈AI 창립 멤버, Tesla AI 디렉터를 거친 인물이 다시 프론티어 LLM 연구 최전...</title><link>https://www.threads.net/@choi.openai/post/DYhmQ0ZmxKU</link><description>와… 안드레 카파시가 결국 앤트로픽에 합류했습니다.
+구글이 예시로 든 건 동네 블록 파티 준비였습니다.
 
-오픈AI 창립 멤버, Tesla AI 디렉터를 거친 인물이 다시 프론티어 LLM 연구 최전선으로 돌아간 건데요. 직접 “앞으로 몇 년이 LLM 역사에서 가장 formative(형성적인 시기)”라고 표현한 것도 꽤 인상적입니다.
+참석자 RSVP를 모으고, 바운스 하우스 대여 같은 준비 항목을 정리하고, 관련 문서와 메일을 바탕으로 필요한 파일을 만들어주는 식입니다.
 
-최근 앤트로픽은 Claude Code, Managed Agents, MCP, 장기 메모리, 에이전틱 워크플로우까지 굉장히 빠르게 확장 중인데, 여기에 카파시까지 합류하면서 연구 색깔이 더 강해질 가능성이 커 보입니다.
+여기서 중요한 건 Spark가 단일 앱 안에서만 움직이지 않는다는 점입니다.
 
-특히 카파시는 단순 모델 성능보다 “AI를 실제 개발 흐름과 인간 학습 과정에 어떻게 녹일 것인가”를 꾸준히 이야기해왔던 인물인데요.
-Claude의 코딩·교육·에이전트 방향성과도 꽤 잘 맞아떨어지는 느낌입니다.
+메일을 읽고, 문서를 만들고, 시트를 업데이트하고, 슬라이드를 만들고, 일정을 확인하는 과정이 하나의 작업으로 묶입니다.</description><pubDate>Wed, 20 May 2026 01:18:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiqLLQDNmA</guid></item><item><title>3/ 반복 업무는 skill로 저장하고 다시 사용할 수 있습니다.
 
-어떤 연구자와 철학을 중심으로 생태계를 만드느냐 단계로 넘어가는 것 같습니다.</description><pubDate>Tue, 19 May 2026 15:17:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYhmQ0ZmxKU</guid></item></channel></rss>
+Spark에서 중요한 건 사용자가 한 번 가르친 작업 방식을 skill처럼 ...</title><link>https://www.threads.net/@choi.openai/post/DYiqMmIDRhv</link><description>3/ 반복 업무는 skill로 저장하고 다시 사용할 수 있습니다.
+
+Spark에서 중요한 건 사용자가 한 번 가르친 작업 방식을 skill처럼 재사용할 수 있다는 점입니다.
+
+예를 들어 /Ghostwriter처럼 메일 초안을 만드는 skill을 호출하면, Spark가 Docs, email, chat에 흩어진 정보를 모아 바로 쓸 수 있는 초안으로 정리합니다.
+
+이 구조가 커지면 사용자는 매번 긴 프롬프트를 쓰는 대신, 자기 업무 방식에 맞는 skill을 만들어두고 반복 호출할 수 있습니다.</description><pubDate>Wed, 20 May 2026 01:18:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiqMmIDRhv</guid></item><item><title>구글 발표로 인해 수천개의 스타트업이 사라졌습니다..
+
+이번에 업데이트된 "Flow"는 영상 생성에서 장면 수정, 카메라 앵글, 자막, 스타일 ...</title><link>https://www.threads.net/@choi.openai/post/DYig2BYj_e8</link><description>구글 발표로 인해 수천개의 스타트업이 사라졌습니다..
+
+이번에 업데이트된 "Flow"는 영상 생성에서 장면 수정, 카메라 앵글, 자막, 스타일 변환, 캐릭터 유지까지 전부 한 공간에서 처리할 수 있습니다.
+
+그동안 각각 따로 존재하던 AI 영상 SaaS 기능들이 하나로 묶이기 시작한 겁니다.
+
+특히 Gemini Omni와 에이전트 조합이 꽤 충격적이었는데요.
+
+핵심 변화 9가지를 정리했습니다🧵</description><pubDate>Tue, 19 May 2026 23:49:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYig2BYj_e8</guid></item><item><title>1/ Google Flow는 구글의 AI 영상 제작 스튜디오입니다.
+
+작년 I/O에서 처음 공개됐고, 이번에는 Gemini Omni와 에이전트,...</title><link>https://www.threads.net/@choi.openai/post/DYiY4ZFD7AE</link><description>1/ Google Flow는 구글의 AI 영상 제작 스튜디오입니다.
+
+작년 I/O에서 처음 공개됐고, 이번에는 Gemini Omni와 에이전트, 커스텀 툴이 들어오면서 훨씬 더 제작 도구에 가까워졌습니다.
+
+이번에 새롭게 발표된 Google Flow는 텍스트 프롬프트로 영상을 한 번 뽑는 흐름에서, 레퍼런스를 넣고, 장면을 바꾸고, 여러 버전을 만들고, 다시 편집하고, 필요한 도구를 직접 만들어 쓰는 구조로 변화되었습니다.</description><pubDate>Tue, 19 May 2026 23:49:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiY4ZFD7AE</guid></item><item><title>2/ 가장 중요한 업데이트는 Gemini Omni의 통합이었습니다.
+
+Omni는 원본 영상의 움직임과 연기를 유지한 채 환경을 바꿀 수 있어 사...</title><link>https://www.threads.net/@choi.openai/post/DYidmO2DgUf</link><description>2/ 가장 중요한 업데이트는 Gemini Omni의 통합이었습니다.
+
+Omni는 원본 영상의 움직임과 연기를 유지한 채 환경을 바꿀 수 있어 사람이 걷는 영상이 있으면, 그 사람의 존재감과 페이스는 그대로 두고 배경, 시각 효과, 주변 요소를 바꿀 수 있습니다.
+
+심지어 장면 안에 새 캐릭터를 추가해도 원래 장면의 나머지 요소는 유지되는데요.
+
+Omni는 제품 광고, 숏폼 티저, 뮤직비디오 클립에서 촬영본 하나를 여러 콘셉트로 바꿔볼 수 있기 때문에 영상 편집 쪽에서 큰 활용이 예상됩니다.
+
+원래라면 다시 찍거나, 합성하고, 편집하고, 검수해야 했던 작업이 이제 구글 Flow 안으로 들어옵니다.</description><pubDate>Tue, 19 May 2026 23:49:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYidmO2DgUf</guid></item><item><title>3/ Flow Agent도 들어왔습니다.
+
+이전 Flow가 하나의 프롬프트를 실행하는 방식에 가까웠다면, 이제는 에이전트가 작업 공간을 보고 여...</title><link>https://www.threads.net/@choi.openai/post/DYiaVMOjRm7</link><description>3/ Flow Agent도 들어왔습니다.
+
+이전 Flow가 하나의 프롬프트를 실행하는 방식에 가까웠다면, 이제는 에이전트가 작업 공간을 보고 여러 작업을 동시에 처리할 수 있게 되었습니다.
+
+단일 이미지를 넣고 장면에 맞는 카메라 앵글을 찾아달라고 하면, Flow Agent가 이미지를 분석하고 16개의 영상 후보를 만듭니다.
+
+영상 제작자는 처음부터 정답 컷을 알기 어렵기에 여러 앵글을 동시에 받아보고, 그중에서 광고 컷, 도입부 컷, 전환 컷, 썸네일 후보를 고르는 시간이 크게 줄어들 것으로 보입니다.</description><pubDate>Tue, 19 May 2026 23:49:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiaVMOjRm7</guid></item><item><title>🚨 Google Antigravity 2.0이 공개되었습니다.
+
+오픈AI Codex, Claude Code에 이어 구글의 "Antigravity...</title><link>https://www.threads.net/@choi.openai/post/DYibQwVj3rM</link><description>🚨 Google Antigravity 2.0이 공개되었습니다.
+
+오픈AI Codex, Claude Code에 이어 구글의 "Antigravity 2.0"까지 나오면서 개발 도구들이 비슷한 방향으로 수렴하기 시작했습니다.
+
+앞으로 코드 자동완성보다 AI를 어떻게 운영하고 검증하느냐가 중요해지고 있습니다.
+
+알아야하는 변동사항을 정리했습니다🧵</description><pubDate>Tue, 19 May 2026 23:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYibQwVj3rM</guid></item><item><title>1/ Antigravity 2.0은 구글의 개발 플랫폼입니다.
+
+이번 발표에서 구글은 Manager Surface, 에디터, 터미널, 브라우저,...</title><link>https://www.threads.net/@choi.openai/post/DYibRZxDzHE</link><description>1/ Antigravity 2.0은 구글의 개발 플랫폼입니다.
+
+이번 발표에서 구글은 Manager Surface, 에디터, 터미널, 브라우저, 실행 로그와 검증 기록이 연결되는 개발 환경을 설명했습니다.
+
+여러 에이전트에게 작업을 나누고, 진행 상황을 보고, 결과를 검토하는 구조입니다.
+
+Antigravity 1.0이 에디터, 터미널, 브라우저, 에이전트 작업 공간을 묶은 AI IDE에 가까웠다면, 2.0은 그 안에 있던 에이전트 시스템을 밖으로 꺼내 제품의 중심에 둔 느낌입니다.
+
+Manager Surface를 통해 여러 에이전트에게 작업을 분배하고, 진행 상황을 모니터링하며, 결과를 검토하는 구조로 작동합니다.
+
+이번 업데이트는 통합 개발 환경(IDE)에서 다수의 'AI 작업자들을 지휘하고 운영하는 관리 화면'으로 성격이 완전히 바뀌는 지점을 보여줍니다.</description><pubDate>Tue, 19 May 2026 23:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYibRZxDzHE</guid></item><item><title>2/ 기능적인 측면에서는 에디터, 터미널, 브라우저의 유기적인 연결이 돋보입니다.
+
+에이전트는 코드를 수정하는 데 그치지 않고, 앱을 실행해 브...</title><link>https://www.threads.net/@choi.openai/post/DYiXTFal9OC</link><description>2/ 기능적인 측면에서는 에디터, 터미널, 브라우저의 유기적인 연결이 돋보입니다.
+
+에이전트는 코드를 수정하는 데 그치지 않고, 앱을 실행해 브라우저에서 실제 동작을 스스로 확인합니다.
+
+이 과정에서 스크린샷과 브라우저 기록, 실행 로그를 통해 현업 개발에서 "이게 정말 제대로 돌아가는가"를 검증하는 데 훨씬 많은 시간이 소모된다는 점에 중심을 둔 것 같습니다.
+
+구글이 검증 기록의 투명성을 유독 강조하는 것도, AI가 만든 결과물을 사람이 확실하게 검토하고 신뢰할 수 있어야만 실제 팀 단위 개발 환경에 도입할 수 있기 때문입니다.</description><pubDate>Tue, 19 May 2026 23:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiXTFal9OC</guid></item><item><title>3/ AI Studio와의 매끄러운 연동 역시 빼놓을 수 없는 핵심 포인트입니다.
+
+AI Studio에서 생성한 프로토타입을 실제 서비스 코드로...</title><link>https://www.threads.net/@choi.openai/post/DYiXQouj_gA</link><description>3/ AI Studio와의 매끄러운 연동 역시 빼놓을 수 없는 핵심 포인트입니다.
+
+AI Studio에서 생성한 프로토타입을 실제 서비스 코드로 확장하고, 브라우저 검증부터 배포까지 이어지는 개발 워크플로우를 담당합니다.
+
+구글은 Gemini 모델부터 시작해 AI Studio, Cloud 서버, 그리고 Android 앱 개발 생태계까지, 제품이 태어나고 서비스로 완성되는 모든 궤적을 단일 회사 플랫폼 안에서 빈틈없이 묶어낼 수 있다는 점이 압도적인 경쟁력으로 작용하고 있습니다.</description><pubDate>Tue, 19 May 2026 23:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiXQouj_gA</guid></item></channel></rss>
