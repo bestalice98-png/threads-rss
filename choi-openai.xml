@@ -1,5 +1,128 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 20 May 2026 03:34:54 +0000</lastBuildDate><item><title>구글 검색이 드디어 “답변 엔진” 다음 단계로 넘어갑니다..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 20 May 2026 10:50:17 +0000</lastBuildDate><item><title>이 말을 직접 들을 줄이야..
+
+구글 딥마인드 CEO 데미스 하사비스가 이번 I/O 마지막에서 “우리는 특이점의 초입에 서 있다”고 말합니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DYjiUWGFWmm</link><description>이 말을 직접 들을 줄이야..
+
+구글 딥마인드 CEO 데미스 하사비스가 이번 I/O 마지막에서 “우리는 특이점의 초입에 서 있다”고 말합니다.
+
+구글이 꿈꾸는 미래, 데미스 하사비스의 마무리 연설을 정리했습니다 🧵</description><pubDate>Wed, 20 May 2026 09:21:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjiUWGFWmm</guid></item><item><title>1/ 데미스는 AGI를 낙관만으로 말하지 않았습니다.
+
+그는 지금이 엄청난 가능성의 순간이지만, 동시에 거대한 책임의 순간이라고 설명했습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DYjVxXODifZ</link><description>1/ 데미스는 AGI를 낙관만으로 말하지 않았습니다.
+
+그는 지금이 엄청난 가능성의 순간이지만, 동시에 거대한 책임의 순간이라고 설명했습니다.
+
+특히 에이전트 시스템과 최종적으로 AGI 자체의 안전을 보장하기 위해 모든 도구를 써야 한다고 했습니다.
+
+이 발언이 중요한 이유는 이번 I/O에서 에이전트가 거의 모든 제품에 들어갔기 때문입니다.
+
+Search Agents, Gemini Spark, Antigravity, Universal Cart, Android XR까지 모두 사용자를 대신해 작업하고, 앱을 열고, 결제 직전까지 가고, 코드를 실행하는 구조입니다.
+
+AGI 안전은 먼 미래 철학 문제가 아니라, 이미 제품 안에서 권한과 로그, 보안, 승인 구조로 내려오고 있습니다.</description><pubDate>Wed, 20 May 2026 09:21:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjVxXODifZ</guid></item><item><title>2/ 그래서 바로 이어진 주제가 사이버보안이었습니다.
+
+데미스는 최근 많은 관심을 받는 위험 영역으로 사이버보안을 언급했고, 구글은 CodeMe...</title><link>https://www.threads.net/@choi.openai/post/DYjVxu8gIfo</link><description>2/ 그래서 바로 이어진 주제가 사이버보안이었습니다.
+
+데미스는 최근 많은 관심을 받는 위험 영역으로 사이버보안을 언급했고, 구글은 CodeMender를 소개했습니다.
+
+CodeMender는 중요한 소프트웨어 취약점을 자동으로 찾고 고치는 코드 보안 에이전트입니다.
+
+오늘은 선별된 전문가 그룹에게 CodeMender API 테스트를 열고, 이후 더 넓게 출시하겠다고 했습니다.
+
+Antigravity가 개발 생산성을 높이는 쪽이라면, CodeMender는 AI가 만든 코드와 인간이 만든 코드 모두를 지속적으로 점검하고 고치는 쪽입니다.
+
+앞으로 에이전트가 코드를 더 많이 쓰게 될수록, 보안 에이전트도 같이 커질 수밖에 없습니다.</description><pubDate>Wed, 20 May 2026 09:21:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjVxu8gIfo</guid></item><item><title>3/ Gemini for Science는 이번 발표에서 가장 중요하지만 덜 자극적으로 보이는 발표였습니다.
+
+구글은 Gemini for Scie...</title><link>https://www.threads.net/@choi.openai/post/DYjiWWElS4p</link><description>3/ Gemini for Science는 이번 발표에서 가장 중요하지만 덜 자극적으로 보이는 발표였습니다.
+
+구글은 Gemini for Science를 통해 연구를 가속화하는 여러 AI 도구를 묶었습니다.
+
+새 논문을 계속 따라잡고, 연구 목표를 실행 가능한 코드로 바꾸고, 새로운 가설을 생성하는 흐름입니다.
+
+과학자에게 중요한 건 질문 하나에 답하는 AI가 아니라, 매일 반복되는 연구 업무를 줄이고 다음 실험 방향을 잡아주는 도구입니다.
+
+Gemini가 검색, 업무, 영상, 음악, 코딩을 넘어 과학 연구 워크벤치로 들어가기 시작한 겁니다.</description><pubDate>Wed, 20 May 2026 09:21:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjiWWElS4p</guid></item><item><title>AI가 답변만 잘한다고 끝나는 시대는 끝났습니다.
+
+구글 I/O에서 발표된 새로운 Gemini 앱은 아침 브리핑을 만들고, 메일과 캘린더를 읽고...</title><link>https://www.threads.net/@choi.openai/post/DYjXOiDleYw</link><description>AI가 답변만 잘한다고 끝나는 시대는 끝났습니다.
+
+구글 I/O에서 발표된 새로운 Gemini 앱은 아침 브리핑을 만들고, 메일과 캘린더를 읽고, 영상까지 편집하기 시작했습니다.
+
+특히 Omni와 Daily Brief가 들어오면서 AI 앱의 사용 방식 자체가 달라지고 있습니다.
+
+새로운 Gemini 앱의 핵심 변화내용을 정리했습니다🧵</description><pubDate>Wed, 20 May 2026 07:44:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjXOiDleYw</guid></item><item><title>1/ Gemini 앱은 월간 9억 명 이상이 쓰는 제품이 됐습니다.
+
+Gemini 앱은 이제 230개 이상 국가와 70개 이상 언어를 지원하고 ...</title><link>https://www.threads.net/@choi.openai/post/DYjXPEblWx0</link><description>1/ Gemini 앱은 월간 9억 명 이상이 쓰는 제품이 됐습니다.
+
+Gemini 앱은 이제 230개 이상 국가와 70개 이상 언어를 지원하고 있습니다.
+작년만 해도 Gemini 앱은 ChatGPT를 따라가는 별도 앱처럼 보였는데, 이제는 Google Search, Workspace, Android, 유튜브와 이어지는 개인 AI 앱의 중심으로 바뀌고 있습니다.
+
+이제는 Gemini 앱 하나에서 이미지, 영상, 음악을 만들고, 메일과 캘린더를 읽고, 아침 브리핑을 만들고, Live로 바로 대화하고, Mac 파일까지 처리하는 쪽으로 앱의 범위가 넓어졌습니다.</description><pubDate>Wed, 20 May 2026 07:44:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjXPEblWx0</guid></item><item><title>2/ 가장 먼저 보이는 변화는 디자인입니다.
+
+구글은 Gemini 앱을 처음부터 다시 디자인했고, 새 디자인 언어를 Neural Expressi...</title><link>https://www.threads.net/@choi.openai/post/DYjRxeJm3Wd</link><description>2/ 가장 먼저 보이는 변화는 디자인입니다.
+
+구글은 Gemini 앱을 처음부터 다시 디자인했고, 새 디자인 언어를 Neural Expressive라고 소개했습니다.
+
+앱을 열었을 때 더 부드러운 애니메이션, 더 강한 색감, 새 타이포그래피, 햅틱 피드백이 들어갑니다.
+
+이전에는 긴 텍스트 답변을 읽는 느낌이 강했다면, 새 Gemini 앱은 답변을 실시간으로 화면에 배치합니다.
+
+질문에 따라 이미지, 타임라인, 표, 영상, 인터랙티브 화면이 섞여 나오는 방식입니다.</description><pubDate>Wed, 20 May 2026 07:45:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjRxeJm3Wd</guid></item><item><title>3/ Gemini 답변은 이제 텍스트 벽에서 벗어납니다.
+
+예를 들어 여행 계획을 물으면 일정표와 지도형 정보가 더 자연스럽게 나오고, 역사나 ...</title><link>https://www.threads.net/@choi.openai/post/DYjR1pWFFC8</link><description>3/ Gemini 답변은 이제 텍스트 벽에서 벗어납니다.
+
+예를 들어 여행 계획을 물으면 일정표와 지도형 정보가 더 자연스럽게 나오고, 역사나 과학을 물으면 타임라인이나 이미지가 같이 배치될 수 있습니다.
+
+발표에서는 스크롤하면서 Gemini가 직접 생성한 인터랙티브 이미지가 보이고, 사용자가 그 안으로 들어가 더 자세히 살펴보는 장면도 나왔습니다.
+
+검색에서 보여준 Generative UI가 Gemini 앱 안으로도 들어오는 느낌입니다.
+
+사용자가 긴 답변을 읽고 정리하는 게 아니라, Gemini가 내용을 화면으로 먼저 정리해주는 방향입니다.</description><pubDate>Wed, 20 May 2026 07:45:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjR1pWFFC8</guid></item><item><title>구글 화제의 스마트 글래스 직접 착용해봤습니다..
+
+이번 구글 I/O 현장에 방문하면서 개인적으로 가장 기대됐던 건 Android XR 글래스였...</title><link>https://www.threads.net/@choi.openai/post/DYjQTUhFV6m</link><description>구글 화제의 스마트 글래스 직접 착용해봤습니다..
+
+이번 구글 I/O 현장에 방문하면서 개인적으로 가장 기대됐던 건 Android XR 글래스였는데요.
+
+폰 다음 화면이 드디어 얼굴 위로 올라오는 순간을 직접 확인하고 싶었습니다.
+
+이번 발표에서는 구글, 삼성, 퀄컴을 중심으로 Android XR 생태계가 정리됐고, 젠틀 몬스터와 Warby Parker는 디자인 파트너로 등장했습니다.
+
+Android XR과 AI 글래스 발표/체험 포인트 정리했습니다🧵</description><pubDate>Wed, 20 May 2026 06:44:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjQTUhFV6m</guid></item><item><title>1/ Android XR 을 실제 착용했던 경험에서 제일 좋았던 건 음악, 보이스, 네비게이션이었습니다.
+
+메타 스마트 글래스도 착용해봤지만, ...</title><link>https://www.threads.net/@choi.openai/post/DYjQTxklX3G</link><description>1/ Android XR 을 실제 착용했던 경험에서 제일 좋았던 건 음악, 보이스, 네비게이션이었습니다.
+
+메타 스마트 글래스도 착용해봤지만, 음악 품질이나 보이스 인식 그리고 네비게이션 경험은 정말 좋았던 것 같습니다.
+
+실제 무대 데모에서는 Gemini가 지난주 친구를 만난 장소를 기억해 길 안내를 잡고, 가는 길에 Coupa Cafe를 경유해 DoorDash로 콜드브루 주문까지 준비했습니다.
+
+메시지를 요약하고, 가족 저녁 일정을 캘린더에 넣는 장면도 나왔습니다.
+
+폰을 꺼내고 앱을 열고 검색하는 과정이 줄어들고, 눈앞의 장면과 음성 질문이 바로 이어집니다.
+
+스마트 글래스가 기대되는 이유는 새 화면이 생긴다는 점보다, 이미 하던 행동이 훨씬 짧아진다는 점에 있습니다.</description><pubDate>Wed, 20 May 2026 06:44:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjQTxklX3G</guid></item><item><title>2/ 더 크게 보면 이건 Search와 Commerce까지 연결되는 발표입니다.
+
+이번 Search 발표에서 구글은 검색창, 생성형 UI, 정보...</title><link>https://www.threads.net/@choi.openai/post/DYjQUyLFTK5</link><description>2/ 더 크게 보면 이건 Search와 Commerce까지 연결되는 발표입니다.
+
+이번 Search 발표에서 구글은 검색창, 생성형 UI, 정보 에이전트, 쇼핑, UCP, AP2, Universal Cart를 한 흐름으로 묶었습니다.
+
+스마트 글래스는 여기에 들어갈 수 있는 가장 자연스러운 입력 장치입니다.
+
+사용자가 키워드를 입력하는 대신, 눈앞의 물건을 보고 “이거 뭐야?”, “비슷한 제품 찾아줘”, “내 사이즈로 주문해줘”라고 말할 수 있습니다.
+
+검색은 눈앞의 사물을 이해하고, Shopping Graph는 상품 후보를 찾고, AP2는 결제 권한을 관리하고, Universal Cart는 장바구니를 이어받습니다.
+
+이렇게 되면 스마트 글래스는 현실 세계에서 시작되는 에이전틱 커머스의 입구가 됩니다.</description><pubDate>Wed, 20 May 2026 06:44:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjQUyLFTK5</guid></item><item><title>3/ 이 방향은 이미 과거 Ray-Ban Meta와 OpenClaw 사례에서 보였습니다.
+
+Ray-Ban Meta 안경에 OpenClaw를 이식...</title><link>https://www.threads.net/@choi.openai/post/DYjQVSxlZzv</link><description>3/ 이 방향은 이미 과거 Ray-Ban Meta와 OpenClaw 사례에서 보였습니다.
+
+Ray-Ban Meta 안경에 OpenClaw를 이식해, 사용자가 바라보는 물건을 AI가 즉시 구매하는 오픈소스 프로젝트가 공개된 적이 있습니다.
+
+당시 핵심은 “웹사이트를 사람이 방문하지 않아도 된다”는 점이었습니다.
+
+사람이 상품명을 검색하고, 사이트에 들어가고, 장바구니에 담고, 결제하는 흐름을 AI 에이전트가 대신 처리할 수 있기 때문입니다.
+
+이번 구글 발표는 그 실험을 훨씬 큰 플랫폼 위로 올리는 느낌입니다.
+
+Ray-Ban Meta + OpenClaw가 데모였다면, Google은 Search, Maps, Wallet, Shopping Graph, Android, Gemini를 한 번에 붙일 수 있습니다.</description><pubDate>Wed, 20 May 2026 06:44:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjQVSxlZzv</guid></item><item><title>구글 검색이 드디어 “답변 엔진” 다음 단계로 넘어갑니다..
 
 이번 Google Search 업데이트는 검색창, 결과 화면, 에이전트, 생성형 ...</title><link>https://www.threads.net/@choi.openai/post/DYiwW_bGpuU</link><description>구글 검색이 드디어 “답변 엔진” 다음 단계로 넘어갑니다..
 
@@ -45,106 +168,4 @@
 
 그래서 AI 검색 시대의 최적화는 단일 키워드 상위노출만으로 끝나기 어렵습니다.
 
-하나의 긴 질문 안에 여러 검색 의도가 들어가고, 콘텐츠는 그 하위 질문들에 걸쳐 계속 근거로 쓰일 수 있어야 합니다.</description><pubDate>Wed, 20 May 2026 02:05:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiwYmYmply</guid></item><item><title>와.. Gemini가 밤새 일하는 개인 에이전트로 바뀝니다.
-
-구글이 새롭게 공개한 Gemini Spark는 Gmail, Docs, Sheets...</title><link>https://www.threads.net/@choi.openai/post/DYirBABmryT</link><description>와.. Gemini가 밤새 일하는 개인 에이전트로 바뀝니다.
-
-구글이 새롭게 공개한 Gemini Spark는 Gmail, Docs, Sheets, Slides를 읽고 Google Cloud에서 24시간 작업하는 개인 AI 에이전트입니다.
-
-메일 확인, 문서 작성, 일정 관리, follow-up까지 이어서 처리해주는데요.
-
-특히 중요한 건 “AI를 얼마나 똑똑하게 만드느냐”보다 “누가 오래 안정적으로 돌리는 클라우드 에이전트를 운영하느냐” 경쟁으로 넘어가고 있다는 점입니다.
-
-앞으로 지켜봐야할 핵심내용을 정리했습니다🧵</description><pubDate>Wed, 20 May 2026 01:18:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYirBABmryT</guid></item><item><title>1/ Gemini Spark는 24/7로 작동하는 개인 AI 에이전트로 사용자의 디지털 생활을 탐색하고, 사용자의 지시에 따라 대신 행동할 수 ...</title><link>https://www.threads.net/@choi.openai/post/DYimqWuDuQ3</link><description>1/ Gemini Spark는 24/7로 작동하는 개인 AI 에이전트로 사용자의 디지털 생활을 탐색하고, 사용자의 지시에 따라 대신 행동할 수 있습니다.
-
-Gemini 3.5로 구동되고 Antigravity 위에 만들어졌기 때문에, 긴 작업을 백그라운드에서 계속 처리할 수 있는데요.
-
-가장 큰 차이는 Google Cloud의 전용 가상머신에서 돌아가기 때문에 노트북이나 휴대폰을 계속 켜둘 필요가 없습니다.
-
-사용자가 일을 맡기면 기기가 꺼져 있어도 작업이 이어지고, 나중에 다시 들어와 진행 상황을 확인할 수 있습니다.</description><pubDate>Wed, 20 May 2026 01:18:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYimqWuDuQ3</guid></item><item><title>2/ Spark는 Gmail, Docs, Calendar, Slides 같은 구글 도구와 연결됩니다.
-
-구글이 예시로 든 건 동네 블록 파티 준...</title><link>https://www.threads.net/@choi.openai/post/DYiqLLQDNmA</link><description>2/ Spark는 Gmail, Docs, Calendar, Slides 같은 구글 도구와 연결됩니다.
-
-구글이 예시로 든 건 동네 블록 파티 준비였습니다.
-
-참석자 RSVP를 모으고, 바운스 하우스 대여 같은 준비 항목을 정리하고, 관련 문서와 메일을 바탕으로 필요한 파일을 만들어주는 식입니다.
-
-여기서 중요한 건 Spark가 단일 앱 안에서만 움직이지 않는다는 점입니다.
-
-메일을 읽고, 문서를 만들고, 시트를 업데이트하고, 슬라이드를 만들고, 일정을 확인하는 과정이 하나의 작업으로 묶입니다.</description><pubDate>Wed, 20 May 2026 01:18:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiqLLQDNmA</guid></item><item><title>3/ 반복 업무는 skill로 저장하고 다시 사용할 수 있습니다.
-
-Spark에서 중요한 건 사용자가 한 번 가르친 작업 방식을 skill처럼 ...</title><link>https://www.threads.net/@choi.openai/post/DYiqMmIDRhv</link><description>3/ 반복 업무는 skill로 저장하고 다시 사용할 수 있습니다.
-
-Spark에서 중요한 건 사용자가 한 번 가르친 작업 방식을 skill처럼 재사용할 수 있다는 점입니다.
-
-예를 들어 /Ghostwriter처럼 메일 초안을 만드는 skill을 호출하면, Spark가 Docs, email, chat에 흩어진 정보를 모아 바로 쓸 수 있는 초안으로 정리합니다.
-
-이 구조가 커지면 사용자는 매번 긴 프롬프트를 쓰는 대신, 자기 업무 방식에 맞는 skill을 만들어두고 반복 호출할 수 있습니다.</description><pubDate>Wed, 20 May 2026 01:18:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiqMmIDRhv</guid></item><item><title>구글 발표로 인해 수천개의 스타트업이 사라졌습니다..
-
-이번에 업데이트된 "Flow"는 영상 생성에서 장면 수정, 카메라 앵글, 자막, 스타일 ...</title><link>https://www.threads.net/@choi.openai/post/DYig2BYj_e8</link><description>구글 발표로 인해 수천개의 스타트업이 사라졌습니다..
-
-이번에 업데이트된 "Flow"는 영상 생성에서 장면 수정, 카메라 앵글, 자막, 스타일 변환, 캐릭터 유지까지 전부 한 공간에서 처리할 수 있습니다.
-
-그동안 각각 따로 존재하던 AI 영상 SaaS 기능들이 하나로 묶이기 시작한 겁니다.
-
-특히 Gemini Omni와 에이전트 조합이 꽤 충격적이었는데요.
-
-핵심 변화 9가지를 정리했습니다🧵</description><pubDate>Tue, 19 May 2026 23:49:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYig2BYj_e8</guid></item><item><title>1/ Google Flow는 구글의 AI 영상 제작 스튜디오입니다.
-
-작년 I/O에서 처음 공개됐고, 이번에는 Gemini Omni와 에이전트,...</title><link>https://www.threads.net/@choi.openai/post/DYiY4ZFD7AE</link><description>1/ Google Flow는 구글의 AI 영상 제작 스튜디오입니다.
-
-작년 I/O에서 처음 공개됐고, 이번에는 Gemini Omni와 에이전트, 커스텀 툴이 들어오면서 훨씬 더 제작 도구에 가까워졌습니다.
-
-이번에 새롭게 발표된 Google Flow는 텍스트 프롬프트로 영상을 한 번 뽑는 흐름에서, 레퍼런스를 넣고, 장면을 바꾸고, 여러 버전을 만들고, 다시 편집하고, 필요한 도구를 직접 만들어 쓰는 구조로 변화되었습니다.</description><pubDate>Tue, 19 May 2026 23:49:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiY4ZFD7AE</guid></item><item><title>2/ 가장 중요한 업데이트는 Gemini Omni의 통합이었습니다.
-
-Omni는 원본 영상의 움직임과 연기를 유지한 채 환경을 바꿀 수 있어 사...</title><link>https://www.threads.net/@choi.openai/post/DYidmO2DgUf</link><description>2/ 가장 중요한 업데이트는 Gemini Omni의 통합이었습니다.
-
-Omni는 원본 영상의 움직임과 연기를 유지한 채 환경을 바꿀 수 있어 사람이 걷는 영상이 있으면, 그 사람의 존재감과 페이스는 그대로 두고 배경, 시각 효과, 주변 요소를 바꿀 수 있습니다.
-
-심지어 장면 안에 새 캐릭터를 추가해도 원래 장면의 나머지 요소는 유지되는데요.
-
-Omni는 제품 광고, 숏폼 티저, 뮤직비디오 클립에서 촬영본 하나를 여러 콘셉트로 바꿔볼 수 있기 때문에 영상 편집 쪽에서 큰 활용이 예상됩니다.
-
-원래라면 다시 찍거나, 합성하고, 편집하고, 검수해야 했던 작업이 이제 구글 Flow 안으로 들어옵니다.</description><pubDate>Tue, 19 May 2026 23:49:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYidmO2DgUf</guid></item><item><title>3/ Flow Agent도 들어왔습니다.
-
-이전 Flow가 하나의 프롬프트를 실행하는 방식에 가까웠다면, 이제는 에이전트가 작업 공간을 보고 여...</title><link>https://www.threads.net/@choi.openai/post/DYiaVMOjRm7</link><description>3/ Flow Agent도 들어왔습니다.
-
-이전 Flow가 하나의 프롬프트를 실행하는 방식에 가까웠다면, 이제는 에이전트가 작업 공간을 보고 여러 작업을 동시에 처리할 수 있게 되었습니다.
-
-단일 이미지를 넣고 장면에 맞는 카메라 앵글을 찾아달라고 하면, Flow Agent가 이미지를 분석하고 16개의 영상 후보를 만듭니다.
-
-영상 제작자는 처음부터 정답 컷을 알기 어렵기에 여러 앵글을 동시에 받아보고, 그중에서 광고 컷, 도입부 컷, 전환 컷, 썸네일 후보를 고르는 시간이 크게 줄어들 것으로 보입니다.</description><pubDate>Tue, 19 May 2026 23:49:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiaVMOjRm7</guid></item><item><title>🚨 Google Antigravity 2.0이 공개되었습니다.
-
-오픈AI Codex, Claude Code에 이어 구글의 "Antigravity...</title><link>https://www.threads.net/@choi.openai/post/DYibQwVj3rM</link><description>🚨 Google Antigravity 2.0이 공개되었습니다.
-
-오픈AI Codex, Claude Code에 이어 구글의 "Antigravity 2.0"까지 나오면서 개발 도구들이 비슷한 방향으로 수렴하기 시작했습니다.
-
-앞으로 코드 자동완성보다 AI를 어떻게 운영하고 검증하느냐가 중요해지고 있습니다.
-
-알아야하는 변동사항을 정리했습니다🧵</description><pubDate>Tue, 19 May 2026 23:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYibQwVj3rM</guid></item><item><title>1/ Antigravity 2.0은 구글의 개발 플랫폼입니다.
-
-이번 발표에서 구글은 Manager Surface, 에디터, 터미널, 브라우저,...</title><link>https://www.threads.net/@choi.openai/post/DYibRZxDzHE</link><description>1/ Antigravity 2.0은 구글의 개발 플랫폼입니다.
-
-이번 발표에서 구글은 Manager Surface, 에디터, 터미널, 브라우저, 실행 로그와 검증 기록이 연결되는 개발 환경을 설명했습니다.
-
-여러 에이전트에게 작업을 나누고, 진행 상황을 보고, 결과를 검토하는 구조입니다.
-
-Antigravity 1.0이 에디터, 터미널, 브라우저, 에이전트 작업 공간을 묶은 AI IDE에 가까웠다면, 2.0은 그 안에 있던 에이전트 시스템을 밖으로 꺼내 제품의 중심에 둔 느낌입니다.
-
-Manager Surface를 통해 여러 에이전트에게 작업을 분배하고, 진행 상황을 모니터링하며, 결과를 검토하는 구조로 작동합니다.
-
-이번 업데이트는 통합 개발 환경(IDE)에서 다수의 'AI 작업자들을 지휘하고 운영하는 관리 화면'으로 성격이 완전히 바뀌는 지점을 보여줍니다.</description><pubDate>Tue, 19 May 2026 23:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYibRZxDzHE</guid></item><item><title>2/ 기능적인 측면에서는 에디터, 터미널, 브라우저의 유기적인 연결이 돋보입니다.
-
-에이전트는 코드를 수정하는 데 그치지 않고, 앱을 실행해 브...</title><link>https://www.threads.net/@choi.openai/post/DYiXTFal9OC</link><description>2/ 기능적인 측면에서는 에디터, 터미널, 브라우저의 유기적인 연결이 돋보입니다.
-
-에이전트는 코드를 수정하는 데 그치지 않고, 앱을 실행해 브라우저에서 실제 동작을 스스로 확인합니다.
-
-이 과정에서 스크린샷과 브라우저 기록, 실행 로그를 통해 현업 개발에서 "이게 정말 제대로 돌아가는가"를 검증하는 데 훨씬 많은 시간이 소모된다는 점에 중심을 둔 것 같습니다.
-
-구글이 검증 기록의 투명성을 유독 강조하는 것도, AI가 만든 결과물을 사람이 확실하게 검토하고 신뢰할 수 있어야만 실제 팀 단위 개발 환경에 도입할 수 있기 때문입니다.</description><pubDate>Tue, 19 May 2026 23:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiXTFal9OC</guid></item><item><title>3/ AI Studio와의 매끄러운 연동 역시 빼놓을 수 없는 핵심 포인트입니다.
-
-AI Studio에서 생성한 프로토타입을 실제 서비스 코드로...</title><link>https://www.threads.net/@choi.openai/post/DYiXQouj_gA</link><description>3/ AI Studio와의 매끄러운 연동 역시 빼놓을 수 없는 핵심 포인트입니다.
-
-AI Studio에서 생성한 프로토타입을 실제 서비스 코드로 확장하고, 브라우저 검증부터 배포까지 이어지는 개발 워크플로우를 담당합니다.
-
-구글은 Gemini 모델부터 시작해 AI Studio, Cloud 서버, 그리고 Android 앱 개발 생태계까지, 제품이 태어나고 서비스로 완성되는 모든 궤적을 단일 회사 플랫폼 안에서 빈틈없이 묶어낼 수 있다는 점이 압도적인 경쟁력으로 작용하고 있습니다.</description><pubDate>Tue, 19 May 2026 23:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiXQouj_gA</guid></item></channel></rss>
+하나의 긴 질문 안에 여러 검색 의도가 들어가고, 콘텐츠는 그 하위 질문들에 걸쳐 계속 근거로 쓰일 수 있어야 합니다.</description><pubDate>Wed, 20 May 2026 02:05:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYiwYmYmply</guid></item></channel></rss>
