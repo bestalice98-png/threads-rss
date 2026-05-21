@@ -1,44 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 21 May 2026 03:40:50 +0000</lastBuildDate><item><title>구글이 창작 도구 전쟁을 제대로 걸고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 21 May 2026 11:23:54 +0000</lastBuildDate><item><title>구글의 "Gemini Omni"가 영상 편집 시장 판을 바꾸고 있습니다.
 
-Google Workspace에는 이미지 생성·편집 도구인 Google Pics가 들어가고, ...</title><link>https://www.threads.net/@choi.openai/post/DYlYIzcCGbj</link><description>구글이 창작 도구 전쟁을 제대로 걸고 있습니다.
+이제는 영상을 새로 찍지 않아도 됩니다.
+셀카 영상 하나로 아바타를 ...</title><link>https://www.threads.net/@choi.openai/post/DYmLiS4jdbd</link><description>구글의 "Gemini Omni"가 영상 편집 시장 판을 바꾸고 있습니다.
 
-Google Workspace에는 이미지 생성·편집 도구인 Google Pics가 들어가고, Flow는 Gemini Omni Flash와 Flow Agent를 통해 영상·애니메이션·효과 작업을 멀티스텝으로 도와주는 창작 파트너에 가까워졌습니다.
+이제는 영상을 새로 찍지 않아도 됩니다.
+셀카 영상 하나로 아바타를 만들고, 배경·의상·분위기·카메라 구도까지 그대로 유지한 채 영상 전체를 바꿔버립니다.
 
-Stitch는 이제 텍스트나 음성으로 레이아웃을 실시간 수정하고 바로 코드로 내보낼 수 있고, Flow Music은 곡을 구간별로 편집하거나 스타일 리믹스, 뮤직비디오 생성까지 지원합니다.
+특히 Seedance처럼 처음부터 생성하는 모델이 아니라, 기존 영상을 원하는 방향으로 수정하는 방식이라 실무 반응이 심상치 않습니다.
 
-중요한 건 각각의 기능보다 연결 방식입니다. 이미지, 영상, 음악, UI, 코드가 따로 움직이는 게 아니라 하나의 창작 워크플로우로 묶이고 있습니다.</description><pubDate>Thu, 21 May 2026 02:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYlYIzcCGbj</guid></item><item><title>이제는 브랜드 기획도 AI가 처음부터 같이 만드는 시대가 오고 있습니다.
+벌써 광고·뮤직비디오·브랜드 영상 사례들이 쏟아지고 있는 Gemini Omni 제작 사례 10가지를 정리했습니다 🧵</description><pubDate>Thu, 21 May 2026 10:08:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmLiS4jdbd</guid></item><item><title>1/ 객체 변경
 
-Google의 Pomelli에 회사의 “Business DNA”를 분...</title><link>https://www.threads.net/@choi.openai/post/DYlKWnIibRe</link><description>이제는 브랜드 기획도 AI가 처음부터 같이 만드는 시대가 오고 있습니다.
+x@CaliraVal</title><link>https://www.threads.net/@choi.openai/post/DYmL8HKj_MP</link><description>1/ 객체 변경
 
-Google의 Pomelli에 회사의 “Business DNA”를 분석해서 브랜드 아이덴티티, 웹사이트, 브랜드북까지 한 번에 생성해주는 기능이 추가되었습니다.
+x@CaliraVal</description><pubDate>Thu, 21 May 2026 10:08:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmL8HKj_MP</guid></item><item><title>2/ 불꽃놀이
 
-예전 생성형 AI는 요청받은 결과물을 만드는 도구에 가까웠다면, 이제는 “브랜드 방향성 자체”를 먼저 정의하고 그걸 기반으로 모든 결과물을 일관되게 생성하려고 하고 있습니다.
+x@fofrAI</title><link>https://www.threads.net/@choi.openai/post/DYmLxY4DN5h</link><description>2/ 불꽃놀이
 
-그래서 앞으로는 디자인 툴보다, 브랜드의 맥락과 의도를 계속 기억하는 “브랜드 에이전트” 경쟁이 더 커질 가능성이 있어 보입니다.
+x@fofrAI</description><pubDate>Thu, 21 May 2026 10:08:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmLxY4DN5h</guid></item><item><title>3/ 캐릭터 변경 
 
-회사마다 AI가 하나의 마케팅 팀처럼 붙는 시대가 생각보다 빨리 오고 있습니다.</description><pubDate>Thu, 21 May 2026 00:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYlKWnIibRe</guid></item><item><title>이제는 스마트폰에서 “앱 하나 만들어줘” 하고 바로 설치까지 되는 시대가 오고 있습니다.
+x@ponzponz15</title><link>https://www.threads.net/@choi.openai/post/DYmLvMMnxpy</link><description>3/ 캐릭터 변경 
 
-Google AI Studio가 Gemini 3.5 ...</title><link>https://www.threads.net/@choi.openai/post/DYk8opbjGsB</link><description>이제는 스마트폰에서 “앱 하나 만들어줘” 하고 바로 설치까지 되는 시대가 오고 있습니다.
+x@ponzponz15</description><pubDate>Thu, 21 May 2026 10:08:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmLvMMnxpy</guid></item><item><title>이제 오픈소스 AI 경쟁도 “누가 더 크게 만드나”보다 “누가 더 싸고 작게 돌리나”로 넘어가는 분위기입니다.
 
-Google AI Studio가 Gemini 3.5 Flash 기반으로 안드로이드 앱을 생성하고, 원클릭으로 실제 기기에 설치하는 기능을 공개했는데요.
-여기에 Gmail, Docs 같은 Google Workspace 연동 앱도 만들 수 있다고 합니다.
+Cohere가 공개한 Comma...</title><link>https://www.threads.net/@choi.openai/post/DYmII8hEiBv</link><description>이제 오픈소스 AI 경쟁도 “누가 더 크게 만드나”보다 “누가 더 싸고 작게 돌리나”로 넘어가는 분위기입니다.
 
-이제 구글이 “앱 제작 도구”를 넘어서 배포와 실행 환경까지 직접 연결하기 시작했다는 점입니다.
-예전에는 아이디어가 있어도 개발, 빌드, 서명, 설치 과정이 모두 장벽이었는데, 그 중간 단계가 점점 사라지고 있습니다.
+Cohere가 공개한 Command A+는 에이전트 작업과 추론 성능을 강화한 오픈소스 모델인데, 핵심은 성능보다 배포 효율입니다.
+H100 GPU 두 장 정도만으로도 기업용 에이전트 AI를 운영할 수 있다고 강조하고 있는데요.
 
-그래서 앞으로는 “누가 코드를 더 잘 짜는가”보다, 어떤 문제를 발견하고 어떤 워크플로우를 설계하는지가 더 중요해질 가능성이 커 보입니다.
-앱 개발이 점점 문서 작성처럼 바뀌고 있는 느낌입니다.</description><pubDate>Wed, 20 May 2026 22:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYk8opbjGsB</guid></item><item><title>드디어 올 게 오는 분위기입니다.
+사실 기업 입장에서 중요한 건 벤치마크 1-2점보다, 내부 데이터센터나 폐쇄망 환경에서 안정적으로 직접 돌릴 수 있느냐입니다. 그래서 최근 AI 시장은 “최강 모델” 경쟁과 동시에, Sovereign AI(주권형 AI) 경쟁도 굉장히 빠르게 커지고 있습니다.
 
-WSJ 보도에 따르면 오픈AI가 골드만삭스, 모건스탠리와 함께 IPO(기업공개) 준비에 들어갔다고 합니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DYku3SsCaj4</link><description>드디어 올 게 오는 분위기입니다.
+특히 다국어 지원과 오픈소스 Apache 2.0 라이선스까지 붙으면서, 앞으로는 GPT급 초거대 모델이 아니라 “충분히 똑똑하면서 직접 운영 가능한 모델” 수요가 더 커질 가능성이 있어 보입니다.</description><pubDate>Thu, 21 May 2026 09:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmII8hEiBv</guid></item><item><title>깃허브 :
+https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4</title><link>https://www.threads.net/@choi.openai/post/DYmIKAEEpOW</link><description>깃허브 :
+https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4</description><pubDate>Thu, 21 May 2026 09:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmIKAEEpOW</guid></item><item><title>이제 음성 에이전트 만드는 난이도도 확 내려가고 있습니다.
 
-WSJ 보도에 따르면 오픈AI가 골드만삭스, 모건스탠리와 함께 IPO(기업공개) 준비에 들어갔다고 합니다.
-빠르면 이번 주 안에 비공개 상장 서류 제출 가능성도 거론되고 있는데요.
+ElevenLabs가 공개한 Speech Engine은 기존 텍스트 기반 챗봇을 거...</title><link>https://www.threads.net/@choi.openai/post/DYl95uwAbOf</link><description>이제 음성 에이전트 만드는 난이도도 확 내려가고 있습니다.
 
-사실 중요한 건 상장 자체보다 “왜 지금인가”입니다.
-최근 오픈AI는 Codex, Atlas, 에이전트, 슈퍼앱 전략까지 제품 확장을 굉장히 공격적으로 밀어붙이고 있습니다.
+ElevenLabs가 공개한 Speech Engine은 기존 텍스트 기반 챗봇을 거의 그대로 둔 채, 음성 대화 기능을 한 번에 얹을 수 있는 도구입니다.
+음성 합성, 음성 인식, 대화 흐름 조율을 하나의 파이프라인으로 묶은 방식인데요.
 
-IPO는 결국 시장이 오픈AI를 “AI 모델 회사”가 아니라 어떤 플랫폼 기업으로 평가할지 시험대에 올리는 과정이 될 가능성이 큽니다.</description><pubDate>Wed, 20 May 2026 20:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYku3SsCaj4</guid></item><item><title>기사 :
-https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soo...</title><link>https://www.threads.net/@choi.openai/post/DYku4PXCXDJ</link><description>기사 :
-https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5</description><pubDate>Wed, 20 May 2026 20:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYku4PXCXDJ</guid></item></channel></rss>
+중요한 건 새로 에이전트를 다시 만들 필요가 없다는 점입니다.
+
+기존 서비스 위에 음성 레이어를 추가하는 구조라, 고객상담, 교육, 예약, 헬스케어 같은 서비스들이 훨씬 빠르게 음성 인터페이스로 전환될 수 있습니다.</description><pubDate>Thu, 21 May 2026 08:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYl95uwAbOf</guid></item><item><title>한국에 오는 12시간 사이에 정말 놀라운 발표가 있었네요.
+
+오픈AI가 공개한 내용에 따르면, 내부 추론 모델이 80년 가까이 풀리지 않았던 E...</title><link>https://www.threads.net/@choi.openai/post/DYl0xB3DQbM</link><description>한국에 오는 12시간 사이에 정말 놀라운 발표가 있었네요.
+
+오픈AI가 공개한 내용에 따르면, 내부 추론 모델이 80년 가까이 풀리지 않았던 Erdős의 “planar unit distance problem”을 스스로 반박하는 새로운 수학적 구조를 발견했다고 합니다.
+
+기존에는 평면 기하 문제로 접근하던 영역인데, AI는 갑자기 algebraic number theory의 class field towers와 Golod-Shafarevich theory 같은 전혀 다른 분야 도구를 끌어왔다고 합니다. 수학자들도 예상 못한 연결이었다는 반응이 나오는 이유입니다.
+
+사실 중요한 건 문제 하나를 푼 것보다, AI가 “분야 간 연결”을 하기 시작했다는 점입니다. 인간 연구자들은 보통 전공과 익숙한 방법 안에서 사고하는데, AI는 그 경계를 점점 무시하기 시작하고 있습니다.
+
+이제 AI는 인간이 우선순위에 두지 않았던 연구 경로 자체를 발견하는 단계로 가는 것 같습니다.</description><pubDate>Thu, 21 May 2026 06:42:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYl0xB3DQbM</guid></item><item><title>발표내용 :
+https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title><link>https://www.threads.net/@choi.openai/post/DYl08Dvj7JC</link><description>발표내용 :
+https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description><pubDate>Thu, 21 May 2026 06:42:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYl08Dvj7JC</guid></item></channel></rss>
