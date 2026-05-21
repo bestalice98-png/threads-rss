@@ -1,56 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 21 May 2026 11:23:54 +0000</lastBuildDate><item><title>구글의 "Gemini Omni"가 영상 편집 시장 판을 바꾸고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 21 May 2026 17:25:55 +0000</lastBuildDate><item><title>생각보다 협업 발표가 굉장히 빠르게 나왔습니다.
 
-이제는 영상을 새로 찍지 않아도 됩니다.
-셀카 영상 하나로 아바타를 ...</title><link>https://www.threads.net/@choi.openai/post/DYmLiS4jdbd</link><description>구글의 "Gemini Omni"가 영상 편집 시장 판을 바꾸고 있습니다.
+CapCut이 Gemini와 협업을 발표했습니다.
+앞으로는 Gemini 안에서 바로 컷 수정,...</title><link>https://www.threads.net/@choi.openai/post/DYm0Ox9k_lV</link><description>생각보다 협업 발표가 굉장히 빠르게 나왔습니다.
 
-이제는 영상을 새로 찍지 않아도 됩니다.
-셀카 영상 하나로 아바타를 만들고, 배경·의상·분위기·카메라 구도까지 그대로 유지한 채 영상 전체를 바꿔버립니다.
+CapCut이 Gemini와 협업을 발표했습니다.
+앞으로는 Gemini 안에서 바로 컷 수정, 스타일 변경, 영상 보정 같은 작업이 이어질 것으로 보이는데요.
 
-특히 Seedance처럼 처음부터 생성하는 모델이 아니라, 기존 영상을 원하는 방향으로 수정하는 방식이라 실무 반응이 심상치 않습니다.
+나노 바나나 이후 이미지 시장에서도 느껴졌지만, 사람들은 결과물 한 장보다 “대화하면서 계속 수정되는 경험”에 더 크게 반응합니다.
 
-벌써 광고·뮤직비디오·브랜드 영상 사례들이 쏟아지고 있는 Gemini Omni 제작 사례 10가지를 정리했습니다 🧵</description><pubDate>Thu, 21 May 2026 10:08:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmLiS4jdbd</guid></item><item><title>1/ 객체 변경
+영상도 비슷해지고 있습니다. 좋은 영상 한 편보다, 기존 작업 흐름 안에서 얼마나 자연스럽게 수정과 반복 작업이 이어지느냐가 더 중요해지는 분위기입니다.
 
-x@CaliraVal</title><link>https://www.threads.net/@choi.openai/post/DYmL8HKj_MP</link><description>1/ 객체 변경
+그리고 이 흐름은 결국 SaaS 기능들이 점점 빅테크 AI 안으로 흡수되는 방향과도 연결됩니다.
 
-x@CaliraVal</description><pubDate>Thu, 21 May 2026 10:08:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmL8HKj_MP</guid></item><item><title>2/ 불꽃놀이
+구글 입장에서는 Flow, Gemini, Veo를 중심으로 영상 제작 워크플로우 자체를 가져오려는 움직임에 더 가까워 보입니다. 앞으로 영상 시장도 “대화 기반 편집”이 기본 UX가 될 가능성이 커 보입니다.</description><pubDate>Thu, 21 May 2026 15:55:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYm0Ox9k_lV</guid></item><item><title>기존 SaaS 시장까지 통합하려는 시장방향 :</title><link>https://www.threads.net/@choi.openai/post/DYm0Palk_Hj</link><description>기존 SaaS 시장까지 통합하려는 시장방향 :</description><pubDate>Thu, 21 May 2026 15:55:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYm0Palk_Hj</guid></item><item><title>알리바바가 에이전트 시대를 겨냥한 최신 플래그십 모델 Qwen3.7-Max를 공개했습니다.
 
-x@fofrAI</title><link>https://www.threads.net/@choi.openai/post/DYmLxY4DN5h</link><description>2/ 불꽃놀이
+코딩 에이전트, 문서 자동화, MCP 연동, 멀티에...</title><link>https://www.threads.net/@choi.openai/post/DYmxR7MEwxC</link><description>알리바바가 에이전트 시대를 겨냥한 최신 플래그십 모델 Qwen3.7-Max를 공개했습니다.
 
-x@fofrAI</description><pubDate>Thu, 21 May 2026 10:08:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmLxY4DN5h</guid></item><item><title>3/ 캐릭터 변경 
+코딩 에이전트, 문서 자동화, MCP 연동, 멀티에이전트 오케스트레이션을 모두 지원하며 Claude Code, OpenClaw, Qwen Code 같은 기존 에이전트 도구에서도 사용할 수 있습니다.
 
-x@ponzponz15</title><link>https://www.threads.net/@choi.openai/post/DYmLvMMnxpy</link><description>3/ 캐릭터 변경 
+벤치마크로는 SWE-bench Pro 60.6, Terminal-Bench 69.7, MCP-Atlas 76.4, HLE 41.4를 기록했고 일부 항목에서는 Claude Opus 4.6이나 DeepSeek 계열보다 높은 수치가 나왔습니다.
+특히 장시간 자율 실행 성능을 강조하고 있는데, 실제로 약 35시간 동안 1,158번의 툴 호출을 이어가며 커널 최적화를 스스로 반복 수행했다고 합니다.
 
-x@ponzponz15</description><pubDate>Thu, 21 May 2026 10:08:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmLvMMnxpy</guid></item><item><title>이제 오픈소스 AI 경쟁도 “누가 더 크게 만드나”보다 “누가 더 싸고 작게 돌리나”로 넘어가는 분위기입니다.
+다만 이번 Qwen3.7-Max 자체는 오픈웨이트 공개 모델은 아닙니다.
+API 기반 제공이 중심이고, 알리바바는 대신 오픈모델 생태계와 연결성을 적극적으로 가져가는 방향으로 보입니다.</description><pubDate>Thu, 21 May 2026 15:29:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmxR7MEwxC</guid></item><item><title>발표내용 :
+https://qwen.ai/blog?id=qwen3.7</title><link>https://www.threads.net/@choi.openai/post/DYmxSjXkxss</link><description>발표내용 :
+https://qwen.ai/blog?id=qwen3.7</description><pubDate>Thu, 21 May 2026 15:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmxSjXkxss</guid></item><item><title>오픈AI CEO 샘 알트만은 기술의 임계점을 넘어선 AI가 인간의 컴퓨터 활용 방식을 근본적으로 바꿀 것이라고 내다봤습니다.
 
-Cohere가 공개한 Comma...</title><link>https://www.threads.net/@choi.openai/post/DYmII8hEiBv</link><description>이제 오픈소스 AI 경쟁도 “누가 더 크게 만드나”보다 “누가 더 싸고 작게 돌리나”로 넘어가는 분위기입니다.
+그는 코딩 분야를...</title><link>https://www.threads.net/@choi.openai/post/DYmnD6ZgMs0</link><description>오픈AI CEO 샘 알트만은 기술의 임계점을 넘어선 AI가 인간의 컴퓨터 활용 방식을 근본적으로 바꿀 것이라고 내다봤습니다.
 
-Cohere가 공개한 Command A+는 에이전트 작업과 추론 성능을 강화한 오픈소스 모델인데, 핵심은 성능보다 배포 효율입니다.
-H100 GPU 두 장 정도만으로도 기업용 에이전트 AI를 운영할 수 있다고 강조하고 있는데요.
+그는 코딩 분야를 넘어 컴퓨터 앞에서 이루어지는 모든 작업으로 AI의 영역이 확장되고 있음을 지적했습니다.
+비록 비코딩 영역에서의 자동화는 이제 겨우 “10% 정도 진행된 수준”이지만, 실제 사용자층이 형성된 만큼 발전 속도는 상상 이상으로 빠를 것이라 전망했습니다.
 
-사실 기업 입장에서 중요한 건 벤치마크 1-2점보다, 내부 데이터센터나 폐쇄망 환경에서 안정적으로 직접 돌릴 수 있느냐입니다. 그래서 최근 AI 시장은 “최강 모델” 경쟁과 동시에, Sovereign AI(주권형 AI) 경쟁도 굉장히 빠르게 커지고 있습니다.
+알트만은 코딩 이후의 혁신이 특정 전문 도메인의 등장보다는 “사람들이 컴퓨터를 사용하며 얼마나 많은 시간을 낭비하고 있었는지 깨닫는 과정”에서 올 것이라고 강조했습니다.
 
-특히 다국어 지원과 오픈소스 Apache 2.0 라이선스까지 붙으면서, 앞으로는 GPT급 초거대 모델이 아니라 “충분히 똑똑하면서 직접 운영 가능한 모델” 수요가 더 커질 가능성이 있어 보입니다.</description><pubDate>Thu, 21 May 2026 09:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmII8hEiBv</guid></item><item><title>깃허브 :
-https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4</title><link>https://www.threads.net/@choi.openai/post/DYmIKAEEpOW</link><description>깃허브 :
-https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4</description><pubDate>Thu, 21 May 2026 09:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmIKAEEpOW</guid></item><item><title>이제 음성 에이전트 만드는 난이도도 확 내려가고 있습니다.
+결국 미래의 컴퓨터 환경은 사용자가 “편안히 앉아서 AI가 대부분의 고된 잡무를 대신 처리하는 모습을 지켜보는 방식”으로 완전히 재편될 것이라고 강조했습니다.</description><pubDate>Thu, 21 May 2026 14:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmnD6ZgMs0</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=5eouRdDYM2c</title><link>https://www.threads.net/@choi.openai/post/DYmnEspgFOJ</link><description>풀영상 :
+https://www.youtube.com/watch?v=5eouRdDYM2c</description><pubDate>Thu, 21 May 2026 14:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmnEspgFOJ</guid></item><item><title>텐센트가 공개한 오픈소스 번역 모델 Hy-MT2를 공개했습니다.
 
-ElevenLabs가 공개한 Speech Engine은 기존 텍스트 기반 챗봇을 거...</title><link>https://www.threads.net/@choi.openai/post/DYl95uwAbOf</link><description>이제 음성 에이전트 만드는 난이도도 확 내려가고 있습니다.
+7B와 30B-A3B 모델은 공개 번역 벤치마크에서 강력한 오픈모델들을 넘어섰...</title><link>https://www.threads.net/@choi.openai/post/DYmgMY5Attn</link><description>텐센트가 공개한 오픈소스 번역 모델 Hy-MT2를 공개했습니다.
 
-ElevenLabs가 공개한 Speech Engine은 기존 텍스트 기반 챗봇을 거의 그대로 둔 채, 음성 대화 기능을 한 번에 얹을 수 있는 도구입니다.
-음성 합성, 음성 인식, 대화 흐름 조율을 하나의 파이프라인으로 묶은 방식인데요.
+7B와 30B-A3B 모델은 공개 번역 벤치마크에서 강력한 오픈모델들을 넘어섰고, 특히 1.8B 경량 모델은 Microsoft Translator 같은 상용 API보다도 높은 성능을 주장하고 있습니다.
 
-중요한 건 새로 에이전트를 다시 만들 필요가 없다는 점입니다.
+특히, 1.25-bit 극단 양자화를 통해 모델 용량이 440MB 수준이라 모바일 칩에서도 로컬 추론이 가능하고, 기존 4bit 대비 속도도 1.5배 빠르다고 하는데요.
 
-기존 서비스 위에 음성 레이어를 추가하는 구조라, 고객상담, 교육, 예약, 헬스케어 같은 서비스들이 훨씬 빠르게 음성 인터페이스로 전환될 수 있습니다.</description><pubDate>Thu, 21 May 2026 08:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYl95uwAbOf</guid></item><item><title>한국에 오는 12시간 사이에 정말 놀라운 발표가 있었네요.
+이제는 단말기 자체에서 적은 전력과 용량으로 최고의 효율을 뽑아내는 모델이 점점 주목받기 시작하고 있습니다.
 
-오픈AI가 공개한 내용에 따르면, 내부 추론 모델이 80년 가까이 풀리지 않았던 E...</title><link>https://www.threads.net/@choi.openai/post/DYl0xB3DQbM</link><description>한국에 오는 12시간 사이에 정말 놀라운 발표가 있었네요.
-
-오픈AI가 공개한 내용에 따르면, 내부 추론 모델이 80년 가까이 풀리지 않았던 Erdős의 “planar unit distance problem”을 스스로 반박하는 새로운 수학적 구조를 발견했다고 합니다.
-
-기존에는 평면 기하 문제로 접근하던 영역인데, AI는 갑자기 algebraic number theory의 class field towers와 Golod-Shafarevich theory 같은 전혀 다른 분야 도구를 끌어왔다고 합니다. 수학자들도 예상 못한 연결이었다는 반응이 나오는 이유입니다.
-
-사실 중요한 건 문제 하나를 푼 것보다, AI가 “분야 간 연결”을 하기 시작했다는 점입니다. 인간 연구자들은 보통 전공과 익숙한 방법 안에서 사고하는데, AI는 그 경계를 점점 무시하기 시작하고 있습니다.
-
-이제 AI는 인간이 우선순위에 두지 않았던 연구 경로 자체를 발견하는 단계로 가는 것 같습니다.</description><pubDate>Thu, 21 May 2026 06:42:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYl0xB3DQbM</guid></item><item><title>발표내용 :
-https://openai.com/index/model-disproves-discrete-geometry-conjecture/</title><link>https://www.threads.net/@choi.openai/post/DYl08Dvj7JC</link><description>발표내용 :
-https://openai.com/index/model-disproves-discrete-geometry-conjecture/</description><pubDate>Thu, 21 May 2026 06:42:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYl08Dvj7JC</guid></item></channel></rss>
+조만간 비행기 모드에서도 매끄럽게 작동하는 온디바이스 동시통역기를 우리 모두가 주머니에 넣고 다니게 될 것으로 보입니다.</description><pubDate>Thu, 21 May 2026 13:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmgMY5Attn</guid></item><item><title>허깅페이스 :
+https://huggingface.co/collections/tencent/hy-mt2</title><link>https://www.threads.net/@choi.openai/post/DYmgPMrgtk9</link><description>허깅페이스 :
+https://huggingface.co/collections/tencent/hy-mt2</description><pubDate>Thu, 21 May 2026 13:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYmgPMrgtk9</guid></item></channel></rss>
