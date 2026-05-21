@@ -1,142 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 20 May 2026 17:50:05 +0000</lastBuildDate><item><title>이제는 직원들도 AI 학습 데이터가 되는 시대가 온 것 같습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 21 May 2026 03:40:50 +0000</lastBuildDate><item><title>구글이 창작 도구 전쟁을 제대로 걸고 있습니다.
 
-유출된 Meta 내부 음성에서 마크 저커버그는 “뛰어난 직원들이 문제를 해결...</title><link>https://www.threads.net/@choi.openai/post/DYkSbbzCcpY</link><description>이제는 직원들도 AI 학습 데이터가 되는 시대가 온 것 같습니다.
+Google Workspace에는 이미지 생성·편집 도구인 Google Pics가 들어가고, ...</title><link>https://www.threads.net/@choi.openai/post/DYlYIzcCGbj</link><description>구글이 창작 도구 전쟁을 제대로 걸고 있습니다.
 
-유출된 Meta 내부 음성에서 마크 저커버그는 “뛰어난 직원들이 문제를 해결하는 과정을 AI가 학습하면 모델 성능이 훨씬 빨라진다”고 설명했는데요.
-상위 엔지니어들의 사고 과정과 문제 해결 패턴 자체를 학습 자산으로 본다는 이야기입니다.
+Google Workspace에는 이미지 생성·편집 도구인 Google Pics가 들어가고, Flow는 Gemini Omni Flash와 Flow Agent를 통해 영상·애니메이션·효과 작업을 멀티스텝으로 도와주는 창작 파트너에 가까워졌습니다.
 
-하지만, 이 발언이후 바로 뒤에 대규모 구조조정과 AI 조직 재배치가 이어졌다는 점입니다. 
-래서 업계에서는 “인간 전문가를 통해 AI를 훈련한 뒤, 그 역할 자체를 줄이려는 것 아니냐”는 반응도 나오고 있습니다.
+Stitch는 이제 텍스트나 음성으로 레이아웃을 실시간 수정하고 바로 코드로 내보낼 수 있고, Flow Music은 곡을 구간별로 편집하거나 스타일 리믹스, 뮤직비디오 생성까지 지원합니다.
 
-사실 중요한 건 여기서 AI 경쟁의 기준이 바뀌고 있다는 점입니다.
-이제는 GPU만 많은 회사보다, 뛰어난 인재들의 작업 흐름과 실행 데이터를 얼마나 많이 갖고 있는지가 더 강력한 자산이 되기 시작한 것 같습니다.</description><pubDate>Wed, 20 May 2026 16:23:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYkSbbzCcpY</guid></item><item><title>구글이 대기업이긴 대기업이다..
+중요한 건 각각의 기능보다 연결 방식입니다. 이미지, 영상, 음악, UI, 코드가 따로 움직이는 게 아니라 하나의 창작 워크플로우로 묶이고 있습니다.</description><pubDate>Thu, 21 May 2026 02:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYlYIzcCGbj</guid></item><item><title>이제는 브랜드 기획도 AI가 처음부터 같이 만드는 시대가 오고 있습니다.
 
-미국 현장에서 직접 만난, 구글 I/O의 모든 내용을 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/DYkECaVm8AD</link><description>구글이 대기업이긴 대기업이다..
+Google의 Pomelli에 회사의 “Business DNA”를 분...</title><link>https://www.threads.net/@choi.openai/post/DYlKWnIibRe</link><description>이제는 브랜드 기획도 AI가 처음부터 같이 만드는 시대가 오고 있습니다.
 
-미국 현장에서 직접 만난, 구글 I/O의 모든 내용을 정리했습니다 🧵</description><pubDate>Wed, 20 May 2026 14:16:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYkECaVm8AD</guid></item><item><title>1/ 처음으로 구글 I/O에 직접 다녀왔습니다.
+Google의 Pomelli에 회사의 “Business DNA”를 분석해서 브랜드 아이덴티티, 웹사이트, 브랜드북까지 한 번에 생성해주는 기능이 추가되었습니다.
 
-현장에서 느낀 구글의 문화, 에너지, 행사장의 활력은 정말 대단했습니다.
-전 세계 개발자와 크...</title><link>https://www.threads.net/@choi.openai/post/DYj5DBbAN4o</link><description>1/ 처음으로 구글 I/O에 직접 다녀왔습니다.
+예전 생성형 AI는 요청받은 결과물을 만드는 도구에 가까웠다면, 이제는 “브랜드 방향성 자체”를 먼저 정의하고 그걸 기반으로 모든 결과물을 일관되게 생성하려고 하고 있습니다.
 
-현장에서 느낀 구글의 문화, 에너지, 행사장의 활력은 정말 대단했습니다.
-전 세계 개발자와 크리에이터가 모이고, 구글 직원들이 제품을 설명하고, AI를 낙관적으로 이야기하는 분위기는 화면으로 볼 때와 확실히 달랐습니다.
+그래서 앞으로는 디자인 툴보다, 브랜드의 맥락과 의도를 계속 기억하는 “브랜드 에이전트” 경쟁이 더 커질 가능성이 있어 보입니다.
 
-그리고 구글이 가진 생태계의 크기는 여전히 무섭습니다.
-10억 명 이상 사용하는 제품을 13개나 운영하고, 검색, 유튜브, 안드로이드, Chrome, Gmail, Docs, Maps, Cloud, TPU까지 전부 갖고 있는 회사가 AI를 한꺼번에 밀어 넣고 있습니다.
+회사마다 AI가 하나의 마케팅 팀처럼 붙는 시대가 생각보다 빨리 오고 있습니다.</description><pubDate>Thu, 21 May 2026 00:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYlKWnIibRe</guid></item><item><title>이제는 스마트폰에서 “앱 하나 만들어줘” 하고 바로 설치까지 되는 시대가 오고 있습니다.
 
-하지만 제품 발표만 놓고 보면 이번 구글 I/O 2026은 기대에 비해 아쉬움도 남았는데요.
+Google AI Studio가 Gemini 3.5 ...</title><link>https://www.threads.net/@choi.openai/post/DYk8opbjGsB</link><description>이제는 스마트폰에서 “앱 하나 만들어줘” 하고 바로 설치까지 되는 시대가 오고 있습니다.
 
-미국 샌프란시스코 마운틴뷰에서 직접 만난 구글 I/O에 대한 생각을 정리해봤습니다.</description><pubDate>Wed, 20 May 2026 14:16:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYj5DBbAN4o</guid></item><item><title>1/ 먼저 잘한 점부터 말하면, 구글은 이번 I/O에서 AI를 “별도 앱”이 아니라 “기존 제품 전체의 기본 기능”으로 넣는 방향을 확실히 보여...</title><link>https://www.threads.net/@choi.openai/post/DYkED3yG3J-</link><description>1/ 먼저 잘한 점부터 말하면, 구글은 이번 I/O에서 AI를 “별도 앱”이 아니라 “기존 제품 전체의 기본 기능”으로 넣는 방향을 확실히 보여줬습니다.
+Google AI Studio가 Gemini 3.5 Flash 기반으로 안드로이드 앱을 생성하고, 원클릭으로 실제 기기에 설치하는 기능을 공개했는데요.
+여기에 Gmail, Docs 같은 Google Workspace 연동 앱도 만들 수 있다고 합니다.
 
-Gemini 앱, Search, Workspace, Chrome, Android XR, Flow, YouTube Shorts, Shopping, Cloud, Antigravity까지 거의 모든 표면에 Gemini가 들어갑니다.
+이제 구글이 “앱 제작 도구”를 넘어서 배포와 실행 환경까지 직접 연결하기 시작했다는 점입니다.
+예전에는 아이디어가 있어도 개발, 빌드, 서명, 설치 과정이 모두 장벽이었는데, 그 중간 단계가 점점 사라지고 있습니다.
 
-이건 다른 회사가 쉽게 따라 하기 어렵습니다.
+그래서 앞으로는 “누가 코드를 더 잘 짜는가”보다, 어떤 문제를 발견하고 어떤 워크플로우를 설계하는지가 더 중요해질 가능성이 커 보입니다.
+앱 개발이 점점 문서 작성처럼 바뀌고 있는 느낌입니다.</description><pubDate>Wed, 20 May 2026 22:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYk8opbjGsB</guid></item><item><title>드디어 올 게 오는 분위기입니다.
 
-문제는 hype에 비해 “큰 혁신 없이 지나간 부분”이 많았다는 점입니다.
+WSJ 보도에 따르면 오픈AI가 골드만삭스, 모건스탠리와 함께 IPO(기업공개) 준비에 들어갔다고 합니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DYku3SsCaj4</link><description>드디어 올 게 오는 분위기입니다.
 
-Gemini 앱 리디자인, Search의 AI Mode, Flow Agent, Spark, Android XR 글래스, Antigravity 2.0 모두 방향은 좋았습니다.
+WSJ 보도에 따르면 오픈AI가 골드만삭스, 모건스탠리와 함께 IPO(기업공개) 준비에 들어갔다고 합니다.
+빠르면 이번 주 안에 비공개 상장 서류 제출 가능성도 거론되고 있는데요.
 
-하지만 완전히 새로운 제품 충격이라기보다, 작년부터 이어져온 구상을 더 넓게 배치한 느낌이 강했습니다.</description><pubDate>Wed, 20 May 2026 14:16:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYkED3yG3J-</guid></item><item><title>2/ 작년부터 이어진 방향들이 더 정리되긴 했지만, 소비자가 바로 체감할 수 있는 새로운 제품 충격은 생각보다 약했습니다.
+사실 중요한 건 상장 자체보다 “왜 지금인가”입니다.
+최근 오픈AI는 Codex, Atlas, 에이전트, 슈퍼앱 전략까지 제품 확장을 굉장히 공격적으로 밀어붙이고 있습니다.
 
-구글은 미래 방향을...</title><link>https://www.threads.net/@choi.openai/post/DYkEFDIGx3h</link><description>2/ 작년부터 이어진 방향들이 더 정리되긴 했지만, 소비자가 바로 체감할 수 있는 새로운 제품 충격은 생각보다 약했습니다.
-
-구글은 미래 방향을 정말 잘 보여줍니다.
-문제는 그 방향이 실제 소비자가 바로 쓸 수 있는 제품으로 내려오는 속도입니다.
-
-이번에는 그 방향이 완전히 새로운 장면으로 터졌다기보다, 기존에 보여준 구상을 더 넓은 제품군에 다시 배치한 느낌이 강했습니다.
-
-지역 제한도 이번 발표의 체감도를 낮췄습니다.
-
-구글은 원래도 미국에서 먼저 테스트하고, 이후 점진적으로 글로벌 롤아웃하는 방식을 자주 써왔습니다.
-
-이건 구글 입장에서는 당연한 선택일 수 있습니다.
-
-검색, 유튜브, 크롬, 지메일, 안드로이드처럼 수십억 명이 쓰는 제품에 AI를 넣는 건 스타트업이 기능 하나 배포하는 것과 완전히 다릅니다.
-
-안전, 개인정보, 저작권, 규제, 서버 비용, 각국 언어와 문화까지 전부 고려해야 합니다.
-
-그래서 구글이 조심스럽게 배포하는 건 이해됩니다.</description><pubDate>Wed, 20 May 2026 14:16:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYkEFDIGx3h</guid></item><item><title>구글 I/O가 앱 행사처럼 보였다면 절반만 본 겁니다.
-
-Gemini, Spark, Search AI Mode 뒤에는 TPU, 데이터센터, 전력...</title><link>https://www.threads.net/@choi.openai/post/DYj0vswm3d3</link><description>구글 I/O가 앱 행사처럼 보였다면 절반만 본 겁니다.
-
-Gemini, Spark, Search AI Mode 뒤에는 TPU, 데이터센터, 전력, 메모리, 추론 비용 계산서가 같이 깔려 있습니다.
-특히 “AI 비용의 중심이 훈련에서 추론으로 이동한다”는 흐름이 굉장히 중요해졌습니다.
-
-행사뒤에 숨겨진 AI 인프라 경쟁 핵심 내용을 정리했습니다🧵</description><pubDate>Wed, 20 May 2026 12:02:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYj0vswm3d3</guid></item><item><title>1/ 구글은 8세대 TPU를 학습용 8t와 추론용 8i로 나눠 발표했습니다.
-
-모델을 크게 훈련하는 칩과 수많은 사용자의 빠른 요청을 처리하는 ...</title><link>https://www.threads.net/@choi.openai/post/DYj0wJLm8DJ</link><description>1/ 구글은 8세대 TPU를 학습용 8t와 추론용 8i로 나눠 발표했습니다.
-
-모델을 크게 훈련하는 칩과 수많은 사용자의 빠른 요청을 처리하는 칩을 분리한 겁니다.
-
-순다 피차이는 2022년 구글의 연간 자본 지출이 310억 달러였고, 올해는 약 1,900억 달러에 달할 것으로 예상한다고 말했습니다.
-
-TPU 8t는 대규모 사전 학습에 맞춰 이전 세대보다 원시 컴퓨팅 성능이 약 3배 향상됐고, TPU 8i는 추론 지연 시간을 줄이는 쪽에 맞춰져 있습니다.
-
-두 칩 모두 와트당 성능이 최대 2배 향상됐다는 설명도 붙었습니다.
-
-에이전트 시대에는 학습보다 추론이 매일의 비용으로 돌아옵니다. 3.5 Flash처럼 빠른 모델을 대규모로 돌리려면 추론에 맞춘 칩과 서빙 시스템이 제품 경쟁력 자체가 됩니다.</description><pubDate>Wed, 20 May 2026 12:02:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYj0wJLm8DJ</guid></item><item><title>2/ 특히 이번 발표에서는 TPU를 칩 하나로 설명하지 않았습니다.
-
-구글은 학습을 단일 데이터센터 안에 가두지 않고, Pathways를 통해 ...</title><link>https://www.threads.net/@choi.openai/post/DYj0xPImwrP</link><description>2/ 특히 이번 발표에서는 TPU를 칩 하나로 설명하지 않았습니다.
-
-구글은 학습을 단일 데이터센터 안에 가두지 않고, Pathways를 통해 여러 사이트에 걸쳐 분산 학습을 할 수 있다고 설명했습니다.
-
-전 세계 100만 개 이상의 TPU를 묶어 가장 큰 학습 클러스터를 만들 수 있다는 메시지도 나왔습니다.
-
-이건 “새 칩이 나왔다”보다 훨씬 큰 이야기입니다. 더 큰 모델을 만들고, 더 많은 토큰을 처리하고, 내부 제품에서 나오는 피드백을 다시 모델 개선으로 돌리는 구조입니다.
-
-Gemini 3.5 Flash가 빠르다는 말은 모델만의 이야기가 아니라, 학습과 서빙을 같이 키운 인프라 발표입니다.
-
-https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/</description><pubDate>Wed, 20 May 2026 12:02:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYj0xPImwrP</guid></item><item><title>3/ 점점 AI 비용의 중심은 훈련에서 추론으로 이동하고 있습니다.
-
-사용자 중심 AI 제품에서는 비용의 중심이 훈련비보다 추론 처리량, 지연 ...</title><link>https://www.threads.net/@choi.openai/post/DYj0yOAm6uY</link><description>3/ 점점 AI 비용의 중심은 훈련에서 추론으로 이동하고 있습니다.
-
-사용자 중심 AI 제품에서는 비용의 중심이 훈련비보다 추론 처리량, 지연 시간, 토큰당 비용으로 이동합니다.
-
-구글의 Gemini 앱 9억 명, Search AI Mode 10억 명, 모델 API 분당 약 190억 토큰, 375개 이상의 Cloud 고객사가 각각 1조 토큰 이상을 처리한 규모, Spark 같은 장기 실행 에이전트가 나오면 추론비가 제품 전략이 됩니다.
-
-빠른 모델을 안정적으로 대규모 사용자에게 제공하는 능력이 AI 제품의 지속성을 결정합니다.
-
-사용자가 질문을 한 번 더 하고, 에이전트가 배경에서 계속 작업하려면 모델 품질만큼 토큰 경제성이 따라와야 합니다.</description><pubDate>Wed, 20 May 2026 12:02:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYj0yOAm6uY</guid></item><item><title>이 말을 직접 들을 줄이야..
-
-구글 딥마인드 CEO 데미스 하사비스가 이번 I/O 마지막에서 “우리는 특이점의 초입에 서 있다”고 말합니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DYjiUWGFWmm</link><description>이 말을 직접 들을 줄이야..
-
-구글 딥마인드 CEO 데미스 하사비스가 이번 I/O 마지막에서 “우리는 특이점의 초입에 서 있다”고 말합니다.
-
-구글이 꿈꾸는 미래, 데미스 하사비스의 마무리 연설을 정리했습니다 🧵</description><pubDate>Wed, 20 May 2026 09:21:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjiUWGFWmm</guid></item><item><title>1/ 데미스는 AGI를 낙관만으로 말하지 않았습니다.
-
-그는 지금이 엄청난 가능성의 순간이지만, 동시에 거대한 책임의 순간이라고 설명했습니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DYjVxXODifZ</link><description>1/ 데미스는 AGI를 낙관만으로 말하지 않았습니다.
-
-그는 지금이 엄청난 가능성의 순간이지만, 동시에 거대한 책임의 순간이라고 설명했습니다.
-
-특히 에이전트 시스템과 최종적으로 AGI 자체의 안전을 보장하기 위해 모든 도구를 써야 한다고 했습니다.
-
-이 발언이 중요한 이유는 이번 I/O에서 에이전트가 거의 모든 제품에 들어갔기 때문입니다.
-
-Search Agents, Gemini Spark, Antigravity, Universal Cart, Android XR까지 모두 사용자를 대신해 작업하고, 앱을 열고, 결제 직전까지 가고, 코드를 실행하는 구조입니다.
-
-AGI 안전은 먼 미래 철학 문제가 아니라, 이미 제품 안에서 권한과 로그, 보안, 승인 구조로 내려오고 있습니다.</description><pubDate>Wed, 20 May 2026 09:21:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjVxXODifZ</guid></item><item><title>2/ 그래서 바로 이어진 주제가 사이버보안이었습니다.
-
-데미스는 최근 많은 관심을 받는 위험 영역으로 사이버보안을 언급했고, 구글은 CodeMe...</title><link>https://www.threads.net/@choi.openai/post/DYjVxu8gIfo</link><description>2/ 그래서 바로 이어진 주제가 사이버보안이었습니다.
-
-데미스는 최근 많은 관심을 받는 위험 영역으로 사이버보안을 언급했고, 구글은 CodeMender를 소개했습니다.
-
-CodeMender는 중요한 소프트웨어 취약점을 자동으로 찾고 고치는 코드 보안 에이전트입니다.
-
-오늘은 선별된 전문가 그룹에게 CodeMender API 테스트를 열고, 이후 더 넓게 출시하겠다고 했습니다.
-
-Antigravity가 개발 생산성을 높이는 쪽이라면, CodeMender는 AI가 만든 코드와 인간이 만든 코드 모두를 지속적으로 점검하고 고치는 쪽입니다.
-
-앞으로 에이전트가 코드를 더 많이 쓰게 될수록, 보안 에이전트도 같이 커질 수밖에 없습니다.</description><pubDate>Wed, 20 May 2026 09:21:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjVxu8gIfo</guid></item><item><title>3/ Gemini for Science는 이번 발표에서 가장 중요하지만 덜 자극적으로 보이는 발표였습니다.
-
-구글은 Gemini for Scie...</title><link>https://www.threads.net/@choi.openai/post/DYjiWWElS4p</link><description>3/ Gemini for Science는 이번 발표에서 가장 중요하지만 덜 자극적으로 보이는 발표였습니다.
-
-구글은 Gemini for Science를 통해 연구를 가속화하는 여러 AI 도구를 묶었습니다.
-
-새 논문을 계속 따라잡고, 연구 목표를 실행 가능한 코드로 바꾸고, 새로운 가설을 생성하는 흐름입니다.
-
-과학자에게 중요한 건 질문 하나에 답하는 AI가 아니라, 매일 반복되는 연구 업무를 줄이고 다음 실험 방향을 잡아주는 도구입니다.
-
-Gemini가 검색, 업무, 영상, 음악, 코딩을 넘어 과학 연구 워크벤치로 들어가기 시작한 겁니다.</description><pubDate>Wed, 20 May 2026 09:21:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYjiWWElS4p</guid></item></channel></rss>
+IPO는 결국 시장이 오픈AI를 “AI 모델 회사”가 아니라 어떤 플랫폼 기업으로 평가할지 시험대에 올리는 과정이 될 가능성이 큽니다.</description><pubDate>Wed, 20 May 2026 20:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYku3SsCaj4</guid></item><item><title>기사 :
+https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soo...</title><link>https://www.threads.net/@choi.openai/post/DYku4PXCXDJ</link><description>기사 :
+https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5</description><pubDate>Wed, 20 May 2026 20:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYku4PXCXDJ</guid></item></channel></rss>
