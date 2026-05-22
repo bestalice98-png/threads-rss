@@ -1,44 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 22 May 2026 10:50:52 +0000</lastBuildDate><item><title>아직도 Codex를 어떻게 써야 할지 감이 안 오신다구요?
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 22 May 2026 17:01:38 +0000</lastBuildDate><item><title>순다 피차이(Sundar Pichai)는 AI가 소프트웨어 엔지니어링의 패러다임을 바꾸고 있다며, 앞으로는 단순히 코드를 작성하는 능력을 넘어 ...</title><link>https://www.threads.net/@choi.openai/post/DYpZhdME9oc</link><description>순다 피차이(Sundar Pichai)는 AI가 소프트웨어 엔지니어링의 패러다임을 바꾸고 있다며, 앞으로는 단순히 코드를 작성하는 능력을 넘어 “에이전트 기반의 코딩”이 핵심 평가지표가 될 것이라고 강조했습니다.
 
-오픈AI가 실제로 사람들이 어떤 흐름으로 Codex를 붙여 쓰는지 꽤 구체적으로 모...</title><link>https://www.threads.net/@choi.openai/post/DYowVjDj6dn</link><description>아직도 Codex를 어떻게 써야 할지 감이 안 오신다구요?
+개발자들은 이제 혼자 일하는 것이 아니라, 연중무휴 작동하며 긴 호흡의 복잡한 태스크를 대신 처리해 주는 '에이전트 팀'을 거느리게 될 것입니다.
 
-오픈AI가 실제로 사람들이 어떤 흐름으로 Codex를 붙여 쓰는지 꽤 구체적으로 모아둔 Codex 공식 유스케이스 페이지를 새롭게 정리했습니다.
+그는 현재의 AI 수준이 3년 뒤에는 마치 '폴더'처럼 원시적으로 보일 만큼 급격한 성능 향상이 다가오고 있다고 진단했습니다.
 
-프론트엔드 프로토타이핑, 멀티파일 리팩토링, 버그 수정, 문서화, MCP 기반 워크플로우 자동화 같은 사례들이 정리되어 있는데요.
+“AI는 코딩을 훨씬 더 재미있게 만들고, 인간을 창의성, 문제 해결, 브레인스토밍에 집중할 수 있도록 해줄 것입니다.”</description><pubDate>Fri, 22 May 2026 16:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYpZhdME9oc</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=zBOoEpsjWAo</title><link>https://www.threads.net/@choi.openai/post/DYpZjPxk0ym</link><description>풀영상 :
+https://www.youtube.com/watch?v=zBOoEpsjWAo</description><pubDate>Fri, 22 May 2026 16:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYpZjPxk0ym</guid></item><item><title>Tesla Optimus V2.5의 새로운 보행 영상이 공개됐는데요.
 
-예전에는 AI 코딩툴을 채팅창 안에서만 썼다면, 이제는 로컬 환경, IDE, 터미널, MCP 서버, 문서 시스템까지 연결된 상태로 사용하는 흐름이 점점 기본이 되고 있습니다.
+이전보다 훨씬 사람처럼 자연스럽게 걷는 모습이 인상적입니다. 무게 중심 ...</title><link>https://www.threads.net/@choi.openai/post/DYpPUsqik-F</link><description>Tesla Optimus V2.5의 새로운 보행 영상이 공개됐는데요.
 
-그래서 오히려 중요한 건 프롬프트 한 줄보다 “어떤 작업 흐름에 붙여 쓰느냐”에 가까워지고 있습니다.</description><pubDate>Fri, 22 May 2026 10:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYowVjDj6dn</guid></item><item><title>주소 :
-https://developers.openai.com/codex/use-cases</title><link>https://www.threads.net/@choi.openai/post/DYowWiDD3O8</link><description>주소 :
-https://developers.openai.com/codex/use-cases</description><pubDate>Fri, 22 May 2026 10:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYowWiDD3O8</guid></item><item><title>구글 CEO 순다 피차이는 AI 기술의 급격한 발전 속에서 기업과 사회가 가져야 할 책임감을 강조했습니다.
+이전보다 훨씬 사람처럼 자연스럽게 걷는 모습이 인상적입니다. 무게 중심 이동이나 팔 흔들림 같은 작은 움직임들이 꽤 인간에 가까워졌습니다.
 
-그는 AI 경쟁이 치열해지는 상황에...</title><link>https://www.threads.net/@choi.openai/post/DYomD9ZAR1f</link><description>구글 CEO 순다 피차이는 AI 기술의 급격한 발전 속에서 기업과 사회가 가져야 할 책임감을 강조했습니다.
+사실 로봇 발전을 이야기할 때는 작업 성공률이나 손기술에 집중하는 경우가 많습니다. 그런데 실제 사람들과 함께 움직이게 되면, “얼마나 어색하지 않은가”도 굉장히 중요한 요소가 됩니다.
 
-그는 AI 경쟁이 치열해지는 상황에서 "우리는 이 기술을 책임감 있게 배포해야 할 의무가 있다"며, 무조건적인 속도 경쟁인 '레이스 컨디션'을 경계해야 한다고 말했습니다.
+특히 안내, 서비스, 쇼룸 같은 공간에서는 기능만큼 존재감 자체의 디자인도 중요해질 가능성이 큽니다.
 
-또한, 프런티어 랩(최첨단 AI 연구소)들의 기술 격차와 역동적인 경쟁을 언급하며, "AI가 발전할수록 이는 개별 기업의 논의를 넘어선 사회적 담론이 되어야 한다"고 밝혔습니다.
+로봇이 인간 업무 환경에 자연스럽게 녹아들 수 있을지 RX(Robots Experience)과 같은 “로봇 사회성”도 중요한 요소로 자리잡을 것 같습니다.</description><pubDate>Fri, 22 May 2026 14:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYpPUsqik-F</guid></item><item><title>전 구글 CEO 에릭 슈미트는 애리조나 대학교 졸업식 연설에서 AI가 가져올 변화와 미래의 생존 전략에 대해 강조했습니다.
 
-특히 AI가 스스로 성능을 개선하는 '재귀적 자기 개선' 등 강력한 성능적 특이점이나 사이버 보안 위협이 도래할 때, 지금보다 훨씬 더 책임감 있는 태도로 대응해야 한다고 분석했습니다.</description><pubDate>Fri, 22 May 2026 08:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYomD9ZAR1f</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=IB7IW6zX-H0</title><link>https://www.threads.net/@choi.openai/post/DYomFSwgfmn</link><description>풀영상 :
-https://www.youtube.com/watch?v=IB7IW6zX-H0</description><pubDate>Fri, 22 May 2026 08:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYomFSwgfmn</guid></item><item><title>SaaS 업계의 경쟁이 점점 더 잔인해지고 있습니다.
+그는 AI가 모든 ...</title><link>https://www.threads.net/@choi.openai/post/DYpFBjUAV-9</link><description>전 구글 CEO 에릭 슈미트는 애리조나 대학교 졸업식 연설에서 AI가 가져올 변화와 미래의 생존 전략에 대해 강조했습니다.
 
-어제 Figma가 디자인 캔버스 안에서 바로 동작하는 “Figma Agent”를 공개했습...</title><link>https://www.threads.net/@choi.openai/post/DYobt33AIHm</link><description>SaaS 업계의 경쟁이 점점 더 잔인해지고 있습니다.
+그는 AI가 모든 직업, 교실, 병원, 연구실, 그리고 인간관계까지 삶의 모든 영역에 영향을 미칠 것이라며, 이에 대한 대중의 두려움을 인정했습니다.
+변혁의 정확한 형태는 알 수 없지만, "어떤 경로를 선택하든 AI는 일하는 방식의 일부가 될 것"이라고 단언했습니다.
 
-어제 Figma가 디자인 캔버스 안에서 바로 동작하는 “Figma Agent”를 공개했습니다. 
-예전에는 SaaS 회사들이 “AI 기능 추가” 정도로 대응했다면, 이제는 제품 자체가 AI 네이티브 형태로 다시 설계되는 분위기입니다.
+특히 일자리와 성능 측면에서, 이제는 세상의 문제를 해결하기 위해 "혼자서는 절대 이룰 수 없는 부분을 도와줄 AI 에이전트 팀을 구성할 수 있는 시대"가 왔다고 설명했습니다.
 
-문제는 최근 시장에서 AI 흐름을 제대로 제품에 녹여내지 못한 SaaS 기업들이 빠르게 경쟁력을 잃고 있고, 실제로 주가까지 흔들리는 사례들이 계속 나오고 있습니다.
+과학 기술에 관심이 없더라도 AI는 모든 분야를 바꿀 것이기에, 다가오는 기술 변화를 거부하기보다 "‘예스(Yes)’라고 말할 방법을 찾으라"며 적극적인 수용을 조언했습니다.</description><pubDate>Fri, 22 May 2026 13:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYpFBjUAV-9</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=tNH43a1EI7s</title><link>https://www.threads.net/@choi.openai/post/DYpFCiOgVIk</link><description>풀영상 :
+https://www.youtube.com/watch?v=tNH43a1EI7s</description><pubDate>Fri, 22 May 2026 13:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYpFCiOgVIk</guid></item><item><title>NVIDIA가 "Verified Agent Skills"를 공개했습니다.
+Claude Code, OpenAI Codex, Cursor 같은 에이...</title><link>https://www.threads.net/@choi.openai/post/DYo6qNXD0he</link><description>NVIDIA가 "Verified Agent Skills"를 공개했습니다.
+Claude Code, OpenAI Codex, Cursor 같은 에이전트에서 사용할 수 있는 스킬에 대해 출처, 권한, 위험 요소, 수정 여부를 확인할 수 있게 하는 구조입니다.
 
-동시에 오픈AI, 구글 같은 모델 제공사들도 단순 API 공급에서 끝나지 않고, Codex, Gemini, Flow처럼 자사 서비스 안으로 워크플로우 자체를 직접 흡수하려는 움직임을 강화하고 있습니다.
+스킬이 확장되면서 에이전트가 코딩, 검색, 파일 접근, API 호출까지 수행하게 되고, 잘못된 스킬 하나가 데이터 유출이나 악성 명령 실행으로 이어질 수 있습니다.
 
-결국 SaaS 기업 입장에서는 AI 기능을 넣지 않아도 위험하고, 넣더라도 모델 회사와 직접 경쟁해야 하는 상황이 되어가고 있습니다.</description><pubDate>Fri, 22 May 2026 06:59:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYobt33AIHm</guid></item><item><title>아마존 창업자 제프 베이조스(Jeff Bezos)는 AI가 소프트웨어 엔지니어나 방사선 전문의 같은 전문직을 완전히 대체할 것이라는 주장에 대해...</title><link>https://www.threads.net/@choi.openai/post/DYoRgL1j_73</link><description>아마존 창업자 제프 베이조스(Jeff Bezos)는 AI가 소프트웨어 엔지니어나 방사선 전문의 같은 전문직을 완전히 대체할 것이라는 주장에 대해 “그 생각은 틀렸다”고 말합니다.
+그래서 NVIDIA는 스킬 카드, 보안 스캔, 서명 검증을 붙였습니다. AI가 OS처럼 되고, 스킬이 설치형 소프트웨어처럼 되는 흐름입니다.
 
-그는 현재 상황을 삽으로 마당을 파던 사람에게 불도저를 쥐여주는 것에 비유하며, AI가 인간을 없애는 것이 아니라 생산성을 극적으로 끌어올리는 도구가 될 것이라고 강조했습니다.
-즉, 기술이 사람들을 도태시키는 게 아니라 그들의 가치를 도리어 높여줄 것이라는 분석입니다.
+AI가 빠르게 발전할수록 이에 발맞춰 적응하려는 소비자들은 “일단 연결하고 사용해보자”가 기본 흐름이 되고 있는데요.
 
-이어서 그는 AI가 가져올 폭발적인 생산성 향상 덕분에 경제 전반에 큰 변화가 일어날 것으로 예측했습니다.
-
-맞벌이 가구 중 한 명이 직장을 그만두더라도 충분한 생활이 가능해지면서 오히려 노동력 부족 현상이 발생할 수 있으며, 규제로 기술 발전의 발목을 잡지 않는다면 핵심 물가가 하락하는 디플레이션 시대가 올 것이라고 전망했습니다.</description><pubDate>Fri, 22 May 2026 05:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYoRgL1j_73</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=BxG_ysI3xr4</title><link>https://www.threads.net/@choi.openai/post/DYoRhJ4D1N5</link><description>풀영상 :
-https://www.youtube.com/watch?v=BxG_ysI3xr4</description><pubDate>Fri, 22 May 2026 05:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYoRhJ4D1N5</guid></item></channel></rss>
+문제는 에이전트 시대에는 작은 권한 하나도 실제 데이터 접근과 실행으로 이어질 수 있기 때문에, 앞으로는 성능만큼 “무엇을 믿고 연결할 수 있나”도 꽤 중요한 기준이 될 것 같습니다.</description><pubDate>Fri, 22 May 2026 11:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYo6qNXD0he</guid></item><item><title>깃허브 :
+https://github.com/nvidia/skills/</title><link>https://www.threads.net/@choi.openai/post/DYo6rFnj5dY</link><description>깃허브 :
+https://github.com/nvidia/skills/</description><pubDate>Fri, 22 May 2026 11:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYo6rFnj5dY</guid></item></channel></rss>
