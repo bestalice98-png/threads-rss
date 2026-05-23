@@ -1,43 +1,60 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 22 May 2026 17:01:38 +0000</lastBuildDate><item><title>순다 피차이(Sundar Pichai)는 AI가 소프트웨어 엔지니어링의 패러다임을 바꾸고 있다며, 앞으로는 단순히 코드를 작성하는 능력을 넘어 ...</title><link>https://www.threads.net/@choi.openai/post/DYpZhdME9oc</link><description>순다 피차이(Sundar Pichai)는 AI가 소프트웨어 엔지니어링의 패러다임을 바꾸고 있다며, 앞으로는 단순히 코드를 작성하는 능력을 넘어 “에이전트 기반의 코딩”이 핵심 평가지표가 될 것이라고 강조했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 23 May 2026 02:56:06 +0000</lastBuildDate><item><title>지능이 점점 저렴해지고 있습니다.
 
-개발자들은 이제 혼자 일하는 것이 아니라, 연중무휴 작동하며 긴 호흡의 복잡한 태스크를 대신 처리해 주는 '에이전트 팀'을 거느리게 될 것입니다.
+a16z가 공개한 최신 데이터에 따르면 AI 토큰 가격은 계속 내려가는데, 사용량은 오히려 폭증하고 있습니다...</title><link>https://www.threads.net/@choi.openai/post/DYqhntRj0AC</link><description>지능이 점점 저렴해지고 있습니다.
 
-그는 현재의 AI 수준이 3년 뒤에는 마치 '폴더'처럼 원시적으로 보일 만큼 급격한 성능 향상이 다가오고 있다고 진단했습니다.
+a16z가 공개한 최신 데이터에 따르면 AI 토큰 가격은 계속 내려가는데, 사용량은 오히려 폭증하고 있습니다.
+또한, 작년까지만 해도 대부분의 투자자들이 AI 반도체·메모리 슈퍼사이클을 놓쳤는데, 올해 Sohn Conference에선 거의 모든 발표가 AI 인프라 이야기였습니다.
 
-“AI는 코딩을 훨씬 더 재미있게 만들고, 인간을 창의성, 문제 해결, 브레인스토밍에 집중할 수 있도록 해줄 것입니다.”</description><pubDate>Fri, 22 May 2026 16:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYpZhdME9oc</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=zBOoEpsjWAo</title><link>https://www.threads.net/@choi.openai/post/DYpZjPxk0ym</link><description>풀영상 :
-https://www.youtube.com/watch?v=zBOoEpsjWAo</description><pubDate>Fri, 22 May 2026 16:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYpZjPxk0ym</guid></item><item><title>Tesla Optimus V2.5의 새로운 보행 영상이 공개됐는데요.
+정말 중요하게 봐야할 지금 시장에서 벌어지는 변화들을 정리했습니다🧵</description><pubDate>Sat, 23 May 2026 02:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYqhntRj0AC</guid></item><item><title>1/ Sohn 투자 컨퍼런스의 사례를 보면 시장의 예측이 얼마나 자주 빗나가는지 알 수 있습니다.
 
-이전보다 훨씬 사람처럼 자연스럽게 걷는 모습이 인상적입니다. 무게 중심 ...</title><link>https://www.threads.net/@choi.openai/post/DYpPUsqik-F</link><description>Tesla Optimus V2.5의 새로운 보행 영상이 공개됐는데요.
+작년 행사에서 AI 붐과 메모리 반도체의 부...</title><link>https://www.threads.net/@choi.openai/post/DYqhoYwj6b0</link><description>1/ Sohn 투자 컨퍼런스의 사례를 보면 시장의 예측이 얼마나 자주 빗나가는지 알 수 있습니다.
 
-이전보다 훨씬 사람처럼 자연스럽게 걷는 모습이 인상적입니다. 무게 중심 이동이나 팔 흔들림 같은 작은 움직임들이 꽤 인간에 가까워졌습니다.
+작년 행사에서 AI 붐과 메모리 반도체의 부상을 예측한 전문 투자자는 단 한 명도 없었습니다. 오히려 직격탄을 맞은 SaaS 기업들을 추천하는 목소리가 컸습니다.
 
-사실 로봇 발전을 이야기할 때는 작업 성공률이나 손기술에 집중하는 경우가 많습니다. 그런데 실제 사람들과 함께 움직이게 되면, “얼마나 어색하지 않은가”도 굉장히 중요한 요소가 됩니다.
+하지만 올해 행사에서는 전력, 실리콘, 데이터센터 등 모든 주제가 AI로 집중되었습니다.
 
-특히 안내, 서비스, 쇼룸 같은 공간에서는 기능만큼 존재감 자체의 디자인도 중요해질 가능성이 큽니다.
+불과 1년 만에 전문 투자자들의 시각이 완전히 뒤집힌 셈입니다. 이는 AI 기술과 시장의 변화 속도가 전문가들의 예측을 훌쩍 뛰어넘었음을 보여줍니다.
 
-로봇이 인간 업무 환경에 자연스럽게 녹아들 수 있을지 RX(Robots Experience)과 같은 “로봇 사회성”도 중요한 요소로 자리잡을 것 같습니다.</description><pubDate>Fri, 22 May 2026 14:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYpPUsqik-F</guid></item><item><title>전 구글 CEO 에릭 슈미트는 애리조나 대학교 졸업식 연설에서 AI가 가져올 변화와 미래의 생존 전략에 대해 강조했습니다.
+흥미로운 점은 AI로 인해 타격을 받을 '패자'는 찾기 쉽지만, 실제로 막대한 이익을 가져갈 진짜 '승자'가 누구일지 짚어내는 것은 여전히 매우 어렵다는 사실입니다.</description><pubDate>Sat, 23 May 2026 02:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYqhoYwj6b0</guid></item><item><title>2/ 대학 전공 선택에서도 매우 뚜렷한 변화가 나타나고 있습니다.
 
-그는 AI가 모든 ...</title><link>https://www.threads.net/@choi.openai/post/DYpFBjUAV-9</link><description>전 구글 CEO 에릭 슈미트는 애리조나 대학교 졸업식 연설에서 AI가 가져올 변화와 미래의 생존 전략에 대해 강조했습니다.
+한때 최고 인기였던 컴퓨터 공학(CS)과 IT 관련 전공의 등록률이 최근 2...</title><link>https://www.threads.net/@choi.openai/post/DYqhpl7D-mV</link><description>2/ 대학 전공 선택에서도 매우 뚜렷한 변화가 나타나고 있습니다.
 
-그는 AI가 모든 직업, 교실, 병원, 연구실, 그리고 인간관계까지 삶의 모든 영역에 영향을 미칠 것이라며, 이에 대한 대중의 두려움을 인정했습니다.
-변혁의 정확한 형태는 알 수 없지만, "어떤 경로를 선택하든 AI는 일하는 방식의 일부가 될 것"이라고 단언했습니다.
+한때 최고 인기였던 컴퓨터 공학(CS)과 IT 관련 전공의 등록률이 최근 2018년 수준으로 곤두박질치며 비중이 약 3분의 1가량 감소했습니다.
 
-특히 일자리와 성능 측면에서, 이제는 세상의 문제를 해결하기 위해 "혼자서는 절대 이룰 수 없는 부분을 도와줄 AI 에이전트 팀을 구성할 수 있는 시대"가 왔다고 설명했습니다.
+반면 일반 공학과 금융 전공은 눈에 띄게 상승하고 있습니다. 이러한 현상의 가장 큰 원인은 '임금 프리미엄'의 변화입니다.
 
-과학 기술에 관심이 없더라도 AI는 모든 분야를 바꿀 것이기에, 다가오는 기술 변화를 거부하기보다 "‘예스(Yes)’라고 말할 방법을 찾으라"며 적극적인 수용을 조언했습니다.</description><pubDate>Fri, 22 May 2026 13:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYpFBjUAV-9</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=tNH43a1EI7s</title><link>https://www.threads.net/@choi.openai/post/DYpFCiOgVIk</link><description>풀영상 :
-https://www.youtube.com/watch?v=tNH43a1EI7s</description><pubDate>Fri, 22 May 2026 13:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYpFCiOgVIk</guid></item><item><title>NVIDIA가 "Verified Agent Skills"를 공개했습니다.
-Claude Code, OpenAI Codex, Cursor 같은 에이...</title><link>https://www.threads.net/@choi.openai/post/DYo6qNXD0he</link><description>NVIDIA가 "Verified Agent Skills"를 공개했습니다.
-Claude Code, OpenAI Codex, Cursor 같은 에이전트에서 사용할 수 있는 스킬에 대해 출처, 권한, 위험 요소, 수정 여부를 확인할 수 있게 하는 구조입니다.
+일반 공학 직군의 임금 프리미엄은 상승한 반면, 컴퓨터 공학 전공자가 누리던 임금 우위는 크게 압축되었습니다.
 
-스킬이 확장되면서 에이전트가 코딩, 검색, 파일 접근, API 호출까지 수행하게 되고, 잘못된 스킬 하나가 데이터 유출이나 악성 명령 실행으로 이어질 수 있습니다.
+학생들은 철저하게 시장의 가격 신호, 즉 연봉 흐름을 따라 전공을 바꾸고 있습니다. 
 
-그래서 NVIDIA는 스킬 카드, 보안 스캔, 서명 검증을 붙였습니다. AI가 OS처럼 되고, 스킬이 설치형 소프트웨어처럼 되는 흐름입니다.
+AI가 코딩의 상당 부분을 대체하기 시작하면서 개발자라는 직업이 주던 경제적 기대 수익이 과거와 달라졌음을 보여주는 객관적인 지표입니다.</description><pubDate>Sat, 23 May 2026 02:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYqhpl7D-mV</guid></item><item><title>3/ 거시적으로 보면 상위 1%의 거대 기업이 전체 매출의 80%를 차지할 정도로 부의 집중이 심해졌습니다.
 
-AI가 빠르게 발전할수록 이에 발맞춰 적응하려는 소비자들은 “일단 연결하고 사용해보자”가 기본 흐름이 되고 있는데요.
+하지만 그 이면에서는 직원을 두지...</title><link>https://www.threads.net/@choi.openai/post/DYqhq50j6Ss</link><description>3/ 거시적으로 보면 상위 1%의 거대 기업이 전체 매출의 80%를 차지할 정도로 부의 집중이 심해졌습니다.
 
-문제는 에이전트 시대에는 작은 권한 하나도 실제 데이터 접근과 실행으로 이어질 수 있기 때문에, 앞으로는 성능만큼 “무엇을 믿고 연결할 수 있나”도 꽤 중요한 기준이 될 것 같습니다.</description><pubDate>Fri, 22 May 2026 11:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYo6qNXD0he</guid></item><item><title>깃허브 :
-https://github.com/nvidia/skills/</title><link>https://www.threads.net/@choi.openai/post/DYo6rFnj5dY</link><description>깃허브 :
-https://github.com/nvidia/skills/</description><pubDate>Fri, 22 May 2026 11:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYo6rFnj5dY</guid></item></channel></rss>
+하지만 그 이면에서는 직원을 두지 않는 '나홀로 창업(Solopreneur)'이 폭발적으로 늘어나는 현상이 벌어지고 있습니다.
+
+최근 데이터에 따르면 채용 계획이 없는 1인 창업자의 증가세가 가장 두드러집니다.
+
+AI 도구의 발전이 창업의 진입 장벽을 크게 낮추었기 때문입니다. 기획, 디자인, 개발, 마케팅 등 과거에는 사람을 고용해야만 가능했던 업무들을 이제는 AI를 활용해 혼자서 처리할 수 있습니다.
+
+1인당 발생하는 반복 수익(ARR/FTE)을 극대화할 수 있는 환경이 열린 것입니다.
+
+소수의 거대 기업이 시장을 지배하는 동시에, AI로 무장한 1인 기업들이 틈새에서 이익을 가져가는 구조가 만들어지고 있습니다.</description><pubDate>Sat, 23 May 2026 02:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYqhq50j6Ss</guid></item><item><title>심장 떨어질뻔..</title><link>https://www.threads.net/@choi.openai/post/DYqaixkD496</link><description>심장 떨어질뻔..</description><pubDate>Sat, 23 May 2026 01:28:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYqaixkD496</guid></item><item><title>이제 검증되지 않은 영상은 절대 맹신하면 안 되는 시대가 온 것 같습니다.
+
+영상에서 인물을 제거하는 것뿐만 아니라, 아예 추가하는 것도 가능하...</title><link>https://www.threads.net/@choi.openai/post/DYqYtDMlc3R</link><description>이제 검증되지 않은 영상은 절대 맹신하면 안 되는 시대가 온 것 같습니다.
+
+영상에서 인물을 제거하는 것뿐만 아니라, 아예 추가하는 것도 가능하다는 사실을 알게 됐습니다.
+
+그리고 이런 기술은 선동이나 조작에 굉장히 취약해 보입니다.</description><pubDate>Sat, 23 May 2026 01:12:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYqYtDMlc3R</guid></item><item><title>앤트로픽 공동창업자 잭 클라크 :
+
+- 1년 안에 AI가 노벨상급 발견에 기여하고
+- 2년 안에 이족보행 로봇이 실제 현장 업무를 돕고
+- 18...</title><link>https://www.threads.net/@choi.openai/post/DYqT6s3kn18</link><description>앤트로픽 공동창업자 잭 클라크 :
+
+- 1년 안에 AI가 노벨상급 발견에 기여하고
+- 2년 안에 이족보행 로봇이 실제 현장 업무를 돕고
+- 18개월 안에는 AI만으로 운영되는 기업이 수백만 달러 수익을 만들고
+- 2028년 말에는 AI가 자신의 후속 모델까지 설계할 수 있게 될 것</description><pubDate>Sat, 23 May 2026 00:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYqT6s3kn18</guid></item><item><title>기사 :
+https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-d...</title><link>https://www.threads.net/@choi.openai/post/DYqT7q8El1l</link><description>기사 :
+https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic</description><pubDate>Sat, 23 May 2026 00:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYqT7q8El1l</guid></item></channel></rss>
