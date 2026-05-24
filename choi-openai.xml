@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 24 May 2026 09:54:05 +0000</lastBuildDate><item><title>얀 르쿤(Yann LeCun)은 “LLM은 본질적으로 안전하지 않으며(intrinsically unsafe), 결코 완전히 신뢰할 수 없다”고 ...</title><link>https://www.threads.net/@choi.openai/post/DYtzEZaApyT</link><description>얀 르쿤(Yann LeCun)은 “LLM은 본질적으로 안전하지 않으며(intrinsically unsafe), 결코 완전히 신뢰할 수 없다”고 말합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 24 May 2026 15:53:23 +0000</lastBuildDate><item><title>이번주 AI 업계는 충격적인 소식으로 가득했습니다.
+
+에이전트, 영상 생성, 로봇, 검색, 운영체제까지
+지금 벌어지는 변화의 방향이 이번 구글 ...</title><link>https://www.threads.net/@choi.openai/post/DYuVvqtj8Av</link><description>이번주 AI 업계는 충격적인 소식으로 가득했습니다.
+
+에이전트, 영상 생성, 로봇, 검색, 운영체제까지
+지금 벌어지는 변화의 방향이 이번 구글 I/O에 다 담겨있었습니다.
+
+실제로 업계가 어디로 가고 있는지 보여주는 핵심 사례 17가지를 정리했습니다🧵</description><pubDate>Sun, 24 May 2026 14:03:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYuVvqtj8Av</guid></item><item><title>1/ 구글 I/O 현장 내용을 정리했습니다.</title><link>https://www.threads.net/@choi.openai/post/DYuVwK6j-8L</link><description>1/ 구글 I/O 현장 내용을 정리했습니다.</description><pubDate>Sun, 24 May 2026 14:03:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYuVwK6j-8L</guid></item><item><title>2/ Unitree가 G1 데모를 공개했습니다.
+음성 명령을 받으면 로봇이 상황에 맞는 동작을 즉석에서 만들어 수행합니다.
+과거 텐센트의 "HY...</title><link>https://www.threads.net/@choi.openai/post/DYuVwsGj7AV</link><description>2/ Unitree가 G1 데모를 공개했습니다.
+음성 명령을 받으면 로봇이 상황에 맞는 동작을 즉석에서 만들어 수행합니다.
+과거 텐센트의 "HY-Motion"(3D 동작 생성)과 비슷한 흐름입니다.</description><pubDate>Sun, 24 May 2026 14:03:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYuVwsGj7AV</guid></item><item><title>3/ 메타 내부 음성에서 마크 저커버그는 뛰어난 직원의 문제 해결 과정을 AI가 학습해야 성능이 빨리 좋아진다고 말했습니다.
+업계에서는 인간 전...</title><link>https://www.threads.net/@choi.openai/post/DYuVxLiD8gF</link><description>3/ 메타 내부 음성에서 마크 저커버그는 뛰어난 직원의 문제 해결 과정을 AI가 학습해야 성능이 빨리 좋아진다고 말했습니다.
+업계에서는 인간 전문가의 작업 흐름을 데이터로 쌓는 방식이 중요해졌다고 보고 있습니다.</description><pubDate>Sun, 24 May 2026 14:03:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYuVxLiD8gF</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)는 사람들이 AI를 자의식을 가진 생명체로 볼 것인지, 아니면 하나의 도구로 볼 것인지 혼란스러워...</title><link>https://www.threads.net/@choi.openai/post/DYuHpJJjo_G</link><description>오픈AI CEO 샘 알트만(Sam Altman)는 사람들이 AI를 자의식을 가진 생명체로 볼 것인지, 아니면 하나의 도구로 볼 것인지 혼란스러워한다며 “이는 거대한 로르샤흐 테스트(Rorschach test, 사람의 성향에 따라 해석이 달라지는 그림 테스트)와 같다”고 비유했습니다.
+
+알트만은 AI가 영화에 나오는 것처럼 스스로 생각하는 존재가 아닌, 결국 인간이 통제하는 '강력한 도구'일 뿐이라고 단언합니다.
+
+예를 들어 오픈AI의 차기 CEO가 인공지능이 되고 그 AI가 인류를 위한 고도화된 비즈니스나 코딩, 경제적 인프라를 구축하더라도, 결국 “인간이 프롬프트를 작성하고 목표를 설정해야 한다”는 본질은 변하지 않는다는 것입니다.
+
+AI가 아무리 복잡한 퀘스트를 수행하더라도 그 시작점에는 항상 인간의 의도가 존재합니다.</description><pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYuHpJJjo_G</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=R8_uTmpqafE</title><link>https://www.threads.net/@choi.openai/post/DYuHp4wjmMt</link><description>풀영상 :
+https://www.youtube.com/watch?v=R8_uTmpqafE</description><pubDate>Sun, 24 May 2026 12:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYuHp4wjmMt</guid></item><item><title>Gemini Omni가 심상치 않습니다.
+
+몇 년 전만 해도 고양이 이미지 하나 생성하려고 몇 시간씩 기다렸는데,
+이제는 영상 하나를 올리고 텍...</title><link>https://www.threads.net/@choi.openai/post/DYt7HwWDwSS</link><description>Gemini Omni가 심상치 않습니다.
+
+몇 년 전만 해도 고양이 이미지 하나 생성하려고 몇 시간씩 기다렸는데,
+이제는 영상 하나를 올리고 텍스트 지시만으로 런던 거리, 영화 장면, 카메라 구도까지 전부 바꿔버립니다.
+
+AI 영상 편집의 기준 자체가 달라지고 있습니다.
+놀라운 활용 사례들과 핵심 흐름을 정리했습니다🧵</description><pubDate>Sun, 24 May 2026 10:10:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYt7HwWDwSS</guid></item><item><title>1/ 웨이모 한국배경으로 변경</title><link>https://www.threads.net/@choi.openai/post/DYt6lfuAFQM</link><description>1/ 웨이모 한국배경으로 변경</description><pubDate>Sun, 24 May 2026 10:10:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYt6lfuAFQM</guid></item><item><title>2/ 빈 방 영상, 인테리어 배치</title><link>https://www.threads.net/@choi.openai/post/DYt6nJumGq0</link><description>2/ 빈 방 영상, 인테리어 배치</description><pubDate>Sun, 24 May 2026 10:10:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYt6nJumGq0</guid></item><item><title>3/ 애니메이션 실사화</title><link>https://www.threads.net/@choi.openai/post/DYt6pIxDA6L</link><description>3/ 애니메이션 실사화</description><pubDate>Sun, 24 May 2026 10:10:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYt6pIxDA6L</guid></item><item><title>얀 르쿤(Yann LeCun)은 “LLM은 본질적으로 안전하지 않으며(intrinsically unsafe), 결코 완전히 신뢰할 수 없다”고 ...</title><link>https://www.threads.net/@choi.openai/post/DYtzEZaApyT</link><description>얀 르쿤(Yann LeCun)은 “LLM은 본질적으로 안전하지 않으며(intrinsically unsafe), 결코 완전히 신뢰할 수 없다”고 말합니다.
 
 LLM의 고질적인 문제인 '환각(Hallucination)' 현상을 완벽히 제어할 수 없을 뿐만 아니라, 향후 스스로 행동하는 에이전트 시스템으로 확장될 경우 자신이 초래할 결과나 위험을 예측하지 못해 예상치 못한 파괴적 행동을 할 수 있기 때문입니다.
 
@@ -7,34 +38,4 @@ LLM의 고질적인 문제인 '환각(Hallucination)' 현상을 완벽히 제어
 
 그는 LLM이 프롬프트에 따라 작동하는 방식은 “단순히 훈련 데이터에 의해 조건화된 작업(conditioned to tasks)을 수행하는 것뿐”이라며, 기술의 안전성을 강제할 수 있는 하드웨어적·구조적 제어 장치가 부재한 현재의 LLM 방식으로는 완전한 신뢰성을 확보하기 어려울 것이라고 강조했습니다.</description><pubDate>Sun, 24 May 2026 09:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtzEZaApyT</guid></item><item><title>풀영상 :
 https://www.youtube.com/watch?v=ngBraLDqzdI</title><link>https://www.threads.net/@choi.openai/post/DYtzGapgo6_</link><description>풀영상 :
-https://www.youtube.com/watch?v=ngBraLDqzdI</description><pubDate>Sun, 24 May 2026 09:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtzGapgo6_</guid></item><item><title>오픈AI의 연구원 노암 브라운(Noam Brown)은 대담을 통해 추론 연산(Inference Compute)의 중요성이 시장에서 크게 저평가되...</title><link>https://www.threads.net/@choi.openai/post/DYtoxS2Aqnf</link><description>오픈AI의 연구원 노암 브라운(Noam Brown)은 대담을 통해 추론 연산(Inference Compute)의 중요성이 시장에서 크게 저평가되어 있으며, 기존의 AI 성능 측정 방식이 완전히 바뀌어야 한다고 주장했습니다.
-
-그는 새로운 AI 모델이 출시될 때마다 단 하나의 고정된 '벤치마크 점수'로 성능을 평가하는 방식은 과거 GPT-2나 GPT-3 시절에나 통했던 구시대적 발상이라고 꼬집었습니다.
-
-이제는 프롬프트 엔지니어링이나 '생각의 사슬(Chain of Thought)', 그리고 복잡한 추론 모델의 등장으로 인해 고정된 성능 점수는 무의미해졌다고 분석했습니다.
-
-특히 브라운은 AI의 지능이 추론 연산량에 비례하는 시대가 도래했다고 보았습니다.
-
-“사용자가 추론 비용을 10달러에서 1,000달러, 혹은 100만 달러로 늘려 수많은 쿼리를 엮어 나간다면, 처음 출시된 모델보다 비교할 수 없이 강력한 지능을 발휘하게 된다”고 설명했습니다.</description><pubDate>Sun, 24 May 2026 07:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtoxS2Aqnf</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=wKwLDaPP6YI</title><link>https://www.threads.net/@choi.openai/post/DYtozX5grQ6</link><description>풀영상 :
-https://www.youtube.com/watch?v=wKwLDaPP6YI</description><pubDate>Sun, 24 May 2026 07:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtozX5grQ6</guid></item><item><title>구글 CEO 순다 피차이(Sundar Pichai)는 현재 AI 시장이 매우 역동적이며 경쟁이 극에 달해 있다고 진단했습니다.
-
-각 기업마다 고...</title><link>https://www.threads.net/@choi.openai/post/DYtehCfDxyM</link><description>구글 CEO 순다 피차이(Sundar Pichai)는 현재 AI 시장이 매우 역동적이며 경쟁이 극에 달해 있다고 진단했습니다.
-
-각 기업마다 고유한 강점과 약점이 있고, 모델의 사전 학습 및 출시 주기가 다르기 때문에 수시로 대중의 기술적 인식이 뒤바뀌고 있다고 분석했습니다.
-
-그러면서도 “소수의 연구소만이 진정한 기술의 전선(Frontier)에 서 있고, 그 뒤로는 큰 격차가 존재한다”고 명확히 짚었습니다.
-
-특히 AI가 스스로를 개선하는 '재귀적 자기 개선(Recursive Self-Improvement)' 단계에 이르면, 과거 사이버 안보의 중대한 전환점들과는 비교할 수 없을 만큼 강력한 파급력을 가질 것이라고 경고했습니다.
-
-그는 “AI가 발전할수록 이는 개별 기업의 문제를 넘어선 거대한 사회적 논의가 되어야 한다”고 강조하며, 폭발적인 기술 성능 향상에 맞춰 인류가 더욱 책임감 있는 자세로 미래를 설계해야 한다고 피력했습니다.</description><pubDate>Sun, 24 May 2026 06:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtehCfDxyM</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=9C20esBUf-Q</title><link>https://www.threads.net/@choi.openai/post/DYteh61D6oj</link><description>풀영상 :
-https://www.youtube.com/watch?v=9C20esBUf-Q</description><pubDate>Sun, 24 May 2026 06:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYteh61D6oj</guid></item><item><title>안두릴(Anduril)의 창업자 팔머 럭키(Palmer Luckey)는 국방 및 군사 분야에서의 AI 성능과 대중이 가지는 막연한 공포심의 차이...</title><link>https://www.threads.net/@choi.openai/post/DYtULHyCNaJ</link><description>안두릴(Anduril)의 창업자 팔머 럭키(Palmer Luckey)는 국방 및 군사 분야에서의 AI 성능과 대중이 가지는 막연한 공포심의 차이에 대해 직설적인 분석을 내놓았습니다.
-
-그는 챗GPT 같은 LLM의 무작위성이나 환각 현상 때문에 AI의 국방 적용을 우려하는 시선에 대해, 전투기 비행이나 어선과 군함을 구별하는 군사 AI는 열화상, 가시적 외형, 전자기 방출 등의 명확한 물리적 데이터를 기반으로 작동하기 때문에 실수할 확률이 거의 없다고 선을 그었습니다.
-
-그는 대중이 AI를 할리우드 영화 속 '터미네이터'처럼 자의식을 가진 위험한 존재로 바라보는 경향이 있지만, 이는 현실과 동떨어진 상상이라고 지적했습니다.
-
-팔머 럭키는 자의식을 가진 AI의 위협보다는 오히려 “특정 인종을 표적으로 삼는 생화학 무기 개발이나 농업 자원을 파괴하는 박테리아 제조에 AI가 오용되는 것”이 현재로서는 훨씬 더 실존적이고 두려운 경제·안보적 위협이라고 강조했습니다.</description><pubDate>Sun, 24 May 2026 04:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtULHyCNaJ</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=--Ef5Q-3Iq8</title><link>https://www.threads.net/@choi.openai/post/DYtUNkbCK8t</link><description>풀영상 :
-https://www.youtube.com/watch?v=--Ef5Q-3Iq8</description><pubDate>Sun, 24 May 2026 04:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtUNkbCK8t</guid></item></channel></rss>
+https://www.youtube.com/watch?v=ngBraLDqzdI</description><pubDate>Sun, 24 May 2026 09:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtzGapgo6_</guid></item></channel></rss>
