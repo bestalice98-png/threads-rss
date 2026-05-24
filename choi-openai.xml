@@ -1,63 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 24 May 2026 03:36:22 +0000</lastBuildDate><item><title>대규모 코드베이스에서 AI 코딩을 제대로 쓰는 법이 드러났습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 24 May 2026 09:54:05 +0000</lastBuildDate><item><title>얀 르쿤(Yann LeCun)은 “LLM은 본질적으로 안전하지 않으며(intrinsically unsafe), 결코 완전히 신뢰할 수 없다”고 ...</title><link>https://www.threads.net/@choi.openai/post/DYtzEZaApyT</link><description>얀 르쿤(Yann LeCun)은 “LLM은 본질적으로 안전하지 않으며(intrinsically unsafe), 결코 완전히 신뢰할 수 없다”고 말합니다.
 
-앤트로픽은 Claude Code가 수백만 줄짜리 모노레포와 오래된 레거시 시...</title><link>https://www.threads.net/@choi.openai/post/DYtJ60rD-dq</link><description>대규모 코드베이스에서 AI 코딩을 제대로 쓰는 법이 드러났습니다.
+LLM의 고질적인 문제인 '환각(Hallucination)' 현상을 완벽히 제어할 수 없을 뿐만 아니라, 향후 스스로 행동하는 에이전트 시스템으로 확장될 경우 자신이 초래할 결과나 위험을 예측하지 못해 예상치 못한 파괴적 행동을 할 수 있기 때문입니다.
 
-앤트로픽은 Claude Code가 수백만 줄짜리 모노레포와 오래된 레거시 시스템에서도 실제로 쓰이고 있다고 밝혔습니다.
+르쿤은 코딩 테스트 등 특정 검증이 가능한 영역에서 AI가 성과를 내는 것은 인정하지만, 현실 세계의 모든 문제가 코딩처럼 명확히 검증될 수 없다고 지적했습니다.
 
-핵심은 모델 성능보다 CLAUDE.md, hooks, skills, plugins, LSP, MCP를 어떻게 묶느냐였습니다.
-실무 적용 사례와 설정법을 정리했습니다🧵</description><pubDate>Sun, 24 May 2026 03:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtJ60rD-dq</guid></item><item><title>1/ 2/ 성공적인 도입을 위해서는 AI 모델 자체의 성능보다 모델을 둘러싼 '하네스(Harness, 확장 계층)' 구성이 훨씬 중요합니다.
+그는 LLM이 프롬프트에 따라 작동하는 방식은 “단순히 훈련 데이터에 의해 조건화된 작업(conditioned to tasks)을 수행하는 것뿐”이라며, 기술의 안전성을 강제할 수 있는 하드웨어적·구조적 제어 장치가 부재한 현재의 LLM 방식으로는 완전한 신뢰성을 확보하기 어려울 것이라고 강조했습니다.</description><pubDate>Sun, 24 May 2026 09:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtzEZaApyT</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=ngBraLDqzdI</title><link>https://www.threads.net/@choi.openai/post/DYtzGapgo6_</link><description>풀영상 :
+https://www.youtube.com/watch?v=ngBraLDqzdI</description><pubDate>Sun, 24 May 2026 09:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtzGapgo6_</guid></item><item><title>오픈AI의 연구원 노암 브라운(Noam Brown)은 대담을 통해 추론 연산(Inference Compute)의 중요성이 시장에서 크게 저평가되...</title><link>https://www.threads.net/@choi.openai/post/DYtoxS2Aqnf</link><description>오픈AI의 연구원 노암 브라운(Noam Brown)은 대담을 통해 추론 연산(Inference Compute)의 중요성이 시장에서 크게 저평가되어 있으며, 기존의 AI 성능 측정 방식이 완전히 바뀌어야 한다고 주장했습니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/DYtJ7wSD-YT</link><description>1/ 2/ 성공적인 도입을 위해서는 AI 모델 자체의 성능보다 모델을 둘러싼 '하네스(Harness, 확장 계층)' 구성이 훨씬 중요합니다.
+그는 새로운 AI 모델이 출시될 때마다 단 하나의 고정된 '벤치마크 점수'로 성능을 평가하는 방식은 과거 GPT-2나 GPT-3 시절에나 통했던 구시대적 발상이라고 꼬집었습니다.
 
-첫 단추는 CLAUDE.md 파일입니다. 프로젝트의 규칙과 아키텍처를 담은 이 파일을 디렉터리별로 가볍게 배치해야 합니다.
+이제는 프롬프트 엔지니어링이나 '생각의 사슬(Chain of Thought)', 그리고 복잡한 추론 모델의 등장으로 인해 고정된 성능 점수는 무의미해졌다고 분석했습니다.
 
-다음은 훅(Hooks)과 스킬(Skills)의 활용입니다. 훅은 AI의 세션 결과를 반영해 컨텍스트를 자동 업데이트하거나 린팅(Linting) 규칙을 강제하여 일관성을 높입니다.
+특히 브라운은 AI의 지능이 추론 연산량에 비례하는 시대가 도래했다고 보았습니다.
 
-스킬은 보안 검토나 문서화 등 특정 작업에 필요한 전문 지식을 필요할 때만 호출(Progressive disclosure)하여, 귀중한 컨텍스트 창이 불필요한 정보로 낭비되는 것을 막아주는 핵심 최적화 도구입니다.</description><pubDate>Sun, 24 May 2026 03:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtJ7wSD-YT</guid></item><item><title>2/ 개인 단위의 성공적인 설정을 조직 전체로 퍼뜨리는 도구들도 필수적입니다.
+“사용자가 추론 비용을 10달러에서 1,000달러, 혹은 100만 달러로 늘려 수많은 쿼리를 엮어 나간다면, 처음 출시된 모델보다 비교할 수 없이 강력한 지능을 발휘하게 된다”고 설명했습니다.</description><pubDate>Sun, 24 May 2026 07:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtoxS2Aqnf</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=wKwLDaPP6YI</title><link>https://www.threads.net/@choi.openai/post/DYtozX5grQ6</link><description>풀영상 :
+https://www.youtube.com/watch?v=wKwLDaPP6YI</description><pubDate>Sun, 24 May 2026 07:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtozX5grQ6</guid></item><item><title>구글 CEO 순다 피차이(Sundar Pichai)는 현재 AI 시장이 매우 역동적이며 경쟁이 극에 달해 있다고 진단했습니다.
 
-플러그인(Plugins)은 잘 짜인 스킬과 훅, 설정값들을 하나...</title><link>https://www.threads.net/@choi.openai/post/DYtJ8-kj4NI</link><description>2/ 개인 단위의 성공적인 설정을 조직 전체로 퍼뜨리는 도구들도 필수적입니다.
+각 기업마다 고...</title><link>https://www.threads.net/@choi.openai/post/DYtehCfDxyM</link><description>구글 CEO 순다 피차이(Sundar Pichai)는 현재 AI 시장이 매우 역동적이며 경쟁이 극에 달해 있다고 진단했습니다.
 
-플러그인(Plugins)은 잘 짜인 스킬과 훅, 설정값들을 하나의 패키지로 묶어 배포하므로, 신규 입사자도 설치 첫날부터 완벽한 AI 환경을 누릴 수 있습니다.
+각 기업마다 고유한 강점과 약점이 있고, 모델의 사전 학습 및 출시 주기가 다르기 때문에 수시로 대중의 기술적 인식이 뒤바뀌고 있다고 분석했습니다.
 
-또한, 거대 코드베이스에서 가장 빛을 발하는 것은 LSP(언어 서버 프로토콜) 연동입니다.
+그러면서도 “소수의 연구소만이 진정한 기술의 전선(Frontier)에 서 있고, 그 뒤로는 큰 격차가 존재한다”고 명확히 짚었습니다.
 
-단순한 텍스트 검색(Grep)은 수천 개의 무의미한 결과로 컨텍스트를 낭비하지만, LSP를 연동하면 기호(Symbol) 단위의 정밀한 탐색이 가능해져 C++나 Java 같은 복잡한 언어에서도 "정의로 이동" 기능을 사람처럼 정확히 수행합니다.
+특히 AI가 스스로를 개선하는 '재귀적 자기 개선(Recursive Self-Improvement)' 단계에 이르면, 과거 사이버 안보의 중대한 전환점들과는 비교할 수 없을 만큼 강력한 파급력을 가질 것이라고 경고했습니다.
 
-여기에 사내 도구 및 데이터와 연결해 주는 MCP 서버까지 결합하면 활용도는 극대화됩니다.</description><pubDate>Sun, 24 May 2026 03:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtJ8-kj4NI</guid></item><item><title>3/ 코드베이스 탐색 효율을 극대화하기 위한 구체적인 설정 패턴도 존재합니다.
+그는 “AI가 발전할수록 이는 개별 기업의 문제를 넘어선 거대한 사회적 논의가 되어야 한다”고 강조하며, 폭발적인 기술 성능 향상에 맞춰 인류가 더욱 책임감 있는 자세로 미래를 설계해야 한다고 피력했습니다.</description><pubDate>Sun, 24 May 2026 06:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtehCfDxyM</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=9C20esBUf-Q</title><link>https://www.threads.net/@choi.openai/post/DYteh61D6oj</link><description>풀영상 :
+https://www.youtube.com/watch?v=9C20esBUf-Q</description><pubDate>Sun, 24 May 2026 06:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYteh61D6oj</guid></item><item><title>안두릴(Anduril)의 창업자 팔머 럭키(Palmer Luckey)는 국방 및 군사 분야에서의 AI 성능과 대중이 가지는 막연한 공포심의 차이...</title><link>https://www.threads.net/@choi.openai/post/DYtULHyCNaJ</link><description>안두릴(Anduril)의 창업자 팔머 럭키(Palmer Luckey)는 국방 및 군사 분야에서의 AI 성능과 대중이 가지는 막연한 공포심의 차이에 대해 직설적인 분석을 내놓았습니다.
 
-루트 디렉터리에 모든 정보를 때려 넣는 대신, 하위 디렉터리 단...</title><link>https://www.threads.net/@choi.openai/post/DYtJ-DPj84v</link><description>3/ 코드베이스 탐색 효율을 극대화하기 위한 구체적인 설정 패턴도 존재합니다.
+그는 챗GPT 같은 LLM의 무작위성이나 환각 현상 때문에 AI의 국방 적용을 우려하는 시선에 대해, 전투기 비행이나 어선과 군함을 구별하는 군사 AI는 열화상, 가시적 외형, 전자기 방출 등의 명확한 물리적 데이터를 기반으로 작동하기 때문에 실수할 확률이 거의 없다고 선을 그었습니다.
 
-루트 디렉터리에 모든 정보를 때려 넣는 대신, 하위 디렉터리 단위로 초기화하여 AI가 관련 없는 영역에서 헤매지 않게 해야 합니다.
+그는 대중이 AI를 할리우드 영화 속 '터미네이터'처럼 자의식을 가진 위험한 존재로 바라보는 경향이 있지만, 이는 현실과 동떨어진 상상이라고 지적했습니다.
 
-테스트와 빌드 명령어도 해당 디렉터리에 맞게 제한해야 타임아웃을 막을 수 있습니다.
-
-빌드 산출물이나 외부 라이브러리는 .ignore 파일로 철저히 배제하여 노이즈를 줄여야 합니다.
-
-또한 복잡한 시스템에서는 메인 에이전트가 직접 탐색과 수정을 동시에 하기보다, '서브에이전트(Subagents)'를 띄워 특정 하위 시스템 구조만 파악해 파일로 요약하게 한 뒤, 메인 에이전트가 그 요약본을 보고 전체 코드를 수정하는 역할 분담이 훨씬 효율적입니다.</description><pubDate>Sun, 24 May 2026 03:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtJ-DPj84v</guid></item><item><title>C++의 창시자 비아네 스트롭스트룹(Bjarne Stroustrup)은 한 팟캐스트 인터뷰에서 현재의 LLM 기반 AI 코딩에 대해 강한 우려와...</title><link>https://www.threads.net/@choi.openai/post/DYs_jbVjWFO</link><description>C++의 창시자 비아네 스트롭스트룹(Bjarne Stroustrup)은 한 팟캐스트 인터뷰에서 현재의 LLM 기반 AI 코딩에 대해 강한 우려와 회의적인 시각을 드러냈습니다.
-
-그는 AI가 생성한 코드는 버그와 보안 취약점이 많고 비대하여 메모리를 과도하게 소모한다고 지적했습니다.
-특히 “AI가 생성한 코드는 결국 과거의 코드를 모방하는 것에 불과하다”며, AI 코딩은 기존의 버그와 비효율적인 성능까지 그대로 답습하는 한계가 있다고 분석했습니다.
-
-또한, 자연어를 프로그래밍 언어로 사용하려는 시도를 비판한 다익스트라(Dijkstra)의 말을 인용하며, “우리에겐 모호한 영어 같은 언어가 아니라 정확한 프로그래밍 언어가 필요하다”고 말했습니다.
-
-프로그래밍은 공학이자 수학이기에 명확성이 필수적이며, 핵심적인 고성능·안전성 중심의 코드 영역에서는 여전히 인간 개발자가 추상화를 활용해 직접 코드를 작성해야 한다고 조언했습니다.</description><pubDate>Sun, 24 May 2026 01:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYs_jbVjWFO</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=U46fJ2bJ-co</title><link>https://www.threads.net/@choi.openai/post/DYs_kH0jX3d</link><description>풀영상 :
-https://www.youtube.com/watch?v=U46fJ2bJ-co</description><pubDate>Sun, 24 May 2026 01:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYs_kH0jX3d</guid></item><item><title>앤트로픽(Anthropic) CEO 다리오 아모데이는 현재 일어나는 기술 변화가 인류 역사상 수백 년 만에 가장 큰 사건이라며, “이 기술로 인...</title><link>https://www.threads.net/@choi.openai/post/DYs1W30gi1T</link><description>앤트로픽(Anthropic) CEO 다리오 아모데이는 현재 일어나는 기술 변화가 인류 역사상 수백 년 만에 가장 큰 사건이라며, “이 기술로 인해 인류에게 무언가 거대한 일이 일어나고 있다”고 경고했습니다.
-
-AI가 가져올 고용 시장의 변화와 기술 성능의 폭발적 성장에 직면해, 특정 기업이나 전문가뿐만 아니라 대중 모두가 이 과정에 능동적으로 참여해야 한다고 주장했습니다.
-
-앤트로픽은 이를 위해 대중의 피드백을 반영해 AI의 가치관을 설계하는 ‘클로드 헌법(Claude’s Constitution)’ 등의 실험을 진행해 왔습니다.
-
-하지만 그는 “어떻게 하면 모든 사람을 이 과정에 동참시킬 수 있을지 아직 완벽한 답을 찾지 못했다”며, 기술 개발의 윤리적 방향성과 경제적 파급력을 조율하기 위해 사회 구성원 모두의 지혜와 관심이 시급한 시점임을 시사했습니다.</description><pubDate>Sun, 24 May 2026 00:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYs1W30gi1T</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=w5dJqHilu5s</title><link>https://www.threads.net/@choi.openai/post/DYs1ZYwArtg</link><description>풀영상 :
-https://www.youtube.com/watch?v=w5dJqHilu5s</description><pubDate>Sun, 24 May 2026 00:01:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYs1ZYwArtg</guid></item><item><title>앤트로픽(Anthropic)의 CEO 다리오 아모데이(Dario Amodei)는 자사의 인공지능 모델 ‘미토스(Mythos)’의 강력한 성능과 ...</title><link>https://www.threads.net/@choi.openai/post/DYsrAzYjm96</link><description>앤트로픽(Anthropic)의 CEO 다리오 아모데이(Dario Amodei)는 자사의 인공지능 모델 ‘미토스(Mythos)’의 강력한 성능과 이를 둘러싼 보안 및 경제적 파급력에 대해 설명했습니다.
-
-그는 “미토스가 코드 내 취약점을 찾아내고 해킹 경로를 파악하는 데 인간 소프트웨어 엔지니어보다 훨씬 뛰어난 성능을 보였다”고 밝혔습니다.
-이는 AI가 병원이나 학교를 타깃으로 삼는 랜섬웨어 같은 사이버 공격을 주도할 수도 있고, 반대로 이를 완벽하게 방어할 수도 있는 강력한 무기가 될 수 있음을 의미합니다.
-
-아모데이는 이러한 강력한 기술이 악용되는 것을 막기 위해 선제적인 방어 전략을 취하고 있다고 강조했습니다.
-
-그 결과 “과거 1년 동안 고쳤던 것보다 더 많은 소프트웨어 버그를 미토스를 통해 단 일주일 만에 발견하고 수정했다”며, 공격자들보다 보안 방어자들에게 기술을 먼저 쥐어줌으로써 비즈니스 환경을 더 안전하게 구축하는 것이 현재의 최우선 과제라고 설명했습니다.</description><pubDate>Sat, 23 May 2026 22:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYsrAzYjm96</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=w5dJqHilu5s</title><link>https://www.threads.net/@choi.openai/post/DYsrBnxjj6W</link><description>풀영상 :
-https://www.youtube.com/watch?v=w5dJqHilu5s</description><pubDate>Sat, 23 May 2026 22:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYsrBnxjj6W</guid></item></channel></rss>
+팔머 럭키는 자의식을 가진 AI의 위협보다는 오히려 “특정 인종을 표적으로 삼는 생화학 무기 개발이나 농업 자원을 파괴하는 박테리아 제조에 AI가 오용되는 것”이 현재로서는 훨씬 더 실존적이고 두려운 경제·안보적 위협이라고 강조했습니다.</description><pubDate>Sun, 24 May 2026 04:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtULHyCNaJ</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=--Ef5Q-3Iq8</title><link>https://www.threads.net/@choi.openai/post/DYtUNkbCK8t</link><description>풀영상 :
+https://www.youtube.com/watch?v=--Ef5Q-3Iq8</description><pubDate>Sun, 24 May 2026 04:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtUNkbCK8t</guid></item></channel></rss>
