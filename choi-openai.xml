@@ -1,37 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 23 May 2026 15:53:25 +0000</lastBuildDate><item><title>진짜 올해 가장 잘한 일은 스레드에서 이분 팔로우 한 것입니다.</title><link>https://www.threads.net/@choi.openai/post/DYrp067ghGN</link><description>진짜 올해 가장 잘한 일은 스레드에서 이분 팔로우 한 것입니다.</description><pubDate>Sat, 23 May 2026 13:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYrp067ghGN</guid></item><item><title>리플릿(Replit)의 창업자이자 CEO인 암자드 마사드(Amjad Masad)는 대규모 언어 모델(LLM)이 계속 확장되더라도 결국 “그들이 ...</title><link>https://www.threads.net/@choi.openai/post/DYrfc0Ogbia</link><description>리플릿(Replit)의 창업자이자 CEO인 암자드 마사드(Amjad Masad)는 대규모 언어 모델(LLM)이 계속 확장되더라도 결국 “그들이 학습한 데이터의 함수(function of their data)”로 남을 것이라고 보았습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 24 May 2026 03:36:22 +0000</lastBuildDate><item><title>대규모 코드베이스에서 AI 코딩을 제대로 쓰는 법이 드러났습니다.
 
-즉, AI는 이미 존재하는 데이터 속에서 작동 원리를 찾아내고 최적화하는 데는 탁월한 성능을 보이지만, 데이터 너머에 있는 새로운 영역을 개척하는 데는 한계가 있다는 지적입니다.
+앤트로픽은 Claude Code가 수백만 줄짜리 모노레포와 오래된 레거시 시...</title><link>https://www.threads.net/@choi.openai/post/DYtJ60rD-dq</link><description>대규모 코드베이스에서 AI 코딩을 제대로 쓰는 법이 드러났습니다.
 
-그는 인간만이 가질 수 있는 고유한 경쟁력으로 “다른 사람들이 무엇을 원하는지, 문화적 흐름 속에서 무엇이 필요한지 포착하는 감각”을 꼽았습니다.
+앤트로픽은 Claude Code가 수백만 줄짜리 모노레포와 오래된 레거시 시스템에서도 실제로 쓰이고 있다고 밝혔습니다.
 
-예를 들어 트렌디한 앱을 기획하거나 새로운 비즈니스 기회를 창출하는 것은, 데이터 중심의 AI가 아닌 인간 창업가의 문화적 통찰과 직관이 있어야만 가능합니다.
+핵심은 모델 성능보다 CLAUDE.md, hooks, skills, plugins, LSP, MCP를 어떻게 묶느냐였습니다.
+실무 적용 사례와 설정법을 정리했습니다🧵</description><pubDate>Sun, 24 May 2026 03:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtJ60rD-dq</guid></item><item><title>1/ 2/ 성공적인 도입을 위해서는 AI 모델 자체의 성능보다 모델을 둘러싼 '하네스(Harness, 확장 계층)' 구성이 훨씬 중요합니다.
 
-결국 AI가 고도화되는 미래 경제에서 인간의 역할은 대중의 욕망과 기회를 연결하는 독창적인 비즈니스를 발굴하는 데 초점이 맞춰질 것입니다.</description><pubDate>Sat, 23 May 2026 11:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYrfc0Ogbia</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=YgYiF86h0yU</title><link>https://www.threads.net/@choi.openai/post/DYrfd3Pgbta</link><description>풀영상 :
-https://www.youtube.com/watch?v=YgYiF86h0yU</description><pubDate>Sat, 23 May 2026 11:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYrfd3Pgbta</guid></item><item><title>구글 딥마인드의 CEO 데미스 하사비스(Demis Hassabis)는 “우리는 이제 완벽한 버전의 AGI를 마주하기까지 불과 몇 년밖에 남지 않...</title><link>https://www.threads.net/@choi.openai/post/DYrVI2oDZ-X</link><description>구글 딥마인드의 CEO 데미스 하사비스(Demis Hassabis)는 “우리는 이제 완벽한 버전의 AGI를 마주하기까지 불과 몇 년밖에 남지 않았다”고 밝히며, 이 기술이 인류 역사상 가장 중요한 발명품이 될 것이라고 강조했습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DYtJ7wSD-YT</link><description>1/ 2/ 성공적인 도입을 위해서는 AI 모델 자체의 성능보다 모델을 둘러싼 '하네스(Harness, 확장 계층)' 구성이 훨씬 중요합니다.
 
-하사비스는 우리가 이미 AGI의 서막을 피부로 느끼기 시작했다고 설명합니다.
+첫 단추는 CLAUDE.md 파일입니다. 프로젝트의 규칙과 아키텍처를 담은 이 파일을 디렉터리별로 가볍게 배치해야 합니다.
 
-과거에는 6개월이 걸렸을 게임 프로토타입 개발을, 이제는 코딩 에이전트를 활용해 단 1~2시간 만에 뚝딱 완성해 내는 수준에 이르렀다는 것입니다.
+다음은 훅(Hooks)과 스킬(Skills)의 활용입니다. 훅은 AI의 세션 결과를 반영해 컨텍스트를 자동 업데이트하거나 린팅(Linting) 규칙을 강제하여 일관성을 높입니다.
 
-이러한 파괴적 혁신은 개발 속도를 극대화할 뿐만 아니라, 신약 개발(Isomorphic Labs)이나 과학 연구(AlphaFold) 등 경제 전반의 패러다임을 송두리째 바꾸고 있습니다.
+스킬은 보안 검토나 문서화 등 특정 작업에 필요한 전문 지식을 필요할 때만 호출(Progressive disclosure)하여, 귀중한 컨텍스트 창이 불필요한 정보로 낭비되는 것을 막아주는 핵심 최적화 도구입니다.</description><pubDate>Sun, 24 May 2026 03:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtJ7wSD-YT</guid></item><item><title>2/ 개인 단위의 성공적인 설정을 조직 전체로 퍼뜨리는 도구들도 필수적입니다.
 
-"먼 미래, '기술적 특이점'의 시작점은 바로 2026~2027년으로 기억될 것입니다"</description><pubDate>Sat, 23 May 2026 10:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYrVI2oDZ-X</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=dgBLVm2L1P4</title><link>https://www.threads.net/@choi.openai/post/DYrVJpAjS6g</link><description>풀영상 :
-https://www.youtube.com/watch?v=dgBLVm2L1P4</description><pubDate>Sat, 23 May 2026 10:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYrVJpAjS6g</guid></item><item><title>구글의 Gemini Omni 정말 소릅돋게 놀랍습니다..
+플러그인(Plugins)은 잘 짜인 스킬과 훅, 설정값들을 하나...</title><link>https://www.threads.net/@choi.openai/post/DYtJ8-kj4NI</link><description>2/ 개인 단위의 성공적인 설정을 조직 전체로 퍼뜨리는 도구들도 필수적입니다.
 
-영상계의 나노 바나나 모멘트가 막 시작되었습니다.
-사람들은 벌써 영상 위에 자막·로고...</title><link>https://www.threads.net/@choi.openai/post/DYrIUQcEZku</link><description>구글의 Gemini Omni 정말 소릅돋게 놀랍습니다..
+플러그인(Plugins)은 잘 짜인 스킬과 훅, 설정값들을 하나의 패키지로 묶어 배포하므로, 신규 입사자도 설치 첫날부터 완벽한 AI 환경을 누릴 수 있습니다.
 
-영상계의 나노 바나나 모멘트가 막 시작되었습니다.
-사람들은 벌써 영상 위에 자막·로고·효과·카메라 움직임까지 자연스럽게 수정하기 시작했는데요.
+또한, 거대 코드베이스에서 가장 빛을 발하는 것은 LSP(언어 서버 프로토콜) 연동입니다.
 
-정말 놀라운 제작 사례 10개를 모아봤습니다 🧵
+단순한 텍스트 검색(Grep)은 수천 개의 무의미한 결과로 컨텍스트를 낭비하지만, LSP를 연동하면 기호(Symbol) 단위의 정밀한 탐색이 가능해져 C++나 Java 같은 복잡한 언어에서도 "정의로 이동" 기능을 사람처럼 정확히 수행합니다.
 
-1/ 그린스크린 작업</description><pubDate>Sat, 23 May 2026 08:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYrIUQcEZku</guid></item><item><title>2/ 객체 변경 :</title><link>https://www.threads.net/@choi.openai/post/DYrIVpCD9o8</link><description>2/ 객체 변경 :</description><pubDate>Sat, 23 May 2026 08:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYrIVpCD9o8</guid></item><item><title>3/ 구글 지도 스크린샷에 이동 경로만 그려 넣었는데, Gemini Omni가 실제 택시 기사가 그 길을 운전하는 1인칭 영상처럼 만들어냈습니다...</title><link>https://www.threads.net/@choi.openai/post/DYrK32ijxMu</link><description>3/ 구글 지도 스크린샷에 이동 경로만 그려 넣었는데, Gemini Omni가 실제 택시 기사가 그 길을 운전하는 1인칭 영상처럼 만들어냈습니다.
-이제 지도 이미지 한 장만으로 드라이브 영상, 카메라 시점, 도로 움직임까지 자연스럽게 생성하는 사례가 나오고 있습니다.
+여기에 사내 도구 및 데이터와 연결해 주는 MCP 서버까지 결합하면 활용도는 극대화됩니다.</description><pubDate>Sun, 24 May 2026 03:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtJ8-kj4NI</guid></item><item><title>3/ 코드베이스 탐색 효율을 극대화하기 위한 구체적인 설정 패턴도 존재합니다.
 
-x@chrisfirst</description><pubDate>Sat, 23 May 2026 08:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYrK32ijxMu</guid></item><item><title>4/ 1896년 흑백 기차 영상을 Gemini Omni에 넣었더니, 초고속 열차·레고·괴물·시간여행자까지 추가된 새로운 영상으로 자연스럽게 바뀌...</title><link>https://www.threads.net/@choi.openai/post/DYrIv5lF-Ep</link><description>4/ 1896년 흑백 기차 영상을 Gemini Omni에 넣었더니, 초고속 열차·레고·괴물·시간여행자까지 추가된 새로운 영상으로 자연스럽게 바뀌었습니다.
+루트 디렉터리에 모든 정보를 때려 넣는 대신, 하위 디렉터리 단...</title><link>https://www.threads.net/@choi.openai/post/DYtJ-DPj84v</link><description>3/ 코드베이스 탐색 효율을 극대화하기 위한 구체적인 설정 패턴도 존재합니다.
 
-x@emollick</description><pubDate>Sat, 23 May 2026 08:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYrIv5lF-Ep</guid></item></channel></rss>
+루트 디렉터리에 모든 정보를 때려 넣는 대신, 하위 디렉터리 단위로 초기화하여 AI가 관련 없는 영역에서 헤매지 않게 해야 합니다.
+
+테스트와 빌드 명령어도 해당 디렉터리에 맞게 제한해야 타임아웃을 막을 수 있습니다.
+
+빌드 산출물이나 외부 라이브러리는 .ignore 파일로 철저히 배제하여 노이즈를 줄여야 합니다.
+
+또한 복잡한 시스템에서는 메인 에이전트가 직접 탐색과 수정을 동시에 하기보다, '서브에이전트(Subagents)'를 띄워 특정 하위 시스템 구조만 파악해 파일로 요약하게 한 뒤, 메인 에이전트가 그 요약본을 보고 전체 코드를 수정하는 역할 분담이 훨씬 효율적입니다.</description><pubDate>Sun, 24 May 2026 03:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtJ-DPj84v</guid></item><item><title>C++의 창시자 비아네 스트롭스트룹(Bjarne Stroustrup)은 한 팟캐스트 인터뷰에서 현재의 LLM 기반 AI 코딩에 대해 강한 우려와...</title><link>https://www.threads.net/@choi.openai/post/DYs_jbVjWFO</link><description>C++의 창시자 비아네 스트롭스트룹(Bjarne Stroustrup)은 한 팟캐스트 인터뷰에서 현재의 LLM 기반 AI 코딩에 대해 강한 우려와 회의적인 시각을 드러냈습니다.
+
+그는 AI가 생성한 코드는 버그와 보안 취약점이 많고 비대하여 메모리를 과도하게 소모한다고 지적했습니다.
+특히 “AI가 생성한 코드는 결국 과거의 코드를 모방하는 것에 불과하다”며, AI 코딩은 기존의 버그와 비효율적인 성능까지 그대로 답습하는 한계가 있다고 분석했습니다.
+
+또한, 자연어를 프로그래밍 언어로 사용하려는 시도를 비판한 다익스트라(Dijkstra)의 말을 인용하며, “우리에겐 모호한 영어 같은 언어가 아니라 정확한 프로그래밍 언어가 필요하다”고 말했습니다.
+
+프로그래밍은 공학이자 수학이기에 명확성이 필수적이며, 핵심적인 고성능·안전성 중심의 코드 영역에서는 여전히 인간 개발자가 추상화를 활용해 직접 코드를 작성해야 한다고 조언했습니다.</description><pubDate>Sun, 24 May 2026 01:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYs_jbVjWFO</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=U46fJ2bJ-co</title><link>https://www.threads.net/@choi.openai/post/DYs_kH0jX3d</link><description>풀영상 :
+https://www.youtube.com/watch?v=U46fJ2bJ-co</description><pubDate>Sun, 24 May 2026 01:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYs_kH0jX3d</guid></item><item><title>앤트로픽(Anthropic) CEO 다리오 아모데이는 현재 일어나는 기술 변화가 인류 역사상 수백 년 만에 가장 큰 사건이라며, “이 기술로 인...</title><link>https://www.threads.net/@choi.openai/post/DYs1W30gi1T</link><description>앤트로픽(Anthropic) CEO 다리오 아모데이는 현재 일어나는 기술 변화가 인류 역사상 수백 년 만에 가장 큰 사건이라며, “이 기술로 인해 인류에게 무언가 거대한 일이 일어나고 있다”고 경고했습니다.
+
+AI가 가져올 고용 시장의 변화와 기술 성능의 폭발적 성장에 직면해, 특정 기업이나 전문가뿐만 아니라 대중 모두가 이 과정에 능동적으로 참여해야 한다고 주장했습니다.
+
+앤트로픽은 이를 위해 대중의 피드백을 반영해 AI의 가치관을 설계하는 ‘클로드 헌법(Claude’s Constitution)’ 등의 실험을 진행해 왔습니다.
+
+하지만 그는 “어떻게 하면 모든 사람을 이 과정에 동참시킬 수 있을지 아직 완벽한 답을 찾지 못했다”며, 기술 개발의 윤리적 방향성과 경제적 파급력을 조율하기 위해 사회 구성원 모두의 지혜와 관심이 시급한 시점임을 시사했습니다.</description><pubDate>Sun, 24 May 2026 00:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYs1W30gi1T</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=w5dJqHilu5s</title><link>https://www.threads.net/@choi.openai/post/DYs1ZYwArtg</link><description>풀영상 :
+https://www.youtube.com/watch?v=w5dJqHilu5s</description><pubDate>Sun, 24 May 2026 00:01:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYs1ZYwArtg</guid></item><item><title>앤트로픽(Anthropic)의 CEO 다리오 아모데이(Dario Amodei)는 자사의 인공지능 모델 ‘미토스(Mythos)’의 강력한 성능과 ...</title><link>https://www.threads.net/@choi.openai/post/DYsrAzYjm96</link><description>앤트로픽(Anthropic)의 CEO 다리오 아모데이(Dario Amodei)는 자사의 인공지능 모델 ‘미토스(Mythos)’의 강력한 성능과 이를 둘러싼 보안 및 경제적 파급력에 대해 설명했습니다.
+
+그는 “미토스가 코드 내 취약점을 찾아내고 해킹 경로를 파악하는 데 인간 소프트웨어 엔지니어보다 훨씬 뛰어난 성능을 보였다”고 밝혔습니다.
+이는 AI가 병원이나 학교를 타깃으로 삼는 랜섬웨어 같은 사이버 공격을 주도할 수도 있고, 반대로 이를 완벽하게 방어할 수도 있는 강력한 무기가 될 수 있음을 의미합니다.
+
+아모데이는 이러한 강력한 기술이 악용되는 것을 막기 위해 선제적인 방어 전략을 취하고 있다고 강조했습니다.
+
+그 결과 “과거 1년 동안 고쳤던 것보다 더 많은 소프트웨어 버그를 미토스를 통해 단 일주일 만에 발견하고 수정했다”며, 공격자들보다 보안 방어자들에게 기술을 먼저 쥐어줌으로써 비즈니스 환경을 더 안전하게 구축하는 것이 현재의 최우선 과제라고 설명했습니다.</description><pubDate>Sat, 23 May 2026 22:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYsrAzYjm96</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=w5dJqHilu5s</title><link>https://www.threads.net/@choi.openai/post/DYsrBnxjj6W</link><description>풀영상 :
+https://www.youtube.com/watch?v=w5dJqHilu5s</description><pubDate>Sat, 23 May 2026 22:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYsrBnxjj6W</guid></item></channel></rss>
