@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 24 May 2026 15:53:23 +0000</lastBuildDate><item><title>이번주 AI 업계는 충격적인 소식으로 가득했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 25 May 2026 03:50:32 +0000</lastBuildDate><item><title>이제 진짜 중요한 건 “프롬프트를 잘 쓰는 사람”이 아니라 “반복 업무를 시스템으로 바꾸는 사람”입니다.
+
+Codex에 최근 30일간 작업 기록...</title><link>https://www.threads.net/@choi.openai/post/DYvdjjxgAPq</link><description>이제 진짜 중요한 건 “프롬프트를 잘 쓰는 사람”이 아니라 “반복 업무를 시스템으로 바꾸는 사람”입니다.
+
+Codex에 최근 30일간 작업 기록, 메모리, 세션 요약을 돌아보게 하고 반복되는 수작업을 찾아 Skill, Subagent, Automation으로 패키징하라는 프롬프트가 공유됐습니다.
+
+포인트는 무작정 자동화가 아닙니다. 최소 두 번 이상 반복됐고, 입력과 절차와 결과가 안정적인 작업만 골라 가장 작은 단위로 만드는 것입니다.
+
+AI 시대의 생산성은 매번 더 열심히 하는 데서 나오지 않습니다. 반복되는 일을 발견하고, 재사용 가능한 구조로 남기는 사람이 점점 더 강해질 것 같습니다.</description><pubDate>Mon, 25 May 2026 00:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYvdjjxgAPq</guid></item><item><title>AI가 “수학 문제를 푼다” 수준이 아니라, 인간이 수십 년 못 푼 문제를 검증까지 끝내고 제출하는 단계까지 왔습니다.
+
+DeepMind의 Al...</title><link>https://www.threads.net/@choi.openai/post/DYvO59kE4Gr</link><description>AI가 “수학 문제를 푼다” 수준이 아니라, 인간이 수십 년 못 푼 문제를 검증까지 끝내고 제출하는 단계까지 왔습니다.
+
+DeepMind의 AlphaProof Nexus가 56년 동안 풀리지 않았던 Erdős 문제 9개를 자율적으로 해결했고, OEIS 미해결 추측 44개와 대수기하학 난제까지 증명했다고 합니다.
+
+Gemini 계열 LLM이 증명을 만들고, Lean(형식 검증 시스템)이 모든 논리 단계를 컴파일하듯 검증하는 방식인데요.
+사람이 “맞는 것 같다”를 판단하는 게 아니라, 수학적으로 증명 가능한지 자동 확인합니다.
+
+더 놀라운 건 복잡한 RL 구조보다 “LLM 생성 → 컴파일 피드백”만 반복하는 단순 루프도 상당수 문제를 풀었다는 점입니다.
+최근 AI 흐름이 점점 “거대한 특수 구조”보다, 강해진 파운데이션 모델 위에 얇은 에이전트 루프를 얹는 방향으로 가고 있다는 해석도 가능합니다.</description><pubDate>Sun, 24 May 2026 22:22:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYvO59kE4Gr</guid></item><item><title>논문 :
+https://arxiv.org/abs/2605.22763v1</title><link>https://www.threads.net/@choi.openai/post/DYvO6g3kwAZ</link><description>논문 :
+https://arxiv.org/abs/2605.22763v1</description><pubDate>Sun, 24 May 2026 22:22:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYvO6g3kwAZ</guid></item><item><title>이번주 AI 업계는 충격적인 소식으로 가득했습니다.
 
 에이전트, 영상 생성, 로봇, 검색, 운영체제까지
 지금 벌어지는 변화의 방향이 이번 구글 ...</title><link>https://www.threads.net/@choi.openai/post/DYuVvqtj8Av</link><description>이번주 AI 업계는 충격적인 소식으로 가득했습니다.
@@ -21,21 +41,4 @@
 
 AI가 아무리 복잡한 퀘스트를 수행하더라도 그 시작점에는 항상 인간의 의도가 존재합니다.</description><pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYuHpJJjo_G</guid></item><item><title>풀영상 :
 https://www.youtube.com/watch?v=R8_uTmpqafE</title><link>https://www.threads.net/@choi.openai/post/DYuHp4wjmMt</link><description>풀영상 :
-https://www.youtube.com/watch?v=R8_uTmpqafE</description><pubDate>Sun, 24 May 2026 12:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYuHp4wjmMt</guid></item><item><title>Gemini Omni가 심상치 않습니다.
-
-몇 년 전만 해도 고양이 이미지 하나 생성하려고 몇 시간씩 기다렸는데,
-이제는 영상 하나를 올리고 텍...</title><link>https://www.threads.net/@choi.openai/post/DYt7HwWDwSS</link><description>Gemini Omni가 심상치 않습니다.
-
-몇 년 전만 해도 고양이 이미지 하나 생성하려고 몇 시간씩 기다렸는데,
-이제는 영상 하나를 올리고 텍스트 지시만으로 런던 거리, 영화 장면, 카메라 구도까지 전부 바꿔버립니다.
-
-AI 영상 편집의 기준 자체가 달라지고 있습니다.
-놀라운 활용 사례들과 핵심 흐름을 정리했습니다🧵</description><pubDate>Sun, 24 May 2026 10:10:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYt7HwWDwSS</guid></item><item><title>1/ 웨이모 한국배경으로 변경</title><link>https://www.threads.net/@choi.openai/post/DYt6lfuAFQM</link><description>1/ 웨이모 한국배경으로 변경</description><pubDate>Sun, 24 May 2026 10:10:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYt6lfuAFQM</guid></item><item><title>2/ 빈 방 영상, 인테리어 배치</title><link>https://www.threads.net/@choi.openai/post/DYt6nJumGq0</link><description>2/ 빈 방 영상, 인테리어 배치</description><pubDate>Sun, 24 May 2026 10:10:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYt6nJumGq0</guid></item><item><title>3/ 애니메이션 실사화</title><link>https://www.threads.net/@choi.openai/post/DYt6pIxDA6L</link><description>3/ 애니메이션 실사화</description><pubDate>Sun, 24 May 2026 10:10:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYt6pIxDA6L</guid></item><item><title>얀 르쿤(Yann LeCun)은 “LLM은 본질적으로 안전하지 않으며(intrinsically unsafe), 결코 완전히 신뢰할 수 없다”고 ...</title><link>https://www.threads.net/@choi.openai/post/DYtzEZaApyT</link><description>얀 르쿤(Yann LeCun)은 “LLM은 본질적으로 안전하지 않으며(intrinsically unsafe), 결코 완전히 신뢰할 수 없다”고 말합니다.
-
-LLM의 고질적인 문제인 '환각(Hallucination)' 현상을 완벽히 제어할 수 없을 뿐만 아니라, 향후 스스로 행동하는 에이전트 시스템으로 확장될 경우 자신이 초래할 결과나 위험을 예측하지 못해 예상치 못한 파괴적 행동을 할 수 있기 때문입니다.
-
-르쿤은 코딩 테스트 등 특정 검증이 가능한 영역에서 AI가 성과를 내는 것은 인정하지만, 현실 세계의 모든 문제가 코딩처럼 명확히 검증될 수 없다고 지적했습니다.
-
-그는 LLM이 프롬프트에 따라 작동하는 방식은 “단순히 훈련 데이터에 의해 조건화된 작업(conditioned to tasks)을 수행하는 것뿐”이라며, 기술의 안전성을 강제할 수 있는 하드웨어적·구조적 제어 장치가 부재한 현재의 LLM 방식으로는 완전한 신뢰성을 확보하기 어려울 것이라고 강조했습니다.</description><pubDate>Sun, 24 May 2026 09:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtzEZaApyT</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=ngBraLDqzdI</title><link>https://www.threads.net/@choi.openai/post/DYtzGapgo6_</link><description>풀영상 :
-https://www.youtube.com/watch?v=ngBraLDqzdI</description><pubDate>Sun, 24 May 2026 09:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYtzGapgo6_</guid></item></channel></rss>
+https://www.youtube.com/watch?v=R8_uTmpqafE</description><pubDate>Sun, 24 May 2026 12:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYuHp4wjmMt</guid></item></channel></rss>
