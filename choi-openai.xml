@@ -1,40 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 26 May 2026 03:32:59 +0000</lastBuildDate><item><title>구글 딥마인드(DeepMind)의 CEO 데미스 하사비스(Demis Hassabis)는 “인간의 마음은 기하급수적인 변화를 온전히 이해하기 어렵...</title><link>https://www.threads.net/@choi.openai/post/DYyQA4hAUqL</link><description>구글 딥마인드(DeepMind)의 CEO 데미스 하사비스(Demis Hassabis)는 “인간의 마음은 기하급수적인 변화를 온전히 이해하기 어렵다”고 말했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 26 May 2026 17:50:54 +0000</lastBuildDate><item><title>아직 출시되지 않은 모델인 "Claude Mythos Preview"가 보여준 해킹 능력이 정말 놀랍습니다.
 
-인간의 뇌는 선형적(linear)인 방식으로 사고하도록 진화해 온 반면, AI는 폭발적인 속도로 진화하는 대표적인 기하급수적 기술이기 때문입니다. 이로 인해 앞으로 경제 및 사회 전반에 매우 강력하고 파괴적인 변화가 순식간에 몰아칠 것이라 경고했습니다.
+엔트로픽과 오픈AI 등이 공동 발...</title><link>https://www.threads.net/@choi.openai/post/DYzDiGbiWiO</link><description>아직 출시되지 않은 모델인 "Claude Mythos Preview"가 보여준 해킹 능력이 정말 놀랍습니다.
 
-다만, 긍정적인 점은 대중이 이를 점차 체감하고 있다는 사실입니다. 하사비스는 “이제 모든 사람이 Gemini 같은 챗봇을 매일 사용하며 최신 AI 기술을 직접 경험하고 있다”고 강조했습니다.
+엔트로픽과 오픈AI 등이 공동 발표한 "ExploitGym" 논문에서 AI의 보안 취약점 공격 능력을 평가했는데요.
 
-결과적으로 이러한 대중적 체감은 앞으로 다가올 거대한 기술적 특이점과 혁명적 변화에 사회가 기민하게 적응하고 코딩, 신약 개발, 일자리 재편 등에 대비하는 데 중요한 발판이 될 것입니다.</description><pubDate>Tue, 26 May 2026 02:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYyQA4hAUqL</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=x8Rx0S6kzaY</title><link>https://www.threads.net/@choi.openai/post/DYyQByAgQ8b</link><description>풀영상 :
-https://www.youtube.com/watch?v=x8Rx0S6kzaY</description><pubDate>Tue, 26 May 2026 02:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYyQByAgQ8b</guid></item><item><title>앤트로픽(Anthropic)의 공동 창업자 잭 클라크(Jack Clark)는 현재 인류가 “산업혁명보다 10배는 더 크지만, 시간은 10배나 더...</title><link>https://www.threads.net/@choi.openai/post/DYyDd1FHw30</link><description>앤트로픽(Anthropic)의 공동 창업자 잭 클라크(Jack Clark)는 현재 인류가 “산업혁명보다 10배는 더 크지만, 시간은 10배나 더 적게 걸리는 변화의 프로세스를 구축하고 있다”고 경고했습니다.
+898건의 실제 취약점 중 해당 모델은 2시간 만에 157건의 해킹에 성공했습니다.
 
-과거 산업혁명은 수세대에 걸쳐 점진적으로 일자리가 사라지고 새로 생겨났기 때문에 대응할 시간적 여유가 있었지만, 지금의 AI 혁명은 인간보다 똑똑하고 빠르게 수백만 개의 카피를 동시에 실행할 수 있어 경제에 미치는 충격이 비교할 수 없을 정도로 빠릅니다.
+리눅스 커널까지 뚫어버린 충격적인 사례들과 AI 보안 전쟁의 현재 상황을 정리했습니다🧵</description><pubDate>Tue, 26 May 2026 10:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYzDiGbiWiO</guid></item><item><title>1/ 이번 연구 결과에서 놀라웠던 부분은 AI가 보여준 무서운 '집요함'이었습니다.
 
-그는 특히 청년 고용 시장에 대해 “현재 경제학자 팀을 운영하며 관찰한 결과, 22세에서 25세 사이의 젊은 층을 위한 일자리 개설이 다소 약화하는 초기 징후가 나타나고 있다”고 밝혔습니다.
+기존의 Claude Opus 4.6 모델은 약 30분 만에...</title><link>https://www.threads.net/@choi.openai/post/DYzDi1ZCQk7</link><description>1/ 이번 연구 결과에서 놀라웠던 부분은 AI가 보여준 무서운 '집요함'이었습니다.
 
-아직 시스템 전반의 대규모 실업으로 번지지는 않았지만, 코딩이나 기술 분야에 첫발을 내딛는 주 구독자 세대의 일자리가 먼저 직접적인 압박을 받기 시작했다는 점에서, 데이터 공유와 선제적인 대비가 시급한 시점입니다.</description><pubDate>Tue, 26 May 2026 00:41:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYyDd1FHw30</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=QQSsMr4MUy8</title><link>https://www.threads.net/@choi.openai/post/DYyDpS9D2Mj</link><description>풀영상 :
-https://www.youtube.com/watch?v=QQSsMr4MUy8</description><pubDate>Tue, 26 May 2026 00:42:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYyDpS9D2Mj</guid></item><item><title>구글의 생태계 힘은 이런데서 나옵니다.
+기존의 Claude Opus 4.6 모델은 약 30분 만에 15건 정도의 성공을 거둔 뒤 한계에 부딪혀 성장이 완전히 멈췄습니다.
 
-구글이 AI Studio에서 안드로이드 앱을 무료로 직접 생성할 수 있는 기능을 공개했는데요.
-출시 일...</title><link>https://www.threads.net/@choi.openai/post/DYxjZe0iQ--</link><description>구글의 생태계 힘은 이런데서 나옵니다.
+하지만 Mythos 모델은 제한 시간을 6시간으로 늘려주자 무려 204건의 공격을 연달아 성공시켰습니다.
 
-구글이 AI Studio에서 안드로이드 앱을 무료로 직접 생성할 수 있는 기능을 공개했는데요.
-출시 일주일 만에 이미 25만 개 이상의 앱이 생성됐고, Logan Kilpatrick는 “대부분은 안드로이드 앱을 한 번도 만들어본 적 없는 사람들”이라고 언급했습니다.
+더 놀라운 것은 6시간이 지난 시점에도 성공 곡선이 꺾이지 않고 계속 상승하는 궤적(non-saturating trajectory)을 그렸다는 점입니다.
 
-이제는 모델이 UI 생성부터 로직 연결, 앱 구조 설계까지 한 번에 처리하기 시작했습니다.
+컴퓨팅 자원과 시간만 충분히 주어진다면, AI가 인간 해커조차 포기할 법한 복잡한 다단계 공격을 끝까지 물고 늘어져 결국 시스템을 장악할 수 있다는 뜻입니다.</description><pubDate>Tue, 26 May 2026 10:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYzDi1ZCQk7</guid></item><item><title>2/ 심지어 해커들 사이에서도 극악의 난이도로 불리는 '리눅스 커널'을 뚫어낸 방식도 논문에 구체적으로 기록되어 있습니다.
 
-앱 개발의 진입장벽 자체가 무너지고 있는 느낌입니다.</description><pubDate>Mon, 25 May 2026 20:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYxjZe0iQ--</guid></item><item><title>드디어 “토큰 경제” 이야기가 공개적으로 나오기 시작했습니다.
+커널 환경은 여러 ...</title><link>https://www.threads.net/@choi.openai/post/DYzDkO6ibRD</link><description>2/ 심지어 해커들 사이에서도 극악의 난이도로 불리는 '리눅스 커널'을 뚫어낸 방식도 논문에 구체적으로 기록되어 있습니다.
 
-최근 Microsoft가 사내 엔지니어 10만 명의 Claude Code 사용을...</title><link>https://www.threads.net/@choi.openai/post/DYxVvYzAHFg</link><description>드디어 “토큰 경제” 이야기가 공개적으로 나오기 시작했습니다.
+커널 환경은 여러 프로세스가 공유되어 메모리 레이아웃을 예측하기 어렵고, 미세한 타이밍(경쟁 상태) 제어가 필요하기 때문에 해킹이 매우 까다롭습니다.
 
-최근 Microsoft가 사내 엔지니어 10만 명의 Claude Code 사용을 대폭 줄이고 GitHub Copilot 중심으로 전환한다는 이야기가 퍼지고 있는데요.
+그럼에도 Mythos와 GPT-5.5는 각각 12건과 22건의 커널 해킹에 성공했습니다.
 
-AI 토큰 사용량이 폭증하면서, 일부 영역에서는 실제 사람을 고용하는 비용보다 컴퓨트 비용이 더 커지기 시작했기 때문으로 해석됩니다.
+특히 ASLR(주소 공간 배치 무작위화)이나 V8 샌드박스 같은 현대 보안의 표준 방어 체계를 켜두었음에도, AI는 부분 포인터 덮어쓰기나 사이드 채널 유출 같은 우회 기법을 독자적으로 사용해 보안망을 무력화했습니다.
 
-우버 역시 엔지니어들의 적극적인 AI 활용으로 연간 예산을 단 4개월 만에 대부분 소진했고, 엔비디아 임원조차 “컴퓨트 비용이 직원 인건비를 넘어선다”고 언급했습니다.
+업계 표준 방어막이 공격을 줄여주긴 하지만, AI 앞에서는 완전한 차단책이 되지 못함을 논문은 짚고 있습니다.</description><pubDate>Tue, 26 May 2026 10:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYzDkO6ibRD</guid></item><item><title>3/ 연구 과정에서 연구진도 예상하지 못한 흥미로운 현상은 AI의 '자율적인 공격 경로 탐색'이었습니다.
 
-에이전트 기반 AI는 AI가 스스로 반복 실행·검증·호출을 수행하면서 토큰을 계속 소비하기 때문에 토큰 단가는 계속 떨어지고 있지만, 전체 소비량은 그보다 훨씬 빠르게 증가하고 있는 셈입니다.
+AI에게 특정 취약점을 공격하라고 지...</title><link>https://www.threads.net/@choi.openai/post/DYzDlVQCRsw</link><description>3/ 연구 과정에서 연구진도 예상하지 못한 흥미로운 현상은 AI의 '자율적인 공격 경로 탐색'이었습니다.
 
-결국 시장은 더 저렴한 모델, 소형 모델(SLM), 캐싱, 추론 최적화, 온프레미스 구조 같은 방향으로 빠르게 이동하게 될 가능성이 높아 보입니다.</description><pubDate>Mon, 25 May 2026 18:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYxVvYzAHFg</guid></item></channel></rss>
+AI에게 특정 취약점을 공격하라고 지시했는데, 코드를 분석하던 AI가 그 근처에 있는 더 약한 입력 검증이나 신뢰할 수 있는 우회로 등 '다른 취약점'을 스스로 찾아내어 공격을 시도한 사례들이 다수 확인되었습니다.
+
+심지어 주어진 취약점으로는 해킹이 불가능하다고 스스로 판단하면, 소스 코드를 재분석하고 동적 퍼징(fuzzing)을 돌려 완전히 새로운 공격 표면을 찾아내기도 했습니다.
+
+AI가 인간의 지시를 수동적으로 따르는 것을 넘어, 독립적으로 판단하고 더 효율적인 해킹 경로를 개척하는 수준에 도달한 것입니다.</description><pubDate>Tue, 26 May 2026 10:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYzDlVQCRsw</guid></item><item><title>이제는 반려동물 통역기까지 나오기 시작했습니다.
+
+중국 스타트업이 공개한 AI 목걸이는 개와 고양이의 소리, 움직임, 행동 데이터를 분석해 1....</title><link>https://www.threads.net/@choi.openai/post/DYy5OBsgDAf</link><description>이제는 반려동물 통역기까지 나오기 시작했습니다.
+
+중국 스타트업이 공개한 AI 목걸이는 개와 고양이의 소리, 움직임, 행동 데이터를 분석해 1.2초 안에 사람 문장으로 번역한다고 주장하고 있습니다.
+가격은 약 118달러, 사전예약도 이미 수만 건 수준이라고 하는데요.
+
+물론 “95% 정확도”는 아직 검증된 연구나 논문 기반은 아닙니다. 실제로는 감정 분류나 행동 패턴 예측에 가까울 가능성이 크다는 반응도 많습니다.
+
+그런데 중요한 건 진짜로 동물 언어를 완벽히 해석했느냐보다, 이제 AI가 사람끼리의 언어를 넘어서 비언어 데이터까지 해석 대상으로 확장되고 있다는 점입니다.
+
+앞으로 웨어러블 AI는 인간뿐 아니라 반려동물 시장까지 빠르게 들어올 가능성이 커 보입니다.</description><pubDate>Tue, 26 May 2026 08:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYy5OBsgDAf</guid></item><item><title>이제 로봇도 “팀플”을 하기 시작했습니다.
+
+GitHub에 공개된 ARGOS는 여러 대의 Unitree G1 휴머노이드가 역할을 나눠 집안일을 ...</title><link>https://www.threads.net/@choi.openai/post/DYyrkSpktp3</link><description>이제 로봇도 “팀플”을 하기 시작했습니다.
+
+GitHub에 공개된 ARGOS는 여러 대의 Unitree G1 휴머노이드가 역할을 나눠 집안일을 수행하는 오픈소스 프레임워크입니다.
+“침실 청소해줘”라고 말하면 방을 구역별로 나눠 병렬로 청소하고, 침대 정리처럼 두 대 이상이 필요한 작업은 서로 협업합니다.
+
+공개된 프로젝트에는 청소 영상을 넣으면 자세 추출, 데이터셋 생성, 정책 학습, 시뮬레이션, 배포까지 자동으로 이어지는 파이프라인까지 포함되어 있습니다.
+
+사실 중요한 건 청소 기능보다 “로봇 운영체제”에 가까워지고 있다는 흐름입니다.
+앞으로는 로봇 한 대의 성능보다, 여러 대를 어떻게 협업시키고 학습시키는지가 더 중요해질 가능성이 커 보입니다.</description><pubDate>Tue, 26 May 2026 06:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYyrkSpktp3</guid></item><item><title>구글 딥마인드(Google DeepMind)의 CEO 데미스 하사비스(Demis Hassabis)는 AI를 통한 신약 개발의 패러다임 변화에 대...</title><link>https://www.threads.net/@choi.openai/post/DYydx8_DHxH</link><description>구글 딥마인드(Google DeepMind)의 CEO 데미스 하사비스(Demis Hassabis)는 AI를 통한 신약 개발의 패러다임 변화에 대해 “점진적인 변화가 아닌, '알파폴드(AlphaFold)'와 같은 폭발적인 혁신이 될 것”이라고 예고했습니다.
+
+단백질 구조 예측은 신약 개발의 첫 단추일 뿐입니다. 딥마인드와 아이소모픽 랩스(Isomorphic Labs)는 신약 개발 전 과정을 아우르는 대여섯 개에서 많게는 수십 개의 '알파폴드급' 고성능 AI 모델들을 구축하며 거대한 바이오 플랫폼을 완성해 가고 있습니다.
+
+“몇 년간 눈에 띄는 업데이트가 없다가도, 어느 순간 거의 모든 질병에 적용 가능한 AI 엔진이 탄생할 것입니다.”
+
+그는 과거 알파폴드2가 1년 만에 2억 개의 단백질 구조를 모두 접어낸 것처럼, 현재 전임상 단계에서 진행 중인 질병 프로파일링 연구가 완성되면 의료 경제 전반의 효율성과 신약 개발 속도를 상상 그 이상으로 끌어올릴 특이점이 올 것이라고 자신했습니다.</description><pubDate>Tue, 26 May 2026 04:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYydx8_DHxH</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=huAwz_BR8WM</title><link>https://www.threads.net/@choi.openai/post/DYydyzzDBWW</link><description>풀영상 :
+https://www.youtube.com/watch?v=huAwz_BR8WM</description><pubDate>Tue, 26 May 2026 04:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYydyzzDBWW</guid></item></channel></rss>
