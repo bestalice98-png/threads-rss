@@ -1,67 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 26 May 2026 17:50:54 +0000</lastBuildDate><item><title>아직 출시되지 않은 모델인 "Claude Mythos Preview"가 보여준 해킹 능력이 정말 놀랍습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 27 May 2026 03:49:44 +0000</lastBuildDate><item><title>와.. 앤트로픽의 Mythos도 에르되시 90번 문제를 해결했습니다.
 
-엔트로픽과 오픈AI 등이 공동 발...</title><link>https://www.threads.net/@choi.openai/post/DYzDiGbiWiO</link><description>아직 출시되지 않은 모델인 "Claude Mythos Preview"가 보여준 해킹 능력이 정말 놀랍습니다.
+오픈AI 내부 추론 모델이 unit distance 문제를 풀었다는 발표...</title><link>https://www.threads.net/@choi.openai/post/DY002hxD-Ae</link><description>와.. 앤트로픽의 Mythos도 에르되시 90번 문제를 해결했습니다.
 
-엔트로픽과 오픈AI 등이 공동 발표한 "ExploitGym" 논문에서 AI의 보안 취약점 공격 능력을 평가했는데요.
+오픈AI 내부 추론 모델이 unit distance 문제를 풀었다는 발표 이후, 이번에는 앤트로픽의 비공개 모델 Mythos도 같은 문제를 해결했다는 테스트 결과가 공개됐는데요.
 
-898건의 실제 취약점 중 해당 모델은 2시간 만에 157건의 해킹에 성공했습니다.
+놀라운 점은 연구자는 Mythos가 오픈AI와는 또 다른 방향의, 더 단순한 증명 구조로 자주 수렴했다고 설명했습니다.
 
-리눅스 커널까지 뚫어버린 충격적인 사례들과 AI 보안 전쟁의 현재 상황을 정리했습니다🧵</description><pubDate>Tue, 26 May 2026 10:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYzDiGbiWiO</guid></item><item><title>1/ 이번 연구 결과에서 놀라웠던 부분은 AI가 보여준 무서운 '집요함'이었습니다.
+물론 아직은 외부 수학자들의 추가 검증이 필요하고, 오픈AI가 해결한 더 강한 형태의 추측까지 Mythos가 깬 건 아니라는 반론도 함께 나오고 있습니다.
 
-기존의 Claude Opus 4.6 모델은 약 30분 만에...</title><link>https://www.threads.net/@choi.openai/post/DYzDi1ZCQk7</link><description>1/ 이번 연구 결과에서 놀라웠던 부분은 AI가 보여준 무서운 '집요함'이었습니다.
+프론티어 모델들이 서로 다른 수학적 아이디어를 조합해, 인간 연구자들과는 또 다른 방식의 증명 경로를 탐색하기 시작하고 있습니다.
+과거 “AI는 학습된 패턴만 따라간다”, “진짜 추론은 못한다”는 기존 주장들이 꽤 빠르게 흔들리는 분위기입니다.
 
-기존의 Claude Opus 4.6 모델은 약 30분 만에 15건 정도의 성공을 거둔 뒤 한계에 부딪혀 성장이 완전히 멈췄습니다.
+최근 AI에서 계속 나오는 “창발적 능력” 이야기가 단순 과장이 아닐 수도 있다는 해석도 점점 힘을 얻고 있습니다.</description><pubDate>Wed, 27 May 2026 02:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY002hxD-Ae</guid></item><item><title>내용 :
+https://www-cdn.anthropic.com/files/4zrzovbb/website/ca35f196125c899a5ad11f...</title><link>https://www.threads.net/@choi.openai/post/DY003iOD0aU</link><description>내용 :
+https://www-cdn.anthropic.com/files/4zrzovbb/website/ca35f196125c899a5ad11f011080202a652aef02.pdf</description><pubDate>Wed, 27 May 2026 02:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY003iOD0aU</guid></item><item><title>결국 개발자들의 체감이 맞았습니다.
 
-하지만 Mythos 모델은 제한 시간을 6시간으로 늘려주자 무려 204건의 공격을 연달아 성공시켰습니다.
+새 코딩 벤치마크 "DeepSWE"가 공개됐는데,
+기존 리더보드에서는 비슷해 보이던 AI 모델들 사이의 성...</title><link>https://www.threads.net/@choi.openai/post/DY0qiT9knih</link><description>결국 개발자들의 체감이 맞았습니다.
 
-더 놀라운 것은 6시간이 지난 시점에도 성공 곡선이 꺾이지 않고 계속 상승하는 궤적(non-saturating trajectory)을 그렸다는 점입니다.
+새 코딩 벤치마크 "DeepSWE"가 공개됐는데,
+기존 리더보드에서는 비슷해 보이던 AI 모델들 사이의 성능 차이가 실제 개발 환경에서는 엄청 크게 벌어졌습니다.
 
-컴퓨팅 자원과 시간만 충분히 주어진다면, AI가 인간 해커조차 포기할 법한 복잡한 다단계 공격을 끝까지 물고 늘어져 결국 시스템을 장악할 수 있다는 뜻입니다.</description><pubDate>Tue, 26 May 2026 10:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYzDi1ZCQk7</guid></item><item><title>2/ 심지어 해커들 사이에서도 극악의 난이도로 불리는 '리눅스 커널'을 뚫어낸 방식도 논문에 구체적으로 기록되어 있습니다.
+특히 GPT-5.5가 압도적이라는 반응이 쏟아지고 있는데요.
 
-커널 환경은 여러 ...</title><link>https://www.threads.net/@choi.openai/post/DYzDkO6ibRD</link><description>2/ 심지어 해커들 사이에서도 극악의 난이도로 불리는 '리눅스 커널'을 뚫어낸 방식도 논문에 구체적으로 기록되어 있습니다.
+왜 이런 결과가 나왔는지 핵심만 정리했습니다🧵</description><pubDate>Wed, 27 May 2026 01:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0qiT9knih</guid></item><item><title>1/ 최근 새로운 AI 코딩 벤치마크 "DeepSWE"가 공개되었는데요.
+그동안 리더보드를 보며 느꼈던 기시감이 마침내 해소되는 기분을 느꼈습니...</title><link>https://www.threads.net/@choi.openai/post/DY0qjm5kie6</link><description>1/ 최근 새로운 AI 코딩 벤치마크 "DeepSWE"가 공개되었는데요.
+그동안 리더보드를 보며 느꼈던 기시감이 마침내 해소되는 기분을 느꼈습니다.
+벤치마크 점수는 높은데 막상 실무에 투입하면 어딘가 엉성했던 AI 모델들의 성능을 제대로 측정된 듯 싶습니다.
 
-커널 환경은 여러 프로세스가 공유되어 메모리 레이아웃을 예측하기 어렵고, 미세한 타이밍(경쟁 상태) 제어가 필요하기 때문에 해킹이 매우 까다롭습니다.
+그동안 우리가 맹신해 온 코딩 벤치마크(SWE-bench 등)는 사실 심각하게 오염되어 있었습니다.
 
-그럼에도 Mythos와 GPT-5.5는 각각 12건과 22건의 커널 해킹에 성공했습니다.
+기존 벤치마크들은 이미 퍼블릭하게 공개된 깃허브(GitHub)의 이슈와 풀 리퀘스트(PR)를 긁어와 문제로 삼았습니다.
 
-특히 ASLR(주소 공간 배치 무작위화)이나 V8 샌드박스 같은 현대 보안의 표준 방어 체계를 켜두었음에도, AI는 부분 포인터 덮어쓰기나 사이드 채널 유출 같은 우회 기법을 독자적으로 사용해 보안망을 무력화했습니다.
+이는 AI가 사전 학습 단계에서 이미 정답을 외워버렸을 확률이 높다는 뜻입니다.
 
-업계 표준 방어막이 공격을 줄여주긴 하지만, AI 앞에서는 완전한 차단책이 되지 못함을 논문은 짚고 있습니다.</description><pubDate>Tue, 26 May 2026 10:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYzDkO6ibRD</guid></item><item><title>3/ 연구 과정에서 연구진도 예상하지 못한 흥미로운 현상은 AI의 '자율적인 공격 경로 탐색'이었습니다.
+게다가 평가 시스템조차 허술해서, AI가 정답 커밋의 깃(git) 히스토리를 훔쳐보거나 작동하지 않는 껍데기 코드를 제출해도 통과시켜 주는 황당한 위양성 오류가 무려 8.5%에 달했습니다.</description><pubDate>Wed, 27 May 2026 01:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0qjm5kie6</guid></item><item><title>2/ DeepSWE는 이러한 문제를 해결하기 위해 과제를 원점에서 새로 작성했습니다.
 
-AI에게 특정 취약점을 공격하라고 지...</title><link>https://www.threads.net/@choi.openai/post/DYzDlVQCRsw</link><description>3/ 연구 과정에서 연구진도 예상하지 못한 흥미로운 현상은 AI의 '자율적인 공격 경로 탐색'이었습니다.
+프롬프트의 길이는 기존 벤치마크의 절반 수준으로 짧아졌지...</title><link>https://www.threads.net/@choi.openai/post/DY0qlA1kqXk</link><description>2/ DeepSWE는 이러한 문제를 해결하기 위해 과제를 원점에서 새로 작성했습니다.
 
-AI에게 특정 취약점을 공격하라고 지시했는데, 코드를 분석하던 AI가 그 근처에 있는 더 약한 입력 검증이나 신뢰할 수 있는 우회로 등 '다른 취약점'을 스스로 찾아내어 공격을 시도한 사례들이 다수 확인되었습니다.
+프롬프트의 길이는 기존 벤치마크의 절반 수준으로 짧아졌지만, 해결을 위해 작성해야 하는 코드는 평균 668줄, 수정해야 하는 파일은 평균 7개로 대폭 늘어났습니다.
 
-심지어 주어진 취약점으로는 해킹이 불가능하다고 스스로 판단하면, 소스 코드를 재분석하고 동적 퍼징(fuzzing)을 돌려 완전히 새로운 공격 표면을 찾아내기도 했습니다.
+모델이 구체적인 지시를 단순히 따르는 것을 넘어, 스스로 코드를 탐색하고 구조를 파악해 수정하는 실제 개발 업무의 형태를 반영했습니다.</description><pubDate>Wed, 27 May 2026 01:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0qlA1kqXk</guid></item><item><title>3/ 이 기준으로 평가를 진행한 결과, 최상위 모델 간의 점수 격차가 분명하게 드러났습니다.
 
-AI가 인간의 지시를 수동적으로 따르는 것을 넘어, 독립적으로 판단하고 더 효율적인 해킹 경로를 개척하는 수준에 도달한 것입니다.</description><pubDate>Tue, 26 May 2026 10:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYzDlVQCRsw</guid></item><item><title>이제는 반려동물 통역기까지 나오기 시작했습니다.
+GPT-5.5가 70%로 가장 높은 점수를 기록했...</title><link>https://www.threads.net/@choi.openai/post/DY0qmfJkk9f</link><description>3/ 이 기준으로 평가를 진행한 결과, 최상위 모델 간의 점수 격차가 분명하게 드러났습니다.
 
-중국 스타트업이 공개한 AI 목걸이는 개와 고양이의 소리, 움직임, 행동 데이터를 분석해 1....</title><link>https://www.threads.net/@choi.openai/post/DYy5OBsgDAf</link><description>이제는 반려동물 통역기까지 나오기 시작했습니다.
+GPT-5.5가 70%로 가장 높은 점수를 기록했고, 이전 세대인 GPT-5.4가 56%, Claude Opus 4.7이 54%로 뒤를 이었습니다.
 
-중국 스타트업이 공개한 AI 목걸이는 개와 고양이의 소리, 움직임, 행동 데이터를 분석해 1.2초 안에 사람 문장으로 번역한다고 주장하고 있습니다.
-가격은 약 118달러, 사전예약도 이미 수만 건 수준이라고 하는데요.
+기존 리더보드에서는 상위 모델들의 점수가 좁은 구간에 모여 있었지만, DeepSWE에서는 점수 차이가 넓게 벌어지며 개발자들의 실제 사용 경험과 일치하는 결과를 보여주었습니다.</description><pubDate>Wed, 27 May 2026 01:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0qmfJkk9f</guid></item><item><title>샤오미 MiMo가 API 가격을 최대 99% 인하한다고 발표했습니다.
+샤오미는 추론 최적화와 서빙 효율 개선으로 원가 자체를 계속 낮추고 있다고...</title><link>https://www.threads.net/@choi.openai/post/DY0gPN-Aumr</link><description>샤오미 MiMo가 API 가격을 최대 99% 인하한다고 발표했습니다.
+샤오미는 추론 최적화와 서빙 효율 개선으로 원가 자체를 계속 낮추고 있다고 강조하고 있습니다.
 
-물론 “95% 정확도”는 아직 검증된 연구나 논문 기반은 아닙니다. 실제로는 감정 분류나 행동 패턴 예측에 가까울 가능성이 크다는 반응도 많습니다.
+최근 DeepSeek도 영구 75% 가격 인하를 발표했고, 이제 중국 모델들은 서로 가격을 맞춰가며 사실상 토큰 전쟁에 들어가는 분위기입니다.
 
-그런데 중요한 건 진짜로 동물 언어를 완벽히 해석했느냐보다, 이제 AI가 사람끼리의 언어를 넘어서 비언어 데이터까지 해석 대상으로 확장되고 있다는 점입니다.
+중국은 지금 모델, 반도체, 서버, 메모리까지 전부 자국 중심 생태계로 묶으려는 움직임을 같이 가져가고 있습니다.
+실제로 중국 업체들은 연산량과 서버 비용을 줄이는 기술로 서빙 비용 자체를 낮추는 동시에, 자체 반도체와 서버 인프라까지 함께 밀고 있습니다.
 
-앞으로 웨어러블 AI는 인간뿐 아니라 반려동물 시장까지 빠르게 들어올 가능성이 커 보입니다.</description><pubDate>Tue, 26 May 2026 08:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYy5OBsgDAf</guid></item><item><title>이제 로봇도 “팀플”을 하기 시작했습니다.
+결국 “충분히 좋은 AI를 엄청 싸게 공급하는 구조” 자체를 국가 단위로 만들려는 느낌에 가깝습니다.
 
-GitHub에 공개된 ARGOS는 여러 대의 Unitree G1 휴머노이드가 역할을 나눠 집안일을 ...</title><link>https://www.threads.net/@choi.openai/post/DYyrkSpktp3</link><description>이제 로봇도 “팀플”을 하기 시작했습니다.
-
-GitHub에 공개된 ARGOS는 여러 대의 Unitree G1 휴머노이드가 역할을 나눠 집안일을 수행하는 오픈소스 프레임워크입니다.
-“침실 청소해줘”라고 말하면 방을 구역별로 나눠 병렬로 청소하고, 침대 정리처럼 두 대 이상이 필요한 작업은 서로 협업합니다.
-
-공개된 프로젝트에는 청소 영상을 넣으면 자세 추출, 데이터셋 생성, 정책 학습, 시뮬레이션, 배포까지 자동으로 이어지는 파이프라인까지 포함되어 있습니다.
-
-사실 중요한 건 청소 기능보다 “로봇 운영체제”에 가까워지고 있다는 흐름입니다.
-앞으로는 로봇 한 대의 성능보다, 여러 대를 어떻게 협업시키고 학습시키는지가 더 중요해질 가능성이 커 보입니다.</description><pubDate>Tue, 26 May 2026 06:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYyrkSpktp3</guid></item><item><title>구글 딥마인드(Google DeepMind)의 CEO 데미스 하사비스(Demis Hassabis)는 AI를 통한 신약 개발의 패러다임 변화에 대...</title><link>https://www.threads.net/@choi.openai/post/DYydx8_DHxH</link><description>구글 딥마인드(Google DeepMind)의 CEO 데미스 하사비스(Demis Hassabis)는 AI를 통한 신약 개발의 패러다임 변화에 대해 “점진적인 변화가 아닌, '알파폴드(AlphaFold)'와 같은 폭발적인 혁신이 될 것”이라고 예고했습니다.
-
-단백질 구조 예측은 신약 개발의 첫 단추일 뿐입니다. 딥마인드와 아이소모픽 랩스(Isomorphic Labs)는 신약 개발 전 과정을 아우르는 대여섯 개에서 많게는 수십 개의 '알파폴드급' 고성능 AI 모델들을 구축하며 거대한 바이오 플랫폼을 완성해 가고 있습니다.
-
-“몇 년간 눈에 띄는 업데이트가 없다가도, 어느 순간 거의 모든 질병에 적용 가능한 AI 엔진이 탄생할 것입니다.”
-
-그는 과거 알파폴드2가 1년 만에 2억 개의 단백질 구조를 모두 접어낸 것처럼, 현재 전임상 단계에서 진행 중인 질병 프로파일링 연구가 완성되면 의료 경제 전반의 효율성과 신약 개발 속도를 상상 그 이상으로 끌어올릴 특이점이 올 것이라고 자신했습니다.</description><pubDate>Tue, 26 May 2026 04:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYydx8_DHxH</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=huAwz_BR8WM</title><link>https://www.threads.net/@choi.openai/post/DYydyzzDBWW</link><description>풀영상 :
-https://www.youtube.com/watch?v=huAwz_BR8WM</description><pubDate>Tue, 26 May 2026 04:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DYydyzzDBWW</guid></item></channel></rss>
+물론 실제로 이 가격이 장기적으로 유지 가능한 수준의 효율인지, 혹은 점유율 확보를 위한 공격적 전략인지는 아직 더 봐야 하지만, 중국 AI 시장이 가격 경쟁으로도 시장 판을 흔들고 있다는 점입니다.</description><pubDate>Tue, 26 May 2026 23:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0gPN-Aumr</guid></item><item><title>현대 아틀라스 움직임 정말 자연스럽네요.</title><link>https://www.threads.net/@choi.openai/post/DY0V_30ktP_</link><description>현대 아틀라스 움직임 정말 자연스럽네요.</description><pubDate>Tue, 26 May 2026 22:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0V_30ktP_</guid></item></channel></rss>
