@@ -1,61 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 27 May 2026 03:49:44 +0000</lastBuildDate><item><title>와.. 앤트로픽의 Mythos도 에르되시 90번 문제를 해결했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 27 May 2026 17:50:01 +0000</lastBuildDate><item><title>CapCut이 레퍼런스·드래프트·레이어·아이디어를 하나의 무한 캔버스 위에서 다루는  Design Studio 2.0을 공개했습니다.
 
-오픈AI 내부 추론 모델이 unit distance 문제를 풀었다는 발표...</title><link>https://www.threads.net/@choi.openai/post/DY002hxD-Ae</link><description>와.. 앤트로픽의 Mythos도 에르되시 90번 문제를 해결했습니다.
+여기에 ...</title><link>https://www.threads.net/@choi.openai/post/DY2bub4iRhf</link><description>CapCut이 레퍼런스·드래프트·레이어·아이디어를 하나의 무한 캔버스 위에서 다루는  Design Studio 2.0을 공개했습니다.
 
-오픈AI 내부 추론 모델이 unit distance 문제를 풀었다는 발표 이후, 이번에는 앤트로픽의 비공개 모델 Mythos도 같은 문제를 해결했다는 테스트 결과가 공개됐는데요.
+여기에 실시간 AI 디자인 에이전트까지 붙으면서, 채팅형 생성툴보다 훨씬 시각적인 작업 흐름에 가까워졌는데요.
 
-놀라운 점은 연구자는 Mythos가 오픈AI와는 또 다른 방향의, 더 단순한 증명 구조로 자주 수렴했다고 설명했습니다.
+특히 브러시로 영역을 칠하거나 동그라미를 그려 수정하는 “Pencil Prompting”, 배경·텍스트·오브젝트를 자동 분리하는 기능, 아이디어를 계속 확장하는 “One More” 기능들이 추가되었는데요.
 
-물론 아직은 외부 수학자들의 추가 검증이 필요하고, 오픈AI가 해결한 더 강한 형태의 추측까지 Mythos가 깬 건 아니라는 반론도 함께 나오고 있습니다.
+이제 디자인 툴도 전부 비슷한 방향으로 수렴하고 있는 것 같습니다.</description><pubDate>Wed, 27 May 2026 17:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY2bub4iRhf</guid></item><item><title>이제 단백질 AI도 “챗GPT 모먼트”에 들어가는 분위기입니다.
 
-프론티어 모델들이 서로 다른 수학적 아이디어를 조합해, 인간 연구자들과는 또 다른 방식의 증명 경로를 탐색하기 시작하고 있습니다.
-과거 “AI는 학습된 패턴만 따라간다”, “진짜 추론은 못한다”는 기존 주장들이 꽤 빠르게 흔들리는 분위기입니다.
+Meta 출신 연구자들이 만든 ESMFold2가 공개됐는데, 단백질 구조 예측...</title><link>https://www.threads.net/@choi.openai/post/DY2RZVxD2yU</link><description>이제 단백질 AI도 “챗GPT 모먼트”에 들어가는 분위기입니다.
 
-최근 AI에서 계속 나오는 “창발적 능력” 이야기가 단순 과장이 아닐 수도 있다는 해석도 점점 힘을 얻고 있습니다.</description><pubDate>Wed, 27 May 2026 02:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY002hxD-Ae</guid></item><item><title>내용 :
-https://www-cdn.anthropic.com/files/4zrzovbb/website/ca35f196125c899a5ad11f...</title><link>https://www.threads.net/@choi.openai/post/DY003iOD0aU</link><description>내용 :
-https://www-cdn.anthropic.com/files/4zrzovbb/website/ca35f196125c899a5ad11f011080202a652aef02.pdf</description><pubDate>Wed, 27 May 2026 02:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY003iOD0aU</guid></item><item><title>결국 개발자들의 체감이 맞았습니다.
+Meta 출신 연구자들이 만든 ESMFold2가 공개됐는데, 단백질 구조 예측을 넘어 항체와 단백질 간 상호작용 설계까지 성과를 냈습니다. 암·면역 치료 관련 5개 타깃에서 실제 치료 수준에 가까운 결합력을 가진 미니단백질과 항체도 설계했다고 하고요.
 
-새 코딩 벤치마크 "DeepSWE"가 공개됐는데,
-기존 리더보드에서는 비슷해 보이던 AI 모델들 사이의 성...</title><link>https://www.threads.net/@choi.openai/post/DY0qiT9knih</link><description>결국 개발자들의 체감이 맞았습니다.
+특히, 단백질-단백질 상호작용뿐 아니라 DNA/RNA, 소분자까지 지원 범위를 넓혔다는 점입니다. 전부 오픈소스로 공개됐고 Colab 노트북까지 함께 배포됐습니다.
 
-새 코딩 벤치마크 "DeepSWE"가 공개됐는데,
-기존 리더보드에서는 비슷해 보이던 AI 모델들 사이의 성능 차이가 실제 개발 환경에서는 엄청 크게 벌어졌습니다.
+인간이 생물학 규칙을 직접 넣은 게 아니라, AI가 단백질 서열을 언어처럼 학습하면서 생물학 구조 자체를 내부적으로 형성했다는 점도 인상적입니다.
 
-특히 GPT-5.5가 압도적이라는 반응이 쏟아지고 있는데요.
+이제 AI가 배우는 다음 언어는 생명체 그 자체일지도 모르겠습니다.</description><pubDate>Wed, 27 May 2026 15:59:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY2RZVxD2yU</guid></item><item><title>발표내용 :
+https://biohub.ai/esm/protein/</title><link>https://www.threads.net/@choi.openai/post/DY2RZpNj_Bn</link><description>발표내용 :
+https://biohub.ai/esm/protein/</description><pubDate>Wed, 27 May 2026 15:59:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY2RZpNj_Bn</guid></item><item><title>70억짜리 포켓몬 카드를 손에 넣었습니다...
 
-왜 이런 결과가 나왔는지 핵심만 정리했습니다🧵</description><pubDate>Wed, 27 May 2026 01:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0qiT9knih</guid></item><item><title>1/ 최근 새로운 AI 코딩 벤치마크 "DeepSWE"가 공개되었는데요.
-그동안 리더보드를 보며 느꼈던 기시감이 마침내 해소되는 기분을 느꼈습니...</title><link>https://www.threads.net/@choi.openai/post/DY0qjm5kie6</link><description>1/ 최근 새로운 AI 코딩 벤치마크 "DeepSWE"가 공개되었는데요.
-그동안 리더보드를 보며 느꼈던 기시감이 마침내 해소되는 기분을 느꼈습니다.
-벤치마크 점수는 높은데 막상 실무에 투입하면 어딘가 엉성했던 AI 모델들의 성능을 제대로 측정된 듯 싶습니다.
+아래 영상은 구글이 최근 발표한 Gemini Omni 모델으로 제작되었습니다.
+Gemini Om...</title><link>https://www.threads.net/@choi.openai/post/DY2Gl69jOpX</link><description>70억짜리 포켓몬 카드를 손에 넣었습니다...
 
-그동안 우리가 맹신해 온 코딩 벤치마크(SWE-bench 등)는 사실 심각하게 오염되어 있었습니다.
+아래 영상은 구글이 최근 발표한 Gemini Omni 모델으로 제작되었습니다.
+Gemini Omni는 영상 속 간판만 바꾸는 수준이 아니라, 장면·배경·오브젝트·카메라 구도까지 대화하듯 계속 수정할 수 있는데요.
+이미 타임 스퀘어 광고 영상까지 전부 Omni로 편집한 사례들이 나오고 있습니다.
 
-기존 벤치마크들은 이미 퍼블릭하게 공개된 깃허브(GitHub)의 이슈와 풀 리퀘스트(PR)를 긁어와 문제로 삼았습니다.
+영상 제작 방식 자체를 바꿔버릴 활용 사례들을 정리했습니다🧵</description><pubDate>Wed, 27 May 2026 14:24:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY2Gl69jOpX</guid></item><item><title>2/ x@WolfRiccardo</title><link>https://www.threads.net/@choi.openai/post/DY2B7QvDdIX</link><description>2/ x@WolfRiccardo</description><pubDate>Wed, 27 May 2026 14:25:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY2B7QvDdIX</guid></item><item><title>3/ x@fofrAI</title><link>https://www.threads.net/@choi.openai/post/DY2B-w5mJqu</link><description>3/ x@fofrAI</description><pubDate>Wed, 27 May 2026 14:25:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY2B-w5mJqu</guid></item><item><title>4/ x@bilawalsidhu</title><link>https://www.threads.net/@choi.openai/post/DY2CA61FAPC</link><description>4/ x@bilawalsidhu</description><pubDate>Wed, 27 May 2026 14:25:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY2CA61FAPC</guid></item><item><title>클로드 코드 유저라면 꼭 사용해보세요.
 
-이는 AI가 사전 학습 단계에서 이미 정답을 외워버렸을 확률이 높다는 뜻입니다.
+앤트로픽이 Claude Code용 보안 플러그인을 공개했습니다.
 
-게다가 평가 시스템조차 허술해서, AI가 정답 커밋의 깃(git) 히스토리를 훔쳐보거나 작동하지 않는 껍데기 코드를 제출해도 통과시켜 주는 황당한 위양성 오류가 무려 8.5%에 달했습니다.</description><pubDate>Wed, 27 May 2026 01:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0qjm5kie6</guid></item><item><title>2/ DeepSWE는 이러한 문제를 해결하기 위해 과제를 원점에서 새로 작성했습니다.
+코드 작성 중 위험한 라이브러리 사용...</title><link>https://www.threads.net/@choi.openai/post/DY1TtPIEXYp</link><description>클로드 코드 유저라면 꼭 사용해보세요.
 
-프롬프트의 길이는 기존 벤치마크의 절반 수준으로 짧아졌지...</title><link>https://www.threads.net/@choi.openai/post/DY0qlA1kqXk</link><description>2/ DeepSWE는 이러한 문제를 해결하기 위해 과제를 원점에서 새로 작성했습니다.
+앤트로픽이 Claude Code용 보안 플러그인을 공개했습니다.
 
-프롬프트의 길이는 기존 벤치마크의 절반 수준으로 짧아졌지만, 해결을 위해 작성해야 하는 코드는 평균 668줄, 수정해야 하는 파일은 평균 7개로 대폭 늘어났습니다.
+코드 작성 중 위험한 라이브러리 사용을 감지하고, 모델 작업이 끝난 뒤에는 전체 diff를 다시 검사하고, 커밋 단계에서는 주변 코드 맥락까지 읽어 취약점을 검증하는 구조입니다.
 
-모델이 구체적인 지시를 단순히 따르는 것을 넘어, 스스로 코드를 탐색하고 구조를 파악해 수정하는 실제 개발 업무의 형태를 반영했습니다.</description><pubDate>Wed, 27 May 2026 01:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0qlA1kqXk</guid></item><item><title>3/ 이 기준으로 평가를 진행한 결과, 최상위 모델 간의 점수 격차가 분명하게 드러났습니다.
+앤트로픽은 내부 테스트에서 보안 관련 PR 코멘트가 30-40% 감소했다고 설명했는데요.
+기존 보안 툴은 보통 “다 만든 뒤 검사”에 가까웠다면, 이제는 AI 에이전트 옆에서 계속 감시하는 구조로 바뀌고 있는 겁니다.
 
-GPT-5.5가 70%로 가장 높은 점수를 기록했...</title><link>https://www.threads.net/@choi.openai/post/DY0qmfJkk9f</link><description>3/ 이 기준으로 평가를 진행한 결과, 최상위 모델 간의 점수 격차가 분명하게 드러났습니다.
+AI 코딩 시대가 되면서 생산성만큼 중요한 게 “AI가 얼마나 안전하게 코드를 만들 수 있느냐”로 이동하는 분위기인데요.
 
-GPT-5.5가 70%로 가장 높은 점수를 기록했고, 이전 세대인 GPT-5.4가 56%, Claude Opus 4.7이 54%로 뒤를 이었습니다.
-
-기존 리더보드에서는 상위 모델들의 점수가 좁은 구간에 모여 있었지만, DeepSWE에서는 점수 차이가 넓게 벌어지며 개발자들의 실제 사용 경험과 일치하는 결과를 보여주었습니다.</description><pubDate>Wed, 27 May 2026 01:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0qmfJkk9f</guid></item><item><title>샤오미 MiMo가 API 가격을 최대 99% 인하한다고 발표했습니다.
-샤오미는 추론 최적화와 서빙 효율 개선으로 원가 자체를 계속 낮추고 있다고...</title><link>https://www.threads.net/@choi.openai/post/DY0gPN-Aumr</link><description>샤오미 MiMo가 API 가격을 최대 99% 인하한다고 발표했습니다.
-샤오미는 추론 최적화와 서빙 효율 개선으로 원가 자체를 계속 낮추고 있다고 강조하고 있습니다.
-
-최근 DeepSeek도 영구 75% 가격 인하를 발표했고, 이제 중국 모델들은 서로 가격을 맞춰가며 사실상 토큰 전쟁에 들어가는 분위기입니다.
-
-중국은 지금 모델, 반도체, 서버, 메모리까지 전부 자국 중심 생태계로 묶으려는 움직임을 같이 가져가고 있습니다.
-실제로 중국 업체들은 연산량과 서버 비용을 줄이는 기술로 서빙 비용 자체를 낮추는 동시에, 자체 반도체와 서버 인프라까지 함께 밀고 있습니다.
-
-결국 “충분히 좋은 AI를 엄청 싸게 공급하는 구조” 자체를 국가 단위로 만들려는 느낌에 가깝습니다.
-
-물론 실제로 이 가격이 장기적으로 유지 가능한 수준의 효율인지, 혹은 점유율 확보를 위한 공격적 전략인지는 아직 더 봐야 하지만, 중국 AI 시장이 가격 경쟁으로도 시장 판을 흔들고 있다는 점입니다.</description><pubDate>Tue, 26 May 2026 23:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0gPN-Aumr</guid></item><item><title>현대 아틀라스 움직임 정말 자연스럽네요.</title><link>https://www.threads.net/@choi.openai/post/DY0V_30ktP_</link><description>현대 아틀라스 움직임 정말 자연스럽네요.</description><pubDate>Tue, 26 May 2026 22:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY0V_30ktP_</guid></item></channel></rss>
+앞으로는 코드 작성 AI와 보안 AI가 한 팀처럼 같이 움직이는 흐름이 점점 기본이 될 수도 있어 보입니다.</description><pubDate>Wed, 27 May 2026 07:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY1TtPIEXYp</guid></item></channel></rss>
