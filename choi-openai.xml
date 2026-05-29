@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 29 May 2026 11:29:31 +0000</lastBuildDate><item><title>게임도 딸깍으로 만드는 시대가 얼마 안남은 것 같습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 29 May 2026 17:59:24 +0000</lastBuildDate><item><title>이거 꽤 흥미로운 방향입니다.
+
+Bagel Labs가 세계 최초의 분산 학습 기반 영상 생성 모델이라고 주장하는 Paris 2.0을 공개했습니다...</title><link>https://www.threads.net/@choi.openai/post/DY7Q3wogeAu</link><description>이거 꽤 흥미로운 방향입니다.
+
+Bagel Labs가 세계 최초의 분산 학습 기반 영상 생성 모델이라고 주장하는 Paris 2.0을 공개했습니다.
+
+Paris 2.0은 하나의 거대한 모델을 학습하는 대신 여러 개의 독립적인 확산 모델이 각자 데이터 일부를 학습한 뒤, 추론 단계에서 라우터가 필요한 전문가 모델을 선택하는 DDM 구조를 사용합니다.
+
+연구팀에 따르면 동일한 데이터와 연산량 조건에서 기존 단일 모델 대비 FVD가 561.04에서 279.01로 개선됐으며, 텍스트-영상 정합성과 미적 품질 점수도 향상됐다고 합니다.
+
+지금까지 대형 AI 모델은 거대한 GPU 클러스터를 중심으로 학습되는 경우가 대부분이었지만, Paris 2.0은 지역과 성능이 서로 다른 GPU들을 활용한 분산 학습이 충분히 경쟁력 있을 수 있다는 가능성을 보여주고 있습니다.
+
+이번 결과는 영상 품질 경쟁보다는 제한된 연산 자원에서 얼마나 효율적으로 학습할 수 있는지에 더 의미가 있어 보입니다.</description><pubDate>Fri, 29 May 2026 14:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY7Q3wogeAu</guid></item><item><title>모델 :
+https://huggingface.co/bageldotcom/paris2</title><link>https://www.threads.net/@choi.openai/post/DY7Q4vEgWGi</link><description>모델 :
+https://huggingface.co/bageldotcom/paris2</description><pubDate>Fri, 29 May 2026 14:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY7Q4vEgWGi</guid></item><item><title>30초 분량의 1080p 영상을 단 7초 만에 뽑아냅니다.
+
+Hao AI Lab에서 실시간 동영상 생성 애플리케이션인 FastVideo Drea...</title><link>https://www.threads.net/@choi.openai/post/DY7GjCcDsWd</link><description>30초 분량의 1080p 영상을 단 7초 만에 뽑아냅니다.
+
+Hao AI Lab에서 실시간 동영상 생성 애플리케이션인 FastVideo Dreamverse를 오픈소스로 전격 공개했습니다.
+
+해당 애플리케이션은 LTX-2 모델을 기반으로 단일 NVIDIA B200 GPU에서 구동되며 매우 빠른 생성 속도를 보여줍니다. 
+
+주목할 점은 결과물을 기다리는 대신, 영상을 보며 자연어로 즉각 개입해 장면을 수정하고 이어붙일 수 있는 "vibe directing" 워크플로우를 구축했다는 점입니다.
+
+동영상 AI가 크리에이터와 실시간으로 상호작용하는 디렉팅 시스템으로 진화하고 있습니다. 
+
+현재는 B200이라는 하드웨어 장벽이 존재하지만, Hao AI Lab은 향후 RTX 5090 등 소비자용 GPU 환경까지 지원을 확장할 계획입니다.
+
+해당 최적화가 성공적으로 이루어진다면, 머지않아 누구나 개인 PC에서 실시간으로 영상을 연출하고 편집하는 새로운 작업 환경이 열릴 것으로 보입니다.</description><pubDate>Fri, 29 May 2026 13:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY7GjCcDsWd</guid></item><item><title>블로그 :
+https://haoailab.com/blogs/fastvideo-dreamverse-release/</title><link>https://www.threads.net/@choi.openai/post/DY7Gj6ojnI0</link><description>블로그 :
+https://haoailab.com/blogs/fastvideo-dreamverse-release/</description><pubDate>Fri, 29 May 2026 13:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY7Gj6ojnI0</guid></item><item><title>Liquid AI가 온디바이스 AI를 겨냥한 오픈 웨이트 모델 LFM2.5-8B-A1B를 공개했습니다.
+
+8B MoE 구조지만 실제 추론에는 1...</title><link>https://www.threads.net/@choi.openai/post/DY68L6pD7Mc</link><description>Liquid AI가 온디바이스 AI를 겨냥한 오픈 웨이트 모델 LFM2.5-8B-A1B를 공개했습니다.
+
+8B MoE 구조지만 실제 추론에는 1.5B만 활성화되며, 128K 컨텍스트와 38조 토큰 학습, 대규모 강화학습(RL)이 적용됐는데요.
+특히 도구 호출과 에이전트 작업에 초점을 맞춰 BFCL, Tau² Telecom 등 에이전트 벤치마크 성능이 크게 향상됐습니다.
+
+LocalCowork 데모에서는 노트북 한 대에서 67개의 도구와 13개의 MCP 서버를 활용하는 모습을 보여주며, API 없이 모든 데이터가 기기 내부에서 처리되어 도구 호출도 1초 이내로 동작한다고 설명했습니다.
+
+최근 AI 업계가 거대한 모델 경쟁뿐 아니라 개인 기기에서 실행 가능한 에이전트 모델에도 집중하고 있는데요.
+LFM2.5-8B-A1B는 스마트폰과 노트북에서도 동작하는 실용적인 AI 비서 방향을 보여주는 사례로 보입니다.</description><pubDate>Fri, 29 May 2026 11:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY68L6pD7Mc</guid></item><item><title>블로그 :
+https://www.liquid.ai/blog/lfm2-5-8b-a1b</title><link>https://www.threads.net/@choi.openai/post/DY68M3PjyvP</link><description>블로그 :
+https://www.liquid.ai/blog/lfm2-5-8b-a1b</description><pubDate>Fri, 29 May 2026 11:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY68M3PjyvP</guid></item><item><title>게임도 딸깍으로 만드는 시대가 얼마 안남은 것 같습니다.
 
 며칠 전, AI 게임 생성 플랫폼 Tesana가 게임 로직, NPC 행동, 애니메이션...</title><link>https://www.threads.net/@choi.openai/post/DY6npa8geQ6</link><description>게임도 딸깍으로 만드는 시대가 얼마 안남은 것 같습니다.
 
@@ -11,39 +53,4 @@
 
 아직 AAA 게임을 대체할 수준은 아니지만, 프로토타입 제작이나 인디 게임 개발에서는 생각보다 빠르게 작업 방식이 바뀔 수도 있어 보입니다.</description><pubDate>Fri, 29 May 2026 08:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6npa8geQ6</guid></item><item><title>서비스 주소 :
 https://tesana.ai/en</title><link>https://www.threads.net/@choi.openai/post/DY6nqi9Adv7</link><description>서비스 주소 :
-https://tesana.ai/en</description><pubDate>Fri, 29 May 2026 08:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6nqi9Adv7</guid></item><item><title>중국 오픈소스 진영이 또 하나의 강력한 에이전트 모델을 공개했습니다.
-
-StepFun이 오픈 웨이트 모델 Step 3.7 Flash를 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DY6dYYFgixc</link><description>중국 오픈소스 진영이 또 하나의 강력한 에이전트 모델을 공개했습니다.
-
-StepFun이 오픈 웨이트 모델 Step 3.7 Flash를 공개했습니다.
-
-198B 규모의 희소 MoE 구조지만 실제 추론에는 약 11B만 활성화되며, 에이전트 작업과 코딩, 검색 성능에 집중한 것이 특징인데요.
-
-SWE-Bench Pro 56.3%, ClawEval-1.1 67.1%, SimpleVQA Search 79.2% 등의 성능을 기록했습니다.
-
-실제로 Claude Code, OpenClaw, Hermes Agent, KiloCode 같은 환경에서 바로 사용할 수 있도록 설계됐고, 필요할 때만 더 큰 모델에게 조언을 구하는 Advisor Mode도 추가됐습니다.
-
-중국의 오픈웨이트 모델과 저렴한 가격 경쟁을 통해 더욱 빠르게 시장에 침투하고 있는 것 같습니다.</description><pubDate>Fri, 29 May 2026 07:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6dYYFgixc</guid></item><item><title>블로그 :
-https://static.stepfun.com/blog/step-3.7-flash/</title><link>https://www.threads.net/@choi.openai/post/DY6da29gphK</link><description>블로그 :
-https://static.stepfun.com/blog/step-3.7-flash/</description><pubDate>Fri, 29 May 2026 07:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6da29gphK</guid></item><item><title>구글이 이미지 생성 모델 Nano Banana 2(Gemini 3.1 Flash Image)와 Nano Banana Pro(Gemini 3 Pr...</title><link>https://www.threads.net/@choi.openai/post/DY6TBJoDy4j</link><description>구글이 이미지 생성 모델 Nano Banana 2(Gemini 3.1 Flash Image)와 Nano Banana Pro(Gemini 3 Pro Image)를 정식 출시(GA)했습니다.
-
-이번 업데이트에서 가장 눈에 띄는 점은 Nano Banana 2가 영상 파일을 입력으로 지원하기 시작했다는 점인데요. 이제 텍스트, 이미지, PDF뿐 아니라 영상 내용을 분석해 썸네일, 인포그래픽 등 관련 이미지를 생성할 수 있습니다.
-
-또한 1K·2K 해상도 출력은 정식 지원되며, 4K 출력은 아직 프리뷰 단계입니다.
-Adobe Firefly, Shopify, WPP, Urban Outfitters 등 여러 기업이 이미 콘텐츠 제작과 마케팅 업무에 활용하고 있다고 밝혔습니다.
-
-멀티모달 AI가 이제 콘텐츠 제작 파이프라인 안으로 본격적으로 들어가는 분위기입니다.</description><pubDate>Fri, 29 May 2026 05:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6TBJoDy4j</guid></item><item><title>발표내용 :
-https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-...</title><link>https://www.threads.net/@choi.openai/post/DY6TB-mD0cP</link><description>발표내용 :
-https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available?e=48754805</description><pubDate>Fri, 29 May 2026 05:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6TB-mD0cP</guid></item><item><title>AI 더빙이 차원이 달라지고 있습니다.
-
-ElevenLabs가 Dubbing v2를 공개했는데요.
-기존 AI 더빙이 대본을 번역한 뒤 평평한 음...</title><link>https://www.threads.net/@choi.openai/post/DY6IsowjBIp</link><description>AI 더빙이 차원이 달라지고 있습니다.
-
-ElevenLabs가 Dubbing v2를 공개했는데요.
-기존 AI 더빙이 대본을 번역한 뒤 평평한 음성으로 읽는 방식에 가까웠다면, 이번 모델은 원본 영상의 톤, 감정, 말의 세기, 전달 방식을 직접 참고해 90개 이상 언어로 옮깁니다.
-
-중요한 건 원래 배우나 크리에이터의 퍼포먼스를 다른 언어에서도 최대한 유지하려 한다는 점입니다.
-
-물론 번역 과정에서 의미와 리듬이 바뀌기 때문에 “원본 연기와 완전히 같다”고 보긴 어렵습니다만 유튜브, 광고, 교육 콘텐츠처럼 빠르게 다국어 배포가 필요한 시장에서는 꽤 큰 변화가 될 수 있습니다.
-
-콘텐츠 현지화 비용이 빠르게 내려가고 있습니다.</description><pubDate>Fri, 29 May 2026 04:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6IsowjBIp</guid></item></channel></rss>
+https://tesana.ai/en</description><pubDate>Fri, 29 May 2026 08:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6nqi9Adv7</guid></item></channel></rss>
