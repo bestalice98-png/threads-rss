@@ -1,22 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 29 May 2026 03:36:20 +0000</lastBuildDate><item><title>챗GPT 사망.</title><link>https://www.threads.net/@choi.openai/post/DY6DkLij-yR</link><description>챗GPT 사망.</description><pubDate>Fri, 29 May 2026 03:15:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6DkLij-yR</guid></item><item><title>Cursor가 공개한 Developer Habits Report에 따르면, 개발자 1인당 주간 코드 추가량은 1년 사이 거의 2배로 늘었고, P...</title><link>https://www.threads.net/@choi.openai/post/DY5-d-XDD6t</link><description>Cursor가 공개한 Developer Habits Report에 따르면, 개발자 1인당 주간 코드 추가량은 1년 사이 거의 2배로 늘었고, PR당 코드 추가량도 약 2.5배 증가했습니다.
-1,000줄 이상 변경되는 mega PR 비중도 계속 늘고 있는데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 29 May 2026 11:29:31 +0000</lastBuildDate><item><title>게임도 딸깍으로 만드는 시대가 얼마 안남은 것 같습니다.
 
-에이전트 세션당 도구 호출 수가 두 달 만에 약 30% 늘었고, AI가 만든 코드가 60분 뒤에도 남아 있는 비율도 76%에서 81% 수준까지 올라갔습니다.
+며칠 전, AI 게임 생성 플랫폼 Tesana가 게임 로직, NPC 행동, 애니메이션...</title><link>https://www.threads.net/@choi.openai/post/DY6npa8geQ6</link><description>게임도 딸깍으로 만드는 시대가 얼마 안남은 것 같습니다.
 
-개발자는 이제 코드를 직접 쓰는 시간보다, AI가 더 큰 맥락을 읽고 더 큰 작업 단위를 처리하게 만드는 쪽으로 이동하고 있습니다.</description><pubDate>Fri, 29 May 2026 02:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY5-d-XDD6t</guid></item><item><title>발표내용 :
-https://cursor.com/ko/insights</title><link>https://www.threads.net/@choi.openai/post/DY5-eszjB2T</link><description>발표내용 :
-https://cursor.com/ko/insights</description><pubDate>Fri, 29 May 2026 02:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY5-eszjB2T</guid></item><item><title>코덱스 업데이트 하루 연기!</title><link>https://www.threads.net/@choi.openai/post/DY54ymCj_2W</link><description>코덱스 업데이트 하루 연기!</description><pubDate>Fri, 29 May 2026 01:41:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY54ymCj_2W</guid></item><item><title>오늘 오픈AI의 업데이트도 있었습니다.
+며칠 전, AI 게임 생성 플랫폼 Tesana가 게임 로직, NPC 행동, 애니메이션, 이펙트, 로딩 최적화까지 생성하는 Muranyi 3를 공개했는데요.
 
-GPT-5.5 Instant가 더 자연스럽고 읽기 쉽게 바뀌었는데요.
-오픈AI는 특히 실용적인 도움 작...</title><link>https://www.threads.net/@choi.openai/post/DY50LkUEfO8</link><description>오늘 오픈AI의 업데이트도 있었습니다.
+이번 업데이트에서는 더 똑똑한 NPC, 안정적인 빌드, 자연스러운 게임 로직처럼 실제 게임 개발 과정에서 문제가 되던 부분들을 집중적으로 다루고 있습니다.
 
-GPT-5.5 Instant가 더 자연스럽고 읽기 쉽게 바뀌었는데요.
-오픈AI는 특히 실용적인 도움 작업에서 답변 템포를 조정하고, 과도한 불릿 포인트와 지나치게 긴 응답을 줄였다고 설명했습니다.
+최근 AI 코딩이 "앱 만들기"로 확장되고 있다면, 게임 분야에서는 "게임 엔진 사용법"보다 "어떤 게임을 만들고 싶은가"가 더 중요해지는 방향으로 가고 있습니다.
 
-겉보기엔 작은 변화처럼 보이지만, 실제로는 AI 제품 방향이 바뀌고 있는 것 같습니다.
-지금은 코딩 시장이 가장 빠르게 성장하고 있지만, 결국 AI가 하드웨어와 제품 전반에 녹아들기 시작하면 중요한 건 인간과 AI가 얼마나 자연스럽게 소통할 수 있는지가 중요합니다.
+아직 AAA 게임을 대체할 수준은 아니지만, 프로토타입 제작이나 인디 게임 개발에서는 생각보다 빠르게 작업 방식이 바뀔 수도 있어 보입니다.</description><pubDate>Fri, 29 May 2026 08:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6npa8geQ6</guid></item><item><title>서비스 주소 :
+https://tesana.ai/en</title><link>https://www.threads.net/@choi.openai/post/DY6nqi9Adv7</link><description>서비스 주소 :
+https://tesana.ai/en</description><pubDate>Fri, 29 May 2026 08:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6nqi9Adv7</guid></item><item><title>중국 오픈소스 진영이 또 하나의 강력한 에이전트 모델을 공개했습니다.
 
-실제로 Canvas도 점차 writing blocks 방식으로 대체되고 있는데요. 채팅과 작업창이 따로 분리되던 구조에서, 이제는 대화 안에서 바로 문서 작성과 코드 작업까지 이어지는 방향으로 이동하고 있습니다.
+StepFun이 오픈 웨이트 모델 Step 3.7 Flash를 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DY6dYYFgixc</link><description>중국 오픈소스 진영이 또 하나의 강력한 에이전트 모델을 공개했습니다.
 
-한편 Codex CLI도 richer diagnostics, Vim text object editing, permission profile 같은 기능들이 추가됐습니다.</description><pubDate>Fri, 29 May 2026 01:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY50LkUEfO8</guid></item></channel></rss>
+StepFun이 오픈 웨이트 모델 Step 3.7 Flash를 공개했습니다.
+
+198B 규모의 희소 MoE 구조지만 실제 추론에는 약 11B만 활성화되며, 에이전트 작업과 코딩, 검색 성능에 집중한 것이 특징인데요.
+
+SWE-Bench Pro 56.3%, ClawEval-1.1 67.1%, SimpleVQA Search 79.2% 등의 성능을 기록했습니다.
+
+실제로 Claude Code, OpenClaw, Hermes Agent, KiloCode 같은 환경에서 바로 사용할 수 있도록 설계됐고, 필요할 때만 더 큰 모델에게 조언을 구하는 Advisor Mode도 추가됐습니다.
+
+중국의 오픈웨이트 모델과 저렴한 가격 경쟁을 통해 더욱 빠르게 시장에 침투하고 있는 것 같습니다.</description><pubDate>Fri, 29 May 2026 07:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6dYYFgixc</guid></item><item><title>블로그 :
+https://static.stepfun.com/blog/step-3.7-flash/</title><link>https://www.threads.net/@choi.openai/post/DY6da29gphK</link><description>블로그 :
+https://static.stepfun.com/blog/step-3.7-flash/</description><pubDate>Fri, 29 May 2026 07:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6da29gphK</guid></item><item><title>구글이 이미지 생성 모델 Nano Banana 2(Gemini 3.1 Flash Image)와 Nano Banana Pro(Gemini 3 Pr...</title><link>https://www.threads.net/@choi.openai/post/DY6TBJoDy4j</link><description>구글이 이미지 생성 모델 Nano Banana 2(Gemini 3.1 Flash Image)와 Nano Banana Pro(Gemini 3 Pro Image)를 정식 출시(GA)했습니다.
+
+이번 업데이트에서 가장 눈에 띄는 점은 Nano Banana 2가 영상 파일을 입력으로 지원하기 시작했다는 점인데요. 이제 텍스트, 이미지, PDF뿐 아니라 영상 내용을 분석해 썸네일, 인포그래픽 등 관련 이미지를 생성할 수 있습니다.
+
+또한 1K·2K 해상도 출력은 정식 지원되며, 4K 출력은 아직 프리뷰 단계입니다.
+Adobe Firefly, Shopify, WPP, Urban Outfitters 등 여러 기업이 이미 콘텐츠 제작과 마케팅 업무에 활용하고 있다고 밝혔습니다.
+
+멀티모달 AI가 이제 콘텐츠 제작 파이프라인 안으로 본격적으로 들어가는 분위기입니다.</description><pubDate>Fri, 29 May 2026 05:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6TBJoDy4j</guid></item><item><title>발표내용 :
+https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-...</title><link>https://www.threads.net/@choi.openai/post/DY6TB-mD0cP</link><description>발표내용 :
+https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-and-nano-banana-pro-are-generally-available?e=48754805</description><pubDate>Fri, 29 May 2026 05:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6TB-mD0cP</guid></item><item><title>AI 더빙이 차원이 달라지고 있습니다.
+
+ElevenLabs가 Dubbing v2를 공개했는데요.
+기존 AI 더빙이 대본을 번역한 뒤 평평한 음...</title><link>https://www.threads.net/@choi.openai/post/DY6IsowjBIp</link><description>AI 더빙이 차원이 달라지고 있습니다.
+
+ElevenLabs가 Dubbing v2를 공개했는데요.
+기존 AI 더빙이 대본을 번역한 뒤 평평한 음성으로 읽는 방식에 가까웠다면, 이번 모델은 원본 영상의 톤, 감정, 말의 세기, 전달 방식을 직접 참고해 90개 이상 언어로 옮깁니다.
+
+중요한 건 원래 배우나 크리에이터의 퍼포먼스를 다른 언어에서도 최대한 유지하려 한다는 점입니다.
+
+물론 번역 과정에서 의미와 리듬이 바뀌기 때문에 “원본 연기와 완전히 같다”고 보긴 어렵습니다만 유튜브, 광고, 교육 콘텐츠처럼 빠르게 다국어 배포가 필요한 시장에서는 꽤 큰 변화가 될 수 있습니다.
+
+콘텐츠 현지화 비용이 빠르게 내려가고 있습니다.</description><pubDate>Fri, 29 May 2026 04:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6IsowjBIp</guid></item></channel></rss>
