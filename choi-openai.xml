@@ -1,61 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 30 May 2026 03:24:55 +0000</lastBuildDate><item><title>Harvard 연구진이 AutoScientists라는 AI 연구 시스템을 발표했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 30 May 2026 10:00:42 +0000</lastBuildDate><item><title>AI 기업들의 진짜 전쟁은 이제 모델 성능이 아닙니다.
 
-기존 AI 연구 에이전트는 하나의 추론 흐름으로 작업하...</title><link>https://www.threads.net/@choi.openai/post/DY8moLZkquJ</link><description>Harvard 연구진이 AutoScientists라는 AI 연구 시스템을 발표했습니다.
+최근 오픈AI의 Rosalind Biodefense, 앤트로픽의 Project Glas...</title><link>https://www.threads.net/@choi.openai/post/DY9P1VDD479</link><description>AI 기업들의 진짜 전쟁은 이제 모델 성능이 아닙니다.
 
-기존 AI 연구 에이전트는 하나의 추론 흐름으로 작업하거나 중앙 관리자가 역할을 배분하는 구조가 많았는데요.
-AutoScientists는 중앙 통제자 없이 여러 AI 에이전트가 실험 결과를 공유하고, 서로의 아이디어를 검토하며, 유망한 연구 방향에 자연스럽게 팀을 구성하는 방식입니다.
+최근 오픈AI의 Rosalind Biodefense, 앤트로픽의 Project Glasswing처럼 정부·공공기관·국가 방어망에 먼저 들어가기 위한 경쟁이 시작됐습니다.
 
-논문에 따르면 GPT 학습 최적화에서는 기존 AutoResearch보다 같은 성능에 1.9배 빠르게 도달했고, BioML-Bench 24개 생명과학 과제에서도 더 높은 성능을 기록했습니다.
-또한 ProteinGym 벤치마크에서는 기존 최고 성능(Kermut)을 넘어서는 결과를 얻었다고 합니다.
-최근 AI 에이전트 경쟁이 "더 똑똑한 모델"에서 "더 잘 협업하는 시스템"으로 이동하고 있는데요.
-AutoScientists는 앞으로 AI 연구원이 한 명이 아니라, AI 연구팀이 등장할 수 있다는 신호처럼 보입니다.</description><pubDate>Sat, 30 May 2026 03:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8moLZkquJ</guid></item><item><title>프로젝트 주소 :
-https://autoscientists.openscientist.ai/</title><link>https://www.threads.net/@choi.openai/post/DY8mpZ5kpya</link><description>프로젝트 주소 :
-https://autoscientists.openscientist.ai/</description><pubDate>Sat, 30 May 2026 03:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8mpZ5kpya</guid></item><item><title>Codex 활용팁.
+왜 AI 기업들이 안보 인프라를 선점하려 하는지 그 안에 깔린 배포 전략을 정리했습니다.🧵</description><pubDate>Sat, 30 May 2026 09:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9P1VDD479</guid></item><item><title>1/ 오늘 오픈AI가 GPT-Rosalind 기반의 생물방어 프로그램 Rosalind Biodefense를 발표했습니다.
 
-오늘 Codex에 스레드를 직접 생성하고 관리하는 기능이 추가되었는데요.
+표면적으로는 팬데믹 ...</title><link>https://www.threads.net/@choi.openai/post/DY9P1siD_lD</link><description>1/ 오늘 오픈AI가 GPT-Rosalind 기반의 생물방어 프로그램 Rosalind Biodefense를 발표했습니다.
 
-하나의 메인 스레드를 두고 프로젝트별 스레드를 ...</title><link>https://www.threads.net/@choi.openai/post/DY8cUNjDLtG</link><description>Codex 활용팁.
+표면적으로는 팬데믹 대비, 역학 모델링, 조기 탐지, 생물학적 위협 스크리닝을 위한 방어형 AI 프로그램입니다.
 
-오늘 Codex에 스레드를 직접 생성하고 관리하는 기능이 추가되었는데요.
+하지만 더 주목해야 할 지점은 모델 성능보다 배포 구조입니다.
 
-하나의 메인 스레드를 두고 프로젝트별 스레드를 자동으로 만들거나, 중요한 스레드를 고정하고 관련 내용을 검색하도록 맡길 수 있습니다.
+최근 사이버 보안 쪽에서는 이미 비슷한 흐름이 먼저 나타났습니다.
 
-재밌는 활용법은 메인 스레드를 하나의 "Chief of Staff"로 만드는 것입니다.
+앤트로픽은 Claude Mythos Preview를 일반 공개하지 않고, Project Glasswing을 통해 검증된 파트너에게만 제공하고 있습니다.
 
-새 프로젝트가 생기면 직접 스레드를 생성하게 하고, 각 작업 스레드의 진행 상황을 확인하며 필요한 정보를 전달하도록 맡기는 건데요.
+Project Glasswing은 “너무 강력해서 바로 공개할 수 없는 사이버 모델”이라는 긴장감을 중심으로 전파됐고, 그 위에서 대형 기술기업, 보안기업, 오픈소스 생태계, 정부기관과의 접점을 넓히는 구조입니다.</description><pubDate>Sat, 30 May 2026 09:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9P1siD_lD</guid></item><item><title>2/ 실제로 Mythos는 주요 오픈소스와 인프라 소프트웨어에서 고위험 취약점을 대량으로 찾아내는 능력을 보였고, 미국 국방·공공 부문에서도 이...</title><link>https://www.threads.net/@choi.openai/post/DY9P2lWD5o4</link><description>2/ 실제로 Mythos는 주요 오픈소스와 인프라 소프트웨어에서 고위험 취약점을 대량으로 찾아내는 능력을 보였고, 미국 국방·공공 부문에서도 이런 프론티어 사이버 모델을 방어 역량으로 활용하려는 논의가 빠르게 커지고 있습니다.
 
-예를 들어 제품 개발, 콘텐츠 작성, 리서치, 버그 수정 같은 작업을 각각 별도 스레드에서 진행하고, 메인 스레드는 전체 진행 상황을 관리하는 프로젝트 매니저 역할을 수행할 수 있습니다.</description><pubDate>Sat, 30 May 2026 01:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8cUNjDLtG</guid></item><item><title>이제 코덱스 설정탭에서 토큰 사용량을 확인할 수 있습니다.</title><link>https://www.threads.net/@choi.openai/post/DY8SEoLCV76</link><description>이제 코덱스 설정탭에서 토큰 사용량을 확인할 수 있습니다.</description><pubDate>Sat, 30 May 2026 00:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8SEoLCV76</guid></item><item><title>Claude Opus 4.8이 공개된 뒤 평가가 계속 엇갈리고 있습니다.
-코딩은 좋아졌다는 반응과 오히려 답답해졌다는 반응이 동시에 나오는데요....</title><link>https://www.threads.net/@choi.openai/post/DY8IVHxE3sI</link><description>Claude Opus 4.8이 공개된 뒤 평가가 계속 엇갈리고 있습니다.
-코딩은 좋아졌다는 반응과 오히려 답답해졌다는 반응이 동시에 나오는데요.
-벤치마크와 실사용 후기를 모두 분석해 핵심 포인트를 정리했습니다🧵</description><pubDate>Fri, 29 May 2026 22:35:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8IVHxE3sI</guid></item><item><title>1/ Opus 4.8 출시 후 공식 벤치마크 외에도 다양한 외부 평가 결과가 쏟아지고 있습니다.
+중요한 건 이 흐름이 앤트로픽만의 전략이 아니라는 점입니다.
 
-각 평가가 측정하는 영역과 방식은 다르지만, ...</title><link>https://www.threads.net/@choi.openai/post/DY8IVuMk3fB</link><description>1/ Opus 4.8 출시 후 공식 벤치마크 외에도 다양한 외부 평가 결과가 쏟아지고 있습니다.
+오픈AI도 이미 사이버 영역에서 Daybreak와 GPT-5.5-Cyber를 통해 검증된 방어자 중심의 접근 구조를 만들고 있고, 며칠 전에는 한국 정부·공공기관·핵심 산업 기업을 대상으로 한 한국 사이버 액션 플랜까지 발표했습니다.
 
-각 평가가 측정하는 영역과 방식은 다르지만, 이를 종합해 보면 Opus 4.8이 어떤 강점과 한계를 가진 모델인지 보다 입체적으로 파악할 수 있습니다.
+즉 지금 프론티어 AI 기업들은 더 이상 챗봇이나 개발 도구만 파는 게 아닙니다.
 
-FrontierSWE와 APEX-SWE에서는 고난도 코딩과 디버깅 과제에서 강한 모습을 보였고, CursorBench에서는 최상위권에 들었지만 이전 세대인 Opus 4.7 Max를 넘기지는 못했습니다.
+사이버에서는 취약점 탐지, 패치 검증, 공급망 보안, 공공기관 방어 체계로 들어가고 있고, 바이오에서는 역학 모델링, 조기 탐지, DNA 시퀀스 스크리닝, 공중보건 대응 체계로 들어가고 있습니다.
 
-반면 CodeRabbit의 코드 리뷰 평가나 Andon Labs의 가상 비즈니스 테스트에서는 기대에 미치지 못하는 결과도 확인됐습니다.
+이번 Rosalind Biodefense도 흐름은 비슷합니다.</description><pubDate>Sat, 30 May 2026 09:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9P2lWD5o4</guid></item><item><title>3/ 모델을 위험하니 숨기겠다는 메시지보다, 공중보건·바이오 방어·팬데믹 대비라는 명분 아래 검증된 개발자와 정부·동맹 파트너에게 먼저 접근권을...</title><link>https://www.threads.net/@choi.openai/post/DY9P3Gdj2LQ</link><description>3/ 모델을 위험하니 숨기겠다는 메시지보다, 공중보건·바이오 방어·팬데믹 대비라는 명분 아래 검증된 개발자와 정부·동맹 파트너에게 먼저 접근권을 열어주는 방식입니다.
 
-여러 평가를 종합하면 Opus 4.8은 주어진 규칙과 절차를 충실히 따르며 긴 작업을 안정적으로 수행하는 유형에 가깝습니다.</description><pubDate>Fri, 29 May 2026 22:35:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8IVuMk3fB</guid></item><item><title>2/ 고난도 코딩 능력을 묻는 FrontierSWE에서 Opus 4.8은 상당히 인상적인 성적표를 받았습니다.
+여기에는 미국 공공 바이오 방어 체계의 변화도 겹쳐 있습니다.
 
-이 평가는 데이터베이스 재구현,...</title><link>https://www.threads.net/@choi.openai/post/DY8IWSZkwDL</link><description>2/ 고난도 코딩 능력을 묻는 FrontierSWE에서 Opus 4.8은 상당히 인상적인 성적표를 받았습니다.
+최근 미국에서는 CDC, ASPR, BARDA, 병원 대비 프로그램, 글로벌 보건안보 예산을 둘러싼 삭감과 재편 논의가 계속되고 있습니다.
 
-이 평가는 데이터베이스 재구현, 타입체커, 컴파일러, 성능 최적화처럼 실제 개발자도 오래 붙잡아야 하는 과제들로 구성되어 있습니다.
+공식 예산안과 정책 분석을 보면 일부 핵심 프로그램은 축소되거나 구조조정 대상에 올랐고, 전문가들은 이런 변화가 감염병 감시, 공중보건 대비, 생물방어 역량에 빈틈을 만들 수 있다고 우려하고 있습니다.
 
-평가 지표를 보면 Opus 4.8은 평균 순위 2.74, dominance 83%를 기록하며 GPT-5.5 Codex보다 앞선 결과를 보였습니다.
+이런 상황에서 세계 최고 수준의 컴퓨팅 자원과 모델 배포망을 가진 오픈AI가 Rosalind Biodefense를 들고 들어온 겁니다.</description><pubDate>Sat, 30 May 2026 09:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9P3Gdj2LQ</guid></item><item><title>Claude Opus 4.8의 시스템 프롬프트가 유출되었습니다.
 
-다만 세부 과제를 들여다보면 모든 항목을 압도한 것은 아닙니다.
+최근 유출된 앤트로픽의 Claude Opus 4.8 시스템 프롬프트를 두고 테...</title><link>https://www.threads.net/@choi.openai/post/DY9FnYSkb9G</link><description>Claude Opus 4.8의 시스템 프롬프트가 유출되었습니다.
 
-어떤 작업은 부분 점수에 머물렀고, 모델이 완전히 해결했다기보다 문제의 핵심 구조를 끝까지 밀고 간 점이 높게 평가된 경우도 있습니다.</description><pubDate>Fri, 29 May 2026 22:35:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8IWSZkwDL</guid></item><item><title>3/ Mercor의 APEX-SWE에서도 Opus 4.8의 강점이 다르게 보입니다.
+최근 유출된 앤트로픽의 Claude Opus 4.8 시스템 프롬프트를 두고 테크 씬의 여론이 갈리고 있는데요.
+겉으로는 철저한 안전 장치와 툴 연동 스펙처럼 보이지만, 실제 사용자들이 체감하는 긴 답변과 토큰 과소비 성향이 앤트로픽의 IPO 전 지표 부풀리기가 아니냐는 비판이 나오고 있습니다.
 
-APEX-SWE는 여러 API와 서비스를 연결하는 통합 작...</title><link>https://www.threads.net/@choi.openai/post/DY8IXRuk1Me</link><description>3/ Mercor의 APEX-SWE에서도 Opus 4.8의 강점이 다르게 보입니다.
+사실 이 현상은 추론 오버헤드와 모델 아키텍처의 패러다임 변화에 있어보입니다.
+4.8에 적용된 딥 리서치와 복잡한 지시문 추종을 위해 백그라운드 Thinking tokens 소모량이 비약적으로 늘어났는데, 텍스트 작업의 성공률 기준을 엄격하게 잡다 보니 체감 레이턴시는 길어지고 비용만 치솟는 병목이 발생한 겁니다.
 
-APEX-SWE는 여러 API와 서비스를 연결하는 통합 작업(Integration), 로그와 대시보드, 이슈 기록을 보고 문제를 찾아 고치는 관측·디버깅 작업(Observability)을 나눠 평가합니다.
+프론티어 랩들이 롱컨텍스트와 에이전트 성능을 유지하기 위해 백그라운드 연산을 강제하는 지금, 유용한 아웃풋과 '토큰 연극' 사이의 균형점을 잡는 것이 중요해보입니다.</description><pubDate>Sat, 30 May 2026 07:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9FnYSkb9G</guid></item><item><title>깃허브 :
+https://github.com/asgeirtj/system_prompts_leaks/blob/main/Anthropic/claud...</title><link>https://www.threads.net/@choi.openai/post/DY9FoLqEd0v</link><description>깃허브 :
+https://github.com/asgeirtj/system_prompts_leaks/blob/main/Anthropic/claude-opus-4.8.md</description><pubDate>Sat, 30 May 2026 07:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9FoLqEd0v</guid></item><item><title>Claude Opus 4.8의 역대급 캐싱 업데이트가 공개됐는데요.
+이제 대화 중간에 system instructions을 새로 주입해도 기존 ...</title><link>https://www.threads.net/@choi.openai/post/DY87UWJAltM</link><description>Claude Opus 4.8의 역대급 캐싱 업데이트가 공개됐는데요.
+이제 대화 중간에 system instructions을 새로 주입해도 기존 프롬프트 캐시가 통째로 날아가지 않고 그대로 유지됩니다.
 
-Opus 4.8 High는 Pass@1 45.3%로 1위를 기록했고, GPT-5.3 Codex는 41.5%였습니다.
+멀티턴 에이전트를 만들 때 상황에 맞춰 에이전트의 역할을 바꾸려면 최상단 시스템 프롬프트를 건드려야 했고, 그때마다 캐시가 깨지면서 비용과 지연 시간이 기하급수적으로 늘어나는 문제를 아키텍처 레벨에서 해결한 겁니다.
 
-세부적으로 보면 통합 작업에서는 4위였지만, 관측·디버깅 작업에서는 10%p 차이로 앞섰다는 설명이 붙었습니다.
+여기서 주목해야할 변화는 프롬프트 자동 캐싱이 적용되는 최소 토큰 기준이 기존 2,000토큰에서 1,024토큰으로 반 토막 났다는 점입니다.
 
-즉 새 시스템을 빠르게 붙이는 능력보다, 이미 있는 시스템에서 로그와 맥락을 읽고 문제 원인을 좁혀가는 쪽에서 더 강하게 평가된 모습입니다.</description><pubDate>Fri, 29 May 2026 22:35:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8IXRuk1Me</guid></item></channel></rss>
+어중간한 길이의 대화라 기존 4.7 버전에서는 캐시 혜택을 전혀 못 받던 수많은 API 호출이 이제는 코드 한 줄 안 바꾸고도 자동으로 90% 할인을 받을 수 있을 것으로 보입니다.
+
+그동안 캐시를 보존하기 위해 툴(tools)을 초기 블록에 무리하게 밀어 넣던 개발자들의 우회 방식도 이제 무의미해질 것으로 보입니다.</description><pubDate>Sat, 30 May 2026 06:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY87UWJAltM</guid></item><item><title>Cursor가 Auto-review mode를 공개했습니다.
+
+에이전트가 도구를 사용할 때마다 사용자의 승인을 반복적으로 요청하는 대신, 더 적...</title><link>https://www.threads.net/@choi.openai/post/DY8w7NujTLR</link><description>Cursor가 Auto-review mode를 공개했습니다.
+
+에이전트가 도구를 사용할 때마다 사용자의 승인을 반복적으로 요청하는 대신, 더 적은 승인 절차로 작업을 진행할 수 있는 기능인데요.
+
+허용 목록에 없거나 샌드박스에서 안전하게 실행할 수 없는 작업은 별도의 classifier subagent가 검토합니다. 해당 에이전트는 작업을 허용할지, 다른 방법을 시도할지, 또는 사용자 승인을 요청할지를 판단합니다.
+
+AI 코딩 도구가 실제 업무에서 자주 멈추는 이유 중 하나가 잦은 승인 요청인데요. Cursor는 안전성을 유지하면서도 작업 흐름이 끊기지 않도록 하는 방향으로 에이전트를 발전시키고 있는 것으로 보입니다.</description><pubDate>Sat, 30 May 2026 04:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8w7NujTLR</guid></item><item><title>발표내용 :
+https://cursor.com/ko/changelog/auto-review</title><link>https://www.threads.net/@choi.openai/post/DY8w8APjdJK</link><description>발표내용 :
+https://cursor.com/ko/changelog/auto-review</description><pubDate>Sat, 30 May 2026 04:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8w8APjdJK</guid></item></channel></rss>
