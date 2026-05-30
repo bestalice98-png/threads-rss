@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 30 May 2026 10:00:42 +0000</lastBuildDate><item><title>AI 기업들의 진짜 전쟁은 이제 모델 성능이 아닙니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 30 May 2026 15:57:53 +0000</lastBuildDate><item><title>아직도 많은 사람들이 스레드를 제대로 활용하고 있지 못하고 있습니다.
+정말 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
+스레드 ...</title><link>https://www.threads.net/@choi.openai/post/DY9uuLrCBZz</link><description>아직도 많은 사람들이 스레드를 제대로 활용하고 있지 못하고 있습니다.
+정말 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
+스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</description><pubDate>Sat, 30 May 2026 13:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9uuLrCBZz</guid></item><item><title>오픈소스 모델이 프론티어 폐쇄형 모델에 비해 평균 4개월의 기술 격차를 두고 뒤처져 있는 것으로 나타났습니다.
+
+점수로는 대략 8점 차이인데, ...</title><link>https://www.threads.net/@choi.openai/post/DY9khA6gNVe</link><description>오픈소스 모델이 프론티어 폐쇄형 모델에 비해 평균 4개월의 기술 격차를 두고 뒤처져 있는 것으로 나타났습니다.
+
+점수로는 대략 8점 차이인데, 이는 GPT-5와 GPT-5.5 사이의 체급 차이와 맞먹는 수준입니다. 지난 하반기 조사된 3개월 격차보다 오히려 간극이 살짝 더 벌어진 셈입니다.
+
+다들 DeepSeek나 Qwen의 벤치마크 점수만 보지만, 이 통계가 보여주는 구조는 인프라 자본의 비대칭성입니다.
+
+공개된 퍼블릭 벤치마크에서는 격차가 4개월 수준으로 좁혀져 보이지만, 프라이빗 난제 테스트나 DeepSWE 같은 실무형 장기 작업 영역으로 들어가면 실제 격차는 1년 이상 벌어지고 있습니다.
+
+자본력을 앞세운 폐쇄형 랩들이 최신 컴퓨팅 자원과 고품질 데이터 파이프라인을 독점하면서, 오픈소스가 추격하는 속도만큼 프론티어의 기준선 자체를 저 멀리 밀어내고 있습니다.
+
+결국 "4개월 뒤를 일정하게 따라붙는 구조" 자체가 빅테크의 무서운 자본 장벽을 증명하는 방증인 셈입니다.</description><pubDate>Sat, 30 May 2026 12:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9khA6gNVe</guid></item><item><title>발표내용 :
+https://epoch.ai/data-insights/open-closed-eci-gap</title><link>https://www.threads.net/@choi.openai/post/DY9kh4OgPvN</link><description>발표내용 :
+https://epoch.ai/data-insights/open-closed-eci-gap</description><pubDate>Sat, 30 May 2026 12:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9kh4OgPvN</guid></item><item><title>솔직히 AI 에이전트 좀 써보신 분들은 다들 공감하실 겁니다.
+
+기능을 좀 늘려보겠다고 MCP 서버나 플러그인을 이것저것 붙이다 보면, 정작 에...</title><link>https://www.threads.net/@choi.openai/post/DY9aJXOgGYC</link><description>솔직히 AI 에이전트 좀 써보신 분들은 다들 공감하실 겁니다.
+
+기능을 좀 늘려보겠다고 MCP 서버나 플러그인을 이것저것 붙이다 보면, 정작 에이전트가 아무것도 안 했는데 프롬프트 컨텍스트 창부터 꽉 차버리는 고질적인 문제가 있었죠.
+
+이번에 Nous Research가 이 문제를 해결하기 위해 Hermes Agent에 '툴 서치(Tool Search)'를 도입했습니다.
+
+이제 에이전트는 수많은 도구를 처음부터 전부 컨텍스트에 넣지 않고 딱 3개의 브릿지 도구(검색, 서술, 호출)만 가볍게 로드한 뒤, 유저의 질문에 맞춰 필요한 도구의 스키마만 그때그때 온디맨드로 불러와 사용합니다.
+
+컨텍스트의 10% 이상을 도구 스키마가 차지할 때만 자동으로 켜지는 구조라 쓸데없는 오버헤드도 줄였습니다.
+
+에이전트가 장기 작업을 수행할 때 도구 카탈로그를 '인덱스' 형태로 다루기 시작했다는 점에서 구조적으로 중요한 변화처럼 보입니다.</description><pubDate>Sat, 30 May 2026 10:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9aJXOgGYC</guid></item><item><title>발표내용 :
+https://hermes-agent.nousresearch.com/docs/user-guide/features/tool-searc...</title><link>https://www.threads.net/@choi.openai/post/DY9aKICgBvu</link><description>발표내용 :
+https://hermes-agent.nousresearch.com/docs/user-guide/features/tool-search</description><pubDate>Sat, 30 May 2026 10:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9aKICgBvu</guid></item><item><title>AI 기업들의 진짜 전쟁은 이제 모델 성능이 아닙니다.
 
 최근 오픈AI의 Rosalind Biodefense, 앤트로픽의 Project Glas...</title><link>https://www.threads.net/@choi.openai/post/DY9P1VDD479</link><description>AI 기업들의 진짜 전쟁은 이제 모델 성능이 아닙니다.
 
@@ -35,36 +67,4 @@ Project Glasswing은 “너무 강력해서 바로 공개할 수 없는 사이�
 
 공식 예산안과 정책 분석을 보면 일부 핵심 프로그램은 축소되거나 구조조정 대상에 올랐고, 전문가들은 이런 변화가 감염병 감시, 공중보건 대비, 생물방어 역량에 빈틈을 만들 수 있다고 우려하고 있습니다.
 
-이런 상황에서 세계 최고 수준의 컴퓨팅 자원과 모델 배포망을 가진 오픈AI가 Rosalind Biodefense를 들고 들어온 겁니다.</description><pubDate>Sat, 30 May 2026 09:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9P3Gdj2LQ</guid></item><item><title>Claude Opus 4.8의 시스템 프롬프트가 유출되었습니다.
-
-최근 유출된 앤트로픽의 Claude Opus 4.8 시스템 프롬프트를 두고 테...</title><link>https://www.threads.net/@choi.openai/post/DY9FnYSkb9G</link><description>Claude Opus 4.8의 시스템 프롬프트가 유출되었습니다.
-
-최근 유출된 앤트로픽의 Claude Opus 4.8 시스템 프롬프트를 두고 테크 씬의 여론이 갈리고 있는데요.
-겉으로는 철저한 안전 장치와 툴 연동 스펙처럼 보이지만, 실제 사용자들이 체감하는 긴 답변과 토큰 과소비 성향이 앤트로픽의 IPO 전 지표 부풀리기가 아니냐는 비판이 나오고 있습니다.
-
-사실 이 현상은 추론 오버헤드와 모델 아키텍처의 패러다임 변화에 있어보입니다.
-4.8에 적용된 딥 리서치와 복잡한 지시문 추종을 위해 백그라운드 Thinking tokens 소모량이 비약적으로 늘어났는데, 텍스트 작업의 성공률 기준을 엄격하게 잡다 보니 체감 레이턴시는 길어지고 비용만 치솟는 병목이 발생한 겁니다.
-
-프론티어 랩들이 롱컨텍스트와 에이전트 성능을 유지하기 위해 백그라운드 연산을 강제하는 지금, 유용한 아웃풋과 '토큰 연극' 사이의 균형점을 잡는 것이 중요해보입니다.</description><pubDate>Sat, 30 May 2026 07:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9FnYSkb9G</guid></item><item><title>깃허브 :
-https://github.com/asgeirtj/system_prompts_leaks/blob/main/Anthropic/claud...</title><link>https://www.threads.net/@choi.openai/post/DY9FoLqEd0v</link><description>깃허브 :
-https://github.com/asgeirtj/system_prompts_leaks/blob/main/Anthropic/claude-opus-4.8.md</description><pubDate>Sat, 30 May 2026 07:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9FoLqEd0v</guid></item><item><title>Claude Opus 4.8의 역대급 캐싱 업데이트가 공개됐는데요.
-이제 대화 중간에 system instructions을 새로 주입해도 기존 ...</title><link>https://www.threads.net/@choi.openai/post/DY87UWJAltM</link><description>Claude Opus 4.8의 역대급 캐싱 업데이트가 공개됐는데요.
-이제 대화 중간에 system instructions을 새로 주입해도 기존 프롬프트 캐시가 통째로 날아가지 않고 그대로 유지됩니다.
-
-멀티턴 에이전트를 만들 때 상황에 맞춰 에이전트의 역할을 바꾸려면 최상단 시스템 프롬프트를 건드려야 했고, 그때마다 캐시가 깨지면서 비용과 지연 시간이 기하급수적으로 늘어나는 문제를 아키텍처 레벨에서 해결한 겁니다.
-
-여기서 주목해야할 변화는 프롬프트 자동 캐싱이 적용되는 최소 토큰 기준이 기존 2,000토큰에서 1,024토큰으로 반 토막 났다는 점입니다.
-
-어중간한 길이의 대화라 기존 4.7 버전에서는 캐시 혜택을 전혀 못 받던 수많은 API 호출이 이제는 코드 한 줄 안 바꾸고도 자동으로 90% 할인을 받을 수 있을 것으로 보입니다.
-
-그동안 캐시를 보존하기 위해 툴(tools)을 초기 블록에 무리하게 밀어 넣던 개발자들의 우회 방식도 이제 무의미해질 것으로 보입니다.</description><pubDate>Sat, 30 May 2026 06:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY87UWJAltM</guid></item><item><title>Cursor가 Auto-review mode를 공개했습니다.
-
-에이전트가 도구를 사용할 때마다 사용자의 승인을 반복적으로 요청하는 대신, 더 적...</title><link>https://www.threads.net/@choi.openai/post/DY8w7NujTLR</link><description>Cursor가 Auto-review mode를 공개했습니다.
-
-에이전트가 도구를 사용할 때마다 사용자의 승인을 반복적으로 요청하는 대신, 더 적은 승인 절차로 작업을 진행할 수 있는 기능인데요.
-
-허용 목록에 없거나 샌드박스에서 안전하게 실행할 수 없는 작업은 별도의 classifier subagent가 검토합니다. 해당 에이전트는 작업을 허용할지, 다른 방법을 시도할지, 또는 사용자 승인을 요청할지를 판단합니다.
-
-AI 코딩 도구가 실제 업무에서 자주 멈추는 이유 중 하나가 잦은 승인 요청인데요. Cursor는 안전성을 유지하면서도 작업 흐름이 끊기지 않도록 하는 방향으로 에이전트를 발전시키고 있는 것으로 보입니다.</description><pubDate>Sat, 30 May 2026 04:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8w7NujTLR</guid></item><item><title>발표내용 :
-https://cursor.com/ko/changelog/auto-review</title><link>https://www.threads.net/@choi.openai/post/DY8w8APjdJK</link><description>발표내용 :
-https://cursor.com/ko/changelog/auto-review</description><pubDate>Sat, 30 May 2026 04:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8w8APjdJK</guid></item></channel></rss>
+이런 상황에서 세계 최고 수준의 컴퓨팅 자원과 모델 배포망을 가진 오픈AI가 Rosalind Biodefense를 들고 들어온 겁니다.</description><pubDate>Sat, 30 May 2026 09:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY9P3Gdj2LQ</guid></item></channel></rss>
