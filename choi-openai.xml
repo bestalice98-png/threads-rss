@@ -1,56 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 29 May 2026 17:59:24 +0000</lastBuildDate><item><title>이거 꽤 흥미로운 방향입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 30 May 2026 03:24:55 +0000</lastBuildDate><item><title>Harvard 연구진이 AutoScientists라는 AI 연구 시스템을 발표했습니다.
 
-Bagel Labs가 세계 최초의 분산 학습 기반 영상 생성 모델이라고 주장하는 Paris 2.0을 공개했습니다...</title><link>https://www.threads.net/@choi.openai/post/DY7Q3wogeAu</link><description>이거 꽤 흥미로운 방향입니다.
+기존 AI 연구 에이전트는 하나의 추론 흐름으로 작업하...</title><link>https://www.threads.net/@choi.openai/post/DY8moLZkquJ</link><description>Harvard 연구진이 AutoScientists라는 AI 연구 시스템을 발표했습니다.
 
-Bagel Labs가 세계 최초의 분산 학습 기반 영상 생성 모델이라고 주장하는 Paris 2.0을 공개했습니다.
+기존 AI 연구 에이전트는 하나의 추론 흐름으로 작업하거나 중앙 관리자가 역할을 배분하는 구조가 많았는데요.
+AutoScientists는 중앙 통제자 없이 여러 AI 에이전트가 실험 결과를 공유하고, 서로의 아이디어를 검토하며, 유망한 연구 방향에 자연스럽게 팀을 구성하는 방식입니다.
 
-Paris 2.0은 하나의 거대한 모델을 학습하는 대신 여러 개의 독립적인 확산 모델이 각자 데이터 일부를 학습한 뒤, 추론 단계에서 라우터가 필요한 전문가 모델을 선택하는 DDM 구조를 사용합니다.
+논문에 따르면 GPT 학습 최적화에서는 기존 AutoResearch보다 같은 성능에 1.9배 빠르게 도달했고, BioML-Bench 24개 생명과학 과제에서도 더 높은 성능을 기록했습니다.
+또한 ProteinGym 벤치마크에서는 기존 최고 성능(Kermut)을 넘어서는 결과를 얻었다고 합니다.
+최근 AI 에이전트 경쟁이 "더 똑똑한 모델"에서 "더 잘 협업하는 시스템"으로 이동하고 있는데요.
+AutoScientists는 앞으로 AI 연구원이 한 명이 아니라, AI 연구팀이 등장할 수 있다는 신호처럼 보입니다.</description><pubDate>Sat, 30 May 2026 03:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8moLZkquJ</guid></item><item><title>프로젝트 주소 :
+https://autoscientists.openscientist.ai/</title><link>https://www.threads.net/@choi.openai/post/DY8mpZ5kpya</link><description>프로젝트 주소 :
+https://autoscientists.openscientist.ai/</description><pubDate>Sat, 30 May 2026 03:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8mpZ5kpya</guid></item><item><title>Codex 활용팁.
 
-연구팀에 따르면 동일한 데이터와 연산량 조건에서 기존 단일 모델 대비 FVD가 561.04에서 279.01로 개선됐으며, 텍스트-영상 정합성과 미적 품질 점수도 향상됐다고 합니다.
+오늘 Codex에 스레드를 직접 생성하고 관리하는 기능이 추가되었는데요.
 
-지금까지 대형 AI 모델은 거대한 GPU 클러스터를 중심으로 학습되는 경우가 대부분이었지만, Paris 2.0은 지역과 성능이 서로 다른 GPU들을 활용한 분산 학습이 충분히 경쟁력 있을 수 있다는 가능성을 보여주고 있습니다.
+하나의 메인 스레드를 두고 프로젝트별 스레드를 ...</title><link>https://www.threads.net/@choi.openai/post/DY8cUNjDLtG</link><description>Codex 활용팁.
 
-이번 결과는 영상 품질 경쟁보다는 제한된 연산 자원에서 얼마나 효율적으로 학습할 수 있는지에 더 의미가 있어 보입니다.</description><pubDate>Fri, 29 May 2026 14:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY7Q3wogeAu</guid></item><item><title>모델 :
-https://huggingface.co/bageldotcom/paris2</title><link>https://www.threads.net/@choi.openai/post/DY7Q4vEgWGi</link><description>모델 :
-https://huggingface.co/bageldotcom/paris2</description><pubDate>Fri, 29 May 2026 14:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY7Q4vEgWGi</guid></item><item><title>30초 분량의 1080p 영상을 단 7초 만에 뽑아냅니다.
+오늘 Codex에 스레드를 직접 생성하고 관리하는 기능이 추가되었는데요.
 
-Hao AI Lab에서 실시간 동영상 생성 애플리케이션인 FastVideo Drea...</title><link>https://www.threads.net/@choi.openai/post/DY7GjCcDsWd</link><description>30초 분량의 1080p 영상을 단 7초 만에 뽑아냅니다.
+하나의 메인 스레드를 두고 프로젝트별 스레드를 자동으로 만들거나, 중요한 스레드를 고정하고 관련 내용을 검색하도록 맡길 수 있습니다.
 
-Hao AI Lab에서 실시간 동영상 생성 애플리케이션인 FastVideo Dreamverse를 오픈소스로 전격 공개했습니다.
+재밌는 활용법은 메인 스레드를 하나의 "Chief of Staff"로 만드는 것입니다.
 
-해당 애플리케이션은 LTX-2 모델을 기반으로 단일 NVIDIA B200 GPU에서 구동되며 매우 빠른 생성 속도를 보여줍니다. 
+새 프로젝트가 생기면 직접 스레드를 생성하게 하고, 각 작업 스레드의 진행 상황을 확인하며 필요한 정보를 전달하도록 맡기는 건데요.
 
-주목할 점은 결과물을 기다리는 대신, 영상을 보며 자연어로 즉각 개입해 장면을 수정하고 이어붙일 수 있는 "vibe directing" 워크플로우를 구축했다는 점입니다.
+예를 들어 제품 개발, 콘텐츠 작성, 리서치, 버그 수정 같은 작업을 각각 별도 스레드에서 진행하고, 메인 스레드는 전체 진행 상황을 관리하는 프로젝트 매니저 역할을 수행할 수 있습니다.</description><pubDate>Sat, 30 May 2026 01:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8cUNjDLtG</guid></item><item><title>이제 코덱스 설정탭에서 토큰 사용량을 확인할 수 있습니다.</title><link>https://www.threads.net/@choi.openai/post/DY8SEoLCV76</link><description>이제 코덱스 설정탭에서 토큰 사용량을 확인할 수 있습니다.</description><pubDate>Sat, 30 May 2026 00:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8SEoLCV76</guid></item><item><title>Claude Opus 4.8이 공개된 뒤 평가가 계속 엇갈리고 있습니다.
+코딩은 좋아졌다는 반응과 오히려 답답해졌다는 반응이 동시에 나오는데요....</title><link>https://www.threads.net/@choi.openai/post/DY8IVHxE3sI</link><description>Claude Opus 4.8이 공개된 뒤 평가가 계속 엇갈리고 있습니다.
+코딩은 좋아졌다는 반응과 오히려 답답해졌다는 반응이 동시에 나오는데요.
+벤치마크와 실사용 후기를 모두 분석해 핵심 포인트를 정리했습니다🧵</description><pubDate>Fri, 29 May 2026 22:35:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8IVHxE3sI</guid></item><item><title>1/ Opus 4.8 출시 후 공식 벤치마크 외에도 다양한 외부 평가 결과가 쏟아지고 있습니다.
 
-동영상 AI가 크리에이터와 실시간으로 상호작용하는 디렉팅 시스템으로 진화하고 있습니다. 
+각 평가가 측정하는 영역과 방식은 다르지만, ...</title><link>https://www.threads.net/@choi.openai/post/DY8IVuMk3fB</link><description>1/ Opus 4.8 출시 후 공식 벤치마크 외에도 다양한 외부 평가 결과가 쏟아지고 있습니다.
 
-현재는 B200이라는 하드웨어 장벽이 존재하지만, Hao AI Lab은 향후 RTX 5090 등 소비자용 GPU 환경까지 지원을 확장할 계획입니다.
+각 평가가 측정하는 영역과 방식은 다르지만, 이를 종합해 보면 Opus 4.8이 어떤 강점과 한계를 가진 모델인지 보다 입체적으로 파악할 수 있습니다.
 
-해당 최적화가 성공적으로 이루어진다면, 머지않아 누구나 개인 PC에서 실시간으로 영상을 연출하고 편집하는 새로운 작업 환경이 열릴 것으로 보입니다.</description><pubDate>Fri, 29 May 2026 13:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY7GjCcDsWd</guid></item><item><title>블로그 :
-https://haoailab.com/blogs/fastvideo-dreamverse-release/</title><link>https://www.threads.net/@choi.openai/post/DY7Gj6ojnI0</link><description>블로그 :
-https://haoailab.com/blogs/fastvideo-dreamverse-release/</description><pubDate>Fri, 29 May 2026 13:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY7Gj6ojnI0</guid></item><item><title>Liquid AI가 온디바이스 AI를 겨냥한 오픈 웨이트 모델 LFM2.5-8B-A1B를 공개했습니다.
+FrontierSWE와 APEX-SWE에서는 고난도 코딩과 디버깅 과제에서 강한 모습을 보였고, CursorBench에서는 최상위권에 들었지만 이전 세대인 Opus 4.7 Max를 넘기지는 못했습니다.
 
-8B MoE 구조지만 실제 추론에는 1...</title><link>https://www.threads.net/@choi.openai/post/DY68L6pD7Mc</link><description>Liquid AI가 온디바이스 AI를 겨냥한 오픈 웨이트 모델 LFM2.5-8B-A1B를 공개했습니다.
+반면 CodeRabbit의 코드 리뷰 평가나 Andon Labs의 가상 비즈니스 테스트에서는 기대에 미치지 못하는 결과도 확인됐습니다.
 
-8B MoE 구조지만 실제 추론에는 1.5B만 활성화되며, 128K 컨텍스트와 38조 토큰 학습, 대규모 강화학습(RL)이 적용됐는데요.
-특히 도구 호출과 에이전트 작업에 초점을 맞춰 BFCL, Tau² Telecom 등 에이전트 벤치마크 성능이 크게 향상됐습니다.
+여러 평가를 종합하면 Opus 4.8은 주어진 규칙과 절차를 충실히 따르며 긴 작업을 안정적으로 수행하는 유형에 가깝습니다.</description><pubDate>Fri, 29 May 2026 22:35:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8IVuMk3fB</guid></item><item><title>2/ 고난도 코딩 능력을 묻는 FrontierSWE에서 Opus 4.8은 상당히 인상적인 성적표를 받았습니다.
 
-LocalCowork 데모에서는 노트북 한 대에서 67개의 도구와 13개의 MCP 서버를 활용하는 모습을 보여주며, API 없이 모든 데이터가 기기 내부에서 처리되어 도구 호출도 1초 이내로 동작한다고 설명했습니다.
+이 평가는 데이터베이스 재구현,...</title><link>https://www.threads.net/@choi.openai/post/DY8IWSZkwDL</link><description>2/ 고난도 코딩 능력을 묻는 FrontierSWE에서 Opus 4.8은 상당히 인상적인 성적표를 받았습니다.
 
-최근 AI 업계가 거대한 모델 경쟁뿐 아니라 개인 기기에서 실행 가능한 에이전트 모델에도 집중하고 있는데요.
-LFM2.5-8B-A1B는 스마트폰과 노트북에서도 동작하는 실용적인 AI 비서 방향을 보여주는 사례로 보입니다.</description><pubDate>Fri, 29 May 2026 11:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY68L6pD7Mc</guid></item><item><title>블로그 :
-https://www.liquid.ai/blog/lfm2-5-8b-a1b</title><link>https://www.threads.net/@choi.openai/post/DY68M3PjyvP</link><description>블로그 :
-https://www.liquid.ai/blog/lfm2-5-8b-a1b</description><pubDate>Fri, 29 May 2026 11:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY68M3PjyvP</guid></item><item><title>게임도 딸깍으로 만드는 시대가 얼마 안남은 것 같습니다.
+이 평가는 데이터베이스 재구현, 타입체커, 컴파일러, 성능 최적화처럼 실제 개발자도 오래 붙잡아야 하는 과제들로 구성되어 있습니다.
 
-며칠 전, AI 게임 생성 플랫폼 Tesana가 게임 로직, NPC 행동, 애니메이션...</title><link>https://www.threads.net/@choi.openai/post/DY6npa8geQ6</link><description>게임도 딸깍으로 만드는 시대가 얼마 안남은 것 같습니다.
+평가 지표를 보면 Opus 4.8은 평균 순위 2.74, dominance 83%를 기록하며 GPT-5.5 Codex보다 앞선 결과를 보였습니다.
 
-며칠 전, AI 게임 생성 플랫폼 Tesana가 게임 로직, NPC 행동, 애니메이션, 이펙트, 로딩 최적화까지 생성하는 Muranyi 3를 공개했는데요.
+다만 세부 과제를 들여다보면 모든 항목을 압도한 것은 아닙니다.
 
-이번 업데이트에서는 더 똑똑한 NPC, 안정적인 빌드, 자연스러운 게임 로직처럼 실제 게임 개발 과정에서 문제가 되던 부분들을 집중적으로 다루고 있습니다.
+어떤 작업은 부분 점수에 머물렀고, 모델이 완전히 해결했다기보다 문제의 핵심 구조를 끝까지 밀고 간 점이 높게 평가된 경우도 있습니다.</description><pubDate>Fri, 29 May 2026 22:35:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8IWSZkwDL</guid></item><item><title>3/ Mercor의 APEX-SWE에서도 Opus 4.8의 강점이 다르게 보입니다.
 
-최근 AI 코딩이 "앱 만들기"로 확장되고 있다면, 게임 분야에서는 "게임 엔진 사용법"보다 "어떤 게임을 만들고 싶은가"가 더 중요해지는 방향으로 가고 있습니다.
+APEX-SWE는 여러 API와 서비스를 연결하는 통합 작...</title><link>https://www.threads.net/@choi.openai/post/DY8IXRuk1Me</link><description>3/ Mercor의 APEX-SWE에서도 Opus 4.8의 강점이 다르게 보입니다.
 
-아직 AAA 게임을 대체할 수준은 아니지만, 프로토타입 제작이나 인디 게임 개발에서는 생각보다 빠르게 작업 방식이 바뀔 수도 있어 보입니다.</description><pubDate>Fri, 29 May 2026 08:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6npa8geQ6</guid></item><item><title>서비스 주소 :
-https://tesana.ai/en</title><link>https://www.threads.net/@choi.openai/post/DY6nqi9Adv7</link><description>서비스 주소 :
-https://tesana.ai/en</description><pubDate>Fri, 29 May 2026 08:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY6nqi9Adv7</guid></item></channel></rss>
+APEX-SWE는 여러 API와 서비스를 연결하는 통합 작업(Integration), 로그와 대시보드, 이슈 기록을 보고 문제를 찾아 고치는 관측·디버깅 작업(Observability)을 나눠 평가합니다.
+
+Opus 4.8 High는 Pass@1 45.3%로 1위를 기록했고, GPT-5.3 Codex는 41.5%였습니다.
+
+세부적으로 보면 통합 작업에서는 4위였지만, 관측·디버깅 작업에서는 10%p 차이로 앞섰다는 설명이 붙었습니다.
+
+즉 새 시스템을 빠르게 붙이는 능력보다, 이미 있는 시스템에서 로그와 맥락을 읽고 문제 원인을 좁혀가는 쪽에서 더 강하게 평가된 모습입니다.</description><pubDate>Fri, 29 May 2026 22:35:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY8IXRuk1Me</guid></item></channel></rss>
