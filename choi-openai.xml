@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 31 May 2026 15:58:57 +0000</lastBuildDate><item><title>구글 딥마인드(Google DeepMind)의 CTO 코라이 카부쿠오글루(Koray Kavukcuoglu)는 범인공지능(AGI)으로 나아가는 여...</title><link>https://www.threads.net/@choi.openai/post/DY_7lpUiKYq</link><description>구글 딥마인드(Google DeepMind)의 CTO 코라이 카부쿠오글루(Koray Kavukcuoglu)는 범인공지능(AGI)으로 나아가는 여정에서 '월드 모델(World Models)'의 중요성을 매우 높게 평가했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 01 Jun 2026 04:04:01 +0000</lastBuildDate><item><title>MiniMax가 코딩 성능, 100만 컨텍스트, 네이티브 멀티모달을 모두 잡은 오픈웨이트 모델 ‘M3’를 공개했습니다.
+SWE-Bench Pro...</title><link>https://www.threads.net/@choi.openai/post/DZBv4xtj07R</link><description>MiniMax가 코딩 성능, 100만 컨텍스트, 네이티브 멀티모달을 모두 잡은 오픈웨이트 모델 ‘M3’를 공개했습니다.
+SWE-Bench Pro에서 무려 59%의 성공률을 기록하며 웬만한 프론티어급 폐쇄형 모델들과 비비는 수준까지 올라왔는데요.
+M3는 100만 토큰의 초장문 컨텍스트를 지원하기 위해 자체적인 ‘Sparse Attention’ 아키텍처를 전면에 내세웠습니다.
+긴 컨텍스트에서 병목이 되는 KV 캐시 용량과 연산 비용을 줄이기 위해, 경량 인덱스 브랜치로 필요한 블록만 먼저 필터링해 처리하는 구조를 극한으로 고도화한 셈입니다.</description><pubDate>Mon, 01 Jun 2026 02:57:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZBv4xtj07R</guid></item><item><title>딥시크(DeepSeek)에 이어 미니맥스까지 아키텍처 혁신을 통한 가성비와 효율성으로 판을 흔들면서, 이제 프론티어 모델 경쟁은 단순한 파라미터...</title><link>https://www.threads.net/@choi.openai/post/DZBv4wqD7tN</link><description>딥시크(DeepSeek)에 이어 미니맥스까지 아키텍처 혁신을 통한 가성비와 효율성으로 판을 흔들면서, 이제 프론티어 모델 경쟁은 단순한 파라미터 크기 싸움이 아닌 서빙 단가 싸움으로 완전히 전환되는 모양새입니다. 폐쇄형 진영이 쥐고 있던 기술적 해자가 오픈소스의 구조적 비용 절감 앞에 얼마나 버틸 수 있을지, 10일 뒤 나올 테크 리포트의 세부 수치가 벌써 기다려집니다.</description><pubDate>Mon, 01 Jun 2026 02:57:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZBv4wqD7tN</guid></item><item><title>구글 딥마인드(Google DeepMind)의 CTO 코라이 카부쿠오글루(Koray Kavukcuoglu)는 범인공지능(AGI)으로 나아가는 여...</title><link>https://www.threads.net/@choi.openai/post/DY_7lpUiKYq</link><description>구글 딥마인드(Google DeepMind)의 CTO 코라이 카부쿠오글루(Koray Kavukcuoglu)는 범인공지능(AGI)으로 나아가는 여정에서 '월드 모델(World Models)'의 중요성을 매우 높게 평가했습니다.
 
 그는 우리가 다루는 인공지능이 단순히 현실 세계를 시각적으로 이해하는 수준을 넘어, 물리 법칙과 다이내믹스를 완벽히 시뮬레이션할 수 있어야 한다고 강조했습니다.
 
@@ -23,16 +27,4 @@ https://www.youtube.com/watch?v=8zIcP5WlShw</description><pubDate>Sun, 31 May 20
 
 “사람들은 단순히 고립된 세상에 머무는 대신, 정보를 공유하고 타인과 연결되기를 원합니다. 그것이 인간의 본질적인 경험이기 때문입니다.”</description><pubDate>Sun, 31 May 2026 06:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_gCd9Daqx</guid></item><item><title>풀영상 :
 https://www.youtube.com/watch?v=ANV3tE5ywv0</title><link>https://www.threads.net/@choi.openai/post/DY_gDRPDUIy</link><description>풀영상 :
-https://www.youtube.com/watch?v=ANV3tE5ywv0</description><pubDate>Sun, 31 May 2026 06:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_gDRPDUIy</guid></item><item><title>엔비디아(NVIDIA) CEO 젠슨 황(Jensen Huang)은 AI가 일자리를 없앨 것이라는 일각의 주장에 대해 “그것은 너무 나태한 생각”...</title><link>https://www.threads.net/@choi.openai/post/DY_SSPpEmvi</link><description>엔비디아(NVIDIA) CEO 젠슨 황(Jensen Huang)은 AI가 일자리를 없앨 것이라는 일각의 주장에 대해 “그것은 너무 나태한 생각”이라며 강력히 반박했습니다.
-
-그는 지난 150년간 인류가 수많은 일자리를 창출해 왔듯, 앞으로의 150년 역시 AI를 통해 상상할 수 없을 만큼 많은 일자리가 만들어질 것이라고 말합니다.
-
-“AI는 그 어떤 기술보다도 강력하게 기술 격차를 메워줄 도구입니다.”
-
-그는 미디어 종사자를 예로 들며, 이제는 복잡한 코딩 언어를 배우지 않아도 AI를 통해 누구나 자신만의 웹사이트를 만들고 방송을 구축할 수 있게 되었다고 설명했습니다.
-
-젠슨 황은 이러한 기술 혁명이 생산성 폭발과 경제적 번영으로 이어져 콘텐츠, 제조업, 서비스업 전반의 지형을 바꿀 것으로 내다봤습니다.
-
-나아가 인류에게 더 많은 여가 시간을 선사함으로써 문화적 교류와 여행 산업이 활성화되는 등, 사회 전반에 긍정적인 패러다임 변화를 이끌어낼 것이라는 낙관적인 비전을 제시했습니다.</description><pubDate>Sun, 31 May 2026 04:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_SSPpEmvi</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=XVoyL8rzhWs</title><link>https://www.threads.net/@choi.openai/post/DY_STTekip1</link><description>풀영상 :
-https://www.youtube.com/watch?v=XVoyL8rzhWs</description><pubDate>Sun, 31 May 2026 04:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_STTekip1</guid></item></channel></rss>
+https://www.youtube.com/watch?v=ANV3tE5ywv0</description><pubDate>Sun, 31 May 2026 06:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_gDRPDUIy</guid></item></channel></rss>
