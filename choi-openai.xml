@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 01 Jun 2026 04:04:01 +0000</lastBuildDate><item><title>MiniMax가 코딩 성능, 100만 컨텍스트, 네이티브 멀티모달을 모두 잡은 오픈웨이트 모델 ‘M3’를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 01 Jun 2026 13:39:08 +0000</lastBuildDate><item><title>MiniMax가 코딩 성능, 100만 컨텍스트, 네이티브 멀티모달을 모두 잡은 오픈웨이트 모델 ‘M3’를 공개했습니다.
 SWE-Bench Pro...</title><link>https://www.threads.net/@choi.openai/post/DZBv4xtj07R</link><description>MiniMax가 코딩 성능, 100만 컨텍스트, 네이티브 멀티모달을 모두 잡은 오픈웨이트 모델 ‘M3’를 공개했습니다.
 SWE-Bench Pro에서 무려 59%의 성공률을 기록하며 웬만한 프론티어급 폐쇄형 모델들과 비비는 수준까지 올라왔는데요.
 M3는 100만 토큰의 초장문 컨텍스트를 지원하기 위해 자체적인 ‘Sparse Attention’ 아키텍처를 전면에 내세웠습니다.
