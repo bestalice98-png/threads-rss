@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 01 Jun 2026 13:39:08 +0000</lastBuildDate><item><title>MiniMax가 코딩 성능, 100만 컨텍스트, 네이티브 멀티모달을 모두 잡은 오픈웨이트 모델 ‘M3’를 공개했습니다.
-SWE-Bench Pro...</title><link>https://www.threads.net/@choi.openai/post/DZBv4xtj07R</link><description>MiniMax가 코딩 성능, 100만 컨텍스트, 네이티브 멀티모달을 모두 잡은 오픈웨이트 모델 ‘M3’를 공개했습니다.
-SWE-Bench Pro에서 무려 59%의 성공률을 기록하며 웬만한 프론티어급 폐쇄형 모델들과 비비는 수준까지 올라왔는데요.
-M3는 100만 토큰의 초장문 컨텍스트를 지원하기 위해 자체적인 ‘Sparse Attention’ 아키텍처를 전면에 내세웠습니다.
-긴 컨텍스트에서 병목이 되는 KV 캐시 용량과 연산 비용을 줄이기 위해, 경량 인덱스 브랜치로 필요한 블록만 먼저 필터링해 처리하는 구조를 극한으로 고도화한 셈입니다.</description><pubDate>Mon, 01 Jun 2026 02:57:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZBv4xtj07R</guid></item><item><title>딥시크(DeepSeek)에 이어 미니맥스까지 아키텍처 혁신을 통한 가성비와 효율성으로 판을 흔들면서, 이제 프론티어 모델 경쟁은 단순한 파라미터...</title><link>https://www.threads.net/@choi.openai/post/DZBv4wqD7tN</link><description>딥시크(DeepSeek)에 이어 미니맥스까지 아키텍처 혁신을 통한 가성비와 효율성으로 판을 흔들면서, 이제 프론티어 모델 경쟁은 단순한 파라미터 크기 싸움이 아닌 서빙 단가 싸움으로 완전히 전환되는 모양새입니다. 폐쇄형 진영이 쥐고 있던 기술적 해자가 오픈소스의 구조적 비용 절감 앞에 얼마나 버틸 수 있을지, 10일 뒤 나올 테크 리포트의 세부 수치가 벌써 기다려집니다.</description><pubDate>Mon, 01 Jun 2026 02:57:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZBv4wqD7tN</guid></item><item><title>구글 딥마인드(Google DeepMind)의 CTO 코라이 카부쿠오글루(Koray Kavukcuoglu)는 범인공지능(AGI)으로 나아가는 여...</title><link>https://www.threads.net/@choi.openai/post/DY_7lpUiKYq</link><description>구글 딥마인드(Google DeepMind)의 CTO 코라이 카부쿠오글루(Koray Kavukcuoglu)는 범인공지능(AGI)으로 나아가는 여정에서 '월드 모델(World Models)'의 중요성을 매우 높게 평가했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 01 Jun 2026 19:50:04 +0000</lastBuildDate><item><title>엔비디아 CEO 젠슨 황은 최근 발표에서 컴퓨팅 아키텍처의 패러다임 전환을 선언했습니다. 그는 “이번 컴퓨터의 재발명은 과거 휴대폰이 스마트폰으...</title><link>https://www.threads.net/@choi.openai/post/DZDiuruiRmq</link><description>엔비디아 CEO 젠슨 황은 최근 발표에서 컴퓨팅 아키텍처의 패러다임 전환을 선언했습니다. 그는 “이번 컴퓨터의 재발명은 과거 휴대폰이 스마트폰으로 진화한 것만큼이나 거대한 변화”라고 강조하며 새로운 여정의 시작을 알렸습니다.
 
-그는 우리가 다루는 인공지능이 단순히 현실 세계를 시각적으로 이해하는 수준을 넘어, 물리 법칙과 다이내믹스를 완벽히 시뮬레이션할 수 있어야 한다고 강조했습니다.
+엔비디아는 블랙웰(Blackwell), 로빈(Robin), 파인만(Feynman)으로 이어지는 차세대 아키텍처 로드맵을 제시하며, 매 세대마다 데스크톱, 노트북, 워크스테이션을 아우르는 하드웨어 라인업을 선보일 계획입니다.
 
-인공지능이 고차원적인 추론 공간 안에서 물리적 세계와 언어적 세계를 동시에 고려할 수 있게 될 때, 의사결정을 내리기 전에 미래의 결과를 미리 시뮬레이션하고 예측하는 능력을 갖추게 됩니다.
+전 세계 PC 산업계가 이 혁신에 100% 동참했다는 점은 향후 기술 경제에 막대한 영향을 미칠 것입니다.
 
-이러한 성능 향상은 자율주행, 물리적 로봇 공학 등 정밀한 현실 제어가 필요한 미래 기술 분야에 직접적인 혁신을 가져올 것입니다.
+하드웨어의 비약적인 발전은 AI 에이전트와 소프트웨어 개발 속도를 한층 더 끌어올려, 미래 일자리 구조와 IT 산업의 지형도를 완전히 재편하는 기폭제가 될 것입니다.</description><pubDate>Mon, 01 Jun 2026 19:40:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDiuruiRmq</guid></item><item><title>엔비디아 CEO 젠슨 황은 일각에서 제기하는 AI로 인한 일자리 감소 우려를 두고 “너무 나태한 생각”이라며 일침을 가했습니다.
+기술이 본격적으...</title><link>https://www.threads.net/@choi.openai/post/DZDauo3AgKv</link><description>엔비디아 CEO 젠슨 황은 일각에서 제기하는 AI로 인한 일자리 감소 우려를 두고 “너무 나태한 생각”이라며 일침을 가했습니다.
+기술이 본격적으로 유용해진 지 고작 몇 달밖에 되지 않았는데 벌써 도태를 논하는 것은 리더들의 무책임한 공포 마케팅이라는 지적입니다.
 
-결과적으로 산업 전반의 비용을 줄이고 시스템 안정성을 극대화하는 기폭제가 될 것이라고 분석했습니다.</description><pubDate>Sun, 31 May 2026 10:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_7lpUiKYq</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=hlfbyi-c7AU</title><link>https://www.threads.net/@choi.openai/post/DY_7nTqiAim</link><description>풀영상 :
-https://www.youtube.com/watch?v=hlfbyi-c7AU</description><pubDate>Sun, 31 May 2026 10:01:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_7nTqiAim</guid></item><item><title>앤트로픽(Anthropic)의 공동 창업자 잭 클라크(Jack Clark)는 초지능의 등장이 예상보다 빨라질 것이며, 이는 개개인에게 “인공 노...</title><link>https://www.threads.net/@choi.openai/post/DY_t05iknPp</link><description>앤트로픽(Anthropic)의 공동 창업자 잭 클라크(Jack Clark)는 초지능의 등장이 예상보다 빨라질 것이며, 이는 개개인에게 “인공 노동력과 국가 안보 수준의 역량”을 부여하게 될 것이라고 전망했습니다.
+그는 기술 혁신이 가져올 생산성 폭발과 경제적 기회를 강조하며, 막연한 거부감 대신 능동적인 결합을 제안했습니다. 그러면서 독자들에게 한 가지 본질적인 질문을 던집니다.
 
-그는 현재 4,000명 규모의 조직이 AI의 도움으로 마치 40,000명의 성과를 내는 것처럼 느끼고 있다며, 이 수치가 곧 40만 명, 혹은 수백만 명 수준의 생산성으로 확장되는 미래가 기정사실화되었다고 분석했습니다. 이에 따라 기업의 운영 방식도 3~4개월마다 완전히 재정의될 것입니다.
+“당신의 자녀들에게 AI를 수용하고 활용해 능력을 다듬으라고 조언하겠습니까, 아니면 AI를 거부하고 도태되라고 하겠습니까?”
 
-“앞으로는 인간이 아닌 기계가 스스로 개발한 기술을 바탕으로 과학적 진보가 이루어질 것입니다.”
+그는 AI를 도구 삼아 전문성과 학습 능력을 한 단계 더 격상시키는 흐름에 동참해야만 다가오는 기술 빅뱅 시대에 살아남을 수 있다고 확언했습니다.</description><pubDate>Mon, 01 Jun 2026 18:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDauo3AgKv</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=XVoyL8rzhWs</title><link>https://www.threads.net/@choi.openai/post/DZDaw0YAuAm</link><description>풀영상 :
+https://www.youtube.com/watch?v=XVoyL8rzhWs</description><pubDate>Mon, 01 Jun 2026 18:31:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDaw0YAuAm</guid></item><item><title>알리바바가 시각과 언어를 통합해 GUI와 CLI를 동시에 제어하는 멀티모달 에이전트 모델인 Qwen3.7-Plus를 기습 공개했습니다.
 
-그는 인간의 경제와 분리된 '기계 경제'의 급부상, 두뇌를 얻은 로봇의 진화, 우주 기반 데이터 센터로의 이주 등을 예고하며, 과거 10년이 걸리던 혁신이 단 1년 만에 실현되는 “혼란스러운 기적의 시대”가 도래할 것이라고 강조했습니다.</description><pubDate>Sun, 31 May 2026 08:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_t05iknPp</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=8zIcP5WlShw</title><link>https://www.threads.net/@choi.openai/post/DY_t145krOs</link><description>풀영상 :
-https://www.youtube.com/watch?v=8zIcP5WlShw</description><pubDate>Sun, 31 May 2026 08:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_t145krOs</guid></item><item><title>구글 CEO 순다 피차이(Sundar Pichai)는 웹이 인류 역사상 가장 역동적인 진화 모델이며, 그 다음 단계의 거대한 패러다임 변화는 '...</title><link>https://www.threads.net/@choi.openai/post/DY_gCd9Daqx</link><description>구글 CEO 순다 피차이(Sundar Pichai)는 웹이 인류 역사상 가장 역동적인 진화 모델이며, 그 다음 단계의 거대한 패러다임 변화는 'AI 에이전트'가 주도하게 될 것이라고 말합니다.
+이번 ...</title><link>https://www.threads.net/@choi.openai/post/DZDXhUuD13Z</link><description>알리바바가 시각과 언어를 통합해 GUI와 CLI를 동시에 제어하는 멀티모달 에이전트 모델인 Qwen3.7-Plus를 기습 공개했습니다.
 
-순다 피차이는 AI가 개별 플랫폼에 갇힌 단절된 세상을 만드는 것이 아니라, 웹이라는 열린 공간 속에서 인간의 보편적 연결성을 강화하는 핵심 역할을 수행할 것이라며 기술의 성능 발전이 가져올 긍정적인 미래를 강조했습니다.
+이번 업데이트에서 주목할 구조적 포인트는 멀티모달 인터랙티브 하이브리드 에이전트(Interactive Hybrid Agent)와 브라우저 에이전트로서의 시스템 고도화입니다.
 
-“사람들은 단순히 고립된 세상에 머무는 대신, 정보를 공유하고 타인과 연결되기를 원합니다. 그것이 인간의 본질적인 경험이기 때문입니다.”</description><pubDate>Sun, 31 May 2026 06:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_gCd9Daqx</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=ANV3tE5ywv0</title><link>https://www.threads.net/@choi.openai/post/DY_gDRPDUIy</link><description>풀영상 :
-https://www.youtube.com/watch?v=ANV3tE5ywv0</description><pubDate>Sun, 31 May 2026 06:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DY_gDRPDUIy</guid></item></channel></rss>
+Qwen3.7-Plus는 화면을 보고, 추론하고, 코드를 작성하고, 실제 행동까지 수행하는 구조를 지향합니다.
+
+GUI 조작과 터미널 작업을 하나의 루프 안에서 처리하며 모바일 앱 제어, 웹 브라우저 자동화, 소프트웨어 개발, 테스트까지 수행할 수 있다고 밝혔습니다.
+
+특히 공개된 사례에서는 11시간 이상 자율적으로 동작하며 영어 학습 앱을 개발했고, 1만 줄 이상의 코드를 작성하며 요구사항 정리부터 테스트, 문서화, 버전 개선까지 진행했습니다.</description><pubDate>Mon, 01 Jun 2026 18:02:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDXhUuD13Z</guid></item><item><title>블로그 :
+https://qwen.ai/blog?id=qwen3.7-plus</title><link>https://www.threads.net/@choi.openai/post/DZDXh_zj3Kn</link><description>블로그 :
+https://qwen.ai/blog?id=qwen3.7-plus</description><pubDate>Mon, 01 Jun 2026 18:02:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDXh_zj3Kn</guid></item><item><title>Claude Code 주간한도 리셋.</title><link>https://www.threads.net/@choi.openai/post/DZDW4HVD3LD</link><description>Claude Code 주간한도 리셋.</description><pubDate>Mon, 01 Jun 2026 17:57:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDW4HVD3LD</guid></item></channel></rss>
