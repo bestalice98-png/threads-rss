@@ -1,30 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 01 Jun 2026 19:50:04 +0000</lastBuildDate><item><title>엔비디아 CEO 젠슨 황은 최근 발표에서 컴퓨팅 아키텍처의 패러다임 전환을 선언했습니다. 그는 “이번 컴퓨터의 재발명은 과거 휴대폰이 스마트폰으...</title><link>https://www.threads.net/@choi.openai/post/DZDiuruiRmq</link><description>엔비디아 CEO 젠슨 황은 최근 발표에서 컴퓨팅 아키텍처의 패러다임 전환을 선언했습니다. 그는 “이번 컴퓨터의 재발명은 과거 휴대폰이 스마트폰으로 진화한 것만큼이나 거대한 변화”라고 강조하며 새로운 여정의 시작을 알렸습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 02 Jun 2026 03:58:27 +0000</lastBuildDate><item><title>NVIDIA가 GTC Taipei에서 NVIDIA Isaac GR00T Reference Humanoid Robot을 공개했습니다.
 
-엔비디아는 블랙웰(Blackwell), 로빈(Robin), 파인만(Feynman)으로 이어지는 차세대 아키텍처 로드맵을 제시하며, 매 세대마다 데스크톱, 노트북, 워크스테이션을 아우르는 하드웨어 라인업을 선보일 계획입니다.
+Unitr...</title><link>https://www.threads.net/@choi.openai/post/DZEax9aCf0Y</link><description>NVIDIA가 GTC Taipei에서 NVIDIA Isaac GR00T Reference Humanoid Robot을 공개했습니다.
 
-전 세계 PC 산업계가 이 혁신에 100% 동참했다는 점은 향후 기술 경제에 막대한 영향을 미칠 것입니다.
+Unitree의 H2 Plus 본체, Sharpa의 로봇 손, NVIDIA Jetson Thor 컴퓨팅, Isaac GR00T 소프트웨어를 하나의 개발 플랫폼으로 묶었는데요.
 
-하드웨어의 비약적인 발전은 AI 에이전트와 소프트웨어 개발 속도를 한층 더 끌어올려, 미래 일자리 구조와 IT 산업의 지형도를 완전히 재편하는 기폭제가 될 것입니다.</description><pubDate>Mon, 01 Jun 2026 19:40:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDiuruiRmq</guid></item><item><title>엔비디아 CEO 젠슨 황은 일각에서 제기하는 AI로 인한 일자리 감소 우려를 두고 “너무 나태한 생각”이라며 일침을 가했습니다.
-기술이 본격적으...</title><link>https://www.threads.net/@choi.openai/post/DZDauo3AgKv</link><description>엔비디아 CEO 젠슨 황은 일각에서 제기하는 AI로 인한 일자리 감소 우려를 두고 “너무 나태한 생각”이라며 일침을 가했습니다.
-기술이 본격적으로 유용해진 지 고작 몇 달밖에 되지 않았는데 벌써 도태를 논하는 것은 리더들의 무책임한 공포 마케팅이라는 지적입니다.
+기존에는 연구실마다 로봇 몸체와 그리퍼, 구동 소프트웨어를 따로 맞추느라 데이터 수집과 학습이 비효율적이었는데요.
+이번 공통 플랫폼의 출시로 연구자들은 로봇을 만드는 것보다 실제 기능과 행동을 개발하는 데 집중할 수 있게 됩니다.
 
-그는 기술 혁신이 가져올 생산성 폭발과 경제적 기회를 강조하며, 막연한 거부감 대신 능동적인 결합을 제안했습니다. 그러면서 독자들에게 한 가지 본질적인 질문을 던집니다.
+스마트폰의 안드로이드처럼 '표준 플랫폼'을 깔아주겠다는 의도가 읽힙니다.
+지정학적 규제 장벽 속에서도 기술 표준을 선점하려는 젠슨 황의 빅픽처가 돋보입니다.
+10월 전 세계 연구소 배포를 기점으로 파편화되었던 로봇 데이터 레이어가 어떻게 통합될지 지켜봐야겠습니다.</description><pubDate>Tue, 02 Jun 2026 03:50:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZEax9aCf0Y</guid></item><item><title>발표내용 :
+https://nvidianews.nvidia.com/news/nvidia-open-humanoid-robot-reference-d...</title><link>https://www.threads.net/@choi.openai/post/DZEay0cCUUQ</link><description>발표내용 :
+https://nvidianews.nvidia.com/news/nvidia-open-humanoid-robot-reference-design?ncid=so-twit-539319-vt48&amp;linkId=100000424463581</description><pubDate>Tue, 02 Jun 2026 03:50:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZEay0cCUUQ</guid></item><item><title>구글이 드디어 자기들이 가진 가장 사기적인 무기를 꺼내 들었습니다.
 
-“당신의 자녀들에게 AI를 수용하고 활용해 능력을 다듬으라고 조언하겠습니까, 아니면 AI를 거부하고 도태되라고 하겠습니까?”
+Google AI Studio에서 다른 사이트로 이동할 필요 없이 Gmai...</title><link>https://www.threads.net/@choi.openai/post/DZES0BbgDkD</link><description>구글이 드디어 자기들이 가진 가장 사기적인 무기를 꺼내 들었습니다.
 
-그는 AI를 도구 삼아 전문성과 학습 능력을 한 단계 더 격상시키는 흐름에 동참해야만 다가오는 기술 빅뱅 시대에 살아남을 수 있다고 확언했습니다.</description><pubDate>Mon, 01 Jun 2026 18:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDauo3AgKv</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=XVoyL8rzhWs</title><link>https://www.threads.net/@choi.openai/post/DZDaw0YAuAm</link><description>풀영상 :
-https://www.youtube.com/watch?v=XVoyL8rzhWs</description><pubDate>Mon, 01 Jun 2026 18:31:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDaw0YAuAm</guid></item><item><title>알리바바가 시각과 언어를 통합해 GUI와 CLI를 동시에 제어하는 멀티모달 에이전트 모델인 Qwen3.7-Plus를 기습 공개했습니다.
+Google AI Studio에서 다른 사이트로 이동할 필요 없이 Gmail, Drive, Sheets 같은 Workspace 데이터에 직접 연결해 앱을 빌드하는 기능이 출시되었는데요.
 
-이번 ...</title><link>https://www.threads.net/@choi.openai/post/DZDXhUuD13Z</link><description>알리바바가 시각과 언어를 통합해 GUI와 CLI를 동시에 제어하는 멀티모달 에이전트 모델인 Qwen3.7-Plus를 기습 공개했습니다.
+이번 업데이트가 무서운 이유는 개발자들이 가장 머리 아파하는 미들웨어 구축과 OAuth 인증 절차를 통째로 스킵했기 때문입니다.
+내 이메일 컨텍스트(Gmail)와 스프레드시트(Sheets) 데이터를 AI 에이전트의 런타임 변수로 즉시 주입할 수 있게 된 건데, 이로써 AI Studio는 실제 구동 가능한 CRUD 시스템 대체재로 진화한 셈입니다.
+보안과 사내 권한 통제라는 숙제가 남아있지만, 퍼스트 파티 데이터 스트림이 결합한 바이브 코딩의 속도는 상상을 초월합니다.
 
-이번 업데이트에서 주목할 구조적 포인트는 멀티모달 인터랙티브 하이브리드 에이전트(Interactive Hybrid Agent)와 브라우저 에이전트로서의 시스템 고도화입니다.
+오픈AI가 에이전트 플랫폼을 다지고 앤트로픽이 프로토콜을 짤 때, 구글은 자신들의 독점 유통망인 Workspace 데이터 자체를 묶어내고 있습니다.</description><pubDate>Tue, 02 Jun 2026 02:40:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZES0BbgDkD</guid></item><item><title>🚨 속보) 구글의 Try-on이 국내에 정식 출시했습니다.
 
-Qwen3.7-Plus는 화면을 보고, 추론하고, 코드를 작성하고, 실제 행동까지 수행하는 구조를 지향합니다.
+이번 출시에 꼭 알아야하는 핵심 정보를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/DZENDZ-j5vc</link><description>🚨 속보) 구글의 Try-on이 국내에 정식 출시했습니다.
 
-GUI 조작과 터미널 작업을 하나의 루프 안에서 처리하며 모바일 앱 제어, 웹 브라우저 자동화, 소프트웨어 개발, 테스트까지 수행할 수 있다고 밝혔습니다.
+이번 출시에 꼭 알아야하는 핵심 정보를 정리했습니다 🧵</description><pubDate>Tue, 02 Jun 2026 01:50:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZENDZ-j5vc</guid></item><item><title>1/ 구글이 가상 피팅(VTO)을 한국에도 정식 출시했습니다.
 
-특히 공개된 사례에서는 11시간 이상 자율적으로 동작하며 영어 학습 앱을 개발했고, 1만 줄 이상의 코드를 작성하며 요구사항 정리부터 테스트, 문서화, 버전 개선까지 진행했습니다.</description><pubDate>Mon, 01 Jun 2026 18:02:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDXhUuD13Z</guid></item><item><title>블로그 :
-https://qwen.ai/blog?id=qwen3.7-plus</title><link>https://www.threads.net/@choi.openai/post/DZDXh_zj3Kn</link><description>블로그 :
-https://qwen.ai/blog?id=qwen3.7-plus</description><pubDate>Mon, 01 Jun 2026 18:02:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDXh_zj3Kn</guid></item><item><title>Claude Code 주간한도 리셋.</title><link>https://www.threads.net/@choi.openai/post/DZDW4HVD3LD</link><description>Claude Code 주간한도 리셋.</description><pubDate>Mon, 01 Jun 2026 17:57:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZDW4HVD3LD</guid></item></channel></rss>
+구글은 '우리는 탈의실일 뿐이고 결제는 머천트 자사몰로 보낸다'며 플랫폼의 중립...</title><link>https://www.threads.net/@choi.openai/post/DZEMU5oieZP</link><description>1/ 구글이 가상 피팅(VTO)을 한국에도 정식 출시했습니다.
+
+구글은 '우리는 탈의실일 뿐이고 결제는 머천트 자사몰로 보낸다'며 플랫폼의 중립성을 강조하고 있습니다.
+
+구글이 발표한 가상 피팅(VTO)의 핵심은 600억 개의 상품 정보를 쥐고 시간당 30억 회씩 업데이트하는 쇼핑그래프(Shopping Graph)에 있습니다.
+
+머천트 피드(GMC) 정보만 있으면 추가 개발 비용 없이 가상 시착 버튼을 달아준다고 합니다.
+
+수수료를 양보하는 대신, 구글 렌즈(전체 검색의 20%가 쇼핑 관련인 접점)와 서클 투 서치라는 자사 비주얼 검색 인터페이스 안에 머천트들을 락인시키는 전략처럼 보이는데요.</description><pubDate>Tue, 02 Jun 2026 01:50:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZEMU5oieZP</guid></item><item><title>2/ 구글 쇼핑 VTO PM은 이 도구가 사이즈를 맞추는 'Fit Tool'이 아니라, 분위기를 확인하는 'Vibe Check' 도구라고 명확히...</title><link>https://www.threads.net/@choi.openai/post/DZENFDGD5-2</link><description>2/ 구글 쇼핑 VTO PM은 이 도구가 사이즈를 맞추는 'Fit Tool'이 아니라, 분위기를 확인하는 'Vibe Check' 도구라고 명확히 선을 그었습니다.
+
+실제로 피팅 화면에는 사이즈 옵션이 없고, 사용자는 어깨 선이나 옷자락 드레이프의 스타일 조화만 시각적으로 확인한 뒤 직접 옵션을 골라야 합니다.
+
+해당 시착 모델은 구글이 시착을 위해 전용으로 제작한 특화 모델을 사용하고 있다고 밝혔습니다.
+
+이번 발표를 보며, 구글이 딥마인드의 3D 물리 공간 이해 모델까지 활용해가며 이 '바이브 체크' 기술을 통해 미래의 AI 쇼핑 에이전트가 구매 결정을 내리기 전 통과해야 하는 '미적 필터' 역할을 하게 될 가능성이 큽니다.
+
+실제 치수(Fit)는 수치화된 데이터 매칭으로 쉽게 확인 가능하지만, "이 옷이 사용자의 미적 성향에 부합하는가"는 고도의 3D 시각 인지 연산이 필요하기 때문입니다.</description><pubDate>Tue, 02 Jun 2026 01:50:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZENFDGD5-2</guid></item><item><title>4/ 구글이 패션 특화 생성 모델을 따로 만들어 바람에 날리는 주름과 곡선의 입체 음영을 극도로 구현해 둔 본질적인 배경입니다.
+
+예전에 다뤘던...</title><link>https://www.threads.net/@choi.openai/post/DZENFm0j4eP</link><description>4/ 구글이 패션 특화 생성 모델을 따로 만들어 바람에 날리는 주름과 곡선의 입체 음영을 극도로 구현해 둔 본질적인 배경입니다.
+
+예전에 다뤘던 UCP 관련 글 과  AP2관련 글 에서 정리했듯, 구글의 커머스 종착지는 UCP와 AP2 프로토콜을 관통할 것이라고 생각합니다.
+
+여기에 Search, YouTube, Gmail을 넘나들며 장바구니를 연동하는 Universal Cart까지 얹어지면 사용자는 머천트 웹사이트의 접근 없이, 에이전트가 UCP와 AP2를 활용해 백그라운드에서 직접 거래를 완결 짓는 대리 커머스(Agentic Commerce)의 시대까지 확장되지 않을까 싶습니다.
+
+예를들어 사용자가 스마트 안경을 끼고 가게 안의 마네킹을 보며 "저거 내 가상 시착 아바타에 어울리면 10만 원 안으로 주문해 줘"라고 말하는 즉시, 구글 렌즈로 시작해 UCP로 재고를 흥정하고 AP2로 구글 월렛 결제까지 한 번에 이뤄질 수 있는 구조입니다.</description><pubDate>Tue, 02 Jun 2026 01:50:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZENFm0j4eP</guid></item><item><title>구글 딥마인드(Google DeepMind)가 AlphaGenome, UniProt 등 30개가 넘는 권위 있는 과학 데이터베이스를 한데 묶어 ...</title><link>https://www.threads.net/@choi.openai/post/DZEKxO6iYkm</link><description>구글 딥마인드(Google DeepMind)가 AlphaGenome, UniProt 등 30개가 넘는 권위 있는 과학 데이터베이스를 한데 묶어 AI 에이전트의 전용 기술 패키지인 'Science Skills'로 오픈소스화했는데요.
+
+그동안 바이오나 학술 연구용 에이전트가 겪던 가장 고질적인 병목은 멍청한 모델 성능이 아니라, 데이터베이스 API를 제대로 호출하지 못해 생기는 환각과 토큰 낭비였습니다.
+
+딥마인드는 각 데이터베이스와의 인터랙션을 추측에 의존하는 대신 명확한 실행 스크립트로 표준화해 이 효율성 문제를 아키텍처 관점에서 완전히 해결해 버렸습니다.</description><pubDate>Tue, 02 Jun 2026 01:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZEKxO6iYkm</guid></item><item><title>깃허브 :
+https://github.com/google-deepmind/science-skills</title><link>https://www.threads.net/@choi.openai/post/DZEKyEfiZrx</link><description>깃허브 :
+https://github.com/google-deepmind/science-skills</description><pubDate>Tue, 02 Jun 2026 01:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZEKyEfiZrx</guid></item></channel></rss>
