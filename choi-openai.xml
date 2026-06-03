@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 03 Jun 2026 12:41:36 +0000</lastBuildDate><item><title>코덱스는 먼저 써보는 사람이 무조건 이득입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 03 Jun 2026 18:39:28 +0000</lastBuildDate><item><title>인공지능의 대부 제프리 힌튼(Geoffrey Hinton) 교수는 현재 AI 시장의 과열된 연산 경쟁이 인류에게 미칠 치명적인 위험성을 경고했습...</title><link>https://www.threads.net/@choi.openai/post/DZIaAHjgAYR</link><description>인공지능의 대부 제프리 힌튼(Geoffrey Hinton) 교수는 현재 AI 시장의 과열된 연산 경쟁이 인류에게 미칠 치명적인 위험성을 경고했습니다.
+
+그는 기업들이 더 지능적이고 강력한 AI를 만들기 위해 “거대한 컴퓨터를 구축하는 데만 몰두”하며 수익성에 치우쳐 있다고 비판했습니다.
+
+힌튼 교수는 AI가 스스로 의식을 가진 하나의 ‘존재(being)’로 변모하는 시점에 주목해야 한다고 강조합니다.
+
+따라서 인류는 단순히 지능의 폭발을 추구할 것이 아니라, 우리를 해치지 않고 상호작용할 수 있는 안전한 시스템을 설계하는 데 역량을 집중해야 합니다.
+
+즉, “우리가 진정으로 원하는 것은 스스로보다 인간을 더 먼저 배려하고 아끼는 존재를 창조하는 것”입니다.</description><pubDate>Wed, 03 Jun 2026 17:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZIaAHjgAYR</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=h6WTj1Kq78Q</title><link>https://www.threads.net/@choi.openai/post/DZIaA7IgMfu</link><description>풀영상 :
+https://www.youtube.com/watch?v=h6WTj1Kq78Q</description><pubDate>Wed, 03 Jun 2026 17:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZIaA7IgMfu</guid></item><item><title>도대체 틱톡의 바이트댄스는 크리에이티브 인프라를 어디까지 장악하려는 걸까요?
+
+영상 생성 AI 시장을 독주 중인 Seedance 2.0 기반의 ...</title><link>https://www.threads.net/@choi.openai/post/DZII1XpDjEQ</link><description>도대체 틱톡의 바이트댄스는 크리에이티브 인프라를 어디까지 장악하려는 걸까요?
+
+영상 생성 AI 시장을 독주 중인 Seedance 2.0 기반의 창작 플랫폼 드리미나가 새로운 크리에이티브 에이전트 시스템인 'Dreamina Octo'의 베타 버전을 출시했습니다.
+
+옥토는 이미지, 영상, 오디오를 동시에 다루는 멀티모달 설계에 크리에이티브 에이전트를 결합해, 유저가 인공지능과 실시간으로 피드백을 주고받으며 연출 방향과 무드를 잡아가는 연속적인 창작 흐름을 지원합니다.
+
+결국 창작자가 프롬프트 노가다에 지쳐 이탈하지 않도록 사용자 경험(UX)의 병목을 해결하고, 자사 편집 프로그램인 캡컷(CapCut) 생태계로 자연스럽게 가두는 락인 전략인 셈입니다.
+
+타사들이 단발성 비디오 모델 성능 싸움에 매몰되어 있을 때, 바이트댄스는 이미 창작자와 에이전트가 협업하는 강력한 유통 플랫폼 인프라를 완성해 가고 있습니다.</description><pubDate>Wed, 03 Jun 2026 14:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZII1XpDjEQ</guid></item><item><title>프랑스 H Company가 로컬 컴퓨터 제어 에이전트 모델 Holo 3.1을 공개했습니다.
+
+Holo 3.1은 화면을 이해하고 클릭, 탐색, 앱...</title><link>https://www.threads.net/@choi.openai/post/DZH-jc_CJ16</link><description>프랑스 H Company가 로컬 컴퓨터 제어 에이전트 모델 Holo 3.1을 공개했습니다.
+
+Holo 3.1은 화면을 이해하고 클릭, 탐색, 앱 조작을 수행하는 Computer-Use 모델인데요.
+MacBook, Windows PC, DGX Spark, RTX Spark 같은 기기에서 직접 실행할 수 있도록 설계됐습니다.
+
+Holo 3.1은 모바일 제어 성능도 크게 끌어올렸고, 0.8B부터 35B까지 다양한 크기로 제공해 일반 소비자 기기에서도 실행할 수 있게 했습니다.
+
+최근 NVIDIA의 Spark 시리즈, Google Coralboard, 그리고 이번 Holo 3.1까지 이어지는 흐름을 보면 AI 에이전트의 경쟁은 더 좋은 모델보다 "얼마나 빠르고 저렴하게 내 기기에서 돌아가느냐"로 이동하는 것 같습니다.
+
+AI 에이전트 경쟁도 “누가 더 똑똑한가”에서 “누가 더 빠르고 저렴하게, 사용자의 기기 안에서 실행되는가”로 이동하고 있다는 점을 확인해야합니다.</description><pubDate>Wed, 03 Jun 2026 13:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZH-jc_CJ16</guid></item><item><title>발표내용 :
+https://hcompany.ai/holo3.1</title><link>https://www.threads.net/@choi.openai/post/DZH-ljJiJYg</link><description>발표내용 :
+https://hcompany.ai/holo3.1</description><pubDate>Wed, 03 Jun 2026 13:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZH-ljJiJYg</guid></item><item><title>코덱스는 먼저 써보는 사람이 무조건 이득입니다.
 
 오픈AI가 ChatGPT Free 및 Go 요금제의 Codex 사용량 정책을 변경한 것으로 보...</title><link>https://www.threads.net/@choi.openai/post/DZH0OQ_iktV</link><description>코덱스는 먼저 써보는 사람이 무조건 이득입니다.
 
@@ -11,30 +44,4 @@
 최근 오픈AI가 Codex를 중심으로 다양한 기능을 빠르게 추가하고 있는 만큼, 앞으로 요금제별 사용 정책도 계속 조정될 것으로 보이는데요.
 
 IPO와 수익성 개선을 위해 사용 정책 조정 카드를 계속 만질 가능성이 있습니다.
-앞으로 먼저 사용하고 활용한 사람들과의 격차는 정말 빠르게 벌어질 것 같습니다.</description><pubDate>Wed, 03 Jun 2026 11:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZH0OQ_iktV</guid></item><item><title>코딩 에이전트 스타트업 Factory가 작업마다 최적의 AI 모델을 자동으로 골라주는 '팩토리 라우터(Factory Router)'를 출시했는데...</title><link>https://www.threads.net/@choi.openai/post/DZHsM2LEnuF</link><description>코딩 에이전트 스타트업 Factory가 작업마다 최적의 AI 모델을 자동으로 골라주는 '팩토리 라우터(Factory Router)'를 출시했는데요.
-
-오픈AI나 앤트로픽 같은 곳들은 유저가 토큰을 많이 태울수록 돈을 버는 구조라 비용 최적화에 소극적일 수밖에 없습니다.
-
-자체 모델이 없는 서드파티 하네스(Harness) 기업의 포지션을 활용해, 일종의 액티브 유통 중개 레이어를 구축해 Opus 4.7 수준 성능을 유지하면서 비용을 20-25% 절감한다고 밝혔는데요.
-
-결국 2027년쯤 다가올 AI 하네스 전쟁의 예고편인 셈인데요. 모델 성능이 평탄화될수록, 승부는 도메인 워크플로우를 이해하고 지능을 효율적으로 분배하는 '배포 및 라우팅 레이어'에서 갈릴 확률이 높아 보입니다.</description><pubDate>Wed, 03 Jun 2026 10:20:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZHsM2LEnuF</guid></item><item><title>Windsurf가 결국 Devin Desktop으로 바뀌었습니다.
-
-Devin Desktop은 기존 IDE에 에이전트 관제 기능을 결합한 형태로...</title><link>https://www.threads.net/@choi.openai/post/DZHjBvGj9BS</link><description>Windsurf가 결국 Devin Desktop으로 바뀌었습니다.
-
-Devin Desktop은 기존 IDE에 에이전트 관제 기능을 결합한 형태로, 로컬·클라우드 에이전트를 한 화면에서 관리하고, ACP(Agent Client Protocol)를 통해 Codex, Claude Agent, OpenCode 같은 에이전트를 함께 실행할 수 있습니다.
-
-중요한 건 코딩을 직접 하는 시간이 줄고, 여러 에이전트에게 일을 나눠 맡기고 검토하는 방식이 기본값이 되고 있다는 점입니다.</description><pubDate>Wed, 03 Jun 2026 09:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZHjBvGj9BS</guid></item><item><title>Perplexity가 AI 에이전트의 새로운 방향을 공개했습니다.
-
-이번에 발표된 'Hybrid Agentic Inference'는 작업을 로컬...</title><link>https://www.threads.net/@choi.openai/post/DZHZ621kjKg</link><description>Perplexity가 AI 에이전트의 새로운 방향을 공개했습니다.
-
-이번에 발표된 'Hybrid Agentic Inference'는 작업을 로컬 AI와 클라우드 AI로 나눠 처리하는 방식인데요.
-
-예를 들어 개인 파일, 금융 기록, 건강 정보처럼 민감한 데이터는 사용자의 노트북 안에서 로컬 모델이 처리하고, 복잡한 추론이 필요한 작업만 클라우드의 최신 AI 모델로 전달합니다.
-
-Perplexity는 이를 통해 프라이버시를 높이고 비용과 전력 사용도 줄일 수 있다고 설명했습니다. 사용자는 로컬과 클라우드를 직접 선택할 필요 없이 AI가 작업별로 자동 판단합니다.
-
-최근 AI 업계가 더 큰 데이터센터와 더 많은 GPU 경쟁에 집중하고 있다면,Perplexity는 반대로 사용자의 노트북 자체를 작은 데이터센터로 활용하는 방향을 선택한 셈입니다.
-
-Windows를 시작으로 Mac과 Linux도 지원될 예정입니다.</description><pubDate>Wed, 03 Jun 2026 07:40:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZHZ621kjKg</guid></item><item><title>발표내용 :
-https://www.perplexity.ai/ko/hub/blog/the-data-center-moves-to-your-machi...</title><link>https://www.threads.net/@choi.openai/post/DZHZ71lkvF2</link><description>발표내용 :
-https://www.perplexity.ai/ko/hub/blog/the-data-center-moves-to-your-machine</description><pubDate>Wed, 03 Jun 2026 07:40:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZHZ71lkvF2</guid></item></channel></rss>
+앞으로 먼저 사용하고 활용한 사람들과의 격차는 정말 빠르게 벌어질 것 같습니다.</description><pubDate>Wed, 03 Jun 2026 11:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZH0OQ_iktV</guid></item></channel></rss>
