@@ -1,41 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 02 Jun 2026 18:29:38 +0000</lastBuildDate><item><title>엔비디아 CEO 젠슨 황은 AI와 스스로 일하는 에이전트형 AI의 등장으로 소프트웨어 기업들이 위기를 맞이할 것이라는 세간의 우려를 정면으로 반...</title><link>https://www.threads.net/@choi.openai/post/DZF1JVBkx-q</link><description>엔비디아 CEO 젠슨 황은 AI와 스스로 일하는 에이전트형 AI의 등장으로 소프트웨어 기업들이 위기를 맞이할 것이라는 세간의 우려를 정면으로 반박했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 03 Jun 2026 04:06:15 +0000</lastBuildDate><item><title>마이크로소프트 빌드 스트리밍 슬라이드 한 장 때문에 지금 테크 판 전체가 발칵 뒤집혔습니다.
 
-에이전트가 폭발적으로 증가함에 따라 세상은 더 이상 “사람 수에 묶이지 않게” 될 것이며, 이 강력한 AI 에이전트들이 예전보다 훨씬 더 많은 소프트웨어 도구를 필요로 하고 소비할 것이기 때문입니다.
+엔지니어링 커뮤니티에서는 무스타파 술레이만이 앤트...</title><link>https://www.threads.net/@choi.openai/post/DZG8fhKD3uv</link><description>마이크로소프트 빌드 스트리밍 슬라이드 한 장 때문에 지금 테크 판 전체가 발칵 뒤집혔습니다.
 
-결과적으로 지금은 오히려 소프트웨어 회사들에게 엄청난 기회의 시기가 될 것입니다.
+엔지니어링 커뮤니티에서는 무스타파 술레이만이 앤트로픽의 극비 모델인 Claude Mythos의 학습 연산량을 실수로 유출한 게 아니냐는 의심이 쏟아지고 있는데요.
+그런데 더 놀라운 건 유출 논란 자체가 아닙니다.
 
-다만 이전과는 다른 패러다임이 요구됩니다. 개발자와 기업들은 이제 “소프트웨어를 에이전트가 사용할 수 있는 방식”으로 설계하고 제공해야 하며, 이러한 연동 구조의 변화가 코딩과 기술 생태계의 거대한 돌파구가 될 것이라고 강조했습니다.</description><pubDate>Tue, 02 Jun 2026 17:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZF1JVBkx-q</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=wSp6AiNIrsY</title><link>https://www.threads.net/@choi.openai/post/DZF1KiIk3RA</link><description>풀영상 :
-https://www.youtube.com/watch?v=wSp6AiNIrsY</description><pubDate>Tue, 02 Jun 2026 17:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZF1KiIk3RA</guid></item><item><title>엔비디아 CEO 젠슨 황은 “이번 컴퓨터의 재발명은 스마트폰의 등장만큼이나 거대한 변화”라고 강조하며, 미래의 PC는 단순히 앱을 실행하고 타이...</title><link>https://www.threads.net/@choi.openai/post/DZFtKmqCWDa</link><description>엔비디아 CEO 젠슨 황은 “이번 컴퓨터의 재발명은 스마트폰의 등장만큼이나 거대한 변화”라고 강조하며, 미래의 PC는 단순히 앱을 실행하고 타이핑하는 도구에 그치지 않을 것이라 단언했습니다.
+분석이 맞다면 이제 AI 경쟁은 모델 성능이 아니라 데이터센터, 전력망, 냉각 기술, 그리고 양자 컴퓨팅까지 연결되는 거대한 인프라 전쟁이 됐습니다.
 
-과거의 휴대폰이 지금의 스마트폰으로 완전히 재편되었듯, 10년 후의 PC는 가치 창출의 핵심 인프라가 될 것입니다. 대다수의 가정에 TV나 세탁기가 있듯이, 미래에는 모든 집에 ‘AI 슈퍼컴퓨터’가 한 대씩 자리 잡을 것이라는 분석입니다.
+Microsoft Build에서 드러난 AI 패권 경쟁의 핵심 사례 8가지를 정리했습니다🧵</description><pubDate>Wed, 03 Jun 2026 03:23:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZG8fhKD3uv</guid></item><item><title>1/ 오늘 마이크로소프트 빌드 키노트 발표 중 화면에 스치듯 지나간 장표에서 앤트로픽의 차세대 미출시 플래그십 모델로 알려진 Claude Myt...</title><link>https://www.threads.net/@choi.openai/post/DZG8gHfD_Gu</link><description>1/ 오늘 마이크로소프트 빌드 키노트 발표 중 화면에 스치듯 지나간 장표에서 앤트로픽의 차세대 미출시 플래그십 모델로 알려진 Claude Mythos의 총학습 연산량을 유추할 수 있는 자료가 공개되었는데요.
 
-이 고성능 하드웨어는 인간의 수많은 AI 에이전트와 비서를 연중무휴 구동하며 노동 경제를 혁신하고 생산성을 극대화하는 중추적인 역할을 수행합니다. 
+로그 그래프 상에서 점이 위치한 Y축의 높이를 계산한 결과  5.3×10^27 에서 7.1×10 ^27 FLOPs 사이이며, 최종 중간값 추정치는 약 6.1×10^27 FLOPs 으로 추정되고 있습니다.
 
-현실 세계의 복잡한 연산을 처리하고 자율적으로 비즈니스를 돕는, 이른바 ‘스타워즈’의 R2D2나 C-3PO 같은 지능형 동반자로 진화할 것입니다.</description><pubDate>Tue, 02 Jun 2026 15:50:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZFtKmqCWDa</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=wSp6AiNIrsY</title><link>https://www.threads.net/@choi.openai/post/DZFtLcLiVpx</link><description>풀영상 :
-https://www.youtube.com/watch?v=wSp6AiNIrsY</description><pubDate>Tue, 02 Jun 2026 15:50:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZFtLcLiVpx</guid></item><item><title>드디어 일반 소비자용 그래픽카드 한 장으로 720p급 실시간 스트리밍 비디오를 편집하는 시대가 왔습니다.
-엔비디아 리서치가 Blackwell(R...</title><link>https://www.threads.net/@choi.openai/post/DZFlKIJjyfI</link><description>드디어 일반 소비자용 그래픽카드 한 장으로 720p급 실시간 스트리밍 비디오를 편집하는 시대가 왔습니다.
-엔비디아 리서치가 Blackwell(RTX 5090)에 맞춰 시스템과 알고리즘을 함께 깎아낸 'SANA-Streaming'을 공개했는데요.
+이 추정치가 맞다면 미토스는 대략 5,300억 개의 파라미터와 212조 개의 토큰을 활용하는 물리적 규모를 가집니다.
 
-SANA는 메모리를 압축하는 선형 GDN 블록과 로컬 디테일을 잡는 소프트맥스를 교차 배치한 '하이브리드 DiT' 구조로 GPU 메모리 연산 병목을 줄였습니다.
-비디오 길이에 상관없이 VRAM 사용량을 5.56GB로 일정하게 묶어두는 방식입니다. 실제로 5090 단일 칩에서 24 FPS 수준의 실시간 편집이 구동됩니다.
+현실적인 하드웨어 가용 수준으로 환산하면 AWS Trainium2 칩 50만 대를 동원해 수개월간 클러스터를 한계까지 구동해야 도달 가능한 규모입니다.
 
-해당 기술은 자율주행 시뮬레이션이나 로보틱스 같은 피지컬 AI 분야까지 활용 범위가 넓습니다.
+단일 모델을 개발하기 위해 조 단위의 예산과 소도시 규모의 전력망을 독점해야 한다는 구체적인 인프라 증명이기도 합니다.</description><pubDate>Wed, 03 Jun 2026 03:23:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZG8gHfD_Gu</guid></item><item><title>2/ 물론 그래프를 보면 알파고 제로나 GPT-3 같은 역사적으로 유명한 모델들의 연산량(FLOPs)이 실제보다 터무니없이 작게 표시되는 등 오...</title><link>https://www.threads.net/@choi.openai/post/DZG8g9cj9oO</link><description>2/ 물론 그래프를 보면 알파고 제로나 GPT-3 같은 역사적으로 유명한 모델들의 연산량(FLOPs)이 실제보다 터무니없이 작게 표시되는 등 오류가 많이 보입니다.
+그래서 단순히 기조연설 슬라이드를 만들면서 전체 추세선에 맞춰 대충 점들을 찍어 넣은 그래프일 가능성도 있습니다.
 
-또한, 미래에는 라이브 방송에서 배경을 바꾸고, 게임 스트리밍에서 캐릭터를 변경하고, 화상회의에서 공간 전체를 실시간으로 변환하는 기능이 점점 일반화될 것으로 보입니다.</description><pubDate>Tue, 02 Jun 2026 14:40:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZFlKIJjyfI</guid></item><item><title>프로젝트 주소 :
-https://nvlabs.github.io/Sana/Streaming/</title><link>https://www.threads.net/@choi.openai/post/DZFlLDYD-ce</link><description>프로젝트 주소 :
-https://nvlabs.github.io/Sana/Streaming/</description><pubDate>Tue, 02 Jun 2026 14:40:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZFlLDYD-ce</guid></item><item><title>오픈AI의 CEO 샘 알트만(Sam Altman)은 AI 기술이 도달해야 할 궁극적인 지향점은 오직 인간을 향해야 한다고 말합니다.
+하지만 한편으로는 앤트로픽의 차세대 모델로 추정되는 '미토스(Mithos)'가 Gemini 3.1 Pro보다 약간 아래 위치에 매우 정교하게 배치되어 있기 때문에 마이크로소프트 인프라 팀이 실제 내부 데이터와 컴퓨팅 자원 사용량을 정확히 알고 있는 상태에서 그래프를 만들었고, 그 과정에서 공개되지 않은 정보를 실수로 노출한 것 아니냐는 추측을 제기하고 있습니다.</description><pubDate>Wed, 03 Jun 2026 03:23:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZG8g9cj9oO</guid></item><item><title>3/ 실제로 유출된 수치 그래프가 맞는 수치라면 미토스의 현실적 연산 스케일의 최종 추정치는 약 6.74×10^26 FLOPs 수준으로 추산됩니...</title><link>https://www.threads.net/@choi.openai/post/DZG8hcUjzXT</link><description>3/ 실제로 유출된 수치 그래프가 맞는 수치라면 미토스의 현실적 연산 스케일의 최종 추정치는 약 6.74×10^26 FLOPs 수준으로 추산됩니다.
 
-그는 인간...</title><link>https://www.threads.net/@choi.openai/post/DZFgnFmCTDa</link><description>오픈AI의 CEO 샘 알트만(Sam Altman)은 AI 기술이 도달해야 할 궁극적인 지향점은 오직 인간을 향해야 한다고 말합니다.
+이 연산량이 성립하려면 총 10.6T 파라미터(활성화 530B params) 체급의 모델에 약 212조 개의 토큰 데이터셋을 태웠다는 것인데요.
 
-그는 인간의 목적과 무관하게 작동하는 초지능에는 관심이 없으며, 모든 기술 발전의 중심에는 인간의 가치가 있어야 한다고 강조합니다.
+약 이 역산이 사실이라면 미 대륙에 이미 배치된 인프라 격차가 세간에 알려진 것보다 훨씬 비대함을 보여주고 있습니다.
 
-“이것은 사람을 위해 작동하고, 사람이 그 중심에 있으며, 인간의 가치를 앞으로 나아가게 하는 것에 관한 것이어야 합니다.”
+극비 보안망 뒤에 가려진 실질적 프론티어 지능의 수준이 공개 버전을 한참 앞서가고 있으며, 중국 등 타국 경쟁 진영과의 연산 자원 격차가 돌이킬 수 없을 정도로 벌어져 있다는 신호로 해석됩니다.
 
-알트만은 많은 이들이 우려하는 일자리 소멸과 경제적 불확실성에 대해서도 언급했습니다.
+이는 과거 포스팅했던 격차가 4개월 수준으로 좁혀져 보이지만, 실무형 장기 작업 영역으로 들어가면 실제 격차는 1년 이상 벌어지고 있다는 내용에도 신빙성을 증명해주는 것 같습니다.</description><pubDate>Wed, 03 Jun 2026 03:23:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZG8hcUjzXT</guid></item><item><title>마이크로소프트 Copilot 슈퍼 앱 공개
 
-AI가 인간의 지능을 넘어서고 대다수의 직업을 대체한 뒤 기본소득만으로 살아가는 미래는 결코 바람직하지 않으며, AI 산업계가 인간의 주도권과 삶의 의미를 지키는 방법을 명확히 제시해야 한다고 분석합니다.</description><pubDate>Tue, 02 Jun 2026 14:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZFgnFmCTDa</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=4qGz2uFuRvs</title><link>https://www.threads.net/@choi.openai/post/DZFgoClCfdh</link><description>풀영상 :
-https://www.youtube.com/watch?v=4qGz2uFuRvs</description><pubDate>Tue, 02 Jun 2026 14:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZFgoClCfdh</guid></item></channel></rss>
+그동안 Copilot이 질문에 답하는 AI 비서였다면, 이제는 업무 전반을 처리하는 플랫폼으로 확장...</title><link>https://www.threads.net/@choi.openai/post/DZG53iUjk2-</link><description>마이크로소프트 Copilot 슈퍼 앱 공개
+
+그동안 Copilot이 질문에 답하는 AI 비서였다면, 이제는 업무 전반을 처리하는 플랫폼으로 확장되는 모습인데요.
+
+새로운 구조는 Chat, Cowork, Code, Autopilots 네 가지 축으로 질문하고(Chat), 업무를 위임하고(Cowork), 코드를 만들고(Code), AI가 백그라운드에서 지속적으로 일을 처리하는(Autopilots) 방식입니다.
+
+첫 번째 Autopilot인 Microsoft Scout는 Teams, Outlook, OneDrive, SharePoint 등과 연결되어 회의 준비, 일정 관리, 자료 정리, 후속 업무를 대신 수행할 수 있습니다.
+
+AI 업계가 챗봇 경쟁에서 에이전트 경쟁으로 이동하고 있다는 이야기가 많았는데요. 마이크로소프트는 Copilot Super App을 통해 AI를 업무 운영 체계 자체로 만들겠다는 방향을 보여주고 있습니다.</description><pubDate>Wed, 03 Jun 2026 03:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZG53iUjk2-</guid></item><item><title>마이크로소프트, OpenClaw와 Microsoft 생태계에 통합
+
+마이크로소프트가 OpenClaw를 Windows와 Microsoft 생태계에...</title><link>https://www.threads.net/@choi.openai/post/DZGwtZ7AqCA</link><description>마이크로소프트, OpenClaw와 Microsoft 생태계에 통합
+
+마이크로소프트가 OpenClaw를 Windows와 Microsoft 생태계에 통합한다고 발표했습니다.
+OpenClaw는 사용자의 PC와 업무 도구를 직접 조작할 수 있는 에이전트 프레임워크인데요.
+
+함께 공개된 Microsoft Scout는 Teams, Outlook, OneDrive, 데스크톱, 브라우저, MCP 서버와 연결되는 상시 실행형 개인 업무 에이전트입니다.
+
+지금까지 AI는 사용자가 물어보면 답하는 보조 도구에 가까웠지만, 이제는 사용자가 매번 지시하지 않아도 회의 준비, 일정 정리, 자료 생성, 후속 작업을 먼저 처리하는 방향으로 가고 있습니다.
+
+물론 이런 에이전트가 회사 PC와 업무 데이터에 깊게 접근하는 만큼 보안 우려도 큽니다. 하지만 마이크로소프트가 OpenClaw를 기업용 보안 체계 안으로 끌어들인 것은, 데스크톱 에이전트 시대를 본격적으로 준비하고 있다는 신호로 보입니다.</description><pubDate>Wed, 03 Jun 2026 01:40:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZGwtZ7AqCA</guid></item><item><title>이제 에이전트 컴퓨팅 시대입니다.
+
+마이크로소프트가 Build 2026에서 'Project Solara'를 공개했습니다.
+
+지금까지는 스마트폰이...</title><link>https://www.threads.net/@choi.openai/post/DZGooO6AWLU</link><description>이제 에이전트 컴퓨팅 시대입니다.
+
+마이크로소프트가 Build 2026에서 'Project Solara'를 공개했습니다.
+
+지금까지는 스마트폰이나 PC에서 앱을 실행해 작업했다면, 앞으로는 사용자를 대신해 일하는 AI 에이전트가 중심이 되고 기기는 그 에이전트와 연결되는 창구가 된다는 비전입니다.
+
+이를 위해 마이크로소프트는 클라우드와 로컬 AI를 함께 활용하는 새로운 플랫폼과 함께 책상 위에 두는 스마트 디스플레이, 목에 거는 AI 배지 형태의 컨셉 기기도 공개했습니다.
+
+주목할 부분은 운영체제(OS)보다 에이전트를 더 중요한 계층으로 보고 있다는 점입니다. 
+물론 아직은 초기 컨셉 단계에 가깝습니다. 다만 과거에는 운영체제가 앱 생태계를 지배했다면, 앞으로는 에이전트가 여러 앱과 서비스를 넘나들며 사용자의 업무를 대신 처리하는 방향으로 이동할 가능성이 커 보입니다.</description><pubDate>Wed, 03 Jun 2026 00:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZGooO6AWLU</guid></item></channel></rss>
