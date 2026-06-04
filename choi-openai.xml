@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 04 Jun 2026 04:00:46 +0000</lastBuildDate><item><title>Reve가 레이아웃 제어 기술을 전면에 내세운 4K 이미지 모델 'Reve 2.0'을 발표했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 04 Jun 2026 11:15:14 +0000</lastBuildDate><item><title>Miso Labs가 감정 표현에 특화된 오픈 웨이트 음성 모델 Miso One을 공개했습니다.
+
+80억 개 파라미터 규모의 TTS(Text-to...</title><link>https://www.threads.net/@choi.openai/post/DZKAW0OgNUF</link><description>Miso Labs가 감정 표현에 특화된 오픈 웨이트 음성 모델 Miso One을 공개했습니다.
+
+80억 개 파라미터 규모의 TTS(Text-to-Speech) 모델인데, 기쁨, 망설임, 슬픔 같은 감정 표현을 자연스럽게 담아내면서도 응답 지연은 110ms 수준으로 사람의 평균 대화 반응 속도(200-250ms)보다 빠릅니다.
+
+쇼츠 내레이션, 팟캐스트, 교육 영상 음성 제작에 바로 쓰일 수 있어 보입니다.</description><pubDate>Thu, 04 Jun 2026 08:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZKAW0OgNUF</guid></item><item><title>깃허브 :
+https://github.com/MisoLabsAI/MisoTTS</title><link>https://www.threads.net/@choi.openai/post/DZKBBIBj1RU</link><description>깃허브 :
+https://github.com/MisoLabsAI/MisoTTS</description><pubDate>Thu, 04 Jun 2026 08:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZKBBIBj1RU</guid></item><item><title>진짜 미친 Codex 활용법
+
+챗GPT에게 "지금까지 우리의 모든 대화를 바탕으로, 내 업무 시간을 50% 이상 줄여줄 수 있는 가장 가치 있는...</title><link>https://www.threads.net/@choi.openai/post/DZJwq2RlRBM</link><description>진짜 미친 Codex 활용법
+
+챗GPT에게 "지금까지 우리의 모든 대화를 바탕으로, 내 업무 시간을 50% 이상 줄여줄 수 있는 가장 가치 있는 서비스, 제품 또는 AI 시스템을 기획해줘."
+
+그러면 AI가 내 업무에서 가장 큰 병목을 찾아줍니다.
+
+이제 그 결과를 Codex의 Product Design 플러그인과 + /goal (목표)에 넣으세요.
+그러면 AI가 문제를 찾고, AI가 해결책을 설계하고, AI가 직접 만들어줍니다.
+
+메일 업무가 많으시다면 Codex에서 Gmail이나 내용을 분석해서 제안해달라고 하면 나에게 맞는 서비스를 바로 만들어볼 수 있습니다.</description><pubDate>Thu, 04 Jun 2026 05:38:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZJwq2RlRBM</guid></item><item><title>Reve가 레이아웃 제어 기술을 전면에 내세운 4K 이미지 모델 'Reve 2.0'을 발표했습니다.
 출시와 동시에 Arena.ai 텍스트-투-이...</title><link>https://www.threads.net/@choi.openai/post/DZJfzcODKeK</link><description>Reve가 레이아웃 제어 기술을 전면에 내세운 4K 이미지 모델 'Reve 2.0'을 발표했습니다.
 출시와 동시에 Arena.ai 텍스트-투-이미지 리더보드에서 2위로 올라섰는데요.
 
@@ -17,25 +36,4 @@
 
 제3자 벤치마크인 DesignArena에서도 빅테크들의 폐쇄형 모델 바로 밑인 오픈소스 1위를 기록했는데요.
 
-과거 독점적 서비스로 유저를 가두던 그래픽 AI 스타트업들이 생존을 위해 로컬 배포와 파인튜닝 생태계로 내려오는 흐름이 뚜렷해 보입니다.</description><pubDate>Thu, 04 Jun 2026 01:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZJQ4N2Dr_p</guid></item><item><title>이제 검색도, 추천도 아닌 "AI가 대신 읽어주는 인터넷"이 시작되는 것 같습니다.
-
-구글이 Dreambeans라는 서비스를 실험중인데요.
-사용...</title><link>https://www.threads.net/@choi.openai/post/DZJGoSXiWqz</link><description>이제 검색도, 추천도 아닌 "AI가 대신 읽어주는 인터넷"이 시작되는 것 같습니다.
-
-구글이 Dreambeans라는 서비스를 실험중인데요.
-사용자의 Gmail, 캘린더, 검색 기록 등 구글 서비스와 연결해 매일 개인 맞춤형 스토리를 생성해주는 앱입니다.
-
-지금까지는 궁금한 것을 직접 찾아야 했다면, 앞으로는 AI가 사용자의 관심사와 일정, 최근 활동을 바탕으로 먼저 읽을 만한 내용을 가져다주는 방식입니다.
-
-사실 비슷한 기능이 ChatGPT에서도 Pulse 라는 이름으로 제공되고 있는데요.
-차이가 있다면 Pulse는 ChatGPT 대화와 연결된 앱을 기반으로 개인화된 브리핑을 제공하고,Dreambeans는 여기에 Gmail, Docs, Search, Maps, YouTube 등 구글 생태계 전체 데이터를 활용하는 방식입니다.
-
-다만 현재 Dreambeans는 미국에 거주하는 18세 이상 Google AI Ultra 사용자만 이용할 수 있습니다.</description><pubDate>Wed, 03 Jun 2026 23:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZJGoSXiWqz</guid></item><item><title>구글이 Gemma 4 12B를 공개했습니다.
-
-Gemma 4 12B는 텍스트, 이미지, 오디오를 별도 인코더 없이 하나의 구조에서 처리하는 통합...</title><link>https://www.threads.net/@choi.openai/post/DZI7brxE47C</link><description>구글이 Gemma 4 12B를 공개했습니다.
-
-Gemma 4 12B는 텍스트, 이미지, 오디오를 별도 인코더 없이 하나의 구조에서 처리하는 통합 멀티모달 모델인데요.
-
-16GB 노트북에서도 돌릴 수 있고, Apache 2.0 라이선스로 공개돼 기업과 개발자가 자유롭게 활용할 수 있습니다.</description><pubDate>Wed, 03 Jun 2026 21:52:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZI7brxE47C</guid></item><item><title>발표내용 :
-https://blog.google/innovation-and-ai/technology/developers-tools/introdu...</title><link>https://www.threads.net/@choi.openai/post/DZI7ccnkzZR</link><description>발표내용 :
-https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12B/</description><pubDate>Wed, 03 Jun 2026 21:52:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZI7ccnkzZR</guid></item></channel></rss>
+과거 독점적 서비스로 유저를 가두던 그래픽 AI 스타트업들이 생존을 위해 로컬 배포와 파인튜닝 생태계로 내려오는 흐름이 뚜렷해 보입니다.</description><pubDate>Thu, 04 Jun 2026 01:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZJQ4N2Dr_p</guid></item></channel></rss>
