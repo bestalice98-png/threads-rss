@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 05 Jun 2026 11:28:42 +0000</lastBuildDate><item><title>엔비디아가 한국에 최고 등급 AI 연구거점을 세우려 합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 05 Jun 2026 17:07:16 +0000</lastBuildDate><item><title>엔비디아가 공개한 OmniDreams는 자율주행용 월드 모델입니다.
+AI가 만들어낸 가상 세계 안에서 차량 정책이 실제로 운전하고 그 결과가 다...</title><link>https://www.threads.net/@choi.openai/post/DZNct4DiaKI</link><description>엔비디아가 공개한 OmniDreams는 자율주행용 월드 모델입니다.
+AI가 만들어낸 가상 세계 안에서 차량 정책이 실제로 운전하고 그 결과가 다시 다음 장면 생성에 반영되는 특징을 갖고 있는데요.
+
+즉 영상을 재생하는 수준이 아니라 AI가 행동하고, 환경이 반응하고, 다시 AI가 판단하는 폐쇄 루프 시뮬레이션이 가능합니다.
+
+특히 기존 재구성 기반 시뮬레이터는 촬영된 데이터 주변만 잘 재현하는 경우가 많았는데, OmniDreams는 새로운 시점, 날씨, 객체, 움직임까지 생성해 롱테일 상황을 만들어낼 수 있다고 합니다.
+
+자율주행 업계가 가장 어려워하는 "현실에서 거의 발생하지 않지만 반드시 대비해야 하는 상황"을 대규모로 테스트할 수 있다는 의미입니다.
+
+최근 AI 업계가 비디오 생성에서 월드 모델로 관심이 이동하는 이유도 여기에 있습니다.
+중요한 건 영상을 얼마나 사실적으로 만드느냐가 아니라, AI가 상호작용할 수 있는 시뮬레이션 세계를 얼마나 현실적으로 구축하느냐입니다.</description><pubDate>Fri, 05 Jun 2026 16:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZNct4DiaKI</guid></item><item><title>프로젝트 주소 :
+https://research.nvidia.com/labs/sil/projects/omnidreams-blog/</title><link>https://www.threads.net/@choi.openai/post/DZNcu1yiXrx</link><description>프로젝트 주소 :
+https://research.nvidia.com/labs/sil/projects/omnidreams-blog/</description><pubDate>Fri, 05 Jun 2026 16:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZNcu1yiXrx</guid></item><item><title>엔비디아가 한국에 최고 등급 AI 연구거점을 세우려 합니다.
 SK하이닉스, 현대차, LG, 네이버, T1까지 모두 연결된 이유를 따라가다 보면 ...</title><link>https://www.threads.net/@choi.openai/post/DZM16nrD7QV</link><description>엔비디아가 한국에 최고 등급 AI 연구거점을 세우려 합니다.
 SK하이닉스, 현대차, LG, 네이버, T1까지 모두 연결된 이유를 따라가다 보면 단순 투자 이상의 그림이 보입니다.
 잘 알려지지 않은 배경과 핵심 사례 10가지를 정리했습니다🧵</description><pubDate>Fri, 05 Jun 2026 10:21:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZM16nrD7QV</guid></item><item><title>1/ 엔비디아가 전 세계 극소수 기술 요충지에만 운영하는 최상위 R&amp;D 시설 'AI 기술센터'를 한국에 설립하기 위한 박사급 채용에 착수했으며,...</title><link>https://www.threads.net/@choi.openai/post/DZM17KqDzME</link><description>1/ 엔비디아가 전 세계 극소수 기술 요충지에만 운영하는 최상위 R&amp;D 시설 'AI 기술센터'를 한국에 설립하기 위한 박사급 채용에 착수했으며, 젠슨 황 CEO가 나흘 일정으로 전용기 방한해 재계 총수들과 연쇄 회동을 벌이고 있습니다.
@@ -40,24 +53,4 @@ LM Studio가 공식 모바일 앱을 출시하며 로컬 AI 진영의 판을 스
 
 서버로 데이터를 단 1바이트도 전송하지 않는 완벽한 '오프그리드 프라이버시 에이전트'가 마침내 스마트폰 안으로 들어왔다는 점에서, 로컬 AI 생태계의 사용자 경험(UX)을 바꿀 중요한 변곡점이 될 것 같습니다.</description><pubDate>Fri, 05 Jun 2026 07:20:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZMhJg8jTh5</guid></item><item><title>주소 :
 https://lmstudio.ai/locally</title><link>https://www.threads.net/@choi.openai/post/DZMhKSeDSb9</link><description>주소 :
-https://lmstudio.ai/locally</description><pubDate>Fri, 05 Jun 2026 07:20:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZMhKSeDSb9</guid></item><item><title>오픈AI가 ChatGPT 내부에서 대화 맥락을 장기간 신뢰성 있게 유지하고 지속적으로 관리해 주는 새로운 'Dreaming' 기반 메모리 아키텍...</title><link>https://www.threads.net/@choi.openai/post/DZMVyBJAu5X</link><description>오픈AI가 ChatGPT 내부에서 대화 맥락을 장기간 신뢰성 있게 유지하고 지속적으로 관리해 주는 새로운 'Dreaming' 기반 메모리 아키텍처를 출시했습니다.
-
-대화 중 실시간으로 단편적인 메모만 받아 적던 과거의 기억 방식에서 한층 더 진화하여, 인간이 밤에 잠을 자며 기억을 분류하고 정제하는 작용을 차용했다고 하는데요.
-
-대화가 종료된 후 백그라운드 프로세스가 실행되어 여러 대화 세션에 흩어진 파편화된 정보들을 유기적으로 통합하고 최신 상태로 갱신하는 원리입니다.</description><pubDate>Fri, 05 Jun 2026 05:40:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZMVyBJAu5X</guid></item><item><title>1/ 이번 업데이트의 핵심 성과는 인공지능이 간직한 사용자 정보의 투명성 확보와 선호도 및 복잡한 컨텍스트의 자연스러운 계승 능력입니다.
-
-새로...</title><link>https://www.threads.net/@choi.openai/post/DZMV1J8ggzV</link><description>1/ 이번 업데이트의 핵심 성과는 인공지능이 간직한 사용자 정보의 투명성 확보와 선호도 및 복잡한 컨텍스트의 자연스러운 계승 능력입니다.
-
-새로 추가된 '메모리 요약(Memory Summary)' 화면을 가동하면 ChatGPT가 나에 대해 무엇을 기억하고 있는지 한눈에 열람하고 오류가 있는 세부사항을 손쉽게 수정 및 삭제할 수 있다고 하는데요.
-
-이를 기반으로 대화 중 흘렸던 카메라 바디나 수중 하우징 셋업 정보를 모델이 스스로 대조하여, 수중 사진 플래시 호환 제품을 정확한 부품 번호 단위로 골라 추천해 주는 높은 정밀도를 보여줍니다.
-
-나아가 채식주의자 성향이나 대화상 금지 규칙 등 사용자의 명시적, 암묵적 제약 조건을 대화가 바뀌어도 어기지 않고 유지하여 개개인에게 최적화된 맞춤형 출력을 안정적으로 보장한다고 강조합니다.</description><pubDate>Fri, 05 Jun 2026 05:41:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZMV1J8ggzV</guid></item><item><title>2/아울러 오랜 시간 뒤에 발생하는 기억 노후화(Staleness) 현상을 제어하고 연산 리소스 비용을 가파르게 감축하여 시스템 스케일의 기반을...</title><link>https://www.threads.net/@choi.openai/post/DZMV6MBAqIn</link><description>2/아울러 오랜 시간 뒤에 발생하는 기억 노후화(Staleness) 현상을 제어하고 연산 리소스 비용을 가파르게 감축하여 시스템 스케일의 기반을 완성했습니다.
-
-과거에는 해외 출장이 끝난 후에도 현지 야식 업체를 계속 추천하는 시계열 고착 문제가 잦았으나, 이제는 시간이 흐름에 따라 여행이 끝났음을 인지하고 본가로 돌아온 사용자의 실제 거주지 정보를 기준으로 상황을 실시간 갱신하는데요.
-
-알고리즘 고도화를 거친 이번 Dreaming V3 아키텍처는 연산에 필요한 하드웨어 자원 소모를 기존 대비 5배(5x)나 대폭 절감하여 향후 무료 사용자들까지 확대 적용될 예정입니다.
-
-유료 사용자의 기본 기억 용량도 2배(2x)로 즉각 확대 제공되어, 장기 비즈니스 프로젝트도 대화의 끊김 없이 안정적으로 끌고 갈 수 있음을 강조하고 있습니다.</description><pubDate>Fri, 05 Jun 2026 05:41:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZMV6MBAqIn</guid></item><item><title>발표내용 :
-https://openai.com/index/chatgpt-memory-dreaming/</title><link>https://www.threads.net/@choi.openai/post/DZMV-GzAhyZ</link><description>발표내용 :
-https://openai.com/index/chatgpt-memory-dreaming/</description><pubDate>Fri, 05 Jun 2026 05:42:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZMV-GzAhyZ</guid></item></channel></rss>
+https://lmstudio.ai/locally</description><pubDate>Fri, 05 Jun 2026 07:20:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZMhKSeDSb9</guid></item></channel></rss>
