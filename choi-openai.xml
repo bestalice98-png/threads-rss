@@ -1,5 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 07 Jun 2026 03:56:20 +0000</lastBuildDate><item><title>이런 글도 한 번 읽어보세요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 07 Jun 2026 10:29:59 +0000</lastBuildDate><item><title>오픈AI가 ChatGPT를 '슈퍼앱'으로 전환하려고 합니다.
+
+FT 보도에 따르면, $850B 기업 오픈AI가 IPO를 앞두고 ChatGPT 출...</title><link>https://www.threads.net/@choi.openai/post/DZR9bD3DwBX</link><description>오픈AI가 ChatGPT를 '슈퍼앱'으로 전환하려고 합니다.
+
+FT 보도에 따르면, $850B 기업 오픈AI가 IPO를 앞두고 ChatGPT 출시 이후 최대 규모의 제품 개편을 준비 중입니다.
+
+Codex, AI 에이전트, 이미지 생성, 외부 파트너 앱을 하나의 인터페이스에 통합하고, 궁극적으로는 프롬프트 자체를 없애 모델이 사용자의 의도를 자동으로 파악하게 하겠다는 구상인데요.
+
+수 주 내에 웹사이트와 모바일 앱에 변경이 적용될 예정이며, 주간 활성 사용자 9억 명을 고마진 제품으로 유도하는 구조입니다.</description><pubDate>Sun, 07 Jun 2026 10:03:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZR9bD3DwBX</guid></item><item><title>2/ 과거 Codex 분석에서 이 흐름을 짚은 적이 있습니다.
+
+"만약 AI가 개별 앱 내부에 탑재되는 기능 수준에 머문다면, 결국 거대 기술 ...</title><link>https://www.threads.net/@choi.openai/post/DZR9bmxD2BH</link><description>2/ 과거 Codex 분석에서 이 흐름을 짚은 적이 있습니다.
+
+"만약 AI가 개별 앱 내부에 탑재되는 기능 수준에 머문다면, 결국 거대 기술 기업들이 장악한 기존 플랫폼의 종속적인 부품으로 전락할 수밖에 없다. AI가 독립적인 주체로 도약하기 위해서는 필연적으로 그 자신이 플랫폼 자체로 진화해야만 한다."
+
+슈퍼앱은 이 전환의 공식 선언입니다.
+
+모델을 납품하는 공급사가 아니라, 사용자 접점 전체를 장악하는 플랫폼 기업으로의 전환이며, "다음 시대의 진짜 권력은 지능의 크기가 아니라 사용자 접점의 지배력"이라는 판단이 IPO 서류에 적힐 숫자로 번역된 셈입니다.</description><pubDate>Sun, 07 Jun 2026 10:03:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZR9bmxD2BH</guid></item><item><title>3/ 마이크로소프트도 동시에 움직이고 있습니다.
+Copilot을 'Scout'이라는 상시 에이전트를 탑재한 슈퍼앱으로 개편한다는 보도가 나왔고,...</title><link>https://www.threads.net/@choi.openai/post/DZR9cIkj6AD</link><description>3/ 마이크로소프트도 동시에 움직이고 있습니다.
+Copilot을 'Scout'이라는 상시 에이전트를 탑재한 슈퍼앱으로 개편한다는 보도가 나왔고, 공개된 UI는 OpenClaw와 매우 유사합니다.
+
+파트너십이 '비독점'으로 개편된 직후 양사가 각자의 슈퍼앱을 준비하고 있다는 것은, 이 관계가 완전한 경쟁 구도로 넘어갔음을 시사합니다.
+
+다만, 모델 리더십만으로 $1T IPO가 정당화된다면, Codex와 서드파티 앱을 ChatGPT에 볼트온할 필요가 없어보이기도 합니다.
+
+슈퍼앱 피벗 자체가 모델이 해자가 아니라는 것을 가장 명시적으로 인정한 것으로 보입니다.</description><pubDate>Sun, 07 Jun 2026 10:03:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZR9cIkj6AD</guid></item><item><title>4/ 또한, 추가로 나온 "프롬프트를 없앤다"는 부분은 결국 검색창이 없는 검색 엔진, 메뉴가 없는 앱. 사용자가 의도를 표현하지 않아도 AI가...</title><link>https://www.threads.net/@choi.openai/post/DZR9cucD_qm</link><description>4/ 또한, 추가로 나온 "프롬프트를 없앤다"는 부분은 결국 검색창이 없는 검색 엔진, 메뉴가 없는 앱. 사용자가 의도를 표현하지 않아도 AI가 맥락에서 추론하겠다는 것인데요.
+
+이것이 실현되면 사용자 경험이 근본적으로 바뀌지만, 동시에 틀릴 때 설명조차 없다는 리스크도 존재합니다.
+
+위챗이 슈퍼앱으로 성공한 건 기존 앱 생태계가 부재한 중국 시장이었기 때문이고, 서양의 슈퍼앱 시도는 모두 실패했습니다.
+오픈AI가 이 공식을 깰 수 있는 건, 기존 앱 위에 얹히는 것이 아니라 에이전트가 앱 자체를 대체하는 구조를 만들 때뿐입니다.
+
+결국 이것은 슈퍼앱이 아니라 AI 시대의 OS 선점 경쟁이며, IPO는 그 인프라 전환을 버틸 자금 조달 이벤트입니다.</description><pubDate>Sun, 07 Jun 2026 10:03:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZR9cucD_qm</guid></item><item><title>오우.. Claude Mythos 관련 새로운 흔적이 또 나왔습니다.
+
+Claude Mythos 5로 보이는 새로운 모델 슬러그가 포착됐습니다....</title><link>https://www.threads.net/@choi.openai/post/DZRpGyRDzax</link><description>오우.. Claude Mythos 관련 새로운 흔적이 또 나왔습니다.
+
+Claude Mythos 5로 보이는 새로운 모델 슬러그가 포착됐습니다.
+
+현재 앤트로픽 모델은 Haiku, Sonnet, Opus 세 계열로 나뉘는데, Mythos는 이들과 별개의 독립 모델 라인업으로 출시될 것으로 보입니다.
+
+다만, 가격이 Opus의 최소 3배에서 최대 10배까지로 추측되는 만큼 일반 공개로 풀릴지는 지켜봐야할 것 같습니다.</description><pubDate>Sun, 07 Jun 2026 07:05:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZRpGyRDzax</guid></item><item><title>이런 글도 한 번 읽어보세요.
 
 AI 업계에서는 이미 큰 전환이 시작되었습니다.
 그런데 대부분 사람들은
@@ -24,16 +63,4 @@ SK하이닉스, 현대차, LG, 네이버, T1이 연결된 이유와 사례 10가
 
 그는 대중의 소란스러운 과장보다 기술 이면에 숨겨진 전문가들의 침묵이 진정으로 주목해야 할 부분이라고 분석합니다.</description><pubDate>Sun, 07 Jun 2026 00:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZQ4eADCONP</guid></item><item><title>풀영상 :
 https://www.youtube.com/watch?v=RwlgFC6S-OE</title><link>https://www.threads.net/@choi.openai/post/DZQ4gCniMOQ</link><description>풀영상 :
-https://www.youtube.com/watch?v=RwlgFC6S-OE</description><pubDate>Sun, 07 Jun 2026 00:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZQ4gCniMOQ</guid></item><item><title>앤트로픽의 클로드 코드 개발자 보리스 체르니(Boris Cherny)는 최근 자신의 개발 도구(IDE)를 모두 삭제했다며, 이제 더 이상 직접 ...</title><link>https://www.threads.net/@choi.openai/post/DZQuKdsCPzJ</link><description>앤트로픽의 클로드 코드 개발자 보리스 체르니(Boris Cherny)는 최근 자신의 개발 도구(IDE)를 모두 삭제했다며, 이제 더 이상 직접 코딩을 하거나 클로드에 프롬프트를 입력하지 않는다고 밝혔습니다.
-
-대신 “이제 제 업무는 루프(Loops)를 작성하는 것”이라고 설명했습니다. 개발자가 직접 AI를 작동시키는 것이 아니라, 스스로 돌아가는 루프 시스템이 클로드를 제어하고 무엇을 해야 할지 판단하여 코드를 작성하는 단계에 이르렀기 때문입니다.
-
-보리스 체르니는 “이것이 우리가 앞으로 몇 달 안에 보게 될 다음 전환점”이라며 테크 생태계의 급격한 패러다임 변화를 예고했습니다.</description><pubDate>Sat, 06 Jun 2026 22:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZQuKdsCPzJ</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=RkQQ7WEor7w</title><link>https://www.threads.net/@choi.openai/post/DZQuMG9CLev</link><description>풀영상 :
-https://www.youtube.com/watch?v=RkQQ7WEor7w</description><pubDate>Sat, 06 Jun 2026 22:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZQuMG9CLev</guid></item><item><title>Liquid AI가 이미지에서 원하는 정보만 JSON 형태로 추출하는 비전-언어 모델 LFM2.5-VL-450M-Extract와 LFM2.5-V...</title><link>https://www.threads.net/@choi.openai/post/DZQjxRQDF5F</link><description>Liquid AI가 이미지에서 원하는 정보만 JSON 형태로 추출하는 비전-언어 모델 LFM2.5-VL-450M-Extract와 LFM2.5-VL-1.6B-Extract를 공개했습니다.
-
-기존에는 이미지 분석 결과를 다시 정리하는 과정이 필요했지만, 해당 모델은 "대시보드 시계 시간", "장면 속 사람 수", "청구서 총액" 같은 항목을 지정하면 바로 구조화된 JSON을 반환합니다.
-
-문서 스캔, 차량 실내 인식, 산업 검사 등에 활용할 수 있으며 허깅페이스에서 이용이 가능합니다.</description><pubDate>Sat, 06 Jun 2026 20:59:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZQjxRQDF5F</guid></item><item><title>허깅페이스 :
-https://huggingface.co/LiquidAI/LFM2.5-VL-450M-Extract</title><link>https://www.threads.net/@choi.openai/post/DZQjyDADL0a</link><description>허깅페이스 :
-https://huggingface.co/LiquidAI/LFM2.5-VL-450M-Extract</description><pubDate>Sat, 06 Jun 2026 21:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZQjyDADL0a</guid></item></channel></rss>
+https://www.youtube.com/watch?v=RwlgFC6S-OE</description><pubDate>Sun, 07 Jun 2026 00:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZQ4gCniMOQ</guid></item></channel></rss>
