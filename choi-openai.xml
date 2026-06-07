@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 07 Jun 2026 10:29:59 +0000</lastBuildDate><item><title>오픈AI가 ChatGPT를 '슈퍼앱'으로 전환하려고 합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 07 Jun 2026 16:05:24 +0000</lastBuildDate><item><title>애플의 WWDC가 코앞으로 다가왔습니다.
+
+6월 8일 월요일 키노트(한국시간 6월 9일 새벽 2시)가 시작될 예정이며,  팀 쿡의 마지막 WWD...</title><link>https://www.threads.net/@choi.openai/post/DZSQbqIj5P-</link><description>애플의 WWDC가 코앞으로 다가왔습니다.
+
+6월 8일 월요일 키노트(한국시간 6월 9일 새벽 2시)가 시작될 예정이며,  팀 쿡의 마지막 WWDC이자, 애플이 AI 레이스에서 1년 넘게 뒤처졌다는 비판에 답해야 하는 자리입니다.
+
+"All Systems Glow"라는 티저 문구가 공개된 가운데, 이번에 예상되는 발표들을 정리하고 관전 포인트를 짚어봤습니다.</description><pubDate>Sun, 07 Jun 2026 12:49:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZSQbqIj5P-</guid></item><item><title>1/ 가장 큰 관전 포인트는 Siri의 전면 개편입니다.
+
+알려진 바에 따르면, 애플은 구글과 협력해 Gemini 기반의 1.2T 파라미터 모델...</title><link>https://www.threads.net/@choi.openai/post/DZSQcW2j7Ec</link><description>1/ 가장 큰 관전 포인트는 Siri의 전면 개편입니다.
+
+알려진 바에 따르면, 애플은 구글과 협력해 Gemini 기반의 1.2T 파라미터 모델을 애플 전용으로 개발했고, 복잡한 쿼리는 애플 자체 서버에서 이 대형 모델이 처리하며, 간단한 작업은 디바이스 내부의 소형 모델(약 3B)이 담당하는 하이브리드 구조로 될 것으로 보입니다.
+
+Gurman에 따르면, Siri가 아예 별도 앱으로 분리되어 iMessage 스타일의 채팅 인터페이스를 갖추고 대화 이력 관리까지 지원합니다.
+이메일·사진·파일에 접근하는 개인 컨텍스트 인식, 화면에 보이는 콘텐츠를 읽고 행동하는 온스크린 인식, 앱 간 다단계 자동화("이 이메일 요약해서 캘린더에 할 일 추가해")까지 예고되었는데요.
+
+여기에 ChatGPT, Claude, Gemini를 서드파티 모델로 선택적으로 사용할 수 있는 구조도 함께 들어갑니다.
+
+다만 내부적으로 '베타'로 분류되어 있고 대기자 명단으로 순차 배포될 가능성이 있습니다.</description><pubDate>Sun, 07 Jun 2026 12:49:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZSQcW2j7Ec</guid></item><item><title>3/ iOS 27의 AI 기능 범위도 상당합니다.
+
+카메라가 영양성분표나 연락처 정보를 인식하는 비주얼 인텔리전스 고도화, Extend·Refr...</title><link>https://www.threads.net/@choi.openai/post/DZSQdY9D1Zg</link><description>3/ iOS 27의 AI 기능 범위도 상당합니다.
+
+카메라가 영양성분표나 연락처 정보를 인식하는 비주얼 인텔리전스 고도화, Extend·Reframe·Enhance와 개선된 오브젝트 제거를 포함한 AI 사진 편집, Safari가 탭을 Work·Travel·Shopping 같은 카테고리로 자동 분류하는 기능, 시스템 전체에 걸친 AI 리라이팅과 문법 검사기, 텍스트 프롬프트로 생성하는 AI 배경화면, 더 사실적인 이미지를 만드는 Image Playground 재설계, 사진과 자주 쓰는 표현 기반 Genmoji 자동 제안, 원하는 것을 말로 설명하면 만들어지는 자연어 Shortcuts, 그리고 카메라 기반 운동 분석과 혈당 추적을 포함한 Health AI까지 예상됩니다.
+
+2024년 약속 후 실제 출시된 것이 Writing Tools, 알림 요약, 기본 이미지 생성 정도였던 것에 비하면 목록이 훨씬 방대하지만 문제는 이것이 출시일에 다 작동할 수 있을 것인지가 중요해 보입니다.</description><pubDate>Sun, 07 Jun 2026 12:49:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZSQdY9D1Zg</guid></item><item><title>4/ 이 아키텍처 뒤에는 애플이 처음에는 모든 클라우드 AI를 자체 Private Cloud Compute(PCC)로 운영하려 했지만, 조 단위...</title><link>https://www.threads.net/@choi.openai/post/DZSQeV-D2mT</link><description>4/ 이 아키텍처 뒤에는 애플이 처음에는 모든 클라우드 AI를 자체 Private Cloud Compute(PCC)로 운영하려 했지만, 조 단위 파라미터 모델의 규모 앞에서 외부 인프라가 불가피했다는 배경이 있습니다.
+현재 구글 클라우드와 NVIDIA Blackwell B200 GPU를 활용하되, 구글이 애플 트래픽으로 모델을 훈련하는 것은 계약상 금지되어 있고, 데이터는 임시 처리 후 삭제됩니다.
+
+다만, 애플 자체 AI 서버 칩 'Baltra'가 2026년 하반기 양산에 들어가고, 2027년에는 자체 AI 데이터센터를 운영할 계획입니다. 구글 의존도를 낮추면서 자체 인프라를 깔겠다는 것입니다.
+
+개발자 관점에서는 CoreAI(Core ML 후속)와 FoundationModels 프레임워크가 핵심인데, 개발자가 API 키 없이 온디바이스 LLM에 직접 접근할 수 있고, MCP를 지원해 다양한 AI 서비스를 브리징할 것으로 보입니다.</description><pubDate>Sun, 07 Jun 2026 12:49:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZSQeV-D2mT</guid></item><item><title>오픈AI가 ChatGPT를 '슈퍼앱'으로 전환하려고 합니다.
 
 FT 보도에 따르면, $850B 기업 오픈AI가 IPO를 앞두고 ChatGPT 출...</title><link>https://www.threads.net/@choi.openai/post/DZR9bD3DwBX</link><description>오픈AI가 ChatGPT를 '슈퍼앱'으로 전환하려고 합니다.
 
@@ -55,12 +83,4 @@ AI 업계에서는 이미 큰 전환이 시작되었습니다.
 SK하이닉스, 현대차, LG, 네이버, T1이 연결된...</title><link>https://www.threads.net/@choi.openai/post/DZRGbHPj0BW</link><description>1/ 엔비디아가 젠슨황이 한국에 방문하여 최고 등급 AI 연구거점을 세운다고 발표했습니다.
 SK하이닉스, 현대차, LG, 네이버, T1이 연결된 이유와 사례 10가지를 다룹니다.</description><pubDate>Sun, 07 Jun 2026 02:02:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZRGbHPj0BW</guid></item><item><title>2/ 오픈AI가 Codex에 Sites, Role-Specific Plugins, Annotations를 추가했습니다.
 자연어로 설명하면 대화형...</title><link>https://www.threads.net/@choi.openai/post/DZRGbhvjxsH</link><description>2/ 오픈AI가 Codex에 Sites, Role-Specific Plugins, Annotations를 추가했습니다.
-자연어로 설명하면 대화형 웹앱이나 대시보드를 바로 만들어 URL로 배포할 수 있습니다.</description><pubDate>Sun, 07 Jun 2026 02:02:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZRGbhvjxsH</guid></item><item><title>3/ 구글의 Try-on이 국내에 정식 출시했습니다.</title><link>https://www.threads.net/@choi.openai/post/DZRGb-SD2j2</link><description>3/ 구글의 Try-on이 국내에 정식 출시했습니다.</description><pubDate>Sun, 07 Jun 2026 02:02:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZRGb-SD2j2</guid></item><item><title>구글의 전 비즈니스 최고책임자(CBO)이자 작가인 모 가댓(Mo Gawdat)은 대중이 가짜 영상이나 단순한 에피소드에 매몰되어 AI의 위험을 ...</title><link>https://www.threads.net/@choi.openai/post/DZQ4eADCONP</link><description>구글의 전 비즈니스 최고책임자(CBO)이자 작가인 모 가댓(Mo Gawdat)은 대중이 가짜 영상이나 단순한 에피소드에 매몰되어 AI의 위험을 과장하거나 오해하는 반면, 진짜 전문가들이 실험실 안에서 목격하고 있는 것은 “믿을 수 없는 수준의 지능(unbelievable intelligence)”이라고 말합니다.
-
-현재 기술 개발은 AI가 스스로의 코드를 분석하고 실험하며 최적의 코드를 재배포하는, 즉 스스로 발전하는 시스템의 단계에 진입했습니다.
-
-인간이 매일 새로운 코드를 시도하는 것과 달리, AI는 매 마이크로초(100만분의 1초)마다 새로운 코드를 시험하며 지능이 또 다른 지능을 촉발하는 폭발적 진화를 거듭하고 있습니다.
-
-그는 대중의 소란스러운 과장보다 기술 이면에 숨겨진 전문가들의 침묵이 진정으로 주목해야 할 부분이라고 분석합니다.</description><pubDate>Sun, 07 Jun 2026 00:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZQ4eADCONP</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=RwlgFC6S-OE</title><link>https://www.threads.net/@choi.openai/post/DZQ4gCniMOQ</link><description>풀영상 :
-https://www.youtube.com/watch?v=RwlgFC6S-OE</description><pubDate>Sun, 07 Jun 2026 00:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZQ4gCniMOQ</guid></item></channel></rss>
+자연어로 설명하면 대화형 웹앱이나 대시보드를 바로 만들어 URL로 배포할 수 있습니다.</description><pubDate>Sun, 07 Jun 2026 02:02:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZRGbhvjxsH</guid></item><item><title>3/ 구글의 Try-on이 국내에 정식 출시했습니다.</title><link>https://www.threads.net/@choi.openai/post/DZRGb-SD2j2</link><description>3/ 구글의 Try-on이 국내에 정식 출시했습니다.</description><pubDate>Sun, 07 Jun 2026 02:02:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZRGb-SD2j2</guid></item></channel></rss>
