@@ -1,5 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 07 Jun 2026 16:05:24 +0000</lastBuildDate><item><title>애플의 WWDC가 코앞으로 다가왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 08 Jun 2026 04:00:36 +0000</lastBuildDate><item><title>오늘 젠슨 황이 한국에서 AI 인프라 협력의 청사진을 쏟아냈습니다.
+
+발표의 핵심 키워드는 'AI 팩토리'였습니다 👇🏻</title><link>https://www.threads.net/@choi.openai/post/DZTx1eyjyaF</link><description>오늘 젠슨 황이 한국에서 AI 인프라 협력의 청사진을 쏟아냈습니다.
+
+발표의 핵심 키워드는 'AI 팩토리'였습니다 👇🏻</description><pubDate>Mon, 08 Jun 2026 03:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTx1eyjyaF</guid></item><item><title>1/ SK서린빌딩에서 시작해 LG 트윈타워, 서울대, 현대차 양재 사옥, 네이버 1784, 삼성전자까지. 젠슨 황은 하루 만에 한국 산업계의 핵...</title><link>https://www.threads.net/@choi.openai/post/DZTx2FcD3LB</link><description>1/ SK서린빌딩에서 시작해 LG 트윈타워, 서울대, 현대차 양재 사옥, 네이버 1784, 삼성전자까지. 젠슨 황은 하루 만에 한국 산업계의 핵심 축을 모두 순회했습니다.
+
+SK텔레콤과 DSX 기반 풀스택 AI 클라우드, SK하이닉스와 차세대 AI 메모리 공동개발 장기 협력, LG와 피지컬 AI·로보틱스, 현대차와 Drive AGX Thor 기반 자율주행, 네이버와 GW급 AI 팩토리, 삼성전자와 HBM4·AI 플랫폼, 그리고 서울 R&amp;D 센터 설립 확인까지.
+
+칩 설계부터 데이터센터 구축, 학습·추론 인프라, 모델 공급, 운영까지 밸류체인 전체를 엔비디아 DSX 플랫폼 위에 통합하는 구조입니다.</description><pubDate>Mon, 08 Jun 2026 03:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTx2FcD3LB</guid></item><item><title>2/ 이 움직임의 배경에는 AI 인프라 투자의 규모가 완전히 다른 차원으로 넘어간 현실이 있습니다.
+
+올해 아마존·알파벳·메타·마이크로소프트·오...</title><link>https://www.threads.net/@choi.openai/post/DZTx3B_j5tz</link><description>2/ 이 움직임의 배경에는 AI 인프라 투자의 규모가 완전히 다른 차원으로 넘어간 현실이 있습니다.
+
+올해 아마존·알파벳·메타·마이크로소프트·오라클 등 주요 하이퍼스케일러의 CapEx 합산은 6,600억~7,000억 달러에 달할 전망이고, 오픈AI의 Stargate 프로젝트만 4,000억 달러 이상을 미국 내 7개 사이트에 투입하며 총 9GW 이상의 용량을 계획하고 있습니다.
+
+GPU 자체가 돈이 되는 시대가 열렸습니다. SpaceX는 xAI 인수 후 Colossus 슈퍼클러스터를 확보해 구글에 월 9.2억 달러(GPU 11만 개), 앤트로픽에 월 12.5억 달러 규모로 GPU를 임대하고 있고, 이 수익이 6월 12일 예정된 1.75조 달러 IPO의 핵심 내러티브가 되었습니다.
+
+앤트로픽은 구글 클라우드에 5년간 2,000억 달러 규모의 컴퓨팅을 약정했고, 구글은 400억 달러를 투자하며 5GW의 컴퓨팅 용량을 제공합니다.</description><pubDate>Mon, 08 Jun 2026 03:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTx3B_j5tz</guid></item><item><title>3/ GW(기가와트)가 어느 정도 규모인지부터 짚을 필요가 있습니다.
+
+1GW는 원자력 발전소 1기에 해당하는 전력이고, Blackwell 세대...</title><link>https://www.threads.net/@choi.openai/post/DZTx3iaj3Yi</link><description>3/ GW(기가와트)가 어느 정도 규모인지부터 짚을 필요가 있습니다.
+
+1GW는 원자력 발전소 1기에 해당하는 전력이고, Blackwell 세대 GPU 기준으로 약 45만 개 이상을 가동할 수 있는 용량입니다.
+연간 전력 소비는 약 8.76TWh에 달합니다. 네이버의 각 세종 데이터센터 규모의 약 4배입니다.
+
+현재 프론티어 모델의 학습은 10^25~10^26 FLOP 이상의 연산을 요구하고, GPT-5급 모델은 약 5×10^25 FLOP이 투입된 것으로 추정됩니다.
+
+추론 워크로드가 전체 AI 컴퓨팅의 80~90%를 차지하면서 연속적으로 전력을 소비하는 구조가 되었고, 골드만삭스는 2030년까지 AI 토큰 사용량이 24배 증가할 것으로 전망하고 있습니다.
+
+이전에 분석한 것처럼, 에이전트가 질문 한 번에 50배 이상의 토큰과 메모리 연산을 소비하는 구조가 이 수요를 더 가속합니다.</description><pubDate>Mon, 08 Jun 2026 03:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTx3iaj3Yi</guid></item><item><title>구글의 공동 창업자인 세르게이 브린(Sergey Brin)은 “트랜스포머 기술이 범인공지능(AGI)을 달성하는 데 충분하다고 보느냐”는 질문에 ...</title><link>https://www.threads.net/@choi.openai/post/DZTshIKl3pB</link><description>구글의 공동 창업자인 세르게이 브린(Sergey Brin)은 “트랜스포머 기술이 범인공지능(AGI)을 달성하는 데 충분하다고 보느냐”는 질문에 대해, 현재 트랜스포머 모델들이 텍스트를 넘어 이미지와 비디오 처리까지 아우르며 초기 설계된 성능과 역량을 이미 훨씬 뛰어넘었다고 높게 평가했습니다.
+
+그 과정에서 MoE나 세부적인 하드웨어 연산의 최적화 등 수많은 기술적 진화가 축적되면서 초기의 트랜스포머 논문 단계와는 완전히 다른 고성능 인프라로 탈바꿈했다는 분석입니다.
+
+브린은 만약 누군가 지금 AGI에 가장 근접한 기술이 무엇이냐고 묻는다면 단연 “그렇다"라고 답할 것이라며 기술의 가치를 인정했습니다.
+
+그러나 성능의 폭발적인 발전 속에서도 “과연 획기적인 새로운 아키텍처 없이 트랜스포머의 변형만으로 궁극적인 AGI에 도달할 수 있을 것인가”에 대해서는 여전히 기술 생태계가 풀어야 할 흥미로운 과제이자 미지의 영역으로 남아있다고 덧붙였습니다.</description><pubDate>Mon, 08 Jun 2026 02:15:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTshIKl3pB</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=gsv5o8ANdDo</title><link>https://www.threads.net/@choi.openai/post/DZTssJGD32p</link><description>풀영상 :
+https://www.youtube.com/watch?v=gsv5o8ANdDo</description><pubDate>Mon, 08 Jun 2026 02:15:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTssJGD32p</guid></item><item><title>애플의 WWDC가 코앞으로 다가왔습니다.
 
 6월 8일 월요일 키노트(한국시간 6월 9일 새벽 2시)가 시작될 예정이며,  팀 쿡의 마지막 WWD...</title><link>https://www.threads.net/@choi.openai/post/DZSQbqIj5P-</link><description>애플의 WWDC가 코앞으로 다가왔습니다.
 
@@ -58,29 +93,4 @@ Copilot을 'Scout'이라는 상시 에이전트를 탑재한 슈퍼앱으로 개
 위챗이 슈퍼앱으로 성공한 건 기존 앱 생태계가 부재한 중국 시장이었기 때문이고, 서양의 슈퍼앱 시도는 모두 실패했습니다.
 오픈AI가 이 공식을 깰 수 있는 건, 기존 앱 위에 얹히는 것이 아니라 에이전트가 앱 자체를 대체하는 구조를 만들 때뿐입니다.
 
-결국 이것은 슈퍼앱이 아니라 AI 시대의 OS 선점 경쟁이며, IPO는 그 인프라 전환을 버틸 자금 조달 이벤트입니다.</description><pubDate>Sun, 07 Jun 2026 10:03:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZR9cucD_qm</guid></item><item><title>오우.. Claude Mythos 관련 새로운 흔적이 또 나왔습니다.
-
-Claude Mythos 5로 보이는 새로운 모델 슬러그가 포착됐습니다....</title><link>https://www.threads.net/@choi.openai/post/DZRpGyRDzax</link><description>오우.. Claude Mythos 관련 새로운 흔적이 또 나왔습니다.
-
-Claude Mythos 5로 보이는 새로운 모델 슬러그가 포착됐습니다.
-
-현재 앤트로픽 모델은 Haiku, Sonnet, Opus 세 계열로 나뉘는데, Mythos는 이들과 별개의 독립 모델 라인업으로 출시될 것으로 보입니다.
-
-다만, 가격이 Opus의 최소 3배에서 최대 10배까지로 추측되는 만큼 일반 공개로 풀릴지는 지켜봐야할 것 같습니다.</description><pubDate>Sun, 07 Jun 2026 07:05:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZRpGyRDzax</guid></item><item><title>이런 글도 한 번 읽어보세요.
-
-AI 업계에서는 이미 큰 전환이 시작되었습니다.
-그런데 대부분 사람들은
-아직 GPT 성능 비교에만 관심이 있습니...</title><link>https://www.threads.net/@choi.openai/post/DZQ9YZ0jsDi</link><description>이런 글도 한 번 읽어보세요.
-
-AI 업계에서는 이미 큰 전환이 시작되었습니다.
-그런데 대부분 사람들은
-아직 GPT 성능 비교에만 관심이 있습니다.
-정작 기업들은 다른 곳을 보고 있는데요.
-이번 주에 나온 발표들을 모아보면
-그 방향이 꽤 선명하게 보입니다.
-
-그 내용이 무엇이냐면,</description><pubDate>Sun, 07 Jun 2026 02:02:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZQ9YZ0jsDi</guid></item><item><title>1/ 엔비디아가 젠슨황이 한국에 방문하여 최고 등급 AI 연구거점을 세운다고 발표했습니다.
-SK하이닉스, 현대차, LG, 네이버, T1이 연결된...</title><link>https://www.threads.net/@choi.openai/post/DZRGbHPj0BW</link><description>1/ 엔비디아가 젠슨황이 한국에 방문하여 최고 등급 AI 연구거점을 세운다고 발표했습니다.
-SK하이닉스, 현대차, LG, 네이버, T1이 연결된 이유와 사례 10가지를 다룹니다.</description><pubDate>Sun, 07 Jun 2026 02:02:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZRGbHPj0BW</guid></item><item><title>2/ 오픈AI가 Codex에 Sites, Role-Specific Plugins, Annotations를 추가했습니다.
-자연어로 설명하면 대화형...</title><link>https://www.threads.net/@choi.openai/post/DZRGbhvjxsH</link><description>2/ 오픈AI가 Codex에 Sites, Role-Specific Plugins, Annotations를 추가했습니다.
-자연어로 설명하면 대화형 웹앱이나 대시보드를 바로 만들어 URL로 배포할 수 있습니다.</description><pubDate>Sun, 07 Jun 2026 02:02:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZRGbhvjxsH</guid></item><item><title>3/ 구글의 Try-on이 국내에 정식 출시했습니다.</title><link>https://www.threads.net/@choi.openai/post/DZRGb-SD2j2</link><description>3/ 구글의 Try-on이 국내에 정식 출시했습니다.</description><pubDate>Sun, 07 Jun 2026 02:02:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZRGb-SD2j2</guid></item></channel></rss>
+결국 이것은 슈퍼앱이 아니라 AI 시대의 OS 선점 경쟁이며, IPO는 그 인프라 전환을 버틸 자금 조달 이벤트입니다.</description><pubDate>Sun, 07 Jun 2026 10:03:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZR9cucD_qm</guid></item></channel></rss>
