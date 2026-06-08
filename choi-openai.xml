@@ -1,5 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 08 Jun 2026 04:00:36 +0000</lastBuildDate><item><title>오늘 젠슨 황이 한국에서 AI 인프라 협력의 청사진을 쏟아냈습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 08 Jun 2026 12:28:04 +0000</lastBuildDate><item><title>데미스 하사비스 구글 딥마인드 CEO는 런던에서 열린 노벨 프라이즈 다이얼로그에서 AGI의 도래가 머지않았다고 경고했습니다.
+
+그는 “AGI가 ...</title><link>https://www.threads.net/@choi.openai/post/DZUotiigUku</link><description>데미스 하사비스 구글 딥마인드 CEO는 런던에서 열린 노벨 프라이즈 다이얼로그에서 AGI의 도래가 머지않았다고 경고했습니다.
+
+그는 “AGI가 도착하기까지 우리에게 남은 시간이 많지 않으며, 불과 몇 년밖에 남지 않았다”고 말했습니다. 이어 기술 개발자뿐만 아니라 경제학자, 사회학자 등 사회 전반이 이를 더 진지하게 받아들여야 한다고 강조했습니다.
+
+하사비스는 2020년에 완성된 알파폴드(AlphaFold)를 언급하며, 현재의 빠른 발전 속도에 비추어 보면 이는 AI의 ‘고대 시대’ 유물과 같다고 평가했습니다.
+
+또한 이세돌 구단과의 매치 10주년을 맞이한 알파고(AlphaGo)가 현대 AI 시대의 시작을 알린 신호탄이었다면, 이제는 현실 세계의 경제와 과학적 패러다임을 통째로 바꿀 거대한 지능의 폭발을 준비해야 할 때라고 분석했습니다.
+
+“이러한 범용 시스템들은 이제 정말 강력해지고 있으며, 우리는 이를 매우 진지하게 받아들여야 합니다.”</description><pubDate>Mon, 08 Jun 2026 11:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUotiigUku</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=N8LEewvzmUA</title><link>https://www.threads.net/@choi.openai/post/DZUoupuAeBP</link><description>풀영상 :
+https://www.youtube.com/watch?v=N8LEewvzmUA</description><pubDate>Mon, 08 Jun 2026 11:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUoupuAeBP</guid></item><item><title>SK하이닉스 끝났다..
+
+한 개발자가 구글의 TurboQuant에 영감을 받아 만든 TurboVec이 해외 커뮤니티에서 주목을 받고 있습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DZUbuTXD7r1</link><description>SK하이닉스 끝났다..
+
+한 개발자가 구글의 TurboQuant에 영감을 받아 만든 TurboVec이 해외 커뮤니티에서 주목을 받고 있습니다.
+SK하이닉스 끝났다라는 말까지 나오는데요.
+
+하지만, 실상은 조금 다릅니다 :</description><pubDate>Mon, 08 Jun 2026 09:06:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUbuTXD7r1</guid></item><item><title>1/ TurboVec를 이해하려면 기반이 된 TurboQuant부터 봐야 합니다.
+
+TurboQuant는 구글 리서치가 2026년 3월 발표한 ...</title><link>https://www.threads.net/@choi.openai/post/DZUbuuGD6rh</link><description>1/ TurboVec를 이해하려면 기반이 된 TurboQuant부터 봐야 합니다.
+
+TurboQuant는 구글 리서치가 2026년 3월 발표한 벡터 양자화 알고리즘으로, 고차원 벡터를 2-4비트로 극단 압축하면서도 검색 정확도를 유지합니다.
+
+작동 방식은 두 단계입니다.
+먼저 입력 벡터에 무작위 회전 행렬을 곱해 정보를 좌표 전체에 균등 분산시킵니다.
+이렇게 하면 각 좌표가 독립적인 가우시안 분포를 따르게 되어 이후 스칼라 양자화를 독립 적용해도 최소 오차를 달성할 수 있습니다.
+두 번째 단계에서는 내적 추정 편향을 보정하기 위해 잔차를 랜덤 벡터에 투영하고 부호만 저장합니다. 이 구조가 메모리 효율과 검색 정확도를 동시에 잡는 이유입니다.
+
+논문에서 주목받은 또 다른 결과는 LLM의 KV 캐시 압축입니다.
+모델이 긴 컨텍스트를 처리할 때 이전 토큰 정보를 저장하는 KV 캐시를 3비트 수준으로 압축하면 H100에서 최대 6배 메모리를 절감하고 어텐션 연산 속도도 빨라진다는 것입니다.</description><pubDate>Mon, 08 Jun 2026 09:06:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUbuuGD6rh</guid></item><item><title>2/ TurboVec은 Ryan Codrai가 이 논문을 보고 직접 Rust로 구현한 서드파티 오픈소스 라이브러리입니다.
+
+1,000만 개 문서...</title><link>https://www.threads.net/@choi.openai/post/DZUbvMJj0fP</link><description>2/ TurboVec은 Ryan Codrai가 이 논문을 보고 직접 Rust로 구현한 서드파티 오픈소스 라이브러리입니다.
+
+1,000만 개 문서 기준 float32 임베딩 31GB를 4GB로 줄이면서 FAISS 대비 ARM 하드웨어에서 12~20% 빠른 검색 속도를 냈습니다.
+
+재학습이나 재인덱싱 없이 실시간으로 벡터를 추가할 수 있고, GPU 클러스터 없이 일반 맥북에서 오프라인으로 돌아갑니다. LangChain, LlamaIndex, Haystack과 바로 연동됩니다.
+
+이전까지 RAG 파이프라인을 로컬에서 돌리려면 서버급 메모리가 필요했는데, 일반 노트북에서도 수백만 문서를 검색할 수 있는 환경이 열린 것입니다.
+
+이전까지 로컬 RAG 파이프라인에 서버급 메모리가 필요했던 이유 중 하나가 벡터 인덱스 자체의 크기였는데, 그 병목이 해소된 것입니다.
+
+7일 만에 깃허브 스타 7,700개를 넘긴 이유가 여기 있습니다.</description><pubDate>Mon, 08 Jun 2026 09:06:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUbvMJj0fP</guid></item><item><title>3/ 이 소식이 반도체 투자 커뮤니티까지 번진 이유는 따로 있습니다.
+
+AI 메모리 수요가 줄어들 것이라는 예측이 잇따랐기 때문입니다.
+특히 T...</title><link>https://www.threads.net/@choi.openai/post/DZUbvsJjzMt</link><description>3/ 이 소식이 반도체 투자 커뮤니티까지 번진 이유는 따로 있습니다.
+
+AI 메모리 수요가 줄어들 것이라는 예측이 잇따랐기 때문입니다.
+특히 TurboQuant 논문이 다루는 KV 캐시 압축은 LLM이 추론할 때 직접 소비하는 GPU 메모리와 연결되는 레이어라 더 민감하게 받아들여졌습니다.
+
+다만 여기서 짚어야 할 구분이 있습니다.
+TurboVec이 줄이는 것은 RAG 파이프라인의 임베딩 데이터베이스 메모리입니다. 그리고 반도체 기업들이 집중하는 HBM은 GPU가 학습과 추론 연산을 처리할 때 쓰는 고대역폭 메모리로, 레이어 자체가 다릅니다.
+
+이전에 분석한 것처럼, AI 에이전트는 질문 하나에 50배 이상의 토큰과 메모리 연산을 소비하는 구조이고 골드만삭스는 2030년까지 AI 토큰 사용량이 24배 증가할 것으로 전망했습니다.
+
+칩 제조사들의 효율화로 추론 단가가 매년 60~70%씩 떨어져도 에이전트의 토큰 소비 속도가 더 빠르면 총 수요는 줄어들지 않는 구조입니다.</description><pubDate>Mon, 08 Jun 2026 09:06:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUbvsJjzMt</guid></item><item><title>젠슨 황이 치킨회동을 한 이유.
+
+삼겹살-소맥 회동, 잠실 야구장 시구, BBQ 치킨 113마리, 페이커와 PC방 방문, 네이버 치지직 라이브 ...</title><link>https://www.threads.net/@choi.openai/post/DZT9n52j248</link><description>젠슨 황이 치킨회동을 한 이유.
+
+삼겹살-소맥 회동, 잠실 야구장 시구, BBQ 치킨 113마리, 페이커와 PC방 방문, 네이버 치지직 라이브 출연, 전세계 최초 예능 출연.
+
+마냥 좋아하고 재미있게만 보면 안됩니다,</description><pubDate>Mon, 08 Jun 2026 04:43:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZT9n52j248</guid></item><item><title>1/ 'Jensanity'라는 신조어가 생길 정도로 젠슨 황은 한국에서 팝스타급 대접을 받고 있습니다.
+방문한 식당과 동선이 커뮤니티에서 실시간...</title><link>https://www.threads.net/@choi.openai/post/DZT9ob9j8j6</link><description>1/ 'Jensanity'라는 신조어가 생길 정도로 젠슨 황은 한국에서 팝스타급 대접을 받고 있습니다.
+방문한 식당과 동선이 커뮤니티에서 실시간으로 공유되고, 팬들이 '성지순례'를 떠나고, 아기를 안아달라는 요청에 흔쾌히 응하며 셀카를 찍습니다.
+
+이것은 한국만의 현상이 아닙니다. 대만에서는 야시장을 돌며 모든 사람의 음식값을 대겠다고 해서 '부의 특권' 논란이 일었고, 베이징에서는 탕좡을 입어 현지 문화에 대한 존중을 표현했습니다.
+일본에서는 GTC 기조연설에서 로컬 파트너십을 강조하며 분위기를 주도했고, 인도에서는 스타트업 생태계와의 접점을 넓혔습니다.
+
+국가마다 맞춤형으로 대중의 호감을 얻는 이 전략을 미디어는 '야시장 외교(Night Market Diplomacy)'라고 부릅니다.</description><pubDate>Mon, 08 Jun 2026 04:43:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZT9ob9j8j6</guid></item><item><title>2/ 이 전략이 작동하는 배경에는 엔비디아 주식의 개인투자자 구조가 있습니다.
+
+한국 서학개미들에게 엔비디아는 해외 주식 포트폴리오의 핵심 종목...</title><link>https://www.threads.net/@choi.openai/post/DZT9o6tj2Ka</link><description>2/ 이 전략이 작동하는 배경에는 엔비디아 주식의 개인투자자 구조가 있습니다.
+
+한국 서학개미들에게 엔비디아는 해외 주식 포트폴리오의 핵심 종목이고, 2026년 5월 기준 한국 투자자의 미국 주식 보유 평가액은 사상 최대치를 기록했습니다.
+
+레버리지 ETF를 통한 적극 투자도 활발합니다. 젠슨 황은 '남의 나라 기업 CEO'가 아니라 '내 주식의 CEO'로 인식되고 있고, 그가 방문한 곳을 따라가고 같은 음식을 먹는 것 자체가 투자 커뮤니티의 문화가 되었습니다.
+
+대만도 마찬가지입니다. TSMC라는 공급망의 심장부를 가진 대만에서 젠슨 황의 방문은 국가적 이벤트에 가깝고, 야시장에서의 한 컷이 대만 언론의 톱뉴스가 됩니다.
+
+기업 총수들과의 비즈니스 미팅을 호텔 회의실이 아닌 삼겹살집에서, 사업 발표를 야구장 시구와 치지직 라이브로 감싸는 것은 대중의 호감을 얻는 동시에 파트너 기업 총수들과의 관계를 개인적 유대로 전환하는 이중 전략입니다.</description><pubDate>Mon, 08 Jun 2026 04:43:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZT9o6tj2Ka</guid></item><item><title>3/ 그런데 이 화려한 외교 뒤에 실제로 한국에 남는 것은 무엇인지 짚어봐야 합니다.
+
+엔비디아가 설립하려는 NVAITC(AI Technolog...</title><link>https://www.threads.net/@choi.openai/post/DZT9pWrjxZW</link><description>3/ 그런데 이 화려한 외교 뒤에 실제로 한국에 남는 것은 무엇인지 짚어봐야 합니다.
+
+엔비디아가 설립하려는 NVAITC(AI Technology Center)는 본래 박사급 소수 인력이 현지 파트너와 프로젝트 기반으로 협력하는 구조입니다. 글로벌 사례만 보면 수십에서 수백 명 수준입니다.
+
+대만이 TSMC 파운드리 근접성 때문에 가오슝에 수천 명 규모의 R&amp;D 센터를 받았다면, HBM 공동 설계와 피지컬 AI 수요처(현대차·LG·두산)가 동시에 존재하는 한국도 단순 NVAITC 이상으로 확장될 가능성은 있습니다.
+
+문제는 그 가능성이 현실화되기까지의 시간입니다.
+젠슨 황은 "충분한 인력이 확보되면 부지도 마련할 것"이라고 했는데, 이는 아직 부지도 없다는 뜻이고, 출발은 소규모라는 의미입니다.
+대만처럼 수천 명 규모로 성장할지, 싱가포르처럼 허브 역할에 머물지는 향후 실제 협력의 깊이와 성과에 달려 있습니다.</description><pubDate>Mon, 08 Jun 2026 04:43:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZT9pWrjxZW</guid></item><item><title>오늘 젠슨 황이 한국에서 AI 인프라 협력의 청사진을 쏟아냈습니다.
 
 발표의 핵심 키워드는 'AI 팩토리'였습니다 👇🏻</title><link>https://www.threads.net/@choi.openai/post/DZTx1eyjyaF</link><description>오늘 젠슨 황이 한국에서 AI 인프라 협력의 청사진을 쏟아냈습니다.
 
@@ -26,71 +116,4 @@ GPU 자체가 돈이 되는 시대가 열렸습니다. SpaceX는 xAI 인수 후 
 
 추론 워크로드가 전체 AI 컴퓨팅의 80~90%를 차지하면서 연속적으로 전력을 소비하는 구조가 되었고, 골드만삭스는 2030년까지 AI 토큰 사용량이 24배 증가할 것으로 전망하고 있습니다.
 
-이전에 분석한 것처럼, 에이전트가 질문 한 번에 50배 이상의 토큰과 메모리 연산을 소비하는 구조가 이 수요를 더 가속합니다.</description><pubDate>Mon, 08 Jun 2026 03:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTx3iaj3Yi</guid></item><item><title>구글의 공동 창업자인 세르게이 브린(Sergey Brin)은 “트랜스포머 기술이 범인공지능(AGI)을 달성하는 데 충분하다고 보느냐”는 질문에 ...</title><link>https://www.threads.net/@choi.openai/post/DZTshIKl3pB</link><description>구글의 공동 창업자인 세르게이 브린(Sergey Brin)은 “트랜스포머 기술이 범인공지능(AGI)을 달성하는 데 충분하다고 보느냐”는 질문에 대해, 현재 트랜스포머 모델들이 텍스트를 넘어 이미지와 비디오 처리까지 아우르며 초기 설계된 성능과 역량을 이미 훨씬 뛰어넘었다고 높게 평가했습니다.
-
-그 과정에서 MoE나 세부적인 하드웨어 연산의 최적화 등 수많은 기술적 진화가 축적되면서 초기의 트랜스포머 논문 단계와는 완전히 다른 고성능 인프라로 탈바꿈했다는 분석입니다.
-
-브린은 만약 누군가 지금 AGI에 가장 근접한 기술이 무엇이냐고 묻는다면 단연 “그렇다"라고 답할 것이라며 기술의 가치를 인정했습니다.
-
-그러나 성능의 폭발적인 발전 속에서도 “과연 획기적인 새로운 아키텍처 없이 트랜스포머의 변형만으로 궁극적인 AGI에 도달할 수 있을 것인가”에 대해서는 여전히 기술 생태계가 풀어야 할 흥미로운 과제이자 미지의 영역으로 남아있다고 덧붙였습니다.</description><pubDate>Mon, 08 Jun 2026 02:15:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTshIKl3pB</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=gsv5o8ANdDo</title><link>https://www.threads.net/@choi.openai/post/DZTssJGD32p</link><description>풀영상 :
-https://www.youtube.com/watch?v=gsv5o8ANdDo</description><pubDate>Mon, 08 Jun 2026 02:15:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTssJGD32p</guid></item><item><title>애플의 WWDC가 코앞으로 다가왔습니다.
-
-6월 8일 월요일 키노트(한국시간 6월 9일 새벽 2시)가 시작될 예정이며,  팀 쿡의 마지막 WWD...</title><link>https://www.threads.net/@choi.openai/post/DZSQbqIj5P-</link><description>애플의 WWDC가 코앞으로 다가왔습니다.
-
-6월 8일 월요일 키노트(한국시간 6월 9일 새벽 2시)가 시작될 예정이며,  팀 쿡의 마지막 WWDC이자, 애플이 AI 레이스에서 1년 넘게 뒤처졌다는 비판에 답해야 하는 자리입니다.
-
-"All Systems Glow"라는 티저 문구가 공개된 가운데, 이번에 예상되는 발표들을 정리하고 관전 포인트를 짚어봤습니다.</description><pubDate>Sun, 07 Jun 2026 12:49:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZSQbqIj5P-</guid></item><item><title>1/ 가장 큰 관전 포인트는 Siri의 전면 개편입니다.
-
-알려진 바에 따르면, 애플은 구글과 협력해 Gemini 기반의 1.2T 파라미터 모델...</title><link>https://www.threads.net/@choi.openai/post/DZSQcW2j7Ec</link><description>1/ 가장 큰 관전 포인트는 Siri의 전면 개편입니다.
-
-알려진 바에 따르면, 애플은 구글과 협력해 Gemini 기반의 1.2T 파라미터 모델을 애플 전용으로 개발했고, 복잡한 쿼리는 애플 자체 서버에서 이 대형 모델이 처리하며, 간단한 작업은 디바이스 내부의 소형 모델(약 3B)이 담당하는 하이브리드 구조로 될 것으로 보입니다.
-
-Gurman에 따르면, Siri가 아예 별도 앱으로 분리되어 iMessage 스타일의 채팅 인터페이스를 갖추고 대화 이력 관리까지 지원합니다.
-이메일·사진·파일에 접근하는 개인 컨텍스트 인식, 화면에 보이는 콘텐츠를 읽고 행동하는 온스크린 인식, 앱 간 다단계 자동화("이 이메일 요약해서 캘린더에 할 일 추가해")까지 예고되었는데요.
-
-여기에 ChatGPT, Claude, Gemini를 서드파티 모델로 선택적으로 사용할 수 있는 구조도 함께 들어갑니다.
-
-다만 내부적으로 '베타'로 분류되어 있고 대기자 명단으로 순차 배포될 가능성이 있습니다.</description><pubDate>Sun, 07 Jun 2026 12:49:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZSQcW2j7Ec</guid></item><item><title>3/ iOS 27의 AI 기능 범위도 상당합니다.
-
-카메라가 영양성분표나 연락처 정보를 인식하는 비주얼 인텔리전스 고도화, Extend·Refr...</title><link>https://www.threads.net/@choi.openai/post/DZSQdY9D1Zg</link><description>3/ iOS 27의 AI 기능 범위도 상당합니다.
-
-카메라가 영양성분표나 연락처 정보를 인식하는 비주얼 인텔리전스 고도화, Extend·Reframe·Enhance와 개선된 오브젝트 제거를 포함한 AI 사진 편집, Safari가 탭을 Work·Travel·Shopping 같은 카테고리로 자동 분류하는 기능, 시스템 전체에 걸친 AI 리라이팅과 문법 검사기, 텍스트 프롬프트로 생성하는 AI 배경화면, 더 사실적인 이미지를 만드는 Image Playground 재설계, 사진과 자주 쓰는 표현 기반 Genmoji 자동 제안, 원하는 것을 말로 설명하면 만들어지는 자연어 Shortcuts, 그리고 카메라 기반 운동 분석과 혈당 추적을 포함한 Health AI까지 예상됩니다.
-
-2024년 약속 후 실제 출시된 것이 Writing Tools, 알림 요약, 기본 이미지 생성 정도였던 것에 비하면 목록이 훨씬 방대하지만 문제는 이것이 출시일에 다 작동할 수 있을 것인지가 중요해 보입니다.</description><pubDate>Sun, 07 Jun 2026 12:49:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZSQdY9D1Zg</guid></item><item><title>4/ 이 아키텍처 뒤에는 애플이 처음에는 모든 클라우드 AI를 자체 Private Cloud Compute(PCC)로 운영하려 했지만, 조 단위...</title><link>https://www.threads.net/@choi.openai/post/DZSQeV-D2mT</link><description>4/ 이 아키텍처 뒤에는 애플이 처음에는 모든 클라우드 AI를 자체 Private Cloud Compute(PCC)로 운영하려 했지만, 조 단위 파라미터 모델의 규모 앞에서 외부 인프라가 불가피했다는 배경이 있습니다.
-현재 구글 클라우드와 NVIDIA Blackwell B200 GPU를 활용하되, 구글이 애플 트래픽으로 모델을 훈련하는 것은 계약상 금지되어 있고, 데이터는 임시 처리 후 삭제됩니다.
-
-다만, 애플 자체 AI 서버 칩 'Baltra'가 2026년 하반기 양산에 들어가고, 2027년에는 자체 AI 데이터센터를 운영할 계획입니다. 구글 의존도를 낮추면서 자체 인프라를 깔겠다는 것입니다.
-
-개발자 관점에서는 CoreAI(Core ML 후속)와 FoundationModels 프레임워크가 핵심인데, 개발자가 API 키 없이 온디바이스 LLM에 직접 접근할 수 있고, MCP를 지원해 다양한 AI 서비스를 브리징할 것으로 보입니다.</description><pubDate>Sun, 07 Jun 2026 12:49:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZSQeV-D2mT</guid></item><item><title>오픈AI가 ChatGPT를 '슈퍼앱'으로 전환하려고 합니다.
-
-FT 보도에 따르면, $850B 기업 오픈AI가 IPO를 앞두고 ChatGPT 출...</title><link>https://www.threads.net/@choi.openai/post/DZR9bD3DwBX</link><description>오픈AI가 ChatGPT를 '슈퍼앱'으로 전환하려고 합니다.
-
-FT 보도에 따르면, $850B 기업 오픈AI가 IPO를 앞두고 ChatGPT 출시 이후 최대 규모의 제품 개편을 준비 중입니다.
-
-Codex, AI 에이전트, 이미지 생성, 외부 파트너 앱을 하나의 인터페이스에 통합하고, 궁극적으로는 프롬프트 자체를 없애 모델이 사용자의 의도를 자동으로 파악하게 하겠다는 구상인데요.
-
-수 주 내에 웹사이트와 모바일 앱에 변경이 적용될 예정이며, 주간 활성 사용자 9억 명을 고마진 제품으로 유도하는 구조입니다.</description><pubDate>Sun, 07 Jun 2026 10:03:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZR9bD3DwBX</guid></item><item><title>2/ 과거 Codex 분석에서 이 흐름을 짚은 적이 있습니다.
-
-"만약 AI가 개별 앱 내부에 탑재되는 기능 수준에 머문다면, 결국 거대 기술 ...</title><link>https://www.threads.net/@choi.openai/post/DZR9bmxD2BH</link><description>2/ 과거 Codex 분석에서 이 흐름을 짚은 적이 있습니다.
-
-"만약 AI가 개별 앱 내부에 탑재되는 기능 수준에 머문다면, 결국 거대 기술 기업들이 장악한 기존 플랫폼의 종속적인 부품으로 전락할 수밖에 없다. AI가 독립적인 주체로 도약하기 위해서는 필연적으로 그 자신이 플랫폼 자체로 진화해야만 한다."
-
-슈퍼앱은 이 전환의 공식 선언입니다.
-
-모델을 납품하는 공급사가 아니라, 사용자 접점 전체를 장악하는 플랫폼 기업으로의 전환이며, "다음 시대의 진짜 권력은 지능의 크기가 아니라 사용자 접점의 지배력"이라는 판단이 IPO 서류에 적힐 숫자로 번역된 셈입니다.</description><pubDate>Sun, 07 Jun 2026 10:03:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZR9bmxD2BH</guid></item><item><title>3/ 마이크로소프트도 동시에 움직이고 있습니다.
-Copilot을 'Scout'이라는 상시 에이전트를 탑재한 슈퍼앱으로 개편한다는 보도가 나왔고,...</title><link>https://www.threads.net/@choi.openai/post/DZR9cIkj6AD</link><description>3/ 마이크로소프트도 동시에 움직이고 있습니다.
-Copilot을 'Scout'이라는 상시 에이전트를 탑재한 슈퍼앱으로 개편한다는 보도가 나왔고, 공개된 UI는 OpenClaw와 매우 유사합니다.
-
-파트너십이 '비독점'으로 개편된 직후 양사가 각자의 슈퍼앱을 준비하고 있다는 것은, 이 관계가 완전한 경쟁 구도로 넘어갔음을 시사합니다.
-
-다만, 모델 리더십만으로 $1T IPO가 정당화된다면, Codex와 서드파티 앱을 ChatGPT에 볼트온할 필요가 없어보이기도 합니다.
-
-슈퍼앱 피벗 자체가 모델이 해자가 아니라는 것을 가장 명시적으로 인정한 것으로 보입니다.</description><pubDate>Sun, 07 Jun 2026 10:03:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZR9cIkj6AD</guid></item><item><title>4/ 또한, 추가로 나온 "프롬프트를 없앤다"는 부분은 결국 검색창이 없는 검색 엔진, 메뉴가 없는 앱. 사용자가 의도를 표현하지 않아도 AI가...</title><link>https://www.threads.net/@choi.openai/post/DZR9cucD_qm</link><description>4/ 또한, 추가로 나온 "프롬프트를 없앤다"는 부분은 결국 검색창이 없는 검색 엔진, 메뉴가 없는 앱. 사용자가 의도를 표현하지 않아도 AI가 맥락에서 추론하겠다는 것인데요.
-
-이것이 실현되면 사용자 경험이 근본적으로 바뀌지만, 동시에 틀릴 때 설명조차 없다는 리스크도 존재합니다.
-
-위챗이 슈퍼앱으로 성공한 건 기존 앱 생태계가 부재한 중국 시장이었기 때문이고, 서양의 슈퍼앱 시도는 모두 실패했습니다.
-오픈AI가 이 공식을 깰 수 있는 건, 기존 앱 위에 얹히는 것이 아니라 에이전트가 앱 자체를 대체하는 구조를 만들 때뿐입니다.
-
-결국 이것은 슈퍼앱이 아니라 AI 시대의 OS 선점 경쟁이며, IPO는 그 인프라 전환을 버틸 자금 조달 이벤트입니다.</description><pubDate>Sun, 07 Jun 2026 10:03:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZR9cucD_qm</guid></item></channel></rss>
+이전에 분석한 것처럼, 에이전트가 질문 한 번에 50배 이상의 토큰과 메모리 연산을 소비하는 구조가 이 수요를 더 가속합니다.</description><pubDate>Mon, 08 Jun 2026 03:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTx3iaj3Yi</guid></item></channel></rss>
