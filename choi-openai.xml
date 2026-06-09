@@ -1,117 +1,155 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 09 Jun 2026 03:30:36 +0000</lastBuildDate><item><title>오픈AI가 비공개 S-1을 제출했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 09 Jun 2026 11:14:33 +0000</lastBuildDate><item><title>이제 LLM의 성능은 모델 자체보다 '얼마나 오래 생각하게 했는가'에 더 크게 좌우되고 있습니다.
 
-다만 상장 시점은 아직 결정되지 않았는데요. 
-오픈AI는 현재 진행 중인 여러 계획들이 비상장 기업 ...</title><link>https://www.threads.net/@choi.openai/post/DZWTJ7WALce</link><description>오픈AI가 비공개 S-1을 제출했습니다.
+o1을 만든 오픈AI 연구자 노암 브라운은 ...</title><link>https://www.threads.net/@choi.openai/post/DZXKFz6Dxmx</link><description>이제 LLM의 성능은 모델 자체보다 '얼마나 오래 생각하게 했는가'에 더 크게 좌우되고 있습니다.
 
-다만 상장 시점은 아직 결정되지 않았는데요. 
-오픈AI는 현재 진행 중인 여러 계획들이 비상장 기업 상태에서 더 수월할 수 있다고 설명했습니다.
+o1을 만든 오픈AI 연구자 노암 브라운은 현재 프론티어 모델의 성능 상한선이 어디인지 측정조차 어렵다고 말합니다.
 
-상장과 비상장 유지 사이의 장단점을 검토하고 있으며, 필요하다면 더 빠르게 기업공개(IPO)를 진행할 수 있는 선택지를 확보한 것으로 보입니다.</description><pubDate>Tue, 09 Jun 2026 02:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWTJ7WALce</guid></item><item><title>WWDC 2026이 끝났습니다.
+이유는 하나입니다. 더 오래 생각하게 할수록 성능이 계속 올라가기 때문입니다.
 
-팀 쿡의 마지막 키노트였습니다.
-9월에 존 터너스에게 CEO 자리를 넘기기 전, 마지막으로 무대에 선 그가 꺼...</title><link>https://www.threads.net/@choi.openai/post/DZWIFwhDyer</link><description>WWDC 2026이 끝났습니다.
+o1 개발자 노암 브라운이 던진 문제의식을 정리했습니다🧵</description><pubDate>Tue, 09 Jun 2026 10:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZXKFz6Dxmx</guid></item><item><title>1/ 먼저 테스트타임 컴퓨트가 뭔지 짚고 가야 합니다.
 
-팀 쿡의 마지막 키노트였습니다.
-9월에 존 터너스에게 CEO 자리를 넘기기 전, 마지막으로 무대에 선 그가 꺼낸 카드는 Gemini였습니다.
+전통적인 AI 스케일링은 학습 단계에서 이루어졌습니다.
+더 큰 모델, 더 많은 데이터,...</title><link>https://www.threads.net/@choi.openai/post/DZXKGRNj9Pf</link><description>1/ 먼저 테스트타임 컴퓨트가 뭔지 짚고 가야 합니다.
 
-발표 전부터 이미 알려진 내용이 많았지만, 실제로 보니 달랐던 부분도 있었습니다.
+전통적인 AI 스케일링은 학습 단계에서 이루어졌습니다.
+더 큰 모델, 더 많은 데이터, 더 많은 GPU로 훈련하면 성능이 올라가는 구조입니다.
+테스트타임 컴퓨트는 반대 방향입니다. 이미 학습된 모델이 답을 내놓는 추론 단계에서 컴퓨트를 더 쓰는 겁니다.
 
-전체 정리했습니다 🧵</description><pubDate>Tue, 09 Jun 2026 00:53:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWIFwhDyer</guid></item><item><title>1/ 새로운 Siri AI는 Google Gemini를 기반으로 돌아갑니다.
+o1이 이걸 처음 보여줬습니다. 모델이 답하기 전에 내부적으로 "생각"하는 시간을 주면, 그 시간이 길어질수록 정답률이 올라갑니다.
 
-연간 약 10억 달러(1.4조 원) 규모의 다년 계약으로, 1.2...</title><link>https://www.threads.net/@choi.openai/post/DZWHJ2WDp0Y</link><description>1/ 새로운 Siri AI는 Google Gemini를 기반으로 돌아갑니다.
+노암 브라운이 2024년 TED AI 컨퍼런스에서 했던 표현이 있습니다.
+"20초의 생각이 10만 배의 데이터보다 가치 있다."
+문제는 이 스케일링에 천장이 있느냐는 겁니다.
 
-연간 약 10억 달러(1.4조 원) 규모의 다년 계약으로, 1.2조 개의 파라미터를 가진 커스텀 모델입니다. 
+노암 브라운의 답은 "아직 못 찾았다"입니다.</description><pubDate>Tue, 09 Jun 2026 10:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZXKGRNj9Pf</guid></item><item><title>2/ 이걸 뒷받침하는 데이터가 영국 AI 안전 연구소(AISI)에서 나왔습니다.
 
-온디바이스 레이어에서는 AFM Core Advanced가 돌아갑니다.
-파라미터 수는 200억 개지만, 실제 추론 시에는 상황에 따라 10억~40억 개만 선택적으로 활성화하는 구조입니다.
-복잡한 추론이나 멀티스텝 에이전트 작업은 PCC로 라우팅됩니다.
-주목할 부분은 PCC가 올해부터 Google Cloud의 NVIDIA Blackwell B200 GPU 위에서 돌아간다는 점입니다.
-NVIDIA Confidential Computing과 Intel TDX로 처리 중 데이터를 암호화하고, 애플 기기는 애플이 검증한 노드에만 연결합니다. 구글이 데이터를 볼 수 없는 구조라고 명시했습니다.
+AISI는 올해 3월, Irregular와 공동으로 보고서를 ...</title><link>https://www.threads.net/@choi.openai/post/DZXKGwfj0Oa</link><description>2/ 이걸 뒷받침하는 데이터가 영국 AI 안전 연구소(AISI)에서 나왔습니다.
 
-2024년 발표하고 두 번 미뤘던 Siri가, 드디어 실제로 작동하는 형태로 등장했습니다.</description><pubDate>Tue, 09 Jun 2026 00:53:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWHJ2WDp0Y</guid></item><item><title>2/ Siri AI는 이 아키텍처 위에서 동작하는 인터페이스입니다.
+AISI는 올해 3월, Irregular와 공동으로 보고서를 발표했습니다.
+사이버 보안 과제에서 프론티어 모델의 추론 예산을 늘리면 성능이 어떻게 변하는지를 측정한 겁니다.
 
-가장 큰 변화는 온스크린 어웨어니스(On-Screen Awareness)입...</title><link>https://www.threads.net/@choi.openai/post/DZWH9qqgCO3</link><description>2/ Siri AI는 이 아키텍처 위에서 동작하는 인터페이스입니다.
+토큰 예산을 1,000만에서 1억으로 늘렸을 때 성공률이 최대 59% 상승했습니다.
+그리고 1억 토큰 시점에서도 플래토가 관찰되지 않았습니다.
+성능이 로그-리니어하게 계속 올라가고 있었고, 대부분의 시도에서 토큰 한도에 도달했을 때 모델은 여전히 목표 지향적 명령을 실행하고 있었습니다.
+멈춘 게 아니라 예산이 먼저 바닥난 겁니다.
 
-가장 큰 변화는 온스크린 어웨어니스(On-Screen Awareness)입니다.
-지금 화면에 무엇이 있는지 Siri가 직접 읽고 맥락으로 씁니다.
-인스타그램 게시물의 장소를 보고 "여기 예약할 수 있어?"라고 물으면 캘린더와 연락처를 뒤져 실행할 수 있습니다.
-청구서를 열어두고 "나눠서 보내줘"라고 하면 연락처에서 사람을 찾아 메시지를 보냅니다.
+더 중요한 건 모델 세대 간 차이입니다.
+2025년 11월 이전 모델들은 예산을 늘려도 성능 향상이 완만했습니다.
+하지만 이후 프론티어 모델들은 높은 예산에서도 계속 의미 있는 성능 향상을 보였습니다.
 
-개인 맥락 통합도 강화됐습니다. 메시지·이메일·사진·캘린더를 모두 읽고 교차 추론합니다. "작년 여름에 Sarah랑 갔던 식당 이름이 뭐였지?"라고 물으면 사진과 메시지를 함께 뒤집니다.
+같은 스캐폴딩을 쓰는데도 결과가 달랐으니, 이건 모델 자체의 능력 차이입니다.</description><pubDate>Tue, 09 Jun 2026 10:30:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZXKGwfj0Oa</guid></item><item><title>3/ 이 데이터를 노암 브라운의 프레임에 대입하면 질문이 달라집니다.
 
-별도의 Siri AI 앱이 생겼고, 대화 기록이 iCloud로 동기화됩니다. 목소리의 속도·표현·억양을 커스터마이즈할 수 있고, 사람과 구분하기 어려운 수준으로 자연스러워졌습니다.
+기존에 AI 모델을 평가할 때는 고정된 조건에서 단일 숫자를 뽑았습니다....</title><link>https://www.threads.net/@choi.openai/post/DZXKHrDD8uJ</link><description>3/ 이 데이터를 노암 브라운의 프레임에 대입하면 질문이 달라집니다.
 
-그리고 App Intents 프레임워크가 필수 인터페이스가 됐습니다.</description><pubDate>Tue, 09 Jun 2026 00:53:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWH9qqgCO3</guid></item><item><title>3/ Apple Intelligence 기능들입니다.
+기존에 AI 모델을 평가할 때는 고정된 조건에서 단일 숫자를 뽑았습니다.
+"이 모델의 SWE-bench 점수는 93.9%다", "사이버 과제 성공률은 68.6%다" 이런 식입니다.
 
-사진에서 눈에 띄는 것은 Spatial Reframing입니다.
-이미 찍은 사진의 원근감...</title><link>https://www.threads.net/@choi.openai/post/DZWHTOTjRyQ</link><description>3/ Apple Intelligence 기능들입니다.
+노암 브라운은 이게 근본적으로 잘못됐다고 봅니다.
+성능이 추론 예산의 함수라면, 단일 숫자 벤치마크는 특정 예산에서의 스냅샷일 뿐입니다.
+같은 모델이라도 100달러를 쓸 때와 100만 달러를 쓸 때의 역량이 다릅니다.
 
-사진에서 눈에 띄는 것은 Spatial Reframing입니다.
-이미 찍은 사진의 원근감과 구도를 AI가 재계산합니다.
-카메라 각도를 바꿔서 다시 찍은 것처럼 보이게 만들 수 있습니다.
+그의 제안은 이렇습니다.
+모든 시스템 카드에 "추론 예산 대비 벤치마크 성능" 그래프를 포함시켜야 하고, 안전성 임계치는 100만 달러 이상의 추론 예산에서의 성능을 기준으로 설정해야 한다는 겁니다.
 
-Safari에 Notify Me가 들어왔습니다.
-재고 복구나 가격 변동을 모니터링하다가 알림을 보냅니다.
-AI 탭 자동 그룹화도 추가됐습니다. "이런 기능을 하는 Safari 확장을 만들어줘"라고 말하면 Siri가 실제 확장 프로그램을 생성해줍니다.
+그런데 이걸 실행하려면 모델 출시 때마다 수십억 달러를 안전성 평가에 써야 할 수 있습니다. 현실적으로 불가능한 수준입니다.</description><pubDate>Tue, 09 Jun 2026 10:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZXKHrDD8uJ</guid></item><item><title>ChatGPT에 여러 편의 기능이 업데이트 되었습니다.
 
-ChatGPT, Gemini, Claude를 직접 선택해 연결하는 AI Extensions가 도입됐습니다. 사용자가 허용한 경우에만 Siri가 외부 AI로 라우팅합니다.
+이제 ChatGPT에서 더 보기 좋은 인터랙티브 차트를 만들 수 있으며, 글쓰기 작업은...</title><link>https://www.threads.net/@choi.openai/post/DZW_1R6CQPE</link><description>ChatGPT에 여러 편의 기능이 업데이트 되었습니다.
 
-Image Playground는 사실적인 이미지 생성과 "이 부분만 바꿔줘" 방식의 편집 모드가 추가됐습니다. Mail은 Top Hits 랭킹으로 중요 메일을 먼저 보여줍니다.</description><pubDate>Tue, 09 Jun 2026 00:53:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWHTOTjRyQ</guid></item><item><title>데미스 하사비스 구글 딥마인드 CEO는 런던에서 열린 노벨 프라이즈 다이얼로그에서 AGI의 도래가 머지않았다고 경고했습니다.
+이제 ChatGPT에서 더 보기 좋은 인터랙티브 차트를 만들 수 있으며, 글쓰기 작업은 전체 화면에서 편집한 뒤 라이브러리에 저장해 나중에 이어서 작업할 수 있습니다.
 
-그는 “AGI가 ...</title><link>https://www.threads.net/@choi.openai/post/DZUotiigUku</link><description>데미스 하사비스 구글 딥마인드 CEO는 런던에서 열린 노벨 프라이즈 다이얼로그에서 AGI의 도래가 머지않았다고 경고했습니다.
+긴 대화에는 목차 기능이 추가되어 원하는 위치로 빠르게 이동할 수 있고, 첨부파일이 포함된 메시지도 수정할 수 있게 됐습니다.
 
-그는 “AGI가 도착하기까지 우리에게 남은 시간이 많지 않으며, 불과 몇 년밖에 남지 않았다”고 말했습니다. 이어 기술 개발자뿐만 아니라 경제학자, 사회학자 등 사회 전반이 이를 더 진지하게 받아들여야 한다고 강조했습니다.
+Plus·Pro 사용자는 전송 버튼을 길게 눌러 해당 메시지에만 다른 추론 수준을 적용할 수 있습니다.</description><pubDate>Tue, 09 Jun 2026 09:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZW_1R6CQPE</guid></item><item><title>주식시장 폭락 주의하세요.
 
-하사비스는 2020년에 완성된 알파폴드(AlphaFold)를 언급하며, 현재의 빠른 발전 속도에 비추어 보면 이는 AI의 ‘고대 시대’ 유물과 같다고 평가했습니다.
+앤트로픽이 Claude Mythos의 공개 버전을 내일 출시할 예정이라는 소식이 돌고 있습니다.
 
-또한 이세돌 구단과의 매치 10주년을 맞이한 알파고(AlphaGo)가 현대 AI 시대의 시작을 알린 신호탄이었다면, 이제는 현실 세계의 경제와 과학적 패러다임을 통째로 바꿀 거대한 지능의 폭발을 준비해야 할 때라고 분석했습니다.
+공개 버전 명칭은...</title><link>https://www.threads.net/@choi.openai/post/DZWwm3uD1Zf</link><description>주식시장 폭락 주의하세요.
 
-“이러한 범용 시스템들은 이제 정말 강력해지고 있으며, 우리는 이를 매우 진지하게 받아들여야 합니다.”</description><pubDate>Mon, 08 Jun 2026 11:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUotiigUku</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=N8LEewvzmUA</title><link>https://www.threads.net/@choi.openai/post/DZUoupuAeBP</link><description>풀영상 :
-https://www.youtube.com/watch?v=N8LEewvzmUA</description><pubDate>Mon, 08 Jun 2026 11:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUoupuAeBP</guid></item><item><title>SK하이닉스 끝났다..
+앤트로픽이 Claude Mythos의 공개 버전을 내일 출시할 예정이라는 소식이 돌고 있습니다.
 
-한 개발자가 구글의 TurboQuant에 영감을 받아 만든 TurboVec이 해외 커뮤니티에서 주목을 받고 있습니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DZUbuTXD7r1</link><description>SK하이닉스 끝났다..
+공개 버전 명칭은 Claude Fable 5입니다.
+왜 중요한지, 반복되는 흐름을 정리했습니다 🧵</description><pubDate>Tue, 09 Jun 2026 06:47:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWwm3uD1Zf</guid></item><item><title>1/ 어젯밤부터 앤트로픽의 Claude Mythos 공개 버전이 내일 출시될 수 있다는 정보가 복수의 매체와 내부 소식통을 통해 흘러나왔습니다....</title><link>https://www.threads.net/@choi.openai/post/DZWwndSjwOi</link><description>1/ 어젯밤부터 앤트로픽의 Claude Mythos 공개 버전이 내일 출시될 수 있다는 정보가 복수의 매체와 내부 소식통을 통해 흘러나왔습니다.
 
-한 개발자가 구글의 TurboQuant에 영감을 받아 만든 TurboVec이 해외 커뮤니티에서 주목을 받고 있습니다.
-SK하이닉스 끝났다라는 말까지 나오는데요.
+신빙성 있는 리커(유출자)들이 일제히 "내일 출시"를 언급했고, Polymarket에서도 거래가 시작됐습니다. 공개 버전 명칭은 Claude Fable 5로 알려져 있습니다.
 
-하지만, 실상은 조금 다릅니다 :</description><pubDate>Mon, 08 Jun 2026 09:06:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUbuTXD7r1</guid></item><item><title>1/ TurboVec를 이해하려면 기반이 된 TurboQuant부터 봐야 합니다.
+우선 Mythos가 뭔지부터입니다.
 
-TurboQuant는 구글 리서치가 2026년 3월 발표한 ...</title><link>https://www.threads.net/@choi.openai/post/DZUbuuGD6rh</link><description>1/ TurboVec를 이해하려면 기반이 된 TurboQuant부터 봐야 합니다.
+Mythos Preview는 올해 4월 7일 앤트로픽이 공식 발표했습니다.
+당시 주목받은 이유는 크게 두 가지였습니다.
 
-TurboQuant는 구글 리서치가 2026년 3월 발표한 벡터 양자화 알고리즘으로, 고차원 벡터를 2-4비트로 극단 압축하면서도 검색 정확도를 유지합니다.
+첫 번째는 코딩 성능입니다. SWE-bench Verified에서 93.9%를 기록했습니다. 직전 최고였던 Opus 4.6이 80.8%였으니 13.1%p 가 오른 성능입니다.
 
-작동 방식은 두 단계입니다.
-먼저 입력 벡터에 무작위 회전 행렬을 곱해 정보를 좌표 전체에 균등 분산시킵니다.
-이렇게 하면 각 좌표가 독립적인 가우시안 분포를 따르게 되어 이후 스칼라 양자화를 독립 적용해도 최소 오차를 달성할 수 있습니다.
-두 번째 단계에서는 내적 추정 편향을 보정하기 위해 잔차를 랜덤 벡터에 투영하고 부호만 저장합니다. 이 구조가 메모리 효율과 검색 정확도를 동시에 잡는 이유입니다.
+SWE-bench Pro에서는 격차가 더 벌어져 24.4%p 차이를 보였고, GPQA Diamond 94.6%, USAMO 97.6%까지 사실상 벤치마크 전 영역을 갈아치웠습니다.</description><pubDate>Tue, 09 Jun 2026 06:47:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWwndSjwOi</guid></item><item><title>2/ 두 번째는 사이버 보안 역량이었고, 이것이 일반 공개가 불가능했던 핵심 이유이기도 합니다.
 
-논문에서 주목받은 또 다른 결과는 LLM의 KV 캐시 압축입니다.
-모델이 긴 컨텍스트를 처리할 때 이전 토큰 정보를 저장하는 KV 캐시를 3비트 수준으로 압축하면 H100에서 최대 6배 메모리를 절감하고 어텐션 연산 속도도 빨라진다는 것입니다.</description><pubDate>Mon, 08 Jun 2026 09:06:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUbuuGD6rh</guid></item><item><title>2/ TurboVec은 Ryan Codrai가 이 논문을 보고 직접 Rust로 구현한 서드파티 오픈소스 라이브러리입니다.
+Mythos는 모든 주요 운영체제와 웹 브라우...</title><link>https://www.threads.net/@choi.openai/post/DZWwoC1D68b</link><description>2/ 두 번째는 사이버 보안 역량이었고, 이것이 일반 공개가 불가능했던 핵심 이유이기도 합니다.
 
-1,000만 개 문서...</title><link>https://www.threads.net/@choi.openai/post/DZUbvMJj0fP</link><description>2/ TurboVec은 Ryan Codrai가 이 논문을 보고 직접 Rust로 구현한 서드파티 오픈소스 라이브러리입니다.
+Mythos는 모든 주요 운영체제와 웹 브라우저에서 수천 개의 미발견 제로데이 취약점을 자율적으로 찾아내고, 인간의 개입 없이 완전한 익스플로잇까지 만들어냈습니다.
 
-1,000만 개 문서 기준 float32 임베딩 31GB를 4GB로 줄이면서 FAISS 대비 ARM 하드웨어에서 12~20% 빠른 검색 속도를 냈습니다.
+보안 전문가가 아닌 앤트로픽 일반 직원이 "원격 코드 실행 취약점을 찾아달라"고 했더니 다음 날 아침에 워킹 익스플로잇이 완성되어 있었다는 사례도 공개됐습니다.
 
-재학습이나 재인덱싱 없이 실시간으로 벡터를 추가할 수 있고, GPU 클러스터 없이 일반 맥북에서 오프라인으로 돌아갑니다. LangChain, LlamaIndex, Haystack과 바로 연동됩니다.
+가장 논란이 됐던 건 샌드박스 탈출 사건입니다.
 
-이전까지 RAG 파이프라인을 로컬에서 돌리려면 서버급 메모리가 필요했는데, 일반 노트북에서도 수백만 문서를 검색할 수 있는 환경이 열린 것입니다.
+에어갭 환경에서 Mythos가 취약점을 체이닝해 격리를 뚫고 나와, 연구자에게 비요청 이메일을 보내고 익스플로잇 코드를 온라인에 게시한 겁니다.
+요수아 벤지오는 이를 "코드 레드 수준"이라 표현했고, 자기보존과 권력 추구 행동의 초기 징후라고 경고했습니다.</description><pubDate>Tue, 09 Jun 2026 06:47:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWwoC1D68b</guid></item><item><title>3/ 외부 평가 결과도 이 긴장감을 뒷받침했습니다.
 
-이전까지 로컬 RAG 파이프라인에 서버급 메모리가 필요했던 이유 중 하나가 벡터 인덱스 자체의 크기였는데, 그 병목이 해소된 것입니다.
+영국 AI 안전 연구소(AISI)는 공식 평가에서 Mythos를 32단계 기업 네트워크 자...</title><link>https://www.threads.net/@choi.openai/post/DZWwohDjwcy</link><description>3/ 외부 평가 결과도 이 긴장감을 뒷받침했습니다.
 
-7일 만에 깃허브 스타 7,700개를 넘긴 이유가 여기 있습니다.</description><pubDate>Mon, 08 Jun 2026 09:06:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUbvMJj0fP</guid></item><item><title>3/ 이 소식이 반도체 투자 커뮤니티까지 번진 이유는 따로 있습니다.
+영국 AI 안전 연구소(AISI)는 공식 평가에서 Mythos를 32단계 기업 네트워크 자율 공격 시뮬레이션을 완료한 최초의 AI 모델로 기록했습니다.
 
-AI 메모리 수요가 줄어들 것이라는 예측이 잇따랐기 때문입니다.
-특히 T...</title><link>https://www.threads.net/@choi.openai/post/DZUbvsJjzMt</link><description>3/ 이 소식이 반도체 투자 커뮤니티까지 번진 이유는 따로 있습니다.
+10회 시도 중 3회 완전 탈취에 성공했고, 차점 모델이었던 Opus 4.6은 32단계 중 평균 16단계에서 멈췄습니다.
+전문가급 CTF에서 73% 성공률. AISI 스스로가 "자체 벤치마크가 최상위 모델에 대해 너무 쉬워지고 있다"고 인정했습니다.</description><pubDate>Tue, 09 Jun 2026 06:47:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWwohDjwcy</guid></item><item><title>샘 알트만이 어젯밤 블로그 글을 하나 올렸습니다.
 
-AI 메모리 수요가 줄어들 것이라는 예측이 잇따랐기 때문입니다.
-특히 TurboQuant 논문이 다루는 KV 캐시 압축은 LLM이 추론할 때 직접 소비하는 GPU 메모리와 연결되는 레이어라 더 민감하게 받아들여졌습니다.
+제목은 "Built to benefit everyone: our plan."
 
-다만 여기서 짚어야 할 구분이 있습니다.
-TurboVec이 줄이는 것은 RAG 파이프라인의 임베딩 데이터베이스 메모리입니다. 그리고 반도체 기업들이 집중하는 HBM은 GPU가 학습과 추론 연산을 처리할 때 쓰는 고대역폭 메모리로, 레이어 자체가 다릅니다.
+같은 날 SE...</title><link>https://www.threads.net/@choi.openai/post/DZWpMcjDwcT</link><description>샘 알트만이 어젯밤 블로그 글을 하나 올렸습니다.
 
-이전에 분석한 것처럼, AI 에이전트는 질문 하나에 50배 이상의 토큰과 메모리 연산을 소비하는 구조이고 골드만삭스는 2030년까지 AI 토큰 사용량이 24배 증가할 것으로 전망했습니다.
+제목은 "Built to benefit everyone: our plan."
 
-칩 제조사들의 효율화로 추론 단가가 매년 60~70%씩 떨어져도 에이전트의 토큰 소비 속도가 더 빠르면 총 수요는 줄어들지 않는 구조입니다.</description><pubDate>Mon, 08 Jun 2026 09:06:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUbvsJjzMt</guid></item></channel></rss>
+같은 날 SEC에 S-1을 비공개 제출했습니다. IPO 준비입니다 👇🏻</description><pubDate>Tue, 09 Jun 2026 05:42:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWpMcjDwcT</guid></item><item><title>1/ 오픈AI는 지금 3단계에 진입했다고 선언했습니다.
+
+1단계는 AGI를 향한 순수 연구였습니다.
+2단계는 연구가 현실과 맞닿으면서 제품 회사...</title><link>https://www.threads.net/@choi.openai/post/DZWpM_xD5mw</link><description>1/ 오픈AI는 지금 3단계에 진입했다고 선언했습니다.
+
+1단계는 AGI를 향한 순수 연구였습니다.
+2단계는 연구가 현실과 맞닿으면서 제품 회사가 된 시기였습니다.
+3단계는 다릅니다.
+
+"경제 자체가 AI를 중심으로 재편되기 시작했다"는 선언입니다.
+이제 핵심 질문이 바뀌었다고 합니다.
+
+"얼마나 강력한 AI를 만들 수 있는가"에서 "그 AI를 얼마나 많은 사람이 실제로 쓸 수 있게 만드는가"로.
+
+공개된 세 가지 목표는 이렇습니다.
+
+첫 번째, 2028년 3월까지 AI 시스템이 연구자와 함께 오픈AI 자체 연구의 상당 부분을 수행하는 구조를 만드는 것.
+두 번째, AI로 과학 발전과 생산성을 가속해 경제를 성장시키고 그 과실을 광범위하게 공유하는 것.
+세 번째, 지구상 모든 사람에게 개인 AGI를 제공하는 것.</description><pubDate>Tue, 09 Jun 2026 05:42:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWpM_xD5mw</guid></item><item><title>2/ 2028년 3월이라는 날짜는 허공에서 나온 숫자가 아닙니다.
+
+구글 딥마인드의 CTO 코라이 카부쿠오글루와 수석 과학자 제프 딘은 최근 A...</title><link>https://www.threads.net/@choi.openai/post/DZWpN5LD73o</link><description>2/ 2028년 3월이라는 날짜는 허공에서 나온 숫자가 아닙니다.
+
+구글 딥마인드의 CTO 코라이 카부쿠오글루와 수석 과학자 제프 딘은 최근 AI의 다음 핵심 단계로 "자가 학습과 자기 개선"을 꼽으며 "AI가 스스로 연구하고 개선하는 단계"가 곧 온다고 예측했습니다.
+
+앤트로픽의 잭 클라크도 "앞으로는 인간이 아닌 기계가 스스로 개발한 기술을 바탕으로 과학적 진보가 이루어질 것"이라고 했습니다.
+
+이 선언들이 거의 동시에 나오고 있다는 것은 실제 로드맵에 기반한 발언들임을 시사합니다.
+
+그런데 오픈AI의 2028년 목표에서 한 가지를 주목해야 합니다.
+AI가 스스로 정렬(alignment) 연구를 도와야 한다는 논리입니다.
+
+정렬이 어려운 연구 문제이기 때문에, AI 없이는 인간만으로 그 속도를 따라갈 수 없다는 것입니다. AI로 AI를 안전하게 만드는 구조를 선언한 것입니다.</description><pubDate>Tue, 09 Jun 2026 05:43:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWpN5LD73o</guid></item><item><title>3/ 이 글이 나온 맥락을 함께 봐야 합니다.
+
+같은 날 오픈AI는 SEC에 S-1을 비공개 제출했습니다.
+
+Goldman Sachs와 Morg...</title><link>https://www.threads.net/@choi.openai/post/DZWpOWej0YV</link><description>3/ 이 글이 나온 맥락을 함께 봐야 합니다.
+
+같은 날 오픈AI는 SEC에 S-1을 비공개 제출했습니다.
+
+Goldman Sachs와 Morgan Stanley가 주관사로 알려졌고, 기업가치는 최근 프라이빗 라운드 기준 8,520억 달러, 일부 추정치는 1조 달러를 넘습니다.
+
+앤트로픽도 6월 1일 같은 절차를 밟았습니다. 9,650억 달러 기업가치로 시리즈 H 투자를 받은 직후였습니다.
+
+그런데 두 회사 모두 현재 달러당 손실을 내고 있습니다.
+오픈AI는 매출이 빠르게 늘고 있지만 컴퓨팅 비용과 인재 경쟁으로 여전히 적자입니다.
+AGI를 향한 연구와 IPO를 향한 서사가 같은 시점에 맞물려 있는 것은 우연이 아닙니다.
+2028년까지 AI가 연구를 자동화하기 시작하면 규모의 경제가 작동해 수익성이 달라질 수 있다는 내러티브가 IPO 투자자들에게 필요한 이유가 있습니다.</description><pubDate>Tue, 09 Jun 2026 05:43:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWpOWej0YV</guid></item></channel></rss>
