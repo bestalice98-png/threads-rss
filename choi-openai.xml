@@ -1,5 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 08 Jun 2026 17:42:25 +0000</lastBuildDate><item><title>데미스 하사비스 구글 딥마인드 CEO는 런던에서 열린 노벨 프라이즈 다이얼로그에서 AGI의 도래가 머지않았다고 경고했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 09 Jun 2026 03:30:36 +0000</lastBuildDate><item><title>오픈AI가 비공개 S-1을 제출했습니다.
+
+다만 상장 시점은 아직 결정되지 않았는데요. 
+오픈AI는 현재 진행 중인 여러 계획들이 비상장 기업 ...</title><link>https://www.threads.net/@choi.openai/post/DZWTJ7WALce</link><description>오픈AI가 비공개 S-1을 제출했습니다.
+
+다만 상장 시점은 아직 결정되지 않았는데요. 
+오픈AI는 현재 진행 중인 여러 계획들이 비상장 기업 상태에서 더 수월할 수 있다고 설명했습니다.
+
+상장과 비상장 유지 사이의 장단점을 검토하고 있으며, 필요하다면 더 빠르게 기업공개(IPO)를 진행할 수 있는 선택지를 확보한 것으로 보입니다.</description><pubDate>Tue, 09 Jun 2026 02:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWTJ7WALce</guid></item><item><title>WWDC 2026이 끝났습니다.
+
+팀 쿡의 마지막 키노트였습니다.
+9월에 존 터너스에게 CEO 자리를 넘기기 전, 마지막으로 무대에 선 그가 꺼...</title><link>https://www.threads.net/@choi.openai/post/DZWIFwhDyer</link><description>WWDC 2026이 끝났습니다.
+
+팀 쿡의 마지막 키노트였습니다.
+9월에 존 터너스에게 CEO 자리를 넘기기 전, 마지막으로 무대에 선 그가 꺼낸 카드는 Gemini였습니다.
+
+발표 전부터 이미 알려진 내용이 많았지만, 실제로 보니 달랐던 부분도 있었습니다.
+
+전체 정리했습니다 🧵</description><pubDate>Tue, 09 Jun 2026 00:53:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWIFwhDyer</guid></item><item><title>1/ 새로운 Siri AI는 Google Gemini를 기반으로 돌아갑니다.
+
+연간 약 10억 달러(1.4조 원) 규모의 다년 계약으로, 1.2...</title><link>https://www.threads.net/@choi.openai/post/DZWHJ2WDp0Y</link><description>1/ 새로운 Siri AI는 Google Gemini를 기반으로 돌아갑니다.
+
+연간 약 10억 달러(1.4조 원) 규모의 다년 계약으로, 1.2조 개의 파라미터를 가진 커스텀 모델입니다. 
+
+온디바이스 레이어에서는 AFM Core Advanced가 돌아갑니다.
+파라미터 수는 200억 개지만, 실제 추론 시에는 상황에 따라 10억~40억 개만 선택적으로 활성화하는 구조입니다.
+복잡한 추론이나 멀티스텝 에이전트 작업은 PCC로 라우팅됩니다.
+주목할 부분은 PCC가 올해부터 Google Cloud의 NVIDIA Blackwell B200 GPU 위에서 돌아간다는 점입니다.
+NVIDIA Confidential Computing과 Intel TDX로 처리 중 데이터를 암호화하고, 애플 기기는 애플이 검증한 노드에만 연결합니다. 구글이 데이터를 볼 수 없는 구조라고 명시했습니다.
+
+2024년 발표하고 두 번 미뤘던 Siri가, 드디어 실제로 작동하는 형태로 등장했습니다.</description><pubDate>Tue, 09 Jun 2026 00:53:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWHJ2WDp0Y</guid></item><item><title>2/ Siri AI는 이 아키텍처 위에서 동작하는 인터페이스입니다.
+
+가장 큰 변화는 온스크린 어웨어니스(On-Screen Awareness)입...</title><link>https://www.threads.net/@choi.openai/post/DZWH9qqgCO3</link><description>2/ Siri AI는 이 아키텍처 위에서 동작하는 인터페이스입니다.
+
+가장 큰 변화는 온스크린 어웨어니스(On-Screen Awareness)입니다.
+지금 화면에 무엇이 있는지 Siri가 직접 읽고 맥락으로 씁니다.
+인스타그램 게시물의 장소를 보고 "여기 예약할 수 있어?"라고 물으면 캘린더와 연락처를 뒤져 실행할 수 있습니다.
+청구서를 열어두고 "나눠서 보내줘"라고 하면 연락처에서 사람을 찾아 메시지를 보냅니다.
+
+개인 맥락 통합도 강화됐습니다. 메시지·이메일·사진·캘린더를 모두 읽고 교차 추론합니다. "작년 여름에 Sarah랑 갔던 식당 이름이 뭐였지?"라고 물으면 사진과 메시지를 함께 뒤집니다.
+
+별도의 Siri AI 앱이 생겼고, 대화 기록이 iCloud로 동기화됩니다. 목소리의 속도·표현·억양을 커스터마이즈할 수 있고, 사람과 구분하기 어려운 수준으로 자연스러워졌습니다.
+
+그리고 App Intents 프레임워크가 필수 인터페이스가 됐습니다.</description><pubDate>Tue, 09 Jun 2026 00:53:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWH9qqgCO3</guid></item><item><title>3/ Apple Intelligence 기능들입니다.
+
+사진에서 눈에 띄는 것은 Spatial Reframing입니다.
+이미 찍은 사진의 원근감...</title><link>https://www.threads.net/@choi.openai/post/DZWHTOTjRyQ</link><description>3/ Apple Intelligence 기능들입니다.
+
+사진에서 눈에 띄는 것은 Spatial Reframing입니다.
+이미 찍은 사진의 원근감과 구도를 AI가 재계산합니다.
+카메라 각도를 바꿔서 다시 찍은 것처럼 보이게 만들 수 있습니다.
+
+Safari에 Notify Me가 들어왔습니다.
+재고 복구나 가격 변동을 모니터링하다가 알림을 보냅니다.
+AI 탭 자동 그룹화도 추가됐습니다. "이런 기능을 하는 Safari 확장을 만들어줘"라고 말하면 Siri가 실제 확장 프로그램을 생성해줍니다.
+
+ChatGPT, Gemini, Claude를 직접 선택해 연결하는 AI Extensions가 도입됐습니다. 사용자가 허용한 경우에만 Siri가 외부 AI로 라우팅합니다.
+
+Image Playground는 사실적인 이미지 생성과 "이 부분만 바꿔줘" 방식의 편집 모드가 추가됐습니다. Mail은 Top Hits 랭킹으로 중요 메일을 먼저 보여줍니다.</description><pubDate>Tue, 09 Jun 2026 00:53:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZWHTOTjRyQ</guid></item><item><title>데미스 하사비스 구글 딥마인드 CEO는 런던에서 열린 노벨 프라이즈 다이얼로그에서 AGI의 도래가 머지않았다고 경고했습니다.
 
 그는 “AGI가 ...</title><link>https://www.threads.net/@choi.openai/post/DZUotiigUku</link><description>데미스 하사비스 구글 딥마인드 CEO는 런던에서 열린 노벨 프라이즈 다이얼로그에서 AGI의 도래가 머지않았다고 경고했습니다.
 
@@ -56,64 +114,4 @@ TurboVec이 줄이는 것은 RAG 파이프라인의 임베딩 데이터베이스
 
 이전에 분석한 것처럼, AI 에이전트는 질문 하나에 50배 이상의 토큰과 메모리 연산을 소비하는 구조이고 골드만삭스는 2030년까지 AI 토큰 사용량이 24배 증가할 것으로 전망했습니다.
 
-칩 제조사들의 효율화로 추론 단가가 매년 60~70%씩 떨어져도 에이전트의 토큰 소비 속도가 더 빠르면 총 수요는 줄어들지 않는 구조입니다.</description><pubDate>Mon, 08 Jun 2026 09:06:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUbvsJjzMt</guid></item><item><title>젠슨 황이 치킨회동을 한 이유.
-
-삼겹살-소맥 회동, 잠실 야구장 시구, BBQ 치킨 113마리, 페이커와 PC방 방문, 네이버 치지직 라이브 ...</title><link>https://www.threads.net/@choi.openai/post/DZT9n52j248</link><description>젠슨 황이 치킨회동을 한 이유.
-
-삼겹살-소맥 회동, 잠실 야구장 시구, BBQ 치킨 113마리, 페이커와 PC방 방문, 네이버 치지직 라이브 출연, 전세계 최초 예능 출연.
-
-마냥 좋아하고 재미있게만 보면 안됩니다,</description><pubDate>Mon, 08 Jun 2026 04:43:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZT9n52j248</guid></item><item><title>1/ 'Jensanity'라는 신조어가 생길 정도로 젠슨 황은 한국에서 팝스타급 대접을 받고 있습니다.
-방문한 식당과 동선이 커뮤니티에서 실시간...</title><link>https://www.threads.net/@choi.openai/post/DZT9ob9j8j6</link><description>1/ 'Jensanity'라는 신조어가 생길 정도로 젠슨 황은 한국에서 팝스타급 대접을 받고 있습니다.
-방문한 식당과 동선이 커뮤니티에서 실시간으로 공유되고, 팬들이 '성지순례'를 떠나고, 아기를 안아달라는 요청에 흔쾌히 응하며 셀카를 찍습니다.
-
-이것은 한국만의 현상이 아닙니다. 대만에서는 야시장을 돌며 모든 사람의 음식값을 대겠다고 해서 '부의 특권' 논란이 일었고, 베이징에서는 탕좡을 입어 현지 문화에 대한 존중을 표현했습니다.
-일본에서는 GTC 기조연설에서 로컬 파트너십을 강조하며 분위기를 주도했고, 인도에서는 스타트업 생태계와의 접점을 넓혔습니다.
-
-국가마다 맞춤형으로 대중의 호감을 얻는 이 전략을 미디어는 '야시장 외교(Night Market Diplomacy)'라고 부릅니다.</description><pubDate>Mon, 08 Jun 2026 04:43:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZT9ob9j8j6</guid></item><item><title>2/ 이 전략이 작동하는 배경에는 엔비디아 주식의 개인투자자 구조가 있습니다.
-
-한국 서학개미들에게 엔비디아는 해외 주식 포트폴리오의 핵심 종목...</title><link>https://www.threads.net/@choi.openai/post/DZT9o6tj2Ka</link><description>2/ 이 전략이 작동하는 배경에는 엔비디아 주식의 개인투자자 구조가 있습니다.
-
-한국 서학개미들에게 엔비디아는 해외 주식 포트폴리오의 핵심 종목이고, 2026년 5월 기준 한국 투자자의 미국 주식 보유 평가액은 사상 최대치를 기록했습니다.
-
-레버리지 ETF를 통한 적극 투자도 활발합니다. 젠슨 황은 '남의 나라 기업 CEO'가 아니라 '내 주식의 CEO'로 인식되고 있고, 그가 방문한 곳을 따라가고 같은 음식을 먹는 것 자체가 투자 커뮤니티의 문화가 되었습니다.
-
-대만도 마찬가지입니다. TSMC라는 공급망의 심장부를 가진 대만에서 젠슨 황의 방문은 국가적 이벤트에 가깝고, 야시장에서의 한 컷이 대만 언론의 톱뉴스가 됩니다.
-
-기업 총수들과의 비즈니스 미팅을 호텔 회의실이 아닌 삼겹살집에서, 사업 발표를 야구장 시구와 치지직 라이브로 감싸는 것은 대중의 호감을 얻는 동시에 파트너 기업 총수들과의 관계를 개인적 유대로 전환하는 이중 전략입니다.</description><pubDate>Mon, 08 Jun 2026 04:43:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZT9o6tj2Ka</guid></item><item><title>3/ 그런데 이 화려한 외교 뒤에 실제로 한국에 남는 것은 무엇인지 짚어봐야 합니다.
-
-엔비디아가 설립하려는 NVAITC(AI Technolog...</title><link>https://www.threads.net/@choi.openai/post/DZT9pWrjxZW</link><description>3/ 그런데 이 화려한 외교 뒤에 실제로 한국에 남는 것은 무엇인지 짚어봐야 합니다.
-
-엔비디아가 설립하려는 NVAITC(AI Technology Center)는 본래 박사급 소수 인력이 현지 파트너와 프로젝트 기반으로 협력하는 구조입니다. 글로벌 사례만 보면 수십에서 수백 명 수준입니다.
-
-대만이 TSMC 파운드리 근접성 때문에 가오슝에 수천 명 규모의 R&amp;D 센터를 받았다면, HBM 공동 설계와 피지컬 AI 수요처(현대차·LG·두산)가 동시에 존재하는 한국도 단순 NVAITC 이상으로 확장될 가능성은 있습니다.
-
-문제는 그 가능성이 현실화되기까지의 시간입니다.
-젠슨 황은 "충분한 인력이 확보되면 부지도 마련할 것"이라고 했는데, 이는 아직 부지도 없다는 뜻이고, 출발은 소규모라는 의미입니다.
-대만처럼 수천 명 규모로 성장할지, 싱가포르처럼 허브 역할에 머물지는 향후 실제 협력의 깊이와 성과에 달려 있습니다.</description><pubDate>Mon, 08 Jun 2026 04:43:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZT9pWrjxZW</guid></item><item><title>오늘 젠슨 황이 한국에서 AI 인프라 협력의 청사진을 쏟아냈습니다.
-
-발표의 핵심 키워드는 'AI 팩토리'였습니다 👇🏻</title><link>https://www.threads.net/@choi.openai/post/DZTx1eyjyaF</link><description>오늘 젠슨 황이 한국에서 AI 인프라 협력의 청사진을 쏟아냈습니다.
-
-발표의 핵심 키워드는 'AI 팩토리'였습니다 👇🏻</description><pubDate>Mon, 08 Jun 2026 03:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTx1eyjyaF</guid></item><item><title>1/ SK서린빌딩에서 시작해 LG 트윈타워, 서울대, 현대차 양재 사옥, 네이버 1784, 삼성전자까지. 젠슨 황은 하루 만에 한국 산업계의 핵...</title><link>https://www.threads.net/@choi.openai/post/DZTx2FcD3LB</link><description>1/ SK서린빌딩에서 시작해 LG 트윈타워, 서울대, 현대차 양재 사옥, 네이버 1784, 삼성전자까지. 젠슨 황은 하루 만에 한국 산업계의 핵심 축을 모두 순회했습니다.
-
-SK텔레콤과 DSX 기반 풀스택 AI 클라우드, SK하이닉스와 차세대 AI 메모리 공동개발 장기 협력, LG와 피지컬 AI·로보틱스, 현대차와 Drive AGX Thor 기반 자율주행, 네이버와 GW급 AI 팩토리, 삼성전자와 HBM4·AI 플랫폼, 그리고 서울 R&amp;D 센터 설립 확인까지.
-
-칩 설계부터 데이터센터 구축, 학습·추론 인프라, 모델 공급, 운영까지 밸류체인 전체를 엔비디아 DSX 플랫폼 위에 통합하는 구조입니다.</description><pubDate>Mon, 08 Jun 2026 03:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTx2FcD3LB</guid></item><item><title>2/ 이 움직임의 배경에는 AI 인프라 투자의 규모가 완전히 다른 차원으로 넘어간 현실이 있습니다.
-
-올해 아마존·알파벳·메타·마이크로소프트·오...</title><link>https://www.threads.net/@choi.openai/post/DZTx3B_j5tz</link><description>2/ 이 움직임의 배경에는 AI 인프라 투자의 규모가 완전히 다른 차원으로 넘어간 현실이 있습니다.
-
-올해 아마존·알파벳·메타·마이크로소프트·오라클 등 주요 하이퍼스케일러의 CapEx 합산은 6,600억~7,000억 달러에 달할 전망이고, 오픈AI의 Stargate 프로젝트만 4,000억 달러 이상을 미국 내 7개 사이트에 투입하며 총 9GW 이상의 용량을 계획하고 있습니다.
-
-GPU 자체가 돈이 되는 시대가 열렸습니다. SpaceX는 xAI 인수 후 Colossus 슈퍼클러스터를 확보해 구글에 월 9.2억 달러(GPU 11만 개), 앤트로픽에 월 12.5억 달러 규모로 GPU를 임대하고 있고, 이 수익이 6월 12일 예정된 1.75조 달러 IPO의 핵심 내러티브가 되었습니다.
-
-앤트로픽은 구글 클라우드에 5년간 2,000억 달러 규모의 컴퓨팅을 약정했고, 구글은 400억 달러를 투자하며 5GW의 컴퓨팅 용량을 제공합니다.</description><pubDate>Mon, 08 Jun 2026 03:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTx3B_j5tz</guid></item><item><title>3/ GW(기가와트)가 어느 정도 규모인지부터 짚을 필요가 있습니다.
-
-1GW는 원자력 발전소 1기에 해당하는 전력이고, Blackwell 세대...</title><link>https://www.threads.net/@choi.openai/post/DZTx3iaj3Yi</link><description>3/ GW(기가와트)가 어느 정도 규모인지부터 짚을 필요가 있습니다.
-
-1GW는 원자력 발전소 1기에 해당하는 전력이고, Blackwell 세대 GPU 기준으로 약 45만 개 이상을 가동할 수 있는 용량입니다.
-연간 전력 소비는 약 8.76TWh에 달합니다. 네이버의 각 세종 데이터센터 규모의 약 4배입니다.
-
-현재 프론티어 모델의 학습은 10^25~10^26 FLOP 이상의 연산을 요구하고, GPT-5급 모델은 약 5×10^25 FLOP이 투입된 것으로 추정됩니다.
-
-추론 워크로드가 전체 AI 컴퓨팅의 80~90%를 차지하면서 연속적으로 전력을 소비하는 구조가 되었고, 골드만삭스는 2030년까지 AI 토큰 사용량이 24배 증가할 것으로 전망하고 있습니다.
-
-이전에 분석한 것처럼, 에이전트가 질문 한 번에 50배 이상의 토큰과 메모리 연산을 소비하는 구조가 이 수요를 더 가속합니다.</description><pubDate>Mon, 08 Jun 2026 03:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZTx3iaj3Yi</guid></item></channel></rss>
+칩 제조사들의 효율화로 추론 단가가 매년 60~70%씩 떨어져도 에이전트의 토큰 소비 속도가 더 빠르면 총 수요는 줄어들지 않는 구조입니다.</description><pubDate>Mon, 08 Jun 2026 09:06:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZUbvsJjzMt</guid></item></channel></rss>
