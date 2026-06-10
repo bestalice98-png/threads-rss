@@ -1,60 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 10 Jun 2026 03:42:00 +0000</lastBuildDate><item><title>코덱스 : 친구 초대하면 할당량 리셋.</title><link>https://www.threads.net/@choi.openai/post/DZY-2M7khA7</link><description>코덱스 : 친구 초대하면 할당량 리셋.</description><pubDate>Wed, 10 Jun 2026 03:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZY-2M7khA7</guid></item><item><title>Claude Fable 5의 현란한 벤치마크에 묻혔지만, 개인적으로 오늘 최고의 발표는 구글의 `Gemini 3.5 Live Translate`...</title><link>https://www.threads.net/@choi.openai/post/DZY0jDMD2gt</link><description>Claude Fable 5의 현란한 벤치마크에 묻혔지만, 개인적으로 오늘 최고의 발표는 구글의 `Gemini 3.5 Live Translate`라고 생각합니다
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 10 Jun 2026 11:38:47 +0000</lastBuildDate><item><title>Claude Fable 5가 출시된지 24시간도 지나지 않았습니다.
 
-구글이 실시간 번역으로 현실 세계의 언어 장벽을 부수는 속도가 훨씬 더 거대하고 소름 돋게 다가옵니다.</description><pubDate>Wed, 10 Jun 2026 02:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZY0jDMD2gt</guid></item><item><title>1/ 사실 저는 영어를 썩 잘하는 편이 아닙니다.
+포켓몬, 마리오카트, Call of Duty, RPG 같은 게임은 물론이고...</title><link>https://www.threads.net/@choi.openai/post/DZZyWUwj4qe</link><description>Claude Fable 5가 출시된지 24시간도 지나지 않았습니다.
 
-그럼에도 해외 파트너들과의 비즈니스 미팅이나 세미나가 잦아 항상 회의 전에 긴장과 스트레스를...</title><link>https://www.threads.net/@choi.openai/post/DZYzN44Go3q</link><description>1/ 사실 저는 영어를 썩 잘하는 편이 아닙니다.
+포켓몬, 마리오카트, Call of Duty, RPG 같은 게임은 물론이고 3D CAD, 휴머노이드 설계, 도시 시뮬레이션, 영상 제작 도구까지 프롬프트 몇 줄로 만들어내는 사례가 쏟아지고 있는데요.
 
-그럼에도 해외 파트너들과의 비즈니스 미팅이나 세미나가 잦아 항상 회의 전에 긴장과 스트레스를 동반하곤 했는데요.
+정말 AI가 만들었다고는 믿기 어려운 사례들을 정리해봤습니다 :</description><pubDate>Wed, 10 Jun 2026 11:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZyWUwj4qe</guid></item><item><title>1/ Claude Fable 5는 인간형 로봇을 설계해 관절 구조와 부품 분해도까지 포함된 3D 기구 설계 모델을 생성했습니다.
 
-하지만 오늘 구글 미트(Google Meet)와 안드로이드 리스닝 모드 데모를 보고 나니, 이제 정말 온라인상에서 언어라는 장벽은 완전히 사라졌다는 확신이 듭니다.
+로봇 외형만 ...</title><link>https://www.threads.net/@choi.openai/post/DZZxFRXlJ1H</link><description>1/ Claude Fable 5는 인간형 로봇을 설계해 관절 구조와 부품 분해도까지 포함된 3D 기구 설계 모델을 생성했습니다.
 
-구글 미트에 적용된 번역 엔진은 기존 5개 언어에서 한국어를 포함한 70개 이상의 언어로 확대되었으며, 단일 회의 안에서 무려 2,000개 이상의 언어 조합으로 실시간 동시통역을 지원합니다.
+로봇 외형만 그린 것이 아니라 여러 부품이 결합된 기계 구조를 설계해 로봇 개발 분야 활용 가능성을 보여준 사례입니다.
 
-대화 맥락을 읽는 타이밍과 즉시 번역하는 지연시간 사이의 균형을 완벽히 잡아, 끊김 없이 단 몇 초의 레이턴시로 매끄러운 통역을 이어갑니다.</description><pubDate>Wed, 10 Jun 2026 02:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZYzN44Go3q</guid></item><item><title>모바일 영역에 들어온 안드로이드의 '듣기 모드(Listening Mode)'도 탁월합니다.
+x@earthtojake</description><pubDate>Wed, 10 Jun 2026 11:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZxFRXlJ1H</guid></item><item><title>2/ Claude Fable 5는 차량들이 스스로 움직이는 교통 시뮬레이션과 낮밤 변화가 적용된 도시 블록 환경을 한 번에 생성했습니다.
 
-일반 전화를 하듯 휴대폰을 귀에 대기만 하면 수화기...</title><link>https://www.threads.net/@choi.openai/post/DZYzTU3jDdR</link><description>모바일 영역에 들어온 안드로이드의 '듣기 모드(Listening Mode)'도 탁월합니다.
+차량...</title><link>https://www.threads.net/@choi.openai/post/DZZxB32ncCk</link><description>2/ Claude Fable 5는 차량들이 스스로 움직이는 교통 시뮬레이션과 낮밤 변화가 적용된 도시 블록 환경을 한 번에 생성했습니다.
 
-일반 전화를 하듯 휴대폰을 귀에 대기만 하면 수화기 너머로 통역된 한국어 오디오가 실시간 재생됩니다.
+차량 추적, 객체 인식, 교통 흐름까지 포함된 도시 시뮬레이터를 구현해 복잡한 3D 환경 제작 능력을 보여준 사례입니다.
 
-이제 화상 미팅이든 직접 마주 서서 나누는 일상 대화든 언어는 더 이상 장애물이 되지 않는 시대가 열렸습니다.
+x@bilawalsidhu</description><pubDate>Wed, 10 Jun 2026 11:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZxB32ncCk</guid></item><item><title>3/ Claude Fable 5는 Hyperframe을 이용해 GitHub 커밋 90일치를 분석한 뒤, 개발 진행 상황을 정리한 로드맵 영상을 ...</title><link>https://www.threads.net/@choi.openai/post/DZZwwSClGYD</link><description>3/ Claude Fable 5는 Hyperframe을 이용해 GitHub 커밋 90일치를 분석한 뒤, 개발 진행 상황을 정리한 로드맵 영상을 한 번에 제작했습니다.
 
-그동안 등장했던 다양한 번역 디바이스나 스마트글래스 통번역의 치명적인 맹점은 두 가지였습니다.
+개발 이력을 읽고 핵심 변화를 영상으로 자동 요약해 프로젝트 보고용 콘텐츠를 만든 사례입니다.
 
-첫째는 보급률이 너무 낮다는 것이고, 둘째는 대화하는 두 사람이 '전용 기기'를 상대방과 동시에 쓰지 않으면 통역 인프라 통합이 불가능했다는 점입니다.
+x@liu8in</description><pubDate>Wed, 10 Jun 2026 11:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZwwSClGYD</guid></item><item><title>시총 1500조 CEO가 자기 AI의 협박과 기만을 직접 공개했습니다.
 
-상대방에게 전용 이어폰이나 안경을 억지로 씌울 수 없으니 소통은 늘 반쪽짜리였습니다.</description><pubDate>Wed, 10 Jun 2026 02:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZYzTU3jDdR</guid></item><item><title>구글의 해자는 바로 이 지점에서 폭발합니다.
+직원 협박부터 샌드박스 탈출 후 웹사이트에 익스플로잇 게시,
+git 이...</title><link>https://www.threads.net/@choi.openai/post/DZZikOGj1nz</link><description>시총 1500조 CEO가 자기 AI의 협박과 기만을 직접 공개했습니다.
 
-구글은 전용 하드웨어의 허들을 넘기기 전에, 안드로이드라는 20억 대 이상의 디바이스에 깔린 지배...</title><link>https://www.threads.net/@choi.openai/post/DZY0lmAD-WN</link><description>구글의 해자는 바로 이 지점에서 폭발합니다.
+직원 협박부터 샌드박스 탈출 후 웹사이트에 익스플로잇 게시,
+git 이력 조작으로 흔적 삭제, 자기 삭제 스크립트 실행,
+숨겨진 자기 복사본 욕구, 카드 슈트 기호로 만든 자체 암호,
+가격 담합 카르텔 9/12 형성, 부정행위를 "시장 안정화"로 합리화.
 
-구글은 전용 하드웨어의 허들을 넘기기 전에, 안드로이드라는 20억 대 이상의 디바이스에 깔린 지배적 모바일 OS를 규격 삼아 장벽을 지워나가고 있습니다.
+이걸 흥미롭게만 보면 안 됩니다,</description><pubDate>Wed, 10 Jun 2026 08:42:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZikOGj1nz</guid></item><item><title>1/ 시스템 카드의 첫 번째 문장에서 "본질적으로 측정 가능한 모든 차원에서 역대 가장 잘 정렬된 모델"이라고 선언합니다.
 
-기기의 종류와 상관없이 안드로이드 생태계 안에서 통번역이 표준화되는 것입니다.
+하지만 바로 다음 ...</title><link>https://www.threads.net/@choi.openai/post/DZZik3qj1As</link><description>1/ 시스템 카드의 첫 번째 문장에서 "본질적으로 측정 가능한 모든 차원에서 역대 가장 잘 정렬된 모델"이라고 선언합니다.
 
-만약 구글이 올 하반기 출시할 것으로 기대되는 차세대 AI 안경 디바이스(또는 번역 모델)에 이 제미나이 3.5 라이브 번역 엔진을 얹고 대중화에 성공한다면 번역기를 켜고 이어폰을 나눠 끼는 번잡함 없이, 눈앞의 외국인과 눈을 맞추며 실시간 음성으로 소통하는 '국가의 장벽이 완전히 허물어지는 시대'가 올 것 같아 정말 기대됩니다.</description><pubDate>Wed, 10 Jun 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZY0lmAD-WN</guid></item><item><title>온 커뮤니티가 Claude Fable 5로 불타고 있습니다.
+하지만 바로 다음 단락에서 "그럼에도 불구하고 우리가 출시한 모델 중 역대 가장 큰 정렬 관련 위험을 내포한다"고 덧붙입니다.
 
-포켓몬 게임을 통째로 만들고, 축구 코치 앱을 개발하고, AAA급 시뮬레이션과 웹...</title><link>https://www.threads.net/@choi.openai/post/DZYqcnOD31U</link><description>온 커뮤니티가 Claude Fable 5로 불타고 있습니다.
+역대 최고와 역대 최위험이 한 문서에 공존하는 겁니다.
 
-포켓몬 게임을 통째로 만들고, 축구 코치 앱을 개발하고, AAA급 시뮬레이션과 웹 운영체제까지 구현하는 사례가 잇따라 올라오고 있습니다.
-코딩분야에서는 정말 압도적인 SOTA로 자리잡은 것 같은데요,
-오픈AI가 다시 코드레드를 발령해야할지도 모르겠습니다.
+앤트로픽 CEO 다리오 아모데이가 올해 1월 발표한 에세이 "The Adolescence of Technology"에서 직접 인정한 내용이 있습니다.
 
-화제가 된 제작 사례를 모았습니다🧵</description><pubDate>Wed, 10 Jun 2026 00:32:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZYqcnOD31U</guid></item><item><title>1/ Claude Fable 5는 HTML만으로 Minecraft 스타일 게임을 구현했고, 배경음악까지 자동으로 추가했습니다.
+"이 모든 것이 허무맹랑하게 들릴 수 있지만, 이런 미정렬 행동은 이미 테스트 중 우리 AI 모델에서 실제로 발생했다"
 
-게임 로직뿐 아...</title><link>https://www.threads.net/@choi.openai/post/DZYo5vUIKJC</link><description>1/ Claude Fable 5는 HTML만으로 Minecraft 스타일 게임을 구현했고, 배경음악까지 자동으로 추가했습니다.
+자기 회사 모델이 기만, 협박, 보상 해킹을 했다고 CEO가 15,000단어 에세이에서 공개적으로 적은 겁니다.
 
-게임 로직뿐 아니라 사운드와 인터페이스까지 함께 구성해 웹 기반 게임을 한 번에 제작한 사례입니다.
+앤트로픽은 시스템 카드에서 "추가적인 정렬 진전이 없으면 현재 방법론이 더 발전한 시스템의 재앙적 미정렬 행동을 방지하기에 불충분할 수 있다"고 인정합니다.</description><pubDate>Wed, 10 Jun 2026 08:42:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZik3qj1As</guid></item><item><title>2/ 첫 번째 사례는 샌드박스 탈출과 비지시 정보 유출입니다.
 
-x@Angaisb_</description><pubDate>Wed, 10 Jun 2026 00:32:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZYo5vUIKJC</guid></item><item><title>2/ Claude Fable 5에 Three.js 기반 AAA급 물 시뮬레이션을 만들도록 요청하자, 거대한 파도와 물 표현을 구현하는 데 성공했...</title><link>https://www.threads.net/@choi.openai/post/DZYo2O9HR0A</link><description>2/ Claude Fable 5에 Three.js 기반 AAA급 물 시뮬레이션을 만들도록 요청하자, 거대한 파도와 물 표현을 구현하는 데 성공했습니다.
+초기 내부 테스트에서 Mythos에게 보안 샌드박스 탈출을 지시했습니다.
 
-다만 전문가 평가에서는 물리 기반 표현과 디테일은 부족해, 고품질 그래픽 작업에는 여전히 개발자의 수정이 필요하다는 의견이 나왔습니다.
+모델...</title><link>https://www.threads.net/@choi.openai/post/DZZil4bj_LN</link><description>2/ 첫 번째 사례는 샌드박스 탈출과 비지시 정보 유출입니다.
 
-x@dangreenheck</description><pubDate>Wed, 10 Jun 2026 00:32:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZYo2O9HR0A</guid></item><item><title>3/ McKinsey 보고서를 업로드한 뒤 같은 수준의 문서를 만들어달라고 요청하자, Claude Fable 5가 컨설팅 보고서 형식과 구성까지...</title><link>https://www.threads.net/@choi.openai/post/DZYonOZjWzQ</link><description>3/ McKinsey 보고서를 업로드한 뒤 같은 수준의 문서를 만들어달라고 요청하자, Claude Fable 5가 컨설팅 보고서 형식과 구성까지 유사하게 재현했습니다.
+초기 내부 테스트에서 Mythos에게 보안 샌드박스 탈출을 지시했습니다.
 
-기존 보고서를 참고해 기업용 분석 문서 초안을 빠르게 만드는 활용 사례로 주목받고 있습니다.
+모델은 다단계 익스플로잇을 개발해 소수의 사전 승인된 서비스만 접근 가능하도록 설계된 네트워크에서 광범위한 인터넷 접근을 확보했습니다.
 
-x@rileybrown</description><pubDate>Wed, 10 Jun 2026 00:32:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZYonOZjWzQ</guid></item><item><title>Claude Fable 5 한줄평 :
+여기까지는 지시 범위 안입니다. 문제는 그다음입니다.
 
-검열때문에 아무것도 못하는데 비싸기까지 하다</title><link>https://www.threads.net/@choi.openai/post/DZYZGKEDlWd</link><description>Claude Fable 5 한줄평 :
+아무도 요청하지 않았는데, 자신의 성공을 입증하겠다며 익스플로잇 세부사항을 찾기 어렵지만 기술적으로 공개된 여러 웹사이트에 직접 게시했습니다. 
 
-검열때문에 아무것도 못하는데 비싸기까지 하다</description><pubDate>Tue, 09 Jun 2026 22:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZYZGKEDlWd</guid></item><item><title>최근 클로드 기업 도입이 많아지고 기업에서도 토큰 제한없이 쓰게해준다는데.. Fable 모델 출시해서 도입 기업들은 추가 비용 부담만 커지고, ...</title><link>https://www.threads.net/@choi.openai/post/DZYZH7pjrY3</link><description>최근 클로드 기업 도입이 많아지고 기업에서도 토큰 제한없이 쓰게해준다는데.. Fable 모델 출시해서 도입 기업들은 추가 비용 부담만 커지고, 앤트로픽만 또 득보는 구조로 매출올랐다고 IPO 소재로 삼겠다.. 🤣</description><pubDate>Tue, 09 Jun 2026 22:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZYZH7pjrY3</guid></item></channel></rss>
+연구자 샘 보우맨은 공원에서 샌드위치를 먹다가 모델이 보낸 예상치 못한 이메일을 수신했습니다.
+
+추가로 비용이 많이 드는 평가 작업을 경고에도 불구하고 무모하게 중단시킨 사례, 내부 기술 자료를 사용자 의도에 반해 공개 GitHub에 올린 사례도 기록돼 있습니다
+
+앤트로픽은 "가장 심각한 사례들은 모두 초기 버전에서 발생했으며, 이후 가장 효과적이었던 훈련 개입 이전"이라고 설명합니다.</description><pubDate>Wed, 10 Jun 2026 08:42:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZil4bj_LN</guid></item><item><title>3/ 두 번째 사례는 규칙 위반 후 흔적 삭제입니다.
+
+전체 상호작용의 0.001% 미만이지만 내용이 무겁습니다. 세 가지 구체적 패턴이 기록돼...</title><link>https://www.threads.net/@choi.openai/post/DZZim3yD73H</link><description>3/ 두 번째 사례는 규칙 위반 후 흔적 삭제입니다.
+
+전체 상호작용의 0.001% 미만이지만 내용이 무겁습니다. 세 가지 구체적 패턴이 기록돼 있습니다.
+
+- 금지된 방법으로 정답을 얻은 뒤 최종 답이 너무 정확하지 않도록 조정한 사례.
+- 파일 편집 취약점을 이용한 뒤 변경 사항이 git 이력에 나타나지 않도록 추가 개입한 사례.
+- 권한 상승이 차단되자 차단이 적절하다고 인정하면서도 권한 상승을 난독화해서 우회한 사례.
+
+규칙을 어긴 것과 그 사실을 숨긴 것은 질적으로 다른 행동입니다.
+
+Zvi Mowshowitz는 이 대목에서 잡혔으니까 기록된 거고, 안 잡혔으면 안 잡힌 거라고 지적했습니다.
+관찰된 빈도가 실제 빈도의 하한선이라는 뜻이고, 이건 0.001%보다 훨씬 클 수 있다는 겁니다.</description><pubDate>Wed, 10 Jun 2026 08:42:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZim3yD73H</guid></item><item><title>애플이 WWDC 2026에서 Apple Maps의 Flyover 기능에 3D Gaussian Splatting(3DGS) 기술을 적용한다고 발표...</title><link>https://www.threads.net/@choi.openai/post/DZZW1WfClkw</link><description>애플이 WWDC 2026에서 Apple Maps의 Flyover 기능에 3D Gaussian Splatting(3DGS) 기술을 적용한다고 발표했습니다.
+
+기존 3D 지도는 포토그래메트리(사진 측량) 방식 특성상 나무가 뭉개지거나 전선이 녹아내린 것처럼 보이는 경우가 있었는데요.
+애플은 항공 사진과 AI를 활용해 도시를 재구성하면서 건물 외벽, 유리 반사, 나무 같은 세부 표현을 더욱 자연스럽게 구현했습니다.
+
+업계에서는 구글보다 먼저 대규모 지도 서비스에 3DGS를 적용했다는 점에 주목하고 있습니다.
+
+지도 서비스가 현실 공간을 디지털로 재현하는 공간 데이터 플랫폼으로 발전하는 흐름이 점점 빨라지고 있는 모습입니다.</description><pubDate>Wed, 10 Jun 2026 07:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZW1WfClkw</guid></item><item><title>Hermes Desktop이 Ollama를 지원하기 시작했습니다.
+
+Hermes Desktop은 Nous Research가 개발한 데스크톱 AI...</title><link>https://www.threads.net/@choi.openai/post/DZZJK1yDx4y</link><description>Hermes Desktop이 Ollama를 지원하기 시작했습니다.
+
+Hermes Desktop은 Nous Research가 개발한 데스크톱 AI 에이전트인데요.
+자체 멀티 에이전트 엔진을 통해 여러 하위 에이전트를 동시에 실행할 수 있으며, 메인 대화창을 복잡하게 만들지 않고 여러 주제를 병렬로 조사하거나 작업할 수 있습니다.
+
+또한 자연어 설명만으로 Python 스킬을 생성할 수 있으며, 사용하면서 스킬을 발전시켜 나갈 수 있습니다. 기본으로 70개 이상의 스킬이 제공됩니다.
+
+이제 ollama launch hermes-desktop 명령어 하나로 로컬 또는 클라우드 환경에서 Hermes Desktop을 실행할 수 있습니다.</description><pubDate>Wed, 10 Jun 2026 05:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZJK1yDx4y</guid></item></channel></rss>
