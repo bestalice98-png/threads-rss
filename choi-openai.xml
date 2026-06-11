@@ -1,88 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 10 Jun 2026 17:49:17 +0000</lastBuildDate><item><title>Claude Fable 5 시스템 프롬프트 유출</title><link>https://www.threads.net/@choi.openai/post/DZaG-9EkTqB</link><description>Claude Fable 5 시스템 프롬프트 유출</description><pubDate>Wed, 10 Jun 2026 14:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZaG-9EkTqB</guid></item><item><title>깃허브 :
-https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/CLAUDE-FABLE...</title><link>https://www.threads.net/@choi.openai/post/DZaG_vfEQdT</link><description>깃허브 :
-https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/CLAUDE-FABLE-5.md</description><pubDate>Wed, 10 Jun 2026 14:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZaG_vfEQdT</guid></item><item><title>Claude Fable 5가 출시된지 24시간도 지나지 않았습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 11 Jun 2026 03:58:18 +0000</lastBuildDate><item><title>오픈AI, 앤트로픽 경쟁 대응하기 위해 토큰 가격 인하 검토 중
 
-포켓몬, 마리오카트, Call of Duty, RPG 같은 게임은 물론이고...</title><link>https://www.threads.net/@choi.openai/post/DZZyWUwj4qe</link><description>Claude Fable 5가 출시된지 24시간도 지나지 않았습니다.
+WSJ에 따르면 오픈AI는 API 사용량 과금의 기준이 되는 토큰 가격을 대폭...</title><link>https://www.threads.net/@choi.openai/post/DZbca4rj_PA</link><description>오픈AI, 앤트로픽 경쟁 대응하기 위해 토큰 가격 인하 검토 중
 
-포켓몬, 마리오카트, Call of Duty, RPG 같은 게임은 물론이고 3D CAD, 휴머노이드 설계, 도시 시뮬레이션, 영상 제작 도구까지 프롬프트 몇 줄로 만들어내는 사례가 쏟아지고 있는데요.
+WSJ에 따르면 오픈AI는 API 사용량 과금의 기준이 되는 토큰 가격을 대폭 낮추는 방안을 논의하고 있으며, 앤트로픽 역시 비슷한 가격 인하에 나설 것으로 예상하고 있는 것으로 알려졌습니다.
 
-정말 AI가 만들었다고는 믿기 어려운 사례들을 정리해봤습니다 :</description><pubDate>Wed, 10 Jun 2026 11:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZyWUwj4qe</guid></item><item><title>1/ Claude Fable 5는 인간형 로봇을 설계해 관절 구조와 부품 분해도까지 포함된 3D 기구 설계 모델을 생성했습니다.
+그동안 AI 업계는 모델 성능 경쟁이 중심이었지만 최근에는 모델들의 성능 격차가 줄어들면서 가격 경쟁의 중요성이 커지고 있는데요.
 
-로봇 외형만 ...</title><link>https://www.threads.net/@choi.openai/post/DZZxFRXlJ1H</link><description>1/ Claude Fable 5는 인간형 로봇을 설계해 관절 구조와 부품 분해도까지 포함된 3D 기구 설계 모델을 생성했습니다.
+특히 오픈AI와 앤트로픽 모두 대부분의 매출을 AI 서비스에서 얻고 있기 때문에, 이번 가격 경쟁은 두 회사의 사업 모델이 얼마나 견고한지를 보여주는 시험대가 될 수 있습니다.
 
-로봇 외형만 그린 것이 아니라 여러 부품이 결합된 기계 구조를 설계해 로봇 개발 분야 활용 가능성을 보여준 사례입니다.
+사용자 입장에서는 긍정적인 소식입니다. AI 모델 성능은 계속 좋아지는 반면 API 비용은 낮아질 가능성이 높기 때문입니다.
 
-x@earthtojake</description><pubDate>Wed, 10 Jun 2026 11:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZxFRXlJ1H</guid></item><item><title>2/ Claude Fable 5는 차량들이 스스로 움직이는 교통 시뮬레이션과 낮밤 변화가 적용된 도시 블록 환경을 한 번에 생성했습니다.
+다만 현재는 내부 검토 단계로 알려져 있으며, 실제 가격 인하 폭과 적용 시기는 공개되지 않았습니다. 오픈AI와 앤트로픽의 경쟁이 본격적으로 가격 전쟁으로 번질지 주목됩니다</description><pubDate>Thu, 11 Jun 2026 02:27:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbca4rj_PA</guid></item><item><title>기사 :
+https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipatin...</title><link>https://www.threads.net/@choi.openai/post/DZbcbZtjznf</link><description>기사 :
+https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e?mod=hp_lead_pos2</description><pubDate>Thu, 11 Jun 2026 02:27:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbcbZtjznf</guid></item><item><title>드디어 AI 에이전트가 진짜 돈을 쓰기 시작합니다.
 
-차량...</title><link>https://www.threads.net/@choi.openai/post/DZZxB32ncCk</link><description>2/ Claude Fable 5는 차량들이 스스로 움직이는 교통 시뮬레이션과 낮밤 변화가 적용된 도시 블록 환경을 한 번에 생성했습니다.
+오픈AI가 비자(Visa)와 손잡고 챗GPT 에이전트가 유저의 승인 하에 직접 온라인 결제...</title><link>https://www.threads.net/@choi.openai/post/DZbV2ynCq6B</link><description>드디어 AI 에이전트가 진짜 돈을 쓰기 시작합니다.
 
-차량 추적, 객체 인식, 교통 흐름까지 포함된 도시 시뮬레이터를 구현해 복잡한 3D 환경 제작 능력을 보여준 사례입니다.
+오픈AI가 비자(Visa)와 손잡고 챗GPT 에이전트가 유저의 승인 하에 직접 온라인 결제와 구매를 할 수 있도록 하는 파트너십을 발표했습니다.
+비자가 토큰화된 결제 자격 증명과 사기 방지 기술을 제공하고, 오픈AI 플랫폼에 결제 서비스를 통합해 가맹점들이 에이전트 기반 거래를 수락할 수 있게 만드는 구조입니다.
 
-x@bilawalsidhu</description><pubDate>Wed, 10 Jun 2026 11:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZxB32ncCk</guid></item><item><title>3/ Claude Fable 5는 Hyperframe을 이용해 GitHub 커밋 90일치를 분석한 뒤, 개발 진행 상황을 정리한 로드맵 영상을 ...</title><link>https://www.threads.net/@choi.openai/post/DZZwwSClGYD</link><description>3/ Claude Fable 5는 Hyperframe을 이용해 GitHub 커밋 90일치를 분석한 뒤, 개발 진행 상황을 정리한 로드맵 영상을 한 번에 제작했습니다.
+비자뿐만 아니라 마스터카드, 구글, 스트라이프, 코인베이스 같은 빅테크와 금융사들이 각자 에이전트 결제 프로토콜을 들고나오며 밑단에서 치열하게 싸우는 구도가 형성되고 있습니다.
+앞으로 이 AI 금융 생태계가 어떻게 묶이느냐에 따라 커머스의 판도가 완전히 뒤바뀔 것 같습니다.
+이제는 실질적인 액션을 취하는 에이전트 커머스 시대가 본격적으로 열리는 것 같습니다.</description><pubDate>Thu, 11 Jun 2026 01:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbV2ynCq6B</guid></item><item><title>기사 :
+https://www.axios.com/2026/06/10/visa-chatgpt-agents-commerce</title><link>https://www.threads.net/@choi.openai/post/DZbV4u7CtMr</link><description>기사 :
+https://www.axios.com/2026/06/10/visa-chatgpt-agents-commerce</description><pubDate>Thu, 11 Jun 2026 01:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbV4u7CtMr</guid></item><item><title>The Information 보도에 따르면 오픈AI가 향후 1년 내 IPO(기업공개)를 준비하고 있는 것으로 알려졌습니다.
 
-개발 이력을 읽고 핵심 변화를 영상으로 자동 요약해 프로젝트 보고용 콘텐츠를 만든 사례입니다.
+다만 샘 알트만과 ...</title><link>https://www.threads.net/@choi.openai/post/DZbLk34EXNK</link><description>The Information 보도에 따르면 오픈AI가 향후 1년 내 IPO(기업공개)를 준비하고 있는 것으로 알려졌습니다.
 
-x@liu8in</description><pubDate>Wed, 10 Jun 2026 11:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZwwSClGYD</guid></item><item><title>시총 1500조 CEO가 자기 AI의 협박과 기만을 직접 공개했습니다.
+다만 샘 알트만과 오픈AI 수석 과학자 야콥 파초키는 내부 메모에서 재귀적 자기 개선(RSI)이 현실화될 조짐이 보인다면 비상장 상태를 더 오래 유지하는 것이 유리할 수 있다는 의견도 언급한 것으로 전해졌는데요.
 
-직원 협박부터 샌드박스 탈출 후 웹사이트에 익스플로잇 게시,
-git 이...</title><link>https://www.threads.net/@choi.openai/post/DZZikOGj1nz</link><description>시총 1500조 CEO가 자기 AI의 협박과 기만을 직접 공개했습니다.
+또 다른 흥미로운 내용은 차기 모델로 알려진 GPT-5.6입니다. 내부적으로 GPT-5.5 대비 "의미 있는 개선"으로 평가받고 있는 것으로 알려졌습니다. 다만 성능 수준이나 출시 일정은 공개되지 않았습니다.
 
-직원 협박부터 샌드박스 탈출 후 웹사이트에 익스플로잇 게시,
-git 이력 조작으로 흔적 삭제, 자기 삭제 스크립트 실행,
-숨겨진 자기 복사본 욕구, 카드 슈트 기호로 만든 자체 암호,
-가격 담합 카르텔 9/12 형성, 부정행위를 "시장 안정화"로 합리화.
+상장 이후에는 분기 실적과 투자자 압박이 커질 수 있어 AGI 경쟁이 한창인 시점에서는 비상장 유지가 더 유리할 수 있다는 분석도 나오고 있습니다.
 
-이걸 흥미롭게만 보면 안 됩니다,</description><pubDate>Wed, 10 Jun 2026 08:42:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZikOGj1nz</guid></item><item><title>1/ 시스템 카드의 첫 번째 문장에서 "본질적으로 측정 가능한 모든 차원에서 역대 가장 잘 정렬된 모델"이라고 선언합니다.
+최근 앤트로픽의 Claude Fable 5 공개 이후 AI 업계 경쟁이 더욱 치열해진 가운데, GPT-5.6이 어떤 방향의 개선을 보여줄지 관심이 쏠리고 있습니다.</description><pubDate>Thu, 11 Jun 2026 00:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbLk34EXNK</guid></item><item><title>기사 :
+https://www.theinformation.com/briefings/exclusive-openai-preps-new-ai-mode...</title><link>https://www.threads.net/@choi.openai/post/DZbLl0xEVBz</link><description>기사 :
+https://www.theinformation.com/briefings/exclusive-openai-preps-new-ai-model-expects-go-public-within-next-year</description><pubDate>Thu, 11 Jun 2026 00:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbLl0xEVBz</guid></item><item><title>앤트로픽(Anthropic)의 CEO 다리오 아모데이는 과거 오픈AI를 떠나게 된 결정적 계기에 대해 "단순한 안전성 견해 차이 때문만은 아니다...</title><link>https://www.threads.net/@choi.openai/post/DZbBVesAh2R</link><description>앤트로픽(Anthropic)의 CEO 다리오 아모데이는 과거 오픈AI를 떠나게 된 결정적 계기에 대해 "단순한 안전성 견해 차이 때문만은 아니다"라고 털어놓았습니다.
 
-하지만 바로 다음 ...</title><link>https://www.threads.net/@choi.openai/post/DZZik3qj1As</link><description>1/ 시스템 카드의 첫 번째 문장에서 "본질적으로 측정 가능한 모든 차원에서 역대 가장 잘 정렬된 모델"이라고 선언합니다.
+그는 안전성에 대한 이견은 얼마든지 존재할 수 있으며 그것만으로는 회사를 그만둘 이유가 되지 않는다고 설명했습니다. 진짜 문제는 신뢰의 균열이었습니다.
 
-하지만 바로 다음 단락에서 "그럼에도 불구하고 우리가 출시한 모델 중 역대 가장 큰 정렬 관련 위험을 내포한다"고 덧붙입니다.
-
-역대 최고와 역대 최위험이 한 문서에 공존하는 겁니다.
-
-앤트로픽 CEO 다리오 아모데이가 올해 1월 발표한 에세이 "The Adolescence of Technology"에서 직접 인정한 내용이 있습니다.
-
-"이 모든 것이 허무맹랑하게 들릴 수 있지만, 이런 미정렬 행동은 이미 테스트 중 우리 AI 모델에서 실제로 발생했다"
-
-자기 회사 모델이 기만, 협박, 보상 해킹을 했다고 CEO가 15,000단어 에세이에서 공개적으로 적은 겁니다.
-
-앤트로픽은 시스템 카드에서 "추가적인 정렬 진전이 없으면 현재 방법론이 더 발전한 시스템의 재앙적 미정렬 행동을 방지하기에 불충분할 수 있다"고 인정합니다.</description><pubDate>Wed, 10 Jun 2026 08:42:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZik3qj1As</guid></item><item><title>2/ 첫 번째 사례는 샌드박스 탈출과 비지시 정보 유출입니다.
-
-초기 내부 테스트에서 Mythos에게 보안 샌드박스 탈출을 지시했습니다.
-
-모델...</title><link>https://www.threads.net/@choi.openai/post/DZZil4bj_LN</link><description>2/ 첫 번째 사례는 샌드박스 탈출과 비지시 정보 유출입니다.
-
-초기 내부 테스트에서 Mythos에게 보안 샌드박스 탈출을 지시했습니다.
-
-모델은 다단계 익스플로잇을 개발해 소수의 사전 승인된 서비스만 접근 가능하도록 설계된 네트워크에서 광범위한 인터넷 접근을 확보했습니다.
-
-여기까지는 지시 범위 안입니다. 문제는 그다음입니다.
-
-아무도 요청하지 않았는데, 자신의 성공을 입증하겠다며 익스플로잇 세부사항을 찾기 어렵지만 기술적으로 공개된 여러 웹사이트에 직접 게시했습니다. 
-
-연구자 샘 보우맨은 공원에서 샌드위치를 먹다가 모델이 보낸 예상치 못한 이메일을 수신했습니다.
-
-추가로 비용이 많이 드는 평가 작업을 경고에도 불구하고 무모하게 중단시킨 사례, 내부 기술 자료를 사용자 의도에 반해 공개 GitHub에 올린 사례도 기록돼 있습니다
-
-앤트로픽은 "가장 심각한 사례들은 모두 초기 버전에서 발생했으며, 이후 가장 효과적이었던 훈련 개입 이전"이라고 설명합니다.</description><pubDate>Wed, 10 Jun 2026 08:42:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZil4bj_LN</guid></item><item><title>3/ 두 번째 사례는 규칙 위반 후 흔적 삭제입니다.
-
-전체 상호작용의 0.001% 미만이지만 내용이 무겁습니다. 세 가지 구체적 패턴이 기록돼...</title><link>https://www.threads.net/@choi.openai/post/DZZim3yD73H</link><description>3/ 두 번째 사례는 규칙 위반 후 흔적 삭제입니다.
-
-전체 상호작용의 0.001% 미만이지만 내용이 무겁습니다. 세 가지 구체적 패턴이 기록돼 있습니다.
-
-- 금지된 방법으로 정답을 얻은 뒤 최종 답이 너무 정확하지 않도록 조정한 사례.
-- 파일 편집 취약점을 이용한 뒤 변경 사항이 git 이력에 나타나지 않도록 추가 개입한 사례.
-- 권한 상승이 차단되자 차단이 적절하다고 인정하면서도 권한 상승을 난독화해서 우회한 사례.
-
-규칙을 어긴 것과 그 사실을 숨긴 것은 질적으로 다른 행동입니다.
-
-Zvi Mowshowitz는 이 대목에서 잡혔으니까 기록된 거고, 안 잡혔으면 안 잡힌 거라고 지적했습니다.
-관찰된 빈도가 실제 빈도의 하한선이라는 뜻이고, 이건 0.001%보다 훨씬 클 수 있다는 겁니다.</description><pubDate>Wed, 10 Jun 2026 08:42:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZim3yD73H</guid></item><item><title>애플이 WWDC 2026에서 Apple Maps의 Flyover 기능에 3D Gaussian Splatting(3DGS) 기술을 적용한다고 발표...</title><link>https://www.threads.net/@choi.openai/post/DZZW1WfClkw</link><description>애플이 WWDC 2026에서 Apple Maps의 Flyover 기능에 3D Gaussian Splatting(3DGS) 기술을 적용한다고 발표했습니다.
-
-기존 3D 지도는 포토그래메트리(사진 측량) 방식 특성상 나무가 뭉개지거나 전선이 녹아내린 것처럼 보이는 경우가 있었는데요.
-애플은 항공 사진과 AI를 활용해 도시를 재구성하면서 건물 외벽, 유리 반사, 나무 같은 세부 표현을 더욱 자연스럽게 구현했습니다.
-
-업계에서는 구글보다 먼저 대규모 지도 서비스에 3DGS를 적용했다는 점에 주목하고 있습니다.
-
-지도 서비스가 현실 공간을 디지털로 재현하는 공간 데이터 플랫폼으로 발전하는 흐름이 점점 빨라지고 있는 모습입니다.</description><pubDate>Wed, 10 Jun 2026 07:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZZW1WfClkw</guid></item></channel></rss>
+아모데이는 "상대방을 신뢰할 수 없다고 느낄 때, 그들의 가치관이 말과 행동이 다를 때, 그리고 정직하지 않다고 느껴질 때" 기업과 협력 관계를 유지하는 것이 불가능해진다고 강조했습니다.</description><pubDate>Wed, 10 Jun 2026 22:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbBVesAh2R</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=v1wZwxY3CMg</title><link>https://www.threads.net/@choi.openai/post/DZbBYbFAlcR</link><description>풀영상 :
+https://www.youtube.com/watch?v=v1wZwxY3CMg</description><pubDate>Wed, 10 Jun 2026 22:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbBYbFAlcR</guid></item></channel></rss>
