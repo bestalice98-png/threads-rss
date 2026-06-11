@@ -1,45 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 11 Jun 2026 03:58:18 +0000</lastBuildDate><item><title>오픈AI, 앤트로픽 경쟁 대응하기 위해 토큰 가격 인하 검토 중
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 11 Jun 2026 12:09:42 +0000</lastBuildDate><item><title>솔직히 Claude Fable 5 버블입니다.
 
-WSJ에 따르면 오픈AI는 API 사용량 과금의 기준이 되는 토큰 가격을 대폭...</title><link>https://www.threads.net/@choi.openai/post/DZbca4rj_PA</link><description>오픈AI, 앤트로픽 경쟁 대응하기 위해 토큰 가격 인하 검토 중
+언블리'버블'이요.
+몇 달 걸리던 게임 개발이 이제는 프롬프트 몇 줄이면 되는 수준까지 왔습니다...</title><link>https://www.threads.net/@choi.openai/post/DZcQOKgD9qA</link><description>솔직히 Claude Fable 5 버블입니다.
 
-WSJ에 따르면 오픈AI는 API 사용량 과금의 기준이 되는 토큰 가격을 대폭 낮추는 방안을 논의하고 있으며, 앤트로픽 역시 비슷한 가격 인하에 나설 것으로 예상하고 있는 것으로 알려졌습니다.
+언블리'버블'이요.
+몇 달 걸리던 게임 개발이 이제는 프롬프트 몇 줄이면 되는 수준까지 왔습니다.
+이제는 정말 아이디어와 돈이 병목입니다.
 
-그동안 AI 업계는 모델 성능 경쟁이 중심이었지만 최근에는 모델들의 성능 격차가 줄어들면서 가격 경쟁의 중요성이 커지고 있는데요.
+구독제로는 6월 22일까지 밖에 못쓰는,
+진짜 하루만에 등장한 미친 제작사례 모았습니다 :</description><pubDate>Thu, 11 Jun 2026 10:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZcQOKgD9qA</guid></item><item><title>1/ Claude Fable 5는 두 줄짜리 프롬프트만으로 적 전투, 3D 맵, 조명 효과가 포함된 액션 게임을 제작했습니다.
 
-특히 오픈AI와 앤트로픽 모두 대부분의 매출을 AI 서비스에서 얻고 있기 때문에, 이번 가격 경쟁은 두 회사의 사업 모델이 얼마나 견고한지를 보여주는 시험대가 될 수 있습니다.
+게임 기획서 없...</title><link>https://www.threads.net/@choi.openai/post/DZcMJv2GdQN</link><description>1/ Claude Fable 5는 두 줄짜리 프롬프트만으로 적 전투, 3D 맵, 조명 효과가 포함된 액션 게임을 제작했습니다.
 
-사용자 입장에서는 긍정적인 소식입니다. AI 모델 성능은 계속 좋아지는 반면 API 비용은 낮아질 가능성이 높기 때문입니다.
+게임 기획서 없이도 플레이 가능한 3D 게임을 빠르게 구현해 AI 기반 게임 개발 수준을 보여준 사례입니다.
 
-다만 현재는 내부 검토 단계로 알려져 있으며, 실제 가격 인하 폭과 적용 시기는 공개되지 않았습니다. 오픈AI와 앤트로픽의 경쟁이 본격적으로 가격 전쟁으로 번질지 주목됩니다</description><pubDate>Thu, 11 Jun 2026 02:27:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbca4rj_PA</guid></item><item><title>기사 :
-https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipatin...</title><link>https://www.threads.net/@choi.openai/post/DZbcbZtjznf</link><description>기사 :
-https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e?mod=hp_lead_pos2</description><pubDate>Thu, 11 Jun 2026 02:27:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbcbZtjznf</guid></item><item><title>드디어 AI 에이전트가 진짜 돈을 쓰기 시작합니다.
+x@dkdlenl4</description><pubDate>Thu, 11 Jun 2026 10:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZcMJv2GdQN</guid></item><item><title>2/ Claude Fable 5는 "V8 엔진을 설계해줘"라는 요청에 10분도 안 돼 CAD 모델을 생성하고, 내부 부품이 실제로 움직이는 엔진...</title><link>https://www.threads.net/@choi.openai/post/DZcMknbjYfM</link><description>2/ Claude Fable 5는 "V8 엔진을 설계해줘"라는 요청에 10분도 안 돼 CAD 모델을 생성하고, 내부 부품이 실제로 움직이는 엔진 구조까지 구현했습니다.
 
-오픈AI가 비자(Visa)와 손잡고 챗GPT 에이전트가 유저의 승인 하에 직접 온라인 결제...</title><link>https://www.threads.net/@choi.openai/post/DZbV2ynCq6B</link><description>드디어 AI 에이전트가 진짜 돈을 쓰기 시작합니다.
+기계 설계 지식이 없어도 자연어로 부품 설계를 요청하면 3D 모델을 만들 수 있어, CAD 작업의 진입장벽을 크게 낮추는 사례로 주목받고 있습니다.
 
-오픈AI가 비자(Visa)와 손잡고 챗GPT 에이전트가 유저의 승인 하에 직접 온라인 결제와 구매를 할 수 있도록 하는 파트너십을 발표했습니다.
-비자가 토큰화된 결제 자격 증명과 사기 방지 기술을 제공하고, 오픈AI 플랫폼에 결제 서비스를 통합해 가맹점들이 에이전트 기반 거래를 수락할 수 있게 만드는 구조입니다.
+x@Aaron Li</description><pubDate>Thu, 11 Jun 2026 10:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZcMknbjYfM</guid></item><item><title>3/ Claude Fable 5는 빈 프로젝트 폴더에서 시작해 Hades 스타일의 액션 로그라이크 ARPG를 만들고, 몬스터 웨이브, 연속 공격...</title><link>https://www.threads.net/@choi.openai/post/DZcMY8pibcM</link><description>3/ Claude Fable 5는 빈 프로젝트 폴더에서 시작해 Hades 스타일의 액션 로그라이크 ARPG를 만들고, 몬스터 웨이브, 연속 공격, 회피 무적 판정, 물리 엔진까지 직접 구성했습니다.
 
-비자뿐만 아니라 마스터카드, 구글, 스트라이프, 코인베이스 같은 빅테크와 금융사들이 각자 에이전트 결제 프로토콜을 들고나오며 밑단에서 치열하게 싸우는 구도가 형성되고 있습니다.
-앞으로 이 AI 금융 생태계가 어떻게 묶이느냐에 따라 커머스의 판도가 완전히 뒤바뀔 것 같습니다.
-이제는 실질적인 액션을 취하는 에이전트 커머스 시대가 본격적으로 열리는 것 같습니다.</description><pubDate>Thu, 11 Jun 2026 01:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbV2ynCq6B</guid></item><item><title>기사 :
-https://www.axios.com/2026/06/10/visa-chatgpt-agents-commerce</title><link>https://www.threads.net/@choi.openai/post/DZbV4u7CtMr</link><description>기사 :
-https://www.axios.com/2026/06/10/visa-chatgpt-agents-commerce</description><pubDate>Thu, 11 Jun 2026 01:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbV4u7CtMr</guid></item><item><title>The Information 보도에 따르면 오픈AI가 향후 1년 내 IPO(기업공개)를 준비하고 있는 것으로 알려졌습니다.
+별도 에셋을 주지 않아도 무료 에셋을 스스로 찾아 적용하고, 다운로드 스크립트와 에셋 관리 구조까지 구축해 게임 개발 과정을 자동화한 사례입니다.
 
-다만 샘 알트만과 ...</title><link>https://www.threads.net/@choi.openai/post/DZbLk34EXNK</link><description>The Information 보도에 따르면 오픈AI가 향후 1년 내 IPO(기업공개)를 준비하고 있는 것으로 알려졌습니다.
+x@akiraxtwo</description><pubDate>Thu, 11 Jun 2026 10:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZcMY8pibcM</guid></item><item><title>앤트로픽의 CEO 다리오 아모데이는 일부에서 자신들의 경고를 두고 앤트로픽의 이익을 위한 ‘종말 마케팅(Doom Marketing)’이라 치부하...</title><link>https://www.threads.net/@choi.openai/post/DZcF-imieMR</link><description>앤트로픽의 CEO 다리오 아모데이는 일부에서 자신들의 경고를 두고 앤트로픽의 이익을 위한 ‘종말 마케팅(Doom Marketing)’이라 치부하는 것에 대해 강력히 거부감을 드러냈습니다.
 
-다만 샘 알트만과 오픈AI 수석 과학자 야콥 파초키는 내부 메모에서 재귀적 자기 개선(RSI)이 현실화될 조짐이 보인다면 비상장 상태를 더 오래 유지하는 것이 유리할 수 있다는 의견도 언급한 것으로 전해졌는데요.
+아모데이는 “우리의 경고가 저급한 마케팅이라는 주장을 펴는 것 자체가 또 다른 마케팅”이라며 날을 세웠습니다. 또한, AI가 일자리를 완전히 대체하기보다 새로운 기회를 만들 것이라는 낙관론에 대해서도 기술의 발전 속도와 파급력을 고려할 때 노동 시장의 혼란은 피할 수 없는 현실이라고 짚었습니다.
 
-또 다른 흥미로운 내용은 차기 모델로 알려진 GPT-5.6입니다. 내부적으로 GPT-5.5 대비 "의미 있는 개선"으로 평가받고 있는 것으로 알려졌습니다. 다만 성능 수준이나 출시 일정은 공개되지 않았습니다.
+그는 SNS에서 단편적인 클립만 보고 자신들을 맹목적인 비관주의자로 몰아가는 세태를 비판했습니다. 본인은 세금, 거시경제 정책, 새로운 일자리 창출 등 다각도에서 다가올 리스크의 해결책을 일관되게 제시해 왔다고 강조했습니다.
 
-상장 이후에는 분기 실적과 투자자 압박이 커질 수 있어 AGI 경쟁이 한창인 시점에서는 비상장 유지가 더 유리할 수 있다는 분석도 나오고 있습니다.
+“제 메시지는 결코 파멸이 다가오고 있다는 뜻이 아닙니다. 우리가 마주할 변화를 미리 내다보고, 우려되는 부분에 대해 실제로 대응책을 마련해야 한다는 의미입니다.”</description><pubDate>Thu, 11 Jun 2026 08:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZcF-imieMR</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=v1wZwxY3CMg</title><link>https://www.threads.net/@choi.openai/post/DZcF_ZvCabH</link><description>풀영상 :
+https://www.youtube.com/watch?v=v1wZwxY3CMg</description><pubDate>Thu, 11 Jun 2026 08:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZcF_ZvCabH</guid></item><item><title>30만원으로 2000만원이상 벌어가고 있었다.</title><link>https://www.threads.net/@choi.openai/post/DZcFaMwj9Vw</link><description>30만원으로 2000만원이상 벌어가고 있었다.</description><pubDate>Thu, 11 Jun 2026 08:25:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZcFaMwj9Vw</guid></item><item><title>1/ SemiAnalysis가 주간 한도를 다 쓸 때까지 코딩 태스크를 임의 실행한 결과, 구독 요금제가 API 가격 대비 압도적으로 넓은 한도...</title><link>https://www.threads.net/@choi.openai/post/DZcFaybD_U4</link><description>1/ SemiAnalysis가 주간 한도를 다 쓸 때까지 코딩 태스크를 임의 실행한 결과, 구독 요금제가 API 가격 대비 압도적으로 넓은 한도를 퍼주고 있는 것으로 관찰되었습니다.
 
-최근 앤트로픽의 Claude Fable 5 공개 이후 AI 업계 경쟁이 더욱 치열해진 가운데, GPT-5.6이 어떤 방향의 개선을 보여줄지 관심이 쏠리고 있습니다.</description><pubDate>Thu, 11 Jun 2026 00:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbLk34EXNK</guid></item><item><title>기사 :
-https://www.theinformation.com/briefings/exclusive-openai-preps-new-ai-mode...</title><link>https://www.threads.net/@choi.openai/post/DZbLl0xEVBz</link><description>기사 :
-https://www.theinformation.com/briefings/exclusive-openai-preps-new-ai-model-expects-go-public-within-next-year</description><pubDate>Thu, 11 Jun 2026 00:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbLl0xEVBz</guid></item><item><title>앤트로픽(Anthropic)의 CEO 다리오 아모데이는 과거 오픈AI를 떠나게 된 결정적 계기에 대해 "단순한 안전성 견해 차이 때문만은 아니다...</title><link>https://www.threads.net/@choi.openai/post/DZbBVesAh2R</link><description>앤트로픽(Anthropic)의 CEO 다리오 아모데이는 과거 오픈AI를 떠나게 된 결정적 계기에 대해 "단순한 안전성 견해 차이 때문만은 아니다"라고 털어놓았습니다.
+실제로 프롬프트 캐싱을 감안하더라도, 실제 헤비 개발자들 사이에서는 일주일에 $8,000 어치 이상의 토큰을 소모하거나, 하루 만에 API 기준 $7,000 수준의 연산을 단돈 $200 구독 플랜 하나로 소화한 실측 사례가 공유됩니다.
 
-그는 안전성에 대한 이견은 얼마든지 존재할 수 있으며 그것만으로는 회사를 그만둘 이유가 되지 않는다고 설명했습니다. 진짜 문제는 신뢰의 균열이었습니다.
+99%의 라이트 유저들이 몫을 쓰지 않고 지불하는 구독료가, 1%의 헤비 유저들의 연산 비용을 교차 보조하는 비대칭적 '뷔페' 구조이기 때문입니다.
 
-아모데이는 "상대방을 신뢰할 수 없다고 느낄 때, 그들의 가치관이 말과 행동이 다를 때, 그리고 정직하지 않다고 느껴질 때" 기업과 협력 관계를 유지하는 것이 불가능해진다고 강조했습니다.</description><pubDate>Wed, 10 Jun 2026 22:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbBVesAh2R</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=v1wZwxY3CMg</title><link>https://www.threads.net/@choi.openai/post/DZbBYbFAlcR</link><description>풀영상 :
-https://www.youtube.com/watch?v=v1wZwxY3CMg</description><pubDate>Wed, 10 Jun 2026 22:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZbBYbFAlcR</guid></item></channel></rss>
+AI 연구소들의 API 매출총이익률을 75% 수준으로 가정하더라도, 헤비 유저들이 한도를 꽉 채워 사용할 때 발생하는 구독 마진은 API 마진에 비해 압도적으로 나쁜 것으로 평가됩니다.</description><pubDate>Thu, 11 Jun 2026 08:25:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZcFaybD_U4</guid></item><item><title>2/ 그럼에도 연구소들이 명시적으로 구독 한도를 칼질하지 못하는 이유는, 이에 따른 커뮤니티의 즉각적인 대중적 반발과 경쟁사로의 이탈 리스크 때...</title><link>https://www.threads.net/@choi.openai/post/DZcFbsnj59y</link><description>2/ 그럼에도 연구소들이 명시적으로 구독 한도를 칼질하지 못하는 이유는, 이에 따른 커뮤니티의 즉각적인 대중적 반발과 경쟁사로의 이탈 리스크 때문이라는 분석입니다.
+
+문제는 이 퍼주기식 보조금의 지속 불가능성입니다. 앤트로픽과 오픈AI는 대중의 반발을 부르는 명시적 한도 축소 대신, Claude Fable 5나 Mythos처럼 성능이 극대화된 프론티어 모델과 자율 에이전트 기능을 일반 구독 요금제에서 제외하고 API 전용으로 밀어 올리는 전략을 취하고 있습니다.
+
+결과적으로 돈을 내고 API를 쓰는 헤비 유저/엔터프라이즈와, 월 $20 선의 범용 구독제에 갇혀 한 세대 뒤처진 레거시 모델만 쓰는 일반 사용자 사이에 '연산 지능의 구독 계급층'이 생겨나고 있다는 비판이 제기됩니다.
+
+돈의 지불 방식과 액수에 따라 지능에 대한 접근 권한이 구조적으로 차등 분리되는 셈입니다.</description><pubDate>Thu, 11 Jun 2026 08:25:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZcFbsnj59y</guid></item><item><title>3/ 이 계급화는 B2B 기업 고객들에게는 또 다른 박탈감으로 다가오고 있습니다.
+프라이버시와 보안 감사 요건 때문에 구독 모델을 쓰지 못하고 ...</title><link>https://www.threads.net/@choi.openai/post/DZcFcFWjyiQ</link><description>3/ 이 계급화는 B2B 기업 고객들에게는 또 다른 박탈감으로 다가오고 있습니다.
+프라이버시와 보안 감사 요건 때문에 구독 모델을 쓰지 못하고 비싼 API 비용을 고스란히 지불해야 하는 기업 고객들은, 자신들이 지불하는 고가의 API 요금이 개인 헤비 유저들의 연산 뷔페를 교차 보조하고 있는 불합리한 비용 구조를 마주하고 있는 것인데요.
+
+반면, 연구소들이 손해를 보는 것이 아니라 백엔드에서 양자화, 증류, 프롬프트 라우팅 등의 최적화 기법을 총동원해 단가를 낮춰 70% 이상의 흑자 마진을 남기는 '기술적 차익거래'를 수행 중이라는 의견도 존재합니다.
+
+결국 이 '지능 보조금' 구조의 종착지는 플랫폼 락인입니다.
+
+앤트로픽의 API 격상 전략처럼 독점이 완료되고 생태계가 굳어지면 요금 인상과 API 종량제 전환으로 갈 가능성이 높은데요.
+즉, 벤더 간의 생태계 전쟁으로 보조금 뷔페가 열려 있는 바로 지금 이 시기에 연산 자원을 한계치까지 활용해 생산성을 선점하는 것이 중요합니다.</description><pubDate>Thu, 11 Jun 2026 08:25:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZcFcFWjyiQ</guid></item><item><title>앤트로픽이 결국 클로드 Fable 5의 성능을 은밀히 저하시키던 '비밀 사보타주' 가드레일 정책을 공식 사과하고 철회했습니다.
+
+"우리가 잘못된...</title><link>https://www.threads.net/@choi.openai/post/DZb7tUwj4a_</link><description>앤트로픽이 결국 클로드 Fable 5의 성능을 은밀히 저하시키던 '비밀 사보타주' 가드레일 정책을 공식 사과하고 철회했습니다.
+
+"우리가 잘못된 트레이드오프를 했고, 균형을 맞추지 못해 죄송하다"며 WIRED를 통해 공식 고개를 숙였는데요.
+
+사안의 본질과 파장을 정리해 봅니다. 🧵</description><pubDate>Thu, 11 Jun 2026 07:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZb7tUwj4a_</guid></item><item><title>1/ 사태의 발단은 이렇습니다.
+
+앤트로픽은 차세대 모델인 Fable 5 출시와 동시에, 경쟁 LLM 모델 연구소나 연구원들이 앤트로픽 모델을 ...</title><link>https://www.threads.net/@choi.openai/post/DZb7t4fj9nB</link><description>1/ 사태의 발단은 이렇습니다.
+
+앤트로픽은 차세대 모델인 Fable 5 출시와 동시에, 경쟁 LLM 모델 연구소나 연구원들이 앤트로픽 모델을 통해 지식을 증류(distillation)하고 학습 데이터로 활용하는 것을 방지하기 위해 특수 분류기(Classifier)를 달아놓았습니다.
+
+문제는 이 분류기가 작동할 때, 사용자에게 차단 고지를 하지 않고 성능을 은밀하게 낮춰서 답변을 뱉어내는 '비밀 사보타주' 방식을 취했다는 점입니다.
+
+앤트로픽이 시스템 카드에 명시한 방법은 프롬프트 수정, 스티어링 벡터, 파라미터 효율적 파인튜닝(PEFT)세 가지입니다.
+
+이 중 스티어링 벡터와 PEFT는 모델의 내부 상태나 가중치에 직접 개입하는 방식입니다. 응답을 잘라내거나 거부하는 게 아니라, 모델 자체가 낮은 품질의 결과물을 생성하도록 유도하는 겁니다.
+
+앤트로픽은 이 개입이 전체 트래픽의 약 0.03%에만 영향을 미친다고 추정했습니다.</description><pubDate>Thu, 11 Jun 2026 07:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZb7t4fj9nB</guid></item><item><title>2/ 앤트로픽이 밝힌 변명은 "해외 적대 세력을 차단하되, 정상적인 프롬프트에 미치는 영향을 최소화하기 위해 필터를 좁히는 과정에서 숨긴 것"이...</title><link>https://www.threads.net/@choi.openai/post/DZb7uq0D1Tx</link><description>2/ 앤트로픽이 밝힌 변명은 "해외 적대 세력을 차단하되, 정상적인 프롬프트에 미치는 영향을 최소화하기 위해 필터를 좁히는 과정에서 숨긴 것"이었습니다.
+
+그러나 실시간 AI 연구자들과 개발자들 사이에서 "코드 컨텍스트를 분석하는 과정에서 Fable 5가 소리 소문 없이 멍청해지거나 퀄리티가 심각하게 깎인다"는 불만이 폭증했고, 이것이 '인위적 사보타주'였음이 들통나며 거센 역풍을 맞았습니다.
+
+오늘 발표된 새로운 방침은 이렇습니다. 이번 주부터 플래그 지정된 위반 요청은 더 이상 숨기지 않고, 사용자 화면에 공식적으로 Opus 4.8로 폴백(Fallback)됨을 명시합니다.
+
+API 역시 차단된 요청에 대해 거절 사유를 반환합니다. 사이버 공격이나 생화학 무기 관련 쿼리가 차단될 때와 동일한 수준의 '투명한 차단' 방식으로 회항하는 셈입니다.</description><pubDate>Thu, 11 Jun 2026 07:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZb7uq0D1Tx</guid></item><item><title>3/ 이번 파문의 이면에는 앤트로픽이 'AI 안전'이라는 명분을 빌미로, 프론티어 AI 연구 및 개발에 대한 구조적 제어권을 스스로 독점하려 하...</title><link>https://www.threads.net/@choi.openai/post/DZb7vGYD_6G</link><description>3/ 이번 파문의 이면에는 앤트로픽이 'AI 안전'이라는 명분을 빌미로, 프론티어 AI 연구 및 개발에 대한 구조적 제어권을 스스로 독점하려 하는 것 아니냐는 비판이 제기되고 있습니다.
+
+다리오 아모데이 CEO는 자사의 경고와 로비가 단순 공포 마케팅이 아니라고 선을 긋지만, 일개 사기업이 임의로 타사 연구원들의 가중치 튜닝이나 증류 학습 권한 자체를 제한하고 통제하려 든 행위는 기술 권력의 과도한 독점 시도로 해석될 여지가 크다는 지적입니다.
+
+오픈소스와 학계의 수많은 선행 연구를 자양분 삼아 성장한 선발 주자가, 후발 주자들이 자사 모델을 활용해 추격하는 길목은 백그라운드에서 은밀히 차단하려 한 점에 대해서도 비판이 쏟아집니다.
+
+모델에게는 극단적인 정직과 무해성을 주입한다면서, 정작 자신들은 밀실에서 경쟁사 배제와 기술 격차 유지를 위해 비공개 사보타주를 감행한 것은 전형적인 '사다리 걷어차기'이자 모순이라는 평가가 나옵니다.</description><pubDate>Thu, 11 Jun 2026 07:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZb7vGYD_6G</guid></item></channel></rss>
