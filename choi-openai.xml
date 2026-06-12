@@ -1,2 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 12 Jun 2026 11:43:25 +0000</lastBuildDate></channel></rss>
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 12 Jun 2026 17:30:22 +0000</lastBuildDate><item><title>🚨 Moonshot AI가 코딩 특화 모델 Kimi-K2.7-Code를 공개하고 오픈소스로 배포했습니다.
+
+이전 버전인 K2.6 대비 Kimi ...</title><link>https://www.threads.net/@choi.openai/post/DZfeNoUj3Et</link><description>🚨 Moonshot AI가 코딩 특화 모델 Kimi-K2.7-Code를 공개하고 오픈소스로 배포했습니다.
+
+이전 버전인 K2.6 대비 Kimi Code Bench v2는 21.8%, Program Bench는 11.0%, MLS Bench Lite는 31.5% 향상되었는데요. 또한 추론 토큰 사용량을 30% 줄여 응답 효율도 개선했다고 합니다.
+
+허깅페이스에서 이용 가능하며, 6배 빠른 High-Speed Mode도 추가될 예정입니다.</description><pubDate>Fri, 12 Jun 2026 16:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZfeNoUj3Et</guid></item><item><title>허깅페이스 :
+https://huggingface.co/moonshotai/Kimi-K2.7-Code</title><link>https://www.threads.net/@choi.openai/post/DZfeOraD0hL</link><description>허깅페이스 :
+https://huggingface.co/moonshotai/Kimi-K2.7-Code</description><pubDate>Fri, 12 Jun 2026 16:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZfeOraD0hL</guid></item><item><title>🚨 MiniMax M3, 오픈웨이트 공개</title><link>https://www.threads.net/@choi.openai/post/DZfT8ukj2Dm</link><description>🚨 MiniMax M3, 오픈웨이트 공개</description><pubDate>Fri, 12 Jun 2026 14:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZfT8ukj2Dm</guid></item><item><title>허깅페이스 :
+https://huggingface.co/MiniMaxAI/MiniMax-M3</title><link>https://www.threads.net/@choi.openai/post/DZfT_ALj9am</link><description>허깅페이스 :
+https://huggingface.co/MiniMaxAI/MiniMax-M3</description><pubDate>Fri, 12 Jun 2026 14:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZfT_ALj9am</guid></item><item><title>지금 AI 업계에서 가장 많이 올라오는 영상은 Claude Fable 5입니다.
+
+"한 번에 만들었다"는 말이 과장이 아닐 정도로 게임, 시뮬레...</title><link>https://www.threads.net/@choi.openai/post/DZe9U25D7rE</link><description>지금 AI 업계에서 가장 많이 올라오는 영상은 Claude Fable 5입니다.
+
+"한 번에 만들었다"는 말이 과장이 아닐 정도로 게임, 시뮬레이션, 3D 월드 제작 사례가 계속 등장하고 있는데요.
+
+특히 인상적이었던 제작 사례 15가지를 정리했습니다 :</description><pubDate>Fri, 12 Jun 2026 11:12:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZe9U25D7rE</guid></item><item><title>1/ Claude Fable 5는 친구들과 함께 접속할 수 있는 월드 오브 워크래프트 스타일 멀티플레이 게임을 만들면서, 분위기에 맞는 오픈소스...</title><link>https://www.threads.net/@choi.openai/post/DZe8U6FDBMs</link><description>1/ Claude Fable 5는 친구들과 함께 접속할 수 있는 월드 오브 워크래프트 스타일 멀티플레이 게임을 만들면서, 분위기에 맞는 오픈소스 그래픽 에셋까지 직접 찾아 적용했습니다.
+
+개발자가 일일이 리소스를 찾지 않아도 게임 제작과 에셋 선정까지 함께 진행한 사례입니다.
+
+x@maxpolaczuk</description><pubDate>Fri, 12 Jun 2026 11:12:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZe8U6FDBMs</guid></item><item><title>2/ "우주선 안을 자유롭게 돌아다닐 수 있는 게임을 만들어줘"라는 요청에, Claude Fable 5는 조종석, 승무원 구역, 창밖 행성, 조...</title><link>https://www.threads.net/@choi.openai/post/DZe8_Yajncs</link><description>2/ "우주선 안을 자유롭게 돌아다닐 수 있는 게임을 만들어줘"라는 요청에, Claude Fable 5는 조종석, 승무원 구역, 창밖 행성, 조명 효과, 수면·식사 상호작용까지 포함된 3D 우주선 게임을 구현했습니다.
+
+또한 직접 화면을 확인하며 성능을 점검하고 수정해, 브라우저에서 60FPS로 동작하도록 최적화까지 수행한 사례입니다.
+
+x@ChrissGPT</description><pubDate>Fri, 12 Jun 2026 11:12:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZe8_Yajncs</guid></item><item><title>3/ AutoCAD 도면 PDF 한 장을 넣자, Claude Fable 5가 방 구조를 해석해 실제로 돌아다닐 수 있는 3D 공간으로 한 번에 ...</title><link>https://www.threads.net/@choi.openai/post/DZe8ksvD_e2</link><description>3/ AutoCAD 도면 PDF 한 장을 넣자, Claude Fable 5가 방 구조를 해석해 실제로 돌아다닐 수 있는 3D 공간으로 한 번에 변환했습니다.
+
+인테리어 설계안이나 부동산 도면을 별도 3D 작업 없이 바로 체험형 공간으로 확인할 수 있는 사례입니다.
+
+x@akshen121</description><pubDate>Fri, 12 Jun 2026 11:12:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZe8ksvD_e2</guid></item><item><title>🚨 속보 ) 샘 알트만 방한 연기</title><link>https://www.threads.net/@choi.openai/post/DZemMupG_NR</link><description>🚨 속보 ) 샘 알트만 방한 연기</description><pubDate>Fri, 12 Jun 2026 07:50:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZemMupG_NR</guid></item></channel></rss>
