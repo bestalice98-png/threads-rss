@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 15 Jun 2026 13:55:05 +0000</lastBuildDate><item><title>세계 1%는 이미 이 그림을 보고 베팅을 끝냈습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 15 Jun 2026 18:59:36 +0000</lastBuildDate><item><title>세계 1%는 이미 이 그림을 보고 베팅을 끝냈습니다.
 
 세계에서 가장 영향력 있는 AI·반도체 거물들이 똑같은 미래를 짓고 있습니다.
 그리고 이...</title><link>https://www.threads.net/@choi.openai/post/DZlrZlzD86B</link><description>세계 1%는 이미 이 그림을 보고 베팅을 끝냈습니다.
@@ -49,7 +49,77 @@ TSMC는 AI 수요를 믿고 수백억 달러를 투자해야 합니다.
 AI 칩을 설계하는 엔비디아와 AI 칩을 생산하는 TSMC가 같은 방향을 보고 있다는 점입니다.
 
 오픈AI의 샘 알트만은 이를 비용 곡선으로 설명하고, 앤트로픽의 다리오 아모데이는 "데이터센터 속 천재들의 나라"라고 표현합니다.
-표현은 다르지만 그들이 가리키는 대상은 같습니다. 전기를 지능으로 바꾸는 거대한 AI 팩토리입니다.</description><pubDate>Mon, 15 Jun 2026 01:50:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZlpDByjvWe</guid></item><item><title>생각보다 심각한 상황일수도 있습니다.
+표현은 다르지만 그들이 가리키는 대상은 같습니다. 전기를 지능으로 바꾸는 거대한 AI 팩토리입니다.</description><pubDate>Mon, 15 Jun 2026 01:50:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZlpDByjvWe</guid></item><item><title>구글과 UC 샌디에이고가 폐기된 스마트폰에서 메인보드만 추출해 클라우드 컴퓨팅 클러스터로 되살리는 프로젝트를 공개했습니다. 
+
+25-50대의 스...</title><link>https://www.threads.net/@choi.openai/post/DZnTeEBjzr7</link><description>구글과 UC 샌디에이고가 폐기된 스마트폰에서 메인보드만 추출해 클라우드 컴퓨팅 클러스터로 되살리는 프로젝트를 공개했습니다. 
+
+25-50대의 스마트폰이 최신 서버 1대 수준의 성능을 낼 수 있고, 올해는 Pixel 2,000대로 구성된 데이터센터도 구축할 예정이라고 하는데요.
+
+여기서 중요한 건 성능보다 컴퓨팅 자원에 대한 관점의 변화입니다. 🧵</description><pubDate>Mon, 15 Jun 2026 17:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZnTeEBjzr7</guid></item><item><title>1/ 먼저 무엇을 하는 건지부터입니다.
+
+폐스마트폰에서 배터리, 디스플레이, 카메라, 케이스를 다 떼고 메인보드만 남깁니다. 
+메인보드가 제조 ...</title><link>https://www.threads.net/@choi.openai/post/DZnTe9-D5a3</link><description>1/ 먼저 무엇을 하는 건지부터입니다.
+
+폐스마트폰에서 배터리, 디스플레이, 카메라, 케이스를 다 떼고 메인보드만 남깁니다. 
+메인보드가 제조 단계 탄소(embodied carbon)의 약 50%를 차지하기 때문에, 가장 무거운 부분을 그대로 다시 쓰는 겁니다.
+안드로이드 대신 범용 리눅스를 올리고, 25~50대를 한 묶음으로 쿠버네티스로 관리합니다. SPEC 벤치마크 기준 25~50대가 최신 서버 1대와 맞먹고, 2023년 픽셀 폴드의 단일코어 성능은 데이터센터 서버를 오히려 앞섭니다.
+
+UC 샌디에이고는 올가을 Pixel 2,000대로 데이터센터를 가동해, 100개 수업분의 연산을 서버 50대 값의 일부 비용으로 제공할 계획입니다.
+컴퓨터 구조의 거장 데이비드 패터슨이 이름을 올린 프로젝트입니다.</description><pubDate>Mon, 15 Jun 2026 17:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZnTe9-D5a3</guid></item><item><title>2/ 지금 AI 업계는 전력, 칩, 데이터센터 부족을 이야기합니다.
+그런데 이 프로젝트는 "새 서버를 짓는 것"만이 아니라 "이미 세상에 존재하...</title><link>https://www.threads.net/@choi.openai/post/DZnTgGrD8Lc</link><description>2/ 지금 AI 업계는 전력, 칩, 데이터센터 부족을 이야기합니다.
+그런데 이 프로젝트는 "새 서버를 짓는 것"만이 아니라 "이미 세상에 존재하는 자원을 다시 쓰는 것"도 경쟁력이 된다는 걸 보여줍니다.
+
+거꾸로 보면, 구글 같은 회사가 서랍 속 폐폰까지 들여다본다는 것 자체가 컴퓨트 부족이 그만큼 심각하다는 방증인 것 같습니다.
+
+버려진 폰이 데이터센터가 된다는 건, 컴퓨트가 거대 시설 안에만 사는 게 아니라 언제 어디서든 다시 살아날 수 있는 구조라는 뜻이기도 합니다.
+폐기됐다고 여긴 자원이 메인보드만 남겨 클러스터로 부활하듯, 컴퓨팅은 한곳에서 끄거나 가둬도 흩어진 조각들이 다시 모여 돌아갈 수 있습니다.</description><pubDate>Mon, 15 Jun 2026 17:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZnTgGrD8Lc</guid></item><item><title>3/ 예전 SETI 프로젝트가 전 세계 PC의 유휴 시간을 모아 외계 신호를 분석했던 것과 결이 같습니다. 거대 데이터센터를 짓고 통제하려는 흐...</title><link>https://www.threads.net/@choi.openai/post/DZnThEXj8z6</link><description>3/ 예전 SETI 프로젝트가 전 세계 PC의 유휴 시간을 모아 외계 신호를 분석했던 것과 결이 같습니다. 거대 데이터센터를 짓고 통제하려는 흐름이 한쪽에 있다면, 다른 한쪽에는 이렇게 흩어진 자원이 어디서든 되살아나는 흐름이 있습니다.
+
+최신 GPU를 얼마나 확보하느냐만이 아니라, 세상에 흩어진 유휴 자원을 얼마나 모으고 되살리느냐도 중요해지고 있습니다.
+버려진 것조차 잠재적 데이터센터가 되는 시대라면, 컴퓨트는 생각보다 끄기 어렵고 어디서든 다시 켜질 수 있는 자원인지도 모릅니다.</description><pubDate>Mon, 15 Jun 2026 17:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZnThEXj8z6</guid></item><item><title>영국이 16세 미만 소셜미디어 금지를 발표했습니다.
+
+그런데 이걸 집행하려면 결국 모든 성인의 나이부터 확인해야 합니다.
+
+글을 음모론으로 치우...</title><link>https://www.threads.net/@choi.openai/post/DZnGKtmDz3M</link><description>영국이 16세 미만 소셜미디어 금지를 발표했습니다.
+
+그런데 이걸 집행하려면 결국 모든 성인의 나이부터 확인해야 합니다.
+
+글을 음모론으로 치우쳐서 작성하지는 않으려고 하나,
+최근 작성한 글들에 이어서 생각해볼 흐름이라 공유해드립니다. 🧵</description><pubDate>Mon, 15 Jun 2026 15:03:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZnGKtmDz3M</guid></item><item><title>1/ 스타머 총리가 16세 미만을 TikTok·인스타그램·유튜브·X 등 주요 소셜미디어에서 차단하겠다고 했습니다.
+집행 수단으로 안면 연령 추정...</title><link>https://www.threads.net/@choi.openai/post/DZnGLUUD-0B</link><description>1/ 스타머 총리가 16세 미만을 TikTok·인스타그램·유튜브·X 등 주요 소셜미디어에서 차단하겠다고 했습니다.
+집행 수단으로 안면 연령 추정, 디지털 ID, 신용카드, 오픈뱅킹, 여권, 통신사 확인이 거론됩니다. 4월 통과한 법으로 새 입법 없이 도입할 수 있습니다.
+
+여기에 16~17세 야간 커퓨, 무한 스크롤·좋아요 같은 중독적 기능 제한, 미성년 대상 라이브스트림과 낯선 성인 접촉, 연애형 AI 챗봇 금지까지 포함됩니다.
+시행은 빠르면 2027년 봄입니다.
+
+구조를 보면 아이를 막으려면 모두의 나이를 확인해야 합니다.
+
+14세 대부분은 여권도, 신용카드도, 오픈뱅킹 계정도 없습니다.
+그러니 미성년을 걸러내려면 결국 전 국민이 먼저 "나는 성인"임을 증명해야 합니다. 신원 확인이 실제로 적용되는 범위는 미성년이 아니라 모든 성인인 셈입니다.
+
+연령 게이트를 세우는 순간 구조적으로 전 국민의 신원 확인이 따라온다는 점은 분명합니다.</description><pubDate>Mon, 15 Jun 2026 15:03:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZnGLUUD-0B</guid></item><item><title>2/ 영국만의 일도 아닙니다.
+
+호주가 2025년 12월 먼저 10개 플랫폼에서 16세 미만을 막았습니다.
+그런데 6개월 뒤에도 호주 미성년 1...</title><link>https://www.threads.net/@choi.openai/post/DZnGL4xD_Tx</link><description>2/ 영국만의 일도 아닙니다.
+
+호주가 2025년 12월 먼저 10개 플랫폼에서 16세 미만을 막았습니다.
+그런데 6개월 뒤에도 호주 미성년 10명 중 6명이 여전히 소셜미디어를 쓰고 있어 집행의 구멍이 드러났습니다.
+스페인은 16세 미만, 그리스는 15세 미만(2027년 1월부터)으로 뒤따르고 있고, EU 차원의 논의로 번지는 중입니다.
+
+한 나라에서 시작된 연령·신원 확인이 여러 나라로 빠르게 확산되고 있습니다.
+
+오늘 앤트로픽이 Claude 사용자에게 신분증과 얼굴 인증을 도입한 것과 비슷해보입니다.
+AI든 소셜미디어든, 온라인 접근의 열쇠가 점점 '신원'으로 바뀌고 있습니다.
+한 영역에서 시작해 다른 영역으로, 한 나라에서 여러 나라로 확산되는 방향입니다.</description><pubDate>Mon, 15 Jun 2026 15:03:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZnGL4xD_Tx</guid></item><item><title>3/ 아동 보호라는 명분은 진짜이고 공감이 갑는 명목입니다.
+다만 영국 정부 자체 검토조차 소셜미디어와 아동 웰빙 사이에 약한 상관만 있을 뿐 ...</title><link>https://www.threads.net/@choi.openai/post/DZnGMchj440</link><description>3/ 아동 보호라는 명분은 진짜이고 공감이 갑는 명목입니다.
+다만 영국 정부 자체 검토조차 소셜미디어와 아동 웰빙 사이에 약한 상관만 있을 뿐 인과 증거는 없다고 했고, VPN 우회나 호주의 사례처럼 실효성 논쟁도 큽니다.
+
+음모로 단정할 일은 아니지만, 결과적으로 신원 확인이 미성년에서 전 성인으로, 한 나라에서 여러 나라로 넓어지는 길목에 들어선 것만은 분명합니다.
+
+그리고 이 움직임이 같은 시기에 한곳으로 모이고 있습니다.
+2026년 G7 의장국은 프랑스입니다.
+
+G7 디지털 장관들은 5월 29일 미성년 온라인 보호 '공통 원칙'에 합의했습니다.
+캐나다·프랑스·독일·이탈리아·일본·영국·미국과 EU가 함께, 연령 확인과 '설계 단계부터의 미성년 보호'를 명시했습니다.</description><pubDate>Mon, 15 Jun 2026 15:04:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZnGMchj440</guid></item><item><title>생각보다 심각한 상황일수도 있습니다.
 
 앤트로픽 모델이 정부에 막히고 사용자에겐 얼굴 인증이 붙는 이번 일을 단순한 규제 해프닝으로만 보면 안됩...</title><link>https://www.threads.net/@choi.openai/post/DZm2Eo1j8U0</link><description>생각보다 심각한 상황일수도 있습니다.
 
@@ -88,79 +158,4 @@ Claude나 ChatGPT에 쌓이는 기록은 과거의 검색 이력과 차원이 �
 이번 사태는 그 논리가 부메랑으로 돌아온 순간입니다.
 AI를 국가 안보 자산으로 다뤄야 한다는 주장이 받아들여지자, 가장 먼저 게이트된 게 그의 모델이었습니다. 세계에서 가장 강력한 모델이 공습처럼 한순간에 꺼졌습니다.
 
-국가 전략 자산이라는 프레임은, 다리오가 직접 세운 칼이 자기에게 돌아온 결과이기도 합니다.</description><pubDate>Mon, 15 Jun 2026 12:43:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZm2GGTD7wD</guid></item><item><title>앤트로픽 사태가 생각보다 훨씬 큰 이야기로 번지고 있습니다.
-
-처음에는 AI 모델 하나가 막힌 사건처럼 보였는데, 사흘 만에 미국 정부, 국가안...</title><link>https://www.threads.net/@choi.openai/post/DZmvozzjwix</link><description>앤트로픽 사태가 생각보다 훨씬 큰 이야기로 번지고 있습니다.
-
-처음에는 AI 모델 하나가 막힌 사건처럼 보였는데, 사흘 만에 미국 정부, 국가안보, 중국, 신원인증, AI 수출통제까지 얽히며 분위기가 완전히 달라졌습니다.
-
-AI를 쓰는 사람이라면 꼭 알아야 할 핵심 전개와 앞으로의 파장을 정리했습니다🧵</description><pubDate>Mon, 15 Jun 2026 11:46:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZmvozzjwix</guid></item><item><title>1/ 앤트로픽이 워싱턴으로 날아갔습니다.
-
-고위 기술진을 D.C.로 보내 상무부, CIA, 백악관 과학보좌관 마이클 크라치오스와 만났습니다. 사...</title><link>https://www.threads.net/@choi.openai/post/DZmvpUgj6dQ</link><description>1/ 앤트로픽이 워싱턴으로 날아갔습니다.
-
-고위 기술진을 D.C.로 보내 상무부, CIA, 백악관 과학보좌관 마이클 크라치오스와 만났습니다. 사이버 행정명령 준수를 협의하고, "모델을 안전하게 통제할 수 있다"고 정부를 설득하는 자리입니다.
-
-회사가 자기 모델을 다시 켜기 위해 엔지니어를 정부에 직접 보낸 겁니다.
-단순한 규제 이견 수준은 아닌 거죠.
-
-그런데 핵심 사유가 바뀌고 있습니다. 안전이 아니라 소통의 충돌이라는 겁니다.
-
-Axios 보도에 따르면, 이번 차단은 탈옥보다 앤트로픽과 트럼프 행정부의 관계 파탄에 더 가깝습니다.
-행정부는 앤트로픽이 우려를 진지하게 받아들이지 않고 "매 갈림길마다 잘못된 쪽을 골랐다"고 봤습니다. "그들은 우리와 아예 다른 언어를 쓴다"는 평까지 나왔습니다.
-
-한 관리는 이렇게 말했습니다. "앤트로픽에 기회를 주자던 사람들까지 지금은 의심하고 있다. 그들이 우리를 망쳤다."</description><pubDate>Mon, 15 Jun 2026 11:47:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZmvpUgj6dQ</guid></item><item><title>2/ 앤트로픽이 꺼낸 카드가 오히려 역풍이 됐습니다.
-
-앤트로픽은 아마존의 발견을 반박하려고 사이버보안 전문가를 고용해 정부 서사에 맞섰습니다....</title><link>https://www.threads.net/@choi.openai/post/DZmvqRMj037</link><description>2/ 앤트로픽이 꺼낸 카드가 오히려 역풍이 됐습니다.
-
-앤트로픽은 아마존의 발견을 반박하려고 사이버보안 전문가를 고용해 정부 서사에 맞섰습니다. 그런데 행정부는 그 전문가를 "급진 성향 민주당원"으로 봤고, 트럼프가 막 해임한 크리스 크렙스가 그를 공개적으로 치켜세우면서 상황이 더 꼬였습니다.
-
-기술적으로 누가 옳든, 이 행정부와 대화하는 정치적 코드를 계속 어긋나게 짚고 있는 겁니다.
-
-반대로 업계는 모델 편에 섰습니다.
-
-Adobe, Zoom, Sophos의 CISO와 보안 전문가들이 차단 철회를 공개적으로 촉구했습니다. 이 모델을 막으면 공격자가 아니라 방어자가 더 다친다는 겁니다.
-AI 기반 해킹의 파도를 앞둔 시점에 방어자의 손발을 묶는 꼴이라는 거죠.
-
-앞서 정리한 "문제 삼은 역량은 GPT-5.5에서도 나오고 방어자가 매일 쓰는 기능"이라는 앤트로픽의 반박과 같은 맥락입니다.</description><pubDate>Mon, 15 Jun 2026 11:47:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZmvqRMj037</guid></item><item><title>3/ 여기에 중국 변수까지 나왔습니다. 다만 아직 미확정입니다.
-
-The Verge는 중국 연계 그룹이 Claude Mythos에 접근한 것이 ...</title><link>https://www.threads.net/@choi.openai/post/DZmvrOZD2s5</link><description>3/ 여기에 중국 변수까지 나왔습니다. 다만 아직 미확정입니다.
-
-The Verge는 중국 연계 그룹이 Claude Mythos에 접근한 것이 금요일 사태의 실제 방아쇠였을 수 있다고 보도했지만, 데이비드 색스는 공개적으로 탈옥 위험만 거론했지 중국은 언급하지 않았고, 앤트로픽은 백악관이 논의 과정에서 중국 접근을 꺼낸 적이 없다고 반박하고 있습니다.
-
-사용자 쪽에서도 우려가 제기되고 있습니다. 앤트로픽이 사실상 미국인만 쓸 수 있게 약관을 손보고 있기 때문입니다.</description><pubDate>Mon, 15 Jun 2026 11:47:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZmvrOZD2s5</guid></item><item><title>와.. 오늘 오픈AI CRO 마크 첸이 한국에 왔습니다.
-
-오픈AI 행사에서 스케일링부터 다음 패러다임, 토큰 효율, 한국 시장까지 짚었는데요....</title><link>https://www.threads.net/@choi.openai/post/DZmaccUD6zw</link><description>와.. 오늘 오픈AI CRO 마크 첸이 한국에 왔습니다.
-
-오픈AI 행사에서 스케일링부터 다음 패러다임, 토큰 효율, 한국 시장까지 짚었는데요.
-
-현장에서 직접 들은 내용을 공유해드립니다 :</description><pubDate>Mon, 15 Jun 2026 08:41:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZmaccUD6zw</guid></item><item><title>1/ 먼저 연구 프론티어가 어떻게 움직여 왔는지부터입니다.
-
-마크 첸은 GPT-2를 만들던 시절에 합류했습니다.
-그때 이미 8자릿수 규모에 걸쳐...</title><link>https://www.threads.net/@choi.openai/post/DZmadIJD7Qe</link><description>1/ 먼저 연구 프론티어가 어떻게 움직여 왔는지부터입니다.
-
-마크 첸은 GPT-2를 만들던 시절에 합류했습니다.
-그때 이미 8자릿수 규모에 걸쳐 모델의 스케일링이 예측대로 들어맞았다고 합니다.
-거기서 얻은 신념이 "지수곡선을 믿어라"입니다. 곡선에서 벗어났다면 뭔가를 놓친 것이니 다시 곡선 위로 돌아가야 한다는 거죠. 2018년 내부 설문의 AGI 중앙값 약 10년 예측이 해마다 맞아떨어졌다고도 했습니다.
-
-다만 이 곡선엔 늘 한계가 따라붙습니다. 데이터와 에너지입니다.
-최근 딥마인드 보고서도 효과적 컴퓨트가 연 10배씩 늘어온 흐름에서 그 절반가량을 알고리즘 효율 개선이 떠받쳐 왔다고 짚었는데, 첸의 낙관은 그 추세 위에 서 있는 동시에 데이터와 전력이 그 추세를 누를 수 있다는 전제도 함께 깔고 있습니다.</description><pubDate>Mon, 15 Jun 2026 08:41:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZmadIJD7Qe</guid></item><item><title>2/ 가장 흥분되는, 그러나 잘 안 알려진 변화로 "지속 학습"을 꼽았습니다.
-
-지금 ChatGPT는 프롬프트마다 처음부터 다시 시작합니다.
-첫...</title><link>https://www.threads.net/@choi.openai/post/DZmadqGj3xg</link><description>2/ 가장 흥분되는, 그러나 잘 안 알려진 변화로 "지속 학습"을 꼽았습니다.
-
-지금 ChatGPT는 프롬프트마다 처음부터 다시 시작합니다.
-첫 질문을 한참 추론해 답하고도, 다음 질문에선 그 첫 질문을 한 적이 없는 듯 굽니다. 첸은 이게 근본적으로 틀렸다고 봅니다.
-
-맥락을 계속 안고, 사용자가 묻지 않는 동안에도 스스로 개선하며 다음을 준비하는 "동료형" AI를 그립니다. 올해의 방향을 "추론에서 학습으로"라고 표현했습니다.
-
-이건 AGI로 가는 핵심 결손으로 이미 지목돼 온 지점입니다.
-딥마인드도 최근 보고서에서 현재 모델의 빠진 조각으로 "컨텍스트 길이를 넘는 지속 학습"을 꼽았습니다. 첸이 GPT-5 인터뷰에서 합성 데이터가 점점 핵심이 된다고 했던 것과도 한 뿌리입니다.
-
-모델이 스스로 만든 데이터로 배우는 흐름이 곧 지속 학습의 토대이기 때문입니다.</description><pubDate>Mon, 15 Jun 2026 08:41:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZmadqGj3xg</guid></item><item><title>3/ 그런데 첸이 말한 이 "지속 학습"이 왜 그렇게 중요한지를 봐야 합니다.
-결국 LLM이 OS 레벨로 들어가기 위한 마지막 퍼즐이기 때문입니...</title><link>https://www.threads.net/@choi.openai/post/DZmaeKHD9Od</link><description>3/ 그런데 첸이 말한 이 "지속 학습"이 왜 그렇게 중요한지를 봐야 합니다.
-결국 LLM이 OS 레벨로 들어가기 위한 마지막 퍼즐이기 때문입니다.
-
-지금처럼 매번 리셋되는 모델은 도구에 머뭅니다.
-하지만 사용자를 기억하기 시작하면 이야기가 달라집니다. 오픈AI가 최근 공개한 Dreaming 기능이 그 방향을 보여줍니다.
-
-사용자가 묻지 않는 동안에도 모델이 백그라운드에서 생각하고 다음에 필요한 걸 미리 준비해두는 겁니다. 첸이 말한 "안 물어볼 때도 개선하는 동료형 AI"가 이미 제품으로 나오기 시작한 셈입니다.</description><pubDate>Mon, 15 Jun 2026 08:42:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZmaeKHD9Od</guid></item></channel></rss>
+국가 전략 자산이라는 프레임은, 다리오가 직접 세운 칼이 자기에게 돌아온 결과이기도 합니다.</description><pubDate>Mon, 15 Jun 2026 12:43:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZm2GGTD7wD</guid></item></channel></rss>
