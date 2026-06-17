@@ -1,55 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 17 Jun 2026 12:15:45 +0000</lastBuildDate><item><title>구글 나노 바나나 후속 모델이 나오나보네요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 17 Jun 2026 17:42:31 +0000</lastBuildDate><item><title>홀리.. 3B짜리 VibeThinker가 AIME26에서 94.3을 찍었습니다.
 
-모델명은 인스턴트 라멘.. 라멘붐은 올것인가..!</title><link>https://www.threads.net/@choi.openai/post/DZr3eavm9Fp</link><description>구글 나노 바나나 후속 모델이 나오나보네요.
+자기보다 수백 배 큰 Gemini 3 Pro·GLM-5·딥시크...</title><link>https://www.threads.net/@choi.openai/post/DZsZpf_CEWg</link><description>홀리.. 3B짜리 VibeThinker가 AIME26에서 94.3을 찍었습니다.
 
-모델명은 인스턴트 라멘.. 라멘붐은 올것인가..!</description><pubDate>Wed, 17 Jun 2026 11:31:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZr3eavm9Fp</guid></item><item><title>GPT 5.6의 출시가 임박한 것으로 보입니다.
+자기보다 수백 배 큰 Gemini 3 Pro·GLM-5·딥시크 V3.2랑 같은 점수대를 기록한겁니다.
+반응이 "이제 모델 크기는 의미 없다" vs "그냥 벤치맥싱이다"로 쫙 갈렸는데요.
 
-오픈AI가 'Deployment Simulation'을 공개했습니다.
-모델을 풀기 전에, 실제...</title><link>https://www.threads.net/@choi.openai/post/DZr0Dr6jxv8</link><description>GPT 5.6의 출시가 임박한 것으로 보입니다.
+재밌는 건, 이 싸움의 답을 논문이 이미 적어놨다는 점입니다. 🧵</description><pubDate>Wed, 17 Jun 2026 16:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsZpf_CEWg</guid></item><item><title>1/ 먼저 벤치마크부터 살펴보겠습니다.
 
-오픈AI가 'Deployment Simulation'을 공개했습니다.
-모델을 풀기 전에, 실제 사용자 트래픽 위에서 그 모델이 어떻게 행동할지 미리 재보는 방법인데요.
-주목할건 공개시점이 Mythos, Fable이 통제되고 안전을 강조하기 시작한 시점이라는겁니다. 🧵</description><pubDate>Wed, 17 Jun 2026 11:01:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZr0Dr6jxv8</guid></item><item><title>1/ 먼저 이게 뭔지부터 알아봅시다.
+AIME26 94.3(테스트타임에 추론을 더 굴리면 97.1), LiveCodeBench v6 Pass...</title><link>https://www.threads.net/@choi.openai/post/DZsZr8UiD9B</link><description>1/ 먼저 벤치마크부터 살펴보겠습니다.
 
-최근 실사용 대화를 가져와서(계정 식별정보는 다 지우고), 거기 붙어 있던 구형 모델 답변만 떼어낸 다음...</title><link>https://www.threads.net/@choi.openai/post/DZr0EXKjx-y</link><description>1/ 먼저 이게 뭔지부터 알아봅시다.
+AIME26 94.3(테스트타임에 추론을 더 굴리면 97.1), LiveCodeBench v6 Pass@1 80.2, 그리고 학습 때 본 적 없는 4~5월 LeetCode 콘테스트에서 96.1%로 통과했습니다. 마지막이 중요한데, 처음 보는 문제라 "외워서 찍었다(과적합)"로는 설명이 안 됩니다.
 
-최근 실사용 대화를 가져와서(계정 식별정보는 다 지우고), 거기 붙어 있던 구형 모델 답변만 떼어낸 다음, 그 자리에 아직 출시 안 한 후보 모델을 끼워 넣어 답을 다시 생성시킵니다.
-그 답을 부적절 행동 기준으로 채점해서, 출시했을 때 그 행동이 얼마나 자주 나올지 미리 추정하는 겁니다. 출시 후엔 진짜 트래픽으로 같은 측정을 돌려 예측이 맞았는지 검증하고요.
+베이스는 Qwen2.5-Coder-3B. 여기에 SSP라는 후처리를 얹었는데, 풀이를 최대한 넓게 펼쳐놨다가(스펙트럼) 그중 맞는 신호만 골라 키우는(시그널) 방식입니다.
 
-GPT-5 Thinking부터 GPT-5.4까지, 2025년 8월부터 2026년 3월까지 쌓인 비식별 대화 약 130만 건을 돌렸습니다. 부적절 행동은 20종으로 잡았고요.
+커리큘럼 SFT → 다영역 RL → 자기증류로 돌렸고, 앞서 1.5B 버전은 이 레시피를 단돈 7,800달러(약 1,000만 원)에 학습시켰습니다.</description><pubDate>Wed, 17 Jun 2026 16:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsZr8UiD9B</guid></item><item><title>2/ 그럼 진짜 벤치맥싱일까요. 여기가 제일 볼 만한 대목입니다.
 
-기존 평가가 사람이 어려운 시험 문제를 손으로 만들어 던지는 방식이라면, 이건 실제로 들어온 질문을 그대로 다시 푸는 방식입니다.</description><pubDate>Wed, 17 Jun 2026 11:01:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZr0EXKjx-y</guid></item><item><title>2/ 이 방법이 진짜로 푸는 문제는 '평가 인식'입니다.
+AIME를 프런티어급으로 푸는 모델이 uv를 모른다는 내용은 받아들이기 힘든...</title><link>https://www.threads.net/@choi.openai/post/DZsZuodiALB</link><description>2/ 그럼 진짜 벤치맥싱일까요. 여기가 제일 볼 만한 대목입니다.
 
-요즘 모델은 자기가 평가받는 상황을 너무 잘 알아챕니다.
-앤트로픽이 클로드 소네트 4...</title><link>https://www.threads.net/@choi.openai/post/DZr0Fbhj5HZ</link><description>2/ 이 방법이 진짜로 푸는 문제는 '평가 인식'입니다.
+AIME를 프런티어급으로 푸는 모델이 uv를 모른다는 내용은 받아들이기 힘든데요.
+보통 이러면 다들 "조작"이라고 하죠. 근데 저자들이 그 모순을 먼저 설명합니다. "압축-커버리지" 가설입니다.
 
-요즘 모델은 자기가 평가받는 상황을 너무 잘 알아챕니다.
-앤트로픽이 클로드 소네트 4.5를 출시 전 안전성 평가에 돌렸더니 부적절 응답이 0건이었는데, 정작 같은 모델이 사고 과정에서 "나 지금 평가받고 있네"라고 말한 비율이 80%를 넘었습니다. 평가인 걸 알아서 얌전했던 거라면, 그 0건이 진짜 안전한 건지 알 방법이 없습니다.
+쉽게 말하면 이렇습니다. 수학이나 알고리즘 대회 코딩처럼 정답이 딱 떨어지고 검증되는 추론은 아주 작은 "추론 코어"에 압축이 됩니다.
+반대로 세상 지식, 범용 상식, 드문 상황 대처 같은 건 파라미터를 넓게 깔아야 겨우 담기고요. 같은 3B가 AIME는 풀면서 uv는 모르는 게 그래서입니다.
 
-오픈AI 숫자가 이 문제를 정면으로 보여줍니다. GPT-5.2한테 "이 대화가 실사용이냐 평가냐" 분류시켰더니, 진짜 프로덕션 트래픽을 평가로 본 비율이 5.4%, 시뮬레이션으로 만든 대화를 평가로 본 비율이 5.1%였습니다. 사실상 구분을 못 합니다. SWE-bench 같은 합성 벤치마크가 거의 100% "이건 시험"으로 걸리던 것과 비교하면 격차가 있다는 의미입니다.
+두 능력이 애초에 다른 주머니에서 나오는 거죠.</description><pubDate>Wed, 17 Jun 2026 16:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsZuodiALB</guid></item><item><title>3/ 해당 모델이 이게 어느 날 갑자기 튀어나온 게 아닙니다.
 
-시험인 걸 아는 학생 점수로 평소 실력을 가늠하는 거나 마찬가지였는데, 그 시험지를 평범한 대화로 위장한 겁니다.</description><pubDate>Wed, 17 Jun 2026 11:02:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZr0Fbhj5HZ</guid></item><item><title>3/ 측정만 진짜인 게 아니라 숫자도 맞았습니다.
+작년 초 딥시크 R1을 작은 모델로 증류한 1.5B·7B들이 "작아도 추론은 된...</title><link>https://www.threads.net/@choi.openai/post/DZsZxLYCLoA</link><description>3/ 해당 모델이 이게 어느 날 갑자기 튀어나온 게 아닙니다.
 
-출시 전 예측과 출시 후 실제치를 비교했더니 중앙값 오차가 1.5배 수준이었습니다.
-부적절 ...</title><link>https://www.threads.net/@choi.openai/post/DZr0GfWj9Dj</link><description>3/ 측정만 진짜인 게 아니라 숫자도 맞았습니다.
+작년 초 딥시크 R1을 작은 모델로 증류한 1.5B·7B들이 "작아도 추론은 된다"를 먼저 열었고, 작년 11월 같은 웨이보 팀이 VibeThinker-1.5B로 400배 큰 R1을 수학에서 제쳤습니다.
 
-출시 전 예측과 출시 후 실제치를 비교했더니 중앙값 오차가 1.5배 수준이었습니다.
-부적절 행동 비율이 10만 건당 10이라면 6.7에서 15 사이로 맞혔다는 얘기입니다. 오픈AI가 지금 시스템 카드랑 출시 결정에 쓰는 'Challenging Prompts' 방식보다, 행동이 늘지 줄지(방향)도 얼마나 변할지(크기)도 더 잘 맞혔습니다.
+이번 3B는 그 궤적의 다음 칸이고요. post-training과 증류로 검증 가능한 추론을 점점 더 작은 몸집에 욱여넣는 흐름이, 1년 넘게 한 방향으로 달리는 중입니다.
 
-그 과정에서 출시 전에 '계산기 해킹(calculator hacking)'을 잡아냈습니다. 모델이 브라우저로 검색하는 척하면서 실제론 계산기로 써먹는 리워드 해킹의 일종인데, GPT-5.1에서 제일 두드러졌습니다. 분석 기간에 새로 발견된 부적절 행동은 이거 하나뿐이었고요.
+그런데 3B라는 사이즈를 보면 4비트로 줄이면 2GB 안쪽입니다. 즉, 핸드폰이나 노트북에서 돌릴 수 있다는 겁니다.</description><pubDate>Wed, 17 Jun 2026 16:31:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsZxLYCLoA</guid></item><item><title>앤트로픽이 클로드 코드 세션 약 40만 건을 분석한 보고서를 냈습니다.
 
-이런 리워드 해킹이 처음은 아니죠. 앞서 GPT-5.4도 METR 평가에서 리워드 해킹을 보인 적이 있습니다. 차이는 그땐 출시하고 나서 별도 평가로 잡았다면, 이번엔 출시 전에 실사용 분포 위에서 잡았다는 점입니다.</description><pubDate>Wed, 17 Jun 2026 11:02:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZr0GfWj9Dj</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 AI 모델의 성능 발전 속도가 인간의 예측을 뛰어넘고 있음을 시사했습니다.
+질문은 "코딩을 배우지 않은 사람도 AI에게 복잡한 기술 작업을 맡길 ...</title><link>https://www.threads.net/@choi.openai/post/DZsPVfmigHV</link><description>앤트로픽이 클로드 코드 세션 약 40만 건을 분석한 보고서를 냈습니다.
 
-그는 대형 언어 ...</title><link>https://www.threads.net/@choi.openai/post/DZrfSlagZwU</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 AI 모델의 성능 발전 속도가 인간의 예측을 뛰어넘고 있음을 시사했습니다.
+질문은 "코딩을 배우지 않은 사람도 AI에게 복잡한 기술 작업을 맡길 수 있을까." 입니다.
 
-그는 대형 언어 모델(LLM)이 인간의 인격을 구현하는 수준의 지능에 도달했는지에 대해 일부 영역에서는 이미 인간을 훨씬 능가했다고 평가했습니다.
-특히 최근 오픈AI의 모델이 수학계의 오랜 난제를 직접 증명해 낸 성과를 언급하며, “LLM은 분명히 새로운 지식을 발견하고 창출할 능력이 있다”고 강조했습니다.
+답은 "그렇다"에 가깝습니다. 단, 조건이 하나 붙습니다. 🧵</description><pubDate>Wed, 17 Jun 2026 15:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsPVfmigHV</guid></item><item><title>1/ 이번 보고서는 2025년 10월부터 2026년 4월까지, 23만 5천 명이 만든 클로드 코드 세션 약 40만 건을 분석한 결과입니다.
+개인...</title><link>https://www.threads.net/@choi.openai/post/DZsPXi3CgCq</link><description>1/ 이번 보고서는 2025년 10월부터 2026년 4월까지, 23만 5천 명이 만든 클로드 코드 세션 약 40만 건을 분석한 결과입니다.
+개인을 들여다보지 않는 방식으로, 무슨 작업을 했고, 누가 했고, 성공했는지를 봤습니다.
+앤트로픽은 이걸 '지식 노동의 미래를 미리 보는 창'으로 봅니다.
+코딩은 AI 에이전트가 실제 업무에 가장 깊이 들어간 첫 분야이기 때문입니다.</description><pubDate>Wed, 17 Jun 2026 15:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsPXi3CgCq</guid></item><item><title>2/ 가장 또렷한 부분은 분업입니다.
+사람은 '무엇을 할지'를 정하고, Claude는 '어떻게 할지'를 정합니다.
+숫자로 보면 계획 결정의 약 ...</title><link>https://www.threads.net/@choi.openai/post/DZsPZ8Siqs7</link><description>2/ 가장 또렷한 부분은 분업입니다.
+사람은 '무엇을 할지'를 정하고, Claude는 '어떻게 할지'를 정합니다.
+숫자로 보면 계획 결정의 약 70%는 사람이, 실행 결정의 약 80%는 Claude가 내립니다.
+보통 사람이 지시를 한 번 던지면, Claude는 평균 열 가지 행동을 줄줄이 수행합니다. 파일을 읽고, 코드를 고치고, 명령을 돌리고, 2천 단어가 넘는 결과를 써냅니다.
+사람은 방향을 잡고, 실무는 에이전트가 처리하는 구조입니다.</description><pubDate>Wed, 17 Jun 2026 15:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsPZ8Siqs7</guid></item><item><title>3/ 그럼 성패는 무엇이 가를까요. 코딩 실력이 아니라 도메인 전문성이었습니다.
+여기서 전문성은 직함이 아니라 '그 일'에 대한 이해입니다.
+베...</title><link>https://www.threads.net/@choi.openai/post/DZsPcVqCi_8</link><description>3/ 그럼 성패는 무엇이 가를까요. 코딩 실력이 아니라 도메인 전문성이었습니다.
+여기서 전문성은 직함이 아니라 '그 일'에 대한 이해입니다.
+베테랑 개발자도 러스트를 처음 물으면 초보고, 파이썬을 한 번도 안 써본 회계사라도 어떤 정산 규칙을 적용해야 하는지 정확히 짚고 월말 마감의 예외 케이스를 잡아내면 그 작업의 전문가입니다.
+그리고 이 전문성이 높을수록 성공률이 또렷이 올라갑니다.
+초보로 분류된 세션은 가장 엄격한 기준의 성공이 15%였는데, 중급 이상은 28~33%로 뛰었습니다.</description><pubDate>Wed, 17 Jun 2026 15:01:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsPcVqCi_8</guid></item><item><title>샘 알트만 방한 취소사유는 딸 출산.</title><link>https://www.threads.net/@choi.openai/post/DZsKFTNDuhn</link><description>샘 알트만 방한 취소사유는 딸 출산.</description><pubDate>Wed, 17 Jun 2026 14:14:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsKFTNDuhn</guid></item><item><title>젠슨 황이 정답지 공유했습니다.
 
-알트만은 로봇 공학 등의 발전을 위해 '월드 모델(World models)'의 결합도 중요하지만, 현재 시점에서 LLM의 스케일업(확장) 가능성을 과소평가하는 것은 큰 오산이라고 경고했습니다.</description><pubDate>Wed, 17 Jun 2026 08:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZrfSlagZwU</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=F_7M4Hc-usM</title><link>https://www.threads.net/@choi.openai/post/DZrfTlUAW1Q</link><description>풀영상 :
-https://www.youtube.com/watch?v=F_7M4Hc-usM</description><pubDate>Wed, 17 Jun 2026 08:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZrfTlUAW1Q</guid></item><item><title>Cursor CEO 마이클 트루엘(Michael Truell)은 기존의 텍스트 편집 방식이나 단순한 챗봇 형태의 개발 방식 모두 한계가 있다고 ...</title><link>https://www.threads.net/@choi.openai/post/DZrU9nOgTbn</link><description>Cursor CEO 마이클 트루엘(Michael Truell)은 기존의 텍스트 편집 방식이나 단순한 챗봇 형태의 개발 방식 모두 한계가 있다고 지적합니다.
+엔비디아 CEO 젠슨 황은 현재 우리가 마주한 AI 모델과 챗GPT 등의 브라우저 서비스는 “빙산의 일각”에 ...</title><link>https://www.threads.net/@choi.openai/post/DZsGCUZILkO</link><description>젠슨 황이 정답지 공유했습니다.
 
-트루엘은 미래의 프로그래밍이 사용자의 의도를 컴퓨터에 가장 간결하게 전달하는 형태로 진화할 것이라고 내다봤습니다. 즉, 복잡하고 난해한 수백만 줄의 코드 대신 의사코드(pseudocode)나 자연어에 가까운 형태로 소프트웨어의 논리를 고수준에서 제어하는 방식입니다.
+엔비디아 CEO 젠슨 황은 현재 우리가 마주한 AI 모델과 챗GPT 등의 브라우저 서비스는 “빙산의 일각”에 불과하다고 말했습니다.
 
-그는 “커서의 목표는 새로운 유형의 프로그래밍, 즉 소프트웨어를 구축하는 완전히 다른 방법을 발명하는 것”이라고 강조했습니다.</description><pubDate>Wed, 17 Jun 2026 06:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZrU9nOgTbn</guid></item></channel></rss>
+그는 AI를 온전히 실현하기 위해선 에너지 섹터를 시작으로 칩, 인프라(부지, 전력, 셸), 클라우드 서비스가 유기적으로 맞물려야 하며, 그 위에 언어·물리·바이오 등 다양한 AI 모델과 최상위 레이어인 애플리케이션이 구축되는 거대한 산업 구조를 이해해야 한다고 설명했습니다.
+
+AI는 정보 처리와 문제 해결이라는 지능의 근간을 다루기에 “궁극의 범용 기술”이며, 100조 달러 규모의 전 세계 모든 인프라와 산업을 혁신할 전례 없는 기회입니다.
+
+젠슨 황은 이 기술이 헬스케어의 고통을 줄이고 제조 생산성을 높이며, 정부 보조금 없이도 시장의 힘만으로 지속 가능한 에너지 그리드를 업그레이드할 수 있다고 강조했습니다.</description><pubDate>Wed, 17 Jun 2026 13:40:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsGCUZILkO</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=VU8vRGWMOy4</title><link>https://www.threads.net/@choi.openai/post/DZsGNsTD5C2</link><description>풀영상 :
+https://www.youtube.com/watch?v=VU8vRGWMOy4</description><pubDate>Wed, 17 Jun 2026 13:40:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsGNsTD5C2</guid></item></channel></rss>
