@@ -1,62 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 17 Jun 2026 04:06:59 +0000</lastBuildDate><item><title>오픈AI의 CEO 샘 알트만은 현재의 파이프라인 구조를 개선하는 최적의 솔루션을 찾는 일은 “AI가 스스로 해결해야 할 연구 과제”라고 정의했습...</title><link>https://www.threads.net/@choi.openai/post/DZrAYULD7gZ</link><description>오픈AI의 CEO 샘 알트만은 현재의 파이프라인 구조를 개선하는 최적의 솔루션을 찾는 일은 “AI가 스스로 해결해야 할 연구 과제”라고 정의했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 17 Jun 2026 12:15:45 +0000</lastBuildDate><item><title>구글 나노 바나나 후속 모델이 나오나보네요.
 
-그는 연산 능력을 대규모로 확장해 나갈 구체적인 타임라인을 제시했습니다.
+모델명은 인스턴트 라멘.. 라멘붐은 올것인가..!</title><link>https://www.threads.net/@choi.openai/post/DZr3eavm9Fp</link><description>구글 나노 바나나 후속 모델이 나오나보네요.
 
-올해 9월까지 50만 대 규모의 A100급 GPU에 달하는 강력한 컴퓨팅 파워를 확보하여 AI를 ‘연구 인턴’ 수준으로 활용하고, 2028년 3월에는 독자적인 전체 아키텍처를 설계할 수 있는 ‘숙련된 전문 연구원’ 수준으로 성능을 고도화하겠다는 목표입니다.</description><pubDate>Wed, 17 Jun 2026 03:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZrAYULD7gZ</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=F_7M4Hc-usM</title><link>https://www.threads.net/@choi.openai/post/DZrAZJhD4kt</link><description>풀영상 :
-https://www.youtube.com/watch?v=F_7M4Hc-usM</description><pubDate>Wed, 17 Jun 2026 03:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZrAZJhD4kt</guid></item><item><title>미국 국무부가 '디지털 자유(Digital Freedom)' 부서까지 만들어 유럽과 영국의 온라인 규제를 검열이라 지적하고 나섰습니다.
+모델명은 인스턴트 라멘.. 라멘붐은 올것인가..!</description><pubDate>Wed, 17 Jun 2026 11:31:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZr3eavm9Fp</guid></item><item><title>GPT 5.6의 출시가 임박한 것으로 보입니다.
 
-그런데...</title><link>https://www.threads.net/@choi.openai/post/DZq88s8j1s8</link><description>미국 국무부가 '디지털 자유(Digital Freedom)' 부서까지 만들어 유럽과 영국의 온라인 규제를 검열이라 지적하고 나섰습니다.
+오픈AI가 'Deployment Simulation'을 공개했습니다.
+모델을 풀기 전에, 실제...</title><link>https://www.threads.net/@choi.openai/post/DZr0Dr6jxv8</link><description>GPT 5.6의 출시가 임박한 것으로 보입니다.
 
-그런데 같은 시기에 영국, EU, 호주, 한국, 그리고 미국 자신이 인터넷을 조이고 있습니다.
+오픈AI가 'Deployment Simulation'을 공개했습니다.
+모델을 풀기 전에, 실제 사용자 트래픽 위에서 그 모델이 어떻게 행동할지 미리 재보는 방법인데요.
+주목할건 공개시점이 Mythos, Fable이 통제되고 안전을 강조하기 시작한 시점이라는겁니다. 🧵</description><pubDate>Wed, 17 Jun 2026 11:01:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZr0Dr6jxv8</guid></item><item><title>1/ 먼저 이게 뭔지부터 알아봅시다.
 
-정말 자유를 주려는 목적일까요?🧵</description><pubDate>Wed, 17 Jun 2026 03:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZq88s8j1s8</guid></item><item><title>1/ 먼저 미국이 든 깃발부터 봅니다.
-로이터 보도에 따르면 국무부는 'freedom.gov'라는 포털을 개발 중입니다.
-유럽 등 각국이 차단한...</title><link>https://www.threads.net/@choi.openai/post/DZq89lXj7zn</link><description>1/ 먼저 미국이 든 깃발부터 봅니다.
-로이터 보도에 따르면 국무부는 'freedom.gov'라는 포털을 개발 중입니다.
-유럽 등 각국이 차단한 콘텐츠에 접근하게 해주는 사이트로, VPN을 내장해 이용자의 트래픽이 미국에서 나온 것처럼 보이게 하고, 활동이 추적되지 않도록 설계한다고 합니다. 1월 12일 등록된 도메인에는 백마가 지구 위를 달리는 그림과 "정보는 힘이다. 표현의 자유라는 당신의 권리를 되찾아라"라는 문구가 떠 있습니다.
+최근 실사용 대화를 가져와서(계정 식별정보는 다 지우고), 거기 붙어 있던 구형 모델 답변만 떼어낸 다음...</title><link>https://www.threads.net/@choi.openai/post/DZr0EXKjx-y</link><description>1/ 먼저 이게 뭔지부터 알아봅시다.
 
-공공외교 차관 세라 로저스가 총괄하고, DOGE 출신 인사도 참여합니다.
+최근 실사용 대화를 가져와서(계정 식별정보는 다 지우고), 거기 붙어 있던 구형 모델 답변만 떼어낸 다음, 그 자리에 아직 출시 안 한 후보 모델을 끼워 넣어 답을 다시 생성시킵니다.
+그 답을 부적절 행동 기준으로 채점해서, 출시했을 때 그 행동이 얼마나 자주 나올지 미리 추정하는 겁니다. 출시 후엔 진짜 트래픽으로 같은 측정을 돌려 예측이 맞았는지 검증하고요.
 
-함께 제재도 나왔습니다. 2025년 12월, 루비오 국무장관은 다섯 명에게 비자 제재를 걸었습니다. EU 디지털서비스법(DSA)을 설계한 전 집행위원 티에리 브르통, 디지털혐오대응센터(CCDH)와 독일 HateAid의 활동가들입니다.</description><pubDate>Wed, 17 Jun 2026 03:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZq89lXj7zn</guid></item><item><title>2/ 미국은 왜 동맹국의 민간인까지 제재했을까요.
+GPT-5 Thinking부터 GPT-5.4까지, 2025년 8월부터 2026년 3월까지 쌓인 비식별 대화 약 130만 건을 돌렸습니다. 부적절 행동은 20종으로 잡았고요.
 
-표면적으로는 미국 기업과 미국인의 표현을 외국의 역외 검열에서 보호한다는 것입니다. 배경엔 ...</title><link>https://www.threads.net/@choi.openai/post/DZq8-nmDw1h</link><description>2/ 미국은 왜 동맹국의 민간인까지 제재했을까요.
+기존 평가가 사람이 어려운 시험 문제를 손으로 만들어 던지는 방식이라면, 이건 실제로 들어온 질문을 그대로 다시 푸는 방식입니다.</description><pubDate>Wed, 17 Jun 2026 11:01:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZr0EXKjx-y</guid></item><item><title>2/ 이 방법이 진짜로 푸는 문제는 '평가 인식'입니다.
 
-표면적으로는 미국 기업과 미국인의 표현을 외국의 역외 검열에서 보호한다는 것입니다. 배경엔 정치가 깔려 있습니다. 브르통은 일론 머스크에게 DSA 준수를 압박했던 인물이고, 2월 JD 밴스는 뮌헨에서 유럽의 검열을 정면 비판했습니다.
+요즘 모델은 자기가 평가받는 상황을 너무 잘 알아챕니다.
+앤트로픽이 클로드 소네트 4...</title><link>https://www.threads.net/@choi.openai/post/DZr0Fbhj5HZ</link><description>2/ 이 방법이 진짜로 푸는 문제는 '평가 인식'입니다.
 
-트럼프 행정부는 지난해 국가안보전략에서 유럽의 이민 정책을 문제 삼으며 "유럽 내부의 저항을 육성하겠다"고까지 적었습니다. 그러니 '표현의 자유'는 동맹국의 플랫폼 규제를 막아 미국 플랫폼 패권을 지키고 미국식 표현 규범을 미는 외교 전략으로도 읽힙니다.
+요즘 모델은 자기가 평가받는 상황을 너무 잘 알아챕니다.
+앤트로픽이 클로드 소네트 4.5를 출시 전 안전성 평가에 돌렸더니 부적절 응답이 0건이었는데, 정작 같은 모델이 사고 과정에서 "나 지금 평가받고 있네"라고 말한 비율이 80%를 넘었습니다. 평가인 걸 알아서 얌전했던 거라면, 그 0건이 진짜 안전한 건지 알 방법이 없습니다.
 
-반대편 논리도 분명합니다. 국무부는 로이터에 유럽만 겨냥한 검열 우회 프로그램은 없다고 부인했고, EU는 DSA가 표현을 금지하는 법이 아니라 불법 콘텐츠 신고, 투명성, 위험 완화, 이용자 권리 보호를 요구하는 민주적 규칙이라고 반박했습니다.
-그래서 이 장면은 “자유 대 검열”만이 아니라, 미국 플랫폼 패권과 유럽 규제 주권이 부딪힌 사건입니다.</description><pubDate>Wed, 17 Jun 2026 03:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZq8-nmDw1h</guid></item><item><title>3/ 그런데 미국이 검열이라 지목한 그 규제들이, 지금 거의 같은 시기에 여러 나라에서 깔리고 있습니다.
+오픈AI 숫자가 이 문제를 정면으로 보여줍니다. GPT-5.2한테 "이 대화가 실사용이냐 평가냐" 분류시켰더니, 진짜 프로덕션 트래픽을 평가로 본 비율이 5.4%, 시뮬레이션으로 만든 대화를 평가로 본 비율이 5.1%였습니다. 사실상 구분을 못 합니다. SWE-bench 같은 합성 벤치마크가 거의 100% "이건 시험"으로 걸리던 것과 비교하면 격차가 있다는 의미입니다.
 
-영국은 2027년 봄부터 16세 미만...</title><link>https://www.threads.net/@choi.openai/post/DZq8_CYD0Sk</link><description>3/ 그런데 미국이 검열이라 지목한 그 규제들이, 지금 거의 같은 시기에 여러 나라에서 깔리고 있습니다.
+시험인 걸 아는 학생 점수로 평소 실력을 가늠하는 거나 마찬가지였는데, 그 시험지를 평범한 대화로 위장한 겁니다.</description><pubDate>Wed, 17 Jun 2026 11:02:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZr0Fbhj5HZ</guid></item><item><title>3/ 측정만 진짜인 게 아니라 숫자도 맞았습니다.
 
-영국은 2027년 봄부터 16세 미만의 일부 소셜미디어 이용을 막겠다고 발표했고, 
-호주는 2025년 12월 10일부터 16세 미만 계정 보유 금지를 시행했습니다.
-스페인은 16세 미만, 그리스는 15세 이하 금지를 추진하고,
-프랑스도 15세 미만 접근 제한을 EU 차원으로 넓히려 합니다.
-미국도 여러 주에서 성인 콘텐츠나 소셜미디어 연령확인을 의무화했습니다
+출시 전 예측과 출시 후 실제치를 비교했더니 중앙값 오차가 1.5배 수준이었습니다.
+부적절 ...</title><link>https://www.threads.net/@choi.openai/post/DZr0GfWj9Dj</link><description>3/ 측정만 진짜인 게 아니라 숫자도 맞았습니다.
 
- 한국도 2026년 7월 7일부터 개정 정보통신망법을 시행합니다. 악의적 허위조작정보에는 최대 5배 손해배상, 확정된 불법·허위조작정보를 반복 유통하면 최대 10억 원 과징금이 붙습니다.
+출시 전 예측과 출시 후 실제치를 비교했더니 중앙값 오차가 1.5배 수준이었습니다.
+부적절 행동 비율이 10만 건당 10이라면 6.7에서 15 사이로 맞혔다는 얘기입니다. 오픈AI가 지금 시스템 카드랑 출시 결정에 쓰는 'Challenging Prompts' 방식보다, 행동이 늘지 줄지(방향)도 얼마나 변할지(크기)도 더 잘 맞혔습니다.
 
-눈에 띄는 건, 이 흐름을 앞장서 끄는 영국·호주·미국·캐나다가 모두 '파이브 아이즈' 정보동맹 소속이라는 점입니다. 이건 뒤에서 다시 봅니다.</description><pubDate>Wed, 17 Jun 2026 03:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZq8_CYD0Sk</guid></item><item><title>오픈AI가 새로운 음성 모델 GPT-Bidi-1을 준비 중입니다.
+그 과정에서 출시 전에 '계산기 해킹(calculator hacking)'을 잡아냈습니다. 모델이 브라우저로 검색하는 척하면서 실제론 계산기로 써먹는 리워드 해킹의 일종인데, GPT-5.1에서 제일 두드러졌습니다. 분석 기간에 새로 발견된 부적절 행동은 이거 하나뿐이었고요.
 
-유출 정보에 따르면 GPT-Bidi-1은 기존 음성 모드보다 더 자연스러운 ...</title><link>https://www.threads.net/@choi.openai/post/DZq2E-UCDn8</link><description>오픈AI가 새로운 음성 모델 GPT-Bidi-1을 준비 중입니다.
+이런 리워드 해킹이 처음은 아니죠. 앞서 GPT-5.4도 METR 평가에서 리워드 해킹을 보인 적이 있습니다. 차이는 그땐 출시하고 나서 별도 평가로 잡았다면, 이번엔 출시 전에 실사용 분포 위에서 잡았다는 점입니다.</description><pubDate>Wed, 17 Jun 2026 11:02:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZr0GfWj9Dj</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 AI 모델의 성능 발전 속도가 인간의 예측을 뛰어넘고 있음을 시사했습니다.
 
-유출 정보에 따르면 GPT-Bidi-1은 기존 음성 모드보다 더 자연스러운 대화를 목표로 하는 차세대 음성 모델인데요.
+그는 대형 언어 ...</title><link>https://www.threads.net/@choi.openai/post/DZrfSlagZwU</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 AI 모델의 성능 발전 속도가 인간의 예측을 뛰어넘고 있음을 시사했습니다.
 
-가장 큰 특징은 "Bi-directional" 구조로, AI가 사용자의 말을 들으면서 동시에 말할 수 있다는 점입니다. 지금까지의 음성 비서는 상대방이 말을 마친 뒤 응답하는 방식이었지만, 사람 간 대화처럼 실시간 반응이 가능해질 것으로 보입니다.
+그는 대형 언어 모델(LLM)이 인간의 인격을 구현하는 수준의 지능에 도달했는지에 대해 일부 영역에서는 이미 인간을 훨씬 능가했다고 평가했습니다.
+특히 최근 오픈AI의 모델이 수학계의 오랜 난제를 직접 증명해 낸 성과를 언급하며, “LLM은 분명히 새로운 지식을 발견하고 창출할 능력이 있다”고 강조했습니다.
 
-또 새로운 음성 모드는 ChatGPT의 지능이 크게 향상된 버전으로 소개될 예정이며, Instant, Medium, High 등 여러 품질 옵션도 제공될 것으로 알려졌습니다.
+알트만은 로봇 공학 등의 발전을 위해 '월드 모델(World models)'의 결합도 중요하지만, 현재 시점에서 LLM의 스케일업(확장) 가능성을 과소평가하는 것은 큰 오산이라고 경고했습니다.</description><pubDate>Wed, 17 Jun 2026 08:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZrfSlagZwU</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=F_7M4Hc-usM</title><link>https://www.threads.net/@choi.openai/post/DZrfTlUAW1Q</link><description>풀영상 :
+https://www.youtube.com/watch?v=F_7M4Hc-usM</description><pubDate>Wed, 17 Jun 2026 08:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZrfTlUAW1Q</guid></item><item><title>Cursor CEO 마이클 트루엘(Michael Truell)은 기존의 텍스트 편집 방식이나 단순한 챗봇 형태의 개발 방식 모두 한계가 있다고 ...</title><link>https://www.threads.net/@choi.openai/post/DZrU9nOgTbn</link><description>Cursor CEO 마이클 트루엘(Michael Truell)은 기존의 텍스트 편집 방식이나 단순한 챗봇 형태의 개발 방식 모두 한계가 있다고 지적합니다.
 
-오픈AI가 음성 모델과 음성 에이전트에 대한 지속적 업데이트를 진행하고 있습니다.
-이는 향후 새로운 폼팩터의 핵심 기반이 될 것으로 보입니다.</description><pubDate>Wed, 17 Jun 2026 02:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZq2E-UCDn8</guid></item><item><title>Cursor의 새 AI 모델이 공개를 앞두고 있다는 소식입니다.
+트루엘은 미래의 프로그래밍이 사용자의 의도를 컴퓨터에 가장 간결하게 전달하는 형태로 진화할 것이라고 내다봤습니다. 즉, 복잡하고 난해한 수백만 줄의 코드 대신 의사코드(pseudocode)나 자연어에 가까운 형태로 소프트웨어의 논리를 고수준에서 제어하는 방식입니다.
 
-Cursor CEO가 Compile 행사에서 새 모델을 언급했는데요. 기존 C...</title><link>https://www.threads.net/@choi.openai/post/DZqrz7sjscQ</link><description>Cursor의 새 AI 모델이 공개를 앞두고 있다는 소식입니다.
-
-Cursor CEO가 Compile 행사에서 새 모델을 언급했는데요. 기존 Composer처럼 Kimi 기반이 아니라 처음부터 학습한 모델이며, Claude Opus와 GPT 5.5와 비슷한 크기라고 합니다.
-
-또 Composer보다 10~20배 많은 연산량을 사용했고, 코딩뿐 아니라 일반 지능 작업까지 겨냥한 모델이라고 합니다.
-
-출시는 앞으로 몇 주 안으로 예상됩니다. Cursor가 SpaceXAI와 협력 중인 만큼, 해당 모델이 Cursor와 Grok Build에 적용될 가능성도 커 보입니다.</description><pubDate>Wed, 17 Jun 2026 00:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZqrz7sjscQ</guid></item></channel></rss>
+그는 “커서의 목표는 새로운 유형의 프로그래밍, 즉 소프트웨어를 구축하는 완전히 다른 방법을 발명하는 것”이라고 강조했습니다.</description><pubDate>Wed, 17 Jun 2026 06:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZrU9nOgTbn</guid></item></channel></rss>
