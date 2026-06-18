@@ -1,34 +1,105 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 18 Jun 2026 03:58:14 +0000</lastBuildDate><item><title>제프 베이조스(Jeff Bezos)는 AI를 통한 하드웨어 제조와 물리적 엔지니어링의 대전환을 예고했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 18 Jun 2026 11:50:50 +0000</lastBuildDate><item><title>손정의가 오픈AI의 사이버 모델을 일본 핵심 인프라 기업 3,000곳에 팔기 시작했습니다.
 
-그는 문자의 나열만을 학습하는 대...</title><link>https://www.threads.net/@choi.openai/post/DZthyOFj4Wg</link><description>제프 베이조스(Jeff Bezos)는 AI를 통한 하드웨어 제조와 물리적 엔지니어링의 대전환을 예고했습니다.
+이름은 'Patching as a Service'입...</title><link>https://www.threads.net/@choi.openai/post/DZuYqczj5po</link><description>손정의가 오픈AI의 사이버 모델을 일본 핵심 인프라 기업 3,000곳에 팔기 시작했습니다.
 
-그는 문자의 나열만을 학습하는 대형 언어 모델(LLM)은 실제 정밀한 제조 엔지니어링을 수행하는 데 한계가 있다고 지적했습니다. 이를 극복하기 위해 물리적 객체를 설계하는 전용 엔지니어링 AI 모델을 구축 중이라고 밝혔습니다.
+이름은 'Patching as a Service'입니다. 🧵</description><pubDate>Thu, 18 Jun 2026 11:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuYqczj5po</guid></item><item><title>1/ Patching as a Service가 뭔지부터.
 
-베이조스는 인류 문명의 성장은 언제나 발명에 의해 촉발되었다고 설명하며, 제트 엔진 개발처럼 통상 10년이 걸리던 “'상상에서 제작까지(dream-build)'의 주기를 획기적으로 가속할 것”이라고 강조했습니다.
+소프트뱅크그룹(소프트뱅크 Corp. + SB OAI Japan)이 오픈AI의 AI 사...</title><link>https://www.threads.net/@choi.openai/post/DZuYrFlDznD</link><description>1/ Patching as a Service가 뭔지부터.
 
-그동안 난이도와 비용 문제로 실현되지 못하고 머릿속에만 머물렀던 수많은 아이디어가 AI를 통해 현실화되면서, 기술 생산성과 경제적 번영이 전례 없는 수준으로 폭발할 것이라는 비전을 제시했습니다.</description><pubDate>Thu, 18 Jun 2026 03:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZthyOFj4Wg</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=ho_ZmwgvDdM</title><link>https://www.threads.net/@choi.openai/post/DZthzMQDw-J</link><description>풀영상 :
-https://www.youtube.com/watch?v=ho_ZmwgvDdM</description><pubDate>Thu, 18 Jun 2026 03:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZthzMQDw-J</guid></item><item><title>🚨 미드저니(Midjourney)가 첫 하드웨어를 공개했습니다.
-하필 전신 초음파 스캐너입니다. 'Midjourney Medical'이라는 의료...</title><link>https://www.threads.net/@choi.openai/post/DZta8-xDMA3</link><description>🚨 미드저니(Midjourney)가 첫 하드웨어를 공개했습니다.
-하필 전신 초음파 스캐너입니다. 'Midjourney Medical'이라는 의료 사업부까지 새로 만들었고, 신규 하드웨어·소프트웨어 프로젝트가 각각 4개씩 줄줄이 대기 중입니다.
+소프트뱅크그룹(소프트뱅크 Corp. + SB OAI Japan)이 오픈AI의 AI 사이버 역량을 얹어 만든 보안 서비스입니다.
+취약점 진단 → 우선순위 선별 → 패치 설계 → 실제 적용 자문까지를 묶어서 제공합니다. 공항, 전력, 교통 같은 일본 핵심 인프라를 떠받치는 상위 3,000개 기업입니다. 일반 SaaS가 아니라 한 나라의 기간망을 겨냥한 겁니다.
 
-사실 미드저니의 의료 진출은 작년부터 깔린 수순입니다.
-휴대용 초음파 칩으로 유명한 버터플라이 네트워크(Butterfly Network)와 5년 독점 라이선스를 맺고 '초음파 온칩' 기술을 가져왔고, 하드웨어 팀도 애플 비전프로를 만들던 엔지니어를 데려와 꾸렸습니다
- '이미지를 만들고 읽는' 회사가, 가장 의료에 가까운 이미지인 초음파로 건너온 것입니다.
-연 매출 2억 달러를 넘긴 미드저니가 처음으로 외부 투자까지 받아가며 던지는 베팅입니다. AI가 신약을 넘어 진단 장비까지, 의료 전 영역으로 밀고 들어오고 있습니다.</description><pubDate>Thu, 18 Jun 2026 02:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZta8-xDMA3</guid></item><item><title>앤트로픽 CEO 다리오 아모데이(Dario Amodei)는 “AI는 민간 부문에서 주도하여 개발된 최초의 강력한 기술”이라며, 정부의 개입이 늦...</title><link>https://www.threads.net/@choi.openai/post/DZtXgknCX8F</link><description>앤트로픽 CEO 다리오 아모데이(Dario Amodei)는 “AI는 민간 부문에서 주도하여 개발된 최초의 강력한 기술”이라며, 정부의 개입이 늦어진 현재의 불균형한 상황에 우려를 표했습니다.
+손정의의 발표 멘트는 짧고 분명했습니다. "AI로 무장한 사이버 공격이 곧 일상이 될 것이다. 우리는 최첨단 AI로 거기에 맞설 것이다." 일본의 사이버 취약성을 그는 "위기(crisis)"라고 불렀습니다.</description><pubDate>Thu, 18 Jun 2026 11:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuYrFlDznD</guid></item><item><title>2/ 이 서비스의 엔진은 OpenAI의 'Daybreak'입니다.
+Daybreak는 OpenAI가 5월 11일에 공개한 사이버보안 이니셔티브인데...</title><link>https://www.threads.net/@choi.openai/post/DZuYsOXj8kS</link><description>2/ 이 서비스의 엔진은 OpenAI의 'Daybreak'입니다.
+Daybreak는 OpenAI가 5월 11일에 공개한 사이버보안 이니셔티브인데요.
+3월에 나온 Codex Security를 기반으로, 코딩 도구였던 Codex를 '기업 보안 플랫폼'으로 재배치한 겁니다. 그 밑에 깔린 사이버 전용 모델이 GPT-5.5-Cyber입니다.
 
-과거 인터넷, GPS 등은 정부 주도의 연구를 거쳤지만, AI는 막대한 경제적 가치와 코딩 성능의 혁신을 바탕으로 민간 기업이 시장을 선점했기 때문입니다.
-그는 기업의 독점과 정부의 과도한 통제 양쪽 모두를 경계하며, 권력의 견제와 균형이 필수적이라고 보았습니다.
+도쿄 데모(SB OAI Japan CTO 콜린 자비스)가 보여준 흐름이 정확히 이 구조였습니다. 코드베이스를 깊게 스캔해 취약점 수만 개를 뽑고 → 진짜 위험한 것만 골라내고 → 에이전트가 실제 사용자처럼 로그인해 그 취약점을 재현(컴퓨터 유즈)하고 → 패치를 짜고 → 운영 환경 복제본에서 유닛 테스트·회귀 테스트를 돌린 뒤 → 배포하고 → 다시 공격해 막혔는지 확인합니다.
 
-특히 실리콘밸리 일각에서 규제 반대를 외치다 위험이 닥치자 국유화를 주장하는 극단적인 태도를 비판했습니다. 그는 “우리에겐 더 합리적이고 온건한 접근 방식이 필요하다”고 강조하며, 시장의 충격을 줄이고 일자리와 기술 생태계를 보호하기 위해 출시 전 필수 테스트 및 감사 등 균형 잡힌 제도적 안전장치를 도입해야 한다고 설명했습니다.</description><pubDate>Thu, 18 Jun 2026 01:30:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZtXgknCX8F</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=x2VHFgyawPE</title><link>https://www.threads.net/@choi.openai/post/DZtXhn_CZCD</link><description>풀영상 :
-https://www.youtube.com/watch?v=x2VHFgyawPE</description><pubDate>Thu, 18 Jun 2026 01:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZtXhn_CZCD</guid></item><item><title>와 이건 진짜 미친 소식인데요.
-노암 셰이저(Noam Shazeer)가 구글을 떠나 오픈AI로 갑니다.
-지금 모든 LLM이 깔고 있는 그 트랜스...</title><link>https://www.threads.net/@choi.openai/post/DZtVRBwj5ec</link><description>와 이건 진짜 미친 소식인데요.
-노암 셰이저(Noam Shazeer)가 구글을 떠나 오픈AI로 갑니다.
-지금 모든 LLM이 깔고 있는 그 트랜스포머, 'Attention Is All You Need' 논문의 공동 저자인데요. MoE 같은 핵심 구조도 개척했고, 구글에선 제미나이 공동 리드였습니다.
-오픈AI는 그를 아키텍처 연구 총괄로 앉혔고요.
-더 미친 건 돈입니다. 구글이 2024년 그가 세운 캐릭터AI를 27억 달러(약 3.7조 원)에 통째로 사들이면서까지 다시 데려온 사람인데, 2년도 안 돼 경쟁사로 걸어나갔습니다.
-커뮤니티에서는 Gemini가 프런티어에서 반년쯤 뒤처진 것이 아닌가 하는 소리가 돌고 있습니다.
-모델을 한 단계 점프시킬 아키텍처 설계자가 오픈AI로 갔으니, 구글엔 뼈아프고 오픈AI엔 차세대 베팅입니다.</description><pubDate>Thu, 18 Jun 2026 01:11:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZtVRBwj5ec</guid></item></channel></rss>
+데모의 예시는 은행 주택담보대출 앱이었고, 관리자 페이지의 SQL 인젝션으로 고객 데이터에 접근하는 취약점을 모델이 직접 뚫어 증명한 뒤 패치했습니다.</description><pubDate>Thu, 18 Jun 2026 11:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuYsOXj8kS</guid></item><item><title>3/ 여기서 진짜 봐야 할 건 '취약점을 찾는다'가 아닙니다.
+
+취약점은 이제 수만 개씩 쏟아집니다. 찾는 건 더 이상 어려운 일이 아닙니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DZuYtXyDwPU</link><description>3/ 여기서 진짜 봐야 할 건 '취약점을 찾는다'가 아닙니다.
+
+취약점은 이제 수만 개씩 쏟아집니다. 찾는 건 더 이상 어려운 일이 아닙니다.
+어려운 건 그다음입니다. 어느 게 진짜 뚫리는지 증명하고, 어느 걸 먼저 고칠지 분류하고, 패치가 또 다른 장애를 부르지 않는지 검증하는 일입니다.
+
+Daybreak가 공들인 지점도 정확히 거기입니다. 모델이 "이건 취약점 같다"고 말하는 데서 멈추지 않고, 컴퓨터 유즈로 실제 침입을 재현해 증명합니다. 패치도 바로 운영에 올리지 않고 프로덕션 복제 환경에서 회귀 테스트까지 통과시킨 뒤 올립니다.
+
+그리고 그 사이에 사람이 끼어듭니다. 데모에서 엔지니어는 "전문가로서 한마디 거든다"며 패치 방식을 손으로 고쳤습니다.
+
+전에 무신사 CTO 대담을 정리하면서 "개발의 본질이 구현에서 기획·검증으로 넘어간다"고 했는데, 보안에서도 똑같은 이동이 일어나고 있는 겁니다. 사람의 자리가 '코드를 짜는 손'에서 '판단하고 승인하는 거버넌스'로 옮겨갑니다.</description><pubDate>Thu, 18 Jun 2026 11:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuYtXyDwPU</guid></item><item><title>화학자 한 명이 10년은 매달릴 실험을, AI가 몇 주 만에 끝냈습니다.
+
+오픈AI가 공개한 'AI 화학자' 얘긴데요.
+GPT-5.4가 직접 가...</title><link>https://www.threads.net/@choi.openai/post/DZsjoS8jGwi</link><description>화학자 한 명이 10년은 매달릴 실험을, AI가 몇 주 만에 끝냈습니다.
+
+오픈AI가 공개한 'AI 화학자' 얘긴데요.
+GPT-5.4가 직접 가설을 내고 로봇 실험실이 1만 번 넘게 돌려서, 신약에 쓰는 반응 하나를 실제로 개선했습니다
+
+요즘 이런 결과가 부쩍 잦아지고 빨라지고 있다는 게 더 눈에 들어옵니다. 🧵</description><pubDate>Thu, 18 Jun 2026 10:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsjoS8jGwi</guid></item><item><title>1/ 오픈AI가 GPT-5.4를 'Maria'라는 자동 실험실에 연결하고 "쓸모 있는 화학 반응 하나를 개선해봐라"라고 요청했습니다.
+
+GPT-...</title><link>https://www.threads.net/@choi.openai/post/DZuRyylDzuD</link><description>1/ 오픈AI가 GPT-5.4를 'Maria'라는 자동 실험실에 연결하고 "쓸모 있는 화학 반응 하나를 개선해봐라"라고 요청했습니다.
+
+GPT-5.4가 논문을 뒤져 아이디어를 수천 개 뽑아 순위를 매기고, 직접 실험을 설계하고, 결과를 보고 다음 실험까지 짰습니다.
+모델이 고른 건 약 만들 때 흔히 쓰는 반응인데, 특정 재료(1차 설폰아마이드)에선 수율이 잘 안 나오기로 유명한 반응입니다. 여기에 'TEMPO'라는 첨가제를 넣어보자고 했는데, 화학자들도 예상 못 한 제안이었습니다.
+
+로봇 실험실이 이걸 두 번에 걸쳐 1만 80번 돌렸습니다. 그 결과 평균 수율이 16.6%에서 25.2%로 올랐고, TEMPO를 훨씬 싼 물질로 바꿔도 효과가 유지된다는 것까지 찾아냈습니다. 사람이 직접 실험대에서 14쌍을 다시 해보니 11쌍에서 좋아졌고, 그중 8쌍은 두 배 넘게 뛰었습니다.
+
+이 설폰아마이드가 항암제·항생제에도 들어가는 흔한 재료라, 결과가 바로 실제 약 쪽으로 이어집니다.</description><pubDate>Thu, 18 Jun 2026 10:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuRyylDzuD</guid></item><item><title>2/ 3월 4일 첫 지시에서 6월 4일 결과 공유까지 딱 3개월 걸렸고, 미시간대 의약화학 교수도 "신약 합성에서 인기 있는 반응에 대한 강력한...</title><link>https://www.threads.net/@choi.openai/post/DZuRzp7Dw5a</link><description>2/ 3월 4일 첫 지시에서 6월 4일 결과 공유까지 딱 3개월 걸렸고, 미시간대 의약화학 교수도 "신약 합성에서 인기 있는 반응에 대한 강력한 시연"이라고 평가했습니다.
+
+이번 건 신약을 만드는 여러 단계 중 '직접 합성해 확인하는' 한 단계였습니다.
+그런데 그 앞 단계들도 이미 같은 길을 가고 있습니다.
+
+신약은 크게 세 단계를 거칩니다. 병을 일으키는 단백질이 어떻게 생겼는지 알아내고, 거기에 딱 맞는 분자를 설계한 다음, 그 분자를 실제로 만들어 효과가 있는지 확인합니다. 셋 다 원래 몇 년씩 걸리던 일인데, 지금은 단계마다 AI가 들어가 있습니다.
+
+먼저 '구조 파악'. 단백질이 어떻게 생겼는지 알아야 약이 어디를 붙잡을지 정하는데, 예전엔 구조 하나에 박사과정 몇 년이 걸렸습니다.
+구글의 알파폴드가 이걸 1년 만에 2억 개나 예측했고, 데미스 하사비스는 그 공로로 2024년 노벨화학상을 받았습니다.</description><pubDate>Thu, 18 Jun 2026 10:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuRzp7Dw5a</guid></item><item><title>3/ 다음 '분자 설계'는 그 알파폴드 위에 설계 엔진을 얹은 아이소모픽 랩스(Isomorphic Labs)가 맡고 있습니다.
+지금 항암·면역·...</title><link>https://www.threads.net/@choi.openai/post/DZuR0WHj6fI</link><description>3/ 다음 '분자 설계'는 그 알파폴드 위에 설계 엔진을 얹은 아이소모픽 랩스(Isomorphic Labs)가 맡고 있습니다.
+지금 항암·면역·심혈관에서 신약 17개를 동시에 개발 중이고, AI가 설계한 첫 항암제를 올해 말 임상시험에 넣겠다고 했습니다. 지난달엔 21억 달러를 더 받았습니다.
+그리고 마지막 '합성·확인'이 이번 오픈AI 결과입니다. 신약에서 제일 오래 걸리던 구간이 이렇게 하나씩 AI와 로봇한테 넘어가고 있습니다.</description><pubDate>Thu, 18 Jun 2026 10:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuR0WHj6fI</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 AI 기술이 소수 기업에 독점되는 상황을 경계하며 기술 민주화의 중요성을 역설했습니다.
+
+알트...</title><link>https://www.threads.net/@choi.openai/post/DZuOYjniqFm</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 AI 기술이 소수 기업에 독점되는 상황을 경계하며 기술 민주화의 중요성을 역설했습니다.
+
+알트만은 "이 기술이 얼마나 널리 민주화될 것인가, 아니면 소수 기업에 집중될 것인가"가 매우 중요한 문제라고 지적했습니다. 만약 AI 기술이 소수 기업에만 집중된다면 지구상 부의 상당 부분을 독점하게 되어 극심한 불평등과 불안정을 초래할 것이라 경고했습니다.
+
+그는 AI가 가져올 놀라운 미래를 위해 인류가 일정 부분의 위험을 감수하더라도, 기술을 전 세계에 개방하는 공공재적 유틸리티 모델로 나아가야 한다고 분석했습니다.
+권력 독점을 노리는 세력과 안전성을 명분으로 통제를 강화하려는 주장이 맞서겠지만, 전 세계의 이익이 걸려있는 만큼 약 80%의 확률로 기술 민주화라는 민주적 경로를 밟게 될 것이라 전망했습니다.
+
+성공적인 미래를 위해 알트만은 “소수 기업에 기술이 집중되는 위험은 우리가 용인해서는 안 되는 일”이라고 거듭 강조했습니다.</description><pubDate>Thu, 18 Jun 2026 09:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuOYjniqFm</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=F_7M4Hc-usM</title><link>https://www.threads.net/@choi.openai/post/DZuOa0nCjC2</link><description>풀영상 :
+https://www.youtube.com/watch?v=F_7M4Hc-usM</description><pubDate>Thu, 18 Jun 2026 09:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuOa0nCjC2</guid></item><item><title>페이블 사태에서 제가 진짜 걱정하는 건 그 사건이 드러낸 미국의 '설계도'입니다.
+
+프론티어 모델은 국가가 틀어쥐고, 세상엔 한두 세대 뒤처진 ...</title><link>https://www.threads.net/@choi.openai/post/DZuD6I7D-Pw</link><description>페이블 사태에서 제가 진짜 걱정하는 건 그 사건이 드러낸 미국의 '설계도'입니다.
+
+프론티어 모델은 국가가 틀어쥐고, 세상엔 한두 세대 뒤처진 버전만 풀어주는 구조.
+그걸로 시장 주도권은 그대로 쥔 채 경쟁국의 속도만 계속 늦추는 그림이 보이거든요.
+
+이미 신 냉전시대는 시작되었습니다 :</description><pubDate>Thu, 18 Jun 2026 07:58:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuD6I7D-Pw</guid></item><item><title>1/ 페이블 사태의 구조부터 다시 봅니다.
+가장 강력한 미토스는 정부·검증 파트너 전용(Project Glasswing)으로 숨겼고, 대중에 풀...</title><link>https://www.threads.net/@choi.openai/post/DZuD61wj6Ld</link><description>1/ 페이블 사태의 구조부터 다시 봅니다.
+가장 강력한 미토스는 정부·검증 파트너 전용(Project Glasswing)으로 숨겼고, 대중에 풀린 건 사이버 기능을 깎아낸 '안전 버전' 페이블 5였습니다.
+그마저도 외국인 전체가 차단됐고요.
+
+이게 일회성 사고가 아니라 패턴입니다.
+작년 AI Diffusion Rule은 시행 직전 철회됐지만, 설계도는 이미 보여줬습니다.
+세계를 동맹/비동맹, 검증 사용자/일반 사용자로 나누고, GPU·데이터센터·프런티어 모델 가중치 이전까지 차등 관리하려던 규칙이었습니다.
+
+이번에는 그 구도가 모델 접근권으로 옮겨왔습니다. 러트닉 상무장관을 중심으로 G7에서 논의된 ‘trusted partners’ 구상도 같은 흐름입니다.
+일단 막고, 그다음 신뢰 가능한 국가나 기업만 예외 통로로 열어주는 방식입니다.
+결국 최고 성능 모델은 점점 앱처럼 배포되는 게 아니라, 전략물자처럼 배급되는 방향으로 가고 있습니다.</description><pubDate>Thu, 18 Jun 2026 07:58:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuD61wj6Ld</guid></item><item><title>2/ 왜 이게 강력한 무기냐면, 시장이 뒤처진 모델을 안 쓰기 때문입니다.
+다리오 아모데이는 'DeepSeek와 수출통제' 에세이에서 대놓고 말...</title><link>https://www.threads.net/@choi.openai/post/DZuBncgDGhk</link><description>2/ 왜 이게 강력한 무기냐면, 시장이 뒤처진 모델을 안 쓰기 때문입니다.
+다리오 아모데이는 'DeepSeek와 수출통제' 에세이에서 대놓고 말했습니다.
+칩 수출통제가 미국 AI 우위를 만든 핵심 동력이고, 이걸 더 조여 중국이 못 따라오게 하면 "미국이 앞선 단극(unipolar) 세계"가 된다고요.
+민주주의 진영이 AI로 결정적 우위를 쥐는 협력 전략입니다.
+
+알트만도 'AI의 미래를 누가 통제할 것인가'에서 같은 결의 민주주의-주도론을 폈고요.
+관건은 속도입니다. 프론티어가 6개월만 앞서도 시장은 그 6개월 앞선 모델로 쏠립니다. 그러니 미국은 경쟁국을 '보면서' 따라잡힐 만하면 조이고 자국은 계속 앞서가는 식으로, 격차 자체를 관리할 수 있습니다.
+수출통제가 안보를 명분으로 쓰지만 실은 시장 점유율 전략이기도 한 거죠.</description><pubDate>Thu, 18 Jun 2026 07:59:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuBncgDGhk</guid></item><item><title>3/ 그럼 소버린 AI가 대안 아니냐. 정부 시장은 맞고, 기업 시장은 다릅니다.
+
+각국 정부야 안보를 이유로 자국 모델을 강제할 수 있습니다....</title><link>https://www.threads.net/@choi.openai/post/DZuD80bDxpK</link><description>3/ 그럼 소버린 AI가 대안 아니냐. 정부 시장은 맞고, 기업 시장은 다릅니다.
+
+각국 정부야 안보를 이유로 자국 모델을 강제할 수 있습니다. 그런데 민간·기업은 국적이 아니라 성능과 비용을 봅니다.
+
+숫자가 그대로 보여줍니다. 2026년 Ramp AI Index 기준, 유료 AI 모델·플랫폼·툴을 쓰는 미국 기업 비중은 전체 50.6%까지 올라왔고, 그 안에서 앤트로픽은 34.4%로 오픈AI 32.3%를 처음 앞질렀습니다. 구글, xAI, 딥시크는 아직 한 자릿수 꼬리입니다.
+
+유럽이 미스트랄로, 중동·아시아가 비미국 대안으로 움직이는 흐름은 분명히 빨라지고 있습니다. 다만 그게 실제 기업 사용률을 뒤집기 전까지는 ‘소버린이 있다 한들 기업이 쓰겠냐’는 질문이 그대로 남습니다.</description><pubDate>Thu, 18 Jun 2026 07:59:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZuD80bDxpK</guid></item></channel></rss>
