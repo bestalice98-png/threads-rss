@@ -1,69 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 17 Jun 2026 17:42:31 +0000</lastBuildDate><item><title>홀리.. 3B짜리 VibeThinker가 AIME26에서 94.3을 찍었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 18 Jun 2026 03:58:14 +0000</lastBuildDate><item><title>제프 베이조스(Jeff Bezos)는 AI를 통한 하드웨어 제조와 물리적 엔지니어링의 대전환을 예고했습니다.
 
-자기보다 수백 배 큰 Gemini 3 Pro·GLM-5·딥시크...</title><link>https://www.threads.net/@choi.openai/post/DZsZpf_CEWg</link><description>홀리.. 3B짜리 VibeThinker가 AIME26에서 94.3을 찍었습니다.
+그는 문자의 나열만을 학습하는 대...</title><link>https://www.threads.net/@choi.openai/post/DZthyOFj4Wg</link><description>제프 베이조스(Jeff Bezos)는 AI를 통한 하드웨어 제조와 물리적 엔지니어링의 대전환을 예고했습니다.
 
-자기보다 수백 배 큰 Gemini 3 Pro·GLM-5·딥시크 V3.2랑 같은 점수대를 기록한겁니다.
-반응이 "이제 모델 크기는 의미 없다" vs "그냥 벤치맥싱이다"로 쫙 갈렸는데요.
+그는 문자의 나열만을 학습하는 대형 언어 모델(LLM)은 실제 정밀한 제조 엔지니어링을 수행하는 데 한계가 있다고 지적했습니다. 이를 극복하기 위해 물리적 객체를 설계하는 전용 엔지니어링 AI 모델을 구축 중이라고 밝혔습니다.
 
-재밌는 건, 이 싸움의 답을 논문이 이미 적어놨다는 점입니다. 🧵</description><pubDate>Wed, 17 Jun 2026 16:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsZpf_CEWg</guid></item><item><title>1/ 먼저 벤치마크부터 살펴보겠습니다.
+베이조스는 인류 문명의 성장은 언제나 발명에 의해 촉발되었다고 설명하며, 제트 엔진 개발처럼 통상 10년이 걸리던 “'상상에서 제작까지(dream-build)'의 주기를 획기적으로 가속할 것”이라고 강조했습니다.
 
-AIME26 94.3(테스트타임에 추론을 더 굴리면 97.1), LiveCodeBench v6 Pass...</title><link>https://www.threads.net/@choi.openai/post/DZsZr8UiD9B</link><description>1/ 먼저 벤치마크부터 살펴보겠습니다.
+그동안 난이도와 비용 문제로 실현되지 못하고 머릿속에만 머물렀던 수많은 아이디어가 AI를 통해 현실화되면서, 기술 생산성과 경제적 번영이 전례 없는 수준으로 폭발할 것이라는 비전을 제시했습니다.</description><pubDate>Thu, 18 Jun 2026 03:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZthyOFj4Wg</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=ho_ZmwgvDdM</title><link>https://www.threads.net/@choi.openai/post/DZthzMQDw-J</link><description>풀영상 :
+https://www.youtube.com/watch?v=ho_ZmwgvDdM</description><pubDate>Thu, 18 Jun 2026 03:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZthzMQDw-J</guid></item><item><title>🚨 미드저니(Midjourney)가 첫 하드웨어를 공개했습니다.
+하필 전신 초음파 스캐너입니다. 'Midjourney Medical'이라는 의료...</title><link>https://www.threads.net/@choi.openai/post/DZta8-xDMA3</link><description>🚨 미드저니(Midjourney)가 첫 하드웨어를 공개했습니다.
+하필 전신 초음파 스캐너입니다. 'Midjourney Medical'이라는 의료 사업부까지 새로 만들었고, 신규 하드웨어·소프트웨어 프로젝트가 각각 4개씩 줄줄이 대기 중입니다.
 
-AIME26 94.3(테스트타임에 추론을 더 굴리면 97.1), LiveCodeBench v6 Pass@1 80.2, 그리고 학습 때 본 적 없는 4~5월 LeetCode 콘테스트에서 96.1%로 통과했습니다. 마지막이 중요한데, 처음 보는 문제라 "외워서 찍었다(과적합)"로는 설명이 안 됩니다.
+사실 미드저니의 의료 진출은 작년부터 깔린 수순입니다.
+휴대용 초음파 칩으로 유명한 버터플라이 네트워크(Butterfly Network)와 5년 독점 라이선스를 맺고 '초음파 온칩' 기술을 가져왔고, 하드웨어 팀도 애플 비전프로를 만들던 엔지니어를 데려와 꾸렸습니다
+ '이미지를 만들고 읽는' 회사가, 가장 의료에 가까운 이미지인 초음파로 건너온 것입니다.
+연 매출 2억 달러를 넘긴 미드저니가 처음으로 외부 투자까지 받아가며 던지는 베팅입니다. AI가 신약을 넘어 진단 장비까지, 의료 전 영역으로 밀고 들어오고 있습니다.</description><pubDate>Thu, 18 Jun 2026 02:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZta8-xDMA3</guid></item><item><title>앤트로픽 CEO 다리오 아모데이(Dario Amodei)는 “AI는 민간 부문에서 주도하여 개발된 최초의 강력한 기술”이라며, 정부의 개입이 늦...</title><link>https://www.threads.net/@choi.openai/post/DZtXgknCX8F</link><description>앤트로픽 CEO 다리오 아모데이(Dario Amodei)는 “AI는 민간 부문에서 주도하여 개발된 최초의 강력한 기술”이라며, 정부의 개입이 늦어진 현재의 불균형한 상황에 우려를 표했습니다.
 
-베이스는 Qwen2.5-Coder-3B. 여기에 SSP라는 후처리를 얹었는데, 풀이를 최대한 넓게 펼쳐놨다가(스펙트럼) 그중 맞는 신호만 골라 키우는(시그널) 방식입니다.
+과거 인터넷, GPS 등은 정부 주도의 연구를 거쳤지만, AI는 막대한 경제적 가치와 코딩 성능의 혁신을 바탕으로 민간 기업이 시장을 선점했기 때문입니다.
+그는 기업의 독점과 정부의 과도한 통제 양쪽 모두를 경계하며, 권력의 견제와 균형이 필수적이라고 보았습니다.
 
-커리큘럼 SFT → 다영역 RL → 자기증류로 돌렸고, 앞서 1.5B 버전은 이 레시피를 단돈 7,800달러(약 1,000만 원)에 학습시켰습니다.</description><pubDate>Wed, 17 Jun 2026 16:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsZr8UiD9B</guid></item><item><title>2/ 그럼 진짜 벤치맥싱일까요. 여기가 제일 볼 만한 대목입니다.
-
-AIME를 프런티어급으로 푸는 모델이 uv를 모른다는 내용은 받아들이기 힘든...</title><link>https://www.threads.net/@choi.openai/post/DZsZuodiALB</link><description>2/ 그럼 진짜 벤치맥싱일까요. 여기가 제일 볼 만한 대목입니다.
-
-AIME를 프런티어급으로 푸는 모델이 uv를 모른다는 내용은 받아들이기 힘든데요.
-보통 이러면 다들 "조작"이라고 하죠. 근데 저자들이 그 모순을 먼저 설명합니다. "압축-커버리지" 가설입니다.
-
-쉽게 말하면 이렇습니다. 수학이나 알고리즘 대회 코딩처럼 정답이 딱 떨어지고 검증되는 추론은 아주 작은 "추론 코어"에 압축이 됩니다.
-반대로 세상 지식, 범용 상식, 드문 상황 대처 같은 건 파라미터를 넓게 깔아야 겨우 담기고요. 같은 3B가 AIME는 풀면서 uv는 모르는 게 그래서입니다.
-
-두 능력이 애초에 다른 주머니에서 나오는 거죠.</description><pubDate>Wed, 17 Jun 2026 16:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsZuodiALB</guid></item><item><title>3/ 해당 모델이 이게 어느 날 갑자기 튀어나온 게 아닙니다.
-
-작년 초 딥시크 R1을 작은 모델로 증류한 1.5B·7B들이 "작아도 추론은 된...</title><link>https://www.threads.net/@choi.openai/post/DZsZxLYCLoA</link><description>3/ 해당 모델이 이게 어느 날 갑자기 튀어나온 게 아닙니다.
-
-작년 초 딥시크 R1을 작은 모델로 증류한 1.5B·7B들이 "작아도 추론은 된다"를 먼저 열었고, 작년 11월 같은 웨이보 팀이 VibeThinker-1.5B로 400배 큰 R1을 수학에서 제쳤습니다.
-
-이번 3B는 그 궤적의 다음 칸이고요. post-training과 증류로 검증 가능한 추론을 점점 더 작은 몸집에 욱여넣는 흐름이, 1년 넘게 한 방향으로 달리는 중입니다.
-
-그런데 3B라는 사이즈를 보면 4비트로 줄이면 2GB 안쪽입니다. 즉, 핸드폰이나 노트북에서 돌릴 수 있다는 겁니다.</description><pubDate>Wed, 17 Jun 2026 16:31:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsZxLYCLoA</guid></item><item><title>앤트로픽이 클로드 코드 세션 약 40만 건을 분석한 보고서를 냈습니다.
-
-질문은 "코딩을 배우지 않은 사람도 AI에게 복잡한 기술 작업을 맡길 ...</title><link>https://www.threads.net/@choi.openai/post/DZsPVfmigHV</link><description>앤트로픽이 클로드 코드 세션 약 40만 건을 분석한 보고서를 냈습니다.
-
-질문은 "코딩을 배우지 않은 사람도 AI에게 복잡한 기술 작업을 맡길 수 있을까." 입니다.
-
-답은 "그렇다"에 가깝습니다. 단, 조건이 하나 붙습니다. 🧵</description><pubDate>Wed, 17 Jun 2026 15:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsPVfmigHV</guid></item><item><title>1/ 이번 보고서는 2025년 10월부터 2026년 4월까지, 23만 5천 명이 만든 클로드 코드 세션 약 40만 건을 분석한 결과입니다.
-개인...</title><link>https://www.threads.net/@choi.openai/post/DZsPXi3CgCq</link><description>1/ 이번 보고서는 2025년 10월부터 2026년 4월까지, 23만 5천 명이 만든 클로드 코드 세션 약 40만 건을 분석한 결과입니다.
-개인을 들여다보지 않는 방식으로, 무슨 작업을 했고, 누가 했고, 성공했는지를 봤습니다.
-앤트로픽은 이걸 '지식 노동의 미래를 미리 보는 창'으로 봅니다.
-코딩은 AI 에이전트가 실제 업무에 가장 깊이 들어간 첫 분야이기 때문입니다.</description><pubDate>Wed, 17 Jun 2026 15:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsPXi3CgCq</guid></item><item><title>2/ 가장 또렷한 부분은 분업입니다.
-사람은 '무엇을 할지'를 정하고, Claude는 '어떻게 할지'를 정합니다.
-숫자로 보면 계획 결정의 약 ...</title><link>https://www.threads.net/@choi.openai/post/DZsPZ8Siqs7</link><description>2/ 가장 또렷한 부분은 분업입니다.
-사람은 '무엇을 할지'를 정하고, Claude는 '어떻게 할지'를 정합니다.
-숫자로 보면 계획 결정의 약 70%는 사람이, 실행 결정의 약 80%는 Claude가 내립니다.
-보통 사람이 지시를 한 번 던지면, Claude는 평균 열 가지 행동을 줄줄이 수행합니다. 파일을 읽고, 코드를 고치고, 명령을 돌리고, 2천 단어가 넘는 결과를 써냅니다.
-사람은 방향을 잡고, 실무는 에이전트가 처리하는 구조입니다.</description><pubDate>Wed, 17 Jun 2026 15:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsPZ8Siqs7</guid></item><item><title>3/ 그럼 성패는 무엇이 가를까요. 코딩 실력이 아니라 도메인 전문성이었습니다.
-여기서 전문성은 직함이 아니라 '그 일'에 대한 이해입니다.
-베...</title><link>https://www.threads.net/@choi.openai/post/DZsPcVqCi_8</link><description>3/ 그럼 성패는 무엇이 가를까요. 코딩 실력이 아니라 도메인 전문성이었습니다.
-여기서 전문성은 직함이 아니라 '그 일'에 대한 이해입니다.
-베테랑 개발자도 러스트를 처음 물으면 초보고, 파이썬을 한 번도 안 써본 회계사라도 어떤 정산 규칙을 적용해야 하는지 정확히 짚고 월말 마감의 예외 케이스를 잡아내면 그 작업의 전문가입니다.
-그리고 이 전문성이 높을수록 성공률이 또렷이 올라갑니다.
-초보로 분류된 세션은 가장 엄격한 기준의 성공이 15%였는데, 중급 이상은 28~33%로 뛰었습니다.</description><pubDate>Wed, 17 Jun 2026 15:01:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsPcVqCi_8</guid></item><item><title>샘 알트만 방한 취소사유는 딸 출산.</title><link>https://www.threads.net/@choi.openai/post/DZsKFTNDuhn</link><description>샘 알트만 방한 취소사유는 딸 출산.</description><pubDate>Wed, 17 Jun 2026 14:14:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsKFTNDuhn</guid></item><item><title>젠슨 황이 정답지 공유했습니다.
-
-엔비디아 CEO 젠슨 황은 현재 우리가 마주한 AI 모델과 챗GPT 등의 브라우저 서비스는 “빙산의 일각”에 ...</title><link>https://www.threads.net/@choi.openai/post/DZsGCUZILkO</link><description>젠슨 황이 정답지 공유했습니다.
-
-엔비디아 CEO 젠슨 황은 현재 우리가 마주한 AI 모델과 챗GPT 등의 브라우저 서비스는 “빙산의 일각”에 불과하다고 말했습니다.
-
-그는 AI를 온전히 실현하기 위해선 에너지 섹터를 시작으로 칩, 인프라(부지, 전력, 셸), 클라우드 서비스가 유기적으로 맞물려야 하며, 그 위에 언어·물리·바이오 등 다양한 AI 모델과 최상위 레이어인 애플리케이션이 구축되는 거대한 산업 구조를 이해해야 한다고 설명했습니다.
-
-AI는 정보 처리와 문제 해결이라는 지능의 근간을 다루기에 “궁극의 범용 기술”이며, 100조 달러 규모의 전 세계 모든 인프라와 산업을 혁신할 전례 없는 기회입니다.
-
-젠슨 황은 이 기술이 헬스케어의 고통을 줄이고 제조 생산성을 높이며, 정부 보조금 없이도 시장의 힘만으로 지속 가능한 에너지 그리드를 업그레이드할 수 있다고 강조했습니다.</description><pubDate>Wed, 17 Jun 2026 13:40:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsGCUZILkO</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=VU8vRGWMOy4</title><link>https://www.threads.net/@choi.openai/post/DZsGNsTD5C2</link><description>풀영상 :
-https://www.youtube.com/watch?v=VU8vRGWMOy4</description><pubDate>Wed, 17 Jun 2026 13:40:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZsGNsTD5C2</guid></item></channel></rss>
+특히 실리콘밸리 일각에서 규제 반대를 외치다 위험이 닥치자 국유화를 주장하는 극단적인 태도를 비판했습니다. 그는 “우리에겐 더 합리적이고 온건한 접근 방식이 필요하다”고 강조하며, 시장의 충격을 줄이고 일자리와 기술 생태계를 보호하기 위해 출시 전 필수 테스트 및 감사 등 균형 잡힌 제도적 안전장치를 도입해야 한다고 설명했습니다.</description><pubDate>Thu, 18 Jun 2026 01:30:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZtXgknCX8F</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=x2VHFgyawPE</title><link>https://www.threads.net/@choi.openai/post/DZtXhn_CZCD</link><description>풀영상 :
+https://www.youtube.com/watch?v=x2VHFgyawPE</description><pubDate>Thu, 18 Jun 2026 01:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZtXhn_CZCD</guid></item><item><title>와 이건 진짜 미친 소식인데요.
+노암 셰이저(Noam Shazeer)가 구글을 떠나 오픈AI로 갑니다.
+지금 모든 LLM이 깔고 있는 그 트랜스...</title><link>https://www.threads.net/@choi.openai/post/DZtVRBwj5ec</link><description>와 이건 진짜 미친 소식인데요.
+노암 셰이저(Noam Shazeer)가 구글을 떠나 오픈AI로 갑니다.
+지금 모든 LLM이 깔고 있는 그 트랜스포머, 'Attention Is All You Need' 논문의 공동 저자인데요. MoE 같은 핵심 구조도 개척했고, 구글에선 제미나이 공동 리드였습니다.
+오픈AI는 그를 아키텍처 연구 총괄로 앉혔고요.
+더 미친 건 돈입니다. 구글이 2024년 그가 세운 캐릭터AI를 27억 달러(약 3.7조 원)에 통째로 사들이면서까지 다시 데려온 사람인데, 2년도 안 돼 경쟁사로 걸어나갔습니다.
+커뮤니티에서는 Gemini가 프런티어에서 반년쯤 뒤처진 것이 아닌가 하는 소리가 돌고 있습니다.
+모델을 한 단계 점프시킬 아키텍처 설계자가 오픈AI로 갔으니, 구글엔 뼈아프고 오픈AI엔 차세대 베팅입니다.</description><pubDate>Thu, 18 Jun 2026 01:11:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZtVRBwj5ec</guid></item></channel></rss>
