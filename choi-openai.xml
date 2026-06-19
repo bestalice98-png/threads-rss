@@ -1,5 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 19 Jun 2026 12:05:55 +0000</lastBuildDate><item><title>Perplexity가 Brain을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 19 Jun 2026 17:09:56 +0000</lastBuildDate><item><title>오늘 반도체 시장에 중요한 뉴스가 나왔습니다.
+
+주목한 사람이 많지 않았지만. 
+이 뉴스, 그냥 넘어가면 안 됩니다.
+
+ASML EUV 장비 중...</title><link>https://www.threads.net/@choi.openai/post/DZxW3mLD8zB</link><description>오늘 반도체 시장에 중요한 뉴스가 나왔습니다.
+
+주목한 사람이 많지 않았지만. 
+이 뉴스, 그냥 넘어가면 안 됩니다.
+
+ASML EUV 장비 중국 반입 의혹
+지금 무슨 일이 벌어지고 있는지 정리했습니다 🧵</description><pubDate>Fri, 19 Jun 2026 14:42:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZxW3mLD8zB</guid></item><item><title>1/ 오늘 블룸버그가 단독 보도했습니다.
+
+미국 상무장관 하워드 루트닉이 ASML 임원들에게 직접 경고했습니다.
+"EUV 장비 한 대가 수출 제...</title><link>https://www.threads.net/@choi.openai/post/DZxW4KCD0vF</link><description>1/ 오늘 블룸버그가 단독 보도했습니다.
+
+미국 상무장관 하워드 루트닉이 ASML 임원들에게 직접 경고했습니다.
+"EUV 장비 한 대가 수출 제한을 위반해 중국으로 넘어갔을 수 있다."
+
+ASML은 즉각 반박했습니다.
+"우리는 전 세계 모든 EUV 장비의 위치를 추적한다. 중국에 납품한 적 없고, 중국에 위치한 장비도 없다."
+
+루트닉은 한마디 더 했습니다.
+"ASML이 선의로 행동하고 있지 않다는 증거를 확보했다."
+현재까지 미확인 주장입니다. ASML이 부인하고 있습니다.
+
+그럼에도 시장은 움직였습니다.
+ASML 유로넥스트 -2.3%(€1,676 → €1,639). 한국 반도체 선물시장 -5%.</description><pubDate>Fri, 19 Jun 2026 14:42:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZxW4KCD0vF</guid></item><item><title>2/  이 뉴스는 오늘 처음 나온 게 아닙니다.
+
+작년 12월, 로이터가 먼저 보도했습니다. 당시 주목한 사람은 많지 않았습니다.
+"중국 과학자...</title><link>https://www.threads.net/@choi.openai/post/DZxW4nWjw5Z</link><description>2/  이 뉴스는 오늘 처음 나온 게 아닙니다.
+
+작년 12월, 로이터가 먼저 보도했습니다. 당시 주목한 사람은 많지 않았습니다.
+"중국 과학자들이 전직 ASML 엔지니어 팀이 제작한 EUV 프로토타입을 개발했다. 이 프로젝트는 중국판 맨해튼 프로젝트라고 불리고 있다."
+— Reuters, 2025년 12월
+
+맨해튼 프로젝트라는 표현이 나왔습니다. 하지만 조용히 지나갔습니다.
+이후 2026년 1월~2월에 추가 보도가 이어졌습니다. 그리고 오늘, 미국 상무장관이 ASML에 공식 경고하는 단계까지 왔습니다.
+
+프로토타입은 2025년 초 선전에서 완성됐고, 현재 테스트 중입니다. 실제 칩 생산은 아직 없습니다. 개발팀은 2019년부터 채용된 전 ASML 엔지니어들로 구성됐으며, 당시 계약금만 3억~5억 원에 주택 구입 보조금까지 제공됐습니다.</description><pubDate>Fri, 19 Jun 2026 14:42:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZxW4nWjw5Z</guid></item><item><title>3/ ASML EUV가 왜 이렇게 중요한지를 먼저 이해해야 합니다.
+
+세계에서 이 장비를 상업적으로 만들 수 있는 회사는 ASML 하나뿐입니다....</title><link>https://www.threads.net/@choi.openai/post/DZxW5DJD9Fn</link><description>3/ ASML EUV가 왜 이렇게 중요한지를 먼저 이해해야 합니다.
+
+세계에서 이 장비를 상업적으로 만들 수 있는 회사는 ASML 하나뿐입니다.
+대당 무게 약 180톤. 가격 2억~4억 달러. ASML 전문 엔지니어 250명이 6개월에 걸쳐 현장 조립해야 운영 가능합니다. 연간 생산 가능한 수량은 2030년 기준 약 100대 수준입니다.
+
+EUV는 파장 13.5nm의 빛으로 실리콘 웨이퍼에 회로를 새깁니다. 이 기술 없이는 3nm 이하 공정 칩을 만들 수 없습니다. NVIDIA H100도, 애플 A17 Pro도 이 장비에서 나옵니다.
+
+공급망은 독일 ZEISS의 광학계 → ASML 장비 → TSMC 생산 → NVIDIA·Apple 설계 → 전 세계 AI 인프라로 이어집니다. 부품 공급사만 1만여 개가 이 사슬에 연결돼 있습니다.</description><pubDate>Fri, 19 Jun 2026 14:42:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZxW5DJD9Fn</guid></item><item><title>2026년이 되고 지금까지 가장 잘한 일은 스레드에서 이 분 팔로우한 것 같습니다.￼</title><link>https://www.threads.net/@choi.openai/post/DZxOstQD9Kp</link><description>2026년이 되고 지금까지 가장 잘한 일은 스레드에서 이 분 팔로우한 것 같습니다.￼</description><pubDate>Fri, 19 Jun 2026 13:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZxOstQD9Kp</guid></item><item><title>Perplexity가 Brain을 공개했습니다.
 
 안드레 카파시가 이야기했던 LLM Wiki의 개념과 비슷한데요.
 
@@ -48,48 +96,4 @@ AI가 직접 진단을 내린 게 아닙니다. 환자의 증상, 유전자 변�
 
 그리고 18건 중 7건은 사실 답이 이미 공개 데이터베이스에 있었습니다. 변이가 병원성으로 등록되어 있었는데 아무도 연결하지 못했던 겁니다.
 
-AI가 새로운 의학 지식을 발견한 게 아니라, 흩어진 정보를 이어붙인 경우가 절반 가까이 됐습니다.</description><pubDate>Fri, 19 Jun 2026 10:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZw6EftD3iS</guid></item><item><title>앤트로픽이 로봇 실험 Project Fetch의 후속 결과를 공개했습니다.
-
-작년에는 Claude의 도움을 받은 인간 팀이 더 좋은 성과를 냈었...</title><link>https://www.threads.net/@choi.openai/post/DZwzOaNDZzR</link><description>앤트로픽이 로봇 실험 Project Fetch의 후속 결과를 공개했습니다.
-
-작년에는 Claude의 도움을 받은 인간 팀이 더 좋은 성과를 냈었는데요. 이번에는 Claude Opus 4.7이 사람 도움 없이 동일한 작업을 수행했습니다.
-
-지난해 인간 참가자들이 완료한 작업들은 Opus 4.7이 최소 10배, 평균적으로는 20배 이상 빠르게 처리한 것인데요. 로봇 연결, 센서 접근, 제어 코드 작성, 경로 추적, 공 인식 프로그램 개발 같은 작업을 거의 스스로 수행했습니다.
-
-다만 로봇이 공을 정확하게 밀어 원래 위치로 가져오는 마지막 단계는 여전히 어려워했습니다. 로봇 제어 자체를 해결한 것은 아니지만, 앤트로픽은 사이버 보안 분야에서 나타났던 패턴이 물리 세계에서도 반복되고 있다고 분석했습니다.
-
-앤트로픽은 이제 AI가 실제 도구와 로봇을 활용하는 '물리 에이전트' 시대로 들어가고 있다고 보고 있습니다.</description><pubDate>Fri, 19 Jun 2026 09:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZwzOaNDZzR</guid></item><item><title>발표 :
-https://www.anthropic.com/research/project-fetch-phase-two</title><link>https://www.threads.net/@choi.openai/post/DZwzPcsjasf</link><description>발표 :
-https://www.anthropic.com/research/project-fetch-phase-two</description><pubDate>Fri, 19 Jun 2026 09:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZwzPcsjasf</guid></item><item><title>오픈AI가 작년 트럼프 행정부의 국가 AI 정책(America's AI Action Plan)을 직접 쓴 딘 볼(Dean Ball)을 영입했습니...</title><link>https://www.threads.net/@choi.openai/post/DZwpoR9j3w1</link><description>오픈AI가 작년 트럼프 행정부의 국가 AI 정책(America's AI Action Plan)을 직접 쓴 딘 볼(Dean Ball)을 영입했습니다.
-
-그것도 대외 로비 조직이 아니라, 전략책임자 직속 신설팀 수장 자리입니다. 🧵</description><pubDate>Fri, 19 Jun 2026 08:06:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZwpoR9j3w1</guid></item><item><title>1/ 딘 볼은 트럼프 행정부의 국가 AI 전략 문서인 America’s AI Action Plan의 핵심 실무 작성자였습니다.
-
-백악관 과학기술...</title><link>https://www.threads.net/@choi.openai/post/DZwpoytjxc4</link><description>1/ 딘 볼은 트럼프 행정부의 국가 AI 전략 문서인 America’s AI Action Plan의 핵심 실무 작성자였습니다.
-
-백악관 과학기술정책실에서 AI와 신기술 담당 선임 정책보좌관으로 일했고, 이후 Foundation for American Innovation 선임연구원으로 옮겼습니다.
-
-그가 7월 6일부터 오픈AI에 합류합니다. 맡는 곳은 'Strategic Futures'라는 신설 팀에서 Head of Strategic Futures의 직함으로 일하게됩니다.
-다루는 주제가 파국적 위험(catastrophic risk), 재귀적 자기개선, 노동시장 충격, 그리고 프런티어 랩과 정부·사회의 관계까지입니다.
-
-회사가 가장 무겁게 보는 질문들을 한 팀에 몰아둔 겁니다. 보고선은 최고전략책임자(CSO) 제이슨 권입니다.</description><pubDate>Fri, 19 Jun 2026 08:06:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZwpoytjxc4</guid></item><item><title>2/ 순수한 대외 로비라면 보통 Global Affairs 라인으로 들어가는 게 자연스럽습니다.
-그런데 오픈AI는 딘 볼을 전략 라인에 앉혔습니...</title><link>https://www.threads.net/@choi.openai/post/DZwppLFj4Ei</link><description>2/ 순수한 대외 로비라면 보통 Global Affairs 라인으로 들어가는 게 자연스럽습니다.
-그런데 오픈AI는 딘 볼을 전략 라인에 앉혔습니다.
-
-정책을 홍보나 워싱턴 대응의 문제가 아니라, 회사의 장기 전략과 내부 거버넌스의 문제로 보고 있다는 뜻입니다.
-
-딘 볼이 여러 글에서 강조해 온 주장도 이와 맞닿아 있습니다. 프런티어 AI 거버넌스의 핵심 결정은 실제로 상당 부분 랩 내부에서 내려질 수밖에 없고, 그래서 ‘내부 거버넌스’가 사람들이 생각하는 것보다 훨씬 중요하다는 겁니다.
-
-딘 볼이 밝힌 Strategic Futures의 범위에도 공개 정책 제안뿐 아니라 랩 내부 거버넌스가 들어갑니다.
-
-오픈AI는 정부를 설득할 사람만 데려온 게 아니라, 정부와 맞물릴 회사의 규칙을 설계할 사람을 데려온 겁니다.</description><pubDate>Fri, 19 Jun 2026 08:06:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZwppLFj4Ei</guid></item><item><title>3/ 오픈AI가 정책에 이렇게까지 무게를 두는 건, 회사의 계획 자체가 정부 위에 얹혀 있기 때문입니다. 크게 세 군데에서 그렇습니다.
-
-스타게...</title><link>https://www.threads.net/@choi.openai/post/DZwppqKjxz1</link><description>3/ 오픈AI가 정책에 이렇게까지 무게를 두는 건, 회사의 계획 자체가 정부 위에 얹혀 있기 때문입니다. 크게 세 군데에서 그렇습니다.
-
-스타게이트는 4년간 5,000억 달러, 즉시 1,000억 달러를 투입하겠다는 미국 AI 인프라 프로젝트였습니다.
-오픈AI 공식 발표도 이 프로젝트를 미국 재산업화와 국가안보 능력의 일부로 설명했습니다.
-
-데이터센터는 모델만으로 지을 수 없습니다.
-토지, 전력, 송전망, 인허가, 지역 정치가 필요합니다.
-
-그래서 오픈AI는 2025년 5월 7일 OpenAI for Countries를 발표했습니다.
-각국 정부와 자국 데이터센터, 맞춤형 ChatGPT, 국가 AI 생태계 펀드, 글로벌 스타게이트 확장을 함께 묶는 구상입니다.</description><pubDate>Fri, 19 Jun 2026 08:07:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZwppqKjxz1</guid></item></channel></rss>
+AI가 새로운 의학 지식을 발견한 게 아니라, 흩어진 정보를 이어붙인 경우가 절반 가까이 됐습니다.</description><pubDate>Fri, 19 Jun 2026 10:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZw6EftD3iS</guid></item></channel></rss>
