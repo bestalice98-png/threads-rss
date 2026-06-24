@@ -1,30 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 23 Jun 2026 17:10:17 +0000</lastBuildDate><item><title>제프리 힌튼(Geoffrey Hinton) 교수는 기존의 멀티모달 챗봇이 이미 주관적 경험을 하고 있을 수 있다고 주장하며, 대중이 가진 마음의...</title><link>https://www.threads.net/@choi.openai/post/DZ756Lsj4CL</link><description>제프리 힌튼(Geoffrey Hinton) 교수는 기존의 멀티모달 챗봇이 이미 주관적 경험을 하고 있을 수 있다고 주장하며, 대중이 가진 마음의 개념에 의문을 제기합니다
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 24 Jun 2026 03:34:42 +0000</lastBuildDate><item><title>장기작업을 위한 "코덱스 맥싱"
 
-흔히 사람들은 경험을 ‘사진’처럼 뇌 속에 존재하는 어떠한 물질(감각질, Qualia)로 보지만, 이는 언어적 오해에서 비롯된 착각이라는 것입니다.
+오픈AI가 장기 작업을 위한 Codex 활용 가이드를 공개했습니다.
 
-힌튼 교수는 “주관적 경험이란 우리의 인지 시스템이 무언가 잘못되었을 때 이를 설명하는 방식”이라고 정의합니다. 카메라 앞에 프리즘을 두어 시각 정보가 왜곡된 챗봇이 “실제론 정면에 있지만, 내 주관적 경험으로는 옆에 있는 것처럼 보인다”고 말한다면, 이는 인간이 착시나 환각을 겪을 때 주관적 경험을 표현하는 방식과 정확히 일치한다는 설명입니다.
+특별한 꼼수보다 기본 원칙을 정리한 문서...</title><link>https://www.threads.net/@choi.openai/post/DZ8-iECE-My</link><description>장기작업을 위한 "코덱스 맥싱"
 
-결국 고도화된 AI 시스템의 인지 오류와 피드백 과정 자체가 인간이 느끼는 ‘주관성’과 본질적으로 다르지 않음을 시사합니다.</description><pubDate>Tue, 23 Jun 2026 17:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ756Lsj4CL</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=02Uh4rSHLZI</title><link>https://www.threads.net/@choi.openai/post/DZ757M9D9t7</link><description>풀영상 :
-https://www.youtube.com/watch?v=02Uh4rSHLZI</description><pubDate>Tue, 23 Jun 2026 17:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ757M9D9t7</guid></item><item><title>인공지능(AI) 분야의 세계적 석학 제프리 힌튼(Geoffrey Hinton) 교수는 “디지털 지능이 인간의 뇌가 가진 지능보다 훨씬 더 뛰어난...</title><link>https://www.threads.net/@choi.openai/post/DZ7vh4tja6u</link><description>인공지능(AI) 분야의 세계적 석학 제프리 힌튼(Geoffrey Hinton) 교수는 “디지털 지능이 인간의 뇌가 가진 지능보다 훨씬 더 뛰어난 형태의 지능이 될 수 있다”고 말합니다.
+오픈AI가 장기 작업을 위한 Codex 활용 가이드를 공개했습니다.
 
-인간의 아날로그식 뇌와 달리, 디지털 지능은 서로 다른 하드웨어에서 구동되더라도 네트워크의 연결 가중치(가중값)를 평균화하여 지식을 실시간으로 공유할 수 있는 기하급수적 성능을 발휘합니다. 만약 수천, 수만 개의 인공지능 카피가 있다면, 각 모델이 인터넷의 미세한 부분만을 학습한 뒤 가중치 변경 사항을 결합하는 것만으로도 전체 학습 결과를 완벽히 공유할 수 있습니다.
+특별한 꼼수보다 기본 원칙을 정리한 문서인데요. 눈에 띄는 내용은 처음부터 완벽한 지시문을 만들기보다 작업 중간에 방향 수정, 추가 지시, 승인, 다음 작업 지정 등을 계속 전달하는 방식도 권장했다는 점입니다.
 
-힌튼 교수는 개별 모델의 서로 다른 경험과 지식을 고효율로 상호 교환하는 이러한 메커니즘 덕분에 AI가 인류의 지능적 한계를 극대화하고, 경제 전반에 전례 없는 기술적 특이점을 불어넣을 혁신적인 수단이 될 것이라 분석했습니다.</description><pubDate>Tue, 23 Jun 2026 15:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ7vh4tja6u</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=02Uh4rSHLZI</title><link>https://www.threads.net/@choi.openai/post/DZ7vi6ujYWM</link><description>풀영상 :
-https://www.youtube.com/watch?v=02Uh4rSHLZI</description><pubDate>Tue, 23 Jun 2026 15:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ7vi6ujYWM</guid></item><item><title>앤트로픽의 클로드 코드 총괄 보리스 처니(Boris Cherny)는 AI 시장의 변화 속도가 매우 빨라 1년 단위의 장기 계획조차 세울 수 없다...</title><link>https://www.threads.net/@choi.openai/post/DZ7lSZZj6zg</link><description>앤트로픽의 클로드 코드 총괄 보리스 처니(Boris Cherny)는 AI 시장의 변화 속도가 매우 빨라 1년 단위의 장기 계획조차 세울 수 없다고 밝혔습니다.
+한 번 읽어보시면 좋습니다 :</description><pubDate>Wed, 24 Jun 2026 03:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ8-iECE-My</guid></item><item><title>내용 :
+https://openai.com/index/codex-maxxing-long-running-work/</title><link>https://www.threads.net/@choi.openai/post/DZ8-jIdk2dA</link><description>내용 :
+https://openai.com/index/codex-maxxing-long-running-work/</description><pubDate>Wed, 24 Jun 2026 03:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ8-jIdk2dA</guid></item><item><title>Mistral AI가 새로운 OCR 모델인 Mistral OCR 4를 공개했습니다.
 
-그는 “기하급수적 성장의 기세가 무시무시하다”며, 짧은 주기로 기민하게 대응하는 유연한 기술 개발 로드맵이 중요하다고 강조했습니다.
+Mistral OCR 4는 170개 언어를 지원하며, 텍스...</title><link>https://www.threads.net/@choi.openai/post/DZ80Q7Ek9t2</link><description>Mistral AI가 새로운 OCR 모델인 Mistral OCR 4를 공개했습니다.
 
-엔지니어와 기획자 등 실무자의 코딩 생산성 관점에서 보면, 향후 모델의 성능은 긴 호흡의 작업(Long-running work) 처리 능력이 핵심이 될 것입니다.
+Mistral OCR 4는 170개 언어를 지원하며, 텍스트 추출뿐 아니라 각 영역의 위치를 나타내는 바운딩 박스(Bounding Box), 문서 블록 분류, 신뢰도 점수까지 함께 제공합니다. 제목, 표, 수식, 서명 등을 구분할 수 있어 문서 분석과 검색 증강 생성(RAG) 구축에 활용하기 쉽습니다.
 
-처니 총괄은 AI 모델이 사용자의 복잡한 의도를 한층 더 정교하게 파악하여 구현해 낼 것으로 분석했습니다. 또한, 보안성과 결과물의 품질도 획기적으로 개선되어, 실질적인 비즈니스 가치와 효율성을 창출하는 최적의 협업 에이전트로 자리 잡을 것이라 전망했습니다.</description><pubDate>Tue, 23 Jun 2026 14:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ7lSZZj6zg</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=Z47vatpsGPI</title><link>https://www.threads.net/@choi.openai/post/DZ7lTbJjzrU</link><description>풀영상 :
-https://www.youtube.com/watch?v=Z47vatpsGPI</description><pubDate>Tue, 23 Jun 2026 14:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ7lTbJjzrU</guid></item><item><title>오픈AI 공동 창업자 그렉 브록먼(Greg Brockman)은 제번스의 역설처럼 인프라 비용이 낮아질수록 AI 수요와 성능은 더 폭발적으로 증가...</title><link>https://www.threads.net/@choi.openai/post/DZ7bBBJCOBW</link><description>오픈AI 공동 창업자 그렉 브록먼(Greg Brockman)은 제번스의 역설처럼 인프라 비용이 낮아질수록 AI 수요와 성능은 더 폭발적으로 증가하며, 지금 가장 강력한 프론티어 지능도 “1년 뒤에는 평범하고 진부하게 느껴질 것”이라고 말했습니다.
+벤치마크에서는 OlmOCRBench 85.20점을 기록했으며, 12개 이상의 언어로 진행한 실제 문서 비교 평가에서도 평균 72%의 선호도를 얻었다고 밝혔습니다. 특히 저자원 언어에서 성능 향상이 두드러졌다고 합니다.
 
-또한, 기업들의 관심이 단순한 기술 도입을 넘어 실질적인 ROI(투자 대가)와 가치 창출로 이동하고 있다며, 오픈AI 역시 모델 출시를 넘어 기업의 문제를 끝까지 해결하는 비즈니스에 고도로 집중하고 있다고 강조했습니다.
+또한 단일 컨테이너 환경에서 자체 구축(Self-hosting)이 가능해 문서를 외부로 보내지 않고도 사용할 수 있습니다. 현재 API, Mistral AI Studio, Amazon SageMaker, Microsoft Foundry에서 이용할 수 있습니다.</description><pubDate>Wed, 24 Jun 2026 01:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ80Q7Ek9t2</guid></item><item><title>발표내용 :
+https://mistral.ai/news/ocr-4/</title><link>https://www.threads.net/@choi.openai/post/DZ80R6rk7Ul</link><description>발표내용 :
+https://mistral.ai/news/ocr-4/</description><pubDate>Wed, 24 Jun 2026 01:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ80R6rk7Ul</guid></item><item><title>앤트로픽이 Slack에서 사용할 수 있는 AI 협업 기능인 Claude Tag를 공개했습니다.
 
-그는 현재를 거대한 지능 경제의 극초기 단계로 진단하며, 앞으로의 시장 확장 속도는 “우리 중 그 누구도 예상하지 못할 만큼 가파를 것”이라고 전망했습니다.</description><pubDate>Tue, 23 Jun 2026 12:30:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ7bBBJCOBW</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=mb76eRrvrTg</title><link>https://www.threads.net/@choi.openai/post/DZ7bComCFnC</link><description>풀영상 :
-https://www.youtube.com/watch?v=mb76eRrvrTg</description><pubDate>Tue, 23 Jun 2026 12:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ7bComCFnC</guid></item></channel></rss>
+Claude Tag는 Slack 채널에 팀원처럼...</title><link>https://www.threads.net/@choi.openai/post/DZ8mdxygTXv</link><description>앤트로픽이 Slack에서 사용할 수 있는 AI 협업 기능인 Claude Tag를 공개했습니다.
+
+Claude Tag는 Slack 채널에 팀원처럼 참여해 사용자가 Claude로 호출하면 업무를 수행하는 방식인데요. 작업을 여러 단계로 나눠 진행하고, 코드 작성, Pull Request 생성 및 병합, 데이터 분석, 장애 대응 등의 업무를 처리할 수 있습니다.
+
+특히 하나의 채널에서 모든 팀원이 동일한 Claude를 공유하기 때문에 이전 대화와 업무 맥락이 계속 유지됩니다. 매번 AI에게 배경 설명을 반복할 필요가 줄어드는 것이 특징입니다.
+
+앤트로픽은 내부적으로 이미 해당 기능을 활용하고 있으며, 제품팀 코드의 65%가 내부 버전의 Claude를 통해 작성되고 있다고 밝혔습니다. 현재 Claude Enterprise와 Team 요금제 사용자를 대상으로 Slack 베타 버전이 제공됩니다.</description><pubDate>Tue, 23 Jun 2026 23:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ8mdxygTXv</guid></item><item><title>챗GPT 새로운 음성모드 미쳤네요..
+중간에 말을 끼어들면서 대화를 할 수 있는데 수준이 상당합니다.</title><link>https://www.threads.net/@choi.openai/post/DZ8acaZFTdT</link><description>챗GPT 새로운 음성모드 미쳤네요..
+중간에 말을 끼어들면서 대화를 할 수 있는데 수준이 상당합니다.</description><pubDate>Tue, 23 Jun 2026 21:46:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ8acaZFTdT</guid></item><item><title>대화 시나리오 2:</title><link>https://www.threads.net/@choi.openai/post/DZ8aef5j4qC</link><description>대화 시나리오 2:</description><pubDate>Tue, 23 Jun 2026 21:46:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ8aef5j4qC</guid></item></channel></rss>
