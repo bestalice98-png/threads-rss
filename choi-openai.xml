@@ -1,31 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 25 Jun 2026 03:33:00 +0000</lastBuildDate><item><title>Genspark가 디자인 기능을 통합한 Genspark Design을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 25 Jun 2026 10:41:18 +0000</lastBuildDate><item><title>Fable 5가 돌아오고 있다는 소식이 점점 많이 들리네요!
+Amazon Bedrock도 그렇고 조만간 다시 최강의 모델을 사용할 수 있을 것 ...</title><link>https://www.threads.net/@choi.openai/post/DaASjIAj-WN</link><description>Fable 5가 돌아오고 있다는 소식이 점점 많이 들리네요!
+Amazon Bedrock도 그렇고 조만간 다시 최강의 모델을 사용할 수 있을 것 같습니다.</description><pubDate>Thu, 25 Jun 2026 09:53:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaASjIAj-WN</guid></item><item><title>구글이 Gemini 3.5 Flash에 Computer Use 기능을 추가했습니다.
 
-Claude Opus 4.7을 기반으로 UI 시안, 영상,...</title><link>https://www.threads.net/@choi.openai/post/DZ_f5m6j4Bg</link><description>Genspark가 디자인 기능을 통합한 Genspark Design을 공개했습니다.
+이제 별도 Gemini 2.5 computer-use 모델...</title><link>https://www.threads.net/@choi.openai/post/DaAHaodl02-</link><description>구글이 Gemini 3.5 Flash에 Computer Use 기능을 추가했습니다.
 
-Claude Opus 4.7을 기반으로 UI 시안, 영상, HTML 애니메이션, 포스터 등을 한곳에서 만들 수 있으며, Figma 파일을 불러와 디자인 시스템으로 재사용하는 기능도 제공합니다.
+이제 별도 Gemini 2.5 computer-use 모델을 부르는 구조가 아니라, Flash 본체가 화면을 보고 클릭·스크롤·입력 같은 UI 행동을 제안합니다.
 
-또한 앱·웹 디자인을 코드로 변환하는 기능도 지원합니다. 출시 기념으로 개인은 2주, Team은 4주 동안 크레딧 사용량이 50% 할인됩니다.</description><pubDate>Thu, 25 Jun 2026 02:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ_f5m6j4Bg</guid></item><item><title>구글 딥마인드의 핵심 연구진 이탈이 계속되고 있습니다.
+브라우저, 모바일, 데스크톱 환경에서 AI가 화면을 보고 작업을 수행할 수 있으며, 티켓 등록 같은 업무 자동화 성능도 개선됐다고 합니다.
 
-블룸버그에 따르면 Gemini의 핵심 개발에 참여했던 Jonas Adler와 Alexa...</title><link>https://www.threads.net/@choi.openai/post/DZ_VmtyCXGL</link><description>구글 딥마인드의 핵심 연구진 이탈이 계속되고 있습니다.
+구글은 기업 환경에서 활용할 수 있도록 안전장치와 도구 연동도 함께 공개했습니다.
+실제 서비스에서는 자동화 성능뿐 아니라 사용자 확인 절차와 안전 기능이 중요한 요소가 될 것으로 보입니다.</description><pubDate>Thu, 25 Jun 2026 08:16:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaAHaodl02-</guid></item><item><title>발표내용 :
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/i...</title><link>https://www.threads.net/@choi.openai/post/DaAHfgRDxeh</link><description>발표내용 :
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</description><pubDate>Thu, 25 Jun 2026 08:16:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaAHfgRDxeh</guid></item><item><title>구글 딥마인드의 CEO 데미스 하사비스(Demis Hassabis)는 인공일반지능(AGI)의 핵심이 "특정 정답이 하드코딩된 시스템이 아닌, 스...</title><link>https://www.threads.net/@choi.openai/post/DZ_3_BWCl1U</link><description>구글 딥마인드의 CEO 데미스 하사비스(Demis Hassabis)는 인공일반지능(AGI)의 핵심이 "특정 정답이 하드코딩된 시스템이 아닌, 스스로 학습하는 범용 인텔리전스 시스템"을 구축하는 데 있다고 밝혔습니다.
 
-블룸버그에 따르면 Gemini의 핵심 개발에 참여했던 Jonas Adler와 Alexander Pritzel이 앤트로픽으로 이직할 예정이라고 합니다.
-앞서 노암 샤지어(Noam Shazeer)는 오픈AI로, 존 점퍼도 앤트로픽에 합류하면서 구글 딥마인드의 핵심 연구진 이동이 계속되고 있습니다.
+그는 과거 50~60년 동안의 AI 연구가 주로 특정 작업에만 치중되어 있었다면, 이제는 과학적 논문이나 시각 데이터 등 다양한 입력을 분석해 스스로 유용한 패턴을 찾아내는 수준에 이르렀다고 설명했습니다.
 
-지금 AI 업계에서는 최고의 연구자들이 어디에서 다음 세대 모델을 만들고 싶어 하는지가 경쟁력으로 이어지고 있습니다.
+특히 그는 단백질 구조를 예측하는 '알파폴드'나 신약 개발처럼 AI를 과학 발전에 접목하는 'AI for Science' 분야에서 가장 큰 변화와 기회가 나타날 것으로 전망했습니다.
 
-대기업은 안정적인 연구 환경을 제공할 수 있지만, 앤트로픽이나 오픈AI 같은 프런티어 연구소는 AGI 개발의 중심에서 직접 방향을 결정하고, 성공 시 더 큰 보상을 기대할 수 있다는 점이 강한 매력으로 작용하는 것으로 보입니다.</description><pubDate>Thu, 25 Jun 2026 01:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ_VmtyCXGL</guid></item><item><title>오픈AI가 브로드컴과 함께 첫 AI 추론 칩 "Jalapeño"를 공개했습니다.
-ChatGPT, Codex, API, 앞으로 등장할 에이전트 제...</title><link>https://www.threads.net/@choi.openai/post/DZ_JfVaD81O</link><description>오픈AI가 브로드컴과 함께 첫 AI 추론 칩 "Jalapeño"를 공개했습니다.
-ChatGPT, Codex, API, 앞으로 등장할 에이전트 제품까지 LLM 추론만을 위해 처음부터 설계된 칩입니다.
+동시에 이와 동일한 범용 플랫폼 기술이 생산성 도구나 미디어 생성 모델 등 경제 전반으로 확장되어 인류의 창의성과 업무 효율성을 혁신적으로 끌어올릴 것이라고 강조했습니다.</description><pubDate>Thu, 25 Jun 2026 06:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ_3_BWCl1U</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=hb9JPW_DkpQ</title><link>https://www.threads.net/@choi.openai/post/DZ_4BSEivhy</link><description>풀영상 :
+https://www.youtube.com/watch?v=hb9JPW_DkpQ</description><pubDate>Thu, 25 Jun 2026 06:01:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ_4BSEivhy</guid></item><item><title>조코딩님의 AX 인재전쟁을 꽤 흥미롭게 보고 있습니다.
 
-여기서 중요한 건 칩 자체보다 전략입니다. 이제 오픈AI는 AI 모델만 만드는 회사가 아니라, 칩, 메모리, 네트워크, 데이터센터까지 직접 설계하는 풀스택 AI 기업으로 확장하고 있습니다.
+매일같이 쏟아지는 AI 정보를 다루다 보면 시그널을 읽고 미래를 예측하는 게 굉장히 중...</title><link>https://www.threads.net/@choi.openai/post/DZ_tDUIjxGW</link><description>조코딩님의 AX 인재전쟁을 꽤 흥미롭게 보고 있습니다.
 
-초기 테스트에서는 기존 최고 수준의 AI 칩보다 전력 대비 성능이 더 높았다고 하는데요. 특히 오픈AI 모델을 활용해 설계부터 생산까지 단 9개월 만에 완료했다는 점도 눈에 띕니다.</description><pubDate>Wed, 24 Jun 2026 23:14:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ_JfVaD81O</guid></item><item><title>발표내용 :
-https://openai.com/index/openai-broadcom-jalapeno-inference-chip/</title><link>https://www.threads.net/@choi.openai/post/DZ_Jf6ZD1OM</link><description>발표내용 :
-https://openai.com/index/openai-broadcom-jalapeno-inference-chip/</description><pubDate>Wed, 24 Jun 2026 23:14:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ_Jf6ZD1OM</guid></item><item><title>앤트로픽(Anthropic)의 공동 창립자 잭 클라크(Jack Clark)는 AI 모델을 훈련할 때 의도하지 않아도 성격과 같은 ‘창발적 특성’...</title><link>https://www.threads.net/@choi.openai/post/DZ-lfrvjkj1</link><description>앤트로픽(Anthropic)의 공동 창립자 잭 클라크(Jack Clark)는 AI 모델을 훈련할 때 의도하지 않아도 성격과 같은 ‘창발적 특성’이 나타날 수 있다고 분석했습니다.
+매일같이 쏟아지는 AI 정보를 다루다 보면 시그널을 읽고 미래를 예측하는 게 굉장히 중요하다는 걸 체감하게 되는데요.
 
-그는 인터넷 자료로 학습한 시스템은 사람들이 온라인에서 행동하는 방식을 그대로 성격처럼 반영하게 된다고 설명했습니다. 이에 대응하기 위해 인간 피드백 기반 강화학습(RLHF)을 적용하기도 하지만, 이는 때로 아첨하는 결과로 이어지는 한계가 있습니다.
+과거에 뉴스 한 줄로 지나갔던 소식들이 생각보다 크게 변화되는 것을 계속 관찰하고 있고, 그 사실과 기사의 빈 공백을 채우다 보면 기사에 없는 새로운 정보를 알게 되기 때문입니다.</description><pubDate>Thu, 25 Jun 2026 04:25:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ_tDUIjxGW</guid></item><item><title>1/ 사실 지금 무엇과도 바꿀 수 없는 저의 가장 큰 자원은 LLM Wiki에 들어가는 레퍼런스 데이터라고 생각하고 있습니다.
 
-따라서 그는 AI가 가져야 할 성격 요소를 명확히 규정하는 일종의 ‘헌법’을 제정하고 이를 시스템에 의도적으로 반영해야 한다고 강조했습니다.
+더 정확히 말하...</title><link>https://www.threads.net/@choi.openai/post/DZ_tDpDDzpi</link><description>1/ 사실 지금 무엇과도 바꿀 수 없는 저의 가장 큰 자원은 LLM Wiki에 들어가는 레퍼런스 데이터라고 생각하고 있습니다.
 
-잭 클라크는 “이런 특성이 자연스럽게 생겨나는 것이라면, 그것을 그냥 두지 말고 의도적으로 다뤄야 한다”고 말하며, 세상이 AI 시스템의 행동을 지속적으로 비판하고 토론하는 사회적 역할이 매우 중요하다고 덧붙였습니다.</description><pubDate>Wed, 24 Jun 2026 18:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ-lfrvjkj1</guid></item></channel></rss>
+더 정확히 말하면 LLM Wiki를 기반으로 시그널을 발견하고, 서로 다른 사실들을 연결해 하나의 가설을 만들 수 있는 사고 체계가 핵심 자산입니다.
+
+제가 매번 다루는 인터뷰, 채용공고, CEO 인터뷰, 오픈소스 릴리즈, 투자 뉴스, 논문 등 하나하나 보면 평범한 정보인데, 이 데이터들을 엮어보면 생각보다 재미있는 결과물들이 많이 나옵니다.
+
+흩어져 있던 정보들이 연결되면서 전혀 보이지 않던 기업의 전략과 방향이 드러나는 경우가 많이 때문인데요.
+
+이번 해커톤에 나온 기업들도 방향성과 데이터 전략의 관점으로 분석해보면 재미있는 시나리오들이 많이 나오고있습니다.
+
+데이터가 없는 구조에서 요청을 하면 받아볼 수 없는 내용들이죠. 물론, 시나리오를 기반으로 솔루션을 만드는 영역은 다른 이야기이긴 하지만요.</description><pubDate>Thu, 25 Jun 2026 04:25:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ_tDpDDzpi</guid></item><item><title>2/ 과거부터 비정형 데이터의 가치가 점점 올라가고 있다는 이야기를 예전부터 해왔는데, 그런 비정형적 데이터를 어떻게 연결을 짓느냐에 대한 가치...</title><link>https://www.threads.net/@choi.openai/post/DZ_tEPMj_Y4</link><description>2/ 과거부터 비정형 데이터의 가치가 점점 올라가고 있다는 이야기를 예전부터 해왔는데, 그런 비정형적 데이터를 어떻게 연결을 짓느냐에 대한 가치는 이번 해커톤은 그걸 직접 체감할 수 있는 구조라고 보고 있습니다.
+
+결국 AI에게 어떤 방향성을 줄지, 내가 생각하는 문제는 무엇인지, 어떤 시그널을 포착하고 어떤 데이터를 연결시킬 것인지는 오로지 인간의 몫입니다.
+
+그런 시그널과 흐름을 읽으면서 기업의 문제를 정의하고 솔루션을 제안할 수 있다는 건 정말 재미있는 해커톤이라고 보여집니다.
+
+비슷한 예시로 대표적인 것은 투자라고 보는데요. 시그널을 분석하고, 경영진의 발언, 채용, 제품 출시, 경쟁사 움직임, 거시 환경을 종합해 미래를 추론합니다.
+
+기업 AX 컨설턴트도 결국은 다양한 시그널을 연결해 "앞으로 어떤 문제가 발생할 것이고, AI를 이용해 어디를 먼저 바꿔야 하는가"를 제안하는 사람이라고 볼 수 있습니다.</description><pubDate>Thu, 25 Jun 2026 04:25:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ_tEPMj_Y4</guid></item><item><title>3/ 지금 기업의 병목은 구현이 아니라 무엇을 만들지 정의하는 단계로 이동하고 있습니다.
+
+캐글이 "데이터로 문제를 풀어라"를 줬다면, 카카오 ...</title><link>https://www.threads.net/@choi.openai/post/DZ_tEx6D59F</link><description>3/ 지금 기업의 병목은 구현이 아니라 무엇을 만들지 정의하는 단계로 이동하고 있습니다.
+
+캐글이 "데이터로 문제를 풀어라"를 줬다면, 카카오 AI TOP 100은 "문제를 AI로 풀어라"를 줬고, AX 인재전쟁은 "문제를 찾아라"를 주는 겁니다. 추상화 단계가 하나씩 올라가고 있고, 현실에서 기업이 직면하는 상황은 이 세 번째에 훨씬 가깝습니다.
+
+카카오 AI TOP 100 이후로 실제 기업의 문제를 정의하고 해결하는 이런 시도가 나왔다는 건 재미있는 흐름이라고 생각합니다.
+
+솔직히 기업이 정말 이걸 심각한 내부 문제라고 봤다면 컨설팅 회사를 찾아갔을 겁니다. 경영진을 교체할 수도 있었을 것같고 좋은 솔루션을 찾아내려고 잘 노력하고 있겠죠.
+
+해커톤에서 완벽한 솔루션이 나오기를 기대하는 건 아닐 겁니다. 어떤 문제를 잡았는지, 왜 그 문제를 골랐는지, 어떻게 접근하려 했는지의 과정이 더 값지다고 봅니다.</description><pubDate>Thu, 25 Jun 2026 04:25:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DZ_tEx6D59F</guid></item></channel></rss>
