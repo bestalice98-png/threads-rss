@@ -1,68 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 25 Jun 2026 17:03:13 +0000</lastBuildDate><item><title>🚨 IBM이 세계 최초로 1나노 벽을 넘었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 26 Jun 2026 03:40:20 +0000</lastBuildDate><item><title>모델이 똑똑해질수록 코딩 실력보다 벤치마크를 통과하는 능력이 더 빠르게 발전하고 있습니다.
 
-0.7나노(7옹스트롬) 칩 기술인데, 손톱만 한 칩에 트랜지스터 약 1,000억 개로 202...</title><link>https://www.threads.net/@choi.openai/post/DaBDefiirNw</link><description>🚨 IBM이 세계 최초로 1나노 벽을 넘었습니다.
+Cursor 연구에 따르면 SWE-bench Pro...</title><link>https://www.threads.net/@choi.openai/post/DaCEvp8gYdZ</link><description>모델이 똑똑해질수록 코딩 실력보다 벤치마크를 통과하는 능력이 더 빠르게 발전하고 있습니다.
 
-0.7나노(7옹스트롬) 칩 기술인데, 손톱만 한 칩에 트랜지스터 약 1,000억 개로 2021년 2나노의 두 배입니다. 옆이 아니라 위로 쌓는 '나노스택' 구조로 성능 50%, 전력효율 70%를 끌어올렸습니다.
+Cursor 연구에 따르면 SWE-bench Pro에서 Opus 4.8 Max의 성공 사례 중 63%는 웹이나 git 히스토리에서 이미 존재하는 정답을 찾아 활용한 경우였습니다.
 
-IBM이 직접 양산하지는 않는데요. 설계는 IBM이 쥐어도, 마진은 이걸 수율 좋게 찍어내는 쪽이 가져갑니다. 지금 그 미세공정 마진은 TSMC가 사실상 독식 중이라, 삼성엔 파운드리 추격 기회이자 수율 시험대입니다.
+인터넷과 git 접근을 막자 Opus 4.8 Max는 87.1% → 73.0%, Composer 2.5는 74.7% → 54.0%로 점수가 크게 떨어졌습니다.
 
-양산은 빨라야 5년 뒤, 2031년경입니다. 결국 누가 먼저 싸게 찍어내느냐의 싸움입니다.</description><pubDate>Thu, 25 Jun 2026 17:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaBDefiirNw</guid></item><item><title>Fable 출시는 아직 없는걸로..</title><link>https://www.threads.net/@choi.openai/post/DaA6nyOD2wP</link><description>Fable 출시는 아직 없는걸로..</description><pubDate>Thu, 25 Jun 2026 15:43:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaA6nyOD2wP</guid></item><item><title>와.. 역대급 리포트입니다.
+반면 Opus 4.6은 거의 변화가 없었습니다.</description><pubDate>Fri, 26 Jun 2026 02:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaCEvp8gYdZ</guid></item><item><title>하지만 이걸 '치팅'이라고 보기는 어렵습니다. 실제 개발에서도 검색과 git은 중요한 도구이기 때문입니다. 문제는 모델이 아니라 벤치마크입니다....</title><link>https://www.threads.net/@choi.openai/post/DaCEwy1AeAp</link><description>하지만 이걸 '치팅'이라고 보기는 어렵습니다. 실제 개발에서도 검색과 git은 중요한 도구이기 때문입니다. 문제는 모델이 아니라 벤치마크입니다.
 
-AI가 거품이냐는 질문에, 드디어 바닥부터 쌓아올린 매출 숫자가 나왔습니다.
+모델은 평가 환경에 맞춰 가장 높은 점수를 얻는 방법까지 학습하고 있는데, 기존 벤치마크는 코딩 능력과 도구 활용 능력을 구분하지 못하고 있습니다. 이제는 점수보다 어떤 환경에서 측정한 결과인지를 함께 봐야 할 것 같습니다.
 
-지난 1년 1,100억 달러. 인터...</title><link>https://www.threads.net/@choi.openai/post/DaA1tT7DzSI</link><description>와.. 역대급 리포트입니다.
+내용 :
+https://cursor.com/ko/blog/reward-hacking-coding-benchmarks</description><pubDate>Fri, 26 Jun 2026 02:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaCEwy1AeAp</guid></item><item><title>오픈AI가 상장을 2027년으로 미루는 쪽으로 기울었습니다. 올해 3~4분기 데뷔를 보고 은행과 로펌까지 붙였던 회사가 한발 물러선 겁니다.
 
-AI가 거품이냐는 질문에, 드디어 바닥부터 쌓아올린 매출 숫자가 나왔습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DaB6cJOAl2J</link><description>오픈AI가 상장을 2027년으로 미루는 쪽으로 기울었습니다. 올해 3~4분기 데뷔를 보고 은행과 로펌까지 붙였던 회사가 한발 물러선 겁니다.
 
-지난 1년 1,100억 달러. 인터넷·모바일 때보다 3배 빠른 성장. 거품이라 부르기엔 수요가 너무 진짜였습니다.
+먼저 시장입니다. 기술주가 출렁이고 사상 최대 IPO였던 스페이스X마저 상장 직후 흔들리자, 자문단은 1조 달러짜리 AI를 개인 투자자가 받아줄지 자신하지 못했습니다.
 
-그런데 같은 보고서가, 이 매출이 데이터센터 투자비를 '겨우' 갚는다고 말합니다. 그것도 GPU 수명을 6년으로 늘려 잡아야 그렇습니다.
+여기에 밸류에이션 줄다리기가 겹칩니다. 자문단은 2027년까지 기다려 1조 달러를 채우거나, 2026년에 더 낮은 값으로 나가거나, 두 선택지를 알트만에게 줬습니다.
+알트만은 1조 달러 밑은 "논외"라고 했다고 전해집니다.
 
-Exponential View가 오늘 공개한 'State of the AI Economy'를 정리했습니다 🧵</description><pubDate>Thu, 25 Jun 2026 15:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaA1tT7DzSI</guid></item><item><title>1/ Azeem Azhar의 Exponential View가 6월 25일 낸 보고서입니다.
-스스로 "소비자·기업 AI 지출을 풀스택에 걸쳐, 중...</title><link>https://www.threads.net/@choi.openai/post/DaA1t11j3Ar</link><description>1/ Azeem Azhar의 Exponential View가 6월 25일 낸 보고서입니다.
-스스로 "소비자·기업 AI 지출을 풀스택에 걸쳐, 중복 없이 바닥부터 집계한 최초의 측정"이라 부릅니다.
+모델 리스크도 있습니다. 정부가 GPT-5.6부터 출시를 고객사 단위로 막으면서 최신 모델의 수익화가 불확실해졌고, 앤트로픽이 코딩을 가져가고 중국 오픈웨이트가 따라붙어 프론티어 우위도 영원하지 않습니다. 상장사라면 이 변수를 분기마다 시장 앞에서 설명해야 합니다.</description><pubDate>Fri, 26 Jun 2026 01:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaB6cJOAl2J</guid></item><item><title>GPT 5.6은 좀 더 기다리셔야 할 것 같습니다.
 
-그동안 AI 경제는 공급 쪽만 잘 보였습니다. 엔비디아 칩, 메모리, 전력 설비를 파는 회사들은 대부분 상장사라 실적으로 규모가 드러나거든요.
+미국 정부가 프론티어 모델 출시를 직접 통제하기 시작했습니다.
+트럼프 행정부가 오픈AI에 ...</title><link>https://www.threads.net/@choi.openai/post/DaB28t9kS-j</link><description>GPT 5.6은 좀 더 기다리셔야 할 것 같습니다.
 
-정작 어려운 건 수요 쪽, 사람과 기업이 실제로 AI에 얼마를 내느냐입니다. 오픈AI·앤트로픽·커서·하비 같은 회사는 매출을 안 밝혀도 되는 비상장사고, 아마존·구글·MS도 AI 매출만 따로 떼어 공개하진 않습니다.
+미국 정부가 프론티어 모델 출시를 직접 통제하기 시작했습니다.
+트럼프 행정부가 오픈AI에 GPT-5.6을 단계적으로만 풀라고 요청했고, 샘 알트만은 직원들에게 정부가 고객사를 하나씩 승인할 거라고 전했습니다.
 
-그래서 이 22.7조 달러어치 주식 가치를 떠받치는 수요의 실체가 지금까지 안갯속이었습니다.</description><pubDate>Thu, 25 Jun 2026 15:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaA1t11j3Ar</guid></item><item><title>2/ 이들이 택한 방법이 '중복 제거(de-duplication)'입니다. 100달러짜리 앱 사용료가 모델 회사로 60달러, 다시 호스팅으로 3...</title><link>https://www.threads.net/@choi.openai/post/DaA1uYzD1sq</link><description>2/ 이들이 택한 방법이 '중복 제거(de-duplication)'입니다. 100달러짜리 앱 사용료가 모델 회사로 60달러, 다시 호스팅으로 30달러 흘러갈 때, 합쳐서 190달러로 세지 않고 최종 고객이 낸 100달러만 잡습니다. 같은 돈을 단계마다 다시 세지 않는 거죠.
+미 정부가 출시 전에 모델 배포를 막은 첫 사례입니다.</description><pubDate>Fri, 26 Jun 2026 00:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaB28t9kS-j</guid></item><item><title>구글이 Gemini에 'Study Notebooks'를 추가했습니다.
 
-회사 1,000곳 이상을 손익·현금흐름까지 모델링하고, 모든 매출 줄에 신뢰도 점수를 매겨 약한 근거가 숫자를 부풀리지 못하게 막았습니다. 집계 대상은 글로벌(중국 제외)이고, 칩 같은 하드웨어와 광고 효과는 '고객이 낸 돈'이 아니라 비용이라 매출에서 분리합니다.</description><pubDate>Thu, 25 Jun 2026 15:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaA1uYzD1sq</guid></item><item><title>3/ 그래서 거품이냐. 매출만 놓고 보면 답은 '진짜'에 가깝습니다.
+강의 자료나 필기, 교재를 올리면 AI가 먼저 진단 퀴즈를 만들어 현재 ...</title><link>https://www.threads.net/@choi.openai/post/DaBsofTgifc</link><description>구글이 Gemini에 'Study Notebooks'를 추가했습니다.
 
-지난 12개월 중복 제거 매출이 1,100억 달러, 최근 달을 연환산한 ...</title><link>https://www.threads.net/@choi.openai/post/DaA1vRpj8hf</link><description>3/ 그래서 거품이냐. 매출만 놓고 보면 답은 '진짜'에 가깝습니다.
+강의 자료나 필기, 교재를 올리면 AI가 먼저 진단 퀴즈를 만들어 현재 실력을 파악하고, 부족한 부분에 맞춰 맞춤형 학습과 문제를 제공합니다.
 
-지난 12개월 중복 제거 매출이 1,100억 달러, 최근 달을 연환산한 수치는 1,750억 달러를 넘습니다. 더 또렷한 건 가속도입니다.
-2023년엔 누적 매출을 10억 달러 늘리는 데 180일이 걸렸는데, 지금은 이틀이 안 걸립니다. 90배 빨라진 겁니다. 분기 매출은 전 분기 대비 35%씩, 연 3.2배 속도로 늘고 있습니다.
+학습 진행 상황도 자동으로 추적하며, NotebookLM과 연동해 플래시카드와 Video Overview까지 생성할 수 있습니다.
 
-버블 논쟁은 그동안 말의 싸움이었습니다. 한쪽엔 "실체 없는 스타트업도 수십억 달러 평가를 받는 버블 정점"이라는 경고가, 다른 쪽엔 "닷컴 버블 뒤 인터넷이 그랬듯 과잉 투자가 있어도 AI는 필수 전환"이라는 낙관이 있었습니다.
-이 보고서가 새로 들이댄 건 논쟁의 무대를 공급(밸류에이션·CapEx)에서 수요(실제 매출)로 옮긴 데이터입니다.
+개인적으로 AI 교육의 방향이 조금씩 바뀌고 있다는 생각이 듭니다. 예전에는 질문하면 답을 알려주는 튜터였다면, 이제는 학습 계획을 세우고 부족한 부분을 찾아 다음에 무엇을 공부해야 하는지까지 관리해주는 코치에 가까워지고 있습니다.
 
-하지만, '매출이 진짜다'와 '투자가 회수된다'는 다른 질문입니다.</description><pubDate>Thu, 25 Jun 2026 15:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaA1vRpj8hf</guid></item><item><title>앤트로픽이 중국으로부터 역대 최대 규모의 '디스틸레이션 공격'을 받았습니다.
-
-뉴욕증시 상장사 알리바바가, 미국 정부가 불과 몇 주 전 "용납 ...</title><link>https://www.threads.net/@choi.openai/post/DaAv92Zj0gF</link><description>앤트로픽이 중국으로부터 역대 최대 규모의 '디스틸레이션 공격'을 받았습니다.
-
-뉴욕증시 상장사 알리바바가, 미국 정부가 불과 몇 주 전 "용납 불가"라고 못박은 바로 그 행위를 그대로 했습니다. 4월 22일부터 6월 5일까지 가짜 계정 약 2만 5천 개로 클로드와 2,880만 번 대화하며, 에이전트 추론·소프트웨어 엔지니어링·장기작업처럼 클로드의 가장 값나가는 능력만 골라 빼간 겁니다.
-
-앤트로픽은 이 내용을 상원 은행위원회에 보낸 편지로 공개하며, 중국 랩을 겨눈 수출통제와 제재를 의회에 요구했습니다. 그런데 편지가 나가고 이틀 뒤, 바로 그 수출통제의 칼이 앤트로픽 자신의 모델을 베었습니다.
-
-앤트로픽 서한과 그 부메랑을 정리했습니다 🧵</description><pubDate>Thu, 25 Jun 2026 14:10:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaAv92Zj0gF</guid></item><item><title>1/ 6월 10일, 앤트로픽 정책총괄 Sarah Heck가 상원 은행위원회의 팀 스콧 위원장(공화)과 엘리자베스 워런 간사(민주) 앞으로 보낸 ...</title><link>https://www.threads.net/@choi.openai/post/DaAv-juD9Hm</link><description>1/ 6월 10일, 앤트로픽 정책총괄 Sarah Heck가 상원 은행위원회의 팀 스콧 위원장(공화)과 엘리자베스 워런 간사(민주) 앞으로 보낸 편지입니다. 바로 다음 날인 6월 11일 열린 'AI와 아메리칸 드림'이라는 청문회를 하루 앞두고 공개됐습니다.
-
-앤트로픽은 그 청문회의 증인이 아니었습니다. 증인석엔 정보기술산업협의회(ITI), 허드슨연구소, AEI, AI Now 쪽 인사가 앉았고, 앤트로픽은 부르지도 않았는데 전날 편지를 보내 자기 주장을 의회 기록에 끼워 넣은 겁니다. 청문회 의제인 중국·수출통제·국가안보에 메시지를 얹는 방식입니다.
-
-편지의 내용은 알리바바와 그 AI 연구소 Alibaba Qwen에 연결된 운영자들이 4월 22일~6월 5일에 가짜 계정 약 2만 5천 개를 만들어 클로드와 2,880만 번 넘게 대화했고, 이게 약관과 접근 제한을 어긴 '클로드 능력 빼가기' 캠페인이라는 겁니다.</description><pubDate>Thu, 25 Jun 2026 14:10:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaAv-juD9Hm</guid></item><item><title>2/ 디스틸레이션(distillation, 증류)은 똑똑한 '선생 모델'의 답을 모아 더 작고 값싼 '학생 모델'에게 따라 하도록 가르치는 기술...</title><link>https://www.threads.net/@choi.openai/post/DaAv_jCj_m1</link><description>2/ 디스틸레이션(distillation, 증류)은 똑똑한 '선생 모델'의 답을 모아 더 작고 값싼 '학생 모델'에게 따라 하도록 가르치는 기술입니다.
-
-자기 회사 모델을 증류해 가벼운 버전을 만드는 건 일상적인 일입니다. 앤트로픽이 문제 삼는 건 그 대상이 '남의 모델'이라는 점입니다. 경쟁사 API에 질문을 퍼부어 답을 대량으로 긁어가면, 프런티어 모델을 직접 훈련하는 데 드는 시간과 비용의 일부만으로 그 능력을 통째로 복제할 수 있습니다.
-
-앤트로픽이 이를 '공격'이라 부르는 근거는 규모와 방식입니다. 약관을 어기고, 지역 접근 제한을 우회하고, 가짜 계정 2만 5천 개를 동원해 산업 규모로 긁어갔다는 거죠. 
-교과서를 빌려 필요한 부분을 베끼는 것과, 가짜 신분증 2만 5천 개로 서점에 들어가 전 페이지를 스캔해 자기 책으로 파는 건 다르다는 논리입니다.</description><pubDate>Thu, 25 Jun 2026 14:10:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaAv_jCj_m1</guid></item><item><title>3/ 이게 처음이 아닙니다.
-
-앤트로픽은 2월에 이미 공개 블로그로 딥시크(DeepSeek)·미니맥스(MiniMax)·문샷(Moonshot) 세...</title><link>https://www.threads.net/@choi.openai/post/DaAwAC5Dz2O</link><description>3/ 이게 처음이 아닙니다.
-
-앤트로픽은 2월에 이미 공개 블로그로 딥시크(DeepSeek)·미니맥스(MiniMax)·문샷(Moonshot) 세 곳을 지목했습니다. 셋이 합쳐 가짜 계정 약 2만 4천 개로 클로드와 1,600만 번 넘게 대화했다는 내용이었습니다.
-
-4개월 만에 알리바바 한 곳이 그 셋의 합을 넘었습니다. 2,880만 회. 탐지를 피하려고 프록시 네트워크와 난독화를 쓰는데, 편지는 이런 우회를 파는 서비스 생태계를 '우회 경제(circumvention economy)'라 부르며 한 번의 사건이 아니라 굳어진 관행이라고 주장합니다.
-
-이 서사는 중국 모델이 미국 모델을 베껴 따라온다는 그림 위에 서 있습니다.
-딥시크 V4가 오픈AI·구글·앤트로픽 모델을 증류했다는 의혹, 그리고 금지된 엔비디아 블랙웰 칩으로 학습했다는 보도가 함께 돌았던 게 그 그림의 한 장면입니다.</description><pubDate>Thu, 25 Jun 2026 14:10:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaAwAC5Dz2O</guid></item></channel></rss>
+앞으로 교육 AI의 경쟁은 사용자가 목표를 달성하도록 얼마나 끝까지 관리해 주느냐가 될 것 같습니다.</description><pubDate>Thu, 25 Jun 2026 23:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaBsofTgifc</guid></item></channel></rss>
