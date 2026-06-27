@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 26 Jun 2026 16:54:49 +0000</lastBuildDate><item><title>엔비디아가 Z.ai의 GLM-5.2를 직접 NVFP4(4비트)로 양자화한 공식 체크포인트를 공개했습니다. 자사 모델이 아닌 중국 오픈 모델을 직...</title><link>https://www.threads.net/@choi.openai/post/DaDMyhqj2Kn</link><description>엔비디아가 Z.ai의 GLM-5.2를 직접 NVFP4(4비트)로 양자화한 공식 체크포인트를 공개했습니다. 자사 모델이 아닌 중국 오픈 모델을 직접 최적화했고, SGLang도 공개 당일부터 바로 지원했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 27 Jun 2026 03:26:45 +0000</lastBuildDate><item><title>미국이 AI 데이터센터를 못 돌리는 건, 전기가 모자라서가 아닙니다.
 
-눈에 띄는 점은 압축 효율입니다. 약 1.5TB 크기의 GLM-5.2를 약 410GB까지 줄이면서도 성능 차이는 크지 않습니다. 기존 4비트 양자화는 성능 저하가 컸지만, NVFP4는 작은 단위마다 별도의 스케일을 적용하고 중요한 레이어는 유지하는 방식으로 정확도 손실을 줄였습니다.
+전기는 충분합니다. 문제는 그 전기를 칩까지 보내는 사슬이 세 군데서 막...</title><link>https://www.threads.net/@choi.openai/post/DaEs3bBj6eU</link><description>미국이 AI 데이터센터를 못 돌리는 건, 전기가 모자라서가 아닙니다.
 
-엔비디아는 GLM, DeepSeek, Qwen처럼 인기 있는 오픈 모델을 직접 최적화해 Blackwell GPU에서 가장 효율적으로 실행할 수 있도록 만들고 있습니다.
-오픈 모델 생태계가 커질수록 최신 NVIDIA GPU를 선택할 이유도 함께 늘어나는 구조입니다.</description><pubDate>Fri, 26 Jun 2026 13:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaDMyhqj2Kn</guid></item><item><title>허깅페이스 :
-https://huggingface.co/nvidia/GLM-5.2-NVFP4</title><link>https://www.threads.net/@choi.openai/post/DaDMzroDwVz</link><description>허깅페이스 :
-https://huggingface.co/nvidia/GLM-5.2-NVFP4</description><pubDate>Fri, 26 Jun 2026 13:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaDMzroDwVz</guid></item><item><title>Blender MCP와 Seedance 2.0을 조합한 AI 영화 제작 워크플로우를 봤는데 진짜 감탄만 나옵니다.
+전기는 충분합니다. 문제는 그 전기를 칩까지 보내는 사슬이 세 군데서 막혀 있다는 겁니다. 전력망에 잇는 대기줄은 55개월로 늘었고, 그 망을 만들 변압기는 주문하면 5년을 기다려야 하고, 그걸 설치할 전기공은 수십만 명이 모자랍니다.
 
-기존의 텍스트 프롬프팅만으로...</title><link>https://www.threads.net/@choi.openai/post/DaC_HEojDbi</link><description>Blender MCP와 Seedance 2.0을 조합한 AI 영화 제작 워크플로우를 봤는데 진짜 감탄만 나옵니다.
+그래서 xAI는 멤피스에서 현장 가스터빈을 돌렸고, 구글은 원전 계약을 잡았고, 오픈AI는 UAE로 Stargate를 넓혔습니다.
 
-기존의 텍스트 프롬프팅만으로는 제어하기 힘들었던 구도, 줌인·줌아웃, 카메라 동선 데이터를 영상 레퍼런스 형태로 시댄스 2.0에 완벽하게 넘겨줄 수 있다는 장점이 있는데요.
-앞으로 3D 소스를 활용한 정밀 제어 중심의 영상 AI 연출이 주류로 자리 잡을 것 같네요.
-AI 모델이 발전할 때마다 이런 기발한 아이디어가 현실화되는 모습을 보니 놀라운 것 같습니다.
+AI 전력 병목을 발전이 아니라 '연결·장비·사람·인프라'으로 나눠 정리했습니다 🧵</description><pubDate>Sat, 27 Jun 2026 02:59:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEs3bBj6eU</guid></item><item><title>1/ 전력 분석가 Chris Gillett가 Works in Progress에 6월 22일 쓴 글에서 출발합니다.
 
-📷 x@reidhannaford</description><pubDate>Fri, 26 Jun 2026 11:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaC_HEojDbi</guid></item><item><title>3년 전 마이크론은 D램을 팔수록 손해를 봤습니다.
-2023 회계연도 2분기 매출총이익률은 마이너스 32.7%였습니다.
+핵심은 AI 인프라의 병목을...</title><link>https://www.threads.net/@choi.openai/post/DaEs4Axj-QV</link><description>1/ 전력 분석가 Chris Gillett가 Works in Progress에 6월 22일 쓴 글에서 출발합니다.
 
-이번 주 그 회사가 영...</title><link>https://www.threads.net/@choi.openai/post/DaCt16LD4F_</link><description>3년 전 마이크론은 D램을 팔수록 손해를 봤습니다.
-2023 회계연도 2분기 매출총이익률은 마이너스 32.7%였습니다.
+핵심은 AI 인프라의 병목을 전력으로 보되, 그 전력을 만드는 단계와 보내는 단계를 나눠 봐야 한다는 점입니다.
 
-이번 주 그 회사가 영업이익률 80.4%를 찍었습니다. 똑같은 메모리입니다.
-그리고 애플은 맥북과 아이패드 가격을 올렸고 주가는 5% 가까이 빠졌습니다.
+텍사스 애빌린에서 올라가는 오픈AI·소프트뱅크의 Stargate는 400억 달러가 넘는 프로젝트로 알려졌고, 최대 부하에서 1.2GW를 끌어 씁니다. 미국 중위 가구 약 31만 3천 채가 동시에 쓰는 전력입니다.
 
-한 회사의 사상 최대 이익은 다른 회사의 비용이 되기 시작했습니다. 🧵</description><pubDate>Fri, 26 Jun 2026 08:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaCt16LD4F_</guid></item><item><title>1/ 이번 주 마이크론이 2026 회계연도 3분기 실적을 냈습니다.
+EpochAI 추정으로는 2025년 성장세가 유지될 경우 2030년 전 세계 AI 연산 전력이 100GW에 닿을 수 있습니다.
+이 정도면 데이터센터는 더 이상 IT 건물이 아니라 전력망 계획의 핵심 변수가 됩니다.</description><pubDate>Sat, 27 Jun 2026 03:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEs4Axj-QV</guid></item><item><title>2/ 수요가 진짜라는 건 만드는 사람들이 더 잘 압니다.
 
-매출 414.6억 달러, GAAP 영업이익 333.2억 달러, 영업이익률 ...</title><link>https://www.threads.net/@choi.openai/post/DaCt2e1D4-f</link><description>1/ 이번 주 마이크론이 2026 회계연도 3분기 실적을 냈습니다.
+젠슨 황은 앞으로 모든 데이터센터가 전력 제약을 받을 것이라고 했고, 저커버그는 전력...</title><link>https://www.threads.net/@choi.openai/post/DaEs5B8j5uW</link><description>2/ 수요가 진짜라는 건 만드는 사람들이 더 잘 압니다.
 
-매출 414.6억 달러, GAAP 영업이익 333.2억 달러, 영업이익률 80.4%. 순이익만 282.4억 달러입니다. 1년 전 같은 분기 매출이 93억 달러였으니, 매출이 한 해 만에 346% 늘었습니다.
+젠슨 황은 앞으로 모든 데이터센터가 전력 제약을 받을 것이라고 했고, 저커버그는 전력만 구하면 더 큰 AI 클러스터를 짓겠다고 했습니다. 샘 알트먼도 의회에서 AI의 풍요는 전력의 풍요에 묶일 것이라고 말했습니다.
 
-3년 전은 정반대였습니다. 2023 회계연도 2분기 마이크론의 GAAP 매출총이익률은 -32.7%였습니다. 재고를 순실현가능가치로 낮추며 14.3억 달러를 비용으로 털었고, 2023 회계연도 전체로는 재고평가손실 18.3억 달러, 순손실 58.3억 달러를 기록했습니다.
+셋 다 같은 지점을 보고 있습니다. 모델을 더 키울 수 있고, 칩도 더 주문할 수 있는데, 전력과 부지와 냉각과 연결이 그 속도를 따라오지 못합니다.
 
-마이크론 CEO 산자이 메로트라는 그때를 “지난 13년 중 최악의 사이클”이라고 불렀습니다. 메모리는 원래 그런 사업이었습니다. 호황에는 50% 마진을 찍다가 불황에는 마이너스로 떨어지는, 교과서적인 경기순환 범용재였습니다.
+NERC도 2026년 여름 정상 피크 조건에서는 모든 지역이 충분하다고 보지만, 대형 데이터센터 같은 부하가 갑자기 붙거나 빠지는 운영 리스크는 커졌다고 봅니다.
 
-그 사업이 지금 영업이익률 80%를 냅니다.</description><pubDate>Fri, 26 Jun 2026 08:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaCt2e1D4-f</guid></item><item><title>2/ 마이크론만이 아닙니다.
+장기 전망은 더 분명합니다. 2025년 LTRA에서 NERC는 23개 평가 구역 중 13개가 향후 10년 안에 자원 적정성 문제를 겪을 수 있다고 봤고, 여름 피크 수요는 10년 동안 224GW 이상 늘어날 전망입니다.</description><pubDate>Sat, 27 Jun 2026 03:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEs5B8j5uW</guid></item><item><title>3/ 첫 번째 병목은 전력망 연결 대기줄입니다.
 
-SK하이닉스는 2026년 1분기에 매출 52.58조 원, 영업이익 37.61조 원을 냈습니다. 매출은 전년 대비 ...</title><link>https://www.threads.net/@choi.openai/post/DaCt3Y-j_I1</link><description>2/ 마이크론만이 아닙니다.
+발전소나 데이터센터를 전력망에 붙이려면 운영자가 전력 흐름을 계산하고, 어디를 보강해야 하는지...</title><link>https://www.threads.net/@choi.openai/post/DaEs6AijzO_</link><description>3/ 첫 번째 병목은 전력망 연결 대기줄입니다.
 
-SK하이닉스는 2026년 1분기에 매출 52.58조 원, 영업이익 37.61조 원을 냈습니다. 매출은 전년 대비 198%, 영업이익은 405% 늘었고, 영업이익률은 71.5%였습니다. 계절적으로 가장 약한 1분기에 나온 숫자입니다.
-칩을 설계하는 엔비디아도 2027 회계연도 1분기에 매출총이익률 75.0%, 영업이익률 약 66%를 냈습니다.
+발전소나 데이터센터를 전력망에 붙이려면 운영자가 전력 흐름을 계산하고, 어디를 보강해야 하는지 먼저 봐야 합니다. 이 인터커넥션 절차가 막혔습니다.
 
-돈이 어디로 가는지가 이 마진을 만듭니다. 데이터센터 한 채를 짓는 비용에서 메모리가 차지하는 비중은 5년 전 2%에서 올해 약 18%로 뛰었습니다.
-칩 전체 비중은 40%에서 60%로 올랐습니다. 같은 1달러가 더 많은 실리콘과 더 적은 콘크리트를 삽니다.
+2005년에는 발전소 한 곳이 연결까지 20개월도 안 걸렸는데, 2023년에는 55개월로 늘었습니다.
+Berkeley Lab의 최신 Queued Up 자료를 보면 2025년 말 기준 미국 전력망 연결 대기열에는 발전·저장 프로젝트가 2,060GW 이상 쌓여 있습니다. 이것만으로도 미국 기존 전력망이 처리하도록 설계된 속도를 훨씬 넘어섭니다.
 
-공급망 위쪽의 마진이 동시에, 같은 방향으로 부풀었습니다.</description><pubDate>Fri, 26 Jun 2026 08:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaCt3Y-j_I1</guid></item><item><title>3/ 그 이익을 누가 가져가느냐를 두고 한국에서는 26년 만의 사건이 났습니다.
+텍사스 ERCOT에는 2025년 10월 기준 143.5GW어치 데이터센터가 연결을 기다렸습니다. ERCOT의 역대 최대 수요가 85.9GW였다는 점을 감안하면, 대기 중인 데이터센터 부하만 기존 피크 수요를 크게 웃돕니다.</description><pubDate>Sat, 27 Jun 2026 03:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEs6AijzO_</guid></item><item><title>삼성그룹이 오는 29일 약 10년간 1,000조 원 이상을 투자하는 첨단산업 투자 계획을 발표할 것으로 알려졌습니다.
 
-6월 22일, SK하이닉스가 코스피 시가총액에서 삼성전자를 앞...</title><link>https://www.threads.net/@choi.openai/post/DaCt4UbD-Cq</link><description>3/ 그 이익을 누가 가져가느냐를 두고 한국에서는 26년 만의 사건이 났습니다.
+반도체, AI 데이터센터...</title><link>https://www.threads.net/@choi.openai/post/DaEl_qSDwMr</link><description>삼성그룹이 오는 29일 약 10년간 1,000조 원 이상을 투자하는 첨단산업 투자 계획을 발표할 것으로 알려졌습니다.
 
-6월 22일, SK하이닉스가 코스피 시가총액에서 삼성전자를 앞질렀습니다. 보통주 기준으로 삼성전자가 2000년 11월 이후 한 번도 내준 적 없던 자리입니다.
+반도체, AI 데이터센터, 디스플레이, 이차전지 등이 포함될 전망인데요. 특히 반도체 생산시설과 AI 데이터센터 투자 비중이 클 것으로 전해졌습니다.
 
-승부를 가른 건 HBM이었습니다. 삼성은 엔비디아향 5세대 HBM3E 품질 승인이 밀리면서 AI 붐 초기의 과실을 라이벌에 넘겼습니다.
-SK하이닉스는 HBM3, HBM3E, HBM4까지 먼저 치고 나갔고, 골드만삭스 추정으로 엔비디아 차세대 루빈 HBM4 물량의 상당 부분을 가져갈 것으로 평가됩니다.
+ 다만 현재까지는 발표 전 보도 내용으로, 최종 계획은 달라질 수 있습니다.</description><pubDate>Sat, 27 Jun 2026 01:59:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEl_qSDwMr</guid></item><item><title>🚨 미국 정부가 앤트로픽의 "Claude Mythos 5" 모델에 적용했던 제한을 일부 해제했습니다.
 
-성격도 갈립니다. SK하이닉스는 메모리에 전부를 건 회사입니다.
-삼성은 메모리, 파운드리, 모바일, 가전을 다 가진 종합기업입니다. 그 다각화가 충격은 줄였지만, HBM 한 판에 집중하지 못한 대가도 같이 치렀습니다.
+이에 따라 100개 이상의 미국의 주요 ...</title><link>https://www.threads.net/@choi.openai/post/DaEb2esDzC5</link><description>🚨 미국 정부가 앤트로픽의 "Claude Mythos 5" 모델에 적용했던 제한을 일부 해제했습니다.
 
-같은 호황에서 누가 병목을 정확히 쥐었느냐가 26년짜리 서열을 뒤집었습니다.</description><pubDate>Fri, 26 Jun 2026 08:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaCt4UbD-Cq</guid></item><item><title>실시간 AI가 어색하게 느껴지는 이유는 모델의 성능보다 말하는 타이밍과 반응이 자연스럽지 않기 때문인 경우가 많습니다.
+이에 따라 100개 이상의 미국의 주요 기반시설을 운영하거나 보안을 담당하는 기관을 대상으로 먼저 제공될 예정인데요. 
 
-이번에 발표된 'Wan...</title><link>https://www.threads.net/@choi.openai/post/DaCjpbcDO7g</link><description>실시간 AI가 어색하게 느껴지는 이유는 모델의 성능보다 말하는 타이밍과 반응이 자연스럽지 않기 때문인 경우가 많습니다.
+앤트로픽은 앞으로 정부와 협력을 이어가며 Mythos 5의 이용 범위를 확대하고, Fable 5도 다시 일반에 공개할 수 있도록 협의를 진행할 계획이라고 설명했습니다.</description><pubDate>Sat, 27 Jun 2026 00:31:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEb2esDzC5</guid></item><item><title>발표내용 :
+https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic...</title><link>https://www.threads.net/@choi.openai/post/DaEb3EyjzJk</link><description>발표내용 :
+https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies</description><pubDate>Sat, 27 Jun 2026 00:31:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEb3EyjzJk</guid></item><item><title>🚨 와.. 오픈AI가 역대 최강 모델 GPT-5.6을 공개했습니다.
 
-이번에 발표된 'Wan-Streamer v0.1' 논문은 음성, 영상, 텍스트를 하나의 Transformer에서 함께 처리하는 실시간 대화 모델을 제안했습니다.
+역대 최강이라는 Sol을 비롯해 Terra, Luna까지 세 모델인데, 미...</title><link>https://www.threads.net/@choi.openai/post/DaEYYrYj6BD</link><description>🚨 와.. 오픈AI가 역대 최강 모델 GPT-5.6을 공개했습니다.
 
-기존에는 음성 인식 → LLM 응답 → 음성 합성 → 입 모양·표정 생성처럼 여러 단계를 거쳤지만, Wan-Streamer는 이를 하나의 모델에서 학습합니다. 덕분에 말하는 타이밍, 표정, 시선, 반응까지 함께 맞출 수 있도록 설계되었습니다.
+역대 최강이라는 Sol을 비롯해 Terra, Luna까지 세 모델인데, 미국 정부 요청으로 승인된 20여 개 기업에만 먼저 풀렸습니다. 정부가 고객사를 한 곳씩 들여다보고 승인하는 방식입니다.
 
-가상 캐릭터나 AI 아바타의 자연스러운 대화 품질이 한 단계 좋아질 수 있을지 기대되는 연구입니다.</description><pubDate>Fri, 26 Jun 2026 07:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaCjpbcDO7g</guid></item><item><title>허깅페이스 :
-https://huggingface.co/papers/2606.25041</title><link>https://www.threads.net/@choi.openai/post/DaCjqSeDBMJ</link><description>허깅페이스 :
-https://huggingface.co/papers/2606.25041</description><pubDate>Fri, 26 Jun 2026 07:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaCjqSeDBMJ</guid></item></channel></rss>
+2주 전 앤트로픽 Fable·Mythos가 같은 식으로 막혔을 때, 같은 잣대라면 오픈AI도 피하기 어렵다고 적었는데 그대로 됐습니다.
+
+발표내용과 가장 강력한 모델이 어떻게 가장 닫힌 모델이 됐는지, 그리고 우리가 뭘 대비해야 하는지 정리했습니다🧵</description><pubDate>Sat, 27 Jun 2026 00:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEYYrYj6BD</guid></item><item><title>1/ Sol은 오픈AI가 지금까지 만든 가장 강한 모델이고, Terra는 GPT-5.5급 성능을 절반 값에, Luna는 가장 싼 대량 작업용입니...</title><link>https://www.threads.net/@choi.openai/post/DaEYZUPD0ME</link><description>1/ Sol은 오픈AI가 지금까지 만든 가장 강한 모델이고, Terra는 GPT-5.5급 성능을 절반 값에, Luna는 가장 싼 대량 작업용입니다.
+
+숫자 5.6은 세대를, Sol·Terra·Luna는 크기 등급을 뜻합니다. 별·행성·달입니다.
+
+가장 오래 생각하는 max 모드와, 여러 서브에이전트를 동시에 굴려 복잡한 일을 쪼개는 ultra 모드가 새로 생겨서 최상위 구성은 Sol Ultra로 불립니다.
+
+셋 다 API와 Codex에서 승인된 기업부터 쓰고, 일반 공개는 몇 주 뒤라고 했습니다.</description><pubDate>Sat, 27 Jun 2026 00:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEYZUPD0ME</guid></item><item><title>2/ 이 발표를 둘러싼 조직 변화도 같이 봐야 합니다.
+
+오픈AI는 최근 딘 볼을 영입했습니다. 딘 볼은 트럼프 행정부의 국가 AI 전략 문서인...</title><link>https://www.threads.net/@choi.openai/post/DaEYaHkjwfm</link><description>2/ 이 발표를 둘러싼 조직 변화도 같이 봐야 합니다.
+
+오픈AI는 최근 딘 볼을 영입했습니다. 딘 볼은 트럼프 행정부의 국가 AI 전략 문서인 America's AI Action Plan을 사실상 설계했고, 백악관 과학기술정책실에서 AI·신기술 담당 선임 정책보좌관으로 일했습니다.
+
+그가 들어간 곳은 단순 대외 로비 라인이 아닙니다. Strategic Futures라는 신설팀이고, 보고 라인은 최고전략책임자 제이슨 권입니다. 합류 시점은 7월 6일입니다.
+
+다루는 주제도 파국적 위험, 재귀적 자기개선, 노동시장 충격, 프런티어 랩과 정부의 관계입니다. 모델 회사가 정책을 바깥에서 대응하는 게 아니라, 회사 안의 전략 문제로 끌어들인 겁니다.</description><pubDate>Sat, 27 Jun 2026 00:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEYaHkjwfm</guid></item><item><title>3/ 앞으로 모델 제공 정책은 정부 기조에 더 민감해집니다.
+
+어떤 모델을 누구에게 먼저 열지, 어떤 사이버 능력을 신원 확인 뒤에 둘지, 어떤...</title><link>https://www.threads.net/@choi.openai/post/DaEYal6DzeO</link><description>3/ 앞으로 모델 제공 정책은 정부 기조에 더 민감해집니다.
+
+어떤 모델을 누구에게 먼저 열지, 어떤 사이버 능력을 신원 확인 뒤에 둘지, 어떤 바이오 기능을 검증된 기관에만 줄지, 어느 국가 고객에게 제공할지. 이건 이제 제품팀만의 결정이 아닙니다.
+
+정부 사전 검토, 수출통제, trusted access, 공공 조달, 국가별 데이터센터, 동맹국 접근권까지 같이 움직입니다.
+
+GPT-5.6이 정부 요청으로 일부 신뢰 파트너에게 먼저 열린 건 이 변화가 제품 위에 찍힌 장면입니다. 모델 제공사는 이제 모델 성능만 관리하지 않습니다. 정부와의 관계도 관리합니다.</description><pubDate>Sat, 27 Jun 2026 00:01:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEYal6DzeO</guid></item></channel></rss>
