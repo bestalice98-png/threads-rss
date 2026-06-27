@@ -1,80 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 27 Jun 2026 10:08:02 +0000</lastBuildDate><item><title>Google AI Studio에 "Design Variations" 기능이 추가됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 27 Jun 2026 15:58:11 +0000</lastBuildDate><item><title>정말.. 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
+진짜 25만명만 보기 아까워서 그렇습니다.
+스레드 자체가 한국 AI 최상위...</title><link>https://www.threads.net/@choi.openai/post/DaF4f8Kkyrz</link><description>정말.. 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
+진짜 25만명만 보기 아까워서 그렇습니다.
+스레드 자체가 한국 AI 최상위권 학습 플랫폼입니다.</description><pubDate>Sat, 27 Jun 2026 14:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaF4f8Kkyrz</guid></item><item><title>컴퓨터 사용 AI 에이전트를 평가하는 벤치마크 "OSWorld 2.0"을 공개되었습니다.
+
+기존보다 훨씬 긴 실제 업무를 기반으로 구성됐으며, ...</title><link>https://www.threads.net/@choi.openai/post/DaFuMcfkZp6</link><description>컴퓨터 사용 AI 에이전트를 평가하는 벤치마크 "OSWorld 2.0"을 공개되었습니다.
+
+기존보다 훨씬 긴 실제 업무를 기반으로 구성됐으며, 숙련된 사람이 평균 1.6시간 걸리는 작업 108개가 포함됐습니다.
+
+현재 최고 성능은 Claude Opus 4.8의 20.6%, GPT-5.5는 토큰 효율은 높지만 약 13% 수준을 기록했습니다. 연구진은 실제 컴퓨터 작업을 완전히 수행하는 AI까지는 아직 갈 길이 남았다고 설명했습니다.</description><pubDate>Sat, 27 Jun 2026 12:30:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFuMcfkZp6</guid></item><item><title>발표내용 :
+https://osworld-v2.xlang.ai/</title><link>https://www.threads.net/@choi.openai/post/DaFuNbKkSyn</link><description>발표내용 :
+https://osworld-v2.xlang.ai/</description><pubDate>Sat, 27 Jun 2026 12:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFuNbKkSyn</guid></item><item><title>Epoch AI가 장기간 소프트웨어 개발 능력을 평가하는 벤치마크 'MirrorCode'를 공개했습니다.
+
+AI는 프로그램 실행 환경과 문서, ...</title><link>https://www.threads.net/@choi.openai/post/DaFj41LiDCc</link><description>Epoch AI가 장기간 소프트웨어 개발 능력을 평가하는 벤치마크 'MirrorCode'를 공개했습니다.
+
+AI는 프로그램 실행 환경과 문서, 테스트만 제공받은 뒤 원본 코드 없이 프로그램을 처음부터 다시 구현해야 하는데요.
+
+Claude Opus 4.7은 일부 과제를 14시간 만에 해결하며 숙련된 개발자가 2~17주 걸릴 것으로 추정되는 작업과 비슷한 성과를 보였습니다.
+
+다만 전체 최고 점수는 56%로, 아직 해결해야 할 과제는 남아 있습니다</description><pubDate>Sat, 27 Jun 2026 11:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFj41LiDCc</guid></item><item><title>발표내용 :
+https://epoch.ai/MirrorCode</title><link>https://www.threads.net/@choi.openai/post/DaFj6wQCIjs</link><description>발표내용 :
+https://epoch.ai/MirrorCode</description><pubDate>Sat, 27 Jun 2026 11:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFj6wQCIjs</guid></item><item><title>Google AI Studio에 "Design Variations" 기능이 추가됐습니다.
 
 원하는 디자인 스타일을 프롬프트로 자세히 설명하지 않...</title><link>https://www.threads.net/@choi.openai/post/DaFZhiPEv82</link><description>Google AI Studio에 "Design Variations" 기능이 추가됐습니다.
 
 원하는 디자인 스타일을 프롬프트로 자세히 설명하지 않아도 버튼 한 번으로 다양한 UI 디자인을 자동 생성하고 적용할 수 있는데요.
 
-여러 레이아웃을 빠르게 비교하며 프로토타입을 만드는 작업이 한층 편리해질 것으로 보입니다.</description><pubDate>Sat, 27 Jun 2026 09:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFZhiPEv82</guid></item><item><title>AI·메모리 수요는 계속 늘고 있습니다.
-그런데 그 옆에서, 같은 일을 더 적은 메모리·연산으로 해내는 기술이 단가를 끌어내리는 압력으로 같이 ...</title><link>https://www.threads.net/@choi.openai/post/DaFQKkbj6-u</link><description>AI·메모리 수요는 계속 늘고 있습니다.
-그런데 그 옆에서, 같은 일을 더 적은 메모리·연산으로 해내는 기술이 단가를 끌어내리는 압력으로 같이 자라고 있습니다.
-
-오늘 딥시크가 4월에 나온 V4 모델을 '더 빨리 돌리는' 추측 디코딩 모듈 DSpark와, 그 도구를 만드는 코드 DeepSpec을 MIT로 공개했습니다.
-
-이미 있는 모델을 최대 85% 더 빨리, 더 싸게 굴리는 도구를 공짜로 푼 겁니다.
-이게 왜 메모리·AI 인프라 베팅에 리스크인지 정리했습니다 🧵</description><pubDate>Sat, 27 Jun 2026 08:08:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFQKkbj6-u</guid></item><item><title>1/ 왜 중요한지부터 말하면, 딥시크가 '추론을 싸게 만드는 법'을 공짜로 풀었습니다.
-
-DSpark를 V4 서비스에 얹었더니, 같은 GPU·같...</title><link>https://www.threads.net/@choi.openai/post/DaFQLRQjxn6</link><description>1/ 왜 중요한지부터 말하면, 딥시크가 '추론을 싸게 만드는 법'을 공짜로 풀었습니다.
-
-DSpark를 V4 서비스에 얹었더니, 같은 GPU·같은 모델에서 사용자가 느끼는 생성 속도가 57~85% 빨라졌습니다(기존 방식 MTP-1 대비). 속도가 그만큼 오른다는 건 같은 하드웨어로 그만큼 더 많은 요청을 처리한다는 뜻이고, 곧 추론 원가가 그만큼 내려간다는 뜻입니다.
-
-지금 AI 회사의 가장 큰 비용이 바로 이 추론입니다. 그 비용을 깎는 도구를, 딥시크는 가중치와 코드째 무료로, 그것도 Gemma·Qwen 같은 남의 모델에도 붙게 풀었습니다.</description><pubDate>Sat, 27 Jun 2026 08:08:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFQLRQjxn6</guid></item><item><title>2/ 어떻게 그렇게 빨라지나. 원리는 '미리 쓰고 한 번에 검사'입니다.
-
-큰 모델은 글자(토큰)를 하나씩 뽑습니다. 한 글자마다 모델 전체를 ...</title><link>https://www.threads.net/@choi.openai/post/DaFQMqVDw0-</link><description>2/ 어떻게 그렇게 빨라지나. 원리는 '미리 쓰고 한 번에 검사'입니다.
-
-큰 모델은 글자(토큰)를 하나씩 뽑습니다. 한 글자마다 모델 전체를 한 번 돌리니 느리죠. 추측 디코딩은 작고 빠른 '초안 모델'이 다음 몇 글자를 미리 써두면, 큰 모델이 그걸 한 번에 훑어 맞는 데까지 승인하는 방식입니다.
-빠른 조수가 다음 문장을 적어두고, 느리지만 정확한 전문가가 한 번 읽으며 'OK·여기부터 수정'만 하는 식입니다. 승인된 글자는 큰 모델이 직접 쓴 것과 똑같으니 품질은 그대로, 속도만 오릅니다.
-
-결국 빨라지는 정도는 '한 번 검사로 몇 글자를 건지느냐'로 정해집니다. 그래서 이 게임은 초안을 더 빨리, 더 잘 맞게 만드는 싸움입니다.</description><pubDate>Sat, 27 Jun 2026 08:08:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFQMqVDw0-</guid></item><item><title>3/ DSpark가 기존보다 나은 건, '빠름이냐 정확함이냐'의 오랜 딜레마를 풀었기 때문입니다.
-
-그동안 초안 만들기엔 맞교환이 있었습니다. ...</title><link>https://www.threads.net/@choi.openai/post/DaFQNiajzLW</link><description>3/ DSpark가 기존보다 나은 건, '빠름이냐 정확함이냐'의 오랜 딜레마를 풀었기 때문입니다.
-
-그동안 초안 만들기엔 맞교환이 있었습니다. 글자를 한 개씩 순서대로 만드는 방식(Eagle 계열)은 앞 글자를 참고하니 정확하지만 느립니다.
-반대로 한꺼번에 통째로 찍는 방식(DFlash)은 빠르지만, 글자들을 따로 예측하다 보니 뒤로 갈수록 틀려 승인율이 뚝 떨어집니다.
-
-DSpark는 그 사이를 잡았습니다. 빠른 '통째 찍기'는 그대로 두고, 가벼운 보정 한 겹만 얹어 '바로 앞 글자'를 참고하게 해서 뒤가 새는 걸 막습니다.
-여기에 '지금 GPU가 얼마나 바쁜지'까지 봅니다. 한가하면 길게 검사해 더 건지고, 붐비면 틀릴 것 같은 글자는 잘라 자리를 아낍니다.
-그 결과 초안이 한 번에 통과시키는 글자 수가 기존 최고 방식보다 늘었고(Eagle 대비 약 30%, DFlash 대비 16~18%·Qwen3 기준), 실서비스 속도가 위에서 본 57~85% 향상으로 이어졌습니다.</description><pubDate>Sat, 27 Jun 2026 08:08:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFQNiajzLW</guid></item><item><title>애플이 미국 정부에 "중국산 메모리를 사게 해달라"고 로비하고 있습니다.
-
-상대는 미국이 수출통제 블랙리스트에 올린 중국 최대 D램 회사 CXM...</title><link>https://www.threads.net/@choi.openai/post/DaFG3eXD_Wn</link><description>애플이 미국 정부에 "중국산 메모리를 사게 해달라"고 로비하고 있습니다.
-
-상대는 미국이 수출통제 블랙리스트에 올린 중국 최대 D램 회사 CXMT입니다. 메모리값이 치솟아 아이폰 원가가 위협받자, 미국 간판 기업이 정작 워싱턴이 막아둔 중국 회사를 사겠다고 설득하는 겁니다.
-그 CXMT는 국가 보조금 위에서 자라, 이번 상하이 상장 때 많게는 5천억~7천억 달러 평가까지 거론됩니다.
-
-메모리 시장이 HBM 위쪽과 범용 아래쪽으로 갈라진다고 정리했던 그 '아래쪽'이, 이렇게 애플의 안마당까지 들어왔습니다.
-
-애플·CXMT 로비와 메모리 시장 지형을 정리했습니다 🧵</description><pubDate>Sat, 27 Jun 2026 06:47:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFG3eXD_Wn</guid></item><item><title>1/ 6월 26일 파이낸셜타임스(FT) 보도입니다. 애플이 트럼프 행정부에 'CXMT 메모리를 살 수 있게 허가해달라'고 한 달 넘게 로비해 왔...</title><link>https://www.threads.net/@choi.openai/post/DaFG4ARD6M8</link><description>1/ 6월 26일 파이낸셜타임스(FT) 보도입니다. 애플이 트럼프 행정부에 'CXMT 메모리를 살 수 있게 허가해달라'고 한 달 넘게 로비해 왔다는 내용입니다.
-
-CXMT(창신메모리)는 중국 최대 D램 회사인데, 미국이 2024년 말 수출통제 블랙리스트(엔티티 리스트)에 올린 곳입니다.
-거기에 오르면 미국 장비·기술을 사 오기가 막히는데, 이번 건은 반대 방향입니다. 미국 기업이 그 회사 제품을 '사겠다'는 거죠. 엔티티 리스트가 수입까지 금지하는 건 아니지만, 제재 대상 회사와 거래하는 일이라 정치적으로 민감해 애플이 워싱턴의 양해를 먼저 구하는 겁니다.  낸드(NAND) 쪽 중국 회사 YMTC 구매까지 같이 타진 중이라는 이야기가 들고 있습니다.
-
-마이크론 파트너십을 다루며 메모리 시장이 HBM 위쪽과 범용 아래쪽으로 갈라진다고 봤는데, 그 '아래쪽'을 중국이 메우고 이제 미국 대표 기업이 거기서 사겠다고 나선 겁니다.</description><pubDate>Sat, 27 Jun 2026 06:47:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFG4ARD6M8</guid></item><item><title>2/ 애플이 왜 여기까지 몰렸는지는 그 양분 구조에서 나옵니다.
-
-위쪽부터 보면, AI 서버에 들어가는 HBM이 공급 부족입니다.
-삼성·SK하이...</title><link>https://www.threads.net/@choi.openai/post/DaFG43jD2Z2</link><description>2/ 애플이 왜 여기까지 몰렸는지는 그 양분 구조에서 나옵니다.
-
-위쪽부터 보면, AI 서버에 들어가는 HBM이 공급 부족입니다.
-삼성·SK하이닉스·마이크론이 돈 되는 HBM으로 생산능력을 옮길수록, PC·스마트폰에 들어가는 범용 D램과 낸드에는 빈자리가 생깁니다.
-
-그 빈자리만큼 범용 메모리 공급이 빠듯해지고 값이 뜁니다. 애플은 아이폰·맥에 들어가는 범용 메모리를 세계에서 가장 많이 사들이는 회사 중 하나라, 이 가격 상승을 정면으로 맞습니다. 차세대 아이폰의 메모리 원가가 최대 세 배까지 뛸 수 있다는 추정이 나올 정도입니다.
-
-삼성·SK·마이크론 세 곳이 사실상 가격을 쥔 상황에서, 애플이 협상력을 만들 거의 유일한 카드가 '제4의 공급처'입니다. 그리고 범용 메모리에서 가장 빠르게 크는 제4의 공급처가 바로 중국 CXMT입니다.</description><pubDate>Sat, 27 Jun 2026 06:47:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFG43jD2Z2</guid></item><item><title>3/ 그 CXMT의 시장 규모가 이번 이야기의 무게추입니다.
-
-CXMT는 중국이 2014년부터 빅펀드(반도체 국가펀드) 1~3기로 약 950억 ...</title><link>https://www.threads.net/@choi.openai/post/DaFG5Utj12p</link><description>3/ 그 CXMT의 시장 규모가 이번 이야기의 무게추입니다.
-
-CXMT는 중국이 2014년부터 빅펀드(반도체 국가펀드) 1~3기로 약 950억 달러, 보조금까지 더하면 2,500억 달러로 추정되는 국가 자금을 부은 생태계 위에서 자랐습니다.
-
-지금은 옴디아 기준 글로벌 D램 점유율 7.67%로 세계 4위, 중국 1위입니다. 2026년 1분기 매출이 1년 전보다 719% 뛰었고, 순이익은 1,688% 늘었습니다.
-상반기 매출 추정치만 약 1,100억~1,200억 위안(약 160억~177억 달러)입니다. 생산능력은 올해 글로벌 D램의 약 13%에서 내년 약 17%까지 올라갈 전망입니다.
-
-상장도 임박했습니다. 5월 27일 상하이 STAR마켓 IPO 심사를 통과했고, 조달 규모는 약 295억 위안(약 43.5억 달러)으로 SMIC 이후 두 번째로 큰 A주 상장이 됩니다.</description><pubDate>Sat, 27 Jun 2026 06:47:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFG5Utj12p</guid></item><item><title>미 국방부가 전장에서 AI 활용 범위를 넓히는 새로운 표적 선정 지침을 마련했습니다. 
-
-기존에는 사람이 먼저 판단하고 AI가 보조했다면, 앞으...</title><link>https://www.threads.net/@choi.openai/post/DaE6oHbk7Fg</link><description>미 국방부가 전장에서 AI 활용 범위를 넓히는 새로운 표적 선정 지침을 마련했습니다. 
-
-기존에는 사람이 먼저 판단하고 AI가 보조했다면, 앞으로는 AI가 먼저 제안하고 사람이 감시하는 방식까지 검토하고 있는데요.
-
-다만 국방부는 AI만으로 공격 대상을 결정해서는 안 되며, 최종 책임과 전쟁법 준수는 지휘관에게 있다고 밝혔습니다.
-
-AI 활용은 늘어나지만 인간의 판단은 여전히 중요하다는 점을 함께 강조했습니다.</description><pubDate>Sat, 27 Jun 2026 05:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaE6oHbk7Fg</guid></item><item><title>기사 :
-https://www.straitstimes.com/world/united-states/pentagon-sees-broader-role...</title><link>https://www.threads.net/@choi.openai/post/DaE6pIAE4Xv</link><description>기사 :
-https://www.straitstimes.com/world/united-states/pentagon-sees-broader-role-for-ai-in-setting-military-targets</description><pubDate>Sat, 27 Jun 2026 05:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaE6pIAE4Xv</guid></item></channel></rss>
+여러 레이아웃을 빠르게 비교하며 프로토타입을 만드는 작업이 한층 편리해질 것으로 보입니다.</description><pubDate>Sat, 27 Jun 2026 09:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFZhiPEv82</guid></item></channel></rss>
