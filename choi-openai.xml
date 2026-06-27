@@ -1,82 +1,80 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 27 Jun 2026 03:26:45 +0000</lastBuildDate><item><title>미국이 AI 데이터센터를 못 돌리는 건, 전기가 모자라서가 아닙니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 27 Jun 2026 10:08:02 +0000</lastBuildDate><item><title>Google AI Studio에 "Design Variations" 기능이 추가됐습니다.
 
-전기는 충분합니다. 문제는 그 전기를 칩까지 보내는 사슬이 세 군데서 막...</title><link>https://www.threads.net/@choi.openai/post/DaEs3bBj6eU</link><description>미국이 AI 데이터센터를 못 돌리는 건, 전기가 모자라서가 아닙니다.
+원하는 디자인 스타일을 프롬프트로 자세히 설명하지 않...</title><link>https://www.threads.net/@choi.openai/post/DaFZhiPEv82</link><description>Google AI Studio에 "Design Variations" 기능이 추가됐습니다.
 
-전기는 충분합니다. 문제는 그 전기를 칩까지 보내는 사슬이 세 군데서 막혀 있다는 겁니다. 전력망에 잇는 대기줄은 55개월로 늘었고, 그 망을 만들 변압기는 주문하면 5년을 기다려야 하고, 그걸 설치할 전기공은 수십만 명이 모자랍니다.
+원하는 디자인 스타일을 프롬프트로 자세히 설명하지 않아도 버튼 한 번으로 다양한 UI 디자인을 자동 생성하고 적용할 수 있는데요.
 
-그래서 xAI는 멤피스에서 현장 가스터빈을 돌렸고, 구글은 원전 계약을 잡았고, 오픈AI는 UAE로 Stargate를 넓혔습니다.
+여러 레이아웃을 빠르게 비교하며 프로토타입을 만드는 작업이 한층 편리해질 것으로 보입니다.</description><pubDate>Sat, 27 Jun 2026 09:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFZhiPEv82</guid></item><item><title>AI·메모리 수요는 계속 늘고 있습니다.
+그런데 그 옆에서, 같은 일을 더 적은 메모리·연산으로 해내는 기술이 단가를 끌어내리는 압력으로 같이 ...</title><link>https://www.threads.net/@choi.openai/post/DaFQKkbj6-u</link><description>AI·메모리 수요는 계속 늘고 있습니다.
+그런데 그 옆에서, 같은 일을 더 적은 메모리·연산으로 해내는 기술이 단가를 끌어내리는 압력으로 같이 자라고 있습니다.
 
-AI 전력 병목을 발전이 아니라 '연결·장비·사람·인프라'으로 나눠 정리했습니다 🧵</description><pubDate>Sat, 27 Jun 2026 02:59:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEs3bBj6eU</guid></item><item><title>1/ 전력 분석가 Chris Gillett가 Works in Progress에 6월 22일 쓴 글에서 출발합니다.
+오늘 딥시크가 4월에 나온 V4 모델을 '더 빨리 돌리는' 추측 디코딩 모듈 DSpark와, 그 도구를 만드는 코드 DeepSpec을 MIT로 공개했습니다.
 
-핵심은 AI 인프라의 병목을...</title><link>https://www.threads.net/@choi.openai/post/DaEs4Axj-QV</link><description>1/ 전력 분석가 Chris Gillett가 Works in Progress에 6월 22일 쓴 글에서 출발합니다.
+이미 있는 모델을 최대 85% 더 빨리, 더 싸게 굴리는 도구를 공짜로 푼 겁니다.
+이게 왜 메모리·AI 인프라 베팅에 리스크인지 정리했습니다 🧵</description><pubDate>Sat, 27 Jun 2026 08:08:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFQKkbj6-u</guid></item><item><title>1/ 왜 중요한지부터 말하면, 딥시크가 '추론을 싸게 만드는 법'을 공짜로 풀었습니다.
 
-핵심은 AI 인프라의 병목을 전력으로 보되, 그 전력을 만드는 단계와 보내는 단계를 나눠 봐야 한다는 점입니다.
+DSpark를 V4 서비스에 얹었더니, 같은 GPU·같...</title><link>https://www.threads.net/@choi.openai/post/DaFQLRQjxn6</link><description>1/ 왜 중요한지부터 말하면, 딥시크가 '추론을 싸게 만드는 법'을 공짜로 풀었습니다.
 
-텍사스 애빌린에서 올라가는 오픈AI·소프트뱅크의 Stargate는 400억 달러가 넘는 프로젝트로 알려졌고, 최대 부하에서 1.2GW를 끌어 씁니다. 미국 중위 가구 약 31만 3천 채가 동시에 쓰는 전력입니다.
+DSpark를 V4 서비스에 얹었더니, 같은 GPU·같은 모델에서 사용자가 느끼는 생성 속도가 57~85% 빨라졌습니다(기존 방식 MTP-1 대비). 속도가 그만큼 오른다는 건 같은 하드웨어로 그만큼 더 많은 요청을 처리한다는 뜻이고, 곧 추론 원가가 그만큼 내려간다는 뜻입니다.
 
-EpochAI 추정으로는 2025년 성장세가 유지될 경우 2030년 전 세계 AI 연산 전력이 100GW에 닿을 수 있습니다.
-이 정도면 데이터센터는 더 이상 IT 건물이 아니라 전력망 계획의 핵심 변수가 됩니다.</description><pubDate>Sat, 27 Jun 2026 03:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEs4Axj-QV</guid></item><item><title>2/ 수요가 진짜라는 건 만드는 사람들이 더 잘 압니다.
+지금 AI 회사의 가장 큰 비용이 바로 이 추론입니다. 그 비용을 깎는 도구를, 딥시크는 가중치와 코드째 무료로, 그것도 Gemma·Qwen 같은 남의 모델에도 붙게 풀었습니다.</description><pubDate>Sat, 27 Jun 2026 08:08:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFQLRQjxn6</guid></item><item><title>2/ 어떻게 그렇게 빨라지나. 원리는 '미리 쓰고 한 번에 검사'입니다.
 
-젠슨 황은 앞으로 모든 데이터센터가 전력 제약을 받을 것이라고 했고, 저커버그는 전력...</title><link>https://www.threads.net/@choi.openai/post/DaEs5B8j5uW</link><description>2/ 수요가 진짜라는 건 만드는 사람들이 더 잘 압니다.
+큰 모델은 글자(토큰)를 하나씩 뽑습니다. 한 글자마다 모델 전체를 ...</title><link>https://www.threads.net/@choi.openai/post/DaFQMqVDw0-</link><description>2/ 어떻게 그렇게 빨라지나. 원리는 '미리 쓰고 한 번에 검사'입니다.
 
-젠슨 황은 앞으로 모든 데이터센터가 전력 제약을 받을 것이라고 했고, 저커버그는 전력만 구하면 더 큰 AI 클러스터를 짓겠다고 했습니다. 샘 알트먼도 의회에서 AI의 풍요는 전력의 풍요에 묶일 것이라고 말했습니다.
+큰 모델은 글자(토큰)를 하나씩 뽑습니다. 한 글자마다 모델 전체를 한 번 돌리니 느리죠. 추측 디코딩은 작고 빠른 '초안 모델'이 다음 몇 글자를 미리 써두면, 큰 모델이 그걸 한 번에 훑어 맞는 데까지 승인하는 방식입니다.
+빠른 조수가 다음 문장을 적어두고, 느리지만 정확한 전문가가 한 번 읽으며 'OK·여기부터 수정'만 하는 식입니다. 승인된 글자는 큰 모델이 직접 쓴 것과 똑같으니 품질은 그대로, 속도만 오릅니다.
 
-셋 다 같은 지점을 보고 있습니다. 모델을 더 키울 수 있고, 칩도 더 주문할 수 있는데, 전력과 부지와 냉각과 연결이 그 속도를 따라오지 못합니다.
+결국 빨라지는 정도는 '한 번 검사로 몇 글자를 건지느냐'로 정해집니다. 그래서 이 게임은 초안을 더 빨리, 더 잘 맞게 만드는 싸움입니다.</description><pubDate>Sat, 27 Jun 2026 08:08:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFQMqVDw0-</guid></item><item><title>3/ DSpark가 기존보다 나은 건, '빠름이냐 정확함이냐'의 오랜 딜레마를 풀었기 때문입니다.
 
-NERC도 2026년 여름 정상 피크 조건에서는 모든 지역이 충분하다고 보지만, 대형 데이터센터 같은 부하가 갑자기 붙거나 빠지는 운영 리스크는 커졌다고 봅니다.
+그동안 초안 만들기엔 맞교환이 있었습니다. ...</title><link>https://www.threads.net/@choi.openai/post/DaFQNiajzLW</link><description>3/ DSpark가 기존보다 나은 건, '빠름이냐 정확함이냐'의 오랜 딜레마를 풀었기 때문입니다.
 
-장기 전망은 더 분명합니다. 2025년 LTRA에서 NERC는 23개 평가 구역 중 13개가 향후 10년 안에 자원 적정성 문제를 겪을 수 있다고 봤고, 여름 피크 수요는 10년 동안 224GW 이상 늘어날 전망입니다.</description><pubDate>Sat, 27 Jun 2026 03:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEs5B8j5uW</guid></item><item><title>3/ 첫 번째 병목은 전력망 연결 대기줄입니다.
+그동안 초안 만들기엔 맞교환이 있었습니다. 글자를 한 개씩 순서대로 만드는 방식(Eagle 계열)은 앞 글자를 참고하니 정확하지만 느립니다.
+반대로 한꺼번에 통째로 찍는 방식(DFlash)은 빠르지만, 글자들을 따로 예측하다 보니 뒤로 갈수록 틀려 승인율이 뚝 떨어집니다.
 
-발전소나 데이터센터를 전력망에 붙이려면 운영자가 전력 흐름을 계산하고, 어디를 보강해야 하는지...</title><link>https://www.threads.net/@choi.openai/post/DaEs6AijzO_</link><description>3/ 첫 번째 병목은 전력망 연결 대기줄입니다.
+DSpark는 그 사이를 잡았습니다. 빠른 '통째 찍기'는 그대로 두고, 가벼운 보정 한 겹만 얹어 '바로 앞 글자'를 참고하게 해서 뒤가 새는 걸 막습니다.
+여기에 '지금 GPU가 얼마나 바쁜지'까지 봅니다. 한가하면 길게 검사해 더 건지고, 붐비면 틀릴 것 같은 글자는 잘라 자리를 아낍니다.
+그 결과 초안이 한 번에 통과시키는 글자 수가 기존 최고 방식보다 늘었고(Eagle 대비 약 30%, DFlash 대비 16~18%·Qwen3 기준), 실서비스 속도가 위에서 본 57~85% 향상으로 이어졌습니다.</description><pubDate>Sat, 27 Jun 2026 08:08:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFQNiajzLW</guid></item><item><title>애플이 미국 정부에 "중국산 메모리를 사게 해달라"고 로비하고 있습니다.
 
-발전소나 데이터센터를 전력망에 붙이려면 운영자가 전력 흐름을 계산하고, 어디를 보강해야 하는지 먼저 봐야 합니다. 이 인터커넥션 절차가 막혔습니다.
+상대는 미국이 수출통제 블랙리스트에 올린 중국 최대 D램 회사 CXM...</title><link>https://www.threads.net/@choi.openai/post/DaFG3eXD_Wn</link><description>애플이 미국 정부에 "중국산 메모리를 사게 해달라"고 로비하고 있습니다.
 
-2005년에는 발전소 한 곳이 연결까지 20개월도 안 걸렸는데, 2023년에는 55개월로 늘었습니다.
-Berkeley Lab의 최신 Queued Up 자료를 보면 2025년 말 기준 미국 전력망 연결 대기열에는 발전·저장 프로젝트가 2,060GW 이상 쌓여 있습니다. 이것만으로도 미국 기존 전력망이 처리하도록 설계된 속도를 훨씬 넘어섭니다.
+상대는 미국이 수출통제 블랙리스트에 올린 중국 최대 D램 회사 CXMT입니다. 메모리값이 치솟아 아이폰 원가가 위협받자, 미국 간판 기업이 정작 워싱턴이 막아둔 중국 회사를 사겠다고 설득하는 겁니다.
+그 CXMT는 국가 보조금 위에서 자라, 이번 상하이 상장 때 많게는 5천억~7천억 달러 평가까지 거론됩니다.
 
-텍사스 ERCOT에는 2025년 10월 기준 143.5GW어치 데이터센터가 연결을 기다렸습니다. ERCOT의 역대 최대 수요가 85.9GW였다는 점을 감안하면, 대기 중인 데이터센터 부하만 기존 피크 수요를 크게 웃돕니다.</description><pubDate>Sat, 27 Jun 2026 03:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEs6AijzO_</guid></item><item><title>삼성그룹이 오는 29일 약 10년간 1,000조 원 이상을 투자하는 첨단산업 투자 계획을 발표할 것으로 알려졌습니다.
+메모리 시장이 HBM 위쪽과 범용 아래쪽으로 갈라진다고 정리했던 그 '아래쪽'이, 이렇게 애플의 안마당까지 들어왔습니다.
 
-반도체, AI 데이터센터...</title><link>https://www.threads.net/@choi.openai/post/DaEl_qSDwMr</link><description>삼성그룹이 오는 29일 약 10년간 1,000조 원 이상을 투자하는 첨단산업 투자 계획을 발표할 것으로 알려졌습니다.
+애플·CXMT 로비와 메모리 시장 지형을 정리했습니다 🧵</description><pubDate>Sat, 27 Jun 2026 06:47:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFG3eXD_Wn</guid></item><item><title>1/ 6월 26일 파이낸셜타임스(FT) 보도입니다. 애플이 트럼프 행정부에 'CXMT 메모리를 살 수 있게 허가해달라'고 한 달 넘게 로비해 왔...</title><link>https://www.threads.net/@choi.openai/post/DaFG4ARD6M8</link><description>1/ 6월 26일 파이낸셜타임스(FT) 보도입니다. 애플이 트럼프 행정부에 'CXMT 메모리를 살 수 있게 허가해달라'고 한 달 넘게 로비해 왔다는 내용입니다.
 
-반도체, AI 데이터센터, 디스플레이, 이차전지 등이 포함될 전망인데요. 특히 반도체 생산시설과 AI 데이터센터 투자 비중이 클 것으로 전해졌습니다.
+CXMT(창신메모리)는 중국 최대 D램 회사인데, 미국이 2024년 말 수출통제 블랙리스트(엔티티 리스트)에 올린 곳입니다.
+거기에 오르면 미국 장비·기술을 사 오기가 막히는데, 이번 건은 반대 방향입니다. 미국 기업이 그 회사 제품을 '사겠다'는 거죠. 엔티티 리스트가 수입까지 금지하는 건 아니지만, 제재 대상 회사와 거래하는 일이라 정치적으로 민감해 애플이 워싱턴의 양해를 먼저 구하는 겁니다.  낸드(NAND) 쪽 중국 회사 YMTC 구매까지 같이 타진 중이라는 이야기가 들고 있습니다.
 
- 다만 현재까지는 발표 전 보도 내용으로, 최종 계획은 달라질 수 있습니다.</description><pubDate>Sat, 27 Jun 2026 01:59:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEl_qSDwMr</guid></item><item><title>🚨 미국 정부가 앤트로픽의 "Claude Mythos 5" 모델에 적용했던 제한을 일부 해제했습니다.
+마이크론 파트너십을 다루며 메모리 시장이 HBM 위쪽과 범용 아래쪽으로 갈라진다고 봤는데, 그 '아래쪽'을 중국이 메우고 이제 미국 대표 기업이 거기서 사겠다고 나선 겁니다.</description><pubDate>Sat, 27 Jun 2026 06:47:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFG4ARD6M8</guid></item><item><title>2/ 애플이 왜 여기까지 몰렸는지는 그 양분 구조에서 나옵니다.
 
-이에 따라 100개 이상의 미국의 주요 ...</title><link>https://www.threads.net/@choi.openai/post/DaEb2esDzC5</link><description>🚨 미국 정부가 앤트로픽의 "Claude Mythos 5" 모델에 적용했던 제한을 일부 해제했습니다.
+위쪽부터 보면, AI 서버에 들어가는 HBM이 공급 부족입니다.
+삼성·SK하이...</title><link>https://www.threads.net/@choi.openai/post/DaFG43jD2Z2</link><description>2/ 애플이 왜 여기까지 몰렸는지는 그 양분 구조에서 나옵니다.
 
-이에 따라 100개 이상의 미국의 주요 기반시설을 운영하거나 보안을 담당하는 기관을 대상으로 먼저 제공될 예정인데요. 
+위쪽부터 보면, AI 서버에 들어가는 HBM이 공급 부족입니다.
+삼성·SK하이닉스·마이크론이 돈 되는 HBM으로 생산능력을 옮길수록, PC·스마트폰에 들어가는 범용 D램과 낸드에는 빈자리가 생깁니다.
 
-앤트로픽은 앞으로 정부와 협력을 이어가며 Mythos 5의 이용 범위를 확대하고, Fable 5도 다시 일반에 공개할 수 있도록 협의를 진행할 계획이라고 설명했습니다.</description><pubDate>Sat, 27 Jun 2026 00:31:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEb2esDzC5</guid></item><item><title>발표내용 :
-https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic...</title><link>https://www.threads.net/@choi.openai/post/DaEb3EyjzJk</link><description>발표내용 :
-https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies</description><pubDate>Sat, 27 Jun 2026 00:31:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEb3EyjzJk</guid></item><item><title>🚨 와.. 오픈AI가 역대 최강 모델 GPT-5.6을 공개했습니다.
+그 빈자리만큼 범용 메모리 공급이 빠듯해지고 값이 뜁니다. 애플은 아이폰·맥에 들어가는 범용 메모리를 세계에서 가장 많이 사들이는 회사 중 하나라, 이 가격 상승을 정면으로 맞습니다. 차세대 아이폰의 메모리 원가가 최대 세 배까지 뛸 수 있다는 추정이 나올 정도입니다.
 
-역대 최강이라는 Sol을 비롯해 Terra, Luna까지 세 모델인데, 미...</title><link>https://www.threads.net/@choi.openai/post/DaEYYrYj6BD</link><description>🚨 와.. 오픈AI가 역대 최강 모델 GPT-5.6을 공개했습니다.
+삼성·SK·마이크론 세 곳이 사실상 가격을 쥔 상황에서, 애플이 협상력을 만들 거의 유일한 카드가 '제4의 공급처'입니다. 그리고 범용 메모리에서 가장 빠르게 크는 제4의 공급처가 바로 중국 CXMT입니다.</description><pubDate>Sat, 27 Jun 2026 06:47:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFG43jD2Z2</guid></item><item><title>3/ 그 CXMT의 시장 규모가 이번 이야기의 무게추입니다.
 
-역대 최강이라는 Sol을 비롯해 Terra, Luna까지 세 모델인데, 미국 정부 요청으로 승인된 20여 개 기업에만 먼저 풀렸습니다. 정부가 고객사를 한 곳씩 들여다보고 승인하는 방식입니다.
+CXMT는 중국이 2014년부터 빅펀드(반도체 국가펀드) 1~3기로 약 950억 ...</title><link>https://www.threads.net/@choi.openai/post/DaFG5Utj12p</link><description>3/ 그 CXMT의 시장 규모가 이번 이야기의 무게추입니다.
 
-2주 전 앤트로픽 Fable·Mythos가 같은 식으로 막혔을 때, 같은 잣대라면 오픈AI도 피하기 어렵다고 적었는데 그대로 됐습니다.
+CXMT는 중국이 2014년부터 빅펀드(반도체 국가펀드) 1~3기로 약 950억 달러, 보조금까지 더하면 2,500억 달러로 추정되는 국가 자금을 부은 생태계 위에서 자랐습니다.
 
-발표내용과 가장 강력한 모델이 어떻게 가장 닫힌 모델이 됐는지, 그리고 우리가 뭘 대비해야 하는지 정리했습니다🧵</description><pubDate>Sat, 27 Jun 2026 00:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEYYrYj6BD</guid></item><item><title>1/ Sol은 오픈AI가 지금까지 만든 가장 강한 모델이고, Terra는 GPT-5.5급 성능을 절반 값에, Luna는 가장 싼 대량 작업용입니...</title><link>https://www.threads.net/@choi.openai/post/DaEYZUPD0ME</link><description>1/ Sol은 오픈AI가 지금까지 만든 가장 강한 모델이고, Terra는 GPT-5.5급 성능을 절반 값에, Luna는 가장 싼 대량 작업용입니다.
+지금은 옴디아 기준 글로벌 D램 점유율 7.67%로 세계 4위, 중국 1위입니다. 2026년 1분기 매출이 1년 전보다 719% 뛰었고, 순이익은 1,688% 늘었습니다.
+상반기 매출 추정치만 약 1,100억~1,200억 위안(약 160억~177억 달러)입니다. 생산능력은 올해 글로벌 D램의 약 13%에서 내년 약 17%까지 올라갈 전망입니다.
 
-숫자 5.6은 세대를, Sol·Terra·Luna는 크기 등급을 뜻합니다. 별·행성·달입니다.
+상장도 임박했습니다. 5월 27일 상하이 STAR마켓 IPO 심사를 통과했고, 조달 규모는 약 295억 위안(약 43.5억 달러)으로 SMIC 이후 두 번째로 큰 A주 상장이 됩니다.</description><pubDate>Sat, 27 Jun 2026 06:47:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaFG5Utj12p</guid></item><item><title>미 국방부가 전장에서 AI 활용 범위를 넓히는 새로운 표적 선정 지침을 마련했습니다. 
 
-가장 오래 생각하는 max 모드와, 여러 서브에이전트를 동시에 굴려 복잡한 일을 쪼개는 ultra 모드가 새로 생겨서 최상위 구성은 Sol Ultra로 불립니다.
+기존에는 사람이 먼저 판단하고 AI가 보조했다면, 앞으...</title><link>https://www.threads.net/@choi.openai/post/DaE6oHbk7Fg</link><description>미 국방부가 전장에서 AI 활용 범위를 넓히는 새로운 표적 선정 지침을 마련했습니다. 
 
-셋 다 API와 Codex에서 승인된 기업부터 쓰고, 일반 공개는 몇 주 뒤라고 했습니다.</description><pubDate>Sat, 27 Jun 2026 00:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEYZUPD0ME</guid></item><item><title>2/ 이 발표를 둘러싼 조직 변화도 같이 봐야 합니다.
+기존에는 사람이 먼저 판단하고 AI가 보조했다면, 앞으로는 AI가 먼저 제안하고 사람이 감시하는 방식까지 검토하고 있는데요.
 
-오픈AI는 최근 딘 볼을 영입했습니다. 딘 볼은 트럼프 행정부의 국가 AI 전략 문서인...</title><link>https://www.threads.net/@choi.openai/post/DaEYaHkjwfm</link><description>2/ 이 발표를 둘러싼 조직 변화도 같이 봐야 합니다.
+다만 국방부는 AI만으로 공격 대상을 결정해서는 안 되며, 최종 책임과 전쟁법 준수는 지휘관에게 있다고 밝혔습니다.
 
-오픈AI는 최근 딘 볼을 영입했습니다. 딘 볼은 트럼프 행정부의 국가 AI 전략 문서인 America's AI Action Plan을 사실상 설계했고, 백악관 과학기술정책실에서 AI·신기술 담당 선임 정책보좌관으로 일했습니다.
-
-그가 들어간 곳은 단순 대외 로비 라인이 아닙니다. Strategic Futures라는 신설팀이고, 보고 라인은 최고전략책임자 제이슨 권입니다. 합류 시점은 7월 6일입니다.
-
-다루는 주제도 파국적 위험, 재귀적 자기개선, 노동시장 충격, 프런티어 랩과 정부의 관계입니다. 모델 회사가 정책을 바깥에서 대응하는 게 아니라, 회사 안의 전략 문제로 끌어들인 겁니다.</description><pubDate>Sat, 27 Jun 2026 00:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEYaHkjwfm</guid></item><item><title>3/ 앞으로 모델 제공 정책은 정부 기조에 더 민감해집니다.
-
-어떤 모델을 누구에게 먼저 열지, 어떤 사이버 능력을 신원 확인 뒤에 둘지, 어떤...</title><link>https://www.threads.net/@choi.openai/post/DaEYal6DzeO</link><description>3/ 앞으로 모델 제공 정책은 정부 기조에 더 민감해집니다.
-
-어떤 모델을 누구에게 먼저 열지, 어떤 사이버 능력을 신원 확인 뒤에 둘지, 어떤 바이오 기능을 검증된 기관에만 줄지, 어느 국가 고객에게 제공할지. 이건 이제 제품팀만의 결정이 아닙니다.
-
-정부 사전 검토, 수출통제, trusted access, 공공 조달, 국가별 데이터센터, 동맹국 접근권까지 같이 움직입니다.
-
-GPT-5.6이 정부 요청으로 일부 신뢰 파트너에게 먼저 열린 건 이 변화가 제품 위에 찍힌 장면입니다. 모델 제공사는 이제 모델 성능만 관리하지 않습니다. 정부와의 관계도 관리합니다.</description><pubDate>Sat, 27 Jun 2026 00:01:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaEYal6DzeO</guid></item></channel></rss>
+AI 활용은 늘어나지만 인간의 판단은 여전히 중요하다는 점을 함께 강조했습니다.</description><pubDate>Sat, 27 Jun 2026 05:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaE6oHbk7Fg</guid></item><item><title>기사 :
+https://www.straitstimes.com/world/united-states/pentagon-sees-broader-role...</title><link>https://www.threads.net/@choi.openai/post/DaE6pIAE4Xv</link><description>기사 :
+https://www.straitstimes.com/world/united-states/pentagon-sees-broader-role-for-ai-in-setting-military-targets</description><pubDate>Sat, 27 Jun 2026 05:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaE6pIAE4Xv</guid></item></channel></rss>
