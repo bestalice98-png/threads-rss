@@ -1,63 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 28 Jun 2026 16:03:05 +0000</lastBuildDate><item><title>일론 머스크가 'Grok 4.5'가 SpaceX와 Tesla에서 비공개 베타 테스트를 시작했다고 밝혔습니다. 
-'1.5T V9' 기반 모델에 C...</title><link>https://www.threads.net/@choi.openai/post/DaIkIhmjwly</link><description>일론 머스크가 'Grok 4.5'가 SpaceX와 Tesla에서 비공개 베타 테스트를 시작했다고 밝혔습니다. 
-'1.5T V9' 기반 모델에 Cursor 데이터를 추가 학습했으며, 초기 평가에서는 Claude Opus에 근접하거나 이를 뛰어넘는 성능을 보였다고 설명했습니다.
-또한 강화학습(RL)으로 성능을 계속 개선하고 있으며, 올해는 완전히 새롭게 처음부터 학습한 모델을 매달 공개할 계획이라고 전했습니다.</description><pubDate>Sun, 28 Jun 2026 15:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaIkIhmjwly</guid></item><item><title>이번주도 AI 업계는 충격적인 소식으로 가득했습니다.
-불과 며칠 사이, 구글, 앤트로픽, 메타, 오픈AI, 엔비디아를 비롯한 주요 기업들이 업데...</title><link>https://www.threads.net/@choi.openai/post/DaIY6XRj3Tp</link><description>이번주도 AI 업계는 충격적인 소식으로 가득했습니다.
-불과 며칠 사이, 구글, 앤트로픽, 메타, 오픈AI, 엔비디아를 비롯한 주요 기업들이 업데이트를 쏟아냈는데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 29 Jun 2026 03:54:45 +0000</lastBuildDate><item><title>오픈AI에서 코덱스(Codex) 데스크톱 앱 개발을 이끄는 앤드류 암브로시노(Andrew Ambrosino)는 과거에는 막대한 비용이 들었던 기...</title><link>https://www.threads.net/@choi.openai/post/DaJ2fM1gN8b</link><description>오픈AI에서 코덱스(Codex) 데스크톱 앱 개발을 이끄는 앤드류 암브로시노(Andrew Ambrosino)는 과거에는 막대한 비용이 들었던 기술 구현 과정이 이제는 AI 덕분에 완전히 역전되었다고 설명했습니다.
 
-이 정보 격차는 늦기 전에 반드시 따라잡아야 합니다.
-정말 도움되는 AI 업데이트 소식을 엄선했습니다. 🧵</description><pubDate>Sun, 28 Jun 2026 13:22:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaIY6XRj3Tp</guid></item><item><title>1/ 오픈AI가 GPT-5. 6을 공개했고, Sol·Terra·Luna 3개 모델이 먼저 일부 기업에만 제공됩니다.
-미국 정부 승인 방식이 적용...</title><link>https://www.threads.net/@choi.openai/post/DaIY62rj3TH</link><description>1/ 오픈AI가 GPT-5. 6을 공개했고, Sol·Terra·Luna 3개 모델이 먼저 일부 기업에만 제공됩니다.
-미국 정부 승인 방식이 적용됐고, 왜 더 강한 모델이 더 닫힌 형태가 됐는지 다룹니다.</description><pubDate>Sun, 28 Jun 2026 13:22:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaIY62rj3TH</guid></item><item><title>2/ 딥시크가 V4용 추측 디코딩 모듈 DSpark와 코드 DeepSpec를 MIT 라이선스로 공개했습니다.
-기존 모델을 최대 85% 더 빠르고...</title><link>https://www.threads.net/@choi.openai/post/DaIY7ZrD8D9</link><description>2/ 딥시크가 V4용 추측 디코딩 모듈 DSpark와 코드 DeepSpec를 MIT 라이선스로 공개했습니다.
-기존 모델을 최대 85% 더 빠르고 더 적은 비용으로 돌릴 수 있어 AI 메모리 수요 전망에는 변수로 보입니다.</description><pubDate>Sun, 28 Jun 2026 13:22:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaIY7ZrD8D9</guid></item><item><title>3/ 앤트로픽이 마이크론과 전략적 파트너십을 맺었습니다.
-컴퓨트 확보에 이어 메모리까지 손잡은 것으로, AI 인프라 확장 흐름으로 보입니다.</title><link>https://www.threads.net/@choi.openai/post/DaIY768j1hN</link><description>3/ 앤트로픽이 마이크론과 전략적 파트너십을 맺었습니다.
-컴퓨트 확보에 이어 메모리까지 손잡은 것으로, AI 인프라 확장 흐름으로 보입니다.</description><pubDate>Sun, 28 Jun 2026 13:22:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaIY768j1hN</guid></item><item><title>앤트로픽이 여섯 번째 경제 보고서를 냈습니다.
+“이제 구현은 더 이상 비용이 많이 드는 부분이 아닙니다.”
 
-이번엔 처음으로 두 가지를 동시에 했는데요. 하나는 대화를 시간 단위로 들여다본 것이고, 다른 ...</title><link>https://www.threads.net/@choi.openai/post/DaH7OSbD6iu</link><description>앤트로픽이 여섯 번째 경제 보고서를 냈습니다.
+암브로시노는 무수히 많은 기능적 시도와 구현이 손쉽게 이루어지는 시대에는, 기술을 직접 코딩하고 만드는 능력보다 수많은 결과물 중 가치 있는 것을 골라내는 '안목(Taste)'과 '큐레이션(Curation)'이 핵심 경쟁력이 될 것이라 진단했습니다.</description><pubDate>Mon, 29 Jun 2026 03:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaJ2fM1gN8b</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=P3KDebPTUrw</title><link>https://www.threads.net/@choi.openai/post/DaJ2f8mgNtk</link><description>풀영상 :
+https://www.youtube.com/watch?v=P3KDebPTUrw</description><pubDate>Mon, 29 Jun 2026 03:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaJ2f8mgNtk</guid></item><item><title>루프 단계는 이미 지났다.
 
-이번엔 처음으로 두 가지를 동시에 했는데요. 하나는 대화를 시간 단위로 들여다본 것이고, 다른 하나는 실제 사용자 9,700명에게 직접 설문을 돌려 그 답을 각자의 실제 사용 기록과 연결한 겁니다.
+오픈AI의 코덱스(Codex) 데스크톱 앱 개발 책임자인 앤드류 암브로시노(Andrew Ambrosino)는 이미 ...</title><link>https://www.threads.net/@choi.openai/post/DaJo0UdAef5</link><description>루프 단계는 이미 지났다.
 
-그런데 가장 뜻밖의 결과는 따로 있습니다. AI에게 일을 가장 많이 통째로 넘기는 사람들, 즉 가장 자동화된 방식으로 쓰는 사람들이 자기 임금·고용 안정·재취업 전망을 가장 낙관하고 있었습니다. "일을 넘길수록 내 자리가 위험하다"는 통념과 정반대입니다.
+오픈AI의 코덱스(Codex) 데스크톱 앱 개발 책임자인 앤드류 암브로시노(Andrew Ambrosino)는 이미 제품의 100%가 AI가 작성한 코드로 구동되고 있다고 밝혔습니다.
 
-발표 내용과, 왜 가장 많이 맡긴 사람이 가장 덜 두려워하는지를 정리했습니다 🧵</description><pubDate>Sun, 28 Jun 2026 09:03:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaH7OSbD6iu</guid></item><item><title>1/ 이번 보고서는 데이터 파이프라인을 세 군데 바꿨습니다.
+그는 트위터나 슬랙을 모니터링하며 “앱을 스스로 개선하는 루프 시스템을 설정하는 것” 같은 단순 피드백 루프 단계는 이미 지난 단계에 가깝다며, 이를 넘어선 완전 자율 소프트웨어 개발을 탐색 중이라고 강조했습니다.
 
-대화를 훨씬 더 자주 표본으로 떠서 시간 단위까지 보고, 대화마다 결과물(arti...</title><link>https://www.threads.net/@choi.openai/post/DaH7O3Tj1Hv</link><description>1/ 이번 보고서는 데이터 파이프라인을 세 군데 바꿨습니다.
+다만 현재 AI 모델들이 코드를 추가하며 복잡성만 가중시키는 한계가 있어, “연구자들은 AI 모델이 코드를 더 잘 삭제할 수 있도록 만들어야 한다”고 지적했습니다.
 
-대화를 훨씬 더 자주 표본으로 떠서 시간 단위까지 보고, 대화마다 결과물(artifact)을 분류하는 분류기를 새로 넣고, chat·Cowork(둘을 합쳐 "Claude 대화")와 개발자용 1P API를 따로 떼어 월 단위로 공개했습니다.
+AI 성능이 고도화될수록 단순 코딩 일자리는 축소되겠지만, 전체적인 추상화 구조를 설계하고 불필요한 코드를 걷어내는 고차원적인 엔지니어링 능력이 기술 경제의 핵심 전문성이 될 것임을 시사합니다.</description><pubDate>Mon, 29 Jun 2026 01:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaJo0UdAef5</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=P3KDebPTUrw</title><link>https://www.threads.net/@choi.openai/post/DaJo1TBAfxH</link><description>풀영상 :
+https://www.youtube.com/watch?v=P3KDebPTUrw</description><pubDate>Mon, 29 Jun 2026 01:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaJo1TBAfxH</guid></item><item><title>🚨 코덱스 사용량 초기화</title><link>https://www.threads.net/@choi.openai/post/DaJhTnnj6x4</link><description>🚨 코덱스 사용량 초기화</description><pubDate>Sun, 28 Jun 2026 23:55:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaJhTnnj6x4</guid></item><item><title>메타 CEO 마크 저커버그(Mark Zuckerberg)는 많은 이들이 AI로 인한 일자리 대체를 불안해하지만, 저커버그는 그것이 불투명한 필연...</title><link>https://www.threads.net/@choi.openai/post/DaJbCdrEyw6</link><description>메타 CEO 마크 저커버그(Mark Zuckerberg)는 많은 이들이 AI로 인한 일자리 대체를 불안해하지만, 저커버그는 그것이 불투명한 필연은 아니라고 말합니다.
 
-이렇게 바꾼 이유는 1년 전과 지금이 달라서입니다.
-예전엔 Claude 사용이 대부분 사람과 어시스턴트의 한 번의 대화였는데, Claude Code와 Cowork가 커지면서 이제 한 세션이 몇 시간씩 도는 에이전트 작업이 됐습니다.
+그는 “만약 개인이 더 생산적으로 일하게 만드는 데 집중하고, 그 속도가 기업의 자동화 속도보다 빠르다면 이론적으로 미래에는 일자리가 줄어드는 것이 아니라 더 많아질 수도 있습니다”라고 강조했습니다.
 
-채팅 로그만으로는 사람들이 AI를 어떻게 쓰는지 더 이상 다 안 잡히는 겁니다.
-1월 'Economic primitives', 3월 'Learning curves'로 이어진 같은 시리즈의 여섯 번째 판인데, 측정 자체가 사용 방식을 따라 진화하고 있는 셈입니다.</description><pubDate>Sun, 28 Jun 2026 09:03:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaH7O3Tj1Hv</guid></item><item><title>2/ 평일에 35% 안팎이던 개인 용도 대화 비중이 주말이면 50% 가까이로 뜁니다.
+일부 기업이 정보나 지식을 다루는 노동을 자동화하는 데만 몰두한다면 부정적인 미래가 올 수 있습니다.
 
-평일엔 업무 메일, 마케팅 카피, 슬라이드 덱이던 대화가...</title><link>https://www.threads.net/@choi.openai/post/DaH7Pj8j6Ww</link><description>2/ 평일에 35% 안팎이던 개인 용도 대화 비중이 주말이면 50% 가까이로 뜁니다.
-
-평일엔 업무 메일, 마케팅 카피, 슬라이드 덱이던 대화가 주말엔 정서적 지지, 의료 질문, 투자 조언으로 바뀝니다. 이 이동 폭은 고소득 국가에서 가장 큽니다.
-Claude Code를 봐도 주말엔 백엔드 아키텍처·API 디버깅·데이터 저장 작업이 가장 많이 빠지고, AI 에이전트 설계·퀀트 트레이딩·게임이 가장 많이 늘어납니다. 창업 관련 대화는 토요일·일요일에 가장 높고요.
-
-사용 곡선이 노동의 일주일을 그대로 따라간다는 건, AI가 특별한 도구가 아니라 사람들의 주간 리듬 안에 자리를 잡았다는 뜻입니다.
-다만 일자리 지원 활동은 다른 업무와 함께 주말에 같이 줄어듭니다. 새 일을 벌이는 건 주말, 남의 회사에 지원하는 건 평일인 겁니다.</description><pubDate>Sun, 28 Jun 2026 09:03:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaH7Pj8j6Ww</guid></item><item><title>3/ 사람들은 아침 7시에 뉴스를 찾습니다.
-
-업무 메일 같은 비즈니스 서신은 근무 시간의 곡선을 그리며 오전 10~11시에 살짝 정점을 찍습니...</title><link>https://www.threads.net/@choi.openai/post/DaH7Qlhj3xN</link><description>3/ 사람들은 아침 7시에 뉴스를 찾습니다.
-
-업무 메일 같은 비즈니스 서신은 근무 시간의 곡선을 그리며 오전 10~11시에 살짝 정점을 찍습니다. 가장 큰 봉우리 중 하나는 레시피인데, 저녁 6시엔 평균보다 2.3배 잦아집니다. 미디어 추천은 저녁에 몰리고, 잠 안 오는 걸 묻는 건 동트기 직전 새벽입니다.
-
-이런 시간대별 그림은 이번에 처음 나온 겁니다. 예전 보고서들은 7일치 표본 하나로 만들었는데, 이번엔 매일 일부를 계속 떠서 시간 단위로 쌓았기 때문입니다.
-하루의 생활 리듬이 사용량에 그대로 나타난 건데, 측정 빈도를 올리지 않았으면 안 보였을 패턴입니다.</description><pubDate>Sun, 28 Jun 2026 09:03:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaH7Qlhj3xN</guid></item><item><title>다음 빅 이슈는 코로나 시즌 2일 수도 있습니다.
-
-사이버가 그랬습니다.
-
-"국가가 해킹당할 수 있다"는 위협이 커질수록 정부 예산은 늘었고, ...</title><link>https://www.threads.net/@choi.openai/post/DaHyjxXDyYh</link><description>다음 빅 이슈는 코로나 시즌 2일 수도 있습니다.
-
-사이버가 그랬습니다.
-
-"국가가 해킹당할 수 있다"는 위협이 커질수록 정부 예산은 늘었고, 가장 강한 AI는 정부와 기간 인프라 안으로 먼저 들어갔습니다. 앤트로픽은 Project Glasswing, 오픈AI는 Daybreak로 같은 전략을 폈습니다.
-
-저는 같은 플레이북이 생물안보에서도 반복될 가능성이 있습니다.
-
-다만 다음 대형 감염병이나 생물학적 위협이 발생한다면, 사이버에서 "AI가 없으면 방어할 수 없다"는 서사가 예산과 정책을 움직였던 것처럼, 이번에는 "AI가 없으면 팬데믹을 막을 수 없다"는 서사가 반복될 가능성은 충분히 있다고 생각합니다.
-
-다음 AI 경쟁의 가장 큰 전장은, 생물안보일 수도 있습니다.</description><pubDate>Sun, 28 Jun 2026 07:47:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaHyjxXDyYh</guid></item></channel></rss>
+그러나 개인을 돕는 강력한 AI인 ‘개인용 초지능’을 통해 각 단계마다 인간의 역량과 생산성을 키워나간다면, 자동화의 위협을 넘어 기술과 인간이 공존하는 긍정적인 균형을 이룰 수 있을 것이라 분석했습니다.</description><pubDate>Sun, 28 Jun 2026 23:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaJbCdrEyw6</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=u-vH31VD7GE</title><link>https://www.threads.net/@choi.openai/post/DaJbDZZE6yp</link><description>풀영상 :
+https://www.youtube.com/watch?v=u-vH31VD7GE</description><pubDate>Sun, 28 Jun 2026 23:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaJbDZZE6yp</guid></item></channel></rss>
