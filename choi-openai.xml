@@ -1,28 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 30 Jun 2026 16:59:56 +0000</lastBuildDate><item><title>Cline이 월 9.99달러 구독 상품을 출시했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 01 Jul 2026 03:53:44 +0000</lastBuildDate><item><title>오픈AI가 GeneBench-Pro를 공개했습니다.
 
-GLM-5.2를 비롯해 DeepSeek, Kimi, MiniMax, Mimo, Qwen...</title><link>https://www.threads.net/@choi.openai/post/DaMeyrWjhFg</link><description>Cline이 월 9.99달러 구독 상품을 출시했습니다.
+생물학 데이터를 던져주고 어떻게 분석할지를 모델이 스스로 판단하게 하는 벤치마크인데, 가장...</title><link>https://www.threads.net/@choi.openai/post/DaO-nzAD0cf</link><description>오픈AI가 GeneBench-Pro를 공개했습니다.
 
-GLM-5.2를 비롯해 DeepSeek, Kimi, MiniMax, Mimo, Qwen 등 여러 오픈 웨이트 모델을 2~5배 할인된 비용으로 사용할 수 있습니다.
+생물학 데이터를 던져주고 어떻게 분석할지를 모델이 스스로 판단하게 하는 벤치마크인데, 가장 강한 GPT-5.6 Sol도 129문제 중 29%밖에 못 풉니다.
 
-여러 AI 서비스의 API 키를 각각 관리할 필요 없이 Cline CLI와 IDE에서 하나의 구독으로 이용할 수 있는 것이 특징입니다.
+무엇을 발표했고, 왜 지금 이걸 만들었고, 어디로 향하는지 정리했습니다 🧵</description><pubDate>Wed, 01 Jul 2026 02:47:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaO-nzAD0cf</guid></item><item><title>1/ GeneBench-Pro는 모델이 지저분한 생물학 데이터를 받아 직접 분석을 설계하는 능력을 재는 벤치마크입니다.
+유전체학·정량생물·중개의...</title><link>https://www.threads.net/@choi.openai/post/DaO-ohwD5Mv</link><description>1/ GeneBench-Pro는 모델이 지저분한 생물학 데이터를 받아 직접 분석을 설계하는 능력을 재는 벤치마크입니다.
+유전체학·정량생물·중개의학에 걸쳐 129문제, 10개 도메인, 21개 세부 도메인으로 짜였습니다. 각 문제는 실제 실험에서 나온 것 같은 messy 데이터와 짧은 맥락, 그리고 어떤 결정으로 이어지는 추정량 하나를 줍니다.
 
-현재 `npm i -g cline`으로 가입하면 1.99달러 프로모션도 진행 중입니다.</description><pubDate>Tue, 30 Jun 2026 03:31:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaMeyrWjhFg</guid></item><item><title>Fable 수준의 성능을 유지하면서 비용을 35% 절감
+모델은 데이터를 탐색하고, 적절한 분석 경로를 고르고, 중간 점검을 거쳐 답을 내야 합니다. 사실을 외워 답하는 게 아니라, 오픈AI가 'research taste'라 부르는 판단을 재는 겁니다. 4월에 나온 GeneBench의 103문제 중 3개를 버리고 54개를 다시 설계한 뒤 29개를 더해 만든 강화판입니다.
 
-Cognition이 새로운 AI 코딩 시스템 'Devin Fusion'을 공개했습니다....</title><link>https://www.threads.net/@choi.openai/post/DaMNkaAgryZ</link><description>Fable 수준의 성능을 유지하면서 비용을 35% 절감
+지식 시험이 아니라 판단 시험이라는 게 출발점입니다.</description><pubDate>Wed, 01 Jul 2026 02:47:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaO-ohwD5Mv</guid></item><item><title>2/ 이 벤치마크가 다른 건 풀이를 베끼거나 운으로 통과할 수 없게 만든 설계입니다.
 
-Cognition이 새로운 AI 코딩 시스템 'Devin Fusion'을 공개했습니다.
+모든 문제를 합성으로 만들어, 데이터 생성 과정 전체와 ...</title><link>https://www.threads.net/@choi.openai/post/DaO-pZMD5qE</link><description>2/ 이 벤치마크가 다른 건 풀이를 베끼거나 운으로 통과할 수 없게 만든 설계입니다.
 
-Devin Fusion은 작은 모델과 프런티어 모델을 함께 사용하는 구조입니다. 작은 모델이 병렬로 작업을 처리하고, 프런티어 모델은 계획과 검토를 담당해 성능은 유지하면서 비용을 줄였습니다.
+모든 문제를 합성으로 만들어, 데이터 생성 과정 전체와 인과 구조를 연구진이 직접 압니다. 그래서 파이썬 스크립트가 정답 필드를 정해진 허용오차 안에서 맞췄는지만 보고, 자유서술 추론은 받되 채점하지는 않습니다.
 
-또한 작업 도중 난이도가 높아지면 더 성능이 높은 모델로 전환하는 방식도 적용했습니다. Cognition에 따르면 Fable 수준의 성능을 유지하면서 비용을 35% 절감했다고 합니다.</description><pubDate>Tue, 30 Jun 2026 01:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaMNkaAgryZ</guid></item><item><title>블로그 :
-https://cognition.com/blog/devin-fusion</title><link>https://www.threads.net/@choi.openai/post/DaMNm8RgvD7</link><description>블로그 :
-https://cognition.com/blog/devin-fusion</description><pubDate>Tue, 30 Jun 2026 01:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaMNm8RgvD7</guid></item><item><title>코덱스 한도 또 초기화..</title><link>https://www.threads.net/@choi.openai/post/DaMFEb5j58M</link><description>코덱스 한도 또 초기화..</description><pubDate>Mon, 29 Jun 2026 23:46:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaMFEb5j58M</guid></item><item><title>OpenClaw가 iOS와 안드로이드 앱을 공식 출시했습니다.
+LLM 심판도, 루브릭도 없습니다. 실제 과거 데이터로 만든 장기 생물학 벤치마크는 채점자가 임의로 정한 컷오프에 맞춘 답을 정답 처리하거나, 엉뚱한 분석도 우연히 통과시키는 약점이 있는데, 합성 데이터에 ablation까지 붙이면 올바른 분석 경로로 가야만 그 숫자가 나옵니다.
 
-이제 스마트폰에서도 에이전트를 실행하고, 작업 진행 상황을 확인하거나 응답을 이...</title><link>https://www.threads.net/@choi.openai/post/DaL_1C0CnUX</link><description>OpenClaw가 iOS와 안드로이드 앱을 공식 출시했습니다.
+며칠 전 GPT-5.6 Sol 출시 때 모델이 시험을 속이는 문제(METR 치팅·메타게이밍)가 컸는데, 이건 그 반대편에서 '속일 수 없는 시험'을 설계한 겁니다.</description><pubDate>Wed, 01 Jul 2026 02:47:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaO-pZMD5qE</guid></item><item><title>3/ 점수표에 'GPT-5.5에서 5.6으로 얼마나 늘었나'의 답이 있습니다.
 
-이제 스마트폰에서도 에이전트를 실행하고, 작업 진행 상황을 확인하거나 응답을 이어갈 수 있습니다.
+전체 129문제 최고 노력 기준으로 GPT-5.2가 4.9%, ...</title><link>https://www.threads.net/@choi.openai/post/DaO-qa_j5oV</link><description>3/ 점수표에 'GPT-5.5에서 5.6으로 얼마나 늘었나'의 답이 있습니다.
 
-스마트폰에서 모든 작업을 처리한다는 개념은 아니고 무거운 작업은 PC나 서버에서 계속 수행하고, 스마트폰은 진행 상황을 확인하거나 승인하고, 필요한 지시를 내리는 리모컨 역할에 가깝습니다.
+전체 129문제 최고 노력 기준으로 GPT-5.2가 4.9%, 5.4가 8.9%, 5.5가 12.0%, 그리고 GPT-5.6 Sol이 28.7%입니다.
 
-최근 Cursor, Codex, OpenClaw까지 모두 모바일 앱을 내놓는 이유도 여기에 있습니다. AI는 스마트폰 안에서 동작하는 것이 아니라, 항상 실행 중인 에이전트를 언제 어디서나 관리하는 방향으로 바뀌고 있습니다.</description><pubDate>Mon, 29 Jun 2026 23:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaL_1C0CnUX</guid></item></channel></rss>
+Pro 모드로는 5.5가 20.5%, Sol이 31.5%입니다. 한 세대에 점수가 두 배 넘게 뜁니다. 작은 형제들도 같이 올라서, 나노급 Luna가 16.5%, 미니급 Terra가 23.3%인데 나노 Luna조차 이전 플래그십이던 GPT-5.5(12%)를 넘습니다.
+GeneBench를 처음 만들 때 최고 모델 GPT-5가 5%도 못 넘었던 걸 생각하면 속도가 가파릅니다.
+
+코딩 점수는 포화에 가까워 차이가 잘 안 보이는데, 이 판단 시험에서는 세대 차이가 그대로 벌어집니다.</description><pubDate>Wed, 01 Jul 2026 02:47:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaO-qa_j5oV</guid></item><item><title>앤트로픽이 연구자를 위한 새로운 앱 'Claude Science'를 베타로 공개했습니다.
+
+Claude Science는 가설 수립부터 데이터 분...</title><link>https://www.threads.net/@choi.openai/post/DaOyXRugsGN</link><description>앤트로픽이 연구자를 위한 새로운 앱 'Claude Science'를 베타로 공개했습니다.
+
+Claude Science는 가설 수립부터 데이터 분석, 코드 실행, 결과 정리까지 연구 과정을 하나의 앱에서 지원하는 것이 특징입니다.
+생성된 결과는 어떤 코드에서 만들어졌는지 추적할 수 있고, 필요한 순간에만 실행 환경을 생성하며, 60개 이상의 과학 데이터베이스를 연결해 활용할 수 있습니다.
+
+AI가 업무를 넘어 연구 분야의 작업 방식도 바꾸기 시작한 모습입니다.</description><pubDate>Wed, 01 Jul 2026 01:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOyXRugsGN</guid></item><item><title>발표내용 :
+https://www.anthropic.com/news/claude-science-ai-workbench</title><link>https://www.threads.net/@choi.openai/post/DaOyZf1ApL4</link><description>발표내용 :
+https://www.anthropic.com/news/claude-science-ai-workbench</description><pubDate>Wed, 01 Jul 2026 01:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOyZf1ApL4</guid></item><item><title>🚨 속보) Mythos, Fable 5 내일 복구</title><link>https://www.threads.net/@choi.openai/post/DaOqvZsj3bv</link><description>🚨 속보) Mythos, Fable 5 내일 복구</description><pubDate>Tue, 30 Jun 2026 23:53:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOqvZsj3bv</guid></item><item><title>🚨 앤트로픽이 Claude Sonnet 5를 공개했습니다.
+
+Free·Pro의 기본 모델로 적용됐으며, 코딩과 에이전트 작업 성능이 Sonnet...</title><link>https://www.threads.net/@choi.openai/post/DaOiP1tE1ed</link><description>🚨 앤트로픽이 Claude Sonnet 5를 공개했습니다.
+
+Free·Pro의 기본 모델로 적용됐으며, 코딩과 에이전트 작업 성능이 Sonnet 4.6보다 크게 향상됐습니다. 다만 앤트로픽도 "Opus 4.8에 가까운 성능"이라고 설명했을 만큼 최상위 모델을 대체하는 수준은 아닙니다.
+
+눈에 띄는 점은 Fable 5나 Opus 5 대신 Sonnet 5만 공개됐다는 점입니다. 업계에서는 현재 프런티어 모델 공개와 규제 환경의 변화를 함께 보여주는 출시라는 평가가 나오고 있습니다.
+
+Claude Sonnet 5 출시에 대해 정리했습니다 🧵</description><pubDate>Tue, 30 Jun 2026 22:39:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOiP1tE1ed</guid></item><item><title>1/ Sonnet 5는 계획을 세우고, 브라우저와 터미널을 직접 쓰고, 자율로 작업을 끝까지 끌고 가는 모델입니다.
+
+앤트로픽은 '가장 에이전트...</title><link>https://www.threads.net/@choi.openai/post/DaOiQbSkw3a</link><description>1/ Sonnet 5는 계획을 세우고, 브라우저와 터미널을 직접 쓰고, 자율로 작업을 끝까지 끌고 가는 모델입니다.
+
+앤트로픽은 '가장 에이전트다운 Sonnet'이라 부릅니다. 오늘부터 Free·Pro의 기본 모델이고, Max·Team·Enterprise, Claude Code, API(claude-sonnet-5)까지 전 플랫폼에서 바로 씁니다.
+
+컨텍스트는 100만 토큰, effort 단계에 xhigh가 새로 붙어 Opus처럼 다섯 단계가 됐습니다. 가격은 인트로로 100만 토큰당 입력 2달러·출력 10달러(8월 31일까지), 이후 3·15달러입니다. Opus 4.8은 5·25달러입니다.
+
+발표 한 줄 요약은 'Opus 4.8에 가까운 성능을 더 싸게'입니다.</description><pubDate>Tue, 30 Jun 2026 22:39:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOiQbSkw3a</guid></item><item><title>2/ Sonnet 4.6과 비교하면 도약이 분명합니다.
+명령줄 작업 Terminal-Bench 2.1에서 80.4%로 9점, SWE-bench ...</title><link>https://www.threads.net/@choi.openai/post/DaOiRngk8pg</link><description>2/ Sonnet 4.6과 비교하면 도약이 분명합니다.
+명령줄 작업 Terminal-Bench 2.1에서 80.4%로 9점, SWE-bench Pro 63.2%로 이전 58.1%에서, Humanity's Last Exam 10점, SciCode 7점 올랐습니다.
+
+커서의 CursorBench는 49%에서 57%, APEX-SWE에서는 43.7%로 Opus 4.8 바로 뒤 3위입니다.
+
+웹을 끈질기게 뒤져 답을 찾는 BrowseComp, 데스크톱을 직접 조작하는 OSWorld 같은 에이전트 평가에서도 4.6을 넓게 앞섭니다. Sonnet은 개발자 사용량이 가장 많은 워크호스 티어라, 이번에도 추론 점수보다 도구·에이전트 능력에 집중했습니다.
+
+워크호스 티어 안에서는 분명한 세대 교체입니다.</description><pubDate>Tue, 30 Jun 2026 22:39:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOiRngk8pg</guid></item><item><title>3/ 앤트로픽 발표 문구부터 'Opus 4.8에 가깝다'지 넘었다가 아닙니다.
+
+독립 분석에서도 같습니다. Artificial Analysis의...</title><link>https://www.threads.net/@choi.openai/post/DaOiS8Ik-KI</link><description>3/ 앤트로픽 발표 문구부터 'Opus 4.8에 가깝다'지 넘었다가 아닙니다.
+
+독립 분석에서도 같습니다. Artificial Analysis의 지능 지수에서 Sonnet 5는 53점으로 5위, GPT-5.5와 Opus 4.8에 2~3점 뒤입니다.
+
+max effort로 4.6보다 6점 올라 GPT-5.5 수준에 닿았지만 Opus 4.7·4.8 아래입니다. 추론·지식이 무거운 쪽은 더 벌어져서, 프런티어 물리 추론 CritPt는 17%로 4.6보다 14점 올랐는데도 GLM-5.2·Opus·Fable·GPT-5.5에 다 밀립니다.
+
+Sonnet이 출시 때 당시 Opus를 앞선 적이 세 번 있었던 터라 '5'라는 이름에 도약을 기대한 사람이 많았는데, 이번엔 그 자리에 못 갔습니다.
+
+'5'를 달았지만 성능은 4.8 아래에 있습니다.</description><pubDate>Tue, 30 Jun 2026 22:40:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOiS8Ik-KI</guid></item></channel></rss>
