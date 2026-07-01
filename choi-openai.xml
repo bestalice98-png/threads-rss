@@ -1,74 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 01 Jul 2026 03:53:44 +0000</lastBuildDate><item><title>오픈AI가 GeneBench-Pro를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 01 Jul 2026 11:22:55 +0000</lastBuildDate><item><title>메모리 시장 움직임 예의주시 해야할 것 같습니다.
 
-생물학 데이터를 던져주고 어떻게 분석할지를 모델이 스스로 판단하게 하는 벤치마크인데, 가장...</title><link>https://www.threads.net/@choi.openai/post/DaO-nzAD0cf</link><description>오픈AI가 GeneBench-Pro를 공개했습니다.
+오픈AI가 일부 모델의 추론 비용을 소프트웨어만으로 절반 이상 줄였습니다.
+로그아웃 트래픽,...</title><link>https://www.threads.net/@choi.openai/post/DaPycSHD0yT</link><description>메모리 시장 움직임 예의주시 해야할 것 같습니다.
 
-생물학 데이터를 던져주고 어떻게 분석할지를 모델이 스스로 판단하게 하는 벤치마크인데, 가장 강한 GPT-5.6 Sol도 129문제 중 29%밖에 못 풉니다.
+오픈AI가 일부 모델의 추론 비용을 소프트웨어만으로 절반 이상 줄였습니다.
+로그아웃 트래픽, 그러니까 로그인 없이 쓰는 무료 사용자 전체가 이제 GPU 수백 개로 돌아간다고 합니다. 사용량은 최대인데 돈은 안 되던 구간이라 의미가 큽니다.
 
-무엇을 발표했고, 왜 지금 이걸 만들었고, 어디로 향하는지 정리했습니다 🧵</description><pubDate>Wed, 01 Jul 2026 02:47:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaO-nzAD0cf</guid></item><item><title>1/ GeneBench-Pro는 모델이 지저분한 생물학 데이터를 받아 직접 분석을 설계하는 능력을 재는 벤치마크입니다.
-유전체학·정량생물·중개의...</title><link>https://www.threads.net/@choi.openai/post/DaO-ohwD5Mv</link><description>1/ GeneBench-Pro는 모델이 지저분한 생물학 데이터를 받아 직접 분석을 설계하는 능력을 재는 벤치마크입니다.
-유전체학·정량생물·중개의학에 걸쳐 129문제, 10개 도메인, 21개 세부 도메인으로 짜였습니다. 각 문제는 실제 실험에서 나온 것 같은 messy 데이터와 짧은 맥락, 그리고 어떤 결정으로 이어지는 추정량 하나를 줍니다.
+추론 비용은 오픈AI 마진을 2024년 40%에서 2025년 33%로 끌어내린 주범입니다. 이걸 절반으로 줄이면 마진이 바로 오르고, 무료 한도 확대나 API 가격 인하 여력도 생깁니다.
 
-모델은 데이터를 탐색하고, 적절한 분석 경로를 고르고, 중간 점검을 거쳐 답을 내야 합니다. 사실을 외워 답하는 게 아니라, 오픈AI가 'research taste'라 부르는 판단을 재는 겁니다. 4월에 나온 GeneBench의 103문제 중 3개를 버리고 54개를 다시 설계한 뒤 29개를 더해 만든 강화판입니다.
+소문으로는 메모리 효율을 크게 높인 새 아키텍처도 곧 나온다고 하니, 경쟁 축이 GPU 물량에서 '칩당 토큰 효율'로 넘어갈 것 같습니다. 효율화가 나오면 메모리 수요 붕괴론이 붙지만, 제번스 역설처럼 싸지면 쓰임이 늘어 전체 수요는 커지는 구조로 발전해왔습니다.
 
-지식 시험이 아니라 판단 시험이라는 게 출발점입니다.</description><pubDate>Wed, 01 Jul 2026 02:47:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaO-ohwD5Mv</guid></item><item><title>2/ 이 벤치마크가 다른 건 풀이를 베끼거나 운으로 통과할 수 없게 만든 설계입니다.
+앞으로 이런 소식이 더 잦아질 텐데, 지금은 DRAM·HBM 값이 역대급이라 큰 발표 하나에 메모리주가 단기 출렁일 수 있습니다.</description><pubDate>Wed, 01 Jul 2026 10:20:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaPycSHD0yT</guid></item><item><title>Codex Pro 무료로 받는법 :</title><link>https://www.threads.net/@choi.openai/post/DaPwKKFCXv0</link><description>Codex Pro 무료로 받는법 :</description><pubDate>Wed, 01 Jul 2026 10:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaPwKKFCXv0</guid></item><item><title>참석 링크 :
+https://luma.com/cafecomputeicml</title><link>https://www.threads.net/@choi.openai/post/DaPwLGTCWrQ</link><description>참석 링크 :
+https://luma.com/cafecomputeicml</description><pubDate>Wed, 01 Jul 2026 10:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaPwLGTCWrQ</guid></item><item><title>아마존(AWS)이 10억 달러를 들여 FDE 조직을 새로 만든다고 발표했습니다.
 
-모든 문제를 합성으로 만들어, 데이터 생성 과정 전체와 ...</title><link>https://www.threads.net/@choi.openai/post/DaO-pZMD5qE</link><description>2/ 이 벤치마크가 다른 건 풀이를 베끼거나 운으로 통과할 수 없게 만든 설계입니다.
+엔지니어 수천 명을 고객사 안에 직접 넣어 몇 달 걸리던 AI...</title><link>https://www.threads.net/@choi.openai/post/DaPsvMrj3n_</link><description>아마존(AWS)이 10억 달러를 들여 FDE 조직을 새로 만든다고 발표했습니다.
 
-모든 문제를 합성으로 만들어, 데이터 생성 과정 전체와 인과 구조를 연구진이 직접 압니다. 그래서 파이썬 스크립트가 정답 필드를 정해진 허용오차 안에서 맞췄는지만 보고, 자유서술 추론은 받되 채점하지는 않습니다.
+엔지니어 수천 명을 고객사 안에 직접 넣어 몇 달 걸리던 AI 구축을 며칠로 줄이고, 끝나면 고객이 "스스로 운영"하게 만든다는 겁니다.
 
-LLM 심판도, 루브릭도 없습니다. 실제 과거 데이터로 만든 장기 생물학 벤치마크는 채점자가 임의로 정한 컷오프에 맞춘 답을 정답 처리하거나, 엉뚱한 분석도 우연히 통과시키는 약점이 있는데, 합성 데이터에 ablation까지 붙이면 올바른 분석 경로로 가야만 그 숫자가 나옵니다.
+그런데 이 모델의 원조인 팔란티어부터, 같은 걸 먼저 시작한 오픈AI·앤트로픽까지 실제로 벌어진 일은 반대에 가깝습니다.
+가트너는 2028년까지 기업의 70%가 FDE가 깔아준 AI를 스스로 못 굴려서 결국 손을 뗄 거라고 봅니다.
 
-며칠 전 GPT-5.6 Sol 출시 때 모델이 시험을 속이는 문제(METR 치팅·메타게이밍)가 컸는데, 이건 그 반대편에서 '속일 수 없는 시험'을 설계한 겁니다.</description><pubDate>Wed, 01 Jul 2026 02:47:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaO-pZMD5qE</guid></item><item><title>3/ 점수표에 'GPT-5.5에서 5.6으로 얼마나 늘었나'의 답이 있습니다.
+가장 강한 의존을 '자립'이라는 이름으로 파는 구조를, 왜 지금 클라우드·AI 업체가 일제히 꺼내 드는지 정리했습니다 🧵</description><pubDate>Wed, 01 Jul 2026 09:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaPsvMrj3n_</guid></item><item><title>1/ AWS가 만든 건 컨설팅이 아니라 '조직'입니다.
 
-전체 129문제 최고 노력 기준으로 GPT-5.2가 4.9%, ...</title><link>https://www.threads.net/@choi.openai/post/DaO-qa_j5oV</link><description>3/ 점수표에 'GPT-5.5에서 5.6으로 얼마나 늘었나'의 답이 있습니다.
+10억 달러를 넣어 수천 명 규모로 시작하고, 한 고객당 5~6명 단위 팀을 붙입니다....</title><link>https://www.threads.net/@choi.openai/post/DaPsvx5j-FJ</link><description>1/ AWS가 만든 건 컨설팅이 아니라 '조직'입니다.
 
-전체 129문제 최고 노력 기준으로 GPT-5.2가 4.9%, 5.4가 8.9%, 5.5가 12.0%, 그리고 GPT-5.6 Sol이 28.7%입니다.
+10억 달러를 넣어 수천 명 규모로 시작하고, 한 고객당 5~6명 단위 팀을 붙입니다. 자기들이 AWS AI 서비스를 직접 만든 프런티어 팀 엔지니어를 고객의 사업·엔지니어링·보안 팀 안에 넣어, 고객 데이터와 거버넌스 위에서 바로 프로덕션 AI를 만듭니다.
 
-Pro 모드로는 5.5가 20.5%, Sol이 31.5%입니다. 한 세대에 점수가 두 배 넘게 뜁니다. 작은 형제들도 같이 올라서, 나노급 Luna가 16.5%, 미니급 Terra가 23.3%인데 나노 Luna조차 이전 플래그십이던 GPT-5.5(12%)를 넘습니다.
-GeneBench를 처음 만들 때 최고 모델 GPT-5가 5%도 못 넘었던 걸 생각하면 속도가 가파릅니다.
+발표에서 세 가지를 강조했습니다.
 
-코딩 점수는 포화에 가까워 차이가 잘 안 보이는데, 이 판단 시험에서는 세대 차이가 그대로 벌어집니다.</description><pubDate>Wed, 01 Jul 2026 02:47:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaO-qa_j5oV</guid></item><item><title>앤트로픽이 연구자를 위한 새로운 앱 'Claude Science'를 베타로 공개했습니다.
+에이전트가 에이전트를 만들고, 몇 달을 며칠로 줄이고, 끝날 때 고객이 자립한다.
 
-Claude Science는 가설 수립부터 데이터 분...</title><link>https://www.threads.net/@choi.openai/post/DaOyXRugsGN</link><description>앤트로픽이 연구자를 위한 새로운 앱 'Claude Science'를 베타로 공개했습니다.
+청구 시간이 아니라 성과에 묶는다며 기존 컨설팅과 다르다는 점을 반복했습니다. 이미 NFL·NBA·사우스웨스트항공·콕스오토모티브·리코·앨런연구소가 붙어 있습니다.</description><pubDate>Wed, 01 Jul 2026 09:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaPsvx5j-FJ</guid></item><item><title>2/ FDE는 아마존이 만든 말이 아닙니다. 팔란티어가 2010년대 초에 만들었습니다.
 
-Claude Science는 가설 수립부터 데이터 분석, 코드 실행, 결과 정리까지 연구 과정을 하나의 앱에서 지원하는 것이 특징입니다.
-생성된 결과는 어떤 코드에서 만들어졌는지 추적할 수 있고, 필요한 순간에만 실행 환경을 생성하며, 60개 이상의 과학 데이터베이스를 연결해 활용할 수 있습니다.
+정보기관 고객이 뭘 원하는지 설명하지도, 데이터를 열어...</title><link>https://www.threads.net/@choi.openai/post/DaPswo8D9cc</link><description>2/ FDE는 아마존이 만든 말이 아닙니다. 팔란티어가 2010년대 초에 만들었습니다.
 
-AI가 업무를 넘어 연구 분야의 작업 방식도 바꾸기 시작한 모습입니다.</description><pubDate>Wed, 01 Jul 2026 01:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOyXRugsGN</guid></item><item><title>발표내용 :
-https://www.anthropic.com/news/claude-science-ai-workbench</title><link>https://www.threads.net/@choi.openai/post/DaOyZf1ApL4</link><description>발표내용 :
-https://www.anthropic.com/news/claude-science-ai-workbench</description><pubDate>Wed, 01 Jul 2026 01:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOyZf1ApL4</guid></item><item><title>🚨 속보) Mythos, Fable 5 내일 복구</title><link>https://www.threads.net/@choi.openai/post/DaOqvZsj3bv</link><description>🚨 속보) Mythos, Fable 5 내일 복구</description><pubDate>Tue, 30 Jun 2026 23:53:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOqvZsj3bv</guid></item><item><title>🚨 앤트로픽이 Claude Sonnet 5를 공개했습니다.
+정보기관 고객이 뭘 원하는지 설명하지도, 데이터를 열어주지도 못하니까, 요구사항을 받는 대신 엔지니어를 고객 안에 넣어 직접 보고 만들게 한 겁니다.
 
-Free·Pro의 기본 모델로 적용됐으며, 코딩과 에이전트 작업 성능이 Sonnet...</title><link>https://www.threads.net/@choi.openai/post/DaOiP1tE1ed</link><description>🚨 앤트로픽이 Claude Sonnet 5를 공개했습니다.
+2016년에는 팔란티어 안에서 FDE가 일반 소프트웨어 엔지니어보다 많아졌습니다.
 
-Free·Pro의 기본 모델로 적용됐으며, 코딩과 에이전트 작업 성능이 Sonnet 4.6보다 크게 향상됐습니다. 다만 앤트로픽도 "Opus 4.8에 가까운 성능"이라고 설명했을 만큼 최상위 모델을 대체하는 수준은 아닙니다.
+중요한 건 그다음입니다. 본사 엔지니어가 FDE들이 현장에서 만든 해법을 모아 패턴을 찾고, 그걸 표준 기능으로 제품에 굳힙니다.
 
-눈에 띄는 점은 Fable 5나 Opus 5 대신 Sonnet 5만 공개됐다는 점입니다. 업계에서는 현재 프런티어 모델 공개와 규제 환경의 변화를 함께 보여주는 출시라는 평가가 나오고 있습니다.
+현장에 사람을 넣어 고객의 진짜 업무를 학습하고, 그 학습을 제품으로 회수하는 장치입니다. 지금 오픈AI·앤트로픽·세일즈포스·데이터브릭스·스트라이프가 전부 이걸 베끼고 있습니다.</description><pubDate>Wed, 01 Jul 2026 09:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaPswo8D9cc</guid></item><item><title>3/ 이걸 지금 다 같이 꺼내는 이유는 도입이 안 되기 때문입니다.
 
-Claude Sonnet 5 출시에 대해 정리했습니다 🧵</description><pubDate>Tue, 30 Jun 2026 22:39:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOiP1tE1ed</guid></item><item><title>1/ Sonnet 5는 계획을 세우고, 브라우저와 터미널을 직접 쓰고, 자율로 작업을 끝까지 끌고 가는 모델입니다.
+MIT가 2025년에 기업 350곳과 실제 배포 300건을 뜯어보니, 생성...</title><link>https://www.threads.net/@choi.openai/post/DaPsxIvDyFY</link><description>3/ 이걸 지금 다 같이 꺼내는 이유는 도입이 안 되기 때문입니다.
 
-앤트로픽은 '가장 에이전트...</title><link>https://www.threads.net/@choi.openai/post/DaOiQbSkw3a</link><description>1/ Sonnet 5는 계획을 세우고, 브라우저와 터미널을 직접 쓰고, 자율로 작업을 끝까지 끌고 가는 모델입니다.
+MIT가 2025년에 기업 350곳과 실제 배포 300건을 뜯어보니, 생성형 AI 파일럿의 95%가 손익에 잡히는 성과를 못 냈습니다.
 
-앤트로픽은 '가장 에이전트다운 Sonnet'이라 부릅니다. 오늘부터 Free·Pro의 기본 모델이고, Max·Team·Enterprise, Claude Code, API(claude-sonnet-5)까지 전 플랫폼에서 바로 씁니다.
+성공한 5%와 나머지를 가른 게 자체 구축이냐 구매냐였습니다.
 
-컨텍스트는 100만 토큰, effort 단계에 xhigh가 새로 붙어 Opus처럼 다섯 단계가 됐습니다. 가격은 인트로로 100만 토큰당 입력 2달러·출력 10달러(8월 31일까지), 이후 3·15달러입니다. Opus 4.8은 5·25달러입니다.
+외부에서 사서 파트너와 붙인 경우가 약 66% 성공, 자체 구축은 그 3분의 1 수준. 모델은 똑똑해졌는데 회사 업무에 얹는 일이 안 된 겁니다.
 
-발표 한 줄 요약은 'Opus 4.8에 가까운 성능을 더 싸게'입니다.</description><pubDate>Tue, 30 Jun 2026 22:39:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOiQbSkw3a</guid></item><item><title>2/ Sonnet 4.6과 비교하면 도약이 분명합니다.
-명령줄 작업 Terminal-Bench 2.1에서 80.4%로 9점, SWE-bench ...</title><link>https://www.threads.net/@choi.openai/post/DaOiRngk8pg</link><description>2/ Sonnet 4.6과 비교하면 도약이 분명합니다.
-명령줄 작업 Terminal-Bench 2.1에서 80.4%로 9점, SWE-bench Pro 63.2%로 이전 58.1%에서, Humanity's Last Exam 10점, SciCode 7점 올랐습니다.
+'모델이 할 수 있다'와 '우리 워크플로에서 돌아간다' 사이의 간격, 그 간격에 업체가 자기 인력을 밀어 넣는 게 FDE입니다.</description><pubDate>Wed, 01 Jul 2026 09:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaPsxIvDyFY</guid></item><item><title>앤트로픽이 'Claude Managed Agents'를 업데이트했습니다.
 
-커서의 CursorBench는 49%에서 57%, APEX-SWE에서는 43.7%로 Opus 4.8 바로 뒤 3위입니다.
+세션별로 모델, 시스템 프롬프트, 도구, MCP 서버, 스킬 등을 변...</title><link>https://www.threads.net/@choi.openai/post/DaPiY-CEpaW</link><description>앤트로픽이 'Claude Managed Agents'를 업데이트했습니다.
 
-웹을 끈질기게 뒤져 답을 찾는 BrowseComp, 데스크톱을 직접 조작하는 OSWorld 같은 에이전트 평가에서도 4.6을 넓게 앞섭니다. Sonnet은 개발자 사용량이 가장 많은 워크호스 티어라, 이번에도 추론 점수보다 도구·에이전트 능력에 집중했습니다.
+세션별로 모델, 시스템 프롬프트, 도구, MCP 서버, 스킬 등을 변경할 수 있는 'Agent Overrides' 기능이 추가됐고, 스트리밍 이벤트와 새로운 웹훅 이벤트도 지원합니다.
 
-워크호스 티어 안에서는 분명한 세대 교체입니다.</description><pubDate>Tue, 30 Jun 2026 22:39:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOiRngk8pg</guid></item><item><title>3/ 앤트로픽 발표 문구부터 'Opus 4.8에 가깝다'지 넘었다가 아닙니다.
-
-독립 분석에서도 같습니다. Artificial Analysis의...</title><link>https://www.threads.net/@choi.openai/post/DaOiS8Ik-KI</link><description>3/ 앤트로픽 발표 문구부터 'Opus 4.8에 가깝다'지 넘었다가 아닙니다.
-
-독립 분석에서도 같습니다. Artificial Analysis의 지능 지수에서 Sonnet 5는 53점으로 5위, GPT-5.5와 Opus 4.8에 2~3점 뒤입니다.
-
-max effort로 4.6보다 6점 올라 GPT-5.5 수준에 닿았지만 Opus 4.7·4.8 아래입니다. 추론·지식이 무거운 쪽은 더 벌어져서, 프런티어 물리 추론 CritPt는 17%로 4.6보다 14점 올랐는데도 GLM-5.2·Opus·Fable·GPT-5.5에 다 밀립니다.
-
-Sonnet이 출시 때 당시 Opus를 앞선 적이 세 번 있었던 터라 '5'라는 이름에 도약을 기대한 사람이 많았는데, 이번엔 그 자리에 못 갔습니다.
-
-'5'를 달았지만 성능은 4.8 아래에 있습니다.</description><pubDate>Tue, 30 Jun 2026 22:40:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaOiS8Ik-KI</guid></item></channel></rss>
+또한 Console에 'Observability' 탭이 추가되어 세션별 입력·출력 토큰 사용량과 도구 사용 현황을 확인할 수 있게 됐습니다.
+에이전트 운영과 모니터링이 한층 편리해질 것으로 보입니다.</description><pubDate>Wed, 01 Jul 2026 08:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaPiY-CEpaW</guid></item></channel></rss>
