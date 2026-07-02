@@ -1,57 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 02 Jul 2026 03:35:13 +0000</lastBuildDate><item><title>Cognition이 'Devin Security Swarm'을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 02 Jul 2026 10:38:48 +0000</lastBuildDate><item><title>NVIDIA가 ProtoMotions 업데이트를 공개했습니다.
 
-대규모 코드 저장소의 보안 취약점을 찾기 위해 'Agentic M...</title><link>https://www.threads.net/@choi.openai/post/DaRoWQaCUCY</link><description>Cognition이 'Devin Security Swarm'을 공개했습니다.
+핵심은 GPC(Generative Pretrained Controllers)입니...</title><link>https://www.threads.net/@choi.openai/post/DaSOHNIkuQ6</link><description>NVIDIA가 ProtoMotions 업데이트를 공개했습니다.
 
-대규모 코드 저장소의 보안 취약점을 찾기 위해 'Agentic MapReduce' 구조를 적용한 것이 특징인데요.
+핵심은 GPC(Generative Pretrained Controllers)입니다. 대규모 사람의 움직임 데이터를 먼저 학습한 뒤, 새로운 작업에도 빠르게 적응할 수 있는 모션 제어기인데요.
 
-테스트에서는 실제 'GHSA' 취약점 50건 중 36건을 찾아냈고, 기존 정확도 상위 도구보다 발견당 비용도 약 30% 낮았다고 합니다.
+예를 들어 로봇이나 게임 캐릭터가 밀려도 균형을 잡고, 넘어져도 손을 짚고 다시 일어나는 동작을 별도의 규칙 없이 자연스럽게 수행할 수 있습니다. 기존처럼 걷기, 달리기, 일어나기 등을 각각 따로 개발하는 대신, 다양한 움직임을 미리 학습해 여러 작업에 활용하는 방식입니다.
 
-취약점 탐지부터 실제 악용 가능성 검증, 수정 PR 생성까지 지원합니다.</description><pubDate>Thu, 02 Jul 2026 03:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaRoWQaCUCY</guid></item><item><title>NVIDIA Research가 'Nemotron-Labs-TwoTower'를 공개했습니다.
+이번 업데이트에서는 실시간 키보드 제어와 모듈화된 코드 구조도 함께 추가되어 연구와 개발에 활용하기 쉬워졌습니다.</description><pubDate>Thu, 02 Jul 2026 09:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaSOHNIkuQ6</guid></item><item><title>발표내용 :
+https://nvlabs.github.io/ProtoMotions/</title><link>https://www.threads.net/@choi.openai/post/DaSOIVYkrCa</link><description>발표내용 :
+https://nvlabs.github.io/ProtoMotions/</description><pubDate>Thu, 02 Jul 2026 09:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaSOIVYkrCa</guid></item><item><title>벌써부터 Fable 5의 미친 사례들이 등장하고 있습니다.
 
-기존 'Nemotron-3-Nano-30B-A3B'...</title><link>https://www.threads.net/@choi.openai/post/DaReFsUCjQF</link><description>NVIDIA Research가 'Nemotron-Labs-TwoTower'를 공개했습니다.
+출시 직후인데도 GTA 6 스타일 게임, 호그와트 비행, 3D 지구 대시보드, 보트...</title><link>https://www.threads.net/@choi.openai/post/DaR9VDAD1BR</link><description>벌써부터 Fable 5의 미친 사례들이 등장하고 있습니다.
 
-기존 'Nemotron-3-Nano-30B-A3B'를 처음부터 다시 학습하지 않고, 모델을 두 개의 역할로 나눠 한쪽은 문맥을 유지하고 다른 한쪽은 토큰을 병렬로 생성하는 방식입니다.
+출시 직후인데도 GTA 6 스타일 게임, 호그와트 비행, 3D 지구 대시보드, 보트 시뮬레이션까지 텍스트 지시만으로 만들어지고 있습니다.
 
-그 결과 기존 모델 성능의 98.7%를 유지하면서 생성 속도는 약 2.42배 빨라졌다고 합니다. 해당 모델은 허깅페이스에서 이용 가능하며, 관련 논문도 함께 공개되었습니다.</description><pubDate>Thu, 02 Jul 2026 02:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaReFsUCjQF</guid></item><item><title>허깅페이스 :
-https://huggingface.co/nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16</title><link>https://www.threads.net/@choi.openai/post/DaReH6KiqfD</link><description>허깅페이스 :
-https://huggingface.co/nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16</description><pubDate>Thu, 02 Jul 2026 02:01:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaReH6KiqfD</guid></item><item><title>메타가 남는 AI 컴퓨트를 파는 클라우드 사업을 준비 중입니다.
-자체 모델을 빌려주는 베드록형과 원(raw) GPU를 빌려주는 코어위브형 두 갈...</title><link>https://www.threads.net/@choi.openai/post/DaRTVtvj3_J</link><description>메타가 남는 AI 컴퓨트를 파는 클라우드 사업을 준비 중입니다.
-자체 모델을 빌려주는 베드록형과 원(raw) GPU를 빌려주는 코어위브형 두 갈래죠.
-이 소식에 메타는 뛰고, 메타에 수십억 달러어치 GPU를 대던 코어위브가 10.8%, 네비우스가 12.4% 급락했습니다. 최대 고객이 하루아침에 경쟁자가 됐으니까요.
+지금 가장 놀라운 Fable 5 활용 사례들을 모았습니다 🧵</description><pubDate>Thu, 02 Jul 2026 06:33:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaR9VDAD1BR</guid></item><item><title>1/ 클래시 오브 클랜(Clash of Clans) 스타일 전략 게임을 텍스트 지시만으로 구현했습니다.
 
-사실 이건 자백에 가깝습니다. 올해 AI capex를 1,250~1,450억 달러까지 올렸지만, 구글·오픈AI와 달리 메타는 자체 AI 수요가 뚜렷하지 않습니다.
-내부에서 다 소화 못 한 물량을 팔아 'capex가 매출로 돌아온다'는 답을 투자자에게 내민 겁니다. 과잉투자한 쪽이 임대인으로 도는 반대편 장면입니다.
+데모 수준만 요청했는데도 게임 구조를 ...</title><link>https://www.threads.net/@choi.openai/post/DaR8WeNDjGh</link><description>1/ 클래시 오브 클랜(Clash of Clans) 스타일 전략 게임을 텍스트 지시만으로 구현했습니다.
 
-다만 이 임대 경쟁의 진짜 상한선은 전력입니다. 전력망 연결에만 3년 넘게 걸려서, 메타조차 루이지애나에 100억 달러 캠퍼스를 세우고 전력을 직접 조달하려 합니다.
-결국 희소 자원은 GPU에서 메가와트로 넘어가고, 전력을 쥔 쪽이 이 시장을 가져갑니다.</description><pubDate>Thu, 02 Jul 2026 00:27:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaRTVtvj3_J</guid></item><item><title>와.. 구글이 엑셀 표 같은 데이터를 그대로 넣으면 예측을 내주는 모델 TabFM을 공개했습니다.
+데모 수준만 요청했는데도 게임 구조를 만들고, 필요한 게임 에셋까지 자동으로 적용했습니다.
 
-'이 고객이 이탈할까', '이 거래가 사기일...</title><link>https://www.threads.net/@choi.openai/post/DaRLc6Skzqt</link><description>와.. 구글이 엑셀 표 같은 데이터를 그대로 넣으면 예측을 내주는 모델 TabFM을 공개했습니다.
+x@ChrissGPT</description><pubDate>Thu, 02 Jul 2026 06:34:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaR8WeNDjGh</guid></item><item><title>2/ 호그와트(Hogwarts)를 자유롭게 탐험하고 빗자루를 타고 비행할 수 있는 3D 게임을 만들었습니다.
 
-'이 고객이 이탈할까', '이 거래가 사기일까', '이 집은 얼마에 팔릴까' 같은 예측을, 한 번도 본 적 없는 표에 대해 학습 없이 바로 내놓습니다. 원래 이런 일은 데이터 사이언티스트가 표 하나마다 모델을 새로 튜닝해가며 며칠씩 붙잡던 작업인데, TimesFM을 만든 구글 팀이 그 과정을 통째로 건너뛰게 만든 겁니다.
+게임 에셋까지 자동으로 생성해 브...</title><link>https://www.threads.net/@choi.openai/post/DaR8cCfHKzw</link><description>2/ 호그와트(Hogwarts)를 자유롭게 탐험하고 빗자루를 타고 비행할 수 있는 3D 게임을 만들었습니다.
 
-그런데 리더보드 1등을 찍은 구성은 '한 번에 끝'이 아니라 32개를 앙상블한 버전이고, 오픈으로 풀린 가중치는 상업적으로 쓸 수 없습니다.
+게임 에셋까지 자동으로 생성해 브라우저에서 바로 플레이할 수 있습니다.
 
-발표 내용을 정리했습니다 🧵</description><pubDate>Wed, 01 Jul 2026 23:18:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaRLc6Skzqt</guid></item><item><title>1/ 회사가 다루는 데이터의 대부분은 엑셀이나 데이터베이스에 든 표입니다.
+x@mattshumer_</description><pubDate>Thu, 02 Jul 2026 06:34:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaR8cCfHKzw</guid></item><item><title>3/ 강화학습으로 학습한 3D 생명체에 털과 음성을 추가해, 신경망 상태에 따라 목소리가 달라지는 캐릭터를 구현했습니다.
 
-행은 고객·거래·환자 같은 한 건 한 건이고, 열은 나이·소득·구매...</title><link>https://www.threads.net/@choi.openai/post/DaRLdiHE9L_</link><description>1/ 회사가 다루는 데이터의 대부분은 엑셀이나 데이터베이스에 든 표입니다.
+Fable 5를 활용...</title><link>https://www.threads.net/@choi.openai/post/DaR8gmaDrHx</link><description>3/ 강화학습으로 학습한 3D 생명체에 털과 음성을 추가해, 신경망 상태에 따라 목소리가 달라지는 캐릭터를 구현했습니다.
 
-행은 고객·거래·환자 같은 한 건 한 건이고, 열은 나이·소득·구매액 같은 속성입니다. 여기서 하는 예측은 크게 둘입니다.
+Fable 5를 활용해 외형과 음성까지 자연스럽게 연결한 인터랙티브 생명체를 만들었습니다.
 
-이 고객이 이탈할지 같은 '예·아니오/범주' 맞히기가 분류고, 이 집이 얼마에 팔릴지 같은 '숫자' 맞히기가 회귀입니다.
+x@aaronlemke</description><pubDate>Thu, 02 Jul 2026 06:34:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaR8gmaDrHx</guid></item><item><title>팔란티어 CEO 알렉스 카프(Alex Karp)는 기업들이 AI 모델보다 “연산 제어권, 자체 데이터 스택, 그리고 자사의 알파(우위)”를 직접...</title><link>https://www.threads.net/@choi.openai/post/DaR2ErsEYxl</link><description>팔란티어 CEO 알렉스 카프(Alex Karp)는 기업들이 AI 모델보다 “연산 제어권, 자체 데이터 스택, 그리고 자사의 알파(우위)”를 직접 통제하고 소유하길 원한다고 강조했습니다.
 
-사기 탐지, 이탈 예측, 수요 예측처럼 기업이 실제로 굴리는 예측 업무 상당수가 이 표 위에서 벌어집니다.</description><pubDate>Wed, 01 Jul 2026 23:18:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaRLdiHE9L_</guid></item><item><title>2/ 이 표에 예측을 붙이는 도구는 오랫동안 XGBoost 같은 트리 모델이었습니다.
+그는 단순히 토큰 사용료만 내고 핵심 우위를 제3자에게 넘겨주는 방식은 지속 가능하지 않다고 지적했습니다. AI 시장에서 실제로 수익을 내는 곳은 결국 연산 인프라와 애플리케이션 레이어뿐이라는 분석입니다.
 
-문제는 표 하나에 모델 하나를 새로 맞춰야 한다는 점입니...</title><link>https://www.threads.net/@choi.openai/post/DaRLeBHk9bx</link><description>2/ 이 표에 예측을 붙이는 도구는 오랫동안 XGBoost 같은 트리 모델이었습니다.
+카프는 오픈소스 모델과 자사 기술을 결합하면 프런티어 모델급의 성능을 내면서도 데이터 유출 위험을 없앨 수 있다며, “우리는 AI 모델 없이도 현실의 물리 법칙과 비즈니스를 시뮬레이션하는 세계 모델을 통제할 수 있어야 한다”고 말했습니다.
 
-문제는 표 하나에 모델 하나를 새로 맞춰야 한다는 점입니다. 데이터 사이언티스트가 표마다 모델을 고르고, 성능을 끌어올리려고 수많은 설정값(하이퍼파라미터)을 바꿔가며 돌려보고, 원본 열을 조합해 새 열을 만드는 피처 엔지니어링까지 손으로 합니다.
-
-표가 바뀌면 이걸 처음부터 다시 합니다. 코드 한 줄로 끝나는 게 아니라, 표 한 장마다 몇 시간에서 며칠이 드는 프로젝트였던 겁니다.
-
-트랜스포머 계열의 표 예측 모델이 나와도 실무자들이 결국 XGBoost+Optuna로 돌아갔던 것도, 이 조합이 그 수고 대비 가장 안정적으로 성능을 냈기 때문입니다.</description><pubDate>Wed, 01 Jul 2026 23:18:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaRLeBHk9bx</guid></item><item><title>3/ TabFM은 그 수고를 없앱니다. 학습을 이미 끝낸 모델 하나에 내 표(정답이 붙은 훈련용 행 + 예측할 행)를 통째로 집어넣으면, 모델을...</title><link>https://www.threads.net/@choi.openai/post/DaRLegPk0Wy</link><description>3/ TabFM은 그 수고를 없앱니다. 학습을 이미 끝낸 모델 하나에 내 표(정답이 붙은 훈련용 행 + 예측할 행)를 통째로 집어넣으면, 모델을 다시 학습시키지 않고 그 자리에서 답을 냅니다.
-
-ChatGPT에 예시 몇 개를 붙여 새 질문을 시키면 바로 답을 내놓는 것과 같은 방식(in-context learning)을, 표 전체를 예시로 넣어서 하는 겁니다.
-
-그래서 표마다 며칠씩 튜닝하던 일이, 표를 넣고 한 번 돌리는 일로 바뀝니다.
-
-새 표가 와도 다시 학습할 필요가 없고요. 실제로 900행 남짓한 작은 데이터에 돌려보니 손대던 트리 모델들을 전부 앞섰다는 후기도 벌써 나옵니다.</description><pubDate>Wed, 01 Jul 2026 23:18:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaRLegPk0Wy</guid></item></channel></rss>
+특히 안보 분야에서 실리콘밸리의 기술 권력에 의존하는 것에 대해 강한 경종을 울렸습니다.</description><pubDate>Thu, 02 Jul 2026 05:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaR2ErsEYxl</guid></item><item><title>🚨오픈AI가 지분 최대 5%를 미국 정부에 넘긴다는 보도가 나왔습니다.
+강제로 뺏기는 건 아닙니다. 오픈AI가 지분을 '기부'해 전 국민이 AI...</title><link>https://www.threads.net/@choi.openai/post/DaRthItjx-0</link><description>🚨오픈AI가 지분 최대 5%를 미국 정부에 넘긴다는 보도가 나왔습니다.
+강제로 뺏기는 건 아닙니다. 오픈AI가 지분을 '기부'해 전 국민이 AI 성장의 몫을 갖는 '공공부 펀드'를 씨딩하는 구조죠.
+오픈AI 밸류 기준 5%면 426억 달러어치를 무상으로 내놓는 겁니다.
+봐야 할 건 이게 알트만의 정치 보험이라는 점입니다. 버니 샌더스가 AI 기업에 일회성 50% 지분세를 매기자는 법안까지 낸 상황에서, 먼저 몇 %를 '국민 몫'으로 내주면 'AI가 부를 독식한다'는 역풍을 누그러뜨리고 규제 방패까지 얻습니다.
+트럼프 정부는 이미 인텔 지분 10%를 가져간 전례가 있어, AI도 반도체·핵처럼 국가 안보 자산으로 편입되는 흐름이죠.
+다만 양날입니다. 정부가 주주가 되면 회사 방향에 공식 개입할 통로가 생기고, 앤트로픽·xAI와의 형평성·특혜 논란도 따라붙습니다.
+전에 정부와 프론티어 AI가 엮이면 곧 장기 락인이 된다고 짚었는데, 이번엔 그 결합이 지분으로 한 단계 더 굳어집니다.</description><pubDate>Thu, 02 Jul 2026 04:15:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaRthItjx-0</guid></item></channel></rss>
