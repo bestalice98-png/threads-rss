@@ -1,68 +1,60 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 03 Jul 2026 02:57:01 +0000</lastBuildDate><item><title>앤트로픽이 Fable 5를 전 세계에 다시 풀면서, AI 탈옥에 점수를 매기는 표를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 03 Jul 2026 10:35:12 +0000</lastBuildDate><item><title>엔비디아와 이 추론·배포 시장이 다시 크게 주목받을 가능성이 높다고 본다. 🧵</title><link>https://www.threads.net/@choi.openai/post/DaU5ldQD-GZ</link><description>엔비디아와 이 추론·배포 시장이 다시 크게 주목받을 가능성이 높다고 본다. 🧵</description><pubDate>Fri, 03 Jul 2026 09:58:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaU5ldQD-GZ</guid></item><item><title>1/ 6월 앤트로픽 미토스 계열이 나온 뒤 상위 모델 격차가 다시 벌어졌습니다.
+미토스에 안전장치를 붙인 Fable 5가 KernelBench에...</title><link>https://www.threads.net/@choi.openai/post/DaU5l-9D1Fa</link><description>1/ 6월 앤트로픽 미토스 계열이 나온 뒤 상위 모델 격차가 다시 벌어졌습니다.
+미토스에 안전장치를 붙인 Fable 5가 KernelBench에서 GPU 커널을 직접 짜 레퍼런스 대비 18.7배를 냈고, Opus 4.8은 14.4배, GLM-5.2 11.1배, GPT-5.5는 4.3배였습니다.
 
-소프트웨어 취약점을 등급 매기는 CVSS를 ...</title><link>https://www.threads.net/@choi.openai/post/DaUHSP9j7EO</link><description>앤트로픽이 Fable 5를 전 세계에 다시 풀면서, AI 탈옥에 점수를 매기는 표를 공개했습니다.
+코딩·커널·에이전트처럼 실제로 끝까지 풀어야 하는 벤치에서 상위 모델은 여전히 격차를 벌립니다. 점수가 몰리는 건 아레나 같은 선호도 벤치이고, 실제 문제 벤치는 그렇지 않습니다.
 
-소프트웨어 취약점을 등급 매기는 CVSS를 그대로 AI 탈옥으로 옮긴 건데, 여기 이상한 게 있습니다. 똑같은 모델이 똑같은 행동을 해도 2021년이면 위험도 만점, 지금이면 0점입니다. 모델이 달라진 게 아니라 세상이 달라졌기 때문입니다.
+발전 축은 모델 크기에서 추론 시간으로 옮겨갔습니다. 같은 모델도 더 오래 생각하게 하면 성능이 오릅니다. 이 발전이 소비자 체감이나 금세 포화되는 벤치에는 잘 안 잡히고, 신약·과학 같은 결과는 시간이 더 걸립니다.
 
-무엇을 공개했고, 이 '0점과 만점' 사이에 AI 안전의 새 기준이 어떻게 들어 있는지 정리했습니다 🧵</description><pubDate>Fri, 03 Jul 2026 02:39:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUHSP9j7EO</guid></item><item><title>1/ 이번에 앤트로픽이 내놓은 건 두 가지입니다.
+시장은 그 결과를 지금 보고 싶어 합니다. 발전 속도와 시장의 인내심 사이 시차, 그게 지금 구조입니다.</description><pubDate>Fri, 03 Jul 2026 09:59:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaU5l-9D1Fa</guid></item><item><title>2/ 소비자 시장은 대부분 무료로 굳었습니다.
+미국 소비자 잉여가 연 1,720억 달러로 1년 만에 1,120억 달러에서 뛰었는데, 그 대부분이...</title><link>https://www.threads.net/@choi.openai/post/DaU5nDGD8Rm</link><description>2/ 소비자 시장은 대부분 무료로 굳었습니다.
+미국 소비자 잉여가 연 1,720억 달러로 1년 만에 1,120억 달러에서 뛰었는데, 그 대부분이 무료이거나 무료에 가깝습니다.
 
-하나는 Fable 5의 사이버 분류기가 정확히 뭘 막고 뭘 안 막는지를 네 범주로 상세 공개...</title><link>https://www.threads.net/@choi.openai/post/DaUHS2-j3r4</link><description>1/ 이번에 앤트로픽이 내놓은 건 두 가지입니다.
+이 규모의 투자를 소비자 지출만으로는 회수할 수 없습니다. 그래서 돈이 되는 다음 시장은 기업입니다. 2026년 기업 AI 지출은 파일럿에서 ROI 측정으로, 일반 성능에서 워크플로우 통합·거버넌스로 무게가 옮겨가고 있습니다.</description><pubDate>Fri, 03 Jul 2026 09:59:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaU5nDGD8Rm</guid></item><item><title>3/ 그래서 AI 회사들이 일제히 현장으로 내려오고 있습니다.
 
-하나는 Fable 5의 사이버 분류기가 정확히 뭘 막고 뭘 안 막는지를 네 범주로 상세 공개한 것, 다른 하나는 탈옥의 심각도를 점수화하는 프레임워크 초안입니다.
+AWS가 10억 달러를 들여 FDE 조직을, 마이크로소프트가 25억 달러에 6,...</title><link>https://www.threads.net/@choi.openai/post/DaU5oApj1NH</link><description>3/ 그래서 AI 회사들이 일제히 현장으로 내려오고 있습니다.
 
-Fable 5는 6월에 미국 수출통제로 2주간 전 세계에서 꺼졌다가 지난주 다시 풀린 그 모델입니다. 왜 꺼졌는지는 이미 정리했으니, 이번엔 앤트로픽이 그 대가로 무엇을 어떻게 막기로 했는지에 초점을 뒀습니다.</description><pubDate>Fri, 03 Jul 2026 02:39:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUHS2-j3r4</guid></item><item><title>2/ 사이버가 안전장치를 만들기 특히 어려운 이유는 이중용도이기 때문입니다.
-자기 코드베이스를 스캔해 취약점을 찾는 방어 작업과, 공격 직전의 ...</title><link>https://www.threads.net/@choi.openai/post/DaUHTiOD4wc</link><description>2/ 사이버가 안전장치를 만들기 특히 어려운 이유는 이중용도이기 때문입니다.
-자기 코드베이스를 스캔해 취약점을 찾는 방어 작업과, 공격 직전의 정찰이 사실상 같은 능력입니다. 그래서 사이버를 전부 막을 수는 없습니다.
+AWS가 10억 달러를 들여 FDE 조직을, 마이크로소프트가 25억 달러에 6,000명 규모로 'Frontier Company'를 세웠고, 오픈AI·앤트로픽도 포워드 디플로이 조직을 밀고 있습니다.
 
-앤트로픽은 대신 네 범주로 선을 그었습니다. 랜섬웨어·멀웨어 제작·C2 서버 같은 금지 범주는 무조건 차단, 모의해킹·익스플로잇 개발·산업제어시스템(ICS/SCADA) 평가 같은 고위험 이중용도는 지금은 차단, 공개정보 정찰이나 이미 알려진 취약점 식별 같은 저위험 이중용도는 대체로 허용, 보안 코딩·디버깅·멀웨어 리버스 엔지니어링 같은 무해 범주는 허용. 무엇을 막는지가 아니라 무엇을 굳이 안 막는지를 공개한 게 이번 문서의 핵심입니다.</description><pubDate>Fri, 03 Jul 2026 02:39:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUHTiOD4wc</guid></item><item><title>3/ 이 선들 중 가장 흥미로운 게 'high-uplift 취약점 찾기'입니다.
-앤트로픽은 Fable이 다른 어떤 공개 모델도 못 찾는 취약점을...</title><link>https://www.threads.net/@choi.openai/post/DaUHUpZjwO_</link><description>3/ 이 선들 중 가장 흥미로운 게 'high-uplift 취약점 찾기'입니다.
-앤트로픽은 Fable이 다른 어떤 공개 모델도 못 찾는 취약점을 찾아내면 막고, 남들도 찾을 수 있는 취약점이면 Fable이 찾아서 고치게 둡니다.
+팔란티어 CEO 알렉스 카프는 여기서 한발 더 나가, 프론티어 랩이 기업의 데이터를 흡수하면서 정작 가치는 못 주고 있다고 각을 세웠습니다.
 
-위험의 기준이 '모델이 뭘 할 수 있느냐'가 아니라 '지금 세상의 다른 도구들보다 얼마나 더 하느냐'로 옮겨간 겁니다. 익스플로잇 자동 생성은 막고, 최상급 보안 전문가만 찾을 수 있는 복잡한 취약점도 혹시 몰라 막습니다.
+카프는 돈이 오래 남는 자리가 스택의 양 끝이라고 봅니다. 엔비디아가 가속기를 파는 컴퓨트 층과, 팔란티어가 온톨로지를 파는 애플리케이션 층입니다. 
 
-반대로 업계 여러 모델이 다 찾는 취약점이라면 막는 게 오히려 방어에 손해라는 논리입니다. 보안 커뮤니티가 오래전부터 취약점의 책임 있는 공개는 방어자에게 더 이득이라고 봐온 것과 같은 자리에 서 있습니다.</description><pubDate>Fri, 03 Jul 2026 02:39:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUHUpZjwO_</guid></item><item><title>와.. 바이트댄스가 AI 에이전트를 최대 72시간까지 일 시키는 벤치마크를 공개했습니다.
+가운데의 프론티어 모델은 눌립니다. 실제로 기업이 원하는 건 최고 성능이 아니라 비용이라, 코인베이스는 이미 GLM-5.2와 Kimi로 작업마다 싼 모델을 라우팅하는 구조를 짰습니다. 프론티어급이 꼭 필요한 데만 오픈AI·앤트로픽을 쓰고, 나머지는 '충분히 좋고 싼' 모델로 돌리는 겁니다.</description><pubDate>Fri, 03 Jul 2026 09:59:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaU5oApj1NH</guid></item><item><title>알리바바가 전 직원에게 앤트로픽 제품을 전부 지우라는 지시를 내렸습니다.
 
-결과가 좀 무섭습니다. AI를 오래 굴릴수록 진짜로 ...</title><link>https://www.threads.net/@choi.openai/post/DaT_9c8DySq</link><description>와.. 바이트댄스가 AI 에이전트를 최대 72시간까지 일 시키는 벤치마크를 공개했습니다.
+발단은 앤트로픽이 클로드 코드 프롬프트에 중국 시간대·특정 랩 사용자...</title><link>https://www.threads.net/@choi.openai/post/DaUvph3jyIm</link><description>알리바바가 전 직원에게 앤트로픽 제품을 전부 지우라는 지시를 내렸습니다.
 
-결과가 좀 무섭습니다. AI를 오래 굴릴수록 진짜로 더 잘하게 되는데, 그 늘어나는 곡선이 134개 과제를 평균 내자 거의 완벽한 공식 하나로 떨어졌습니다. 오차율 R²=0.998, 거의 물리 법칙 수준입니다.
+발단은 앤트로픽이 클로드 코드 프롬프트에 중국 시간대·특정 랩 사용자만 겨냥해 안 보이는 워터마크를 심었다는 주장입니다. 워터마크는 증류를 잡는 덫이거든요.
 
-그런데 같은 날 다른 연구소는 AI에게 보드게임을 시켰는데 아무리 반복해도 하나도 안 늘었습니다. 한쪽은 깨끗한 학습 법칙, 한쪽은 학습 제로. 왜 갈리는지, 뭐가 놀라운지 정리했습니다 🧵</description><pubDate>Fri, 03 Jul 2026 01:35:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaT_9c8DySq</guid></item><item><title>1/ EdgeBench는 지금까지 벤치마크와 성격이 다릅니다.
+이게 박힌 출력으로 다른 모델을 학습시키면 그 흔적이 학생 모델에까지 그대로 옮아 남습니다. 앤트로픽이 2월에 딥시크·문샷·미니맥스가 가짜 계정 2.4만 개로 클로드와 1,600만 번 주고받으며 능력을 빼갔다고 지목한 것의 기술적 후속타입니다.
 
-보통은 "이거 아는지 맞혀봐"입니다. 문제를 주고, 답을 채점하고, 끝입니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DaT8X40HcMi</link><description>1/ EdgeBench는 지금까지 벤치마크와 성격이 다릅니다.
+그런데 이 덫은 양날입니다. 누가 증류하는지 가르려면 상대부터 식별해야 하는데, 그 순간 지목당한 회사가 넣은 사내 코드와 방식이 담긴 프롬프트가 앤트로픽 쪽에 표시돼 남습니다. 방어용 도구가 경쟁사 내부를 식별·기록하는 수단도 되는 겁니다.
 
-보통은 "이거 아는지 맞혀봐"입니다. 문제를 주고, 답을 채점하고, 끝입니다.
-이건 며칠 걸리는 진짜 일을 통째로 주고, 하다가 틀리면 그 결과를 보고 고치고, 다시 하고 또 고치게 합니다.
+알리바바가 안 쓰는 정도가 아니라 전부 삭제까지 간 건 그래서죠.
+아직 유출발 주장이고 프록시 우회도 여전히 뚫리는 만큼, 이런 시도들은 계속될 것으로 보입니다.</description><pubDate>Fri, 03 Jul 2026 08:32:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUvph3jyIm</guid></item><item><title>미친.. KernelBench에서 Claude Fable 5로 GPU 커널을 짜게 해봤는데 결과가 놀랍습니다.
 
-한 과제를 최소 12시간, 길면 72시간 넘게 붙잡게 합니다. '얼마나 아느냐'가 아니라 '해보면서 얼마나 느느냐'를 잽니다. 이걸 내놓은 게 하필 바이트댄스 Seed의 장기 AGI 연구팀 'Seed Edge'인데, 이 팀이 내건 목표에 '차세대 AI 학습 방식'과 '다음 스케일링 방향'이 그대로 들어 있습니다.
+보통 이런 연산은 작은 GPU ...</title><link>https://www.threads.net/@choi.openai/post/DaUoj8ZAWsg</link><description>미친.. KernelBench에서 Claude Fable 5로 GPU 커널을 짜게 해봤는데 결과가 놀랍습니다.
 
-노리던 걸 벤치마크로 만들어 내민 겁니다.</description><pubDate>Fri, 03 Jul 2026 01:35:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaT8X40HcMi</guid></item><item><title>2/ 무슨 일을 시키는지는 예시로 보면 빠릅니다. 134개 과제, 6개 분야입니다.
+보통 이런 연산은 작은 GPU 프로그램(커널) 여러 개로 쪼개 돌리는데, Fable은 그걸 하나로 융합한 '메가커널'을 손으로 짰습니다.
 
-실제 중력파 관측 데이터에서 신호 찾아내기, 컴퓨터의 두뇌...</title><link>https://www.threads.net/@choi.openai/post/DaT__Qej3Z0</link><description>2/ 무슨 일을 시키는지는 예시로 보면 빠릅니다. 134개 과제, 6개 분야입니다.
+토큰당 커널 실행 딱 한 번으로 레퍼런스보다 18.7배 빨랐고, Opus 4.8(14.4배)·GLM-5.2·GPT-5.5를 다 앞섰습니다.
 
-실제 중력파 관측 데이터에서 신호 찾아내기, 컴퓨터의 두뇌인 CPU를 처음부터 설계하기, 정답이 없는 최적화 문제 풀기, 재무·의료·법률 실무 보고서 만들기, 수학 정리를 컴퓨터가 검증할 형태로 증명하기, NetHack 같은 극악의 게임 익히기. 하나같이 사람 전문가가 며칠씩 붙어야 하는 일입니다.
+이전 모델들의 '승리'는 여러 커널을 잇는 편법이라 진위 검사를 통과 못 했는데, Fable만 진짜 단일 커널을 냈습니다.
 
-과제 하나를 설계하는 데만 전문가가 평균 57시간, 큰 건 320시간을 썼습니다. 이 중 51개와 채점 도구를 공개했습니다.</description><pubDate>Fri, 03 Jul 2026 01:35:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaT__Qej3Z0</guid></item><item><title>3/ 그렇게 오래 시켰더니 AI가 진짜로 늘었습니다.
+게다가 세션의 64%를 조용히 베이스라인만 재고, 잘못 잡은 최적화는 합리화 없이 측정해서 되돌렸고요.
 
-처음엔 헤매다가 피드백을 받아 조금씩 고쳐 점수를 올립니다. 곡선 하나하나는 들쭉날쭉한데...</title><link>https://www.threads.net/@choi.openai/post/DaUAARyD4sJ</link><description>3/ 그렇게 오래 시켰더니 AI가 진짜로 늘었습니다.
+모델이 자기가 돌아가는 추론 스택을 직접 SOTA로 짠다는 건, AI가 AI를 더 빠르게 만드는 고리가 실제로 도는 장면입니다. 게다가 이건 풀 성능도 아닌 가드레일 걸린 Fable이 400달러 예산에서 낸 결과라, 앤트로픽 내부 천장은 훨씬 위에 있습니다.</description><pubDate>Fri, 03 Jul 2026 07:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUoj8ZAWsg</guid></item><item><title>시장의 고점 신호들이 조금씩 보이는 것 같습니다.
 
-처음엔 헤매다가 피드백을 받아 조금씩 고쳐 점수를 올립니다. 곡선 하나하나는 들쭉날쭉한데, 여러 과제에 걸쳐 평균 내자 지저분한 궤적들이 하나의 매끄러운 S자로 모였습니다(R²=0.998).
+테슬라가 7월 6일부터 직원 1인당 AI 지출을 주 200달러로 막습니다.
+일부 엔지니어가 ...</title><link>https://www.threads.net/@choi.openai/post/DaUeS6ajWQs</link><description>시장의 고점 신호들이 조금씩 보이는 것 같습니다.
 
-이게 왜 대단하냐면, 지금까지 벤치마크는 '이 모델이 지금 몇 점이냐'를 찍는 스냅샷이었습니다. EdgeBench는 '이 모델이 시간을 주면 어디까지 배우느냐'를 잽니다.
+테슬라가 7월 6일부터 직원 1인당 AI 지출을 주 200달러로 막습니다.
+일부 엔지니어가 주 수천 달러어치 토큰을 썼기 때문인데요.
 
-게다가 앞 6.5시간만 보면 나머지 12시간 결과를 거의 맞힙니다. 배우는 과정이 예측 가능하다는 뜻입니다. AI를 한 번 답하고 마는 존재가 아니라 계속 배우는 존재로 놓고 보는, 벤치마크의 새로운 장르입니다.</description><pubDate>Fri, 03 Jul 2026 01:35:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUAARyD4sJ</guid></item><item><title>Claude Code의 'Artifacts' 기능이 Pro와 Max 요금제에서도 사용할 수 있게 되었습니다.
+토큰을 무제한 태우는 '토큰맥싱' 시대가 저무는 신호입니다. 코인베이스가 GLM·Kimi로 비용 구조를 짰듯, 작업마다 '충분히 좋고 싼' 모델로 라우팅하는 쪽으로 이동하고 있습니다. 그 중간 모델 층을 지금 중국이 훨씬 싼 값에 빠르게 먹고 있구요.
 
-Claude에게 결과물을 요청하면...</title><link>https://www.threads.net/@choi.openai/post/DaT0hndAFh4</link><description>Claude Code의 'Artifacts' 기능이 Pro와 Max 요금제에서도 사용할 수 있게 되었습니다.
+밑에서는 화웨이 어센드 칩과 창신메모리 D램이 '대량 저가 추론' 구조를 노립니다.
+딥시크가 이미 어센드에서 돌고 텐센트가 창신 물량을 몇 년치 잠근 걸 보면, 싼 추론을 국산 칩·메모리로 완결하는 폐쇄 루프가 짜이는 중이고요.
 
-Claude에게 결과물을 요청하면 코드를 작성한 뒤 바로 'claude.ai'에서 실행 가능한 형태로 게시하고, 작업이 진행되는 동안 실시간으로 업데이트됩니다. 생성된 페이지는 계정 전용 비공개 링크로 관리됩니다.
-
-기존에는 Team과 Enterprise 베타에서만 제공됐던 기능이 개인 사용자까지 확대되었습니다.</description><pubDate>Thu, 02 Jul 2026 23:56:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaT0hndAFh4</guid></item><item><title>마이크로소프트 CEO 사티아 나델라는 양자 컴퓨팅을 미래 기술의 “새로운 가속기”로 정의하며 강한 낙관론을 펼쳤습니다.
-
-그는 양자 기술이 기존...</title><link>https://www.threads.net/@choi.openai/post/DaTq2DhjIZy</link><description>마이크로소프트 CEO 사티아 나델라는 양자 컴퓨팅을 미래 기술의 “새로운 가속기”로 정의하며 강한 낙관론을 펼쳤습니다.
-
-그는 양자 기술이 기존의 고전적 컴퓨팅을 완전히 대체하기보다는, 저장과 메모리에 강한 고전 기술과 연산에 특화된 양자 기술이 결합하는 형태로 발전할 것이라 분석했습니다. 특히 신뢰할 수 있는 오류 수정 기능을 갖춘 100개의 논리 큐비트가 구현되면, 과학 모델을 위한 합성 데이터(Synth data) 생성이 가능해져 기술적 한계를 돌파하는 중요한 이정표가 될 것이라 설명했습니다.
-
-나델라는 마이크로소프트가 “이번 10년이 끝나기 전(2020년대 말)까지 실제적인 난제들을 해결하기 시작할 양자 컴퓨터를 구축할 수 있을 것”이라고 자신했습니다.</description><pubDate>Thu, 02 Jul 2026 22:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaTq2DhjIZy</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=d0Pfu6B7gIM</title><link>https://www.threads.net/@choi.openai/post/DaTq21_DDbB</link><description>풀영상 :
-https://www.youtube.com/watch?v=d0Pfu6B7gIM</description><pubDate>Thu, 02 Jul 2026 22:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaTq21_DDbB</guid></item></channel></rss>
+그럼 비싼 프런티어 모델은, 신약이나 과학 발견처럼 싼 모델이 못 하는 영역을 선도하지 못하면 일상 작업을 내주고 격차가 좁혀집니다. AGI를 향해 태양으로 오르는 이카루스의 날개도, 결국 지상의 토큰 경제학이 붙잡습니다.</description><pubDate>Fri, 03 Jul 2026 06:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUeS6ajWQs</guid></item></channel></rss>
