@@ -1,38 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 02 Jul 2026 16:43:48 +0000</lastBuildDate><item><title>미국의 저명한 경제학자 타일러 코웬(Tyler Cowen)은 새로운 AI 시대에 가장 큰 성공을 거둘 이들을 “AI 매니악(AI maniacs)...</title><link>https://www.threads.net/@choi.openai/post/DaTBl9nDlnA</link><description>미국의 저명한 경제학자 타일러 코웬(Tyler Cowen)은 새로운 AI 시대에 가장 큰 성공을 거둘 이들을 “AI 매니악(AI maniacs)”이라 명명했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 03 Jul 2026 02:57:01 +0000</lastBuildDate><item><title>앤트로픽이 Fable 5를 전 세계에 다시 풀면서, AI 탈옥에 점수를 매기는 표를 공개했습니다.
 
-이들은 단순히 고도의 기술적 코딩이나 모델 개발에 매달리는 사람들이 아닙니다. 대신 AI 에이전트를 실무에 적용하고, 비즈니스 프로세스를 자동화하며, 인간 중심의 기존 업무에 AI를 어떻게 효과적으로 조화시킬지 치열하게 고민하는 ‘AI 오케스트레이터’들입니다.
+소프트웨어 취약점을 등급 매기는 CVSS를 ...</title><link>https://www.threads.net/@choi.openai/post/DaUHSP9j7EO</link><description>앤트로픽이 Fable 5를 전 세계에 다시 풀면서, AI 탈옥에 점수를 매기는 표를 공개했습니다.
 
-코웬은 향후 수십 년간 수많은 기업이 이 결합 과정에서 시행착오를 겪으며 막대한 인력을 고용하게 될 것이라고 내다봤습니다. 결국 기술의 작동 원리를 아는 것을 넘어 현실 경제와 산업 지형에 AI를 영리하게 통합해내는 이들이 미래의 새로운 부를 거머쥐게 될 것입니다.</description><pubDate>Thu, 02 Jul 2026 16:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaTBl9nDlnA</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=hfZWfkQR9zs</title><link>https://www.threads.net/@choi.openai/post/DaTBmxUDtoM</link><description>풀영상 :
-https://www.youtube.com/watch?v=hfZWfkQR9zs</description><pubDate>Thu, 02 Jul 2026 16:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaTBmxUDtoM</guid></item><item><title>🚨 앤트로픽, 자체 AI 칩 삼성과 협상중.
+소프트웨어 취약점을 등급 매기는 CVSS를 그대로 AI 탈옥으로 옮긴 건데, 여기 이상한 게 있습니다. 똑같은 모델이 똑같은 행동을 해도 2021년이면 위험도 만점, 지금이면 0점입니다. 모델이 달라진 게 아니라 세상이 달라졌기 때문입니다.
 
-더 인포메이션에 따르면 초기 설계 작업을 시작했고, 제조 파트너로 삼성전자와 협상 중입니다. 아직...</title><link>https://www.threads.net/@choi.openai/post/DaS0sgDD7XX</link><description>🚨 앤트로픽, 자체 AI 칩 삼성과 협상중.
+무엇을 공개했고, 이 '0점과 만점' 사이에 AI 안전의 새 기준이 어떻게 들어 있는지 정리했습니다 🧵</description><pubDate>Fri, 03 Jul 2026 02:39:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUHSP9j7EO</guid></item><item><title>1/ 이번에 앤트로픽이 내놓은 건 두 가지입니다.
 
-더 인포메이션에 따르면 초기 설계 작업을 시작했고, 제조 파트너로 삼성전자와 협상 중입니다. 아직 칩의 용도와 사양도 정하지 않은 단계고, Trainium·TPU·엔비디아 GPU가 계속 중심이라는 단서도 붙었습니다.
+하나는 Fable 5의 사이버 분류기가 정확히 뭘 막고 뭘 안 막는지를 네 범주로 상세 공개...</title><link>https://www.threads.net/@choi.openai/post/DaUHS2-j3r4</link><description>1/ 이번에 앤트로픽이 내놓은 건 두 가지입니다.
 
-다만 예고된 그림이긴 합니다. 5월 말 삼성과 SK하이닉스가 앤트로픽 시리즈 H에 전략 투자하면서 협력 분야에 '로직 칩'을 명시했고, 오픈AI와 삼성의 커스텀 칩 논의가 멈춘 뒤 삼성 파운드리가 앤트로픽 쪽으로 방향을 틀었다는 보도가 이어졌습니다.
+하나는 Fable 5의 사이버 분류기가 정확히 뭘 막고 뭘 안 막는지를 네 범주로 상세 공개한 것, 다른 하나는 탈옥의 심각도를 점수화하는 프레임워크 초안입니다.
 
-여기에 오픈AI가 브로드컴과 할라피뇨를 설계에서 테이프아웃까지 9개월에 끝내면서, 자체 칩 개발이 수년짜리 도박이라는 상식도 깨졌습니다. 서빙하는 회사에선 추론 원가 몇 퍼센트가 곧 수억 달러 단위입니다.
+Fable 5는 6월에 미국 수출통제로 2주간 전 세계에서 꺼졌다가 지난주 다시 풀린 그 모델입니다. 왜 꺼졌는지는 이미 정리했으니, 이번엔 앤트로픽이 그 대가로 무엇을 어떻게 막기로 했는지에 초점을 뒀습니다.</description><pubDate>Fri, 03 Jul 2026 02:39:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUHS2-j3r4</guid></item><item><title>2/ 사이버가 안전장치를 만들기 특히 어려운 이유는 이중용도이기 때문입니다.
+자기 코드베이스를 스캔해 취약점을 찾는 방어 작업과, 공격 직전의 ...</title><link>https://www.threads.net/@choi.openai/post/DaUHTiOD4wc</link><description>2/ 사이버가 안전장치를 만들기 특히 어려운 이유는 이중용도이기 때문입니다.
+자기 코드베이스를 스캔해 취약점을 찾는 방어 작업과, 공격 직전의 정찰이 사실상 같은 능력입니다. 그래서 사이버를 전부 막을 수는 없습니다.
 
-삼성 입장에선 2나노 수율을 20%대에서 60% 위로 끌어올리고 테일러 팹에 테슬라 AI5·AI6까지 받아둔 참이라, 앤트로픽은 파운드리 부활을 증명할 간판 고객이죠.</description><pubDate>Thu, 02 Jul 2026 14:37:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaS0sgDD7XX</guid></item><item><title>xAI가 코드 없이 음성 AI를 만들 수 있는 **Voice Agent Builder**를 베타로 공개했습니다.
+앤트로픽은 대신 네 범주로 선을 그었습니다. 랜섬웨어·멀웨어 제작·C2 서버 같은 금지 범주는 무조건 차단, 모의해킹·익스플로잇 개발·산업제어시스템(ICS/SCADA) 평가 같은 고위험 이중용도는 지금은 차단, 공개정보 정찰이나 이미 알려진 취약점 식별 같은 저위험 이중용도는 대체로 허용, 보안 코딩·디버깅·멀웨어 리버스 엔지니어링 같은 무해 범주는 허용. 무엇을 막는지가 아니라 무엇을 굳이 안 막는지를 공개한 게 이번 문서의 핵심입니다.</description><pubDate>Fri, 03 Jul 2026 02:39:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUHTiOD4wc</guid></item><item><title>3/ 이 선들 중 가장 흥미로운 게 'high-uplift 취약점 찾기'입니다.
+앤트로픽은 Fable이 다른 어떤 공개 모델도 못 찾는 취약점을...</title><link>https://www.threads.net/@choi.openai/post/DaUHUpZjwO_</link><description>3/ 이 선들 중 가장 흥미로운 게 'high-uplift 취약점 찾기'입니다.
+앤트로픽은 Fable이 다른 어떤 공개 모델도 못 찾는 취약점을 찾아내면 막고, 남들도 찾을 수 있는 취약점이면 Fable이 찾아서 고치게 둡니다.
 
-전화 연결, 검색 증강 생성(...</title><link>https://www.threads.net/@choi.openai/post/DaSs-VzjC39</link><description>xAI가 코드 없이 음성 AI를 만들 수 있는 **Voice Agent Builder**를 베타로 공개했습니다.
+위험의 기준이 '모델이 뭘 할 수 있느냐'가 아니라 '지금 세상의 다른 도구들보다 얼마나 더 하느냐'로 옮겨간 겁니다. 익스플로잇 자동 생성은 막고, 최상급 보안 전문가만 찾을 수 있는 복잡한 취약점도 혹시 몰라 막습니다.
 
-전화 연결, 검색 증강 생성(RAG), MCP, API 연동, 상담원 연결, 통화 기록까지 한곳에서 설정할 수 있으며, 기존 전화번호(SIP)도 사용할 수 있습니다. 문서를 올리면 통화 중 필요한 내용을 찾아 답변하고, Google Calendar나 Outlook Calendar 예약, 환불 처리 같은 작업도 수행할 수 있습니다.
+반대로 업계 여러 모델이 다 찾는 취약점이라면 막는 게 오히려 방어에 손해라는 논리입니다. 보안 커뮤니티가 오래전부터 취약점의 책임 있는 공개는 방어자에게 더 이득이라고 봐온 것과 같은 자리에 서 있습니다.</description><pubDate>Fri, 03 Jul 2026 02:39:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUHUpZjwO_</guid></item><item><title>와.. 바이트댄스가 AI 에이전트를 최대 72시간까지 일 시키는 벤치마크를 공개했습니다.
 
-요금은 음성 처리 기준 분당 0.05달러이며, 계정마다 무료 전화번호가 제공됩니다. 고객센터나 예약 업무처럼 전화 상담이 많은 업체에서 활용도가 높을 것으로 보입니다.</description><pubDate>Thu, 02 Jul 2026 13:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaSs-VzjC39</guid></item><item><title>발표내용 :
-https://x.ai/news/grok-voice-agent-builder</title><link>https://www.threads.net/@choi.openai/post/DaSs_DDDMz1</link><description>발표내용 :
-https://x.ai/news/grok-voice-agent-builder</description><pubDate>Thu, 02 Jul 2026 13:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaSs_DDDMz1</guid></item><item><title>Meta가 8년 동안 내부에서만 쓰던 디자인 시스템을 공개했습니다.
+결과가 좀 무섭습니다. AI를 오래 굴릴수록 진짜로 ...</title><link>https://www.threads.net/@choi.openai/post/DaT_9c8DySq</link><description>와.. 바이트댄스가 AI 에이전트를 최대 72시간까지 일 시키는 벤치마크를 공개했습니다.
 
-사람뿐 아니라 AI 코딩 에이전트까지 고려해 설계된 'Astryx'입니다....</title><link>https://www.threads.net/@choi.openai/post/DaSiwPBEdEc</link><description>Meta가 8년 동안 내부에서만 쓰던 디자인 시스템을 공개했습니다.
+결과가 좀 무섭습니다. AI를 오래 굴릴수록 진짜로 더 잘하게 되는데, 그 늘어나는 곡선이 134개 과제를 평균 내자 거의 완벽한 공식 하나로 떨어졌습니다. 오차율 R²=0.998, 거의 물리 법칙 수준입니다.
 
-사람뿐 아니라 AI 코딩 에이전트까지 고려해 설계된 'Astryx'입니다.
+그런데 같은 날 다른 연구소는 AI에게 보드게임을 시켰는데 아무리 반복해도 하나도 안 늘었습니다. 한쪽은 깨끗한 학습 법칙, 한쪽은 학습 제로. 왜 갈리는지, 뭐가 놀라운지 정리했습니다 🧵</description><pubDate>Fri, 03 Jul 2026 01:35:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaT_9c8DySq</guid></item><item><title>1/ EdgeBench는 지금까지 벤치마크와 성격이 다릅니다.
 
-13,000개 이상의 사내 앱에서 검증됐고, 150개 이상의 UI 컴포넌트와 테마, 브랜드 스킨까지 제공합니다.
+보통은 "이거 아는지 맞혀봐"입니다. 문제를 주고, 답을 채점하고, 끝입니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DaT8X40HcMi</link><description>1/ EdgeBench는 지금까지 벤치마크와 성격이 다릅니다.
 
-StyleX 기반이지만 별도의 스타일 라이브러리 없이 사용할 수 있고, 필요하면 컴포넌트 소스코드를 직접 가져와 수정할 수도 있습니다.
+보통은 "이거 아는지 맞혀봐"입니다. 문제를 주고, 답을 채점하고, 끝입니다.
+이건 며칠 걸리는 진짜 일을 통째로 주고, 하다가 틀리면 그 결과를 보고 고치고, 다시 하고 또 고치게 합니다.
 
-문서와 API도 AI 에이전트가 활용하기 쉽게 구성돼 있어 AI를 함께 사용하는 프런트엔드 개발 환경에도 활용할 수 있습니다.</description><pubDate>Thu, 02 Jul 2026 12:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaSiwPBEdEc</guid></item><item><title>주소 :
-https://astryx.atmeta.com/</title><link>https://www.threads.net/@choi.openai/post/DaSixLpke6B</link><description>주소 :
-https://astryx.atmeta.com/</description><pubDate>Thu, 02 Jul 2026 12:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaSixLpke6B</guid></item></channel></rss>
+한 과제를 최소 12시간, 길면 72시간 넘게 붙잡게 합니다. '얼마나 아느냐'가 아니라 '해보면서 얼마나 느느냐'를 잽니다. 이걸 내놓은 게 하필 바이트댄스 Seed의 장기 AGI 연구팀 'Seed Edge'인데, 이 팀이 내건 목표에 '차세대 AI 학습 방식'과 '다음 스케일링 방향'이 그대로 들어 있습니다.
+
+노리던 걸 벤치마크로 만들어 내민 겁니다.</description><pubDate>Fri, 03 Jul 2026 01:35:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaT8X40HcMi</guid></item><item><title>2/ 무슨 일을 시키는지는 예시로 보면 빠릅니다. 134개 과제, 6개 분야입니다.
+
+실제 중력파 관측 데이터에서 신호 찾아내기, 컴퓨터의 두뇌...</title><link>https://www.threads.net/@choi.openai/post/DaT__Qej3Z0</link><description>2/ 무슨 일을 시키는지는 예시로 보면 빠릅니다. 134개 과제, 6개 분야입니다.
+
+실제 중력파 관측 데이터에서 신호 찾아내기, 컴퓨터의 두뇌인 CPU를 처음부터 설계하기, 정답이 없는 최적화 문제 풀기, 재무·의료·법률 실무 보고서 만들기, 수학 정리를 컴퓨터가 검증할 형태로 증명하기, NetHack 같은 극악의 게임 익히기. 하나같이 사람 전문가가 며칠씩 붙어야 하는 일입니다.
+
+과제 하나를 설계하는 데만 전문가가 평균 57시간, 큰 건 320시간을 썼습니다. 이 중 51개와 채점 도구를 공개했습니다.</description><pubDate>Fri, 03 Jul 2026 01:35:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaT__Qej3Z0</guid></item><item><title>3/ 그렇게 오래 시켰더니 AI가 진짜로 늘었습니다.
+
+처음엔 헤매다가 피드백을 받아 조금씩 고쳐 점수를 올립니다. 곡선 하나하나는 들쭉날쭉한데...</title><link>https://www.threads.net/@choi.openai/post/DaUAARyD4sJ</link><description>3/ 그렇게 오래 시켰더니 AI가 진짜로 늘었습니다.
+
+처음엔 헤매다가 피드백을 받아 조금씩 고쳐 점수를 올립니다. 곡선 하나하나는 들쭉날쭉한데, 여러 과제에 걸쳐 평균 내자 지저분한 궤적들이 하나의 매끄러운 S자로 모였습니다(R²=0.998).
+
+이게 왜 대단하냐면, 지금까지 벤치마크는 '이 모델이 지금 몇 점이냐'를 찍는 스냅샷이었습니다. EdgeBench는 '이 모델이 시간을 주면 어디까지 배우느냐'를 잽니다.
+
+게다가 앞 6.5시간만 보면 나머지 12시간 결과를 거의 맞힙니다. 배우는 과정이 예측 가능하다는 뜻입니다. AI를 한 번 답하고 마는 존재가 아니라 계속 배우는 존재로 놓고 보는, 벤치마크의 새로운 장르입니다.</description><pubDate>Fri, 03 Jul 2026 01:35:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUAARyD4sJ</guid></item><item><title>Claude Code의 'Artifacts' 기능이 Pro와 Max 요금제에서도 사용할 수 있게 되었습니다.
+
+Claude에게 결과물을 요청하면...</title><link>https://www.threads.net/@choi.openai/post/DaT0hndAFh4</link><description>Claude Code의 'Artifacts' 기능이 Pro와 Max 요금제에서도 사용할 수 있게 되었습니다.
+
+Claude에게 결과물을 요청하면 코드를 작성한 뒤 바로 'claude.ai'에서 실행 가능한 형태로 게시하고, 작업이 진행되는 동안 실시간으로 업데이트됩니다. 생성된 페이지는 계정 전용 비공개 링크로 관리됩니다.
+
+기존에는 Team과 Enterprise 베타에서만 제공됐던 기능이 개인 사용자까지 확대되었습니다.</description><pubDate>Thu, 02 Jul 2026 23:56:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaT0hndAFh4</guid></item><item><title>마이크로소프트 CEO 사티아 나델라는 양자 컴퓨팅을 미래 기술의 “새로운 가속기”로 정의하며 강한 낙관론을 펼쳤습니다.
+
+그는 양자 기술이 기존...</title><link>https://www.threads.net/@choi.openai/post/DaTq2DhjIZy</link><description>마이크로소프트 CEO 사티아 나델라는 양자 컴퓨팅을 미래 기술의 “새로운 가속기”로 정의하며 강한 낙관론을 펼쳤습니다.
+
+그는 양자 기술이 기존의 고전적 컴퓨팅을 완전히 대체하기보다는, 저장과 메모리에 강한 고전 기술과 연산에 특화된 양자 기술이 결합하는 형태로 발전할 것이라 분석했습니다. 특히 신뢰할 수 있는 오류 수정 기능을 갖춘 100개의 논리 큐비트가 구현되면, 과학 모델을 위한 합성 데이터(Synth data) 생성이 가능해져 기술적 한계를 돌파하는 중요한 이정표가 될 것이라 설명했습니다.
+
+나델라는 마이크로소프트가 “이번 10년이 끝나기 전(2020년대 말)까지 실제적인 난제들을 해결하기 시작할 양자 컴퓨터를 구축할 수 있을 것”이라고 자신했습니다.</description><pubDate>Thu, 02 Jul 2026 22:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaTq2DhjIZy</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=d0Pfu6B7gIM</title><link>https://www.threads.net/@choi.openai/post/DaTq21_DDbB</link><description>풀영상 :
+https://www.youtube.com/watch?v=d0Pfu6B7gIM</description><pubDate>Thu, 02 Jul 2026 22:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaTq21_DDbB</guid></item></channel></rss>
