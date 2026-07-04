@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 03 Jul 2026 16:18:13 +0000</lastBuildDate><item><title>Fable 5의 활용 사례들이 쏟아지고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 04 Jul 2026 02:53:10 +0000</lastBuildDate><item><title>Fable을 사용하면서 내가 더 이상 감독할 수 있는 영역을 넘어섰다는 느낌을 자주 받는다.
+
+이제는 작업이 끝난 뒤 ‘다음에 무엇을 해야 하는...</title><link>https://www.threads.net/@choi.openai/post/DaWmU__DwmT</link><description>Fable을 사용하면서 내가 더 이상 감독할 수 있는 영역을 넘어섰다는 느낌을 자주 받는다.
+
+이제는 작업이 끝난 뒤 ‘다음에 무엇을 해야 하는가’를 결정하는 일이 오히려 병목이 되어가는 것 같다.
+
+개인 업무에서는 ROI를 최대한 높여야 하지만, 대부분의 실행을 모델이 대신할 수 있게 되면서 누구나 이전보다 훨씬 높은 수준의 결과물을 만들 수 있는 시대가 되었다. 상향평준화는 이미 시작됐고, AI를 활용하는 것만으로는 차별화가 어려워지고 있다.
+
+결국 앞으로의 경쟁력은 눈에 잘 보이지 않는 부분에서 결정될 가능성이 크다. 문제를 정의하는 방식, 방향을 설정하는 감각, 업무를 연결하는 구조, 그리고 작은 디테일까지 끊임없이 개선하는 능력이 점점 더 중요해질 것이다. 이런 요소들이 쌓일수록 사람 간의 격차는 오히려 더 크게 벌어질 것이라고 생각한다.
+
+이전에는 AI 결과물이 만족스럽지 않아 휴먼터치가 많이 필요했다면 이제는 반대로 내가 AI 터치를 받아야겠더라.</description><pubDate>Sat, 04 Jul 2026 01:49:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWmU__DwmT</guid></item><item><title>와우.. 미스트랄이 Leanstral 1.5를 오픈웨이트로 냈습니다.
+6B만 활성화되는 119B 모델인데, Lean 4 정리 증명에서 miniF...</title><link>https://www.threads.net/@choi.openai/post/DaWgtrDj3mU</link><description>와우.. 미스트랄이 Leanstral 1.5를 오픈웨이트로 냈습니다.
+6B만 활성화되는 119B 모델인데, Lean 4 정리 증명에서 miniF2F를 만점으로 채우고 PutnamBench 672문제 중 587개를 풀었습니다.
+
+점수만 보면 새 영역은 아닙니다. Seed-Prover 1.5가 이미 miniF2F를 포화시키고 PutnamBench 88%를 찍었으니까요. 달라진 건 값입니다.
+Leanstral은 문제당 4달러인데, Seed-Prover 고성능 설정은 문제 하나에 H20 GPU를 10일씩 굴립니다. 70배 넘게 싼 걸 6B 오픈 모델로 해낸 거죠.
+
+토큰 예산을 늘릴수록 푸는 문제가 계속 늘어서, 5만 토큰이면 44개, 400만 토큰이면 587개까지 갑니다. 수학용으로만 볼 게 아닙니다.
+
+Rust 레포 57개를 자동으로 Lean으로 옮겨 성질을 증명시켰더니, 테스트·퍼징이 놓친 미보고 버그 5개가 나왔습니다.</description><pubDate>Sat, 04 Jul 2026 01:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWgtrDj3mU</guid></item><item><title>발표내용 :
+https://mistral.ai/news/leanstral-1-5/</title><link>https://www.threads.net/@choi.openai/post/DaWguxmj-EC</link><description>발표내용 :
+https://mistral.ai/news/leanstral-1-5/</description><pubDate>Sat, 04 Jul 2026 01:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWguxmj-EC</guid></item><item><title>Alibaba의 Wan Video에 'Music to Dance' 기능이 추가되었습니다.
+
+캐릭터 이미지를 업로드하고 음악을 넣으면 박자에 맞춰...</title><link>https://www.threads.net/@choi.openai/post/DaWXkvoDwUI</link><description>Alibaba의 Wan Video에 'Music to Dance' 기능이 추가되었습니다.
+
+캐릭터 이미지를 업로드하고 음악을 넣으면 박자에 맞춰 춤추는 영상을 생성할 수 있는데요. Street, Tap, Latin, K-Pop, Chinese Classical 등 여러 춤 스타일을 지원하며 음악의 리듬에 맞춰 동작을 만들어줍니다.
+
+현재는 'wan.video'에서 이용할 수 있으며, Wan 앱에도 곧 추가될 예정입니다.</description><pubDate>Fri, 03 Jul 2026 23:40:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWXkvoDwUI</guid></item><item><title>Fable 5의 활용 사례들이 쏟아지고 있습니다.
 
 게임 하나를 몇 번의 프롬프트만으로 완성하거나, 장난감을 모바일 게임으로 만들고, VRCha...</title><link>https://www.threads.net/@choi.openai/post/DaVSoi6j9Z7</link><description>Fable 5의 활용 사례들이 쏟아지고 있습니다.
 
@@ -15,49 +42,4 @@ x@NBhargava18</description><pubDate>Fri, 03 Jul 2026 13:38:01 +0000</pubDate><gu
 
 복잡한 프롬프트 대신 자연어만으로 게임 제작 과정을 진행했으며, 전체 제작 과정을 함께 공개했습니다.
 
-x@alexcooldev</description><pubDate>Fri, 03 Jul 2026 13:38:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaVRhuJAAVd</guid></item><item><title>엔비디아와 이 추론·배포 시장이 다시 크게 주목받을 가능성이 높다고 본다. 🧵</title><link>https://www.threads.net/@choi.openai/post/DaU5ldQD-GZ</link><description>엔비디아와 이 추론·배포 시장이 다시 크게 주목받을 가능성이 높다고 본다. 🧵</description><pubDate>Fri, 03 Jul 2026 09:58:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaU5ldQD-GZ</guid></item><item><title>1/ 6월 앤트로픽 미토스 계열이 나온 뒤 상위 모델 격차가 다시 벌어졌습니다.
-미토스에 안전장치를 붙인 Fable 5가 KernelBench에...</title><link>https://www.threads.net/@choi.openai/post/DaU5l-9D1Fa</link><description>1/ 6월 앤트로픽 미토스 계열이 나온 뒤 상위 모델 격차가 다시 벌어졌습니다.
-미토스에 안전장치를 붙인 Fable 5가 KernelBench에서 GPU 커널을 직접 짜 레퍼런스 대비 18.7배를 냈고, Opus 4.8은 14.4배, GLM-5.2 11.1배, GPT-5.5는 4.3배였습니다.
-
-코딩·커널·에이전트처럼 실제로 끝까지 풀어야 하는 벤치에서 상위 모델은 여전히 격차를 벌립니다. 점수가 몰리는 건 아레나 같은 선호도 벤치이고, 실제 문제 벤치는 그렇지 않습니다.
-
-발전 축은 모델 크기에서 추론 시간으로 옮겨갔습니다. 같은 모델도 더 오래 생각하게 하면 성능이 오릅니다. 이 발전이 소비자 체감이나 금세 포화되는 벤치에는 잘 안 잡히고, 신약·과학 같은 결과는 시간이 더 걸립니다.
-
-시장은 그 결과를 지금 보고 싶어 합니다. 발전 속도와 시장의 인내심 사이 시차, 그게 지금 구조입니다.</description><pubDate>Fri, 03 Jul 2026 09:59:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaU5l-9D1Fa</guid></item><item><title>2/ 소비자 시장은 대부분 무료로 굳었습니다.
-미국 소비자 잉여가 연 1,720억 달러로 1년 만에 1,120억 달러에서 뛰었는데, 그 대부분이...</title><link>https://www.threads.net/@choi.openai/post/DaU5nDGD8Rm</link><description>2/ 소비자 시장은 대부분 무료로 굳었습니다.
-미국 소비자 잉여가 연 1,720억 달러로 1년 만에 1,120억 달러에서 뛰었는데, 그 대부분이 무료이거나 무료에 가깝습니다.
-
-이 규모의 투자를 소비자 지출만으로는 회수할 수 없습니다. 그래서 돈이 되는 다음 시장은 기업입니다. 2026년 기업 AI 지출은 파일럿에서 ROI 측정으로, 일반 성능에서 워크플로우 통합·거버넌스로 무게가 옮겨가고 있습니다.</description><pubDate>Fri, 03 Jul 2026 09:59:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaU5nDGD8Rm</guid></item><item><title>3/ 그래서 AI 회사들이 일제히 현장으로 내려오고 있습니다.
-
-AWS가 10억 달러를 들여 FDE 조직을, 마이크로소프트가 25억 달러에 6,...</title><link>https://www.threads.net/@choi.openai/post/DaU5oApj1NH</link><description>3/ 그래서 AI 회사들이 일제히 현장으로 내려오고 있습니다.
-
-AWS가 10억 달러를 들여 FDE 조직을, 마이크로소프트가 25억 달러에 6,000명 규모로 'Frontier Company'를 세웠고, 오픈AI·앤트로픽도 포워드 디플로이 조직을 밀고 있습니다.
-
-팔란티어 CEO 알렉스 카프는 여기서 한발 더 나가, 프론티어 랩이 기업의 데이터를 흡수하면서 정작 가치는 못 주고 있다고 각을 세웠습니다.
-
-카프는 돈이 오래 남는 자리가 스택의 양 끝이라고 봅니다. 엔비디아가 가속기를 파는 컴퓨트 층과, 팔란티어가 온톨로지를 파는 애플리케이션 층입니다. 
-
-가운데의 프론티어 모델은 눌립니다. 실제로 기업이 원하는 건 최고 성능이 아니라 비용이라, 코인베이스는 이미 GLM-5.2와 Kimi로 작업마다 싼 모델을 라우팅하는 구조를 짰습니다. 프론티어급이 꼭 필요한 데만 오픈AI·앤트로픽을 쓰고, 나머지는 '충분히 좋고 싼' 모델로 돌리는 겁니다.</description><pubDate>Fri, 03 Jul 2026 09:59:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaU5oApj1NH</guid></item><item><title>알리바바가 전 직원에게 앤트로픽 제품을 전부 지우라는 지시를 내렸습니다.
-
-발단은 앤트로픽이 클로드 코드 프롬프트에 중국 시간대·특정 랩 사용자...</title><link>https://www.threads.net/@choi.openai/post/DaUvph3jyIm</link><description>알리바바가 전 직원에게 앤트로픽 제품을 전부 지우라는 지시를 내렸습니다.
-
-발단은 앤트로픽이 클로드 코드 프롬프트에 중국 시간대·특정 랩 사용자만 겨냥해 안 보이는 워터마크를 심었다는 주장입니다. 워터마크는 증류를 잡는 덫이거든요.
-
-이게 박힌 출력으로 다른 모델을 학습시키면 그 흔적이 학생 모델에까지 그대로 옮아 남습니다. 앤트로픽이 2월에 딥시크·문샷·미니맥스가 가짜 계정 2.4만 개로 클로드와 1,600만 번 주고받으며 능력을 빼갔다고 지목한 것의 기술적 후속타입니다.
-
-그런데 이 덫은 양날입니다. 누가 증류하는지 가르려면 상대부터 식별해야 하는데, 그 순간 지목당한 회사가 넣은 사내 코드와 방식이 담긴 프롬프트가 앤트로픽 쪽에 표시돼 남습니다. 방어용 도구가 경쟁사 내부를 식별·기록하는 수단도 되는 겁니다.
-
-알리바바가 안 쓰는 정도가 아니라 전부 삭제까지 간 건 그래서죠.
-아직 유출발 주장이고 프록시 우회도 여전히 뚫리는 만큼, 이런 시도들은 계속될 것으로 보입니다.</description><pubDate>Fri, 03 Jul 2026 08:32:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUvph3jyIm</guid></item><item><title>미친.. KernelBench에서 Claude Fable 5로 GPU 커널을 짜게 해봤는데 결과가 놀랍습니다.
-
-보통 이런 연산은 작은 GPU ...</title><link>https://www.threads.net/@choi.openai/post/DaUoj8ZAWsg</link><description>미친.. KernelBench에서 Claude Fable 5로 GPU 커널을 짜게 해봤는데 결과가 놀랍습니다.
-
-보통 이런 연산은 작은 GPU 프로그램(커널) 여러 개로 쪼개 돌리는데, Fable은 그걸 하나로 융합한 '메가커널'을 손으로 짰습니다.
-
-토큰당 커널 실행 딱 한 번으로 레퍼런스보다 18.7배 빨랐고, Opus 4.8(14.4배)·GLM-5.2·GPT-5.5를 다 앞섰습니다.
-
-이전 모델들의 '승리'는 여러 커널을 잇는 편법이라 진위 검사를 통과 못 했는데, Fable만 진짜 단일 커널을 냈습니다.
-
-게다가 세션의 64%를 조용히 베이스라인만 재고, 잘못 잡은 최적화는 합리화 없이 측정해서 되돌렸고요.
-
-모델이 자기가 돌아가는 추론 스택을 직접 SOTA로 짠다는 건, AI가 AI를 더 빠르게 만드는 고리가 실제로 도는 장면입니다. 게다가 이건 풀 성능도 아닌 가드레일 걸린 Fable이 400달러 예산에서 낸 결과라, 앤트로픽 내부 천장은 훨씬 위에 있습니다.</description><pubDate>Fri, 03 Jul 2026 07:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaUoj8ZAWsg</guid></item></channel></rss>
+x@alexcooldev</description><pubDate>Fri, 03 Jul 2026 13:38:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaVRhuJAAVd</guid></item></channel></rss>
