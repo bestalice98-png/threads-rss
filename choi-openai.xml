@@ -1,5 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 04 Jul 2026 02:53:10 +0000</lastBuildDate><item><title>Fable을 사용하면서 내가 더 이상 감독할 수 있는 영역을 넘어섰다는 느낌을 자주 받는다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 04 Jul 2026 10:09:33 +0000</lastBuildDate><item><title>앤트로픽 역대 최강 모델 Fable 5가 나온 지 한 달도 안 됐는데, 이걸 만든 팀에서 사용법을 내놨습니다.
+
+그런데 요지가 뒤집혀 있습니다....</title><link>https://www.threads.net/@choi.openai/post/DaXNultjy9x</link><description>앤트로픽 역대 최강 모델 Fable 5가 나온 지 한 달도 안 됐는데, 이걸 만든 팀에서 사용법을 내놨습니다.
+
+그런데 요지가 뒤집혀 있습니다. 모델이 강해질수록 결과물을 가르는 건 모델 성능이 아니라, 내가 뭘 모르는지 아느냐라는 겁니다.
+
+Claude Code를 만드는 Thariq는 Fable을 두고 "작업 품질이 모델이 아니라, 내 모르는 것(unknown)을 얼마나 명확히 하느냐에서 막히는 첫 모델"이라고 적었습니다. 역대 최강이 나왔더니 병목이 사람 쪽으로 넘어온 겁니다.
+
+그가 공개한 실전 가이드를 정리했습니다. 🧵</description><pubDate>Sat, 04 Jul 2026 07:33:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXNultjy9x</guid></item><item><title>1/ Fable 5는 6월 9일 앤트로픽이 공개한 모델입니다.
+소프트웨어 개발, 지식 노동, 연구 등 거의 모든 주요 벤치마크에서 최고 수준의 ...</title><link>https://www.threads.net/@choi.openai/post/DaXNvOkD2LO</link><description>1/ Fable 5는 6월 9일 앤트로픽이 공개한 모델입니다.
+소프트웨어 개발, 지식 노동, 연구 등 거의 모든 주요 벤치마크에서 최고 수준의 성능을 기록했고, 특히 복잡한 장기 분석 작업을 평가하는 벤치마크에서는 처음으로 90%를 돌파했습니다.
+
+이 모델을 만든 Thariq의 글은 오래된 문장 하나에서 출발합니다.
+
+"지도는 영토가 아니다."
+
+여기서 지도(map) 는 우리가 Claude에게 제공하는 프롬프트, 스킬, 컨텍스트를 의미합니다. 반면 영토(territory) 는 실제 일이 일어나는 공간입니다. 거대한 코드베이스, 현실의 환경, 그리고 각종 제약 조건이 여기에 해당합니다.
+
+그가 말하는 unknown 은 바로 이 둘 사이의 간극입니다. Claude는 작업을 수행하다 unknown을 만나면 사용자가 무엇을 원하는지 스스로 추론해 결정을 내려야 합니다. 그리고 맡기는 작업이 커지고 복잡해질수록, 이런 추론과 의사결정이 필요한 지점도 기하급수적으로 늘어나게 됩니다.</description><pubDate>Sat, 04 Jul 2026 07:33:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXNvOkD2LO</guid></item><item><title>2/ Thariq는 문제를 네 칸으로 나눕니다.
+아는 걸 아는 것(known knowns)은 프롬프트에 적은 그대로입니다. 모르는 걸 아는 것(...</title><link>https://www.threads.net/@choi.openai/post/DaXNwRxjzJ6</link><description>2/ Thariq는 문제를 네 칸으로 나눕니다.
+아는 걸 아는 것(known knowns)은 프롬프트에 적은 그대로입니다. 모르는 걸 아는 것(known unknowns)은 아직 못 정했지만, 못 정했다는 건 아는 부분입니다. 여기까진 쉽습니다.
+
+어려운 쪽은 뒤 두 칸입니다. 아는데 안 적는 것(unknown knowns)은 너무 당연해서 굳이 안 쓰지만, 보면 바로 "이건 아니지" 하는 것들입니다.
+
+아예 모르는 것(unknown unknowns)은 고려조차 안 한 것. 뭘 물어야 할지도, 잘된 게 어떤 모습인지도 모르는 영역입니다.
+
+잘하는 사람일수록 이 미지의 칸이 좁습니다. 코드베이스와 모델 습성을 몸으로 알고 있어서 애초에 추측할 일이 적습니다. 그런데 이건 타고나는 게 아니라 Claude와 일하며 줄여갈 수 있는 기술이라는 게 이 글의 전제입니다.</description><pubDate>Sat, 04 Jul 2026 07:33:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXNwRxjzJ6</guid></item><item><title>3/ 지시는 균형입니다. 너무 구체적이면 Claude는 방향을 트는 게 나을 때조차 시킨 대로만 갑니다. 너무 모호하면 업계 표준을 가정해서 내...</title><link>https://www.threads.net/@choi.openai/post/DaXNxQOD5tB</link><description>3/ 지시는 균형입니다. 너무 구체적이면 Claude는 방향을 트는 게 나을 때조차 시킨 대로만 갑니다. 너무 모호하면 업계 표준을 가정해서 내 일에 안 맞는 선택을 합니다.
+
+unknown을 계산 안 하면 양쪽으로 다 실패합니다. 길이 막힐 때도, 뻥 뚫려 있어서 Claude가 알아서 틀어도 될 때도 모릅니다.
+
+제가 3월에 소개한 systematicls의 "에이전트 엔지니어링" 원칙이 정확히 이 지점을 짚습니다. "인증 만들어줘"가 아니라 "bcrypt-12에 7일 만료 리프레시 토큰 쓰는 JWT 인증 구현해"처럼 모호성을 걷어내는 것. 그리고 "버그 찾아줘"라고 하면 에이전트가 나를 만족시키려 없는 버그도 만들어내니, "훑어보고 발견한 걸 객관적으로 보고해"라는 중립 프롬프트를 쓰라는 것. 같은 문제를 반대편에서 말한 겁니다.</description><pubDate>Sat, 04 Jul 2026 07:33:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXNxQOD5tB</guid></item><item><title>Claude Fable 입력 토큰을 줄이는 재미있는 방법이 소개되었네요.
+
+Fable 5는 이미지 토큰을 안에 담긴 글자 수가 아니라 픽셀 크기...</title><link>https://www.threads.net/@choi.openai/post/DaXF_F5D89u</link><description>Claude Fable 입력 토큰을 줄이는 재미있는 방법이 소개되었네요.
+
+Fable 5는 이미지 토큰을 안에 담긴 글자 수가 아니라 픽셀 크기로 매긴다고 합니다.(대략 가로×세로÷750). 그래서 텍스트를 이미지로 렌더해 OCR시키면, 글자를 다 토큰화하는 것보다 싸져 59~70%가 빠진다는 건데요.
+
+과고 DeepSeek-OCR·Glyph의 '광학 컨텍스트 압축'을 손으로 흉내내어 긴 텍스트를 비전 토큰에 눌러 담아 7~20배 줄이는 정식 기법의 축소판이죠.
+
+다만 줄어드는 건 입력 토큰뿐입니다. 출력·추론 토큰은 그대로라 답이 긴 작업이면 절감이 미미하고, OCR이 손실이라 코드·숫자를 틀리게 읽을 수 있습니다.
+
+이미지 속 글자가 지시인지 내용인지 모델이 헷갈리면 인젝션 표면도 되고, Claude Code처럼 내부 호출이 많은 루프에선 의미가 없을 가능성이 높지만 픽셀 과금의 허점을 찌른 재미있는 시도인 것 같습니다.</description><pubDate>Sat, 04 Jul 2026 06:25:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXF_F5D89u</guid></item><item><title>깃허브 :
+https://github.com/teamchong/pxpipe</title><link>https://www.threads.net/@choi.openai/post/DaXF_xaD282</link><description>깃허브 :
+https://github.com/teamchong/pxpipe</description><pubDate>Sat, 04 Jul 2026 06:25:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXF_xaD282</guid></item><item><title>카카오 단단히 준비한듯..
+
+카카오가 MCP 기반 개방형 플랫폼 PlayMCP를 활용한 개발 공모전 AGENTIC PLAYER 10을 진행합니다...</title><link>https://www.threads.net/@choi.openai/post/DaWub7rkVek</link><description>카카오 단단히 준비한듯..
+
+카카오가 MCP 기반 개방형 플랫폼 PlayMCP를 활용한 개발 공모전 AGENTIC PLAYER 10을 진행합니다.
+
+참가자는 자신이 개발한 MCP 서버를 PlayMCP에 등록하고 공개해, 다양한 서비스와 연동되는 AI 서비스나 도구를 만들어볼 수 있습니다.
+
+특히 본선에 진출하면 카카오톡 내 Kakao Tools를 통해 서비스가 공개되고, 사용자 투표까지 받을 수 있습니다.
+
+대상은 AI 서비스 개발에 관심 있는 개인 개발자, 스타트업, 대학생 등이며, 예선 접수는 7월 14일까지, 예선 발표는 7월 30일입니다.
+
+대상 1팀은 과학기술정보통신부 장관상과 상금 1,000만 원, 금상 2팀은 각 500만 원, 은상 7팀은 각 100만 원입니다.
+
+MCP나 AI 에이전트 서비스를 만들고 있다면 확인해보셔도 좋겠습니다. 🧵</description><pubDate>Sat, 04 Jul 2026 03:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWub7rkVek</guid></item><item><title>1/ PlayMCP는 카카오의 MCP 플랫폼입니다.
+
+직접 만든 MCP 서버를 등록해 본선에 진출하면, 
+약 1개월간의 추가 개발 및 고도화 과...</title><link>https://www.threads.net/@choi.openai/post/DaWudGCEZ2W</link><description>1/ PlayMCP는 카카오의 MCP 플랫폼입니다.
+
+직접 만든 MCP 서버를 등록해 본선에 진출하면, 
+약 1개월간의 추가 개발 및 고도화 과정을 거쳐 Kakao Tools에 공개될 기회를 얻게 됩니다.
+
+카카오 AI 에이전트 서비스 '카카오툴즈'에 공개될 수 있어, 단순한 개발 공모전을 넘어, 내가 만든 MCP를 실제 사용자가 경험할 수 있는 서비스 형태로 발전시켜 보는 실험의 장이라고 볼 수 있습니다. 
+
+*카카오톡 내 Kakao Tools 공개는 본선 진출작(20팀)에 한해 진행됩니다.</description><pubDate>Sat, 04 Jul 2026 03:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWudGCEZ2W</guid></item><item><title>2/ 참여 방식은 크게 어렵지 않습니다.
+카카오 클라우드에서 MCP 서버 Endpoint를 생성하고, PlayMCP 개발자 콘솔에서 새로운 MC...</title><link>https://www.threads.net/@choi.openai/post/DaWueSNEehW</link><description>2/ 참여 방식은 크게 어렵지 않습니다.
+카카오 클라우드에서 MCP 서버 Endpoint를 생성하고, PlayMCP 개발자 콘솔에서 새로운 MCP 서버 등록을 진행합니다.
+이후 서버 공개 상태를 전체 공개로 바꾸고, 페이지 하단의 Player 예선 참여 버튼을 눌러 접수하면 됩니다.</description><pubDate>Sat, 04 Jul 2026 03:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWueSNEehW</guid></item><item><title>3/ 중요한 점은 카카오툴즈 노출은 본선 진출자에 한해 진행된다는 점입니다.
+
+본선에 오른 20팀은 Kakao Tools를 위한 추가 개발 기간...</title><link>https://www.threads.net/@choi.openai/post/DaWufUyEeK2</link><description>3/ 중요한 점은 카카오툴즈 노출은 본선 진출자에 한해 진행된다는 점입니다.
+
+본선에 오른 20팀은 Kakao Tools를 위한 추가 개발 기간을 거치고, 이후 카카오툴즈 내에서 사용자 투표를 받을 수 있습니다.
+
+최종 수상작은 사용자 투표와 전문가 심사를 합산해 선정됩니다.
+
+예선 접수는 7월 14일까지이고, 예선 발표는 7월 30일입니다.
+
+MCP 서버를 이미 만들어봤거나, AI 도구 아이디어가 있는 분들은 지금 바로 준비해야 할 것 같습니다.</description><pubDate>Sat, 04 Jul 2026 03:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWufUyEeK2</guid></item><item><title>Fable을 사용하면서 내가 더 이상 감독할 수 있는 영역을 넘어섰다는 느낌을 자주 받는다.
 
 이제는 작업이 끝난 뒤 ‘다음에 무엇을 해야 하는...</title><link>https://www.threads.net/@choi.openai/post/DaWmU__DwmT</link><description>Fable을 사용하면서 내가 더 이상 감독할 수 있는 영역을 넘어섰다는 느낌을 자주 받는다.
 
@@ -9,37 +88,4 @@
 
 결국 앞으로의 경쟁력은 눈에 잘 보이지 않는 부분에서 결정될 가능성이 크다. 문제를 정의하는 방식, 방향을 설정하는 감각, 업무를 연결하는 구조, 그리고 작은 디테일까지 끊임없이 개선하는 능력이 점점 더 중요해질 것이다. 이런 요소들이 쌓일수록 사람 간의 격차는 오히려 더 크게 벌어질 것이라고 생각한다.
 
-이전에는 AI 결과물이 만족스럽지 않아 휴먼터치가 많이 필요했다면 이제는 반대로 내가 AI 터치를 받아야겠더라.</description><pubDate>Sat, 04 Jul 2026 01:49:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWmU__DwmT</guid></item><item><title>와우.. 미스트랄이 Leanstral 1.5를 오픈웨이트로 냈습니다.
-6B만 활성화되는 119B 모델인데, Lean 4 정리 증명에서 miniF...</title><link>https://www.threads.net/@choi.openai/post/DaWgtrDj3mU</link><description>와우.. 미스트랄이 Leanstral 1.5를 오픈웨이트로 냈습니다.
-6B만 활성화되는 119B 모델인데, Lean 4 정리 증명에서 miniF2F를 만점으로 채우고 PutnamBench 672문제 중 587개를 풀었습니다.
-
-점수만 보면 새 영역은 아닙니다. Seed-Prover 1.5가 이미 miniF2F를 포화시키고 PutnamBench 88%를 찍었으니까요. 달라진 건 값입니다.
-Leanstral은 문제당 4달러인데, Seed-Prover 고성능 설정은 문제 하나에 H20 GPU를 10일씩 굴립니다. 70배 넘게 싼 걸 6B 오픈 모델로 해낸 거죠.
-
-토큰 예산을 늘릴수록 푸는 문제가 계속 늘어서, 5만 토큰이면 44개, 400만 토큰이면 587개까지 갑니다. 수학용으로만 볼 게 아닙니다.
-
-Rust 레포 57개를 자동으로 Lean으로 옮겨 성질을 증명시켰더니, 테스트·퍼징이 놓친 미보고 버그 5개가 나왔습니다.</description><pubDate>Sat, 04 Jul 2026 01:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWgtrDj3mU</guid></item><item><title>발표내용 :
-https://mistral.ai/news/leanstral-1-5/</title><link>https://www.threads.net/@choi.openai/post/DaWguxmj-EC</link><description>발표내용 :
-https://mistral.ai/news/leanstral-1-5/</description><pubDate>Sat, 04 Jul 2026 01:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWguxmj-EC</guid></item><item><title>Alibaba의 Wan Video에 'Music to Dance' 기능이 추가되었습니다.
-
-캐릭터 이미지를 업로드하고 음악을 넣으면 박자에 맞춰...</title><link>https://www.threads.net/@choi.openai/post/DaWXkvoDwUI</link><description>Alibaba의 Wan Video에 'Music to Dance' 기능이 추가되었습니다.
-
-캐릭터 이미지를 업로드하고 음악을 넣으면 박자에 맞춰 춤추는 영상을 생성할 수 있는데요. Street, Tap, Latin, K-Pop, Chinese Classical 등 여러 춤 스타일을 지원하며 음악의 리듬에 맞춰 동작을 만들어줍니다.
-
-현재는 'wan.video'에서 이용할 수 있으며, Wan 앱에도 곧 추가될 예정입니다.</description><pubDate>Fri, 03 Jul 2026 23:40:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWXkvoDwUI</guid></item><item><title>Fable 5의 활용 사례들이 쏟아지고 있습니다.
-
-게임 하나를 몇 번의 프롬프트만으로 완성하거나, 장난감을 모바일 게임으로 만들고, VRCha...</title><link>https://www.threads.net/@choi.openai/post/DaVSoi6j9Z7</link><description>Fable 5의 활용 사례들이 쏟아지고 있습니다.
-
-게임 하나를 몇 번의 프롬프트만으로 완성하거나, 장난감을 모바일 게임으로 만들고, VRChat 월드와 3D 게임, Blender 렌더링, 맞춤형 광고 제작까지 해내는 사례가 계속 올라오고 있습니다.
-
-실제로 어떤 결과물이 나왔는지 놀라운 활용 사례 10가지를 정리했습니다🧵</description><pubDate>Fri, 03 Jul 2026 13:37:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaVSoi6j9Z7</guid></item><item><title>1/ Fable 5를 이용하면 최근 매매된 주택 사진과 위성 데이터를 분석해 그늘이 부족한 마당을 찾아내고, 차양 설치 모습을 합성한 맞춤 제안...</title><link>https://www.threads.net/@choi.openai/post/DaVRUFUDACz</link><description>1/ Fable 5를 이용하면 최근 매매된 주택 사진과 위성 데이터를 분석해 그늘이 부족한 마당을 찾아내고, 차양 설치 모습을 합성한 맞춤 제안서를 자동으로 만들 수 있습니다.
-
-다만 해당 게시물의 영상은 실제 작동 사례가 아닌 설명용 애니메이션이라는 지적이 있으며, 실제 운영 시스템으로 검증된 내용은 아닙니다.
-
-x/@everestchris6</description><pubDate>Fri, 03 Jul 2026 13:37:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaVRUFUDACz</guid></item><item><title>2/ Blender에서 Fable 5, GLM, Sonnet 5, GPT 5.5를 같은 조건으로 비교하자, Fable 5가 가장 깔끔한 3D 렌...</title><link>https://www.threads.net/@choi.openai/post/DaVRZ0-GAdw</link><description>2/ Blender에서 Fable 5, GLM, Sonnet 5, GPT 5.5를 같은 조건으로 비교하자, Fable 5가 가장 깔끔한 3D 렌더링 결과를 보여줬습니다.
-
-x@NBhargava18</description><pubDate>Fri, 03 Jul 2026 13:38:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaVRZ0-GAdw</guid></item><item><title>3/ Rork에서 Fable 5를 사용하자, 약 1시간 만에 "Subway Surfers" 스타일의 3D 게임을 아이디어부터 게임 아트, 3D ...</title><link>https://www.threads.net/@choi.openai/post/DaVRhuJAAVd</link><description>3/ Rork에서 Fable 5를 사용하자, 약 1시간 만에 "Subway Surfers" 스타일의 3D 게임을 아이디어부터 게임 아트, 3D 모델, 코드까지 구현했습니다.
-
-복잡한 프롬프트 대신 자연어만으로 게임 제작 과정을 진행했으며, 전체 제작 과정을 함께 공개했습니다.
-
-x@alexcooldev</description><pubDate>Fri, 03 Jul 2026 13:38:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaVRhuJAAVd</guid></item></channel></rss>
+이전에는 AI 결과물이 만족스럽지 않아 휴먼터치가 많이 필요했다면 이제는 반대로 내가 AI 터치를 받아야겠더라.</description><pubDate>Sat, 04 Jul 2026 01:49:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWmU__DwmT</guid></item></channel></rss>
