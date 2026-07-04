@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 04 Jul 2026 10:09:33 +0000</lastBuildDate><item><title>앤트로픽 역대 최강 모델 Fable 5가 나온 지 한 달도 안 됐는데, 이걸 만든 팀에서 사용법을 내놨습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 04 Jul 2026 15:52:53 +0000</lastBuildDate><item><title>진짜 올해 가장 잘한 일은 스레드에서 이분 팔로우 한 것입니다.</title><link>https://www.threads.net/@choi.openai/post/DaX6CCck7kM</link><description>진짜 올해 가장 잘한 일은 스레드에서 이분 팔로우 한 것입니다.</description><pubDate>Sat, 04 Jul 2026 14:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaX6CCck7kM</guid></item><item><title>회사 환경을 디지털 트윈으로 구축해봤습니다.
+
+각 에이전트 별로 접근 권한을 제한해서 본인 컴퓨터에서 설정한 영역에서만 작업을 수행하고 권한이 ...</title><link>https://www.threads.net/@choi.openai/post/DaXsW7fCAXA</link><description>회사 환경을 디지털 트윈으로 구축해봤습니다.
+
+각 에이전트 별로 접근 권한을 제한해서 본인 컴퓨터에서 설정한 영역에서만 작업을 수행하고 권한이 있는 에이전트에게 탑다운으로 명령을 수행하고 결과물은 보안 절차에 맞게 바텀-업 하는 구조입니다.
+
+각 직원 컴퓨터에서 참여할 수 있고 실행전에는 휴먼의 승인이나 오토 구조로 돌아갑니다. 
+
+캐릭터는 모델링으로 원하는 모델을 넣을 수 있게 해서 좀 더 보기 편한구조로 해봤는데 3D 시각화로 만드니 재미있는 것 같네요.</description><pubDate>Sat, 04 Jul 2026 12:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXsW7fCAXA</guid></item><item><title>OpenWiki가 나왔습니다. GitHub 레포를 넣으면 코드가 바뀔 때마다 갱신되는 문서 사이트를 자동 생성하는 오픈소스 도구입니다.
+
+자동 ...</title><link>https://www.threads.net/@choi.openai/post/DaXiCeaDZhN</link><description>OpenWiki가 나왔습니다. GitHub 레포를 넣으면 코드가 바뀔 때마다 갱신되는 문서 사이트를 자동 생성하는 오픈소스 도구입니다.
+
+자동 위키 자체는 DeepWiki가 먼저 열었습니다. OpenWiki가 다른 건 계속 갱신된다는 점인데요. 문서를 사람이 손으로 유지하는 게 아니라 소스에서 파생돼 빌드처럼 다시 만들어지게 해서, 코드는 바뀌는데 문서만 낡는 문제를 구조적으로 막습니다.
+
+더 큰 그림은 이게 Vercel의 eve('에이전트용 Next.js') 쇼케이스라는 점입니다. 웹앱은 durable 에이전트를 소비할 뿐이고, 코드 분석·위키 생성은 백그라운드 잡으로 돌아가며 Neon에 상태, Blob에 산출물을 쌓습니다. 에이전트가 파생물을 만들어 신선하게 유지하는 앱의 표준형인 거죠.
+
+다만 자동 문서는 코드가 무엇을 하는지는 잘 적어도, 왜 그렇게 짰는지(설계 의도·트레이드오프)는 못 채웁니다. 그 부분은 여전히 사람 몫입니다.</description><pubDate>Sat, 04 Jul 2026 10:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXiCeaDZhN</guid></item><item><title>주소 :
+https://openwiki.sh/</title><link>https://www.threads.net/@choi.openai/post/DaXiDrtjVx3</link><description>주소 :
+https://openwiki.sh/</description><pubDate>Sat, 04 Jul 2026 10:31:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXiDrtjVx3</guid></item><item><title>앤트로픽 역대 최강 모델 Fable 5가 나온 지 한 달도 안 됐는데, 이걸 만든 팀에서 사용법을 내놨습니다.
 
 그런데 요지가 뒤집혀 있습니다....</title><link>https://www.threads.net/@choi.openai/post/DaXNultjy9x</link><description>앤트로픽 역대 최강 모델 Fable 5가 나온 지 한 달도 안 됐는데, 이걸 만든 팀에서 사용법을 내놨습니다.
 
@@ -29,63 +47,4 @@ Claude Code를 만드는 Thariq는 Fable을 두고 "작업 품질이 모델이 �
 
 unknown을 계산 안 하면 양쪽으로 다 실패합니다. 길이 막힐 때도, 뻥 뚫려 있어서 Claude가 알아서 틀어도 될 때도 모릅니다.
 
-제가 3월에 소개한 systematicls의 "에이전트 엔지니어링" 원칙이 정확히 이 지점을 짚습니다. "인증 만들어줘"가 아니라 "bcrypt-12에 7일 만료 리프레시 토큰 쓰는 JWT 인증 구현해"처럼 모호성을 걷어내는 것. 그리고 "버그 찾아줘"라고 하면 에이전트가 나를 만족시키려 없는 버그도 만들어내니, "훑어보고 발견한 걸 객관적으로 보고해"라는 중립 프롬프트를 쓰라는 것. 같은 문제를 반대편에서 말한 겁니다.</description><pubDate>Sat, 04 Jul 2026 07:33:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXNxQOD5tB</guid></item><item><title>Claude Fable 입력 토큰을 줄이는 재미있는 방법이 소개되었네요.
-
-Fable 5는 이미지 토큰을 안에 담긴 글자 수가 아니라 픽셀 크기...</title><link>https://www.threads.net/@choi.openai/post/DaXF_F5D89u</link><description>Claude Fable 입력 토큰을 줄이는 재미있는 방법이 소개되었네요.
-
-Fable 5는 이미지 토큰을 안에 담긴 글자 수가 아니라 픽셀 크기로 매긴다고 합니다.(대략 가로×세로÷750). 그래서 텍스트를 이미지로 렌더해 OCR시키면, 글자를 다 토큰화하는 것보다 싸져 59~70%가 빠진다는 건데요.
-
-과고 DeepSeek-OCR·Glyph의 '광학 컨텍스트 압축'을 손으로 흉내내어 긴 텍스트를 비전 토큰에 눌러 담아 7~20배 줄이는 정식 기법의 축소판이죠.
-
-다만 줄어드는 건 입력 토큰뿐입니다. 출력·추론 토큰은 그대로라 답이 긴 작업이면 절감이 미미하고, OCR이 손실이라 코드·숫자를 틀리게 읽을 수 있습니다.
-
-이미지 속 글자가 지시인지 내용인지 모델이 헷갈리면 인젝션 표면도 되고, Claude Code처럼 내부 호출이 많은 루프에선 의미가 없을 가능성이 높지만 픽셀 과금의 허점을 찌른 재미있는 시도인 것 같습니다.</description><pubDate>Sat, 04 Jul 2026 06:25:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXF_F5D89u</guid></item><item><title>깃허브 :
-https://github.com/teamchong/pxpipe</title><link>https://www.threads.net/@choi.openai/post/DaXF_xaD282</link><description>깃허브 :
-https://github.com/teamchong/pxpipe</description><pubDate>Sat, 04 Jul 2026 06:25:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXF_xaD282</guid></item><item><title>카카오 단단히 준비한듯..
-
-카카오가 MCP 기반 개방형 플랫폼 PlayMCP를 활용한 개발 공모전 AGENTIC PLAYER 10을 진행합니다...</title><link>https://www.threads.net/@choi.openai/post/DaWub7rkVek</link><description>카카오 단단히 준비한듯..
-
-카카오가 MCP 기반 개방형 플랫폼 PlayMCP를 활용한 개발 공모전 AGENTIC PLAYER 10을 진행합니다.
-
-참가자는 자신이 개발한 MCP 서버를 PlayMCP에 등록하고 공개해, 다양한 서비스와 연동되는 AI 서비스나 도구를 만들어볼 수 있습니다.
-
-특히 본선에 진출하면 카카오톡 내 Kakao Tools를 통해 서비스가 공개되고, 사용자 투표까지 받을 수 있습니다.
-
-대상은 AI 서비스 개발에 관심 있는 개인 개발자, 스타트업, 대학생 등이며, 예선 접수는 7월 14일까지, 예선 발표는 7월 30일입니다.
-
-대상 1팀은 과학기술정보통신부 장관상과 상금 1,000만 원, 금상 2팀은 각 500만 원, 은상 7팀은 각 100만 원입니다.
-
-MCP나 AI 에이전트 서비스를 만들고 있다면 확인해보셔도 좋겠습니다. 🧵</description><pubDate>Sat, 04 Jul 2026 03:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWub7rkVek</guid></item><item><title>1/ PlayMCP는 카카오의 MCP 플랫폼입니다.
-
-직접 만든 MCP 서버를 등록해 본선에 진출하면, 
-약 1개월간의 추가 개발 및 고도화 과...</title><link>https://www.threads.net/@choi.openai/post/DaWudGCEZ2W</link><description>1/ PlayMCP는 카카오의 MCP 플랫폼입니다.
-
-직접 만든 MCP 서버를 등록해 본선에 진출하면, 
-약 1개월간의 추가 개발 및 고도화 과정을 거쳐 Kakao Tools에 공개될 기회를 얻게 됩니다.
-
-카카오 AI 에이전트 서비스 '카카오툴즈'에 공개될 수 있어, 단순한 개발 공모전을 넘어, 내가 만든 MCP를 실제 사용자가 경험할 수 있는 서비스 형태로 발전시켜 보는 실험의 장이라고 볼 수 있습니다. 
-
-*카카오톡 내 Kakao Tools 공개는 본선 진출작(20팀)에 한해 진행됩니다.</description><pubDate>Sat, 04 Jul 2026 03:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWudGCEZ2W</guid></item><item><title>2/ 참여 방식은 크게 어렵지 않습니다.
-카카오 클라우드에서 MCP 서버 Endpoint를 생성하고, PlayMCP 개발자 콘솔에서 새로운 MC...</title><link>https://www.threads.net/@choi.openai/post/DaWueSNEehW</link><description>2/ 참여 방식은 크게 어렵지 않습니다.
-카카오 클라우드에서 MCP 서버 Endpoint를 생성하고, PlayMCP 개발자 콘솔에서 새로운 MCP 서버 등록을 진행합니다.
-이후 서버 공개 상태를 전체 공개로 바꾸고, 페이지 하단의 Player 예선 참여 버튼을 눌러 접수하면 됩니다.</description><pubDate>Sat, 04 Jul 2026 03:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWueSNEehW</guid></item><item><title>3/ 중요한 점은 카카오툴즈 노출은 본선 진출자에 한해 진행된다는 점입니다.
-
-본선에 오른 20팀은 Kakao Tools를 위한 추가 개발 기간...</title><link>https://www.threads.net/@choi.openai/post/DaWufUyEeK2</link><description>3/ 중요한 점은 카카오툴즈 노출은 본선 진출자에 한해 진행된다는 점입니다.
-
-본선에 오른 20팀은 Kakao Tools를 위한 추가 개발 기간을 거치고, 이후 카카오툴즈 내에서 사용자 투표를 받을 수 있습니다.
-
-최종 수상작은 사용자 투표와 전문가 심사를 합산해 선정됩니다.
-
-예선 접수는 7월 14일까지이고, 예선 발표는 7월 30일입니다.
-
-MCP 서버를 이미 만들어봤거나, AI 도구 아이디어가 있는 분들은 지금 바로 준비해야 할 것 같습니다.</description><pubDate>Sat, 04 Jul 2026 03:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWufUyEeK2</guid></item><item><title>Fable을 사용하면서 내가 더 이상 감독할 수 있는 영역을 넘어섰다는 느낌을 자주 받는다.
-
-이제는 작업이 끝난 뒤 ‘다음에 무엇을 해야 하는...</title><link>https://www.threads.net/@choi.openai/post/DaWmU__DwmT</link><description>Fable을 사용하면서 내가 더 이상 감독할 수 있는 영역을 넘어섰다는 느낌을 자주 받는다.
-
-이제는 작업이 끝난 뒤 ‘다음에 무엇을 해야 하는가’를 결정하는 일이 오히려 병목이 되어가는 것 같다.
-
-개인 업무에서는 ROI를 최대한 높여야 하지만, 대부분의 실행을 모델이 대신할 수 있게 되면서 누구나 이전보다 훨씬 높은 수준의 결과물을 만들 수 있는 시대가 되었다. 상향평준화는 이미 시작됐고, AI를 활용하는 것만으로는 차별화가 어려워지고 있다.
-
-결국 앞으로의 경쟁력은 눈에 잘 보이지 않는 부분에서 결정될 가능성이 크다. 문제를 정의하는 방식, 방향을 설정하는 감각, 업무를 연결하는 구조, 그리고 작은 디테일까지 끊임없이 개선하는 능력이 점점 더 중요해질 것이다. 이런 요소들이 쌓일수록 사람 간의 격차는 오히려 더 크게 벌어질 것이라고 생각한다.
-
-이전에는 AI 결과물이 만족스럽지 않아 휴먼터치가 많이 필요했다면 이제는 반대로 내가 AI 터치를 받아야겠더라.</description><pubDate>Sat, 04 Jul 2026 01:49:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaWmU__DwmT</guid></item></channel></rss>
+제가 3월에 소개한 systematicls의 "에이전트 엔지니어링" 원칙이 정확히 이 지점을 짚습니다. "인증 만들어줘"가 아니라 "bcrypt-12에 7일 만료 리프레시 토큰 쓰는 JWT 인증 구현해"처럼 모호성을 걷어내는 것. 그리고 "버그 찾아줘"라고 하면 에이전트가 나를 만족시키려 없는 버그도 만들어내니, "훑어보고 발견한 걸 객관적으로 보고해"라는 중립 프롬프트를 쓰라는 것. 같은 문제를 반대편에서 말한 겁니다.</description><pubDate>Sat, 04 Jul 2026 07:33:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXNxQOD5tB</guid></item></channel></rss>
