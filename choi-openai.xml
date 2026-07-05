@@ -1,33 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 05 Jul 2026 10:12:12 +0000</lastBuildDate><item><title>Fable을 대하는 자세.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 05 Jul 2026 15:59:08 +0000</lastBuildDate><item><title>Meituan이 'LongCat-2.0'을 MIT 라이선스로 완전 오픈소스 공개했습니다.
 
-하수 : 구독제에 정식 편입되면 구독해야지.
-고수 : 앤트로픽이 400달러 플랜으로 출시하겠구나.</title><link>https://www.threads.net/@choi.openai/post/DaZaxviD_Yk</link><description>Fable을 대하는 자세.
+모델 가중치와 추론 코드까지 모두 공개됐으며, 1.6...</title><link>https://www.threads.net/@choi.openai/post/Daaj_h9j8l_</link><description>Meituan이 'LongCat-2.0'을 MIT 라이선스로 완전 오픈소스 공개했습니다.
 
-하수 : 구독제에 정식 편입되면 구독해야지.
-고수 : 앤트로픽이 400달러 플랜으로 출시하겠구나.</description><pubDate>Sun, 05 Jul 2026 04:05:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaZaxviD_Yk</guid></item><item><title>초고수 : 카카오가 정말 미친 이벤트를 했던거구나.</title><link>https://www.threads.net/@choi.openai/post/DaZa4Quj9I9</link><description>초고수 : 카카오가 정말 미친 이벤트를 했던거구나.</description><pubDate>Sun, 05 Jul 2026 04:06:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaZa4Quj9I9</guid></item><item><title>이번주도 AI 업계는 충격적인 소식으로 가득했습니다.
+모델 가중치와 추론 코드까지 모두 공개됐으며, 1.6T MoE 구조에서 약 480억 개의 활성 파라미터를 사용하는 모델입니다. 최대 100만 토큰 컨텍스트를 지원하며, Claude Code, OpenClaw, Hermes Agent와 바로 연동할 수 있도록 설계되었습니다.
 
-앤트로픽의 역대 최강 모델 Fable5 재출시 부터, 한국 2000조 반도체 투자까지.
-...</title><link>https://www.threads.net/@choi.openai/post/DaZTG8ND-9R</link><description>이번주도 AI 업계는 충격적인 소식으로 가득했습니다.
+GPU뿐 아니라 NPU 환경도 지원하며, 허깅페이스에서 이용이 가능합니다. GitHub를 통해 추론 코드도 함께 공개됐는데요.
 
-앤트로픽의 역대 최강 모델 Fable5 재출시 부터, 한국 2000조 반도체 투자까지.
+최근 공개 이후 개발자들의 관심을 모았던 LongCat-2.0이 이제 라이선스 제약 없이 누구나 연구와 개발에 활용할 수 있게 되었습니다.</description><pubDate>Sun, 05 Jul 2026 14:45:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Daaj_h9j8l_</guid></item><item><title>허깅페이스 :
+https://huggingface.co/meituan-longcat/LongCat-2.0</title><link>https://www.threads.net/@choi.openai/post/DaakAPej0Xe</link><description>허깅페이스 :
+https://huggingface.co/meituan-longcat/LongCat-2.0</description><pubDate>Sun, 05 Jul 2026 14:45:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaakAPej0Xe</guid></item><item><title>정말 놀라운 사례네요. 
+해리포터의 톰 리들 일기장을 AI로 구현했는데, 어릴 때 상상하던 인터페이스가 현실이 되는 걸 보는 기분입니다.
 
-이 정보 격차는 늦기 전에 반드시 따라잡아야 합니다.
+x@...</title><link>https://www.threads.net/@choi.openai/post/DaaaQ27mXmb</link><description>정말 놀라운 사례네요. 
+해리포터의 톰 리들 일기장을 AI로 구현했는데, 어릴 때 상상하던 인터페이스가 현실이 되는 걸 보는 기분입니다.
 
-정말 도움되는 AI 업데이트 소식을 엄선했습니다. 🧵</description><pubDate>Sun, 05 Jul 2026 02:58:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaZTG8ND-9R</guid></item><item><title>1/ 앤트로픽의 가장 강력한 모델 Fable 5가 수출통제가 해제되었습니다.
-이전 활용 사례를 모아 실제로 어디까지 가능한지 보여줍니다.</title><link>https://www.threads.net/@choi.openai/post/DaZTHgVjyJf</link><description>1/ 앤트로픽의 가장 강력한 모델 Fable 5가 수출통제가 해제되었습니다.
-이전 활용 사례를 모아 실제로 어디까지 가능한지 보여줍니다.</description><pubDate>Sun, 05 Jul 2026 02:59:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaZTHgVjyJf</guid></item><item><title>2/ 구글이 Nano Banana 2 Lite와 Gemini Omni Flash를 공개했습니다.
-이미지 1장은 4초 이내, 동영상 편집은 초당 ...</title><link>https://www.threads.net/@choi.openai/post/DaZTIBaj6AU</link><description>2/ 구글이 Nano Banana 2 Lite와 Gemini Omni Flash를 공개했습니다.
-이미지 1장은 4초 이내, 동영상 편집은 초당 0.10달러 수준입니다.
+x@MaximeRivest</description><pubDate>Sun, 05 Jul 2026 13:21:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaaaQ27mXmb</guid></item><item><title>안드레 카파시(Andrej Karpathy)는 “AGI는 일종의 AI 에이전트 형태를 띠게 될 것”이라고 전망했습니다.
 
-* 1000장 기준이 아닌 1K 화상도당 0.034달러.</description><pubDate>Sun, 05 Jul 2026 02:59:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaZTIBaj6AU</guid></item><item><title>3/ 정부는 2035년까지 AI 데이터센터에 1000조 원을 지원할 계획입니다.
-실제 핵심은 돈보다 전력, 물, 부지 확보라는 점입니다.</title><link>https://www.threads.net/@choi.openai/post/DaZTIh-j7C7</link><description>3/ 정부는 2035년까지 AI 데이터센터에 1000조 원을 지원할 계획입니다.
-실제 핵심은 돈보다 전력, 물, 부지 확보라는 점입니다.</description><pubDate>Sun, 05 Jul 2026 02:59:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaZTIh-j7C7</guid></item><item><title>진짜 올해 가장 잘한 일은 스레드에서 이분 팔로우 한 것입니다.</title><link>https://www.threads.net/@choi.openai/post/DaX6CCck7kM</link><description>진짜 올해 가장 잘한 일은 스레드에서 이분 팔로우 한 것입니다.</description><pubDate>Sat, 04 Jul 2026 14:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaX6CCck7kM</guid></item><item><title>회사 환경을 디지털 트윈으로 구축해봤습니다.
+그는 오픈AI 시절 강...</title><link>https://www.threads.net/@choi.openai/post/DaaRqpVmgIw</link><description>안드레 카파시(Andrej Karpathy)는 “AGI는 일종의 AI 에이전트 형태를 띠게 될 것”이라고 전망했습니다.
 
-각 에이전트 별로 접근 권한을 제한해서 본인 컴퓨터에서 설정한 영역에서만 작업을 수행하고 권한이 ...</title><link>https://www.threads.net/@choi.openai/post/DaXsW7fCAXA</link><description>회사 환경을 디지털 트윈으로 구축해봤습니다.
+그는 오픈AI 시절 강화학습 기반의 에이전트 프로젝트인 'World of Bits'를 진행했으나, 당시 기술적 한계로 실패했던 경험을 공유했습니다. 이후 자율주행 기술 등을 거쳐 5년이 지난 지금, LLM의 발전과 함께 AI 에이전트가 다시 주목받는 시대가 열렸다고 분석했습니다.
 
-각 에이전트 별로 접근 권한을 제한해서 본인 컴퓨터에서 설정한 영역에서만 작업을 수행하고 권한이 있는 에이전트에게 탑다운으로 명령을 수행하고 결과물은 보안 절차에 맞게 바텀-업 하는 구조입니다.
+카파시는 에이전트 개발이 데모를 만들기는 쉽지만, 실제 상용 제품으로 완성하기까지는 10년이 걸리는 장기적인 과제라고 강조했습니다. 성능을 극대화하기 위해서는 인간의 뇌 구조와 인지 도구(해마의 기억 흔적 및 인덱싱 등)에서 영감을 받아 계획, 성찰, 검색 시스템을 통합한 디지털 실체를 구축해야 한다고 설명했습니다.
 
-각 직원 컴퓨터에서 참여할 수 있고 실행전에는 휴먼의 승인이나 오토 구조로 돌아갑니다. 
+특히 오픈AI 같은 대형 랩이 거대 트랜스포머 훈련에 집중하는 사이, 실제 에이전트 기술의 최전선을 이끄는 것은 해커와 창업가들이라며 이들의 역할을 높이 평가했습니다.</description><pubDate>Sun, 05 Jul 2026 12:08:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaaRqpVmgIw</guid></item><item><title>Fable 5로 만드는 결과물의 수준이 계속 올라가고 있습니다.
 
-캐릭터는 모델링으로 원하는 모델을 넣을 수 있게 해서 좀 더 보기 편한구조로 해봤는데 3D 시각화로 만드니 재미있는 것 같네요.</description><pubDate>Sat, 04 Jul 2026 12:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaXsW7fCAXA</guid></item></channel></rss>
+하룻밤 만에 멀티플레이어 게임을 만들고, 3D 쇼핑몰과 건축 모델, 게임 프로...</title><link>https://www.threads.net/@choi.openai/post/DaaFVy0jwFe</link><description>Fable 5로 만드는 결과물의 수준이 계속 올라가고 있습니다.
+
+하룻밤 만에 멀티플레이어 게임을 만들고, 3D 쇼핑몰과 건축 모델, 게임 프로토타입까지 완성한 사례들이 올라오고 있습니다.
+
+놀라운 활용 사례 15가지를 모았습니다 🧵</description><pubDate>Sun, 05 Jul 2026 10:17:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaaFVy0jwFe</guid></item><item><title>1/ Fable 5로 만든 탑다운 멀티플레이어 슈팅 게임을 계속 발전시켜, 4개 맵, 3가지 게임 모드, 튜토리얼, 봇, 계정 진행 시스템까지 ...</title><link>https://www.threads.net/@choi.openai/post/DaaD4jElWmN</link><description>1/ Fable 5로 만든 탑다운 멀티플레이어 슈팅 게임을 계속 발전시켜, 4개 맵, 3가지 게임 모드, 튜토리얼, 봇, 계정 진행 시스템까지 추가했습니다.
+
+게임 로직은 Fable 5로 만들고, 음성과 효과음은 ElevenLabs를 활용해 실제 서비스 수준으로 개발을 이어가고 있습니다.
+
+x@wescld</description><pubDate>Sun, 05 Jul 2026 10:17:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaaD4jElWmN</guid></item><item><title>2/ Fable 5로 Three.js 기반 GTA 2 핵심 시스템을 먼저 만든 뒤, 이후 개발은 Opus와 GPT-5.5가 이어받아 프로토타입을...</title><link>https://www.threads.net/@choi.openai/post/DaaFXSQj2Da</link><description>2/ Fable 5로 Three.js 기반 GTA 2 핵심 시스템을 먼저 만든 뒤, 이후 개발은 Opus와 GPT-5.5가 이어받아 프로토타입을 완성했습니다.
+
+차량 물리와 맵 생성기 같은 핵심 엔진은 Fable 5가 구축했고, 앞으로는 모델별 역할을 나눠 토큰 비용을 줄이는 개발 방식을 실험할 예정입니다.</description><pubDate>Sun, 05 Jul 2026 10:18:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaaFXSQj2Da</guid></item><item><title>3/ Fable 5에 아이디어만 설명해 3D 라인 디펜스 게임을 만들고, 100개 스테이지와 성장 시스템, 미니맵, 보스전까지 구현했습니다.
+
+...</title><link>https://www.threads.net/@choi.openai/post/DaaFXzaD1N1</link><description>3/ Fable 5에 아이디어만 설명해 3D 라인 디펜스 게임을 만들고, 100개 스테이지와 성장 시스템, 미니맵, 보스전까지 구현했습니다.
+
+게임 기획부터 핵심 시스템 구현까지 자연어만으로 빠르게 진행되면서, 웹게임 개발 속도가 크게 빨라지고 있습니다.</description><pubDate>Sun, 05 Jul 2026 10:18:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaaFXzaD1N1</guid></item></channel></rss>
