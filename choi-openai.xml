@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 07 Jul 2026 10:55:05 +0000</lastBuildDate><item><title>Boris Cherny는 2025년 2월에는 Claude Code가 작성하는 코드 비중이 약 10%였지만, 5월에는 30~40%까지 늘었다고 말...</title><link>https://www.threads.net/@choi.openai/post/DaeZebgkpGX</link><description>Boris Cherny는 2025년 2월에는 Claude Code가 작성하는 코드 비중이 약 10%였지만, 5월에는 30~40%까지 늘었다고 말했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 07 Jul 2026 17:03:50 +0000</lastBuildDate><item><title>🫶🏻🫶🏻</title><link>https://www.threads.net/@choi.openai/post/DafldbijyzK</link><description>🫶🏻🫶🏻</description><pubDate>Tue, 07 Jul 2026 13:34:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DafldbijyzK</guid></item><item><title>AI 연구자들이 논문보다 먼저 읽는 블로그가 있습니다..
+
+오픈AI 안전 연구 부사장 출신, 지금은 미라 무라티와 씽킹머신즈를 세운 릴리안 웽의...</title><link>https://www.threads.net/@choi.openai/post/DafZipXD6aG</link><description>AI 연구자들이 논문보다 먼저 읽는 블로그가 있습니다..
+
+오픈AI 안전 연구 부사장 출신, 지금은 미라 무라티와 씽킹머신즈를 세운 릴리안 웽의 Lil'Log인데요. 
+
+모델은 한 줄도 안 고쳤는데 SWE-bench 점수가 20%에서 50%로 뛰었습니다.
+바뀐 건 모델을 둘러싼 껍데기, 하네스뿐입니다.
+
+릴리안 웽이 7월 4일, 이 하네스가 AI 자기개선의 시작점이라는 글을 올렸습니다.
+
+무엇이 담겼는지 정리했습니다 🧵</description><pubDate>Tue, 07 Jul 2026 11:50:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DafZipXD6aG</guid></item><item><title>1/ 릴리안 웽이 7월 4일 자신의 블로그 Lil'Log에 '자기개선을 위한 하네스 엔지니어링'이라는 28분짜리 글을 올렸습니다.
+
+웽은 오픈A...</title><link>https://www.threads.net/@choi.openai/post/DafZjOYj2vu</link><description>1/ 릴리안 웽이 7월 4일 자신의 블로그 Lil'Log에 '자기개선을 위한 하네스 엔지니어링'이라는 28분짜리 글을 올렸습니다.
+
+웽은 오픈AI에서 AI 안전 연구를 부사장으로 이끌다가, 지금은 미라 무라티가 세운 씽킹머신즈랩을 공동창업한 인물입니다.
+연구자들 사이에서 이 블로그는 어지간한 리뷰 논문보다 낫다는 말을 듣는데요. 이번 글도 X 공지 다섯 시간 만에 조회 9만을 넘겼습니다.
+
+주제는 재귀적 자기개선(RSI)입니다. AI가 자기 지능을 만들어내는 장치를 스스로 개선하는 되먹임 고리를 뜻하고, 1965년 수학자 어빙 존 굿이 초지능 기계 개념으로 처음 그린 그림입니다.</description><pubDate>Tue, 07 Jul 2026 11:50:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DafZjOYj2vu</guid></item><item><title>2/ 하네스(harness)는 원래 말에 채우는 마구를 가리키는 단어입니다.
+여기서는 베이스 모델을 둘러싸고 실행을 지휘하는 시스템 전체를 의미...</title><link>https://www.threads.net/@choi.openai/post/DafZkO7D-qb</link><description>2/ 하네스(harness)는 원래 말에 채우는 마구를 가리키는 단어입니다.
+여기서는 베이스 모델을 둘러싸고 실행을 지휘하는 시스템 전체를 의미합니다. 모델이 어떻게 생각하고 계획할지, 도구를 언제 부를지, 무엇을 보고 기억할지, 산출물을 어디에 저장하고 결과를 어떻게 평가할지를 이 층이 정합니다. Claude Code와 Codex가 대표 사례입니다.
+
+웽은 raw 모델과 실세계 사이의 이 층이 모델의 지능만큼 중요해 보인다고 적었는데, X에서 가장 많이 인용된 문장이 이겁니다.
+
+저자 본인의 이력이 재밌는 대목입니다. 2023년 6월에 '에이전트 = LLM + 메모리 + 도구 + 계획'이라는 공식을 퍼뜨린 글을 쓴 사람이 웽입니다.
+3년이 지나 그 저자가 직접, 이제는 워크플로 설계와 평가, 권한 통제, 영속 상태 관리까지 넣어야 한다고 공식을 고쳐 쓴 겁니다.</description><pubDate>Tue, 07 Jul 2026 11:50:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DafZkO7D-qb</guid></item><item><title>3/ 웽이 추린 설계 패턴은 세 가지입니다.
+
+첫 번째는 워크플로 자동화입니다. 계획하고, 실행하고, 결과를 관측하고, 고치고, 다시 실행하는 ...</title><link>https://www.threads.net/@choi.openai/post/DafZlXLD-h9</link><description>3/ 웽이 추린 설계 패턴은 세 가지입니다.
+
+첫 번째는 워크플로 자동화입니다. 계획하고, 실행하고, 결과를 관측하고, 고치고, 다시 실행하는 목표 지향 루프인데요. 카파시가 3월에 공개한 autoresearch가 깔끔한 사례로 언급됩니다. GPU 한 장에서 5분짜리 훈련을 돌리고 검증 지표 하나로 개선 여부를 판정하며, 에이전트가 밤새 실험을 반복하는 구조입니다.
+
+두 번째는 파일 시스템을 영속 메모리로 쓰는 패턴입니다. 실험 로그와 코드 변경분, 실패 흔적은 컨텍스트 창보다 훨씬 길게 자라니, 상태를 컨텍스트에 이어 붙이지 말고 파일로 남기라는 겁니다. 파일을 읽고 쓰는 건 모델의 기본기라 모델이 좋아질수록 이 메모리 관리도 같이 좋아집니다.
+
+세 번째는 서브에이전트와 백그라운드 작업입니다. 병렬 탐색의 결과가 대화 컨텍스트 안에만 있으면 곧 묻히고, 파일과 로그로 남아 있으면 중단 뒤에도 복구가 됩니다.</description><pubDate>Tue, 07 Jul 2026 11:50:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DafZlXLD-h9</guid></item><item><title>Boris Cherny는 2025년 2월에는 Claude Code가 작성하는 코드 비중이 약 10%였지만, 5월에는 30~40%까지 늘었다고 말...</title><link>https://www.threads.net/@choi.openai/post/DaeZebgkpGX</link><description>Boris Cherny는 2025년 2월에는 Claude Code가 작성하는 코드 비중이 약 10%였지만, 5월에는 30~40%까지 늘었다고 말했습니다.
 
 Sonnet 4 공개 이후 코딩 성능이 크게 좋아졌고, 2025년 겨울에는 작성한 코드의 100%를 Claude Code가 만들었으며 직접 작성한 코드는 한 줄도 없었다고 밝혔습니다.</description><pubDate>Tue, 07 Jul 2026 02:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaeZebgkpGX</guid></item><item><title>이제 회사도 게임 처럼 경영해야한다.
 
@@ -7,24 +40,4 @@ Sonnet 4 공개 이후 코딩 성능이 크게 좋아졌고, 2025년 겨울에�
 경영도 디지털 트윈으로..</title><link>https://www.threads.net/@choi.openai/post/DaeNfNAmCyU</link><description>이제 회사도 게임 처럼 경영해야한다.
 
 일단 DX가 되어있으면 어떻게든 확장이 가능하다.
-경영도 디지털 트윈으로..</description><pubDate>Tue, 07 Jul 2026 00:47:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaeNfNAmCyU</guid></item><item><title>와.. 이건 좀 다릅니다.
-제너럴 인튜이션과 큐타이가 로켓 리그를 통째로 신경망에 담은 MIRA를 공개했습니다.
-
-게임 엔진도 물리 코드도 없습...</title><link>https://www.threads.net/@choi.openai/post/DaeIOrKAWyt</link><description>와.. 이건 좀 다릅니다.
-제너럴 인튜이션과 큐타이가 로켓 리그를 통째로 신경망에 담은 MIRA를 공개했습니다.
-
-게임 엔진도 물리 코드도 없습니다. 봇끼리 붙어 만든 1만 시간짜리 플레이 영상과 키 입력만 보고 자동차 움직임, 공의 반동, 충돌, 점수까지 전부 학습한 5B 디퓨전 모델입니다.
-
-특히, 멀티플레이어 일관성이 놀라운데요. 네 명이 각자 다른 화면에서 각자 키를 누르는데, 모델이 그 네 시점을 하나의 물리 세계로 실시간(B200 한 장, 20fps) 맞춰냅니다.
-
-지금까지 월드 모델이 혼자 노는 환각이었다면, 여기선 네 사람의 세계가 서로 어긋나지 않습니다. 결국 게임을 만든 게 아니라, 손으로 짠 시뮬레이터 없이 영상만으로 조작 가능한 물리 세계를 학습했다는 증명입니다.</description><pubDate>Tue, 07 Jul 2026 00:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaeIOrKAWyt</guid></item><item><title>주소 :
-http://generalintuition.com/mira</title><link>https://www.threads.net/@choi.openai/post/DaeIPz5gfEl</link><description>주소 :
-http://generalintuition.com/mira</description><pubDate>Tue, 07 Jul 2026 00:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaeIPz5gfEl</guid></item><item><title>도널드 트럼프 미국 대통령은 백악관 연설을 통해 AI 산업이 국가 경제와 의료 기술 분야에서 막대한 이익을 창출하고 있다고 진단했습니다.
-
-그는...</title><link>https://www.threads.net/@choi.openai/post/Dad-AhaD-Ub</link><description>도널드 트럼프 미국 대통령은 백악관 연설을 통해 AI 산업이 국가 경제와 의료 기술 분야에서 막대한 이익을 창출하고 있다고 진단했습니다.
-
-그는 AI 기업들이 현재 "엄청난 액수의 자금"을 벌어들이고 있을 뿐만 아니라, 특히 의학 분야에서 놀라운 혁신을 이끌어내고 있다고 평가했습니다.
-
-AI가 가져올 수 있는 부작용과 위험성에 대해서는 정부 차원의 안전장치(Guardrails)를 구축해 나쁜 변화는 사전에 통제하고 있다고 언급했습니다.
-
-나아가 트럼프는 AI 기업들이 국가와 국민들을 위해 더 큰 경제적 기여를 하게 될 것이라는 내부 정보를 암시하며, “AI는 거대한 산업”으로서 앞으로 기술 성능 향상과 경제 성장을 동시에 견인할 것이라고 강조했습니다.</description><pubDate>Mon, 06 Jul 2026 22:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dad-AhaD-Ub</guid></item></channel></rss>
+경영도 디지털 트윈으로..</description><pubDate>Tue, 07 Jul 2026 00:47:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaeNfNAmCyU</guid></item></channel></rss>
