@@ -1,50 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 09 Jul 2026 02:58:14 +0000</lastBuildDate><item><title>Fable 5는 모델 사이즈에서 나오는 메타인지와 똑똑함이 높아서 그런지 예상치 못한 방향성을 발견해서 제안하고 수정해주는 느낌을 받았다면,
-G...</title><link>https://www.threads.net/@choi.openai/post/DajkjPej7l8</link><description>Fable 5는 모델 사이즈에서 나오는 메타인지와 똑똑함이 높아서 그런지 예상치 못한 방향성을 발견해서 제안하고 수정해주는 느낌을 받았다면,
-GPT 5.6 Sol은 그냥 메타인지까지는 모르겠는데 진짜 문제를 주어주면 문제 해결을 위해서 진득하니 최고의 방법으로 풀어내는 것 같다.
-그래서 GPT 5.6 Sol는 뭔가 흐름구조가 명확할때 순차적으로 따라가고 상황에 따라 서브에이전트를 생성하고 이런게 정말 완벽에 가깝다.
-사용방법으로는 해결하고자 하는 문제를 명확하게 알고 있는 방향이라면 정말 최고의 모델이 될 것 같다.
-Fable 5는 뭔가 GPT 4.5 냄새가 나는 반면 GPT 5.6 Sol은 연구원 같다는 말이 맞을 것 같음.
-논문 하나 던져주면 그대로 구현해줄 것 같은 끈기와 실행 그리고 퍼포먼스가 굉장히 맛있음.</description><pubDate>Thu, 09 Jul 2026 02:43:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DajkjPej7l8</guid></item><item><title>사상 최고 실적이 계속 나오는데 반도체 주가는 자꾸 흔들립니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 09 Jul 2026 10:53:49 +0000</lastBuildDate><item><title>코드 생성은 이제 5분이면 됩니다. 문제는 늘 그 다음이었습니다.
 
-정점이어서가 아닐 수 있습니다.
-추론 칩과 오픈 모델을 둘러싼 경쟁이 조용히,...</title><link>https://www.threads.net/@choi.openai/post/DajcPTjDw9S</link><description>사상 최고 실적이 계속 나오는데 반도체 주가는 자꾸 흔들립니다.
+서버 세팅, 데이터베이스 연결, 로그인, 결제, 도메인, SSL.
+실제 서비...</title><link>https://www.threads.net/@choi.openai/post/DakZ8X1D1NN</link><description>코드 생성은 이제 5분이면 됩니다. 문제는 늘 그 다음이었습니다.
 
-정점이어서가 아닐 수 있습니다.
-추론 칩과 오픈 모델을 둘러싼 경쟁이 조용히, 그러나 빠르게 판을 바꾸고 있어서입니다.
+서버 세팅, 데이터베이스 연결, 로그인, 결제, 도메인, SSL.
+실제 서비스로 띄우는 이 과정이 진짜 일입니다.
 
-지금 알아두면 좋을 흐름을 정리했습니다 🧵</description><pubDate>Thu, 09 Jul 2026 01:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DajcPTjDw9S</guid></item><item><title>1/ 먼저 지금 그림부터 봅니다.
+Manus는 프롬프트 하나로 개발부터 이 배포까지 끝내고, 게시하는 순간 바로 열립니다.
 
-한때 팔수록 손해라던 메모리가, 인공지능이 쓸어 담으면서 반도체에서 가장 돈이 되는 자리로 올라섰습니다. 메...</title><link>https://www.threads.net/@choi.openai/post/DajcQAKD7fZ</link><description>1/ 먼저 지금 그림부터 봅니다.
+Manus 웹 개발을 실제 사례로 정리했습니다. 🧵</description><pubDate>Thu, 09 Jul 2026 10:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DakZ8X1D1NN</guid></item><item><title>1/ 요즘 코드는 AI가 잘 짜줍니다.
+Codex나 Claude Code 같은 도구한테 시키면 웹앱 코드는 금방 나옵니다.
 
-한때 팔수록 손해라던 메모리가, 인공지능이 쓸어 담으면서 반도체에서 가장 돈이 되는 자리로 올라섰습니다. 메모리 회사의 이익률이 사상 최고로 뛰었고, 얼마 전에는 메모리를 만드는 회사가 시가총액에서 종합 반도체 회사를 처음 앞지르기도 했습니다.
+그런데 개발하는 것...</title><link>https://www.threads.net/@choi.openai/post/DakZ86KD0Ti</link><description>1/ 요즘 코드는 AI가 잘 짜줍니다.
+Codex나 Claude Code 같은 도구한테 시키면 웹앱 코드는 금방 나옵니다.
 
-그런데 실적이 최고인데도 주가는 최고치 근처에서 자꾸 흔들립니다. 사람들은 반도체가 정점을 지난 것 아니냐고 혼란스러워하죠.
+그런데 개발하는 것과 배포하는 것은 다른 영역입니다.
+코드가 나와도 서버를 세팅하고, 데이터베이스를 붙이고, 로그인을 위해 외부 인증을 연동하고, 도메인과 SSL을 거는 일은 그대로 사람 몫으로 남습니다.
+코딩 에이전트는 대개 코드까지 주고 멈추고, 그 다음부터는 개발자가 붙어야 실제 서비스가 됩니다.
 
-왜 흔들리는지는 복잡해서 하나로 못 짚습니다. 저 이유 하나 때문이라고 말할 수도 없고요. 다만 실적이나 사이클과는 다른 층에서, 경쟁의 축이 소리 없이 옮겨가는 게 보입니다. 그 움직임들을 하나씩 알아두면 좋겠습니다.</description><pubDate>Thu, 09 Jul 2026 01:31:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DajcQAKD7fZ</guid></item><item><title>2/ 가장 큰 변화는 무게가 학습에서 추론으로 넘어간 겁니다.
+Manus는 이 배포와 운영까지 프롬프트 하나 안으로 가져옵니다.
+만들고 싶은 걸 말로 설명하면 백엔드와 인증, 데이터베이스까지 갖춘 웹앱을 통째로 만들고, 게시 버튼 하나로 실제 접속되는 주소에 띄웁니다.</description><pubDate>Thu, 09 Jul 2026 10:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DakZ86KD0Ti</guid></item><item><title>2/ 모든 작업은 블루프린트에서 시작합니다.
+개발이 시작되기 전에 Manus가 사이트를 어떻게 만들지 미리 보여주고, 디자인 스타일과 결제, 챗...</title><link>https://www.threads.net/@choi.openai/post/DakZ9Z_j2de</link><description>2/ 모든 작업은 블루프린트에서 시작합니다.
+개발이 시작되기 전에 Manus가 사이트를 어떻게 만들지 미리 보여주고, 디자인 스타일과 결제, 챗봇 같은 핵심 기능을 여기서 먼저 고릅니다.
+코드 한 줄 짜기 전에 완성될 모습을 확정하는 방식이죠.
 
-지금까지 칩 경쟁은 거대한 모델을 누가 더 크게 학습시키느냐였습니다. 그런데 올...</title><link>https://www.threads.net/@choi.openai/post/DajcQ8Yj5L2</link><description>2/ 가장 큰 변화는 무게가 학습에서 추론으로 넘어간 겁니다.
+여기서 봐야 할 건 게시 후 바로 이용 가능하다는 점입니다.
+보통 웹앱은 다 만들고 나서도 배포 설정과 호스팅 연결이라는 산을 또 넘어야 합니다.
+Manus는 게시 버튼을 누르는 순간 실제로 접속되는 주소가 그 자리에서 열립니다.
 
-지금까지 칩 경쟁은 거대한 모델을 누가 더 크게 학습시키느냐였습니다. 그런데 올해를 기점으로, 이미 만든 모델을 실제로 굴리는 추론 쪽 수요가 학습을 넘어섰습니다.
+기획 의도만 정확히 넘기면 퍼블리싱은 에이전트가 끝냅니다.
+만들고 나서 어떻게 띄우지를 고민하던 단계가 통째로 사라집니다.</description><pubDate>Thu, 09 Jul 2026 10:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DakZ9Z_j2de</guid></item><item><title>3/ 기본으로는 Manus 도메인 아래에 사이트가 게시됩니다.
+여기에 내 도메인을 붙이는 것도 클릭 한 번이면 됩니다.
 
-그러면 따지는 기준이 달라집니다. 학습용 대형 칩에서는 한 회사가 사실상 독점이지만, 추론은 속도와 메모리 효율과 토큰당 원가로 승부가 갈립니다. 이 자리에서는 값싸고 충분히 빠른 대안이 파고들 틈이 넓습니다.
+이미 가진 도메인을 연...</title><link>https://www.threads.net/@choi.openai/post/DakZ-Y0j5RW</link><description>3/ 기본으로는 Manus 도메인 아래에 사이트가 게시됩니다.
+여기에 내 도메인을 붙이는 것도 클릭 한 번이면 됩니다.
 
-반도체 수요 자체가 꺾이는 건 아닙니다. 수요의 성격이 학습에서 추론으로 옮겨가면서 승부처가 바뀌는 거죠.</description><pubDate>Thu, 09 Jul 2026 01:31:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DajcQ8Yj5L2</guid></item><item><title>3/ 그 위에서 돈을 태우는 방식이 바뀝니다.
+이미 가진 도메인을 연결하거나, 아예 새 도메인을 Manus 안에서 바로 구매할 수 있습니다.
+브라우저 탭을 여러 개 열어 DNS를 만지고 인증서를 따로 발급받던 과정이 사라집니다.
 
-얼마 전까지는 성능만 좋으면 토큰을 무제한으로 태우는 분위기였습니다. 그런데 큰 회사들이 하나둘...</title><link>https://www.threads.net/@choi.openai/post/DajcRlMj4J3</link><description>3/ 그 위에서 돈을 태우는 방식이 바뀝니다.
+모든 맞춤 도메인에는 무료 SSL 인증서가 자동으로 붙어서 보안 설정까지 알아서 됩니다.
+도메인 등록기관에서 주소를 사고, DNS를 직접 맞추고, 인증서를 발급받아 오가던 일을 한 화면에서 끝내는 겁니다.
 
-얼마 전까지는 성능만 좋으면 토큰을 무제한으로 태우는 분위기였습니다. 그런데 큰 회사들이 하나둘 조용히 지출을 조이기 시작했습니다. 어떤 곳은 직원 한 사람의 주간 사용액에 상한을 걸었고, 어떤 곳은 몇 달 만에 한 해 예산을 다 써 급히 한도를 세웠습니다.
+전문적인 홈페이지 주소를 다는 데 기술 설정을 몰라도 되는 방식이죠.</description><pubDate>Thu, 09 Jul 2026 10:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DakZ-Y0j5RW</guid></item><item><title>와.. 이제 만들어진 세계 안을 직접 걸어다닙니다.
+AlayaWorld가 WASD로 걷고, 프롬프트로 불꽃이나 몬스터를 소환하고, 도중에 화풍까...</title><link>https://www.threads.net/@choi.openai/post/DakPqibCR85</link><description>와.. 이제 만들어진 세계 안을 직접 걸어다닙니다.
+AlayaWorld가 WASD로 걷고, 프롬프트로 불꽃이나 몬스터를 소환하고, 도중에 화풍까지 바꾸는 플레이형 월드 모델을 오픈소스로 공개했습니다.
 
-쓴 만큼 청구되는 구조라, 프롬프트 하나하나가 곧 비용으로 돌아온다는 걸 몸으로 느끼기 시작한 겁니다. 심지어 누가 토큰을 많이 썼는지 순위를 매겨 사용을 부추기던 회사가, 몇 달 만에 그 순위판을 지출 상한으로 바꿔 달기도 했고요.
+13B 규모로 20FPS 안팎 실시간, 50초 넘게 이어집니다.
+이런 모델의 진짜 관문은 일관성입니다. 돌아봤을 때 방금 그 세계가 그대로 남아 있어야 하거든요.
+이 모델은 3D 공간을 따로 기억해 지금 시점으로 다시 투영하고, 지난 프레임을 압축해 들고 다닙니다.
+쌓인 오차를 도로 집어넣어 학습한 '에러 뱅크'로 1분 가까운 생성에서도 화면이 무너지지 않고요.
+구글 딥마인드의 Genie 3가 720p, 24FPS로 수 분 일관성을 보여준 걸, 오픈 모델이 명시적 메모리로 따라잡았습니다.
+손으로 짠 게임 엔진 없이 세계를 즉석에서 만드는 시대가 가까워지고 있습니다.</description><pubDate>Thu, 09 Jul 2026 09:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DakPqibCR85</guid></item><item><title>프로젝트 주소 :
+https://alaya-lab.github.io/AlayaWorld/</title><link>https://www.threads.net/@choi.openai/post/DakPriwidf5</link><description>프로젝트 주소 :
+https://alaya-lab.github.io/AlayaWorld/</description><pubDate>Thu, 09 Jul 2026 09:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DakPriwidf5</guid></item><item><title>모델이 국가 전략자산인 시대, 내일부터 초격차가 시작됩니다.
 
-방향은 뚜렷합니다. 토큰을 많이 태우는 쪽에서, 정해진 예산으로 결과를 더 많이 뽑는 쪽으로 무게가 옮겨갑니다.</description><pubDate>Thu, 09 Jul 2026 01:31:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DajcRlMj4J3</guid></item><item><title>🚨 속보) 내일 오전 2시 ChatGPT Work 발표예정.</title><link>https://www.threads.net/@choi.openai/post/DajUETsj9ZQ</link><description>🚨 속보) 내일 오전 2시 ChatGPT Work 발표예정.</description><pubDate>Thu, 09 Jul 2026 00:19:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DajUETsj9ZQ</guid></item><item><title>Cognition이 새로운 코딩 모델 SWE-1.7을 공개했습니다.
+오픈AI의 Borys가 본체는 내일 출시를 앞둔 5.6과 사실상 같은 모델이고, ...</title><link>https://www.threads.net/@choi.openai/post/DakK6tej9O9</link><description>모델이 국가 전략자산인 시대, 내일부터 초격차가 시작됩니다.
 
-SWE-1.7은 Kimi K2.7을 기반으로 강화학습(RL)을 개선해 학습...</title><link>https://www.threads.net/@choi.openai/post/DajR3d2iWhi</link><description>Cognition이 새로운 코딩 모델 SWE-1.7을 공개했습니다.
+오픈AI의 Borys가 본체는 내일 출시를 앞둔 5.6과 사실상 같은 모델이고, 거기에 얇은 하네스만 씌웠다고 합니다.
 
-SWE-1.7은 Kimi K2.7을 기반으로 강화학습(RL)을 개선해 학습한 모델인데요. Cognition은 최고 수준의 Frontier Models와 비교해 성능 차이는 크지 않으면서도 더 낮은 비용으로 사용할 수 있으며, 초당 1,000토큰(1000 tok/s) 속도를 지원한다고 밝혔습니다.
+즉, 누구든 자기 하네스를 짜면 5.6으로 비슷한 결과를 낼 수 있다고 했습니다.
 
-학습 과정에서는 강화학습에서 자주 발생하는 탐색 감소와 수치 불안정 문제를 해결하기 위해 여러 학습 기법을 함께 적용했다고 합니다. 또한 이전 모델보다 코드를 수정하기 전에 더 오래 조사하고 분석하도록 학습해 장기적인 개발 작업에서도 성능을 높였다고 설명했습니다.
+대규모 컴퓨트를 들이부은 방식도 아니고, 인터넷 접속도 없이 풀었습니다.
 
-SWE-1.7은 현재 Devin의 웹, 데스크톱, CLI에서 사용할 수 있습니다.</description><pubDate>Thu, 09 Jul 2026 00:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DajR3d2iWhi</guid></item><item><title>발표내용 :
-https://cognition.com/blog/swe-1-7</title><link>https://www.threads.net/@choi.openai/post/DajR4T_CWo2</link><description>발표내용 :
-https://cognition.com/blog/swe-1-7</description><pubDate>Thu, 09 Jul 2026 00:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DajR4T_CWo2</guid></item></channel></rss>
+반년 전만 해도 여기 문제 대부분을 못 풀던 수준인데, 그 모델을 내일이면 누구나 쓸 수 있게 됩니다.</description><pubDate>Thu, 09 Jul 2026 08:19:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DakK6tej9O9</guid></item><item><title>와.. 씨... 진짜 미친 하루다.. 
+결국 마지막 한 문제까지 넘어갔습니다.
+오늘 AtCoder 월드 투어 파이널 알고리즘 부문에서 오픈AI가...</title><link>https://www.threads.net/@choi.openai/post/DakIg4XD3LA</link><description>와.. 씨... 진짜 미친 하루다.. 
+결국 마지막 한 문제까지 넘어갔습니다.
+오늘 AtCoder 월드 투어 파이널 알고리즘 부문에서 오픈AI가 5문제를 전부 풀었습니다.
+E869120이 풀어 쓴 난이도 척도로 보면 1500점은 연구자가 몇 달 매달리는 논문 수준이고, 2500점 두 문제는 평소 AtCoder가 내는 상한인 1800점마저 넘어섭니다.
+38분 만에 풀린 앞 3문제의 900점짜리조차, 세계 정상급 실력자도 시간 안에 푸는 게 반반인 난이도고요.
+작년 휴리스틱 부문에선 Psyho가 AI를 눌러 '인류가 버텼다'고 했지만, 어제 휴리스틱을 넘어 정답이 딱 떨어지는 알고리즘 부문까지 결국 넘어갔습니다.
+사람이 만든 최고 난도의 문제가 버티는 시간이 점점 짧아지고 있습니다.</description><pubDate>Thu, 09 Jul 2026 07:58:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DakIg4XD3LA</guid></item><item><title>어제 휴리스틱 결과 :</title><link>https://www.threads.net/@choi.openai/post/DakJe-xD0UQ</link><description>어제 휴리스틱 결과 :</description><pubDate>Thu, 09 Jul 2026 08:06:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DakJe-xD0UQ</guid></item><item><title>그 사이에 따거햄도 2500점짜리 풀어버리다니..</title><link>https://www.threads.net/@choi.openai/post/DakJ-uJDxod</link><description>그 사이에 따거햄도 2500점짜리 풀어버리다니..</description><pubDate>Thu, 09 Jul 2026 08:10:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DakJ-uJDxod</guid></item></channel></rss>
