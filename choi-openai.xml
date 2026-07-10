@@ -1,64 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 10 Jul 2026 03:17:26 +0000</lastBuildDate><item><title>인류 역사상 다신 없을 이벤트였다.</title><link>https://www.threads.net/@choi.openai/post/DamLSmYEvEy</link><description>인류 역사상 다신 없을 이벤트였다.</description><pubDate>Fri, 10 Jul 2026 03:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DamLSmYEvEy</guid></item><item><title>와.. 1X가 NEO의 새 손을 공개했습니다.
-25자유도 텐던 구동으로 레고 조립, 지갑에서 동전 꺼내기, USB-C 충전기 꽂기까지 해냅니다....</title><link>https://www.threads.net/@choi.openai/post/DamBAy9EeSB</link><description>와.. 1X가 NEO의 새 손을 공개했습니다.
-25자유도 텐던 구동으로 레고 조립, 지갑에서 동전 꺼내기, USB-C 충전기 꽂기까지 해냅니다. 그런데 이 발표에서 진짜 봐야 할 건 손재주보다 기어비입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 10 Jul 2026 10:53:03 +0000</lastBuildDate><item><title>확실한건 오늘부터 챗GPT 앱으로 일하는 사람과 그냥 챗GPT로 일하는 사람은 격차가 심각하게 벌려질 것 같다. 업무 능력이든 연봉이든.</title><link>https://www.threads.net/@choi.openai/post/Dam7UZ5ip4m</link><description>확실한건 오늘부터 챗GPT 앱으로 일하는 사람과 그냥 챗GPT로 일하는 사람은 격차가 심각하게 벌려질 것 같다. 업무 능력이든 연봉이든.</description><pubDate>Fri, 10 Jul 2026 10:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dam7UZ5ip4m</guid></item><item><title>AI는 아직 돈을 벌지 못합니다.
+오픈AI는 올해 1분기에만 현금 37억 달러를 태우면서 1조 달러 몸값의 상장 절차를 밟고 있습니다.
+그런데도...</title><link>https://www.threads.net/@choi.openai/post/Dam4KqXD4O9</link><description>AI는 아직 돈을 벌지 못합니다.
+오픈AI는 올해 1분기에만 현금 37억 달러를 태우면서 1조 달러 몸값의 상장 절차를 밟고 있습니다.
+그런데도 미국, 중국, 한국 모두 프론티어 소버린 AI 확보에 속도를 올립니다.
+수익이 안 나는 기술을 국가들이 왜 가지려 하는지, 그 끝에서 왜 메모리 마진의 꺾임이 정점 신호가 되는지 제가 보는 구조를 정리했습니다 🧵</description><pubDate>Fri, 10 Jul 2026 09:32:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dam4KqXD4O9</guid></item><item><title>1/ 프론티어 AI 사업의 손익부터 보겠습니다.
+지출의 대부분은 훈련과 추론에 들어가는 인프라 비용이고, 수입은 구독료와 API 사용료입니다.
+...</title><link>https://www.threads.net/@choi.openai/post/Dam4LG6j8_3</link><description>1/ 프론티어 AI 사업의 손익부터 보겠습니다.
+지출의 대부분은 훈련과 추론에 들어가는 인프라 비용이고, 수입은 구독료와 API 사용료입니다.
+더 인포메
+이션 보도에 따르면 오픈AI는 올해 1분기 매출 57억 달러에 현금 37억 달러를 소진했고, 자체 계획으로도 현금흐름 흑자 전환은 2030년 전후입니다.
 
-보통 로봇 손은 감속비가 100:1이 넘다 보니, 물체를 만질 때 생기는 힘이 기어 마찰에 묻혀 모터까지 전달되지 않습니다. 손이 무엇을 쥐고 있는지 스스로 느끼지 못하는 겁니다.
+그 상태로 SEC에 상장 서류를 비공개 제출해 1조 달러 몸값이 거론되는 IPO 절차를 밟고 있다는 보도가 나와 있습니다. 매출이 없어서가 아닙니다.
 
-1X는 감속비를 5:1에서 15:1 수준까지 낮춰 25개 관절 전부를 힘 센서처럼 쓰게 만들었습니다. 손끝 피부는 압력과 미끄러짐까지 읽습니다.
-그러면 물건을 잡는 동작 하나하나가 힘, 접촉, 자세 정보가 붙은 학습 데이터로 쌓입니다.
+파는 값이 원가 밑이라 세계에서 가장 많이 쓰이는 AI 기업이 팔수록 적자가 유지되는 구조이고, 저는 전에 추론 비용이 오픈AI 마진을 갉아먹는 주범이라고 적었습니다.</description><pubDate>Fri, 10 Jul 2026 09:32:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dam4LG6j8_3</guid></item><item><title>2/ 그런데도 각국은 이 적자 기술의 내재화에 더 깊이 들어가고 있습니다.
+마이크로소프트, 구글, 아마존, 메타 네 회사가 밝힌 올해 설비투자 ...</title><link>https://www.threads.net/@choi.openai/post/Dam4LvJD6a3</link><description>2/ 그런데도 각국은 이 적자 기술의 내재화에 더 깊이 들어가고 있습니다.
+마이크로소프트, 구글, 아마존, 메타 네 회사가 밝힌 올해 설비투자 계획은 합계 약 7,000억 달러로 작년 4,100억 달러의 두 배 가까운 규모입니다.
+여기에 오픈AI와 소프트뱅크의 스타게이트처럼 정부가 뒤를 받쳐주는 초대형 인프라 계획이 얹힙니다.
+중국은 반대편에서 딥시크와 Qwen을 앞세운 오픈웨이트 생태계로 세계 시장의 아래쪽 유통을 잡았습니다.
+오픈라우터 통계로는 전체 처리 토큰의 60%가량이 중국 오픈모델을 지날 정도입니다.
+방식은 다르지만 목표는 같습니다.
+프론티어급 소버린 AI를 자국 손에 쥐고 그 위에 자국 산업을 올리는 것입니다.</description><pubDate>Fri, 10 Jul 2026 09:33:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dam4LvJD6a3</guid></item><item><title>3/ 그러면 적자의 원인부터 짚어야 하는데, 첫 번째 층은 기업 쪽에 있습니다.
 
-올해 이 손만 1만 개를 생산할 계획이라고 하니, 휴머노이드 학습 데이터가 쌓이는 속도는 앞으로 훨씬 빨라질 것 같습니다.</description><pubDate>Fri, 10 Jul 2026 01:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DamBAy9EeSB</guid></item><item><title>발표내용 :
-https://www.1x.tech/discover/neos-hands</title><link>https://www.threads.net/@choi.openai/post/DamBB-nkSZ6</link><description>발표내용 :
-https://www.1x.tech/discover/neos-hands</description><pubDate>Fri, 10 Jul 2026 01:31:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DamBB-nkSZ6</guid></item><item><title>🚨 드디어 GPT 5.6이 출시되었습니다.
+맥킨지 최신 조사에서 조직의 88%가 업무 한 곳 이상에 AI...</title><link>https://www.threads.net/@choi.openai/post/Dam4MPwDyPY</link><description>3/ 그러면 적자의 원인부터 짚어야 하는데, 첫 번째 층은 기업 쪽에 있습니다.
 
-정부 승인 파트너 20곳에만 열려 있던 GPT 5.6이 전면 개방됐습니다.
-오픈AI가 들고 온 무기...</title><link>https://www.threads.net/@choi.openai/post/DalzM0Cjzim</link><description>🚨 드디어 GPT 5.6이 출시되었습니다.
+맥킨지 최신 조사에서 조직의 88%가 업무 한 곳 이상에 AI를 쓰고 있지만, 전사 이익 개선을 보고한 곳은 39%에 그칩니다.
+MIT 연구진이 기업 배포 300건을 분석한 결과로는 파일럿의 5%만 매출 성과에 도달했습니다.
 
-정부 승인 파트너 20곳에만 열려 있던 GPT 5.6이 전면 개방됐습니다.
-오픈AI가 들고 온 무기는 최고 점수가 아니라 단가입니다.
+S&amp;P 글로벌 조사에서는 AI 프로젝트 대부분을 접었다는 기업이 1년 새 17%에서 42%로 늘었습니다.
 
-벤치마크 표의 양면과 실측 평가까지 정리했습니다 🧵</description><pubDate>Thu, 09 Jul 2026 23:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DalzM0Cjzim</guid></item><item><title>1/ 드디어 GPT 5.6이 출시되었습니다.
+앤트로픽의 3월 실측은 이 간극을 직군 단위로 보여줬는데, 컴퓨터·수학 직군에서 이론적으로 AI가 수행 가능한 업무는 94%인데 실제 사용이 덮는 범위는 33%였습니다.
+기술의 상한이 아니라 채택의 하한이 병목입니다.</description><pubDate>Fri, 10 Jul 2026 09:33:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dam4MPwDyPY</guid></item><item><title>4년 뒤면 지금 하는 업무의 90%를 AI가 할 수 있게 됩니다.
 
-6월 26일부터 정부 승인 파트너 약 20곳에만 열려 있던 프리뷰, 그러니까 사실상의 수출통제가 ...</title><link>https://www.threads.net/@choi.openai/post/DalxhwFjYm9</link><description>1/ 드디어 GPT 5.6이 출시되었습니다.
+그런데 한국 청년 일자리는 이미 21만 개가 줄었고, 그중 98%가 AI 고...</title><link>https://www.threads.net/@choi.openai/post/DamtmmkD0bh</link><description>4년 뒤면 지금 하는 업무의 90%를 AI가 할 수 있게 됩니다.
 
-6월 26일부터 정부 승인 파트너 약 20곳에만 열려 있던 프리뷰, 그러니까 사실상의 수출통제가 풀리면서 누구나 쓰는 정식 출시로 넘어왔습니다.
-그 제한적 프리뷰가 어떤 구조였는지는 발표 당시에 따로 적었습니다.
-구성은 플래그십 Sol, 중간 티어 Terra, 경량 Luna 세 모델이고, 숫자는 세대를, 이름은 티어를 가리키는 새 명명 체계입니다.
-가격은 100만 토큰당 Sol이 입력 5달러에 출력 30달러, Terra가 2.5달러에 15달러, Luna가 1달러에 6달러입니다.
-챗GPT, Codex, API에 24시간에 걸쳐 순차 배포됩니다.</description><pubDate>Thu, 09 Jul 2026 23:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DalxhwFjYm9</guid></item><item><title>2/ 성능 부터 보면, 55개 직군의 장기 업무 수행을 재는 Agents' Last Exam에서 Sol이 53.6으로 최고 기록을 새로 썼습니다...</title><link>https://www.threads.net/@choi.openai/post/DalzOkWjwXn</link><description>2/ 성능 부터 보면, 55개 직군의 장기 업무 수행을 재는 Agents' Last Exam에서 Sol이 53.6으로 최고 기록을 새로 썼습니다.클로드 Fable 5보다 13.1점 위라고 밝혔습니다.
-다만 발표문 하단 표에는 52.7로 적혀 있어서, 헤드라인은 max 추론 설정 기준으로 보입니다.
+그런데 한국 청년 일자리는 이미 21만 개가 줄었고, 그중 98%가 AI 고노출 업종에서 사라졌습니다.
 
-코딩은 Artificial Analysis 코딩 에이전트 인덱스 80.0으로 Fable 5를 2.8점 앞섰고, 출력 토큰은 절반 이하, 소요 시간도 절반 이하였다고 적었습니다.
+가능성의 90과 현실의 98, 이 두 숫자 사이에서 정부가 왜 '카나리아'를 꺼냈는지 정리했습니다 🧵</description><pubDate>Fri, 10 Jul 2026 08:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DamtmmkD0bh</guid></item><item><title>1/ 7월 9일 재정경제부와 KDI가 서울 은행회관에서 '일의 미래' 포럼을 열었습니다.
 
-이 인덱스는 구현, 터미널 사용, 실제 코드베이스 작업을 합산하는 독립 지표입니다.
-비용과 시간 추정은 오프라인 시뮬레이션이라는 각주가 붙어 있습니다</description><pubDate>Thu, 09 Jul 2026 23:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DalzOkWjwXn</guid></item><item><title>3/ SWE-Bench Pro에서는 Sol이 64.6%로 Fable 5의 80%에 크게 뒤지고, 지식노동 산출물 선호도를 재는 GDPval에서도...</title><link>https://www.threads.net/@choi.openai/post/DalzPlsjxKq</link><description>3/ SWE-Bench Pro에서는 Sol이 64.6%로 Fable 5의 80%에 크게 뒤지고, 지식노동 산출물 선호도를 재는 GDPval에서도 Fable이 근소하게 위입니다.
+한요셉 KDI 연구위원의 발표 제목은 'AI 시대 노...</title><link>https://www.threads.net/@choi.openai/post/DamtnM-jxhx</link><description>1/ 7월 9일 재정경제부와 KDI가 서울 은행회관에서 '일의 미래' 포럼을 열었습니다.
 
-FrontierMath 최상위 티어는 사정이 더 복잡합니다. 발표문 수치가 사전 릴리스 평가 기준이었다가 출시 당일 공개 모델 재실행 결과인 83%로 정정됐고, Fable 5는 87.8%입니다.
+한요셉 KDI 연구위원의 발표 제목은 'AI 시대 노동시장: 평가와 전망'입니다. 이르면 2030년 현재 형태의 일자리 약 90%에서 직무의 90% 이상이 기술적으로 자동화 가능해진다는 추정을 다시 확인했습니다.
 
-오픈AI가 지는 숫자를 표에 그대로 실은 건 이번 세대의 승부처를 절대 성능이 아니라 달러당 성능으로 잡았기 때문입니다.
+단순직 이야기가 아닙니다. 2030년 이후에는 교수, 판검사 같은 전문직 직무도 기술적 자동화 가능 범위에 들어온다고 봤습니다.
 
-Terra와 Luna가 Fable 5의 약 16분의 1 비용이라는 문구가 발표문에서 가장 자주 반복되는 주장입니다.</description><pubDate>Thu, 09 Jul 2026 23:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DalzPlsjxKq</guid></item><item><title>🚨 모든 직장인들은 이제 챗GPT 앱으로 일해야합니다.
+이형일 재경부 1차관은 AI가 반복 업무 자동화를 넘어 스스로 목표를 세우고 업무를 조율하는 에이전틱 AI 단계로 진화하고 있다고 짚었고, 김세직 KDI 원장은 AI를 노동시장과 성장 기반을 근본적으로 바꾸는 구조적 전환으로 규정했습니다.</description><pubDate>Fri, 10 Jul 2026 08:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DamtnM-jxhx</guid></item><item><title>2/ 이 90·90은 이번에 처음 나온 숫자가 아닙니다.
 
-오픈AI가 챗GPT에서 '답변'과 '작업'을 분리했습니다.
-코딩 에이전트 Codex를 ...</title><link>https://www.threads.net/@choi.openai/post/DalmXiGmM94</link><description>🚨 모든 직장인들은 이제 챗GPT 앱으로 일해야합니다.
+한 연구위원이 2023년 12월 발간한 보고서 '인공지능으로 인한 노동시장의 변화와 ...</title><link>https://www.threads.net/@choi.openai/post/DamtoJCD3t3</link><description>2/ 이 90·90은 이번에 처음 나온 숫자가 아닙니다.
 
-오픈AI가 챗GPT에서 '답변'과 '작업'을 분리했습니다.
-코딩 에이전트 Codex를 업무에 쓰던 비개발자 100만 명이 만든 제품, ChatGPT Work가 GPT-5.6과 함께 나왔습니다.
+한 연구위원이 2023년 12월 발간한 보고서 '인공지능으로 인한 노동시장의 변화와 정책방향'의 추정이고, 2024년 7월 토론회에서 처음 공개된 뒤 이번 포럼에서 다시 등장했습니다.
 
-발표 내용과 그 아래 구조를 정리했습니다 🧵</description><pubDate>Thu, 09 Jul 2026 21:45:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DalmXiGmM94</guid></item><item><title>1/ 오픈AI가 7월 9일(현지시간) ChatGPT Work를 공개했습니다.
+방법은 AI 전문가와 GPT-4에게 국내 일자리의 세부 직무별 수행 가능성을 평가하게 한 것입니다.
 
-질문에 답을 돌려주던 챗GPT가, 앱과 파일을 가로질러 직접 행동...</title><link>https://www.threads.net/@choi.openai/post/DalnN9Tk3tn</link><description>1/ 오픈AI가 7월 9일(현지시간) ChatGPT Work를 공개했습니다.
+2023년 기준으로는 국내 일자리의 38.8%에서 직무 70% 이상이 자동화 가능한 수준이었습니다. 2030년이면 자동화를 막아주는 '병목 능력' 비중이 10%를 넘는 안전한 일자리가 전체의 10%만 남는다는 계산, 그것이 90·90의 정체입니다.</description><pubDate>Fri, 10 Jul 2026 08:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DamtoJCD3t3</guid></item><item><title>3/ 보고서 원문에서 저자가 가장 공들여 적은 대목은 90이 아니라 그 단서입니다.
 
-질문에 답을 돌려주던 챗GPT가, 앱과 파일을 가로질러 직접 행동하고 몇 시간짜리 프로젝트를 잘게 쪼개 끝까지 완주하는 에이전트를 갖게 된 겁니다.
-내부에는 코딩 에이전트 Codex 기술이 들어갔고, 같은 날 공개된 GPT-5.6이 구동합니다.
+기술적 자동화 가능성이 현실의 자동화로 곧바로 이어지는 것...</title><link>https://www.threads.net/@choi.openai/post/Damtosaj4RQ</link><description>3/ 보고서 원문에서 저자가 가장 공들여 적은 대목은 90이 아니라 그 단서입니다.
 
-웹과 모바일은 Pro, Enterprise, Edu 요금제부터 시작해 며칠에 걸쳐 Plus와 Business로 확대되고, 데스크톱 앱에서는 무료 요금제를 포함한 모든 사용자가 Chat, Work, Codex를 쓸 수 있습니다.</description><pubDate>Thu, 09 Jul 2026 21:45:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DalnN9Tk3tn</guid></item><item><title>2/ 오픈AI에 따르면 Codex 주간 사용자는 500만 명이 넘는데, 그중 100만 명 이상이 소프트웨어 개발 밖의 일에 씁니다. 비개발자 증...</title><link>https://www.threads.net/@choi.openai/post/DalnO9zk7rr</link><description>2/ 오픈AI에 따르면 Codex 주간 사용자는 500만 명이 넘는데, 그중 100만 명 이상이 소프트웨어 개발 밖의 일에 씁니다. 비개발자 증가 속도가 개발자의 3배라는 보도도 있습니다.
+기술적 자동화 가능성이 현실의 자동화로 곧바로 이어지는 것은 아니라고 명시했습니다. 기술의 도입과 활용에는 경제사회적 요인이 작용하고, 같은 직무라도 대체로 갈지 생산성 강화로 갈지는 정해지지 않았다고 썼습니다.
 
-마케팅, 재무, 영업 담당자들이 코딩 도구를 업무 에이전트로 전용해 쓰기 시작했고, 회사는 그 사용 패턴을 관찰한 뒤 비개발자용 제품으로 승격시킨 겁니다.
+전문직 안에서도 일정 수준 이상에서는 강화가, 경력 초기 일자리에서는 자동화가 일어날 가능성이 높다는 예측까지 달았습니다. 2023년에 적힌 문장입니다.
 
-발표문에는 오픈AI 내부의 거의 모든 팀이 Work와 Codex를 쓴다는 문장도 있습니다. 제품보다 사용자가 먼저 움직인 사례입니다.</description><pubDate>Thu, 09 Jul 2026 21:45:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DalnO9zk7rr</guid></item><item><title>3/ 모델 쪽을 보면 GPT-5.6은 Sol, Terra, Luna 세 티어로 나옵니다.
-숫자는 세대를, 이름은 세대와 무관하게 이어지는 능력 ...</title><link>https://www.threads.net/@choi.openai/post/DalnQARk4A3</link><description>3/ 모델 쪽을 보면 GPT-5.6은 Sol, Terra, Luna 세 티어로 나옵니다.
-숫자는 세대를, 이름은 세대와 무관하게 이어지는 능력 등급을 가리키는 새 명명 체계입니다. API 가격은 100만 토큰 기준 Sol이 입력 5달러에 출력 30달러, Luna는 입력 1달러에 출력 6달러입니다.
-훈련의 방점은 업무 산출물에 있습니다. 슬라이드 마스터에 박힌 규칙까지 읽어서 회사 템플릿 그대로 새 자료를 만들어내는 능력을 전작보다 크게 끌어올렸다고 밝혔는데요.
-55개 직군의 장기 업무 수행을 재는 Agents' Last Exam에서 최고 기록을 세웠다는 주장까지, 벤치마크 선택 자체가 시험 문제가 아니라 직업 노동을 겨냥하고 있습니다.</description><pubDate>Thu, 09 Jul 2026 21:45:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DalnQARk4A3</guid></item></channel></rss>
+앤트로픽이 올해 3월 낸 실측이 이 간극을 숫자로 보여줍니다. 컴퓨터·수학 직군에서 이론적으로 AI가 수행 가능한 업무는 94%인데, 실제 사용이 덮는 범위는 33%였습니다.</description><pubDate>Fri, 10 Jul 2026 08:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Damtosaj4RQ</guid></item><item><title>Reve가 이미지 생성 모델 'Reve 2.1'을 공개했습니다.
+공개 한 달 만에 나온 업데이트로, 프롬프트 이해력과 시각적 추론, 외국어 텍스...</title><link>https://www.threads.net/@choi.openai/post/DamjUboCM41</link><description>Reve가 이미지 생성 모델 'Reve 2.1'을 공개했습니다.
+공개 한 달 만에 나온 업데이트로, 프롬프트 이해력과 시각적 추론, 외국어 텍스트 표현이 개선됐다고 합니다.
+
+Image Arena에서는 종합 2위를 기록했고, 4K 이미지 생성 부문에서는 최고 성능을 유지했습니다.
+
+Reve는 텍스트만 해석하는 방식이 아니라 이미지 구조를 먼저 계획하는 방식으로 더 정확한 결과를 만든다고 설명했습니다.</description><pubDate>Fri, 10 Jul 2026 06:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DamjUboCM41</guid></item></channel></rss>
