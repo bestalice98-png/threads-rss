@@ -1,34 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 11 Jul 2026 02:54:14 +0000</lastBuildDate><item><title>Google AI Studio에서 배포한 앱에 맞춤 URL(Custom URL) 기능이 추가되었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 11 Jul 2026 09:29:02 +0000</lastBuildDate><item><title>Mirelo가 'Kyutai'와 함께 'Audio-to-MIDI' 모델을 공개했습니다.
 
-이제 AI Studio에서 만든 앱을 ...</title><link>https://www.threads.net/@choi.openai/post/DaosoLSkiYv</link><description>Google AI Studio에서 배포한 앱에 맞춤 URL(Custom URL) 기능이 추가되었습니다.
+이 모델은 완성된 음악 파일을 분석해 보컬, 드럼, 베...</title><link>https://www.threads.net/@choi.openai/post/DapV0-5AgPx</link><description>Mirelo가 'Kyutai'와 함께 'Audio-to-MIDI' 모델을 공개했습니다.
 
-이제 AI Studio에서 만든 앱을 게시할 때 원하는 주소를 설정할 수 있어, 복잡한 URL 대신 기억하기 쉬운 전용 주소를 사용할 수 있는데요.
+이 모델은 완성된 음악 파일을 분석해 보컬, 드럼, 베이스, 건반 등 악기별로 MIDI 트랙을 분리해 생성하는데요.
 
-예를 들어 atelier.ai.studio처럼 서비스 이름을 반영한 주소를 사용할 수 있어 앱을 공유하거나 브랜드를 알릴 때 더 편리합니다.
+기존에는 악기별로 분리된 오디오(스템)가 필요한 경우가 많았지만, 이번 모델은 하나로 합쳐진 완성된 음원만으로도 변환이 가능합니다.
 
-Google은 이번 기능으로 AI Studio에서 만든 앱도 고유한 주소를 가질 수 있게 되었다고 소개했습니다.</description><pubDate>Sat, 11 Jul 2026 02:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaosoLSkiYv</guid></item><item><title>앤트로픽이 Claude Code 데스크톱 앱에 '앱 내 브라우저(In-app Browser)' 기능을 추가했습니다.
+또한 코드(Chord), 조성(Key), 템포까지 함께 분석해 음악의 전체적인 구조를 파악할 수 있어, 곡 분석이나 편곡, 리믹스 작업의 시작점으로 활용하기 좋습니다.</description><pubDate>Sat, 11 Jul 2026 08:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DapV0-5AgPx</guid></item><item><title>블로그 :
+https://www.mirelo.ai/blog/turning-audio-to-midi</title><link>https://www.threads.net/@choi.openai/post/DapV3C2gkvS</link><description>블로그 :
+https://www.mirelo.ai/blog/turning-audio-to-midi</description><pubDate>Sat, 11 Jul 2026 08:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DapV3C2gkvS</guid></item><item><title>누구나 쓸 수 있는 모델이 50년 된 수학 난제의 증명을 내놨습니다.
+GPT-5.6 Sol Ultra가 사이클 이중 덮개 추측(Cycle Dou...</title><link>https://www.threads.net/@choi.openai/post/DapLi9-Ddhw</link><description>누구나 쓸 수 있는 모델이 50년 된 수학 난제의 증명을 내놨습니다.
+GPT-5.6 Sol Ultra가 사이클 이중 덮개 추측(Cycle Double Cover)의 증명을 1시간 안에 만들었다는 오픈AI 발표입니다.
+5월 에르되시 단위 거리 문제를 반증한 건 내부 전용 모델이었는데, 이번엔 어제 정식 출시된 상용 모델입니다.
+추측 자체는 간단합니다. 끊으면 두 동강 나는 변이 없는 그래프에는, 모든 변을 정확히 두 번씩 지나는 사이클 모음이 항상 있다는 내용입니다.
+Ultra 모드는 문제를 쪼개 서브에이전트 64개를 병렬로 띄우고 서로 조율해 결과를 합칩니다. 프롬프트와 증명 전문도 공개했습니다.
+다만 동료 검토 전이고, 사람 손이 얼마나 갔는지도 아직 안 나왔습니다. 수학계가 검증할 차례입니다.
+연구소 안에서만 돌던 능력이 두 달 만에 구독 상품으로 내려온 겁니다. 수학자의 일이 만드는 쪽에서 검증하는 쪽으로 옮겨가는 장면은 앞으로 더 잦아질 것 같습니다.</description><pubDate>Sat, 11 Jul 2026 07:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DapLi9-Ddhw</guid></item><item><title>🚨 코덱스 초기화 어게인</title><link>https://www.threads.net/@choi.openai/post/DapEsznjwnE</link><description>🚨 코덱스 초기화 어게인</description><pubDate>Sat, 11 Jul 2026 06:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DapEsznjwnE</guid></item><item><title>Cursor가 사이드 채팅(Side Chats) 기능을 추가했습니다.
 
-이제 Claude는 데스크...</title><link>https://www.threads.net/@choi.openai/post/DaokmQxjKMl</link><description>앤트로픽이 Claude Code 데스크톱 앱에 '앱 내 브라우저(In-app Browser)' 기능을 추가했습니다.
+이제 메인 대화를 끊지 않고 별도의 대화창에서 질문하거나 아이디어를 정리...</title><link>https://www.threads.net/@choi.openai/post/DapBQWvggwY</link><description>Cursor가 사이드 채팅(Side Chats) 기능을 추가했습니다.
 
-이제 Claude는 데스크톱 앱 안에서 문서나 디자인 페이지, 웹사이트를 직접 열고 내용을 읽거나 클릭하며 상호작용할 수 있는데요. 개발 중인 로컬 서버뿐 아니라 일반 웹사이트도 확인하면서 디버깅을 진행할 수 있습니다.
+이제 메인 대화를 끊지 않고 별도의 대화창에서 질문하거나 아이디어를 정리할 수 있는데요. 각 사이드 채팅은 독립적으로 저장되며, 필요할 때 @ 멘션으로 메인 대화에 내용을 다시 가져올 수 있습니다.
 
-브라우저와 Claude를 번갈아 오가며 오류를 복사해 붙여넣을 필요가 줄어들고, 하나의 화면에서 개발과 테스트를 이어갈 수 있다는 점이 특징입니다.
+함께 추가된 업데이트로는 에이전트 대화 검색 기능도 포함됐습니다. 로컬 검색 색인(Local Search Index, 로컬에 저장된 검색 데이터)을 이용해 수천 개의 이전 대화를 빠르게 찾을 수 있습니다.
 
-또한 브라우저는 샌드박스(Sandbox, 격리된 실행 환경)에서 동작하며, 로그인 세션 유지 여부도 사용자가 직접 설정할 수 있습니다.</description><pubDate>Sat, 11 Jul 2026 01:20:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaokmQxjKMl</guid></item><item><title>Row!! 🇳🇴</title><link>https://www.threads.net/@choi.openai/post/Daobew_kQpP</link><description>Row!! 🇳🇴</description><pubDate>Sat, 11 Jul 2026 00:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Daobew_kQpP</guid></item><item><title>오픈AI가 GPT 5.6 출시이후 궁금증에 대해 답했습니다.
-사용 팁과 방향성에 대한 내용을 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/DaoWxAck7Nk</link><description>오픈AI가 GPT 5.6 출시이후 궁금증에 대해 답했습니다.
-사용 팁과 방향성에 대한 내용을 정리했습니다 🧵</description><pubDate>Fri, 10 Jul 2026 23:19:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaoWxAck7Nk</guid></item><item><title>1/ 오픈AI 코덱스 팀이 7월 10일 레딧 커뮤니티 r/codex에서 AMA를 열었습니다.
-GPT-5.6 Sol, Terra, Luna 출시와...</title><link>https://www.threads.net/@choi.openai/post/DaoWxtYk_yC</link><description>1/ 오픈AI 코덱스 팀이 7월 10일 레딧 커뮤니티 r/codex에서 AMA를 열었습니다.
-GPT-5.6 Sol, Terra, Luna 출시와 챗GPT 데스크톱 앱 통합을 발표한 바로 다음 날입니다.
-회사가 밝힌 수치부터 보면, 코덱스 주간 사용자는 500만 명을 넘어 3개월 만에 두 배가 됐고 같은 기간 150개의 기능이 나왔습니다.
-답변자는 제품 매니저 제임스 선과 캐스 코버렉, 연구자 잔비 칼라와 앨런 저우, 개발자 경험의 도미닉 쿤델과 로맹 위에까지 6명입니다.
-작년 1월 챗GPT AMA에서는 질문이 모델 성능에 몰렸는데, 이번에는 요금과 운영, 평가 신뢰로 무게가 옮겨왔습니다.</description><pubDate>Fri, 10 Jul 2026 23:19:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaoWxtYk_yC</guid></item><item><title>2/ 라인업 정의부터 하면 Sol이 플래그십, Terra는 GPT-5.5와 대등한 성능을 절반 가격에 내는 일상용, Luna는 가장 싸고 빠른 ...</title><link>https://www.threads.net/@choi.openai/post/DaoVlNoDaFn</link><description>2/ 라인업 정의부터 하면 Sol이 플래그십, Terra는 GPT-5.5와 대등한 성능을 절반 가격에 내는 일상용, Luna는 가장 싸고 빠른 모델입니다.
-숫자 5.6은 세대를 뜻하고, Sol과 Terra와 Luna는 각자 따로 발전하는 능력 등급의 이름입니다.
-도미닉 쿤델은 앱과 웹에서 이걸 슬라이더 하나로 단순화했다고 답했습니다. 대부분 구간이 Sol의 추론 강도에 매핑되고 가장 낮은 단계만 Terra로 넘어갑니다.
-로맹 위에의 조합은 Ultra에 Luna를 서브에이전트로 붙이는 방식입니다. 실제로 ultra 설정은 기본 4개 에이전트를 병렬로 돌립니다.
-대장 모델 하나에 값싼 모델을 부하로 붙이는 편성이 기본값이 되어가는 것 같습니다.</description><pubDate>Fri, 10 Jul 2026 23:19:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaoVlNoDaFn</guid></item><item><title>3/ 팀원들의 실제 사용 규칙도 구체적으로 나왔습니다.
-캐스 코버렉 기준으로 자잘한 수정과 탐색은 가벼운 모델에 낮은 추론, 재현되는 버그는 S...</title><link>https://www.threads.net/@choi.openai/post/DaoWzKakxJu</link><description>3/ 팀원들의 실제 사용 규칙도 구체적으로 나왔습니다.
-캐스 코버렉 기준으로 자잘한 수정과 탐색은 가벼운 모델에 낮은 추론, 재현되는 버그는 Sol 중간, 원인이 모호하거나 여러 모듈을 건드리는 일은 Sol 높은 추론, 마이그레이션과 보안과 프로덕션 장애처럼 틀리면 비싼 일은 Sol Ultra에 계획과 테스트까지 시키는 식입니다.
-로맹 위에는 대부분 Sol Medium이면 충분하고 정말 어려운 것만 Ultra라고 답했습니다.
-자동 라우팅은 아직 없는데요. 5.6 자체가 쉬운 문제를 과하게 생각하지 않도록 만들어졌고, 코버렉은 사용자가 모델 라우팅 전문가가 될 필요는 없어야 한다며 자동 기본값 위에 수동 오버라이드를 남기는 방향을 시사했습니다.
-GPT-5 세대의 자동 라우터 반발을 떠올리면, 라우팅이 UI에서 모델 안으로 들어가고 있습니다.</description><pubDate>Fri, 10 Jul 2026 23:19:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaoWzKakxJu</guid></item></channel></rss>
+또한 프로젝트와 저장소 선택 화면도 개선되어, 더 적은 클릭으로 에이전트를 실행할 수 있게 되었습니다.</description><pubDate>Sat, 11 Jul 2026 05:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DapBQWvggwY</guid></item></channel></rss>
