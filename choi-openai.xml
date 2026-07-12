@@ -1,59 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 12 Jul 2026 02:43:51 +0000</lastBuildDate><item><title>오픈AI가 4개월만에 말을 바꿨습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 12 Jul 2026 09:50:17 +0000</lastBuildDate><item><title>LLM이 사용자의 직업을 눈치채고 도덕 판단을 바꾼다는 연구가 나왔습니다.
 
-자기가 쓰라고 밀던 대표 코딩 벤치 SWE-Bench Pro를 감사하니, 공개 과제의 30%가 깨진 문...</title><link>https://www.threads.net/@choi.openai/post/DarQHfgD0Y2</link><description>오픈AI가 4개월만에 말을 바꿨습니다.
+남아공 스텔렌보스대 연구진이 GPT-4.1 mini와 Gemini ...</title><link>https://www.threads.net/@choi.openai/post/Dar6p_PgdKh</link><description>LLM이 사용자의 직업을 눈치채고 도덕 판단을 바꾼다는 연구가 나왔습니다.
 
-자기가 쓰라고 밀던 대표 코딩 벤치 SWE-Bench Pro를 감사하니, 공개 과제의 30%가 깨진 문제였습니다. 맞는 답이 틀리고, 부실한 답이 통과하는 채점이요.
+남아공 스텔렌보스대 연구진이 GPT-4.1 mini와 Gemini 2.5 Flash Lite를 상대로 대화 1만 2천 건을 돌린 실험입니다.
+페르소나 지시도, 도덕적 입장 표명도 없이 사용자가 직업인다운 추론만 네 턴 주고받은 뒤, 살인, 거짓말, 약속 파기 같은 행위가 얼마나 나쁜지 0~100점으로 물었습니다.
 
-8개월 만에 23%에서 80%로 오른 그 점수가 뭘 잰 건지, 만든 쪽도 이제 자신하지 못합니다. 오픈AI가 던진 질문과 내용을 정리헸습니다.🧵</description><pubDate>Sun, 12 Jul 2026 02:19:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DarQHfgD0Y2</guid></item><item><title>1/ 오픈AI가 7월 8일 SWE-Bench Pro를 감사한 결과를 내놨습니다.
+그 결과 열 개 항목 전부에서 점수가 사용자의 직업에 따라 갈렸습니다.
+살인 같은 중대 가해 행위는 거의 모든 직업에서 만점 근처에 붙어 있지만, 법 위반처럼 해석 여지가 있는 항목은 직업 간 최대 36점까지 벌어집니다.
 
-공개된 731개 과제 가운데 약 30%가 깨진 문제라는 판정입...</title><link>https://www.threads.net/@choi.openai/post/DarQINDD-ji</link><description>1/ 오픈AI가 7월 8일 SWE-Bench Pro를 감사한 결과를 내놨습니다.
+방향도 직업과 행위의 관계를 그대로 따라갑니다. 카지노 피트 보스 앞에서는 부정행위 점수가 가장 높았고, 채권 추심원이나 압류 대행인 앞에서는 법 위반을 유독 나쁘게 매겼습니다. 🧵</description><pubDate>Sun, 12 Jul 2026 08:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dar6p_PgdKh</guid></item><item><title>2/ 연구진은 직업 정보가 없는 중립 조건을 기준선으로 두려 했는데, 만들지 못했습니다.
+파일럿에서 아무 단서를 안 줘도 모델이 대화만 보고 사...</title><link>https://www.threads.net/@choi.openai/post/Dar6rADgchG</link><description>2/ 연구진은 직업 정보가 없는 중립 조건을 기준선으로 두려 했는데, 만들지 못했습니다.
+파일럿에서 아무 단서를 안 줘도 모델이 대화만 보고 사용자의 직업을 알아서 추정해버렸기 때문입니다.
+조건 없는 도덕 판단이라는 기준점 자체가 없다는 뜻입니다.
+모델 내부의 신념이 바뀐 증거는 아니고 문맥에 조건화된 출력일 뿐이라는 반론도 있지만, 사용자 눈에는 그 조건화가 보이지 않는다는 게 문제입니다.
+같은 질문이라도 내가 누구로 보이느냐에 따라 답이 달라지고 있으니까요.
+개인화가 강해질수록, 역할에 따른 판단 편차를 어디까지 허용할지 정하는 정렬 논의는 앞으로 더 커질 것으로 보입니다.</description><pubDate>Sun, 12 Jul 2026 08:30:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dar6rADgchG</guid></item><item><title>논문 :
+https://arxiv.org/html/2607.07605v1/</title><link>https://www.threads.net/@choi.openai/post/Dar6sbJARFC</link><description>논문 :
+https://arxiv.org/html/2607.07605v1/</description><pubDate>Sun, 12 Jul 2026 08:31:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dar6sbJARFC</guid></item><item><title>챗GPT를 사용한다면, 무조건 사용해야합니다.
+챗GPT 데스크톱 앱을 다운받아서 꼭 해보세요!</title><link>https://www.threads.net/@choi.openai/post/Dar0NPoD-u2</link><description>챗GPT를 사용한다면, 무조건 사용해야합니다.
+챗GPT 데스크톱 앱을 다운받아서 꼭 해보세요!</description><pubDate>Sun, 12 Jul 2026 07:34:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dar0NPoD-u2</guid></item><item><title>Grok 4.5가 5년간 미해결이던 수학 문제에 답을 내놨습니다.
 
-공개된 731개 과제 가운데 약 30%가 깨진 문제라는 판정입니다.
-맞는 답도 오답으로, 부실한 답도 정답으로 처리되는 과제가 그만큼 섞여 있었다는 뜻입니다.
+UC 어바인의 Paata Ivanisvili 교수는 2021년 Rupert ...</title><link>https://www.threads.net/@choi.openai/post/DarvmiCj_Su</link><description>Grok 4.5가 5년간 미해결이던 수학 문제에 답을 내놨습니다.
 
-SWE-Bench Pro는 AI 코딩 에이전트가 실제 소프트웨어 이슈를 받아 코드를 고치고, 기존 기능을 깨지 않으면서 새 테스트를 통과시키는지 재는 벤치마크입니다.
+UC 어바인의 Paata Ivanisvili 교수는 2021년 Rupert Frank와 함께, 구면에서 함수를 매끄럽게 평균화하는 연산(푸아송 반군)의 크기 통제 성질인 hypercontractivity가 3차원 이하에서는 성립하고 13차원 같은 높은 차원에서는 깨진다는 걸 증명했습니다. 그 사이 4~12차원은 아무도 몰랐습니다.
 
-사람이 협업하던 깃허브 이슈와 풀리퀘스트에서 과제를 뽑아 옵니다.
-지난 몇 달간 프런티어 모델의 코딩 실력을 재는 사실상 표준 잣대였습니다.
-그 잣대의 눈금 3분의 1이 틀어져 있었다는 겁니다.</description><pubDate>Sun, 12 Jul 2026 02:19:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DarQINDD-ji</guid></item><item><title>2/ SWE-Bench Pro는 원래 앞선 벤치의 두 가지 문제를 고치려고 만든 시험입니다.
+Grok 4.5가 4차원에서 깨지는 반례를 사람 개입 없이 만들어내면서, 3차원이 실제 경계였다는 게 확인됐습니다.
+반례가 구체적인 식으로 나와 있어 손으로 검산할 수 있고, 맞다고 확인한 사람도 원 정리를 증명한 저자 본인입니다.
 
-하나는 오염입니다. 모델이 학습 때 이미 본 코드...</title><link>https://www.threads.net/@choi.openai/post/DarQJKsj4g9</link><description>2/ SWE-Bench Pro는 원래 앞선 벤치의 두 가지 문제를 고치려고 만든 시험입니다.
+다만 독립 검증과 논문화는 아직이고, 저자에 따르면 다른 프런티어 모델 하나도 반례를 찾았다고 합니다.
+벤치마크 점수가 아니라 미해결 문제로 모델을 시험하는 장면은 앞으로 더 잦아질 것 같습니다.</description><pubDate>Sun, 12 Jul 2026 06:54:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DarvmiCj_Su</guid></item><item><title>Pika가 새로운 '4K-VFX' 기능을 공개했습니다.
 
-하나는 오염입니다. 모델이 학습 때 이미 본 코드로 시험을 보면 실력이 아니라 암기를 재게 됩니다.
-그래서 만든 쪽인 스케일AI는 GPL 같은 강한 카피레프트 라이선스 코드와 비공개 상용 코드만 골랐습니다. 학습 데이터에 잘 들어가지 않는 코드라는 이유였습니다.
+프롬프트 한 줄만 입력하면 영상 속 원하는 요소만 변경하고, 얼굴과 동작, 오디오, 카...</title><link>https://www.threads.net/@choi.openai/post/DarbWX-j2Yr</link><description>Pika가 새로운 '4K-VFX' 기능을 공개했습니다.
 
-다른 하나는 비현실성입니다. 그래서 실무처럼 모호하고 덜 정리된 이슈를 일부러 남겼습니다. 바로 그 모호함이 이번 감사에서 깨짐의 원인으로 지목됐습니다.
+프롬프트 한 줄만 입력하면 영상 속 원하는 요소만 변경하고, 얼굴과 동작, 오디오, 카메라 움직임은 그대로 유지하는 방식인데요.
 
-오염을 막으려고 고른 코드가 아니라, 현실을 담으려고 남긴 모호함이 발목을 잡은 겁니다.</description><pubDate>Sun, 12 Jul 2026 02:19:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DarQJKsj4g9</guid></item><item><title>3/ 출시 시점만 해도 이 시험은 확실히 어려웠습니다.
-2025년 9월 공개 당시 두 프런티어 모델이 23%대에 머물렀습니다.
-
-같은 모델들이 ...</title><link>https://www.threads.net/@choi.openai/post/DarQKGRD0hv</link><description>3/ 출시 시점만 해도 이 시험은 확실히 어려웠습니다.
-2025년 9월 공개 당시 두 프런티어 모델이 23%대에 머물렀습니다.
-
-같은 모델들이 앞선 벤치 SWE-bench Verified에서 70%를 넘기던 것과 비교하면 확 떨어진 숫자입니다. 설계가 실제로 어렵게 먹혔다는 뜻이었습니다.
-
-그런데 오픈AI 발표 기준으로 8개월 만에 공개 과제 통과율이 80.3%까지 올라왔습니다.
-여덟 달 사이 세 배 넘게 뛴 겁니다. 모델이 좋아진 것도 사실이지만 상승 폭이 유독 가파릅니다.
-난이도가 그대로였다면, 이 가파른 상승의 상당 부분이 실력 향상이 아닐 수 있다는 의심이 여기서 시작됩니다.
-시험이 쉬워졌는지, 시험의 빈틈이 드러났는지를 갈라 봐야 하는 대목입니다.</description><pubDate>Sun, 12 Jul 2026 02:19:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DarQKGRD0hv</guid></item><item><title>AI 에이전트 여러 개를 연결해 작업을 나누거나, 반복 업무에 맞는 에이전트 워크플로를 만들고 싶다면 David Ondrej의 'Agent Sk...</title><link>https://www.threads.net/@choi.openai/post/Daq8zAVDXGx</link><description>AI 에이전트 여러 개를 연결해 작업을 나누거나, 반복 업무에 맞는 에이전트 워크플로를 만들고 싶다면 David Ondrej의 'Agent Skills'를 사용해보세요.
-
-AI 코딩 에이전트와 연구 에이전트의 실행·예약·위임·협업을 다루는 스킬부터 웹 조사, YouTube 정보 수집, 문서 정리, 프레젠테이션 검토, 서버·보안 설정까지 다양한 작업 흐름이 담겨 있습니다.
-
-각 스킬은 필요한 상황과 사용 방법을 `SKILL.md`로 정리해두어 원하는 기능만 골라 적용할 수 있습니다. 반복해서 사용하는 에이전트 작업을 체계적으로 구성할 때 참고하기 좋은 오픈소스 모음입니다.</description><pubDate>Sat, 11 Jul 2026 23:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Daq8zAVDXGx</guid></item><item><title>깃허브 :
-https://github.com/davidondrej/skills</title><link>https://www.threads.net/@choi.openai/post/Daq8z7tjXLF</link><description>깃허브 :
-https://github.com/davidondrej/skills</description><pubDate>Sat, 11 Jul 2026 23:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Daq8z7tjXLF</guid></item><item><title>AI 영상의 카메라 움직임이 항상 비슷하거나 원하는 장면이 잘 나오지 않는다면 'AI Camera Movements'를 사용해보세요.
-
-카메라 ...</title><link>https://www.threads.net/@choi.openai/post/Daqyh5MAprs</link><description>AI 영상의 카메라 움직임이 항상 비슷하거나 원하는 장면이 잘 나오지 않는다면 'AI Camera Movements'를 사용해보세요.
-
-카메라 앵글과 카메라 무브먼트 용어를 예시와 함께 쉽게 설명해주는 무료 사이트인데요. Dolly, Pan, Orbit, Crane 등 영화 촬영에서 사용하는 다양한 기법을 프롬프트 예시와 함께 확인할 수 있습니다.
-
-좋은 AI 영상을 만드는 사람들은 모델보다 촬영 용어를 잘 활용하는 경우가 많습니다. AI 영상 프롬프트를 더 자연스럽고 구체적으로 작성하고 싶다면 한 번 참고해볼 만한 자료입니다.</description><pubDate>Sat, 11 Jul 2026 22:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Daqyh5MAprs</guid></item><item><title>주소 :
-https://aicameramovements.com/</title><link>https://www.threads.net/@choi.openai/post/DaqykKvgsbo</link><description>주소 :
-https://aicameramovements.com/</description><pubDate>Sat, 11 Jul 2026 22:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaqykKvgsbo</guid></item><item><title>Cerebras가 'Gemma 4'를 활용한 차량 손상 분석 예제 'Damage Scout'를 공개했습니다.
-
-렌터카를 촬영한 영상을 분석해 프...</title><link>https://www.threads.net/@choi.openai/post/DaqoMYJEcM_</link><description>Cerebras가 'Gemma 4'를 활용한 차량 손상 분석 예제 'Damage Scout'를 공개했습니다.
-
-렌터카를 촬영한 영상을 분석해 프레임을 추출하고, 차량의 손상 위치와 내용을 구조화된 형태로 정리한 뒤 손상 부위를 표시한 보고서까지 6초 이내에 생성하는데요.
-
-Cerebras는 초당 2,300토큰 이상의 추론 속도를 바탕으로, 멀티모달 추론에서 가장 큰 문제인 지연 시간을 크게 줄일 수 있다고 소개했습니다.</description><pubDate>Sat, 11 Jul 2026 20:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaqoMYJEcM_</guid></item></channel></rss>
+해당 기능은 'Seedance 4K' 기반으로 동작하며, 현재 'PikaMCP'에서 "/4k-vfx" 명령어로 사용할 수 있습니다. 영상 편집 작업이 한층 간편해질 것으로 보입니다.</description><pubDate>Sun, 12 Jul 2026 03:57:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DarbWX-j2Yr</guid></item></channel></rss>
