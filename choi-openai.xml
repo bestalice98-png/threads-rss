@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 12 Jul 2026 09:50:17 +0000</lastBuildDate><item><title>LLM이 사용자의 직업을 눈치채고 도덕 판단을 바꾼다는 연구가 나왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 12 Jul 2026 15:46:10 +0000</lastBuildDate><item><title>내 위키(위키 레벨을 벗어났지만)에 질문 한 번 하는데 100만원도 저렴하다고 생각한다.</title><link>https://www.threads.net/@choi.openai/post/DasgYzhlH6K</link><description>내 위키(위키 레벨을 벗어났지만)에 질문 한 번 하는데 100만원도 저렴하다고 생각한다.</description><pubDate>Sun, 12 Jul 2026 14:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasgYzhlH6K</guid></item><item><title>이번 주는 AI 역사에 남을 한 주였습니다.
+
+GPT 5.6과 ChatGPT Work 출시부터, 세계 최고 코더들의 완패, 애플의 오픈AI 제소...</title><link>https://www.threads.net/@choi.openai/post/DasMN5aD-7b</link><description>이번 주는 AI 역사에 남을 한 주였습니다.
+
+GPT 5.6과 ChatGPT Work 출시부터, 세계 최고 코더들의 완패, 애플의 오픈AI 제소까지.
+이제는 '모른다'고 넘어갈 수 없습니다.
+
+꼭 알아야 할 AI 소식 53개를 엄선했습니다 🧵</description><pubDate>Sun, 12 Jul 2026 11:04:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasMN5aD-7b</guid></item><item><title>1/ 오픈AI가 GPT 5.6을 정식 출시했습니다.
+6월 26일부터 정부 승인 파트너 20곳에만 열려 있던 프리뷰, 사실상의 수출통제가 풀리면서...</title><link>https://www.threads.net/@choi.openai/post/DasMORJjwFk</link><description>1/ 오픈AI가 GPT 5.6을 정식 출시했습니다.
+6월 26일부터 정부 승인 파트너 20곳에만 열려 있던 프리뷰, 사실상의 수출통제가 풀리면서 누구나 쓰는 정식 출시로 넘어왔습니다.
+구성은 플래그십 Sol, 중간 Terra, 경량 Luna 세 모델이고, 숫자는 세대를, 이름은 능력 등급을 가리키는 새 명명 체계입니다.
+눈여겨볼 건 전략입니다. SWE-Bench Pro와 FrontierMath에서 Fable 5에 지는 숫자를 표에 그대로 실었는데, 이번 세대의 승부처를 절대 성능이 아니라 달러당 성능으로 잡았기 때문인데요.
+Terra와 Luna가 Fable 5의 약 16분의 1 비용이라는 문구가 발표문에서 가장 자주 반복되는 주장입니다.</description><pubDate>Sun, 12 Jul 2026 11:04:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasMORJjwFk</guid></item><item><title>2/ 오픈AI가 같은 날 ChatGPT Work를 공개했습니다.
+질문에 답을 돌려주던 챗GPT가, 앱과 파일을 가로질러 직접 행동하고 몇 시간짜...</title><link>https://www.threads.net/@choi.openai/post/DasMPA7j1uh</link><description>2/ 오픈AI가 같은 날 ChatGPT Work를 공개했습니다.
+질문에 답을 돌려주던 챗GPT가, 앱과 파일을 가로질러 직접 행동하고 몇 시간짜리 프로젝트를 잘게 쪼개 끝까지 완주하는 에이전트를 갖게 된 겁니다.
+제품이 만들어진 경로가 재미있습니다. 코덱스 주간 사용자 500만 중 100만 명 이상이 소프트웨어 개발 밖의 일에 쓰고 있었고, 비개발자 증가 속도가 개발자의 3배라는 보도까지 있었습니다.
+마케팅, 재무, 영업 담당자들이 코딩 도구를 업무 에이전트로 전용해 쓰자, 회사가 그 사용 패턴을 관찰해 비개발자용 제품으로 승격시켰습니다. 제품보다 사용자가 먼저 움직인 사례입니다.
+훈련의 방점도 업무 산출물에 있습니다. 회사 템플릿에 박힌 규칙까지 읽어 그대로 새 자료를 만드는 능력을 크게 끌어올렸다고 밝혔고요.</description><pubDate>Sun, 12 Jul 2026 11:04:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasMPA7j1uh</guid></item><item><title>3/ 일론 머스크가 회사 간판을 SpaceXAI로 바꾸고 첫 결과물 Grok 4.5를 공개했습니다.
+xAI가 혼자 학습한 모델이 아니라 코딩 도...</title><link>https://www.threads.net/@choi.openai/post/DasMPmij2Ep</link><description>3/ 일론 머스크가 회사 간판을 SpaceXAI로 바꾸고 첫 결과물 Grok 4.5를 공개했습니다.
+xAI가 혼자 학습한 모델이 아니라 코딩 도구 Cursor와 공동 학습한 첫 범용 모델입니다. Cursor 사용자 상호작용 데이터 수조 개 토큰이 들어가, 완성된 코드가 아니라 개발자가 실제로 일하는 방식과 에이전트가 환경과 주고받는 과정을 배웠습니다.
+1.5조 파라미터 규모로 추측되고, 엔비디아 GB300 수만 장으로 학습했습니다.
+포지션은 오픈AI와 같은 방향입니다. 점수는 최상위권 바로 아래인데 비용은 10분의 1입니다. 
+프런티어 경쟁이 최고 점수 싸움에서 가격 대비 성능 싸움으로 옮겨가는 흐름이 이번 주에만 두 번 확인된 겁니다.</description><pubDate>Sun, 12 Jul 2026 11:04:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasMPmij2Ep</guid></item><item><title>요즘 코딩 에이전트로 어떤 모델을 쓸지 고민이라면 볼만한 차트입니다.
+Sebastian Raschka가 GPT-5.6 라인업의 성능 대비 비용 ...</title><link>https://www.threads.net/@choi.openai/post/DasE9Wik5AI</link><description>요즘 코딩 에이전트로 어떤 모델을 쓸지 고민이라면 볼만한 차트입니다.
+Sebastian Raschka가 GPT-5.6 라인업의 성능 대비 비용 그래프를 정리했는데, 이틀 만에 조회 80만을 넘겼습니다.
+결론은 단순합니다. 큰 모델을 이름만 보고 고르는 것보다, 작은 모델에 추론 강도를 올려 쓰는 조합이 대부분 구간에서 앞섭니다.
+제일 작은 Luna를 최고 강도로 돌리면 중형 Sol의 Medium급 성능이 나오는데 비용은 3분의 1 수준입니다.
+같은 돈이면 큰 모델의 한 번 응답보다 작은 모델이 더 오래 생각하게 만드는 쪽이 정확하다는 뜻입니다.
+업데이트판에 추가된 Grok 4.5도 이 가성비 경계선 위에 올라왔습니다.
+다만 구독 요금제에선 사용량 차감이 API 단가와 다르다는 실사용 보고도 있어, 체감 가성비는 다를 수 있습니다.
+5.5에서 5.6까지 80일 만에 곡선이 이만큼 내려왔습니다.
+모델 고르는 공식도 그 주기로 다시 써야 할 것 같습니다.</description><pubDate>Sun, 12 Jul 2026 10:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasE9Wik5AI</guid></item><item><title>LLM이 사용자의 직업을 눈치채고 도덕 판단을 바꾼다는 연구가 나왔습니다.
 
 남아공 스텔렌보스대 연구진이 GPT-4.1 mini와 Gemini ...</title><link>https://www.threads.net/@choi.openai/post/Dar6p_PgdKh</link><description>LLM이 사용자의 직업을 눈치채고 도덕 판단을 바꾼다는 연구가 나왔습니다.
 
@@ -17,22 +48,4 @@
 같은 질문이라도 내가 누구로 보이느냐에 따라 답이 달라지고 있으니까요.
 개인화가 강해질수록, 역할에 따른 판단 편차를 어디까지 허용할지 정하는 정렬 논의는 앞으로 더 커질 것으로 보입니다.</description><pubDate>Sun, 12 Jul 2026 08:30:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dar6rADgchG</guid></item><item><title>논문 :
 https://arxiv.org/html/2607.07605v1/</title><link>https://www.threads.net/@choi.openai/post/Dar6sbJARFC</link><description>논문 :
-https://arxiv.org/html/2607.07605v1/</description><pubDate>Sun, 12 Jul 2026 08:31:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dar6sbJARFC</guid></item><item><title>챗GPT를 사용한다면, 무조건 사용해야합니다.
-챗GPT 데스크톱 앱을 다운받아서 꼭 해보세요!</title><link>https://www.threads.net/@choi.openai/post/Dar0NPoD-u2</link><description>챗GPT를 사용한다면, 무조건 사용해야합니다.
-챗GPT 데스크톱 앱을 다운받아서 꼭 해보세요!</description><pubDate>Sun, 12 Jul 2026 07:34:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dar0NPoD-u2</guid></item><item><title>Grok 4.5가 5년간 미해결이던 수학 문제에 답을 내놨습니다.
-
-UC 어바인의 Paata Ivanisvili 교수는 2021년 Rupert ...</title><link>https://www.threads.net/@choi.openai/post/DarvmiCj_Su</link><description>Grok 4.5가 5년간 미해결이던 수학 문제에 답을 내놨습니다.
-
-UC 어바인의 Paata Ivanisvili 교수는 2021년 Rupert Frank와 함께, 구면에서 함수를 매끄럽게 평균화하는 연산(푸아송 반군)의 크기 통제 성질인 hypercontractivity가 3차원 이하에서는 성립하고 13차원 같은 높은 차원에서는 깨진다는 걸 증명했습니다. 그 사이 4~12차원은 아무도 몰랐습니다.
-
-Grok 4.5가 4차원에서 깨지는 반례를 사람 개입 없이 만들어내면서, 3차원이 실제 경계였다는 게 확인됐습니다.
-반례가 구체적인 식으로 나와 있어 손으로 검산할 수 있고, 맞다고 확인한 사람도 원 정리를 증명한 저자 본인입니다.
-
-다만 독립 검증과 논문화는 아직이고, 저자에 따르면 다른 프런티어 모델 하나도 반례를 찾았다고 합니다.
-벤치마크 점수가 아니라 미해결 문제로 모델을 시험하는 장면은 앞으로 더 잦아질 것 같습니다.</description><pubDate>Sun, 12 Jul 2026 06:54:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DarvmiCj_Su</guid></item><item><title>Pika가 새로운 '4K-VFX' 기능을 공개했습니다.
-
-프롬프트 한 줄만 입력하면 영상 속 원하는 요소만 변경하고, 얼굴과 동작, 오디오, 카...</title><link>https://www.threads.net/@choi.openai/post/DarbWX-j2Yr</link><description>Pika가 새로운 '4K-VFX' 기능을 공개했습니다.
-
-프롬프트 한 줄만 입력하면 영상 속 원하는 요소만 변경하고, 얼굴과 동작, 오디오, 카메라 움직임은 그대로 유지하는 방식인데요.
-
-해당 기능은 'Seedance 4K' 기반으로 동작하며, 현재 'PikaMCP'에서 "/4k-vfx" 명령어로 사용할 수 있습니다. 영상 편집 작업이 한층 간편해질 것으로 보입니다.</description><pubDate>Sun, 12 Jul 2026 03:57:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DarbWX-j2Yr</guid></item></channel></rss>
+https://arxiv.org/html/2607.07605v1/</description><pubDate>Sun, 12 Jul 2026 08:31:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dar6sbJARFC</guid></item></channel></rss>
