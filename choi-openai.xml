@@ -1,24 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 13 Jul 2026 02:45:07 +0000</lastBuildDate><item><title>코덱스는 신이다.</title><link>https://www.threads.net/@choi.openai/post/DatpEzvDzVW</link><description>코덱스는 신이다.</description><pubDate>Mon, 13 Jul 2026 00:35:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DatpEzvDzVW</guid></item><item><title>스레드에서도 몇분께서 같은 문제를 제보해주셨는데, 빠르게 처리해주셨네요!</title><link>https://www.threads.net/@choi.openai/post/Datp7TQjy3D</link><description>스레드에서도 몇분께서 같은 문제를 제보해주셨는데, 빠르게 처리해주셨네요!</description><pubDate>Mon, 13 Jul 2026 00:43:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Datp7TQjy3D</guid></item><item><title>진짜 미친 세상이다.</title><link>https://www.threads.net/@choi.openai/post/Das1URuD48s</link><description>진짜 미친 세상이다.</description><pubDate>Sun, 12 Jul 2026 17:03:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Das1URuD48s</guid></item><item><title>내 위키(위키 레벨을 벗어났지만)에 질문 한 번 하는데 100만원도 저렴하다고 생각한다.</title><link>https://www.threads.net/@choi.openai/post/DasgYzhlH6K</link><description>내 위키(위키 레벨을 벗어났지만)에 질문 한 번 하는데 100만원도 저렴하다고 생각한다.</description><pubDate>Sun, 12 Jul 2026 14:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasgYzhlH6K</guid></item><item><title>이번 주는 AI 역사에 남을 한 주였습니다.
-
-GPT 5.6과 ChatGPT Work 출시부터, 세계 최고 코더들의 완패, 애플의 오픈AI 제소...</title><link>https://www.threads.net/@choi.openai/post/DasMN5aD-7b</link><description>이번 주는 AI 역사에 남을 한 주였습니다.
-
-GPT 5.6과 ChatGPT Work 출시부터, 세계 최고 코더들의 완패, 애플의 오픈AI 제소까지.
-이제는 '모른다'고 넘어갈 수 없습니다.
-
-꼭 알아야 할 AI 소식 53개를 엄선했습니다 🧵</description><pubDate>Sun, 12 Jul 2026 11:04:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasMN5aD-7b</guid></item><item><title>1/ 오픈AI가 GPT 5.6을 정식 출시했습니다.
-6월 26일부터 정부 승인 파트너 20곳에만 열려 있던 프리뷰, 사실상의 수출통제가 풀리면서...</title><link>https://www.threads.net/@choi.openai/post/DasMORJjwFk</link><description>1/ 오픈AI가 GPT 5.6을 정식 출시했습니다.
-6월 26일부터 정부 승인 파트너 20곳에만 열려 있던 프리뷰, 사실상의 수출통제가 풀리면서 누구나 쓰는 정식 출시로 넘어왔습니다.
-구성은 플래그십 Sol, 중간 Terra, 경량 Luna 세 모델이고, 숫자는 세대를, 이름은 능력 등급을 가리키는 새 명명 체계입니다.
-눈여겨볼 건 전략입니다. SWE-Bench Pro와 FrontierMath에서 Fable 5에 지는 숫자를 표에 그대로 실었는데, 이번 세대의 승부처를 절대 성능이 아니라 달러당 성능으로 잡았기 때문인데요.
-Terra와 Luna가 Fable 5의 약 16분의 1 비용이라는 문구가 발표문에서 가장 자주 반복되는 주장입니다.</description><pubDate>Sun, 12 Jul 2026 11:04:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasMORJjwFk</guid></item><item><title>2/ 오픈AI가 같은 날 ChatGPT Work를 공개했습니다.
-질문에 답을 돌려주던 챗GPT가, 앱과 파일을 가로질러 직접 행동하고 몇 시간짜...</title><link>https://www.threads.net/@choi.openai/post/DasMPA7j1uh</link><description>2/ 오픈AI가 같은 날 ChatGPT Work를 공개했습니다.
-질문에 답을 돌려주던 챗GPT가, 앱과 파일을 가로질러 직접 행동하고 몇 시간짜리 프로젝트를 잘게 쪼개 끝까지 완주하는 에이전트를 갖게 된 겁니다.
-제품이 만들어진 경로가 재미있습니다. 코덱스 주간 사용자 500만 중 100만 명 이상이 소프트웨어 개발 밖의 일에 쓰고 있었고, 비개발자 증가 속도가 개발자의 3배라는 보도까지 있었습니다.
-마케팅, 재무, 영업 담당자들이 코딩 도구를 업무 에이전트로 전용해 쓰자, 회사가 그 사용 패턴을 관찰해 비개발자용 제품으로 승격시켰습니다. 제품보다 사용자가 먼저 움직인 사례입니다.
-훈련의 방점도 업무 산출물에 있습니다. 회사 템플릿에 박힌 규칙까지 읽어 그대로 새 자료를 만드는 능력을 크게 끌어올렸다고 밝혔고요.</description><pubDate>Sun, 12 Jul 2026 11:04:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasMPA7j1uh</guid></item><item><title>3/ 일론 머스크가 회사 간판을 SpaceXAI로 바꾸고 첫 결과물 Grok 4.5를 공개했습니다.
-xAI가 혼자 학습한 모델이 아니라 코딩 도...</title><link>https://www.threads.net/@choi.openai/post/DasMPmij2Ep</link><description>3/ 일론 머스크가 회사 간판을 SpaceXAI로 바꾸고 첫 결과물 Grok 4.5를 공개했습니다.
-xAI가 혼자 학습한 모델이 아니라 코딩 도구 Cursor와 공동 학습한 첫 범용 모델입니다. Cursor 사용자 상호작용 데이터 수조 개 토큰이 들어가, 완성된 코드가 아니라 개발자가 실제로 일하는 방식과 에이전트가 환경과 주고받는 과정을 배웠습니다.
-1.5조 파라미터 규모로 추측되고, 엔비디아 GB300 수만 장으로 학습했습니다.
-포지션은 오픈AI와 같은 방향입니다. 점수는 최상위권 바로 아래인데 비용은 10분의 1입니다. 
-프런티어 경쟁이 최고 점수 싸움에서 가격 대비 성능 싸움으로 옮겨가는 흐름이 이번 주에만 두 번 확인된 겁니다.</description><pubDate>Sun, 12 Jul 2026 11:04:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasMPmij2Ep</guid></item></channel></rss>
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 13 Jul 2026 11:10:15 +0000</lastBuildDate><item><title>마이크로소프트는 오픈AI의 최대 후원자입니다.
+그 회사의 CEO가 이번 주, 기업들에게 특정 모델 의존을 끊고 자기 학습 루프를 소유하라고 적었...</title><link>https://www.threads.net/@choi.openai/post/DauPK6OD_CM</link><description>마이크로소프트는 오픈AI의 최대 후원자입니다.
+그 회사의 CEO가 이번 주, 기업들에게 특정 모델 의존을 끊고 자기 학습 루프를 소유하라고 적었습니다.
+해독제를 파는 손과 병을 파는 손이 겹치는 자리에서, 나델라의 "역방향 정보 역설"을 정리했습니다 🧵</description><pubDate>Mon, 13 Jul 2026 06:08:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DauPK6OD_CM</guid></item><item><title>1/1962년 경제학자 케네스 애로우는 정보 시장의 역설을 짚었습니다.
+파는 쪽은 지식의 값을 증명하려고 그것을 보여주는 순간, 사는 쪽이 공짜...</title><link>https://www.threads.net/@choi.openai/post/DauPLfBD6np</link><description>1/1962년 경제학자 케네스 애로우는 정보 시장의 역설을 짚었습니다.
+파는 쪽은 지식의 값을 증명하려고 그것을 보여주는 순간, 사는 쪽이 공짜로 가져가 버립니다. 그래서 파는 쪽이 지식을 내주는 위험을 집니다.
+사티아 나델라는 이번 주 글에서 AI가 이 방향을 뒤집었다고 적었습니다.
+이제는 사는 쪽이 위험을 집니다. 산 지능을 쓸모 있게 만들려면 회사의 고유 지식을 모델에 먹여야 하고, 잘 시킬수록 더 많이 먹여야 하기 때문입니다.
+지능값을 두 번 낸다는 말입니다. 한 번은 돈으로, 또 한 번은 넘겨준 지식으로요.
+애로우의 세상에서는 파는 쪽이 조심했습니다. 나델라의 세상에서는 사는 쪽이 조심해야 합니다.</description><pubDate>Mon, 13 Jul 2026 06:08:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DauPLfBD6np</guid></item><item><title>2/ 모델은 우리가 남기는 흔적에서 배웁니다.
+나델라는 이걸 배기가스라 불렀습니다. 우리가 쓰는 프롬프트, 에이전트가 부르는 도구, 그리고 특히...</title><link>https://www.threads.net/@choi.openai/post/DauPMEQj-we</link><description>2/ 모델은 우리가 남기는 흔적에서 배웁니다.
+나델라는 이걸 배기가스라 불렀습니다. 우리가 쓰는 프롬프트, 에이전트가 부르는 도구, 그리고 특히 모델이 틀렸을 때 사람이 고쳐주는 교정입니다.
+교정 하나하나가 회사의 노하우로 자리를 잡습니다. 경쟁사가 돈 주고도 못 사는 지식이, 흔적처럼 조금씩 새 나갑니다.
+비대칭은 여기서 벌어집니다. 파는 쪽은 나를 쓸수록 더 알게 되는데, 나는 그쪽이 나에 대해 뭘 배웠는지 거의 모릅니다.
+이미 재고 있는 숫자도 있습니다. IDC는 2025년 직장인의 56%가 승인 안 된 AI 도구를 쓴다고 집계했고, 회사가 관리하는 도구를 쓰는 비율은 23%에 그쳤습니다.</description><pubDate>Mon, 13 Jul 2026 06:08:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DauPMEQj-we</guid></item><item><title>3/ 나델라는 자기 글에서 한 대목을 아이러니라고 적었습니다.
+모델을 만드는 랩은 공개된 데이터로 학습할 공정이용 권리를 얻습니다. 그런데 돌아...</title><link>https://www.threads.net/@choi.openai/post/DauPM9kD-Ij</link><description>3/ 나델라는 자기 글에서 한 대목을 아이러니라고 적었습니다.
+모델을 만드는 랩은 공개된 데이터로 학습할 공정이용 권리를 얻습니다. 그런데 돌아서서, 당신이 그 모델을 증류해 자기 모델을 만드는 건 약관으로 막고, 당신의 사용 데이터로 자기들이 배울 권리는 남겨둡니다.
+증류는 큰 모델의 답을 받아 작은 모델을 학습시키는 방법입니다.
+오픈AI는 2025년 초 딥시크가 자사 모델을 증류했다고 지목했고, 2026년 2월 하원 대중국 특위에도 같은 문제를 제기했습니다.
+정작 자기들이 하는 그 일을, 고객에게는 약관으로 금지한 겁니다. 학습이 한 방향으로만 흐릅니다.</description><pubDate>Mon, 13 Jul 2026 06:08:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DauPM9kD-Ij</guid></item><item><title>코덱스는 신이다.</title><link>https://www.threads.net/@choi.openai/post/DatpEzvDzVW</link><description>코덱스는 신이다.</description><pubDate>Mon, 13 Jul 2026 00:35:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DatpEzvDzVW</guid></item><item><title>스레드에서도 몇분께서 같은 문제를 제보해주셨는데, 빠르게 처리해주셨네요!</title><link>https://www.threads.net/@choi.openai/post/Datp7TQjy3D</link><description>스레드에서도 몇분께서 같은 문제를 제보해주셨는데, 빠르게 처리해주셨네요!</description><pubDate>Mon, 13 Jul 2026 00:43:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Datp7TQjy3D</guid></item><item><title>진짜 미친 세상이다.</title><link>https://www.threads.net/@choi.openai/post/Das1URuD48s</link><description>진짜 미친 세상이다.</description><pubDate>Sun, 12 Jul 2026 17:03:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Das1URuD48s</guid></item><item><title>내 위키(위키 레벨을 벗어났지만)에 질문 한 번 하는데 100만원도 저렴하다고 생각한다.</title><link>https://www.threads.net/@choi.openai/post/DasgYzhlH6K</link><description>내 위키(위키 레벨을 벗어났지만)에 질문 한 번 하는데 100만원도 저렴하다고 생각한다.</description><pubDate>Sun, 12 Jul 2026 14:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasgYzhlH6K</guid></item></channel></rss>
