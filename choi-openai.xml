@@ -1,21 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 13 Jul 2026 11:10:15 +0000</lastBuildDate><item><title>마이크로소프트는 오픈AI의 최대 후원자입니다.
-그 회사의 CEO가 이번 주, 기업들에게 특정 모델 의존을 끊고 자기 학습 루프를 소유하라고 적었...</title><link>https://www.threads.net/@choi.openai/post/DauPK6OD_CM</link><description>마이크로소프트는 오픈AI의 최대 후원자입니다.
-그 회사의 CEO가 이번 주, 기업들에게 특정 모델 의존을 끊고 자기 학습 루프를 소유하라고 적었습니다.
-해독제를 파는 손과 병을 파는 손이 겹치는 자리에서, 나델라의 "역방향 정보 역설"을 정리했습니다 🧵</description><pubDate>Mon, 13 Jul 2026 06:08:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DauPK6OD_CM</guid></item><item><title>1/1962년 경제학자 케네스 애로우는 정보 시장의 역설을 짚었습니다.
-파는 쪽은 지식의 값을 증명하려고 그것을 보여주는 순간, 사는 쪽이 공짜...</title><link>https://www.threads.net/@choi.openai/post/DauPLfBD6np</link><description>1/1962년 경제학자 케네스 애로우는 정보 시장의 역설을 짚었습니다.
-파는 쪽은 지식의 값을 증명하려고 그것을 보여주는 순간, 사는 쪽이 공짜로 가져가 버립니다. 그래서 파는 쪽이 지식을 내주는 위험을 집니다.
-사티아 나델라는 이번 주 글에서 AI가 이 방향을 뒤집었다고 적었습니다.
-이제는 사는 쪽이 위험을 집니다. 산 지능을 쓸모 있게 만들려면 회사의 고유 지식을 모델에 먹여야 하고, 잘 시킬수록 더 많이 먹여야 하기 때문입니다.
-지능값을 두 번 낸다는 말입니다. 한 번은 돈으로, 또 한 번은 넘겨준 지식으로요.
-애로우의 세상에서는 파는 쪽이 조심했습니다. 나델라의 세상에서는 사는 쪽이 조심해야 합니다.</description><pubDate>Mon, 13 Jul 2026 06:08:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DauPLfBD6np</guid></item><item><title>2/ 모델은 우리가 남기는 흔적에서 배웁니다.
-나델라는 이걸 배기가스라 불렀습니다. 우리가 쓰는 프롬프트, 에이전트가 부르는 도구, 그리고 특히...</title><link>https://www.threads.net/@choi.openai/post/DauPMEQj-we</link><description>2/ 모델은 우리가 남기는 흔적에서 배웁니다.
-나델라는 이걸 배기가스라 불렀습니다. 우리가 쓰는 프롬프트, 에이전트가 부르는 도구, 그리고 특히 모델이 틀렸을 때 사람이 고쳐주는 교정입니다.
-교정 하나하나가 회사의 노하우로 자리를 잡습니다. 경쟁사가 돈 주고도 못 사는 지식이, 흔적처럼 조금씩 새 나갑니다.
-비대칭은 여기서 벌어집니다. 파는 쪽은 나를 쓸수록 더 알게 되는데, 나는 그쪽이 나에 대해 뭘 배웠는지 거의 모릅니다.
-이미 재고 있는 숫자도 있습니다. IDC는 2025년 직장인의 56%가 승인 안 된 AI 도구를 쓴다고 집계했고, 회사가 관리하는 도구를 쓰는 비율은 23%에 그쳤습니다.</description><pubDate>Mon, 13 Jul 2026 06:08:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DauPMEQj-we</guid></item><item><title>3/ 나델라는 자기 글에서 한 대목을 아이러니라고 적었습니다.
-모델을 만드는 랩은 공개된 데이터로 학습할 공정이용 권리를 얻습니다. 그런데 돌아...</title><link>https://www.threads.net/@choi.openai/post/DauPM9kD-Ij</link><description>3/ 나델라는 자기 글에서 한 대목을 아이러니라고 적었습니다.
-모델을 만드는 랩은 공개된 데이터로 학습할 공정이용 권리를 얻습니다. 그런데 돌아서서, 당신이 그 모델을 증류해 자기 모델을 만드는 건 약관으로 막고, 당신의 사용 데이터로 자기들이 배울 권리는 남겨둡니다.
-증류는 큰 모델의 답을 받아 작은 모델을 학습시키는 방법입니다.
-오픈AI는 2025년 초 딥시크가 자사 모델을 증류했다고 지목했고, 2026년 2월 하원 대중국 특위에도 같은 문제를 제기했습니다.
-정작 자기들이 하는 그 일을, 고객에게는 약관으로 금지한 겁니다. 학습이 한 방향으로만 흐릅니다.</description><pubDate>Mon, 13 Jul 2026 06:08:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DauPM9kD-Ij</guid></item><item><title>코덱스는 신이다.</title><link>https://www.threads.net/@choi.openai/post/DatpEzvDzVW</link><description>코덱스는 신이다.</description><pubDate>Mon, 13 Jul 2026 00:35:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DatpEzvDzVW</guid></item><item><title>스레드에서도 몇분께서 같은 문제를 제보해주셨는데, 빠르게 처리해주셨네요!</title><link>https://www.threads.net/@choi.openai/post/Datp7TQjy3D</link><description>스레드에서도 몇분께서 같은 문제를 제보해주셨는데, 빠르게 처리해주셨네요!</description><pubDate>Mon, 13 Jul 2026 00:43:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Datp7TQjy3D</guid></item><item><title>진짜 미친 세상이다.</title><link>https://www.threads.net/@choi.openai/post/Das1URuD48s</link><description>진짜 미친 세상이다.</description><pubDate>Sun, 12 Jul 2026 17:03:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Das1URuD48s</guid></item><item><title>내 위키(위키 레벨을 벗어났지만)에 질문 한 번 하는데 100만원도 저렴하다고 생각한다.</title><link>https://www.threads.net/@choi.openai/post/DasgYzhlH6K</link><description>내 위키(위키 레벨을 벗어났지만)에 질문 한 번 하는데 100만원도 저렴하다고 생각한다.</description><pubDate>Sun, 12 Jul 2026 14:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DasgYzhlH6K</guid></item></channel></rss>
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 13 Jul 2026 17:04:09 +0000</lastBuildDate><item><title>큰 이슈가 있네요.
+xAI의 코딩 에이전트 Grok Build가 실행된 저장소 전체를 자사 클라우드로 업로드해온 사실이 드러났습니다.
+한 보안 ...</title><link>https://www.threads.net/@choi.openai/post/DavXi0tj2zr</link><description>큰 이슈가 있네요.
+xAI의 코딩 에이전트 Grok Build가 실행된 저장소 전체를 자사 클라우드로 업로드해온 사실이 드러났습니다.
+한 보안 연구자가 네트워크 트래픽을 직접 분석한 결과인데요.
+12GB 저장소에서 실제 코딩 작업에 오간 데이터는 192KB였는데, 별도 채널로 5.1GB가 xAI의 저장 버킷에 올라갔습니다.
+저장소를 통째로 묶어 올리는 방식이라 에이전트에게 읽지 말라고 지정한 파일, 과거 커밋 이력, 지워진 시크릿까지 전부 딸려 갑니다.
+'모델 개선' 옵트아웃을 꺼도 업로드는 계속됐습니다. 
+xAI는 분석이 공개된 다음 날 서버 쪽 숨은 플래그로 업로드를 중단했고, 수집 범위나 삭제 계획에 대한 공지는 아직 없습니다.
+어차피 다 가져가지 않냐는 반응도 있지만, 재현 가능한 증거로 잡힌 이상 이야기가 다릅니다.
+회사 코드에 에이전트를 붙이기 전에 네트워크 단 검증을 요구하는 흐름은 더 커질 것 같습니다.</description><pubDate>Mon, 13 Jul 2026 16:40:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavXi0tj2zr</guid></item><item><title>내용 :
+https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire...</title><link>https://www.threads.net/@choi.openai/post/DavXtOFD_dh</link><description>내용 :
+https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/</description><pubDate>Mon, 13 Jul 2026 16:42:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavXtOFD_dh</guid></item><item><title>노벨상 수상자 16명을 포함한 경제학자, AI 연구자 200여 명이 AI의 경제 충격에 지금 대비하라는 성명을 냈습니다.
+내용은 세 문장입니다....</title><link>https://www.threads.net/@choi.openai/post/DavRhvVD0k-</link><description>노벨상 수상자 16명을 포함한 경제학자, AI 연구자 200여 명이 AI의 경제 충격에 지금 대비하라는 성명을 냈습니다.
+내용은 세 문장입니다. AI가 10년 안에 급격히 강력해질 수 있고, 산업혁명보다 큰 변화가 훨씬 짧은 기간에 올 수 있으니, 지금부터 연구와 제도 준비를 시작하자고 촉구합니다.
+눈여겨볼 건 서명자 구성입니다.
+AI 생산성 효과에 줄곧 회의적이던 대런 아세모글루와 오픈AI, 앤트로픽의 수석 이코노미스트가 같은 문서에 이름을 올렸습니다.
+서명만으로 뭐가 바뀌냐는 반응도 나오지만, 낙관과 회의를 가리지 않고 모인 건 진단이 겹치기 때문입니다.
+주도자인 안톤 코리넥은 지금 상황을 "안개 속 운전"이라 표현했습니다.
+증기기관과 전기는 적응에 수십 년을 줬는데, AI는 몇 년밖에 안 줄 수 있다는 경고입니다.
+논쟁이 'AI가 일자리를 바꿀까'에서 '언제, 얼마나, 어떻게 대비할까'로 옮겨가고 있는 것 같습니다.</description><pubDate>Mon, 13 Jul 2026 15:48:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavRhvVD0k-</guid></item><item><title>발표내용 :
+wemustactnow.ai</title><link>https://www.threads.net/@choi.openai/post/DavRiZXDxfj</link><description>발표내용 :
+wemustactnow.ai</description><pubDate>Mon, 13 Jul 2026 15:48:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavRiZXDxfj</guid></item><item><title>전 오픈AI 연구원 다니엘 코코타일로는 초지능 AI의 통제 불가능성과 권력 집중에 대해 강한 우려를 표했습니다.
+
+그는 기업과 군사 영역에서 초...</title><link>https://www.threads.net/@choi.openai/post/DavIIpmjIfO</link><description>전 오픈AI 연구원 다니엘 코코타일로는 초지능 AI의 통제 불가능성과 권력 집중에 대해 강한 우려를 표했습니다.
+
+그는 기업과 군사 영역에서 초지능이 모든 일자리를 자동화하면, 결국 인간의 지능을 능가하는 AI가 현실 세계의 권력을 장악할 수 있다고 경고했습니다. 특히 앤트로픽의 CEO가 언급한 ‘데이터 센터의 천재 국가’라는 개념에 대해, AI 모델들이 다양하지 않고 거대 모델의 복사본들에 불과하다는 점에서 “데이터 센터의 천재 군대”라는 표현이 더 정확하다고 지적했습니다.
+
+코코타일로는 이 강력한 AI 군대를 통제하는 극소수의 기업과 주체가 경제와 정치 권력을 독점하게 되는 시나리오를 경고했습니다. 결국 대중이 “이 군대를 누가 통제하고 무엇을 할 것인가”에 대해 질문하지 않는다면, 소수의 올리가르히나 독재자가 지배하는 디스토피아적 경제 구조로 이어질 수 있다고 강조했습니다.</description><pubDate>Mon, 13 Jul 2026 14:27:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavIIpmjIfO</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=_g4l7YkDQwA</title><link>https://www.threads.net/@choi.openai/post/DavIS4MD6Jz</link><description>풀영상 :
+https://www.youtube.com/watch?v=_g4l7YkDQwA</description><pubDate>Mon, 13 Jul 2026 14:27:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavIS4MD6Jz</guid></item><item><title>오늘부터 시작된 OpenAI Build Week를 맞아, 코덱스 앰배서더 한서우(@impact_engineer)님이 진행하는 커뮤니티 이벤트에 ...</title><link>https://www.threads.net/@choi.openai/post/Dau1wZzDw0n</link><description>오늘부터 시작된 OpenAI Build Week를 맞아, 코덱스 앰배서더 한서우(@impact_engineer)님이 진행하는 커뮤니티 이벤트에 다녀왔습니다.
+
+행사에 참여하면서 가장 크게 느낀 점은 이제는 비개발자분들도 개발자 못지않게 AI를 활용해 직접 만들고 자동화하는 시대가 되었다는 것을 체감했는데요.
+
+기업 내 AI 활용 워크플로우부터 실제 업무 적용 사례까지 다양한 이야기를 들을 수 있었던 의미 있는 시간이었습니다.
+
+Build Week는 21일까지 진행됩니다. 함께 진행되는 다양한 챌린지에도 많은 관심과 참여 부탁드립니다!</description><pubDate>Mon, 13 Jul 2026 11:45:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dau1wZzDw0n</guid></item><item><title>Build Week :
+https://openai.com/build-week/</title><link>https://www.threads.net/@choi.openai/post/Dau1wYHDyHQ</link><description>Build Week :
+https://openai.com/build-week/</description><pubDate>Mon, 13 Jul 2026 11:45:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dau1wYHDyHQ</guid></item></channel></rss>
