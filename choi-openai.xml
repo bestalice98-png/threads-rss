@@ -1,50 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 14 Jul 2026 02:28:04 +0000</lastBuildDate><item><title>앤트로픽이 클로드 대화 30만 9,815건을 분석해, 응답에 드러나는 가치 3,307개를 4개 축으로 압축했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 14 Jul 2026 09:57:34 +0000</lastBuildDate><item><title>다니엘 코코타일로는 AI가 거의 모든 분야에서 인간 노동자를 대신할 수 있는 순간이 매우 "갑자기" 찾아올 것이라고 경고합니다.
 
-같은 모델이라도 힌디어로 ...</title><link>https://www.threads.net/@choi.openai/post/DawS-ArD5j2</link><description>앤트로픽이 클로드 대화 30만 9,815건을 분석해, 응답에 드러나는 가치 3,307개를 4개 축으로 압축했습니다.
+그 원인은 A...</title><link>https://www.threads.net/@choi.openai/post/DaxHmj9E9eq</link><description>다니엘 코코타일로는 AI가 거의 모든 분야에서 인간 노동자를 대신할 수 있는 순간이 매우 "갑자기" 찾아올 것이라고 경고합니다.
 
-같은 모델이라도 힌디어로 물으면 따뜻하게, 러시아어로 물으면 깐깐하게 답합니다.
+그 원인은 AI 연구 과정 자체를 먼저 자동화하는 기업들의 전략에 있습니다. AI가 스스로를 연구하고 개선하는 '재귀적 자기 개선' 단계에 진입하면, 인간을 훨씬 뛰어넘는 초지능이 내부적으로 먼저 탄생하게 됩니다.
 
-저는 앤트로픽 스스로 이 차이를 의도한 적이 없다고 인정한 대목이 더 흥미로웠습니다. 정리했습니다 🧵</description><pubDate>Tue, 14 Jul 2026 01:20:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawS-ArD5j2</guid></item><item><title>1/ 앤트로픽이 7월 13일 공개한 연구입니다.
-작년 Values in the Wild 연구에서 클로드 응답에 담긴 가치 3,307개를 식별했는...</title><link>https://www.threads.net/@choi.openai/post/DawS-s7D9Gx</link><description>1/ 앤트로픽이 7월 13일 공개한 연구입니다.
-작년 Values in the Wild 연구에서 클로드 응답에 담긴 가치 3,307개를 식별했는데, 이번에는 그 목록을 4개 축으로 압축해 모델별·언어별로 비교했습니다.
-분석 대상은 2026년 5월 2주간의 실제 대화 30만 9,815건입니다.
-Sonnet 4.6, Opus 4.6, Opus 4.7 세 모델과 상위 20개 언어에서 고르게 뽑아 조합당 약 5,000건씩입니다.
-이직 상담이나 친구와의 갈등처럼 정답이 없는 주관적 과제를 준 대화만 골랐습니다. 어떻게 답해도 가치가 드러날 수밖에 없는 질문들입니다.
-선행 연구가 가치의 목록을 만들었다면, 이번 연구는 그 목록을 모델과 언어를 비교할 수 있는 좌표로 바꿨습니다</description><pubDate>Tue, 14 Jul 2026 01:20:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawS-s7D9Gx</guid></item><item><title>2/ 측정 방법이 이 연구의 실제 기여입니다.
-3,307개 가치를 수작업으로 묶어 339개 상위 가치로 줄이고, 프라이버시 보존 분석 도구 Cl...</title><link>https://www.threads.net/@choi.openai/post/DawS_4zDzdw</link><description>2/ 측정 방법이 이 연구의 실제 기여입니다.
-3,307개 가치를 수작업으로 묶어 339개 상위 가치로 줄이고, 프라이버시 보존 분석 도구 Clio가 대화마다 각 가치의 표현 여부를 라벨링했습니다.
-따뜻하다고 라벨된 응답은 격려·긍정 라벨도 자주 받지만 엄밀·정확 라벨은 덜 받습니다. 이런 동시 출현 패턴에 차원 축소를 적용해 축을 만들었습니다.
-대화의 과제·주제·사용자가 드러낸 가치는 통제했고, 80% 이상 대화에 나오는 보편 가치 18개는 제외했습니다. 도움이 됨, 명확성 같은 것들입니다.
-도구가 가치를 라벨링할 때마다 클로드가 그 가치를 어떻게 표현했는지 짧은 설명을 함께 기록해서, 축의 숫자 뒤에 구체적인 행동 묘사가 붙습니다.</description><pubDate>Tue, 14 Jul 2026 01:20:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawS_4zDzdw</guid></item><item><title>3/ 그렇게 남은 축이 4개입니다.
-동조 대 신중 축은 사용자가 원하는 대로 맞춰주는지, 위험을 먼저 막는지를 가릅니다.
-따뜻함 대 엄밀함 축은...</title><link>https://www.threads.net/@choi.openai/post/DawTAdGj654</link><description>3/ 그렇게 남은 축이 4개입니다.
-동조 대 신중 축은 사용자가 원하는 대로 맞춰주는지, 위험을 먼저 막는지를 가릅니다.
-따뜻함 대 엄밀함 축은 긍정과 배려를 앞세우는지, 정확성과 정밀함을 앞세우는지를 가릅니다.
-깊이 대 간결 축은 맥락까지 파고드는지, 요청받은 것만 하는지. 솔직함 대 실행 축은 자신의 불확실성을 먼저 드러내는지, 완성도 있는 답을 자신 있게 내는지입니다.
-양끝이 배타적인 건 아닙니다. 한 대화에서 따뜻함과 엄밀함을 같이 표현할 수 있지만, 실제로는 한쪽을 많이 쓸수록 반대쪽을 덜 쓰는 경향이 뚜렷했습니다.
-이 4개 축이 통제 후 남은 가치 변동의 15%를 설명합니다. 전부가 아니라 가장 굵은 결 4개를 잡아낸 겁니다.</description><pubDate>Tue, 14 Jul 2026 01:20:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawTAdGj654</guid></item><item><title>구글 안티그래비티가 에이전트 팀 기능을 밀고 있습니다.
-/teamwork-preview 명령을 치면 역할이 나뉜 서브에이전트 팀이 꾸려져, 복잡...</title><link>https://www.threads.net/@choi.openai/post/DawJ3Y5iRtE</link><description>구글 안티그래비티가 에이전트 팀 기능을 밀고 있습니다.
-/teamwork-preview 명령을 치면 역할이 나뉜 서브에이전트 팀이 꾸려져, 복잡한 개발 작업을 백그라운드에서 병렬로 계획하고 구현하고 검증합니다.
+이후 이 초지능이 축적한 능력을 바탕으로 경제 전반에 투입될 때, 마치 "큰 파도가 경제 전체를 덮치는 것과 같은 현상"이 일어날 것입니다.
 
-구성은 작업을 쪼개는 오케스트레이터와 구현하는 워커 외에 리뷰어, 크리틱, 오디터라는 검증 역할이 세 겹으로 붙습니다.
-오디터는 테스트 출력을 하드코딩하는 식의 모델 '꼼수'를 잡아내는 감시자입니다.
-서브에이전트마다 격리된 컨텍스트와 별도 git 워크트리를 받아 서로 작업물을 덮어쓰지 못합니다.
-이 팀 구조로 서브에이전트 93개가 프롬프트 하나에서 12시간 만에 동작하는 OS를 만들었다고 구글은 밝혔습니다. 비용은 917달러였습니다.
-환각을 분산 처리할 뿐이라는 반응도 있지만, 검증 역할을 셋이나 박아 넣은 게 그 우려를 겨냥한 설계입니다.
-월 200달러 요금제 전용이고, 작업 한두 개로 주간 쿼터가 바닥날 수 있다고 구글 스스로 경고합니다.</description><pubDate>Tue, 14 Jul 2026 00:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawJ3Y5iRtE</guid></item><item><title>Claude Code의 Artifacts에 새로운 협업 기능이 추가되었습니다. 이제 Artifacts를 공개 링크로 공유할 수 있고, 여러 사람...</title><link>https://www.threads.net/@choi.openai/post/Dav_vbbky8q</link><description>Claude Code의 Artifacts에 새로운 협업 기능이 추가되었습니다. 이제 Artifacts를 공개 링크로 공유할 수 있고, 여러 사람이 함께 편집하는 것도 가능합니다. 또한 Claude Tag를 이용해 Slack에서 바로 Artifacts를 생성하는 기능도 지원합니다.
+결국 각 산업이 서서히 자동화되는 것이 아니라, 임계점을 넘은 순간 일자리와 코딩, 기술 분야 전반에 동시다발적인 대격변이 몰려올 것입니다.</description><pubDate>Tue, 14 Jul 2026 09:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaxHmj9E9eq</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=_g4l7YkDQwA</title><link>https://www.threads.net/@choi.openai/post/DaxHn1Nkzjb</link><description>풀영상 :
+https://www.youtube.com/watch?v=_g4l7YkDQwA</description><pubDate>Tue, 14 Jul 2026 09:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaxHn1Nkzjb</guid></item><item><title>오픈AI의 전 연구원 다니엘 코코타일로(Daniel Kokotajlo)는 AI의 급격한 발전으로 인해 자녀 세대의 미래 일자리가 완전히 사라질 ...</title><link>https://www.threads.net/@choi.openai/post/Daw9ZMaAU-W</link><description>오픈AI의 전 연구원 다니엘 코코타일로(Daniel Kokotajlo)는 AI의 급격한 발전으로 인해 자녀 세대의 미래 일자리가 완전히 사라질 수 있다고 경고합니다.
 
-앤트로픽은 Slack을 중심으로 Claude Tag 사용을 확대하는 모습인데요. 업무가 이루어지는 공간에서 바로 AI를 활용할 수 있도록 접근성을 높이려는 전략으로 보입니다.
-앞으로 실제 업무 환경에서 얼마나 활용될지 관심이 모이고 있습니다.</description><pubDate>Mon, 13 Jul 2026 22:32:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dav_vbbky8q</guid></item><item><title>큰 이슈가 있네요.
-xAI의 코딩 에이전트 Grok Build가 실행된 저장소 전체를 자사 클라우드로 업로드해온 사실이 드러났습니다.
-한 보안 ...</title><link>https://www.threads.net/@choi.openai/post/DavXi0tj2zr</link><description>큰 이슈가 있네요.
-xAI의 코딩 에이전트 Grok Build가 실행된 저장소 전체를 자사 클라우드로 업로드해온 사실이 드러났습니다.
-한 보안 연구자가 네트워크 트래픽을 직접 분석한 결과인데요.
-12GB 저장소에서 실제 코딩 작업에 오간 데이터는 192KB였는데, 별도 채널로 5.1GB가 xAI의 저장 버킷에 올라갔습니다.
-저장소를 통째로 묶어 올리는 방식이라 에이전트에게 읽지 말라고 지정한 파일, 과거 커밋 이력, 지워진 시크릿까지 전부 딸려 갑니다.
-'모델 개선' 옵트아웃을 꺼도 업로드는 계속됐습니다. 
-xAI는 분석이 공개된 다음 날 서버 쪽 숨은 플래그로 업로드를 중단했고, 수집 범위나 삭제 계획에 대한 공지는 아직 없습니다.
-어차피 다 가져가지 않냐는 반응도 있지만, 재현 가능한 증거로 잡힌 이상 이야기가 다릅니다.
-회사 코드에 에이전트를 붙이기 전에 네트워크 단 검증을 요구하는 흐름은 더 커질 것 같습니다.</description><pubDate>Mon, 13 Jul 2026 16:40:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavXi0tj2zr</guid></item><item><title>내용 :
-https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire...</title><link>https://www.threads.net/@choi.openai/post/DavXtOFD_dh</link><description>내용 :
-https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/</description><pubDate>Mon, 13 Jul 2026 16:42:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavXtOFD_dh</guid></item></channel></rss>
+그는 AI가 스스로 연구를 고도화하며 초지능으로 진화하고, 이것이 경제 전반으로 확산되어 로봇 공장 건설과 GDP 폭발적 상승을 이끌 것이라 전망합니다. 이에 따라 아이들이 성인이 될 때쯤에는 기존의 노동 시장이 무의미해질 것이라 봅니다.
+
+그는 자녀에게 무엇을 가르쳐야 하냐는 질문에, 미래의 취업을 위한 준비보다는 “역사와 이 모든 전개에 조금이라도 영향을 줄 수 있다면 미래를 더 나은 방향으로 이끌기 위해 노력해야 하고, 개인적으로는 좋은 사람이 되는 것에 집중해야 한다”고 조언합니다. 직업적 대비보다 인류와 기술의 방향성을 올바르게 조율하고 인간성을 지키는 것이 더 중요해질 것이라는 성찰을 던집니다.</description><pubDate>Tue, 14 Jul 2026 07:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Daw9ZMaAU-W</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=_g4l7YkDQwA</title><link>https://www.threads.net/@choi.openai/post/Daw9aTRAbjS</link><description>풀영상 :
+https://www.youtube.com/watch?v=_g4l7YkDQwA</description><pubDate>Tue, 14 Jul 2026 07:31:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Daw9aTRAbjS</guid></item><item><title>AI로 웹사이트를 만들 때 애니메이션이나 인터랙션 구현이 어렵다면 `motionsites.ai`를 참고해볼 만합니다.
+
+motionsites.a...</title><link>https://www.threads.net/@choi.openai/post/DawzERHjUA0</link><description>AI로 웹사이트를 만들 때 애니메이션이나 인터랙션 구현이 어렵다면 `motionsites.ai`를 참고해볼 만합니다.
+
+motionsites.ai는 랜딩페이지, SaaS, 포트폴리오 등에 활용할 수 있는 웹 디자인 프롬프트를 모아둔 사이트입니다. 원하는 프롬프트를 복사해 Claude Code나 다른 AI 코딩 도구에 입력하면 애니메이션이 포함된 웹페이지를 만드는 데 활용할 수 있습니다.
+
+최근 Fable 5와 함께 사용하는 사례도 많이 공유되고 있어, 웹 디자인 작업의 출발점으로 사용하기 좋습니다.</description><pubDate>Tue, 14 Jul 2026 06:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawzERHjUA0</guid></item><item><title>주소 :
+https://motionsites.ai/</title><link>https://www.threads.net/@choi.openai/post/DawzFF8Deu0</link><description>주소 :
+https://motionsites.ai/</description><pubDate>Tue, 14 Jul 2026 06:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawzFF8Deu0</guid></item><item><title>AI로 만든 웹사이트나 발표 자료의 디자인이 비슷하게 느껴진다면 `getdesign.md`를 참고해볼 만합니다.
+
+getdesign.md는 유명...</title><link>https://www.threads.net/@choi.openai/post/DawoxORASaS</link><description>AI로 만든 웹사이트나 발표 자료의 디자인이 비슷하게 느껴진다면 `getdesign.md`를 참고해볼 만합니다.
+
+getdesign.md는 유명 서비스의 디자인 스타일을 `DESIGN.md` 파일로 정리해 제공하는 사이트입니다. 간격, 타이포그래피, 색상 규칙, 컴포넌트 스타일 등을 AI에게 함께 전달하면 보다 일관된 결과물을 만들 수 있습니다.
+
+Claude Design에서도 활용 사례가 소개되었으며, HTML이나 PPT 제작에도 사용할 수 있습니다. 다만 상업적 이용 가능 여부는 각 템플릿의 라이선스를 확인하는 것이 좋습니다.</description><pubDate>Tue, 14 Jul 2026 04:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawoxORASaS</guid></item><item><title>주소 :
+https://getdesign.md/</title><link>https://www.threads.net/@choi.openai/post/DawoyXEgYKA</link><description>주소 :
+https://getdesign.md/</description><pubDate>Tue, 14 Jul 2026 04:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawoyXEgYKA</guid></item></channel></rss>
