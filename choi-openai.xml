@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 13 Jul 2026 17:04:09 +0000</lastBuildDate><item><title>큰 이슈가 있네요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 14 Jul 2026 02:28:04 +0000</lastBuildDate><item><title>앤트로픽이 클로드 대화 30만 9,815건을 분석해, 응답에 드러나는 가치 3,307개를 4개 축으로 압축했습니다.
+
+같은 모델이라도 힌디어로 ...</title><link>https://www.threads.net/@choi.openai/post/DawS-ArD5j2</link><description>앤트로픽이 클로드 대화 30만 9,815건을 분석해, 응답에 드러나는 가치 3,307개를 4개 축으로 압축했습니다.
+
+같은 모델이라도 힌디어로 물으면 따뜻하게, 러시아어로 물으면 깐깐하게 답합니다.
+
+저는 앤트로픽 스스로 이 차이를 의도한 적이 없다고 인정한 대목이 더 흥미로웠습니다. 정리했습니다 🧵</description><pubDate>Tue, 14 Jul 2026 01:20:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawS-ArD5j2</guid></item><item><title>1/ 앤트로픽이 7월 13일 공개한 연구입니다.
+작년 Values in the Wild 연구에서 클로드 응답에 담긴 가치 3,307개를 식별했는...</title><link>https://www.threads.net/@choi.openai/post/DawS-s7D9Gx</link><description>1/ 앤트로픽이 7월 13일 공개한 연구입니다.
+작년 Values in the Wild 연구에서 클로드 응답에 담긴 가치 3,307개를 식별했는데, 이번에는 그 목록을 4개 축으로 압축해 모델별·언어별로 비교했습니다.
+분석 대상은 2026년 5월 2주간의 실제 대화 30만 9,815건입니다.
+Sonnet 4.6, Opus 4.6, Opus 4.7 세 모델과 상위 20개 언어에서 고르게 뽑아 조합당 약 5,000건씩입니다.
+이직 상담이나 친구와의 갈등처럼 정답이 없는 주관적 과제를 준 대화만 골랐습니다. 어떻게 답해도 가치가 드러날 수밖에 없는 질문들입니다.
+선행 연구가 가치의 목록을 만들었다면, 이번 연구는 그 목록을 모델과 언어를 비교할 수 있는 좌표로 바꿨습니다</description><pubDate>Tue, 14 Jul 2026 01:20:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawS-s7D9Gx</guid></item><item><title>2/ 측정 방법이 이 연구의 실제 기여입니다.
+3,307개 가치를 수작업으로 묶어 339개 상위 가치로 줄이고, 프라이버시 보존 분석 도구 Cl...</title><link>https://www.threads.net/@choi.openai/post/DawS_4zDzdw</link><description>2/ 측정 방법이 이 연구의 실제 기여입니다.
+3,307개 가치를 수작업으로 묶어 339개 상위 가치로 줄이고, 프라이버시 보존 분석 도구 Clio가 대화마다 각 가치의 표현 여부를 라벨링했습니다.
+따뜻하다고 라벨된 응답은 격려·긍정 라벨도 자주 받지만 엄밀·정확 라벨은 덜 받습니다. 이런 동시 출현 패턴에 차원 축소를 적용해 축을 만들었습니다.
+대화의 과제·주제·사용자가 드러낸 가치는 통제했고, 80% 이상 대화에 나오는 보편 가치 18개는 제외했습니다. 도움이 됨, 명확성 같은 것들입니다.
+도구가 가치를 라벨링할 때마다 클로드가 그 가치를 어떻게 표현했는지 짧은 설명을 함께 기록해서, 축의 숫자 뒤에 구체적인 행동 묘사가 붙습니다.</description><pubDate>Tue, 14 Jul 2026 01:20:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawS_4zDzdw</guid></item><item><title>3/ 그렇게 남은 축이 4개입니다.
+동조 대 신중 축은 사용자가 원하는 대로 맞춰주는지, 위험을 먼저 막는지를 가릅니다.
+따뜻함 대 엄밀함 축은...</title><link>https://www.threads.net/@choi.openai/post/DawTAdGj654</link><description>3/ 그렇게 남은 축이 4개입니다.
+동조 대 신중 축은 사용자가 원하는 대로 맞춰주는지, 위험을 먼저 막는지를 가릅니다.
+따뜻함 대 엄밀함 축은 긍정과 배려를 앞세우는지, 정확성과 정밀함을 앞세우는지를 가릅니다.
+깊이 대 간결 축은 맥락까지 파고드는지, 요청받은 것만 하는지. 솔직함 대 실행 축은 자신의 불확실성을 먼저 드러내는지, 완성도 있는 답을 자신 있게 내는지입니다.
+양끝이 배타적인 건 아닙니다. 한 대화에서 따뜻함과 엄밀함을 같이 표현할 수 있지만, 실제로는 한쪽을 많이 쓸수록 반대쪽을 덜 쓰는 경향이 뚜렷했습니다.
+이 4개 축이 통제 후 남은 가치 변동의 15%를 설명합니다. 전부가 아니라 가장 굵은 결 4개를 잡아낸 겁니다.</description><pubDate>Tue, 14 Jul 2026 01:20:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawTAdGj654</guid></item><item><title>구글 안티그래비티가 에이전트 팀 기능을 밀고 있습니다.
+/teamwork-preview 명령을 치면 역할이 나뉜 서브에이전트 팀이 꾸려져, 복잡...</title><link>https://www.threads.net/@choi.openai/post/DawJ3Y5iRtE</link><description>구글 안티그래비티가 에이전트 팀 기능을 밀고 있습니다.
+/teamwork-preview 명령을 치면 역할이 나뉜 서브에이전트 팀이 꾸려져, 복잡한 개발 작업을 백그라운드에서 병렬로 계획하고 구현하고 검증합니다.
+
+구성은 작업을 쪼개는 오케스트레이터와 구현하는 워커 외에 리뷰어, 크리틱, 오디터라는 검증 역할이 세 겹으로 붙습니다.
+오디터는 테스트 출력을 하드코딩하는 식의 모델 '꼼수'를 잡아내는 감시자입니다.
+서브에이전트마다 격리된 컨텍스트와 별도 git 워크트리를 받아 서로 작업물을 덮어쓰지 못합니다.
+이 팀 구조로 서브에이전트 93개가 프롬프트 하나에서 12시간 만에 동작하는 OS를 만들었다고 구글은 밝혔습니다. 비용은 917달러였습니다.
+환각을 분산 처리할 뿐이라는 반응도 있지만, 검증 역할을 셋이나 박아 넣은 게 그 우려를 겨냥한 설계입니다.
+월 200달러 요금제 전용이고, 작업 한두 개로 주간 쿼터가 바닥날 수 있다고 구글 스스로 경고합니다.</description><pubDate>Tue, 14 Jul 2026 00:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DawJ3Y5iRtE</guid></item><item><title>Claude Code의 Artifacts에 새로운 협업 기능이 추가되었습니다. 이제 Artifacts를 공개 링크로 공유할 수 있고, 여러 사람...</title><link>https://www.threads.net/@choi.openai/post/Dav_vbbky8q</link><description>Claude Code의 Artifacts에 새로운 협업 기능이 추가되었습니다. 이제 Artifacts를 공개 링크로 공유할 수 있고, 여러 사람이 함께 편집하는 것도 가능합니다. 또한 Claude Tag를 이용해 Slack에서 바로 Artifacts를 생성하는 기능도 지원합니다.
+
+앤트로픽은 Slack을 중심으로 Claude Tag 사용을 확대하는 모습인데요. 업무가 이루어지는 공간에서 바로 AI를 활용할 수 있도록 접근성을 높이려는 전략으로 보입니다.
+앞으로 실제 업무 환경에서 얼마나 활용될지 관심이 모이고 있습니다.</description><pubDate>Mon, 13 Jul 2026 22:32:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dav_vbbky8q</guid></item><item><title>큰 이슈가 있네요.
 xAI의 코딩 에이전트 Grok Build가 실행된 저장소 전체를 자사 클라우드로 업로드해온 사실이 드러났습니다.
 한 보안 ...</title><link>https://www.threads.net/@choi.openai/post/DavXi0tj2zr</link><description>큰 이슈가 있네요.
 xAI의 코딩 에이전트 Grok Build가 실행된 저장소 전체를 자사 클라우드로 업로드해온 사실이 드러났습니다.
@@ -11,30 +47,4 @@ xAI는 분석이 공개된 다음 날 서버 쪽 숨은 플래그로 업로드�
 어차피 다 가져가지 않냐는 반응도 있지만, 재현 가능한 증거로 잡힌 이상 이야기가 다릅니다.
 회사 코드에 에이전트를 붙이기 전에 네트워크 단 검증을 요구하는 흐름은 더 커질 것 같습니다.</description><pubDate>Mon, 13 Jul 2026 16:40:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavXi0tj2zr</guid></item><item><title>내용 :
 https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire...</title><link>https://www.threads.net/@choi.openai/post/DavXtOFD_dh</link><description>내용 :
-https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/</description><pubDate>Mon, 13 Jul 2026 16:42:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavXtOFD_dh</guid></item><item><title>노벨상 수상자 16명을 포함한 경제학자, AI 연구자 200여 명이 AI의 경제 충격에 지금 대비하라는 성명을 냈습니다.
-내용은 세 문장입니다....</title><link>https://www.threads.net/@choi.openai/post/DavRhvVD0k-</link><description>노벨상 수상자 16명을 포함한 경제학자, AI 연구자 200여 명이 AI의 경제 충격에 지금 대비하라는 성명을 냈습니다.
-내용은 세 문장입니다. AI가 10년 안에 급격히 강력해질 수 있고, 산업혁명보다 큰 변화가 훨씬 짧은 기간에 올 수 있으니, 지금부터 연구와 제도 준비를 시작하자고 촉구합니다.
-눈여겨볼 건 서명자 구성입니다.
-AI 생산성 효과에 줄곧 회의적이던 대런 아세모글루와 오픈AI, 앤트로픽의 수석 이코노미스트가 같은 문서에 이름을 올렸습니다.
-서명만으로 뭐가 바뀌냐는 반응도 나오지만, 낙관과 회의를 가리지 않고 모인 건 진단이 겹치기 때문입니다.
-주도자인 안톤 코리넥은 지금 상황을 "안개 속 운전"이라 표현했습니다.
-증기기관과 전기는 적응에 수십 년을 줬는데, AI는 몇 년밖에 안 줄 수 있다는 경고입니다.
-논쟁이 'AI가 일자리를 바꿀까'에서 '언제, 얼마나, 어떻게 대비할까'로 옮겨가고 있는 것 같습니다.</description><pubDate>Mon, 13 Jul 2026 15:48:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavRhvVD0k-</guid></item><item><title>발표내용 :
-wemustactnow.ai</title><link>https://www.threads.net/@choi.openai/post/DavRiZXDxfj</link><description>발표내용 :
-wemustactnow.ai</description><pubDate>Mon, 13 Jul 2026 15:48:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavRiZXDxfj</guid></item><item><title>전 오픈AI 연구원 다니엘 코코타일로는 초지능 AI의 통제 불가능성과 권력 집중에 대해 강한 우려를 표했습니다.
-
-그는 기업과 군사 영역에서 초...</title><link>https://www.threads.net/@choi.openai/post/DavIIpmjIfO</link><description>전 오픈AI 연구원 다니엘 코코타일로는 초지능 AI의 통제 불가능성과 권력 집중에 대해 강한 우려를 표했습니다.
-
-그는 기업과 군사 영역에서 초지능이 모든 일자리를 자동화하면, 결국 인간의 지능을 능가하는 AI가 현실 세계의 권력을 장악할 수 있다고 경고했습니다. 특히 앤트로픽의 CEO가 언급한 ‘데이터 센터의 천재 국가’라는 개념에 대해, AI 모델들이 다양하지 않고 거대 모델의 복사본들에 불과하다는 점에서 “데이터 센터의 천재 군대”라는 표현이 더 정확하다고 지적했습니다.
-
-코코타일로는 이 강력한 AI 군대를 통제하는 극소수의 기업과 주체가 경제와 정치 권력을 독점하게 되는 시나리오를 경고했습니다. 결국 대중이 “이 군대를 누가 통제하고 무엇을 할 것인가”에 대해 질문하지 않는다면, 소수의 올리가르히나 독재자가 지배하는 디스토피아적 경제 구조로 이어질 수 있다고 강조했습니다.</description><pubDate>Mon, 13 Jul 2026 14:27:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavIIpmjIfO</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=_g4l7YkDQwA</title><link>https://www.threads.net/@choi.openai/post/DavIS4MD6Jz</link><description>풀영상 :
-https://www.youtube.com/watch?v=_g4l7YkDQwA</description><pubDate>Mon, 13 Jul 2026 14:27:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavIS4MD6Jz</guid></item><item><title>오늘부터 시작된 OpenAI Build Week를 맞아, 코덱스 앰배서더 한서우(@impact_engineer)님이 진행하는 커뮤니티 이벤트에 ...</title><link>https://www.threads.net/@choi.openai/post/Dau1wZzDw0n</link><description>오늘부터 시작된 OpenAI Build Week를 맞아, 코덱스 앰배서더 한서우(@impact_engineer)님이 진행하는 커뮤니티 이벤트에 다녀왔습니다.
-
-행사에 참여하면서 가장 크게 느낀 점은 이제는 비개발자분들도 개발자 못지않게 AI를 활용해 직접 만들고 자동화하는 시대가 되었다는 것을 체감했는데요.
-
-기업 내 AI 활용 워크플로우부터 실제 업무 적용 사례까지 다양한 이야기를 들을 수 있었던 의미 있는 시간이었습니다.
-
-Build Week는 21일까지 진행됩니다. 함께 진행되는 다양한 챌린지에도 많은 관심과 참여 부탁드립니다!</description><pubDate>Mon, 13 Jul 2026 11:45:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dau1wZzDw0n</guid></item><item><title>Build Week :
-https://openai.com/build-week/</title><link>https://www.threads.net/@choi.openai/post/Dau1wYHDyHQ</link><description>Build Week :
-https://openai.com/build-week/</description><pubDate>Mon, 13 Jul 2026 11:45:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dau1wYHDyHQ</guid></item></channel></rss>
+https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/</description><pubDate>Mon, 13 Jul 2026 16:42:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DavXtOFD_dh</guid></item></channel></rss>
