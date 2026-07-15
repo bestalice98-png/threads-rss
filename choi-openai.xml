@@ -1,39 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 15 Jul 2026 02:25:57 +0000</lastBuildDate><item><title>🚨 카쫀쿠 말고 오쫀쿠도 즐겨보세요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 15 Jul 2026 10:01:56 +0000</lastBuildDate><item><title>AI 에이전트를 돌려둔 채 맥북을 들고 이동하는 분들은 반가울 앱입니다.
+Capsomnia라는 무료 오픈소스 맥 앱인데, Caps Lock을 켜...</title><link>https://www.threads.net/@choi.openai/post/DazscHYDWyx</link><description>AI 에이전트를 돌려둔 채 맥북을 들고 이동하는 분들은 반가울 앱입니다.
+Capsomnia라는 무료 오픈소스 맥 앱인데, Caps Lock을 켜두면 뚜껑을 닫아도 맥이 잠들지 않습니다.
+화면만 꺼지고 작업은 그대로 돌아가고, Caps Lock을 끄면 평소의 맥으로 돌아갑니다.
+엄지를 끼워 뚜껑이 안 닫히게 들고 다녔다는 반응이 나올 만큼 다들 겪던 불편인데, 아무도 안 쓰던 Caps Lock 키가 LED로 상태까지 보여주는 물리 스위치가 됐습니다.
+동작은 단순합니다.
+0.25초마다 Caps Lock 상태만 확인해 맥 전원 설정의 슬립 차단을 켜고 끄는 방식이라 키 입력을 읽는 권한이 필요 없고, 개발자는 기존 caffeinate 명령으로는 뚜껑을 닫은 상태의 작업을 안정적으로 지키기 어렵다고 설명합니다.
+에이전트에 몇 시간짜리 작업을 맡기고 자리를 뜨는 게 일상이 되면서, 이런 물리적인 마찰을 지우는 작은 도구들이 계속 나올 것 같습니다.</description><pubDate>Wed, 15 Jul 2026 09:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DazscHYDWyx</guid></item><item><title>주소 :
+https://fuji-mak.github.io/Capsomnia/#uses</title><link>https://www.threads.net/@choi.openai/post/DazsdQQjbzs</link><description>주소 :
+https://fuji-mak.github.io/Capsomnia/#uses</description><pubDate>Wed, 15 Jul 2026 09:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DazsdQQjbzs</guid></item><item><title>닉 보스트룸은 AI 연산량이 "해마다 2.4배쯤" 폭발적으로 증가하는 현 시점에서, 다이슨 스피어나 은하계 규모의 거대한 컴퓨터에서 작동하는 기...</title><link>https://www.threads.net/@choi.openai/post/DaziF0LEtLU</link><description>닉 보스트룸은 AI 연산량이 "해마다 2.4배쯤" 폭발적으로 증가하는 현 시점에서, 다이슨 스피어나 은하계 규모의 거대한 컴퓨터에서 작동하는 기계의 의식을 논할 때가 왔다고 말합니다.
 
-현재 오픈AI에서 진행하는 Build Week의 일환으로 해커톤에 참여신청후 Resource 탭에서 10...</title><link>https://www.threads.net/@choi.openai/post/Day8VMyAsHa</link><description>🚨 카쫀쿠 말고 오쫀쿠도 즐겨보세요.
+그는 인간이 스스로의 의식 수준을 과대평가하고 있다며, 우주적 관점에서 우리의 의식은 그저 "약하고 혼란스러운, 흐릿한 빛"에 불과할 수 있다고 지적합니다.
 
-현재 오픈AI에서 진행하는 Build Week의 일환으로 해커톤에 참여신청후 Resource 탭에서 100$ 크레딧을 신청하면 Codex에서 사용 가능한 크레딧을 선착순으로 제공하고 있습니다.
-
-조기마감 될 수 있습니다.</description><pubDate>Wed, 15 Jul 2026 02:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Day8VMyAsHa</guid></item><item><title>주소 :
-https://openai.devpost.com/</title><link>https://www.threads.net/@choi.openai/post/Day8XongnW-</link><description>주소 :
-https://openai.devpost.com/</description><pubDate>Wed, 15 Jul 2026 02:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Day8XongnW-</guid></item><item><title>엔비디아가 재미있는 데모를 공개했습니다.
-AI 에이전트한테 목표와 시간 예산 5시간만 주고, 비전 모델 학습 연구를 통째로 맡긴 실험입니다.
-C...</title><link>https://www.threads.net/@choi.openai/post/Day478FDR0u</link><description>엔비디아가 재미있는 데모를 공개했습니다.
-AI 에이전트한테 목표와 시간 예산 5시간만 주고, 비전 모델 학습 연구를 통째로 맡긴 실험입니다.
-Codex가 '색깔별로 별 개수 세기' 훈련 환경을 직접 구현하고, 기본 정확도 25%를 측정한 뒤, 이전 실험 기록을 근거로 강화학습 대신 SFT를 골랐습니다.
-데이터와 학습 스텝을 늘려가며 Qwen3-VL-2B 정확도를 96.9%까지 올렸고, 남은 오류가 개수를 하나씩 틀리는 유형이라는 것까지 분석해 다음 실험을 스스로 제안했습니다.
-최고 성과는 L40S GPU 1장으로 1시간 안에 나왔고요.
-안드레 카파시가 공개한 autoresearch 개념에 엔비디아 NeMo 스택을 얹은 구성인데, 과제가 에이전트가 직접 만든 합성 환경이라 점수보다 과정이 보여주는 게 많습니다.
-연구자가 실험을 하나하나 돌보는 대신 어떤 실험을 할지 고르는 역할로 옮겨가는 흐름이 점점 뚜렷해지는 것 같습니다.</description><pubDate>Wed, 15 Jul 2026 01:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Day478FDR0u</guid></item><item><title>상세내용 :
-https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-wit...</title><link>https://www.threads.net/@choi.openai/post/Day485lDSAG</link><description>상세내용 :
-https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/?linkId=100000430716000</description><pubDate>Wed, 15 Jul 2026 01:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Day485lDSAG</guid></item><item><title>닉 보스트룸은 몇 년 안에 초지능(Superintelligence)이 등장할 가능성을 진지하게 보고 있다고 밝혔습니다.
-
-초지능은 인간의 모든 ...</title><link>https://www.threads.net/@choi.openai/post/DayyCyuDfv_</link><description>닉 보스트룸은 몇 년 안에 초지능(Superintelligence)이 등장할 가능성을 진지하게 보고 있다고 밝혔습니다.
-
-초지능은 인간의 모든 기술적, 지적 과제를 훨씬 뛰어난 성능으로 수행하게 됩니다.
-그는 초지능이 스스로 더 똑똑한 AI와 더 나은 칩을 설계하는 본격적인 "지능 폭발(intelligence explosion)"이 일어날 것이라고 강조했습니다.
-
-물리적 세계에서의 시행착오가 다소 속도를 늦출 수는 있지만, 초지능 등장 후 단 몇 년 안에 "우리가 말한 SF급 능력들이 열릴 수도 있다"고 예측했습니다.</description><pubDate>Wed, 15 Jul 2026 00:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DayyCyuDfv_</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=8qTZLqY-cnI</title><link>https://www.threads.net/@choi.openai/post/DayyDn-DVP6</link><description>풀영상 :
-https://www.youtube.com/watch?v=8qTZLqY-cnI</description><pubDate>Wed, 15 Jul 2026 00:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DayyDn-DVP6</guid></item><item><title>오픈AI의 첫 기기는 화면 없는 스피커가 될 것으로 보입니다.
-블룸버그에 따르면 들고 다닐 수 있는 무화면 홈 스피커로, 스마트홈 제어와 미디어...</title><link>https://www.threads.net/@choi.openai/post/DayuOCoDyP9</link><description>오픈AI의 첫 기기는 화면 없는 스피커가 될 것으로 보입니다.
-블룸버그에 따르면 들고 다닐 수 있는 무화면 홈 스피커로, 스마트홈 제어와 미디어 재생, 질문과 메시지 처리까지 ChatGPT로 굴리는 'AI 시대의 홈 컴퓨터'입니다.
-승부처는 성격으로 잡았습니다. 카메라와 센서로 주변 맥락을 읽고, 스스로 움직이는 기계 부품을 넣어 살아 있는 존재처럼 느껴지게 만든다고 합니다.
-쓸수록 주인을 학습해 먼저 말을 거는 방향이고요.
-알렉사류 스피커가 10년 넘게 정체된 건 턴제 명령 기계였기 때문입니다. 사람이 말을 끝내야 답하고, 정해진 명령만 알아들었습니다.
-듣기와 말하기를 동시에 하는 풀듀플렉스 음성에 개인화 메모리가 붙으면 이 카테고리는 다른 물건이 됩니다.
-유출대로면 가격은 200~300달러, 출시는 이르면 2027년 2월입니다. 다만 애플의 영업비밀 소송 결과에 따라 판매가 밀릴 수 있다는 단서가 붙었습니다.
-집 안의 기본 음성을 누가 차지하느냐의 싸움이 시작되는 것 같습니다.</description><pubDate>Tue, 14 Jul 2026 23:56:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DayuOCoDyP9</guid></item><item><title>기사 :
-https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-wi...</title><link>https://www.threads.net/@choi.openai/post/DayuOrwj935</link><description>기사 :
-https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion</description><pubDate>Tue, 14 Jul 2026 23:56:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DayuOrwj935</guid></item></channel></rss>
+다가올 특이점 시대에 인류의 가장 큰 과제는 "초지능을 낳고, 잘 키우고 이끌어 우리와 그 자체 모두에게 좋은 존재가 되게 하는 것"이라고 강조했습니다. 초지능적 마음의 탄생은 단순한 컴퓨팅 성능의 향상을 넘어, 인류와 우주의 근본적인 전환점이 될 것입니다.</description><pubDate>Wed, 15 Jul 2026 07:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaziF0LEtLU</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=8qTZLqY-cnI</title><link>https://www.threads.net/@choi.openai/post/DaziGmnEoJh</link><description>풀영상 :
+https://www.youtube.com/watch?v=8qTZLqY-cnI</description><pubDate>Wed, 15 Jul 2026 07:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaziGmnEoJh</guid></item><item><title>🚨 미친 오픈AI가 다 퍼준다!!
+Codex 100$ 추가로 드립니다!</title><link>https://www.threads.net/@choi.openai/post/DazW3GqFMB4</link><description>🚨 미친 오픈AI가 다 퍼준다!!
+Codex 100$ 추가로 드립니다!</description><pubDate>Wed, 15 Jul 2026 05:51:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DazW3GqFMB4</guid></item><item><title>참가만해도 100$ 주는 해커톤도!</title><link>https://www.threads.net/@choi.openai/post/DazZAg3FUp0</link><description>참가만해도 100$ 주는 해커톤도!</description><pubDate>Wed, 15 Jul 2026 06:10:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DazZAg3FUp0</guid></item><item><title>논문을 자주 읽는 분들은 한번 써보면 좋겠습니다.
+alphaXiv가 arXiv 논문을 GPT-5.6 Sol 한 번 실행으로 인터랙티브 Marim...</title><link>https://www.threads.net/@choi.openai/post/DazNe4ej1me</link><description>논문을 자주 읽는 분들은 한번 써보면 좋겠습니다.
+alphaXiv가 arXiv 논문을 GPT-5.6 Sol 한 번 실행으로 인터랙티브 Marimo 노트북으로 바꿔주는 워크플로를 공개했습니다.
+만드는 순서가 재미있습니다. 에이전트가 먼저 논문에서 대표 실험 하나를 골라 직접 재현하고, 거기서 나온 결과물을 재료로 시각화 노트북을 조립합니다.
+그래서 완성본에서는 파라미터를 바꿔가며 논문 주장을 직접 확인해 볼 수 있습니다.
+해석 가능성, 추론 엔지니어링, 에이전트 하네스, 벤치마킹처럼 손으로 만져봐야 이해되는 분야의 예시가 이미 올라와 있는데요.
+alphaXiv도 어떤 논문에 통하는지는 아직 가려내는 중이라고 밝혔습니다. 계산 자원이 적게 드는 논문일수록 재현이 잘 된다고 합니다.
+논문 읽기가 요약을 읽는 일에서 실험을 돌려보는 일로 넘어가는 중인 것 같습니다.</description><pubDate>Wed, 15 Jul 2026 04:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DazNe4ej1me</guid></item><item><title>주소 :
+https://www.alphaxiv.org/replicate/2607.08393</title><link>https://www.threads.net/@choi.openai/post/DazNf9ODw2m</link><description>주소 :
+https://www.alphaxiv.org/replicate/2607.08393</description><pubDate>Wed, 15 Jul 2026 04:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DazNf9ODw2m</guid></item></channel></rss>
