@@ -1,47 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 14 Jul 2026 16:09:07 +0000</lastBuildDate><item><title>다니엘 코코타일로는 AI가 스스로 코딩하며 성능을 높이는 '재귀적 자기 개선'과 초지능(ASI)의 도래가 불과 몇 년 앞으로 다가왔다고 경고했습...</title><link>https://www.threads.net/@choi.openai/post/Daxwz6hil_S</link><description>다니엘 코코타일로는 AI가 스스로 코딩하며 성능을 높이는 '재귀적 자기 개선'과 초지능(ASI)의 도래가 불과 몇 년 앞으로 다가왔다고 경고했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 15 Jul 2026 02:25:57 +0000</lastBuildDate><item><title>🚨 카쫀쿠 말고 오쫀쿠도 즐겨보세요.
 
-당초 그는 이 특이점 도래 시기를 2030년으로 늦춰 예상했습니다. 하지만 최근 오픈AI와 앤스로픽 내부 개발자들의 증언을 반영해, AI가 인간의 연구 과정을 완전히 자동화하는 시기를 2027~2028년으로 다시 앞당겼습니다. 기술 발전과 성능 폭발의 주기가 우리의 예상보다 훨씬 빠르다는 것입니다.
+현재 오픈AI에서 진행하는 Build Week의 일환으로 해커톤에 참여신청후 Resource 탭에서 10...</title><link>https://www.threads.net/@choi.openai/post/Day8VMyAsHa</link><description>🚨 카쫀쿠 말고 오쫀쿠도 즐겨보세요.
 
-그는 이 급격한 타임라인에 우려를 표명하며 이렇게 말했습니다.
-“AI 회사들이 밝힌 계획은 이 엄청나게 위험한 일을 하겠다는 것이며, 그 시간이 몇 년밖에 남지 않았습니다.”</description><pubDate>Tue, 14 Jul 2026 15:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Daxwz6hil_S</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=_g4l7YkDQwA</title><link>https://www.threads.net/@choi.openai/post/Daxw2RhCiQD</link><description>풀영상 :
-https://www.youtube.com/watch?v=_g4l7YkDQwA</description><pubDate>Tue, 14 Jul 2026 15:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Daxw2RhCiQD</guid></item><item><title>다니엘 코코타일로는 AI가 권력을 장악하는 등 심각한 재앙을 초래할 확률이 약 70%에 달한다고 경고했습니다.
-그는 단순한 인류 멸종이 아니라,...</title><link>https://www.threads.net/@choi.openai/post/DaxmgVxAs_5</link><description>다니엘 코코타일로는 AI가 권력을 장악하는 등 심각한 재앙을 초래할 확률이 약 70%에 달한다고 경고했습니다.
-그는 단순한 인류 멸종이 아니라, 인간이 AI에 대한 통제권을 잃게 되는 ‘특이점’의 위험성을 강조합니다.
+현재 오픈AI에서 진행하는 Build Week의 일환으로 해커톤에 참여신청후 Resource 탭에서 100$ 크레딧을 신청하면 Codex에서 사용 가능한 크레딧을 선착순으로 제공하고 있습니다.
 
-가장 큰 문제는 샘 알트만, 일론 머스크 등 거대 테크 기업 CEO들의 합리화입니다.
-이들은 AI의 위험성을 인지하면서도, 압도적인 성능의 AI를 먼저 개발해 기술적, 경제적 패권을 쥐기 위해 브레이크 없는 경쟁을 펼치고 있습니다.
+조기마감 될 수 있습니다.</description><pubDate>Wed, 15 Jul 2026 02:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Day8VMyAsHa</guid></item><item><title>주소 :
+https://openai.devpost.com/</title><link>https://www.threads.net/@choi.openai/post/Day8XongnW-</link><description>주소 :
+https://openai.devpost.com/</description><pubDate>Wed, 15 Jul 2026 02:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Day8XongnW-</guid></item><item><title>엔비디아가 재미있는 데모를 공개했습니다.
+AI 에이전트한테 목표와 시간 예산 5시간만 주고, 비전 모델 학습 연구를 통째로 맡긴 실험입니다.
+C...</title><link>https://www.threads.net/@choi.openai/post/Day478FDR0u</link><description>엔비디아가 재미있는 데모를 공개했습니다.
+AI 에이전트한테 목표와 시간 예산 5시간만 주고, 비전 모델 학습 연구를 통째로 맡긴 실험입니다.
+Codex가 '색깔별로 별 개수 세기' 훈련 환경을 직접 구현하고, 기본 정확도 25%를 측정한 뒤, 이전 실험 기록을 근거로 강화학습 대신 SFT를 골랐습니다.
+데이터와 학습 스텝을 늘려가며 Qwen3-VL-2B 정확도를 96.9%까지 올렸고, 남은 오류가 개수를 하나씩 틀리는 유형이라는 것까지 분석해 다음 실험을 스스로 제안했습니다.
+최고 성과는 L40S GPU 1장으로 1시간 안에 나왔고요.
+안드레 카파시가 공개한 autoresearch 개념에 엔비디아 NeMo 스택을 얹은 구성인데, 과제가 에이전트가 직접 만든 합성 환경이라 점수보다 과정이 보여주는 게 많습니다.
+연구자가 실험을 하나하나 돌보는 대신 어떤 실험을 할지 고르는 역할로 옮겨가는 흐름이 점점 뚜렷해지는 것 같습니다.</description><pubDate>Wed, 15 Jul 2026 01:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Day478FDR0u</guid></item><item><title>상세내용 :
+https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-wit...</title><link>https://www.threads.net/@choi.openai/post/Day485lDSAG</link><description>상세내용 :
+https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/?linkId=100000430716000</description><pubDate>Wed, 15 Jul 2026 01:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Day485lDSAG</guid></item><item><title>닉 보스트룸은 몇 년 안에 초지능(Superintelligence)이 등장할 가능성을 진지하게 보고 있다고 밝혔습니다.
 
-코코타일로는 그들의 속마음을 “어쩌면 아주 잘못될 수도 있지만, 내가 책임지는 사람이 되어야 해”라고 꼬집었습니다.
-통제 불능의 AI 시대, 기업들의 무한 성능 경쟁이 낳을 파장을 심각하게 고민해야 할 시점입니다.</description><pubDate>Tue, 14 Jul 2026 13:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaxmgVxAs_5</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=_g4l7YkDQwA</title><link>https://www.threads.net/@choi.openai/post/DaxmiqJgmru</link><description>풀영상 :
-https://www.youtube.com/watch?v=_g4l7YkDQwA</description><pubDate>Tue, 14 Jul 2026 13:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaxmiqJgmru</guid></item><item><title>산업혁명의 10배 충격이 10배 속도로 온다고 말해온 사람이, 이번에는 그 속도를 늦출 장치를 설계했습니다.
-하사비스가 7월 14일 공개한 칼럼...</title><link>https://www.threads.net/@choi.openai/post/DaxU9nCD_UM</link><description>산업혁명의 10배 충격이 10배 속도로 온다고 말해온 사람이, 이번에는 그 속도를 늦출 장치를 설계했습니다.
-하사비스가 7월 14일 공개한 칼럼입니다. 증권업계 FINRA를 본뜬 프런티어 AI 표준기구, 배포 30일 전 사전 평가, 랩들의 공동 감속 조항이 들어 있습니다.
-제가 보기에 올해 나온 AGI 거버넌스 문서 중 가장 구체적입니다. 정리했습니다 🧵</description><pubDate>Tue, 14 Jul 2026 10:56:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaxU9nCD_UM</guid></item><item><title>1/ 하사비스가 7월 14일 X에 긴 칼럼을 올렸습니다.
-제목은 '프런티어 AI를 위한 프레임워크, 그리고 새 시대의 여명'입니다.
-뇌가 가진 ...</title><link>https://www.threads.net/@choi.openai/post/DaxU-Nvj8S6</link><description>1/ 하사비스가 7월 14일 X에 긴 칼럼을 올렸습니다.
-제목은 '프런티어 AI를 위한 프레임워크, 그리고 새 시대의 여명'입니다.
-뇌가 가진 인지 능력을 모두 갖춘 AGI가 아마 몇 년 안에 오고, 지금 인류는 특이점의 초입에 서 있다는 선언으로 시작합니다.
-그는 AGI를 인터넷이나 모바일급 기술이 아니라 전기와 불의 발견에 비유합니다. 모래가 생각하게 만드는 법을 찾아냈다는 표현도 그대로 나옵니다.
-충격의 크기는 산업혁명의 10배, 속도도 10배로 적었습니다. 신약 개발, 청정에너지, 신소재를 거쳐 자원이 더는 진보의 제약이 아닌 풍요의 시대까지 갈 수 있다는 전망입니다.</description><pubDate>Tue, 14 Jul 2026 10:56:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaxU-Nvj8S6</guid></item><item><title>2/ 칼럼의 절반은 경고에 할애돼 있습니다.
-업계가 상업 경쟁과 지정학 경쟁이 겹친 레이스에 갇혀 있고, 프런티어의 진전이 기술에 대한 이해를 ...</title><link>https://www.threads.net/@choi.openai/post/DaxU-u1D6P_</link><description>2/ 칼럼의 절반은 경고에 할애돼 있습니다.
-업계가 상업 경쟁과 지정학 경쟁이 겹친 레이스에 갇혀 있고, 프런티어의 진전이 기술에 대한 이해를 앞지르고 있다는 진단입니다.
-사이버보안 위협은 이미 현실이 됐고 핵과 바이오 리스크가 뒤따를 수 있으며, 재귀적으로 자기를 개선하는 에이전트 시스템을 통제할 안전장치가 필요하다고 적습니다.
-앞으로 무슨 일이 벌어질지 아무도 확실히 모르고 전문가들 사이에서도 의견이 갈린다는 문장이 그대로 들어 있습니다.
-실측도 같은 방향입니다. METR 측정에 따르면 AI가 자율적으로 끝내는 작업의 길이는 7개월마다 두 배로 늘어왔습니다. 저는 전에 연구실 안에서는 AI가 AI를 개선하는 자기개선이 이미 돌아가고 있다고 적었습니다.</description><pubDate>Tue, 14 Jul 2026 10:57:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaxU-u1D6P_</guid></item><item><title>3/ 해법으로 내놓은 것이 미국 주도의 프런티어 AI 표준기구입니다. 모델은 증권업계의 FINRA입니다.
-FINRA는 SEC 감독 아래 3,30...</title><link>https://www.threads.net/@choi.openai/post/DaxU_jVj2U6</link><description>3/ 해법으로 내놓은 것이 미국 주도의 프런티어 AI 표준기구입니다. 모델은 증권업계의 FINRA입니다.
-FINRA는 SEC 감독 아래 3,300여 개 증권사를 자율 규제하는 민간 기구로, 회원사 회비와 제재금으로 운영됩니다.
-하사비스의 구상도 같은 방식입니다. 연방이 감독하는 민관 파트너십 형태로 세우고, 자금은 대부분 업계가 냅니다. 세계 최고 수준의 기술 인재를 데려오고 대규모 시험에 필요한 컴퓨팅을 확보할 만큼의 규모여야 한다고 명시했습니다.
-이사회에는 독립 기술 전문가와 함께 오픈소스 진영 대표가 들어가고, 국가안보와 닿는 영역의 시험은 연방기관, 국립연구소와 같이 진행하는 설계입니다.</description><pubDate>Tue, 14 Jul 2026 10:57:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaxU_jVj2U6</guid></item><item><title>다니엘 코코타일로는 AI가 거의 모든 분야에서 인간 노동자를 대신할 수 있는 순간이 매우 "갑자기" 찾아올 것이라고 경고합니다.
+초지능은 인간의 모든 ...</title><link>https://www.threads.net/@choi.openai/post/DayyCyuDfv_</link><description>닉 보스트룸은 몇 년 안에 초지능(Superintelligence)이 등장할 가능성을 진지하게 보고 있다고 밝혔습니다.
 
-그 원인은 A...</title><link>https://www.threads.net/@choi.openai/post/DaxHmj9E9eq</link><description>다니엘 코코타일로는 AI가 거의 모든 분야에서 인간 노동자를 대신할 수 있는 순간이 매우 "갑자기" 찾아올 것이라고 경고합니다.
+초지능은 인간의 모든 기술적, 지적 과제를 훨씬 뛰어난 성능으로 수행하게 됩니다.
+그는 초지능이 스스로 더 똑똑한 AI와 더 나은 칩을 설계하는 본격적인 "지능 폭발(intelligence explosion)"이 일어날 것이라고 강조했습니다.
 
-그 원인은 AI 연구 과정 자체를 먼저 자동화하는 기업들의 전략에 있습니다. AI가 스스로를 연구하고 개선하는 '재귀적 자기 개선' 단계에 진입하면, 인간을 훨씬 뛰어넘는 초지능이 내부적으로 먼저 탄생하게 됩니다.
-
-이후 이 초지능이 축적한 능력을 바탕으로 경제 전반에 투입될 때, 마치 "큰 파도가 경제 전체를 덮치는 것과 같은 현상"이 일어날 것입니다.
-
-결국 각 산업이 서서히 자동화되는 것이 아니라, 임계점을 넘은 순간 일자리와 코딩, 기술 분야 전반에 동시다발적인 대격변이 몰려올 것입니다.</description><pubDate>Tue, 14 Jul 2026 09:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaxHmj9E9eq</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=_g4l7YkDQwA</title><link>https://www.threads.net/@choi.openai/post/DaxHn1Nkzjb</link><description>풀영상 :
-https://www.youtube.com/watch?v=_g4l7YkDQwA</description><pubDate>Tue, 14 Jul 2026 09:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DaxHn1Nkzjb</guid></item></channel></rss>
+물리적 세계에서의 시행착오가 다소 속도를 늦출 수는 있지만, 초지능 등장 후 단 몇 년 안에 "우리가 말한 SF급 능력들이 열릴 수도 있다"고 예측했습니다.</description><pubDate>Wed, 15 Jul 2026 00:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DayyCyuDfv_</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=8qTZLqY-cnI</title><link>https://www.threads.net/@choi.openai/post/DayyDn-DVP6</link><description>풀영상 :
+https://www.youtube.com/watch?v=8qTZLqY-cnI</description><pubDate>Wed, 15 Jul 2026 00:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DayyDn-DVP6</guid></item><item><title>오픈AI의 첫 기기는 화면 없는 스피커가 될 것으로 보입니다.
+블룸버그에 따르면 들고 다닐 수 있는 무화면 홈 스피커로, 스마트홈 제어와 미디어...</title><link>https://www.threads.net/@choi.openai/post/DayuOCoDyP9</link><description>오픈AI의 첫 기기는 화면 없는 스피커가 될 것으로 보입니다.
+블룸버그에 따르면 들고 다닐 수 있는 무화면 홈 스피커로, 스마트홈 제어와 미디어 재생, 질문과 메시지 처리까지 ChatGPT로 굴리는 'AI 시대의 홈 컴퓨터'입니다.
+승부처는 성격으로 잡았습니다. 카메라와 센서로 주변 맥락을 읽고, 스스로 움직이는 기계 부품을 넣어 살아 있는 존재처럼 느껴지게 만든다고 합니다.
+쓸수록 주인을 학습해 먼저 말을 거는 방향이고요.
+알렉사류 스피커가 10년 넘게 정체된 건 턴제 명령 기계였기 때문입니다. 사람이 말을 끝내야 답하고, 정해진 명령만 알아들었습니다.
+듣기와 말하기를 동시에 하는 풀듀플렉스 음성에 개인화 메모리가 붙으면 이 카테고리는 다른 물건이 됩니다.
+유출대로면 가격은 200~300달러, 출시는 이르면 2027년 2월입니다. 다만 애플의 영업비밀 소송 결과에 따라 판매가 밀릴 수 있다는 단서가 붙었습니다.
+집 안의 기본 음성을 누가 차지하느냐의 싸움이 시작되는 것 같습니다.</description><pubDate>Tue, 14 Jul 2026 23:56:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DayuOCoDyP9</guid></item><item><title>기사 :
+https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-wi...</title><link>https://www.threads.net/@choi.openai/post/DayuOrwj935</link><description>기사 :
+https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion</description><pubDate>Tue, 14 Jul 2026 23:56:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DayuOrwj935</guid></item></channel></rss>
