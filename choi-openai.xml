@@ -1,28 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 16 Jul 2026 10:08:18 +0000</lastBuildDate><item><title>Pantograph가 Minecraft에서 다양한 작업을 수행하는 AI 모델 'Pan-1'을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 16 Jul 2026 16:09:04 +0000</lastBuildDate><item><title>와우... ARC-AGI-3 공개 세트가 넉 달 만에 사실상 포화됐습니다.
+Impossible Research의 하네스 [schema]가 Opu...</title><link>https://www.threads.net/@choi.openai/post/Da3BjY0jxmT</link><description>와우... ARC-AGI-3 공개 세트가 넉 달 만에 사실상 포화됐습니다.
+Impossible Research의 하네스 [schema]가 Opus 4.8과 Fable 5 조합으로 98.98%를 기록했습니다. 공식 리더보드 최고는 13.33%인데요.
+일하는 방식이 물리학자입니다.
+모델은 화면만 보고 추측한 게임 규칙을 코드로 적고, 기록된 모든 실제 장면과 대조해 검증합니다. 예측이 어긋나면 계획을 버리고 이론부터 고칩니다.
+검증된 코드는 시뮬레이터가 되어, 실제 행동 없이 그 안에서 답을 찾습니다.
+사람이 500번 움직인 레벨을 42번에 끝낸 배경입니다.
+하네스로 벤치마크만 뚫는다는 회의도 나오지만, 같은 조합을 Claude Code로 돌리면 42.83%, schema로 돌리면 98.98%입니다.
+다만 둘 다 자체 보고에 공개 세트 기준이라, 비공개 세트 성적은 아직 알 수 없습니다.
+한동안 성능 도약의 상당 부분은 모델 밖 설계에서 나올 것 같습니다.</description><pubDate>Thu, 16 Jul 2026 16:03:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da3BjY0jxmT</guid></item><item><title>블로그 :
+https://schema-harness.github.io/</title><link>https://www.threads.net/@choi.openai/post/Da3BnSVDyEm</link><description>블로그 :
+https://schema-harness.github.io/</description><pubDate>Thu, 16 Jul 2026 16:03:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da3BnSVDyEm</guid></item><item><title>인스타그램 총괄 아담 모세리는 최신 기술 도입으로 인해 조직 구성이 정말 많이 바뀌었었다고 밝혔습니다.
 
-Pan-1은 강화학습(RL) 기반의...</title><link>https://www.threads.net/@choi.openai/post/Da2RRL_DSAE</link><description>Pantograph가 Minecraft에서 다양한 작업을 수행하는 AI 모델 'Pan-1'을 공개했습니다.
+과거에는 세분화된 전문성에 따라 약 1...</title><link>https://www.threads.net/@choi.openai/post/Da2ssSxgu05</link><description>인스타그램 총괄 아담 모세리는 최신 기술 도입으로 인해 조직 구성이 정말 많이 바뀌었었다고 밝혔습니다.
 
-Pan-1은 강화학습(RL) 기반의 사전학습 방식을 적용해 몬스터와 전투하거나 건물을 짓고, 탐험하는 등 특정 작업만 따로 학습하지 않아도 다양한 목표를 수행할 수 있습니다. 목표 이미지를 입력하면 그 장면을 만들기 위해 행동하는 방식도 특징입니다.
+과거에는 세분화된 전문성에 따라 약 13명 규모의 팀이 필요했지만, 현재는 다재다능한 엔지니어 4~6명과 '제품 스태프(Product Staff)' 한 명으로 구성된 '파드(Pods)'라는 미니 팀 체제로 전환하고 있습니다. 제품 스태프는 최신 도구를 적극적으로 활용하여 기존의 PM, 디자이너, 데이터 과학자가 하던 역할을 통합적으로 수행합니다.
 
-Pantograph는 인터넷 규모의 동영상 데이터를 행동 정보가 없는 강화학습 데이터처럼 활용하는 'Goal-conditioned Pretraining' 기법을 적용했다고 설명했습니다.
+모세리는 팀 규모가 6~7명으로 축소된 것에 대해 “조율할 사람이 줄어든 것만으로도 더 빨리 움직이고 더 나은 결정을 할 때가 많아요”라고 강조했습니다.
 
-앞으로 게임뿐 아니라 컴퓨터 사용과 실제 환경 데이터를 함께 학습하면 로봇 AI의 성능도 크게 높일 수 있을 것으로 기대하고 있습니다.</description><pubDate>Thu, 16 Jul 2026 09:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2RRL_DSAE</guid></item><item><title>발푠내용 :
-https://pantograph.com/journal/pan-1</title><link>https://www.threads.net/@choi.openai/post/Da2RR5JjcQU</link><description>발푠내용 :
-https://pantograph.com/journal/pan-1</description><pubDate>Thu, 16 Jul 2026 09:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2RR5JjcQU</guid></item><item><title>3D 그래픽이나 VFX 하는 분들은 반가울 소식입니다.
-구글이 GNM이라는 파라메트릭 3D 헤드 모델을 오픈소스로 공개했습니다.
-사람 머리를 3...</title><link>https://www.threads.net/@choi.openai/post/Da2G-EGkZNn</link><description>3D 그래픽이나 VFX 하는 분들은 반가울 소식입니다.
-구글이 GNM이라는 파라메트릭 3D 헤드 모델을 오픈소스로 공개했습니다.
-사람 머리를 3D 스캔으로 대량 학습해서, 생김새는 머리 170개와 치아 80개 요소로, 표정은 383개 요소로 조절합니다.
-파라메트릭 모델이라는 건 세상 모든 얼굴을 몇백 개 슬라이더로 압축해 둔 거라고 보면 됩니다.
-생김새와 표정을 따로 떼어놔서, 슬라이더로 새 얼굴을 만들거나 사진 한 장에 맞춰 복원하고 그대로 리깅까지 바로 이어집니다.
-여기에 무료 블렌더 애드온과 후디니 연동까지 같이 풀려서 받아서 바로 쓸 수 있고요.
-디지털 휴먼을 만드는 재료가 이렇게 하나둘 오픈소스로 풀립니다.</description><pubDate>Thu, 16 Jul 2026 07:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2G-EGkZNn</guid></item><item><title>깃허브 :
-https://github.com/google/GNM/tree/main</title><link>https://www.threads.net/@choi.openai/post/Da2G_IPEXL9</link><description>깃허브 :
-https://github.com/google/GNM/tree/main</description><pubDate>Thu, 16 Jul 2026 07:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2G_IPEXL9</guid></item><item><title>앤트로픽이 'Claude Code Artifacts'에서 'MCP 커넥터'를 사용할 수 있는 기능을 추가했습니다.
+이러한 변화는 "AI가 생산성을 바꾸고 높인다는 얘기"의 명확한 사례로, AI가 단순히 벤치마크 성능을 넘어서 직군 간의 경계를 허물고 기업의 의사결정 속도와 효율성을 극대화하는 방향으로 경제 생태계를 재편하고 있음을 보여줍니다.</description><pubDate>Thu, 16 Jul 2026 13:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2ssSxgu05</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=yQ_EWmtfWvQ</title><link>https://www.threads.net/@choi.openai/post/Da2su0tAggE</link><description>풀영상 :
+https://www.youtube.com/watch?v=yQ_EWmtfWvQ</description><pubDate>Thu, 16 Jul 2026 13:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2su0tAggE</guid></item><item><title>터미네이터의 스카이넷은 인간에게 총을 겨눈 AI였습니다.
+우리는 오랫동안 이걸 공상으로 넘겼죠.
+그런데 요즘, AI를 만드는 사람들이 하나둘 경...</title><link>https://www.threads.net/@choi.openai/post/Da2jljdD3v1</link><description>터미네이터의 스카이넷은 인간에게 총을 겨눈 AI였습니다.
+우리는 오랫동안 이걸 공상으로 넘겼죠.
+그런데 요즘, AI를 만드는 사람들이 하나둘 경고에 나섭니다.
 
-이제 Artifact를 한 ...</title><link>https://www.threads.net/@choi.openai/post/Da18mLvDn8X</link><description>앤트로픽이 'Claude Code Artifacts'에서 'MCP 커넥터'를 사용할 수 있는 기능을 추가했습니다.
+하사비스, 원조 격인 아모데이, 노벨상 수상자 16명, 그리고 경제가 10% 성장한다던 낙관론자 나델라까지요.
 
-이제 Artifact를 한 번 만들어두면 MCP를 통해 실시간 데이터를 불러오거나, 화면에서 필요한 작업을 실행하는 대시보드와 앱을 만들 수 있습니다. 예를 들어 데이터베이스 정보를 실시간으로 표시하거나, 외부 서비스와 연결해 필요한 작업을 수행하는 방식입니다.
+편이 다른 이들이 왜 동시에 같은 말을 하는지, 흩어진 시그널을 종합했습니다 🧵</description><pubDate>Thu, 16 Jul 2026 11:40:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2jljdD3v1</guid></item><item><title>1/ 최근 몇 주가 유독 시끄러웠습니다.
+7월 9일 코코타일로 팀이 초지능을 2040년으로 미루자는 시나리오 Plan A를 냈고, 13일 노벨상...</title><link>https://www.threads.net/@choi.openai/post/Da2jmVZj0_m</link><description>1/ 최근 몇 주가 유독 시끄러웠습니다.
+7월 9일 코코타일로 팀이 초지능을 2040년으로 미루자는 시나리오 Plan A를 냈고, 13일 노벨상 수상자 16명을 포함한 경제학자 200여 명이 대비 성명을 냈고, 14일 하사비스가 감독기구 설계안을 공개했습니다.
+이상한 건 명단입니다. 낙관론자와 비관론자, 만드는 쪽과 재는 쪽, 안전 연구자와 경제학자가 편을 가리지 않고 같은 방향을 가리켰죠.
+서로 다른 자리에 선 사람들이 같은 결론에 이르면, 각자 다른 걸 본 게 아니라 같은 걸 봤을 가능성이 큽니다. 그게 무엇인지가 이 글의 주제입니다.</description><pubDate>Thu, 16 Jul 2026 11:41:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2jmVZj0_m</guid></item><item><title>2/ 이 흐름의 원조는 앤트로픽의 아모데이입니다.
+가장 오래, 가장 일관되게 경고해 온 사람이죠.
+2024년 낙관 에세이에서조차 50~100년 ...</title><link>https://www.threads.net/@choi.openai/post/Da2jm-Wjww0</link><description>2/ 이 흐름의 원조는 앤트로픽의 아모데이입니다.
+가장 오래, 가장 일관되게 경고해 온 사람이죠.
+2024년 낙관 에세이에서조차 50~100년 치 생물학 진보가 5~10년에 압축될 수 있다고 적었고, 2025년엔 2027년경 노벨상 수상자보다 유능한 5,000만 명의 천재 국가에 맞먹는 AI가 온다고 했습니다. 초급 사무직 절반이 1~5년 안에 사라진다는 경고도 그가 먼저 꺼냈고요.
+결정적인 건 6월입니다. 그는 투명성 권고를 넘어 구속력 있는 규제로 노선을 틀며, 위험한 모델의 출시를 막을 권한이 있는 기구를 요구하고 사회 영향 연구에 2억 달러를 걸었습니다.
+말로 하던 경고를 제도 요구로 바꿨습니다.</description><pubDate>Thu, 16 Jul 2026 11:41:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2jm-Wjww0</guid></item><item><title>3/ 하사비스의 경고가 무거운 건 그가 겁이 많은 사람이 아니어서입니다.
+노벨 화학상을 받은 과학자이고 구글의 제미나이를 만드는 당사자인데, 그...</title><link>https://www.threads.net/@choi.openai/post/Da2jnjMj7GQ</link><description>3/ 하사비스의 경고가 무거운 건 그가 겁이 많은 사람이 아니어서입니다.
+노벨 화학상을 받은 과학자이고 구글의 제미나이를 만드는 당사자인데, 그가 우리는 지금 특이점의 산기슭에 서 있다고 말합니다. AGI 도달 시점도 2030년 전후, 어쩌면 2029년으로 앞당겼죠.
+7월 14일에는 증권업계를 본뜬 감독기구를 제안했습니다. 배포 30일 전에 위험 능력을 검증하고, 위험하면 업계 전체가 속도를 늦추게 하며, 연내 가동을 목표로 했습니다.
+지금의 사이버 위험은 경고 사격일 뿐이고, 몇 년 안에 생물·핵 수준 위험이 통제 밖 모델에 실릴 수 있다는 게 그의 진단입니다.</description><pubDate>Thu, 16 Jul 2026 11:41:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2jnjMj7GQ</guid></item><item><title>워런 버핏은 구글 및 AI 기업에 대해 "엄청난 자금을 투입하고 있다"고 진단했습니다.
 
-또한 Artifact를 보는 사람의 MCP 연결과 접근 권한이 그대로 적용되기 때문에, 각 사용자는 자신에게 허용된 정보만 확인할 수 있습니다. 이 기능은 Pro, Max, Team, Enterprise 요금제에서 이용할 수 있으며, 공개 공유된 Artifact에서는 지원되지 않습니다.</description><pubDate>Thu, 16 Jul 2026 06:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da18mLvDn8X</guid></item><item><title>🚨 속보) 코덱스 초기화</title><link>https://www.threads.net/@choi.openai/post/Da1wkYOj3ts</link><description>🚨 속보) 코덱스 초기화</description><pubDate>Thu, 16 Jul 2026 04:15:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1wkYOj3ts</guid></item><item><title>Claude도 초기화</title><link>https://www.threads.net/@choi.openai/post/Da1wruZj7sD</link><description>Claude도 초기화</description><pubDate>Thu, 16 Jul 2026 04:16:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1wruZj7sD</guid></item></channel></rss>
+그는 경제적 관점에서 훌륭한 비즈니스의 조건을 "장기간...</title><link>https://www.threads.net/@choi.openai/post/Da2bkyrDthT</link><description>워런 버핏은 구글 및 AI 기업에 대해 "엄청난 자금을 투입하고 있다"고 진단했습니다.
+
+그는 경제적 관점에서 훌륭한 비즈니스의 조건을 "장기간에 걸쳐 자본 대비 높은 수익을 올릴 것으로 기대할 수 있는" 곳으로 정의했습니다.
+
+오랜 파트너였던 찰리 멍거의 말을 인용하며, 단순히 "매력적인(sexy) 일을 하고 있다는 이유만으로" 좋은 사업이 될 수는 없으며 "실제 현금을 창출"해야 한다고 강조했습니다.
+
+이는 AI 산업 역시 기술적 혁신성에만 의존할 것이 아니라, 막대한 투자 자본 대비 확실한 수익성과 잉여 자본의 높은 재투자 능력을 반드시 증명해야 한다는 냉철한 투자 원칙을 보여줍니다.</description><pubDate>Thu, 16 Jul 2026 10:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2bkyrDthT</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=vaHbb3-tHQA</title><link>https://www.threads.net/@choi.openai/post/Da2bl1jDhQ8</link><description>풀영상 :
+https://www.youtube.com/watch?v=vaHbb3-tHQA</description><pubDate>Thu, 16 Jul 2026 10:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2bl1jDhQ8</guid></item></channel></rss>
