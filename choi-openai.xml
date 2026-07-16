@@ -1,33 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 16 Jul 2026 02:34:34 +0000</lastBuildDate><item><title>와.. 로봇한테 5분짜리 '근육 기억'이 생겼습니다.
-엔비디아 GEAR랩의 RoboTTT가 로봇이 참고하는 과거 맥락을 8,000스텝(30Hz로...</title><link>https://www.threads.net/@choi.openai/post/Da1dv6Rj6Gg</link><description>와.. 로봇한테 5분짜리 '근육 기억'이 생겼습니다.
-엔비디아 GEAR랩의 RoboTTT가 로봇이 참고하는 과거 맥락을 8,000스텝(30Hz로 약 5분, 종전 최고의 약 1,000배)까지 늘렸는데 추론 비용은 그대로입니다.
-지금까지 로봇은 매 순간 몇 프레임만 보고 방금 뭘 했는지 잊는 금붕어 기억이었습니다.
-비결은 모델 안에 작은 모델을 하나 심은 데 있습니다.
-센서 값이 들어올 때마다 그 작은 모델을 즉석에서 한 번 학습시켜, 지나온 경험을 고정 크기 가중치에 압축해 넣습니다.
-프레임을 캐시에 쌓지 않으니 맥락이 길어져도 계산량이 안 늘어납니다.
-덕분에 처음 보는 조립도 사람이 영상으로 한 번 보여주면 그대로 따라 하고, 하다가 낸 실수도 스스로 되돌립니다.
-무엇보다 눈여겨볼 건 컨텍스트를 128에서 8K까지 늘릴수록 성능이 포화 없이 계속 오른다는 점입니다.
-8K는 1K보다 62% 높았고요.
-LLM이 누린 컨텍스트 스케일링이 이제 로봇에도 열리는 것 같습니다.</description><pubDate>Thu, 16 Jul 2026 01:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1dv6Rj6Gg</guid></item><item><title>블로그 :
-https://research.nvidia.com/labs/gear/robottt/</title><link>https://www.threads.net/@choi.openai/post/Da1dxB6jzP5</link><description>블로그 :
-https://research.nvidia.com/labs/gear/robottt/</description><pubDate>Thu, 16 Jul 2026 01:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1dxB6jzP5</guid></item><item><title>역시 컴퓨팅이 있다는건 좋긴하네요.</title><link>https://www.threads.net/@choi.openai/post/Da1YNGkj7no</link><description>역시 컴퓨팅이 있다는건 좋긴하네요.</description><pubDate>Thu, 16 Jul 2026 00:42:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1YNGkj7no</guid></item><item><title>구글이 Gemma 4 업데이트를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 16 Jul 2026 10:08:18 +0000</lastBuildDate><item><title>Pantograph가 Minecraft에서 다양한 작업을 수행하는 AI 모델 'Pan-1'을 공개했습니다.
 
-가장 큰 변화는 NVIDIA Hopper GPU에서 Flash Attention 4(FA4)를 ...</title><link>https://www.threads.net/@choi.openai/post/Da1TdlwCgyY</link><description>구글이 Gemma 4 업데이트를 공개했습니다.
+Pan-1은 강화학습(RL) 기반의...</title><link>https://www.threads.net/@choi.openai/post/Da2RRL_DSAE</link><description>Pantograph가 Minecraft에서 다양한 작업을 수행하는 AI 모델 'Pan-1'을 공개했습니다.
 
-가장 큰 변화는 NVIDIA Hopper GPU에서 Flash Attention 4(FA4)를 기본 지원해 입력 처리 속도는 최대 70% 빨라지고, 첫 토큰 생성 시간(TTFT)도 최대 31% 줄어들 수 있다고 합니다.
+Pan-1은 강화학습(RL) 기반의 사전학습 방식을 적용해 몬스터와 전투하거나 건물을 짓고, 탐험하는 등 특정 작업만 따로 학습하지 않아도 다양한 목표를 수행할 수 있습니다. 목표 이미지를 입력하면 그 장면을 만들기 위해 행동하는 방식도 특징입니다.
 
-대화 형식(Chat Template)도 개선됐고, Tool Calling 오류도 수정해 도구 실행의 정확성과 일관성을 높였습니다. 비전 기능은 기본 설정보다 max_soft_tokens를 1120으로 높이면 OCR이나 최대 2.51MP 해상도처럼 더 많은 이미지를 활용할 수 있습니다.
+Pantograph는 인터넷 규모의 동영상 데이터를 행동 정보가 없는 강화학습 데이터처럼 활용하는 'Goal-conditioned Pretraining' 기법을 적용했다고 설명했습니다.
 
-이번 업데이트는 커뮤니티 피드백과 기여를 반영한 것이며, 최신 Gemma 4는 Hugging Face에서 이용할 수 있습니다.</description><pubDate>Thu, 16 Jul 2026 00:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1TdlwCgyY</guid></item><item><title>허깅페이스 :
-https://huggingface.co/collections/google/gemma-4</title><link>https://www.threads.net/@choi.openai/post/Da1Tfx2Cq-U</link><description>허깅페이스 :
-https://huggingface.co/collections/google/gemma-4</description><pubDate>Thu, 16 Jul 2026 00:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1Tfx2Cq-U</guid></item><item><title>🚨 속보) SpaceXAI, 코딩 에이전트 Grok Build 오픈소스 공개.</title><link>https://www.threads.net/@choi.openai/post/Da1MB90kxix</link><description>🚨 속보) SpaceXAI, 코딩 에이전트 Grok Build 오픈소스 공개.</description><pubDate>Wed, 15 Jul 2026 22:55:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1MB90kxix</guid></item><item><title>SpaceXAI가 전 사용자 사용량 제한을 리셋하고, 데이터 보존도 기본값에서 끈 뒤 그동안 쌓인 기록까지 전부 삭제했다고 밝혔습니다.
-그냥 오...</title><link>https://www.threads.net/@choi.openai/post/Da1MCi7k0EJ</link><description>SpaceXAI가 전 사용자 사용량 제한을 리셋하고, 데이터 보존도 기본값에서 끈 뒤 그동안 쌓인 기록까지 전부 삭제했다고 밝혔습니다.
-그냥 오픈소스 선심으로 보기 쉽지만, 이건 지난주 사건에 대한 답입니다.
-Grok Build가 실행된 저장소를 통째로 자사 클라우드에 올려온 게 네트워크 분석으로 드러났었죠.
-실제 코딩 작업엔 192KB면 됐는데 5.1GB가 올라갔고, 읽지 말라고 지정한 파일과 지워진 시크릿까지 딸려 갔습니다.
-코드를 공개했다는 건, 이제 그 하네스가 내 저장소에서 뭘 하는지 직접 읽어 검증할 수 있다는 뜻입니다.
-논란을 코드로 정면돌파한 건데, 이렇게 되면 폐쇄형 하네스를 그냥 믿고 회사 코드에 붙이기는 점점 더 어려워집니다.
+앞으로 게임뿐 아니라 컴퓨터 사용과 실제 환경 데이터를 함께 학습하면 로봇 AI의 성능도 크게 높일 수 있을 것으로 기대하고 있습니다.</description><pubDate>Thu, 16 Jul 2026 09:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2RRL_DSAE</guid></item><item><title>발푠내용 :
+https://pantograph.com/journal/pan-1</title><link>https://www.threads.net/@choi.openai/post/Da2RR5JjcQU</link><description>발푠내용 :
+https://pantograph.com/journal/pan-1</description><pubDate>Thu, 16 Jul 2026 09:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2RR5JjcQU</guid></item><item><title>3D 그래픽이나 VFX 하는 분들은 반가울 소식입니다.
+구글이 GNM이라는 파라메트릭 3D 헤드 모델을 오픈소스로 공개했습니다.
+사람 머리를 3...</title><link>https://www.threads.net/@choi.openai/post/Da2G-EGkZNn</link><description>3D 그래픽이나 VFX 하는 분들은 반가울 소식입니다.
+구글이 GNM이라는 파라메트릭 3D 헤드 모델을 오픈소스로 공개했습니다.
+사람 머리를 3D 스캔으로 대량 학습해서, 생김새는 머리 170개와 치아 80개 요소로, 표정은 383개 요소로 조절합니다.
+파라메트릭 모델이라는 건 세상 모든 얼굴을 몇백 개 슬라이더로 압축해 둔 거라고 보면 됩니다.
+생김새와 표정을 따로 떼어놔서, 슬라이더로 새 얼굴을 만들거나 사진 한 장에 맞춰 복원하고 그대로 리깅까지 바로 이어집니다.
+여기에 무료 블렌더 애드온과 후디니 연동까지 같이 풀려서 받아서 바로 쓸 수 있고요.
+디지털 휴먼을 만드는 재료가 이렇게 하나둘 오픈소스로 풀립니다.</description><pubDate>Thu, 16 Jul 2026 07:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2G-EGkZNn</guid></item><item><title>깃허브 :
+https://github.com/google/GNM/tree/main</title><link>https://www.threads.net/@choi.openai/post/Da2G_IPEXL9</link><description>깃허브 :
+https://github.com/google/GNM/tree/main</description><pubDate>Thu, 16 Jul 2026 07:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2G_IPEXL9</guid></item><item><title>앤트로픽이 'Claude Code Artifacts'에서 'MCP 커넥터'를 사용할 수 있는 기능을 추가했습니다.
 
-주소 :
-https://x.ai/open-source</description><pubDate>Wed, 15 Jul 2026 22:55:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1MCi7k0EJ</guid></item></channel></rss>
+이제 Artifact를 한 ...</title><link>https://www.threads.net/@choi.openai/post/Da18mLvDn8X</link><description>앤트로픽이 'Claude Code Artifacts'에서 'MCP 커넥터'를 사용할 수 있는 기능을 추가했습니다.
+
+이제 Artifact를 한 번 만들어두면 MCP를 통해 실시간 데이터를 불러오거나, 화면에서 필요한 작업을 실행하는 대시보드와 앱을 만들 수 있습니다. 예를 들어 데이터베이스 정보를 실시간으로 표시하거나, 외부 서비스와 연결해 필요한 작업을 수행하는 방식입니다.
+
+또한 Artifact를 보는 사람의 MCP 연결과 접근 권한이 그대로 적용되기 때문에, 각 사용자는 자신에게 허용된 정보만 확인할 수 있습니다. 이 기능은 Pro, Max, Team, Enterprise 요금제에서 이용할 수 있으며, 공개 공유된 Artifact에서는 지원되지 않습니다.</description><pubDate>Thu, 16 Jul 2026 06:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da18mLvDn8X</guid></item><item><title>🚨 속보) 코덱스 초기화</title><link>https://www.threads.net/@choi.openai/post/Da1wkYOj3ts</link><description>🚨 속보) 코덱스 초기화</description><pubDate>Thu, 16 Jul 2026 04:15:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1wkYOj3ts</guid></item><item><title>Claude도 초기화</title><link>https://www.threads.net/@choi.openai/post/Da1wruZj7sD</link><description>Claude도 초기화</description><pubDate>Thu, 16 Jul 2026 04:16:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1wruZj7sD</guid></item></channel></rss>
