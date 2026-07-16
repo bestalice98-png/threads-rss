@@ -1,41 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 15 Jul 2026 16:11:51 +0000</lastBuildDate><item><title>챗GPT Sites 기능은 너무 과소평가되어있다.
-지금은 프롬프트로 간단한 사이트 하나 만드는 도구처럼 보이지만, 관계형 DB(D1)와 파일 스...</title><link>https://www.threads.net/@choi.openai/post/Da0ZJwVD8d7</link><description>챗GPT Sites 기능은 너무 과소평가되어있다.
-지금은 프롬프트로 간단한 사이트 하나 만드는 도구처럼 보이지만, 관계형 DB(D1)와 파일 스토리지(R2)를 붙이고, 환경변수와 시크릿을 따로 관리하고, 워크스페이스 로그인까지 걸어 배포 URL을 내주는 구조이다.
-과거 오픈AI의 Codex가 결국 OS로 변화될 것이라고 말했는데, 결국 회사 전체 컴퓨터의 데이터를 실시간으로 연동하고 AI가 조율하게 될 것이라고 생각한다.
-원하는 걸 만들고, 로컬 데이터가 그대로 붙고, 실행과 배포까지 AI가 알아서 굴리는 구조다.
-나는 여기까지 3년도 안 남았다고 본다. 그 기업판 대표 사례가 소프트뱅크의 크리스탈 인텔리전스라고 과거부터 생각해왔고, 이미 소프트뱅크는 2,500개 사내 시스템과 데이터를 통째로 묶고 재무·법무 같은 핵심 업무 위에 AI 에이전트를 얹어, 사람이 조작하던 ERP를 AI가 조율하는 시스템으로 옮기는 중이다.</description><pubDate>Wed, 15 Jul 2026 15:31:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da0ZJwVD8d7</guid></item><item><title>결국 OS를 개발해서 필요한걸 그때그때 만들어주게 될 것으로 생각한다 :</title><link>https://www.threads.net/@choi.openai/post/Da0ZKUsD974</link><description>결국 OS를 개발해서 필요한걸 그때그때 만들어주게 될 것으로 생각한다 :</description><pubDate>Wed, 15 Jul 2026 15:31:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da0ZKUsD974</guid></item><item><title>스레드에서 ERP 논쟁으로 뜨거운데 2년안에 의미 없는 논쟁이 될 것으로 생각한다.</title><link>https://www.threads.net/@choi.openai/post/Da0ZK5bD4fF</link><description>스레드에서 ERP 논쟁으로 뜨거운데 2년안에 의미 없는 논쟁이 될 것으로 생각한다.</description><pubDate>Wed, 15 Jul 2026 15:31:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da0ZK5bD4fF</guid></item><item><title>Sites 사용해보세요:</title><link>https://www.threads.net/@choi.openai/post/Da0ZLgpDzKe</link><description>Sites 사용해보세요:</description><pubDate>Wed, 15 Jul 2026 15:31:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da0ZLgpDzKe</guid></item><item><title>닉 보스트룸은 AI가 초래할 고학력 사무직의 대규모 실업과 그로 인한 경제 및 사회적 파장을 경고했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 16 Jul 2026 02:34:34 +0000</lastBuildDate><item><title>와.. 로봇한테 5분짜리 '근육 기억'이 생겼습니다.
+엔비디아 GEAR랩의 RoboTTT가 로봇이 참고하는 과거 맥락을 8,000스텝(30Hz로...</title><link>https://www.threads.net/@choi.openai/post/Da1dv6Rj6Gg</link><description>와.. 로봇한테 5분짜리 '근육 기억'이 생겼습니다.
+엔비디아 GEAR랩의 RoboTTT가 로봇이 참고하는 과거 맥락을 8,000스텝(30Hz로 약 5분, 종전 최고의 약 1,000배)까지 늘렸는데 추론 비용은 그대로입니다.
+지금까지 로봇은 매 순간 몇 프레임만 보고 방금 뭘 했는지 잊는 금붕어 기억이었습니다.
+비결은 모델 안에 작은 모델을 하나 심은 데 있습니다.
+센서 값이 들어올 때마다 그 작은 모델을 즉석에서 한 번 학습시켜, 지나온 경험을 고정 크기 가중치에 압축해 넣습니다.
+프레임을 캐시에 쌓지 않으니 맥락이 길어져도 계산량이 안 늘어납니다.
+덕분에 처음 보는 조립도 사람이 영상으로 한 번 보여주면 그대로 따라 하고, 하다가 낸 실수도 스스로 되돌립니다.
+무엇보다 눈여겨볼 건 컨텍스트를 128에서 8K까지 늘릴수록 성능이 포화 없이 계속 오른다는 점입니다.
+8K는 1K보다 62% 높았고요.
+LLM이 누린 컨텍스트 스케일링이 이제 로봇에도 열리는 것 같습니다.</description><pubDate>Thu, 16 Jul 2026 01:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1dv6Rj6Gg</guid></item><item><title>블로그 :
+https://research.nvidia.com/labs/gear/robottt/</title><link>https://www.threads.net/@choi.openai/post/Da1dxB6jzP5</link><description>블로그 :
+https://research.nvidia.com/labs/gear/robottt/</description><pubDate>Thu, 16 Jul 2026 01:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1dxB6jzP5</guid></item><item><title>역시 컴퓨팅이 있다는건 좋긴하네요.</title><link>https://www.threads.net/@choi.openai/post/Da1YNGkj7no</link><description>역시 컴퓨팅이 있다는건 좋긴하네요.</description><pubDate>Thu, 16 Jul 2026 00:42:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1YNGkj7no</guid></item><item><title>구글이 Gemma 4 업데이트를 공개했습니다.
 
-그는 현재까지는 AI가 노동 시장에...</title><link>https://www.threads.net/@choi.openai/post/Da0VosEkz5J</link><description>닉 보스트룸은 AI가 초래할 고학력 사무직의 대규모 실업과 그로 인한 경제 및 사회적 파장을 경고했습니다.
+가장 큰 변화는 NVIDIA Hopper GPU에서 Flash Attention 4(FA4)를 ...</title><link>https://www.threads.net/@choi.openai/post/Da1TdlwCgyY</link><description>구글이 Gemma 4 업데이트를 공개했습니다.
 
-그는 현재까지는 AI가 노동 시장에 큰 영향을 주지 않았지만, 곧 “두 번째 물결이 오고 있다”고 진단했습니다. 특히 대학을 졸업하고 고수익 일자리를 기대하는 수많은 화이트칼라 노동자들이 AI로 인해 일자리를 잃게 될 것이라 전망했습니다.
+가장 큰 변화는 NVIDIA Hopper GPU에서 Flash Attention 4(FA4)를 기본 지원해 입력 처리 속도는 최대 70% 빨라지고, 첫 토큰 생성 시간(TTFT)도 최대 31% 줄어들 수 있다고 합니다.
 
-일자리를 잃은 고학력자들은 AI에 대한 불만을 품고 뭉쳐 “아주 강한 정치 세력이 생길 것”이며, 결과적으로 AI에 무언가 조치를 취하라는 거대한 정치적 압박으로 이어질 것이라 분석했습니다.
+대화 형식(Chat Template)도 개선됐고, Tool Calling 오류도 수정해 도구 실행의 정확성과 일관성을 높였습니다. 비전 기능은 기본 설정보다 max_soft_tokens를 1120으로 높이면 OCR이나 최대 2.51MP 해상도처럼 더 많은 이미지를 활용할 수 있습니다.
 
-이는 AI의 성능 향상이 단순한 기술 발전을 넘어, 일자리와 경제 구조를 뒤흔들 특이점이 다가오고 있음을 시사합니다.</description><pubDate>Wed, 15 Jul 2026 15:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da0VosEkz5J</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=8qTZLqY-cnI</title><link>https://www.threads.net/@choi.openai/post/Da0Vp3Fk_3w</link><description>풀영상 :
-https://www.youtube.com/watch?v=8qTZLqY-cnI</description><pubDate>Wed, 15 Jul 2026 15:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da0Vp3Fk_3w</guid></item><item><title>오픈AI의 첫 하드웨어가 나왔습니다.
-코딩 에이전트 코덱스 전용 키패드 'Codex Micro'로, 주변기기 업체 Work Louder와 함께 ...</title><link>https://www.threads.net/@choi.openai/post/Da0M1FtDx2q</link><description>오픈AI의 첫 하드웨어가 나왔습니다.
-코딩 에이전트 코덱스 전용 키패드 'Codex Micro'로, 주변기기 업체 Work Louder와 함께 만들었습니다.
-제일 눈에 띄는 6개의 상태 키가 코덱스 스레드 상태를 색으로 실시간으로 보여주는데요.
-파란색이면 작업 중, 초록색이면 완료, 주황색이면 내 입력이 필요하다는 뜻입니다.
-키를 한 번 누르면 그 에이전트를 잡고, 두 번 누르면 코덱스 창을 앞으로 띄웁니다.
+이번 업데이트는 커뮤니티 피드백과 기여를 반영한 것이며, 최신 Gemma 4는 Hugging Face에서 이용할 수 있습니다.</description><pubDate>Thu, 16 Jul 2026 00:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1TdlwCgyY</guid></item><item><title>허깅페이스 :
+https://huggingface.co/collections/google/gemma-4</title><link>https://www.threads.net/@choi.openai/post/Da1Tfx2Cq-U</link><description>허깅페이스 :
+https://huggingface.co/collections/google/gemma-4</description><pubDate>Thu, 16 Jul 2026 00:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1Tfx2Cq-U</guid></item><item><title>🚨 속보) SpaceXAI, 코딩 에이전트 Grok Build 오픈소스 공개.</title><link>https://www.threads.net/@choi.openai/post/Da1MB90kxix</link><description>🚨 속보) SpaceXAI, 코딩 에이전트 Grok Build 오픈소스 공개.</description><pubDate>Wed, 15 Jul 2026 22:55:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1MB90kxix</guid></item><item><title>SpaceXAI가 전 사용자 사용량 제한을 리셋하고, 데이터 보존도 기본값에서 끈 뒤 그동안 쌓인 기록까지 전부 삭제했다고 밝혔습니다.
+그냥 오...</title><link>https://www.threads.net/@choi.openai/post/Da1MCi7k0EJ</link><description>SpaceXAI가 전 사용자 사용량 제한을 리셋하고, 데이터 보존도 기본값에서 끈 뒤 그동안 쌓인 기록까지 전부 삭제했다고 밝혔습니다.
+그냥 오픈소스 선심으로 보기 쉽지만, 이건 지난주 사건에 대한 답입니다.
+Grok Build가 실행된 저장소를 통째로 자사 클라우드에 올려온 게 네트워크 분석으로 드러났었죠.
+실제 코딩 작업엔 192KB면 됐는데 5.1GB가 올라갔고, 읽지 말라고 지정한 파일과 지워진 시크릿까지 딸려 갔습니다.
+코드를 공개했다는 건, 이제 그 하네스가 내 저장소에서 뭘 하는지 직접 읽어 검증할 수 있다는 뜻입니다.
+논란을 코드로 정면돌파한 건데, 이렇게 되면 폐쇄형 하네스를 그냥 믿고 회사 코드에 붙이기는 점점 더 어려워집니다.
 
-작은 액세서리 같지만, 코덱스 주간 사용자가 8백만 명을 넘었고, 이제 에이전트를 여러 개 동시에 돌리는 게 일상이 됐습니다.
-하나만 돌릴 땐 화면만 보면 되지만, 대여섯 개를 병렬로 굴리면 어느 에이전트가 지금 나를 필요로 하는지 한눈에 봐야 합니다.
-그래서 상태를 색으로 띄우고 원터치로 넘나드는 물리 보드가 나온 겁니다.
-사람 역할이 코드를 짜는 쪽에서 여러 에이전트를 지켜보고 챙기는 쪽으로 옮겨가고 있습니다.</description><pubDate>Wed, 15 Jul 2026 13:43:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da0M1FtDx2q</guid></item><item><title>중국의 발전이 정말 빠르네요.
-
-샤오미 휴머노이드가 자동차 공장에서 나사 조이기 성공률을 90.2%에서 98%까지 끌어올렸습니다.
-숙련공 합격률...</title><link>https://www.threads.net/@choi.openai/post/Da0LU8rjWwd</link><description>중국의 발전이 정말 빠르네요.
-
-샤오미 휴머노이드가 자동차 공장에서 나사 조이기 성공률을 90.2%에서 98%까지 끌어올렸습니다.
-숙련공 합격률과 1%포인트 차이까지 좁혔다고 합니다.
-근데 샤오미 창업자 레이쥔이 정작 영상으로 앞세운 장면은 따로 있습니다.
-물렁한 콘솔 패널을 몇 시간씩 계속 집어 분류하는 모습이었는데요.
-나사는 모양이 고정돼 있어 어디를 잡을지만 정하면 되지만, 말랑한 부품은 집을 때마다 형태가 바뀌어서 카메라만으론 지금 상태가 뭔지 특정하기가 어렵습니다.
-로봇이 가장 못하는 게 이런 흐물거리는 걸 다루는 일이라, 공장에서 이렇게 길게 돌린 건 이번이 처음이라고 합니다.
-
-차, 로봇, 모델, 데이터가 한 회사 안에서 돕니다.
-로봇이 공장에서 일하며 데이터를 쌓고, 그 데이터로 모델을 키우고, 월드모델이 모자란 데이터를 합성으로 불려줍니다.
-하드웨어부터 AI 모델까지 수직으로 다 쥔 회사가 이 속도를 내고 있습니다.</description><pubDate>Wed, 15 Jul 2026 13:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da0LU8rjWwd</guid></item></channel></rss>
+주소 :
+https://x.ai/open-source</description><pubDate>Wed, 15 Jul 2026 22:55:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da1MCi7k0EJ</guid></item></channel></rss>
