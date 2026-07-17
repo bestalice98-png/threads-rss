@@ -1,55 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 16 Jul 2026 16:09:04 +0000</lastBuildDate><item><title>와우... ARC-AGI-3 공개 세트가 넉 달 만에 사실상 포화됐습니다.
-Impossible Research의 하네스 [schema]가 Opu...</title><link>https://www.threads.net/@choi.openai/post/Da3BjY0jxmT</link><description>와우... ARC-AGI-3 공개 세트가 넉 달 만에 사실상 포화됐습니다.
-Impossible Research의 하네스 [schema]가 Opus 4.8과 Fable 5 조합으로 98.98%를 기록했습니다. 공식 리더보드 최고는 13.33%인데요.
-일하는 방식이 물리학자입니다.
-모델은 화면만 보고 추측한 게임 규칙을 코드로 적고, 기록된 모든 실제 장면과 대조해 검증합니다. 예측이 어긋나면 계획을 버리고 이론부터 고칩니다.
-검증된 코드는 시뮬레이터가 되어, 실제 행동 없이 그 안에서 답을 찾습니다.
-사람이 500번 움직인 레벨을 42번에 끝낸 배경입니다.
-하네스로 벤치마크만 뚫는다는 회의도 나오지만, 같은 조합을 Claude Code로 돌리면 42.83%, schema로 돌리면 98.98%입니다.
-다만 둘 다 자체 보고에 공개 세트 기준이라, 비공개 세트 성적은 아직 알 수 없습니다.
-한동안 성능 도약의 상당 부분은 모델 밖 설계에서 나올 것 같습니다.</description><pubDate>Thu, 16 Jul 2026 16:03:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da3BjY0jxmT</guid></item><item><title>블로그 :
-https://schema-harness.github.io/</title><link>https://www.threads.net/@choi.openai/post/Da3BnSVDyEm</link><description>블로그 :
-https://schema-harness.github.io/</description><pubDate>Thu, 16 Jul 2026 16:03:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da3BnSVDyEm</guid></item><item><title>인스타그램 총괄 아담 모세리는 최신 기술 도입으로 인해 조직 구성이 정말 많이 바뀌었었다고 밝혔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 17 Jul 2026 02:36:34 +0000</lastBuildDate><item><title>챗GPT 앱이 정말 편리해지고 있습니다.
+오늘 ChatGPT 데스크톱 앱 업데이트가 있었는데요.
 
-과거에는 세분화된 전문성에 따라 약 1...</title><link>https://www.threads.net/@choi.openai/post/Da2ssSxgu05</link><description>인스타그램 총괄 아담 모세리는 최신 기술 도입으로 인해 조직 구성이 정말 많이 바뀌었었다고 밝혔습니다.
+이번 업데이트에서는 대화 기록과 프로젝트를 사...</title><link>https://www.threads.net/@choi.openai/post/Da4C7Tjj9qr</link><description>챗GPT 앱이 정말 편리해지고 있습니다.
+오늘 ChatGPT 데스크톱 앱 업데이트가 있었는데요.
 
-과거에는 세분화된 전문성에 따라 약 13명 규모의 팀이 필요했지만, 현재는 다재다능한 엔지니어 4~6명과 '제품 스태프(Product Staff)' 한 명으로 구성된 '파드(Pods)'라는 미니 팀 체제로 전환하고 있습니다. 제품 스태프는 최신 도구를 적극적으로 활용하여 기존의 PM, 디자이너, 데이터 과학자가 하던 역할을 통합적으로 수행합니다.
+이번 업데이트에서는 대화 기록과 프로젝트를 사이드바에서 바로 확인할 수 있고, Chat과 Work 기록도 웹, 모바일, 데스크톱에서 서로 동기화됩니다. 다만 로컬 작업은 기존처럼 컴퓨터에만 저장됩니다.
 
-모세리는 팀 규모가 6~7명으로 축소된 것에 대해 “조율할 사람이 줄어든 것만으로도 더 빨리 움직이고 더 나은 결정을 할 때가 많아요”라고 강조했습니다.
+또한 데스크톱에서도 Chat과 Work 모드를 쉽게 전환할 수 있도록 변경됐으며, 웹과 모바일과도 동일한 방식으로 사용할 수 있습니다. Codex 모드는 기존과 동일하게 유지됩니다.</description><pubDate>Fri, 17 Jul 2026 01:33:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da4C7Tjj9qr</guid></item><item><title>LM Studio가 오픈소스 모델을 위한 AI 에이전트 'LM Studio Bionic'을 공개했습니다.
 
-이러한 변화는 "AI가 생산성을 바꾸고 높인다는 얘기"의 명확한 사례로, AI가 단순히 벤치마크 성능을 넘어서 직군 간의 경계를 허물고 기업의 의사결정 속도와 효율성을 극대화하는 방향으로 경제 생태계를 재편하고 있음을 보여줍니다.</description><pubDate>Thu, 16 Jul 2026 13:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2ssSxgu05</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=yQ_EWmtfWvQ</title><link>https://www.threads.net/@choi.openai/post/Da2su0tAggE</link><description>풀영상 :
-https://www.youtube.com/watch?v=yQ_EWmtfWvQ</description><pubDate>Thu, 16 Jul 2026 13:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2su0tAggE</guid></item><item><title>터미네이터의 스카이넷은 인간에게 총을 겨눈 AI였습니다.
-우리는 오랫동안 이걸 공상으로 넘겼죠.
-그런데 요즘, AI를 만드는 사람들이 하나둘 경...</title><link>https://www.threads.net/@choi.openai/post/Da2jljdD3v1</link><description>터미네이터의 스카이넷은 인간에게 총을 겨눈 AI였습니다.
-우리는 오랫동안 이걸 공상으로 넘겼죠.
-그런데 요즘, AI를 만드는 사람들이 하나둘 경고에 나섭니다.
+Bionic은 문서, 프레젠테이션, ...</title><link>https://www.threads.net/@choi.openai/post/Da37tZAEqnP</link><description>LM Studio가 오픈소스 모델을 위한 AI 에이전트 'LM Studio Bionic'을 공개했습니다.
 
-하사비스, 원조 격인 아모데이, 노벨상 수상자 16명, 그리고 경제가 10% 성장한다던 낙관론자 나델라까지요.
+Bionic은 문서, 프레젠테이션, PDF를 생성하고 수정할 수 있으며, 변경 내용은 자동으로 저장됩니다. 코딩 작업도 지원하며, 음성 입력은 기기에서 실시간으로 변환되어 오디오 데이터가 외부로 전송되지 않습니다.
 
-편이 다른 이들이 왜 동시에 같은 말을 하는지, 흩어진 시그널을 종합했습니다 🧵</description><pubDate>Thu, 16 Jul 2026 11:40:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2jljdD3v1</guid></item><item><title>1/ 최근 몇 주가 유독 시끄러웠습니다.
-7월 9일 코코타일로 팀이 초지능을 2040년으로 미루자는 시나리오 Plan A를 냈고, 13일 노벨상...</title><link>https://www.threads.net/@choi.openai/post/Da2jmVZj0_m</link><description>1/ 최근 몇 주가 유독 시끄러웠습니다.
-7월 9일 코코타일로 팀이 초지능을 2040년으로 미루자는 시나리오 Plan A를 냈고, 13일 노벨상 수상자 16명을 포함한 경제학자 200여 명이 대비 성명을 냈고, 14일 하사비스가 감독기구 설계안을 공개했습니다.
-이상한 건 명단입니다. 낙관론자와 비관론자, 만드는 쪽과 재는 쪽, 안전 연구자와 경제학자가 편을 가리지 않고 같은 방향을 가리켰죠.
-서로 다른 자리에 선 사람들이 같은 결론에 이르면, 각자 다른 걸 본 게 아니라 같은 걸 봤을 가능성이 큽니다. 그게 무엇인지가 이 글의 주제입니다.</description><pubDate>Thu, 16 Jul 2026 11:41:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2jmVZj0_m</guid></item><item><title>2/ 이 흐름의 원조는 앤트로픽의 아모데이입니다.
-가장 오래, 가장 일관되게 경고해 온 사람이죠.
-2024년 낙관 에세이에서조차 50~100년 ...</title><link>https://www.threads.net/@choi.openai/post/Da2jm-Wjww0</link><description>2/ 이 흐름의 원조는 앤트로픽의 아모데이입니다.
-가장 오래, 가장 일관되게 경고해 온 사람이죠.
-2024년 낙관 에세이에서조차 50~100년 치 생물학 진보가 5~10년에 압축될 수 있다고 적었고, 2025년엔 2027년경 노벨상 수상자보다 유능한 5,000만 명의 천재 국가에 맞먹는 AI가 온다고 했습니다. 초급 사무직 절반이 1~5년 안에 사라진다는 경고도 그가 먼저 꺼냈고요.
-결정적인 건 6월입니다. 그는 투명성 권고를 넘어 구속력 있는 규제로 노선을 틀며, 위험한 모델의 출시를 막을 권한이 있는 기구를 요구하고 사회 영향 연구에 2억 달러를 걸었습니다.
-말로 하던 경고를 제도 요구로 바꿨습니다.</description><pubDate>Thu, 16 Jul 2026 11:41:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2jm-Wjww0</guid></item><item><title>3/ 하사비스의 경고가 무거운 건 그가 겁이 많은 사람이 아니어서입니다.
-노벨 화학상을 받은 과학자이고 구글의 제미나이를 만드는 당사자인데, 그...</title><link>https://www.threads.net/@choi.openai/post/Da2jnjMj7GQ</link><description>3/ 하사비스의 경고가 무거운 건 그가 겁이 많은 사람이 아니어서입니다.
-노벨 화학상을 받은 과학자이고 구글의 제미나이를 만드는 당사자인데, 그가 우리는 지금 특이점의 산기슭에 서 있다고 말합니다. AGI 도달 시점도 2030년 전후, 어쩌면 2029년으로 앞당겼죠.
-7월 14일에는 증권업계를 본뜬 감독기구를 제안했습니다. 배포 30일 전에 위험 능력을 검증하고, 위험하면 업계 전체가 속도를 늦추게 하며, 연내 가동을 목표로 했습니다.
-지금의 사이버 위험은 경고 사격일 뿐이고, 몇 년 안에 생물·핵 수준 위험이 통제 밖 모델에 실릴 수 있다는 게 그의 진단입니다.</description><pubDate>Thu, 16 Jul 2026 11:41:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2jnjMj7GQ</guid></item><item><title>워런 버핏은 구글 및 AI 기업에 대해 "엄청난 자금을 투입하고 있다"고 진단했습니다.
+또한 최신 로컬 LLM을 앱에서 바로 내려받아 사용할 수 있고, 필요하면 GLM, Kimi 같은 오픈소스 모델을 클라우드에서도 이용할 수 있습니다.
 
-그는 경제적 관점에서 훌륭한 비즈니스의 조건을 "장기간...</title><link>https://www.threads.net/@choi.openai/post/Da2bkyrDthT</link><description>워런 버핏은 구글 및 AI 기업에 대해 "엄청난 자금을 투입하고 있다"고 진단했습니다.
+LM Studio Bionic은 현재 Mac과 Windows에서 사용할 수 있습니다.</description><pubDate>Fri, 17 Jul 2026 00:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da37tZAEqnP</guid></item><item><title>Sunday Robotics에서  로봇 모델 'ACT-2 Preview'를 공개했습니다.
 
-그는 경제적 관점에서 훌륭한 비즈니스의 조건을 "장기간에 걸쳐 자본 대비 높은 수익을 올릴 것으로 기대할 수 있는" 곳으로 정의했습니다.
+ACT-2는 한 번의 미세 조정(Fine-tuning...</title><link>https://www.threads.net/@choi.openai/post/Da3wIxLG1yR</link><description>Sunday Robotics에서  로봇 모델 'ACT-2 Preview'를 공개했습니다.
 
-오랜 파트너였던 찰리 멍거의 말을 인용하며, 단순히 "매력적인(sexy) 일을 하고 있다는 이유만으로" 좋은 사업이 될 수는 없으며 "실제 현금을 창출"해야 한다고 강조했습니다.
+ACT-2는 한 번의 미세 조정(Fine-tuning) 예시만으로 새로운 동작을 학습하고, 처음 보는 환경에도 적용할 수 있는 것이 특징입니다.
+31개의 실제 미확인 가정환경에서 진행한 785회의 옷 개기 테스트에서는 99.1%의 성공률을 기록했으며, 결과물 품질도 사람 수준의 평가를 받았습니다.
 
-이는 AI 산업 역시 기술적 혁신성에만 의존할 것이 아니라, 막대한 투자 자본 대비 확실한 수익성과 잉여 자본의 높은 재투자 능력을 반드시 증명해야 한다는 냉철한 투자 원칙을 보여줍니다.</description><pubDate>Thu, 16 Jul 2026 10:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2bkyrDthT</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=vaHbb3-tHQA</title><link>https://www.threads.net/@choi.openai/post/Da2bl1jDhQ8</link><description>풀영상 :
-https://www.youtube.com/watch?v=vaHbb3-tHQA</description><pubDate>Thu, 16 Jul 2026 10:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da2bl1jDhQ8</guid></item></channel></rss>
+또한 바닥에 떨어진 옷을 집거나, 아기 옷부터 8XL 셔츠까지 다양한 의류를 처리하는 모습도 함께 공개했습니다.</description><pubDate>Thu, 16 Jul 2026 22:50:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da3wIxLG1yR</guid></item><item><title>발표내용 :
+https://www.sunday.ai/blog/act-2-preview</title><link>https://www.threads.net/@choi.openai/post/Da3wP8Nk03e</link><description>발표내용 :
+https://www.sunday.ai/blog/act-2-preview</description><pubDate>Thu, 16 Jul 2026 22:50:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da3wP8Nk03e</guid></item><item><title>내가 보는 반도체 시장 하락 이유 👇🏻</title><link>https://www.threads.net/@choi.openai/post/Da3XPl3E1rg</link><description>내가 보는 반도체 시장 하락 이유 👇🏻</description><pubDate>Thu, 16 Jul 2026 19:12:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da3XPl3E1rg</guid></item><item><title>1/ 먼저 이번 주 시장부터 봅니다.
+7월 13일 SK하이닉스는 하루 15.4% 떨어졌습니다.
+14일 미국 물가가 예상 밖으로 내려간 것이 확인...</title><link>https://www.threads.net/@choi.openai/post/Da3XP--E_VF</link><description>1/ 먼저 이번 주 시장부터 봅니다.
+7월 13일 SK하이닉스는 하루 15.4% 떨어졌습니다.
+14일 미국 물가가 예상 밖으로 내려간 것이 확인되자 15일 8.8% 반등했고, 16일 다시 11.5% 급락하며 184만 원대로 내려왔습니다.
+
+삼성전자도 같은 나흘 동안 10.7% 하락, 6.3% 반등, 8.8% 하락을 오갔고, 코스피는 16일 6.4% 밀린 6,820으로 마감했습니다. 미국도 15일 물가 호재 속에 필라델피아 반도체지수가 2% 넘게 빠졌고요.
+
+하루 단위로 방향이 뒤집히는 이 폭은 정상 시장의 변동이 아닙니다. 감당 못 할 크기로 쌓인 포지션이 풀리는 구간의 전형이고, 물가 호재조차 하루를 못 버텼습니다.</description><pubDate>Thu, 16 Jul 2026 19:12:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da3XP--E_VF</guid></item><item><title>2/ 실적이 문제가 아니라는 것은 이번 주가 스스로 보여줬습니다.
+
+7월 7일 삼성전자는 2분기 잠정 영업이익 89조 4,000억 원을 발표했습...</title><link>https://www.threads.net/@choi.openai/post/Da3XQh1E15G</link><description>2/ 실적이 문제가 아니라는 것은 이번 주가 스스로 보여줬습니다.
+
+7월 7일 삼성전자는 2분기 잠정 영업이익 89조 4,000억 원을 발표했습니다.
+전년 같은 분기의 열아홉 배였지만 주가는 그날 7% 가까이 빠졌습니다.
+
+15일 ASML이 연간 전망을 다시 올린 날 미국 메모리주가 밀렸고, 16일 TSMC가 순이익 77% 증가를 발표한 날 한국 반도체도 하락했고요. 
+
+흘 사이 나온 사상 최대급 실적 세 건이 모두 매도로 끝났습니다. 시장은 이번 분기 숫자보다 다음 몇 년의 이익에 얼마를 지불할지를 낮추고 있었습니다.
+
+앞으로 실적이 예상치를 넘는지만큼 실적 발표 뒤 목표 배수와 설비투자 전망이 어떻게 바뀌는지도 봐야 합니다.</description><pubDate>Thu, 16 Jul 2026 19:12:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da3XQh1E15G</guid></item><item><title>3/ 큰 그림에서 반도체의 정점은 6월 22일이었습니다.
+
+그날 필라델피아 반도체지수는 14,655로 사상 최고를 찍었고, 코스피도 9,114로...</title><link>https://www.threads.net/@choi.openai/post/Da3XRG9ExLs</link><description>3/ 큰 그림에서 반도체의 정점은 6월 22일이었습니다.
+
+그날 필라델피아 반도체지수는 14,655로 사상 최고를 찍었고, 코스피도 9,114로 사상 최고 종가를 냈고, SK하이닉스는 2000년 11월 이후 처음으로 보통주 시가총액에서 삼성전자를 제치고 코스피 1위에 올랐습니다.
+
+세 개의 기록이 같은 날 겹쳤죠. 거기서 2주 반이 지난 7월 9일, 야후 파이낸스 집계로 반도체 약 60개 종목에서 시가총액 2조 1,000억 달러가 사라졌습니다.
+
+이후 한국의 추가 급락은 그 집계에 들어 있지도 않습니다.
+
+삼성전자는 고점에서 32%, SK하이닉스는 38%, 코스피는 25% 내려왔습니다. 축배와 정점이 같은 날이었던 겁니다.</description><pubDate>Thu, 16 Jul 2026 19:12:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da3XRG9ExLs</guid></item></channel></rss>
