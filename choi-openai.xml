@@ -1,30 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 18 Jul 2026 15:42:58 +0000</lastBuildDate><item><title>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 19 Jul 2026 02:40:29 +0000</lastBuildDate><item><title>마이크로소프트가 임베딩 모델에도 1.58비트를 들고 왔습니다.
+BitNet Embedding 0.6B이고, MTEB v2에서 67.49점을 기록...</title><link>https://www.threads.net/@choi.openai/post/Da9PksfgCRx</link><description>마이크로소프트가 임베딩 모델에도 1.58비트를 들고 왔습니다.
+BitNet Embedding 0.6B이고, MTEB v2에서 67.49점을 기록했습니다.
+가중치를 -1, 0, +1 세 값으로만 저장하는 방식입니다.
+곱셈이 덧셈과 뺄셈으로 바뀌니 GPU 없이 일반 CPU에서 두 배 넘게 빠르게 돕니다.
+보통은 학습을 마친 모델을 나중에 저비트로 압축하는데, 이건 처음부터 세 값으로 학습해서 정확도가 FP16 원본과 거의 차이가 없습니다.
+임베딩은 벡터 DB에 대량으로 쌓이는데, 출력 벡터까지 1비트급으로 줄이면 저장과 서빙 비용이 확 내려갑니다.
+엔비디아가 8B로 검색 정확도 1위를 찍은 것과는 정반대 방향인데요.
+임베딩 계층이 GPU 정확도 천장과 CPU 효율 바닥으로 갈라지고 있습니다.</description><pubDate>Sun, 19 Jul 2026 02:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9PksfgCRx</guid></item><item><title>허깅페이스 :
+https://huggingface.co/microsoft/bitnet-embedding-0.6b</title><link>https://www.threads.net/@choi.openai/post/Da9PloYgHUZ</link><description>허깅페이스 :
+https://huggingface.co/microsoft/bitnet-embedding-0.6b</description><pubDate>Sun, 19 Jul 2026 02:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9PloYgHUZ</guid></item><item><title>대런 아세모글루 MIT 경제학과 교수는 AI라는 글로벌 기술에는 전 세계적 차원의 규제가 필수적이라고 강조합니다.
+
+하지만 실리콘밸리의 거대 기...</title><link>https://www.threads.net/@choi.openai/post/Da9FMcjjFmF</link><description>대런 아세모글루 MIT 경제학과 교수는 AI라는 글로벌 기술에는 전 세계적 차원의 규제가 필수적이라고 강조합니다.
+
+하지만 실리콘밸리의 거대 기술 기업들은 중국과의 패권 경쟁을 방패 삼아 가장 최소한의 합리적인 규제조차 철저히 회피하려 한다고 비판했습니다.
+
+그는 "중국이 없었다면 실리콘밸리가 중국을 발명해야 했을 것"이라며, IT 업계가 자신들의 기술적 주도권을 방어하기 위해 극단적인 제로섬 사고방식을 조장했다고 지적했습니다.
+
+이러한 폐쇄적인 태도는 AI 혁신 생태계를 넘어, 기후변화나 팬데믹 등 다른 전 지구적 문제에 대한 국가 간 협력마저 가로막고 있습니다.
+
+아세모글루 교수는 기술 업계가 "글로벌 조정 정책 논의를 정말로 오염시켰다"고 꼬집으며, 특정 IT 산업의 통제 없는 질주가 경제와 사회 전반에 미치는 부정적 영향을 결코 과소평가해서는 안 된다고 경고했습니다.</description><pubDate>Sun, 19 Jul 2026 00:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9FMcjjFmF</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=55BnPJlHjb8</title><link>https://www.threads.net/@choi.openai/post/Da9FNIJDF7C</link><description>풀영상 :
+https://www.youtube.com/watch?v=55BnPJlHjb8</description><pubDate>Sun, 19 Jul 2026 00:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9FNIJDF7C</guid></item><item><title>구글 딥마인드 CEO 데미스 하사비스(Demis Hassabis)는 "지금 정말 급합니다. 우리는 막 바이오 리스크가 더 걱정됩니다."라며 AI...</title><link>https://www.threads.net/@choi.openai/post/Da86_LRiAV1</link><description>구글 딥마인드 CEO 데미스 하사비스(Demis Hassabis)는 "지금 정말 급합니다. 우리는 막 바이오 리스크가 더 걱정됩니다."라며 AI 발전의 시급성과 그에 따른 다층적 문제를 제기했습니다.
+
+그는 질병 치료를 위한 '알파폴드' 같은 혁신적 도구도 악의적인 행위자의 손에 들어가면 악용될 수 있다고 경고했습니다. 특히 AI 시스템이 더 자율적이고 똑똑해질 때 우리가 정한 안전선을 지키게 하는 기술적 안전성(Guardrails) 확보가 시급하다고 강조했습니다.
+
+나아가 하사비스는 기술적 문제를 해결하더라도 경제적 불평등이 올 수 있음을 지적했습니다. AI의 이익이 몇몇 기업이나 개인에게만 집중되는 것은 사회에 좋지 않은 방향이며, "사회가 어떻게 널리 이익을 얻을지"에 대한 경제적 고민과 삶의 의미에 대한 철학적 질문까지 층층이 쌓인 과제들을 지금 당장 준비해야 한다고 밝혔습니다.</description><pubDate>Sat, 18 Jul 2026 23:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da86_LRiAV1</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=HlLa5iA8lOs</title><link>https://www.threads.net/@choi.openai/post/Da87A4lCH3Z</link><description>풀영상 :
+https://www.youtube.com/watch?v=HlLa5iA8lOs</description><pubDate>Sat, 18 Jul 2026 23:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da87A4lCH3Z</guid></item><item><title>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
 스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</title><link>https://www.threads.net/@choi.openai/post/Da75wohE36Q</link><description>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</description><pubDate>Sat, 18 Jul 2026 13:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da75wohE36Q</guid></item><item><title>인공지능 분야의 석학 요슈아 벤지오(Yoshua Bengio) 교수는 AI 개발 속도에 제동을 걸어야 한다고 비유했습니다.
-
-그는 “길 없는 아...</title><link>https://www.threads.net/@choi.openai/post/Da7vcf9jcVP</link><description>인공지능 분야의 석학 요슈아 벤지오(Yoshua Bengio) 교수는 AI 개발 속도에 제동을 걸어야 한다고 비유했습니다.
-
-그는 “길 없는 아주 가파른 산속에서, 완전히 깜깜하다면 속도를 줄여야 한다”며, 안전한 경로를 확보하지 않은 채 AI 성능만을 쫓는 것은 자멸과 다름없다고 경고했습니다.
-
-나아가 그는 AI가 경제·사회 인프라에 미칠 파급력을 지적했습니다. 인터넷만 연결되면 금융, 공급망, 전력망을 마비시킬 정도로 강력해진 AI가 제3자에게 무기화될 수 있다는 진단입니다.
-
-따라서 “미국과 중국은 자신들이 만드는 AI가 국가 안보를 위협하지 않도록 협력해야 한다”며 핵무기 규제와 같은 국제적 합의를 촉구했습니다. 기업의 이익과 인간의 비이성적 심리가 기술을 잘못된 방향으로 이끌기 전에, 민주적이고 이성적인 통제 시스템을 마련해야 할 때입니다.</description><pubDate>Sat, 18 Jul 2026 12:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da7vcf9jcVP</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=0TqyKUDNjL4</title><link>https://www.threads.net/@choi.openai/post/Da7vdSyjWye</link><description>풀영상 :
-https://www.youtube.com/watch?v=0TqyKUDNjL4</description><pubDate>Sat, 18 Jul 2026 12:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da7vdSyjWye</guid></item><item><title>MIT 경제학 교수 대런 아세모글루(Daron Acemoglu)는 오픈AI나 앤트로픽 같은 기업들이 돈을 버는 것보다 더 중요한 질문이 있다고 ...</title><link>https://www.threads.net/@choi.openai/post/Da7lJLoD0-4</link><description>MIT 경제학 교수 대런 아세모글루(Daron Acemoglu)는 오픈AI나 앤트로픽 같은 기업들이 돈을 버는 것보다 더 중요한 질문이 있다고 지적합니다. 바로 AI 기술을 어떤 방향으로 개발할 것인가에 대한 문제입니다.
-
-그는 기술 발전 경로에 '자동화 중심의 방향'과 노동자에게 유리한 '노동자 친화적 방향'이 존재한다고 설명합니다. 역사 속 산업혁명 역시 소수 공장주들의 손에만 통제권을 맡겼다면 훨씬 비참한 결과를 낳았을 것입니다. 하지만 정부의 개입, 노동 조합의 활성화, 그리고 민주적인 사회적 합의를 거쳐 기술은 모두를 위한 방향으로 나아갈 수 있었습니다.
-
-아세모글루는 오늘날 가장 우려되는 점으로 세상을 바꿀 이 강력한 AI 기술의 통제권을 단 "5명에서 10명 정도의 소수에게 완전히 넘겨둔 현실"을 꼽았습니다.</description><pubDate>Sat, 18 Jul 2026 10:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da7lJLoD0-4</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=55BnPJlHjb8</title><link>https://www.threads.net/@choi.openai/post/Da7lKSxD3DN</link><description>풀영상 :
-https://www.youtube.com/watch?v=55BnPJlHjb8</description><pubDate>Sat, 18 Jul 2026 10:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da7lKSxD3DN</guid></item><item><title>구글 딥마인드의 데미스 하사비스(Demis Hassabis) CEO는 서구 사회의 비싼 에너지 비용과 의존도 문제를 시급히 해결해야 한다고 주장...</title><link>https://www.threads.net/@choi.openai/post/Da7a2GcAJKI</link><description>구글 딥마인드의 데미스 하사비스(Demis Hassabis) CEO는 서구 사회의 비싼 에너지 비용과 의존도 문제를 시급히 해결해야 한다고 주장합니다.
-
-AI 생태계에서 에너지는 지능과 직결되기 때문입니다. 그는 “말 그대로 와트가 돈, 토큰(AI 처리 단위)이 된다”라며, 비용 대비 데이터 연산 효율을 높이는 것이 미래 산업의 생존 조건이라고 분석했습니다.
-
-일각에서는 데이터 센터의 폭발적인 전력 소비가 기후 변화를 악화시킬 것이라 우려하지만, 그는 이를 ‘본질을 벗어난 걱정’으로 일축합니다.
-
-오히려 AI가 청정에너지 시대를 앞당기는 핵심 동력이 될 것으로 전망합니다. 딥마인드는 현재 핵융합, 혁신적 소재 설계, 고효율 태양광 기술 등 기후 위기를 근본적으로 해결할 과학 연구에 AI를 투입하고 있습니다.
-
-하사비스는 탄소 배출을 1~2% 줄이려는 미봉책을 넘어, 새로운 르네상스 시대를 열어 기후 문제의 판도를 완전히 바꿀 기술을 AI가 완성할 것이라 강조합니다.</description><pubDate>Sat, 18 Jul 2026 09:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da7a2GcAJKI</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=HlLa5iA8lOs</title><link>https://www.threads.net/@choi.openai/post/Da7a3HIgJ07</link><description>풀영상 :
-https://www.youtube.com/watch?v=HlLa5iA8lOs</description><pubDate>Sat, 18 Jul 2026 09:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da7a3HIgJ07</guid></item></channel></rss>
+스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</description><pubDate>Sat, 18 Jul 2026 13:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da75wohE36Q</guid></item></channel></rss>
