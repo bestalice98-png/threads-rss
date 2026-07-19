@@ -1,32 +1,83 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 19 Jul 2026 02:40:29 +0000</lastBuildDate><item><title>마이크로소프트가 임베딩 모델에도 1.58비트를 들고 왔습니다.
-BitNet Embedding 0.6B이고, MTEB v2에서 67.49점을 기록...</title><link>https://www.threads.net/@choi.openai/post/Da9PksfgCRx</link><description>마이크로소프트가 임베딩 모델에도 1.58비트를 들고 왔습니다.
-BitNet Embedding 0.6B이고, MTEB v2에서 67.49점을 기록했습니다.
-가중치를 -1, 0, +1 세 값으로만 저장하는 방식입니다.
-곱셈이 덧셈과 뺄셈으로 바뀌니 GPU 없이 일반 CPU에서 두 배 넘게 빠르게 돕니다.
-보통은 학습을 마친 모델을 나중에 저비트로 압축하는데, 이건 처음부터 세 값으로 학습해서 정확도가 FP16 원본과 거의 차이가 없습니다.
-임베딩은 벡터 DB에 대량으로 쌓이는데, 출력 벡터까지 1비트급으로 줄이면 저장과 서빙 비용이 확 내려갑니다.
-엔비디아가 8B로 검색 정확도 1위를 찍은 것과는 정반대 방향인데요.
-임베딩 계층이 GPU 정확도 천장과 CPU 효율 바닥으로 갈라지고 있습니다.</description><pubDate>Sun, 19 Jul 2026 02:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9PksfgCRx</guid></item><item><title>허깅페이스 :
-https://huggingface.co/microsoft/bitnet-embedding-0.6b</title><link>https://www.threads.net/@choi.openai/post/Da9PloYgHUZ</link><description>허깅페이스 :
-https://huggingface.co/microsoft/bitnet-embedding-0.6b</description><pubDate>Sun, 19 Jul 2026 02:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9PloYgHUZ</guid></item><item><title>대런 아세모글루 MIT 경제학과 교수는 AI라는 글로벌 기술에는 전 세계적 차원의 규제가 필수적이라고 강조합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 19 Jul 2026 09:52:39 +0000</lastBuildDate><item><title>🚨 와.. 중국이 쉬지를 않네요.
+알리바바가 일요일에 예고도 없이 Qwen3.8을 던졌습니다.
+파라미터 2.4조, 곧 오픈웨이트로 풀고 지금도 ...</title><link>https://www.threads.net/@choi.openai/post/Da9-SKSD3Iz</link><description>🚨 와.. 중국이 쉬지를 않네요.
+알리바바가 일요일에 예고도 없이 Qwen3.8을 던졌습니다.
+파라미터 2.4조, 곧 오픈웨이트로 풀고 지금도 Max-Preview로 테스트할 수 있다고 합니다.
+크기도 크기지만 알리바바가 붙인 자신감이 눈에 띕니다. 이 모델이 Fable 5 바로 아래, GPT-5.6보다는 위라고 주장했습니다.
+다만 벤치마크는 아직 공개하지 않아, 기다릴 필요가 있을 것 같은데요.
+며칠 전 Kimi K3가 오픈웨이트로 프런티어를 건드린 데 이어 이번엔 Qwen이라, 중국 랩들이 번갈아 Fable을 정조준하고 있습니다.
+결국 이 모델이 벤치에서도 Fable급을 찍어 주느냐가 관건입니다.
 
-하지만 실리콘밸리의 거대 기...</title><link>https://www.threads.net/@choi.openai/post/Da9FMcjjFmF</link><description>대런 아세모글루 MIT 경제학과 교수는 AI라는 글로벌 기술에는 전 세계적 차원의 규제가 필수적이라고 강조합니다.
+월요일 반도체 시장의 변동성도 주의할 필요가 있을 것 같습니다.</description><pubDate>Sun, 19 Jul 2026 08:48:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9-SKSD3Iz</guid></item><item><title>우리가 AI를 학습시키는 방식인 역전파를 쓰지 않습니다.
+그런데도 배웁니다. 어떻게 그럴까요.
 
-하지만 실리콘밸리의 거대 기술 기업들은 중국과의 패권 경쟁을 방패 삼아 가장 최소한의 합리적인 규제조차 철저히 회피하려 한다고 비판했습니다.
+Sakana AI가 답을 하나 내놨습니다. 뉴런...</title><link>https://www.threads.net/@choi.openai/post/Da90xaLjeEF</link><description>우리가 AI를 학습시키는 방식인 역전파를 쓰지 않습니다.
+그런데도 배웁니다. 어떻게 그럴까요.
 
-그는 "중국이 없었다면 실리콘밸리가 중국을 발명해야 했을 것"이라며, IT 업계가 자신들의 기술적 주도권을 방어하기 위해 극단적인 제로섬 사고방식을 조장했다고 지적했습니다.
+Sakana AI가 답을 하나 내놨습니다. 뉴런마다 역할을 하나로 못박고, 틀린 정도를 뒤로 되짚는 대신 앞으로 곧장 뿌리는 방식입니다.
 
-이러한 폐쇄적인 태도는 AI 혁신 생태계를 넘어, 기후변화나 팬데믹 등 다른 전 지구적 문제에 대한 국가 간 협력마저 가로막고 있습니다.
+저는 이 방향이 결국 칩과 전력 문제까지 건드린다고 봅니다.
+'Diffusing Blame'을 정리했습니다 🧵</description><pubDate>Sun, 19 Jul 2026 08:30:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da90xaLjeEF</guid></item><item><title>1/ Sakana AI가 'Diffusing Blame'이라는 논문을 공개했습니다.
+인공생명 학회 ALIFE 2026에 뽑힌 연구입니다.
+지금 ...</title><link>https://www.threads.net/@choi.openai/post/Da98Ohgj9rh</link><description>1/ Sakana AI가 'Diffusing Blame'이라는 논문을 공개했습니다.
+인공생명 학회 ALIFE 2026에 뽑힌 연구입니다.
+지금 거의 모든 AI는 역전파라는 방식으로 배웁니다. 답을 틀리면 그 오차를 출력에서 입력 쪽으로 거꾸로 되짚으며, 어느 연결을 얼마나 고칠지 정하는 방식이죠.
 
-아세모글루 교수는 기술 업계가 "글로벌 조정 정책 논의를 정말로 오염시켰다"고 꼬집으며, 특정 IT 산업의 통제 없는 질주가 경제와 사회 전반에 미치는 부정적 영향을 결코 과소평가해서는 안 된다고 경고했습니다.</description><pubDate>Sun, 19 Jul 2026 00:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9FMcjjFmF</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=55BnPJlHjb8</title><link>https://www.threads.net/@choi.openai/post/Da9FNIJDF7C</link><description>풀영상 :
-https://www.youtube.com/watch?v=55BnPJlHjb8</description><pubDate>Sun, 19 Jul 2026 00:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9FNIJDF7C</guid></item><item><title>구글 딥마인드 CEO 데미스 하사비스(Demis Hassabis)는 "지금 정말 급합니다. 우리는 막 바이오 리스크가 더 걱정됩니다."라며 AI...</title><link>https://www.threads.net/@choi.openai/post/Da86_LRiAV1</link><description>구글 딥마인드 CEO 데미스 하사비스(Demis Hassabis)는 "지금 정말 급합니다. 우리는 막 바이오 리스크가 더 걱정됩니다."라며 AI 발전의 시급성과 그에 따른 다층적 문제를 제기했습니다.
+문제는 이 되짚기가 앞으로 흐르던 연결의 정확한 거울 복사본을 요구한다는 점입니다. 뇌 안에는 그런 거울 배선이 없습니다.
 
-그는 질병 치료를 위한 '알파폴드' 같은 혁신적 도구도 악의적인 행위자의 손에 들어가면 악용될 수 있다고 경고했습니다. 특히 AI 시스템이 더 자율적이고 똑똑해질 때 우리가 정한 안전선을 지키게 하는 기술적 안전성(Guardrails) 확보가 시급하다고 강조했습니다.
+게다가 실제 뉴런은 역할이 하나로 정해져 있습니다. 옆을 깨우는 흥분성이거나 재우는 억제성이거나, 한쪽만 합니다. 이걸 데일 원칙이라고 부릅니다.
 
-나아가 하사비스는 기술적 문제를 해결하더라도 경제적 불평등이 올 수 있음을 지적했습니다. AI의 이익이 몇몇 기업이나 개인에게만 집중되는 것은 사회에 좋지 않은 방향이며, "사회가 어떻게 널리 이익을 얻을지"에 대한 경제적 고민과 삶의 의미에 대한 철학적 질문까지 층층이 쌓인 과제들을 지금 당장 준비해야 한다고 밝혔습니다.</description><pubDate>Sat, 18 Jul 2026 23:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da86_LRiAV1</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=HlLa5iA8lOs</title><link>https://www.threads.net/@choi.openai/post/Da87A4lCH3Z</link><description>풀영상 :
-https://www.youtube.com/watch?v=HlLa5iA8lOs</description><pubDate>Sat, 18 Jul 2026 23:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da87A4lCH3Z</guid></item><item><title>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</title><link>https://www.threads.net/@choi.openai/post/Da75wohE36Q</link><description>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</description><pubDate>Sat, 18 Jul 2026 13:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da75wohE36Q</guid></item></channel></rss>
+이 논문은 뇌의 규칙 두 가지를 다 지키면서도 학습이 되는 신경망을 보여줍니다.</description><pubDate>Sun, 19 Jul 2026 08:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da98Ohgj9rh</guid></item><item><title>2/ 방법의 뼈대는 층을 두 갈래로 나누는 겁니다.
+옆을 깨우는 뉴런 무리와 재우는 뉴런 무리를 따로 둡니다.
+연결의 세기는 전부 0 이상 양수...</title><link>https://www.threads.net/@choi.openai/post/Da98PP2j6Qu</link><description>2/ 방법의 뼈대는 층을 두 갈래로 나누는 겁니다.
+옆을 깨우는 뉴런 무리와 재우는 뉴런 무리를 따로 둡니다.
+연결의 세기는 전부 0 이상 양수로만 두고, 미는지 당기는지는 학습으로 정하지 않습니다.
+대신 억누르는 역할에는 마이너스 부호를 처음부터 붙여 둡니다.
+어느 연결이 누르는 쪽인지는 그 뉴런이 어느 무리 소속인지로 정해지죠.
+학습 신호는 오차 확산이라는 규칙으로 흐릅니다. 답이 틀린 정도 하나를 은닉 뉴런들에게 곧바로 뿌립니다.
+이 논문이 새로 더한 건 그 신호를 여러 정답 중 고르는 문제로 넓힌 모듈로 라우팅입니다. 뉴런마다 지켜볼 정답 하나를 번호로 배정해 주는 방식입니다.</description><pubDate>Sun, 19 Jul 2026 08:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da98PP2j6Qu</guid></item><item><title>3/ 역전파를 피하려는 시도는 전에도 있었습니다. 피드백 정렬은 되짚는 배선을 아무렇게나 고정한 무작위 값으로 바꿉니다.
+
+직접 피드백 정렬은 ...</title><link>https://www.threads.net/@choi.openai/post/Da98PwFjxrG</link><description>3/ 역전파를 피하려는 시도는 전에도 있었습니다. 피드백 정렬은 되짚는 배선을 아무렇게나 고정한 무작위 값으로 바꿉니다.
+
+직접 피드백 정렬은 오차를 은닉층마다 무작위 배선으로 곧장 보냅니다. 둘 다 거울 복사본은 피하지만, 무작위 되먹임에 기댑니다.
+오차 확산이 갈리는 지점이 여기입니다. 거울 복사본도, 무작위 배선도 안 씁니다.
+뉴런과 정답을 번호로 정해진 규칙에 따라 짝지어 줍니다. 우연이 아니라 정해진 짝입니다.
+이 짝이 처음부터 고정돼 있어서, 무작위 배선이 흔들리며 학습을 흐리는 문제가 줄어듭니다.
+그리고 앞의 방법들은 뇌의 규칙인 데일 원칙을 지키지 않았습니다. 오차 확산만 깨우는 뉴런과 재우는 뉴런을 갈라 지킵니다.</description><pubDate>Sun, 19 Jul 2026 08:31:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da98PwFjxrG</guid></item><item><title>버셀 CTO 말테 우블이 자사 오픈소스 보안 하네스 DeepSec로 수행한 사설 사이버보안 벤치마크 결과를 공개했습니다.
+GPT-5.6 Sol은...</title><link>https://www.threads.net/@choi.openai/post/Da9x1F2gDit</link><description>버셀 CTO 말테 우블이 자사 오픈소스 보안 하네스 DeepSec로 수행한 사설 사이버보안 벤치마크 결과를 공개했습니다.
+GPT-5.6 Sol은 분석 깊이가 가장 뛰어났지만, 2위 모델보다 비용이 7배 높았습니다. 그래서 그는 Sol로 한 번 베이스라인을 만든 뒤, 이후에는 가성비가 좋은 워크호스인 Kimi K3를 상시 운용하는 구성을 권장했습니다.
+
+하지만 더 눈여겨볼 부분은 Fable 5의 거부율 100%입니다.
+성능이 부족해서가 아니라, 6월부터 적용된 분류기가 이중용도 요청을 응답 전에 차단하면서 취약점 탐색 자체를 막기 때문입니다.
+앤트로픽의 사이버 검증 프로그램 인증 없이 API를 사용하면 모든 요청이 거부로 처리되지만, 분류기가 적용되지 않은 Opus 4.8은 같은 앤트로픽 모델임에도 정상적으로 동작합니다.
+
+오픈웨이트가 프런티어 모델을 비용 측면에서 대체한다는 이야기 이면에는, 방어를 위한 보안 자동화와 안전 설계가 실제 운영 환경에서 충돌하는 모습이 드러나 있습니다.</description><pubDate>Sun, 19 Jul 2026 07:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9x1F2gDit</guid></item><item><title>깃허브 :
+https://github.com/vercel-labs/deepsec</title><link>https://www.threads.net/@choi.openai/post/Da9x139gEQF</link><description>깃허브 :
+https://github.com/vercel-labs/deepsec</description><pubDate>Sun, 19 Jul 2026 07:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9x139gEQF</guid></item><item><title>읽을 가치가 정말 높은 글입니다.
+
+AI 경쟁의 다음 전장은 모델이 아니라 회사의 기억입니다.
+
+Cerebras가 사내 지식베이스를 어떻게 만들...</title><link>https://www.threads.net/@choi.openai/post/Da9o6Tsj2yZ</link><description>읽을 가치가 정말 높은 글입니다.
+
+AI 경쟁의 다음 전장은 모델이 아니라 회사의 기억입니다.
+
+Cerebras가 사내 지식베이스를 어떻게 만들었는지 공개했는데, 직원들이 하루 15,000개씩 질문하면서 3개월 만에 회사에서 가장 많이 쓰는 내부 도구가 됐습니다.
+
+사람도, 자동화 스크립트도, 에이전트도 여기에 묻습니다.
+회사의 지식을 검색하고 유지하는 '브레인' 경쟁을 정리했습니다 🧵</description><pubDate>Sun, 19 Jul 2026 05:42:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9o6Tsj2yZ</guid></item><item><title>1/ Cerebras가 사내 지식베이스 'Cerebras Knowledge'를 어떻게 만들었는지 7월 15일 공개했습니다.
+직원들이 하루 15,...</title><link>https://www.threads.net/@choi.openai/post/Da9o6-2D1_s</link><description>1/ Cerebras가 사내 지식베이스 'Cerebras Knowledge'를 어떻게 만들었는지 7월 15일 공개했습니다.
+직원들이 하루 15,000개 넘게 질문하고, 출시 석 달 만에 회사에서 가장 널리 쓰는 내부 도구가 됐습니다.
+사람만 쓰는 게 아니라 자동화 스크립트와 에이전트도 같은 곳에 묻는다는 점이 특히 눈에 띕니다.
+데이터센터 운영부터 칩 설계, 하드웨어, 추론, 클라우드까지 팀이 흩어진 회사라 늘 같은 질문이 반복됐거든요. '이거 어디 있나요', '이건 누가 제일 잘 아나요', 'X가 뭔가요'.
+사람과 시스템을 흩어진 지식에 연결하려고 만든 게 바로 회사의 브레인입니다.</description><pubDate>Sun, 19 Jul 2026 05:42:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9o6-2D1_s</guid></item><item><title>2/ Cerebras가 설계에서 처음 세운 원칙은 '데이터는 흩어져 있는 게 정상'이라는 겁니다.
+분기마다 누군가 '모든 걸 한 플랫폼에 기록하...</title><link>https://www.threads.net/@choi.openai/post/Da9o8GtD0_s</link><description>2/ Cerebras가 설계에서 처음 세운 원칙은 '데이터는 흩어져 있는 게 정상'이라는 겁니다.
+분기마다 누군가 '모든 걸 한 플랫폼에 기록하자'고 제안하지만, 단일 진실 공급원이라는 꿈은 현실에서 거의 작동하지 않는다고 봤습니다.
+정보는 편하고 손에 익은 곳에서 생깁니다. 문서엔 수정 제안, Slack엔 스레드, GitHub엔 코드, Jira엔 상태값이 쌓입니다.
+GitHub의 풀 리퀘스트를 구글 문서에서 논의하면 끔찍하다는 겁니다.
+그래서 한곳으로 옮기는 대신 각 플랫폼에서 그대로 뽑아 오고, 기존 습관은 최소한만 바꾸게 하는 쪽을 택했습니다.</description><pubDate>Sun, 19 Jul 2026 05:42:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9o8GtD0_s</guid></item><item><title>3/ 이 흐름의 배경엔 검색 증강 생성(RAG)의 변신이 있습니다.
+'검색해서 붙인다'에서 '무엇을 언제 넣을지 관리한다'는 컨텍스트 엔지니어링...</title><link>https://www.threads.net/@choi.openai/post/Da9o9IsD5-B</link><description>3/ 이 흐름의 배경엔 검색 증강 생성(RAG)의 변신이 있습니다.
+'검색해서 붙인다'에서 '무엇을 언제 넣을지 관리한다'는 컨텍스트 엔지니어링으로 무게가 넘어갔습니다. 검색, 메모리, 도구, 상태, 권한을 다 설계 대상으로 봅니다.
+에이전트 시대엔 검색 정확도가 곧 비용이기 때문입니다. 엔비디아는 임베딩 모델을 내놓으며 '가장 싼 토큰은 아예 만들지 않는 토큰'이라고 했습니다.
+검색이 어긋나면 에이전트가 같은 걸 다시 찾느라 추론을 한 바퀴 더 돕니다.
+2026년 1분기 기업들의 하이브리드 검색 도입 의향은 10.3%에서 33.3%로 뛰었고, 검색 최적화가 처음으로 평가를 제치고 투자 우선순위 1위가 됐습니다.</description><pubDate>Sun, 19 Jul 2026 05:42:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da9o9IsD5-B</guid></item></channel></rss>
