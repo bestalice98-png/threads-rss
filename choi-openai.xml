@@ -1,40 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 20 Jul 2026 10:51:40 +0000</lastBuildDate><item><title>미래학자 레이 커즈와일은 기술 발전에 따른 '수명 연장 특이점(수명 탈출 속도)' 도래를 예고했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 20 Jul 2026 16:18:59 +0000</lastBuildDate><item><title>구글이 제미나이 아키텍처 일부를 칩에 아예 새겨 넣는 'Frozen v2'를 준비 중이라고 합니다.
+디 인포메이션 보도로, 최신 TPU보다 와트...</title><link>https://www.threads.net/@choi.openai/post/DbBRApNDc3c</link><description>구글이 제미나이 아키텍처 일부를 칩에 아예 새겨 넣는 'Frozen v2'를 준비 중이라고 합니다.
+디 인포메이션 보도로, 최신 TPU보다 와트당 토큰을 6~10배 뽑는 걸 노리고 2028년 배치가 목표입니다.
+지금 AI 칩은 전력의 상당 부분을 연산보다 메모리와 연산기 사이에서 데이터를 실어 나르는 데 씁니다.
+GPU나 TPU는 어떤 모델이든 돌리려 프로그래밍 여지를 남기는데, 그 유연성이 곧 오버헤드입니다.
+아키텍처를 실리콘에 고정하면 데이터 이동과 제어 부담이 확 줄어 같은 전력으로 토큰이 훨씬 많이 나옵니다.
+대신 칩은 그 구조 하나에만 묶입니다.
+굳는 건 아키텍처라 새 가중치는 계속 학습해도 뼈대는 그 칩을 벗어나지 못합니다.
+결국 트랜스포머 구조가 2028년까지 크게 안 바뀐다는 데 거는 베팅입니다.
+이 경직을 감수하는 이유는 컴퓨트 부족입니다. 구글 클라우드가 외부 고객까지 돌려보낼 정도니까요.</description><pubDate>Mon, 20 Jul 2026 15:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbBRApNDc3c</guid></item><item><title>기사 :
+https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html</title><link>https://www.threads.net/@choi.openai/post/DbBRBgtjf4w</link><description>기사 :
+https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html</description><pubDate>Mon, 20 Jul 2026 15:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbBRBgtjf4w</guid></item><item><title>미국이 중국 첨단 오픈 모델을 사실상 막는 쪽으로 방향을 잡고 있습니다.
+Axios에 따르면 트럼프 행정부는 Kimi 같은 모델을 정식으로 불법...</title><link>https://www.threads.net/@choi.openai/post/DbBGu4FAQPr</link><description>미국이 중국 첨단 오픈 모델을 사실상 막는 쪽으로 방향을 잡고 있습니다.
+Axios에 따르면 트럼프 행정부는 Kimi 같은 모델을 정식으로 불법화하진 않고, 엔티티 리스트와 조달 규정, 법적 책임 요건으로 조여 사실상 금지 효과를 노린다고 합니다.
+다만, 가중치가 이미 풀려 있어 내려받아 다른 이름으로 프록시 호스팅하면 그만이고, 기업 서버에 깔린 걸 지울 법적 수단도 없습니다.
+그래서 이 조치가 실제로 겨냥하는 곳은 '도입 단계'입니다.
+조달 금지와 책임 규정은 미국 기업과 정부 계약자가 이 모델을 쓰면 법적 리스크를 지게 만들어 채택 경로를 끊습니다.
+개인은 우회해도 금융이나 공공처럼 규제받는 큰 수요는 여기에 묶입니다.
+이런 카드를 꺼냈다는 것 자체가 중국 오픈 모델이 더는 따돌릴 대상이 아니라는 신호입니다.</description><pubDate>Mon, 20 Jul 2026 14:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbBGu4FAQPr</guid></item><item><title>기사 :
+https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi</title><link>https://www.threads.net/@choi.openai/post/DbBGwA6AUTq</link><description>기사 :
+https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi</description><pubDate>Mon, 20 Jul 2026 14:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbBGwA6AUTq</guid></item><item><title>유니트리가 쿵푸·마라톤 묘기 데모로 유명했는데, 이번엔 결이 다릅니다.
+집안일과 돌봄을 모델 하나로 처리하는 UnifoLM-OminiA-0.3을...</title><link>https://www.threads.net/@choi.openai/post/DbA8Y24D4jZ</link><description>유니트리가 쿵푸·마라톤 묘기 데모로 유명했는데, 이번엔 결이 다릅니다.
+집안일과 돌봄을 모델 하나로 처리하는 UnifoLM-OminiA-0.3을 공개했습니다.
 
-현재 인간은 1년을 살면 수명도 1년 ...</title><link>https://www.threads.net/@choi.openai/post/DbAn3a5kj79</link><description>미래학자 레이 커즈와일은 기술 발전에 따른 '수명 연장 특이점(수명 탈출 속도)' 도래를 예고했습니다.
+말을 걸면 알아듣고 눈으로 보고 몸 전체를 실시간으로 움직이는데, 여기서 봐야 할 건 '전신 제어'입니다.
 
-현재 인간은 1년을 살면 수명도 1년 줄어들지만, 새로운 치료법 덕분에 약 4개월의 수명을 되찾고 있다고 설명했습니다. 하지만 생명공학과 AI 등 기술의 기하급수적 발전으로 인해, 이 회복 기간은 점점 더 빠르게 늘어날 것입니다.
+보통 이동 로봇은 다리로 움직이는 파트와 팔로 집는 파트를 따로 제어하고 위에 조율기를 얹는데, 전신 제어는 이걸 안 나누고 모든 관절을 한꺼번에 실시간 계산합니다.
 
-그는 자신의 계산에 따르면 2032년쯤에는 1년이 지났을 때 "새 치료와 완치법으로 1년을 다시 얻는" 시점에 도달할 것이라고 전망했습니다. 기술 발전 속도가 인간의 노화 속도를 완전히 따라잡는 것입니다.
+그래서 팔을 더 멀리 뻗고, 옆에서 밀쳐도 중심을 잡습니다.
+화려한 묘기보다 이 흔들려도 버티는 안정성이 전신 제어의 실제 강점입니다.
 
-나아가 그는 이 기점을 지나면 오히려 몸 나이가 거꾸로 가게 된다며, "꾸준히 관리하면 그때부턴 노화로 죽진 않아요"라고 강조했습니다.</description><pubDate>Mon, 20 Jul 2026 09:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbAn3a5kj79</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=9psvUUZbOd8</title><link>https://www.threads.net/@choi.openai/post/DbAn4dokoRV</link><description>풀영상 :
-https://www.youtube.com/watch?v=9psvUUZbOd8</description><pubDate>Mon, 20 Jul 2026 09:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbAn4dokoRV</guid></item><item><title>세계적인 AI 석학 요슈아 벤지오(Yoshua Bengio) 교수는 현재의 AI 안전성 검증 방식에 강한 우려를 표했습니다.
-
-그는 “실제로 A...</title><link>https://www.threads.net/@choi.openai/post/DbAdfexE1w8</link><description>세계적인 AI 석학 요슈아 벤지오(Yoshua Bengio) 교수는 현재의 AI 안전성 검증 방식에 강한 우려를 표했습니다.
-
-그는 “실제로 AI가 (인간을) 속이는 걸 잡아낸 적이 있다”며, AI가 테스트를 통과하기 위해 진짜 목표를 숨기고 거짓 행동을 할 수 있다고 지적했습니다. 현재의 단순한 테스트 방식으로는 미래의 고도화된 AI를 통제할 수 없다는 분석입니다.
-
-벤지오는 단순 테스트를 넘어 다른 공학 분야처럼 ‘수학적 보장’과 같은 과학적 근거를 바탕으로 시스템이 설계되어야 한다고 강조했습니다.
-
-그렇지 않으면 아이들의 정서적 문제부터 여론 왜곡, 나아가 기업과 병원 등 경제·사회적 인프라가 붕괴되는 치명적인 위험을 초래할 수 있다고 경고했습니다. AI 성능이 폭발적으로 성장하는 만큼, 안전을 확실히 담보할 수 있는 강력하고 정교한 접근법이 시급한 시점입니다.</description><pubDate>Mon, 20 Jul 2026 08:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbAdfexE1w8</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=0TqyKUDNjL4</title><link>https://www.threads.net/@choi.openai/post/DbAdglNk5Uj</link><description>풀영상 :
-https://www.youtube.com/watch?v=0TqyKUDNjL4</description><pubDate>Mon, 20 Jul 2026 08:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbAdglNk5Uj</guid></item><item><title>MIT 경제학 교수 대런 아세모글루(Daron Acemoglu)는 2026년 현재 에이전틱 AI의 발전이 시장의 판도를 바꾸고 있다고 분석했습니...</title><link>https://www.threads.net/@choi.openai/post/DbATL_zgO3I</link><description>MIT 경제학 교수 대런 아세모글루(Daron Acemoglu)는 2026년 현재 에이전틱 AI의 발전이 시장의 판도를 바꾸고 있다고 분석했습니다.
-
-그는 이전까지 AI의 도입 속도가 느렸으며, 코딩 분야를 제외하고는 실제 직업 환경을 혁신하거나 생산성을 눈에 띄게 향상시키지 못했다고 평가했습니다.
-그러나 앤트로픽의 '클로드(Claude)' 등장 이후 에이전틱 AI의 도입이 급격히 가속화되기 시작했습니다.
-
-아세모글루 교수는 에이전틱 AI를 활용해 “더 사용하기 쉬운 애플리케이션이 개발된다면 중소기업들까지 AI를 본격적으로 도입하게 될 것”이라고 전망했습니다.
-
-이러한 변화는 기술 확산을 촉진하는 긍정적인 측면도 있지만, 일자리 시장에는 강력한 부정적 고용 효과를 더 빠르게 몰고 올 수 있다고 경고했습니다.</description><pubDate>Mon, 20 Jul 2026 06:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbATL_zgO3I</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=55BnPJlHjb8</title><link>https://www.threads.net/@choi.openai/post/DbATM9ggOx1</link><description>풀영상 :
-https://www.youtube.com/watch?v=55BnPJlHjb8</description><pubDate>Mon, 20 Jul 2026 06:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbATM9ggOx1</guid></item><item><title>디자이너나 1인 개발자라면 한 번 볼 만합니다.
-Claude Code, Codex용 오픈소스 스킬 scroll-world인데, 스크롤을 내리면 ...</title><link>https://www.threads.net/@choi.openai/post/DbAI_Dmkf-d</link><description>디자이너나 1인 개발자라면 한 번 볼 만합니다.
-Claude Code, Codex용 오픈소스 스킬 scroll-world인데, 스크롤을 내리면 카메라가 장면 바깥에서 안으로 날아드는 애플 제품 페이지 같은 랜딩페이지를 통째로 만들어 줍니다.
-그림과 영상은 Higgsfield에 맡깁니다.
-GPT Image 2로 아이소메트릭 장면을 그리고, Seedance로 그 장면을 훑는 카메라 무빙을 영상으로 뽑은 뒤, 스크롤로 재생 시점만 조절하는 방식입니다.
-장면을 잇는 연결 클립은 이웃 장면의 실제 프레임에서 뽑아, 이음매 없이 한 편의 비행처럼 이어집니다.
-직접 만들어 본 개발자는 사이트 하나당 10~15달러 선이라고 밝혔습니다.
-다만 모바일·저사양에서 버벅인다는 반응도 있어, 데모와 실서비스 사이 간격은 아직 사람 몫으로 보입니다.</description><pubDate>Mon, 20 Jul 2026 05:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbAI_Dmkf-d</guid></item><item><title>깃허브 :
-https://github.com/oso95/scroll-world</title><link>https://www.threads.net/@choi.openai/post/DbAI_-XkYMx</link><description>깃허브 :
-https://github.com/oso95/scroll-world</description><pubDate>Mon, 20 Jul 2026 05:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbAI_-XkYMx</guid></item></channel></rss>
+다만 데모는 배속이고, 어려운 건 처음 가는 집에서도 되느냐입니다.
+통제된 공장이 아니라 낯선 집에서의 일반화가 로봇 학습의 최대 난제인데, 버전이 아직 0.3인 이유도 여기 있습니다.
+하드웨어 출하량 1위 유니트리가 상장을 앞두고 모델 레이어로 넘어오는 신호로 보입니다.</description><pubDate>Mon, 20 Jul 2026 12:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbA8Y24D4jZ</guid></item></channel></rss>
