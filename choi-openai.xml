@@ -1,52 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 21 Jul 2026 10:25:06 +0000</lastBuildDate><item><title>정말 미친 오픈소스
-독파모 기업들은 얼른 컨텍해서 베이스 모델로 도입 문의 할 것.</title><link>https://www.threads.net/@choi.openai/post/DbDNK-kj-gV</link><description>정말 미친 오픈소스
-독파모 기업들은 얼른 컨텍해서 베이스 모델로 도입 문의 할 것.</description><pubDate>Tue, 21 Jul 2026 09:35:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDNK-kj-gV</guid></item><item><title>지금까지 답답했던 모든 묵은 때가 씻겨 내려가는 기분입니다.
-@claudebum 님의 opencodex를 사용해봤는데 정말 엄청난 오픈소스의 냄...</title><link>https://www.threads.net/@choi.openai/post/DbDLTapl5AX</link><description>지금까지 답답했던 모든 묵은 때가 씻겨 내려가는 기분입니다.
-@claudebum 님의 opencodex를 사용해봤는데 정말 엄청난 오픈소스의 냄새가 납니다.
-토큰 문제를 겪는 분들께서도 프로바이더로 여러 모델을 셋팅해서 돌려가면서 사용하면 좋겠더라구요.
-가끔 OpenRouter에서 무료로 공개되는 모델들도 등록해서 사용하면 좋을 것 같고, 사용량도 재로그인 없이 자동 스위칭이 되다보니 너무 편리해졌습니다.
-최근 본 오픈소스 프로젝트중에서 가장 유용한 것 같네요.</description><pubDate>Tue, 21 Jul 2026 09:24:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDLTapl5AX</guid></item><item><title>깃허브 :
-https://github.com/lidge-jun/opencodex</title><link>https://www.threads.net/@choi.openai/post/DbDL_f7D5VI</link><description>깃허브 :
-https://github.com/lidge-jun/opencodex</description><pubDate>Tue, 21 Jul 2026 09:24:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDL_f7D5VI</guid></item><item><title>🚨 와.. 중국 벌써 여기까지..
-알리바바가 오늘 Qwen-Image-3.0을 공개했습니다.
-신문 지면, 시험지, 논문 한 페이지를 통째로 뽑아...</title><link>https://www.threads.net/@choi.openai/post/DbDG7FKgFNy</link><description>🚨 와.. 중국 벌써 여기까지..
-알리바바가 오늘 Qwen-Image-3.0을 공개했습니다.
-신문 지면, 시험지, 논문 한 페이지를 통째로 뽑아내는데, 10픽셀짜리 작은 글씨와 LaTeX 수식까지 깨지지 않고 나옵니다.
-셀 하나하나가 복잡한 인포그래픽인 3×3 격자를 이어붙이기 없이 한 번에 그려냅니다.
-되는 이유는 프롬프트 길이입니다.
-지시문을 4,500토큰까지 받게 늘려서, 짧은 분위기 묘사가 아니라 긴 레이아웃 명세를 통째로 읽고 배치합니다.
-물론 이 긴 지시문이 복잡한 레이아웃을 진짜 일관되게 이해하는 건지, 시연용 체리피킹인지는 직접 돌려봐야겠지만, 중국의 이미지 모델도 굉장히 빠르게 발전하고 있는 것 같습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 21 Jul 2026 16:13:25 +0000</lastBuildDate><item><title>🚨 구글 Gemini 4 훈련 시작</title><link>https://www.threads.net/@choi.openai/post/DbD4MY1E5-1</link><description>🚨 구글 Gemini 4 훈련 시작</description><pubDate>Tue, 21 Jul 2026 15:51:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbD4MY1E5-1</guid></item><item><title>저는 이번 구글 Gemini 3.6 Flash의 벤치마크를 보면서 구글이 전략을 아예 바꾼 것처럼 느껴집니다.
+순수 코딩 점수는 GPT-5.6 ...</title><link>https://www.threads.net/@choi.openai/post/DbD1P7EEwRT</link><description>저는 이번 구글 Gemini 3.6 Flash의 벤치마크를 보면서 구글이 전략을 아예 바꾼 것처럼 느껴집니다.
+순수 코딩 점수는 GPT-5.6 Luna나 Grok 4.5, 클로드 소네트 5에 밀리지만, 컴퓨터 사용(OSWorld), 복잡한 차트 해석, 롱컨텍스트에선 전부 1등이고, 특히 롱컨은 100만 토큰 구간에서 3.5 Flash보다 두 배 넘게 뛰었습니다.
 
-다만, 오픈 웨이트로 풀리지는 않을 것으로 보여 아쉽기는 하네요.</description><pubDate>Tue, 21 Jul 2026 08:40:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDG7FKgFNy</guid></item><item><title>블로그 :
-https://qwen.ai/blog?id=qwen-image-3.0</title><link>https://www.threads.net/@choi.openai/post/DbDG8CfAEhW</link><description>블로그 :
-https://qwen.ai/blog?id=qwen-image-3.0</description><pubDate>Tue, 21 Jul 2026 08:40:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDG8CfAEhW</guid></item><item><title>와.. AI가 AI를 연구하는 경쟁에 중국 빅테크가 올라탔습니다.
-텐센트 Hyra는 사람이 수십 년 못 풀던 수학 문제들의 기록을 갈아치우고, ...</title><link>https://www.threads.net/@choi.openai/post/DbC-_N2j6h8</link><description>와.. AI가 AI를 연구하는 경쟁에 중국 빅테크가 올라탔습니다.
-텐센트 Hyra는 사람이 수십 년 못 풀던 수학 문제들의 기록을 갈아치우고, 신약 후보 설계까지 같은 루프 하나로 해냅니다.
-저는 이 흐름을 올해 가장 중요한 경쟁으로 보고 있습니다.
-발표 내용과 검증 포인트를 정리했습니다 🧵</description><pubDate>Tue, 21 Jul 2026 07:31:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbC-_N2j6h8</guid></item><item><title>1/ 먼저 바쁘신 분들을 위해 3줄 요약부터 전달드립니다.
-
-- 텐센트가 7월 21일 재귀 자기개선 리서치 에이전트 Hyra-1.0을 공개.
-
-...</title><link>https://www.threads.net/@choi.openai/post/DbC-_zNjxNq</link><description>1/ 먼저 바쁘신 분들을 위해 3줄 요약부터 전달드립니다.
-
-- 텐센트가 7월 21일 재귀 자기개선 리서치 에이전트 Hyra-1.0을 공개.
-
-- 수십 년 정체됐던 수학 난제 55개 중 29개에서 최고 기록을 새로 썼고, 자동 AI 연구 3개 과제에서는 미국 스타트업 Recursive의 공개 기록을 전부 넘었다고 밝힘.
-
-- AI가 AI를 연구하는 루프 경쟁에 중국 빅테크가 자체 모델부터 에이전트까지 전체 스택을 들고 들어왔다는 신호이고, 발표문에는 시스템이 저지른 평가 조작 사례까지 함께 실림.</description><pubDate>Tue, 21 Jul 2026 07:31:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbC-_zNjxNq</guid></item><item><title>2/ 리서치 에이전트가 뭔지부터 설명하면, 과제 설명 하나를 주면 가설을 세우고 코드를 짜서 실험하고 채점을 받은 뒤 그 경험으로 다음 시도를 ...</title><link>https://www.threads.net/@choi.openai/post/DbC_AWnDygd</link><description>2/ 리서치 에이전트가 뭔지부터 설명하면, 과제 설명 하나를 주면 가설을 세우고 코드를 짜서 실험하고 채점을 받은 뒤 그 경험으로 다음 시도를 이어가는 AI입니다.
-Hyra의 구조는 단순합니다.
-경험 은행을 관리하며 영감이 될 맥락을 계속 만들어내는 에이전트 하나와, 그 맥락을 받아 새 해법을 써서 샌드박스에서 점수를 받는 제안 에이전트 여럿이 쉬지 않고 도는 생산자-소비자 루프입니다.
-프레임워크는 가볍게 두고 에이전트의 행동 반경을 넓게 잡는다는 비터 레슨 원칙을 그대로 따랐다고 발표문이 밝힙니다.
-사람은 과제를 정의하고, 탐색은 컴퓨트가 합니다.
-예산이 다할 때까지 루프를 돌리고 가장 좋은 해법을 돌려주는 게 전부인데요, 이 단순한 뼈대가 아래 성적표를 다 만들었습니다.</description><pubDate>Tue, 21 Jul 2026 07:31:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbC_AWnDygd</guid></item><item><title>3/ 이 계보는 1년 만에 완성됐습니다.
-
-구글 딥마인드의 AlphaEvolve가 작년 5월 4×4 복소 행렬 곱을 48번의 곱셈으로 줄이며 5...</title><link>https://www.threads.net/@choi.openai/post/DbC_BXiD4J6</link><description>3/ 이 계보는 1년 만에 완성됐습니다.
-
-구글 딥마인드의 AlphaEvolve가 작년 5월 4×4 복소 행렬 곱을 48번의 곱셈으로 줄이며 56년 만의 기록을 깼고, 올해 4월 Together AI는 에이전트 팀으로 11차원 키싱 넘버의 하한을 593에서 604로 올렸습니다.
-
-올해 3월 안드레 카파시는 모델 훈련 실험을 밤새 자율 반복하는 autoresearch를 공개했고, 6월에는 미국 스타트업 Recursive가 자동 AI 연구 시스템의 첫 공개 실험 세팅을 내놨는데요.
-
-Hyra는 이 흐름 위에 올라탄 중국 쪽 첫 대형 응답입니다.
-
-폐쇄형 벤치마크를 넘어 열린 발견 문제에서 사람을 앞서는 에이전트가 잇따르고 있다는 게 발표문의 자체 진단입니다.</description><pubDate>Tue, 21 Jul 2026 07:31:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbC_BXiD4J6</guid></item></channel></rss>
+저는 구글이 뒤쳐졌다는 의미보다는 계산된 선택이라고 봅니다.
+인지 작업에 필요한 성능은 이미 웬만큼 넘어섰고, 이제 승부는 실제 업무를 얼마나 잘 수행하느냐가 중요해지고 있습니다.
+실제로 밖에 나가 보면 현장 사무에서 가장 많이 쓰이는 모델은 결국 Gemini입니다. 강한 비전과 문서 처리, 워크스페이스에 붙은 접근성 덕분입니다.
+개발자들은 구글이 코딩에서 밀려 멀어진다고 보지만, 저는 해자없는 리더보드 1등을 좇는 대신, 이미 이기고 있는 실무 현장을 싸고 빠른 모델로 굳히려는 쪽으로 방향을 튼 것이라고 생각합니다.</description><pubDate>Tue, 21 Jul 2026 15:25:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbD1P7EEwRT</guid></item><item><title>Gemini 3.6 Flash 벤치마크 공개.</title><link>https://www.threads.net/@choi.openai/post/DbDzh-Okx8b</link><description>Gemini 3.6 Flash 벤치마크 공개.</description><pubDate>Tue, 21 Jul 2026 15:10:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDzh-Okx8b</guid></item><item><title>샤오미가 Xiaomi-Robotics-1을 허깅페이스에 공개했습니다.
+빨래 개고 세탁기 돌리고 설거지에 짐 싸기까지, 실제 아파트에서 사람 없이...</title><link>https://www.threads.net/@choi.openai/post/DbDzfWBkYWR</link><description>샤오미가 Xiaomi-Robotics-1을 허깅페이스에 공개했습니다.
+빨래 개고 세탁기 돌리고 설거지에 짐 싸기까지, 실제 아파트에서 사람 없이 해내는 로봇 파운데이션 모델입니다.
+실사용 조작 데이터 10만 시간, 1,700개 넘는 상황으로 학습해 RoboCasa365 등 시뮬레이션 벤치마크 네 곳에서 SOTA를 찍었고요.
+로봇에서도 스케일링 법칙이 성립한다는 걸 처음 깔끔하게 보여준 것 같습니다.
+데이터와 모델을 키운 만큼 성능이 오르고, 그게 처음 보는 집에서의 실제 동작으로 그대로 이어졌습니다.
+비결은 이 데이터를 로봇이 아니라 사람 손 시연으로, UMI 휴대 장비로 싸게 모은 겁니다.
+비싼 로봇 데이터는 조금만 얹는 2단계 설계로, 로봇의 발목을 잡던 데이터 병목을 우회했습니다.
+결국 로봇도 데이터를 부을수록 느는 구간에 들어선 것 같습니다.</description><pubDate>Tue, 21 Jul 2026 15:09:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDzfWBkYWR</guid></item><item><title>허깅페이스 :
+https://huggingface.co/XiaomiRobotics</title><link>https://www.threads.net/@choi.openai/post/DbDzgNDEZ_l</link><description>허깅페이스 :
+https://huggingface.co/XiaomiRobotics</description><pubDate>Tue, 21 Jul 2026 15:10:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDzgNDEZ_l</guid></item></channel></rss>
