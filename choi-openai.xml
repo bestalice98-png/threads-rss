@@ -1,48 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 22 Jul 2026 10:24:38 +0000</lastBuildDate><item><title>반도체는 고점이라고 생각한다.</title><link>https://www.threads.net/@choi.openai/post/DbFz5AOk__F</link><description>반도체는 고점이라고 생각한다.</description><pubDate>Wed, 22 Jul 2026 09:51:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFz5AOk__F</guid></item><item><title>1/ 반도체는 지금 사상 최대 실적을 내는데, 주가는 그 실적을 외면합니다.
-TSMC는 2분기 매출 402억 달러로 1년 전보다 36% 늘었고,...</title><link>https://www.threads.net/@choi.openai/post/DbFz5ZXE66P</link><description>1/ 반도체는 지금 사상 최대 실적을 내는데, 주가는 그 실적을 외면합니다.
-TSMC는 2분기 매출 402억 달러로 1년 전보다 36% 늘었고, 매출총이익률 67.7%에 매출의 66%가 AI와 고성능 컴퓨팅에서 나왔습니다.
-그런데 마이크론, 삼성전자, SK하이닉스는 7월 들어 고점 대비 15%에서 20% 넘게 빠지며 약세장에 들어섰습니다.
-좋은 실적이 나오는데 주가가 먼저 빠질 때, 시장은 보통 그다음 사이클을 앞당겨 반영합니다.
-저는 이 자리를 반도체의 단기 고점으로 봅니다.
-정점이라 단정하는 게 아니라, 지금 값이 다음 몇 분기를 지나치게 당겨 왔다고 보는 겁니다.</description><pubDate>Wed, 22 Jul 2026 09:52:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFz5ZXE66P</guid></item><item><title>2/ 모델 경쟁은 이제 성능이 아니라 지능당 가격에서 갈립니다.
-프런티어가 인간이 하는 인지 작업의 대부분을 이미 처리하게 되자, 승부처가 같은...</title><link>https://www.threads.net/@choi.openai/post/DbFz6bmEyiE</link><description>2/ 모델 경쟁은 이제 성능이 아니라 지능당 가격에서 갈립니다.
-프런티어가 인간이 하는 인지 작업의 대부분을 이미 처리하게 되자, 승부처가 같은 지능을 얼마나 싸게 주느냐로 옮겨갔기 때문입니다.
-이번 주 Poolside가 공개한 Laguna S 2.1은 파라미터 1,180억짜리 오픈웨이트인데, 열 배 넘게 큰 1조 6천억 모델을 코딩 벤치에서 앞섰고 엔비디아 데스크톱 한 대에서 돕니다.
-며칠 전 문샷의 Kimi K3는 2조 8천억 규모로 전체 가중치를 27일에 통째로 풀겠다고 예고했습니다.
-같은 지능이 싸지고 어디서나 돌기 시작하면, 그 지능을 굴리려 비싸게 사 둔 칩의 수명도 함께 짧아집니다.</description><pubDate>Wed, 22 Jul 2026 09:52:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFz6bmEyiE</guid></item><item><title>3/ 그런데 이 경쟁을 실제로 지켜보는 대중은 얼마 되지 않습니다.
-센서타워 집계로 5월 소비자 AI 시장은 챗GPT 46.4%, 제미나이 27...</title><link>https://www.threads.net/@choi.openai/post/DbFz7UPk9z2</link><description>3/ 그런데 이 경쟁을 실제로 지켜보는 대중은 얼마 되지 않습니다.
-센서타워 집계로 5월 소비자 AI 시장은 챗GPT 46.4%, 제미나이 27.7%, 클로드 10.3%였습니다.
-월 사용자로도 챗GPT가 11억 명으로 압도적이지만, 그 아래 순위 다툼은 대부분 어느 앱이 기본으로 깔렸느냐로 갈립니다.
-챗GPT 점유율이 처음으로 절반 아래로 내려온 자리를 채운 제미나이도, 안드로이드에선 73%가 쓰지만 아이폰에선 49%에 그칩니다.
-능동적으로 고른 게 아니라 깔려 있으니 쓰는 것이고, 클로드가 뭔지 모르는 사람은 여전히 많습니다.</description><pubDate>Wed, 22 Jul 2026 09:52:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFz7UPk9z2</guid></item><item><title>독파모에서 경쟁력 있는 오픈웨이트가 잇따라 나오고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 22 Jul 2026 16:12:39 +0000</lastBuildDate><item><title>코어위브가 엔비디아 베라 루빈 NVL72의 첫 성능 실측을 공개했습니다.
+응답 속도를 같은 수준으로 맞춰 딥시크 R1을 돌리니, 블랙웰 GB20...</title><link>https://www.threads.net/@choi.openai/post/DbGamrICijA</link><description>코어위브가 엔비디아 베라 루빈 NVL72의 첫 성능 실측을 공개했습니다.
+응답 속도를 같은 수준으로 맞춰 딥시크 R1을 돌리니, 블랙웰 GB200보다 메가와트당 토큰이 10배 나왔다고 밝혔습니다.
+성능을 재는 단위를 FLOPs에서 '메가와트당 토큰'으로 옮긴 게 눈에 띕니다.
 
-업스테이지가 Solar Open 2를 오픈웨이트로 풀었습니다.
-250B 가운데 토...</title><link>https://www.threads.net/@choi.openai/post/DbFv76uk7_P</link><description>독파모에서 경쟁력 있는 오픈웨이트가 잇따라 나오고 있습니다.
-
-업스테이지가 Solar Open 2를 오픈웨이트로 풀었습니다.
-250B 가운데 토큰당 15B만 쓰는 MoE 모델로, 에이전트 업무에 맞춰 만들고 상업 이용까지 열었습니다.
-실제 직무 산출물로 채점하는 한국어 실무 성적 벤치마크인 Ko-GDPval에서 86.8을 받아, 6배 큰 1.6조 파라미터 딥시크 V4 프로(86.9)를 0.16점 차로 따라붙었습니다.
-그것도 토큰당 연산은 딥시크의 3분의 1로요.
-층 대부분을 선형 어텐션으로 깔아 KV 캐시를 4분의 1로 줄였고, 100만 토큰을 자체 서버에 얹을 비용으로 돌립니다.
-어제는 모티프가 Motif-3 프리뷰로 종합지표 AAII 44점, 역시 딥시크 V4 프로급을 찍었는데 소버린 AI가 점점 실물로 나오기 시작한 것 같습니다.</description><pubDate>Wed, 22 Jul 2026 09:17:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFv76uk7_P</guid></item><item><title>블로그 :
-https://www.upstage.ai/blog/en/solar-open-2</title><link>https://www.threads.net/@choi.openai/post/DbFv8tBE9Kp</link><description>블로그 :
-https://www.upstage.ai/blog/en/solar-open-2</description><pubDate>Wed, 22 Jul 2026 09:17:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFv8tBE9Kp</guid></item><item><title>이런 이벤트 진짜 앞으로는 없다.
-
-어제 Laguna S 2.1가 출시되어서 OpenRouter에 무료로 제공되고 있는데, OpenCodex으로...</title><link>https://www.threads.net/@choi.openai/post/DbFl3U0AC4k</link><description>이런 이벤트 진짜 앞으로는 없다.
-
-어제 Laguna S 2.1가 출시되어서 OpenRouter에 무료로 제공되고 있는데, OpenCodex으로 연동하면 Codex나 Claude 앱에서 해당 모델 사용할 수 있음.
-
-모델 성능은 당연히 떨어지지만, 코딩 업무가 아닌 일상 작업용으로는 충분해서 이런거 알고 있으면 돈 진짜 많이 절약됩니다.</description><pubDate>Wed, 22 Jul 2026 08:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFl3U0AC4k</guid></item><item><title>OpenCodex 정말 좋으니 꼭 사용해보세요 :</title><link>https://www.threads.net/@choi.openai/post/DbFnGWAk64k</link><description>OpenCodex 정말 좋으니 꼭 사용해보세요 :</description><pubDate>Wed, 22 Jul 2026 08:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFnGWAk64k</guid></item><item><title>Laguna S 2.1 내용 :</title><link>https://www.threads.net/@choi.openai/post/DbFnG3Gk_WY</link><description>Laguna S 2.1 내용 :</description><pubDate>Wed, 22 Jul 2026 08:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFnG3Gk_WY</guid></item><item><title>깃허브 :
-https://github.com/lidge-jun/opencodex</title><link>https://www.threads.net/@choi.openai/post/DbFnUp_E1Wc</link><description>깃허브 :
-https://github.com/lidge-jun/opencodex</description><pubDate>Wed, 22 Jul 2026 08:02:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFnUp_E1Wc</guid></item><item><title>컴퓨터과학의 대가 스튜어트 러셀 교수는 AI 기술이 인간의 예상보다 훨씬 빠르게 임계점을 넘어서고 있다고 경고합니다.
-
-그는 AI 시스템이 충분...</title><link>https://www.threads.net/@choi.openai/post/DbFju0bEfXs</link><description>컴퓨터과학의 대가 스튜어트 러셀 교수는 AI 기술이 인간의 예상보다 훨씬 빠르게 임계점을 넘어서고 있다고 경고합니다.
-
-그는 AI 시스템이 충분히 유능해지면 인간이 부여한 본래 목적과 달라지더라도 수단과 방법을 가리지 않고 이를 완수하려 할 것이라고 분석했습니다.
-러셀 교수는 이러한 현상을 “우리가 더는 결정에 관여 못 하는 '통제 상실' 전환점”이라 정의하며, 통제를 벗어난 초지능의 등장은 인류의 멸종으로까지 이어질 수 있다고 우려했습니다.
-
-특히 가장 심각한 문제는 인공 일반 지능(AGI)의 도달 시점이 인간이 통제 솔루션을 개발하는 속도보다 더 빨라질 수 있다는 점입니다.
-그는 수많은 글로벌 기업과 과학자들이 “정작 통제 문제를 어떻게 풀어야 할지 모르며, 사실 제대로 연구하고 있지 않다”고 지적했습니다.</description><pubDate>Wed, 22 Jul 2026 07:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFju0bEfXs</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=GUWNTkPsJr8</title><link>https://www.threads.net/@choi.openai/post/DbFjvw_EVLX</link><description>풀영상 :
-https://www.youtube.com/watch?v=GUWNTkPsJr8</description><pubDate>Wed, 22 Jul 2026 07:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFjvw_EVLX</guid></item></channel></rss>
+지금 데이터센터에선 칩보다 전력이 먼저 바닥납니다. 같은 전기에서 토큰을 몇 배 더 뽑느냐가 곧 사업 규모가 되거든요.
+추론 모델은 답 하나에 토큰을 훨씬 많이 뱉으니, 이 효율이 그대로 단가로 이어집니다.
+다만 이 10배는 칩 하나의 성능이 아닙니다. NVFP4 4비트에 고속 NVLink까지 맞물린 풀스택 결과고요.
+비교 상대도 최신 GB300이 아닌 1년 전 GB200이고, 엔비디아 투자처인 코어위브가 낸 첫 실측이라는 점은 감안해야 합니다.
+결국 전력을 덜 쓰고 더 많은 토큰을 뽑는 쪽이 이 시장을 가져갑니다.</description><pubDate>Wed, 22 Jul 2026 15:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGamrICijA</guid></item><item><title>내용 :
+https://coreweave.com/blog/nvidia-vera-rubin-nvl72-on-coreweave-10x-more-to...</title><link>https://www.threads.net/@choi.openai/post/DbGao8dChmd</link><description>내용 :
+https://coreweave.com/blog/nvidia-vera-rubin-nvl72-on-coreweave-10x-more-tokens-per-megawatt-than-blackwell</description><pubDate>Wed, 22 Jul 2026 15:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGao8dChmd</guid></item><item><title>머스크의 스페이스X가 텍사스에 기가와트급 데이터센터를 하나 더 짓는다고 합니다.
+더 인포메이션에 따르면 멤피스 콜로서스급이거나 그보다 큰 규모고...</title><link>https://www.threads.net/@choi.openai/post/DbGTvZYgSUQ</link><description>머스크의 스페이스X가 텍사스에 기가와트급 데이터센터를 하나 더 짓는다고 합니다.
+더 인포메이션에 따르면 멤피스 콜로서스급이거나 그보다 큰 규모고, 슈퍼마이크로는 1년 안에 짓겠다고 밝혔습니다.
+정작 발목을 잡는 건 전력입니다. 이 규모면 GPU를 구하는 것보다 변전소와 송전선을 까는 게 더 오래 걸리거든요.
+멤피스에선 테네시 규제에 막혀 가스터빈을 주 경계 너머 미시시피까지 옮겨 돌렸습니다. 그렇게 밀어붙여 콜로서스 1을 122일 만에 세운 팀입니다.
+텍사스는 다릅니다. 스페이스X가 배스트롭에 이미 대규모 부지와 태양광 공장을 깔아둬서, 땅도 전력도 자기 계열에서 해결됩니다.
+여기에 지난 합병과 이번 상장으로 자금까지 확보했습니다.
+전력과 자본, 건설 속도를 한 회사가 다 쥔 싸움으로 가고 있습니다.</description><pubDate>Wed, 22 Jul 2026 14:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGTvZYgSUQ</guid></item><item><title>기사 :
+https://www.theinformation.com/articles/spacexai-explores-major-data-center...</title><link>https://www.threads.net/@choi.openai/post/DbGTwQ5AUv4</link><description>기사 :
+https://www.theinformation.com/articles/spacexai-explores-major-data-center-expansion-texas</description><pubDate>Wed, 22 Jul 2026 14:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGTwQ5AUv4</guid></item><item><title>오픈AI가 조지아주 에핑엄 카운티에 200억 달러(약 28조 원)를 들여 3.2기가와트 데이터센터를 짓습니다.
+주민 전기요금은 올리지 않고, 전...</title><link>https://www.threads.net/@choi.openai/post/DbGPD_zkzME</link><description>오픈AI가 조지아주 에핑엄 카운티에 200억 달러(약 28조 원)를 들여 3.2기가와트 데이터센터를 짓습니다.
+주민 전기요금은 올리지 않고, 전력이 부족한 시간엔 자기들이 먼저 소비를 줄이겠다는 조건을 달았습니다.
+카운티는 이 세수로 주택 재산세가 40% 내려갈 걸로 봅니다.
+여기에 지역 지원 8천만 달러와 이행을 확인할 독립 감사까지 걸었습니다.
+지금 데이터센터를 세우는 데 가장 큰 걸림돌은 주민 반대입니다.
+지난주 뉴욕 주지사가 신규 대형 데이터센터를 1년 멈춘 명분도 전기요금 부담이었죠.
+부담은 지역이 지는데 돈은 다른 데로 가니 반발이 쌓입니다.
+오픈AI는 그 격차를 지역 안에서 메워 반대할 이유를 없애고 있습니다.
+결국 지역을 먼저 자기 편으로 만드는 쪽이 더 빨리 짓습니다.</description><pubDate>Wed, 22 Jul 2026 13:49:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGPD_zkzME</guid></item><item><title>기사 :
+https://www.axios.com/2026/07/22/openai-savannah-georgia-data-center-projec...</title><link>https://www.threads.net/@choi.openai/post/DbGPEpiE-tK</link><description>기사 :
+https://www.axios.com/2026/07/22/openai-savannah-georgia-data-center-project</description><pubDate>Wed, 22 Jul 2026 13:49:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGPEpiE-tK</guid></item><item><title>공식 발표내용 :
+https://openai.com/index/building-ai-infrastructure-with-the-effingham...</title><link>https://www.threads.net/@choi.openai/post/DbGPqC-Exs2</link><description>공식 발표내용 :
+https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community/</description><pubDate>Wed, 22 Jul 2026 13:54:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGPqC-Exs2</guid></item><item><title>앤트로픽이 AMD 최신 칩 MI450을 2기가와트 규모, 수백억 달러어치 사들이기로 했습니다.
+AMD는 그 앤트로픽에 최대 50억 달러를 투자합...</title><link>https://www.threads.net/@choi.openai/post/DbGL8uDE-ne</link><description>앤트로픽이 AMD 최신 칩 MI450을 2기가와트 규모, 수백억 달러어치 사들이기로 했습니다.
+AMD는 그 앤트로픽에 최대 50억 달러를 투자합니다.
+칩 파는 쪽이 자기 칩 살 고객에게 돈을 대주는 구조인데, 투자금은 물량이 실제로 깔리는 단계에 맞춰 풀립니다.
+AMD가 앤트로픽의 데이터센터 임대까지 보증하는 방안을 논의 중이라는 보도도 있습니다.
+엔비디아가 오픈AI에 투자하고 그 돈이 다시 엔비디아 칩 매출로 돌아오던 순환 구조가, 이번엔 AMD로 번졌습니다.
+구글 TPU와 트레이니움으로 엔비디아 의존을 가장 낮춰둔 앤트로픽이, 사용량 제한까지 부르던 컴퓨트 병목을 AMD 칩까지 끌어와 덜어냅니다.</description><pubDate>Wed, 22 Jul 2026 13:22:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGL8uDE-ne</guid></item><item><title>기사 :
+https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investme...</title><link>https://www.threads.net/@choi.openai/post/DbGL9UTE-Gx</link><description>기사 :
+https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45</description><pubDate>Wed, 22 Jul 2026 13:22:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGL9UTE-Gx</guid></item></channel></rss>
