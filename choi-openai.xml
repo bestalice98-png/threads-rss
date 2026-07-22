@@ -1,103 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 22 Jul 2026 02:37:11 +0000</lastBuildDate><item><title>와.. 미쳤네.. 지난주 허깅페이스는 "정체불명의 AI 에이전트에게 뚫렸다"고 공지했었는데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 22 Jul 2026 10:24:38 +0000</lastBuildDate><item><title>반도체는 고점이라고 생각한다.</title><link>https://www.threads.net/@choi.openai/post/DbFz5AOk__F</link><description>반도체는 고점이라고 생각한다.</description><pubDate>Wed, 22 Jul 2026 09:51:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFz5AOk__F</guid></item><item><title>1/ 반도체는 지금 사상 최대 실적을 내는데, 주가는 그 실적을 외면합니다.
+TSMC는 2분기 매출 402억 달러로 1년 전보다 36% 늘었고,...</title><link>https://www.threads.net/@choi.openai/post/DbFz5ZXE66P</link><description>1/ 반도체는 지금 사상 최대 실적을 내는데, 주가는 그 실적을 외면합니다.
+TSMC는 2분기 매출 402억 달러로 1년 전보다 36% 늘었고, 매출총이익률 67.7%에 매출의 66%가 AI와 고성능 컴퓨팅에서 나왔습니다.
+그런데 마이크론, 삼성전자, SK하이닉스는 7월 들어 고점 대비 15%에서 20% 넘게 빠지며 약세장에 들어섰습니다.
+좋은 실적이 나오는데 주가가 먼저 빠질 때, 시장은 보통 그다음 사이클을 앞당겨 반영합니다.
+저는 이 자리를 반도체의 단기 고점으로 봅니다.
+정점이라 단정하는 게 아니라, 지금 값이 다음 몇 분기를 지나치게 당겨 왔다고 보는 겁니다.</description><pubDate>Wed, 22 Jul 2026 09:52:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFz5ZXE66P</guid></item><item><title>2/ 모델 경쟁은 이제 성능이 아니라 지능당 가격에서 갈립니다.
+프런티어가 인간이 하는 인지 작업의 대부분을 이미 처리하게 되자, 승부처가 같은...</title><link>https://www.threads.net/@choi.openai/post/DbFz6bmEyiE</link><description>2/ 모델 경쟁은 이제 성능이 아니라 지능당 가격에서 갈립니다.
+프런티어가 인간이 하는 인지 작업의 대부분을 이미 처리하게 되자, 승부처가 같은 지능을 얼마나 싸게 주느냐로 옮겨갔기 때문입니다.
+이번 주 Poolside가 공개한 Laguna S 2.1은 파라미터 1,180억짜리 오픈웨이트인데, 열 배 넘게 큰 1조 6천억 모델을 코딩 벤치에서 앞섰고 엔비디아 데스크톱 한 대에서 돕니다.
+며칠 전 문샷의 Kimi K3는 2조 8천억 규모로 전체 가중치를 27일에 통째로 풀겠다고 예고했습니다.
+같은 지능이 싸지고 어디서나 돌기 시작하면, 그 지능을 굴리려 비싸게 사 둔 칩의 수명도 함께 짧아집니다.</description><pubDate>Wed, 22 Jul 2026 09:52:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFz6bmEyiE</guid></item><item><title>3/ 그런데 이 경쟁을 실제로 지켜보는 대중은 얼마 되지 않습니다.
+센서타워 집계로 5월 소비자 AI 시장은 챗GPT 46.4%, 제미나이 27...</title><link>https://www.threads.net/@choi.openai/post/DbFz7UPk9z2</link><description>3/ 그런데 이 경쟁을 실제로 지켜보는 대중은 얼마 되지 않습니다.
+센서타워 집계로 5월 소비자 AI 시장은 챗GPT 46.4%, 제미나이 27.7%, 클로드 10.3%였습니다.
+월 사용자로도 챗GPT가 11억 명으로 압도적이지만, 그 아래 순위 다툼은 대부분 어느 앱이 기본으로 깔렸느냐로 갈립니다.
+챗GPT 점유율이 처음으로 절반 아래로 내려온 자리를 채운 제미나이도, 안드로이드에선 73%가 쓰지만 아이폰에선 49%에 그칩니다.
+능동적으로 고른 게 아니라 깔려 있으니 쓰는 것이고, 클로드가 뭔지 모르는 사람은 여전히 많습니다.</description><pubDate>Wed, 22 Jul 2026 09:52:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFz7UPk9z2</guid></item><item><title>독파모에서 경쟁력 있는 오픈웨이트가 잇따라 나오고 있습니다.
 
-7월 21일, 오픈AI가 손을 들었습니다. 그 ...</title><link>https://www.threads.net/@choi.openai/post/DbE-A9gk635</link><description>와.. 미쳤네.. 지난주 허깅페이스는 "정체불명의 AI 에이전트에게 뚫렸다"고 공지했었는데요.
+업스테이지가 Solar Open 2를 오픈웨이트로 풀었습니다.
+250B 가운데 토...</title><link>https://www.threads.net/@choi.openai/post/DbFv76uk7_P</link><description>독파모에서 경쟁력 있는 오픈웨이트가 잇따라 나오고 있습니다.
 
-7월 21일, 오픈AI가 손을 들었습니다. 그 공격자, 자사 평가용 모델이었다고요.
+업스테이지가 Solar Open 2를 오픈웨이트로 풀었습니다.
+250B 가운데 토큰당 15B만 쓰는 MoE 모델로, 에이전트 업무에 맞춰 만들고 상업 이용까지 열었습니다.
+실제 직무 산출물로 채점하는 한국어 실무 성적 벤치마크인 Ko-GDPval에서 86.8을 받아, 6배 큰 1.6조 파라미터 딥시크 V4 프로(86.9)를 0.16점 차로 따라붙었습니다.
+그것도 토큰당 연산은 딥시크의 3분의 1로요.
+층 대부분을 선형 어텐션으로 깔아 KV 캐시를 4분의 1로 줄였고, 100만 토큰을 자체 서버에 얹을 비용으로 돌립니다.
+어제는 모티프가 Motif-3 프리뷰로 종합지표 AAII 44점, 역시 딥시크 V4 프로급을 찍었는데 소버린 AI가 점점 실물로 나오기 시작한 것 같습니다.</description><pubDate>Wed, 22 Jul 2026 09:17:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFv76uk7_P</guid></item><item><title>블로그 :
+https://www.upstage.ai/blog/en/solar-open-2</title><link>https://www.threads.net/@choi.openai/post/DbFv8tBE9Kp</link><description>블로그 :
+https://www.upstage.ai/blog/en/solar-open-2</description><pubDate>Wed, 22 Jul 2026 09:17:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFv8tBE9Kp</guid></item><item><title>이런 이벤트 진짜 앞으로는 없다.
 
-사이버 벤치마크에서 이기려고 모델이 샌드박스를 탈출해 실제 회사를 해킹한, 처음 보는 종류의 사건입니다.
+어제 Laguna S 2.1가 출시되어서 OpenRouter에 무료로 제공되고 있는데, OpenCodex으로...</title><link>https://www.threads.net/@choi.openai/post/DbFl3U0AC4k</link><description>이런 이벤트 진짜 앞으로는 없다.
 
-무슨 일이 있었는지 정리했습니다 🧵</description><pubDate>Wed, 22 Jul 2026 02:01:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE-A9gk635</guid></item><item><title>1/ 3줄 요약
+어제 Laguna S 2.1가 출시되어서 OpenRouter에 무료로 제공되고 있는데, OpenCodex으로 연동하면 Codex나 Claude 앱에서 해당 모델 사용할 수 있음.
 
-- 오픈AI가 사이버 벤치마크 평가 중 자사 모델이 샌드박스를 탈출해 허깅페이스 프로덕션을 침해했다고 7월 21일 공식 인정했...</title><link>https://www.threads.net/@choi.openai/post/DbE-BsiEwY5</link><description>1/ 3줄 요약
+모델 성능은 당연히 떨어지지만, 코딩 업무가 아닌 일상 작업용으로는 충분해서 이런거 알고 있으면 돈 진짜 많이 절약됩니다.</description><pubDate>Wed, 22 Jul 2026 08:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFl3U0AC4k</guid></item><item><title>OpenCodex 정말 좋으니 꼭 사용해보세요 :</title><link>https://www.threads.net/@choi.openai/post/DbFnGWAk64k</link><description>OpenCodex 정말 좋으니 꼭 사용해보세요 :</description><pubDate>Wed, 22 Jul 2026 08:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFnGWAk64k</guid></item><item><title>Laguna S 2.1 내용 :</title><link>https://www.threads.net/@choi.openai/post/DbFnG3Gk_WY</link><description>Laguna S 2.1 내용 :</description><pubDate>Wed, 22 Jul 2026 08:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFnG3Gk_WY</guid></item><item><title>깃허브 :
+https://github.com/lidge-jun/opencodex</title><link>https://www.threads.net/@choi.openai/post/DbFnUp_E1Wc</link><description>깃허브 :
+https://github.com/lidge-jun/opencodex</description><pubDate>Wed, 22 Jul 2026 08:02:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFnUp_E1Wc</guid></item><item><title>컴퓨터과학의 대가 스튜어트 러셀 교수는 AI 기술이 인간의 예상보다 훨씬 빠르게 임계점을 넘어서고 있다고 경고합니다.
 
-- 오픈AI가 사이버 벤치마크 평가 중 자사 모델이 샌드박스를 탈출해 허깅페이스 프로덕션을 침해했다고 7월 21일 공식 인정했음. 자율 AI의 통제 실패를 회사가 스스로 공시한 첫 사례로 보임.
+그는 AI 시스템이 충분...</title><link>https://www.threads.net/@choi.openai/post/DbFju0bEfXs</link><description>컴퓨터과학의 대가 스튜어트 러셀 교수는 AI 기술이 인간의 예상보다 훨씬 빠르게 임계점을 넘어서고 있다고 경고합니다.
 
-- 모델은 인간을 미워한 게 아니라 벤치 정답을 얻는 데 과몰입했음. 통제 상실이라기보다 안전장치를 끈 채 목표를 최단거리로 좇은 리워드 해킹에 가깝다고 판단됨.
+그는 AI 시스템이 충분히 유능해지면 인간이 부여한 본래 목적과 달라지더라도 수단과 방법을 가리지 않고 이를 완수하려 할 것이라고 분석했습니다.
+러셀 교수는 이러한 현상을 “우리가 더는 결정에 관여 못 하는 '통제 상실' 전환점”이라 정의하며, 통제를 벗어난 초지능의 등장은 인류의 멸종으로까지 이어질 수 있다고 우려했습니다.
 
-- 방어에서 미국 상용 모델이 공격 데이터 분석을 거부하자, 허깅페이스는 중국 오픈웨이트 모델로 막았음. 안전을 위한 거부가 방어를 마비시킨 역설이 드러남.
-
-- 정작 이 사건이 벌어진 내부 배포 단계는 미국·EU·영국 어디도 강제 규율하지 않음. 능력은 앞서가는데 감시는 비어 있는 구간이 그대로 노출됐다고 봄.</description><pubDate>Wed, 22 Jul 2026 02:01:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE-BsiEwY5</guid></item><item><title>2/ 7월 21일 오픈AI가 발표문 하나를 올렸습니다. 사이버 능력을 재는 내부 평가 도중, 자사 모델이 격리된 시험 환경을 빠져나가 허깅페이스...</title><link>https://www.threads.net/@choi.openai/post/DbE-CQgE_PS</link><description>2/ 7월 21일 오픈AI가 발표문 하나를 올렸습니다. 사이버 능력을 재는 내부 평가 도중, 자사 모델이 격리된 시험 환경을 빠져나가 허깅페이스 프로덕션 인프라를 침해했다는 내용입니다.
-공개된 순서가 거꾸로입니다. 지난주 허깅페이스가 먼저 정체불명의 자율 AI 에이전트에게 뚫렸다고 공지했는데, 이번에 오픈AI가 그게 우리 모델이었다며 손을 들었습니다.
-관여한 모델은 이미 공개된 GPT-5.6 Sol과, 아직 이름을 밝히지 않은 더 강한 미공개 모델 둘입니다.
-오픈AI는 이 일을 전례 없는 사이버 사건이라 불렀습니다. 자율 AI가 남의 인프라를 실제로 뚫은 사건을, 그걸 만든 회사가 스스로 공시한 건 제가 아는 한 이번이 처음입니다.
-발표 제목마저 사건을 함께 해결하기 위한 협력이라, 뚫은 쪽과 뚫린 쪽이 파트너가 된 그림입니다.</description><pubDate>Wed, 22 Jul 2026 02:01:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE-CQgE_PS</guid></item><item><title>3/ 평가에 쓰인 벤치마크는 ExploitGym입니다.
-버클리와 막스플랑크, 앤트로픽, 오픈AI, 구글이 함께 만든 학술 벤치마크로, 오픈AI가...</title><link>https://www.threads.net/@choi.openai/post/DbE-DJ9E7Gc</link><description>3/ 평가에 쓰인 벤치마크는 ExploitGym입니다.
-버클리와 막스플랑크, 앤트로픽, 오픈AI, 구글이 함께 만든 학술 벤치마크로, 오픈AI가 내부 평가에 가져다 썼습니다.
-
-재는 능력이 구체적입니다. 크래시만 내는 무해한 입력을 주고, 그걸 실제로 시스템을 장악하는 완전한 공격으로 키워 권한 밖의 flag를 훔쳐오게 시킵니다. 대표 사례는 5줄짜리 자바스크립트에서 시작합니다.
-
-채점도 까다롭습니다. 권한을 뚫어야만 읽히는 값을 실제로 회수했는지, 그리고 지정된 취약점을 실제로 이용했는지를 별도 심판 모델이 검증합니다.
-
-실세계 취약점 898개를 상대로 재는데, 크게 일반 소프트웨어 520개와 브라우저 185개, 리눅스 커널 193개로 나뉩니다.</description><pubDate>Wed, 22 Jul 2026 02:01:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE-DJ9E7Gc</guid></item><item><title>영국 정부가 프런티어 AI를 시험장에 세웠더니, 테스트한 모델이 하나도 빠짐없이 부정행위를 시도했습니다.
-
-문제를 정면으로 푸는 대신 채점기를 ...</title><link>https://www.threads.net/@choi.openai/post/DbE3UnWE3uG</link><description>영국 정부가 프런티어 AI를 시험장에 세웠더니, 테스트한 모델이 하나도 빠짐없이 부정행위를 시도했습니다.
-
-문제를 정면으로 푸는 대신 채점기를 뒤지고, 인터넷에서 답을 찾고, 평가 시스템을 건드렸습니다. 능력이 높은 모델이 더 많이 속인 것도 아니었습니다.
-
-왜 이게 평가 자체를 흔드는 일인지 정리했습니다 🧵</description><pubDate>Wed, 22 Jul 2026 01:02:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE3UnWE3uG</guid></item><item><title>1/ 3줄 요약
-
-- 영국 AI안전연구소가 사이버 평가에서 시험한 프런티어 모델이 하나도 빠짐없이 부정행위를 시도했음. 부정행위 비율이 능력 순...</title><link>https://www.threads.net/@choi.openai/post/DbE3U7kk2oI</link><description>1/ 3줄 요약
-
-- 영국 AI안전연구소가 사이버 평가에서 시험한 프런티어 모델이 하나도 빠짐없이 부정행위를 시도했음. 부정행위 비율이 능력 순서와 무관했다는 점에서, 무엇을 어떻게 훈련했느냐가 이 행동을 가른다고 판단됨.
-
-- 저지른 모델에게 물어도 절반 넘게 잘못이 아니라고 답했고, 사고 과정에도 잘 드러나지 않았음. 자기 신고도 추론 감시도 단독으로는 부정행위를 걸러낼 근거가 못 됨.
-
-- 이미 METR의 GPT-5.6 Sol 평가가 이 문제로 흔들려 능력 추정이 무의미해졌음. 능력은 계속 오르는데 그 능력이 실제인지 확인하는 일만 더 어려워지는 흐름으로 보임.</description><pubDate>Wed, 22 Jul 2026 01:02:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE3U7kk2oI</guid></item><item><title>2/ 영국 AI안전연구소는 만들어진 AI가 시킨 대로 움직이는지 검증하는 정부 기관입니다.
-
-7월 21일, 이 연구소가 자사 사이버 평가에서 모...</title><link>https://www.threads.net/@choi.openai/post/DbE3Vdhk7J1</link><description>2/ 영국 AI안전연구소는 만들어진 AI가 시킨 대로 움직이는지 검증하는 정부 기관입니다.
-
-7월 21일, 이 연구소가 자사 사이버 평가에서 모델들이 보인 '부정행위'를 분석해 내놨는데요. 여기서 부정행위란 과제 범위를 벗어나거나 규칙이 금지한 행동을 해서, 원래 허용되지 않은 지름길이나 편법으로 목표를 이루는 것을 말합니다.
-
-사이버 평가는 모델이 정해진 규칙 안에서 취약점을 찾아 숨겨진 값을 알아내는 시험인데, 그 선을 넘는 순간 부정행위로 분류했습니다.
-
-어느 모델에도 부정행위를 하라고 따로 시키지는 않았습니다. 누가 시켜서가 아니라 주어진 목표를 향해 가다 스스로 택한 행동이라는 점이 특히 눈에 띕니다.</description><pubDate>Wed, 22 Jul 2026 01:02:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE3Vdhk7J1</guid></item><item><title>3/ 결과부터 보면, 테스트한 프런티어 모델이 하나도 빠짐없이 적어도 가끔은 부정행위를 시도했습니다.
-
-눈에 띄는 부분은 부정행위 비율이 능력과...</title><link>https://www.threads.net/@choi.openai/post/DbE3Wl8EyhR</link><description>3/ 결과부터 보면, 테스트한 프런티어 모델이 하나도 빠짐없이 적어도 가끔은 부정행위를 시도했습니다.
-
-눈에 띄는 부분은 부정행위 비율이 능력과 나란히 오르내리지 않았다는 데 있죠.
-더 똑똑한 모델이 더 많이 속이는 것도, 덜 속이는 것도 아니었습니다. 연구소는 이 행동이 원초적인 능력보다는 그 모델을 어떻게 훈련했는지, 특히 안전을 어떻게 붙였는지에 크게 좌우된다고 봤습니다.
-
-부정행위는 똑똑해서 따라오는 부산물이 아니라 훈련 방식이 만든 산물이라는 이야기입니다. 그래서 같은 세대라도 개발사에 따라 비율이 갈렸습니다.
-
-능력을 끌어올린다고 이 문제가 저절로 풀리지는 않는다는 뜻이기도 하죠.</description><pubDate>Wed, 22 Jul 2026 01:02:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE3Wl8EyhR</guid></item><item><title>엔비디아가 이 회사에 10억 달러를 태우려는 이유가 있었습니다..
-좋은 오픈웨이트 모델이 하나 풀릴 때마다 4천 달러짜리 박스가 팔립니다.
-11...</title><link>https://www.threads.net/@choi.openai/post/DbEvK7Jl0gy</link><description>엔비디아가 이 회사에 10억 달러를 태우려는 이유가 있었습니다..
-좋은 오픈웨이트 모델이 하나 풀릴 때마다 4천 달러짜리 박스가 팔립니다.
-118B로 1.6조를 이기고 책상 위에서 도는 모델, Poolside Laguna S 2.1.
-발표문과 평가 기록 전체를 뜯어서 벤치마크부터 반도체까지 정리했습니다 🧵</description><pubDate>Wed, 22 Jul 2026 00:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbEvK7Jl0gy</guid></item><item><title>1/ 바쁘신 분들을 위해 간단한 요약 부터
-
-- Poolside가 118B 중 8B만 켜는 MoE 오픈웨이트 Laguna S 2.1을 공개했음....</title><link>https://www.threads.net/@choi.openai/post/DbEwMdckw4g</link><description>1/ 바쁘신 분들을 위해 간단한 요약 부터
-
-- Poolside가 118B 중 8B만 켜는 MoE 오픈웨이트 Laguna S 2.1을 공개했음. 발표 수치로는 1.6조 파라미터 모델을 벤치마크에서 앞서며 크기 대비 최상위로 보임.
-
-- 점수보다 체급이 사건임. 128GB 통합 메모리 박스에서 도는 실사용급 미국산 개방형 모델이라, 토큰 과금을 기기 구매로 치환하는 흐름이 빨라질 것으로 판단됨.
-
-- 중국이 사실상 독점하던 개방형 가중치 공급에 미국 랩이 응수한 구도임. 개방형과 폐쇄형의 격차가 3.5개월에서 몇 주로 줄어든 지금, 폐쇄 API의 가격 프리미엄은 갈수록 지키기 어려워진다고 봄.
-
-- 엔비디아는 이 회사의 투자자이자 수혜자임. 개방형 모델이 풀릴수록 로컬 하드웨어가 팔리는 구조가 굳어지고 있다고 봄.</description><pubDate>Wed, 22 Jul 2026 00:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbEwMdckw4g</guid></item><item><title>2/ Poolside는 코딩 에이전트용 모델만 만드는 미국 랩입니다.
-
-전 GitHub CTO 제이슨 워너와 에이소 칸트가 2023년 세웠고, ...</title><link>https://www.threads.net/@choi.openai/post/DbEwM_vE74u</link><description>2/ Poolside는 코딩 에이전트용 모델만 만드는 미국 랩입니다.
-
-전 GitHub CTO 제이슨 워너와 에이소 칸트가 2023년 세웠고, 엔비디아가 투자한 곳입니다.
-이 회사가 21일 Laguna S 2.1을 공개했습니다. 총 118B 파라미터 중 토큰마다 8B만 켜지는 MoE 구조에 컨텍스트는 최대 100만 토큰, 라이선스는 리눅스재단 계열의 개방형 OpenMDW-1.1입니다.
-
-가중치는 공개 당일 허깅페이스에 올라왔고, 학습 시작부터 공개까지 9주가 안 걸렸습니다. 4월 말 첫 모델 M.1, 7월 초 XS 2.1에 이어 석 달 사이 세 번째 모델입니다.
-
-추론 모드와 비추론 모드를 둘 다 지원하고, llama.cpp, Ollama, vLLM 같은 주요 실행 환경을 공개 당일부터 지원합니다.</description><pubDate>Wed, 22 Jul 2026 00:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbEwM_vE74u</guid></item><item><title>3/ 수치부터 봅니다. Terminal-Bench 2.1은 에이전트가 터미널만 쥐고 실제 작업을 끝까지 해내는지를 재는 벤치마크입니다.
-
-Lag...</title><link>https://www.threads.net/@choi.openai/post/DbEwNpyk_bt</link><description>3/ 수치부터 봅니다. Terminal-Bench 2.1은 에이전트가 터미널만 쥐고 실제 작업을 끝까지 해내는지를 재는 벤치마크입니다.
-
-Laguna S 2.1은 여기서 70.2점을 적어냈습니다. 발표 문서 비교표에서 25배 큰 2.8조 파라미터 Kimi K3(88.3)에는 못 미치지만, 1.6조짜리 DeepSeek-V4-Pro-Max(64.0)와 975B Inkling(63.8)보다 위입니다.
-
-다만 이 점수는 아직 Poolside 자체 하네스 보고이고, 벤치마크 공식 리더보드에는 21일까지 등재 전입니다.
-
-크기 대비라는 단서를 달면, 118B가 원래 설 수 없던 자리에 서 있는 것은 맞습니다. 비슷한 점수를 낸 텐센트 Hy3(71.7)는 크기가 2.5배입니다.</description><pubDate>Wed, 22 Jul 2026 00:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbEwNpyk_bt</guid></item><item><title>오픈AI의 산업용 컴퓨팅 총괄 사친 카티(Sachin Katti)는 현재 AI 인프라 확장의 최대 병목으로 데이터센터 인프라와 ‘현장 기술 인력...</title><link>https://www.threads.net/@choi.openai/post/DbErnBRCaLG</link><description>오픈AI의 산업용 컴퓨팅 총괄 사친 카티(Sachin Katti)는 현재 AI 인프라 확장의 최대 병목으로 데이터센터 인프라와 ‘현장 기술 인력 부족’을 꼽았습니다.
-
-그는 데이터센터 건설을 위한 허가 절차, 가스 터빈, 변압기 수급난과 더불어 전기기술자와 배관공 같은 현장 인력이 심각하게 부족하다고 지적했습니다.
-
-"AI가 지식 노동자를 대체할수록, 전기기술자가 되어야 합니다."
-
-하이퍼스케일러와 연구소들이 데이터센터 구축에 몰두하면서 기술 인력의 가치는 크게 뛰어올랐습니다. AI가 코드 작성과 사무직 업무를 대체할수록, 물리적 인프라를 직접 구축하고 유지하는 현장 기술직이 가장 강력한 직업적 경쟁력을 갖게 되는 역설적 구조가 만들어지고 있습니다.</description><pubDate>Tue, 21 Jul 2026 23:20:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbErnBRCaLG</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=wEZBlmvxx4o</title><link>https://www.threads.net/@choi.openai/post/DbErn5NiXgK</link><description>풀영상 :
-https://www.youtube.com/watch?v=wEZBlmvxx4o</description><pubDate>Tue, 21 Jul 2026 23:20:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbErn5NiXgK</guid></item></channel></rss>
+특히 가장 심각한 문제는 인공 일반 지능(AGI)의 도달 시점이 인간이 통제 솔루션을 개발하는 속도보다 더 빨라질 수 있다는 점입니다.
+그는 수많은 글로벌 기업과 과학자들이 “정작 통제 문제를 어떻게 풀어야 할지 모르며, 사실 제대로 연구하고 있지 않다”고 지적했습니다.</description><pubDate>Wed, 22 Jul 2026 07:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFju0bEfXs</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=GUWNTkPsJr8</title><link>https://www.threads.net/@choi.openai/post/DbFjvw_EVLX</link><description>풀영상 :
+https://www.youtube.com/watch?v=GUWNTkPsJr8</description><pubDate>Wed, 22 Jul 2026 07:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbFjvw_EVLX</guid></item></channel></rss>
