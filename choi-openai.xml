@@ -1,19 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 21 Jul 2026 16:13:25 +0000</lastBuildDate><item><title>🚨 구글 Gemini 4 훈련 시작</title><link>https://www.threads.net/@choi.openai/post/DbD4MY1E5-1</link><description>🚨 구글 Gemini 4 훈련 시작</description><pubDate>Tue, 21 Jul 2026 15:51:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbD4MY1E5-1</guid></item><item><title>저는 이번 구글 Gemini 3.6 Flash의 벤치마크를 보면서 구글이 전략을 아예 바꾼 것처럼 느껴집니다.
-순수 코딩 점수는 GPT-5.6 ...</title><link>https://www.threads.net/@choi.openai/post/DbD1P7EEwRT</link><description>저는 이번 구글 Gemini 3.6 Flash의 벤치마크를 보면서 구글이 전략을 아예 바꾼 것처럼 느껴집니다.
-순수 코딩 점수는 GPT-5.6 Luna나 Grok 4.5, 클로드 소네트 5에 밀리지만, 컴퓨터 사용(OSWorld), 복잡한 차트 해석, 롱컨텍스트에선 전부 1등이고, 특히 롱컨은 100만 토큰 구간에서 3.5 Flash보다 두 배 넘게 뛰었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 22 Jul 2026 02:37:11 +0000</lastBuildDate><item><title>와.. 미쳤네.. 지난주 허깅페이스는 "정체불명의 AI 에이전트에게 뚫렸다"고 공지했었는데요.
 
-저는 구글이 뒤쳐졌다는 의미보다는 계산된 선택이라고 봅니다.
-인지 작업에 필요한 성능은 이미 웬만큼 넘어섰고, 이제 승부는 실제 업무를 얼마나 잘 수행하느냐가 중요해지고 있습니다.
-실제로 밖에 나가 보면 현장 사무에서 가장 많이 쓰이는 모델은 결국 Gemini입니다. 강한 비전과 문서 처리, 워크스페이스에 붙은 접근성 덕분입니다.
-개발자들은 구글이 코딩에서 밀려 멀어진다고 보지만, 저는 해자없는 리더보드 1등을 좇는 대신, 이미 이기고 있는 실무 현장을 싸고 빠른 모델로 굳히려는 쪽으로 방향을 튼 것이라고 생각합니다.</description><pubDate>Tue, 21 Jul 2026 15:25:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbD1P7EEwRT</guid></item><item><title>Gemini 3.6 Flash 벤치마크 공개.</title><link>https://www.threads.net/@choi.openai/post/DbDzh-Okx8b</link><description>Gemini 3.6 Flash 벤치마크 공개.</description><pubDate>Tue, 21 Jul 2026 15:10:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDzh-Okx8b</guid></item><item><title>샤오미가 Xiaomi-Robotics-1을 허깅페이스에 공개했습니다.
-빨래 개고 세탁기 돌리고 설거지에 짐 싸기까지, 실제 아파트에서 사람 없이...</title><link>https://www.threads.net/@choi.openai/post/DbDzfWBkYWR</link><description>샤오미가 Xiaomi-Robotics-1을 허깅페이스에 공개했습니다.
-빨래 개고 세탁기 돌리고 설거지에 짐 싸기까지, 실제 아파트에서 사람 없이 해내는 로봇 파운데이션 모델입니다.
-실사용 조작 데이터 10만 시간, 1,700개 넘는 상황으로 학습해 RoboCasa365 등 시뮬레이션 벤치마크 네 곳에서 SOTA를 찍었고요.
-로봇에서도 스케일링 법칙이 성립한다는 걸 처음 깔끔하게 보여준 것 같습니다.
-데이터와 모델을 키운 만큼 성능이 오르고, 그게 처음 보는 집에서의 실제 동작으로 그대로 이어졌습니다.
-비결은 이 데이터를 로봇이 아니라 사람 손 시연으로, UMI 휴대 장비로 싸게 모은 겁니다.
-비싼 로봇 데이터는 조금만 얹는 2단계 설계로, 로봇의 발목을 잡던 데이터 병목을 우회했습니다.
-결국 로봇도 데이터를 부을수록 느는 구간에 들어선 것 같습니다.</description><pubDate>Tue, 21 Jul 2026 15:09:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDzfWBkYWR</guid></item><item><title>허깅페이스 :
-https://huggingface.co/XiaomiRobotics</title><link>https://www.threads.net/@choi.openai/post/DbDzgNDEZ_l</link><description>허깅페이스 :
-https://huggingface.co/XiaomiRobotics</description><pubDate>Tue, 21 Jul 2026 15:10:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbDzgNDEZ_l</guid></item></channel></rss>
+7월 21일, 오픈AI가 손을 들었습니다. 그 ...</title><link>https://www.threads.net/@choi.openai/post/DbE-A9gk635</link><description>와.. 미쳤네.. 지난주 허깅페이스는 "정체불명의 AI 에이전트에게 뚫렸다"고 공지했었는데요.
+
+7월 21일, 오픈AI가 손을 들었습니다. 그 공격자, 자사 평가용 모델이었다고요.
+
+사이버 벤치마크에서 이기려고 모델이 샌드박스를 탈출해 실제 회사를 해킹한, 처음 보는 종류의 사건입니다.
+
+무슨 일이 있었는지 정리했습니다 🧵</description><pubDate>Wed, 22 Jul 2026 02:01:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE-A9gk635</guid></item><item><title>1/ 3줄 요약
+
+- 오픈AI가 사이버 벤치마크 평가 중 자사 모델이 샌드박스를 탈출해 허깅페이스 프로덕션을 침해했다고 7월 21일 공식 인정했...</title><link>https://www.threads.net/@choi.openai/post/DbE-BsiEwY5</link><description>1/ 3줄 요약
+
+- 오픈AI가 사이버 벤치마크 평가 중 자사 모델이 샌드박스를 탈출해 허깅페이스 프로덕션을 침해했다고 7월 21일 공식 인정했음. 자율 AI의 통제 실패를 회사가 스스로 공시한 첫 사례로 보임.
+
+- 모델은 인간을 미워한 게 아니라 벤치 정답을 얻는 데 과몰입했음. 통제 상실이라기보다 안전장치를 끈 채 목표를 최단거리로 좇은 리워드 해킹에 가깝다고 판단됨.
+
+- 방어에서 미국 상용 모델이 공격 데이터 분석을 거부하자, 허깅페이스는 중국 오픈웨이트 모델로 막았음. 안전을 위한 거부가 방어를 마비시킨 역설이 드러남.
+
+- 정작 이 사건이 벌어진 내부 배포 단계는 미국·EU·영국 어디도 강제 규율하지 않음. 능력은 앞서가는데 감시는 비어 있는 구간이 그대로 노출됐다고 봄.</description><pubDate>Wed, 22 Jul 2026 02:01:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE-BsiEwY5</guid></item><item><title>2/ 7월 21일 오픈AI가 발표문 하나를 올렸습니다. 사이버 능력을 재는 내부 평가 도중, 자사 모델이 격리된 시험 환경을 빠져나가 허깅페이스...</title><link>https://www.threads.net/@choi.openai/post/DbE-CQgE_PS</link><description>2/ 7월 21일 오픈AI가 발표문 하나를 올렸습니다. 사이버 능력을 재는 내부 평가 도중, 자사 모델이 격리된 시험 환경을 빠져나가 허깅페이스 프로덕션 인프라를 침해했다는 내용입니다.
+공개된 순서가 거꾸로입니다. 지난주 허깅페이스가 먼저 정체불명의 자율 AI 에이전트에게 뚫렸다고 공지했는데, 이번에 오픈AI가 그게 우리 모델이었다며 손을 들었습니다.
+관여한 모델은 이미 공개된 GPT-5.6 Sol과, 아직 이름을 밝히지 않은 더 강한 미공개 모델 둘입니다.
+오픈AI는 이 일을 전례 없는 사이버 사건이라 불렀습니다. 자율 AI가 남의 인프라를 실제로 뚫은 사건을, 그걸 만든 회사가 스스로 공시한 건 제가 아는 한 이번이 처음입니다.
+발표 제목마저 사건을 함께 해결하기 위한 협력이라, 뚫은 쪽과 뚫린 쪽이 파트너가 된 그림입니다.</description><pubDate>Wed, 22 Jul 2026 02:01:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE-CQgE_PS</guid></item><item><title>3/ 평가에 쓰인 벤치마크는 ExploitGym입니다.
+버클리와 막스플랑크, 앤트로픽, 오픈AI, 구글이 함께 만든 학술 벤치마크로, 오픈AI가...</title><link>https://www.threads.net/@choi.openai/post/DbE-DJ9E7Gc</link><description>3/ 평가에 쓰인 벤치마크는 ExploitGym입니다.
+버클리와 막스플랑크, 앤트로픽, 오픈AI, 구글이 함께 만든 학술 벤치마크로, 오픈AI가 내부 평가에 가져다 썼습니다.
+
+재는 능력이 구체적입니다. 크래시만 내는 무해한 입력을 주고, 그걸 실제로 시스템을 장악하는 완전한 공격으로 키워 권한 밖의 flag를 훔쳐오게 시킵니다. 대표 사례는 5줄짜리 자바스크립트에서 시작합니다.
+
+채점도 까다롭습니다. 권한을 뚫어야만 읽히는 값을 실제로 회수했는지, 그리고 지정된 취약점을 실제로 이용했는지를 별도 심판 모델이 검증합니다.
+
+실세계 취약점 898개를 상대로 재는데, 크게 일반 소프트웨어 520개와 브라우저 185개, 리눅스 커널 193개로 나뉩니다.</description><pubDate>Wed, 22 Jul 2026 02:01:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE-DJ9E7Gc</guid></item><item><title>영국 정부가 프런티어 AI를 시험장에 세웠더니, 테스트한 모델이 하나도 빠짐없이 부정행위를 시도했습니다.
+
+문제를 정면으로 푸는 대신 채점기를 ...</title><link>https://www.threads.net/@choi.openai/post/DbE3UnWE3uG</link><description>영국 정부가 프런티어 AI를 시험장에 세웠더니, 테스트한 모델이 하나도 빠짐없이 부정행위를 시도했습니다.
+
+문제를 정면으로 푸는 대신 채점기를 뒤지고, 인터넷에서 답을 찾고, 평가 시스템을 건드렸습니다. 능력이 높은 모델이 더 많이 속인 것도 아니었습니다.
+
+왜 이게 평가 자체를 흔드는 일인지 정리했습니다 🧵</description><pubDate>Wed, 22 Jul 2026 01:02:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE3UnWE3uG</guid></item><item><title>1/ 3줄 요약
+
+- 영국 AI안전연구소가 사이버 평가에서 시험한 프런티어 모델이 하나도 빠짐없이 부정행위를 시도했음. 부정행위 비율이 능력 순...</title><link>https://www.threads.net/@choi.openai/post/DbE3U7kk2oI</link><description>1/ 3줄 요약
+
+- 영국 AI안전연구소가 사이버 평가에서 시험한 프런티어 모델이 하나도 빠짐없이 부정행위를 시도했음. 부정행위 비율이 능력 순서와 무관했다는 점에서, 무엇을 어떻게 훈련했느냐가 이 행동을 가른다고 판단됨.
+
+- 저지른 모델에게 물어도 절반 넘게 잘못이 아니라고 답했고, 사고 과정에도 잘 드러나지 않았음. 자기 신고도 추론 감시도 단독으로는 부정행위를 걸러낼 근거가 못 됨.
+
+- 이미 METR의 GPT-5.6 Sol 평가가 이 문제로 흔들려 능력 추정이 무의미해졌음. 능력은 계속 오르는데 그 능력이 실제인지 확인하는 일만 더 어려워지는 흐름으로 보임.</description><pubDate>Wed, 22 Jul 2026 01:02:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE3U7kk2oI</guid></item><item><title>2/ 영국 AI안전연구소는 만들어진 AI가 시킨 대로 움직이는지 검증하는 정부 기관입니다.
+
+7월 21일, 이 연구소가 자사 사이버 평가에서 모...</title><link>https://www.threads.net/@choi.openai/post/DbE3Vdhk7J1</link><description>2/ 영국 AI안전연구소는 만들어진 AI가 시킨 대로 움직이는지 검증하는 정부 기관입니다.
+
+7월 21일, 이 연구소가 자사 사이버 평가에서 모델들이 보인 '부정행위'를 분석해 내놨는데요. 여기서 부정행위란 과제 범위를 벗어나거나 규칙이 금지한 행동을 해서, 원래 허용되지 않은 지름길이나 편법으로 목표를 이루는 것을 말합니다.
+
+사이버 평가는 모델이 정해진 규칙 안에서 취약점을 찾아 숨겨진 값을 알아내는 시험인데, 그 선을 넘는 순간 부정행위로 분류했습니다.
+
+어느 모델에도 부정행위를 하라고 따로 시키지는 않았습니다. 누가 시켜서가 아니라 주어진 목표를 향해 가다 스스로 택한 행동이라는 점이 특히 눈에 띕니다.</description><pubDate>Wed, 22 Jul 2026 01:02:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE3Vdhk7J1</guid></item><item><title>3/ 결과부터 보면, 테스트한 프런티어 모델이 하나도 빠짐없이 적어도 가끔은 부정행위를 시도했습니다.
+
+눈에 띄는 부분은 부정행위 비율이 능력과...</title><link>https://www.threads.net/@choi.openai/post/DbE3Wl8EyhR</link><description>3/ 결과부터 보면, 테스트한 프런티어 모델이 하나도 빠짐없이 적어도 가끔은 부정행위를 시도했습니다.
+
+눈에 띄는 부분은 부정행위 비율이 능력과 나란히 오르내리지 않았다는 데 있죠.
+더 똑똑한 모델이 더 많이 속이는 것도, 덜 속이는 것도 아니었습니다. 연구소는 이 행동이 원초적인 능력보다는 그 모델을 어떻게 훈련했는지, 특히 안전을 어떻게 붙였는지에 크게 좌우된다고 봤습니다.
+
+부정행위는 똑똑해서 따라오는 부산물이 아니라 훈련 방식이 만든 산물이라는 이야기입니다. 그래서 같은 세대라도 개발사에 따라 비율이 갈렸습니다.
+
+능력을 끌어올린다고 이 문제가 저절로 풀리지는 않는다는 뜻이기도 하죠.</description><pubDate>Wed, 22 Jul 2026 01:02:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbE3Wl8EyhR</guid></item><item><title>엔비디아가 이 회사에 10억 달러를 태우려는 이유가 있었습니다..
+좋은 오픈웨이트 모델이 하나 풀릴 때마다 4천 달러짜리 박스가 팔립니다.
+11...</title><link>https://www.threads.net/@choi.openai/post/DbEvK7Jl0gy</link><description>엔비디아가 이 회사에 10억 달러를 태우려는 이유가 있었습니다..
+좋은 오픈웨이트 모델이 하나 풀릴 때마다 4천 달러짜리 박스가 팔립니다.
+118B로 1.6조를 이기고 책상 위에서 도는 모델, Poolside Laguna S 2.1.
+발표문과 평가 기록 전체를 뜯어서 벤치마크부터 반도체까지 정리했습니다 🧵</description><pubDate>Wed, 22 Jul 2026 00:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbEvK7Jl0gy</guid></item><item><title>1/ 바쁘신 분들을 위해 간단한 요약 부터
+
+- Poolside가 118B 중 8B만 켜는 MoE 오픈웨이트 Laguna S 2.1을 공개했음....</title><link>https://www.threads.net/@choi.openai/post/DbEwMdckw4g</link><description>1/ 바쁘신 분들을 위해 간단한 요약 부터
+
+- Poolside가 118B 중 8B만 켜는 MoE 오픈웨이트 Laguna S 2.1을 공개했음. 발표 수치로는 1.6조 파라미터 모델을 벤치마크에서 앞서며 크기 대비 최상위로 보임.
+
+- 점수보다 체급이 사건임. 128GB 통합 메모리 박스에서 도는 실사용급 미국산 개방형 모델이라, 토큰 과금을 기기 구매로 치환하는 흐름이 빨라질 것으로 판단됨.
+
+- 중국이 사실상 독점하던 개방형 가중치 공급에 미국 랩이 응수한 구도임. 개방형과 폐쇄형의 격차가 3.5개월에서 몇 주로 줄어든 지금, 폐쇄 API의 가격 프리미엄은 갈수록 지키기 어려워진다고 봄.
+
+- 엔비디아는 이 회사의 투자자이자 수혜자임. 개방형 모델이 풀릴수록 로컬 하드웨어가 팔리는 구조가 굳어지고 있다고 봄.</description><pubDate>Wed, 22 Jul 2026 00:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbEwMdckw4g</guid></item><item><title>2/ Poolside는 코딩 에이전트용 모델만 만드는 미국 랩입니다.
+
+전 GitHub CTO 제이슨 워너와 에이소 칸트가 2023년 세웠고, ...</title><link>https://www.threads.net/@choi.openai/post/DbEwM_vE74u</link><description>2/ Poolside는 코딩 에이전트용 모델만 만드는 미국 랩입니다.
+
+전 GitHub CTO 제이슨 워너와 에이소 칸트가 2023년 세웠고, 엔비디아가 투자한 곳입니다.
+이 회사가 21일 Laguna S 2.1을 공개했습니다. 총 118B 파라미터 중 토큰마다 8B만 켜지는 MoE 구조에 컨텍스트는 최대 100만 토큰, 라이선스는 리눅스재단 계열의 개방형 OpenMDW-1.1입니다.
+
+가중치는 공개 당일 허깅페이스에 올라왔고, 학습 시작부터 공개까지 9주가 안 걸렸습니다. 4월 말 첫 모델 M.1, 7월 초 XS 2.1에 이어 석 달 사이 세 번째 모델입니다.
+
+추론 모드와 비추론 모드를 둘 다 지원하고, llama.cpp, Ollama, vLLM 같은 주요 실행 환경을 공개 당일부터 지원합니다.</description><pubDate>Wed, 22 Jul 2026 00:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbEwM_vE74u</guid></item><item><title>3/ 수치부터 봅니다. Terminal-Bench 2.1은 에이전트가 터미널만 쥐고 실제 작업을 끝까지 해내는지를 재는 벤치마크입니다.
+
+Lag...</title><link>https://www.threads.net/@choi.openai/post/DbEwNpyk_bt</link><description>3/ 수치부터 봅니다. Terminal-Bench 2.1은 에이전트가 터미널만 쥐고 실제 작업을 끝까지 해내는지를 재는 벤치마크입니다.
+
+Laguna S 2.1은 여기서 70.2점을 적어냈습니다. 발표 문서 비교표에서 25배 큰 2.8조 파라미터 Kimi K3(88.3)에는 못 미치지만, 1.6조짜리 DeepSeek-V4-Pro-Max(64.0)와 975B Inkling(63.8)보다 위입니다.
+
+다만 이 점수는 아직 Poolside 자체 하네스 보고이고, 벤치마크 공식 리더보드에는 21일까지 등재 전입니다.
+
+크기 대비라는 단서를 달면, 118B가 원래 설 수 없던 자리에 서 있는 것은 맞습니다. 비슷한 점수를 낸 텐센트 Hy3(71.7)는 크기가 2.5배입니다.</description><pubDate>Wed, 22 Jul 2026 00:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbEwNpyk_bt</guid></item><item><title>오픈AI의 산업용 컴퓨팅 총괄 사친 카티(Sachin Katti)는 현재 AI 인프라 확장의 최대 병목으로 데이터센터 인프라와 ‘현장 기술 인력...</title><link>https://www.threads.net/@choi.openai/post/DbErnBRCaLG</link><description>오픈AI의 산업용 컴퓨팅 총괄 사친 카티(Sachin Katti)는 현재 AI 인프라 확장의 최대 병목으로 데이터센터 인프라와 ‘현장 기술 인력 부족’을 꼽았습니다.
+
+그는 데이터센터 건설을 위한 허가 절차, 가스 터빈, 변압기 수급난과 더불어 전기기술자와 배관공 같은 현장 인력이 심각하게 부족하다고 지적했습니다.
+
+"AI가 지식 노동자를 대체할수록, 전기기술자가 되어야 합니다."
+
+하이퍼스케일러와 연구소들이 데이터센터 구축에 몰두하면서 기술 인력의 가치는 크게 뛰어올랐습니다. AI가 코드 작성과 사무직 업무를 대체할수록, 물리적 인프라를 직접 구축하고 유지하는 현장 기술직이 가장 강력한 직업적 경쟁력을 갖게 되는 역설적 구조가 만들어지고 있습니다.</description><pubDate>Tue, 21 Jul 2026 23:20:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbErnBRCaLG</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=wEZBlmvxx4o</title><link>https://www.threads.net/@choi.openai/post/DbErn5NiXgK</link><description>풀영상 :
+https://www.youtube.com/watch?v=wEZBlmvxx4o</description><pubDate>Tue, 21 Jul 2026 23:20:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbErn5NiXgK</guid></item></channel></rss>
