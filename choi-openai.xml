@@ -1,63 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 23 Jul 2026 02:41:51 +0000</lastBuildDate><item><title>앤트로픽이 코드 보안 점검 도구 Claude Security와 Claude Code용 Claude Security Plugin 베타를 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DbHmG83Egwq</link><description>앤트로픽이 코드 보안 점검 도구 Claude Security와 Claude Code용 Claude Security Plugin 베타를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 23 Jul 2026 10:22:07 +0000</lastBuildDate><item><title>저도 사칭이 생겼나보네요.
 
-Claude Security는 코드베이스를 분석해 보안 취약점을 찾고, 결과를 다시 검증한 뒤 수정 코드까지 제안합니다. 여러 파일에 걸친 데이터 흐름을 이해해 기존 패턴 기반 보안 도구가 놓칠 수 있는 취약점도 탐지하는 것이 특징입니다.
+저는 한국어 콘텐츠는 스레드에서만 올리고 있습니다.
+혼동하지 않도록 아이디 옆 블루 체크를 꼭 확인해주세요!
 
-Claude Code에서는 터미널에서 커밋 전에 변경 사항만 검사하거나 저장소 전체를 검사할 수 있습니다. 제안된 수정 내용은 사람이 직접 검토하고 승인해야 적용됩니다. AI가 코드 작성뿐 아니라 보안 점검과 취약점 수정까지 지원하는 개발 환경이 점점 확대되는 모습입니다.</description><pubDate>Thu, 23 Jul 2026 02:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHmG83Egwq</guid></item><item><title>더 알아보기 :
-https://claude.com/product/claude-security#beta</title><link>https://www.threads.net/@choi.openai/post/DbHmINAEkMY</link><description>더 알아보기 :
-https://claude.com/product/claude-security#beta</description><pubDate>Thu, 23 Jul 2026 02:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHmINAEkMY</guid></item><item><title>Cursor가 작업에 맞는 AI 모델을 자동으로 선택하는 Cursor Router를 공개했습니다.
+저는...</title><link>https://www.threads.net/@choi.openai/post/Da5WefQDyNu</link><description>저도 사칭이 생겼나보네요.
 
-Cursor Router는 요청의 난이도와 ...</title><link>https://www.threads.net/@choi.openai/post/DbHb21OE_Cl</link><description>Cursor가 작업에 맞는 AI 모델을 자동으로 선택하는 Cursor Router를 공개했습니다.
+저는 한국어 콘텐츠는 스레드에서만 올리고 있습니다.
+혼동하지 않도록 아이디 옆 블루 체크를 꼭 확인해주세요!
 
-Cursor Router는 요청의 난이도와 코드 맥락을 분석해 가장 적합한 모델로 자동 연결합니다. 복잡한 작업은 고성능 모델이, 간단한 작업은 비용이 낮은 모델이 처리하는 방식입니다.
+저는 절대 먼저 DM을 보내지 않습니다.</description><pubDate>Fri, 17 Jul 2026 13:44:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Da5WefQDyNu</guid></item><item><title>부계정 없습니다.</title><link>https://www.threads.net/@choi.openai/post/DbH5P9_jxdl</link><description>부계정 없습니다.</description><pubDate>Thu, 23 Jul 2026 05:17:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbH5P9_jxdl</guid></item><item><title>이제 수학은 검증의 병목으로 넘어갔습니다.
 
-Cursor는 실제 기업 환경의 온라인 A/B 테스트에서 기존처럼 하나의 고성능 모델만 사용하는 것과 비교해 최대 60%의 비용을 줄이면서도 비슷한 수준의 결과를 확인했다고 밝혔습니다.
+베이징대 수학과 출신 Shouqiao Wang이 GPT-5.6 Sol로 5일 만에 에르되시(Erdő...</title><link>https://www.threads.net/@choi.openai/post/DbISwx2D_XE</link><description>이제 수학은 검증의 병목으로 넘어갔습니다.
 
-사용자는 Intelligence, Balance, Cost 중 원하는 기준을 선택할 수 있으며, Teams와 Enterprise에서는 관리자 설정으로 사용할 모델과 최적화 방식을 관리할 수 있습니다.</description><pubDate>Thu, 23 Jul 2026 01:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHb21OE_Cl</guid></item><item><title>발표내용 :
-https://cursor.com/ko/blog/router</title><link>https://www.threads.net/@choi.openai/post/DbHb4K3E-OS</link><description>발표내용 :
-https://cursor.com/ko/blog/router</description><pubDate>Thu, 23 Jul 2026 01:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHb4K3E-OS</guid></item><item><title>중국 모델을 막으면 누가 죽고 누가 삽니까.
-스타트업 200곳은 수백 개가 즉사하고 앤트로픽만 남는다고 답했습니다.
-이 싸움의 이해관계를 정리했...</title><link>https://www.threads.net/@choi.openai/post/DbHRphxky9V</link><description>중국 모델을 막으면 누가 죽고 누가 삽니까.
-스타트업 200곳은 수백 개가 즉사하고 앤트로픽만 남는다고 답했습니다.
-이 싸움의 이해관계를 정리했습니다 🧵</description><pubDate>Wed, 22 Jul 2026 23:31:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHRphxky9V</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+베이징대 수학과 출신 Shouqiao Wang이 GPT-5.6 Sol로 5일 만에 에르되시(Erdős) 미해결 문제 6개를 풀었다고 밝혔습니다. 13개를 시도해 절반 가까이 성공했다고 하는데요.
 
-1. 재무장관 베센트가 폭스비즈니스에서 중국 기업의 미국 모델 증류를 조사하겠다며 제재 ...</title><link>https://www.threads.net/@choi.openai/post/DbHRqEWk1Vm</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+여기서 프롬프트 설계가 주목할만한데, 오픈AI가 수학 난제 해결을 위해 사용했던 프롬프트에 영감을 받아 질문이 아니라 계약서처럼 썼습니다.
+무엇이 완전한 증명이고 어떤 약한 결과는 인정 안 되는지, 함정까지 미리 못박고, 별도의 적대적 에이전트가 후보 논증을 전부 공격하게 했습니다.
 
-1. 재무장관 베센트가 폭스비즈니스에서 중국 기업의 미국 모델 증류를 조사하겠다며 제재 가능성을 언급함.
-2. 과기실장 크라치오스는 문샷의 Fable 증류와 GB300 밀반입 의혹을 저격함.
-3. 정작 엔티티 리스트 주무부처인 상무부는 아직 중국 AI 기업을 넣을 초안을 만들지 않음.
-4. 백악관은 발표 전 보도는 근거 없는 추측이라며, 전면 밴은 진지하게 논의된 적 없다고 선을 그음.
-5. 실리콘밸리 200곳이 Little Tech 연합으로 트럼프·상무장관·과기실장에게 반대 서한을 보냄.
-6.밴은 확산을 못 막고 미국 스타트업만 죽인다는 게 이들의 논지임.
+수학 실력보다 문제를 고르는 안목과 검증을 설계하는 힘이 성패를 갈랐다는 얘기입니다. ML 배경 연구자가 같은 세팅으로 붙어 7-0으로 졌다는 후일담도 여기 붙고요.
 
-→ 저는 이걸 정책이 정해진 싸움이 아니라, 명분과 이해관계가 먼저 부딪히는 자리로 봅니다.</description><pubDate>Wed, 22 Jul 2026 23:31:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHRqEWk1Vm</guid></item><item><title>2/ 어제까지 이 사안은 정부의 일방 발신이었습니다.
+다만 아직 '해답 주장'이지 검증된 증명은 아닙니다. 사이트 운영자도 커뮤니티 확인 전까진 톤을 낮추자고 했고, 6개 중 Lean 형식화가 끝난 건 2개뿐입니다.</description><pubDate>Thu, 23 Jul 2026 09:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbISwx2D_XE</guid></item><item><title>깃허브 :
+https://github.com/ShouqiaoW/erdos</title><link>https://www.threads.net/@choi.openai/post/DbISxgNj1Mn</link><description>깃허브 :
+https://github.com/ShouqiaoW/erdos</description><pubDate>Thu, 23 Jul 2026 09:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbISxgNj1Mn</guid></item><item><title>오픈AI의 검증 프롬프트 :
+https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/...</title><link>https://www.threads.net/@choi.openai/post/DbISyXQD-sz</link><description>오픈AI의 검증 프롬프트 :
+https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf</description><pubDate>Thu, 23 Jul 2026 09:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbISyXQD-sz</guid></item><item><title>내일 코덱스 업데이트가 드러나는 것 같습니다.
 
-오늘 반대쪽이 조직으로 맞섰습니다. 새로 만들어진 Little Tech 연합이 트럼프 대...</title><link>https://www.threads.net/@choi.openai/post/DbHRqvCE7eL</link><description>2/ 어제까지 이 사안은 정부의 일방 발신이었습니다.
+Codex의 실시간 음성 모드가 스마트폰에서 대화하며 다양한 작업을 처리하는 개인 비서 형태로 ...</title><link>https://www.threads.net/@choi.openai/post/DbIKv-zjzTe</link><description>내일 코덱스 업데이트가 드러나는 것 같습니다.
 
-오늘 반대쪽이 조직으로 맞섰습니다. 새로 만들어진 Little Tech 연합이 트럼프 대통령과 러트닉 상무장관, 크라치오스 과기실장에게 서한을 보냈고, Proton과 와이콤비네이터, 리플릿을 포함해 약 200곳이 이름을 올렸습니다.
+Codex의 실시간 음성 모드가 스마트폰에서 대화하며 다양한 작업을 처리하는 개인 비서 형태로 준비 중인 것으로 보이는데요.
 
-요구는 전면 금지가 아니라 표적형 안전장치입니다. 미국의 주도권은 세계 최고의 미국산 오픈웨이트와, 이미 풀린 오픈 모델에 대한 접근을 함께 지킬 때 나온다는 논리입니다.
+공개된 시스템 프롬프트에 따르면 대화는 음성으로 계속 이어가고, 백그라운드에서는 여러 Codex 작업이 Slack 확인, 캘린더 관리, 웹 검색, 쇼핑, 음식 주문 등을 동시에 처리하는 구조입니다. 예시로 Uber Eats에서 저녁 메뉴를 찾아주는 작업도 포함되어 있습니다.
 
-연합의 표현으로는 큰 칼이 아니라 메스가 필요합니다. 이 서한은 실리콘밸리의 넓은 스타트업 진영이 이 논쟁에 처음으로 한목소리를 낸 사례이기도 합니다.</description><pubDate>Wed, 22 Jul 2026 23:31:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHRqvCE7eL</guid></item><item><title>3/ 스타트업이 여기에 목숨을 거는 이유는 원가입니다.
+AI와 앱을 직접 조작하기보다 대화만으로 여러 작업을 처리하는 방식이 점점 현실에 가까워지고 있는 것으로 보입니다.
+또한, 그토록 기다렸던 Sol Ultrafast 모드도 도입될 것이라는 소문도 자자한데요.
 
-초기 기업은 값싼 중국 오픈 모델 위에서 제품을 만들고, 앤트로픽이나 오픈AI의 사용 ...</title><link>https://www.threads.net/@choi.openai/post/DbHRrvhk4k3</link><description>3/ 스타트업이 여기에 목숨을 거는 이유는 원가입니다.
+챗GPT가 OS로 변화하기 전에 마지막 제품 테스트를 거치는 것 같네요.</description><pubDate>Thu, 23 Jul 2026 07:50:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbIKv-zjzTe</guid></item><item><title>중국에서 가장 비싼 AI 회사의 주인이 된 날, 그 남자는 투자자들 앞에서 네 시간 내내 "안 합니다"만 반복했습니다.
 
-초기 기업은 값싼 중국 오픈 모델 위에서 제품을 만들고, 앤트로픽이나 오픈AI의 사용 크레딧을 대량으로 살 여력이 없습니다.
+슈퍼앱도 안 만들고, ...</title><link>https://www.threads.net/@choi.openai/post/DbH-SLkj029</link><description>중국에서 가장 비싼 AI 회사의 주인이 된 날, 그 남자는 투자자들 앞에서 네 시간 내내 "안 합니다"만 반복했습니다.
 
-연합에 참여한 파티클 창업자 수하일 도시는 밴이 서면 수백 개 회사가 즉사하고, 결국 모두가 앤트로픽에 돈을 쓰게 된다고 말했습니다.
+슈퍼앱도 안 만들고, 최강 모델도 안 숨기고, 돈도 최대로는 안 벌겠다고 말합니다.
 
-가중치는 이미 전 세계에 풀려 있어 미국인의 다운로드를 막아도 확산은 멈추지 않고, 손해는 미국 스타트업에만 남는다는 겁니다.
+500억 달러를 받은 딥시크 창업자 량원펑, 그 회의록이 이번 주 통째로 유출되었습니다. 🧵</description><pubDate>Thu, 23 Jul 2026 06:01:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbH-SLkj029</guid></item><item><title>1/ 딥시크가 지난달 첫 외부 투자로 500억 위안, 약 74억 달러를 받았습니다.
 
-저렴하고 성능이 받쳐주며 손보기 쉬운 오픈 모델은, 자금이 빠듯한 초기 기업에는 사실상 대안이 없는 선택지입니다.</description><pubDate>Wed, 22 Jul 2026 23:31:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHRrvhk4k3</guid></item><item><title>이제 AI 성능 논쟁 그만하세요..
+기업가치는 500억 달러 안팎으로 평가받아 중국에서 가장 ...</title><link>https://www.threads.net/@choi.openai/post/DbH-S0qj81M</link><description>1/ 딥시크가 지난달 첫 외부 투자로 500억 위안, 약 74억 달러를 받았습니다.
 
-드디어 이런게 나오네요.  Vals AI가 GitHub 저장소를 맞춤형 AI 코딩 벤치마크로 바꿔주는 'V...</title><link>https://www.threads.net/@choi.openai/post/DbHHNNfkmXW</link><description>이제 AI 성능 논쟁 그만하세요..
+기업가치는 500억 달러 안팎으로 평가받아 중국에서 가장 비싼 AI 스타트업이 됐는데요. 그 직전인 5월 20일, 량원펑이 투자자들과 네 시간 가까이 화상으로 나눈 회의 녹취록이 지금 업계에 돌고 있습니다.
 
-드디어 이런게 나오네요.  Vals AI가 GitHub 저장소를 맞춤형 AI 코딩 벤치마크로 바꿔주는 'Vals-Smith'를 공개했습니다.
+관통하는 한 단어는 절제입니다. 천재가 아니다, 불합리한 이윤은 안 챙긴다, 폐쇄하지 않는다, 슈퍼앱은 안 만든다, 자체 칩도 안 만든다. 이렇게 "안 한다"를 반복했습니다.
 
-기존 공개 벤치마크는 모델의 전체 성능을 비교하는 데 초점이 맞춰져 있지만, Vals-Smith는 병합된 Pull Request(PR)를 실제 개발 작업으로 변환해 해당 코드베이스에서 어떤 모델이 더 잘 해결하는지 측정합니다.
+이 모든 "안 한다"를 하나로 묶는 게 절제인데, 덜 가질수록 AGI를 만들 확률이 올라가고 끝까지 살아남는다는 겁니다.</description><pubDate>Thu, 23 Jul 2026 06:01:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbH-S0qj81M</guid></item><item><title>2/ 량원펑은 지금 제품으로 수익을 극대화할 때가 아니라고 했습니다.
 
-공개·비공개 저장소 모두 사용할 수 있으며, 모델별 성공률과 작업별 결과를 비교할 수 있습니다. 공개된 예시에서는 저장소마다 상위 모델이 달라지는 모습도 확인할 수 있는데요.
+AGI로 가는 길에 제품 단계를 지나가긴 하지만, 소비자용이든 기업용이든...</title><link>https://www.threads.net/@choi.openai/post/DbH-TThDwUF</link><description>2/ 량원펑은 지금 제품으로 수익을 극대화할 때가 아니라고 했습니다.
 
-과거부터 기업들의 벤치를 과도하게 믿지 말고 본인 프로덕션에 맞는 자신만의 벤치마크를 구현해야한다고 했는데 이런 구조가 나오네요.</description><pubDate>Wed, 22 Jul 2026 21:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHHNNfkmXW</guid></item><item><title>내용 :
-https://www.vals.ai/vals-smith</title><link>https://www.threads.net/@choi.openai/post/DbHHONokipQ</link><description>내용 :
-https://www.vals.ai/vals-smith</description><pubDate>Wed, 22 Jul 2026 22:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHHONokipQ</guid></item></channel></rss>
+AGI로 가는 길에 제품 단계를 지나가긴 하지만, 소비자용이든 기업용이든 거기에 많은 에너지를 쓰지 않는다는 겁니다.
+
+높은 기술 위치에서 한 단계 아래 기술을 하면 위에서 찍어 누르는 셈이고, 제품은 그 길에서 저절로 떨어지는 부산물이라고 했습니다.
+
+API 사업조차 매력적으로 보지 않는다고 했는데요. 몇 사람만 두면 되고 영업도 고객지원도 없이 사용자가 알아서 온다는 겁니다.
+
+같은 시기 오픈AI는 코덱스와 슈퍼앱, IPO까지 밀고 있습니다. 두 회사가 정확히 반대쪽을 봅니다.</description><pubDate>Thu, 23 Jul 2026 06:01:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbH-TThDwUF</guid></item><item><title>3/ 량원펑은 AGI로 가는 길을 계단 오르기에 비유했습니다.
+
+작년 계단은 답을 단계별로 풀어 쓰는 사고사슬이었고, 올해 계단은 스스로 도구를...</title><link>https://www.threads.net/@choi.openai/post/DbH-T4CD9PY</link><description>3/ 량원펑은 AGI로 가는 길을 계단 오르기에 비유했습니다.
+
+작년 계단은 답을 단계별로 풀어 쓰는 사고사슬이었고, 올해 계단은 스스로 도구를 쓰며 여러 단계를 실행하는 에이전트이며, 그다음이 한 번 익힌 걸 계속 쌓는 지속학습이라는 겁니다.
+
+지속학습이 되면 모델이 스스로 더 앞선 모델을 개발하는 점진적 특이점에 닿고, 그 뒤에야 몸을 가진 지능, 로봇에 도착한다고 봤습니다.
+
+그래서 무엇을 곁가지로 두는지도 분명했습니다. 3D와 영상 생성, 그리고 눈앞 장면의 다음을 예측하는 세계 모델은 지능의 상한과 관계가 적고, 지어낸 거짓인 환각은 후처리 학습으로 개선할 제품 문제로 분류한다는 겁니다.</description><pubDate>Thu, 23 Jul 2026 06:01:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbH-T4CD9PY</guid></item></channel></rss>
