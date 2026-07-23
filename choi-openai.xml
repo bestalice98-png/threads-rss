@@ -1,43 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 22 Jul 2026 16:12:39 +0000</lastBuildDate><item><title>코어위브가 엔비디아 베라 루빈 NVL72의 첫 성능 실측을 공개했습니다.
-응답 속도를 같은 수준으로 맞춰 딥시크 R1을 돌리니, 블랙웰 GB20...</title><link>https://www.threads.net/@choi.openai/post/DbGamrICijA</link><description>코어위브가 엔비디아 베라 루빈 NVL72의 첫 성능 실측을 공개했습니다.
-응답 속도를 같은 수준으로 맞춰 딥시크 R1을 돌리니, 블랙웰 GB200보다 메가와트당 토큰이 10배 나왔다고 밝혔습니다.
-성능을 재는 단위를 FLOPs에서 '메가와트당 토큰'으로 옮긴 게 눈에 띕니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 23 Jul 2026 02:41:51 +0000</lastBuildDate><item><title>앤트로픽이 코드 보안 점검 도구 Claude Security와 Claude Code용 Claude Security Plugin 베타를 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DbHmG83Egwq</link><description>앤트로픽이 코드 보안 점검 도구 Claude Security와 Claude Code용 Claude Security Plugin 베타를 공개했습니다.
 
-지금 데이터센터에선 칩보다 전력이 먼저 바닥납니다. 같은 전기에서 토큰을 몇 배 더 뽑느냐가 곧 사업 규모가 되거든요.
-추론 모델은 답 하나에 토큰을 훨씬 많이 뱉으니, 이 효율이 그대로 단가로 이어집니다.
-다만 이 10배는 칩 하나의 성능이 아닙니다. NVFP4 4비트에 고속 NVLink까지 맞물린 풀스택 결과고요.
-비교 상대도 최신 GB300이 아닌 1년 전 GB200이고, 엔비디아 투자처인 코어위브가 낸 첫 실측이라는 점은 감안해야 합니다.
-결국 전력을 덜 쓰고 더 많은 토큰을 뽑는 쪽이 이 시장을 가져갑니다.</description><pubDate>Wed, 22 Jul 2026 15:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGamrICijA</guid></item><item><title>내용 :
-https://coreweave.com/blog/nvidia-vera-rubin-nvl72-on-coreweave-10x-more-to...</title><link>https://www.threads.net/@choi.openai/post/DbGao8dChmd</link><description>내용 :
-https://coreweave.com/blog/nvidia-vera-rubin-nvl72-on-coreweave-10x-more-tokens-per-megawatt-than-blackwell</description><pubDate>Wed, 22 Jul 2026 15:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGao8dChmd</guid></item><item><title>머스크의 스페이스X가 텍사스에 기가와트급 데이터센터를 하나 더 짓는다고 합니다.
-더 인포메이션에 따르면 멤피스 콜로서스급이거나 그보다 큰 규모고...</title><link>https://www.threads.net/@choi.openai/post/DbGTvZYgSUQ</link><description>머스크의 스페이스X가 텍사스에 기가와트급 데이터센터를 하나 더 짓는다고 합니다.
-더 인포메이션에 따르면 멤피스 콜로서스급이거나 그보다 큰 규모고, 슈퍼마이크로는 1년 안에 짓겠다고 밝혔습니다.
-정작 발목을 잡는 건 전력입니다. 이 규모면 GPU를 구하는 것보다 변전소와 송전선을 까는 게 더 오래 걸리거든요.
-멤피스에선 테네시 규제에 막혀 가스터빈을 주 경계 너머 미시시피까지 옮겨 돌렸습니다. 그렇게 밀어붙여 콜로서스 1을 122일 만에 세운 팀입니다.
-텍사스는 다릅니다. 스페이스X가 배스트롭에 이미 대규모 부지와 태양광 공장을 깔아둬서, 땅도 전력도 자기 계열에서 해결됩니다.
-여기에 지난 합병과 이번 상장으로 자금까지 확보했습니다.
-전력과 자본, 건설 속도를 한 회사가 다 쥔 싸움으로 가고 있습니다.</description><pubDate>Wed, 22 Jul 2026 14:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGTvZYgSUQ</guid></item><item><title>기사 :
-https://www.theinformation.com/articles/spacexai-explores-major-data-center...</title><link>https://www.threads.net/@choi.openai/post/DbGTwQ5AUv4</link><description>기사 :
-https://www.theinformation.com/articles/spacexai-explores-major-data-center-expansion-texas</description><pubDate>Wed, 22 Jul 2026 14:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGTwQ5AUv4</guid></item><item><title>오픈AI가 조지아주 에핑엄 카운티에 200억 달러(약 28조 원)를 들여 3.2기가와트 데이터센터를 짓습니다.
-주민 전기요금은 올리지 않고, 전...</title><link>https://www.threads.net/@choi.openai/post/DbGPD_zkzME</link><description>오픈AI가 조지아주 에핑엄 카운티에 200억 달러(약 28조 원)를 들여 3.2기가와트 데이터센터를 짓습니다.
-주민 전기요금은 올리지 않고, 전력이 부족한 시간엔 자기들이 먼저 소비를 줄이겠다는 조건을 달았습니다.
-카운티는 이 세수로 주택 재산세가 40% 내려갈 걸로 봅니다.
-여기에 지역 지원 8천만 달러와 이행을 확인할 독립 감사까지 걸었습니다.
-지금 데이터센터를 세우는 데 가장 큰 걸림돌은 주민 반대입니다.
-지난주 뉴욕 주지사가 신규 대형 데이터센터를 1년 멈춘 명분도 전기요금 부담이었죠.
-부담은 지역이 지는데 돈은 다른 데로 가니 반발이 쌓입니다.
-오픈AI는 그 격차를 지역 안에서 메워 반대할 이유를 없애고 있습니다.
-결국 지역을 먼저 자기 편으로 만드는 쪽이 더 빨리 짓습니다.</description><pubDate>Wed, 22 Jul 2026 13:49:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGPD_zkzME</guid></item><item><title>기사 :
-https://www.axios.com/2026/07/22/openai-savannah-georgia-data-center-projec...</title><link>https://www.threads.net/@choi.openai/post/DbGPEpiE-tK</link><description>기사 :
-https://www.axios.com/2026/07/22/openai-savannah-georgia-data-center-project</description><pubDate>Wed, 22 Jul 2026 13:49:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGPEpiE-tK</guid></item><item><title>공식 발표내용 :
-https://openai.com/index/building-ai-infrastructure-with-the-effingham...</title><link>https://www.threads.net/@choi.openai/post/DbGPqC-Exs2</link><description>공식 발표내용 :
-https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community/</description><pubDate>Wed, 22 Jul 2026 13:54:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGPqC-Exs2</guid></item><item><title>앤트로픽이 AMD 최신 칩 MI450을 2기가와트 규모, 수백억 달러어치 사들이기로 했습니다.
-AMD는 그 앤트로픽에 최대 50억 달러를 투자합...</title><link>https://www.threads.net/@choi.openai/post/DbGL8uDE-ne</link><description>앤트로픽이 AMD 최신 칩 MI450을 2기가와트 규모, 수백억 달러어치 사들이기로 했습니다.
-AMD는 그 앤트로픽에 최대 50억 달러를 투자합니다.
-칩 파는 쪽이 자기 칩 살 고객에게 돈을 대주는 구조인데, 투자금은 물량이 실제로 깔리는 단계에 맞춰 풀립니다.
-AMD가 앤트로픽의 데이터센터 임대까지 보증하는 방안을 논의 중이라는 보도도 있습니다.
-엔비디아가 오픈AI에 투자하고 그 돈이 다시 엔비디아 칩 매출로 돌아오던 순환 구조가, 이번엔 AMD로 번졌습니다.
-구글 TPU와 트레이니움으로 엔비디아 의존을 가장 낮춰둔 앤트로픽이, 사용량 제한까지 부르던 컴퓨트 병목을 AMD 칩까지 끌어와 덜어냅니다.</description><pubDate>Wed, 22 Jul 2026 13:22:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGL8uDE-ne</guid></item><item><title>기사 :
-https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investme...</title><link>https://www.threads.net/@choi.openai/post/DbGL9UTE-Gx</link><description>기사 :
-https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45</description><pubDate>Wed, 22 Jul 2026 13:22:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbGL9UTE-Gx</guid></item></channel></rss>
+Claude Security는 코드베이스를 분석해 보안 취약점을 찾고, 결과를 다시 검증한 뒤 수정 코드까지 제안합니다. 여러 파일에 걸친 데이터 흐름을 이해해 기존 패턴 기반 보안 도구가 놓칠 수 있는 취약점도 탐지하는 것이 특징입니다.
+
+Claude Code에서는 터미널에서 커밋 전에 변경 사항만 검사하거나 저장소 전체를 검사할 수 있습니다. 제안된 수정 내용은 사람이 직접 검토하고 승인해야 적용됩니다. AI가 코드 작성뿐 아니라 보안 점검과 취약점 수정까지 지원하는 개발 환경이 점점 확대되는 모습입니다.</description><pubDate>Thu, 23 Jul 2026 02:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHmG83Egwq</guid></item><item><title>더 알아보기 :
+https://claude.com/product/claude-security#beta</title><link>https://www.threads.net/@choi.openai/post/DbHmINAEkMY</link><description>더 알아보기 :
+https://claude.com/product/claude-security#beta</description><pubDate>Thu, 23 Jul 2026 02:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHmINAEkMY</guid></item><item><title>Cursor가 작업에 맞는 AI 모델을 자동으로 선택하는 Cursor Router를 공개했습니다.
+
+Cursor Router는 요청의 난이도와 ...</title><link>https://www.threads.net/@choi.openai/post/DbHb21OE_Cl</link><description>Cursor가 작업에 맞는 AI 모델을 자동으로 선택하는 Cursor Router를 공개했습니다.
+
+Cursor Router는 요청의 난이도와 코드 맥락을 분석해 가장 적합한 모델로 자동 연결합니다. 복잡한 작업은 고성능 모델이, 간단한 작업은 비용이 낮은 모델이 처리하는 방식입니다.
+
+Cursor는 실제 기업 환경의 온라인 A/B 테스트에서 기존처럼 하나의 고성능 모델만 사용하는 것과 비교해 최대 60%의 비용을 줄이면서도 비슷한 수준의 결과를 확인했다고 밝혔습니다.
+
+사용자는 Intelligence, Balance, Cost 중 원하는 기준을 선택할 수 있으며, Teams와 Enterprise에서는 관리자 설정으로 사용할 모델과 최적화 방식을 관리할 수 있습니다.</description><pubDate>Thu, 23 Jul 2026 01:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHb21OE_Cl</guid></item><item><title>발표내용 :
+https://cursor.com/ko/blog/router</title><link>https://www.threads.net/@choi.openai/post/DbHb4K3E-OS</link><description>발표내용 :
+https://cursor.com/ko/blog/router</description><pubDate>Thu, 23 Jul 2026 01:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHb4K3E-OS</guid></item><item><title>중국 모델을 막으면 누가 죽고 누가 삽니까.
+스타트업 200곳은 수백 개가 즉사하고 앤트로픽만 남는다고 답했습니다.
+이 싸움의 이해관계를 정리했...</title><link>https://www.threads.net/@choi.openai/post/DbHRphxky9V</link><description>중국 모델을 막으면 누가 죽고 누가 삽니까.
+스타트업 200곳은 수백 개가 즉사하고 앤트로픽만 남는다고 답했습니다.
+이 싸움의 이해관계를 정리했습니다 🧵</description><pubDate>Wed, 22 Jul 2026 23:31:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHRphxky9V</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+
+1. 재무장관 베센트가 폭스비즈니스에서 중국 기업의 미국 모델 증류를 조사하겠다며 제재 ...</title><link>https://www.threads.net/@choi.openai/post/DbHRqEWk1Vm</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+
+1. 재무장관 베센트가 폭스비즈니스에서 중국 기업의 미국 모델 증류를 조사하겠다며 제재 가능성을 언급함.
+2. 과기실장 크라치오스는 문샷의 Fable 증류와 GB300 밀반입 의혹을 저격함.
+3. 정작 엔티티 리스트 주무부처인 상무부는 아직 중국 AI 기업을 넣을 초안을 만들지 않음.
+4. 백악관은 발표 전 보도는 근거 없는 추측이라며, 전면 밴은 진지하게 논의된 적 없다고 선을 그음.
+5. 실리콘밸리 200곳이 Little Tech 연합으로 트럼프·상무장관·과기실장에게 반대 서한을 보냄.
+6.밴은 확산을 못 막고 미국 스타트업만 죽인다는 게 이들의 논지임.
+
+→ 저는 이걸 정책이 정해진 싸움이 아니라, 명분과 이해관계가 먼저 부딪히는 자리로 봅니다.</description><pubDate>Wed, 22 Jul 2026 23:31:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHRqEWk1Vm</guid></item><item><title>2/ 어제까지 이 사안은 정부의 일방 발신이었습니다.
+
+오늘 반대쪽이 조직으로 맞섰습니다. 새로 만들어진 Little Tech 연합이 트럼프 대...</title><link>https://www.threads.net/@choi.openai/post/DbHRqvCE7eL</link><description>2/ 어제까지 이 사안은 정부의 일방 발신이었습니다.
+
+오늘 반대쪽이 조직으로 맞섰습니다. 새로 만들어진 Little Tech 연합이 트럼프 대통령과 러트닉 상무장관, 크라치오스 과기실장에게 서한을 보냈고, Proton과 와이콤비네이터, 리플릿을 포함해 약 200곳이 이름을 올렸습니다.
+
+요구는 전면 금지가 아니라 표적형 안전장치입니다. 미국의 주도권은 세계 최고의 미국산 오픈웨이트와, 이미 풀린 오픈 모델에 대한 접근을 함께 지킬 때 나온다는 논리입니다.
+
+연합의 표현으로는 큰 칼이 아니라 메스가 필요합니다. 이 서한은 실리콘밸리의 넓은 스타트업 진영이 이 논쟁에 처음으로 한목소리를 낸 사례이기도 합니다.</description><pubDate>Wed, 22 Jul 2026 23:31:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHRqvCE7eL</guid></item><item><title>3/ 스타트업이 여기에 목숨을 거는 이유는 원가입니다.
+
+초기 기업은 값싼 중국 오픈 모델 위에서 제품을 만들고, 앤트로픽이나 오픈AI의 사용 ...</title><link>https://www.threads.net/@choi.openai/post/DbHRrvhk4k3</link><description>3/ 스타트업이 여기에 목숨을 거는 이유는 원가입니다.
+
+초기 기업은 값싼 중국 오픈 모델 위에서 제품을 만들고, 앤트로픽이나 오픈AI의 사용 크레딧을 대량으로 살 여력이 없습니다.
+
+연합에 참여한 파티클 창업자 수하일 도시는 밴이 서면 수백 개 회사가 즉사하고, 결국 모두가 앤트로픽에 돈을 쓰게 된다고 말했습니다.
+
+가중치는 이미 전 세계에 풀려 있어 미국인의 다운로드를 막아도 확산은 멈추지 않고, 손해는 미국 스타트업에만 남는다는 겁니다.
+
+저렴하고 성능이 받쳐주며 손보기 쉬운 오픈 모델은, 자금이 빠듯한 초기 기업에는 사실상 대안이 없는 선택지입니다.</description><pubDate>Wed, 22 Jul 2026 23:31:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHRrvhk4k3</guid></item><item><title>이제 AI 성능 논쟁 그만하세요..
+
+드디어 이런게 나오네요.  Vals AI가 GitHub 저장소를 맞춤형 AI 코딩 벤치마크로 바꿔주는 'V...</title><link>https://www.threads.net/@choi.openai/post/DbHHNNfkmXW</link><description>이제 AI 성능 논쟁 그만하세요..
+
+드디어 이런게 나오네요.  Vals AI가 GitHub 저장소를 맞춤형 AI 코딩 벤치마크로 바꿔주는 'Vals-Smith'를 공개했습니다.
+
+기존 공개 벤치마크는 모델의 전체 성능을 비교하는 데 초점이 맞춰져 있지만, Vals-Smith는 병합된 Pull Request(PR)를 실제 개발 작업으로 변환해 해당 코드베이스에서 어떤 모델이 더 잘 해결하는지 측정합니다.
+
+공개·비공개 저장소 모두 사용할 수 있으며, 모델별 성공률과 작업별 결과를 비교할 수 있습니다. 공개된 예시에서는 저장소마다 상위 모델이 달라지는 모습도 확인할 수 있는데요.
+
+과거부터 기업들의 벤치를 과도하게 믿지 말고 본인 프로덕션에 맞는 자신만의 벤치마크를 구현해야한다고 했는데 이런 구조가 나오네요.</description><pubDate>Wed, 22 Jul 2026 21:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHHNNfkmXW</guid></item><item><title>내용 :
+https://www.vals.ai/vals-smith</title><link>https://www.threads.net/@choi.openai/post/DbHHONokipQ</link><description>내용 :
+https://www.vals.ai/vals-smith</description><pubDate>Wed, 22 Jul 2026 22:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbHHONokipQ</guid></item></channel></rss>
