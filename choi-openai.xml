@@ -1,58 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 26 Jul 2026 02:44:50 +0000</lastBuildDate><item><title>샘 알트만 떴다..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 26 Jul 2026 09:58:53 +0000</lastBuildDate><item><title>예측이나 에이전트 벤치마크를 다루는 분들은 챙겨둘 만합니다.
 
-샘 알트만이 오픈AI의 전략과 AI의 미래를 가장 솔직하게 공개했습니다.
-초지능, 에이전트, 데이터센터, 특이점까지 앞으로...</title><link>https://www.threads.net/@choi.openai/post/DbPSyzAj207</link><description>샘 알트만 떴다..
+General Reasoning이 과거 특정 날짜의 웹을 그대로 검색하는 Back...</title><link>https://www.threads.net/@choi.openai/post/DbQBKWSAifx</link><description>예측이나 에이전트 벤치마크를 다루는 분들은 챙겨둘 만합니다.
 
-샘 알트만이 오픈AI의 전략과 AI의 미래를 가장 솔직하게 공개했습니다.
-초지능, 에이전트, 데이터센터, 특이점까지 앞으로 어디에 집중해야 하는지 모두 담겼습니다.
+General Reasoning이 과거 특정 날짜의 웹을 그대로 검색하는 BackSearch를 공개했습니다.
+미래를 맞혀 보라고 시켜놓고 지금 웹을 열어주면 이미 결과가 실려 있습니다. 예측이 아니라 검색이 되는 거죠.
 
-가장 중요한 발언과 사례 12가지를 정리했습니다🧵</description><pubDate>Sun, 26 Jul 2026 02:15:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPSyzAj207</guid></item><item><title>1/ 샘 알트만은 AI 에이전트를 기존 산업에 붙이는 쉬운 창업만으로는 이번 시대를 대표하기 어렵다고 봤습니다.
+날짜 필터가 붙은 검색 API로는 왜 안 되는지도 짚었습니다.
+오늘 인덱스를 오늘 기준으로 순위 매기고, 사건이 끝난 뒤 고쳐 쓴 페이지의 지금 본문을 돌려주기 때문입니다.
+BackSearch는 기사가 밝힌 발행일이 아니라 크롤된 날짜로 자르고, 본문도 그때 저장된 것을 줍니다.
 
-비용과 개발 주기가 동시에 급...</title><link>https://www.threads.net/@choi.openai/post/DbPQ8uVDw78</link><description>1/ 샘 알트만은 AI 에이전트를 기존 산업에 붙이는 쉬운 창업만으로는 이번 시대를 대표하기 어렵다고 봤습니다.
+AI판 웨이백 머신이라는 반응이 많은데, 지금은 2025년 12월부터 올해 7월까지 뉴스만 담긴 프리뷰입니다.
+만든 곳은 4월에 프런티어 모델 전부가 프리미어리그 베팅에서 돈을 잃는다는 벤치마크를 낸 회사입니다.</description><pubDate>Sun, 26 Jul 2026 09:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbQBKWSAifx</guid></item><item><title>주소 :
+https://www.gr.inc/releases/introducing-backsearch</title><link>https://www.threads.net/@choi.openai/post/DbQBMeHAir1</link><description>주소 :
+https://www.gr.inc/releases/introducing-backsearch</description><pubDate>Sun, 26 Jul 2026 09:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbQBMeHAir1</guid></item><item><title>와.. Matt Shumer가 Claude Opus 5로 제작한 FPS 데모가 화제가 되고 있습니다.
 
-비용과 개발 주기가 동시에 급락하는 변곡점에서는 스타트업이 대기업보다 구조적으로 유리하다는 판단입니다.
+한 번의 지시(one-shot)로,  여...</title><link>https://www.threads.net/@choi.openai/post/DbP1vdvgjNE</link><description>와.. Matt Shumer가 Claude Opus 5로 제작한 FPS 데모가 화제가 되고 있습니다.
 
-“이번 달에는 불가능하거나 경제성이 없는 일도 2년, 4년 뒤에는 가능해진다는 전제로 계획해야 합니다. 그런데 사람들은 오늘의 에이전트로 쉬운 승리만 얻으려 합니다.” 
+한 번의 지시(one-shot)로,  여러 "서브 에이전트"가 병렬로 작업하고 "/loop"를 수행하며 스스로 수차례 수정한 방식인데요.
 
-스케일링이 계속된다는 가정 아래 지금은 황당해 보이는 문제를 먼저 잡고 더 먼 미래 역량을 선점하라는 분석입니다.</description><pubDate>Sun, 26 Jul 2026 02:15:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPQ8uVDw78</guid></item><item><title>2/ 샘 알트만은 사람·회사·AI 모델을 관찰하며 지수 성장에 대한 신뢰를 배웠다고 설명했습니다.
+AI가 게임을 자동으로 개발하고 개선하는 방식은 앞으로 더 주목받을 것으로 보입니다.</description><pubDate>Sun, 26 Jul 2026 07:20:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbP1vdvgjNE</guid></item><item><title>깃허브 :
+https://github.com/mshumer/Claude-of-Duty</title><link>https://www.threads.net/@choi.openai/post/DbP1yBlgtmO</link><description>깃허브 :
+https://github.com/mshumer/Claude-of-Duty</description><pubDate>Sun, 26 Jul 2026 07:20:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbP1yBlgtmO</guid></item><item><title>초대형 버블의 시작?
 
-현재 성능만 보고 사업 가능성을 재단하면 몇...</title><link>https://www.threads.net/@choi.openai/post/DbPRH3lloz3</link><description>2/ 샘 알트만은 사람·회사·AI 모델을 관찰하며 지수 성장에 대한 신뢰를 배웠다고 설명했습니다.
+AI 패권 경쟁이 이제 모델이 아니라 국가 대 국가 경쟁으로 번지고 있습니다.
 
-현재 성능만 보고 사업 가능성을 재단하면 몇 달 뒤의 모델 수준과 비용 하락을 놓친다는 주장입니다.
+샌프란시스코 AI 서밋에서 9500억 달...</title><link>https://www.threads.net/@choi.openai/post/DbPqQj6D2kc</link><description>초대형 버블의 시작?
 
-“시장은 고성장하는 젊은 창업자에게 베팅하는 법에도 아직 충분히 적응하지 못했습니다. 모델의 지수적 진보가 계속된다는 사실에도 마찬가지입니다.”
+AI 패권 경쟁이 이제 모델이 아니라 국가 대 국가 경쟁으로 번지고 있습니다.
 
-지금보다 더 똑똑하거나 저렴한 모델이 있어야 성립하는 제품을 미리 시작해, 현재 시장의 단기 평가보다 미래 모델의 장기 궤적에 먼저 투자하라는 분석입니다.</description><pubDate>Sun, 26 Jul 2026 02:15:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPRH3lloz3</guid></item><item><title>3/ 샘 알트만은 AI의 가장 큰 현재 위험 중 하나로 소수 기업과 개인이 세계를 통제하려는 권위주의를 꼽았습니다.
+샌프란시스코 AI 서밋에서 9500억 달러 규모 협력이 발표됐고,
+미국과 중국은 칩, 지분, 오픈웨이트까지 서로 다른 전략을 꺼내 들었습니다.
 
-오픈AI가 칩·에너지·데이...</title><link>https://www.threads.net/@choi.openai/post/DbPRNWwkfHf</link><description>3/ 샘 알트만은 AI의 가장 큰 현재 위험 중 하나로 소수 기업과 개인이 세계를 통제하려는 권위주의를 꼽았습니다.
+지금 꼭 알아야 할 핵심 사례들을 정리했습니다🧵</description><pubDate>Sun, 26 Jul 2026 05:40:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPqQj6D2kc</guid></item><item><title>1/ 7월 24일 미국 샌프란시스코 도그패치의 더 미드웨이에서 과학기술정보통신부 주최로 AI 서밋이 열렸습니다.
 
-오픈AI가 칩·에너지·데이터센터·로봇까지 관여하는 이유도 모든 산업을 직접 차지하려는 것이 아니라 지능 공급 기반을 넓히기 위해서라고 설명했습니다.
+이재명 대통령이 '샌프란시스코...</title><link>https://www.threads.net/@choi.openai/post/DbPqQ5DD_-R</link><description>1/ 7월 24일 미국 샌프란시스코 도그패치의 더 미드웨이에서 과학기술정보통신부 주최로 AI 서밋이 열렸습니다.
 
-“AI를 극도로 풍부하고 저렴하고 강력하게 만들어 모두의 손에 쥐여야 합니다.” 
+이재명 대통령이 '샌프란시스코 AI 선언'을 발표했고 공급, 수요, 연결, 책임 네 축으로 구성됐습니다.
 
-오픈AI는 지능 단위를 생산하고, 그 위의 제품과 산업은 분산된 경제가 만들게 하겠다는 구상입니다. 인프라 확장을 접근권 분산의 수단으로 본 분석입니다.</description><pubDate>Sun, 26 Jul 2026 02:15:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPRNWwkfHf</guid></item><item><title>일론 머스크는 약 5년 이내에 AI의 성능이 인간 지능의 총합을 넘어설 것이라고 예측했습니다.
+공급 축의 문장이 가장 직설적인데요. 대체불가한 글로벌 AI 공급망의 핵심국가로 도약하겠다는 것.
 
-“인간이라는 존재 자체를 제외하면, AI가 인간...</title><link>https://www.threads.net/@choi.openai/post/DbPKSpNE7PS</link><description>일론 머스크는 약 5년 이내에 AI의 성능이 인간 지능의 총합을 넘어설 것이라고 예측했습니다.
+김용범 정책실장은 현지 브리핑에서 이걸 더 짧게 요약했습니다. 어떤 경우라도 메모리를 안정적으로 공급하는 나라가 되겠다는 것.
 
-“인간이라는 존재 자체를 제외하면, AI가 인간보다 더 잘해내지 못할 일은 사실상 없을 것입니다.”
+저는 네 축 가운데 공급을 먼저 봅니다. 한국이 지금 확실하게 내놓을 수 있는 건 메모리이고, 수요와 연결과 책임은 그 공급 능력으로 국내에 가져와야 할 것들입니다.
 
-그는 핵전쟁 같은 극단적 변수가 없다면, 누구나 상상하는 모든 것을 누릴 수 있는 “놀라운 풍요의 시대”가 도래할 것이라고 전망했습니다.</description><pubDate>Sun, 26 Jul 2026 01:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPKSpNE7PS</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=1X-rr1DKSbY</title><link>https://www.threads.net/@choi.openai/post/DbPKTl1E1rX</link><description>풀영상 :
-https://www.youtube.com/watch?v=1X-rr1DKSbY</description><pubDate>Sun, 26 Jul 2026 01:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPKTl1E1rX</guid></item><item><title>자신만의 위키를 구축해야하는 이유입니다.
+수요 축에는 로봇처럼 현실에서 움직이는 피지컬 AI가, 책임 축에는 AI 기본사회가 들어갔습니다.
 
-Uniswap에서 채용을 맡고 있는 Charlie Kerr가 여자친구의 틱톡 저장 영상을 처리한 이야...</title><link>https://www.threads.net/@choi.openai/post/DbPDU_nj7bs</link><description>자신만의 위키를 구축해야하는 이유입니다.
+선언에는 전 국민 무료 AI 서비스인 모두의 AI도 들어갔고 연말 출시가 목표입니다.</description><pubDate>Sun, 26 Jul 2026 05:40:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPqQ5DD_-R</guid></item><item><title>2/ 발표된 총액은 9500억 달러, 청와대 환산으로 1375조 원입니다.
 
-Uniswap에서 채용을 맡고 있는 Charlie Kerr가 여자친구의 틱톡 저장 영상을 처리한 이야기를 올렸습니다.
-당일치기 여행, 식당, 선물 아이디어가 수천 개씩 쌓였는데 아무도 다시 못 꺼내 쓰는 상태였습니다.
-틱톡 데이터를 통째로 내보낸 뒤 영상 1만 개를 다 보게 하고, 텍스트를 뽑아 나라와 주, 뉴욕은 동네 단위까지 쪼개 Obsidian에 넣었습니다.
-이제 문자 한 통이면 지역별로 뽑아 일정을 짭니다.
+과기정통부는 6건의 협약이 체결됐다고 밝혔습니다. 그런데 보도로 확...</title><link>https://www.threads.net/@choi.openai/post/DbPqR6hjycQ</link><description>2/ 발표된 총액은 9500억 달러, 청와대 환산으로 1375조 원입니다.
 
-저장은 다들 하고 있습니다. 없는 건 색인입니다.
-AI를 잘 쓰는 조건이 프롬프트에서 자기 자료의 구조로 넘어가는 것 같습니다.</description><pubDate>Sun, 26 Jul 2026 00:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPDU_nj7bs</guid></item><item><title>울프람 리서치(Wolfram Research)의 설립자이자 CEO인 스티븐 울프람(Stephen Wolfram)은 계산 기계의 연산 능력과 AI...</title><link>https://www.threads.net/@choi.openai/post/DbO_-1CAPUU</link><description>울프람 리서치(Wolfram Research)의 설립자이자 CEO인 스티븐 울프람(Stephen Wolfram)은 계산 기계의 연산 능력과 AI 문명과의 공존에 대해 설명했습니다.
+과기정통부는 6건의 협약이 체결됐다고 밝혔습니다. 그런데 보도로 확인되는 협약만 세어도 여덟 건이 넘고, 어느 자료도 그 여섯 건이 무엇인지 번호를 매겨 열거하지 않았습니다.
 
-과거 산업혁명 기계와 달리 계산 기계 영역으로 들어서면 기계의 내부 동작을 완전히 이해하기 어렵다고 언급했습니다. “컴퓨터의 행동을 예측 가능하도록 환원하면 성능이 제한되지만, 연산의 불가약성(irreducibility)을 인정해야만 그 잠재력을 최대한 활용할 수 있다”고 말했습니다.
+과기정통부 보도자료 원문은 지금도 홈페이지에 올라와 있지 않습니다.
 
-또한 인류 문명 옆에 “AI라는 외계 문명”이 새로 생겨난 것과 같다며, “우리가 자연의 복잡함을 완전 예측하지 못해도 집을 지어 공존하듯, AI 문명과도 적응하며 공존하는 법을 배워야 한다”고 강조했습니다.</description><pubDate>Sat, 25 Jul 2026 23:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbO_-1CAPUU</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=U8Omt6K8OnM</title><link>https://www.threads.net/@choi.openai/post/DbO__mVAIV_</link><description>풀영상 :
-https://www.youtube.com/watch?v=U8Omt6K8OnM</description><pubDate>Sat, 25 Jul 2026 23:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbO__mVAIV_</guid></item></channel></rss>
+김용범 정책실장은 현지에서 이렇게 답했는데요. 본계약 수준인지 포괄적 협약인지 묻자 "단순 MOU인지, 선수금을 얼마씩 넣고 하는 거기까지는 확인을 못했다"고 했습니다.
+
+이번 발표에는 가격과 물량과 기간, 선수금과 취소 조항이 공개되지 않았습니다. 공개된 문서만으로는 본계약과 의향서의 규모를 구분하기 어렵습니다.</description><pubDate>Sun, 26 Jul 2026 05:40:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPqR6hjycQ</guid></item><item><title>3/ 그 질문이 왜 중요한지는 마이크론을 보면 압니다.
+마이크론은 전략고객계약을 맺을 때 선수금부터 받았습니다.
+
+마이크론은 6월 실적에서 전략...</title><link>https://www.threads.net/@choi.openai/post/DbPqSdgj4KV</link><description>3/ 그 질문이 왜 중요한지는 마이크론을 보면 압니다.
+마이크론은 전략고객계약을 맺을 때 선수금부터 받았습니다.
+
+마이크론은 6월 실적에서 전략고객계약 16건, 그중 14건이 약 1000억 달러 규모라고 밝혔습니다.
+
+그리고 고객이 미리 낸 돈이 220억 달러입니다. 현금 180억 달러에 신용장 40억 달러이고 취소가 안 됩니다. 마진도 계약 시점에 고정했습니다.
+
+돈이 먼저 들어오고 마진이 잠긴 계약과, 5년간 사겠다는 의향서는 회계상 다른 물건입니다.
+
+김용범 실장이 확인 못했다고 말한 항목이 정확히 이 선수금입니다.
+
+마이크론은 상위 AI 고객 주문의 60%만 채울 수 있다고도 밝혔습니다. 물량이 모자란 쪽이 돈을 먼저 받는 구조가 이미 자리 잡았습니다.</description><pubDate>Sun, 26 Jul 2026 05:40:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPqSdgj4KV</guid></item><item><title>특이점이 왔다는 중국 AI 컴패니언 근황</title><link>https://www.threads.net/@choi.openai/post/DbPiHvPj6g2</link><description>특이점이 왔다는 중국 AI 컴패니언 근황</description><pubDate>Sun, 26 Jul 2026 04:29:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbPiHvPj6g2</guid></item></channel></rss>
