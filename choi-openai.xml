@@ -1,32 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 27 Jul 2026 16:52:46 +0000</lastBuildDate><item><title>선택과 집중의 시간이 다가온 것 같다.
-미국은 오픈웨이트 막고 프론티어에 리소스 몰빵 때리는 제네시스 미션에 총력을 다해야함.</title><link>https://www.threads.net/@choi.openai/post/DbTXXTDD3x-</link><description>선택과 집중의 시간이 다가온 것 같다.
-미국은 오픈웨이트 막고 프론티어에 리소스 몰빵 때리는 제네시스 미션에 총력을 다해야함.</description><pubDate>Mon, 27 Jul 2026 16:12:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbTXXTDD3x-</guid></item><item><title>딥시크가 작년 1월에 엔비디아 시총 1조 달러를 날린 그 방식을, 이번엔 문샷AI가 더 큰 규모로 반복하고 있습니다.
-기업가치 20조 원짜리 회...</title><link>https://www.threads.net/@choi.openai/post/DbTVzAyD0uO</link><description>딥시크가 작년 1월에 엔비디아 시총 1조 달러를 날린 그 방식을, 이번엔 문샷AI가 더 큰 규모로 반복하고 있습니다.
-기업가치 20조 원짜리 회사가 자기 모델의 설계도, 훈련 도구, 추론 엔진, 에이전트 환경까지 전부 무료로 풀었습니다.
-하룻밤에 네 개를 동시에 공개했는데요.
-왜 이 회사들은 모델을 파는 대신 뿌리는지, 그 구조를 정리했습니다 🧵</description><pubDate>Mon, 27 Jul 2026 15:58:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbTVzAyD0uO</guid></item><item><title>1/ 드디어 문샷AI가 7월 28일 자정에 Kimi K3를 공개했습니다.
-2.8조 파라미터 MoE 구조에 네이티브 시각 이해, 100만 토큰 컨...</title><link>https://www.threads.net/@choi.openai/post/DbTVzjlj-LL</link><description>1/ 드디어 문샷AI가 7월 28일 자정에 Kimi K3를 공개했습니다.
-2.8조 파라미터 MoE 구조에 네이티브 시각 이해, 100만 토큰 컨텍스트 윈도우를 갖췄습니다.
-공식 발표에서 가장 눈에 띄는 수치는 "연산 단위당 지능 2.5배"입니다.
-파라미터를 늘린 게 아니라 아키텍처 자체를 바꿨다는 뜻입니다.
-MoE는 입력마다 필요한 전문가 모듈만 골라 쓰는 구조라, 전체 크기가 커도 실제 연산량은 적습니다.
-Kimi K3는 이 구조의 효율을 극한으로 밀어붙인 모델이고, 기술 보고서까지 함께 공개했습니다.</description><pubDate>Mon, 27 Jul 2026 15:58:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbTVzjlj-LL</guid></item><item><title>2/  그런데 모델만 푼 게 아닙니다.
-같은 10분 사이에 세 개의 인프라 프로젝트를 더 공개했습니다.
-MoonEP는 MoE 분산 훈련에서 전문...</title><link>https://www.threads.net/@choi.openai/post/DbTV0yyjw4I</link><description>2/  그런데 모델만 푼 게 아닙니다.
-같은 10분 사이에 세 개의 인프라 프로젝트를 더 공개했습니다.
-MoonEP는 MoE 분산 훈련에서 전문가 간 통신 오버헤드를 줄이는 라이브러리입니다.
-수천 개 GPU가 동시에 돌 때 전문가 모듈끼리 데이터를 주고받는 비용이 병목인데, 이걸 줄여줍니다.
-FlashKDA는 CUTLASS 기반 추론 커널로, H20 칩에서 기존 대비 1.72~2.22배 프리필 속도를 냅니다.
-AgentENV는 에이전트 환경을 대규모로 돌리는 분산 시스템으로, 스냅샷과 재개, 포크를 지원합니다.
-모델을 만드는 방법, 돌리는 방법, 훈련하는 방법이 전부 들어 있습니다.</description><pubDate>Mon, 27 Jul 2026 15:58:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbTV0yyjw4I</guid></item><item><title>3/ 여기서 H20이라는 칩 이름을 주목해야 합니다.
-H20은 엔비디아가 중국 수출용으로 만든 칩입니다.
-미국 정부가 H100, A100, H2...</title><link>https://www.threads.net/@choi.openai/post/DbTV165j_7F</link><description>3/ 여기서 H20이라는 칩 이름을 주목해야 합니다.
-H20은 엔비디아가 중국 수출용으로 만든 칩입니다.
-미국 정부가 H100, A100, H200의 중국 수출을 막자, 엔비디아는 성능을 낮춰 H20을 만들었습니다.
-그 H20마저 2025년 7월에 수출이 금지됐죠.
-FlashKDA가 "H20에서 2.22배"라고 적었다는 건, 제재로 손에 쥔 칩에서 최대한의 성능을 짜내는 최적화라는 뜻입니다.
-가장 좋은 칩을 못 쓰니, 가진 칩에서 더 뽑는 쪽으로 엔지니어링이 집중됐습니다.
-제약이 아키텍처를 바꿨고, 그 결과물이 지금 전 세계에 풀리고 있습니다.</description><pubDate>Mon, 27 Jul 2026 15:58:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbTV165j_7F</guid></item><item><title>중국 총 공격 들어간듯..</title><link>https://www.threads.net/@choi.openai/post/DbTSE-HD3L9</link><description>중국 총 공격 들어간듯..</description><pubDate>Mon, 27 Jul 2026 15:25:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbTSE-HD3L9</guid></item><item><title>내용 분석중이니 기다려주세요..</title><link>https://www.threads.net/@choi.openai/post/DbTSFc3j_FD</link><description>내용 분석중이니 기다려주세요..</description><pubDate>Mon, 27 Jul 2026 15:25:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbTSFc3j_FD</guid></item><item><title>🚨 속보) Kimi k3 모델 웨이트 및 테크니컬 리포트 공개</title><link>https://www.threads.net/@choi.openai/post/DbTRCdXD-8W</link><description>🚨 속보) Kimi k3 모델 웨이트 및 테크니컬 리포트 공개</description><pubDate>Mon, 27 Jul 2026 15:16:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbTRCdXD-8W</guid></item><item><title>허깅페이스 :
-https://huggingface.co/moonshotai/Kimi-K3</title><link>https://www.threads.net/@choi.openai/post/DbTRDGxj0jR</link><description>허깅페이스 :
-https://huggingface.co/moonshotai/Kimi-K3</description><pubDate>Mon, 27 Jul 2026 15:16:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbTRDGxj0jR</guid></item></channel></rss>
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 28 Jul 2026 02:30:24 +0000</lastBuildDate><item><title>전 오픈AI 연구 VP이자 현 Core Automation CEO인 제리 트워렉(Jerry Tworek)은 “평가(Eval)의 시대는 끝났다”고...</title><link>https://www.threads.net/@choi.openai/post/DbUT4cgCZpk</link><description>전 오픈AI 연구 VP이자 현 Core Automation CEO인 제리 트워렉(Jerry Tworek)은 “평가(Eval)의 시대는 끝났다”고 단언했습니다.
+
+기존 HumanEval 등의 코딩 및 지능 벤치마크는 두세 세대만 지나도 만점에 도달할 만큼 쉽게 공략되기 때문에, 단순한 특정 시점의 평가 지표로 모델 성능을 가늠하는 것은 무의미하다는 설명입니다.
+
+현재는 강화학습(RL)과 추론 모델의 발전으로 원하는 거의 모든 과제를 모델에 학습시킬 수 있는 환경이 조성되었습니다.
+
+따라서 이제는 벤치마크 점수보다 “모델이 지속적으로 발전하는 과정” 자체와 사용자가 진정 필요로 하는 가치를 제공하는지에 집중해야 한다고 강조했습니다.</description><pubDate>Tue, 28 Jul 2026 01:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUT4cgCZpk</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=hOB8KYwrksY</title><link>https://www.threads.net/@choi.openai/post/DbUT5gZiWN7</link><description>풀영상 :
+https://www.youtube.com/watch?v=hOB8KYwrksY</description><pubDate>Tue, 28 Jul 2026 01:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUT5gZiWN7</guid></item><item><title>오픈AI가 미국 직장인들의 ChatGPT 업무 메시지 80만 건을 직접 분류했습니다.
+
+직무와 관련된 사용의 43.5%는 질문자 본인의 직업이 ...</title><link>https://www.threads.net/@choi.openai/post/DbUTzX9D9tD</link><description>오픈AI가 미국 직장인들의 ChatGPT 업무 메시지 80만 건을 직접 분류했습니다.
+
+직무와 관련된 사용의 43.5%는 질문자 본인의 직업이 아니라 다른 직업의 일이었습니다. 디자이너가 코드를 고치고, 영업사원이 재무 계산을 하고 있었습니다.
+
+그런데 이 비율이 유독 높게 나오는 조직이 따로 있는데요.
+
+오픈AI 경제연구팀의 새 리포트 Work at the Frontier를 정리했습니다 🧵</description><pubDate>Tue, 28 Jul 2026 01:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUTzX9D9tD</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+
+1. 오픈AI 경제연구팀이 미국 사용자의 업무 메시지 80만 건 이상을 분석한 새 리포트...</title><link>https://www.threads.net/@choi.openai/post/DbUTz7lj9_b</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+
+1. 오픈AI 경제연구팀이 미국 사용자의 업무 메시지 80만 건 이상을 분석한 새 리포트 시리즈를 시작함.
+2. 이메일, 요약 같은 공용 업무를 걸러낸 직무 특정 메시지 중 43.5%가 질문자의 직업이 아닌 다른 직업의 업무였음.
+3. 고객경험, 디자인, 인사 직군은 그 비율이 69~77%까지 올라감.
+4. 재무 계산과 소프트웨어 문제 해결은 거의 모든 직군이 빌려 쓰는 업무로 확인됨.
+5. 회사가 작을수록 직업 경계를 넘는 사용이 많았음. 위임할 전문가가 없으면 문제를 처음 만난 사람이 AI로 직접 해결함.
+
+→ 일의 재편은 직함이 아니라 업무 단위에서 먼저 일어나고 있고, 고용 통계가 잡기 훨씬 전에 사용 데이터가 그 시작을 보여주고 있다고 봅니다.</description><pubDate>Tue, 28 Jul 2026 01:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUTz7lj9_b</guid></item><item><title>2/ 오픈AI 경제연구팀이 7월 27일 Work at the Frontier 시리즈의 첫 리포트를 공개했습니다.
+
+미국 ChatGPT 사용자들이...</title><link>https://www.threads.net/@choi.openai/post/DbUT0WrD8ja</link><description>2/ 오픈AI 경제연구팀이 7월 27일 Work at the Frontier 시리즈의 첫 리포트를 공개했습니다.
+
+미국 ChatGPT 사용자들이 개인 계정으로 보낸 업무 관련 메시지 80만 건 이상을 무작위 표본으로 뽑아, 사람들이 실제로 AI에게 어떤 업무를 시키는지 직업별로 분류한 연구입니다.
+
+직군 정보는 ChatGPT Business 가입 정보에서 가져오고, 분석한 메시지는 그 사용자들의 개인 계정 사용분입니다.
+
+리포트가 붙인 이름은 태스크 크로스오버입니다. 한 직업에 역사적으로 묶여 있던 업무가 다른 직업 사람의 AI 사용에서 나타나는 현상을 말합니다.
+
+연구팀은 4월에 낸 AI 일자리 전환 프레임워크에서 상당수 직업이 하루하루의 업무 구성이 크게 바뀌는 재편 유형에 속한다고 분류했는데, 이번 리포트는 그 재편이 사용 데이터에서 이미 시작됐다는 첫 실측 자료입니다.</description><pubDate>Tue, 28 Jul 2026 01:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUT0WrD8ja</guid></item><item><title>3/ 측정 방식부터 보겠습니다.
+
+연구팀은 미국 노동부의 직업 데이터베이스 ONET을 기준으로 직업마다 역사적으로 해 온 업무의 경계를 만들고,...</title><link>https://www.threads.net/@choi.openai/post/DbUT1AXD8C5</link><description>3/ 측정 방식부터 보겠습니다.
+
+연구팀은 미국 노동부의 직업 데이터베이스 ONET을 기준으로 직업마다 역사적으로 해 온 업무의 경계를 만들고, 메시지 하나하나를 가장 가까운 세부 업무에 배정했습니다.
+
+이때 이메일 작성, 요약, 일정 관리처럼 어느 직업에나 있는 일은 제네릭으로 분류해 제외하는데, 이게 전체 업무 메시지의 61.5%나 됩니다.
+
+남은 메시지 가운데 자기 직업 안의 일이 21.8%, 다른 직업의 일이 16.8%입니다. 이 필터가 결과를 좌우합니다.
+
+공용 업무를 걸러내지 않으면 AI 사용 대부분이 그냥 글쓰기와 정리로 뭉뚱그려지고, 걸러내야 직업 사이를 건너다니는 업무가 보이기 시작합니다.
+
+분류는 모델이 익명화된 메시지의 과제 내용에 따라 수행했고, 연구진이 원문을 직접 읽지는 않았다고 리포트는 밝혔습니다.</description><pubDate>Tue, 28 Jul 2026 01:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUT1AXD8C5</guid></item><item><title>🚨 코덱스 리셋예정, 토큰 맥싱 가자!</title><link>https://www.threads.net/@choi.openai/post/DbUQKVRj8Mr</link><description>🚨 코덱스 리셋예정, 토큰 맥싱 가자!</description><pubDate>Tue, 28 Jul 2026 00:28:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUQKVRj8Mr</guid></item><item><title>엔비디아 오픈레터에 오픈AI와 구글까지 서명했지만 앤트로픽은 끝내 빠졌습니다.
+
+오늘 아모데이가 직접 입장문을 냈는데요.
+
+금지를 주장한 적 없...</title><link>https://www.threads.net/@choi.openai/post/DbUJkkHD26g</link><description>엔비디아 오픈레터에 오픈AI와 구글까지 서명했지만 앤트로픽은 끝내 빠졌습니다.
+
+오늘 아모데이가 직접 입장문을 냈는데요.
+
+금지를 주장한 적 없고, 대신 대중국 칩 통제와 산업적 규모의 증류 단속, 충분히 강한 모델의 출시 전 안전성 테스트 의무화 세 가지를 요구했습니다.
+
+앞의 둘은 새롭지 않습니다.
+
+6월 10일 상원 은행위원회 서한에서 앤트로픽은 알리바바가 가짜 계정 2만 5천 개로 클로드와 2,880만 번 대화했다며 칩 우회 차단과 제재를 이미 요구했습니다.
+
+세 번째가 실제로 부딪히는 지점입니다.
+
+서한도 엄격한 평가와 레드팀을 말합니다.
+
+다만 가중치를 풀어 누구나 검증하게 하자는 쪽이고, 아모데이는 출시 전에 통과해야 할 관문으로 걸자는 쪽입니다.
+
+같은 테스트라는 단어를 쓰면서 검증 시점이 정반대입니다.</description><pubDate>Mon, 27 Jul 2026 23:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUJkkHD26g</guid></item><item><title>발표문 :
+https://www.anthropic.com/news/position-open-weights-models</title><link>https://www.threads.net/@choi.openai/post/DbUJlU_D2sZ</link><description>발표문 :
+https://www.anthropic.com/news/position-open-weights-models</description><pubDate>Mon, 27 Jul 2026 23:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUJlU_D2sZ</guid></item></channel></rss>
