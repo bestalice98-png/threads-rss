@@ -1,72 +1,102 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 28 Jul 2026 02:30:24 +0000</lastBuildDate><item><title>전 오픈AI 연구 VP이자 현 Core Automation CEO인 제리 트워렉(Jerry Tworek)은 “평가(Eval)의 시대는 끝났다”고...</title><link>https://www.threads.net/@choi.openai/post/DbUT4cgCZpk</link><description>전 오픈AI 연구 VP이자 현 Core Automation CEO인 제리 트워렉(Jerry Tworek)은 “평가(Eval)의 시대는 끝났다”고 단언했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 28 Jul 2026 10:33:49 +0000</lastBuildDate><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 “앞으로 6개월의 모델 발전은 지난 2년치 성과와 맞먹을 것”이라며, 지금이 스타트업을 시작하...</title><link>https://www.threads.net/@choi.openai/post/DbVRmwqk1e0</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 “앞으로 6개월의 모델 발전은 지난 2년치 성과와 맞먹을 것”이라며, 지금이 스타트업을 시작하기에 역사상 가장 좋은 시기라고 강조했습니다.
 
-기존 HumanEval 등의 코딩 및 지능 벤치마크는 두세 세대만 지나도 만점에 도달할 만큼 쉽게 공략되기 때문에, 단순한 특정 시점의 평가 지표로 모델 성능을 가늠하는 것은 무의미하다는 설명입니다.
+그는 세상에 의미 있는 변화를 만드는 도전일수록 기존 질서의 비난과 공격을 받게 되지만, 이를 극복하고 나아가야 한다고 당부했습니다.
+오픈AI 역시 처음엔 제품화 계획조차 불분명한 비영리 연구소로 시작했음을 짚었습니다.
 
-현재는 강화학습(RL)과 추론 모델의 발전으로 원하는 거의 모든 과제를 모델에 학습시킬 수 있는 환경이 조성되었습니다.
+아무리 거대한 비전이라도 초기 단계는 불확실할 수밖에 없기에, 완벽하지 않더라도 일단 발을 내딛고 실행하며 데이터와 경험을 쌓아나가는 것이 핵심이라고 설명했습니다.</description><pubDate>Tue, 28 Jul 2026 10:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbVRmwqk1e0</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=ZIaOBAjvc38</title><link>https://www.threads.net/@choi.openai/post/DbVRoByE-dy</link><description>풀영상 :
+https://www.youtube.com/watch?v=ZIaOBAjvc38</description><pubDate>Tue, 28 Jul 2026 10:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbVRoByE-dy</guid></item><item><title>HBM을 잘 파는 게 한국의 전략이라고들 합니다.
 
-따라서 이제는 벤치마크 점수보다 “모델이 지속적으로 발전하는 과정” 자체와 사용자가 진정 필요로 하는 가치를 제공하는지에 집중해야 한다고 강조했습니다.</description><pubDate>Tue, 28 Jul 2026 01:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUT4cgCZpk</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=hOB8KYwrksY</title><link>https://www.threads.net/@choi.openai/post/DbUT5gZiWN7</link><description>풀영상 :
-https://www.youtube.com/watch?v=hOB8KYwrksY</description><pubDate>Tue, 28 Jul 2026 01:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUT5gZiWN7</guid></item><item><title>오픈AI가 미국 직장인들의 ChatGPT 업무 메시지 80만 건을 직접 분류했습니다.
+그런데 HBM 물량은 이미 몇 년치가 팔려 있고 새 라인은 2027년 말에서 2028년에 들...</title><link>https://www.threads.net/@choi.openai/post/DbVFmVHj4pn</link><description>HBM을 잘 파는 게 한국의 전략이라고들 합니다.
 
-직무와 관련된 사용의 43.5%는 질문자 본인의 직업이 ...</title><link>https://www.threads.net/@choi.openai/post/DbUTzX9D9tD</link><description>오픈AI가 미국 직장인들의 ChatGPT 업무 메시지 80만 건을 직접 분류했습니다.
+그런데 HBM 물량은 이미 몇 년치가 팔려 있고 새 라인은 2027년 말에서 2028년에 들어옵니다. 지금 주문을 더 받아도 대기줄만 뒤로 밀립니다.
 
-직무와 관련된 사용의 43.5%는 질문자 본인의 직업이 아니라 다른 직업의 일이었습니다. 디자이너가 코드를 고치고, 영업사원이 재무 계산을 하고 있었습니다.
+그래서 이번 샌프란시스코 AI 서밋의 초점은 메모리 계약이 아니라고 저는 봅니다.
 
-그런데 이 비율이 유독 높게 나오는 조직이 따로 있는데요.
+그럼 어디여야 하는지 정리했습니다 🧵</description><pubDate>Tue, 28 Jul 2026 08:15:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbVFmVHj4pn</guid></item><item><title>1/ 반도체가 한국 수출에서 차지하는 비중은 7월 1일부터 20일까지 40.3%였습니다. 1년 전 같은 기간에는 21.9%였죠.
 
-오픈AI 경제연구팀의 새 리포트 Work at the Frontier를 정리했습니다 🧵</description><pubDate>Tue, 28 Jul 2026 01:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUTzX9D9tD</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+상반기 전체로...</title><link>https://www.threads.net/@choi.openai/post/DbVFm03j_Rg</link><description>1/ 반도체가 한국 수출에서 차지하는 비중은 7월 1일부터 20일까지 40.3%였습니다. 1년 전 같은 기간에는 21.9%였죠.
 
-1. 오픈AI 경제연구팀이 미국 사용자의 업무 메시지 80만 건 이상을 분석한 새 리포트...</title><link>https://www.threads.net/@choi.openai/post/DbUTz7lj9_b</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+상반기 전체로 보면 수출 4,967억 달러 가운데 반도체가 1,924억 달러로 38%입니다. 지난해 연간 비중 24%에서 1년 만에 올라왔습니다.
 
-1. 오픈AI 경제연구팀이 미국 사용자의 업무 메시지 80만 건 이상을 분석한 새 리포트 시리즈를 시작함.
-2. 이메일, 요약 같은 공용 업무를 걸러낸 직무 특정 메시지 중 43.5%가 질문자의 직업이 아닌 다른 직업의 업무였음.
-3. 고객경험, 디자인, 인사 직군은 그 비율이 69~77%까지 올라감.
-4. 재무 계산과 소프트웨어 문제 해결은 거의 모든 직군이 빌려 쓰는 업무로 확인됨.
-5. 회사가 작을수록 직업 경계를 넘는 사용이 많았음. 위임할 전문가가 없으면 문제를 처음 만난 사람이 AI로 직접 해결함.
+한 품목이 수출의 5분의 2를 차지하면, 그 품목 가격이 오를 때 나라 전체가 같은 물량으로 더 많은 돈을 법니다.
 
-→ 일의 재편은 직함이 아니라 업무 단위에서 먼저 일어나고 있고, 고용 통계가 잡기 훨씬 전에 사용 데이터가 그 시작을 보여주고 있다고 봅니다.</description><pubDate>Tue, 28 Jul 2026 01:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUTz7lj9_b</guid></item><item><title>2/ 오픈AI 경제연구팀이 7월 27일 Work at the Frontier 시리즈의 첫 리포트를 공개했습니다.
+2분기에 실질 성장률은 0.6%였는데 벌어들인 소득을 재는 실질 국내총소득은 3.6% 늘었습니다. 생산량이 아니라 값이 만든 차이입니다.
 
-미국 ChatGPT 사용자들이...</title><link>https://www.threads.net/@choi.openai/post/DbUT0WrD8ja</link><description>2/ 오픈AI 경제연구팀이 7월 27일 Work at the Frontier 시리즈의 첫 리포트를 공개했습니다.
+올해 추경 26조 2,000억 원의 재원도 초과세수 25조 2,000억 원이었고, 그 세수를 만든 게 반도체 호황입니다.</description><pubDate>Tue, 28 Jul 2026 08:15:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbVFm03j_Rg</guid></item><item><title>2/ 성장의 내용을 뜯어보면 이렇습니다.
+6월 수출금액지수는 전년 대비 74.8% 올랐는데, 물량을 재는 수출물량지수는 29.8% 오르는 데 그...</title><link>https://www.threads.net/@choi.openai/post/DbVFngLj0qF</link><description>2/ 성장의 내용을 뜯어보면 이렇습니다.
+6월 수출금액지수는 전년 대비 74.8% 올랐는데, 물량을 재는 수출물량지수는 29.8% 오르는 데 그쳤습니다.
 
-미국 ChatGPT 사용자들이 개인 계정으로 보낸 업무 관련 메시지 80만 건 이상을 무작위 표본으로 뽑아, 사람들이 실제로 AI에게 어떤 업무를 시키는지 직업별로 분류한 연구입니다.
+품목 하나만 떼어 보면 더 뚜렷합니다. 산업통상부 수출가격 기준으로 DDR5 메모리 값은 1년 사이 5.1달러에서 40달러로 올랐습니다.
 
-직군 정보는 ChatGPT Business 가입 정보에서 가져오고, 분석한 메시지는 그 사용자들의 개인 계정 사용분입니다.
+고용은 반대로 움직입니다. 6월 제조업 취업자는 24개월 연속 줄었고, 반도체가 제조업 취업자에서 차지하는 비중은 4% 수준입니다.
 
-리포트가 붙인 이름은 태스크 크로스오버입니다. 한 직업에 역사적으로 묶여 있던 업무가 다른 직업 사람의 AI 사용에서 나타나는 현상을 말합니다.
+수출이 두 배가 돼도 일자리로 내려오는 통로가 좁다는 뜻이죠.
 
-연구팀은 4월에 낸 AI 일자리 전환 프레임워크에서 상당수 직업이 하루하루의 업무 구성이 크게 바뀌는 재편 유형에 속한다고 분류했는데, 이번 리포트는 그 재편이 사용 데이터에서 이미 시작됐다는 첫 실측 자료입니다.</description><pubDate>Tue, 28 Jul 2026 01:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUT0WrD8ja</guid></item><item><title>3/ 측정 방식부터 보겠습니다.
+그 값마저 6월에 방향이 바뀌었습니다. D램은 제품 종류가 많아 무게 단위로 단가를 환산해 보는데, 이 값이 9개월 만에 처음으로 전월 대비 1.7% 내렸습니다.</description><pubDate>Tue, 28 Jul 2026 08:15:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbVFngLj0qF</guid></item><item><title>3/ 값이 만든 성장은 값이 꺾일 때 그대로 되돌아옵니다.
+2023년 SK하이닉스는 영업손실 7조 7,303억 원을 냈습니다. 전년 영업이익 6...</title><link>https://www.threads.net/@choi.openai/post/DbVFn8wD48y</link><description>3/ 값이 만든 성장은 값이 꺾일 때 그대로 되돌아옵니다.
+2023년 SK하이닉스는 영업손실 7조 7,303억 원을 냈습니다. 전년 영업이익 6조 8,094억 원에서 1년 만에 14조 5,397억 원이 뒤집혔죠.
 
-연구팀은 미국 노동부의 직업 데이터베이스 ONET을 기준으로 직업마다 역사적으로 해 온 업무의 경계를 만들고,...</title><link>https://www.threads.net/@choi.openai/post/DbUT1AXD8C5</link><description>3/ 측정 방식부터 보겠습니다.
+같은 해 삼성전자 반도체 부문은 14조 8,800억 원 적자였고, 3분기까지 두 회사 누적 적자만 21조 원이었습니다. 한국 전체 수출은 7.4% 줄었고요.
 
-연구팀은 미국 노동부의 직업 데이터베이스 ONET을 기준으로 직업마다 역사적으로 해 온 업무의 경계를 만들고, 메시지 하나하나를 가장 가까운 세부 업무에 배정했습니다.
+2019년에는 반도체 수출이 25.9% 줄면서 그해 성장률 전망이 1월 2.6%에서 11월 2.0%까지 내려갔습니다.
 
-이때 이메일 작성, 요약, 일정 관리처럼 어느 직업에나 있는 일은 제네릭으로 분류해 제외하는데, 이게 전체 업무 메시지의 61.5%나 됩니다.
+두 번 다 수출에서 반도체가 차지하던 비중은 지금의 절반 수준이었습니다.
+노출도가 두 배가 됐으니 같은 폭으로 꺾여도 이번 충격은 그때보다 큽니다.</description><pubDate>Tue, 28 Jul 2026 08:15:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbVFn8wD48y</guid></item><item><title>AMD가 과기정통부와 소버린 AI 파트너십을 맺었습니다.
 
-남은 메시지 가운데 자기 직업 안의 일이 21.8%, 다른 직업의 일이 16.8%입니다. 이 필터가 결과를 좌우합니다.
+AMD CPU와 GPU에 국산 NPU를 붙인 이기종 인프라를 검토하고, 한국에 AI ...</title><link>https://www.threads.net/@choi.openai/post/DbU9Dc5D7Eu</link><description>AMD가 과기정통부와 소버린 AI 파트너십을 맺었습니다.
 
-공용 업무를 걸러내지 않으면 AI 사용 대부분이 그냥 글쓰기와 정리로 뭉뚱그려지고, 걸러내야 직업 사이를 건너다니는 업무가 보이기 시작합니다.
+AMD CPU와 GPU에 국산 NPU를 붙인 이기종 인프라를 검토하고, 한국에 AI 센터를 세우는 내용입니다.
 
-분류는 모델이 익명화된 메시지의 과제 내용에 따라 수행했고, 연구진이 원문을 직접 읽지는 않았다고 리포트는 밝혔습니다.</description><pubDate>Tue, 28 Jul 2026 01:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUT1AXD8C5</guid></item><item><title>🚨 코덱스 리셋예정, 토큰 맥싱 가자!</title><link>https://www.threads.net/@choi.openai/post/DbUQKVRj8Mr</link><description>🚨 코덱스 리셋예정, 토큰 맥싱 가자!</description><pubDate>Tue, 28 Jul 2026 00:28:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUQKVRj8Mr</guid></item><item><title>엔비디아 오픈레터에 오픈AI와 구글까지 서명했지만 앤트로픽은 끝내 빠졌습니다.
+AMD의 처지를 보면 자연스러운 구성인데, 하이퍼스케일러 시장에서는 CUDA에 쌓인 소프트웨어 자산 때문에 칩 성능만으로는 자리를 못 뺏기 때문입니다.
 
-오늘 아모데이가 직접 입장문을 냈는데요.
+같은 용량을 재임대 시장에 내놔도 엔비디아 GPU가 AMD보다 훨씬 높은 값을 받는 게 그 격차의 실측이고요.
 
-금지를 주장한 적 없...</title><link>https://www.threads.net/@choi.openai/post/DbUJkkHD26g</link><description>엔비디아 오픈레터에 오픈AI와 구글까지 서명했지만 앤트로픽은 끝내 빠졌습니다.
+그래서 AMD는 벤더 종속을 꺼리는 정부 시장을 파고듭니다.
 
-오늘 아모데이가 직접 입장문을 냈는데요.
+지난주 행사에서 소버린 전용 구성(Venice-X CPU+MI430X)을 따로 내놨고, 한국 협약은 그 연장선으로 보입니다.
 
-금지를 주장한 적 없고, 대신 대중국 칩 통제와 산업적 규모의 증류 단속, 충분히 강한 모델의 출시 전 안전성 테스트 의무화 세 가지를 요구했습니다.
+한국이 얻는 건 CUDA가 자리를 내주지 않는 국산 NPU를 같은 환경에 얹을 개방형 스택과 두 번째 공급선입니다.
 
-앞의 둘은 새롭지 않습니다.
+소프트웨어가 AMD의 오래된 약점이니, 인재가 있는 나라마다 센터를 세워 생태계를 같이 짓게 만드는 게 AMD식 해자 공사입니다.</description><pubDate>Tue, 28 Jul 2026 07:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbU9Dc5D7Eu</guid></item><item><title>발표내용 :
+https://newsroom.amd.com/news/amd-and-korea-s-ministry-of-science-and-ict...</title><link>https://www.threads.net/@choi.openai/post/DbU9EiND3MY</link><description>발표내용 :
+https://newsroom.amd.com/news/amd-and-korea-s-ministry-of-science-and-ict-partner-to-advance-a-sovereign-ai-ecosystem/</description><pubDate>Tue, 28 Jul 2026 07:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbU9EiND3MY</guid></item><item><title>폐쇄형 최상위와 오픈웨이트의 거리가 4점까지 좁혀졌습니다.
+문샷AI가 오늘 새벽 Kimi K3의 가중치를 공개했습니다.
+1.56테라바이트 가중치...</title><link>https://www.threads.net/@choi.openai/post/DbUx2_5j9xb</link><description>폐쇄형 최상위와 오픈웨이트의 거리가 4점까지 좁혀졌습니다.
+문샷AI가 오늘 새벽 Kimi K3의 가중치를 공개했습니다.
+1.56테라바이트 가중치에 테크니컬 리포트, 커널과 통신 라이브러리까지 통째로요.
+발표 때는 안 보이던 것들이 파일 안에서 나왔습니다.
+그중 하나는 엔비디아가 아닌 이름입니다 🧵</description><pubDate>Tue, 28 Jul 2026 05:22:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUx2_5j9xb</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-6월 10일 상원 은행위원회 서한에서 앤트로픽은 알리바바가 가짜 계정 2만 5천 개로 클로드와 2,880만 번 대화했다며 칩 우회 차단과 제재를 이미 요구했습니다.
+1. 16일 발표 때 못박은 대로 27일 가중치 1.56테라바이트가 테크니컬 리포트와 함...</title><link>https://www.threads.net/@choi.openai/post/DbUx3U5j2d0</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-세 번째가 실제로 부딪히는 지점입니다.
+1. 16일 발표 때 못박은 대로 27일 가중치 1.56테라바이트가 테크니컬 리포트와 함께 풀림.
+2. 어텐션 커널, MoE 통신 라이브러리, 에이전트 환경 실행 시스템도 전부 MIT로 같이 풀림.
+3. 독립 채점판에서 폐쇄형 최상위와 4점 차로 확정됨. 2월 이후 가장 좁음.
+4. 발표 때 사례 하나로 지나간 커널 자기작성이 리포트에서 개발 공정 수준으로 확인됨.
+5. 리포트가 사후학습 전 과정을 공개함. 교사 아홉을 따로 키워 한 모델로 합치는 방식이었음.
+6. 유력하다던 수정 MIT가 아니라 매출 2,000만 달러부터 별도 계약인 자체 라이선스7. 로 확정됨.
+8. MoE 통신 라이브러리 지원 하드웨어에 중국산 가속기 진우 PPU가 심사 중으로 올라옴.
+9. 학습 토큰 수와 GPU 규모는 리포트에서도 끝내 비어 있었음.
 
-서한도 엄격한 평가와 레드팀을 말합니다.
+→ 발표 때 주장이던 것들이 대부분 검증으로 바뀌었고, 비워둔 칸은 정확히 투입 자원 쪽입니다.</description><pubDate>Tue, 28 Jul 2026 05:22:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUx3U5j2d0</guid></item><item><title>2/ 문샷AI가 예고를 지켰습니다.
+27일 허깅페이스에 Kimi K3 가중치 파일 96개, 합쳐서 1.56테라바이트가 올라왔고 테크니컬 리포트가...</title><link>https://www.threads.net/@choi.openai/post/DbUx35SDwMa</link><description>2/ 문샷AI가 예고를 지켰습니다.
+27일 허깅페이스에 Kimi K3 가중치 파일 96개, 합쳐서 1.56테라바이트가 올라왔고 테크니컬 리포트가 같이 나왔습니다.
 
-다만 가중치를 풀어 누구나 검증하게 하자는 쪽이고, 아모데이는 출시 전에 통과해야 할 관문으로 걸자는 쪽입니다.
+발표글에서 실물 확인은 27일이라고 적어 뒀는데, 그 확인 대상이 도착한 겁니다.
+가중치만 온 게 아닙니다. 어텐션 커널 구현체 FlashKDA, MoE 통신 라이브러리 MoonEP, 에이전트 환경 실행 시스템 AgentENV가 같은 날 전부 MIT로 풀렸습니다. 
 
-같은 테스트라는 단어를 쓰면서 검증 시점이 정반대입니다.</description><pubDate>Mon, 27 Jul 2026 23:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUJkkHD26g</guid></item><item><title>발표문 :
-https://www.anthropic.com/news/position-open-weights-models</title><link>https://www.threads.net/@choi.openai/post/DbUJlU_D2sZ</link><description>발표문 :
-https://www.anthropic.com/news/position-open-weights-models</description><pubDate>Mon, 27 Jul 2026 23:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUJlU_D2sZ</guid></item></channel></rss>
+모델 파일 하나가 아니라 그 모델을 만들고 돌리는 도구 일습이 나온 공개라, 발표 때와는 뜯어볼 수 있는 범위 자체가 다릅니다.
+
+리포트는 본문만 20쪽이 넘고 부록에 증명까지 붙어 있습니다.</description><pubDate>Tue, 28 Jul 2026 05:22:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUx35SDwMa</guid></item><item><title>3/ 순위부터 확정됐습니다.
+Artificial Analysis 지능 지수에서 57로 186개 모델 중 4위입니다.
+
+위에 있는 건 Claude...</title><link>https://www.threads.net/@choi.openai/post/DbUx4gkDxJk</link><description>3/ 순위부터 확정됐습니다.
+Artificial Analysis 지능 지수에서 57로 186개 모델 중 4위입니다.
+
+위에 있는 건 Claude Opus 5가 61, Fable 5가 60, GPT-5.6 Sol이 59로 앤트로픽과 오픈AI의 셋뿐이고요. 최상위 폐쇄형과의 거리가 4점인데, 채점 기관이 직접 2월 GLM-5 이후 가장 좁혀진 수치라고 고지했습니다.
+
+발표 때는 자체 평가라는 꼬리표가 붙어 잠정 순위로 읽어야 했지만, 가중치가 풀리면서 독립 기관이 직접 돌린 숫자로 바뀌었습니다.
+
+주장이 검증이 된 셈이죠. 발표 당일 잠정 3위로 보였던 자리가 Opus 5 집계가 반영되며 4위로 정리된 것도 이번에 확인된 부분입니다.</description><pubDate>Tue, 28 Jul 2026 05:23:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbUx4gkDxJk</guid></item></channel></rss>
