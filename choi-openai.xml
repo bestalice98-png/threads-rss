@@ -1,55 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 29 Jul 2026 10:38:13 +0000</lastBuildDate><item><title>1년 사이의 AI 게임 발전.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 29 Jul 2026 16:14:18 +0000</lastBuildDate><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 “로봇공학의 챗GPT 모먼트는 2~3년 안에 올 거라고 봐요”라며 피지컬 AI의 빠른 도래를 ...</title><link>https://www.threads.net/@choi.openai/post/DbYcN23gmL1</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 “로봇공학의 챗GPT 모먼트는 2~3년 안에 올 거라고 봐요”라며 피지컬 AI의 빠른 도래를 예견했습니다.
 
-📷 x@ChrisGPT</title><link>https://www.threads.net/@choi.openai/post/DbX2ZVQiI2e</link><description>1년 사이의 AI 게임 발전.
+그는 소프트웨어 영역의 지능 자동화에 맞춰 물리적 노동(Robotics) 역시 함께 자동화되어야 한다고 강조했습니다. 만약 그렇지 못해 인간이 클라우드 속 AI의 단순 ‘손발’ 역할에 머물게 된다면 매우 심각한 문제가 될 것이라는 분석입니다.
 
-📷 x@ChrisGPT</description><pubDate>Wed, 29 Jul 2026 10:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbX2ZVQiI2e</guid></item><item><title>Kiro 무료 달달하다..
-토큰 다 태워야지..</title><link>https://www.threads.net/@choi.openai/post/DbXxb0mj22z</link><description>Kiro 무료 달달하다..
-토큰 다 태워야지..</description><pubDate>Wed, 29 Jul 2026 09:16:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbXxb0mj22z</guid></item><item><title>오픈AI가 과학자들이 AI 코딩 에이전트를 실제 연구에 활용한 사례들을 공개했습니다.
+알트만이 말하는 로봇공학의 ‘챗GPT 모먼트’는 연출된 영상을 보는 수준을 넘어, 사용자가 직접 명령을 입력하면 로봇이 현실에서 엄청난 과업을 즉시 수행해 내는 경험을 의미합니다.
 
-최대 51년 걸리던 작업을 6주로 줄이고, 유전체 분석 ...</title><link>https://www.threads.net/@choi.openai/post/DbXv6JbDzQQ</link><description>오픈AI가 과학자들이 AI 코딩 에이전트를 실제 연구에 활용한 사례들을 공개했습니다.
+2~3년 내 펼쳐질 이 변곡점은 육체노동 시장과 노동 경제 생태계 전반에 거대한 파급 효과를 가져올 것으로 전망됩니다.</description><pubDate>Wed, 29 Jul 2026 15:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYcN23gmL1</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=XDB5beon4DY</title><link>https://www.threads.net/@choi.openai/post/DbYcQNnAuPy</link><description>풀영상 :
+https://www.youtube.com/watch?v=XDB5beon4DY</description><pubDate>Wed, 29 Jul 2026 15:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYcQNnAuPy</guid></item><item><title>개인적인 생각이지만 독파모에서 보면,
 
-최대 51년 걸리던 작업을 6주로 줄이고, 유전체 분석 속도를 60배 이상 높인 사례도 나왔습니다.
+업스테이지는 정부 지원으로 모델도 계속 훈련하고 자체 기술력도 쌓으면서 기업 밸류에이션을 높인 뒤, 장기...</title><link>https://www.threads.net/@choi.openai/post/DbYXgLzDwz_</link><description>개인적인 생각이지만 독파모에서 보면,
 
-다만 모든 사례에서 공통으로 나온 한계도 있었는데요.
+업스테이지는 정부 지원으로 모델도 계속 훈련하고 자체 기술력도 쌓으면서 기업 밸류에이션을 높인 뒤, 장기적으로는 투자받으면서 글로벌 정부망으로 갈 가능성이 높아 보이고.
 
-실제 연구 현장에서 나온 활용 사례와 핵심 인사이트를 정리했습니다. 🧵</description><pubDate>Wed, 29 Jul 2026 09:03:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbXv6JbDzQQ</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+반면 SK나 LG는 정부 조달망을 노리고, 네이버처럼 독자 모델 개발은 접고 국내 NPU를 적극 활용하는 방향으로 갈 것 같고. (정부가 혜택 많이 줄듯)
 
-1. 오픈AI가 코딩 에이전트로 과학 소프트웨어를 고친 8개 사례를 필드 리포트로 공개함...</title><link>https://www.threads.net/@choi.openai/post/DbXv6utj6bH</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+모티프는 프리뷰 이후 아직 크게 나온 게 없어서 업스테이지랑 비슷한 루트를 탈 것 같긴 한데,
 
-1. 오픈AI가 코딩 에이전트로 과학 소프트웨어를 고친 8개 사례를 필드 리포트로 공개함.
-2. 유전체 품질관리 도구 15개를 하나로 합쳐 15시간 34분을 14분 54초로 줄임.
-3. GPU 재설계 사례는 편집 단계에서 98.6배, 코호트 기준 51년 작업을 6주로 낮춤.
-4. 8건 중 첫 지시 이후 사람이 거의 손대지 않은 사례는 한 건뿐이었음.
-5. 그리고 8건 모두 에이전트가 자기 결과의 정확성을 판단하지 못했다고 보고함.
-6. 초기 구현은 며칠, 원본과 출력이 일치하기까지는 한 달이 더 걸림.
-7. 재작성이 싸지면서 누가 그 도구를 계속 유지할지가 미해결로 남음.
+8월 선발에서는 SK가 떨어진 업스테이지, 모티프, LG가 되고, 최종 조달망에는 LG·SK·업스테이지를 넣고, 모티프는 뭔가 도메인 특화 쪽으로 하나 빼줄 것 같은 느낌.
 
-→ 구현 비용이 내려간 만큼 검증과 유지보수 비용이 사람 쪽에 그대로 쌓였습니다.</description><pubDate>Wed, 29 Jul 2026 09:03:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbXv6utj6bH</guid></item><item><title>2/ 오픈AI가 7월 28일 과학 컴퓨팅 필드 리포트를 공개했습니다.
+정부가 기업들 지분 잘 받고 있으려나 모르겠네.</description><pubDate>Wed, 29 Jul 2026 14:49:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYXgLzDwz_</guid></item><item><title>삼성 공화국이 무너진다..
 
-코딩 에이전트로 실제 연구용 소프트웨어를 고친 8개 프로젝트를, 그 일을...</title><link>https://www.threads.net/@choi.openai/post/DbXv7RsDz8y</link><description>2/ 오픈AI가 7월 28일 과학 컴퓨팅 필드 리포트를 공개했습니다.
+SK텔레콤이 7월 29일 허깅페이스에 6,880억(688B) 규모 A.X K2를 공개했습니다.
+그런데 이 모델을 학...</title><link>https://www.threads.net/@choi.openai/post/DbYTX8wj-Nx</link><description>삼성 공화국이 무너진다..
 
-코딩 에이전트로 실제 연구용 소프트웨어를 고친 8개 프로젝트를, 그 일을 직접 한 팀들이 쓴 사례집입니다.
+SK텔레콤이 7월 29일 허깅페이스에 6,880억(688B) 규모 A.X K2를 공개했습니다.
+그런데 이 모델을 학습시킨 GPU 안의 메모리도, 그 GPU가 놓인 데이터센터도 같은 그룹 것입니다.
+이번 주 SK하이닉스는 영업이익률 76%를 찍었고, SK텔레콤은 데이터센터 전담 법인을 세웠습니다.
 
-5건은 오픈AI의 코딩 에이전트 Codex만 썼고, 3건은 여기에 앤트로픽의 Claude Code를 함께 썼는데요. 분야는 대부분 생명과학이고, 참여 기관에 하버드 의대, 다나파버 암연구소, 개번연구소, Seqera, NVIDIA, scverse가 들어 있습니다.
+반도체 1등이 아니라 AI 1등을 가리는 판이 왜 SK로 기울고 있는지 정리했습니다 🧵</description><pubDate>Wed, 29 Jul 2026 14:13:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYTX8wj-Nx</guid></item><item><title>1/ SK텔레콤이 7월 28일 허깅페이스에 A.X K2를 공개했습니다.
 
-작업 범위는 패키징 정리 같은 유지보수부터 언어 전면 이식과 GPU 기반 재설계까지 흩어져 있습니다.
+총 매개변수는 6,880억(688B) 개인데, 토큰 하나를 처리할 때 ...</title><link>https://www.threads.net/@choi.openai/post/DbYTYjSj7zY</link><description>1/ SK텔레콤이 7월 28일 허깅페이스에 A.X K2를 공개했습니다.
 
-오픈AI가 내린 진단은 한 줄입니다. 엔지니어링 노동은 더 이상 제약이 아니고, 지금 병목은 에이전트 출력을 검증하는 일이라는 겁니다. 다만 각 팀이 보고한 벤치마크를 독립적으로 재현하지는 않았다고 앞머리에 밝혔습니다.</description><pubDate>Wed, 29 Jul 2026 09:03:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbXv7RsDz8y</guid></item><item><title>3/ 논문에 딸려 나온 코드가 그대로 연구 인프라가 됩니다.
-하버드 데이터버스에 올라온 복제 패키지 2,109건의 R 스크립트 9,078개를 깨...</title><link>https://www.threads.net/@choi.openai/post/DbXv79SD-uz</link><description>3/ 논문에 딸려 나온 코드가 그대로 연구 인프라가 됩니다.
-하버드 데이터버스에 올라온 복제 패키지 2,109건의 R 스크립트 9,078개를 깨끗한 환경에서 그대로 돌린 2022년 조사에서 성공률은 25%였습니다.
+총 매개변수는 6,880억(688B) 개인데, 토큰 하나를 처리할 때 실제로 켜지는 건 330억(33B) 개뿐입니다.
 
-경로 설정과 라이브러리 설치를 기계적으로 손봐주자 40%로 올랐습니다. 실패의 상당수가 과학적 결함이 아니라 환경 문제였다는 뜻입니다.
+전문가를 여러 명 두고 질문마다 필요한 몇 명만 부르는 방식이라, 덩치는 6,880억이면서 계산 비용은 330억짜리 모델에 가깝습니다.
 
-남이 그대로 돌릴 수 있게 환경을 고정해주는 도구를 쓴 파일은 9,078개 중 2개였고, 오류를 미리 잡아주는 테스트를 넣은 파일은 0개였습니다.
+전문가는 256명이고 그중 8명에 공용 전문가 1명이 매번 붙습니다. 직전 모델 A.X K1이 5,190억(519B)이었으니 규모가 한 단계 올라갔고, 문맥은 기본 128K에서 최대 256K까지 늘어납니다.</description><pubDate>Wed, 29 Jul 2026 14:13:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYTYjSj7zY</guid></item><item><title>2/ 라이선스가 아파치 2.0입니다.
 
-2019년 오믹스 도구 조사에서는 98개 중 28%가 문서대로는 설치되지 않았고, 논문에 실린 주소가 죽은 자원이 28%였습니다.
+상업적 이용에 매출 상한도, 별도 사용 허가 요청도 없습니다. 6,880억(688B) 매개변수 모델의 가...</title><link>https://www.threads.net/@choi.openai/post/DbYTZQPj9eU</link><description>2/ 라이선스가 아파치 2.0입니다.
 
-설치가 쉬운 도구일수록 인용이 유의하게 많았다는 상관까지 나옵니다. 오픈AI가 이번 리포트에서 출발점으로 든 선행 연구가 바로 이 둘입니다.</description><pubDate>Wed, 29 Jul 2026 09:03:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbXv79SD-uz</guid></item><item><title>정말 놀랍네요..
-아레나의 풀스택 코드 아레나에서 Kimi K3 Max가 1위를 차지했습니다.
-GPT-5.6 Sol xHigh가 2위, Clau...</title><link>https://www.threads.net/@choi.openai/post/DbXsHpMji_v</link><description>정말 놀랍네요..
-아레나의 풀스택 코드 아레나에서 Kimi K3 Max가 1위를 차지했습니다.
-GPT-5.6 Sol xHigh가 2위, Claude Fable 5가 3위입니다.
-이번 성적은 화면만이 아니라 데이터베이스, API 연동, 배포까지 포함한 앱을 끝까지 만들게 한 뒤 사람이 고르는 방식입니다.
-다만 아레나는 인기투표식 느낌이 강한 사이트고, 긴 호흡의 개발보다 짧은 결과물을 내기 쉬운 구조입니다.
-짧은 풀스택 산출물 구간에서 오픈웨이트가 폐쇄형 최상위와 같은 층에 올라오고 있다는 신호로 보는 것이 좋겠지만, 그래도 오픈웨이트 모델의 성장 속도가 상당하네요.</description><pubDate>Wed, 29 Jul 2026 08:30:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbXsHpMji_v</guid></item></channel></rss>
+상업적 이용에 매출 상한도, 별도 사용 허가 요청도 없습니다. 6,880억(688B) 매개변수 모델의 가중치를 그대로 받아 회사 서버에 올리고 제품에 붙여 팔아도 된다는 뜻입니다. 국내 대기업이 이 규모를 이 조건으로 푼 적은 없었습니다.
+
+SKT는 여기에 경량 모델 3종을 같이 냈습니다.
+
+이미지를 읽는 비전 모델과 음성 모델인데, 이 중 라온 스피치는 크래프톤이 개발했습니다. 게임사가 자기 음성 모델을 SK 계열 모델 위에 올려 함께 공개했다는 뜻이죠.</description><pubDate>Wed, 29 Jul 2026 14:13:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYTZQPj9eU</guid></item><item><title>3/ SKT가 공개한 자체 평가에서는 수학과 한국어 성적이 가장 좋습니다.
+
+AIME26에서 97.1점으로 비교 대상 8개 모델 중 1위고, 한...</title><link>https://www.threads.net/@choi.openai/post/DbYTZ3XD1kO</link><description>3/ SKT가 공개한 자체 평가에서는 수학과 한국어 성적이 가장 좋습니다.
+
+AIME26에서 97.1점으로 비교 대상 8개 모델 중 1위고, 한국어 시험인 KMMLU-Pro 80.5점과 CLIcK 91.6점도 1위입니다. 국제수학올림피아드 2025 문제로는 42점 만점에 35점을 받아 금메달 기준선에 닿았습니다.
+
+반대쪽을 보면 웹 검색을 돌려 답을 찾는 BrowseComp가 9.3점입니다.
+
+같은 표에서 GLM-5.1은 29.1점입니다. 물론, 모델 사이즈에서 나오는 점수를 간과할 수는 없지만 에이전트 강화학습을 적게 돌렸다고 리포트가 스스로 밝혔으니, 다음 모델에서 이 점수가 오르는지 보면 됩니다.</description><pubDate>Wed, 29 Jul 2026 14:13:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYTZ3XD1kO</guid></item><item><title>중국 오픈소스 무섭긴 하다..
+
+텐센트가 AI 답변이 나오는 속도를 2배 넘게 올리는 학습 프레임워크 AngelSpec을 오픈소스로 공개했습니다...</title><link>https://www.threads.net/@choi.openai/post/DbYM3yLD4O2</link><description>중국 오픈소스 무섭긴 하다..
+
+텐센트가 AI 답변이 나오는 속도를 2배 넘게 올리는 학습 프레임워크 AngelSpec을 오픈소스로 공개했습니다.
+지금 AI는 글자 하나를 쓸 때마다 거대한 모델을 처음부터 끝까지 한 번 훑는데요.
+답변이 한 글자씩 또르르 나오는 이유가 여기 있습니다.
+그래서 옆에 가벼운 보조 모델을 붙였습니다.
+보조 모델이 다음에 올 단어 몇 개를 미리 적어두면, 메인 모델은 그게 맞는지만 한 번에 확인합니다.
+확인은 여러 개를 같이 해도 한 개 쓰는 것과 비용이 비슷합니다.
+보조 모델이 맞힌 만큼은 메인 모델이 일을 건너뛰고, 틀린 지점부터는 메인 모델이 직접 씁니다.
+그래서 답 내용은 달라지지 않고 속도만 빨라집니다.</description><pubDate>Wed, 29 Jul 2026 13:16:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYM3yLD4O2</guid></item><item><title>2/ 보조 모델이 미리 적는 방식은 크게 둘로 갈립니다.
+하나는 한 단어를 적고 그걸 보고 다음 단어를 적는 방식입니다. 앞말을 보고 쓰니 잘 ...</title><link>https://www.threads.net/@choi.openai/post/DbYM4bUj6Ir</link><description>2/ 보조 모델이 미리 적는 방식은 크게 둘로 갈립니다.
+하나는 한 단어를 적고 그걸 보고 다음 단어를 적는 방식입니다. 앞말을 보고 쓰니 잘 맞는데, 여덟 개를 적으려면 여덟 번 돌려야 합니다.
+
+다른 하나는 앞말을 안 보고 여덟 칸을 동시에 채우는 방식입니다. 한 번에 끝나 빠른데, 서로 눈치를 못 봐서 문장이 어긋납니다.
+
+지금까지는 이 중 하나를 골라 만들었습니다.
+
+텐센트는 일을 나눠 맡겼습니다. 무슨 말이 나올지 짐작하기 어려운 일상 대화는 한 단어씩 적는 쪽에, 뒤가 어느 정도 정해진 코드와 수학은 동시에 채우는 쪽에 훈련시켰습니다.
+
+같은 도구로 여섯 가지 방식을 만들 수 있고, 어느 걸 쓸지는 설정 파일의 한 줄만 바꾸면 됩니다.</description><pubDate>Wed, 29 Jul 2026 13:16:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYM4bUj6Ir</guid></item><item><title>3/ 지난달 딥시크도 비슷한 걸 냈습니다. 6월 27일 공개한 DeepSpec입니다.
+
+그건 자기네 방식 하나를 만드는 코드였고, 이번 것은 여...</title><link>https://www.threads.net/@choi.openai/post/DbYM4-pD7u8</link><description>3/ 지난달 딥시크도 비슷한 걸 냈습니다. 6월 27일 공개한 DeepSpec입니다.
+
+그건 자기네 방식 하나를 만드는 코드였고, 이번 것은 여섯 방식을 한 틀에서 만들면서 딥시크 방식까지 같은 조건에 올려 비교했습니다.
+
+차이는 동시에 채운 뒤 마지막에 서로 눈치를 보게 하는 방법입니다.
+
+딥시크는 '이 단어 뒤엔 보통 이 단어'라는 통계로 뒤 칸을 눌러줬고, 텐센트는 메인 모델이 실제로 그 자리에서 보는 값에 맞춰 보조 모델의 답을 한 번 고쳐 쓰게 했습니다.
+같은 뼈대에서 이 마무리만 바꿨더니 한 번에 통과되는 단어가 4.56개에서 4.60개로 늘었습니다.</description><pubDate>Wed, 29 Jul 2026 13:16:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYM4-pD7u8</guid></item><item><title>AngelSpec :
+https://github.com/Tencent/AngelSpec</title><link>https://www.threads.net/@choi.openai/post/DbYM5caj6P4</link><description>AngelSpec :
+https://github.com/Tencent/AngelSpec</description><pubDate>Wed, 29 Jul 2026 13:16:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbYM5caj6P4</guid></item></channel></rss>
