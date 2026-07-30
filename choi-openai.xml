@@ -1,30 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 30 Jul 2026 10:24:35 +0000</lastBuildDate><item><title>Claude Code 개발자인 보리스 체르니(Boris Cherny)는 AI 에이전트 성능 향상과 안전성 확보를 위한 핵심 기술적 진전에 대해 ...</title><link>https://www.threads.net/@choi.openai/post/DbaXxZ3kdqa</link><description>Claude Code 개발자인 보리스 체르니(Boris Cherny)는 AI 에이전트 성능 향상과 안전성 확보를 위한 핵심 기술적 진전에 대해 언급했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 30 Jul 2026 16:20:01 +0000</lastBuildDate><item><title>왔다.. 구글 로보틱스!! 🧵</title><link>https://www.threads.net/@choi.openai/post/DbbC192CfRE</link><description>왔다.. 구글 로보틱스!! 🧵</description><pubDate>Thu, 30 Jul 2026 15:52:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbC192CfRE</guid></item><item><title>1/ 구글 딥마인드가 7월 30일 Gemini Robotics ER 2를 공개했습니다.
 
-그는 “최신 AI 모델은 이제 프롬프트 인젝션(악성 지시 주입)에 쉽게 뚫리지 않는다”며, 모델의 안전성과 신뢰성이 크게 강화되었음을 강조했습니다.
+여기서 ER은 embodied reasoning, 몸을...</title><link>https://www.threads.net/@choi.openai/post/DbbDj2bD8nm</link><description>1/ 구글 딥마인드가 7월 30일 Gemini Robotics ER 2를 공개했습니다.
 
-과거에는 악성 지시가 입력되면 시스템 명령을 무시하고 지시대로 동작하는 취약점이 있었으나, 기계적 해석 가능성(Mechanistic Interpretability) 연구를 통해 모델 내부의 뉴런 활성화를 진단하고 분류기 및 정렬 기술을 결합한 3중 방어층을 구축했습니다.
+여기서 ER은 embodied reasoning, 몸을 가진 상태의 추론을 뜻합니다.
+로봇 관절을 실제로 움직이는 일은 이 모델이 하지 않습니다.
 
-이러한 성능 및 보안의 비약적 발전은 실무 환경에서 AI 에이전트 제품을 안정적으로 제어하고 고도화된 자율 작업을 수행할 수 있는 결정적 발판이 될 것으로 전망됩니다.</description><pubDate>Thu, 30 Jul 2026 09:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbaXxZ3kdqa</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=qyPCVqFUyDo</title><link>https://www.threads.net/@choi.openai/post/DbaXyRsEXw8</link><description>풀영상 :
-https://www.youtube.com/watch?v=qyPCVqFUyDo</description><pubDate>Thu, 30 Jul 2026 09:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbaXyRsEXw8</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 AI가 일자리에 미치는 영향과 경제 구조에 대해 이전과는 달라진 시각을 밝혔습니다.
+모터 제어는 VLA라고 부르는 별도 모델의 몫입니다. ER 2는 그 위에서 무엇을 어떤 순서로 할지 정해 아래로 넘기고요. 사람 말을 알아듣고, 공간을 파악하고, 필요하면 구글 검색이나 개발자가 정의한 함수까지 도구로 부릅니다.
 
-그는 “...</title><link>https://www.threads.net/@choi.openai/post/DbaNemsEmP_</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 AI가 일자리에 미치는 영향과 경제 구조에 대해 이전과는 달라진 시각을 밝혔습니다.
+구글이 이 구조를 고른 계산은 단순합니다. 로봇 몸은 회사마다 다르지만 판단층은 한 번 만들면 기종을 가리지 않고 얹을 수 있으니까요.
 
-그는 “AI는 초인적 천재 같으면서도 멍청한 아기 같다”며 성능의 불균형을 지적했습니다. AI의 뛰어난 능력에도 불구하고 여전히 사람의 역량이 이를 완벽히 보완하고 있다고 설명했습니다.
+로봇 회사가 몸을 만들고 구글이 판단을 담당하는 분업입니다.</description><pubDate>Thu, 30 Jul 2026 15:52:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbDj2bD8nm</guid></item><item><title>2/ 이번 발표에서 구글이 가장 앞세운 능력은 영상을 계속 보는 일입니다.
 
-또한 최신 AI 기술이 나와도 경제가 즉각적으로 뒤흔들리지 않은 현실을 언급하며 지적 겸손의 필요성을 강조했습니다.
+기존 모델은 사진 한 장을 받아 판단했습니다. 그래서 작업이 끝났는...</title><link>https://www.threads.net/@choi.openai/post/DbbDkhGD5N_</link><description>2/ 이번 발표에서 구글이 가장 앞세운 능력은 영상을 계속 보는 일입니다.
 
-그는 AI 컨설턴트나 엔지니어를 대체할 기술이 존재함에도 불구하고, 사람들은 여전히 사람과의 소통과 신뢰를 선호한다고 분석했습니다.
+기존 모델은 사진 한 장을 받아 판단했습니다. 그래서 작업이 끝났는지, 물을 흘렸는지, 나사가 덜 조여졌는지를 중간에 알아채기 어려웠습니다.
 
-“인간의 가치는 인간적이라서 가치가 있다”고 덧붙이며, 의사결정과 책임을 담당할 인간의 역할은 비즈니스와 사회 전반에서 계속 핵심적인 위치를 유지할 것이라고 전망했습니다.</description><pubDate>Thu, 30 Jul 2026 08:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbaNemsEmP_</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=XDB5beon4DY</title><link>https://www.threads.net/@choi.openai/post/DbaNf2REkgl</link><description>풀영상 :
-https://www.youtube.com/watch?v=XDB5beon4DY</description><pubDate>Thu, 30 Jul 2026 08:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbaNf2REkgl</guid></item><item><title>인생 최대의 고민.. 뜯을까?</title><link>https://www.threads.net/@choi.openai/post/DbaJWo6D0Ka</link><description>인생 최대의 고민.. 뜯을까?</description><pubDate>Thu, 30 Jul 2026 07:24:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbaJWo6D0Ka</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 초지능(ASI)이 조만간 등장하더라도 당장 하루아침에 극적인 대격변이 일어나지는 않을 것이라고...</title><link>https://www.threads.net/@choi.openai/post/DbaDOzbAbEX</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 초지능(ASI)이 조만간 등장하더라도 당장 하루아침에 극적인 대격변이 일어나지는 않을 것이라고 진단했습니다.
+ER 2는 영상 피드를 연속으로 받아 프레임마다 진행률을 0~20%부터 80~100%까지 다섯 단계로 나눕니다. 이 판단 정확도가 42.7%에서 57.4%로 올랐고요.
 
-그는 “제 답은, 별일 없다는 겁니다. 기계 신을 숭배하는 컬트 같은 그런 사람들은 실제보다 더 빨리 많은 일이 생긴다고 믿죠”라며 AI 기술에 대한 과도한 환상이나 극단적인 시각을 경계했습니다.
+진행률이 왜 필요한가 하면, 로봇이 실패를 알아채는 시점이 여기서 정해집니다. 지금까지는 작업 하나가 어긋나면 흐름 전체를 처음부터 다시 돌렸습니다. 진행률을 알면 어긋난 단계만 다시 시도합니다.
 
-AI의 진화는 갑작스러운 단절이 아니라, 인류의 기술 발전 역사와 마찬가지로 꾸준히 이어지는 “꽤 매끄러운 지수 곡선”의 한 과정이라는 설명입니다.
+전구를 끝까지 조였는지 로봇이 스스로 판정한다는 뜻입니다.</description><pubDate>Thu, 30 Jul 2026 15:53:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbDkhGD5N_</guid></item><item><title>3/ 두 번째는 결정적 순간을 찾는 능력입니다.
 
-50년 전의 기술을 당시엔 상상하기 힘들었듯, 당장의 단기적 파급력에 일희일비하기보다 긴 호흡으로 기술과 생산성의 지수적 성장을 바라봐야 한다고 강조했습니다.</description><pubDate>Thu, 30 Jul 2026 06:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbaDOzbAbEX</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=XDB5beon4DY</title><link>https://www.threads.net/@choi.openai/post/DbaDQB-AZob</link><description>풀영상 :
-https://www.youtube.com/watch?v=XDB5beon4DY</description><pubDate>Thu, 30 Jul 2026 06:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbaDQB-AZob</guid></item></channel></rss>
+커피를 언제 멈춰야 하는지 같은 판단인데요. 구글은 정확도 91.3%, 평균 오차 0.96초를...</title><link>https://www.threads.net/@choi.openai/post/DbbDlNjjyG_</link><description>3/ 두 번째는 결정적 순간을 찾는 능력입니다.
+
+커피를 언제 멈춰야 하는지 같은 판단인데요. 구글은 정확도 91.3%, 평균 오차 0.96초를 기록했다고 밝혔습니다. 직전 모델은 85%대에 오차 1.65초였습니다.
+
+눈여겨볼 부분은 같은 그래프에 Opus 5가 정확도 93%대, 오차 0.86초로 ER 2보다 앞에 찍혀 있다는 점입니다. 구글이 든 근거는 정확도가 아니라 연산 비용과 속도였고요. 실행 속도가 4배라고 적었습니다.
+
+로봇에서는 1초 늦은 정답이 오답입니다. 커피가 이미 넘쳤으니까요. 정확도를 조금 내주고 반응 시간을 사는 선택이었다고 봅니다.</description><pubDate>Thu, 30 Jul 2026 15:53:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbDlNjjyG_</guid></item><item><title>일론 머스크는 경제를 “디지털 지능과 물리적 지능”의 결합으로 정의했습니다.
+
+현재 빠르게 발전하는 AI는 디지털 세계에 머물러 있지만, 이를 ...</title><link>https://www.threads.net/@choi.openai/post/DbbA8eEghdW</link><description>일론 머스크는 경제를 “디지털 지능과 물리적 지능”의 결합으로 정의했습니다.
+
+현재 빠르게 발전하는 AI는 디지털 세계에 머물러 있지만, 이를 현실 세계에서 직접 작동시킬 손발 역할의 휴머노이드 로봇이 반드시 필요하다고 강조했습니다.
+
+재화와 서비스 생산이라는 경제의 본질을 고려할 때, 고도화된 AI 지능을 탑재한 로봇이 대량 보급되면 “거의 무한한 경제"가 실현될 것이라 내다봤습니다.
+
+지능이 단순 정보 처리를 넘어 물리적 물질을 바꾸기 시작하면서, 인류는 과거의 그 어떤 역사적 비유로도 설명할 수 없는 거대한 전환점을 맞이할 것이라고 설명했습니다.</description><pubDate>Thu, 30 Jul 2026 15:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbA8eEghdW</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=XuoqKYxDHVc</title><link>https://www.threads.net/@choi.openai/post/DbbA-uOAoGj</link><description>풀영상 :
+https://www.youtube.com/watch?v=XuoqKYxDHVc</description><pubDate>Thu, 30 Jul 2026 15:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbA-uOAoGj</guid></item><item><title>알렉산더 왕(Alexandr Wang)은 MuseSpark 1.1 공개에 이어 AI 에이전트 개발자를 위한 도구와 대형 모델, 오픈소스 라인업까...</title><link>https://www.threads.net/@choi.openai/post/Dba2sQ0DRob</link><description>알렉산더 왕(Alexandr Wang)은 MuseSpark 1.1 공개에 이어 AI 에이전트 개발자를 위한 도구와 대형 모델, 오픈소스 라인업까지 속도감 있게 준비 중이라고 합니다.
+
+MuseSpark 1.1 출시 이후 더 강력한 대형 모델과 AI 에이전트 개발자를 돕는 "harness"(개발 도구) 출시를 앞두고 있다고 밝혔습니다.
+
+특정 기업에 기술이 집중되기보다 오픈소스 생태계를 적극 지원해 전 세계 개발자가 직접 AI를 다룰 수 있는 분산된 환경을 만들겠다는 방향성이 핵심입니다.
+
+생태계 전반에 힘을 실어주려는 이런 시도가 향후 AI 개발 흐름에 어떤 파급력을 가져올지 매우 기대됩니다.</description><pubDate>Thu, 30 Jul 2026 14:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dba2sQ0DRob</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=sJ4VJWycX9M&amp;pp=ygUMeSBjb21iaW5hdG9y</title><link>https://www.threads.net/@choi.openai/post/Dba2tDGDU8-</link><description>풀영상 :
+https://www.youtube.com/watch?v=sJ4VJWycX9M&amp;pp=ygUMeSBjb21iaW5hdG9y</description><pubDate>Thu, 30 Jul 2026 14:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dba2tDGDU8-</guid></item><item><title>메타 Chief AI Officer인 알렉산더 왕(Alexandr Wang)은 개인용 초지능(Personal Superintelligence) ...</title><link>https://www.threads.net/@choi.openai/post/DbasWMeAuL7</link><description>메타 Chief AI Officer인 알렉산더 왕(Alexandr Wang)은 개인용 초지능(Personal Superintelligence) 시대의 도래와 인간 행동력의 확장에 대해 강조했습니다.
+
+그는 "전 세계 수십억 명 모두가 자신에게 맞춤화된 초지능을 갖게 될 것"이라며, 이것이 개인의 목표 달성과 맥락 이해를 도와 각자의 행동력을 대폭 넓혀줄 것이라고 내다봤습니다. 과거에는 꿈도 못 꾸던 일들을 누구나 쉽게 해내는 창의성의 폭발이 일어날 것이라 설명했습니다.
+
+또한 AI가 세상을 통제하는 전체주의적 관점 대신, 개인 에이전트와 비즈니스 에이전트가 함께 작동하는 역동적인 생태계의 형성을 제시했습니다. 메타 플랫폼 내 2억 개 수준인 비즈니스가 AI 도구를 통해 수십억 개로 폭발적으로 늘어나는 등 AI 기반의 복잡하고 거대한 창업 생태계가 만들어질 것이라 전망했습니다.</description><pubDate>Thu, 30 Jul 2026 12:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbasWMeAuL7</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=sJ4VJWycX9M&amp;pp=ygUMeSBjb21iaW5hdG9y</title><link>https://www.threads.net/@choi.openai/post/DbasYi8gr3p</link><description>풀영상 :
+https://www.youtube.com/watch?v=sJ4VJWycX9M&amp;pp=ygUMeSBjb21iaW5hdG9y</description><pubDate>Thu, 30 Jul 2026 12:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbasYi8gr3p</guid></item></channel></rss>
