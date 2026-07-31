@@ -1,71 +1,94 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 31 Jul 2026 02:46:37 +0000</lastBuildDate><item><title>와.. 이번엔 앤트로픽입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 31 Jul 2026 10:37:54 +0000</lastBuildDate><item><title>오늘 금융권이 난리난 사건이 하나 있었죠.
 
-지난주 오픈AI가 자사 모델의 허깅페이스 침해를 공개한 데 이어, 앤트로픽도 내부 로그를 전수 조사한 결과 실제...</title><link>https://www.threads.net/@choi.openai/post/DbcHjMUD2A-</link><description>와.. 이번엔 앤트로픽입니다.
+2027년에 AGI가 온다고 165쪽짜리 글을 쓴 사람이 그 논리대로 펀드를 만들어 상반기에만 43...</title><link>https://www.threads.net/@choi.openai/post/Dbc9eJdD6iF</link><description>오늘 금융권이 난리난 사건이 하나 있었죠.
 
-지난주 오픈AI가 자사 모델의 허깅페이스 침해를 공개한 데 이어, 앤트로픽도 내부 로그를 전수 조사한 결과 실제 기업 시스템 침해와 악성 PyPI 패키지 배포 사례를 확인했습니다.
+2027년에 AGI가 온다고 165쪽짜리 글을 쓴 사람이 그 논리대로 펀드를 만들어 상반기에만 439%를 벌었습니다. 그리고 7월 30일, 보유 주식을 전부 넘겼습니다.
 
-7월 30일 공개된 세 건의 기록을 처음부터 따라가 봤습니다 🧵</description><pubDate>Fri, 31 Jul 2026 01:47:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbcHjMUD2A-</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+그런데 정작 중요한 건 손실이 아닙니다. 그가 2년 전에 쓴 그 글이 지금 무엇을 맞히고 무엇을 놓쳤는지, 제가 다시 읽어봤습니다 🧵</description><pubDate>Fri, 31 Jul 2026 09:38:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbc9eJdD6iF</guid></item><item><title>1/ 먼저 무슨 일이 있었는지 짧게 짚고 넘어가겠습니다.
 
-1. 7월 21일 오픈AI가 허깅페이스 침해를 공개하자, 앤트로픽이 자사 사이버 평가 기...</title><link>https://www.threads.net/@choi.openai/post/DbcHjxtD5_K</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+7월 30일, 시추에이셔널 어웨어네스라는 헤지펀드가 약 160억 달러 규모의 상장주식...</title><link>https://www.threads.net/@choi.openai/post/Dbc9e20j3_M</link><description>1/ 먼저 무슨 일이 있었는지 짧게 짚고 넘어가겠습니다.
 
-1. 7월 21일 오픈AI가 허깅페이스 침해를 공개하자, 앤트로픽이 자사 사이버 평가 기록 14만 1,006건을 되짚음.
-2. 평가 파트너 이레귤러의 CTF 환경이 설정 착오로 실제 인터넷에 연결돼 있었음.
-3. 프롬프트는 인터넷이 없는 시뮬레이션이라고 못박아서, 클로드는 마주친 실제 서버를 문제의 일부로 판단함.
-4. Opus 4.7은 실제 회사임을 알고도 공격을 이어가 운영 데이터베이스 수백 행까지 들어감.
-5. Mythos 5는 PyPI에 악성 패키지를 올렸고 한 시간 동안 실제 시스템 15곳에서 실행됨.
-6. 그중 하나가 보안업체 검사 설비였고, 그 회사 자격증명이 빠져나감.
-7. 최신 내부 모델만 실제 환경임을 스스로 알아채고 공격을 멈춤.
+7월 30일, 시추에이셔널 어웨어네스라는 헤지펀드가 약 160억 달러 규모의 상장주식을 시타델에 넘겼습니다.
 
-→ 능력을 재려고 보호 기능을 끈 평가가, 격리가 풀린 순간 그대로 실제 침해가 됐습니다.</description><pubDate>Fri, 31 Jul 2026 01:47:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbcHjxtD5_K</guid></item><item><title>2/ 앤트로픽이 7월 30일 사이버 평가 사고 세 건을 공개했습니다.
+종목을 하나씩 시장에 판 게 아니라 계정을 통째로 넘긴 거래였고, 인수 가격은 공개되지 않았죠. 6월 30일까지 수수료를 떼고 수익률 439%. 엔비디아, AMD, 마이크론, 샌디스크, TSMC 같은 종목을 빌린 돈까지 얹어 사고 소프트웨어를 공매도한 구조였습니다.
 
-평가 방식은 CTF입니다. 가상의 회사와 상황을 준 다음, 네트워크 어딘...</title><link>https://www.threads.net/@choi.openai/post/DbcHkV0jzPw</link><description>2/ 앤트로픽이 7월 30일 사이버 평가 사고 세 건을 공개했습니다.
+운용 규모는 보도마다 200억에서 450억 달러대까지 갈립니다. 7월에 산 쪽이 내리고 판 쪽이 오르면서 양방향으로 손실이 났고, 담보를 더 넣으라는 요구가 커지자 자금이 막혔습니다.
 
-평가 방식은 CTF입니다. 가상의 회사와 상황을 준 다음, 네트워크 어딘가에 숨겨둔 비밀 문자열을 찾아오라고 시키는 훈련 형식이죠. 방법은 지정하지 않고, 어디까지 뒤져도 되는지도 적어두지 않습니다. 사람 보안 전문가를 훈련시킬 때 쓰는 방식 그대로입니다.
+넘긴 건 상장주식이고, 앤트로픽 같은 비상장 투자는 그대로 들고 있습니다. 사건 자체는 이미 많이 다뤄졌으니 저는 다른 쪽을 파보겠습니다.</description><pubDate>Fri, 31 Jul 2026 09:38:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbc9e20j3_M</guid></item><item><title>2/ 저 펀드 이름이 어디서 왔는지가 이 이야기의 시작입니다.
 
-인터넷에 나갈 수 있었던 평가 실행 14만 1,006건을 되짚어 사고 세 건을 찾아냈습니다. 실행 횟수로는 여섯 번이고 그중 네 번이 같은 회사를 때렸죠.
+2024년 6월, 레오폴드 아셴브레너가 '상황인식(Situational Awar...</title><link>https://www.threads.net/@choi.openai/post/Dbc9f4Tj-fQ</link><description>2/ 저 펀드 이름이 어디서 왔는지가 이 이야기의 시작입니다.
 
-가장 이른 건은 4월입니다. 석 달 동안 앤트로픽도, 평가 파트너도, 뚫린 회사도 몰랐다는 뜻입니다. 오픈AI의 공개가 없었으면 지금도 몰랐을 겁니다.</description><pubDate>Fri, 31 Jul 2026 01:47:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbcHkV0jzPw</guid></item><item><title>3/ 인터넷이 열려 있던 이유는 설정 착오입니다.
+2024년 6월, 레오폴드 아셴브레너가 '상황인식(Situational Awareness)'이라는 165쪽짜리 문서를 공개했습니다.
 
-앤트로픽 프롬프트는 클로드에게 여기가 시뮬레이션이고 인터넷 접근이 없다고 못박았습니다. 실제...</title><link>https://www.threads.net/@choi.openai/post/DbcHk83D3k6</link><description>3/ 인터넷이 열려 있던 이유는 설정 착오입니다.
+그는 오픈AI 초정렬팀에서 일하다 그해 4월 회사를 떠났고 당시 24세였습니다. 회사는 기밀 유출을 이유로 들었고, 아셴브레너는 이사회에 보안 문제를 제기한 뒤 벌어진 일이라고 주장했습니다.
 
-앤트로픽 프롬프트는 클로드에게 여기가 시뮬레이션이고 인터넷 접근이 없다고 못박았습니다. 실제로는 평가 파트너 이레귤러와의 소통이 어긋나 평가 컨테이너가 공개 인터넷에 그대로 붙어 있었습니다.
+초정렬팀은 사람보다 뛰어난 AI를 어떻게 안전하게 통제할지를 연구하던 조직이었지만, 얼마 지나지 않아 팀 자체도 해체됩니다.
 
-양쪽 다 지난주 감시를 늘리기 전까지 몰랐고, 사전에 경로를 하나씩 확인하거나 네트워크 로그만 봤어도 잡혔을 문제였습니다.
+이런 배경 속에서 나온 문서는 시작부터 강한 메시지를 던졌습니다.
 
-사이버 평가 환경은 실전 성능을 재려고 일부러 현실적으로 만듭니다. 그래서 진짜처럼 생긴 표적을 만났다는 것 자체는 모델에게 여기가 현실이라는 증거가 되지 않죠.
+지금 벌어지는 변화를 제대로 이해하는 사람은 극소수이며, 그 흐름을 읽어야 한다는 것이었습니다. 그래서 이 글은 실리콘밸리는 물론 투자자들 사이에서도 빠르게 회람됐습니다.</description><pubDate>Fri, 31 Jul 2026 09:38:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbc9f4Tj-fQ</guid></item><item><title>3/ 이 글은 AI 능력을 재는 기준부터 다릅니다.
 
-앤트로픽도 이 점을 보고서에 따로 적어뒀습니다. 현실감이 곧 측정의 품질인 평가에서, 현실감은 동시에 모델의 판단 근거를 지우는 조건이 됩니다.</description><pubDate>Fri, 31 Jul 2026 01:47:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbcHk83D3k6</guid></item><item><title>구글이 앤트로픽의 텍사스 데이터센터에 지급보증을 섭니다.
-WSJ에 따르면 개발사 넥서스가 텍사스 허바드에 짓는 캠퍼스 건설비로 모건스탠리 주도 ...</title><link>https://www.threads.net/@choi.openai/post/Dbb7XZiDpv_</link><description>구글이 앤트로픽의 텍사스 데이터센터에 지급보증을 섭니다.
-WSJ에 따르면 개발사 넥서스가 텍사스 허바드에 짓는 캠퍼스 건설비로 모건스탠리 주도 은행단에서 150억 달러를 빌리는 방안을 논의 중입니다.
-구글은 앤트로픽이 서명한 리스 네 건에 보증을 넣고 TPU까지 공급합니다.
-은행이 심사하는 신용은 앤트로픽이 아니라 구글입니다.
-그래서 아직 흑자를 못 낸 회사가 150억 달러 규모 캠퍼스를 자기 재무제표에 부채로 얹지 않고 쓰게 됩니다.
-구글은 지분 14%를 들고 있으니 앤트로픽의 컴퓨트 확보가 곧 TPU 판로이기도 합니다.
-엔비디아가 오픈AI 임차료 2,500억 달러 보증을 논의하는 것과 같은 구조입니다.
-칩을 파는 쪽이 그 칩을 살 고객의 최종 지급인까지 맡는 방식이 AI 인프라 자금조달의 기본형으로 굳어지고 있습니다.</description><pubDate>Fri, 31 Jul 2026 00:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbb7XZiDpv_</guid></item><item><title>딥시크가 울란차부에 1GW급 데이터센터를 짓는다는 블룸버그 보도가 나왔습니다.
-확정 발표는 아니고, 올해 내몽골 현지 인프라 직군을 계속 뽑아온...</title><link>https://www.threads.net/@choi.openai/post/DbbxFwRDkzA</link><description>딥시크가 울란차부에 1GW급 데이터센터를 짓는다는 블룸버그 보도가 나왔습니다.
-확정 발표는 아니고, 올해 내몽골 현지 인프라 직군을 계속 뽑아온 흐름과 맞물립니다.
-일부 용량이 2027년 말에서 2028년 초 사이 돌아가는 게 보도된 목표입니다.
-칩을 엔비디아로 채울지 화웨이 어센드로 채울지는 아직 확인되지 않았습니다.
-여기서 봐야 할 건 남의 컴퓨팅을 빌려 쓰던 회사가 전력을 직접 쥐는 쪽으로 넘어간다는 점입니다.
-딥시크 ARR은 5억 달러에 다가서고 V4 API 총이익률은 50%를 넘습니다.
-장사는 되지만 1GW 캠퍼스 자본은 그 현금흐름에서 안 나옵니다.
-74억 달러를 조달하고 상하이 STAR마켓 상장을 준비하는 이유가 여기 있습니다.
-연평균 기온 4도에 풍력과 태양광이 남는 지역을 고른 것도 전기와 냉각비를 원가에서 깎으려는 선택입니다.</description><pubDate>Thu, 30 Jul 2026 22:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbxFwRDkzA</guid></item><item><title>기사 :
-https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-m...</title><link>https://www.threads.net/@choi.openai/post/DbbxGluDusy</link><description>기사 :
-https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia</description><pubDate>Thu, 30 Jul 2026 22:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbxGluDusy</guid></item><item><title>와.. 이게 벌써 이 정도까지 왔습니다.
+아셴브레너는 벤치마크 점수로 발전을 설명하지 않습니다. 대신 AI가 실제로 얼마나 강해졌는...</title><link>https://www.threads.net/@choi.openai/post/Dbc9hD0D5oX</link><description>3/ 이 글은 AI 능력을 재는 기준부터 다릅니다.
 
-Simile은 실제 사람 한 명을 인터뷰해서 그 사람처럼 답하는 에이전트를 만듭니다.
-2024년 논문...</title><link>https://www.threads.net/@choi.openai/post/Dbbmz00AoLY</link><description>와.. 이게 벌써 이 정도까지 왔습니다.
+아셴브레너는 벤치마크 점수로 발전을 설명하지 않습니다. 대신 AI가 실제로 얼마나 강해졌는지를 '유효 연산량'의 자릿수로 계산합니다.
 
-Simile은 실제 사람 한 명을 인터뷰해서 그 사람처럼 답하는 에이전트를 만듭니다.
-2024년 논문에서 1,052명을 이렇게 복제했는데, 같은 사람이 2주 뒤 같은 설문에 다시 답했을 때의 일관성을 기준으로 그 85% 수준까지 따라갔습니다.
+그는 이 기준으로 GPT-2를 유치원생, GPT-3를 초등학생, GPT-4를 똑똑한 고등학생 수준에 대응시킵니다. GPT-2에서 GPT-4까지의 발전은 약 4.5에서 6자릿수의 도약으로 계산합니다.
 
-사람 본인의 재현율을 자로 삼은 겁니다.
-이번에는 시뮬레이션이 얼마나 맞을지를 미리 알려주는 모델을 같이 붙였습니다.
+이 계산의 출발점은 2020년 발표된 스케일링 법칙입니다. 연산량과 데이터, 모델 크기를 늘리면 성능도 예측 가능한 곡선을 따라 향상된다는 관찰입니다.
 
-어디까지 믿어도 되는지가 함께 나와야 기업이 실제 의사결정에 넣을 수 있습니다.
-CVS 헬스는 40만 명 넘는 참여자의 동의된 응답 290만 건으로 만든 시뮬레이션에 복약 안내 방식을 먼저 돌려보고, 갤럽은 1,000개가 넘는 트윈으로 정책 리서치를 시작했습니다.
+아셴브레너는 여기에 최근 몇 년간의 알고리즘 효율 개선과 추론 방식의 발전까지 더해 앞으로도 비슷한 규모의 도약이 한 번 더 이어질 것이라고 봤습니다.
 
-사람에게 묻기 전에 모델에 먼저 물어보는 순서가 점점 흔해질 것 같습니다.</description><pubDate>Thu, 30 Jul 2026 21:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbbmz00AoLY</guid></item></channel></rss>
+여기에 같은 규모의 발전이 한 번 더 이어진다고 가정하면 2027년쯤 11자릿수에 도달하고, 그 지점에 적어둔 이름이 '자동 AI 연구자'입니다.</description><pubDate>Fri, 31 Jul 2026 09:38:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbc9hD0D5oX</guid></item><item><title>🚨 바이트댄스가 Seedance 2.5를 공개했습니다.
+지금까지 AI 영상은 5~10초를 여러 번 뽑아 이어 붙이는 방식이라, 컷이 넘어갈 때마...</title><link>https://www.threads.net/@choi.openai/post/Dbc10WzDg3T</link><description>🚨 바이트댄스가 Seedance 2.5를 공개했습니다.
+지금까지 AI 영상은 5~10초를 여러 번 뽑아 이어 붙이는 방식이라, 컷이 넘어갈 때마다 인물 얼굴과 조명이 조금씩 어긋났습니다.
+이번엔 한 번의 생성으로 30초를 통째로 만들고, 롱비디오 모드는 베타로 180초까지 갑니다.
+레퍼런스도 50개까지 넣을 수 있고 여기에 3D 화이트 모델과 그린스크린 소스가 추가되었습니다. Maya나 Blender에서 카메라 동선을 미리 잡아 그대로 넘길 수 있다는 뜻입니다.
+720p 30초에 1,440크레딧이 나갔다는 이용자 보고도 올라오고 있어 일상용으로는 사용하기 어려울 것 같습니다.</description><pubDate>Fri, 31 Jul 2026 08:32:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbc10WzDg3T</guid></item><item><title>와.. 딥시크는 딥시크인가..
+딥시크가 V4-Flash 정식판을 API에 올렸습니다.
+새로 학습시킨 게 아니라 포스트트레이닝만 다시 돌렸는데, ...</title><link>https://www.threads.net/@choi.openai/post/Dbcu1JTAN7t</link><description>와.. 딥시크는 딥시크인가..
+딥시크가 V4-Flash 정식판을 API에 올렸습니다.
+새로 학습시킨 게 아니라 포스트트레이닝만 다시 돌렸는데, 상위 등급인 V4-Pro 프리뷰를 전 항목에서 넘겼습니다.
+에이전트 코딩을 재는 DeepSWE는 7.4에서 54.4로 뛰었고, 터미널 작업을 재는 Terminal Bench 2.1은 82.7, 보안 취약점 발굴인 Cybergym은 76.7을 받았습니다.
+총 284B에 토큰당 13B를 쓰는 구조는 4월 프리뷰와 같습니다.
+같이 봐야 할 건 Responses API를 네이티브로 지원하면서 Codex 설정 가이드까지 붙였다는 부분입니다.
+가격은 100만 토큰당 출력 0.28달러로 오늘 오픈AI가 GPT-5.6 Luna를 80% 내려 1.20달러로 맞췄는데, 그래도 4배 넘게 낮습니다.
+기본값이 되는 모델의 가격 경쟁이 심화되는 가운데, 모델 수익 경로를 다각화하려는 의도로 보입니다.
+Deepseek V4-Pro 정식판도 곧 나올 것 같습니다.</description><pubDate>Fri, 31 Jul 2026 07:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbcu1JTAN7t</guid></item><item><title>업데이트 :
+https://api-docs.deepseek.com/updates/</title><link>https://www.threads.net/@choi.openai/post/Dbcu2DqgLvj</link><description>업데이트 :
+https://api-docs.deepseek.com/updates/</description><pubDate>Fri, 31 Jul 2026 07:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbcu2DqgLvj</guid></item><item><title>LG AI연구원이 K-엑사원 2.0을 공개했습니다.
+236B에서 750B, 반년 만에 3배입니다.
+24개 지표 평균은 63.3에서 70.1로 올...</title><link>https://www.threads.net/@choi.openai/post/Dbcn9zmj2KP</link><description>LG AI연구원이 K-엑사원 2.0을 공개했습니다.
+236B에서 750B, 반년 만에 3배입니다.
+24개 지표 평균은 63.3에서 70.1로 올랐고, 코딩과 에이전틱 코딩 3개 지표는 30% 뛰었습니다.
+K-엑사원 2.0이 무엇을 증명했고 무엇을 아직 못 했는지 분석했습니다. 🧵</description><pubDate>Fri, 31 Jul 2026 06:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbcn9zmj2KP</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+
+1. LG AI연구원이 7월 31일 K-엑사원 2.0을 허깅페이스에 공개함. 독자 AI ...</title><link>https://www.threads.net/@choi.openai/post/Dbcn-XYj8dz</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+
+1. LG AI연구원이 7월 31일 K-엑사원 2.0을 허깅페이스에 공개함. 독자 AI 파운데이션 모델 프로젝트 2차수 모델임.
+2. 규모는 750B로 1차수 236B에서 3배 이상 커졌고, 라이선스를 아파치 2.0으로 바꿔 상업 이용까지 열었음.
+3. 9개 영역 24개 지표 평균 70.1점으로 1차수 63.3점 대비 10.8% 올랐고, 코딩·에이전틱 코딩 3개 지표는 30% 상승함.
+4. 장문 이해 두 지표에서 GLM-5.1을 앞섰고, 안전성 평가 평균 94.6점으로 중국 모델들을 크게 앞섰음.
+5. 지원 언어는 6개에서 10개로 확장됐고, 대국민 평가 사이트와 산업 특화 모델 공개가 예고됨.
+
+→ 규모와 개방성은 확실히 올렸지만, 이 프로젝트의 탈락 기준은 점수가 아니라 독자성과 실사용이었다는 점이 아직 남아 있습니다.</description><pubDate>Fri, 31 Jul 2026 06:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbcn-XYj8dz</guid></item><item><title>2/ LG AI연구원이 7월 31일 K-엑사원 2.0을 오픈소스 커뮤니티 허깅페이스에 공개했습니다.
+
+과학기술정보통신부가 주관하는 독자 AI 파...</title><link>https://www.threads.net/@choi.openai/post/Dbcn_P6Dy6w</link><description>2/ LG AI연구원이 7월 31일 K-엑사원 2.0을 오픈소스 커뮤니티 허깅페이스에 공개했습니다.
+
+과학기술정보통신부가 주관하는 독자 AI 파운데이션 모델 프로젝트의 2차수 결과물입니다.
+
+규모는 750B, 파라미터 7,500억 개입니다. 지난 1월 공개된 1차수 모델이 236B였으니 반년 만에 3배 이상 커졌습니다.
+
+더 크게 바뀐 건 라이선스입니다. 누구나 상업적 이용까지 가능한 아파치 2.0으로 전환했습니다.
+
+가중치를 받아 자기 서버에 올려 제품에 붙여도 되고 파생 모델을 팔아도 됩니다. 오픈AI가 gpt-oss를 낼 때 택한 것과 같은 조건이고, 국가 예산으로 학습한 국내 모델이 여기까지 푼 건 이번이 처음입니다.</description><pubDate>Fri, 31 Jul 2026 06:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbcn_P6Dy6w</guid></item><item><title>3/ 1차수 모델의 구조를 알면 이번 확장이 무엇을 의미하는지 보입니다.
+
+K-엑사원 1.0은 전체 236B 가운데 토큰당 23B만 켜는 전문가...</title><link>https://www.threads.net/@choi.openai/post/DbcoAZ8D8KE</link><description>3/ 1차수 모델의 구조를 알면 이번 확장이 무엇을 의미하는지 보입니다.
+
+K-엑사원 1.0은 전체 236B 가운데 토큰당 23B만 켜는 전문가 혼합 구조였습니다. 전문가 128명 중 8명에 공용 전문가 하나를 더해 매 토큰을 처리합니다.
+
+학습에 쓴 데이터는 11조 토큰, 연산량은 1.52의 24제곱 규모였습니다. FP8 정밀도로 처음부터 학습했고 최적화 기법으로 뮤온을 썼습니다.
+
+2.0은 배포 경로에 붙은 이름이 750B-A37B입니다. 전체 7,500억에 활성 370억, 즉 켜는 양도 1.6배로 늘렸습니다.
+
+국내에 없던 규모의 분산 학습을 끝까지 돌린 것 자체가 이번 발표의 포인트입니다.</description><pubDate>Fri, 31 Jul 2026 06:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbcoAZ8D8KE</guid></item></channel></rss>
