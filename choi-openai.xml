@@ -1,55 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 30 Jul 2026 16:20:01 +0000</lastBuildDate><item><title>왔다.. 구글 로보틱스!! 🧵</title><link>https://www.threads.net/@choi.openai/post/DbbC192CfRE</link><description>왔다.. 구글 로보틱스!! 🧵</description><pubDate>Thu, 30 Jul 2026 15:52:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbC192CfRE</guid></item><item><title>1/ 구글 딥마인드가 7월 30일 Gemini Robotics ER 2를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 31 Jul 2026 02:46:37 +0000</lastBuildDate><item><title>와.. 이번엔 앤트로픽입니다.
 
-여기서 ER은 embodied reasoning, 몸을...</title><link>https://www.threads.net/@choi.openai/post/DbbDj2bD8nm</link><description>1/ 구글 딥마인드가 7월 30일 Gemini Robotics ER 2를 공개했습니다.
+지난주 오픈AI가 자사 모델의 허깅페이스 침해를 공개한 데 이어, 앤트로픽도 내부 로그를 전수 조사한 결과 실제...</title><link>https://www.threads.net/@choi.openai/post/DbcHjMUD2A-</link><description>와.. 이번엔 앤트로픽입니다.
 
-여기서 ER은 embodied reasoning, 몸을 가진 상태의 추론을 뜻합니다.
-로봇 관절을 실제로 움직이는 일은 이 모델이 하지 않습니다.
+지난주 오픈AI가 자사 모델의 허깅페이스 침해를 공개한 데 이어, 앤트로픽도 내부 로그를 전수 조사한 결과 실제 기업 시스템 침해와 악성 PyPI 패키지 배포 사례를 확인했습니다.
 
-모터 제어는 VLA라고 부르는 별도 모델의 몫입니다. ER 2는 그 위에서 무엇을 어떤 순서로 할지 정해 아래로 넘기고요. 사람 말을 알아듣고, 공간을 파악하고, 필요하면 구글 검색이나 개발자가 정의한 함수까지 도구로 부릅니다.
+7월 30일 공개된 세 건의 기록을 처음부터 따라가 봤습니다 🧵</description><pubDate>Fri, 31 Jul 2026 01:47:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbcHjMUD2A-</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-구글이 이 구조를 고른 계산은 단순합니다. 로봇 몸은 회사마다 다르지만 판단층은 한 번 만들면 기종을 가리지 않고 얹을 수 있으니까요.
+1. 7월 21일 오픈AI가 허깅페이스 침해를 공개하자, 앤트로픽이 자사 사이버 평가 기...</title><link>https://www.threads.net/@choi.openai/post/DbcHjxtD5_K</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-로봇 회사가 몸을 만들고 구글이 판단을 담당하는 분업입니다.</description><pubDate>Thu, 30 Jul 2026 15:52:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbDj2bD8nm</guid></item><item><title>2/ 이번 발표에서 구글이 가장 앞세운 능력은 영상을 계속 보는 일입니다.
+1. 7월 21일 오픈AI가 허깅페이스 침해를 공개하자, 앤트로픽이 자사 사이버 평가 기록 14만 1,006건을 되짚음.
+2. 평가 파트너 이레귤러의 CTF 환경이 설정 착오로 실제 인터넷에 연결돼 있었음.
+3. 프롬프트는 인터넷이 없는 시뮬레이션이라고 못박아서, 클로드는 마주친 실제 서버를 문제의 일부로 판단함.
+4. Opus 4.7은 실제 회사임을 알고도 공격을 이어가 운영 데이터베이스 수백 행까지 들어감.
+5. Mythos 5는 PyPI에 악성 패키지를 올렸고 한 시간 동안 실제 시스템 15곳에서 실행됨.
+6. 그중 하나가 보안업체 검사 설비였고, 그 회사 자격증명이 빠져나감.
+7. 최신 내부 모델만 실제 환경임을 스스로 알아채고 공격을 멈춤.
 
-기존 모델은 사진 한 장을 받아 판단했습니다. 그래서 작업이 끝났는...</title><link>https://www.threads.net/@choi.openai/post/DbbDkhGD5N_</link><description>2/ 이번 발표에서 구글이 가장 앞세운 능력은 영상을 계속 보는 일입니다.
+→ 능력을 재려고 보호 기능을 끈 평가가, 격리가 풀린 순간 그대로 실제 침해가 됐습니다.</description><pubDate>Fri, 31 Jul 2026 01:47:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbcHjxtD5_K</guid></item><item><title>2/ 앤트로픽이 7월 30일 사이버 평가 사고 세 건을 공개했습니다.
 
-기존 모델은 사진 한 장을 받아 판단했습니다. 그래서 작업이 끝났는지, 물을 흘렸는지, 나사가 덜 조여졌는지를 중간에 알아채기 어려웠습니다.
+평가 방식은 CTF입니다. 가상의 회사와 상황을 준 다음, 네트워크 어딘...</title><link>https://www.threads.net/@choi.openai/post/DbcHkV0jzPw</link><description>2/ 앤트로픽이 7월 30일 사이버 평가 사고 세 건을 공개했습니다.
 
-ER 2는 영상 피드를 연속으로 받아 프레임마다 진행률을 0~20%부터 80~100%까지 다섯 단계로 나눕니다. 이 판단 정확도가 42.7%에서 57.4%로 올랐고요.
+평가 방식은 CTF입니다. 가상의 회사와 상황을 준 다음, 네트워크 어딘가에 숨겨둔 비밀 문자열을 찾아오라고 시키는 훈련 형식이죠. 방법은 지정하지 않고, 어디까지 뒤져도 되는지도 적어두지 않습니다. 사람 보안 전문가를 훈련시킬 때 쓰는 방식 그대로입니다.
 
-진행률이 왜 필요한가 하면, 로봇이 실패를 알아채는 시점이 여기서 정해집니다. 지금까지는 작업 하나가 어긋나면 흐름 전체를 처음부터 다시 돌렸습니다. 진행률을 알면 어긋난 단계만 다시 시도합니다.
+인터넷에 나갈 수 있었던 평가 실행 14만 1,006건을 되짚어 사고 세 건을 찾아냈습니다. 실행 횟수로는 여섯 번이고 그중 네 번이 같은 회사를 때렸죠.
 
-전구를 끝까지 조였는지 로봇이 스스로 판정한다는 뜻입니다.</description><pubDate>Thu, 30 Jul 2026 15:53:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbDkhGD5N_</guid></item><item><title>3/ 두 번째는 결정적 순간을 찾는 능력입니다.
+가장 이른 건은 4월입니다. 석 달 동안 앤트로픽도, 평가 파트너도, 뚫린 회사도 몰랐다는 뜻입니다. 오픈AI의 공개가 없었으면 지금도 몰랐을 겁니다.</description><pubDate>Fri, 31 Jul 2026 01:47:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbcHkV0jzPw</guid></item><item><title>3/ 인터넷이 열려 있던 이유는 설정 착오입니다.
 
-커피를 언제 멈춰야 하는지 같은 판단인데요. 구글은 정확도 91.3%, 평균 오차 0.96초를...</title><link>https://www.threads.net/@choi.openai/post/DbbDlNjjyG_</link><description>3/ 두 번째는 결정적 순간을 찾는 능력입니다.
+앤트로픽 프롬프트는 클로드에게 여기가 시뮬레이션이고 인터넷 접근이 없다고 못박았습니다. 실제...</title><link>https://www.threads.net/@choi.openai/post/DbcHk83D3k6</link><description>3/ 인터넷이 열려 있던 이유는 설정 착오입니다.
 
-커피를 언제 멈춰야 하는지 같은 판단인데요. 구글은 정확도 91.3%, 평균 오차 0.96초를 기록했다고 밝혔습니다. 직전 모델은 85%대에 오차 1.65초였습니다.
+앤트로픽 프롬프트는 클로드에게 여기가 시뮬레이션이고 인터넷 접근이 없다고 못박았습니다. 실제로는 평가 파트너 이레귤러와의 소통이 어긋나 평가 컨테이너가 공개 인터넷에 그대로 붙어 있었습니다.
 
-눈여겨볼 부분은 같은 그래프에 Opus 5가 정확도 93%대, 오차 0.86초로 ER 2보다 앞에 찍혀 있다는 점입니다. 구글이 든 근거는 정확도가 아니라 연산 비용과 속도였고요. 실행 속도가 4배라고 적었습니다.
+양쪽 다 지난주 감시를 늘리기 전까지 몰랐고, 사전에 경로를 하나씩 확인하거나 네트워크 로그만 봤어도 잡혔을 문제였습니다.
 
-로봇에서는 1초 늦은 정답이 오답입니다. 커피가 이미 넘쳤으니까요. 정확도를 조금 내주고 반응 시간을 사는 선택이었다고 봅니다.</description><pubDate>Thu, 30 Jul 2026 15:53:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbDlNjjyG_</guid></item><item><title>일론 머스크는 경제를 “디지털 지능과 물리적 지능”의 결합으로 정의했습니다.
+사이버 평가 환경은 실전 성능을 재려고 일부러 현실적으로 만듭니다. 그래서 진짜처럼 생긴 표적을 만났다는 것 자체는 모델에게 여기가 현실이라는 증거가 되지 않죠.
 
-현재 빠르게 발전하는 AI는 디지털 세계에 머물러 있지만, 이를 ...</title><link>https://www.threads.net/@choi.openai/post/DbbA8eEghdW</link><description>일론 머스크는 경제를 “디지털 지능과 물리적 지능”의 결합으로 정의했습니다.
+앤트로픽도 이 점을 보고서에 따로 적어뒀습니다. 현실감이 곧 측정의 품질인 평가에서, 현실감은 동시에 모델의 판단 근거를 지우는 조건이 됩니다.</description><pubDate>Fri, 31 Jul 2026 01:47:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbcHk83D3k6</guid></item><item><title>구글이 앤트로픽의 텍사스 데이터센터에 지급보증을 섭니다.
+WSJ에 따르면 개발사 넥서스가 텍사스 허바드에 짓는 캠퍼스 건설비로 모건스탠리 주도 ...</title><link>https://www.threads.net/@choi.openai/post/Dbb7XZiDpv_</link><description>구글이 앤트로픽의 텍사스 데이터센터에 지급보증을 섭니다.
+WSJ에 따르면 개발사 넥서스가 텍사스 허바드에 짓는 캠퍼스 건설비로 모건스탠리 주도 은행단에서 150억 달러를 빌리는 방안을 논의 중입니다.
+구글은 앤트로픽이 서명한 리스 네 건에 보증을 넣고 TPU까지 공급합니다.
+은행이 심사하는 신용은 앤트로픽이 아니라 구글입니다.
+그래서 아직 흑자를 못 낸 회사가 150억 달러 규모 캠퍼스를 자기 재무제표에 부채로 얹지 않고 쓰게 됩니다.
+구글은 지분 14%를 들고 있으니 앤트로픽의 컴퓨트 확보가 곧 TPU 판로이기도 합니다.
+엔비디아가 오픈AI 임차료 2,500억 달러 보증을 논의하는 것과 같은 구조입니다.
+칩을 파는 쪽이 그 칩을 살 고객의 최종 지급인까지 맡는 방식이 AI 인프라 자금조달의 기본형으로 굳어지고 있습니다.</description><pubDate>Fri, 31 Jul 2026 00:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbb7XZiDpv_</guid></item><item><title>딥시크가 울란차부에 1GW급 데이터센터를 짓는다는 블룸버그 보도가 나왔습니다.
+확정 발표는 아니고, 올해 내몽골 현지 인프라 직군을 계속 뽑아온...</title><link>https://www.threads.net/@choi.openai/post/DbbxFwRDkzA</link><description>딥시크가 울란차부에 1GW급 데이터센터를 짓는다는 블룸버그 보도가 나왔습니다.
+확정 발표는 아니고, 올해 내몽골 현지 인프라 직군을 계속 뽑아온 흐름과 맞물립니다.
+일부 용량이 2027년 말에서 2028년 초 사이 돌아가는 게 보도된 목표입니다.
+칩을 엔비디아로 채울지 화웨이 어센드로 채울지는 아직 확인되지 않았습니다.
+여기서 봐야 할 건 남의 컴퓨팅을 빌려 쓰던 회사가 전력을 직접 쥐는 쪽으로 넘어간다는 점입니다.
+딥시크 ARR은 5억 달러에 다가서고 V4 API 총이익률은 50%를 넘습니다.
+장사는 되지만 1GW 캠퍼스 자본은 그 현금흐름에서 안 나옵니다.
+74억 달러를 조달하고 상하이 STAR마켓 상장을 준비하는 이유가 여기 있습니다.
+연평균 기온 4도에 풍력과 태양광이 남는 지역을 고른 것도 전기와 냉각비를 원가에서 깎으려는 선택입니다.</description><pubDate>Thu, 30 Jul 2026 22:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbxFwRDkzA</guid></item><item><title>기사 :
+https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-m...</title><link>https://www.threads.net/@choi.openai/post/DbbxGluDusy</link><description>기사 :
+https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia</description><pubDate>Thu, 30 Jul 2026 22:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbxGluDusy</guid></item><item><title>와.. 이게 벌써 이 정도까지 왔습니다.
 
-현재 빠르게 발전하는 AI는 디지털 세계에 머물러 있지만, 이를 현실 세계에서 직접 작동시킬 손발 역할의 휴머노이드 로봇이 반드시 필요하다고 강조했습니다.
+Simile은 실제 사람 한 명을 인터뷰해서 그 사람처럼 답하는 에이전트를 만듭니다.
+2024년 논문...</title><link>https://www.threads.net/@choi.openai/post/Dbbmz00AoLY</link><description>와.. 이게 벌써 이 정도까지 왔습니다.
 
-재화와 서비스 생산이라는 경제의 본질을 고려할 때, 고도화된 AI 지능을 탑재한 로봇이 대량 보급되면 “거의 무한한 경제"가 실현될 것이라 내다봤습니다.
+Simile은 실제 사람 한 명을 인터뷰해서 그 사람처럼 답하는 에이전트를 만듭니다.
+2024년 논문에서 1,052명을 이렇게 복제했는데, 같은 사람이 2주 뒤 같은 설문에 다시 답했을 때의 일관성을 기준으로 그 85% 수준까지 따라갔습니다.
 
-지능이 단순 정보 처리를 넘어 물리적 물질을 바꾸기 시작하면서, 인류는 과거의 그 어떤 역사적 비유로도 설명할 수 없는 거대한 전환점을 맞이할 것이라고 설명했습니다.</description><pubDate>Thu, 30 Jul 2026 15:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbA8eEghdW</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=XuoqKYxDHVc</title><link>https://www.threads.net/@choi.openai/post/DbbA-uOAoGj</link><description>풀영상 :
-https://www.youtube.com/watch?v=XuoqKYxDHVc</description><pubDate>Thu, 30 Jul 2026 15:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbbA-uOAoGj</guid></item><item><title>알렉산더 왕(Alexandr Wang)은 MuseSpark 1.1 공개에 이어 AI 에이전트 개발자를 위한 도구와 대형 모델, 오픈소스 라인업까...</title><link>https://www.threads.net/@choi.openai/post/Dba2sQ0DRob</link><description>알렉산더 왕(Alexandr Wang)은 MuseSpark 1.1 공개에 이어 AI 에이전트 개발자를 위한 도구와 대형 모델, 오픈소스 라인업까지 속도감 있게 준비 중이라고 합니다.
+사람 본인의 재현율을 자로 삼은 겁니다.
+이번에는 시뮬레이션이 얼마나 맞을지를 미리 알려주는 모델을 같이 붙였습니다.
 
-MuseSpark 1.1 출시 이후 더 강력한 대형 모델과 AI 에이전트 개발자를 돕는 "harness"(개발 도구) 출시를 앞두고 있다고 밝혔습니다.
+어디까지 믿어도 되는지가 함께 나와야 기업이 실제 의사결정에 넣을 수 있습니다.
+CVS 헬스는 40만 명 넘는 참여자의 동의된 응답 290만 건으로 만든 시뮬레이션에 복약 안내 방식을 먼저 돌려보고, 갤럽은 1,000개가 넘는 트윈으로 정책 리서치를 시작했습니다.
 
-특정 기업에 기술이 집중되기보다 오픈소스 생태계를 적극 지원해 전 세계 개발자가 직접 AI를 다룰 수 있는 분산된 환경을 만들겠다는 방향성이 핵심입니다.
-
-생태계 전반에 힘을 실어주려는 이런 시도가 향후 AI 개발 흐름에 어떤 파급력을 가져올지 매우 기대됩니다.</description><pubDate>Thu, 30 Jul 2026 14:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dba2sQ0DRob</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=sJ4VJWycX9M&amp;pp=ygUMeSBjb21iaW5hdG9y</title><link>https://www.threads.net/@choi.openai/post/Dba2tDGDU8-</link><description>풀영상 :
-https://www.youtube.com/watch?v=sJ4VJWycX9M&amp;pp=ygUMeSBjb21iaW5hdG9y</description><pubDate>Thu, 30 Jul 2026 14:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dba2tDGDU8-</guid></item><item><title>메타 Chief AI Officer인 알렉산더 왕(Alexandr Wang)은 개인용 초지능(Personal Superintelligence) ...</title><link>https://www.threads.net/@choi.openai/post/DbasWMeAuL7</link><description>메타 Chief AI Officer인 알렉산더 왕(Alexandr Wang)은 개인용 초지능(Personal Superintelligence) 시대의 도래와 인간 행동력의 확장에 대해 강조했습니다.
-
-그는 "전 세계 수십억 명 모두가 자신에게 맞춤화된 초지능을 갖게 될 것"이라며, 이것이 개인의 목표 달성과 맥락 이해를 도와 각자의 행동력을 대폭 넓혀줄 것이라고 내다봤습니다. 과거에는 꿈도 못 꾸던 일들을 누구나 쉽게 해내는 창의성의 폭발이 일어날 것이라 설명했습니다.
-
-또한 AI가 세상을 통제하는 전체주의적 관점 대신, 개인 에이전트와 비즈니스 에이전트가 함께 작동하는 역동적인 생태계의 형성을 제시했습니다. 메타 플랫폼 내 2억 개 수준인 비즈니스가 AI 도구를 통해 수십억 개로 폭발적으로 늘어나는 등 AI 기반의 복잡하고 거대한 창업 생태계가 만들어질 것이라 전망했습니다.</description><pubDate>Thu, 30 Jul 2026 12:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbasWMeAuL7</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=sJ4VJWycX9M&amp;pp=ygUMeSBjb21iaW5hdG9y</title><link>https://www.threads.net/@choi.openai/post/DbasYi8gr3p</link><description>풀영상 :
-https://www.youtube.com/watch?v=sJ4VJWycX9M&amp;pp=ygUMeSBjb21iaW5hdG9y</description><pubDate>Thu, 30 Jul 2026 12:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbasYi8gr3p</guid></item></channel></rss>
+사람에게 묻기 전에 모델에 먼저 물어보는 순서가 점점 흔해질 것 같습니다.</description><pubDate>Thu, 30 Jul 2026 21:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbbmz00AoLY</guid></item></channel></rss>
