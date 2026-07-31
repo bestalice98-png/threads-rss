@@ -1,94 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 31 Jul 2026 10:37:54 +0000</lastBuildDate><item><title>오늘 금융권이 난리난 사건이 하나 있었죠.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 31 Jul 2026 16:29:37 +0000</lastBuildDate><item><title>블룸버그가 Moonshot이 알리바바를 통해 엔비디아 칩 2만 장 규모 클러스터를 Kimi 학습에 썼다고 보도했습니다.
+그게 H200이라는 정보...</title><link>https://www.threads.net/@choi.openai/post/DbdpKhyCM-N</link><description>블룸버그가 Moonshot이 알리바바를 통해 엔비디아 칩 2만 장 규모 클러스터를 Kimi 학습에 썼다고 보도했습니다.
+그게 H200이라는 정보도 뒤이어 나왔는데, 알리바바 쪽은 컴퓨팅 계약 자체가 아니라 기종만 부인했다고 합니다.
+중국 AI 기업들은 추론을 화웨이 어센드로 상당히 옮겼지만, 프런티어 학습은 아직 엔비디아를 못 놓고 있죠.
+어센드는 카드 네 장이 엔비디아 한 장 성능에 겨우 대응하는 수준이고, 딥시크도 국산칩 학습을 반복 실패한 뒤 엔비디아로 되돌아갔습니다.
+2만 장이 자체 조달이 아니라 알리바바 클러스터 임대로 나온 이유가 여기에 있습니다.
+오픈웨이트로 풀린 모델이라도 그걸 만들 물량은 여전히 몇몇 클라우드가 쥐고 있는 구조가 이어질 것으로 보입니다.</description><pubDate>Fri, 31 Jul 2026 16:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdpKhyCM-N</guid></item><item><title>기사 :
+https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on...</title><link>https://www.threads.net/@choi.openai/post/DbdpMj8CNS9</link><description>기사 :
+https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba?srnd=phx-technology</description><pubDate>Fri, 31 Jul 2026 16:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdpMj8CNS9</guid></item><item><title>🚨 속보) 딥시크 모먼트 진짜 재현되나..
 
-2027년에 AGI가 온다고 165쪽짜리 글을 쓴 사람이 그 논리대로 펀드를 만들어 상반기에만 43...</title><link>https://www.threads.net/@choi.openai/post/Dbc9eJdD6iF</link><description>오늘 금융권이 난리난 사건이 하나 있었죠.
+와.. 딥시크가 V4-Flash-0731 가중치를 공개했습니다.
 
-2027년에 AGI가 온다고 165쪽짜리 글을 쓴 사람이 그 논리대로 펀드를 만들어 상반기에만 439%를 벌었습니다. 그리고 7월 30일, 보유 주식을 전부 넘겼습니다.
+기술 보고서도 같이 나왔고 라이선...</title><link>https://www.threads.net/@choi.openai/post/DbdbBl5D9iS</link><description>🚨 속보) 딥시크 모먼트 진짜 재현되나..
 
-그런데 정작 중요한 건 손실이 아닙니다. 그가 2년 전에 쓴 그 글이 지금 무엇을 맞히고 무엇을 놓쳤는지, 제가 다시 읽어봤습니다 🧵</description><pubDate>Fri, 31 Jul 2026 09:38:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbc9eJdD6iF</guid></item><item><title>1/ 먼저 무슨 일이 있었는지 짧게 짚고 넘어가겠습니다.
+와.. 딥시크가 V4-Flash-0731 가중치를 공개했습니다.
 
-7월 30일, 시추에이셔널 어웨어네스라는 헤지펀드가 약 160억 달러 규모의 상장주식...</title><link>https://www.threads.net/@choi.openai/post/Dbc9e20j3_M</link><description>1/ 먼저 무슨 일이 있었는지 짧게 짚고 넘어가겠습니다.
+기술 보고서도 같이 나왔고 라이선스는 MIT입니다.
 
-7월 30일, 시추에이셔널 어웨어네스라는 헤지펀드가 약 160억 달러 규모의 상장주식을 시타델에 넘겼습니다.
+4월 프리뷰와 구조도 크기도 같은 모델인데요. 총 284B 가운데 토큰당 13B만 켜는 방식 그대로입니다.
+바꾼 건 학습 후반 공정뿐인데, 에이전트 성능이 올라 활성 49B를 쓰는 상위 등급 V4-Pro를 벤치마크에서 앞섰다고 밝혔습니다.
 
-종목을 하나씩 시장에 판 게 아니라 계정을 통째로 넘긴 거래였고, 인수 가격은 공개되지 않았죠. 6월 30일까지 수수료를 떼고 수익률 439%. 엔비디아, AMD, 마이크론, 샌디스크, TSMC 같은 종목을 빌린 돈까지 얹어 사고 소프트웨어를 공매도한 구조였습니다.
+직접 돌리는 쪽에서 더 반가운 건 체크포인트에 DSpark라는 투기적 디코딩 모듈이 붙어 나온다는 부분입니다.
+작은 모델이 먼저 여러 토큰을 써 보고 본 모델이 한 번에 검증하는 방식이라, 딥시크 서빙 환경에서 사용자당 생성 속도가 기존 방식보다 60~85% 빨랐다고 합니다.
 
-운용 규모는 보도마다 200억에서 450억 달러대까지 갈립니다. 7월에 산 쪽이 내리고 판 쪽이 오르면서 양방향으로 손실이 났고, 담보를 더 넣으라는 요구가 커지자 자금이 막혔습니다.
+같은 가중치에서 얼마나 더 꺼낼 수 있는지를 보여준 공개입니다.</description><pubDate>Fri, 31 Jul 2026 13:56:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdbBl5D9iS</guid></item><item><title>허깅페이스 :
+https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731</title><link>https://www.threads.net/@choi.openai/post/DbdbCO9j047</link><description>허깅페이스 :
+https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731</description><pubDate>Fri, 31 Jul 2026 13:56:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdbCO9j047</guid></item><item><title>이제는 정말 따라갈 수 없는 경지에 이르렀습니다.
 
-넘긴 건 상장주식이고, 앤트로픽 같은 비상장 투자는 그대로 들고 있습니다. 사건 자체는 이미 많이 다뤄졌으니 저는 다른 쪽을 파보겠습니다.</description><pubDate>Fri, 31 Jul 2026 09:38:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbc9e20j3_M</guid></item><item><title>2/ 저 펀드 이름이 어디서 왔는지가 이 이야기의 시작입니다.
+ByteDance의 Seedance 2.5가 공개되자 영화와 구분하기 어려운 수준의 영상들이...</title><link>https://www.threads.net/@choi.openai/post/DbdN-2Uj2GM</link><description>이제는 정말 따라갈 수 없는 경지에 이르렀습니다.
 
-2024년 6월, 레오폴드 아셴브레너가 '상황인식(Situational Awar...</title><link>https://www.threads.net/@choi.openai/post/Dbc9f4Tj-fQ</link><description>2/ 저 펀드 이름이 어디서 왔는지가 이 이야기의 시작입니다.
+ByteDance의 Seedance 2.5가 공개되자 영화와 구분하기 어려운 수준의 영상들이 쏟아지고 있습니다.
 
-2024년 6월, 레오폴드 아셴브레너가 '상황인식(Situational Awareness)'이라는 165쪽짜리 문서를 공개했습니다.
+POV 영상부터 광고, 뮤직비디오, AI UGC(사용자 제작 콘텐츠)까지 활용 범위도 크게 넓어졌습니다.
 
-그는 오픈AI 초정렬팀에서 일하다 그해 4월 회사를 떠났고 당시 24세였습니다. 회사는 기밀 유출을 이유로 들었고, 아셴브레너는 이사회에 보안 문제를 제기한 뒤 벌어진 일이라고 주장했습니다.
+놀라운 제작 사례 15개를 정리했습니다🧵</description><pubDate>Fri, 31 Jul 2026 12:02:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdN-2Uj2GM</guid></item><item><title>1/ x@seiiiiiiiiiiru</title><link>https://www.threads.net/@choi.openai/post/DbdNKdmGv9A</link><description>1/ x@seiiiiiiiiiiru</description><pubDate>Fri, 31 Jul 2026 12:02:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdNKdmGv9A</guid></item><item><title>2/ x@higgsfield_ai</title><link>https://www.threads.net/@choi.openai/post/DbdNWRQjRdS</link><description>2/ x@higgsfield_ai</description><pubDate>Fri, 31 Jul 2026 12:02:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdNWRQjRdS</guid></item><item><title>3/ x@seiiiiiiiiiiru</title><link>https://www.threads.net/@choi.openai/post/DbdNLzcEUqy</link><description>3/ x@seiiiiiiiiiiru</description><pubDate>Fri, 31 Jul 2026 12:02:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdNLzcEUqy</guid></item><item><title>ChatGPT의 웹 연동 기능이 업데이트되었습니다.
 
-초정렬팀은 사람보다 뛰어난 AI를 어떻게 안전하게 통제할지를 연구하던 조직이었지만, 얼마 지나지 않아 팀 자체도 해체됩니다.
+Chrome 확장 프로그램에서는 Side Chat에서 유튜브 영상을 바로 질문하거나, 열려...</title><link>https://www.threads.net/@choi.openai/post/DbdG8Igj245</link><description>ChatGPT의 웹 연동 기능이 업데이트되었습니다.
 
-이런 배경 속에서 나온 문서는 시작부터 강한 메시지를 던졌습니다.
+Chrome 확장 프로그램에서는 Side Chat에서 유튜브 영상을 바로 질문하거나, 열려 있는 탭을 함께 참고하고, 웹페이지의 텍스트를 선택해 바로 질문할 수 있습니다.
 
-지금 벌어지는 변화를 제대로 이해하는 사람은 극소수이며, 그 흐름을 읽어야 한다는 것이었습니다. 그래서 이 글은 실리콘밸리는 물론 투자자들 사이에서도 빠르게 회람됐습니다.</description><pubDate>Fri, 31 Jul 2026 09:38:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbc9f4Tj-fQ</guid></item><item><title>3/ 이 글은 AI 능력을 재는 기준부터 다릅니다.
+데스크톱 앱에서는 URL 자동 추천과 브라우저 방문 기록 활용 기능이 추가됐으며, 기록 관리 방식도 직접 설정할 수 있습니다.
 
-아셴브레너는 벤치마크 점수로 발전을 설명하지 않습니다. 대신 AI가 실제로 얼마나 강해졌는...</title><link>https://www.threads.net/@choi.openai/post/Dbc9hD0D5oX</link><description>3/ 이 글은 AI 능력을 재는 기준부터 다릅니다.
-
-아셴브레너는 벤치마크 점수로 발전을 설명하지 않습니다. 대신 AI가 실제로 얼마나 강해졌는지를 '유효 연산량'의 자릿수로 계산합니다.
-
-그는 이 기준으로 GPT-2를 유치원생, GPT-3를 초등학생, GPT-4를 똑똑한 고등학생 수준에 대응시킵니다. GPT-2에서 GPT-4까지의 발전은 약 4.5에서 6자릿수의 도약으로 계산합니다.
-
-이 계산의 출발점은 2020년 발표된 스케일링 법칙입니다. 연산량과 데이터, 모델 크기를 늘리면 성능도 예측 가능한 곡선을 따라 향상된다는 관찰입니다.
-
-아셴브레너는 여기에 최근 몇 년간의 알고리즘 효율 개선과 추론 방식의 발전까지 더해 앞으로도 비슷한 규모의 도약이 한 번 더 이어질 것이라고 봤습니다.
-
-여기에 같은 규모의 발전이 한 번 더 이어진다고 가정하면 2027년쯤 11자릿수에 도달하고, 그 지점에 적어둔 이름이 '자동 AI 연구자'입니다.</description><pubDate>Fri, 31 Jul 2026 09:38:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbc9hD0D5oX</guid></item><item><title>🚨 바이트댄스가 Seedance 2.5를 공개했습니다.
-지금까지 AI 영상은 5~10초를 여러 번 뽑아 이어 붙이는 방식이라, 컷이 넘어갈 때마...</title><link>https://www.threads.net/@choi.openai/post/Dbc10WzDg3T</link><description>🚨 바이트댄스가 Seedance 2.5를 공개했습니다.
-지금까지 AI 영상은 5~10초를 여러 번 뽑아 이어 붙이는 방식이라, 컷이 넘어갈 때마다 인물 얼굴과 조명이 조금씩 어긋났습니다.
-이번엔 한 번의 생성으로 30초를 통째로 만들고, 롱비디오 모드는 베타로 180초까지 갑니다.
-레퍼런스도 50개까지 넣을 수 있고 여기에 3D 화이트 모델과 그린스크린 소스가 추가되었습니다. Maya나 Blender에서 카메라 동선을 미리 잡아 그대로 넘길 수 있다는 뜻입니다.
-720p 30초에 1,440크레딧이 나갔다는 이용자 보고도 올라오고 있어 일상용으로는 사용하기 어려울 것 같습니다.</description><pubDate>Fri, 31 Jul 2026 08:32:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbc10WzDg3T</guid></item><item><title>와.. 딥시크는 딥시크인가..
-딥시크가 V4-Flash 정식판을 API에 올렸습니다.
-새로 학습시킨 게 아니라 포스트트레이닝만 다시 돌렸는데, ...</title><link>https://www.threads.net/@choi.openai/post/Dbcu1JTAN7t</link><description>와.. 딥시크는 딥시크인가..
-딥시크가 V4-Flash 정식판을 API에 올렸습니다.
-새로 학습시킨 게 아니라 포스트트레이닝만 다시 돌렸는데, 상위 등급인 V4-Pro 프리뷰를 전 항목에서 넘겼습니다.
-에이전트 코딩을 재는 DeepSWE는 7.4에서 54.4로 뛰었고, 터미널 작업을 재는 Terminal Bench 2.1은 82.7, 보안 취약점 발굴인 Cybergym은 76.7을 받았습니다.
-총 284B에 토큰당 13B를 쓰는 구조는 4월 프리뷰와 같습니다.
-같이 봐야 할 건 Responses API를 네이티브로 지원하면서 Codex 설정 가이드까지 붙였다는 부분입니다.
-가격은 100만 토큰당 출력 0.28달러로 오늘 오픈AI가 GPT-5.6 Luna를 80% 내려 1.20달러로 맞췄는데, 그래도 4배 넘게 낮습니다.
-기본값이 되는 모델의 가격 경쟁이 심화되는 가운데, 모델 수익 경로를 다각화하려는 의도로 보입니다.
-Deepseek V4-Pro 정식판도 곧 나올 것 같습니다.</description><pubDate>Fri, 31 Jul 2026 07:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbcu1JTAN7t</guid></item><item><title>업데이트 :
-https://api-docs.deepseek.com/updates/</title><link>https://www.threads.net/@choi.openai/post/Dbcu2DqgLvj</link><description>업데이트 :
-https://api-docs.deepseek.com/updates/</description><pubDate>Fri, 31 Jul 2026 07:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbcu2DqgLvj</guid></item><item><title>LG AI연구원이 K-엑사원 2.0을 공개했습니다.
-236B에서 750B, 반년 만에 3배입니다.
-24개 지표 평균은 63.3에서 70.1로 올...</title><link>https://www.threads.net/@choi.openai/post/Dbcn9zmj2KP</link><description>LG AI연구원이 K-엑사원 2.0을 공개했습니다.
-236B에서 750B, 반년 만에 3배입니다.
-24개 지표 평균은 63.3에서 70.1로 올랐고, 코딩과 에이전틱 코딩 3개 지표는 30% 뛰었습니다.
-K-엑사원 2.0이 무엇을 증명했고 무엇을 아직 못 했는지 분석했습니다. 🧵</description><pubDate>Fri, 31 Jul 2026 06:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbcn9zmj2KP</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
-
-1. LG AI연구원이 7월 31일 K-엑사원 2.0을 허깅페이스에 공개함. 독자 AI ...</title><link>https://www.threads.net/@choi.openai/post/Dbcn-XYj8dz</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
-
-1. LG AI연구원이 7월 31일 K-엑사원 2.0을 허깅페이스에 공개함. 독자 AI 파운데이션 모델 프로젝트 2차수 모델임.
-2. 규모는 750B로 1차수 236B에서 3배 이상 커졌고, 라이선스를 아파치 2.0으로 바꿔 상업 이용까지 열었음.
-3. 9개 영역 24개 지표 평균 70.1점으로 1차수 63.3점 대비 10.8% 올랐고, 코딩·에이전틱 코딩 3개 지표는 30% 상승함.
-4. 장문 이해 두 지표에서 GLM-5.1을 앞섰고, 안전성 평가 평균 94.6점으로 중국 모델들을 크게 앞섰음.
-5. 지원 언어는 6개에서 10개로 확장됐고, 대국민 평가 사이트와 산업 특화 모델 공개가 예고됨.
-
-→ 규모와 개방성은 확실히 올렸지만, 이 프로젝트의 탈락 기준은 점수가 아니라 독자성과 실사용이었다는 점이 아직 남아 있습니다.</description><pubDate>Fri, 31 Jul 2026 06:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbcn-XYj8dz</guid></item><item><title>2/ LG AI연구원이 7월 31일 K-엑사원 2.0을 오픈소스 커뮤니티 허깅페이스에 공개했습니다.
-
-과학기술정보통신부가 주관하는 독자 AI 파...</title><link>https://www.threads.net/@choi.openai/post/Dbcn_P6Dy6w</link><description>2/ LG AI연구원이 7월 31일 K-엑사원 2.0을 오픈소스 커뮤니티 허깅페이스에 공개했습니다.
-
-과학기술정보통신부가 주관하는 독자 AI 파운데이션 모델 프로젝트의 2차수 결과물입니다.
-
-규모는 750B, 파라미터 7,500억 개입니다. 지난 1월 공개된 1차수 모델이 236B였으니 반년 만에 3배 이상 커졌습니다.
-
-더 크게 바뀐 건 라이선스입니다. 누구나 상업적 이용까지 가능한 아파치 2.0으로 전환했습니다.
-
-가중치를 받아 자기 서버에 올려 제품에 붙여도 되고 파생 모델을 팔아도 됩니다. 오픈AI가 gpt-oss를 낼 때 택한 것과 같은 조건이고, 국가 예산으로 학습한 국내 모델이 여기까지 푼 건 이번이 처음입니다.</description><pubDate>Fri, 31 Jul 2026 06:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbcn_P6Dy6w</guid></item><item><title>3/ 1차수 모델의 구조를 알면 이번 확장이 무엇을 의미하는지 보입니다.
-
-K-엑사원 1.0은 전체 236B 가운데 토큰당 23B만 켜는 전문가...</title><link>https://www.threads.net/@choi.openai/post/DbcoAZ8D8KE</link><description>3/ 1차수 모델의 구조를 알면 이번 확장이 무엇을 의미하는지 보입니다.
-
-K-엑사원 1.0은 전체 236B 가운데 토큰당 23B만 켜는 전문가 혼합 구조였습니다. 전문가 128명 중 8명에 공용 전문가 하나를 더해 매 토큰을 처리합니다.
-
-학습에 쓴 데이터는 11조 토큰, 연산량은 1.52의 24제곱 규모였습니다. FP8 정밀도로 처음부터 학습했고 최적화 기법으로 뮤온을 썼습니다.
-
-2.0은 배포 경로에 붙은 이름이 750B-A37B입니다. 전체 7,500억에 활성 370억, 즉 켜는 양도 1.6배로 늘렸습니다.
-
-국내에 없던 규모의 분산 학습을 끝까지 돌린 것 자체가 이번 발표의 포인트입니다.</description><pubDate>Fri, 31 Jul 2026 06:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbcoAZ8D8KE</guid></item></channel></rss>
+웹에서 필요한 정보를 찾고 ChatGPT에 바로 연결하는 흐름이 점점 자연스러워지고 있습니다.</description><pubDate>Fri, 31 Jul 2026 11:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdG8Igj245</guid></item></channel></rss>
