@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 01 Aug 2026 02:45:19 +0000</lastBuildDate><item><title>Opus급 코딩 에이전트를 이제 무료로 돌릴 수 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 01 Aug 2026 09:58:10 +0000</lastBuildDate><item><title>와... 오픈AI의 차기 모델 Astra가 10년 넘게 진전이 없던 수학 문제 10개에서 새로운 결과를 냈다고 합니다.
+
+비소픽 군(유한 순열로...</title><link>https://www.threads.net/@choi.openai/post/DbfZ2Qej6aA</link><description>와... 오픈AI의 차기 모델 Astra가 10년 넘게 진전이 없던 수학 문제 10개에서 새로운 결과를 냈다고 합니다.
+
+비소픽 군(유한 순열로 근사할 수 없는 군), Connes 강성 추측, 고차원 구면 포장 같은 난제들입니다.
+
+더 놀라운 점은 답만 공개한 것이 아니라 증명 파일까지 함께 공개했다는 것입니다.
+
+AI가 먼저 풀이를 만들고, 이를 정리정돈한 뒤 Lean이라는 정형 증명 언어로 옮겨 컴퓨터가 증명의 모든 단계를 하나씩 검증할 수 있게 했습니다.
+
+쉽게 말하면 AI가 "맞습니다"라고 주장한 것이 아닙니다. 증명 전체를 Lean으로 옮겨 컴퓨터가 한 단계씩 직접 확인한 것입니다.
+
+수학 AI의 역할이 정답을 맞히는 도구를 넘어, 새로운 수학 결과를 만들고 그 증명까지 검증 가능한 형태로 남기는 도구로 바뀌는 순간인 것 같습니다.</description><pubDate>Sat, 01 Aug 2026 08:24:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfZ2Qej6aA</guid></item><item><title>발표내용 :
+https://openai.com/index/ten-advances-in-mathematics/</title><link>https://www.threads.net/@choi.openai/post/DbfZ21-D8Un</link><description>발표내용 :
+https://openai.com/index/ten-advances-in-mathematics/</description><pubDate>Sat, 01 Aug 2026 08:24:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfZ21-D8Un</guid></item><item><title>ChatGPT 데스크톱 앱에 새로운 기능이 추가되었습니다.
+
+이제 화면에 있는 Pet(반려동물 캐릭터)을 클릭하면 바로 Voice(음성 모드)를...</title><link>https://www.threads.net/@choi.openai/post/DbfF9HADGn7</link><description>ChatGPT 데스크톱 앱에 새로운 기능이 추가되었습니다.
+
+이제 화면에 있는 Pet(반려동물 캐릭터)을 클릭하면 바로 Voice(음성 모드)를 실행할 수 있는데요. 음성으로 현재 진행 중인 작업을 확인하거나, 작업을 승인하거나 중지하는 등의 기능을 사용할 수 있습니다.
+
+매번 새 채팅을 열어 음성 모드를 실행할 필요 없이, 작업 중에도 더 빠르게 음성 기능에 접근할 수 있도록 편의성을 높인 업데이트입니다.</description><pubDate>Sat, 01 Aug 2026 05:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfF9HADGn7</guid></item><item><title>Qwen이 음성 인식 모델 Qwen-Audio-3.0-ASR-Flash를 공개했습니다.
+
+이번 업데이트는 문맥을 더 자연스럽게 이어서 인식하고,...</title><link>https://www.threads.net/@choi.openai/post/Dbe4L4rDt3W</link><description>Qwen이 음성 인식 모델 Qwen-Audio-3.0-ASR-Flash를 공개했습니다.
+
+이번 업데이트는 문맥을 더 자연스럽게 이어서 인식하고, 의료·산업 분야처럼 전문 용어가 많은 환경에서 정확도를 높인 것이 특징인데요.
+
+사용자가 자주 사용하는 단어를 Custom hotwords(사용자 지정 핵심 단어)로 등록할 수 있으며, 음성을 문서 형태로 정리된 기록으로 변환하는 기능도 제공합니다.
+
+Qwen의 내부 테스트에서는 의료 용어 재현율 95.36%, 산업 용어 재현율 93.24%를 기록했다고 밝혔습니다. 실시간 음성 인식과 녹음 파일 인식 등 여러 방식으로 사용할 수 있습니다.</description><pubDate>Sat, 01 Aug 2026 03:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbe4L4rDt3W</guid></item><item><title>내용 :
+https://www.alibabacloud.com/help/en/model-studio/non-real-time-speech-reco...</title><link>https://www.threads.net/@choi.openai/post/Dbe4M0Ljqju</link><description>내용 :
+https://www.alibabacloud.com/help/en/model-studio/non-real-time-speech-recognition-for-fun-asr-flash</description><pubDate>Sat, 01 Aug 2026 03:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbe4M0Ljqju</guid></item><item><title>Opus급 코딩 에이전트를 이제 무료로 돌릴 수 있습니다.
 
 딥시크가 7월 31일 V4-Flash 정식판 가중치를 MIT 라이선스로 통째로 풀었...</title><link>https://www.threads.net/@choi.openai/post/DberMBlj3kU</link><description>Opus급 코딩 에이전트를 이제 무료로 돌릴 수 있습니다.
 
@@ -41,29 +71,4 @@
 
 강화학습은 모델이 답을 시도하고 채점을 받아 고치기를 반복하는 훈련 방식입니다. 보상 신호가 잡음투성이라는 비판을 받아온 방법인데, 실행 결과로 채점되는 과제에서는 정답 확인이 명확해 그 약점이 줄어듭니다.
 
-그래서 이런 과제의 성능은 모델 크기보다, 실행을 몇 번 돌리고 그 실행을 얼마나 정확히 채점했느냐가 정합니다.</description><pubDate>Sat, 01 Aug 2026 01:37:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DberOOQj6Vv</guid></item><item><title>오픈AI가 'Astra'라는 새 모델 패밀리를 준비 중이라고 합니다.
-더 인포메이션에 따르면 샘 알트먼이 이번 주 워싱턴에서 정책 입안자와 규제...</title><link>https://www.threads.net/@choi.openai/post/DbegGlIjXri</link><description>오픈AI가 'Astra'라는 새 모델 패밀리를 준비 중이라고 합니다.
-더 인포메이션에 따르면 샘 알트먼이 이번 주 워싱턴에서 정책 입안자와 규제당국자들에게 직접 시연했고, 여러 에이전트가 협업해 오랜 시간이 걸리는 난제를 완주하는 능력을 내세웠다고 하는데요.
-방향 자체는 업계 공통입니다. 단일 응답의 품질은 상향 평준화됐고, 경쟁은 모델이 얼마나 오래, 몇 개의 에이전트로 분업해 스스로 일을 끝내느냐로 넘어왔습니다.
-명칭은 GPT-6이 될 수도, GPT-5.7로 나올 수도 있다는 관측도 나옵니다.
-하반기 프런티어 경쟁은 누가 더 오래 스스로 일하는 모델을 내놓느냐에서 갈릴 것 같습니다.</description><pubDate>Sat, 01 Aug 2026 00:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbegGlIjXri</guid></item><item><title>기사 :
-https://www.theinformation.com/briefings/exclusive-openai-previews-astra-ai...</title><link>https://www.threads.net/@choi.openai/post/DbegHREDc6S</link><description>기사 :
-https://www.theinformation.com/briefings/exclusive-openai-previews-astra-ai-model-dc</description><pubDate>Sat, 01 Aug 2026 00:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbegHREDc6S</guid></item><item><title>Unsloth가 딥시크 V4 Flash 0731 GGUF를 공개했습니다.
-무손실 버전이 램 168GB, 3비트는 110GB 사양입니다.
-이번 공...</title><link>https://www.threads.net/@choi.openai/post/DbeWm28E0be</link><description>Unsloth가 딥시크 V4 Flash 0731 GGUF를 공개했습니다.
-무손실 버전이 램 168GB, 3비트는 110GB 사양입니다.
-이번 공개에서 봐야 할 건 '무손실 4비트'라는 표현입니다.
-딥시크가 학습 단계부터 양자화를 반영하는 QAT로 훈련해, 전체 가중치의 96%인 전문가 파라미터가 원래부터 FP4입니다.
-Unsloth는 그 비트를 GGUF로 그대로 옮겨 담았고, 원본과 토큰 일치율 100%를 확인했습니다. 성능 저하 없이 원본 그대로란 뜻입니다.
-0731 버전은 크기 그대로 재학습만 다시 했는데, 자체 공개한 에이전트 벤치마크 전부에서 상위 모델인 V4-Pro-Preview까지 앞섰고요.
-양자화 품질을 정하는 지점이 변환 도구에서 학습 단계로 옮겨가고 있습니다.</description><pubDate>Fri, 31 Jul 2026 22:37:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbeWm28E0be</guid></item><item><title>허깅페이스 :
-https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF</title><link>https://www.threads.net/@choi.openai/post/DbeWniHE1Su</link><description>허깅페이스 :
-https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF</description><pubDate>Fri, 31 Jul 2026 22:37:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbeWniHE1Su</guid></item><item><title>일론머스크는 구글 독점을 막으려 설립했던 오픈AI와 여기서 파생된 앤트로픽이 오히려 AI 개발 경쟁을 가속화했다고 밝혔습니다.
-의도와 달리 기술...</title><link>https://www.threads.net/@choi.openai/post/DbeEt0ZiDci</link><description>일론머스크는 구글 독점을 막으려 설립했던 오픈AI와 여기서 파생된 앤트로픽이 오히려 AI 개발 경쟁을 가속화했다고 밝혔습니다.
-의도와 달리 기술 경쟁이 커진 상황에서 결국 함께 경쟁에 참여할 수밖에 없다는 소회입니다.
-
-구글 을 견제하려고 시작했던 움직임이 연쇄 반응을 일으켜 AI 발전 속도를 훨씬 빠르게 만든 결과로 이어졌습니다.
-
-결국 경쟁을 피하거나 슬퍼하기보다는 해당 구도에 직접 들어가 주도권을 확보하는 길을 선택한 셈입니다.
-
-앞으로 펼쳐질 시장 변화와 기술 흐름이 더욱 흥미진진해집니다.</description><pubDate>Fri, 31 Jul 2026 20:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbeEt0ZiDci</guid></item></channel></rss>
+그래서 이런 과제의 성능은 모델 크기보다, 실행을 몇 번 돌리고 그 실행을 얼마나 정확히 채점했느냐가 정합니다.</description><pubDate>Sat, 01 Aug 2026 01:37:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DberOOQj6Vv</guid></item></channel></rss>
