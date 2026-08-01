@@ -1,44 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 31 Jul 2026 16:29:37 +0000</lastBuildDate><item><title>블룸버그가 Moonshot이 알리바바를 통해 엔비디아 칩 2만 장 규모 클러스터를 Kimi 학습에 썼다고 보도했습니다.
-그게 H200이라는 정보...</title><link>https://www.threads.net/@choi.openai/post/DbdpKhyCM-N</link><description>블룸버그가 Moonshot이 알리바바를 통해 엔비디아 칩 2만 장 규모 클러스터를 Kimi 학습에 썼다고 보도했습니다.
-그게 H200이라는 정보도 뒤이어 나왔는데, 알리바바 쪽은 컴퓨팅 계약 자체가 아니라 기종만 부인했다고 합니다.
-중국 AI 기업들은 추론을 화웨이 어센드로 상당히 옮겼지만, 프런티어 학습은 아직 엔비디아를 못 놓고 있죠.
-어센드는 카드 네 장이 엔비디아 한 장 성능에 겨우 대응하는 수준이고, 딥시크도 국산칩 학습을 반복 실패한 뒤 엔비디아로 되돌아갔습니다.
-2만 장이 자체 조달이 아니라 알리바바 클러스터 임대로 나온 이유가 여기에 있습니다.
-오픈웨이트로 풀린 모델이라도 그걸 만들 물량은 여전히 몇몇 클라우드가 쥐고 있는 구조가 이어질 것으로 보입니다.</description><pubDate>Fri, 31 Jul 2026 16:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdpKhyCM-N</guid></item><item><title>기사 :
-https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on...</title><link>https://www.threads.net/@choi.openai/post/DbdpMj8CNS9</link><description>기사 :
-https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba?srnd=phx-technology</description><pubDate>Fri, 31 Jul 2026 16:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdpMj8CNS9</guid></item><item><title>🚨 속보) 딥시크 모먼트 진짜 재현되나..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 01 Aug 2026 02:45:19 +0000</lastBuildDate><item><title>Opus급 코딩 에이전트를 이제 무료로 돌릴 수 있습니다.
 
-와.. 딥시크가 V4-Flash-0731 가중치를 공개했습니다.
+딥시크가 7월 31일 V4-Flash 정식판 가중치를 MIT 라이선스로 통째로 풀었...</title><link>https://www.threads.net/@choi.openai/post/DberMBlj3kU</link><description>Opus급 코딩 에이전트를 이제 무료로 돌릴 수 있습니다.
 
-기술 보고서도 같이 나왔고 라이선...</title><link>https://www.threads.net/@choi.openai/post/DbdbBl5D9iS</link><description>🚨 속보) 딥시크 모먼트 진짜 재현되나..
+딥시크가 7월 31일 V4-Flash 정식판 가중치를 MIT 라이선스로 통째로 풀었습니다. 가져다 팔아도 됩니다.
 
-와.. 딥시크가 V4-Flash-0731 가중치를 공개했습니다.
+구글이 같은 지능에 출력 100만 토큰당 7.50달러를 받는데, 이 모델은 0.28달러, 받아서 직접 돌리면 공짜입니다.
 
-기술 보고서도 같이 나왔고 라이선스는 MIT입니다.
+왜 이런 물건을 공짜로 주는지부터 정리했습니다. 🧵</description><pubDate>Sat, 01 Aug 2026 01:36:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DberMBlj3kU</guid></item><item><title>1/ 딥시크가 V4-Flash 정식판을 공개했습니다.
 
-4월 프리뷰와 구조도 크기도 같은 모델인데요. 총 284B 가운데 토큰당 13B만 켜는 방식 그대로입니다.
-바꾼 건 학습 후반 공정뿐인데, 에이전트 성능이 올라 활성 49B를 쓰는 상위 등급 V4-Pro를 벤치마크에서 앞섰다고 밝혔습니다.
+4월에 공개했던 프리뷰를 대체하는 버전으로, API는 현재 공개 베타로 제공됩니다.
 
-직접 돌리는 쪽에서 더 반가운 건 체크포인트에 DSpark라는 투기적 디코딩 모듈이 붙어 나온다는 부분입니다.
-작은 모델이 먼저 여러 토큰을 써 보고 본 모델이 한 번에 검증하는 방식이라, 딥시크 서빙 환경에서 사용자당 생성 속도가 기존 방식보다 60~85% 빨랐다고 합니다.
+모...</title><link>https://www.threads.net/@choi.openai/post/DberMe9Dzpw</link><description>1/ 딥시크가 V4-Flash 정식판을 공개했습니다.
 
-같은 가중치에서 얼마나 더 꺼낼 수 있는지를 보여준 공개입니다.</description><pubDate>Fri, 31 Jul 2026 13:56:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdbBl5D9iS</guid></item><item><title>허깅페이스 :
-https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731</title><link>https://www.threads.net/@choi.openai/post/DbdbCO9j047</link><description>허깅페이스 :
-https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731</description><pubDate>Fri, 31 Jul 2026 13:56:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdbCO9j047</guid></item><item><title>이제는 정말 따라갈 수 없는 경지에 이르렀습니다.
+4월에 공개했던 프리뷰를 대체하는 버전으로, API는 현재 공개 베타로 제공됩니다.
 
-ByteDance의 Seedance 2.5가 공개되자 영화와 구분하기 어려운 수준의 영상들이...</title><link>https://www.threads.net/@choi.openai/post/DbdN-2Uj2GM</link><description>이제는 정말 따라갈 수 없는 경지에 이르렀습니다.
+모델 가중치도 함께 공개됐습니다. MIT 라이선스를 적용해 상업적 이용과 수정, 재배포까지 사실상 제한 없이 가능합니다.
 
-ByteDance의 Seedance 2.5가 공개되자 영화와 구분하기 어려운 수준의 영상들이 쏟아지고 있습니다.
+가격은 100만 토큰 기준 입력 0.14달러, 출력 0.28달러로 이전과 동일하며, 컨텍스트 길이도 100만 토큰을 유지했습니다.
 
-POV 영상부터 광고, 뮤직비디오, AI UGC(사용자 제작 콘텐츠)까지 활용 범위도 크게 넓어졌습니다.
+회사가 가장 크게 내세운 변화는 에이전트 성능입니다. 다만 어떤 학습을 추가했고 얼마나 학습량을 늘렸는지는 공개하지 않았습니다.
 
-놀라운 제작 사례 15개를 정리했습니다🧵</description><pubDate>Fri, 31 Jul 2026 12:02:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdN-2Uj2GM</guid></item><item><title>1/ x@seiiiiiiiiiiru</title><link>https://www.threads.net/@choi.openai/post/DbdNKdmGv9A</link><description>1/ x@seiiiiiiiiiiru</description><pubDate>Fri, 31 Jul 2026 12:02:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdNKdmGv9A</guid></item><item><title>2/ x@higgsfield_ai</title><link>https://www.threads.net/@choi.openai/post/DbdNWRQjRdS</link><description>2/ x@higgsfield_ai</description><pubDate>Fri, 31 Jul 2026 12:02:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdNWRQjRdS</guid></item><item><title>3/ x@seiiiiiiiiiiru</title><link>https://www.threads.net/@choi.openai/post/DbdNLzcEUqy</link><description>3/ x@seiiiiiiiiiiru</description><pubDate>Fri, 31 Jul 2026 12:02:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdNLzcEUqy</guid></item><item><title>ChatGPT의 웹 연동 기능이 업데이트되었습니다.
+프리뷰를 공식적으로 대체한다고 밝힌 만큼, 앞으로는 이 버전이 V4-Flash의 기준이 됩니다. 4월 프리뷰 이후 약 4개월 만에 정식 버전이 나온 셈입니다.</description><pubDate>Sat, 01 Aug 2026 01:37:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DberMe9Dzpw</guid></item><item><title>2/ 상승 폭부터 확인하겠습니다.
 
-Chrome 확장 프로그램에서는 Side Chat에서 유튜브 영상을 바로 질문하거나, 열려...</title><link>https://www.threads.net/@choi.openai/post/DbdG8Igj245</link><description>ChatGPT의 웹 연동 기능이 업데이트되었습니다.
+독립 평가기관 Artificial Analysis 집계로 지능 지수가 4월 프리뷰보다 10점 올라 50이 됐...</title><link>https://www.threads.net/@choi.openai/post/DberNGiD6pO</link><description>2/ 상승 폭부터 확인하겠습니다.
 
-Chrome 확장 프로그램에서는 Side Chat에서 유튜브 영상을 바로 질문하거나, 열려 있는 탭을 함께 참고하고, 웹페이지의 텍스트를 선택해 바로 질문할 수 있습니다.
+독립 평가기관 Artificial Analysis 집계로 지능 지수가 4월 프리뷰보다 10점 올라 50이 됐습니다. 아키텍처와 크기, 가격이 프리뷰와 동일하다는 점은 이 기관도 명시했고요.
 
-데스크톱 앱에서는 URL 자동 추천과 브라우저 방문 기록 활용 기능이 추가됐으며, 기록 관리 방식도 직접 설정할 수 있습니다.
+50점은 구글 Gemini 3.6 Flash와 같은 점수입니다. 그런데 출력 단가는 구글이 100만 토큰당 7.50달러, 딥시크가 0.28달러로 27배 차이가 납니다.
 
-웹에서 필요한 정보를 찾고 ChatGPT에 바로 연결하는 흐름이 점점 자연스러워지고 있습니다.</description><pubDate>Fri, 31 Jul 2026 11:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbdG8Igj245</guid></item></channel></rss>
+개별 항목은 더 가파릅니다. 코딩 에이전트 평가 DeepSWE가 7.3에서 54.4, 터미널 작업이 61.8에서 82.7이 돼 폐쇄형 최상위 Opus 4.8에 2~4점 차이까지 붙었습니다.
+
+답 한 번에 실제로 켜는 연산량이 49B인 자사 상위 Pro 프리뷰를, 13B만 켜는 이 모델이 전 항목에서 넘었습니다.</description><pubDate>Sat, 01 Aug 2026 01:37:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DberNGiD6pO</guid></item><item><title>3/ 오른 항목의 성격이 한쪽으로 몰려 있습니다.
+
+코딩 에이전트, 터미널 작업, 도구 사용, 보안 취약점 발굴. 전부 모델이 명령을 실행하고 ...</title><link>https://www.threads.net/@choi.openai/post/DberOOQj6Vv</link><description>3/ 오른 항목의 성격이 한쪽으로 몰려 있습니다.
+
+코딩 에이전트, 터미널 작업, 도구 사용, 보안 취약점 발굴. 전부 모델이 명령을 실행하고 결과를 받아 다음 행동을 정하는 과제입니다. 보안 취약점 발굴은 38.7에서 76.7로 두 배가 됐죠. 지식 문답이나 수학 단답과 달리, 여러 단계를 밟고 틀리면 되돌아와야 하는 일들입니다.
+
+공식 공지 기준으로 구조와 크기는 그대로인데, 바뀐 것은 후반 학습뿐입니다.
+
+강화학습은 모델이 답을 시도하고 채점을 받아 고치기를 반복하는 훈련 방식입니다. 보상 신호가 잡음투성이라는 비판을 받아온 방법인데, 실행 결과로 채점되는 과제에서는 정답 확인이 명확해 그 약점이 줄어듭니다.
+
+그래서 이런 과제의 성능은 모델 크기보다, 실행을 몇 번 돌리고 그 실행을 얼마나 정확히 채점했느냐가 정합니다.</description><pubDate>Sat, 01 Aug 2026 01:37:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DberOOQj6Vv</guid></item><item><title>오픈AI가 'Astra'라는 새 모델 패밀리를 준비 중이라고 합니다.
+더 인포메이션에 따르면 샘 알트먼이 이번 주 워싱턴에서 정책 입안자와 규제...</title><link>https://www.threads.net/@choi.openai/post/DbegGlIjXri</link><description>오픈AI가 'Astra'라는 새 모델 패밀리를 준비 중이라고 합니다.
+더 인포메이션에 따르면 샘 알트먼이 이번 주 워싱턴에서 정책 입안자와 규제당국자들에게 직접 시연했고, 여러 에이전트가 협업해 오랜 시간이 걸리는 난제를 완주하는 능력을 내세웠다고 하는데요.
+방향 자체는 업계 공통입니다. 단일 응답의 품질은 상향 평준화됐고, 경쟁은 모델이 얼마나 오래, 몇 개의 에이전트로 분업해 스스로 일을 끝내느냐로 넘어왔습니다.
+명칭은 GPT-6이 될 수도, GPT-5.7로 나올 수도 있다는 관측도 나옵니다.
+하반기 프런티어 경쟁은 누가 더 오래 스스로 일하는 모델을 내놓느냐에서 갈릴 것 같습니다.</description><pubDate>Sat, 01 Aug 2026 00:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbegGlIjXri</guid></item><item><title>기사 :
+https://www.theinformation.com/briefings/exclusive-openai-previews-astra-ai...</title><link>https://www.threads.net/@choi.openai/post/DbegHREDc6S</link><description>기사 :
+https://www.theinformation.com/briefings/exclusive-openai-previews-astra-ai-model-dc</description><pubDate>Sat, 01 Aug 2026 00:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbegHREDc6S</guid></item><item><title>Unsloth가 딥시크 V4 Flash 0731 GGUF를 공개했습니다.
+무손실 버전이 램 168GB, 3비트는 110GB 사양입니다.
+이번 공...</title><link>https://www.threads.net/@choi.openai/post/DbeWm28E0be</link><description>Unsloth가 딥시크 V4 Flash 0731 GGUF를 공개했습니다.
+무손실 버전이 램 168GB, 3비트는 110GB 사양입니다.
+이번 공개에서 봐야 할 건 '무손실 4비트'라는 표현입니다.
+딥시크가 학습 단계부터 양자화를 반영하는 QAT로 훈련해, 전체 가중치의 96%인 전문가 파라미터가 원래부터 FP4입니다.
+Unsloth는 그 비트를 GGUF로 그대로 옮겨 담았고, 원본과 토큰 일치율 100%를 확인했습니다. 성능 저하 없이 원본 그대로란 뜻입니다.
+0731 버전은 크기 그대로 재학습만 다시 했는데, 자체 공개한 에이전트 벤치마크 전부에서 상위 모델인 V4-Pro-Preview까지 앞섰고요.
+양자화 품질을 정하는 지점이 변환 도구에서 학습 단계로 옮겨가고 있습니다.</description><pubDate>Fri, 31 Jul 2026 22:37:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbeWm28E0be</guid></item><item><title>허깅페이스 :
+https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF</title><link>https://www.threads.net/@choi.openai/post/DbeWniHE1Su</link><description>허깅페이스 :
+https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF</description><pubDate>Fri, 31 Jul 2026 22:37:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbeWniHE1Su</guid></item><item><title>일론머스크는 구글 독점을 막으려 설립했던 오픈AI와 여기서 파생된 앤트로픽이 오히려 AI 개발 경쟁을 가속화했다고 밝혔습니다.
+의도와 달리 기술...</title><link>https://www.threads.net/@choi.openai/post/DbeEt0ZiDci</link><description>일론머스크는 구글 독점을 막으려 설립했던 오픈AI와 여기서 파생된 앤트로픽이 오히려 AI 개발 경쟁을 가속화했다고 밝혔습니다.
+의도와 달리 기술 경쟁이 커진 상황에서 결국 함께 경쟁에 참여할 수밖에 없다는 소회입니다.
+
+구글 을 견제하려고 시작했던 움직임이 연쇄 반응을 일으켜 AI 발전 속도를 훨씬 빠르게 만든 결과로 이어졌습니다.
+
+결국 경쟁을 피하거나 슬퍼하기보다는 해당 구도에 직접 들어가 주도권을 확보하는 길을 선택한 셈입니다.
+
+앞으로 펼쳐질 시장 변화와 기술 흐름이 더욱 흥미진진해집니다.</description><pubDate>Fri, 31 Jul 2026 20:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbeEt0ZiDci</guid></item></channel></rss>
