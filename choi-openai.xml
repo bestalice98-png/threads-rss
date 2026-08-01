@@ -1,5 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 01 Aug 2026 09:58:10 +0000</lastBuildDate><item><title>와... 오픈AI의 차기 모델 Astra가 10년 넘게 진전이 없던 수학 문제 10개에서 새로운 결과를 냈다고 합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 01 Aug 2026 15:50:31 +0000</lastBuildDate><item><title>정말 놀라웠던 AI 소식 38개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/Dbf-GMxD22O</link><description>정말 놀라웠던 AI 소식 38개를 정리했습니다 🧵</description><pubDate>Sat, 01 Aug 2026 13:41:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbf-GMxD22O</guid></item><item><title>1/ 오픈AI가 GPT-5.6 가격을 최대 80% 내렸습니다.
+
+Luna는 100만 토큰당 입력 0.2달러, 출력 1.2달러가 됐고 Terra는...</title><link>https://www.threads.net/@choi.openai/post/Dbf-Ggoj6h5</link><description>1/ 오픈AI가 GPT-5.6 가격을 최대 80% 내렸습니다.
+
+Luna는 100만 토큰당 입력 0.2달러, 출력 1.2달러가 됐고 Terra는 20% 내려갔습니다. Sol은 자기 프로덕션 GPU 커널을 고쳐 서빙 비용을 20% 줄였고, 그 절감분이 API와 Codex, ChatGPT Work 가격에 반영됐습니다.
+
+프런티어급 오픈웨이트를 직접 운영하는 것보다 API가 싼 구간이 크게 넓어졌습니다. 성능뿐 아니라 같은 일을 끝내는 총비용이 모델 선택을 가르는 단계입니다.</description><pubDate>Sat, 01 Aug 2026 13:41:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbf-Ggoj6h5</guid></item><item><title>2/ 오픈AI가 수학 난제 10건의 새로운 증명을 공개했습니다.
+
+비소픽 군의 존재 구성, Connes 강성 추측 반증, 구면 포장 지수 확정,...</title><link>https://www.threads.net/@choi.openai/post/Dbf-HF8j5aT</link><description>2/ 오픈AI가 수학 난제 10건의 새로운 증명을 공개했습니다.
+
+비소픽 군의 존재 구성, Connes 강성 추측 반증, 구면 포장 지수 확정, 양자 병렬 반복 정리 등 군론과 조합론, 계산복잡도, 양자정보를 아우르는 결과입니다. 모든 증명에는 Lean 형식 검증과 논문, 사고 과정 해설이 함께 공개됐습니다.
+
+5월 단위 거리 추측에 이어 두 번째 대형 수학 발표입니다. 이번에는 단일 문제가 아니라 여러 분야에서 동시에 성과를 내며 AI 수학 연구의 범위가 한 단계 넓어졌습니다.</description><pubDate>Sat, 01 Aug 2026 13:41:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbf-HF8j5aT</guid></item><item><title>3/ 딥시크는 Opus급 코딩 에이전트의 가중치를 무료로 풀었습니다.
+
+V4-Flash 정식판은 MIT 라이선스라 상업 이용과 수정, 재배포가 ...</title><link>https://www.threads.net/@choi.openai/post/Dbf-HqwD7UU</link><description>3/ 딥시크는 Opus급 코딩 에이전트의 가중치를 무료로 풀었습니다.
+
+V4-Flash 정식판은 MIT 라이선스라 상업 이용과 수정, 재배포가 가능합니다. 출력 가격은 100만 토큰당 0.28달러이고, 독립 지능 지수는 Gemini 3.6 Flash와 같은 50점입니다. 코딩과 터미널 작업에서는 Opus 4.8과 2~4점 차까지 좁혔습니다.
+
+구조와 크기는 그대로인데 후반 학습만 바꿔 상위 Pro 프리뷰까지 넘었습니다. 프런티어 경쟁의 비용 기준이 또 한 번 내려갔습니다.</description><pubDate>Sat, 01 Aug 2026 13:41:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbf-HqwD7UU</guid></item><item><title>"이건 필즈상 수상감 이다."
+
+오늘 발표로 인해 수학 커뮤니티가 술렁이고 있습니다.
+토요일 새벽 12시 34분, 오픈AI 연구원이 249페이지...</title><link>https://www.threads.net/@choi.openai/post/DbfuANSD2JU</link><description>"이건 필즈상 수상감 이다."
+
+오늘 발표로 인해 수학 커뮤니티가 술렁이고 있습니다.
+토요일 새벽 12시 34분, 오픈AI 연구원이 249페이지 분량의 논문과 함께 글 하나를 올렸습니다.
+
+"비소픽 군이 존재한다."
+
+군론에서 20여 년 동안 답이 없던 문제였습니다. 그리고 이것은 그날 공개된 난제 10건 가운데 하나였습니다.
+
+8월 1일 공개된 오픈AI Astra의 수학 증명 10건을 분석했습니다. 🧵</description><pubDate>Sat, 01 Aug 2026 11:20:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfuANSD2JU</guid></item><item><title>1/ 8월 1일 오픈AI가 아직 출시하지 않은 모델 Astra의 내부 버전으로 얻은 결과 열 건을 공개했습니다.
+
+먼저 터진 건 세바스티앙 부벡...</title><link>https://www.threads.net/@choi.openai/post/DbfuA3YD8bx</link><description>1/ 8월 1일 오픈AI가 아직 출시하지 않은 모델 Astra의 내부 버전으로 얻은 결과 열 건을 공개했습니다.
+
+먼저 터진 건 세바스티앙 부벡의 게시물이었습니다. 비소픽 군이 존재한다는 한 문장으로 열고, 이런 증명 열 건을 Lean 인증서와 사고 과정 해설까지 붙여 공개한다고 적었습니다.
+
+여기서 난제란 학계가 10년 이상 주 결과에 진전을 내지 못한 문제를 말합니다. 대부분은 그보다 훨씬 오래 막혀 있었습니다.
+
+고차원 구면 채우기, 부호 이론, 산술 회로 복잡도, 군론, 작용소 대수, 양자 복잡도, 격자 암호, 극단 조합론에 걸쳐 있습니다.
+
+역할 분담이 명시돼 있는 점도 봐둘 만합니다. 수학적 논증은 모델이 냈고, 사람은 같은 모델과 함께 그 논증을 논문 형태로 다듬은 뒤 정확성에 대한 책임을 회사가 진다고 적었습니다.</description><pubDate>Sat, 01 Aug 2026 11:20:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfuA3YD8bx</guid></item><item><title>2/ 열 건 가운데 가장 많이 주목받은 결과는 비소픽 군의 존재 구성입니다.
+
+모든 가산 군을 유한 순열로 근사할 수 있느냐는 오랜 질문에 그렇...</title><link>https://www.threads.net/@choi.openai/post/DbfuB2jDxZn</link><description>2/ 열 건 가운데 가장 많이 주목받은 결과는 비소픽 군의 존재 구성입니다.
+
+모든 가산 군을 유한 순열로 근사할 수 있느냐는 오랜 질문에 그렇지 않다는 답을 제시했습니다.
+
+Connes 강성 추측도 반증했습니다. 서로 동형이 아닌 성질 (T) 군을 무한히 구성하면서도, 이들이 같은 군 폰 노이만 대수를 갖는다는 것을 보였습니다.
+
+구면 포장 문제에서는 콘·엘키스 선형계획의 지수 감쇠율을 √(e/2π)로 정확히 확정했습니다.
+
+퍼머넌트 계산에서는 공식 모델에 대해 n⁴/log n 규모의 새로운 산술 회로 하한을 증명했고, 두 명이 겨루는 양자 게임 전체에 대해서는 지수적 병렬 반복 정리를 증명했습니다.
+
+여기에 에르되시 문제 183번, 146번, 180번까지 모두 새로운 결과가 나왔습니다.</description><pubDate>Sat, 01 Aug 2026 11:21:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfuB2jDxZn</guid></item><item><title>3/ 비소픽 군 문제가 왜 중요한지부터 봐야 합니다.
+
+소픽 군은 무한한 군을 유한한 순열 구조로 얼마나 잘 근사할 수 있는지를 다루는 개념입니...</title><link>https://www.threads.net/@choi.openai/post/DbfuCxVj3yp</link><description>3/ 비소픽 군 문제가 왜 중요한지부터 봐야 합니다.
+
+소픽 군은 무한한 군을 유한한 순열 구조로 얼마나 잘 근사할 수 있는지를 다루는 개념입니다. 그리고 소픽 군에 대해서는 곳찰크의 전사성 추측과 캐플랜스키의 직접 유한성 추측이 이미 성립하는 것으로 알려져 있습니다.
+
+그래서 모든 군이 소픽이라면 두 추측도 자동으로 참이 됩니다. 20여 년 동안 비소픽 군의 반례가 발견되지 않으면서, 모든 군이 소픽일 것이라는 견해가 점점 힘을 얻었습니다.
+
+Astra는 성질 (T) 확장자 그래프와 이진 레빗 대수를 결합해 유한 표현을 갖는 비소픽 군을 구성했습니다. 오랫동안 가능하다고 여겨졌던 길이 하나 막힌 셈입니다.
+
+여기서 유한 표현이란 생성원과 관계식을 유한한 개수로 적어낼 수 있다는 뜻입니다. 단순히 존재를 증명한 데 그친 것이 아니라, 실제로 다룰 수 있는 구체적인 예를 제시한 것입니다.</description><pubDate>Sat, 01 Aug 2026 11:21:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfuCxVj3yp</guid></item><item><title>와... 오픈AI의 차기 모델 Astra가 10년 넘게 진전이 없던 수학 문제 10개에서 새로운 결과를 냈다고 합니다.
 
 비소픽 군(유한 순열로...</title><link>https://www.threads.net/@choi.openai/post/DbfZ2Qej6aA</link><description>와... 오픈AI의 차기 모델 Astra가 10년 넘게 진전이 없던 수학 문제 10개에서 새로운 결과를 냈다고 합니다.
 
@@ -19,56 +81,4 @@ https://openai.com/index/ten-advances-in-mathematics/</description><pubDate>Sat,
 
 이제 화면에 있는 Pet(반려동물 캐릭터)을 클릭하면 바로 Voice(음성 모드)를 실행할 수 있는데요. 음성으로 현재 진행 중인 작업을 확인하거나, 작업을 승인하거나 중지하는 등의 기능을 사용할 수 있습니다.
 
-매번 새 채팅을 열어 음성 모드를 실행할 필요 없이, 작업 중에도 더 빠르게 음성 기능에 접근할 수 있도록 편의성을 높인 업데이트입니다.</description><pubDate>Sat, 01 Aug 2026 05:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfF9HADGn7</guid></item><item><title>Qwen이 음성 인식 모델 Qwen-Audio-3.0-ASR-Flash를 공개했습니다.
-
-이번 업데이트는 문맥을 더 자연스럽게 이어서 인식하고,...</title><link>https://www.threads.net/@choi.openai/post/Dbe4L4rDt3W</link><description>Qwen이 음성 인식 모델 Qwen-Audio-3.0-ASR-Flash를 공개했습니다.
-
-이번 업데이트는 문맥을 더 자연스럽게 이어서 인식하고, 의료·산업 분야처럼 전문 용어가 많은 환경에서 정확도를 높인 것이 특징인데요.
-
-사용자가 자주 사용하는 단어를 Custom hotwords(사용자 지정 핵심 단어)로 등록할 수 있으며, 음성을 문서 형태로 정리된 기록으로 변환하는 기능도 제공합니다.
-
-Qwen의 내부 테스트에서는 의료 용어 재현율 95.36%, 산업 용어 재현율 93.24%를 기록했다고 밝혔습니다. 실시간 음성 인식과 녹음 파일 인식 등 여러 방식으로 사용할 수 있습니다.</description><pubDate>Sat, 01 Aug 2026 03:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbe4L4rDt3W</guid></item><item><title>내용 :
-https://www.alibabacloud.com/help/en/model-studio/non-real-time-speech-reco...</title><link>https://www.threads.net/@choi.openai/post/Dbe4M0Ljqju</link><description>내용 :
-https://www.alibabacloud.com/help/en/model-studio/non-real-time-speech-recognition-for-fun-asr-flash</description><pubDate>Sat, 01 Aug 2026 03:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbe4M0Ljqju</guid></item><item><title>Opus급 코딩 에이전트를 이제 무료로 돌릴 수 있습니다.
-
-딥시크가 7월 31일 V4-Flash 정식판 가중치를 MIT 라이선스로 통째로 풀었...</title><link>https://www.threads.net/@choi.openai/post/DberMBlj3kU</link><description>Opus급 코딩 에이전트를 이제 무료로 돌릴 수 있습니다.
-
-딥시크가 7월 31일 V4-Flash 정식판 가중치를 MIT 라이선스로 통째로 풀었습니다. 가져다 팔아도 됩니다.
-
-구글이 같은 지능에 출력 100만 토큰당 7.50달러를 받는데, 이 모델은 0.28달러, 받아서 직접 돌리면 공짜입니다.
-
-왜 이런 물건을 공짜로 주는지부터 정리했습니다. 🧵</description><pubDate>Sat, 01 Aug 2026 01:36:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DberMBlj3kU</guid></item><item><title>1/ 딥시크가 V4-Flash 정식판을 공개했습니다.
-
-4월에 공개했던 프리뷰를 대체하는 버전으로, API는 현재 공개 베타로 제공됩니다.
-
-모...</title><link>https://www.threads.net/@choi.openai/post/DberMe9Dzpw</link><description>1/ 딥시크가 V4-Flash 정식판을 공개했습니다.
-
-4월에 공개했던 프리뷰를 대체하는 버전으로, API는 현재 공개 베타로 제공됩니다.
-
-모델 가중치도 함께 공개됐습니다. MIT 라이선스를 적용해 상업적 이용과 수정, 재배포까지 사실상 제한 없이 가능합니다.
-
-가격은 100만 토큰 기준 입력 0.14달러, 출력 0.28달러로 이전과 동일하며, 컨텍스트 길이도 100만 토큰을 유지했습니다.
-
-회사가 가장 크게 내세운 변화는 에이전트 성능입니다. 다만 어떤 학습을 추가했고 얼마나 학습량을 늘렸는지는 공개하지 않았습니다.
-
-프리뷰를 공식적으로 대체한다고 밝힌 만큼, 앞으로는 이 버전이 V4-Flash의 기준이 됩니다. 4월 프리뷰 이후 약 4개월 만에 정식 버전이 나온 셈입니다.</description><pubDate>Sat, 01 Aug 2026 01:37:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DberMe9Dzpw</guid></item><item><title>2/ 상승 폭부터 확인하겠습니다.
-
-독립 평가기관 Artificial Analysis 집계로 지능 지수가 4월 프리뷰보다 10점 올라 50이 됐...</title><link>https://www.threads.net/@choi.openai/post/DberNGiD6pO</link><description>2/ 상승 폭부터 확인하겠습니다.
-
-독립 평가기관 Artificial Analysis 집계로 지능 지수가 4월 프리뷰보다 10점 올라 50이 됐습니다. 아키텍처와 크기, 가격이 프리뷰와 동일하다는 점은 이 기관도 명시했고요.
-
-50점은 구글 Gemini 3.6 Flash와 같은 점수입니다. 그런데 출력 단가는 구글이 100만 토큰당 7.50달러, 딥시크가 0.28달러로 27배 차이가 납니다.
-
-개별 항목은 더 가파릅니다. 코딩 에이전트 평가 DeepSWE가 7.3에서 54.4, 터미널 작업이 61.8에서 82.7이 돼 폐쇄형 최상위 Opus 4.8에 2~4점 차이까지 붙었습니다.
-
-답 한 번에 실제로 켜는 연산량이 49B인 자사 상위 Pro 프리뷰를, 13B만 켜는 이 모델이 전 항목에서 넘었습니다.</description><pubDate>Sat, 01 Aug 2026 01:37:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DberNGiD6pO</guid></item><item><title>3/ 오른 항목의 성격이 한쪽으로 몰려 있습니다.
-
-코딩 에이전트, 터미널 작업, 도구 사용, 보안 취약점 발굴. 전부 모델이 명령을 실행하고 ...</title><link>https://www.threads.net/@choi.openai/post/DberOOQj6Vv</link><description>3/ 오른 항목의 성격이 한쪽으로 몰려 있습니다.
-
-코딩 에이전트, 터미널 작업, 도구 사용, 보안 취약점 발굴. 전부 모델이 명령을 실행하고 결과를 받아 다음 행동을 정하는 과제입니다. 보안 취약점 발굴은 38.7에서 76.7로 두 배가 됐죠. 지식 문답이나 수학 단답과 달리, 여러 단계를 밟고 틀리면 되돌아와야 하는 일들입니다.
-
-공식 공지 기준으로 구조와 크기는 그대로인데, 바뀐 것은 후반 학습뿐입니다.
-
-강화학습은 모델이 답을 시도하고 채점을 받아 고치기를 반복하는 훈련 방식입니다. 보상 신호가 잡음투성이라는 비판을 받아온 방법인데, 실행 결과로 채점되는 과제에서는 정답 확인이 명확해 그 약점이 줄어듭니다.
-
-그래서 이런 과제의 성능은 모델 크기보다, 실행을 몇 번 돌리고 그 실행을 얼마나 정확히 채점했느냐가 정합니다.</description><pubDate>Sat, 01 Aug 2026 01:37:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DberOOQj6Vv</guid></item></channel></rss>
+매번 새 채팅을 열어 음성 모드를 실행할 필요 없이, 작업 중에도 더 빠르게 음성 기능에 접근할 수 있도록 편의성을 높인 업데이트입니다.</description><pubDate>Sat, 01 Aug 2026 05:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfF9HADGn7</guid></item></channel></rss>
