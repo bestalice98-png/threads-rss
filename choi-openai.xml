@@ -1,5 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 02 Aug 2026 02:44:19 +0000</lastBuildDate><item><title>Cline이 DeepSeek V4-Flash를 무료로 풀었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 02 Aug 2026 09:56:07 +0000</lastBuildDate><item><title>와.. MiniMax H3가 곧 오픈 웨이트로 출시됩니다.
+
+텍스트, 이미지, 영상, 오디오를 함께 이해하고 음성까지 포함된 영상을 생성하는 모...</title><link>https://www.threads.net/@choi.openai/post/DbiDID5D-xz</link><description>와.. MiniMax H3가 곧 오픈 웨이트로 출시됩니다.
+
+텍스트, 이미지, 영상, 오디오를 함께 이해하고 음성까지 포함된 영상을 생성하는 모델입니다. RTX 3060에서도 실행에 성공했다는 테스트가 나오면서 기대도 커지고 있는데요.
+
+출시 전에 먼저 확인해볼 만한 제작 사례 13개를 모았습니다🧵</description><pubDate>Sun, 02 Aug 2026 09:03:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbiDID5D-xz</guid></item><item><title>1/</title><link>https://www.threads.net/@choi.openai/post/DbiC1IgDNnZ</link><description>1/</description><pubDate>Sun, 02 Aug 2026 09:03:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbiC1IgDNnZ</guid></item><item><title>2/</title><link>https://www.threads.net/@choi.openai/post/DbiC2H7gCyh</link><description>2/</description><pubDate>Sun, 02 Aug 2026 09:04:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbiC2H7gCyh</guid></item><item><title>3/</title><link>https://www.threads.net/@choi.openai/post/DbiC2lwjyWy</link><description>3/</description><pubDate>Sun, 02 Aug 2026 09:04:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbiC2lwjyWy</guid></item><item><title>2026년 AI가 과학·수학·의학에서 실제로 해낸 일들
+
+- 클로드 Fable 5가 87년 된 야코비안 추측의 반례를 216자 식 하나로 찾음....</title><link>https://www.threads.net/@choi.openai/post/Dbh2oKdj7ls</link><description>2026년 AI가 과학·수학·의학에서 실제로 해낸 일들
+
+- 클로드 Fable 5가 87년 된 야코비안 추측의 반례를 216자 식 하나로 찾음.
+- 오픈AI Astra가 비소픽 군 존재 증명을 포함해 수학 난제 10건을 한꺼번에 해결함.
+- GPT-5.2 Pro가 에르되시 미해결 문제를 푼 첫 명확한 사례로 기록됨.
+- GPT-5.6 Sol Ultra가 50년 된 사이클 이중 덮개 추측을 증명함.
+- Grok 4.5가 5년간 미해결이던 초수축성 경계 문제를 반증함.
+- AI가 20년간 병명을 못 찾은 환자의 유전적 원인을 NEJM AI에 보고함.
+- 오픈AI가 실험실에서 효소 반응 효율을 79배 높이고 새 효소 메커니즘을 발견함.
+- 아이소모픽 랩스가 알파폴드 3를 2배 이상 넘는 신약 설계 엔진 IsoDDE를 공개함.
+- 오픈AI가 AtCoder 알고리즘 부문 5문제를 전부 풀고 휴리스틱도 석권함.
+- 오픈AI 내부 모델이 80년 된 에르되시 단위 거리 추측을 반증함.</description><pubDate>Sun, 02 Aug 2026 07:14:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbh2oKdj7ls</guid></item><item><title>1/  클로드 Fable 5가 87년 된 야코비안 추측의 반례를 찾았습니다.
+
+1939년 켈러가 제기한 이 추측은 다항식 좌표 변환에서 야코비안...</title><link>https://www.threads.net/@choi.openai/post/Dbh2ooujxxz</link><description>1/  클로드 Fable 5가 87년 된 야코비안 추측의 반례를 찾았습니다.
+
+1939년 켈러가 제기한 이 추측은 다항식 좌표 변환에서 야코비안 행렬식이 0이 아닌 상수면 항상 역변환이 존재한다는 내용이었습니다. 하버드의 레벤트 알푀게가 Fable 5와 함께 찾은 반례는 3차원에서 야코비안이 상수 -2이면서도 서로 다른 두 점이 같은 점으로 가는 216자짜리 식입니다.
+
+87년간 수많은 수학자가 증명을 시도하다 실패한 문제를 AI가 반례 하나로 무너뜨렸습니다. 남은 경우는 이제 2차원뿐입니다.</description><pubDate>Sun, 02 Aug 2026 07:14:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbh2ooujxxz</guid></item><item><title>2/ 오픈AI Astra가 수학 난제 10건을 한꺼번에 해결했습니다.
+
+8월 1일 공개된 결과에는 20년 넘게 미해결이던 비소픽 군의 존재 증명...</title><link>https://www.threads.net/@choi.openai/post/Dbh2pO3j7hl</link><description>2/ 오픈AI Astra가 수학 난제 10건을 한꺼번에 해결했습니다.
+
+8월 1일 공개된 결과에는 20년 넘게 미해결이던 비소픽 군의 존재 증명이 포함됐습니다. 모든 가산 군을 유한 순열로 근사할 수 없다는 것을 보인 것으로, 곳찰크 전사성 추측과 캐플랜스키 직접 유한성 추측의 자동 증명 가능성도 함께 열렸습니다.
+
+Connes 강성 추측 반증, 구면 포장 지수 확정, 퍼머넌트 회로 하한, 양자 병렬 반복 정리까지 포함됐습니다. 에르되시 문제 183번, 146번, 180번도 새 결과가 나왔습니다.</description><pubDate>Sun, 02 Aug 2026 07:14:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbh2pO3j7hl</guid></item><item><title>3/ GPT-5.2 Pro가 에르되시 미해결 문제를 푼 첫 명확한 사례가 나왔습니다.
+
+1월, Neel Somani가 GPT-5.2 Pro만으로...</title><link>https://www.threads.net/@choi.openai/post/Dbh2pwFD8R9</link><description>3/ GPT-5.2 Pro가 에르되시 미해결 문제를 푼 첫 명확한 사례가 나왔습니다.
+
+1월, Neel Somani가 GPT-5.2 Pro만으로 에르되시 문제 281번을 해결했습니다. 테렌스 타오는 "AI가 미해결 문제를 해결한 가장 명확한 사례"라고 평가했습니다. 올해 들어 네 번째 에르되시 문제 해결이었습니다.
+
+벤치마크에서 높은 점수를 받는 것과 실제로 아무도 못 푼 문제를 푸는 것은 다릅니다. AI가 후자를 해내기 시작한 해가 2026년입니다.</description><pubDate>Sun, 02 Aug 2026 07:14:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbh2pwFD8R9</guid></item><item><title>Cline이 DeepSeek V4-Flash를 무료로 풀었습니다.
 Artificial Analysis 기준으로 같은 벤치마크 과제를 Fable ...</title><link>https://www.threads.net/@choi.openai/post/DbhFAjcD1To</link><description>Cline이 DeepSeek V4-Flash를 무료로 풀었습니다.
 Artificial Analysis 기준으로 같은 벤치마크 과제를 Fable 대비 105분의 1 비용으로 끝낸다고 하는데요.
 여기서 봐야 할 건 토큰당 가격이 아니라 태스크당 비용입니다.
@@ -14,66 +51,4 @@ Artificial Analysis 기준으로 같은 벤치마크 과제를 Fable 대비 105�
 
 1. npm i -g cline
 2. /settings 열기 &gt; Cline provider
-3. deepseek-v4-flash 선택</description><pubDate>Sun, 02 Aug 2026 00:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbhFAbWjb81</guid></item><item><title>컴온.</title><link>https://www.threads.net/@choi.openai/post/DbgNScsj7j9</link><description>컴온.</description><pubDate>Sat, 01 Aug 2026 15:54:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbgNScsj7j9</guid></item><item><title>정말 놀라웠던 AI 소식 38개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/Dbf-GMxD22O</link><description>정말 놀라웠던 AI 소식 38개를 정리했습니다 🧵</description><pubDate>Sat, 01 Aug 2026 13:41:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbf-GMxD22O</guid></item><item><title>1/ 오픈AI가 GPT-5.6 가격을 최대 80% 내렸습니다.
-
-Luna는 100만 토큰당 입력 0.2달러, 출력 1.2달러가 됐고 Terra는...</title><link>https://www.threads.net/@choi.openai/post/Dbf-Ggoj6h5</link><description>1/ 오픈AI가 GPT-5.6 가격을 최대 80% 내렸습니다.
-
-Luna는 100만 토큰당 입력 0.2달러, 출력 1.2달러가 됐고 Terra는 20% 내려갔습니다. Sol은 자기 프로덕션 GPU 커널을 고쳐 서빙 비용을 20% 줄였고, 그 절감분이 API와 Codex, ChatGPT Work 가격에 반영됐습니다.
-
-프런티어급 오픈웨이트를 직접 운영하는 것보다 API가 싼 구간이 크게 넓어졌습니다. 성능뿐 아니라 같은 일을 끝내는 총비용이 모델 선택을 가르는 단계입니다.</description><pubDate>Sat, 01 Aug 2026 13:41:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbf-Ggoj6h5</guid></item><item><title>2/ 오픈AI가 수학 난제 10건의 새로운 증명을 공개했습니다.
-
-비소픽 군의 존재 구성, Connes 강성 추측 반증, 구면 포장 지수 확정,...</title><link>https://www.threads.net/@choi.openai/post/Dbf-HF8j5aT</link><description>2/ 오픈AI가 수학 난제 10건의 새로운 증명을 공개했습니다.
-
-비소픽 군의 존재 구성, Connes 강성 추측 반증, 구면 포장 지수 확정, 양자 병렬 반복 정리 등 군론과 조합론, 계산복잡도, 양자정보를 아우르는 결과입니다. 모든 증명에는 Lean 형식 검증과 논문, 사고 과정 해설이 함께 공개됐습니다.
-
-5월 단위 거리 추측에 이어 두 번째 대형 수학 발표입니다. 이번에는 단일 문제가 아니라 여러 분야에서 동시에 성과를 내며 AI 수학 연구의 범위가 한 단계 넓어졌습니다.</description><pubDate>Sat, 01 Aug 2026 13:41:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbf-HF8j5aT</guid></item><item><title>3/ 딥시크는 Opus급 코딩 에이전트의 가중치를 무료로 풀었습니다.
-
-V4-Flash 정식판은 MIT 라이선스라 상업 이용과 수정, 재배포가 ...</title><link>https://www.threads.net/@choi.openai/post/Dbf-HqwD7UU</link><description>3/ 딥시크는 Opus급 코딩 에이전트의 가중치를 무료로 풀었습니다.
-
-V4-Flash 정식판은 MIT 라이선스라 상업 이용과 수정, 재배포가 가능합니다. 출력 가격은 100만 토큰당 0.28달러이고, 독립 지능 지수는 Gemini 3.6 Flash와 같은 50점입니다. 코딩과 터미널 작업에서는 Opus 4.8과 2~4점 차까지 좁혔습니다.
-
-구조와 크기는 그대로인데 후반 학습만 바꿔 상위 Pro 프리뷰까지 넘었습니다. 프런티어 경쟁의 비용 기준이 또 한 번 내려갔습니다.</description><pubDate>Sat, 01 Aug 2026 13:41:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbf-HqwD7UU</guid></item><item><title>"이건 필즈상 수상감 이다."
-
-오늘 발표로 인해 수학 커뮤니티가 술렁이고 있습니다.
-토요일 새벽 12시 34분, 오픈AI 연구원이 249페이지...</title><link>https://www.threads.net/@choi.openai/post/DbfuANSD2JU</link><description>"이건 필즈상 수상감 이다."
-
-오늘 발표로 인해 수학 커뮤니티가 술렁이고 있습니다.
-토요일 새벽 12시 34분, 오픈AI 연구원이 249페이지 분량의 논문과 함께 글 하나를 올렸습니다.
-
-"비소픽 군이 존재한다."
-
-군론에서 20여 년 동안 답이 없던 문제였습니다. 그리고 이것은 그날 공개된 난제 10건 가운데 하나였습니다.
-
-8월 1일 공개된 오픈AI Astra의 수학 증명 10건을 분석했습니다. 🧵</description><pubDate>Sat, 01 Aug 2026 11:20:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfuANSD2JU</guid></item><item><title>1/ 8월 1일 오픈AI가 아직 출시하지 않은 모델 Astra의 내부 버전으로 얻은 결과 열 건을 공개했습니다.
-
-먼저 터진 건 세바스티앙 부벡...</title><link>https://www.threads.net/@choi.openai/post/DbfuA3YD8bx</link><description>1/ 8월 1일 오픈AI가 아직 출시하지 않은 모델 Astra의 내부 버전으로 얻은 결과 열 건을 공개했습니다.
-
-먼저 터진 건 세바스티앙 부벡의 게시물이었습니다. 비소픽 군이 존재한다는 한 문장으로 열고, 이런 증명 열 건을 Lean 인증서와 사고 과정 해설까지 붙여 공개한다고 적었습니다.
-
-여기서 난제란 학계가 10년 이상 주 결과에 진전을 내지 못한 문제를 말합니다. 대부분은 그보다 훨씬 오래 막혀 있었습니다.
-
-고차원 구면 채우기, 부호 이론, 산술 회로 복잡도, 군론, 작용소 대수, 양자 복잡도, 격자 암호, 극단 조합론에 걸쳐 있습니다.
-
-역할 분담이 명시돼 있는 점도 봐둘 만합니다. 수학적 논증은 모델이 냈고, 사람은 같은 모델과 함께 그 논증을 논문 형태로 다듬은 뒤 정확성에 대한 책임을 회사가 진다고 적었습니다.</description><pubDate>Sat, 01 Aug 2026 11:20:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfuA3YD8bx</guid></item><item><title>2/ 열 건 가운데 가장 많이 주목받은 결과는 비소픽 군의 존재 구성입니다.
-
-모든 가산 군을 유한 순열로 근사할 수 있느냐는 오랜 질문에 그렇...</title><link>https://www.threads.net/@choi.openai/post/DbfuB2jDxZn</link><description>2/ 열 건 가운데 가장 많이 주목받은 결과는 비소픽 군의 존재 구성입니다.
-
-모든 가산 군을 유한 순열로 근사할 수 있느냐는 오랜 질문에 그렇지 않다는 답을 제시했습니다.
-
-Connes 강성 추측도 반증했습니다. 서로 동형이 아닌 성질 (T) 군을 무한히 구성하면서도, 이들이 같은 군 폰 노이만 대수를 갖는다는 것을 보였습니다.
-
-구면 포장 문제에서는 콘·엘키스 선형계획의 지수 감쇠율을 √(e/2π)로 정확히 확정했습니다.
-
-퍼머넌트 계산에서는 공식 모델에 대해 n⁴/log n 규모의 새로운 산술 회로 하한을 증명했고, 두 명이 겨루는 양자 게임 전체에 대해서는 지수적 병렬 반복 정리를 증명했습니다.
-
-여기에 에르되시 문제 183번, 146번, 180번까지 모두 새로운 결과가 나왔습니다.</description><pubDate>Sat, 01 Aug 2026 11:21:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfuB2jDxZn</guid></item><item><title>3/ 비소픽 군 문제가 왜 중요한지부터 봐야 합니다.
-
-소픽 군은 무한한 군을 유한한 순열 구조로 얼마나 잘 근사할 수 있는지를 다루는 개념입니...</title><link>https://www.threads.net/@choi.openai/post/DbfuCxVj3yp</link><description>3/ 비소픽 군 문제가 왜 중요한지부터 봐야 합니다.
-
-소픽 군은 무한한 군을 유한한 순열 구조로 얼마나 잘 근사할 수 있는지를 다루는 개념입니다. 그리고 소픽 군에 대해서는 곳찰크의 전사성 추측과 캐플랜스키의 직접 유한성 추측이 이미 성립하는 것으로 알려져 있습니다.
-
-그래서 모든 군이 소픽이라면 두 추측도 자동으로 참이 됩니다. 20여 년 동안 비소픽 군의 반례가 발견되지 않으면서, 모든 군이 소픽일 것이라는 견해가 점점 힘을 얻었습니다.
-
-Astra는 성질 (T) 확장자 그래프와 이진 레빗 대수를 결합해 유한 표현을 갖는 비소픽 군을 구성했습니다. 오랫동안 가능하다고 여겨졌던 길이 하나 막힌 셈입니다.
-
-여기서 유한 표현이란 생성원과 관계식을 유한한 개수로 적어낼 수 있다는 뜻입니다. 단순히 존재를 증명한 데 그친 것이 아니라, 실제로 다룰 수 있는 구체적인 예를 제시한 것입니다.</description><pubDate>Sat, 01 Aug 2026 11:21:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfuCxVj3yp</guid></item></channel></rss>
+3. deepseek-v4-flash 선택</description><pubDate>Sun, 02 Aug 2026 00:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbhFAbWjb81</guid></item><item><title>컴온.</title><link>https://www.threads.net/@choi.openai/post/DbgNScsj7j9</link><description>컴온.</description><pubDate>Sat, 01 Aug 2026 15:54:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbgNScsj7j9</guid></item></channel></rss>
