@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 01 Aug 2026 15:50:31 +0000</lastBuildDate><item><title>정말 놀라웠던 AI 소식 38개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/Dbf-GMxD22O</link><description>정말 놀라웠던 AI 소식 38개를 정리했습니다 🧵</description><pubDate>Sat, 01 Aug 2026 13:41:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbf-GMxD22O</guid></item><item><title>1/ 오픈AI가 GPT-5.6 가격을 최대 80% 내렸습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 02 Aug 2026 02:44:19 +0000</lastBuildDate><item><title>Cline이 DeepSeek V4-Flash를 무료로 풀었습니다.
+Artificial Analysis 기준으로 같은 벤치마크 과제를 Fable ...</title><link>https://www.threads.net/@choi.openai/post/DbhFAjcD1To</link><description>Cline이 DeepSeek V4-Flash를 무료로 풀었습니다.
+Artificial Analysis 기준으로 같은 벤치마크 과제를 Fable 대비 105분의 1 비용으로 끝낸다고 하는데요.
+여기서 봐야 할 건 토큰당 가격이 아니라 태스크당 비용입니다.
+에이전트는 한 과제를 끝내는 데 모델에 따라 수십 배의 턴을 더 쓰기도 합니다.
+토큰이 싸도 턴이 많으면 총비용이 역전되죠.
+이번 0731 업데이트는 에이전트 벤치마크에서 상위 모델을 앞선 첫 경량 모델입니다.
+프런티어급 코딩 작업이 경량 모델 가격대로 내려오는 중입니다.</description><pubDate>Sun, 02 Aug 2026 00:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbhFAjcD1To</guid></item><item><title>무료로 사용하는 법 :
+
+1. npm i -g cline
+2. /settings 열기 &gt; Cline provider
+3. deepseek-v4-...</title><link>https://www.threads.net/@choi.openai/post/DbhFAbWjb81</link><description>무료로 사용하는 법 :
+
+1. npm i -g cline
+2. /settings 열기 &gt; Cline provider
+3. deepseek-v4-flash 선택</description><pubDate>Sun, 02 Aug 2026 00:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbhFAbWjb81</guid></item><item><title>컴온.</title><link>https://www.threads.net/@choi.openai/post/DbgNScsj7j9</link><description>컴온.</description><pubDate>Sat, 01 Aug 2026 15:54:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbgNScsj7j9</guid></item><item><title>정말 놀라웠던 AI 소식 38개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/Dbf-GMxD22O</link><description>정말 놀라웠던 AI 소식 38개를 정리했습니다 🧵</description><pubDate>Sat, 01 Aug 2026 13:41:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbf-GMxD22O</guid></item><item><title>1/ 오픈AI가 GPT-5.6 가격을 최대 80% 내렸습니다.
 
 Luna는 100만 토큰당 입력 0.2달러, 출력 1.2달러가 됐고 Terra는...</title><link>https://www.threads.net/@choi.openai/post/Dbf-Ggoj6h5</link><description>1/ 오픈AI가 GPT-5.6 가격을 최대 80% 내렸습니다.
 
@@ -61,24 +76,4 @@ Connes 강성 추측도 반증했습니다. 서로 동형이 아닌 성질 (T) �
 
 Astra는 성질 (T) 확장자 그래프와 이진 레빗 대수를 결합해 유한 표현을 갖는 비소픽 군을 구성했습니다. 오랫동안 가능하다고 여겨졌던 길이 하나 막힌 셈입니다.
 
-여기서 유한 표현이란 생성원과 관계식을 유한한 개수로 적어낼 수 있다는 뜻입니다. 단순히 존재를 증명한 데 그친 것이 아니라, 실제로 다룰 수 있는 구체적인 예를 제시한 것입니다.</description><pubDate>Sat, 01 Aug 2026 11:21:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfuCxVj3yp</guid></item><item><title>와... 오픈AI의 차기 모델 Astra가 10년 넘게 진전이 없던 수학 문제 10개에서 새로운 결과를 냈다고 합니다.
-
-비소픽 군(유한 순열로...</title><link>https://www.threads.net/@choi.openai/post/DbfZ2Qej6aA</link><description>와... 오픈AI의 차기 모델 Astra가 10년 넘게 진전이 없던 수학 문제 10개에서 새로운 결과를 냈다고 합니다.
-
-비소픽 군(유한 순열로 근사할 수 없는 군), Connes 강성 추측, 고차원 구면 포장 같은 난제들입니다.
-
-더 놀라운 점은 답만 공개한 것이 아니라 증명 파일까지 함께 공개했다는 것입니다.
-
-AI가 먼저 풀이를 만들고, 이를 정리정돈한 뒤 Lean이라는 정형 증명 언어로 옮겨 컴퓨터가 증명의 모든 단계를 하나씩 검증할 수 있게 했습니다.
-
-쉽게 말하면 AI가 "맞습니다"라고 주장한 것이 아닙니다. 증명 전체를 Lean으로 옮겨 컴퓨터가 한 단계씩 직접 확인한 것입니다.
-
-수학 AI의 역할이 정답을 맞히는 도구를 넘어, 새로운 수학 결과를 만들고 그 증명까지 검증 가능한 형태로 남기는 도구로 바뀌는 순간인 것 같습니다.</description><pubDate>Sat, 01 Aug 2026 08:24:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfZ2Qej6aA</guid></item><item><title>발표내용 :
-https://openai.com/index/ten-advances-in-mathematics/</title><link>https://www.threads.net/@choi.openai/post/DbfZ21-D8Un</link><description>발표내용 :
-https://openai.com/index/ten-advances-in-mathematics/</description><pubDate>Sat, 01 Aug 2026 08:24:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfZ21-D8Un</guid></item><item><title>ChatGPT 데스크톱 앱에 새로운 기능이 추가되었습니다.
-
-이제 화면에 있는 Pet(반려동물 캐릭터)을 클릭하면 바로 Voice(음성 모드)를...</title><link>https://www.threads.net/@choi.openai/post/DbfF9HADGn7</link><description>ChatGPT 데스크톱 앱에 새로운 기능이 추가되었습니다.
-
-이제 화면에 있는 Pet(반려동물 캐릭터)을 클릭하면 바로 Voice(음성 모드)를 실행할 수 있는데요. 음성으로 현재 진행 중인 작업을 확인하거나, 작업을 승인하거나 중지하는 등의 기능을 사용할 수 있습니다.
-
-매번 새 채팅을 열어 음성 모드를 실행할 필요 없이, 작업 중에도 더 빠르게 음성 기능에 접근할 수 있도록 편의성을 높인 업데이트입니다.</description><pubDate>Sat, 01 Aug 2026 05:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfF9HADGn7</guid></item></channel></rss>
+여기서 유한 표현이란 생성원과 관계식을 유한한 개수로 적어낼 수 있다는 뜻입니다. 단순히 존재를 증명한 데 그친 것이 아니라, 실제로 다룰 수 있는 구체적인 예를 제시한 것입니다.</description><pubDate>Sat, 01 Aug 2026 11:21:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbfuCxVj3yp</guid></item></channel></rss>
