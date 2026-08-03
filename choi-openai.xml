@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 03 Aug 2026 11:22:33 +0000</lastBuildDate><item><title>비트코인 지갑 결함 8분만에 찾았다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 03 Aug 2026 17:03:41 +0000</lastBuildDate><item><title>많이 놀랐던 대부분 사람들이 모르는 내용.
+
+Codex에는 최대(MAX)모드가 기본적으로 비활성화 되어있어, 설정-구성-모델기능-추론 수준에서 ...</title><link>https://www.threads.net/@choi.openai/post/DblZKAyDyx7</link><description>많이 놀랐던 대부분 사람들이 모르는 내용.
+
+Codex에는 최대(MAX)모드가 기본적으로 비활성화 되어있어, 설정-구성-모델기능-추론 수준에서 체크를 해야 사용할 수가 있습니다.</description><pubDate>Mon, 03 Aug 2026 16:14:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DblZKAyDyx7</guid></item><item><title>Genspark가 PC와 Mac에서 사용할 수 있는 오픈소스 AI 오피스 프로그램 GenOffice를 공개했습니다.
+
+GenOffice는 문서(...</title><link>https://www.threads.net/@choi.openai/post/DblNUhpD86H</link><description>Genspark가 PC와 Mac에서 사용할 수 있는 오픈소스 AI 오피스 프로그램 GenOffice를 공개했습니다.
+
+GenOffice는 문서(Docs), 스프레드시트(Sheets), 프레젠테이션(Slides), PDF 편집 기능을 제공하며, 기존 오피스 프로그램에서 사용하는 기본 편집 기능도 함께 지원합니다.
+
+여기에 Genspark Super Agent가 내장되어 자료 조사, 데이터 분석, 문서 작성, 발표 자료 제작까지 AI가 도와주는 것이 특징인데요.
+
+현재는 알파(Alpha) 버전으로 공개됐으며, 누구나 무료로 사용할 수 있습니다.
+
+다만 AI 기능은 Genspark 계정으로 로그인해야 사용할 수 있으며, 모델 호출도 Genspark 서비스를 통해 이루어지기 때문에 개조할 필요성은 있겠네요.</description><pubDate>Mon, 03 Aug 2026 14:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DblNUhpD86H</guid></item><item><title>깃허브 :
+https://github.com/genspark-ai/genoffice</title><link>https://www.threads.net/@choi.openai/post/DblNVkpD8Un</link><description>깃허브 :
+https://github.com/genspark-ai/genoffice</description><pubDate>Mon, 03 Aug 2026 14:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DblNVkpD8Un</guid></item><item><title>사람들은 아직도 AI 시각화를 굉장히 좋아한다.</title><link>https://www.threads.net/@choi.openai/post/DblE1GcDus7</link><description>사람들은 아직도 AI 시각화를 굉장히 좋아한다.</description><pubDate>Mon, 03 Aug 2026 13:17:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DblE1GcDus7</guid></item><item><title>비트코인 지갑 결함 8분만에 찾았다.
 
 비트코인 하드웨어 지갑 Coldcard에는 하드웨어 난수(TRNG) 대신 예측 가능한 소프트웨어 난수(P...</title><link>https://www.threads.net/@choi.openai/post/DbklF1gD4eE</link><description>비트코인 지갑 결함 8분만에 찾았다.
 
@@ -19,66 +35,4 @@ Claude Code는 8분 만에 동일한 취약점을 독립적으로 찾아냈는�
 
 보안 점검은 출시 후 대응이 아니라, 코드가 병합되기 전에 AI에게 먼저 검토받는 것이 기본 절차가 되어야 할 것 같습니다.</description><pubDate>Mon, 03 Aug 2026 08:39:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbklF1gD4eE</guid></item><item><title>레딧 :
 https://www.reddit.com/r/Bitcoin/comments/1vddeuy/are_you_kidding_me_claude...</title><link>https://www.threads.net/@choi.openai/post/DbklFxbj7Y-</link><description>레딧 :
-https://www.reddit.com/r/Bitcoin/comments/1vddeuy/are_you_kidding_me_claude_code_found_the/</description><pubDate>Mon, 03 Aug 2026 08:39:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbklFxbj7Y-</guid></item><item><title>Codex 할당량을 다써서 API로 돌려쓰고 있는데, 세션을 새로파서 진행해도 비용소모가 안되고 있다.
-
-코덱스가 주는 자비로운 버그나 구조적 ...</title><link>https://www.threads.net/@choi.openai/post/DbkSyp1j987</link><description>Codex 할당량을 다써서 API로 돌려쓰고 있는데, 세션을 새로파서 진행해도 비용소모가 안되고 있다.
-
-코덱스가 주는 자비로운 버그나 구조적 혜택을 보고 있는 것인지 아니면 어디선가 비용 누수가 생기고 있는 것인지 아니면 압도적인 캐싱히트로 차감을 느끼지 못하는 것인지 아니면 계산 반영이 너무나도 늦어지는 건지 불안에 떨고 있다.</description><pubDate>Mon, 03 Aug 2026 05:59:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbkSyp1j987</guid></item><item><title>🚨 속보) 알리바바가 Qwen3.8-Max를 정식 공개했습니다.
-
-2.4조 파라미터로 직전 플래그십보다 커졌는데 값은 오히려 내려가 100만 토...</title><link>https://www.threads.net/@choi.openai/post/DbkCsBrkU2p</link><description>🚨 속보) 알리바바가 Qwen3.8-Max를 정식 공개했습니다.
-
-2.4조 파라미터로 직전 플래그십보다 커졌는데 값은 오히려 내려가 100만 토큰당 입력 2달러, 출력 6달러입니다.
-
-같은 급 오픈웨이트인 Kimi K3의 출력값이 15달러고요. 다음 주에는 이 모델의 가중치까지 풀립니다. 그래서 무엇이 달라지는지 정리했습니다 🧵</description><pubDate>Mon, 03 Aug 2026 03:42:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbkCsBrkU2p</guid></item><item><title>1/ 알리바바가 8월 3일 Qwen3.8-Max 정식판을 공개했습니다.
-
-총 2.4조 파라미터를 갖춘 모델이지만, 한 번 답변을 생성할 때 실제...</title><link>https://www.threads.net/@choi.openai/post/DbkDLj7D_Ha</link><description>1/ 알리바바가 8월 3일 Qwen3.8-Max 정식판을 공개했습니다.
-
-총 2.4조 파라미터를 갖춘 모델이지만, 한 번 답변을 생성할 때 실제로 활성화되는 파라미터는 950억(95B)뿐입니다.
-즉 전체의 약 4%만 사용해 추론하는 구조라, 조 단위 모델을 비교적 합리적인 비용으로 서비스할 수 있습니다.
-
-컨텍스트 길이는 100만 토큰이며, 텍스트와 이미지, 영상을 하나의 모델에서 함께 처리합니다. API 가격은 입력 100만 토큰당 2달러, 출력 6달러이고, 캐시된 입력은 0.25달러까지 낮아집니다.
-
-추론 깊이는 세 단계로 조절할 수 있으며, 기본 설정은 가장 깊게 추론하는 모드입니다.
-
-7월 19일 프리뷰 버전은 구독 크레딧으로만 사용할 수 있었지만, 8월 3일부터는 일반 API로도 제공됩니다.</description><pubDate>Mon, 03 Aug 2026 03:42:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbkDLj7D_Ha</guid></item><item><title>2/ 이번 발표에서 가장 오래 남을 부분은 배포 방식입니다.
-
-알리바바는 지금까지 Max 등급 모델의 가중치를 공개한 적이 없습니다.
-4월 Qw...</title><link>https://www.threads.net/@choi.openai/post/DbkDMgaj1RX</link><description>2/ 이번 발표에서 가장 오래 남을 부분은 배포 방식입니다.
-
-알리바바는 지금까지 Max 등급 모델의 가중치를 공개한 적이 없습니다.
-4월 Qwen3.6-Max-Preview, 5월 Qwen3.7-Max 모두 자사 서비스와 API로만 제공했고, 오픈소스는 항상 그 아래 등급이 맡아왔습니다.
-
-그런데 이번에는 그 선을 넘었습니다. Qwen3.8-Max 가중치가 다음 주 공개되고, 27B 모델도 함께 오픈웨이트로 배포됩니다.
-
-가중치는 한 번 공개되면 되돌릴 수 없습니다. 서버를 끄면 사라지는 API와 달리, 공개된 가중치는 누구나 내려받아 계속 사용할 수 있기 때문입니다. 통제 수단도 서버 운영이 아니라 라이선스와 생태계, 그리고 커뮤니티의 합의로 바뀌게 됩니다.
-
-결국 이는 최상급 모델을 독점해 사용료를 받는 것보다, 업계의 기본 모델이 됐을 때 얻는 영향력이 더 크다는 판단을 보여주는 결정이라고 볼 수 있습니다.</description><pubDate>Mon, 03 Aug 2026 03:42:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbkDMgaj1RX</guid></item><item><title>3/ 공개된 성능표부터 보겠습니다.
-
-논문을 코드로 재현하는 능력을 평가하는 PaperBench에서는 93.0점을 기록해 Fable 5(88.8...</title><link>https://www.threads.net/@choi.openai/post/DbkDNkOj2CY</link><description>3/ 공개된 성능표부터 보겠습니다.
-
-논문을 코드로 재현하는 능력을 평가하는 PaperBench에서는 93.0점을 기록해 Fable 5(88.8)와 GPT-5.6 Sol(90.5)을 모두 앞섰습니다. 지시 수행 평가 IFBench(82.8)와 대규모 검색 능력을 보는 WideSearch(81.9)도 비교 모델 가운데 가장 높은 점수를 기록했습니다.
-
-반대로 약점도 분명합니다. 실제 저장소의 이슈를 해결하는 SWE-bench Pro에서는 67.7점으로 Fable 5(80.0)보다 12.3점 낮았고, 코딩 에이전트 평가인 DeepSWE 1.1에서도 56.6점에 그쳐 GPT-5.6 Sol(73.0)보다 16.4점 뒤졌습니다.
-
-난도가 높은 지식 문답 평가인 HLE도 43.6점으로 경쟁 모델 세 개 모두에 미치지 못했습니다.
-
-정리하면 여러 단계를 거쳐 문제를 해결하는 작업에는 강하지만, 한 번에 정답을 맞혀야 하는 작업에서는 아직 경쟁 모델에 뒤지는 모습입니다.</description><pubDate>Mon, 03 Aug 2026 03:43:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbkDNkOj2CY</guid></item><item><title>🚨 MiniMax H3 오픈웨이트가 방금 허깅페이스에 올라왔습니다.
-
-Artificial Analysis 영상 편집 1위, 오디오 포함 텍스트-...</title><link>https://www.threads.net/@choi.openai/post/Dbj8NvhDWMf</link><description>🚨 MiniMax H3 오픈웨이트가 방금 허깅페이스에 올라왔습니다.
-
-Artificial Analysis 영상 편집 1위, 오디오 포함 텍스트-영상 2위 모델의 가중치가 그대로 풀렸습니다.
-
-성능도 놀랍지만 더 놀라운 건 크기입니다.
-33B 덴스 트랜스포머인데 이 중 13B가 AdaLN 변조 분기라, 미리 계산해 캐시해두면 추론에는 올리지 않아도 됩니다.
-여기에 CFG 증류 체크포인트와 압축률을 새로 높인 H3-VAE가 붙습니다.
-ComfyUI 팀이 12GB VRAM에서 돌아간다고 한 배경이 여기 있습니다.
-
-다만 프롬프트를 구조화하는 Context-IR과 2K 재생성은 API에 남아, 로컬로 받으면 768p까지입니다.
-
-폐쇄형이 독점하던 영상 생성에서 이 등수의 가중치가 풀린 건 처음입니다.</description><pubDate>Mon, 03 Aug 2026 02:46:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbj8NvhDWMf</guid></item><item><title>허깅 페이스 :
-https://huggingface.co/MiniMaxAI/MiniMax-H3
-
-제작사례 살펴보기 :</title><link>https://www.threads.net/@choi.openai/post/Dbj8yK9D_ls</link><description>허깅 페이스 :
-https://huggingface.co/MiniMaxAI/MiniMax-H3
-
-제작사례 살펴보기 :</description><pubDate>Mon, 03 Aug 2026 02:46:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbj8yK9D_ls</guid></item></channel></rss>
+https://www.reddit.com/r/Bitcoin/comments/1vddeuy/are_you_kidding_me_claude_code_found_the/</description><pubDate>Mon, 03 Aug 2026 08:39:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbklFxbj7Y-</guid></item></channel></rss>
