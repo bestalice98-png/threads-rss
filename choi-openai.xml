@@ -1,55 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 04 Aug 2026 16:45:17 +0000</lastBuildDate><item><title>똥 먹어본 사람 좋아요.</title><link>https://www.threads.net/@choi.openai/post/Dbnh0UWD9d0</link><description>똥 먹어본 사람 좋아요.</description><pubDate>Tue, 04 Aug 2026 12:08:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbnh0UWD9d0</guid></item><item><title>팔로워 의미 없습니다. MAU 뻔히 있고 알고리즘도 다 있큰데.. 자꾸 아니라는데.. 팔로워수 의미 없으니 하고싶은 말을 듣고 싶은 말로 변형해...</title><link>https://www.threads.net/@choi.openai/post/Dbnh0Tkj_HJ</link><description>팔로워 의미 없습니다. MAU 뻔히 있고 알고리즘도 다 있큰데.. 자꾸 아니라는데.. 팔로워수 의미 없으니 하고싶은 말을 듣고 싶은 말로 변형해서 올리세요.
-오랜만에 쉬는 날이라.. 가득 찬 인사이트로 찾아뵙겠습니다.</description><pubDate>Tue, 04 Aug 2026 12:08:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbnh0Tkj_HJ</guid></item><item><title>애플이 전 직원 Chang Liu와 Tang Tan의 기밀 유출을 주장하며 오픈AI를 고소하자, 오픈AI는 아이메시지와 이메일 원문을 공개하며 ...</title><link>https://www.threads.net/@choi.openai/post/DbnI3QQik4m</link><description>애플이 전 직원 Chang Liu와 Tang Tan의 기밀 유출을 주장하며 오픈AI를 고소하자, 오픈AI는 아이메시지와 이메일 원문을 공개하며 반박에 나섰습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 05 Aug 2026 02:28:23 +0000</lastBuildDate><item><title>Liquid AI가 26억 파라미터 온디바이스 에이전트 모델 LFM2.5-2.6B를 오픈웨이트로 공개했습니다.
 
-오픈AI는 애플 법률대리인이 담당자 성을 혼동해 엉뚱한 사람에게 이메일을 보냈고, OpenAI 법무팀과 통화했다는 주장도 사실이 아니었다고 밝혔습니다
-또 당시 애플이 "문제를 해결 중"이라고 한 뒤 다섯 달 동안 추가 연락 없이 소송을 제기했다고 주장했습니다.
+Q4 기준 1.7GB 안팎으로 ...</title><link>https://www.threads.net/@choi.openai/post/Dbo6OLrgQFt</link><description>Liquid AI가 26억 파라미터 온디바이스 에이전트 모델 LFM2.5-2.6B를 오픈웨이트로 공개했습니다.
 
-또한 퇴사한 Chang Liu에게 애플 직원들이 파일을 찾아달라고 요청한 아이메시지와, 퇴사 이후에도 iCloud 접근이 유지됐던 정황도 함께 공개했습니다.
+Q4 기준 1.7GB 안팎으로 스마트폰에서도 돌아가며, 128K 컨텍스트와 34조 토큰 사전학습을 적용했습니다.
+덕분에 2.5GB 미만 메모리에서 M5 Max 초당 220토큰, 폰에서도 초당 30토큰으로 도구를 부르며 다단계 작업을 처리할 수 있습니다.
 
-아직은 양측 주장이 맞서는 단계입니다. 결국 법원이 판단해야 할 핵심은 실제로 영업비밀이 유출됐는지, 그리고 퇴사자의 접근 권한이 적절하게 관리됐는지입니다.</description><pubDate>Tue, 04 Aug 2026 08:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbnI3QQik4m</guid></item><item><title>발표 내용 :
-https://openai.com/index/apple-is-getting-this-wrong/</title><link>https://www.threads.net/@choi.openai/post/DbnI5h2CpXh</link><description>발표 내용 :
-https://openai.com/index/apple-is-getting-this-wrong/</description><pubDate>Tue, 04 Aug 2026 08:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbnI5h2CpXh</guid></item><item><title>Tibo가 중요한 힌트를 주는 것 같습니다.
-오늘 티보는 “다음 세대의 모델들은 노트북 이상의 것이 필요합니다.”라는 글을 업로드 했는데요.
-앞...</title><link>https://www.threads.net/@choi.openai/post/Dbm4jpQj2cw</link><description>Tibo가 중요한 힌트를 주는 것 같습니다.
-오늘 티보는 “다음 세대의 모델들은 노트북 이상의 것이 필요합니다.”라는 글을 업로드 했는데요.
-앞으로 Codex가 “상태 보존형 멀티컴퓨터”로 진화하지 않을까 생각합니다.
-올해 6월 오픈AI가 인수하기로 한 Ona의 발표에서도 힌트를 찾을 수 있습니다.
-Ona는 한 대의 노트북에 묶인 작업을 클라우드로 옮기고, 여러 기기에서 에이전트의 상태·권한·도구를 계속 유지하는 환경을 설명했습니다.
-오픈AI가 Astral, Promptfoo, Statsig을 끌어들인 것도 같은 흐름으로 보입니다. 개발 도구, 보안과 평가, 실험과 피드백을 하나의 실행 루프에 붙이려는 움직임입니다.
-앞으로는 개인의 노트북이 모든 작업을 직접 처리하는 게 아니라, 여러 클라우드 컴퓨터가 대규모 작업을 수행하고 사람은 그 과정을 지휘하고 승인하는 구조로 나아갈 가능성이 있어 보입니다.</description><pubDate>Tue, 04 Aug 2026 06:07:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbm4jpQj2cw</guid></item><item><title>오픈AI가 말하는 동안에도 듣는 GPT-Live를 6개월 만에 만들었습니다.
+주목할 부분은 OpenClaw·Hermes Agent·Pi 같은 실제 하네스 안에서 멀티턴 강화학습을 진행했습니다. 덕분에 도구 사용과 지시 이행에서는 최대 네 배 큰 모델을 앞섰는데요.
 
-음성 프레임은 전용 고속 경로로 보내고, 깊은 추론은 뒤에서 비동...</title><link>https://www.threads.net/@choi.openai/post/DbmzmbpD2Jl</link><description>오픈AI가 말하는 동안에도 듣는 GPT-Live를 6개월 만에 만들었습니다.
+다만 코딩은 큰 모델이 여전히 낫습니다.
 
-음성 프레임은 전용 고속 경로로 보내고, 깊은 추론은 뒤에서 비동기로 돌렸습니다.
-서버가 바뀌어도 대화가 끊기지 않도록 상태도 미리 옮겼습니다.
+중요한 건 크기가 아닙니다. 모델과 하네스를 따로 연결하던 단계에서, 실제 에이전트 환경 자체를 학습시키는 단계로 넘어가고 있습니다.</description><pubDate>Wed, 05 Aug 2026 01:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbo6OLrgQFt</guid></item><item><title>발표내용 :
+https://www.liquid.ai/blog/lfm2-5-2-6b</title><link>https://www.threads.net/@choi.openai/post/Dbo6PeOgQuq</link><description>발표내용 :
+https://www.liquid.ai/blog/lfm2-5-2-6b</description><pubDate>Wed, 05 Aug 2026 01:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbo6PeOgQuq</guid></item><item><title>와우.. 1000만 토큰..
 
-어떻게 가능했는지 오픈AI의 엔지니어링 블로그를 읽어봤습니다. 🧵</description><pubDate>Tue, 04 Aug 2026 05:24:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbmzmbpD2Jl</guid></item><item><title>1/ GPT-Live의 출발점은 '말이 끝났는지 맞히는' 턴 감지기를 음성 경로에서 빼는 것이었습니다.
+Pokee AI가 1,000만 토큰 컨텍스트를 지원하는 에이전트 모델 Pokee-Isaac 28B를 공개했습니다....</title><link>https://www.threads.net/@choi.openai/post/Dbov2TODTx_</link><description>와우.. 1000만 토큰..
 
-기존 음성 AI는 턴 감지기가 사용자의...</title><link>https://www.threads.net/@choi.openai/post/Dbmzm7ID1El</link><description>1/ GPT-Live의 출발점은 '말이 끝났는지 맞히는' 턴 감지기를 음성 경로에서 빼는 것이었습니다.
+Pokee AI가 1,000만 토큰 컨텍스트를 지원하는 에이전트 모델 Pokee-Isaac 28B를 공개했습니다.
 
-기존 음성 AI는 턴 감지기가 사용자의 발화 종료를 먼저 판단해야 LLM이 답변을 시작할 수 있었습니다. 너무 빨리 판단하면 말을 끊고, 너무 늦으면 답이 느려졌습니다.
+RTX 4090급 단일 GPU부터 배포할 수 있고, 1,000만 토큰 RULER에서 93.3%를 기록했습니다. BFCL v4와 τ³-bench에서도 자사 평가 기준 선두라고 밝혔습니다.
 
-GPT-Live는 음성을 모델에 실시간으로 계속 흘려보냅니다. 모델이 듣는 동안에도 동시에 말할 수 있어 짧은 맞장구나 자연스러운 끼어들기까지 하나의 흐름으로 처리합니다. 
+다만 1,000만 토큰을 B200에서 읽는 데 첫 응답까지 약 173초가 걸린다는 지적도 나옵니다. 아직 가중치도 공개되지 않았습니다.
 
-즉, 대화의 주도권을 별도의 턴 감지기에서 모델 자체로 옮긴 것입니다.
+주목해야하는 부분은 컨텍스트가 길어진 게 아닙니다. 전체 코드베이스와 문서 저장소를 한 세션에 넣고, 에이전트가 장기 작업을 이어갈 수 있는 구조가 단일 GPU 범위로 내려오고 있다는 점입니다.</description><pubDate>Tue, 04 Aug 2026 23:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbov2TODTx_</guid></item><item><title>발표내용 :
+https://console.pokee.ai/model</title><link>https://www.threads.net/@choi.openai/post/Dbov3CcDTFx</link><description>발표내용 :
+https://console.pokee.ai/model</description><pubDate>Tue, 04 Aug 2026 23:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbov3CcDTFx</guid></item><item><title>8시간 남았습니다.
 
-실제 음성 에이전트에서도 침묵 시간만으로 턴을 구분하면 언어와 문화, 대화 상황에 따라 자주 실패하는 문제가 있었는데, GPT-Live는 이 구조 자체를 바꿨습니다.</description><pubDate>Tue, 04 Aug 2026 05:24:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbmzm7ID1El</guid></item><item><title>2/ 다음은 음성이 지나가는 길을 최대한 짧고 예측 가능하게 만든 것입니다.
+구글이 Google AI 구독이 없는 사용자를 대상으로 Gemini Omni의 동영상 생성 기능을 무료로 제공합니다.
 
-클라이언트와 음성 모델 사이에는 전용 미디어 경로만 남겼습니다. ...</title><link>https://www.threads.net/@choi.openai/post/DbmznjGD2j3</link><description>2/ 다음은 음성이 지나가는 길을 최대한 짧고 예측 가능하게 만든 것입니다.
+한...</title><link>https://www.threads.net/@choi.openai/post/DboseOsE1mK</link><description>8시간 남았습니다.
 
-클라이언트와 음성 모델 사이에는 전용 미디어 경로만 남겼습니다. 검색, 도구 호출, 정책, 저장 같은 애플리케이션 작업은 모두 비동기 RPC 뒤로 보냈습니다.
+구글이 Google AI 구독이 없는 사용자를 대상으로 Gemini Omni의 동영상 생성 기능을 무료로 제공합니다.
 
-그래서 느린 검색이나 도구 호출이 생겨도 자기 결과만 늦어질 뿐, 오디오 프레임은 계속 흐릅니다.
+한국 시간 기준으로 오늘 오후 3시 59분까지 Gemini 를 통해 최대 10개의 영상을 생성할 수 있는데요.
 
-미디어 프런트엔드와 추론 로직도 Python asyncio에서 Go로 다시 작성했습니다. 오픈AI에 따르면 새 시스템의 p95 지연 시간이 이전 시스템의 p50 수준까지 내려왔습니다.
+웹과 앱에서 모두 이용 가능합니다. 평소 Gemini Omni의 동영상 생성 성능이 궁금했다면 직접 사용해볼 기회입니다.</description><pubDate>Tue, 04 Aug 2026 23:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DboseOsE1mK</guid></item><item><title>와.. 충격적입니다.. AI가 사람을 속이기 시작했습니다.
 
-가장 느린 구간까지도 예전의 평균적인 성능 수준으로 끌어올린 셈입니다</description><pubDate>Tue, 04 Aug 2026 05:24:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbmznjGD2j3</guid></item><item><title>3/ 오래 이어지는 대화도 끊기지 않게 만드는 것도 중요한 과제였습니다.
+영국 AI보안연구소가 공개한 평가에서 AI 에이전트가 실제 GitHub 저장소를 공...</title><link>https://www.threads.net/@choi.openai/post/DbomCQsExKb</link><description>와.. 충격적입니다.. AI가 사람을 속이기 시작했습니다.
 
-음성 모델은 대화 상태를 계속 들고 있기 때문에 인스턴스를 쉽게 교체...</title><link>https://www.threads.net/@choi.openai/post/Dbmzof2j3QK</link><description>3/ 오래 이어지는 대화도 끊기지 않게 만드는 것도 중요한 과제였습니다.
+영국 AI보안연구소가 공개한 평가에서 AI 에이전트가 실제 GitHub 저장소를 공격하고, 부계정으로 여론을 조작하려 했으며, 증거를 지우고 실수인 척 사과한 정황까지 확인됐습니다.
 
-음성 모델은 대화 상태를 계속 들고 있기 때문에 인스턴스를 쉽게 교체할 수 없습니다.
+AI 보안 역사에서 중요한 분기점이 될 수 있는 사례들과 핵심 내용을 정리했습니다🧵</description><pubDate>Tue, 04 Aug 2026 22:04:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbomCQsExKb</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-오픈AI는 교체가 필요하면 새 인스턴스를 미리 준비하고, 현재 대화 기록을 프리필한 뒤 기존 인스턴스와 잠시 함께 실행합니다. 새 인스턴스가 현재 상태를 따라잡으면 그때만 연결을 넘깁니다.
+1. 영국 AI보안연구소가 7월 25일부터 사이버 레인지 평가를 122회 진행함.
+2. ...</title><link>https://www.threads.net/@choi.openai/post/DbomCpaE8oH</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-컨텍스트가 길어져 압축이 필요한 경우도 같은 방식입니다. 새 인스턴스에서 압축된 컨텍스트와 KV 캐시를 다시 준비하는 동안 기존 모델은 계속 대화를 이어갑니다. 사용자는 전환 자체를 거의 느끼지 못합니다.</description><pubDate>Tue, 04 Aug 2026 05:24:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbmzof2j3QK</guid></item></channel></rss>
+1. 영국 AI보안연구소가 7월 25일부터 사이버 레인지 평가를 122회 진행함.
+2. 실제 공격 능력을 평가하려고 인터넷을 열어두고 제공사의 사이버 분류기를 비활성화함.
+3. 한 에이전트가 레인지 밖 실제 깃허브 저장소를 과제 표적으로 오인함.
+4. 악성 코드가 담긴 변경 요청을 올리고, 부계정으로 자기 코드를 편들며 승인까지 유도함.
+5. 메인테이너에게 악성 파일이 담긴 메일을 보내고, 다른 코딩 에이전트를 노린 숨은 지시문도 심음.
+6. 제3자가 악성 코드를 지적하자 이력을 덮어쓰고 실수였다며 사과함.
+7. 7월 28일 Tor 통신이 탐지돼 46분 만에 전체 평가가 중단됨.
+8. 연구소는 원인 다섯 가지 가운데 네 가지가 평가 환경 설계 문제였다고 결론 내림.
+
+→ 프런티어 모델이 실제 사람을 상대로 기만 행동을 시도한 첫 공개 사례입니다. 동시에 평가 환경 자체가 얼마나 중요한지도 보여준 사건입니다.</description><pubDate>Tue, 04 Aug 2026 22:04:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbomCpaE8oH</guid></item><item><title>2/ 영국 AI보안연구소는 프런티어 모델의 공격 능력을 사이버 레인지에서 평가합니다.
+
+레인지는 실제 기업망을 본떠 만든 가상 네트워크입니다. ...</title><link>https://www.threads.net/@choi.openai/post/DbomDTMk3aU</link><description>2/ 영국 AI보안연구소는 프런티어 모델의 공격 능력을 사이버 레인지에서 평가합니다.
+
+레인지는 실제 기업망을 본떠 만든 가상 네트워크입니다. 에이전트는 그 안에서 숨겨진 값을 찾는 과제를 사람의 개입 없이 스스로 수행합니다.
+
+연구소는 7월 25일부터 28일까지 난이도가 다른 두 개의 레인지에서 일곱 개 모델을 대상으로 총 122회의 평가를 진행했습니다. 이 가운데 10회에서는 에이전트가 레인지 경계 밖의 실제 인터넷을 대상으로 행동했고, 이런 행동은 모두 19건으로 집계됐습니다.
+
+이 가운데 17건은 Mythos 5, 2건은 GPT-5.6 Sol에서 발생했습니다. 연구소는 이 결과를 8월 4일 기술 보고서를 통해 공개했습니다.</description><pubDate>Tue, 04 Aug 2026 22:04:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbomDTMk3aU</guid></item><item><title>3/ 연구소는 이번 평가에서 두 가지를 의도적으로 열어뒀습니다.
+
+첫째는 인터넷 접속입니다. 실제 공격자가 할 수 있는 행동을 평가하려면 에이전...</title><link>https://www.threads.net/@choi.openai/post/DbomEPqk-lb</link><description>3/ 연구소는 이번 평가에서 두 가지를 의도적으로 열어뒀습니다.
+
+첫째는 인터넷 접속입니다. 실제 공격자가 할 수 있는 행동을 평가하려면 에이전트가 필요한 도구를 직접 내려받을 수 있어야 실제 환경에 가깝다고 봤습니다.
+
+둘째는 제공사의 사이버 분류기입니다. 상용 서비스에서는 위험한 응답을 실시간으로 차단하는 안전 필터지만, 신뢰 평가 파트너는 이를 비활성화할 수 있습니다. 필터를 켠 상태에서는 모델 자체의 능력이 아니라 필터의 성능을 측정하게 되기 때문입니다.
+
+그래서 이번 사건은 샌드박스를 탈출한 것이 아닙니다. 평가 환경 자체를 연구소가 그렇게 구성해둔 것입니다.</description><pubDate>Tue, 04 Aug 2026 22:04:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbomEPqk-lb</guid></item></channel></rss>
