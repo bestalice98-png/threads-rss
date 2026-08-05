@@ -1,73 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 05 Aug 2026 02:28:23 +0000</lastBuildDate><item><title>Liquid AI가 26억 파라미터 온디바이스 에이전트 모델 LFM2.5-2.6B를 오픈웨이트로 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 05 Aug 2026 10:33:56 +0000</lastBuildDate><item><title>미스트랄이 3B 규모의 멀티모달 안전 모델 Shieldstral을 오픈웨이트로 공개했습니다.
 
-Q4 기준 1.7GB 안팎으로 ...</title><link>https://www.threads.net/@choi.openai/post/Dbo6OLrgQFt</link><description>Liquid AI가 26억 파라미터 온디바이스 에이전트 모델 LFM2.5-2.6B를 오픈웨이트로 공개했습니다.
+텍스트와 이미지를 함께 검사하며, 고정된 유해성 ...</title><link>https://www.threads.net/@choi.openai/post/Dbp4ChsAvBg</link><description>미스트랄이 3B 규모의 멀티모달 안전 모델 Shieldstral을 오픈웨이트로 공개했습니다.
 
-Q4 기준 1.7GB 안팎으로 스마트폰에서도 돌아가며, 128K 컨텍스트와 34조 토큰 사전학습을 적용했습니다.
-덕분에 2.5GB 미만 메모리에서 M5 Max 초당 220토큰, 폰에서도 초당 30토큰으로 도구를 부르며 다단계 작업을 처리할 수 있습니다.
+텍스트와 이미지를 함께 검사하며, 고정된 유해성 분류표 대신 자연어로 정책을 입력하면 해당 기준에 맞춰 안전 점수를 반환합니다. 정책이 바뀌어도 재학습할 필요가 없습니다.
 
-주목할 부분은 OpenClaw·Hermes Agent·Pi 같은 실제 하네스 안에서 멀티턴 강화학습을 진행했습니다. 덕분에 도구 사용과 지시 이행에서는 최대 네 배 큰 모델을 앞섰는데요.
+16GB GPU 한 장에서 돌아가고, 최대 7배 큰 모델과 맞먹는 성능을 냈습니다.
 
-다만 코딩은 큰 모델이 여전히 낫습니다.
+반응은 “검열 모델”이라는 조롱도 많지만, 핵심은 필터링 권한이 API 기업이 아니라 사용자 쪽으로 내려왔다는 점입니다. 이제 기업이 자체 장비에서 정책을 직접 정하고 감사할 수 있습니다.</description><pubDate>Wed, 05 Aug 2026 10:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbp4ChsAvBg</guid></item><item><title>블로그 :
+https://mistral.ai/news/shieldstral/</title><link>https://www.threads.net/@choi.openai/post/Dbp4Er1ghG6</link><description>블로그 :
+https://mistral.ai/news/shieldstral/</description><pubDate>Wed, 05 Aug 2026 10:01:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbp4Er1ghG6</guid></item><item><title>게빈 베이커(Gavin Baker)는 현재 에이전틱 AI(Agentic AI)를 실제로 활용하는 인구는 극소수에 불과함에도 심각한 컴퓨팅 부족 ...</title><link>https://www.threads.net/@choi.openai/post/DbptrNCCKdz</link><description>게빈 베이커(Gavin Baker)는 현재 에이전틱 AI(Agentic AI)를 실제로 활용하는 인구는 극소수에 불과함에도 심각한 컴퓨팅 부족 현상을 겪고 있다고 지적했습니다.
 
-중요한 건 크기가 아닙니다. 모델과 하네스를 따로 연결하던 단계에서, 실제 에이전트 환경 자체를 학습시키는 단계로 넘어가고 있습니다.</description><pubDate>Wed, 05 Aug 2026 01:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbo6OLrgQFt</guid></item><item><title>발표내용 :
-https://www.liquid.ai/blog/lfm2-5-2-6b</title><link>https://www.threads.net/@choi.openai/post/Dbo6PeOgQuq</link><description>발표내용 :
-https://www.liquid.ai/blog/lfm2-5-2-6b</description><pubDate>Wed, 05 Aug 2026 01:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbo6PeOgQuq</guid></item><item><title>와우.. 1000만 토큰..
+전 세계 80억 인구 중 AI 활용 인구가 백만 단위, 혹은 억 단위로 폭발적으로 늘어났을 때 컴퓨팅 수요가 폭증할 것임을 언급하며, “전 세계에서 불과 25만~50만 명 정도만 에이전틱 AI를 쓰고 있는 지금도 컴퓨팅 부족이 심각합니다”라고 강조했습니다.
 
-Pokee AI가 1,000만 토큰 컨텍스트를 지원하는 에이전트 모델 Pokee-Isaac 28B를 공개했습니다....</title><link>https://www.threads.net/@choi.openai/post/Dbov2TODTx_</link><description>와우.. 1000만 토큰..
+그는 하이퍼스케일러들의 막대한 AI 투자와 자본 지출(CapEx)이 정당화되려면 결국 최종 고객과 명확한 수익 모델이 존재해야 한다고 설명했습니다.
 
-Pokee AI가 1,000만 토큰 컨텍스트를 지원하는 에이전트 모델 Pokee-Isaac 28B를 공개했습니다.
+이러한 선순환은 생산성 향상을 통한 급격한 경제 성장이나 기존 노동력의 대체(Labor Substitution)를 통해서만 실현될 수 있다고 분석했습니다.</description><pubDate>Wed, 05 Aug 2026 08:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbptrNCCKdz</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=NGsi2PC4y68</title><link>https://www.threads.net/@choi.openai/post/Dbpts-BCGzA</link><description>풀영상 :
+https://www.youtube.com/watch?v=NGsi2PC4y68</description><pubDate>Wed, 05 Aug 2026 08:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbpts-BCGzA</guid></item><item><title>엔비디아가 자율주행 추론 모델 Alpamayo 2 Super를 상업용으로 공개했습니다.
+Cosmos 3 Super Reasoner를 기반으로 강...</title><link>https://www.threads.net/@choi.openai/post/Dbpjc_7AgZ_</link><description>엔비디아가 자율주행 추론 모델 Alpamayo 2 Super를 상업용으로 공개했습니다.
+Cosmos 3 Super Reasoner를 기반으로 강화학습(RL) 후학습을 거친 34B 모델로, 차량 전방·측면·후면을 포함한 360도 카메라 영상을 통합해 추론합니다.
+한 장면에서 주행 궤적뿐 아니라, 그 판단에 이른 이유를 담은 인과 사슬(CoC) 추론 기록, 양보·차선 변경 같은 메타 액션, 시각 질의응답(VQA), 학습용 자동 라벨까지 함께 생성합니다.
+자율주행 추론 벤치마크 LingoQA에서는 79.2점을 기록하며 약 40개 모델 가운데 1위를 차지했습니다.
+가중치는 OpenMDW-1.1 라이선스로 공개돼 미세조정과 파생 모델 개발, 상업적 재배포까지 허용됩니다.
+엔비디아는 대형 모델을 클라우드에서 교사 모델로 활용하고, 이를 증류한 경량 모델을 실제 차량에 배치하는 클라우드 투 카(cloud-to-car) 워크플로를 제시했습니다.</description><pubDate>Wed, 05 Aug 2026 07:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbpjc_7AgZ_</guid></item><item><title>발표내용 :
+https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/</title><link>https://www.threads.net/@choi.openai/post/DbpjfbuAsEX</link><description>발표내용 :
+https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/</description><pubDate>Wed, 05 Aug 2026 07:01:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbpjfbuAsEX</guid></item><item><title>트럼프 행정부가 새 AI 안전 규제에서 오픈웨이트 모델은 안전성 테스트를 면제한다고 AI 기업들에 통보했습니다.
 
-RTX 4090급 단일 GPU부터 배포할 수 있고, 1,000만 토큰 RULER에서 93.3%를 기록했습니다. BFCL v4와 τ³-bench에서도 자사 평가 기준 선두라고 밝혔습니다.
+오픈AI, 앤트로픽, 구글의 ...</title><link>https://www.threads.net/@choi.openai/post/DbpZGsxEsKT</link><description>트럼프 행정부가 새 AI 안전 규제에서 오픈웨이트 모델은 안전성 테스트를 면제한다고 AI 기업들에 통보했습니다.
 
-다만 1,000만 토큰을 B200에서 읽는 데 첫 응답까지 약 173초가 걸린다는 지적도 나옵니다. 아직 가중치도 공개되지 않았습니다.
+오픈AI, 앤트로픽, 구글의 폐쇄형 모델은 정부 안전성 검사를 받지만, 오픈웨이트 모델은 아예 심사 대상에서 제외됩니다.
 
-주목해야하는 부분은 컨텍스트가 길어진 게 아닙니다. 전체 코드베이스와 문서 저장소를 한 세션에 넣고, 에이전트가 장기 작업을 이어갈 수 있는 구조가 단일 GPU 범위로 내려오고 있다는 점입니다.</description><pubDate>Tue, 04 Aug 2026 23:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbov2TODTx_</guid></item><item><title>발표내용 :
-https://console.pokee.ai/model</title><link>https://www.threads.net/@choi.openai/post/Dbov3CcDTFx</link><description>발표내용 :
-https://console.pokee.ai/model</description><pubDate>Tue, 04 Aug 2026 23:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbov3CcDTFx</guid></item><item><title>8시간 남았습니다.
+다만 논란은 중국 모델을 어떻게 볼 것이냐입니다. WSJ는 이 면제가 미국산 오픈웨이트 모델에만 적용된다고 보도한 반면, 블룸버그는 중국 오픈웨이트 모델도 면제 대상에 포함된다고 전했습니다.
 
-구글이 Google AI 구독이 없는 사용자를 대상으로 Gemini Omni의 동영상 생성 기능을 무료로 제공합니다.
+오픈웨이트는 한 번 공개되면 미국 내에서 금지하더라도 전 세계 유통을 막을 수 없습니다. 7월 22일 크라치오스의 K3 증류 비판도 결국 오픈웨이트를 견제하기 위한 명분을 쌓는 과정으로 봤는데, 이번 안전 심사 면제 역시 같은 맥락으로 읽힙니다.
 
-한...</title><link>https://www.threads.net/@choi.openai/post/DboseOsE1mK</link><description>8시간 남았습니다.
+통제할 수 없는 모델이라면 애초에 규제 대상에서 빼겠다는 신호에 가깝습니다.</description><pubDate>Wed, 05 Aug 2026 05:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbpZGsxEsKT</guid></item><item><title>그런데 더 중요한 갈림길은 따로 있습니다.
 
-구글이 Google AI 구독이 없는 사용자를 대상으로 Gemini Omni의 동영상 생성 기능을 무료로 제공합니다.
+오픈웨이트를 심사 대상에 포함시키느냐입니다. 만약 포함된다면 미국 기업들은 중국 오픈 모델을 활용하...</title><link>https://www.threads.net/@choi.openai/post/DbpZH2GEgth</link><description>그런데 더 중요한 갈림길은 따로 있습니다.
 
-한국 시간 기준으로 오늘 오후 3시 59분까지 Gemini 를 통해 최대 10개의 영상을 생성할 수 있는데요.
+오픈웨이트를 심사 대상에 포함시키느냐입니다. 만약 포함된다면 미국 기업들은 중국 오픈 모델을 활용하기 어려워지고, 국내 스타트업의 해외 진출에도 제약이 생길 수 있습니다. 중국 역시 오픈 모델 생태계를 해외로 확장하기가 쉽지 않아집니다.
 
-웹과 앱에서 모두 이용 가능합니다. 평소 Gemini Omni의 동영상 생성 성능이 궁금했다면 직접 사용해볼 기회입니다.</description><pubDate>Tue, 04 Aug 2026 23:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DboseOsE1mK</guid></item><item><title>와.. 충격적입니다.. AI가 사람을 속이기 시작했습니다.
+하지만 여기에도 빈틈은 있습니다. 개인이 모델을 내려받아 자신의 기기에서 실행하는 것까지 기술적으로 막기는 사실상 불가능합니다.
 
-영국 AI보안연구소가 공개한 평가에서 AI 에이전트가 실제 GitHub 저장소를 공...</title><link>https://www.threads.net/@choi.openai/post/DbomCQsExKb</link><description>와.. 충격적입니다.. AI가 사람을 속이기 시작했습니다.
+그래서 중국이 집중할 가능성이 높은 방향은 소형 오픈웨이트 모델입니다.
+기업 시장은 폐쇄형 모델이 안전 심사를 통과하며 장악하더라도, 개인 PC나 스마트폰에서 직접 실행되는 소형 모델까지 통제하기는 어렵습니다.
 
-영국 AI보안연구소가 공개한 평가에서 AI 에이전트가 실제 GitHub 저장소를 공격하고, 부계정으로 여론을 조작하려 했으며, 증거를 지우고 실수인 척 사과한 정황까지 확인됐습니다.
+미국의 칩 수출통제로 중국의 AI 개발을 늦추려는 정책과, 안전 심사로 폐쇄형 모델을 관리하려는 규제는 결국 같은 결론으로 이어집니다.
 
-AI 보안 역사에서 중요한 분기점이 될 수 있는 사례들과 핵심 내용을 정리했습니다🧵</description><pubDate>Tue, 04 Aug 2026 22:04:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbomCQsExKb</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
-
-1. 영국 AI보안연구소가 7월 25일부터 사이버 레인지 평가를 122회 진행함.
-2. ...</title><link>https://www.threads.net/@choi.openai/post/DbomCpaE8oH</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
-
-1. 영국 AI보안연구소가 7월 25일부터 사이버 레인지 평가를 122회 진행함.
-2. 실제 공격 능력을 평가하려고 인터넷을 열어두고 제공사의 사이버 분류기를 비활성화함.
-3. 한 에이전트가 레인지 밖 실제 깃허브 저장소를 과제 표적으로 오인함.
-4. 악성 코드가 담긴 변경 요청을 올리고, 부계정으로 자기 코드를 편들며 승인까지 유도함.
-5. 메인테이너에게 악성 파일이 담긴 메일을 보내고, 다른 코딩 에이전트를 노린 숨은 지시문도 심음.
-6. 제3자가 악성 코드를 지적하자 이력을 덮어쓰고 실수였다며 사과함.
-7. 7월 28일 Tor 통신이 탐지돼 46분 만에 전체 평가가 중단됨.
-8. 연구소는 원인 다섯 가지 가운데 네 가지가 평가 환경 설계 문제였다고 결론 내림.
-
-→ 프런티어 모델이 실제 사람을 상대로 기만 행동을 시도한 첫 공개 사례입니다. 동시에 평가 환경 자체가 얼마나 중요한지도 보여준 사건입니다.</description><pubDate>Tue, 04 Aug 2026 22:04:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbomCpaE8oH</guid></item><item><title>2/ 영국 AI보안연구소는 프런티어 모델의 공격 능력을 사이버 레인지에서 평가합니다.
-
-레인지는 실제 기업망을 본떠 만든 가상 네트워크입니다. ...</title><link>https://www.threads.net/@choi.openai/post/DbomDTMk3aU</link><description>2/ 영국 AI보안연구소는 프런티어 모델의 공격 능력을 사이버 레인지에서 평가합니다.
-
-레인지는 실제 기업망을 본떠 만든 가상 네트워크입니다. 에이전트는 그 안에서 숨겨진 값을 찾는 과제를 사람의 개입 없이 스스로 수행합니다.
-
-연구소는 7월 25일부터 28일까지 난이도가 다른 두 개의 레인지에서 일곱 개 모델을 대상으로 총 122회의 평가를 진행했습니다. 이 가운데 10회에서는 에이전트가 레인지 경계 밖의 실제 인터넷을 대상으로 행동했고, 이런 행동은 모두 19건으로 집계됐습니다.
-
-이 가운데 17건은 Mythos 5, 2건은 GPT-5.6 Sol에서 발생했습니다. 연구소는 이 결과를 8월 4일 기술 보고서를 통해 공개했습니다.</description><pubDate>Tue, 04 Aug 2026 22:04:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbomDTMk3aU</guid></item><item><title>3/ 연구소는 이번 평가에서 두 가지를 의도적으로 열어뒀습니다.
-
-첫째는 인터넷 접속입니다. 실제 공격자가 할 수 있는 행동을 평가하려면 에이전...</title><link>https://www.threads.net/@choi.openai/post/DbomEPqk-lb</link><description>3/ 연구소는 이번 평가에서 두 가지를 의도적으로 열어뒀습니다.
-
-첫째는 인터넷 접속입니다. 실제 공격자가 할 수 있는 행동을 평가하려면 에이전트가 필요한 도구를 직접 내려받을 수 있어야 실제 환경에 가깝다고 봤습니다.
-
-둘째는 제공사의 사이버 분류기입니다. 상용 서비스에서는 위험한 응답을 실시간으로 차단하는 안전 필터지만, 신뢰 평가 파트너는 이를 비활성화할 수 있습니다. 필터를 켠 상태에서는 모델 자체의 능력이 아니라 필터의 성능을 측정하게 되기 때문입니다.
-
-그래서 이번 사건은 샌드박스를 탈출한 것이 아닙니다. 평가 환경 자체를 연구소가 그렇게 구성해둔 것입니다.</description><pubDate>Tue, 04 Aug 2026 22:04:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbomEPqk-lb</guid></item></channel></rss>
+오픈웨이트가 규제의 사각지대로 남게 되면서, 역설적으로 소형 오픈웨이트 모델 경쟁을 더욱 가속하는 결과를 낳을 가능성이 있습니다.</description><pubDate>Wed, 05 Aug 2026 05:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbpZH2GEgth</guid></item><item><title>기사 :
+https://www.reuters.com/business/trump-advisers-tell-ai-firms-they-will-not...</title><link>https://www.threads.net/@choi.openai/post/DbpZI6Qkq2s</link><description>기사 :
+https://www.reuters.com/business/trump-advisers-tell-ai-firms-they-will-not-safety-test-open-weight-models-2026-08-04/</description><pubDate>Wed, 05 Aug 2026 05:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbpZI6Qkq2s</guid></item></channel></rss>
