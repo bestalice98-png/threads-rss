@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 05 Aug 2026 10:33:56 +0000</lastBuildDate><item><title>미스트랄이 3B 규모의 멀티모달 안전 모델 Shieldstral을 오픈웨이트로 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 05 Aug 2026 16:25:29 +0000</lastBuildDate><item><title>클라우드플레어가 Kimi와 GLM을 더 싸고 빠르게 돌리는 방법을 공개했습니다.
+
+Kimi K2.6은 KV 캐시를 BF16에서 FP8로 줄여 한...</title><link>https://www.threads.net/@choi.openai/post/DbqMpDVjJ09</link><description>클라우드플레어가 Kimi와 GLM을 더 싸고 빠르게 돌리는 방법을 공개했습니다.
+
+Kimi K2.6은 KV 캐시를 BF16에서 FP8로 줄여 한 GPU에 담는 컨텍스트를 68만 토큰에서 137만 토큰으로 늘렸고, 최대 처리량은 41% 높이고 토큰 비용은 약 30% 낮췄습니다.
+
+GLM 5.2는 가중치를 FP8에서 INT4로 압축해 705GB를 421GB로 줄이고, 디코딩 속도를 최대 55% 높였습니다.
+
+중요한 건 모델 성능표 밖에 있습니다. 오픈웨이트가 무료여도 서빙이 비싸면 쓸 수 없습니다. 결국 경쟁력은 모델뿐 아니라 같은 GPU에서 얼마나 많은 요청을 안정적으로 처리하느냐까지 내려오고 있습니다.</description><pubDate>Wed, 05 Aug 2026 13:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbqMpDVjJ09</guid></item><item><title>발표내용 :
+https://blog.cloudflare.com/smaller-faster-safer-models/</title><link>https://www.threads.net/@choi.openai/post/DbqMp_xDI-l</link><description>발표내용 :
+https://blog.cloudflare.com/smaller-faster-safer-models/</description><pubDate>Wed, 05 Aug 2026 13:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbqMp_xDI-l</guid></item><item><title>Cloudflare가 AI 에이전트 전용 지갑을 공개했습니다.
+
+스테이블코인을 예치하고 x402 프로토콜로 API와 콘텐츠 비용을 자동 결제하는...</title><link>https://www.threads.net/@choi.openai/post/DbqCVowiJrw</link><description>Cloudflare가 AI 에이전트 전용 지갑을 공개했습니다.
+
+스테이블코인을 예치하고 x402 프로토콜로 API와 콘텐츠 비용을 자동 결제하는 구조입니다. 사람은 예산과 허용 목록, 건당 상한을 설정하고 에이전트는 가상 지갑으로 그 한도 안에서 돈을 씁니다.
+
+비자와 마스터카드, 스트라이프가 에이전트 결제 표준을 다투는 사이 Cloudflare는 다른 길로 들어왔습니다. 결제 라이선스가 아니라 인터넷 트래픽의 4분의 1을 가진 인프라 사업자라는 점이 무기입니다.
+
+새 결제 네트워크를 까는 대신 이미 모든 요청이 지나가는 자리에 지갑을 얹었습니다. 핸들로 에이전트 신원을 만들고, 가상 지갑으로 지출을 통제하고, x402로 결제까지 한 번에 처리하는 그림입니다.
+
+Cloudflare CSO에 따르면 웹 트래픽의 57%가 이미 봇입니다. 사람보다 에이전트가 더 많이 돌아다니는 인터넷에서, Cloudflare는 그 길목을 이미 쥐고 있습니다.</description><pubDate>Wed, 05 Aug 2026 11:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbqCVowiJrw</guid></item><item><title>지갑 등록 :
+https://cloudflare.pay/</title><link>https://www.threads.net/@choi.openai/post/DbqCXgPCDX3</link><description>지갑 등록 :
+https://cloudflare.pay/</description><pubDate>Wed, 05 Aug 2026 11:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbqCXgPCDX3</guid></item><item><title>미스트랄이 3B 규모의 멀티모달 안전 모델 Shieldstral을 오픈웨이트로 공개했습니다.
 
 텍스트와 이미지를 함께 검사하며, 고정된 유해성 ...</title><link>https://www.threads.net/@choi.openai/post/Dbp4ChsAvBg</link><description>미스트랄이 3B 규모의 멀티모달 안전 모델 Shieldstral을 오픈웨이트로 공개했습니다.
 
@@ -17,37 +39,4 @@ https://mistral.ai/news/shieldstral/</description><pubDate>Wed, 05 Aug 2026 10:0
 
 이러한 선순환은 생산성 향상을 통한 급격한 경제 성장이나 기존 노동력의 대체(Labor Substitution)를 통해서만 실현될 수 있다고 분석했습니다.</description><pubDate>Wed, 05 Aug 2026 08:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbptrNCCKdz</guid></item><item><title>풀영상 :
 https://www.youtube.com/watch?v=NGsi2PC4y68</title><link>https://www.threads.net/@choi.openai/post/Dbpts-BCGzA</link><description>풀영상 :
-https://www.youtube.com/watch?v=NGsi2PC4y68</description><pubDate>Wed, 05 Aug 2026 08:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbpts-BCGzA</guid></item><item><title>엔비디아가 자율주행 추론 모델 Alpamayo 2 Super를 상업용으로 공개했습니다.
-Cosmos 3 Super Reasoner를 기반으로 강...</title><link>https://www.threads.net/@choi.openai/post/Dbpjc_7AgZ_</link><description>엔비디아가 자율주행 추론 모델 Alpamayo 2 Super를 상업용으로 공개했습니다.
-Cosmos 3 Super Reasoner를 기반으로 강화학습(RL) 후학습을 거친 34B 모델로, 차량 전방·측면·후면을 포함한 360도 카메라 영상을 통합해 추론합니다.
-한 장면에서 주행 궤적뿐 아니라, 그 판단에 이른 이유를 담은 인과 사슬(CoC) 추론 기록, 양보·차선 변경 같은 메타 액션, 시각 질의응답(VQA), 학습용 자동 라벨까지 함께 생성합니다.
-자율주행 추론 벤치마크 LingoQA에서는 79.2점을 기록하며 약 40개 모델 가운데 1위를 차지했습니다.
-가중치는 OpenMDW-1.1 라이선스로 공개돼 미세조정과 파생 모델 개발, 상업적 재배포까지 허용됩니다.
-엔비디아는 대형 모델을 클라우드에서 교사 모델로 활용하고, 이를 증류한 경량 모델을 실제 차량에 배치하는 클라우드 투 카(cloud-to-car) 워크플로를 제시했습니다.</description><pubDate>Wed, 05 Aug 2026 07:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbpjc_7AgZ_</guid></item><item><title>발표내용 :
-https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/</title><link>https://www.threads.net/@choi.openai/post/DbpjfbuAsEX</link><description>발표내용 :
-https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/</description><pubDate>Wed, 05 Aug 2026 07:01:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbpjfbuAsEX</guid></item><item><title>트럼프 행정부가 새 AI 안전 규제에서 오픈웨이트 모델은 안전성 테스트를 면제한다고 AI 기업들에 통보했습니다.
-
-오픈AI, 앤트로픽, 구글의 ...</title><link>https://www.threads.net/@choi.openai/post/DbpZGsxEsKT</link><description>트럼프 행정부가 새 AI 안전 규제에서 오픈웨이트 모델은 안전성 테스트를 면제한다고 AI 기업들에 통보했습니다.
-
-오픈AI, 앤트로픽, 구글의 폐쇄형 모델은 정부 안전성 검사를 받지만, 오픈웨이트 모델은 아예 심사 대상에서 제외됩니다.
-
-다만 논란은 중국 모델을 어떻게 볼 것이냐입니다. WSJ는 이 면제가 미국산 오픈웨이트 모델에만 적용된다고 보도한 반면, 블룸버그는 중국 오픈웨이트 모델도 면제 대상에 포함된다고 전했습니다.
-
-오픈웨이트는 한 번 공개되면 미국 내에서 금지하더라도 전 세계 유통을 막을 수 없습니다. 7월 22일 크라치오스의 K3 증류 비판도 결국 오픈웨이트를 견제하기 위한 명분을 쌓는 과정으로 봤는데, 이번 안전 심사 면제 역시 같은 맥락으로 읽힙니다.
-
-통제할 수 없는 모델이라면 애초에 규제 대상에서 빼겠다는 신호에 가깝습니다.</description><pubDate>Wed, 05 Aug 2026 05:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbpZGsxEsKT</guid></item><item><title>그런데 더 중요한 갈림길은 따로 있습니다.
-
-오픈웨이트를 심사 대상에 포함시키느냐입니다. 만약 포함된다면 미국 기업들은 중국 오픈 모델을 활용하...</title><link>https://www.threads.net/@choi.openai/post/DbpZH2GEgth</link><description>그런데 더 중요한 갈림길은 따로 있습니다.
-
-오픈웨이트를 심사 대상에 포함시키느냐입니다. 만약 포함된다면 미국 기업들은 중국 오픈 모델을 활용하기 어려워지고, 국내 스타트업의 해외 진출에도 제약이 생길 수 있습니다. 중국 역시 오픈 모델 생태계를 해외로 확장하기가 쉽지 않아집니다.
-
-하지만 여기에도 빈틈은 있습니다. 개인이 모델을 내려받아 자신의 기기에서 실행하는 것까지 기술적으로 막기는 사실상 불가능합니다.
-
-그래서 중국이 집중할 가능성이 높은 방향은 소형 오픈웨이트 모델입니다.
-기업 시장은 폐쇄형 모델이 안전 심사를 통과하며 장악하더라도, 개인 PC나 스마트폰에서 직접 실행되는 소형 모델까지 통제하기는 어렵습니다.
-
-미국의 칩 수출통제로 중국의 AI 개발을 늦추려는 정책과, 안전 심사로 폐쇄형 모델을 관리하려는 규제는 결국 같은 결론으로 이어집니다.
-
-오픈웨이트가 규제의 사각지대로 남게 되면서, 역설적으로 소형 오픈웨이트 모델 경쟁을 더욱 가속하는 결과를 낳을 가능성이 있습니다.</description><pubDate>Wed, 05 Aug 2026 05:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbpZH2GEgth</guid></item><item><title>기사 :
-https://www.reuters.com/business/trump-advisers-tell-ai-firms-they-will-not...</title><link>https://www.threads.net/@choi.openai/post/DbpZI6Qkq2s</link><description>기사 :
-https://www.reuters.com/business/trump-advisers-tell-ai-firms-they-will-not-safety-test-open-weight-models-2026-08-04/</description><pubDate>Wed, 05 Aug 2026 05:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbpZI6Qkq2s</guid></item></channel></rss>
+https://www.youtube.com/watch?v=NGsi2PC4y68</description><pubDate>Wed, 05 Aug 2026 08:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbpts-BCGzA</guid></item></channel></rss>
