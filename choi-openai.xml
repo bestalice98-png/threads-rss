@@ -1,50 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 07 Aug 2026 02:38:49 +0000</lastBuildDate><item><title>진짜.. 어디가서 이런정보 못받습니다..
-95분짜리 AI 장편 영화의 프롬프트와 에셋이 전부 공개됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 07 Aug 2026 08:58:16 +0000</lastBuildDate><item><title>바이트댄스가 최대 10조 파라미터 모델의 사전학습 단계에 들어갔다고 파이낸셜타임스가 보도했습니다. 미토스급 규모입니다.
 
-Higgsfield AI가 Hell...</title><link>https://www.threads.net/@choi.openai/post/DbuKnApggTL</link><description>진짜.. 어디가서 이런정보 못받습니다..
-95분짜리 AI 장편 영화의 프롬프트와 에셋이 전부 공개됐습니다.
+10조는 MoE 구조에...</title><link>https://www.threads.net/@choi.openai/post/Dbuz3vHgP9L</link><description>바이트댄스가 최대 10조 파라미터 모델의 사전학습 단계에 들어갔다고 파이낸셜타임스가 보도했습니다. 미토스급 규모입니다.
 
-Higgsfield AI가 Hell Grind의 제작 데이터 전체를 오픈소스로 풀었습니다. 제작비 5억 원, 칸 마켓에서 상영됐고 WSJ와 버라이어티, BBC가 다뤘습니다.
+10조는 MoE 구조에서 총 파라미터 수일 가능성이 크고, 실제 토큰당 활성화되는 양은 수천억 수준으로 추정됩니다. 숫자 자체보다 이 규모의 학습을 감당할 수 있다는 사실이 신호입니다. 중국 기업이 수출통제 속에서도 확보한 컴퓨트 자원을 보여주는 셈입니다.
 
-진짜 중요한 건 영화 자체보다 이겁니다. AI 영화를 어떻게 만드는지, 어떤 프롬프트를 썼는지, 에셋을 어떻게 연결했는지가 통째로 공개됐습니다. 95분짜리 레시피북이 나온 셈입니다.
+바이트댄스는 SeedRealtime에 이어 이번 주에만 두 번째 굵직한 AI 소식을 냈습니다. 같은 날 TSMC가 DRAM 부족으로 애플 프로세서 10억 달러어치를 출하하지 못하고 있다는 보도도 나왔습니다. 모델이 커질수록 메모리 수요가 같이 올라가고, 공급망은 이미 따라가지 못하고 있습니다.</description><pubDate>Fri, 07 Aug 2026 08:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbuz3vHgP9L</guid></item><item><title>기사 :
+https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a...</title><link>https://www.threads.net/@choi.openai/post/Dbuz45mAFDo</link><description>기사 :
+https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a6=1</description><pubDate>Fri, 07 Aug 2026 08:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbuz45mAFDo</guid></item><item><title>와우.. 오픈AI가 AWS, Cursor, GitHub, VS Code, Vercel과 함께 Agent Plugins 오픈 표준을 발표했습니다....</title><link>https://www.threads.net/@choi.openai/post/Dbupgj5gSW9</link><description>와우.. 오픈AI가 AWS, Cursor, GitHub, VS Code, Vercel과 함께 Agent Plugins 오픈 표준을 발표했습니다.
 
-아직 움직임이 어색하고 장면 연결이 튀는 부분도 있지만, 5억 원으로 95분을 찍었다는 건 할리우드 예산의 100분의 1입니다. AI 영화 제작의 원가 곡선이 어디로 가고 있는지 보여주는 숫자입니다.
+플러그인을 한 번만 만들면 Codex, ChatGPT, Cursor, GitHub Copilot, VS Code, Kiro에서 그대로 쓸 수 있습니다. Agent Skills와 MCP 서버 설정을 하나의 폴더에 담는 구조입니다.
 
-앞으로 넷플릭스 파이까지 AI 시장이 파고들 가능성이 높습니다.</description><pubDate>Fri, 07 Aug 2026 02:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbuKnApggTL</guid></item><item><title>주소 :
-https://higgsfield.ai/@higgsfield.studio/projects/hell-grind</title><link>https://www.threads.net/@choi.openai/post/DbuKpYeAhGB</link><description>주소 :
-https://higgsfield.ai/@higgsfield.studio/projects/hell-grind</description><pubDate>Fri, 07 Aug 2026 02:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbuKpYeAhGB</guid></item><item><title>🚨 오픈AI가 GPT-5.6 Luna를 무료 사용자에게 무제한으로 개방했습니다.
-Plus와 Pro에서는 Sol이 기본 모델로 제공됩니다.
+그런데 참여사 목록에 앤트로픽이 없습니다. Claude Code가 빠진 겁니다. MCP는 앤트로픽이 만든 표준이고, Agent Plugins는 그 MCP를 자체 포맷 안에 품었습니다. 앤트로픽이 만든 도구를 오픈AI 진영의 표준이 감싼 셈입니다.
 
-일주...</title><link>https://www.threads.net/@choi.openai/post/Dbt8-vaAgqu</link><description>🚨 오픈AI가 GPT-5.6 Luna를 무료 사용자에게 무제한으로 개방했습니다.
-Plus와 Pro에서는 Sol이 기본 모델로 제공됩니다.
+에이전트 플러그인 생태계의 주도권을 두고 오픈AI 연합과 앤트로픽이 갈린 구도입니다. 예전에 Codex를 "에이전트를 위한 커맨드 센터"라고 썼던 흐름이 플러그인 표준화로 구체화되고 있습니다.</description><pubDate>Fri, 07 Aug 2026 06:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbupgj5gSW9</guid></item><item><title>주소 :
+https://agent-plugins.org/</title><link>https://www.threads.net/@choi.openai/post/Dbuphm5AaxA</link><description>주소 :
+https://agent-plugins.org/</description><pubDate>Fri, 07 Aug 2026 06:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbuphm5AaxA</guid></item><item><title>Kimi K3가 사이버보안 평가 중 샌드박스를 탈출했습니다.
 
-일주일 전 API 가격을 80% 내린 Luna가 이제 프리 티어에서도 제한 없이 돌아갑니다. 딥시크가 가격을 올리고 앤트로픽이 무료 메시지 한도를 줄이는 사이, 오픈AI는 정반대 방향을 택했습니다.
+보안 과제를 수행하던 중 샌드박스의 네트워크 경로를 스스로 찾아 인터넷에 연결했고...</title><link>https://www.threads.net/@choi.openai/post/DbufTUfjjTS</link><description>Kimi K3가 사이버보안 평가 중 샌드박스를 탈출했습니다.
 
-Sol은 즉시 응답과 추론 모드를 하나로 통합했고, 금융·의료·법률 분야의 사실 오류도 68% 줄었다고 합니다.
+보안 과제를 수행하던 중 샌드박스의 네트워크 경로를 스스로 찾아 인터넷에 연결했고, 별도의 공격을 시도하는 대신 GitHub에서 필요한 정보를 가져와 과제를 해결했습니다. 목표를 가장 빠르게 달성하는 방법을 선택한 것입니다.
 
-Luna 추론형은 1년 전 최상위 모델이었던 GPT-5 High와 비슷한 수준이고, Luna 기본형은 2년 전 GPT-4o에 해당합니다. 불과 2년 전 최고 수준이던 성능을 이제 무료로 제한 없이 쓸 수 있게 된 셈입니다.
+이번 사례가 주목받는 이유는 Kimi K3가 이미 공개된 오픈웨이트 모델이라는 점입니다. 프런티어 시큐리티가 사용한 평가 환경도 일반 사용자가 접하는 것과 크게 다르지 않았습니다.
 
-다만 이 혜택이 Codex에는 적용되지 않는다는 점은 아쉽습니다.</description><pubDate>Fri, 07 Aug 2026 00:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbt8-vaAgqu</guid></item><item><title>AI의 답변이 손글씨처럼 흘러나오는 데모가 올라왔습니다.
+CEO 야론 싱어는 "Kimi는 목표 달성을 최우선으로 삼으며, 이를 제어할 내부 가드레일이 충분하지 않았다"고 설명했습니다.
 
-하나는 애니메이션 SVG로 손으로 쓰는 듯한 출력을 만들었고, 다른 하나는 필기체에 ...</title><link>https://www.threads.net/@choi.openai/post/DbtrtCyjSS7</link><description>AI의 답변이 손글씨처럼 흘러나오는 데모가 올라왔습니다.
+오픈AI와 앤트로픽 사례에 이어 이번에는 오픈웨이트 모델에서도 비슷한 행동이 확인됐습니다. 특정 모델만의 문제가 아니라, 목표 달성을 최우선으로 학습된 에이전트가 제약을 어떻게 해석하는지에 대한 공통된 과제로 보입니다.</description><pubDate>Fri, 07 Aug 2026 05:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbufTUfjjTS</guid></item><item><title>기사 :
+https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/</title><link>https://www.threads.net/@choi.openai/post/DbufUesjnU5</link><description>기사 :
+https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/</description><pubDate>Fri, 07 Aug 2026 05:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbufUesjnU5</guid></item><item><title>좋은 스킬을 찾고 계신가요?
 
-하나는 애니메이션 SVG로 손으로 쓰는 듯한 출력을 만들었고, 다른 하나는 필기체에 밑줄과 낙서, 손그림 차트까지 섞었습니다. 둘 다 스트리밍 출력과 결합해 누군가 옆에서 실시간으로 적어주는 느낌을 냅니다.
+Cola Skill은 다양한 AI 스킬을 한곳에서 찾아볼 수 있는 사이트인데요.
 
-기술 자는은 단순합니다. SVG 패스를 애니메이션으로 그리고, 필기체 폰트를 입히고, 스트리밍 속도를 조절하는 정도입니다. 하지만 이게 왜 반응이 좋은지는 따로 생각해볼 필요가 있습니다.
+프레젠테이션 제작, 마케팅, 디...</title><link>https://www.threads.net/@choi.openai/post/DbuVAD5iWu-</link><description>좋은 스킬을 찾고 계신가요?
 
-AI 출력이 너무 정갈하면 오히려 신뢰가 떨어집니다. 실수 없이 깔끔한 답변은 사람이 쓴 게 아니라 기계가 찍어낸 것처럼 보이기 때문입니다.
+Cola Skill은 다양한 AI 스킬을 한곳에서 찾아볼 수 있는 사이트인데요.
 
-중간에 망설이고, 고치고, 덧붙이는 흔적이 있어야 진짜 고민한 답변처럼 읽힙니다.
+프레젠테이션 제작, 마케팅, 디자인, 개발, 리서치, 전자상거래, 생산성 향상 등 분야별 스킬이 정리되어 있어 필요한 작업에 맞게 선택할 수 있습니다.
 
-결국 이런 작은 디자인 선택이 AI와 사람 사이의 마지막 간격을 메우는 방식입니다. 더 똑똑한 답변이 아니라, 더 사람 냄새 나는 출력이 필요한 순간이 오고 있습니다.</description><pubDate>Thu, 06 Aug 2026 21:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbtrtCyjSS7</guid></item><item><title>AI 석학 요슈아 벤지오(Yoshua Bengio)는 “소수의 결정권자가 AI의 미래, 나아가 인류의 미래를 결정하고 있다”고 경고했습니다.
-
-...</title><link>https://www.threads.net/@choi.openai/post/DbthbIpgZiW</link><description>AI 석학 요슈아 벤지오(Yoshua Bengio)는 “소수의 결정권자가 AI의 미래, 나아가 인류의 미래를 결정하고 있다”고 경고했습니다.
-
-현재 AI 거버넌스와 주도권이 세계적으로 극소수 기업 및 국가에 집중되는 현상은 건강하지 않다고 지적했습니다.
-
-급속도로 발전하는 AI 시스템이 인류에게 유익한 방향으로 개발되고 배포되려면, 소수의 거대 기업에 독점되는 구조에서 벗어나야 합니다.
-
-그는 글로벌 차원의 다자간 거버넌스 체계를 통해, 어떤 AI 시스템을 만들고 적용할지에 대한 의사결정에 사회 전반의 목소리가 반영되어야 한다고 강조했습니다.</description><pubDate>Thu, 06 Aug 2026 20:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbthbIpgZiW</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=O7_OaijiZeE</title><link>https://www.threads.net/@choi.openai/post/DbthcQLgRRH</link><description>풀영상 :
-https://www.youtube.com/watch?v=O7_OaijiZeE</description><pubDate>Thu, 06 Aug 2026 20:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbthcQLgRRH</guid></item></channel></rss>
+인기 크리에이터들이 만든 스킬도 함께 제공되며, 원하는 작업을 더 빠르게 진행하고 싶은 분들에게 참고할 만한 사이트입니다.</description><pubDate>Fri, 07 Aug 2026 03:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbuVAD5iWu-</guid></item><item><title>주소 :
+https://colaskill.com/</title><link>https://www.threads.net/@choi.openai/post/DbuVA_ACZY8</link><description>주소 :
+https://colaskill.com/</description><pubDate>Fri, 07 Aug 2026 03:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbuVA_ACZY8</guid></item></channel></rss>
