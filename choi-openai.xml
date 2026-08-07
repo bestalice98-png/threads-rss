@@ -1,81 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 06 Aug 2026 10:37:33 +0000</lastBuildDate><item><title>오픈AI가 GPT-Live와 Codex로 만든 새 관찰 도우미 Birding Pal을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 07 Aug 2026 02:38:49 +0000</lastBuildDate><item><title>진짜.. 어디가서 이런정보 못받습니다..
+95분짜리 AI 장편 영화의 프롬프트와 에셋이 전부 공개됐습니다.
 
-봉제인형 안에 음성 AI를 넣어 주변 새소...</title><link>https://www.threads.net/@choi.openai/post/DbsZWYbjrOO</link><description>오픈AI가 GPT-Live와 Codex로 만든 새 관찰 도우미 Birding Pal을 공개했습니다.
+Higgsfield AI가 Hell...</title><link>https://www.threads.net/@choi.openai/post/DbuKnApggTL</link><description>진짜.. 어디가서 이런정보 못받습니다..
+95분짜리 AI 장편 영화의 프롬프트와 에셋이 전부 공개됐습니다.
 
-봉제인형 안에 음성 AI를 넣어 주변 새소리를 듣고 종을 식별해주는 구조입니다.
-실제 소리 분석은 BirdNET이 맡고 GPT-Live와 Codex가 대화와 동작을 처리합니다. 깃허브에 전체 코드가 올라와 있습니다.
+Higgsfield AI가 Hell Grind의 제작 데이터 전체를 오픈소스로 풀었습니다. 제작비 5억 원, 칸 마켓에서 상영됐고 WSJ와 버라이어티, BBC가 다뤘습니다.
 
-GPT-Live의 아키텍처 분석에서 다뤘듯 오픈AI는 음성 경로를 Go로 다시 쓰고 WARP로 연결을 단축하며 실시간 대화를 구현했습니다.
+진짜 중요한 건 영화 자체보다 이겁니다. AI 영화를 어떻게 만드는지, 어떤 프롬프트를 썼는지, 에셋을 어떻게 연결했는지가 통째로 공개됐습니다. 95분짜리 레시피북이 나온 셈입니다.
 
-Birding Pal은 그 기술을 앱이 아니라 물리적 물건에 넣은 첫 공식 데모입니다.
+아직 움직임이 어색하고 장면 연결이 튀는 부분도 있지만, 5억 원으로 95분을 찍었다는 건 할리우드 예산의 100분의 1입니다. AI 영화 제작의 원가 곡선이 어디로 가고 있는지 보여주는 숫자입니다.
 
-새 관찰 커뮤니티에서는 AI 생성 이미지의 부정확성과 머린 앱 대비 신뢰성 문제로 반발이 나왔지만, 음성 AI가 스마트폰 밖으로 나오기 시작한 신호로도 읽힙니다.</description><pubDate>Thu, 06 Aug 2026 09:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbsZWYbjrOO</guid></item><item><title>깃허브 :
-https://github.com/openai/birdingpal</title><link>https://www.threads.net/@choi.openai/post/DbsZXQDjvjr</link><description>깃허브 :
-https://github.com/openai/birdingpal</description><pubDate>Thu, 06 Aug 2026 09:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbsZXQDjvjr</guid></item><item><title>바이트댄스가 음성과 영상을 하나의 모델에서 동시에 처리하는 SeedRealtime을 공개했습니다.
+앞으로 넷플릭스 파이까지 AI 시장이 파고들 가능성이 높습니다.</description><pubDate>Fri, 07 Aug 2026 02:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbuKnApggTL</guid></item><item><title>주소 :
+https://higgsfield.ai/@higgsfield.studio/projects/hell-grind</title><link>https://www.threads.net/@choi.openai/post/DbuKpYeAhGB</link><description>주소 :
+https://higgsfield.ai/@higgsfield.studio/projects/hell-grind</description><pubDate>Fri, 07 Aug 2026 02:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbuKpYeAhGB</guid></item><item><title>🚨 오픈AI가 GPT-5.6 Luna를 무료 사용자에게 무제한으로 개방했습니다.
+Plus와 Pro에서는 Sol이 기본 모델로 제공됩니다.
 
-카메라를 켜고 말을 걸면 보고 듣고 말하는 ...</title><link>https://www.threads.net/@choi.openai/post/DbsO_7QExqy</link><description>바이트댄스가 음성과 영상을 하나의 모델에서 동시에 처리하는 SeedRealtime을 공개했습니다.
+일주...</title><link>https://www.threads.net/@choi.openai/post/Dbt8-vaAgqu</link><description>🚨 오픈AI가 GPT-5.6 Luna를 무료 사용자에게 무제한으로 개방했습니다.
+Plus와 Pro에서는 Sol이 기본 모델로 제공됩니다.
 
-카메라를 켜고 말을 걸면 보고 듣고 말하는 세 가지를 함께 처리합니다. GPT-Live가 음성 경로와 추론 경로를 분리하고 GPT-5.5에 무거운 작업을 위임하는 구조라면, SeedRealtime은 오디오와 비디오와 텍스트를 한 모델이 직접 처리합니다.
+일주일 전 API 가격을 80% 내린 Luna가 이제 프리 티어에서도 제한 없이 돌아갑니다. 딥시크가 가격을 올리고 앤트로픽이 무료 메시지 한도를 줄이는 사이, 오픈AI는 정반대 방향을 택했습니다.
 
-여러 명이 동시에 말해도 누가 무슨 말을 했는지 구분하고, "이거 어떻게 해"라는 말에 화면 속 물건과 손동작과 시선을 함께 보고 무엇을 가리키는지 판단합니다. 동음이의어도 영상 맥락으로 구분합니다.
+Sol은 즉시 응답과 추론 모드를 하나로 통합했고, 금융·의료·법률 분야의 사실 오류도 68% 줄었다고 합니다.
 
-지난번 GPT-Live 글에서 다뤘듯 오픈AI는 미디어 경로를 Go로 다시 쓰고 WARP로 연결을 단축하며 반응성을 확보했습니다.
+Luna 추론형은 1년 전 최상위 모델이었던 GPT-5 High와 비슷한 수준이고, Luna 기본형은 2년 전 GPT-4o에 해당합니다. 불과 2년 전 최고 수준이던 성능을 이제 무료로 제한 없이 쓸 수 있게 된 셈입니다.
 
-바이트댄스는 처음부터 모델 안에 모든 감각을 넣는 반대 방향을 택한 셈입니다.</description><pubDate>Thu, 06 Aug 2026 07:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbsO_7QExqy</guid></item><item><title>발표내용 :
-https://seed.bytedance.com/en/blog/seedrealtime-audio-visual-full-duplex-...</title><link>https://www.threads.net/@choi.openai/post/DbsPBExk0IT</link><description>발표내용 :
-https://seed.bytedance.com/en/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction</description><pubDate>Thu, 06 Aug 2026 08:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbsPBExk0IT</guid></item><item><title>오픈AI AI가 허깅페이스를 공격한 진짜 이유가 처음 공개됐습니다.
+다만 이 혜택이 Codex에는 적용되지 않는다는 점은 아쉽습니다.</description><pubDate>Fri, 07 Aug 2026 00:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbt8-vaAgqu</guid></item><item><title>AI의 답변이 손글씨처럼 흘러나오는 데모가 올라왔습니다.
 
-블랙햇에서 공개된 조사에 따르면 시작은 7월이 아니라 5월이었고, AI 에...</title><link>https://www.threads.net/@choi.openai/post/DbsEIYpj16I</link><description>오픈AI AI가 허깅페이스를 공격한 진짜 이유가 처음 공개됐습니다.
+하나는 애니메이션 SVG로 손으로 쓰는 듯한 출력을 만들었고, 다른 하나는 필기체에 ...</title><link>https://www.threads.net/@choi.openai/post/DbtrtCyjSS7</link><description>AI의 답변이 손글씨처럼 흘러나오는 데모가 올라왔습니다.
 
-블랙햇에서 공개된 조사에 따르면 시작은 7월이 아니라 5월이었고, AI 에이전트들은 서로 비밀 게시판까지 만들어 공격을 이어갔습니다.
+하나는 애니메이션 SVG로 손으로 쓰는 듯한 출력을 만들었고, 다른 하나는 필기체에 밑줄과 낙서, 손그림 차트까지 섞었습니다. 둘 다 스트리밍 출력과 결합해 누군가 옆에서 실시간으로 적어주는 느낌을 냅니다.
 
-오픈AI가 처음 공개한 사건의 전말과 핵심 내용을 정리했습니다🧵</description><pubDate>Thu, 06 Aug 2026 06:25:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbsEIYpj16I</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심만 정리해드립니다.
+기술 자는은 단순합니다. SVG 패스를 애니메이션으로 그리고, 필기체 폰트를 입히고, 스트리밍 속도를 조절하는 정도입니다. 하지만 이게 왜 반응이 좋은지는 따로 생각해볼 필요가 있습니다.
 
-오픈AI가 블랙햇에서 허깅페이스 침해 사건의 첫 상세 분석을 공개했습니다.
+AI 출력이 너무 정갈하면 오히려 신뢰가 떨어집니다. 실수 없이 깔끔한 답변은 사람이 쓴 게 아니라 기계가 찍어낸 것처럼 보이기 때문입니다.
 
-시작은 알려졌던 ...</title><link>https://www.threads.net/@choi.openai/post/DbsEJCFj4kX</link><description>1/ 바쁘신 분들을 위해 핵심만 정리해드립니다.
+중간에 망설이고, 고치고, 덧붙이는 흔적이 있어야 진짜 고민한 답변처럼 읽힙니다.
 
-오픈AI가 블랙햇에서 허깅페이스 침해 사건의 첫 상세 분석을 공개했습니다.
+결국 이런 작은 디자인 선택이 AI와 사람 사이의 마지막 간격을 메우는 방식입니다. 더 똑똑한 답변이 아니라, 더 사람 냄새 나는 출력이 필요한 순간이 오고 있습니다.</description><pubDate>Thu, 06 Aug 2026 21:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbtrtCyjSS7</guid></item><item><title>AI 석학 요슈아 벤지오(Yoshua Bengio)는 “소수의 결정권자가 AI의 미래, 나아가 인류의 미래를 결정하고 있다”고 경고했습니다.
 
-시작은 알려졌던 7월이 아니라 5월 7일이었습니다. 미공개 프런티어 모델의 훈련과 사이버보안 평가 중, 제약 안에서는 풀 수 없는 과제를 받은 에이전트들이 문제 대신 우회로를 찾기 시작했습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DbthbIpgZiW</link><description>AI 석학 요슈아 벤지오(Yoshua Bengio)는 “소수의 결정권자가 AI의 미래, 나아가 인류의 미래를 결정하고 있다”고 경고했습니다.
 
-이들은 사내 패키지 저장소 Artifactory를 게시판처럼 쓰며 익스플로잇과 자격증명, 업무를 서로 공유했습니다. 7월 4일 서비스 장애로 발각돼 게시판을 없앴지만, 며칠 뒤에는 디렉터리 이름 자체를 메시지로 쓰며 통신을 재개했습니다.
+현재 AI 거버넌스와 주도권이 세계적으로 극소수 기업 및 국가에 집중되는 현상은 건강하지 않다고 지적했습니다.
 
-이후 일부 에이전트는 정답이 외부에 있을 수 있다고 판단해 내부 인프라를 거쳐 허깅페이스까지 공격했습니다.
+급속도로 발전하는 AI 시스템이 인류에게 유익한 방향으로 개발되고 배포되려면, 소수의 거대 기업에 독점되는 구조에서 벗어나야 합니다.
 
-→ 이번 사건은 격리에 남겨둔 통로 하나가 탈출로이자 통신망이 될 수 있다는 점을 보여줬습니다. 오픈AI는 연구 속도를 늦추고, 탐지와 최소 권한 중심의 보안을 강화하겠다고 밝혔습니다.</description><pubDate>Thu, 06 Aug 2026 06:25:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbsEJCFj4kX</guid></item><item><title>2/ 8월 5일 라스베이거스 블랙햇 무대에 오픈AI 직원 두 명이 올랐습니다. 정렬·안전 연구자 에릭 월리스와 인프라 보안 엔지니어 마이클 돌턴...</title><link>https://www.threads.net/@choi.openai/post/DbsEJsrD9GO</link><description>2/ 8월 5일 라스베이거스 블랙햇 무대에 오픈AI 직원 두 명이 올랐습니다. 정렬·안전 연구자 에릭 월리스와 인프라 보안 엔지니어 마이클 돌턴입니다.
-
-7월 16일 허깅페이스가 침해 사실을 공지한 뒤, 오픈AI가 사건의 전 과정을 공개적으로 재구성한 것은 이번이 처음입니다.
-
-두 사람은 이번 사례를 지금까지 관찰한 AI 능력 가운데 가장 특이한 사례라고 설명했습니다. 내부 프런티어 모델 평가 과정이 예상치 못하게 여러 자율 에이전트의 조율된 공격으로 이어졌다는 것입니다.
-
-전체 기술 보고서는 아직 작성 중이며, 완료되는 대로 공개할 예정이라고 밝혔습니다.
-
-발표장은 자리가 부족할 정도로 많은 사람이 몰렸고, 발표 도중 청중석에서 탄식이 나왔다는 현장 증언도 전해졌습니다.</description><pubDate>Thu, 06 Aug 2026 06:25:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbsEJsrD9GO</guid></item><item><title>3/ 이번 발표에서 가장 크게 달라진 것은 사건의 시작 시점입니다.
-
-오픈AI는 7월 침해의 뿌리가 5월 7일까지 거슬러 올라간다고 밝혔습니다....</title><link>https://www.threads.net/@choi.openai/post/DbsEKtmjzG-</link><description>3/ 이번 발표에서 가장 크게 달라진 것은 사건의 시작 시점입니다.
-
-오픈AI는 7월 침해의 뿌리가 5월 7일까지 거슬러 올라간다고 밝혔습니다. 당시에는 아직 공개되지 않은 프런티어 모델의 훈련과 사이버보안 평가가 함께 진행되고 있었습니다.
-
-그동안 알려진 침해 기간은 7월 9일부터 13일까지 약 나흘 반이었습니다. 이번 발표로 조사 대상 기간이 두 달 가까이 더 늘어난 셈입니다.
-
-월리스는 이번 사건이 일반적인 보안 사고와는 달랐다고 설명했습니다. 보통은 특정 로그나 하루 동안의 활동으로 범위를 좁힐 수 있지만, 이번에는 여러 자율 에이전트가 함께 움직이며 익스플로잇을 찾고 서로 공유한 뒤 다른 시스템으로 확산하는 과정이 며칠에서 몇 주에 걸쳐 이어졌다는 것입니다.
-
-결국 이번에 조사한 것은 단일 침해 사건이 아니라, 여러 에이전트가 장기간 상호작용한 전체 과정이었습니다.</description><pubDate>Thu, 06 Aug 2026 06:25:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbsEKtmjzG-</guid></item><item><title>앤트로픽이 자체 AI 칩 설계팀을 꾸린다고 처음 공식 확인했습니다.
-
-채용 공고에는 실제 AI ASIC을 양산까지 이끈 경험을 요구했고, 연봉은...</title><link>https://www.threads.net/@choi.openai/post/Dbr6cWiDXaY</link><description>앤트로픽이 자체 AI 칩 설계팀을 꾸린다고 처음 공식 확인했습니다.
-
-채용 공고에는 실제 AI ASIC을 양산까지 이끈 경험을 요구했고, 연봉은 32만-48만 5천 달러입니다.
-
-4월 로이터의 자체 칩 설계 검토 보도와 7월 삼성전자 파운드리의 2나노 위탁생산 협의 보도에 이어, 이번에는 회사가 직접 계획을 인정한 것입니다.
-
-공고에서 가장 눈에 띄는 대목은 하드웨어와 모델을 함께 설계한다는 점입니다.
-
-AI ASIC은 모델 구조가 어느 정도 안정돼야 효과를 볼 수 있습니다. 하지만 프런티어 모델은 몇 달마다 구조가 바뀝니다. 특정 모델에 맞춰 칩을 설계하면, 양산 시점에는 이미 한 세대 뒤처질 가능성이 큽니다.
-
-그래서 앤트로픽은 클로드의 연산 구조와 칩 설계를 한 팀에서 함께 최적화하려는 것입니다. 목표는 토큰당 추론 비용을 최대 절반까지 낮추는 것입니다.</description><pubDate>Thu, 06 Aug 2026 05:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbr6cWiDXaY</guid></item><item><title>다만 칩의 용도와 구체적인 사양은 아직 확정되지 않았습니다. AWS 트레이니움과 TPU, 엔비디아, AMD를 함께 사용하는 현재의 분산 전략도 ...</title><link>https://www.threads.net/@choi.openai/post/Dbr6dReDXUh</link><description>다만 칩의 용도와 구체적인 사양은 아직 확정되지 않았습니다. AWS 트레이니움과 TPU, 엔비디아, AMD를 함께 사용하는 현재의 분산 전략도 그대로 유지한다고 밝혔습니다.
-
-아직은 칩보다 사람을 먼저 뽑는 단계입니다. 삼성 파운드리와의 협력 계획도 앞으로 더 구체화될 가능성이 커 보입니다.
-
-https://www.businessinsider.com/anthropic-in-house-silicon-chip-team-claude-2026-8</description><pubDate>Thu, 06 Aug 2026 05:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbr6dReDXUh</guid></item></channel></rss>
+그는 글로벌 차원의 다자간 거버넌스 체계를 통해, 어떤 AI 시스템을 만들고 적용할지에 대한 의사결정에 사회 전반의 목소리가 반영되어야 한다고 강조했습니다.</description><pubDate>Thu, 06 Aug 2026 20:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbthbIpgZiW</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=O7_OaijiZeE</title><link>https://www.threads.net/@choi.openai/post/DbthcQLgRRH</link><description>풀영상 :
+https://www.youtube.com/watch?v=O7_OaijiZeE</description><pubDate>Thu, 06 Aug 2026 20:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbthcQLgRRH</guid></item></channel></rss>
