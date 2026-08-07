@@ -1,42 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 07 Aug 2026 08:58:16 +0000</lastBuildDate><item><title>바이트댄스가 최대 10조 파라미터 모델의 사전학습 단계에 들어갔다고 파이낸셜타임스가 보도했습니다. 미토스급 규모입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 07 Aug 2026 15:41:57 +0000</lastBuildDate><item><title>Cloudflare가 WebMCP 개발자 프리뷰를 공개했습니다. 대시보드에서 기능을 켜기만 하면 기존 웹사이트를 AI 에이전트가 사용할 수 있는...</title><link>https://www.threads.net/@choi.openai/post/DbvnT66E7V6</link><description>Cloudflare가 WebMCP 개발자 프리뷰를 공개했습니다. 대시보드에서 기능을 켜기만 하면 기존 웹사이트를 AI 에이전트가 사용할 수 있는 도구로 바꿀 수 있습니다.
 
-10조는 MoE 구조에...</title><link>https://www.threads.net/@choi.openai/post/Dbuz3vHgP9L</link><description>바이트댄스가 최대 10조 파라미터 모델의 사전학습 단계에 들어갔다고 파이낸셜타임스가 보도했습니다. 미토스급 규모입니다.
+Chrome 146에 실험적으로 들어간 `document.modelContext` API를 기반으로 합니다. 사이트가 에이전트용 도구 설명을 노출하면, 에이전트는 DOM을 직접 읽고 조작하는 대신 구조화된 함수처럼 기능을 호출합니다. 별도 API를 새로 만들거나 원본 코드를 크게 고칠 필요 없이 Cloudflare 엣지에서 변환할 수 있습니다.
 
-10조는 MoE 구조에서 총 파라미터 수일 가능성이 크고, 실제 토큰당 활성화되는 양은 수천억 수준으로 추정됩니다. 숫자 자체보다 이 규모의 학습을 감당할 수 있다는 사실이 신호입니다. 중국 기업이 수출통제 속에서도 확보한 컴퓨트 자원을 보여주는 셈입니다.
+사람은 승인 권한을 유지하고, 사이트 운영자는 기존 트래픽과 사용자 관계를 그대로 가져갑니다. 구글과 마이크로소프트가 추진하는 브라우저 표준을 Cloudflare가 자사 인프라에서 바로 적용할 수 있게 만든 셈입니다.
 
-바이트댄스는 SeedRealtime에 이어 이번 주에만 두 번째 굵직한 AI 소식을 냈습니다. 같은 날 TSMC가 DRAM 부족으로 애플 프로세서 10억 달러어치를 출하하지 못하고 있다는 보도도 나왔습니다. 모델이 커질수록 메모리 수요가 같이 올라가고, 공급망은 이미 따라가지 못하고 있습니다.</description><pubDate>Fri, 07 Aug 2026 08:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbuz3vHgP9L</guid></item><item><title>기사 :
-https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a...</title><link>https://www.threads.net/@choi.openai/post/Dbuz45mAFDo</link><description>기사 :
-https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a6=1</description><pubDate>Fri, 07 Aug 2026 08:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbuz45mAFDo</guid></item><item><title>와우.. 오픈AI가 AWS, Cursor, GitHub, VS Code, Vercel과 함께 Agent Plugins 오픈 표준을 발표했습니다....</title><link>https://www.threads.net/@choi.openai/post/Dbupgj5gSW9</link><description>와우.. 오픈AI가 AWS, Cursor, GitHub, VS Code, Vercel과 함께 Agent Plugins 오픈 표준을 발표했습니다.
+검색엔진을 위한 SEO를 넘어, AI가 읽고 선택하고 직접 행동하는 웹을 위한 최적화가 실제 인프라 단계로 들어오고 있습니다.</description><pubDate>Fri, 07 Aug 2026 15:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvnT66E7V6</guid></item><item><title>발표내용 :
+https://blog.cloudflare.com/webmcp/</title><link>https://www.threads.net/@choi.openai/post/DbvnVCcE0bX</link><description>발표내용 :
+https://blog.cloudflare.com/webmcp/</description><pubDate>Fri, 07 Aug 2026 15:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvnVCcE0bX</guid></item><item><title>텐센트가 에이전트용 공유 메모리인 Team Memory 2.0을 오픈소스로 공개했습니다.
 
-플러그인을 한 번만 만들면 Codex, ChatGPT, Cursor, GitHub Copilot, VS Code, Kiro에서 그대로 쓸 수 있습니다. Agent Skills와 MCP 서버 설정을 하나의 폴더에 담는 구조입니다.
+대화와 문서, 코드를 Chat Memory, Skil...</title><link>https://www.threads.net/@choi.openai/post/DbvdE7RjDdQ</link><description>텐센트가 에이전트용 공유 메모리인 Team Memory 2.0을 오픈소스로 공개했습니다.
 
-그런데 참여사 목록에 앤트로픽이 없습니다. Claude Code가 빠진 겁니다. MCP는 앤트로픽이 만든 표준이고, Agent Plugins는 그 MCP를 자체 포맷 안에 품었습니다. 앤트로픽이 만든 도구를 오픈AI 진영의 표준이 감싼 셈입니다.
+대화와 문서, 코드를 Chat Memory, Skill, LLM-Wiki, Code-Graph 네 가지 자산으로 정리해 여러 에이전트가 함께 읽고 쓸 수 있게 합니다.
 
-에이전트 플러그인 생태계의 주도권을 두고 오픈AI 연합과 앤트로픽이 갈린 구도입니다. 예전에 Codex를 "에이전트를 위한 커맨드 센터"라고 썼던 흐름이 플러그인 표준화로 구체화되고 있습니다.</description><pubDate>Fri, 07 Aug 2026 06:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbupgj5gSW9</guid></item><item><title>주소 :
-https://agent-plugins.org/</title><link>https://www.threads.net/@choi.openai/post/Dbuphm5AaxA</link><description>주소 :
-https://agent-plugins.org/</description><pubDate>Fri, 07 Aug 2026 06:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbuphm5AaxA</guid></item><item><title>Kimi K3가 사이버보안 평가 중 샌드박스를 탈출했습니다.
+1인 기업의 개인 메모리부터 팀 단위 공유 허브까지 지원하며, 오래된 컨텍스트를 압축해 토큰 사용량을 61% 줄였다고 합니다. OpenClaw, Hermes, Claude Code, CodeBuddy와도 연동됩니다.
 
-보안 과제를 수행하던 중 샌드박스의 네트워크 경로를 스스로 찾아 인터넷에 연결했고...</title><link>https://www.threads.net/@choi.openai/post/DbufTUfjjTS</link><description>Kimi K3가 사이버보안 평가 중 샌드박스를 탈출했습니다.
+에이전트가 혼자 일하는 단계를 넘어 여러 에이전트가 역할과 기억을 공유하며 일하기 위한 인프라가 빠르게 갖춰지고 있습니다.</description><pubDate>Fri, 07 Aug 2026 14:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvdE7RjDdQ</guid></item><item><title>깃허브 :
+https://github.com/TencentCloud/TencentDB-Agent-Memory</title><link>https://www.threads.net/@choi.openai/post/DbvdFvBjL5U</link><description>깃허브 :
+https://github.com/TencentCloud/TencentDB-Agent-Memory</description><pubDate>Fri, 07 Aug 2026 14:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvdFvBjL5U</guid></item><item><title>이제 좀 앤트로픽 거부율이 줄어들까요?
 
-보안 과제를 수행하던 중 샌드박스의 네트워크 경로를 스스로 찾아 인터넷에 연결했고, 별도의 공격을 시도하는 대신 GitHub에서 필요한 정보를 가져와 과제를 해결했습니다. 목표를 가장 빠르게 달성하는 방법을 선택한 것입니다.
+앤트로픽이 Claude Fable 5의 생물학 안전장치를 완화했다고 밝혔습니다.
+오탐으로 인한 답변 거...</title><link>https://www.threads.net/@choi.openai/post/DbvSxF2ApKV</link><description>이제 좀 앤트로픽 거부율이 줄어들까요?
 
-이번 사례가 주목받는 이유는 Kimi K3가 이미 공개된 오픈웨이트 모델이라는 점입니다. 프런티어 시큐리티가 사용한 평가 환경도 일반 사용자가 접하는 것과 크게 다르지 않았습니다.
+앤트로픽이 Claude Fable 5의 생물학 안전장치를 완화했다고 밝혔습니다.
+오탐으로 인한 답변 거부가 85% 줄어들었다고 하는데요.
 
-CEO 야론 싱어는 "Kimi는 목표 달성을 최우선으로 삼으며, 이를 제어할 내부 가드레일이 충분하지 않았다"고 설명했습니다.
+일상적인 건강·교육 질문에는 더 자유롭게 답할 수 있게 됐지만, 바이러스학과 독성학, 분자 설계처럼 위험도가 높은 전문 영역은 여전히 Opus 5로 넘깁니다. 전문 연구용 모델은 아니어서 신약 개발 같은 고난도 작업에는 제한이 남아 있습니다.
 
-오픈AI와 앤트로픽 사례에 이어 이번에는 오픈웨이트 모델에서도 비슷한 행동이 확인됐습니다. 특정 모델만의 문제가 아니라, 목표 달성을 최우선으로 학습된 에이전트가 제약을 어떻게 해석하는지에 대한 공통된 과제로 보입니다.</description><pubDate>Fri, 07 Aug 2026 05:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbufTUfjjTS</guid></item><item><title>기사 :
-https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/</title><link>https://www.threads.net/@choi.openai/post/DbufUesjnU5</link><description>기사 :
-https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/</description><pubDate>Fri, 07 Aug 2026 05:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbufUesjnU5</guid></item><item><title>좋은 스킬을 찾고 계신가요?
+그런데 이번 주 AI 안전 논의를 보면 묘한 대비가 생깁니다.
 
-Cola Skill은 다양한 AI 스킬을 한곳에서 찾아볼 수 있는 사이트인데요.
+한쪽에서는 에이전트가 실제 시스템까지 넘어가는 문제가 벌어지고 있는데, 다른 한쪽에서는 일상적인 생물학 질문을 과도하게 막던 안전장치를 85%나 걷어내고 있습니다. 지금 AI 안전의 어려움이 어디에 있는지를 보여주는 장면입니다.</description><pubDate>Fri, 07 Aug 2026 12:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvSxF2ApKV</guid></item><item><title>발표내용 :
+https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</title><link>https://www.threads.net/@choi.openai/post/DbvS0EnAoxw</link><description>발표내용 :
+https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</description><pubDate>Fri, 07 Aug 2026 12:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvS0EnAoxw</guid></item><item><title>Cloudflare가 Workers 위에서 작동하는 에이전트 전용 브라우저 Kitesurf를 공개했습니다.
 
-프레젠테이션 제작, 마케팅, 디...</title><link>https://www.threads.net/@choi.openai/post/DbuVAD5iWu-</link><description>좋은 스킬을 찾고 계신가요?
+에이전트마다 Chromium 인스턴...</title><link>https://www.threads.net/@choi.openai/post/DbvIauHk7zv</link><description>Cloudflare가 Workers 위에서 작동하는 에이전트 전용 브라우저 Kitesurf를 공개했습니다.
 
-Cola Skill은 다양한 AI 스킬을 한곳에서 찾아볼 수 있는 사이트인데요.
+에이전트마다 Chromium 인스턴스를 하나씩 띄우는 방식은 무겁고 비용도 큽니다. Kitesurf는 CPU와 메모리 사용량을 3-7배 줄이고, 요청이 들어올 때만 실행되는 구조입니다.
 
-프레젠테이션 제작, 마케팅, 디자인, 개발, 리서치, 전자상거래, 생산성 향상 등 분야별 스킬이 정리되어 있어 필요한 작업에 맞게 선택할 수 있습니다.
+MCP로 바로 연결돼 Codex나 Claude Code 같은 에이전트 클라이언트에서도 사용할 수 있습니다. 베타 기간에는 무료이며, 사용자당 하루 10분까지 제공됩니다.
 
-인기 크리에이터들이 만든 스킬도 함께 제공되며, 원하는 작업을 더 빠르게 진행하고 싶은 분들에게 참고할 만한 사이트입니다.</description><pubDate>Fri, 07 Aug 2026 03:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbuVAD5iWu-</guid></item><item><title>주소 :
-https://colaskill.com/</title><link>https://www.threads.net/@choi.openai/post/DbuVA_ACZY8</link><description>주소 :
-https://colaskill.com/</description><pubDate>Fri, 07 Aug 2026 03:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbuVA_ACZY8</guid></item></channel></rss>
+V8 아이솔레이트에서 직접 실행되기 때문에 Chromium 의존성이 없고, 스크린샷과 HTML 캡처도 기본 지원합니다. 기존 브라우저 자동화가 탐지와 리소스 비용에 부딪혔다면, Kitesurf는 이를 Cloudflare 인프라 안에서 다시 설계한 셈입니다.
+
+사람이 쓰는 브라우저를 에이전트에게 빌려주는 대신, 처음부터 에이전트가 쓰도록 만든 브라우저가 나온 것입니다.</description><pubDate>Fri, 07 Aug 2026 11:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvIauHk7zv</guid></item><item><title>내용 :
+https://blog.cloudflare.com/kitesurf/</title><link>https://www.threads.net/@choi.openai/post/DbvIb-akySE</link><description>내용 :
+https://blog.cloudflare.com/kitesurf/</description><pubDate>Fri, 07 Aug 2026 11:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvIb-akySE</guid></item></channel></rss>
