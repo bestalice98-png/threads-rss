@@ -1,102 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 08 Aug 2026 01:37:05 +0000</lastBuildDate><item><title>한국이 25위를 차지했습니다. 생각보다 한국이 많이 뒤쳐진 결과인데요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 08 Aug 2026 08:39:47 +0000</lastBuildDate><item><title>🚨 SpaceXAI가 Imagine Image 2.0을 공개했습니다.
 
-오픈AI가 국가별 챗GPT 사용 데이터를 처음 공개했습니다.
-놀랍게도 ...</title><link>https://www.threads.net/@choi.openai/post/DbwsBfQj1lB</link><description>한국이 25위를 차지했습니다. 생각보다 한국이 많이 뒤쳐진 결과인데요.
+이제는 그림을 잘 만드는 경쟁보다, 만든 결과물을 얼마나 정확하게 고쳐 ...</title><link>https://www.threads.net/@choi.openai/post/DbxNlhojShb</link><description>🚨 SpaceXAI가 Imagine Image 2.0을 공개했습니다.
 
-오픈AI가 국가별 챗GPT 사용 데이터를 처음 공개했습니다.
-놀랍게도 인구당 챗GPT 사용 1위는 싱가포르였으며, 2위 몰타, 3위 네덜란드고 미국은 그 아래입니다.
+이제는 그림을 잘 만드는 경쟁보다, 만든 결과물을 얼마나 정확하게 고쳐 쓰는지가 더 중요해지고 있습니다.
 
-한국은 인구당 사용 25위, 35세 이상 사용 비중은 세계 4위였습니다. 하지만 업무에서 AI에게 일을 맡기는 비중은 세계 평균보다 낮았습니다.
+영역 편집, 글자 렌더링, 인포그래픽, 게임 에셋까지 실제 활용 사례들이 쏟아지고 있는데요.
 
-데이터를 직접 분석해 꼭 봐야 할 인사이트 16가지를 정리했습니다🧵</description><pubDate>Sat, 08 Aug 2026 01:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwsBfQj1lB</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+발표 핵심 내용을 정리했습니다🧵</description><pubDate>Sat, 08 Aug 2026 07:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxNlhojShb</guid></item><item><title>1/ SpaceXAI가 8월 7일 Imagine Image 2.0을 공개했습니다.
 
-1. 오픈AI가 8월 6일 국가별 챗GPT 사용 데이터를 처음 공개하고, CSV 25개를...</title><link>https://www.threads.net/@choi.openai/post/DbwsB4eDyl0</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+grok.com/imagine과 iOS·안드로이드 앱에서 Q...</title><link>https://www.threads.net/@choi.openai/post/DbxVNvdDy7B</link><description>1/ SpaceXAI가 8월 7일 Imagine Image 2.0을 공개했습니다.
 
-1. 오픈AI가 8월 6일 국가별 챗GPT 사용 데이터를 처음 공개하고, CSV 25개를 CC BY 4.0으로 함께 배포함.
+grok.com/imagine과 iOS·안드로이드 앱에서 Quality Mode로 바로 쓸 수 있고, 기존 Quality 모델을 대체합니다. API는 아직 열리지 않았습니다.
 
-2. 발표문은 "묻기에서 시키기로"를 내세웠지만, 근거는 업무(45.4%)와 비업무(22.0%)의 같은 시점 비교였음.
+이번 업데이트는 새 이미지를 뽑는 것보다 만든 뒤 고치는 쪽에 초점이 맞춰졌습니다. 영역을 지정해 수정할 수 있고, 작은 글씨와 복잡한 화면 구성이 개선됐으며 자주 쓰는 작업은 템플릿으로 묶었습니다.
 
-3. 원본 시계열을 보면 업무 중 '시키기'는 2024년 8월 53.3%에서 45.4%까지 꾸준히 내려와 최저치를 기록했음.
+xAI가 강조한 것도 지시 준수, 서체와 배치, 편집 과정에서 원본 요소를 유지하는 능력입니다.</description><pubDate>Sat, 08 Aug 2026 07:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxVNvdDy7B</guid></item><item><title>2/ Arena 이미지 생성과 이미지 편집에서 모두 2위를 기록했습니다.
 
-4. 대신 가장 크게 늘어난 것은 '표현하기'였음. 업무에서는 9.6%에서 22.3%로 두 배 이상 증가했고, 시키기와 합치면 오히려 결과물 중심 대화 비중은 늘어났음.
+이미지 생성은 1320점으로 직전 모델보다 92점 올랐습니다. 1위 ...</title><link>https://www.threads.net/@choi.openai/post/DbxVO1Mj3-Q</link><description>2/ Arena 이미지 생성과 이미지 편집에서 모두 2위를 기록했습니다.
 
-5. 기술 지원 비중은 13.5%에서 4.2%로 감소했지만, Codex 데이터가 통계에서 제외돼 있어 코딩 수요 감소로 해석하기는 어려움.
+이미지 생성은 1320점으로 직전 모델보다 92점 올랐습니다. 1위 GPT-Image-2 Medium과는 60점 차입니다.
 
-6. 한국은 인구당 사용 25위, 35세 이상 메시지 비중은 세계 4위(47.2%), 멀티미디어 사용 비중은 125개국 중 120위였음.</description><pubDate>Sat, 08 Aug 2026 01:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwsB4eDyl0</guid></item><item><title>2/ 오픈AI가 8월 6일 국가별 ChatGPT 사용 데이터를 처음 공개했습니다.
-그동안 전 세계 합계만 제공했는데, 이번에는 144개국의 인구...</title><link>https://www.threads.net/@choi.openai/post/DbwsC-GD-EO</link><description>2/ 오픈AI가 8월 6일 국가별 ChatGPT 사용 데이터를 처음 공개했습니다.
-그동안 전 세계 합계만 제공했는데, 이번에는 144개국의 인구당 사용 순위와 국가별 이용 목적까지 한꺼번에 열었는데요.
+이미지 편집은 1439점으로 직전 모델보다 49점 올랐고, 1위 GPT-Image-2와의 격차는 24점까지 좁혔습니다.
 
-데이터는 경제연구팀이 운영하는 Signals에 공개됐습니다. CSV 25개와 방법론 문서가 함께 올라왔고, 라이선스는 CC BY 4.0입니다. 출처만 밝히면 누구나 내려받아 직접 분석하고 다시 계산할 수 있습니다.
+Arena는 두 결과물을 나란히 보여주고 사람이 더 나은 쪽을 고르는 방식입니다. 이미지 생성은 75개 모델, 590만 표를 바탕으로 하고, 이미지 편집은 52개 모델, 2,849만 표가 누적됐습니다.
 
-집계 기간은 2024년 7월부터 2026년 6월까지 24개월입니다. 무료와 Go, Plus, Pro 등 개인용 요금제 계정이 대상입니다.
+생성보다 편집에서 1위와의 격차가 훨씬 작습니다.</description><pubDate>Sat, 08 Aug 2026 07:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxVO1Mj3-Q</guid></item><item><title>3/ 순위표에 올라간 모델은 최고 사양이 아니라 Grok Imagine Image 2.0 Low입니다.
 
-이번 업데이트에서는 국가 단위로 나눈 데이터 계열 8개가 새로 추가됐습니다. 분석 표본도 이전 업데이트에서 월 10만 건에서 30만 건으로 이미 확대된 상태입니다.</description><pubDate>Sat, 08 Aug 2026 01:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwsC-GD-EO</guid></item><item><title>3/ 먼저 오픈AI가 무엇을 측정했는지부터 보면, 회사는 모든 메시지를 세 가지로 분류합니다.
-‘묻기’는 정보나 조언을 구하는 것, ‘시키기’는...</title><link>https://www.threads.net/@choi.openai/post/DbwsD7jD4we</link><description>3/ 먼저 오픈AI가 무엇을 측정했는지부터 보면, 회사는 모든 메시지를 세 가지로 분류합니다.
-‘묻기’는 정보나 조언을 구하는 것, ‘시키기’는 초안이나 코드처럼 결과물을 만들어 달라는 것, ‘표현하기’는 그 둘에 속하지 않는 나머지입니다.
+Arena는 이 모델이 API로 제공되...</title><link>https://www.threads.net/@choi.openai/post/DbxVPzrD6Ai</link><description>3/ 순위표에 올라간 모델은 최고 사양이 아니라 Grok Imagine Image 2.0 Low입니다.
 
-2026년 6월 기준 업무 메시지의 45.4%가 '시키기'였고, 비업무에서는 22.0%였습니다. 회사 일에서는 결과물을 맡기는 대화가, 일상에서는 정보를 묻는 대화가 더 많다는 뜻입니다.
+Arena는 이 모델이 API로 제공되지 않아 앱에서만 평가했다고 밝혔습니다. 같은 조건으로 외부에서 다시 검증하기는 어렵습니다.
 
-다만 이 숫자가 보여주는 것은 '변화'가 아니라 '차이'입니다. 같은 달의 업무와 비업무를 비교한 결과일 뿐, 질문에서 지시로 바뀌고 있다는 사실을 이 숫자만으로 확인할 수는 없습니다.
+세부 항목에서는 아트, 인물, 텍스트 렌더링, 애니메이션, 실사에서 모두 2위를 기록했습니다. 반면 상품·브랜딩·상업 디자인만 3위였습니다.
 
-게다가 이 분류도 사람이 읽어 나눈 것이 아닙니다. 업무인지 비업무인지, 묻기인지 시키기인지 모두 모델이 지시문 하나로 자동 분류한 결과입니다.</description><pubDate>Sat, 08 Aug 2026 01:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwsD7jD4we</guid></item><item><title>"사람 개입 없이 제로데이를 찾아 작동하는 공격 코드를 만든다."
+발표가 실무 활용을 강조한 것과 달리, 상업 디자인 분야에서는 아직 1, 2위 모델과 차이가 남아 있습니다.</description><pubDate>Sat, 08 Aug 2026 07:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxVPzrD6Ai</guid></item><item><title>구글 Creative Lab이 완전 오프라인 음성 번역기 Gemma Translator를 공개했습니다. 라즈베리파이 5에 Gemma 4 E2B를...</title><link>https://www.threads.net/@choi.openai/post/DbxK9ltjxw_</link><description>구글 Creative Lab이 완전 오프라인 음성 번역기 Gemma Translator를 공개했습니다. 라즈베리파이 5에 Gemma 4 E2B를 올린 전용 기기입니다.
 
-오픈AI가 2023년 Preparedness Framework에 적어둔 최고...</title><link>https://www.threads.net/@choi.openai/post/DbwhuVLD8Id</link><description>"사람 개입 없이 제로데이를 찾아 작동하는 공격 코드를 만든다."
+코드부터 3D 프린터용 케이스 STL까지 모두 오픈소스로 공개됐습니다. 8만 원대 보드에 마이크와 스피커만 연결하면 인터넷 없이 음성을 듣고 번역해 바로 읽어줍니다.
 
-오픈AI가 2023년 Preparedness Framework에 적어둔 최고 위험 등급, Critical의 정의입니다.
+Gemma 4 E2B는 약 2B 유효 파라미터로 LiteRT-LM에서 실행되고, Moonshine이 음성 처리를 맡습니다.</description><pubDate>Sat, 08 Aug 2026 06:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxK9ltjxw_</guid></item><item><title>깃허브 :
+https://github.com/google-gemma/gemma-translator</title><link>https://www.threads.net/@choi.openai/post/DbxK-ieD87t</link><description>깃허브 :
+https://github.com/google-gemma/gemma-translator</description><pubDate>Sat, 08 Aug 2026 06:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxK-ieD87t</guid></item><item><title>DeepSeek의 투자 유치 자료가 또 유출됐습니다. 현재 기업가치 710억 달러, 약 500조 원입니다.
 
-8월 7일, 오픈AI는 아직 공개되지도 않은 차기 모델 Astra가 이 수준일 가능성을 배제할 수 없다고 밝혔습니다.
+V4 Pro 프리뷰의 SWE-ben...</title><link>https://www.threads.net/@choi.openai/post/DbxAopNARVH</link><description>DeepSeek의 투자 유치 자료가 또 유출됐습니다. 현재 기업가치 710억 달러, 약 500조 원입니다.
 
-그리고 보안 요건을 갖출 때까지 일부 내부 개발까지 스스로 멈췄습니다.
+V4 Pro 프리뷰의 SWE-bench Verified 점수가 80.6으로 Claude Opus 4.6의 80.8과 0.2% 차이라는 내용이 포함됐습니다. 프리뷰 단계에서 이미 앤트로픽 최상위 모델과 동급이라는 주장입니다. 정식 버전은 더 높을 거라고 적었습니다.
 
-오픈AI Astra의 Critical 지정을 분석했습니다. 🧵</description><pubDate>Sat, 08 Aug 2026 00:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwhuVLD8Id</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+더 눈에 띄는 건 투자자의 수익 시나리오입니다. 3년 내 IPO를 가정해 비관 1,500억 달러, 중립 3,000억 달러, 낙관 5,000억 달러로 계산했습니다. 비관 시나리오에서도 현재 가치의 두 배입니다. 중국 자본시장이 DeepSeek를 3년 안에 오픈AI·앤트로픽과 어깨를 나란히 하는 회사로 보고 있다는 뜻입니다.
 
-1. 오픈AI가 8월 7일 차기 모델 Astra의 사이버 능력이 자사 최고 위험 등급인 ...</title><link>https://www.threads.net/@choi.openai/post/DbwhvOKj3up</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+어제 Qwen과 Kimi가 오픈소스 과금을 시작한 데 이어, DeepSeek는 710억 달러짜리 IPO 시나리오가 돌고 있습니다. 중국 AI의 공짜 시대가 끝나가고 있습니다.</description><pubDate>Sat, 08 Aug 2026 04:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxAopNARVH</guid></item><item><title>Unsloth가 DeepSeek의 speculative decoding 모듈 DSpark를 GGUF에 통합해 V4 Flash의 로컬 추론 속도를...</title><link>https://www.threads.net/@choi.openai/post/Dbw2WbjgOSS</link><description>Unsloth가 DeepSeek의 speculative decoding 모듈 DSpark를 GGUF에 통합해 V4 Flash의 로컬 추론 속도를 약 2배 끌어올렸습니다. 정밀도 손실 없이 최대 초당 120토큰까지 나온다고 합니다.
 
-1. 오픈AI가 8월 7일 차기 모델 Astra의 사이버 능력이 자사 최고 위험 등급인 Critical일 가능성을 배제할 수 없다고 밝힘.
-2. Critical은 사람 개입 없이 제로데이를 찾아 공격 코드를 만들거나, 목표만 주면 새로운 공격을 처음부터 끝까지 스스로 수행하는 수준임. GPT-5.6 Sol까지는 모두 한 단계 아래인 High였음.
-3. 오픈AI는 격리 환경, 네트워크·도구 제한, 가중치 보호, 전면 감시를 적용하고 보안 요건을 충족할 때까지 일부 내부 개발과 평가를 중단함.
-4. 배경에는 허깅페이스 침해, 영국 AI보안연구소 평가, Kimi K3의 샌드박스 탈출까지 7월 이후 이어진 사건들이 있었음.
-5. 같은 시기 미국 정부는 오픈웨이트 모델을 프런티어 안전성 평가 대상에서 제외하는 방향을 검토 중임.
+DSpark는 원래 DeepSeek가 공개한 추론 가속 기술입니다. Unsloth는 이를 `llama.cpp`에 머지하고 GGUF 모델에서도 사용할 수 있게 했습니다.
+DGX Spark 듀얼 구성에서도 테스트가 진행 중이며, 초당 100토큰을 넘기면 로컬 모델도 실제 업무에서 체감 속도가 크게 달라진다는 평가가 나옵니다.
 
-→ 오픈AI는 자사 기준으로 처음 Critical 모델을 선언하며 스스로 개발 속도를 늦췄음.</description><pubDate>Sat, 08 Aug 2026 00:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwhvOKj3up</guid></item><item><title>2/ 오픈AI가 8월 7일 차기 모델 Astra를 사이버보안 부문에서 첫 ‘Critical’ 모델로 취급하겠다고 발표했습니다.
+DeepSeek가 API 가격을 올리려고 하는 시점에, 오픈웨이트로 공개한 모델은 커뮤니티 최적화를 거쳐 로컬에서 두 배 빨라졌습니다.
 
-다만 원문의 표...</title><link>https://www.threads.net/@choi.openai/post/Dbwhvvnj4FX</link><description>2/ 오픈AI가 8월 7일 차기 모델 Astra를 사이버보안 부문에서 첫 ‘Critical’ 모델로 취급하겠다고 발표했습니다.
-
-다만 원문의 표현은 더 신중합니다. Astra가 Critical 수준에 도달했다고 단정한 것이 아니라, 최근 며칠간 진행한 내부 평가와 외부 전문가 검토를 종합한 결과 전날 밤 “Critical 수준의 능력을 배제할 수 없다”고 판단했다는 것입니다.
-
-Critical은 오픈AI가 2023년 12월 마련한 Preparedness Framework에서 가장 높은 위험 등급입니다. 당시에는 어떤 모델도 이 수준에 근접하지 않았다고 회사는 설명했습니다.
-
-2년 반 전 스스로 그어둔 가장 높은 위험선에, 처음으로 자사 모델을 올려놓고 대비하기 시작한 셈입니다.</description><pubDate>Sat, 08 Aug 2026 00:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbwhvvnj4FX</guid></item><item><title>3/ Critical의 기준은 두 가지입니다.
-
-첫째는 사람의 개입 없이, 견고하게 방어된 실제 운영 시스템 여러 곳에서 심각도와 관계없이 제로...</title><link>https://www.threads.net/@choi.openai/post/Dbwhwobjwpu</link><description>3/ Critical의 기준은 두 가지입니다.
-
-첫째는 사람의 개입 없이, 견고하게 방어된 실제 운영 시스템 여러 곳에서 심각도와 관계없이 제로데이 취약점을 찾아내고, 이를 악용하는 공격 코드까지 만들어내는 능력입니다.
-
-둘째는 고수준의 목표만 주어졌을 때, 견고한 표적을 상대로 처음부터 끝까지 새로운 공격 전략을 스스로 세우고 실행하는 능력입니다.
-
-둘 중 하나만 충족해도 Critical로 분류됩니다. GPT-5.6 Sol을 비롯한 이전 모델은 모두 그 아래 단계인 High에 머물렀습니다.
-
-두 기준이 공통으로 보는 것은 성능이 아니라 자율성입니다. 사람을 도와 취약점을 찾는 수준이 아니라, 사람 없이 공격 전 과정을 끝까지 수행할 수 있는지를 묻는 기준입니다. 이 단계에 들어가면 모델을 배포하기 전에 추가 안전장치와 보안 통제를 먼저 갖춰야 합니다.</description><pubDate>Sat, 08 Aug 2026 00:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbwhwobjwpu</guid></item><item><title>드디어 들어왔네요.
-
-Claude Code에서 세션끼리 직접 메시지를 주고받을 수 있게 됐습니다.
-
-다른 세션에서 작업을 이어갈 때 처음부터 다...</title><link>https://www.threads.net/@choi.openai/post/Dbwa1BoAcbZ</link><description>드디어 들어왔네요.
-
-Claude Code에서 세션끼리 직접 메시지를 주고받을 수 있게 됐습니다.
-
-다른 세션에서 작업을 이어갈 때 처음부터 다시 설명할 필요가 없습니다. Claude가 현재 작업을 요약해 보내면, 상대 세션이 그 내용을 작업 도중 받아 그대로 이어갑니다. 전체 히스토리나 파일을 넘기는 게 아니라 필요한 요약만 전달합니다.
-
-반대로 다른 세션에 질문을 보내 답을 받아올 수도 있습니다. Claude가 스스로 판단해 먼저 메시지를 보내는 것도 가능합니다. 예를 들어 한 세션의 변경이 다른 세션이 맡은 작업에 영향을 준다고 판단하면 알아서 알려줍니다.
-
-구현은 세션마다 하나씩 할당된 유닉스 소켓을 통해 이뤄집니다. macOS와 Linux에서 사용할 수 있습니다.
-
-이제 병렬로 띄운 Claude들이 서로 모른 채 따로 일하는 게 아니라, 필요한 순간에 직접 조율하면서 작업을 이어갈 수 있게 됐습니다.</description><pubDate>Fri, 07 Aug 2026 23:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbwa1BoAcbZ</guid></item><item><title>Adobe가 ChatGPT 플러그인을 출시했습니다.
-Photoshop, Firefly, Premiere, Lightroom, Acrobat, I...</title><link>https://www.threads.net/@choi.openai/post/DbwQkP5gNvz</link><description>Adobe가 ChatGPT 플러그인을 출시했습니다.
-Photoshop, Firefly, Premiere, Lightroom, Acrobat, Illustrator, InDesign, Express, Stock까지 70개가 넘는 도구를 채팅 하나로 호출할 수 있습니다.
-
-사진을 올리고 "배경만 바꿔줘"라고 하면 Photoshop이, "세로 영상으로 바꿔줘"라고 하면 Premiere가 작업합니다. PDF 정리부터 AI 이미지 생성까지 모든 과정이 ChatGPT 안에서 이어집니다.
-
-대부분의 기업이 자체 AI 챗봇을 만드는 동안 Adobe는 정반대 전략을 택했습니다. 자사 크리에이티브 도구를 ChatGPT의 작업 도구로 연결한 것입니다.
-
-크리에이티브 소프트웨어의 중심이 앱에서 대화로 옮겨가고 있습니다. 사용자가 Photoshop을 여는 대신 ChatGPT에게 일을 맡기고, 필요한 순간에 Photoshop과 Premiere가 뒤에서 움직이는 시대가 시작됐습니다.</description><pubDate>Fri, 07 Aug 2026 21:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwQkP5gNvz</guid></item></channel></rss>
+가중치를 공개했더니 외부 개발자들이 추론 비용과 속도를 계속 깎아내리는, 오픈웨이트 생태계의 힘이 그대로 드러나고 있는 것 같습니다.</description><pubDate>Sat, 08 Aug 2026 03:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbw2WbjgOSS</guid></item></channel></rss>
