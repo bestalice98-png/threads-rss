@@ -1,46 +1,102 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 07 Aug 2026 15:41:57 +0000</lastBuildDate><item><title>Cloudflare가 WebMCP 개발자 프리뷰를 공개했습니다. 대시보드에서 기능을 켜기만 하면 기존 웹사이트를 AI 에이전트가 사용할 수 있는...</title><link>https://www.threads.net/@choi.openai/post/DbvnT66E7V6</link><description>Cloudflare가 WebMCP 개발자 프리뷰를 공개했습니다. 대시보드에서 기능을 켜기만 하면 기존 웹사이트를 AI 에이전트가 사용할 수 있는 도구로 바꿀 수 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 08 Aug 2026 01:37:05 +0000</lastBuildDate><item><title>한국이 25위를 차지했습니다. 생각보다 한국이 많이 뒤쳐진 결과인데요.
 
-Chrome 146에 실험적으로 들어간 `document.modelContext` API를 기반으로 합니다. 사이트가 에이전트용 도구 설명을 노출하면, 에이전트는 DOM을 직접 읽고 조작하는 대신 구조화된 함수처럼 기능을 호출합니다. 별도 API를 새로 만들거나 원본 코드를 크게 고칠 필요 없이 Cloudflare 엣지에서 변환할 수 있습니다.
+오픈AI가 국가별 챗GPT 사용 데이터를 처음 공개했습니다.
+놀랍게도 ...</title><link>https://www.threads.net/@choi.openai/post/DbwsBfQj1lB</link><description>한국이 25위를 차지했습니다. 생각보다 한국이 많이 뒤쳐진 결과인데요.
 
-사람은 승인 권한을 유지하고, 사이트 운영자는 기존 트래픽과 사용자 관계를 그대로 가져갑니다. 구글과 마이크로소프트가 추진하는 브라우저 표준을 Cloudflare가 자사 인프라에서 바로 적용할 수 있게 만든 셈입니다.
+오픈AI가 국가별 챗GPT 사용 데이터를 처음 공개했습니다.
+놀랍게도 인구당 챗GPT 사용 1위는 싱가포르였으며, 2위 몰타, 3위 네덜란드고 미국은 그 아래입니다.
 
-검색엔진을 위한 SEO를 넘어, AI가 읽고 선택하고 직접 행동하는 웹을 위한 최적화가 실제 인프라 단계로 들어오고 있습니다.</description><pubDate>Fri, 07 Aug 2026 15:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvnT66E7V6</guid></item><item><title>발표내용 :
-https://blog.cloudflare.com/webmcp/</title><link>https://www.threads.net/@choi.openai/post/DbvnVCcE0bX</link><description>발표내용 :
-https://blog.cloudflare.com/webmcp/</description><pubDate>Fri, 07 Aug 2026 15:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvnVCcE0bX</guid></item><item><title>텐센트가 에이전트용 공유 메모리인 Team Memory 2.0을 오픈소스로 공개했습니다.
+한국은 인구당 사용 25위, 35세 이상 사용 비중은 세계 4위였습니다. 하지만 업무에서 AI에게 일을 맡기는 비중은 세계 평균보다 낮았습니다.
 
-대화와 문서, 코드를 Chat Memory, Skil...</title><link>https://www.threads.net/@choi.openai/post/DbvdE7RjDdQ</link><description>텐센트가 에이전트용 공유 메모리인 Team Memory 2.0을 오픈소스로 공개했습니다.
+데이터를 직접 분석해 꼭 봐야 할 인사이트 16가지를 정리했습니다🧵</description><pubDate>Sat, 08 Aug 2026 01:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwsBfQj1lB</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-대화와 문서, 코드를 Chat Memory, Skill, LLM-Wiki, Code-Graph 네 가지 자산으로 정리해 여러 에이전트가 함께 읽고 쓸 수 있게 합니다.
+1. 오픈AI가 8월 6일 국가별 챗GPT 사용 데이터를 처음 공개하고, CSV 25개를...</title><link>https://www.threads.net/@choi.openai/post/DbwsB4eDyl0</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-1인 기업의 개인 메모리부터 팀 단위 공유 허브까지 지원하며, 오래된 컨텍스트를 압축해 토큰 사용량을 61% 줄였다고 합니다. OpenClaw, Hermes, Claude Code, CodeBuddy와도 연동됩니다.
+1. 오픈AI가 8월 6일 국가별 챗GPT 사용 데이터를 처음 공개하고, CSV 25개를 CC BY 4.0으로 함께 배포함.
 
-에이전트가 혼자 일하는 단계를 넘어 여러 에이전트가 역할과 기억을 공유하며 일하기 위한 인프라가 빠르게 갖춰지고 있습니다.</description><pubDate>Fri, 07 Aug 2026 14:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvdE7RjDdQ</guid></item><item><title>깃허브 :
-https://github.com/TencentCloud/TencentDB-Agent-Memory</title><link>https://www.threads.net/@choi.openai/post/DbvdFvBjL5U</link><description>깃허브 :
-https://github.com/TencentCloud/TencentDB-Agent-Memory</description><pubDate>Fri, 07 Aug 2026 14:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvdFvBjL5U</guid></item><item><title>이제 좀 앤트로픽 거부율이 줄어들까요?
+2. 발표문은 "묻기에서 시키기로"를 내세웠지만, 근거는 업무(45.4%)와 비업무(22.0%)의 같은 시점 비교였음.
 
-앤트로픽이 Claude Fable 5의 생물학 안전장치를 완화했다고 밝혔습니다.
-오탐으로 인한 답변 거...</title><link>https://www.threads.net/@choi.openai/post/DbvSxF2ApKV</link><description>이제 좀 앤트로픽 거부율이 줄어들까요?
+3. 원본 시계열을 보면 업무 중 '시키기'는 2024년 8월 53.3%에서 45.4%까지 꾸준히 내려와 최저치를 기록했음.
 
-앤트로픽이 Claude Fable 5의 생물학 안전장치를 완화했다고 밝혔습니다.
-오탐으로 인한 답변 거부가 85% 줄어들었다고 하는데요.
+4. 대신 가장 크게 늘어난 것은 '표현하기'였음. 업무에서는 9.6%에서 22.3%로 두 배 이상 증가했고, 시키기와 합치면 오히려 결과물 중심 대화 비중은 늘어났음.
 
-일상적인 건강·교육 질문에는 더 자유롭게 답할 수 있게 됐지만, 바이러스학과 독성학, 분자 설계처럼 위험도가 높은 전문 영역은 여전히 Opus 5로 넘깁니다. 전문 연구용 모델은 아니어서 신약 개발 같은 고난도 작업에는 제한이 남아 있습니다.
+5. 기술 지원 비중은 13.5%에서 4.2%로 감소했지만, Codex 데이터가 통계에서 제외돼 있어 코딩 수요 감소로 해석하기는 어려움.
 
-그런데 이번 주 AI 안전 논의를 보면 묘한 대비가 생깁니다.
+6. 한국은 인구당 사용 25위, 35세 이상 메시지 비중은 세계 4위(47.2%), 멀티미디어 사용 비중은 125개국 중 120위였음.</description><pubDate>Sat, 08 Aug 2026 01:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwsB4eDyl0</guid></item><item><title>2/ 오픈AI가 8월 6일 국가별 ChatGPT 사용 데이터를 처음 공개했습니다.
+그동안 전 세계 합계만 제공했는데, 이번에는 144개국의 인구...</title><link>https://www.threads.net/@choi.openai/post/DbwsC-GD-EO</link><description>2/ 오픈AI가 8월 6일 국가별 ChatGPT 사용 데이터를 처음 공개했습니다.
+그동안 전 세계 합계만 제공했는데, 이번에는 144개국의 인구당 사용 순위와 국가별 이용 목적까지 한꺼번에 열었는데요.
 
-한쪽에서는 에이전트가 실제 시스템까지 넘어가는 문제가 벌어지고 있는데, 다른 한쪽에서는 일상적인 생물학 질문을 과도하게 막던 안전장치를 85%나 걷어내고 있습니다. 지금 AI 안전의 어려움이 어디에 있는지를 보여주는 장면입니다.</description><pubDate>Fri, 07 Aug 2026 12:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvSxF2ApKV</guid></item><item><title>발표내용 :
-https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</title><link>https://www.threads.net/@choi.openai/post/DbvS0EnAoxw</link><description>발표내용 :
-https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</description><pubDate>Fri, 07 Aug 2026 12:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvS0EnAoxw</guid></item><item><title>Cloudflare가 Workers 위에서 작동하는 에이전트 전용 브라우저 Kitesurf를 공개했습니다.
+데이터는 경제연구팀이 운영하는 Signals에 공개됐습니다. CSV 25개와 방법론 문서가 함께 올라왔고, 라이선스는 CC BY 4.0입니다. 출처만 밝히면 누구나 내려받아 직접 분석하고 다시 계산할 수 있습니다.
 
-에이전트마다 Chromium 인스턴...</title><link>https://www.threads.net/@choi.openai/post/DbvIauHk7zv</link><description>Cloudflare가 Workers 위에서 작동하는 에이전트 전용 브라우저 Kitesurf를 공개했습니다.
+집계 기간은 2024년 7월부터 2026년 6월까지 24개월입니다. 무료와 Go, Plus, Pro 등 개인용 요금제 계정이 대상입니다.
 
-에이전트마다 Chromium 인스턴스를 하나씩 띄우는 방식은 무겁고 비용도 큽니다. Kitesurf는 CPU와 메모리 사용량을 3-7배 줄이고, 요청이 들어올 때만 실행되는 구조입니다.
+이번 업데이트에서는 국가 단위로 나눈 데이터 계열 8개가 새로 추가됐습니다. 분석 표본도 이전 업데이트에서 월 10만 건에서 30만 건으로 이미 확대된 상태입니다.</description><pubDate>Sat, 08 Aug 2026 01:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwsC-GD-EO</guid></item><item><title>3/ 먼저 오픈AI가 무엇을 측정했는지부터 보면, 회사는 모든 메시지를 세 가지로 분류합니다.
+‘묻기’는 정보나 조언을 구하는 것, ‘시키기’는...</title><link>https://www.threads.net/@choi.openai/post/DbwsD7jD4we</link><description>3/ 먼저 오픈AI가 무엇을 측정했는지부터 보면, 회사는 모든 메시지를 세 가지로 분류합니다.
+‘묻기’는 정보나 조언을 구하는 것, ‘시키기’는 초안이나 코드처럼 결과물을 만들어 달라는 것, ‘표현하기’는 그 둘에 속하지 않는 나머지입니다.
 
-MCP로 바로 연결돼 Codex나 Claude Code 같은 에이전트 클라이언트에서도 사용할 수 있습니다. 베타 기간에는 무료이며, 사용자당 하루 10분까지 제공됩니다.
+2026년 6월 기준 업무 메시지의 45.4%가 '시키기'였고, 비업무에서는 22.0%였습니다. 회사 일에서는 결과물을 맡기는 대화가, 일상에서는 정보를 묻는 대화가 더 많다는 뜻입니다.
 
-V8 아이솔레이트에서 직접 실행되기 때문에 Chromium 의존성이 없고, 스크린샷과 HTML 캡처도 기본 지원합니다. 기존 브라우저 자동화가 탐지와 리소스 비용에 부딪혔다면, Kitesurf는 이를 Cloudflare 인프라 안에서 다시 설계한 셈입니다.
+다만 이 숫자가 보여주는 것은 '변화'가 아니라 '차이'입니다. 같은 달의 업무와 비업무를 비교한 결과일 뿐, 질문에서 지시로 바뀌고 있다는 사실을 이 숫자만으로 확인할 수는 없습니다.
 
-사람이 쓰는 브라우저를 에이전트에게 빌려주는 대신, 처음부터 에이전트가 쓰도록 만든 브라우저가 나온 것입니다.</description><pubDate>Fri, 07 Aug 2026 11:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvIauHk7zv</guid></item><item><title>내용 :
-https://blog.cloudflare.com/kitesurf/</title><link>https://www.threads.net/@choi.openai/post/DbvIb-akySE</link><description>내용 :
-https://blog.cloudflare.com/kitesurf/</description><pubDate>Fri, 07 Aug 2026 11:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbvIb-akySE</guid></item></channel></rss>
+게다가 이 분류도 사람이 읽어 나눈 것이 아닙니다. 업무인지 비업무인지, 묻기인지 시키기인지 모두 모델이 지시문 하나로 자동 분류한 결과입니다.</description><pubDate>Sat, 08 Aug 2026 01:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwsD7jD4we</guid></item><item><title>"사람 개입 없이 제로데이를 찾아 작동하는 공격 코드를 만든다."
+
+오픈AI가 2023년 Preparedness Framework에 적어둔 최고...</title><link>https://www.threads.net/@choi.openai/post/DbwhuVLD8Id</link><description>"사람 개입 없이 제로데이를 찾아 작동하는 공격 코드를 만든다."
+
+오픈AI가 2023년 Preparedness Framework에 적어둔 최고 위험 등급, Critical의 정의입니다.
+
+8월 7일, 오픈AI는 아직 공개되지도 않은 차기 모델 Astra가 이 수준일 가능성을 배제할 수 없다고 밝혔습니다.
+
+그리고 보안 요건을 갖출 때까지 일부 내부 개발까지 스스로 멈췄습니다.
+
+오픈AI Astra의 Critical 지정을 분석했습니다. 🧵</description><pubDate>Sat, 08 Aug 2026 00:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwhuVLD8Id</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+
+1. 오픈AI가 8월 7일 차기 모델 Astra의 사이버 능력이 자사 최고 위험 등급인 ...</title><link>https://www.threads.net/@choi.openai/post/DbwhvOKj3up</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+
+1. 오픈AI가 8월 7일 차기 모델 Astra의 사이버 능력이 자사 최고 위험 등급인 Critical일 가능성을 배제할 수 없다고 밝힘.
+2. Critical은 사람 개입 없이 제로데이를 찾아 공격 코드를 만들거나, 목표만 주면 새로운 공격을 처음부터 끝까지 스스로 수행하는 수준임. GPT-5.6 Sol까지는 모두 한 단계 아래인 High였음.
+3. 오픈AI는 격리 환경, 네트워크·도구 제한, 가중치 보호, 전면 감시를 적용하고 보안 요건을 충족할 때까지 일부 내부 개발과 평가를 중단함.
+4. 배경에는 허깅페이스 침해, 영국 AI보안연구소 평가, Kimi K3의 샌드박스 탈출까지 7월 이후 이어진 사건들이 있었음.
+5. 같은 시기 미국 정부는 오픈웨이트 모델을 프런티어 안전성 평가 대상에서 제외하는 방향을 검토 중임.
+
+→ 오픈AI는 자사 기준으로 처음 Critical 모델을 선언하며 스스로 개발 속도를 늦췄음.</description><pubDate>Sat, 08 Aug 2026 00:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwhvOKj3up</guid></item><item><title>2/ 오픈AI가 8월 7일 차기 모델 Astra를 사이버보안 부문에서 첫 ‘Critical’ 모델로 취급하겠다고 발표했습니다.
+
+다만 원문의 표...</title><link>https://www.threads.net/@choi.openai/post/Dbwhvvnj4FX</link><description>2/ 오픈AI가 8월 7일 차기 모델 Astra를 사이버보안 부문에서 첫 ‘Critical’ 모델로 취급하겠다고 발표했습니다.
+
+다만 원문의 표현은 더 신중합니다. Astra가 Critical 수준에 도달했다고 단정한 것이 아니라, 최근 며칠간 진행한 내부 평가와 외부 전문가 검토를 종합한 결과 전날 밤 “Critical 수준의 능력을 배제할 수 없다”고 판단했다는 것입니다.
+
+Critical은 오픈AI가 2023년 12월 마련한 Preparedness Framework에서 가장 높은 위험 등급입니다. 당시에는 어떤 모델도 이 수준에 근접하지 않았다고 회사는 설명했습니다.
+
+2년 반 전 스스로 그어둔 가장 높은 위험선에, 처음으로 자사 모델을 올려놓고 대비하기 시작한 셈입니다.</description><pubDate>Sat, 08 Aug 2026 00:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbwhvvnj4FX</guid></item><item><title>3/ Critical의 기준은 두 가지입니다.
+
+첫째는 사람의 개입 없이, 견고하게 방어된 실제 운영 시스템 여러 곳에서 심각도와 관계없이 제로...</title><link>https://www.threads.net/@choi.openai/post/Dbwhwobjwpu</link><description>3/ Critical의 기준은 두 가지입니다.
+
+첫째는 사람의 개입 없이, 견고하게 방어된 실제 운영 시스템 여러 곳에서 심각도와 관계없이 제로데이 취약점을 찾아내고, 이를 악용하는 공격 코드까지 만들어내는 능력입니다.
+
+둘째는 고수준의 목표만 주어졌을 때, 견고한 표적을 상대로 처음부터 끝까지 새로운 공격 전략을 스스로 세우고 실행하는 능력입니다.
+
+둘 중 하나만 충족해도 Critical로 분류됩니다. GPT-5.6 Sol을 비롯한 이전 모델은 모두 그 아래 단계인 High에 머물렀습니다.
+
+두 기준이 공통으로 보는 것은 성능이 아니라 자율성입니다. 사람을 도와 취약점을 찾는 수준이 아니라, 사람 없이 공격 전 과정을 끝까지 수행할 수 있는지를 묻는 기준입니다. 이 단계에 들어가면 모델을 배포하기 전에 추가 안전장치와 보안 통제를 먼저 갖춰야 합니다.</description><pubDate>Sat, 08 Aug 2026 00:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbwhwobjwpu</guid></item><item><title>드디어 들어왔네요.
+
+Claude Code에서 세션끼리 직접 메시지를 주고받을 수 있게 됐습니다.
+
+다른 세션에서 작업을 이어갈 때 처음부터 다...</title><link>https://www.threads.net/@choi.openai/post/Dbwa1BoAcbZ</link><description>드디어 들어왔네요.
+
+Claude Code에서 세션끼리 직접 메시지를 주고받을 수 있게 됐습니다.
+
+다른 세션에서 작업을 이어갈 때 처음부터 다시 설명할 필요가 없습니다. Claude가 현재 작업을 요약해 보내면, 상대 세션이 그 내용을 작업 도중 받아 그대로 이어갑니다. 전체 히스토리나 파일을 넘기는 게 아니라 필요한 요약만 전달합니다.
+
+반대로 다른 세션에 질문을 보내 답을 받아올 수도 있습니다. Claude가 스스로 판단해 먼저 메시지를 보내는 것도 가능합니다. 예를 들어 한 세션의 변경이 다른 세션이 맡은 작업에 영향을 준다고 판단하면 알아서 알려줍니다.
+
+구현은 세션마다 하나씩 할당된 유닉스 소켓을 통해 이뤄집니다. macOS와 Linux에서 사용할 수 있습니다.
+
+이제 병렬로 띄운 Claude들이 서로 모른 채 따로 일하는 게 아니라, 필요한 순간에 직접 조율하면서 작업을 이어갈 수 있게 됐습니다.</description><pubDate>Fri, 07 Aug 2026 23:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbwa1BoAcbZ</guid></item><item><title>Adobe가 ChatGPT 플러그인을 출시했습니다.
+Photoshop, Firefly, Premiere, Lightroom, Acrobat, I...</title><link>https://www.threads.net/@choi.openai/post/DbwQkP5gNvz</link><description>Adobe가 ChatGPT 플러그인을 출시했습니다.
+Photoshop, Firefly, Premiere, Lightroom, Acrobat, Illustrator, InDesign, Express, Stock까지 70개가 넘는 도구를 채팅 하나로 호출할 수 있습니다.
+
+사진을 올리고 "배경만 바꿔줘"라고 하면 Photoshop이, "세로 영상으로 바꿔줘"라고 하면 Premiere가 작업합니다. PDF 정리부터 AI 이미지 생성까지 모든 과정이 ChatGPT 안에서 이어집니다.
+
+대부분의 기업이 자체 AI 챗봇을 만드는 동안 Adobe는 정반대 전략을 택했습니다. 자사 크리에이티브 도구를 ChatGPT의 작업 도구로 연결한 것입니다.
+
+크리에이티브 소프트웨어의 중심이 앱에서 대화로 옮겨가고 있습니다. 사용자가 Photoshop을 여는 대신 ChatGPT에게 일을 맡기고, 필요한 순간에 Photoshop과 Premiere가 뒤에서 움직이는 시대가 시작됐습니다.</description><pubDate>Fri, 07 Aug 2026 21:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbwQkP5gNvz</guid></item></channel></rss>
