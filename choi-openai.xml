@@ -1,57 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 08 Aug 2026 08:39:47 +0000</lastBuildDate><item><title>🚨 SpaceXAI가 Imagine Image 2.0을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 08 Aug 2026 15:17:54 +0000</lastBuildDate><item><title>17살 솔로 개발자가 새로운 모델 아키텍처 'Fusion'으로 Fuse-1-Lite를 공개했습니다. LiquidAI의 LFM 2.5-2.6B에 ...</title><link>https://www.threads.net/@choi.openai/post/DbyIrR9infu</link><description>17살 솔로 개발자가 새로운 모델 아키텍처 'Fusion'으로 Fuse-1-Lite를 공개했습니다. LiquidAI의 LFM 2.5-2.6B에 Qwen 3.6-35B-A3B의 코딩 전문가 960개를 융합한 MoE 모델입니다.
 
-이제는 그림을 잘 만드는 경쟁보다, 만든 결과물을 얼마나 정확하게 고쳐 ...</title><link>https://www.threads.net/@choi.openai/post/DbxNlhojShb</link><description>🚨 SpaceXAI가 Imagine Image 2.0을 공개했습니다.
+5.72B 파라미터로 Qwen 3.6-35B-A3B에 근접한 성능을 내면서 크기는 5분의 1 수준입니다. 9주 동안 32번의 실패 끝에 완성했고, MLX 포맷도 함께 공개돼 애플 실리콘에서 바로 실행할 수 있습니다. MiniMax M3와 DeepSeek V4 Flash 기반 경량 모델도 이미 제작을 마쳤습니다.
 
-이제는 그림을 잘 만드는 경쟁보다, 만든 결과물을 얼마나 정확하게 고쳐 쓰는지가 더 중요해지고 있습니다.
+MergeKit 개발자 막심 라본은 "초기 모델 머징 열풍이 떠오른다"고 평가했는데요.
+수천억 원 규모의 학습 인프라 없이도 오픈웨이트 모델을 조합해 성능을 끌어올리는 시도가 개인 개발자 수준에서도 나오기 시작하는 것 같습니다.</description><pubDate>Sat, 08 Aug 2026 15:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbyIrR9infu</guid></item><item><title>허깅페이스 :
+https://huggingface.co/Akahsizrr/fuse-1-Lite</title><link>https://www.threads.net/@choi.openai/post/DbyItoDivkV</link><description>허깅페이스 :
+https://huggingface.co/Akahsizrr/fuse-1-Lite</description><pubDate>Sat, 08 Aug 2026 15:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbyItoDivkV</guid></item><item><title>Y Combinator의 대표 게리 탄(Garry Tan)은 “AGI는 거대한 단일 사건으로 나타나는 것이 아니라, 이미 우리 삶 속에 확산되어...</title><link>https://www.threads.net/@choi.openai/post/Dbx-azKAOgO</link><description>Y Combinator의 대표 게리 탄(Garry Tan)은 “AGI는 거대한 단일 사건으로 나타나는 것이 아니라, 이미 우리 삶 속에 확산되어 오고 있다”고 말했습니다.
 
-영역 편집, 글자 렌더링, 인포그래픽, 게임 에셋까지 실제 활용 사례들이 쏟아지고 있는데요.
+대다수 사람들이 데이터센터 속 거대한 ‘신’과 같은 AGI의 등장을 기다리는 사이, AGI는 터미널 창, 마크다운 파일 폴더, 혹은 우리가 잠든 사이에 업무를 끝내놓는 자동화 작업의 형태로 이미 일상에 자리 잡았다는 설명입니다.
 
-발표 핵심 내용을 정리했습니다🧵</description><pubDate>Sat, 08 Aug 2026 07:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxNlhojShb</guid></item><item><title>1/ SpaceXAI가 8월 7일 Imagine Image 2.0을 공개했습니다.
+그는 거창한 인공지능이 아닌, 개개인의 맥락을 이해하고 실제 업무를 수행해 주는 “퍼스널 AGI(Personal AGI)”의 중요성을 강조했습니다.
 
-grok.com/imagine과 iOS·안드로이드 앱에서 Q...</title><link>https://www.threads.net/@choi.openai/post/DbxVNvdDy7B</link><description>1/ SpaceXAI가 8월 7일 Imagine Image 2.0을 공개했습니다.
+즉, 모두를 위한 거대한 지능보다 ‘오직 한 사람, 바로 당신을 위한 보편적 지능’이 코딩과 생산성의 패러다임을 바꿀 것이라고 평가했습니다.</description><pubDate>Sat, 08 Aug 2026 13:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbx-azKAOgO</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=eRrc1pUY5oU</title><link>https://www.threads.net/@choi.openai/post/Dbx-bqsANCO</link><description>풀영상 :
+https://www.youtube.com/watch?v=eRrc1pUY5oU</description><pubDate>Sat, 08 Aug 2026 13:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbx-bqsANCO</guid></item><item><title>사실이라면 빅 뉴스네요.
 
-grok.com/imagine과 iOS·안드로이드 앱에서 Quality Mode로 바로 쓸 수 있고, 기존 Quality 모델을 대체합니다. API는 아직 열리지 않았습니다.
+데미스 하사비스의 GDM 의장 이동은 자발적 승진이 아니었다고 Pathfounders가 보도했습니다. 실제로는 구글을...</title><link>https://www.threads.net/@choi.openai/post/Dbx7Kjdj6MQ</link><description>사실이라면 빅 뉴스네요.
 
-이번 업데이트는 새 이미지를 뽑는 것보다 만든 뒤 고치는 쪽에 초점이 맞춰졌습니다. 영역을 지정해 수정할 수 있고, 작은 글씨와 복잡한 화면 구성이 개선됐으며 자주 쓰는 작업은 템플릿으로 묶었습니다.
+데미스 하사비스의 GDM 의장 이동은 자발적 승진이 아니었다고 Pathfounders가 보도했습니다. 실제로는 구글을 완전히 떠나려 했으나, 주가 폭락을 우려한 경영진이 의장직으로 설득했다는 겁니다.
 
-xAI가 강조한 것도 지시 준수, 서체와 배치, 편집 과정에서 원본 요소를 유지하는 능력입니다.</description><pubDate>Sat, 08 Aug 2026 07:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxVNvdDy7B</guid></item><item><title>2/ Arena 이미지 생성과 이미지 편집에서 모두 2위를 기록했습니다.
+제프 딘과 동시에 퇴사하려 했고, 구글은 "두 사람이 한꺼번에 나가면 주가가 붕괴할 것"이라고 판단했다고 합니다. 실제로 의장 이동 발표만으로도 구글 주가는 5% 빠졌습니다. 의장직은 "조직이 안정될 때까지 품위 있게 머무는 자리"라는 게 소식통의 설명입니다.
 
-이미지 생성은 1320점으로 직전 모델보다 92점 올랐습니다. 1위 ...</title><link>https://www.threads.net/@choi.openai/post/DbxVO1Mj3-Q</link><description>2/ Arena 이미지 생성과 이미지 편집에서 모두 2위를 기록했습니다.
+실제로는 구글의 AI 리더십이 동시에 출구를 찾고 있었고, 경영진은 그 충격을 분산시키는 중인 것으로 보입니다. 하사비스의 아이소모픽 집중은 전략적 선택이 아니라, 남은 시간을 가장 의미 있게 쓰는 방법이었을 수 있습니다.
 
-이미지 생성은 1320점으로 직전 모델보다 92점 올랐습니다. 1위 GPT-Image-2 Medium과는 60점 차입니다.
+구글에서의 핵심 인재들이 계속해서 나가고 있다는 것은 중요한 문제라고 생각드네요.</description><pubDate>Sat, 08 Aug 2026 13:02:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbx7Kjdj6MQ</guid></item><item><title>내용 :
+https://pathfounders.com/p/pathfounders-newsletter-our-sources-say-hassabis...</title><link>https://www.threads.net/@choi.openai/post/Dbx7M6rjwwT</link><description>내용 :
+https://pathfounders.com/p/pathfounders-newsletter-our-sources-say-hassabis-wants-out</description><pubDate>Sat, 08 Aug 2026 13:02:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbx7M6rjwwT</guid></item><item><title>GPT-Live가 파일 첨부와 Projects를 지원하기 시작했습니다.
+PDF를 올리고 음성으로 내용을 물어볼 수 있습니다.
 
-이미지 편집은 1439점으로 직전 모델보다 49점 올랐고, 1위 GPT-Image-2와의 격차는 24점까지 좁혔습니다.
+Projects ...</title><link>https://www.threads.net/@choi.openai/post/Dbx0Hwdjn26</link><description>GPT-Live가 파일 첨부와 Projects를 지원하기 시작했습니다.
+PDF를 올리고 음성으로 내용을 물어볼 수 있습니다.
 
-Arena는 두 결과물을 나란히 보여주고 사람이 더 나은 쪽을 고르는 방식입니다. 이미지 생성은 75개 모델, 590만 표를 바탕으로 하고, 이미지 편집은 52개 모델, 2,849만 표가 누적됐습니다.
+Projects 안에서 GPT-Live를 켜면 프로젝트에 넣어둔 모든 문서와 커스텀 지시사항을 음성 대화에서 바로 참조합니다.
+구글 드라이브 연동 파일도 지원됩니다. 취업 자료 정리, 여행 계획, 피트니스 기록 추적 같은 실제 업무에 바로 쓸 수 있는 수준입니다.
 
-생성보다 편집에서 1위와의 격차가 훨씬 작습니다.</description><pubDate>Sat, 08 Aug 2026 07:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxVO1Mj3-Q</guid></item><item><title>3/ 순위표에 올라간 모델은 최고 사양이 아니라 Grok Imagine Image 2.0 Low입니다.
-
-Arena는 이 모델이 API로 제공되...</title><link>https://www.threads.net/@choi.openai/post/DbxVPzrD6Ai</link><description>3/ 순위표에 올라간 모델은 최고 사양이 아니라 Grok Imagine Image 2.0 Low입니다.
-
-Arena는 이 모델이 API로 제공되지 않아 앱에서만 평가했다고 밝혔습니다. 같은 조건으로 외부에서 다시 검증하기는 어렵습니다.
-
-세부 항목에서는 아트, 인물, 텍스트 렌더링, 애니메이션, 실사에서 모두 2위를 기록했습니다. 반면 상품·브랜딩·상업 디자인만 3위였습니다.
-
-발표가 실무 활용을 강조한 것과 달리, 상업 디자인 분야에서는 아직 1, 2위 모델과 차이가 남아 있습니다.</description><pubDate>Sat, 08 Aug 2026 07:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxVPzrD6Ai</guid></item><item><title>구글 Creative Lab이 완전 오프라인 음성 번역기 Gemma Translator를 공개했습니다. 라즈베리파이 5에 Gemma 4 E2B를...</title><link>https://www.threads.net/@choi.openai/post/DbxK9ltjxw_</link><description>구글 Creative Lab이 완전 오프라인 음성 번역기 Gemma Translator를 공개했습니다. 라즈베리파이 5에 Gemma 4 E2B를 올린 전용 기기입니다.
-
-코드부터 3D 프린터용 케이스 STL까지 모두 오픈소스로 공개됐습니다. 8만 원대 보드에 마이크와 스피커만 연결하면 인터넷 없이 음성을 듣고 번역해 바로 읽어줍니다.
-
-Gemma 4 E2B는 약 2B 유효 파라미터로 LiteRT-LM에서 실행되고, Moonshine이 음성 처리를 맡습니다.</description><pubDate>Sat, 08 Aug 2026 06:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxK9ltjxw_</guid></item><item><title>깃허브 :
-https://github.com/google-gemma/gemma-translator</title><link>https://www.threads.net/@choi.openai/post/DbxK-ieD87t</link><description>깃허브 :
-https://github.com/google-gemma/gemma-translator</description><pubDate>Sat, 08 Aug 2026 06:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxK-ieD87t</guid></item><item><title>DeepSeek의 투자 유치 자료가 또 유출됐습니다. 현재 기업가치 710억 달러, 약 500조 원입니다.
-
-V4 Pro 프리뷰의 SWE-ben...</title><link>https://www.threads.net/@choi.openai/post/DbxAopNARVH</link><description>DeepSeek의 투자 유치 자료가 또 유출됐습니다. 현재 기업가치 710억 달러, 약 500조 원입니다.
-
-V4 Pro 프리뷰의 SWE-bench Verified 점수가 80.6으로 Claude Opus 4.6의 80.8과 0.2% 차이라는 내용이 포함됐습니다. 프리뷰 단계에서 이미 앤트로픽 최상위 모델과 동급이라는 주장입니다. 정식 버전은 더 높을 거라고 적었습니다.
-
-더 눈에 띄는 건 투자자의 수익 시나리오입니다. 3년 내 IPO를 가정해 비관 1,500억 달러, 중립 3,000억 달러, 낙관 5,000억 달러로 계산했습니다. 비관 시나리오에서도 현재 가치의 두 배입니다. 중국 자본시장이 DeepSeek를 3년 안에 오픈AI·앤트로픽과 어깨를 나란히 하는 회사로 보고 있다는 뜻입니다.
-
-어제 Qwen과 Kimi가 오픈소스 과금을 시작한 데 이어, DeepSeek는 710억 달러짜리 IPO 시나리오가 돌고 있습니다. 중국 AI의 공짜 시대가 끝나가고 있습니다.</description><pubDate>Sat, 08 Aug 2026 04:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbxAopNARVH</guid></item><item><title>Unsloth가 DeepSeek의 speculative decoding 모듈 DSpark를 GGUF에 통합해 V4 Flash의 로컬 추론 속도를...</title><link>https://www.threads.net/@choi.openai/post/Dbw2WbjgOSS</link><description>Unsloth가 DeepSeek의 speculative decoding 모듈 DSpark를 GGUF에 통합해 V4 Flash의 로컬 추론 속도를 약 2배 끌어올렸습니다. 정밀도 손실 없이 최대 초당 120토큰까지 나온다고 합니다.
-
-DSpark는 원래 DeepSeek가 공개한 추론 가속 기술입니다. Unsloth는 이를 `llama.cpp`에 머지하고 GGUF 모델에서도 사용할 수 있게 했습니다.
-DGX Spark 듀얼 구성에서도 테스트가 진행 중이며, 초당 100토큰을 넘기면 로컬 모델도 실제 업무에서 체감 속도가 크게 달라진다는 평가가 나옵니다.
-
-DeepSeek가 API 가격을 올리려고 하는 시점에, 오픈웨이트로 공개한 모델은 커뮤니티 최적화를 거쳐 로컬에서 두 배 빨라졌습니다.
-
-가중치를 공개했더니 외부 개발자들이 추론 비용과 속도를 계속 깎아내리는, 오픈웨이트 생태계의 힘이 그대로 드러나고 있는 것 같습니다.</description><pubDate>Sat, 08 Aug 2026 03:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbw2WbjgOSS</guid></item></channel></rss>
+음성 AI가 대화 상대에서 문서를 이해하는 작업 도구로 진화하고 있는 것 같네요.
+앞으로 음성 AI가 적용될 디바이스의 발전도 정말 기대됩니다.</description><pubDate>Sat, 08 Aug 2026 12:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbx0Hwdjn26</guid></item></channel></rss>
