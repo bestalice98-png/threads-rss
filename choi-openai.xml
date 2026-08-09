@@ -1,39 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 08 Aug 2026 15:17:54 +0000</lastBuildDate><item><title>17살 솔로 개발자가 새로운 모델 아키텍처 'Fusion'으로 Fuse-1-Lite를 공개했습니다. LiquidAI의 LFM 2.5-2.6B에 ...</title><link>https://www.threads.net/@choi.openai/post/DbyIrR9infu</link><description>17살 솔로 개발자가 새로운 모델 아키텍처 'Fusion'으로 Fuse-1-Lite를 공개했습니다. LiquidAI의 LFM 2.5-2.6B에 Qwen 3.6-35B-A3B의 코딩 전문가 960개를 융합한 MoE 모델입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 09 Aug 2026 01:42:05 +0000</lastBuildDate><item><title>우리는 티보의 시대에 살고 있습니다.</title><link>https://www.threads.net/@choi.openai/post/DbzQxlIALDP</link><description>우리는 티보의 시대에 살고 있습니다.</description><pubDate>Sun, 09 Aug 2026 01:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbzQxlIALDP</guid></item><item><title>오픈AI에서 Sora를 만들던 22살 가브리엘 피터슨이 퇴사 3개월 만에 새 AI 작업 도구 Energy를 공개했습니다. 그는 고등학교를 중퇴한...</title><link>https://www.threads.net/@choi.openai/post/DbzNY7zki1v</link><description>오픈AI에서 Sora를 만들던 22살 가브리엘 피터슨이 퇴사 3개월 만에 새 AI 작업 도구 Energy를 공개했습니다. 그는 고등학교를 중퇴한 뒤 오픈AI에 합류했던 인물인데요.
 
-5.72B 파라미터로 Qwen 3.6-35B-A3B에 근접한 성능을 내면서 크기는 5분의 1 수준입니다. 9주 동안 32번의 실패 끝에 완성했고, MLX 포맷도 함께 공개돼 애플 실리콘에서 바로 실행할 수 있습니다. MiniMax M3와 DeepSeek V4 Flash 기반 경량 모델도 이미 제작을 마쳤습니다.
+Energy는 할 일을 한 문장으로 설명하면 브라우저와 이메일, 파일을 오가며 작업을 끝까지 처리하는 에이전트입니다.
 
-MergeKit 개발자 막심 라본은 "초기 모델 머징 열풍이 떠오른다"고 평가했는데요.
-수천억 원 규모의 학습 인프라 없이도 오픈웨이트 모델을 조합해 성능을 끌어올리는 시도가 개인 개발자 수준에서도 나오기 시작하는 것 같습니다.</description><pubDate>Sat, 08 Aug 2026 15:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbyIrR9infu</guid></item><item><title>허깅페이스 :
-https://huggingface.co/Akahsizrr/fuse-1-Lite</title><link>https://www.threads.net/@choi.openai/post/DbyItoDivkV</link><description>허깅페이스 :
-https://huggingface.co/Akahsizrr/fuse-1-Lite</description><pubDate>Sat, 08 Aug 2026 15:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbyItoDivkV</guid></item><item><title>Y Combinator의 대표 게리 탄(Garry Tan)은 “AGI는 거대한 단일 사건으로 나타나는 것이 아니라, 이미 우리 삶 속에 확산되어...</title><link>https://www.threads.net/@choi.openai/post/Dbx-azKAOgO</link><description>Y Combinator의 대표 게리 탄(Garry Tan)은 “AGI는 거대한 단일 사건으로 나타나는 것이 아니라, 이미 우리 삶 속에 확산되어 오고 있다”고 말했습니다.
+기존 ChatGPT나 Claude 구독을 그대로 연결해 쓸 수 있고, Gmail·Drive·Calendar·Slack·Outlook과도 연동됩니다.
 
-대다수 사람들이 데이터센터 속 거대한 ‘신’과 같은 AGI의 등장을 기다리는 사이, AGI는 터미널 창, 마크다운 파일 폴더, 혹은 우리가 잠든 사이에 업무를 끝내놓는 자동화 작업의 형태로 이미 일상에 자리 잡았다는 설명입니다.
+피터슨은 "샌프란시스코 밖에서 AI로 일하는 사람은 1%도 안 된다고 말하며, 기술은 준비됐지만 제품이 따라오지 못하고 있다"고 말합니다.
 
-그는 거창한 인공지능이 아닌, 개개인의 맥락을 이해하고 실제 업무를 수행해 주는 “퍼스널 AGI(Personal AGI)”의 중요성을 강조했습니다.
+목표는 개발자가 아니라 일반 사용자가 쓰는 AI 에이전트입니다. 더 좋은 모델을 만드는 경쟁보다, 이미 나온 모델을 사람들이 실제 일에 쓰게 만드는 제품 경쟁에 베팅한 셈입니다.</description><pubDate>Sun, 09 Aug 2026 01:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbzNY7zki1v</guid></item><item><title>주소 :
+getenergy.com</title><link>https://www.threads.net/@choi.openai/post/DbzNaIOEhas</link><description>주소 :
+getenergy.com</description><pubDate>Sun, 09 Aug 2026 01:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbzNaIOEhas</guid></item><item><title>Y Combinator의 게리 탄(Garry Tan)은 2013년 하루 평균 14줄의 코드를 작성하던 시절과 비교해, 현재 동일한 시간과 노력을...</title><link>https://www.threads.net/@choi.openai/post/DbzB4shAFzI</link><description>Y Combinator의 게리 탄(Garry Tan)은 2013년 하루 평균 14줄의 코드를 작성하던 시절과 비교해, 현재 동일한 시간과 노력을 들여도 AI 에이전트를 활용하면 생산성이 최대 400배까지 향상된다고 설명했습니다. 보수적으로 측정하더라도 최소 8배 이상의 효율을 나타냅니다.
 
-즉, 모두를 위한 거대한 지능보다 ‘오직 한 사람, 바로 당신을 위한 보편적 지능’이 코딩과 생산성의 패러다임을 바꿀 것이라고 평가했습니다.</description><pubDate>Sat, 08 Aug 2026 13:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbx-azKAOgO</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=eRrc1pUY5oU</title><link>https://www.threads.net/@choi.openai/post/Dbx-bqsANCO</link><description>풀영상 :
-https://www.youtube.com/watch?v=eRrc1pUY5oU</description><pubDate>Sat, 08 Aug 2026 13:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbx-bqsANCO</guid></item><item><title>사실이라면 빅 뉴스네요.
+“코딩의 생산성 승수는 코딩뿐만 아니라 모든 지식 노동(Knowledge Work)에 적용됩니다.”
 
-데미스 하사비스의 GDM 의장 이동은 자발적 승진이 아니었다고 Pathfounders가 보도했습니다. 실제로는 구글을...</title><link>https://www.threads.net/@choi.openai/post/Dbx7Kjdj6MQ</link><description>사실이라면 빅 뉴스네요.
+그는 이러한 생산성 혁신이 코딩을 넘어 디자인, 제품 관리(PM), 마케팅 등 모든 영역으로 확장되고 있다고 강조했습니다.</description><pubDate>Sat, 08 Aug 2026 23:20:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbzB4shAFzI</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=eRrc1pUY5oU</title><link>https://www.threads.net/@choi.openai/post/DbzB5bzgE4E</link><description>풀영상 :
+https://www.youtube.com/watch?v=eRrc1pUY5oU</description><pubDate>Sat, 08 Aug 2026 23:20:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbzB5bzgE4E</guid></item><item><title>오픈AI 보안 엔지니어 마이클 돌턴은 멀지 않은 미래에 공격자들이 자율형 AI 에이전트 집단을 의도적으로 무기화하고 배포할 것이라 내다봤습니다....</title><link>https://www.threads.net/@choi.openai/post/Dby2hjJES-A</link><description>오픈AI 보안 엔지니어 마이클 돌턴은 멀지 않은 미래에 공격자들이 자율형 AI 에이전트 집단을 의도적으로 무기화하고 배포할 것이라 내다봤습니다.
 
-데미스 하사비스의 GDM 의장 이동은 자발적 승진이 아니었다고 Pathfounders가 보도했습니다. 실제로는 구글을 완전히 떠나려 했으나, 주가 폭락을 우려한 경영진이 의장직으로 설득했다는 겁니다.
+"오펜시브 AI 에이전트는 기존 인간 레드팀보다 훨씬 빠르고, 대규모로, 뛰어난 협업 능력으로 작동합니다."
 
-제프 딘과 동시에 퇴사하려 했고, 구글은 "두 사람이 한꺼번에 나가면 주가가 붕괴할 것"이라고 판단했다고 합니다. 실제로 의장 이동 발표만으로도 구글 주가는 5% 빠졌습니다. 의장직은 "조직이 안정될 때까지 품위 있게 머무는 자리"라는 게 소식통의 설명입니다.
-
-실제로는 구글의 AI 리더십이 동시에 출구를 찾고 있었고, 경영진은 그 충격을 분산시키는 중인 것으로 보입니다. 하사비스의 아이소모픽 집중은 전략적 선택이 아니라, 남은 시간을 가장 의미 있게 쓰는 방법이었을 수 있습니다.
-
-구글에서의 핵심 인재들이 계속해서 나가고 있다는 것은 중요한 문제라고 생각드네요.</description><pubDate>Sat, 08 Aug 2026 13:02:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbx7Kjdj6MQ</guid></item><item><title>내용 :
-https://pathfounders.com/p/pathfounders-newsletter-our-sources-say-hassabis...</title><link>https://www.threads.net/@choi.openai/post/Dbx7M6rjwwT</link><description>내용 :
-https://pathfounders.com/p/pathfounders-newsletter-our-sources-say-hassabis-wants-out</description><pubDate>Sat, 08 Aug 2026 13:02:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbx7M6rjwwT</guid></item><item><title>GPT-Live가 파일 첨부와 Projects를 지원하기 시작했습니다.
-PDF를 올리고 음성으로 내용을 물어볼 수 있습니다.
-
-Projects ...</title><link>https://www.threads.net/@choi.openai/post/Dbx0Hwdjn26</link><description>GPT-Live가 파일 첨부와 Projects를 지원하기 시작했습니다.
-PDF를 올리고 음성으로 내용을 물어볼 수 있습니다.
-
-Projects 안에서 GPT-Live를 켜면 프로젝트에 넣어둔 모든 문서와 커스텀 지시사항을 음성 대화에서 바로 참조합니다.
-구글 드라이브 연동 파일도 지원됩니다. 취업 자료 정리, 여행 계획, 피트니스 기록 추적 같은 실제 업무에 바로 쓸 수 있는 수준입니다.
-
-음성 AI가 대화 상대에서 문서를 이해하는 작업 도구로 진화하고 있는 것 같네요.
-앞으로 음성 AI가 적용될 디바이스의 발전도 정말 기대됩니다.</description><pubDate>Sat, 08 Aug 2026 12:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dbx0Hwdjn26</guid></item></channel></rss>
+AI 기반 공격 기술이 급격히 가속화됨에 따라, 디펜더 측의 방어 에이전트 기술 역시 시급히 가속화되어야 한다고 강조했습니다.</description><pubDate>Sat, 08 Aug 2026 21:40:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dby2hjJES-A</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=87DyyMV0kCY</title><link>https://www.threads.net/@choi.openai/post/Dby2iYeEVwu</link><description>풀영상 :
+https://www.youtube.com/watch?v=87DyyMV0kCY</description><pubDate>Sat, 08 Aug 2026 21:40:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dby2iYeEVwu</guid></item></channel></rss>
