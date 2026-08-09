@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 09 Aug 2026 08:40:51 +0000</lastBuildDate><item><title>구글이 무너지고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 09 Aug 2026 15:19:39 +0000</lastBuildDate><item><title>정말 걱정되는 소식이 많습니다.
+
+놓치면 안될 AI 소식 45개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/Db0Vg6Dj6c0</link><description>정말 걱정되는 소식이 많습니다.
+
+놓치면 안될 AI 소식 45개를 정리했습니다 🧵</description><pubDate>Sun, 09 Aug 2026 11:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db0Vg6Dj6c0</guid></item><item><title>1/ 오픈AI가 차기 모델 Astra의 사이버 능력을 최고 위험 등급 Critical로 취급하기 시작했습니다.
+
+사람 개입 없이 제로데이를 찾고...</title><link>https://www.threads.net/@choi.openai/post/Db0VhQrj0Nx</link><description>1/ 오픈AI가 차기 모델 Astra의 사이버 능력을 최고 위험 등급 Critical로 취급하기 시작했습니다.
+
+사람 개입 없이 제로데이를 찾고 공격 코드를 만드는 단계가 Critical의 정의입니다. GPT-5.6 Sol까지는 High였고, 아직 공개되지 않은 Astra에 대해 오픈AI는 이 가능성을 배제할 수 없다고 밝혔습니다.
+
+격리 환경, 네트워크·도구 제한, 가중치 보호, 전면 감시를 적용하고 보안 요건을 채울 때까지 일부 내부 개발과 평가를 멈췄습니다.</description><pubDate>Sun, 09 Aug 2026 11:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db0VhQrj0Nx</guid></item><item><title>2/ 같은 Claude Opus 5를 썼는데 ARC-AGI-3 점수가 30.16%에서 95.5%로 올랐습니다.
+
+Prime Intellect가 ...</title><link>https://www.threads.net/@choi.openai/post/Db0VhvSD4JD</link><description>2/ 같은 Claude Opus 5를 썼는데 ARC-AGI-3 점수가 30.16%에서 95.5%로 올랐습니다.
+
+Prime Intellect가 공개한 오픈소스 하네스 Prime Agent는 도구를 파이썬 콘솔 하나로 줄이고, 프롬프트·스킬·메모리·서브에이전트를 에이전트가 스스로 고치게 만들었습니다.
+
+공개 세트 183개 레벨을 전부 통과했고, 같은 자기수정 루프는 Factorio에서는 편법을 스킬로 굳히기도 했습니다.</description><pubDate>Sun, 09 Aug 2026 11:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db0VhvSD4JD</guid></item><item><title>3/ 구글에서 두 달 사이 아홉 명이 나갔습니다.
+
+8월 5일 제프 딘이 27년 만에 회사를 떠나 Discovery Loop를 창업했고, 산자이...</title><link>https://www.threads.net/@choi.openai/post/Db0ViVjD1Uu</link><description>3/ 구글에서 두 달 사이 아홉 명이 나갔습니다.
+
+8월 5일 제프 딘이 27년 만에 회사를 떠나 Discovery Loop를 창업했고, 산자이 게마와트·쿠옥 레·오리올 비냘스가 함께 나갔습니다.
+
+같은 날 데미스 하사비스는 딥마인드 CEO에서 물러나 의장 겸 알파벳 수석과학자로 이동했고, 일상 운영은 코라이 카부쿠오글루가 맡았습니다. 알파벳 주가는 장중 5%까지 밀리며 시가총액 1,900억 달러 가까이가 지워졌습니다.
+
+제미나이 앱 월 사용자는 9억 5천만 명을 넘겼고 GCP는 82% 성장했습니다.</description><pubDate>Sun, 09 Aug 2026 11:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db0ViVjD1Uu</guid></item><item><title>Seedance 2.5는 확실히 한 단계 올라온 것 같습니다.
+
+이번 버전은 최대 30초 영상을 한 번에 생성하면서 인물과 장면의 일관성을 유지...</title><link>https://www.threads.net/@choi.openai/post/Db0Gj9NjzwX</link><description>Seedance 2.5는 확실히 한 단계 올라온 것 같습니다.
+
+이번 버전은 최대 30초 영상을 한 번에 생성하면서 인물과 장면의 일관성을 유지하고, 최대 50개의 레퍼런스를 활용할 수 있습니다.
+
+실제 결과물들을 보면 피부 질감이나 조명뿐 아니라 카메라 움직임, 컷 전환까지 일반 촬영 영상과 구분하기 어려운 사례가 꽤 나오고 있는데요.
+
+Seedance 2.5의 놀라운 활용 사례 12가지를 모았습니다🧵</description><pubDate>Sun, 09 Aug 2026 09:20:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db0Gj9NjzwX</guid></item><item><title>1/ higgsfield@futurist_ice_special</title><link>https://www.threads.net/@choi.openai/post/Db0Dk8Ej_4u</link><description>1/ higgsfield@futurist_ice_special</description><pubDate>Sun, 09 Aug 2026 09:20:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db0Dk8Ej_4u</guid></item><item><title>2/ higgsfield@smartbeetle1651</title><link>https://www.threads.net/@choi.openai/post/Db0DoltlOo-</link><description>2/ higgsfield@smartbeetle1651</description><pubDate>Sun, 09 Aug 2026 09:20:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db0DoltlOo-</guid></item><item><title>3/ higgsfield@higgsfield-aj</title><link>https://www.threads.net/@choi.openai/post/Db0Dr5JDWMW</link><description>3/ higgsfield@higgsfield-aj</description><pubDate>Sun, 09 Aug 2026 09:20:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db0Dr5JDWMW</guid></item><item><title>구글이 무너지고 있습니다.
 
 두 달 사이 구글에서 아홉 명이 나갔습니다.
 
@@ -53,14 +85,4 @@ NPU와 실시간 제어용 MCU를 ...</title><link>https://www.threads.net/@choi
 
 NPU와 실시간 제어용 MCU를 한 보드에 담아 LLM과 VLM, 음성 인식을 오프라인에서 실행합니다. 센서로 입력을 받고, 로컬 AI가 판단한 뒤, 기기를 직접 제어하는 흐름을 보드 하나로 구현했습니다. 메모리는 16GB입니다.
 
-물론 프런티어급 대형 모델을 실행할 성능은 아닙니다. 하지만 AI를 클라우드가 아니라 기기 안에서 직접 돌리는 방향은 분명해지고 있습니다. 가전과 산업용 장비, 로봇 같은 제품들이 인터넷 연결 없이 보고, 듣고, 판단하고, 움직이는 시대가 예상보다 빨리 다가오고 있습니다.</description><pubDate>Sun, 09 Aug 2026 02:40:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbzY1BeDGK5</guid></item><item><title>우리는 티보의 시대에 살고 있습니다.</title><link>https://www.threads.net/@choi.openai/post/DbzQxlIALDP</link><description>우리는 티보의 시대에 살고 있습니다.</description><pubDate>Sun, 09 Aug 2026 01:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbzQxlIALDP</guid></item><item><title>오픈AI에서 Sora를 만들던 22살 가브리엘 피터슨이 퇴사 3개월 만에 새 AI 작업 도구 Energy를 공개했습니다. 그는 고등학교를 중퇴한...</title><link>https://www.threads.net/@choi.openai/post/DbzNY7zki1v</link><description>오픈AI에서 Sora를 만들던 22살 가브리엘 피터슨이 퇴사 3개월 만에 새 AI 작업 도구 Energy를 공개했습니다. 그는 고등학교를 중퇴한 뒤 오픈AI에 합류했던 인물인데요.
-
-Energy는 할 일을 한 문장으로 설명하면 브라우저와 이메일, 파일을 오가며 작업을 끝까지 처리하는 에이전트입니다.
-
-기존 ChatGPT나 Claude 구독을 그대로 연결해 쓸 수 있고, Gmail·Drive·Calendar·Slack·Outlook과도 연동됩니다.
-
-피터슨은 "샌프란시스코 밖에서 AI로 일하는 사람은 1%도 안 된다고 말하며, 기술은 준비됐지만 제품이 따라오지 못하고 있다"고 말합니다.
-
-목표는 개발자가 아니라 일반 사용자가 쓰는 AI 에이전트입니다. 더 좋은 모델을 만드는 경쟁보다, 이미 나온 모델을 사람들이 실제 일에 쓰게 만드는 제품 경쟁에 베팅한 셈입니다.</description><pubDate>Sun, 09 Aug 2026 01:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbzNY7zki1v</guid></item><item><title>주소 :
-getenergy.com</title><link>https://www.threads.net/@choi.openai/post/DbzNaIOEhas</link><description>주소 :
-getenergy.com</description><pubDate>Sun, 09 Aug 2026 01:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbzNaIOEhas</guid></item></channel></rss>
+물론 프런티어급 대형 모델을 실행할 성능은 아닙니다. 하지만 AI를 클라우드가 아니라 기기 안에서 직접 돌리는 방향은 분명해지고 있습니다. 가전과 산업용 장비, 로봇 같은 제품들이 인터넷 연결 없이 보고, 듣고, 판단하고, 움직이는 시대가 예상보다 빨리 다가오고 있습니다.</description><pubDate>Sun, 09 Aug 2026 02:40:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DbzY1BeDGK5</guid></item></channel></rss>
