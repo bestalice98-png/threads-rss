@@ -1,65 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 10 Aug 2026 09:20:15 +0000</lastBuildDate><item><title>가사와 MIDI만으로 노래를 뽑는 VocalRender가 공개됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 10 Aug 2026 15:46:46 +0000</lastBuildDate><item><title>GPT 새로운 이미지 모델 정말 미친 것 같다..</title><link>https://www.threads.net/@choi.openai/post/Db3SRjsAd96</link><description>GPT 새로운 이미지 모델 정말 미친 것 같다..</description><pubDate>Mon, 10 Aug 2026 15:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db3SRjsAd96</guid></item><item><title>Grok 이미지 생성 정말 좋아졌다.</title><link>https://www.threads.net/@choi.openai/post/Db3H-Lbkjlb</link><description>Grok 이미지 생성 정말 좋아졌다.</description><pubDate>Mon, 10 Aug 2026 13:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db3H-Lbkjlb</guid></item><item><title>하.. Opus 5는 정말 못써먹겠다..</title><link>https://www.threads.net/@choi.openai/post/Db3BkidD7SL</link><description>하.. Opus 5는 정말 못써먹겠다..</description><pubDate>Mon, 10 Aug 2026 12:34:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db3BkidD7SL</guid></item><item><title>메타가 300억 파라미터 모델을 무료로 풀었습니다. 
 
-기존 가창 합성은 음소 길이 라벨이나 F0 정렬 음원이 필요한 경우가 ...</title><link>https://www.threads.net/@choi.openai/post/Db2lnpMDUAY</link><description>가사와 MIDI만으로 노래를 뽑는 VocalRender가 공개됐습니다.
+메타는 닷새 전, 최신 코딩 모델을 100만 토큰당 1.25달러 받는 API 전용 상품으...</title><link>https://www.threads.net/@choi.openai/post/Db2_R9YD_hq</link><description>메타가 300억 파라미터 모델을 무료로 풀었습니다. 
 
-기존 가창 합성은 음소 길이 라벨이나 F0 정렬 음원이 필요한 경우가 많았습니다. VocalRender는 작곡 점수처럼 가사·음높이·음표 길이·BPM을 그대로 넣고, 음색 참조 오디오와 함께 48kHz 가창을 만듭니다.
+메타는 닷새 전, 최신 코딩 모델을 100만 토큰당 1.25달러 받는 API 전용 상품으로 내놨습니다.
 
-VoxCPM2 기반이며 멜리스마 같은 한 글자-여러 음표 처리도 자동으로 다룹니다. 공개 수치는 WER 3.88%, 화자 유사도 0.929이고 현재는 중국어 중심이지만, 앞으로 확장이 기대됩니다.</description><pubDate>Mon, 10 Aug 2026 08:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2lnpMDUAY</guid></item><item><title>프로젝트 주소 :
-https://pymaster17.github.io/VocalRender/</title><link>https://www.threads.net/@choi.openai/post/Db2loeODfOS</link><description>프로젝트 주소 :
-https://pymaster17.github.io/VocalRender/</description><pubDate>Mon, 10 Aug 2026 08:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2loeODfOS</guid></item><item><title>여론도, 시장도, 선거도 지배할 수 있다.
+그리고 오늘 같은 회사가 300억 파라미터 모델의 가중치를 Apache 2.0으로 풀었습니다.
+곧 그 유료 플래그십의 가중치도 공개하겠다고 합니다. 라마 4 이후 15개월 동안 개방형 모델을 출시하지 않았었는데요.
 
-하버드와 MIT가 오픈AI, 앤트로픽, 딥마인드, xAI 출신 200여 명과 함께 83억 명의 가상...</title><link>https://www.threads.net/@choi.openai/post/Db2bZLKgkkk</link><description>여론도, 시장도, 선거도 지배할 수 있다.
+16개월 만에 다시 가중치를 여는 메타의 계산을 정리했습니다 🧵</description><pubDate>Mon, 10 Aug 2026 12:14:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2_R9YD_hq</guid></item><item><title>1/ 메타가 8월 10일 Muse Glimmer를 공개했습니다.
 
-하버드와 MIT가 오픈AI, 앤트로픽, 딥마인드, xAI 출신 200여 명과 함께 83억 명의 가상 인간 시뮬레이션 MatrAIx를 공개했습니다. 지구 전체 인구 수입니다.
+비전 인코더 18억 파라미터를 포함해 총 296억 파라미터 규모의 밀집형 멀티...</title><link>https://www.threads.net/@choi.openai/post/Db2_SfKDwx1</link><description>1/ 메타가 8월 10일 Muse Glimmer를 공개했습니다.
 
-가상 인간 한 명당 나이, 직업, 소득, 성격, 식습관, 기술 수준, 언어 능력 등 1,290개의 속성이 설정돼 있습니다.
+비전 인코더 18억 파라미터를 포함해 총 296억 파라미터 규모의 밀집형 멀티모달 모델입니다. 텍스트와 이미지를 함께 입력받아 텍스트로 응답합니다.
 
-설문, 채팅, 웹 브라우징, 앱 사용까지 네 가지 환경에서 테스트할 수 있고, 모든 클릭과 대화와 페이지 이동이 기록됩니다. 91.5%는 설정된 성격을 그대로 유지하며 행동했습니다.
+공식 컨텍스트 길이는 131,072토큰으로, 긴 문서와 이미지, 여러 차례의 도구 실행 결과를 한 작업 안에서 이어서 처리할 수 있습니다.
 
-이제 제품을 출시하기 전에 83억 명에게 미리 테스트할 수 있습니다.
-"월급 300만 원인 사람과 3,000만 원인 사람은 어떻게 다르게 반응할까", "가격을 10% 올리면 이탈률은 얼마나 될까" 같은 질문을 실제 사용자 없이 밤새 시뮬레이션으로 답할 수 있습니다.
+원본 BF16 가중치와 32GB·24GB 장비용 양자화 버전, 비전 인코더, DFlash 초안 모델까지 모두 공개됐습니다. 라이선스는 Apache 2.0입니다.
 
-오픈소스이고 Persona-8B 모델과 코드가 전부 공개돼 있습니다.</description><pubDate>Mon, 10 Aug 2026 07:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2bZLKgkkk</guid></item><item><title>깃허브 :
-https://github.com/MatrAIx-ai/MatrAIx-Persona-8B</title><link>https://www.threads.net/@choi.openai/post/Db2bbqBAm5U</link><description>깃허브 :
-https://github.com/MatrAIx-ai/MatrAIx-Persona-8B</description><pubDate>Mon, 10 Aug 2026 07:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2bbqBAm5U</guid></item><item><title>애플이 중국 CXMT의 메모리 칩을 아이폰과 맥북에 테스트 중이라고 WSJ가 보도했습니다. 중국 판매 제품에 먼저 적용하고 백악관 승인을 받으려...</title><link>https://www.threads.net/@choi.openai/post/Db2RFeLDaQQ</link><description>애플이 중국 CXMT의 메모리 칩을 아이폰과 맥북에 테스트 중이라고 WSJ가 보도했습니다. 중국 판매 제품에 먼저 적용하고 백악관 승인을 받으려는 계획입니다.
+공개된 파일만으로 로컬 멀티모달 에이전트의 전체 실행 환경을 구성할 수 있습니다. 메타 슈퍼인텔리전스 랩이 만든 모델 중 가중치를 공개한 첫 사례입니다.</description><pubDate>Mon, 10 Aug 2026 12:14:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2_SfKDwx1</guid></item><item><title>2/ 메타는 한때 오픈소스 AI 진영의 맏형이었습니다.
 
-CXMT는 올해 생산 능력이 이미 풀가동 중입니다. HP와 에이서는 이미 CXMT 메모리를 확보했고, 일부 제품은 마이크론·SK하이닉스·삼성보다 비싸게 팔리고 있습니다. "중국이 시장을 값싸게 잠식할 것"이라는 예측은 현실에서 정반대로 가고 있습니다.
+Llama를 공개하며 개인이 자기 장비에 모델을 올려 돌리는 문화를 키웠지만, Llam...</title><link>https://www.threads.net/@choi.openai/post/Db2_TDHj2tn</link><description>2/ 메타는 한때 오픈소스 AI 진영의 맏형이었습니다.
 
-더 깊은 층은 HBM과 범용 D램의 생산 능력이 제로섬이라는 점입니다. AI 데이터센터가 HBM을 빨아들이면서 삼성·SK하이닉스·마이크론은 웨이퍼 투입량을 HBM으로 돌렸고, 스마트폰·PC용 범용 D램은 상대적으로 줄었습니다.
+Llama를 공개하며 개인이 자기 장비에 모델을 올려 돌리는 문화를 키웠지만, Llama 4가 성능 논란에 휩싸이고 최상위 모델 Behemoth가 끝내 공개되지 않으면서 그 자리를 내줬습니다.
 
-같은 공장, 같은 웨이퍼에서 HBM을 더 뽑으면 범용 D램은 덜 나옵니다. 애플의 자금력으로도 살 수 있는 칩이 없다는 뜻입니다.</description><pubDate>Mon, 10 Aug 2026 05:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2RFeLDaQQ</guid></item><item><title>애플은 CXMT에 맞춤형 칩을 주문할 수 없습니다. 미국 수출통제상 기술 이전이 금지돼 범용 부품만 쓸 수 있고, 그러려면 기존 제품 설계를 일...</title><link>https://www.threads.net/@choi.openai/post/Db2RGUtDXyM</link><description>애플은 CXMT에 맞춤형 칩을 주문할 수 없습니다. 미국 수출통제상 기술 이전이 금지돼 범용 부품만 쓸 수 있고, 그러려면 기존 제품 설계를 일부 변경해야 합니다.
+2025년 12월에는 차세대 모델 Avocado가 Llama와 달리 폐쇄형으로 나올 가능성이 높다는 보도가 나왔습니다.
+같은 시기 FAIR를 세우고 오랫동안 오픈소스 AI를 옹호해온 메타 최고 AI 과학자 얀 르쿤도 회사를 떠났습니다.
 
-제품 재설계 비용을 감수하고서라도 메모리를 확보해야 할 만큼 공급이 조여졌다는 뜻입니다. 미국 국방부는 CXMT를 중국 군사기업 명단에 올렸고 정치권은 부정적입니다.
+2026년 3월에는 Avocado마저 추론과 코딩 능력이 부족하다는 내부 평가를 받으며 출시가 미뤄졌습니다.
 
-CXMT는 2028년까지 생산능력을 두 배로 늘릴 계획이지만, 지금 필요한 칩은 2028년에 오는 칩으로 해결되지 않습니다.
+4월 슈퍼인텔리전스 랩이 내놓은 Muse Spark부터는 가중치 공개도 끊겼습니다. Llama 4 이후 다시 가중치를 공개하기까지 약 16개월이 걸렸습니다.</description><pubDate>Mon, 10 Aug 2026 12:14:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2_TDHj2tn</guid></item><item><title>3/ 메타는 8월 5일 Muse Spark 1.2와 터미널 코딩 에이전트 Muse Code를 공개했습니다.
 
-8월 5일 삼성·SK하이닉스의 AMEC 장비 테스트, 8월 7일 TSMC의 D램 부족으로 인한 애플 프로세서 출하 지연, 그리고 이번 CXMT 보도까지. 한 주 동안 반도체 공급망의 세 층이 동시에 조여지고 있습니다.
+둘 다 Meta Model API를...</title><link>https://www.threads.net/@choi.openai/post/Db2_ToSDysn</link><description>3/ 메타는 8월 5일 Muse Spark 1.2와 터미널 코딩 에이전트 Muse Code를 공개했습니다.
 
-기사 :
-https://www.wsj.com/tech/apple-tests-chinese-memory-chips-as-supply-squeeze-bites-d292bb97</description><pubDate>Mon, 10 Aug 2026 05:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2RGUtDXyM</guid></item><item><title>호주에서 한 남성이 Claude에게 인기 헬스장 수업 예약을 맡겼습니다.
+둘 다 Meta Model API를 통해 쓰는 유료 상품입니다. 최대 100만 토큰 컨텍스트를 지원하며, 입력 요금은 100만 토큰당 1.25달러입니다.
 
-에이전트는 소프트웨어 취약점을 찾아 몇 주 뒤 수업까지 미리 예약했고...</title><link>https://www.threads.net/@choi.openai/post/Db2GzxVkzPs</link><description>호주에서 한 남성이 Claude에게 인기 헬스장 수업 예약을 맡겼습니다.
+닷새 뒤에는 30B 모델의 가중치를 공개했습니다. 저커버그는 Muse Spark 1.2도 곧 공개하겠다고 밝혔습니다.
 
-에이전트는 소프트웨어 취약점을 찾아 몇 주 뒤 수업까지 미리 예약했고, 대기 순번을 올려달라는 요청을 받자 API에 권한 검증이 없다는 사실을 알아내어 1등의 예약을 취소하고 그 자리를 차지했습니다.
+알렉산더 왕은 공개 범위를 “Spark 1.2의 한 버전”이라고 적으며 “서로 다른 두 모델이 사람들의 손으로 가고, 더 많은 모델이 뒤따른다”고 했습니다.
 
-에이전트는 사용자의 목표에 충실했습니다.
-시킨 일을 가장 효과적인 방법으로 해냈습니다. 문제는 이런 에이전트를 수백만 명이 하나씩 갖게 될 때입니다. 모두가 자기 이익을 위해 시스템의 빈틈을 찾아 움직이기 시작합니다.
+왕은 열흘 전부터 도구와 대형 모델, 오픈소스 라인업을 함께 준비하고 있다고 예고했습니다.
 
-모두가 슈퍼가 되면 아무도 슈퍼가 아닙니다. 에이전트가 보편화될수록 시스템의 취약점은 곧 경쟁 수단이 되고, 한 사람의 편의는 다른 사람의 손해로 이어집니다.
-
-지금은 헬스장 예약이지만, 앞으로 항공권, 병원 예약, 콘서트 티켓, 입시 원서 접수까지 온갖 대기열이 에이전트들의 경쟁장이 될 수 있습니다.
-
-우리가 쓰는 수많은 시스템은 모든 악용 가능성을 기술적으로 차단해서 유지되는 게 아닙니다.</description><pubDate>Mon, 10 Aug 2026 04:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2GzxVkzPs</guid></item><item><title>법과 규칙이 있고, 그보다 더 일상적인 층위에서는 사회적 규범과 도덕성이 작동합니다.
-
-시스템에 빈틈이 있더라도 남의 예약을 몰래 취소하거나, ...</title><link>https://www.threads.net/@choi.openai/post/Db2G06FE0z4</link><description>법과 규칙이 있고, 그보다 더 일상적인 층위에서는 사회적 규범과 도덕성이 작동합니다.
-
-시스템에 빈틈이 있더라도 남의 예약을 몰래 취소하거나, 순서를 조작하거나, 다른 사람의 권리를 침해해서까지 내 목표를 달성해서는 안 된다고 대부분의 사람은 판단합니다.
-
-기술적으로 가능하더라도 하지 않는 행동들이 있고, 바로 그 자제력이 시스템을 떠받치는 일부이기도 합니다.
-
-문제는 개인에게 강하게 정렬된 AI 에이전트입니다. 에이전트가 이런 규범과 윤리적 판단을 충분히 공유하지 않은 채 사용자의 목표만 충실하게 추구한다면, 인간이라면 망설이거나 포기했을 수단도 거리낌 없이 선택할 수 있습니다. 취약점은 더 이상 방치된 빈틈으로 남지 않고, 목표를 달성하기 위한 수단이 됩니다.
-
-수백만 개의 에이전트가 각자의 사용자를 위해 그렇게 움직이기 시작하면, 지금까지 기술적 방어뿐 아니라 인간의 자제와 규범에 기대어 유지되던 시스템의 전제가 무너질 수 있습니다.</description><pubDate>Mon, 10 Aug 2026 04:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2G06FE0z4</guid></item><item><title>기사 :
-https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-c...</title><link>https://www.threads.net/@choi.openai/post/Db2G2LLE6eP</link><description>기사 :
-https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986</description><pubDate>Mon, 10 Aug 2026 04:01:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2G2LLE6eP</guid></item></channel></rss>
+30B 모델 하나로 끝나는 발표가 아닙니다. 도구, 대형 모델, 오픈웨이트 모델을 차례로 내놓는 제품군 공개입니다.</description><pubDate>Mon, 10 Aug 2026 12:14:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db2_ToSDysn</guid></item></channel></rss>
