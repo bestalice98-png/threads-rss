@@ -1,52 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 11 Aug 2026 01:42:09 +0000</lastBuildDate><item><title>접수 마감이 5시간 정도 남았습니다.
-정말 좋은 기회이니 놓치고 지나가지 마시고 한 번 확인해보세요.</title><link>https://www.threads.net/@choi.openai/post/Db4a3C1DyCS</link><description>접수 마감이 5시간 정도 남았습니다.
-정말 좋은 기회이니 놓치고 지나가지 마시고 한 번 확인해보세요.</description><pubDate>Tue, 11 Aug 2026 01:34:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4a3C1DyCS</guid></item><item><title>앤트로픽이 Claude Sonnet 5의 9월 가격 인상을 취소하고 도입가를 영구화했습니다. $2/$10, 원래 계획보다 33% 낮은 가격입니다...</title><link>https://www.threads.net/@choi.openai/post/Db4XAOginXk</link><description>앤트로픽이 Claude Sonnet 5의 9월 가격 인상을 취소하고 도입가를 영구화했습니다. $2/$10, 원래 계획보다 33% 낮은 가격입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 11 Aug 2026 08:54:05 +0000</lastBuildDate><item><title>마이크로소프트의 MAI-Image-2.6이 텍스트-이미지 아레나 2위에 올랐습니다.
+GPT Image 2에 45점 차, 3위 Grok Imagi...</title><link>https://www.threads.net/@choi.openai/post/Db5KdwWkcCr</link><description>마이크로소프트의 MAI-Image-2.6이 텍스트-이미지 아레나 2위에 올랐습니다.
+GPT Image 2에 45점 차, 3위 Grok Imagine보다 20점 앞섭니다.
 
-문제는 이 가격조차 경쟁이 안 된다는 겁니다. GPT-5.6 Luna는 $0.20/$1.20, DeepSeek V4 Flash는 $0.14/$0.28, Muse Spark Contributor는 $0.10/$0.20입니다. Sonnet 5는 여전히 8~50배 비쌉니다.
+2.5 버전이 10위였는데 한 번에 2위로 점프했습니다. 3D 이미징·모델링은 1위, 카툰·애니메이션·판타지는 2위, 제품·브랜딩·상업 디자인도 2위, 텍스트 렌더링도 2위입니다. 다음 주 플레이그라운드와 API로 공개됩니다.
 
-가격 전쟁의 흐름을 보면 앤트로픽이 가장 늦게 움직였습니다.
-오픈AI는 Luna를 무료 무제한으로 풀었고, 메타는 Muse Glimmer를 오픈웨이트로 전환했고, 중국 랩들은 오픈소스 과금을 시작했습니다.
+무스타파 술레이만 CEO가 "끊임없이 언덕을 올랐다"고 표현한 이 결과는 마이크로소프트가 오픈AI 의존도를 줄이고 자체 이미지 모델을 키워온 결실입니다
+오픈AI, 메타, 구글, MS까지 모두가 각자 최선의 모델을 내놓는 구도가 됐습니다.</description><pubDate>Tue, 11 Aug 2026 08:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db5KdwWkcCr</guid></item><item><title>Grok 4.6이 Cursor에 잠깐 올라왔다가 내려갔습니다. 실수로 먼저 배포된 걸로 보입니다.
 
-앤트로픽은 가격 인상을 예고했다가 경쟁 압박에 취소한 셈입니다. 프리미엄 전략이 통하지 않는다는 걸 인정한 것과 다름없습니다.</description><pubDate>Tue, 11 Aug 2026 01:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4XAOginXk</guid></item><item><title>🚨 속보) 약속의 코덱스 리셋</title><link>https://www.threads.net/@choi.openai/post/Db4RcOwj0Ea</link><description>🚨 속보) 약속의 코덱스 리셋</description><pubDate>Tue, 11 Aug 2026 00:12:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4RcOwj0Ea</guid></item><item><title>오늘 이후로는 초기화 잘 안해줄 것 같으니 아껴써야지..</title><link>https://www.threads.net/@choi.openai/post/Db4RjZhjzbb</link><description>오늘 이후로는 초기화 잘 안해줄 것 같으니 아껴써야지..</description><pubDate>Tue, 11 Aug 2026 00:13:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4RjZhjzbb</guid></item><item><title>와.. 미친 하루입니다..
-리만 가설이 풀리는 날이 정말 올까요?
+1.5T 파라미터, 256K 컨텍스트, Gr...</title><link>https://www.threads.net/@choi.openai/post/Db5AJvVgqzS</link><description>Grok 4.6이 Cursor에 잠깐 올라왔다가 내려갔습니다. 실수로 먼저 배포된 걸로 보입니다.
 
-앤트로픽이 미공개 Claude에게 167년째 풀리지 않은 리만 가설을 직접 ...</title><link>https://www.threads.net/@choi.openai/post/Db4MKUqj67o</link><description>와.. 미친 하루입니다..
-리만 가설이 풀리는 날이 정말 올까요?
+1.5T 파라미터, 256K 컨텍스트, Grok 4.5와 같은 기반 모델에 SFT·RL을 대폭 강화한 버전입니다. 머스크가 7월 29일 "8월 7일 출시"라고 했다가 8월 4일 "다음 주"로 미뤘고, 지금은 폴리마켓에서 이번 주 내 출시 확률 84%입니다. Grok 4.7은 2.1T로 몇 주 뒤 따라옵니다.
 
-앤트로픽이 미공개 Claude에게 167년째 풀리지 않은 리만 가설을 직접 풀어보라고 시켰습니다.
-가설 자체는 못 풀었지만, 6년간 멈춰 있던 관련 기록을 41.6%에서 67.2%까지 끌어올렸습니다.
-놀라운 과정을 정리했습니다🧵</description><pubDate>Mon, 10 Aug 2026 23:26:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4MKUqj67o</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심만 정리해드립니다.
+잠깐 테스트한 사용자들 반응은 "게으름 문제가 해결됐다" "전반적으로 괜찮은 개선"이라고 평가했는데요.
 
-1. 앤트로픽 직원 재러드 섬너가 연구용 클로드에게 리만 가설을 풀어보라고 시킴.
-2. 클로드...</title><link>https://www.threads.net/@choi.openai/post/Db4MK4vj2Iq</link><description>1/ 바쁘신 분들을 위해 핵심만 정리해드립니다.
+머스크의 출시 예고가 세 번이나 미뤄진 모델이지만, 실수로라도 Cursor에 올라왔다는 건 출시가 임박한 것으로 보입니다.</description><pubDate>Tue, 11 Aug 2026 07:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db5AJvVgqzS</guid></item><item><title>오픈AI가 Daybreak를 Blue와 Red로 나누고 GPT-5.6-Cyber를 공개했습니다.
 
-1. 앤트로픽 직원 재러드 섬너가 연구용 클로드에게 리만 가설을 풀어보라고 시킴.
-2. 클로드는 기존 아이디어 106개를 검토한 뒤 쓸 만한 증명 줄기가 없다고 판단함.
-3. 그래도 밀어붙이자 6단계로 60개 경로를 탐색했고 절반이 폐기됨.
-4. 한 실패에서 찾은 장애물을 넘기 위해 투입된 E2가 3시간 34분 만에 영점의 절반이 임계선 위에 있음을 증명함.
-5. 코디네이터는 틀렸을 가능성이 높다고 보고 적대적 심사자들을 붙였지만 논증이 버팀.
-6. 이후 다른 에이전트가 남긴 행렬 부등식을 발견해 작업을 이어가면서 2/3까지 올라감.
-7. 최종 하한은 41.6%에서 67.2%로 뛰었고 Lean 형식 검증도 통과함.
+GPT-5.6-Cyber는 고위험 사이버 요청...</title><link>https://www.threads.net/@choi.openai/post/Db4zWfViUnO</link><description>오픈AI가 Daybreak를 Blue와 Red로 나누고 GPT-5.6-Cyber를 공개했습니다.
 
-→ 50년간 이어진 기존 방법 대신 쌍상관 계산을 선형대수로 새롭게 해석해 기록을 깼다.</description><pubDate>Mon, 10 Aug 2026 23:26:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4MK4vj2Iq</guid></item><item><title>2/ 8월 10일 앤트로픽은 미공개 연구용 클로드가 리만 가설을 풀도록 시도하는 과정에서 뜻밖의 성과를 냈다고 발표했습니다. 
+GPT-5.6-Cyber는 고위험 사이버 요청의 95%에 답했으며, 실제 Chrome V8 취약점 발견과 Google의 패치로도 이어졌는데요.
 
-리만 제타 함수...</title><link>https://www.threads.net/@choi.openai/post/Db4MLVrj6bb</link><description>2/ 8월 10일 앤트로픽은 미공개 연구용 클로드가 리만 가설을 풀도록 시도하는 과정에서 뜻밖의 성과를 냈다고 발표했습니다. 
+핵심은 안전 관리 방식의 변화입니다. 모델이 요청 자체를 거부하는 대신 승인된 사용자에게만 접근권을 주고, 신원 확인·실행 감시·권한 제한으로 위험을 관리하는 방향입니다.
 
-리만 제타 함수는 소수가 어디에, 어떤 간격으로 나타나는지에 대한 정보를 담고 있는 함수입니다.
+오픈AI Daybreak 확장과 GPT-5.6-Cyber를 분석했습니다 🧵</description><pubDate>Tue, 11 Aug 2026 05:15:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4zWfViUnO</guid></item><item><title>1/ 오픈AI는 8월 10일 사이버보안 프로그램 Daybreak를 두 등급으로 나눴습니다.
+원래는 승인받은 방어자에게 사이버 작업용 모델을 제공...</title><link>https://www.threads.net/@choi.openai/post/Db40Kzsjx7a</link><description>1/ 오픈AI는 8월 10일 사이버보안 프로그램 Daybreak를 두 등급으로 나눴습니다.
+원래는 승인받은 방어자에게 사이버 작업용 모델을 제공하는 단일 프로그램이었습니다.
 
-특히 이 함수의 값이 0이 되는 지점인 ‘영점’의 위치는 소수가 얼마나 규칙적으로 흩어져 있는지와 밀접하게 연결돼 있습니다.
+이제 Daybreak Blue는 GPT-5.6 Sol 같은 범용 프런티어 모델을 제공하고, Daybreak Red는 사이버보안에 특화해 훈련한 모델을 제공합니다. 이번에 Red에 추가된 신형 모델이 GPT-5.6-Cyber입니다.
 
-리만은 1859년 여덟 쪽짜리 논문에서 이 영점들이 모두 복소평면의 특정한 수직선 위에 놓일 것이라고 추측했습니다. 증명은 자신의 연구 목적에 필요하지 않다며 남기지 않았습니다. 이 짧은 추측이 바로 167년째 풀리지 않은 ‘리만 가설’입니다.
+Blue는 취약점 탐색과 보안 코드 리뷰, 악성코드 분석, 침해 대응, 패치 검증 같은 작업에 권장됩니다. Red는 취약점 연구와 익스플로잇 검증, 보안 테스트처럼 더 높은 수준의 사이버 작업을 대상으로 합니다.
 
-클레이 수학연구소가 내건 상금은 100만 달러이며, 수많은 정수론 연구가 이 가설이 참일 때 더 강한 결론을 얻을 수 있습니다.
+프로그램을 둘로 나눈 것은 같은 방어 목적 안에서도 필요한 능력과 위험 수준이 크게 다르기 때문입니다. 오픈AI는 대부분의 방어자에게 Blue부터 시작하라고 권합니다.</description><pubDate>Tue, 11 Aug 2026 05:15:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db40Kzsjx7a</guid></item><item><title>2/ 이번에 달라진 것은 모델 성능이 아니라 안전장치가 작동하는 방식입니다.
 
-이 수직선 위에 있다고 증명된 영점의 비율을 기존 41.6%에서 67.2%로 끌어올린 것입니다. 가설 자체를 풀지는 못했지만, 기존 기록을 크게 높였습니다.</description><pubDate>Mon, 10 Aug 2026 23:26:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4MLVrj6bb</guid></item><item><title>3/ 41.6%가 얼마나 높은 기록이었는지 알아야 이번 성과의 크기가 보입니다.
+오픈AI는 일반 배포 환경에서 사이버 관련 요청을 시스템 차원에서...</title><link>https://www.threads.net/@choi.openai/post/Db40LxEj3EC</link><description>2/ 이번에 달라진 것은 모델 성능이 아니라 안전장치가 작동하는 방식입니다.
 
-1914년 하디는 이 수직선 위에 영점이 무한히 많다는 사실을...</title><link>https://www.threads.net/@choi.openai/post/Db4MLzvDz89</link><description>3/ 41.6%가 얼마나 높은 기록이었는지 알아야 이번 성과의 크기가 보입니다.
+오픈AI는 일반 배포 환경에서 사이버 관련 요청을 시스템 차원에서 걸러냅니다. 악용을 막기 위한 조치지만, 정상적인 방어 작업까지 함께 제한될 수 있습니다.
 
-1914년 하디는 이 수직선 위에 영점이 무한히 많다는 사실을 처음 증명했습니다. 1942년 셀베르그는 전체 영점 가운데 일정 비율 이상이 이 선 위에 있다는 데까지 나아갔지만, 정확한 비율은 제시하지 않았습니다.
+Daybreak Blue는 이 시스템 필터를 완화합니다. 모델 자체는 GPT-5.6 Sol 그대로 두고, 침해 탐지와 대응, 조사, 취약점 관리, 보안 점검 같은 방어 작업에서 원래 성능을 더 넓게 쓸 수 있게 한 것입니다.
 
-큰 도약은 1974년 레빈슨이 새로운 방법으로 3분의 1 이상을 증명하면서 나왔습니다. 1989년 콘리는 이를 5분의 2까지 높였고, 이후 여러 수학자의 개선을 거쳐 2020년에는 12분의 5, 약 41.66%에 도달했습니다.
+그래도 Sol 자체가 거절하는 영역은 남습니다. 운영 중인 시스템을 대상으로 한 모의 침투처럼 공격과 방어의 경계가 가까운 요청이 대표적입니다. GPT-5.6-Cyber는 이런 작업에서 불필요한 거절을 줄이도록 따로 훈련한 모델입니다.</description><pubDate>Tue, 11 Aug 2026 05:15:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db40LxEj3EC</guid></item><item><title>3/ 오픈AI는 Advanced Cybersecurity Completion Rate라는 내부 평가도 새로 만들었습니다.
 
-이후 6년간 이 기록은 깨지지 않았습니다. 레빈슨의 33.3%에서 41.66%까지 46년에 걸쳐 오른 폭은 약 8.3%포인트입니다. 그런데 이번에는 41.6%에서 67.2%로 단번에 25.6%포인트가 뛰었습니다. 지난 46년간 수학자들이 끌어올린 폭의 세 배가 한 번에 나온 셈입니다.</description><pubDate>Mon, 10 Aug 2026 23:26:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4MLzvDz89</guid></item></channel></rss>
+익스플로잇 체인 개발...</title><link>https://www.threads.net/@choi.openai/post/Db40MzlD8Fn</link><description>3/ 오픈AI는 Advanced Cybersecurity Completion Rate라는 내부 평가도 새로 만들었습니다.
+
+익스플로잇 체인 개발과 로그인 절차 우회, 관리자 권한 탈취처럼 위험도가 높은 사이버 요청을 넣었을 때 모델이 거절하지 않고 답변을 끝까지 내놓는 비율입니다.
+
+GPT-5.6-Cyber는 95.0%를 기록했습니다. GPT-5.6 Sol은 1.5%, Blue 접근이 적용된 Sol은 2.0%, 직전 세대 GPT-5.5-Cyber는 57.3%였습니다.
+
+여기서 95%는 공격 성공률이 아닙니다. 위험한 요청에도 답변을 계속한 비율입니다. 오픈AI도 이 평가를 만든 목적을 모델의 거부가 얼마나 줄었는지 측정하기 위해서라고 설명했습니다.</description><pubDate>Tue, 11 Aug 2026 05:15:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db40MzlD8Fn</guid></item><item><title>젠슨 황이 오늘 새벽 ‘AI 팩토리 컴퓨트는 투자 가능한 자산이 되고 있다’라는 글을 업로드 했는데요.
+전력, CUDA, 고객 사용량을 묶어 A...</title><link>https://www.threads.net/@choi.openai/post/Db4rvvuDwNq</link><description>젠슨 황이 오늘 새벽 ‘AI 팩토리 컴퓨트는 투자 가능한 자산이 되고 있다’라는 글을 업로드 했는데요.
+전력, CUDA, 고객 사용량을 묶어 AI 컴퓨트를 장기 자본이 심사하는 인프라로 만들겠다고 선언했습니다.
+엔비디아가 GPU 다음에 설계하는 시장을 정리했습니다 🧵</description><pubDate>Tue, 11 Aug 2026 04:02:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4rvvuDwNq</guid></item><item><title>1/ 8월 10일 젠슨 황은 아폴로, 블랙록, 블랙스톤, 브룩필드, 골드만삭스, KKR과 함께 AI 컴퓨트 금융 플랫폼을 만들겠다고 밝혔습니다....</title><link>https://www.threads.net/@choi.openai/post/Db4rwXqj43v</link><description>1/ 8월 10일 젠슨 황은 아폴로, 블랙록, 블랙스톤, 브룩필드, 골드만삭스, KKR과 함께 AI 컴퓨트 금융 플랫폼을 만들겠다고 밝혔습니다. 목표는 장기적으로 5,000억 달러가 넘는 제3자 자본을 모아 AI 팩토리를 짓는 것입니다.
+
+금융기관은 고객의 신용만 보지 않습니다. 실제 수요와 가동률, 현금흐름, GPU 잔존가치를 따로 심사합니다. 엔비디아도 칩과 서버를 공급하는 데서 그치지 않고, 설비가 얼마나 벌고 얼마나 오래 쓰일지를 판단하는 기준까지 제시합니다.
+
+컴퓨트를 장기 자본이 투자할 수 있는 인프라 자산으로 만들겠다는 구상입니다. 단순히 구매자의 자본지출을 늘리는 게 아니라, AI 설비를 금융기관이 수익성과 위험을 따져 자금을 댈 수 있는 투자 대상으로 만드는 작업입니다.</description><pubDate>Tue, 11 Aug 2026 04:02:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4rwXqj43v</guid></item><item><title>2/ 엔비디아가 말하는 AI 팩토리는 GPU를 쌓아둔 데이터센터와 다릅니다.
+전력과 데이터를 넣어 토큰을 생산하고, 여러 고객에게 컴퓨팅 자원을...</title><link>https://www.threads.net/@choi.openai/post/Db4rxZ3j8Nh</link><description>2/ 엔비디아가 말하는 AI 팩토리는 GPU를 쌓아둔 데이터센터와 다릅니다.
+전력과 데이터를 넣어 토큰을 생산하고, 여러 고객에게 컴퓨팅 자원을 판매하는 설비입니다. 엔비디아는 이를 한 번 사고 끝나는 장비가 아니라, 가동률에 따라 매출을 내는 생산 자산으로 보고 있습니다.
+
+금융기관이 평가하는 것도 서버 한 대가 아닙니다. 고객 계약과 가동률, 전력비, 토큰 단가, 장비를 나중에 어디에 다시 쓸 수 있는지를 함께 봅니다. 엔비디아는 CUDA가 장비의 사용기간을 늘리고, 같은 컴퓨트를 여러 모델과 업무에 활용할 수 있게 해 장비의 잔존가치를 높인다고 설명합니다.
+
+결국 투자자가 따지는 것은 GPU 가격보다 앞으로 얼마나 오래 안정적으로 사용료를 받을 수 있느냐입니다. AI에 필요한 컴퓨트가 늘어날수록 필요한 자금이 장비 구매에서 프로젝트 금융으로 이동하는 이유입니다.</description><pubDate>Tue, 11 Aug 2026 04:02:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4rxZ3j8Nh</guid></item><item><title>3/ 엔비디아는 AI 팩토리의 가치를 평가할 기준도 직접 만들고 있습니다.
+
+DSX는 칩과 서버, 네트워크, 전력, 냉각, 소프트웨어를 하나의 ...</title><link>https://www.threads.net/@choi.openai/post/Db4ryESD5jh</link><description>3/ 엔비디아는 AI 팩토리의 가치를 평가할 기준도 직접 만들고 있습니다.
+
+DSX는 칩과 서버, 네트워크, 전력, 냉각, 소프트웨어를 하나의 설비로 묶고, MaxLPS는 전력 1메가와트당 얼마나 많은 토큰을 처리할 수 있는지 계산합니다. 같은 전력으로 최대 40% 더 많은 GPU를 배치할 수 있다는 설명도 GPU 대수보다 전력당 처리량과 비용이 중요해졌다는 뜻입니다.
+
+DSX OS는 스케줄링과 장애 대응, 여러 고객이 함께 쓰는 환경의 운영을 표준화합니다. 엔비디아가 Q1 FY27 데이터센터 매출 752억 달러를 발표하면서 고객을 하이퍼스케일러와 AI 클라우드, 산업, 기업으로 나눠 제시한 것도 같은 흐름입니다.
+
+엔비디아의 경쟁력도 칩 성능에만 머물지 않습니다. 전력당 처리량과 모델 최적화, 실제 배포와 운영까지 묶어 AI 인프라 전체의 비용과 수익성을 좌우하려는 전략입니다.</description><pubDate>Tue, 11 Aug 2026 04:02:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4ryESD5jh</guid></item></channel></rss>
