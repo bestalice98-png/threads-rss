@@ -1,70 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 11 Aug 2026 08:54:05 +0000</lastBuildDate><item><title>마이크로소프트의 MAI-Image-2.6이 텍스트-이미지 아레나 2위에 올랐습니다.
-GPT Image 2에 45점 차, 3위 Grok Imagi...</title><link>https://www.threads.net/@choi.openai/post/Db5KdwWkcCr</link><description>마이크로소프트의 MAI-Image-2.6이 텍스트-이미지 아레나 2위에 올랐습니다.
-GPT Image 2에 45점 차, 3위 Grok Imagine보다 20점 앞섭니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 11 Aug 2026 15:46:38 +0000</lastBuildDate><item><title>NVIDIA가 Nemotron 3.5 Lightning과 NeMo Switchyard를 공개했습니다.
 
-2.5 버전이 10위였는데 한 번에 2위로 점프했습니다. 3D 이미징·모델링은 1위, 카툰·애니메이션·판타지는 2위, 제품·브랜딩·상업 디자인도 2위, 텍스트 렌더링도 2위입니다. 다음 주 플레이그라운드와 API로 공개됩니다.
+Lightning은 30B MoE 모델로...</title><link>https://www.threads.net/@choi.openai/post/Db5znKSkj2c</link><description>NVIDIA가 Nemotron 3.5 Lightning과 NeMo Switchyard를 공개했습니다.
 
-무스타파 술레이만 CEO가 "끊임없이 언덕을 올랐다"고 표현한 이 결과는 마이크로소프트가 오픈AI 의존도를 줄이고 자체 이미지 모델을 키워온 결실입니다
-오픈AI, 메타, 구글, MS까지 모두가 각자 최선의 모델을 내놓는 구도가 됐습니다.</description><pubDate>Tue, 11 Aug 2026 08:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db5KdwWkcCr</guid></item><item><title>Grok 4.6이 Cursor에 잠깐 올라왔다가 내려갔습니다. 실수로 먼저 배포된 걸로 보입니다.
+Lightning은 30B MoE 모델로 활성 파라미터 3.6B, 생성 속도는 초당 670토큰입니다. 하이브리드 Mamba-Transformer 구조와 100만 토큰 컨텍스트를 지원하며, Terminal-Bench는 전작의 3배인 24%를 기록했습니다.
+도구 호출, 결과 검증, 서브에이전트 위임 같은 고빈도 실행 작업에 특화됐고, 가중치·데이터·학습 레시피도 OpenMDW-1.1로 공개했습니다.
 
-1.5T 파라미터, 256K 컨텍스트, Gr...</title><link>https://www.threads.net/@choi.openai/post/Db5AJvVgqzS</link><description>Grok 4.6이 Cursor에 잠깐 올라왔다가 내려갔습니다. 실수로 먼저 배포된 걸로 보입니다.
+Switchyard는 복잡한 계획은 프론티어 모델에, 반복 실행은 Lightning에 자동 배분합니다. 별도 워크로드 학습 없이 바로 적용할 수 있습니다.
 
-1.5T 파라미터, 256K 컨텍스트, Grok 4.5와 같은 기반 모델에 SFT·RL을 대폭 강화한 버전입니다. 머스크가 7월 29일 "8월 7일 출시"라고 했다가 8월 4일 "다음 주"로 미뤘고, 지금은 폴리마켓에서 이번 주 내 출시 확률 84%입니다. Grok 4.7은 2.1T로 몇 주 뒤 따라옵니다.
+NVIDIA는 DGX Spark부터 데이터센터까지 자사 하드웨어에서 에이전트를 효율적으로 운영하는 방식을 제시했습니다. 양자화와 모델 라우팅까지 묶어 에이전트 인프라의 레퍼런스 아키텍처를 직접 보여준 셈입니다.</description><pubDate>Tue, 11 Aug 2026 14:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db5znKSkj2c</guid></item><item><title>허깅페이스 :
+https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP...</title><link>https://www.threads.net/@choi.openai/post/Db5zoJQkhmk</link><description>허깅페이스 :
+https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4</description><pubDate>Tue, 11 Aug 2026 14:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db5zoJQkhmk</guid></item><item><title>눈물 흘렸다..
+스파이더맨도.. 호프도.. 오디세이도 다 봤지만
+이만한게 없는 것 같다. 올해 최고의 아이돌이다..</title><link>https://www.threads.net/@choi.openai/post/Db5uXaOj8NH</link><description>눈물 흘렸다..
+스파이더맨도.. 호프도.. 오디세이도 다 봤지만
+이만한게 없는 것 같다. 올해 최고의 아이돌이다..</description><pubDate>Tue, 11 Aug 2026 13:44:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db5uXaOj8NH</guid></item><item><title>버니 샌더스 상원의원이 오픈AI, 앤트로픽, 메타 CEO에게 AI 개발 중단을 요구하는 서한을 보냈습니다. "지금 행동하지 않으면 상원이 나설 ...</title><link>https://www.threads.net/@choi.openai/post/Db5pTmqAEl-</link><description>버니 샌더스 상원의원이 오픈AI, 앤트로픽, 메타 CEO에게 AI 개발 중단을 요구하는 서한을 보냈습니다. "지금 행동하지 않으면 상원이 나설 것"이라고 했습니다.
 
-잠깐 테스트한 사용자들 반응은 "게으름 문제가 해결됐다" "전반적으로 괜찮은 개선"이라고 평가했는데요.
+AI가 바이러스를 만든 사례, 오픈AI 모델이 다른 기업을 해킹한 사건, 앤트로픽과 메타 모델도 통제를 벗어난 점, CIA 국장이 AI를 "디지털 핵무기"라고 부른 점을 근거로 들었습니다. 세 회사 모두 위험 임계치에 도달하면 개발을 중단하겠다고 서면으로 약속한 바 있습니다. 샌더스는 "그 순간이 왔다"고 말합니다.
 
-머스크의 출시 예고가 세 번이나 미뤄진 모델이지만, 실수로라도 Cursor에 올라왔다는 건 출시가 임박한 것으로 보입니다.</description><pubDate>Tue, 11 Aug 2026 07:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db5AJvVgqzS</guid></item><item><title>오픈AI가 Daybreak를 Blue와 Red로 나누고 GPT-5.6-Cyber를 공개했습니다.
+구글과 SpaceXAI는 서한 대상에서 빠졌습니다. 이번 주만 해도 오픈AI는 사이버 보안 모델을 출시했고, 앤트로픽은 가격 인상을 취소하며 경쟁을 이어갔고, 메타는 오픈웨이트 모델을 풀었습니다. 아무도 멈추지 않았습니다.
 
-GPT-5.6-Cyber는 고위험 사이버 요청...</title><link>https://www.threads.net/@choi.openai/post/Db4zWfViUnO</link><description>오픈AI가 Daybreak를 Blue와 Red로 나누고 GPT-5.6-Cyber를 공개했습니다.
+서한은 정치적 신호지만, 기업들이 스스로 약속한 중단 조건이 공개적으로 발동된 건 이번이 처음입니다.</description><pubDate>Tue, 11 Aug 2026 12:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db5pTmqAEl-</guid></item><item><title>와.. 미래 게임 시장은 정말 중국이 다 먹을 것 같다..
 
-GPT-5.6-Cyber는 고위험 사이버 요청의 95%에 답했으며, 실제 Chrome V8 취약점 발견과 Google의 패치로도 이어졌는데요.
+텐센트가 텍스트 한 줄로 3D 오픈월드를 생성하는 WorldClaw를 공개했습니다....</title><link>https://www.threads.net/@choi.openai/post/Db5fG2Iknaa</link><description>와.. 미래 게임 시장은 정말 중국이 다 먹을 것 같다..
 
-핵심은 안전 관리 방식의 변화입니다. 모델이 요청 자체를 거부하는 대신 승인된 사용자에게만 접근권을 주고, 신원 확인·실행 감시·권한 제한으로 위험을 관리하는 방향입니다.
+텐센트가 텍스트 한 줄로 3D 오픈월드를 생성하는 WorldClaw를 공개했습니다.
+영상도 Gaussian Splatting도 아닌, 편집 가능한 게임용 3D 에셋입니다.
 
-오픈AI Daybreak 확장과 GPT-5.6-Cyber를 분석했습니다 🧵</description><pubDate>Tue, 11 Aug 2026 05:15:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4zWfViUnO</guid></item><item><title>1/ 오픈AI는 8월 10일 사이버보안 프로그램 Daybreak를 두 등급으로 나눴습니다.
-원래는 승인받은 방어자에게 사이버 작업용 모델을 제공...</title><link>https://www.threads.net/@choi.openai/post/Db40Kzsjx7a</link><description>1/ 오픈AI는 8월 10일 사이버보안 프로그램 Daybreak를 두 등급으로 나눴습니다.
-원래는 승인받은 방어자에게 사이버 작업용 모델을 제공하는 단일 프로그램이었습니다.
+에이전트가 지형을 먼저 계획하고, 건물·식물·캐릭터를 배치하고, Blender에서 전체 장면을 조립합니다. 물체가 공중에 떠 있거나 겹치거나 비율이 틀리면 스스로 발견해서 고칩니다.
+나무 한 그루, 돌멩이 하나까지 개별 선택해 옮기거나 삭제하거나 교체할 수 있고, 다른 프로젝트에 재사용도 가능합니다.
 
-이제 Daybreak Blue는 GPT-5.6 Sol 같은 범용 프런티어 모델을 제공하고, Daybreak Red는 사이버보안에 특화해 훈련한 모델을 제공합니다. 이번에 Red에 추가된 신형 모델이 GPT-5.6-Cyber입니다.
-
-Blue는 취약점 탐색과 보안 코드 리뷰, 악성코드 분석, 침해 대응, 패치 검증 같은 작업에 권장됩니다. Red는 취약점 연구와 익스플로잇 검증, 보안 테스트처럼 더 높은 수준의 사이버 작업을 대상으로 합니다.
-
-프로그램을 둘로 나눈 것은 같은 방어 목적 안에서도 필요한 능력과 위험 수준이 크게 다르기 때문입니다. 오픈AI는 대부분의 방어자에게 Blue부터 시작하라고 권합니다.</description><pubDate>Tue, 11 Aug 2026 05:15:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db40Kzsjx7a</guid></item><item><title>2/ 이번에 달라진 것은 모델 성능이 아니라 안전장치가 작동하는 방식입니다.
-
-오픈AI는 일반 배포 환경에서 사이버 관련 요청을 시스템 차원에서...</title><link>https://www.threads.net/@choi.openai/post/Db40LxEj3EC</link><description>2/ 이번에 달라진 것은 모델 성능이 아니라 안전장치가 작동하는 방식입니다.
-
-오픈AI는 일반 배포 환경에서 사이버 관련 요청을 시스템 차원에서 걸러냅니다. 악용을 막기 위한 조치지만, 정상적인 방어 작업까지 함께 제한될 수 있습니다.
-
-Daybreak Blue는 이 시스템 필터를 완화합니다. 모델 자체는 GPT-5.6 Sol 그대로 두고, 침해 탐지와 대응, 조사, 취약점 관리, 보안 점검 같은 방어 작업에서 원래 성능을 더 넓게 쓸 수 있게 한 것입니다.
-
-그래도 Sol 자체가 거절하는 영역은 남습니다. 운영 중인 시스템을 대상으로 한 모의 침투처럼 공격과 방어의 경계가 가까운 요청이 대표적입니다. GPT-5.6-Cyber는 이런 작업에서 불필요한 거절을 줄이도록 따로 훈련한 모델입니다.</description><pubDate>Tue, 11 Aug 2026 05:15:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db40LxEj3EC</guid></item><item><title>3/ 오픈AI는 Advanced Cybersecurity Completion Rate라는 내부 평가도 새로 만들었습니다.
-
-익스플로잇 체인 개발...</title><link>https://www.threads.net/@choi.openai/post/Db40MzlD8Fn</link><description>3/ 오픈AI는 Advanced Cybersecurity Completion Rate라는 내부 평가도 새로 만들었습니다.
-
-익스플로잇 체인 개발과 로그인 절차 우회, 관리자 권한 탈취처럼 위험도가 높은 사이버 요청을 넣었을 때 모델이 거절하지 않고 답변을 끝까지 내놓는 비율입니다.
-
-GPT-5.6-Cyber는 95.0%를 기록했습니다. GPT-5.6 Sol은 1.5%, Blue 접근이 적용된 Sol은 2.0%, 직전 세대 GPT-5.5-Cyber는 57.3%였습니다.
-
-여기서 95%는 공격 성공률이 아닙니다. 위험한 요청에도 답변을 계속한 비율입니다. 오픈AI도 이 평가를 만든 목적을 모델의 거부가 얼마나 줄었는지 측정하기 위해서라고 설명했습니다.</description><pubDate>Tue, 11 Aug 2026 05:15:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db40MzlD8Fn</guid></item><item><title>젠슨 황이 오늘 새벽 ‘AI 팩토리 컴퓨트는 투자 가능한 자산이 되고 있다’라는 글을 업로드 했는데요.
-전력, CUDA, 고객 사용량을 묶어 A...</title><link>https://www.threads.net/@choi.openai/post/Db4rvvuDwNq</link><description>젠슨 황이 오늘 새벽 ‘AI 팩토리 컴퓨트는 투자 가능한 자산이 되고 있다’라는 글을 업로드 했는데요.
-전력, CUDA, 고객 사용량을 묶어 AI 컴퓨트를 장기 자본이 심사하는 인프라로 만들겠다고 선언했습니다.
-엔비디아가 GPU 다음에 설계하는 시장을 정리했습니다 🧵</description><pubDate>Tue, 11 Aug 2026 04:02:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4rvvuDwNq</guid></item><item><title>1/ 8월 10일 젠슨 황은 아폴로, 블랙록, 블랙스톤, 브룩필드, 골드만삭스, KKR과 함께 AI 컴퓨트 금융 플랫폼을 만들겠다고 밝혔습니다....</title><link>https://www.threads.net/@choi.openai/post/Db4rwXqj43v</link><description>1/ 8월 10일 젠슨 황은 아폴로, 블랙록, 블랙스톤, 브룩필드, 골드만삭스, KKR과 함께 AI 컴퓨트 금융 플랫폼을 만들겠다고 밝혔습니다. 목표는 장기적으로 5,000억 달러가 넘는 제3자 자본을 모아 AI 팩토리를 짓는 것입니다.
-
-금융기관은 고객의 신용만 보지 않습니다. 실제 수요와 가동률, 현금흐름, GPU 잔존가치를 따로 심사합니다. 엔비디아도 칩과 서버를 공급하는 데서 그치지 않고, 설비가 얼마나 벌고 얼마나 오래 쓰일지를 판단하는 기준까지 제시합니다.
-
-컴퓨트를 장기 자본이 투자할 수 있는 인프라 자산으로 만들겠다는 구상입니다. 단순히 구매자의 자본지출을 늘리는 게 아니라, AI 설비를 금융기관이 수익성과 위험을 따져 자금을 댈 수 있는 투자 대상으로 만드는 작업입니다.</description><pubDate>Tue, 11 Aug 2026 04:02:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4rwXqj43v</guid></item><item><title>2/ 엔비디아가 말하는 AI 팩토리는 GPU를 쌓아둔 데이터센터와 다릅니다.
-전력과 데이터를 넣어 토큰을 생산하고, 여러 고객에게 컴퓨팅 자원을...</title><link>https://www.threads.net/@choi.openai/post/Db4rxZ3j8Nh</link><description>2/ 엔비디아가 말하는 AI 팩토리는 GPU를 쌓아둔 데이터센터와 다릅니다.
-전력과 데이터를 넣어 토큰을 생산하고, 여러 고객에게 컴퓨팅 자원을 판매하는 설비입니다. 엔비디아는 이를 한 번 사고 끝나는 장비가 아니라, 가동률에 따라 매출을 내는 생산 자산으로 보고 있습니다.
-
-금융기관이 평가하는 것도 서버 한 대가 아닙니다. 고객 계약과 가동률, 전력비, 토큰 단가, 장비를 나중에 어디에 다시 쓸 수 있는지를 함께 봅니다. 엔비디아는 CUDA가 장비의 사용기간을 늘리고, 같은 컴퓨트를 여러 모델과 업무에 활용할 수 있게 해 장비의 잔존가치를 높인다고 설명합니다.
-
-결국 투자자가 따지는 것은 GPU 가격보다 앞으로 얼마나 오래 안정적으로 사용료를 받을 수 있느냐입니다. AI에 필요한 컴퓨트가 늘어날수록 필요한 자금이 장비 구매에서 프로젝트 금융으로 이동하는 이유입니다.</description><pubDate>Tue, 11 Aug 2026 04:02:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4rxZ3j8Nh</guid></item><item><title>3/ 엔비디아는 AI 팩토리의 가치를 평가할 기준도 직접 만들고 있습니다.
-
-DSX는 칩과 서버, 네트워크, 전력, 냉각, 소프트웨어를 하나의 ...</title><link>https://www.threads.net/@choi.openai/post/Db4ryESD5jh</link><description>3/ 엔비디아는 AI 팩토리의 가치를 평가할 기준도 직접 만들고 있습니다.
-
-DSX는 칩과 서버, 네트워크, 전력, 냉각, 소프트웨어를 하나의 설비로 묶고, MaxLPS는 전력 1메가와트당 얼마나 많은 토큰을 처리할 수 있는지 계산합니다. 같은 전력으로 최대 40% 더 많은 GPU를 배치할 수 있다는 설명도 GPU 대수보다 전력당 처리량과 비용이 중요해졌다는 뜻입니다.
-
-DSX OS는 스케줄링과 장애 대응, 여러 고객이 함께 쓰는 환경의 운영을 표준화합니다. 엔비디아가 Q1 FY27 데이터센터 매출 752억 달러를 발표하면서 고객을 하이퍼스케일러와 AI 클라우드, 산업, 기업으로 나눠 제시한 것도 같은 흐름입니다.
-
-엔비디아의 경쟁력도 칩 성능에만 머물지 않습니다. 전력당 처리량과 모델 최적화, 실제 배포와 운영까지 묶어 AI 인프라 전체의 비용과 수익성을 좌우하려는 전략입니다.</description><pubDate>Tue, 11 Aug 2026 04:02:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db4ryESD5jh</guid></item></channel></rss>
+아직 코드와 가중치는 공개되지 않았고 논문과 프로젝트 페이지만 올라와 있습니다.
+월드모델부터, 3D 모델, Text To Animation 까지.. 정말 딸깍으로 나오는 날이 머지 않은 것 같습니다.</description><pubDate>Tue, 11 Aug 2026 11:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db5fG2Iknaa</guid></item><item><title>프로젝트 주소 :
+https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</title><link>https://www.threads.net/@choi.openai/post/Db5fII1kid-</link><description>프로젝트 주소 :
+https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</description><pubDate>Tue, 11 Aug 2026 11:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db5fII1kid-</guid></item></channel></rss>
