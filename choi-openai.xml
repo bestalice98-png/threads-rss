@@ -1,53 +1,120 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 14 Aug 2026 01:53:32 +0000</lastBuildDate><item><title>오픈AI가 GPT-5.6 Sol의 초고속 모드 ‘Ultrafast’가 실제로 작동하는 영상을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 14 Aug 2026 09:06:06 +0000</lastBuildDate><item><title>앤트로픽 CEO 아내의 과거가 하루 사이 두 매체에서 터졌습니다.
 
-같은 프롬프트로 3D 창고 시뮬레이...</title><link>https://www.threads.net/@choi.openai/post/DcAB3L7ElhC</link><description>오픈AI가 GPT-5.6 Sol의 초고속 모드 ‘Ultrafast’가 실제로 작동하는 영상을 공개했습니다.
+엡스타인, 에릭 슈밋, ‘인터넷 삭제’까지 자극적인 단어가 한꺼번에 붙었습니...</title><link>https://www.threads.net/@choi.openai/post/DcA5UPDD10O</link><description>앤트로픽 CEO 아내의 과거가 하루 사이 두 매체에서 터졌습니다.
 
-같은 프롬프트로 3D 창고 시뮬레이터를 만드는 과정을 일반 처리와 나란히 보여줬는데, Ultrafast는 Cerebras와 함께 Sol을 최대 14배 빠르게 돌리는 API 선공개 서비스입니다. 오픈AI 설명으로는 최대 초당 750토큰을 출력합니다.
+엡스타인, 에릭 슈밋, ‘인터넷 삭제’까지 자극적인 단어가 한꺼번에 붙었습니다.
 
-아직 일부 고객 대상 미리보기지만, 음성 상담, 코딩, 금융 리서치처럼 답변을 기다리는 시간이 곧 비용인 업무에서 프런티어 모델의 속도 자체가 제품 경쟁력이 되는 흐름입니다.</description><pubDate>Fri, 14 Aug 2026 00:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAB3L7ElhC</guid></item><item><title>발표내용 :
-https://openai.com/index/previewing-ultrafast/</title><link>https://www.threads.net/@choi.openai/post/DcAB4bTEhYX</link><description>발표내용 :
-https://openai.com/index/previewing-ultrafast/</description><pubDate>Fri, 14 Aug 2026 00:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAB4bTEhYX</guid></item><item><title>🚨 구글이 3주 만에 제미나이 3.7 Flash를 내놨습니다.
+그런데 이 보도에서 봐야 할 것은 사생활이 아닙니다.
+2조 달러 회사를 누가, 어떤 책임 아래 움직이느냐입니다 🧵</description><pubDate>Fri, 14 Aug 2026 08:34:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcA5UPDD10O</guid></item><item><title>1/ 8월 14일, 더 인포메이션과 WSJ이 불과 몇 시간 차이로 카미 클라크에 대한 장문 프로필을 내놨습니다.
 
-직전 모델 3.6 Flash가 나온 지 딱 3주째입니다. 코딩 평가 DeepSW...</title><link>https://www.threads.net/@choi.openai/post/Db_1kMflN2t</link><description>🚨 구글이 3주 만에 제미나이 3.7 Flash를 내놨습니다.
+카미는 앤트로픽 CEO 다리오...</title><link>https://www.threads.net/@choi.openai/post/DcA5U2rD5GO</link><description>1/ 8월 14일, 더 인포메이션과 WSJ이 불과 몇 시간 차이로 카미 클라크에 대한 장문 프로필을 내놨습니다.
 
-직전 모델 3.6 Flash가 나온 지 딱 3주째입니다. 코딩 평가 DeepSWE는 49.0%에서 65.3%로, FrontierCode는 34.4%에서 43.6%로 올랐고 값은 절반이 됐습니다.
+카미는 앤트로픽 CEO 다리오 아모데이의 아내입니다. 두 매체가 주목한 건 두 사람의 관계보다 카미가 앤트로픽 주변에서 해온 역할이었습니다.
 
-그런데 사전학습은 다시 돌리지 않았습니다.
+공식적으로 회사에 몸담고 있지는 않지만, 다리오의 전략적 조언자이자 투자자 네트워크를 연결하는 인물로 상당한 영향력을 행사해왔다는 겁니다.
 
-벤치마크와 가격 구조, 그리고 3.5 Pro의 행방까지 정리했습니다 🧵</description><pubDate>Thu, 13 Aug 2026 23:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db_1kMflN2t</guid></item><item><title>1/ 구글이 8월 13일 현지시간으로 Gemini 3.7 Flash를 공개했습니다.
-직전 모델인 3.6 Flash가 7월 21일에 나왔으니 불과...</title><link>https://www.threads.net/@choi.openai/post/Db_3m8Tk1gG</link><description>1/ 구글이 8월 13일 현지시간으로 Gemini 3.7 Flash를 공개했습니다.
-직전 모델인 3.6 Flash가 7월 21일에 나왔으니 불과 3주 만의 업데이트입니다.
+두 기사는 서로 다른 방향에서 카미를 추적합니다. 한쪽은 현재의 영향력을, 다른 쪽은 그 영향력이 만들어진 과거와 인맥을 파고들었습니다.
 
-발표 당일부터 Gemini API와 AI Studio, Android Studio, 에이전트 개발 도구 Antigravity에서 사용할 수 있고, 기업용 Gemini Enterprise에도 적용됐습니다.
+그 과정에서 대학 중퇴와 파산, 성인 콘텐츠 사업, 제프리 엡스타인에게 투자를 요청했던 일, 에릭 슈밋과의 과거 관계, 앤트로픽 초기 투자자들과의 연결까지 공개됐습니다.
 
-일반 사용자용 서비스도 함께 바뀌었습니다. 구글이 지난 5월 I/O에서 공개한 24시간 개인 에이전트 Spark가 이날부터 3.7 Flash를 기반으로 작동합니다.
+결국 이번 보도로 카미는 단순히 CEO의 배우자가 아니라, 앤트로픽의 자금과 인맥, 의사결정을 이해할 때 함께 봐야 할 인물로 떠올랐습니다.</description><pubDate>Fri, 14 Aug 2026 08:34:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcA5U2rD5GO</guid></item><item><title>2/ 보도가 먼저 추적한 건 앤트로픽이 생기기 훨씬 전 카미 클라크의 과거입니다.
+그는 대학을 중퇴한 뒤 스무 살에 40살 이상 연상의 남성과 ...</title><link>https://www.threads.net/@choi.openai/post/DcA5WS2D7bC</link><description>2/ 보도가 먼저 추적한 건 앤트로픽이 생기기 훨씬 전 카미 클라크의 과거입니다.
+그는 대학을 중퇴한 뒤 스무 살에 40살 이상 연상의 남성과 결혼했다가 헤어졌고, 파산도 겪었습니다. 이후 여성 대상 성인 콘텐츠 사업을 비롯해 여러 창업을 시도했습니다.
 
-160개국 이상에서 AI Pro와 Ultra 구독자가 사용할 수 있는 기능입니다.</description><pubDate>Thu, 13 Aug 2026 23:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db_3m8Tk1gG</guid></item><item><title>2/ 먼저 구글이 발표문에 공개한 벤치마크 표부터 보겠습니다.
+더 인포메이션은 이 가운데 여성 건강 사업에서 신용카드 거래와 GPS 위치 데이터를 분석하려 했던 계획도 전했습니다. 보도 이후 성인 콘텐츠 사업이 가장 큰 주목을 받았지만, 현재의 앤트로픽과 연결해 볼 지점은 오히려 이쪽입니다.
 
-실제 개발 과제를 평가하는 FrontierCode 1.1에서 Gemini 3.7...</title><link>https://www.threads.net/@choi.openai/post/Db_3oBQk7qs</link><description>2/ 먼저 구글이 발표문에 공개한 벤치마크 표부터 보겠습니다.
+민감한 위치와 결제 데이터를 사업에 활용하려 했던 과거가 있기 때문입니다. 개인사의 파격성보다 당시 민감한 콘텐츠와 개인 데이터를 어떤 기준으로 다루려 했는지가 더 중요한 대목입니다.
 
-실제 개발 과제를 평가하는 FrontierCode 1.1에서 Gemini 3.7 Flash는 43.6%를 기록해 3.6 Flash의 34.4%를 크게 앞섰습니다. 긴 호흡의 소프트웨어 작업을 평가하는 DeepSWE v1.1도 49.0%에서 65.3%로 뛰었습니다.
+이후 그가 안전과 프라이버시를 강조하는 AI 기업의 비공식 조언자로 영향력을 갖게 됐다는 점에서 과거의 판단도 다시 조명받고 있습니다.</description><pubDate>Fri, 14 Aug 2026 08:34:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcA5WS2D7bC</guid></item><item><title>4/ 이 지점부터 카미 클라크의 개인사는 앤트로픽의 초기 역사와 직접 맞닿기 시작합니다.
 
-복잡한 문서 이해를 평가하는 GDP.pdf는 22.0%에서 34.0%, 실제 업무 자동화를 재는 AutomationBench는 17.0%에서 30.4%로 올랐습니다. 웹 개발 블라인드 평가인 WebDev Arena에서는 Elo가 1538에서 1588로 상승하면서 순위도 19위에서 8위로 올라섰습니다.
+블룸버그에 따르면 에릭 슈밋은 2018년 다리오 아모...</title><link>https://www.threads.net/@choi.openai/post/DcA5X36D5z4</link><description>4/ 이 지점부터 카미 클라크의 개인사는 앤트로픽의 초기 역사와 직접 맞닿기 시작합니다.
 
-불과 3주 만에 나온 소수점 업데이트라고 보기에는 상승 폭이 상당히 큽니다.</description><pubDate>Thu, 13 Aug 2026 23:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db_3oBQk7qs</guid></item><item><title>3/ Artificial Analysis의 Intelligence Index에서 Gemini 3.7 Flash는 56점을 기록해 3.6 Flas...</title><link>https://www.threads.net/@choi.openai/post/Db_3o48k6R8</link><description>3/ Artificial Analysis의 Intelligence Index에서 Gemini 3.7 Flash는 56점을 기록해 3.6 Flash보다 4점 올랐습니다. GPT-5.6 Terra와 Muse Spark 1.2가 57점이니 바로 한 점 아래입니다.
+블룸버그에 따르면 에릭 슈밋은 2018년 다리오 아모데이와 클라크의 집을 방문했습니다. 클라크는 과거 슈밋과 약 3년간 교제했으며, 두 매체는 2021년 초 앤트로픽이 출범할 당시 슈밋을 초기 투자자로 연결한 인물도 클라크였다고 전했습니다.
 
-상승 폭이 큰 곳은 역시 에이전트 영역입니다. 터미널 작업 평가는 8점 올랐고, 실무 과제를 재는 GDPval은 103 Elo 상승했습니다.
+같은 해 2월 클라크는 40페이지 분량의 ‘Mother of AGI Fund’를 제안합니다. 자신의 역할을 공식화하고 슈밋의 투자를 관리하는 동시에 다른 AI 스타트업에도 투자하겠다는 구상이었습니다.
 
-속도도 눈에 띕니다. 초당 340토큰으로 Artificial Analysis가 측정한 187개 모델 가운데 가장 빨랐습니다. 스프레드시트와 문서 작업을 평가하는 AA-AnalystAgent에서는 60%를 기록해 Claude Opus 5의 54%도 앞섰습니다.
+하지만 다니엘라 아모데이를 비롯한 공동창업자들의 반대로 계획은 무산됐고, 다리오와 클라크는 이듬해인 2022년 결혼했습니다.
 
-이번에 구글이 끌어올린 건 코딩 성능만이 아닙니다. 실제 도구를 쓰며 업무를 수행하는 에이전트 전반에서 함께 올라왔습니다.</description><pubDate>Thu, 13 Aug 2026 23:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db_3o48k6R8</guid></item><item><title>앤트로픽 투자자들이 10월 IPO에서 기업가치 2조 달러 이상을 기대하고 있다고 합니다. 5월 9,650억 달러 평가에서 두 배 넘게 뛴 숫자입...</title><link>https://www.threads.net/@choi.openai/post/Db_p6A7kdgx</link><description>앤트로픽 투자자들이 10월 IPO에서 기업가치 2조 달러 이상을 기대하고 있다고 합니다. 5월 9,650억 달러 평가에서 두 배 넘게 뛴 숫자입니다.
+여기서부터 카미의 인맥이 실제 앤트로픽의 초기 자본으로 이어진 과정과, 이를 둘러싼 내부의 견제가 함께 드러납니다. 개인사로 시작한 이야기가 앤트로픽의 지배구조와 영향력 문제로 넘어가는 지점입니다.</description><pubDate>Fri, 14 Aug 2026 08:35:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcA5X36D5z4</guid></item><item><title>대부분의 기업은 아직 챗봇에 질문만 던지고 있습니다.
 
-근거는 현재 이익이 아니라 매출 성장률입니다. FT에 따르면 투자자들은 앤트로픽의 연환산 매출이 2026년 말 1,000억~1,200억 달러에 이를 것으로 보고 있습니다.
+오픈AI가 자사 기업 고객의 실사용 데이터를 자세히 공개했습니다.
+같은 모델을 쓰는데도 ...</title><link>https://www.threads.net/@choi.openai/post/DcAwv21Dxun</link><description>대부분의 기업은 아직 챗봇에 질문만 던지고 있습니다.
 
-연환산 매출은 실제 1년 매출이 아니라 최근 매출 속도에 12를 곱한 지표입니다. 이 전망이 실현된다는 전제 위에서 30배 멀티플을 적용하면 3조 달러도 나온다는 계산입니다.
+오픈AI가 자사 기업 고객의 실사용 데이터를 자세히 공개했습니다.
+같은 모델을 쓰는데도 상위 10% 기업이 만드는 결과물은 일반 기업의 8.3배, 반년 전 2.6배에서 벌어졌습니다.
 
-결국 시장이 사는 건 Claude Code로 붙잡은 기업 고객과, 다음 모델에서도 이 증가율이 유지된다는 기대입니다.
-하지만, Fable 5 모델의 기업 도입률의 정체와 중국 오픈웨이트와 가격 경쟁으로 성장률이 꺾이면 2조 달러는 설명하기 어려워질 수 있습니다.</description><pubDate>Thu, 13 Aug 2026 21:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db_p6A7kdgx</guid></item><item><title>앤트로픽의 API 매출 차트를 살펴보면, 가장 비싼 모델 Fable 5는 매출 성장에 거의 기여하지 못하고, Opus 5가 사실상 전부를 책임지...</title><link>https://www.threads.net/@choi.openai/post/Db_fhx_D9ry</link><description>앤트로픽의 API 매출 차트를 살펴보면, 가장 비싼 모델 Fable 5는 매출 성장에 거의 기여하지 못하고, Opus 5가 사실상 전부를 책임지고 있습니다.
+오픈AI가 공개한 기업 실사용 데이터가 보여준 '프런티어 격차'의 실체를 정리했습니다 🧵</description><pubDate>Fri, 14 Aug 2026 07:19:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAwv21Dxun</guid></item><item><title>1/ 오픈AI가 8월 12일 기업용 AI 활용을 다룬 리포트 두 건을 공개했습니다.
 
-Fable 5는 앤트로픽의 최상위 모델이자 가장 많은 연구 자원이 투입된 모델입니다.
-하지만 API 사용자들은 더 저렴하고 실용적인 Opus 5를 선택하고 있습니다.
-Fable이 너무 비싸거나, 너무 느리거나, 보안 제한 때문에 실무에서 안 쓰이는 겁니다.
+하나는 기업 고객의 실제 사용 패턴을 추적한 Enterpr...</title><link>https://www.threads.net/@choi.openai/post/DcAwwaKDwBO</link><description>1/ 오픈AI가 8월 12일 기업용 AI 활용을 다룬 리포트 두 건을 공개했습니다.
 
-이번 주만 해도 Sonnet 5 가격 인상을 취소하고, Claude에 워터마크를 심고, IPO를 추진 중인 앤트로픽에게 이 차트는 뼈아플 수밖에 없습니다.</description><pubDate>Thu, 13 Aug 2026 19:29:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Db_fhx_D9ry</guid></item></channel></rss>
+하나는 기업 고객의 실제 사용 패턴을 추적한 Enterprise Signals, 다른 하나는 ChatGPT Enterprise 데이터를 분석한 학술 논문입니다.
+
+여기서 '프런티어 기업'은 월간 활성 사용자당 출력 토큰이 상위 10%인 기업, '일반 기업'은 중간 10%에 해당하는 기업을 뜻합니다.
+6월의 격차는 8.3배로, 1월 2.6배에서 다섯 달 만에 세 배 넘게 커졌습니다. 정보 및 기술 업종은 11.7배, 제조업도 5.3배였습니다.
+
+출력 토큰이 업무 가치를 그대로 보여주는 지표는 아닙니다. 다만 기업이 얼마나 많은 일을 AI에 맡기고 있는지를 가늠하는 대리 지표로는 볼 수 있습니다.
+오픈AI는 이런 격차가 기술 기업에만 나타나는 현상이 아니라 거의 모든 산업에서 공통적으로 확인됐다고 밝혔습니다.
+
+업종을 가리지 않고 AI를 업무에 더 깊게 붙이는 기업이 빠르게 앞서고 있습니다.</description><pubDate>Fri, 14 Aug 2026 07:19:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAwwaKDwBO</guid></item><item><title>2/ 격차가 벌어지는 첫 번째 경로는 ‘AI에게 질문하기’에서 ‘AI에게 일을 맡기기’로의 이동입니다.
+
+6월 기업 고객의 Codex와 Chat...</title><link>https://www.threads.net/@choi.openai/post/DcAwxU0j9mA</link><description>2/ 격차가 벌어지는 첫 번째 경로는 ‘AI에게 질문하기’에서 ‘AI에게 일을 맡기기’로의 이동입니다.
+
+6월 기업 고객의 Codex와 ChatGPT 합산 출력 토큰 가운데 64%가 Codex에서 나왔습니다. 두 제품이 같은 프런티어 모델을 쓰더라도, Codex는 도구를 호출하고 파일을 만들며 여러 단계를 이어서 처리합니다.
+
+예를 들어 발표 자료를 만드는 법을 묻는 데서 끝나는 것이 아니라, 자료 조사부터 작성, 파일 생성까지 맡기면 한 번의 요청에 포함되는 작업과 산출물이 크게 늘어납니다.
+
+8.3배라는 격차에는 단순한 답변 횟수뿐 아니라 에이전트가 실제로 끝까지 수행한 업무량의 차이도 들어 있습니다.
+
+앞선 기업일수록 발표 자료를 ‘어떻게 만들지 묻는’ 단계에서 벗어나, 실제로 ‘자료를 만들어 오라고 맡기는’ 쪽으로 넘어가고 있다는 뜻입니다.</description><pubDate>Fri, 14 Aug 2026 07:19:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAwxU0j9mA</guid></item><item><title>3/ 두 번째 경로가 이번 리포트에서 가장 눈여겨볼 부분입니다.
+
+주간 활성 사용자 가운데 플러그인을 쓰는 비율은 프런티어 기업이 21%, 일반...</title><link>https://www.threads.net/@choi.openai/post/DcAwyN7D7pP</link><description>3/ 두 번째 경로가 이번 리포트에서 가장 눈여겨볼 부분입니다.
+
+주간 활성 사용자 가운데 플러그인을 쓰는 비율은 프런티어 기업이 21%, 일반 기업이 9%로 약 두 배 차이입니다. 그런데 스킬 사용률은 19% 대 3%로 격차가 약 여섯 배까지 벌어집니다.
+
+플러그인이 AI를 회사의 도구와 데이터에 연결한다면, 스킬은 제안서 작성 순서와 참고 문서, 검수 조건처럼 반복 업무의 실행 방식을 저장해 다시 불러옵니다.
+스킬에서 격차가 훨씬 크다는 건 앞선 기업이 AI를 많이 쓰는 데서 그치지 않고, 개인의 요령을 조직이 반복해서 쓸 수 있는 조직의 자산으로 축적하고 있다는 뜻입니다. 
+
+예를 들어 영업팀의 제안서 작성 방식을 스킬로 만들어두면, 다음 담당자가 같은 과정을 처음부터 다시 만들 필요가 없습니다. 참고로 오픈AI 내부의 주간 플러그인 사용률은 95%에 달합니다.</description><pubDate>Fri, 14 Aug 2026 07:20:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAwyN7D7pP</guid></item><item><title>🚨 속보) Z.ai가 GLM-5.3을 공개했습니다.
+
+GLM-5.2와 같은 743B 기반 모델에 후속 학습을 더해 코딩과 에이전트, 사이버 성능...</title><link>https://www.threads.net/@choi.openai/post/DcAo3c_j5cC</link><description>🚨 속보) Z.ai가 GLM-5.3을 공개했습니다.
+
+GLM-5.2와 같은 743B 기반 모델에 후속 학습을 더해 코딩과 에이전트, 사이버 성능을 끌어올렸습니다. Z.ai는 오픈 모델 비교 9개 벤치마크 중 8개에서 1위를 기록했다고 밝혔습니다.
+
+GLM Coding Plan과 ZCode에서는 바로 사용할 수 있고, API와 오픈웨이트는 안전 평가를 거쳐 순차적으로 공개될 예정입니다.
+
+일부 벤치마크에서 Fable 5에 근접한 성능을 보인 GLM-5.3을 중국 오픈웨이트 경쟁의 흐름 속에서 정리했습니다. 🧵</description><pubDate>Fri, 14 Aug 2026 06:10:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAo3c_j5cC</guid></item><item><title>1/ Z.ai가 8월 14일 GLM-5.3을 공개했습니다.
+
+GLM-5.3은 유료 구독 서비스인 GLM Coding Plan과 에이전트 도구 Z...</title><link>https://www.threads.net/@choi.openai/post/DcAo4Duj4_k</link><description>1/ Z.ai가 8월 14일 GLM-5.3을 공개했습니다.
+
+GLM-5.3은 유료 구독 서비스인 GLM Coding Plan과 에이전트 도구 ZCode에서 바로 사용할 수 있습니다.
+
+API와 오픈웨이트는 아직 열리지 않았습니다. Z.ai는 안전 평가를 거쳐 순차적으로 공개할 예정이며, Hugging Face 저장소도 곧 올라온다고 밝혔습니다.
+
+GLM 시리즈를 만드는 베이징의 Z.ai는 옛 Zhipu AI가 이름을 바꾼 회사입니다.
+이번 버전에서 앞세운 것은 코딩·에이전트 성능과 사이버 보안 역량입니다.
+
+GLM-5.2를 자체 서버에 올려 데이터와 운영 통제권을 확보하려던 기업 수요가 있었던 만큼, GLM-5.3도 그 흐름을 이어가는 모델입니다.</description><pubDate>Fri, 14 Aug 2026 06:10:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAo4Duj4_k</guid></item><item><title>2/ 이번 발표에서 먼저 볼 점은 베이스 모델이 그대로라는 사실입니다.
+GLM-5.3은 GLM-5.2와 같은 743B 파라미터 모델을 기반으로,...</title><link>https://www.threads.net/@choi.openai/post/DcAo4hgD7K9</link><description>2/ 이번 발표에서 먼저 볼 점은 베이스 모델이 그대로라는 사실입니다.
+GLM-5.3은 GLM-5.2와 같은 743B 파라미터 모델을 기반으로, 사전학습을 새로 돌리지 않고 후속 학습만 추가했습니다.
+
+그런데도 Terminal-Bench 3.0 점수는 전작의 여섯 배 수준으로 뛰었고, 같은 답을 내는 데 쓰는 출력 토큰은 오히려 줄었습니다.
+
+사전학습은 막대한 칩과 데이터가 필요한 반면, 후속 학습은 상대적으로 적은 자원으로 모델의 추론과 행동 방식을 다듬을 수 있습니다.
+최신 칩 확보에 제약이 있는 중국 AI 기업들이 새 베이스 모델을 계속 만드는 대신, 기존 모델에서 성능을 더 끌어내는 쪽으로 움직이는 배경이기도 합니다.</description><pubDate>Fri, 14 Aug 2026 06:10:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAo4hgD7K9</guid></item><item><title>3/ 발표 벤치마크부터 보겠습니다.
+Z.ai와 소속 연구자가 공개한 수치에서 GLM-5.3은 Terminal-Bench 3.0 28.3, Dee...</title><link>https://www.threads.net/@choi.openai/post/DcAo4_qjxHi</link><description>3/ 발표 벤치마크부터 보겠습니다.
+Z.ai와 소속 연구자가 공개한 수치에서 GLM-5.3은 Terminal-Bench 3.0 28.3, DeepSWE 66.9, Agents' Last Exam 28.5, GDPVal-AA 1769를 기록했습니다.
+
+Terminal-Bench는 코드 컴파일과 서버 설정, 디버깅처럼 터미널에서 실제 작업을 끝까지 수행하는 능력을 평가합니다.
+DeepSWE는 공개된 적 없는 오픈소스 저장소 과제를 사용해 학습 데이터 유출 가능성을 낮춘 코딩 에이전트 벤치마크입니다. GDPVal-AA는 44개 직업과 9개 산업의 실제 업무를 평가합니다.
+
+Z.ai는 오픈 모델 9개 벤치마크 가운데 8개에서 1위를 기록했다고 밝혔습니다. 2.4조 파라미터 Qwen과 2.8조 Kimi가 경쟁하는 자리에 743B 모델이 올라온 셈입니다.</description><pubDate>Fri, 14 Aug 2026 06:11:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAo4_qjxHi</guid></item><item><title>Artificial Analysis가 ‘우리 회사 업무에 맞는 AI 모델’을 직접 시험하는 맞춤형 벤치마크 플랫폼 Optima를 공개했습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DcAgwiaAG4h</link><description>Artificial Analysis가 ‘우리 회사 업무에 맞는 AI 모델’을 직접 시험하는 맞춤형 벤치마크 플랫폼 Optima를 공개했습니다.
+
+계약서 검토와 금융 에이전트, 코딩처럼 정답이 하나로 정해지지 않는 업무의 데이터와 실행 기록을 넣으면, Optima가 실제 업무를 반영한 테스트 과제와 채점 기준을 만듭니다. 이후 최신 모델들을 같은 조건에서 돌려 성능뿐 아니라 작업당 비용과 완료 시간까지 함께 비교합니다.
+
+여기서 중요한 건 리더보드 1위를 고르는 게 아닙니다. 우리 업무의 합격선을 넘는 모델 가운데 가장 비용 효율적인 모델을 찾고, 새 모델이 나올 때마다 같은 평가를 반복해 교체 여부까지 판단할 수 있게 하는 것입니다.
+
+벤치마크가 모델 성능을 구경하는 표에서 실제 모델 선택과 운영을 위한 도구로 바뀌고 있습니다.</description><pubDate>Fri, 14 Aug 2026 04:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAgwiaAG4h</guid></item><item><title>내용 :
+https://artificialanalysis.ai/optima</title><link>https://www.threads.net/@choi.openai/post/DcAgxojABj_</link><description>내용 :
+https://artificialanalysis.ai/optima</description><pubDate>Fri, 14 Aug 2026 05:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcAgxojABj_</guid></item></channel></rss>
