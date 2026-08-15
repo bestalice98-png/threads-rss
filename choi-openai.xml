@@ -1,46 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 14 Aug 2026 15:40:13 +0000</lastBuildDate><item><title>가끔 오픈소스의 끝은 어디일까 너무 궁금해집니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 15 Aug 2026 01:12:28 +0000</lastBuildDate><item><title>AI 코딩 도구 Cursor가 SpaceX에 공식 인수됐습니다.
 
-MiniMax가 음악 생성 모델 MiniMax-Music3를 오픈 웨이트로 공개했습니다.
+Cursor는 8월 14일 인수 절차가 공식적으로 마무리됐으며, 앞으로 Spa...</title><link>https://www.threads.net/@choi.openai/post/DcCmxVBDDsM</link><description>AI 코딩 도구 Cursor가 SpaceX에 공식 인수됐습니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/DcBo9fOCPRo</link><description>가끔 오픈소스의 끝은 어디일까 너무 궁금해집니다.
+Cursor는 8월 14일 인수 절차가 공식적으로 마무리됐으며, 앞으로 SpaceXAI 팀에 합류한다고 밝혔는데요. Grok을 비롯해 Grok Build, Grok Bot, Grok API와 Cursor 개선에 참여할 예정입니다.
 
-MiniMax가 음악 생성 모델 MiniMax-Music3를 오픈 웨이트로 공개했습니다.
+AI 코딩 도구와 Grok 개발 조직이 한 회사 안에서 움직이게 된 만큼, 앞으로 Cursor와 Grok의 연계가 어떻게 이뤄질지 주목됩니다.</description><pubDate>Sat, 15 Aug 2026 00:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcCmxVBDDsM</guid></item><item><title>와.. 이 사람들이 한자리에 모인다니..
 
-가사와 곡 설명을 입력하면 보컬이 포함된 최대 5분 길이의 음악을 만들 수 있는데요. 장르, 분위기, 악기 구성, 곡 전개까지 지정할 수 있습니다.
+OpenAI Game Builders Seoul 본선에서는 한국 레전드 게임 개발자들과 직접 만날 수...</title><link>https://www.threads.net/@choi.openai/post/DcCcXSugT8n</link><description>와.. 이 사람들이 한자리에 모인다니..
 
-약 111억 개 파라미터 규모이며, 24GB VRAM 환경에서도 구동할 수 있어 로컬 음악 생성 모델을 찾는 분들에게 괜찮은 선택지가 될 것 같습니다.</description><pubDate>Fri, 14 Aug 2026 15:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcBo9fOCPRo</guid></item><item><title>허깅페이스 :
-https://huggingface.co/MiniMaxAI/MiniMax-Music3</title><link>https://www.threads.net/@choi.openai/post/DcBo_wbCKdS</link><description>허깅페이스 :
-https://huggingface.co/MiniMaxAI/MiniMax-Music3</description><pubDate>Fri, 14 Aug 2026 15:31:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcBo_wbCKdS</guid></item><item><title>Mistral AI가 Mistral OCR 4.1을 공개했습니다.
+OpenAI Game Builders Seoul 본선에서는 한국 레전드 게임 개발자들과 직접 만날 수 있습니다.
 
-복잡한 문서에서 글자나 이미지 영역을 표시하는 바운딩 박스 정확도가 개선됐는...</title><link>https://www.threads.net/@choi.openai/post/DcBel9MDUnv</link><description>Mistral AI가 Mistral OCR 4.1을 공개했습니다.
+Codex로 게임을 만들어 제출하면 40팀이 8월 31일 서울에서 열리는 본선에 진출하는데요. 본선에서는 게임 시연과 발표, 5시간 현장 해커톤이 진행됩니다.
 
-복잡한 문서에서 글자나 이미지 영역을 표시하는 바운딩 박스 정확도가 개선됐는데요. 기술 도면의 설명 영역을 서로 합치지 않고 구분하며, 여러 단으로 구성된 문서도 각 단의 구조를 유지합니다.
+Track 1 수상팀에는 총 $50,000 상당의 OpenAI 크레딧과 ChatGPT Pro 1년 구독권도 제공됩니다.
 
-예를 들어 신문처럼 4단으로 구성된 문서도 레이아웃을 유지한 채 인식할 수 있습니다. 기존 `mistral-ocr-latest`를 사용 중이라면 OCR 4.1이 적용됩니다.</description><pubDate>Fri, 14 Aug 2026 14:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcBel9MDUnv</guid></item><item><title>테스트 :
-https://console.mistral.ai/build/document-ai/ocr-playground</title><link>https://www.threads.net/@choi.openai/post/DcBenApjQx2</link><description>테스트 :
-https://console.mistral.ai/build/document-ai/ocr-playground</description><pubDate>Fri, 14 Aug 2026 14:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcBenApjQx2</guid></item><item><title>X가 For You 타임라인 알고리즘을 오픈소스로 공개했습니다.
+게임 개발에 관심 있다면 8월 26일까지 참가 신청할 수 있습니다.</description><pubDate>Fri, 14 Aug 2026 23:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcCcXSugT8n</guid></item><item><title>신청링크 :
+https://openaigame2026.com/#main</title><link>https://www.threads.net/@choi.openai/post/DcCcYupgR_6</link><description>신청링크 :
+https://openaigame2026.com/#main</description><pubDate>Fri, 14 Aug 2026 23:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcCcYupgR_6</guid></item><item><title>CodeRabbit이 CodeRabbit Security를 공개했습니다.
 
-이번 공개에는 게시물이 추천 피드에 오르기까지 거치는 후보 선별과 랭킹, 필터...</title><link>https://www.threads.net/@choi.openai/post/DcBUUR3AJsx</link><description>X가 For You 타임라인 알고리즘을 오픈소스로 공개했습니다.
+AI가 코드를 만드는 속도는 빨라졌는데, 보안 검토는 여전히 사람이 ...</title><link>https://www.threads.net/@choi.openai/post/DcCSHdgivIZ</link><description>CodeRabbit이 CodeRabbit Security를 공개했습니다.
 
-이번 공개에는 게시물이 추천 피드에 오르기까지 거치는 후보 선별과 랭킹, 필터링 코드가 포함됐는데요. 계정이나 게시물에 어떤 노출 제한 라벨이 붙었는지 확인할 수 있는 ‘Under the Hood’ 도구도 함께 내놨습니다.
+AI가 코드를 만드는 속도는 빨라졌는데, 보안 검토는 여전히 사람이 PR을 한 줄씩 읽고 있습니다. 이 도구는 저장소 전체를 먼저 지도처럼 훑어 진입점, 인증·권한 검사, 데이터 흐름을 파악한 뒤 취약점을 찾습니다.
 
-공개된 랭킹 코드에는 좋아요, 답글, 리포스트, 체류시간, 링크 복사 등 이용자 행동별 가중치가 담겨 있어 어떤 반응이 노출에 영향을 주는지 직접 확인할 수 있습니다.
+예를 들어 로그인은 되어 있지만 주문 소유권을 확인하지 않는 API라면, 단순히 “인증이 있다”에서 멈추지 않고 공격자가 입력한 주문 번호가 데이터베이스까지 도달하는 경로를 따라가며 실제 악용 가능성을 검증합니다. 확인된 문제는 공격 경로와 영향 설명을 붙인 수정 PR로 넘깁니다.
 
-주목할 부분은 이 가운데 링크 복사 항목의 보정 폭이 가장 크다는 점인데요.
-
-좋아요를 많이 받는 글보다, 다른 곳에 가져가고 싶을 만큼 유용한 글이 더 넓게 배포될 수 있다는 뜻입니다. 계정을 운영한다면 단순 반응 유도보다 저장하거나 공유하고 싶은 정보, 숫자, 표, 체크리스트, 인용 가능한 문장처럼 ‘가져갈 이유’를 만드는 편이 유리합니다.</description><pubDate>Fri, 14 Aug 2026 12:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcBUUR3AJsx</guid></item><item><title>이외에도 같이 공개된 Under the Hood는 지난달 게시물 10개 이상을 올린 1년 이상 된 계정 가운데 일부를 무작위로 선정해 파일럿으로...</title><link>https://www.threads.net/@choi.openai/post/DcBUVHIAPMk</link><description>이외에도 같이 공개된 Under the Hood는 지난달 게시물 10개 이상을 올린 1년 이상 된 계정 가운데 일부를 무작위로 선정해 파일럿으로 운영되고 있습니다.
-대상 계정은 자신과 게시물에 적용된 라벨 데이터도 내려받을 수 있습니다.
-
-알고리즘 코드와 계정별 노출 상태를 함께 공개했다는 점도 주목할 만합니다.
-앞으로는 감으로 운영하기보다 어떤 반응이 실제 배포에 연결되는지 보면서 계정 전략을 조정할 수 있게 됐습니다.
-
-스레드에도 같은 방식을 적용하여 전략적으로 계정을 운영하시면 많은 도움이 될 듯 싶습니다.</description><pubDate>Fri, 14 Aug 2026 12:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcBUVHIAPMk</guid></item><item><title>깃허브 :
-https://github.com/xai-org/x-algorithm</title><link>https://www.threads.net/@choi.openai/post/DcBUWD4AOpc</link><description>깃허브 :
-https://github.com/xai-org/x-algorithm</description><pubDate>Fri, 14 Aug 2026 12:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcBUWD4AOpc</guid></item><item><title>ChatGPT에서 이제 Google Docs, Sheets, Slides를 바로 열어 작업할 수 있습니다.
-
-ChatGPT 화면 안에서 문서를 ...</title><link>https://www.threads.net/@choi.openai/post/DcBKDRnDqaJ</link><description>ChatGPT에서 이제 Google Docs, Sheets, Slides를 바로 열어 작업할 수 있습니다.
-
-ChatGPT 화면 안에서 문서를 옆에 띄워두고 대화하면서 내용을 작성하거나 수정할 수 있는데요. 작업할 때마다 Google Drive와 ChatGPT 탭을 오갈 필요가 줄어듭니다.
-
-현재 웹의 Plus, Pro, Business, Enterprise 사용자에게 순차적으로 제공되고 있습니다.</description><pubDate>Fri, 14 Aug 2026 11:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcBKDRnDqaJ</guid></item></channel></rss>
+스캐너가 경고를 쏟는 게 아니라, 탐지→검증→수정까지 개발 흐름 안에서 닫으려는 제품입니다. AI가 코드를 더 빨리 만들수록 이런 보안 검토 레이어의 수요도 같이 커질 것 같습니다.</description><pubDate>Fri, 14 Aug 2026 21:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcCSHdgivIZ</guid></item><item><title>발표내용 :
+https://www.coderabbit.ai/blog/introducing-coderabbit-security</title><link>https://www.threads.net/@choi.openai/post/DcCSJtZiqxr</link><description>발표내용 :
+https://www.coderabbit.ai/blog/introducing-coderabbit-security</description><pubDate>Fri, 14 Aug 2026 21:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcCSJtZiqxr</guid></item><item><title>블룸버그에 따르면, 오픈AI의 연환산 매출이 현재 400억 달러를 넘어설 페이스입니다.
+현재 매출 흐름을 1년 기준으로 환산한 수치로, 2025...</title><link>https://www.threads.net/@choi.openai/post/DcCHzX6jaXQ</link><description>블룸버그에 따르면, 오픈AI의 연환산 매출이 현재 400억 달러를 넘어설 페이스입니다.
+현재 매출 흐름을 1년 기준으로 환산한 수치로, 2025년 말보다 약 2배 늘었습니다.
+최근 성장에는 AI 코딩 소프트웨어 Codex, 구독 매출, 초기 광고 사업이 기여했고, ChatGPT의 소비자 사업도 계속 성장했다고 합니다.
+블룸버그는 이 같은 매출 증가가 오픈AI의 월가 상장 계획을 뒷받침하고 있다고 전했습니다.
+다만, 이번 수치는 확정된 연간 매출이 아니라, 익명 관계자들이 전한 현재 실적 기반의 연환산 추정치입니다.</description><pubDate>Fri, 14 Aug 2026 20:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcCHzX6jaXQ</guid></item><item><title>기사 :
+https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rat...</title><link>https://www.threads.net/@choi.openai/post/DcCH0Uyjcq3</link><description>기사 :
+https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo</description><pubDate>Fri, 14 Aug 2026 20:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcCH0Uyjcq3</guid></item></channel></rss>
