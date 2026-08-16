@@ -1,62 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 16 Aug 2026 08:27:58 +0000</lastBuildDate><item><title>놀라운 사실.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 16 Aug 2026 15:10:05 +0000</lastBuildDate><item><title>오픈AI Codex의 Multi Agents v2에서 서브 에이전트가 사용할 모델을 직접 나눌 수 있게 됐습니다.
+
+예를 들어 GPT-5.6 S...</title><link>https://www.threads.net/@choi.openai/post/DcGaf4aDsPt</link><description>오픈AI Codex의 Multi Agents v2에서 서브 에이전트가 사용할 모델을 직접 나눌 수 있게 됐습니다.
+
+예를 들어 GPT-5.6 Sol이 전체 작업을 관리하고, 빠른 GPT-5.6 Luna에 조사나 반복 작업을 맡기는 식인데요.
+
+복잡한 작업은 Sol, 가벼운 작업은 Luna로 분담하면 속도와 토큰 사용량을 줄이는 데 도움이 될 수 있습니다.</description><pubDate>Sun, 16 Aug 2026 12:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGaf4aDsPt</guid></item><item><title>ChatGPT에 새로운 기능 "Quizzes"(채팅에서 퀴즈를 만들어주는 기능)가 추가됐습니다.
+
+"양자역학에 대해 문제 내줘"처럼 입력하면 객...</title><link>https://www.threads.net/@choi.openai/post/DcGQOcFktvZ</link><description>ChatGPT에 새로운 기능 "Quizzes"(채팅에서 퀴즈를 만들어주는 기능)가 추가됐습니다.
+
+"양자역학에 대해 문제 내줘"처럼 입력하면 객관식 퀴즈가 만들어지고, 답을 선택하면 바로 정답 여부와 해설을 확인할 수 있는데요.
+
+자격증 시험이나 새로운 분야를 공부할 때, 배운 내용을 제대로 이해했는지 확인하는 용도로 유용해 보입니다.</description><pubDate>Sun, 16 Aug 2026 10:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGQOcFktvZ</guid></item><item><title>AI 경제의 돈이 어디로 흐르는지 한 번에 보여주는 차트가 나왔습니다.
+
+상위 기업은 비싼 모델과 싼 모델을 업무별로 섞고, 기존 SaaS에 붙...</title><link>https://www.threads.net/@choi.openai/post/DcGF0Laj_ob</link><description>AI 경제의 돈이 어디로 흐르는지 한 번에 보여주는 차트가 나왔습니다.
+
+상위 기업은 비싼 모델과 싼 모델을 업무별로 섞고, 기존 SaaS에 붙이고, 절감된 비용만큼 더 많은 토큰을 씁니다. 그 수요를 선점하려 네오클라우드는 매출보다 큰 설비투자를 감수합니다.
+
+a16z의 최신 리포트를 뜯어봤습니다. 🧵</description><pubDate>Sun, 16 Aug 2026 08:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGF0Laj_ob</guid></item><item><title>1/ a16z New Media가 8월 14일 ‘Head In The Neoclouds’를 공개했습니다.
+모지스 스턴스타인이 AI에 돈이 몰리는...</title><link>https://www.threads.net/@choi.openai/post/DcGF0uIjwUi</link><description>1/ a16z New Media가 8월 14일 ‘Head In The Neoclouds’를 공개했습니다.
+모지스 스턴스타인이 AI에 돈이 몰리는 지점을 네 가지 차트 묶음으로 정리한 글인데요.
+
+이번 글은 AI 인프라를 공급하는 네오클라우드, AI 기능을 붙이는 소프트웨어 기업, 토큰 비용을 지불하는 기업 고객, 인재를 끌어모으는 AI 연구소를 한꺼번에 놓고 돈이 어디서 들어와 어디로 빠지는지 살펴봅니다.
+
+차트마다 보는 숫자도 다릅니다. 컴퓨트 사업자는 매출과 설비투자, 소프트웨어 기업은 AI가 매출에 미치는 영향, 기업 고객은 토큰 지출과 활용 수준, 연구소는 인재의 출신과 이동을 보여줍니다.
+
+지난달 a16z가 ‘AI 때문에 소프트웨어 기업의 실적이 이미 흔들리고 있는가’를 봤다면, 이번에는 그보다 한 단계 안으로 들어가 AI 경제 안에서 실제 돈과 자원이 어떻게 움직이는지를 추적합니다.</description><pubDate>Sun, 16 Aug 2026 09:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGF0uIjwUi</guid></item><item><title>2/ 첫 번째로 살펴보는 시장은 네오클라우드입니다.
+
+a16z가 이 이야기를 철도에서 시작한 이유가 흥미로운데요. 20세기 Southern Pa...</title><link>https://www.threads.net/@choi.openai/post/DcGF1TxD4Rn</link><description>2/ 첫 번째로 살펴보는 시장은 네오클라우드입니다.
+
+a16z가 이 이야기를 철도에서 시작한 이유가 흥미로운데요. 20세기 Southern Pacific Railroad는 철로 옆 남는 통행권에 통신망을 깔았고, Williams는 빈 가스관을 광섬유 통로로 바꿔 WilTel을 만들었습니다. 기존 자산이 새로운 기술을 만나 전혀 다른 산업의 기반이 된 사례입니다.
+
+비슷한 재평가가 AI에서도 일어났습니다. 암호화폐 채굴을 위해 확보했던 전력권과 부지, 냉각 시설, 고밀도 연산 운영 경험이 생성형 AI를 만나 훨씬 가치 있는 자산이 됐습니다. 코어위브가 대표적인데요.
+
+차트에 따르면 출범 후 약 25개 분기 만에 분기 매출 26억 달러에 도달해 AWS의 초기 성장 추정보다 빨랐습니다.
+
+다만 AWS 수치는 추정치이고 사업 구조도 달라, 이 비교는 AI 컴퓨트 수요가 얼마나 빠르게 커졌는지를 보여주는 참고에 가깝습니다.</description><pubDate>Sun, 16 Aug 2026 09:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGF1TxD4Rn</guid></item><item><title>3/ 네오클라우드의 성장 속도는 기존 클라우드 초기보다도 빠릅니다.
+
+a16z 차트에서 코어위브는 출범 후 약 25개 분기 만에 분기 매출 26...</title><link>https://www.threads.net/@choi.openai/post/DcGF2EZD1Sq</link><description>3/ 네오클라우드의 성장 속도는 기존 클라우드 초기보다도 빠릅니다.
+
+a16z 차트에서 코어위브는 출범 후 약 25개 분기 만에 분기 매출 26억 달러에 도달했습니다. AWS가 같은 규모에 도달한 추정 시점은 약 40개 분기였고, Nebius와 Applied Digital도 작은 기반에서 수백 퍼센트씩 성장했습니다.
+
+문제는 이 매출을 만드는 데 들어가는 돈입니다. 코어위브의 같은 분기 자본지출은 71억 달러였고, GPU 감가상각은 매출의 절반을 넘습니다.
+
+빚으로 데이터센터와 장비를 늘리면서 이자비용도 커집니다. 새 GPU가 빠르게 좋아질수록 기존 장비의 경제적 가치가 더 빨리 떨어질 수도 있죠.
+
+결국 네오클라우드는 성장률만 볼 수 없습니다. 장기 계약에서 버는 돈으로 장비와 조달 비용을 회수하고, GPU가 경쟁력을 잃기 전에 충분한 수익을 남길 수 있는지가 함께 중요합니다.</description><pubDate>Sun, 16 Aug 2026 09:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGF2EZD1Sq</guid></item><item><title>놀라운 사실.
 
 Cursor는 4년전 AI 이메일 어시스턴트로 시작해 어제 90조에 인수되었다.</title><link>https://www.threads.net/@choi.openai/post/DcF7lodEcvF</link><description>놀라운 사실.
 
-Cursor는 4년전 AI 이메일 어시스턴트로 시작해 어제 90조에 인수되었다.</description><pubDate>Sun, 16 Aug 2026 07:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcF7lodEcvF</guid></item><item><title>AI에 개인정보를 보내기 전에 로컬에서 먼저 걸러내는 모델이 나왔습니다.
-
-Liquid AI가 공개한 LFM2.5-Encoder는 이름, 전화번...</title><link>https://www.threads.net/@choi.openai/post/DcFxPmaj4cy</link><description>AI에 개인정보를 보내기 전에 로컬에서 먼저 걸러내는 모델이 나왔습니다.
-
-Liquid AI가 공개한 LFM2.5-Encoder는 이름, 전화번호, 계좌번호, API Key 등 40종의 개인정보를 16개 언어에서 한 번에 찾아낼 수 있습니다.
-
-230M·350M 크기의 소형 모델이고, 내부 환경에서 직접 실행할 수 있어 민감한 데이터가 외부로 나가지 않는다는 점이 눈에 띕니다.
-
-기업에서 AI 활용이 늘수록 이런 개인정보 필터가 앞단에 기본으로 붙는 형태가 많아질 것 같습니다. 허깅페이스에서 바로 이용할 수 있습니다.</description><pubDate>Sun, 16 Aug 2026 06:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFxPmaj4cy</guid></item><item><title>허깅페이스 :
-https://huggingface.co/LiquidAI/LFM2.5-Encoder-350M</title><link>https://www.threads.net/@choi.openai/post/DcFxQq7j3vi</link><description>허깅페이스 :
-https://huggingface.co/LiquidAI/LFM2.5-Encoder-350M</description><pubDate>Sun, 16 Aug 2026 06:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFxQq7j3vi</guid></item><item><title>다리오 아모데이가 장문의 답변을 올렸습니다.
-
-AI 규제는 독점을 만드는가, 오히려 빅테크를 묶는가.
-오픈웨이트는 권력을 분산하는가.
-그리고 왜...</title><link>https://www.threads.net/@choi.openai/post/DcFm69Ij_k-</link><description>다리오 아모데이가 장문의 답변을 올렸습니다.
-
-AI 규제는 독점을 만드는가, 오히려 빅테크를 묶는가.
-오픈웨이트는 권력을 분산하는가.
-그리고 왜 그는 암을 치료한다는 말보다 실제 성과가 먼저라고 했을까요.
-
-과거 행보까지 연결해봤습니다. 🧵</description><pubDate>Sun, 16 Aug 2026 04:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFm69Ij_k-</guid></item><item><title>1/ 오늘 다리오 아모데이가 X에 장문의 글 두 편을 올렸습니다.
-
-주제는 크게 두 가지인데요. AI 규제가 소수 기업과 정치인에게 권력을 집중...</title><link>https://www.threads.net/@choi.openai/post/DcFm7nzD1lA</link><description>1/ 오늘 다리오 아모데이가 X에 장문의 글 두 편을 올렸습니다.
-
-주제는 크게 두 가지인데요. AI 규제가 소수 기업과 정치인에게 권력을 집중시키는지, 그리고 자신이 AI의 위험만 강조하면서 대중의 불신을 키워왔는지에 대한 반박입니다.
-
-앞서 앤트로픽 연구자 숄토 더글러스는 다리오를 둘러싼 일부 소문을 부인했고, 투자자 개빈 베이커는 사실 여부와 별개로 그동안의 공개 메시지가 그런 인상을 만들어왔다고 지적했습니다.
-
-이에 다리오는 규제와 분산을 서로 반대되는 선택지로 보는 구도 자체가 잘못됐다고 반박합니다.</description><pubDate>Sun, 16 Aug 2026 04:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFm7nzD1lA</guid></item><item><title>2/ 다리오가 든 비유는 법원입니다.
-
-법원은 느리고 엘리트적으로 보일 수 있지만, 군중재판보다 약자의 권리를 더 안정적으로 지킬 수 있다는 것...</title><link>https://www.threads.net/@choi.openai/post/DcFm8eGjyHD</link><description>2/ 다리오가 든 비유는 법원입니다.
-
-법원은 느리고 엘리트적으로 보일 수 있지만, 군중재판보다 약자의 권리를 더 안정적으로 지킬 수 있다는 것이죠. 좋은 제도는 권력을 특정 인물의 판단이 아니라 공개된 규칙에 묶어두기 때문에, 오히려 권력 분산에 도움이 될 수 있다는 논리입니다.
-
-그래서 중요한 건 규제의 존재 자체보다 그 비용을 누가 부담하느냐입니다. 그는 SB 53의 연매출 5억 달러 미만 기업 면제, 프런티어 모델에 대한 더 엄격한 사전 테스트, 추격 중인 모델은 늦추지 않는 Pacing 구상을 사례로 들었는데요. 그의 설명대로라면 가장 먼저 속도를 늦춰야 할 회사가 앤트로픽입니다.
-
-또 트럼프 행정부가 검토 중인 것으로 알려진 배포 전 테스트와, 금융산업의 FINRA 같은 별도 감독기구 구상에도 세부 설계를 전제로 지지 입장을 밝혔습니다.
-
-결국 제도가 권력을 분산한다는 주장은 이런 원칙이 실제 집행에서도 그대로 유지될 때 설득력을 얻습니다.</description><pubDate>Sun, 16 Aug 2026 04:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFm8eGjyHD</guid></item><item><title>3/ 다만 작은 회사를 법 적용 대상에서 빼준다고 경쟁이 자동으로 살아나는 것은 아닙니다.
-
-규제 대응 인력과 공인 평가 접근권, 보험, 데이터...</title><link>https://www.threads.net/@choi.openai/post/DcFm8_Zj4UM</link><description>3/ 다만 작은 회사를 법 적용 대상에서 빼준다고 경쟁이 자동으로 살아나는 것은 아닙니다.
-
-규제 대응 인력과 공인 평가 접근권, 보험, 데이터센터와 칩을 확보하는 비용은 면제 조항과 별개로 작동합니다. 매출 5억 달러가 되기 전까지 보호하더라도 그다음 성장 구간을 넘지 못한다면, 규제는 여전히 선두 기업의 해자가 될 수 있습니다.
-
-그래서 저는 단순한 스타트업 면제보다 세 가지를 봐야 한다고 생각합니다. 실제 준수 비용이 프런티어 기업에 더 크게 부과되는지, 평가 기준이 공개돼 경쟁사가 예측할 수 있는지, 규칙을 만드는 기관이 현직 AI 기업의 인력과 정보에 과도하게 의존하지 않는지입니다.
-
-이런 조건까지 갖춰져야 규제가 경쟁을 보호한다는 주장도 설득력을 얻습니다.</description><pubDate>Sun, 16 Aug 2026 04:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFm8_Zj4UM</guid></item><item><title>14MB짜리 AI 에이전트가 나왔습니다.
-
-Cactus의 Needle 2는 45M 파라미터 모델로, 약 28MB RAM만 있으면 GPU 없이도 ...</title><link>https://www.threads.net/@choi.openai/post/DcFcsPhEva0</link><description>14MB짜리 AI 에이전트가 나왔습니다.
-
-Cactus의 Needle 2는 45M 파라미터 모델로, 약 28MB RAM만 있으면 GPU 없이도 로컬에서 실행할 수 있습니다.
-
-스마트홈 제어, 문서 처리, 이메일 정보 추출, 감정 분석처럼 범위가 정해진 작업을 기기 안에서 처리하는 용도에 가깝습니다.
-
-대형 모델처럼 복잡한 추론을 맡기는 모델은 아니지만, 모든 작업에 거대한 모델이 필요한 건 아니라는 점을 보여줍니다. 앞으로 AI가 PC나 스마트폰을 넘어 각종 소형 기기 안으로 들어가는 흐름도 빨라질 것 같습니다.</description><pubDate>Sun, 16 Aug 2026 03:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFcsPhEva0</guid></item><item><title>주소 :
-https://cactuscompute.com/needle</title><link>https://www.threads.net/@choi.openai/post/DcFctYJEoex</link><description>주소 :
-https://cactuscompute.com/needle</description><pubDate>Sun, 16 Aug 2026 03:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFctYJEoex</guid></item></channel></rss>
+Cursor는 4년전 AI 이메일 어시스턴트로 시작해 어제 90조에 인수되었다.</description><pubDate>Sun, 16 Aug 2026 07:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcF7lodEcvF</guid></item></channel></rss>
