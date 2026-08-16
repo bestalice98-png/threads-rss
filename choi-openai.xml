@@ -1,32 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 16 Aug 2026 01:15:33 +0000</lastBuildDate><item><title>대한민국이 미국을 제쳤네요!</title><link>https://www.threads.net/@choi.openai/post/DcFIBelkuB2</link><description>대한민국이 미국을 제쳤네요!</description><pubDate>Sun, 16 Aug 2026 00:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFIBelkuB2</guid></item><item><title>Perplexity가 AI 에이전트용 Search SDK를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 16 Aug 2026 08:27:58 +0000</lastBuildDate><item><title>놀라운 사실.
 
-핵심은 검색 결과를 그대로 모델에 넘기는 게 아니라, 에이전트가 여러...</title><link>https://www.threads.net/@choi.openai/post/DcE9w4Qgujk</link><description>Perplexity가 AI 에이전트용 Search SDK를 공개했습니다.
+Cursor는 4년전 AI 이메일 어시스턴트로 시작해 어제 90조에 인수되었다.</title><link>https://www.threads.net/@choi.openai/post/DcF7lodEcvF</link><description>놀라운 사실.
 
-핵심은 검색 결과를 그대로 모델에 넘기는 게 아니라, 에이전트가 여러 검색을 동시에 돌리고 코드에서 중복 제거·필터링·순위화를 할 수 있다는 점입니다.
+Cursor는 4년전 AI 이메일 어시스턴트로 시작해 어제 90조에 인수되었다.</description><pubDate>Sun, 16 Aug 2026 07:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcF7lodEcvF</guid></item><item><title>AI에 개인정보를 보내기 전에 로컬에서 먼저 걸러내는 모델이 나왔습니다.
 
-요즘 에이전트 경쟁에서 중요한 건 모델 성능만이 아니라 얼마나 좋은 정보를 빠르게 찾고 정리하느냐인데요.
+Liquid AI가 공개한 LFM2.5-Encoder는 이름, 전화번...</title><link>https://www.threads.net/@choi.openai/post/DcFxPmaj4cy</link><description>AI에 개인정보를 보내기 전에 로컬에서 먼저 걸러내는 모델이 나왔습니다.
 
-Perplexity가 에이전트의 검색 인프라로 들어가려는 움직임으로 보입니다.</description><pubDate>Sat, 15 Aug 2026 22:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcE9w4Qgujk</guid></item><item><title>주소 :
-https://docs.perplexity.ai/docs/search-sdk/overview</title><link>https://www.threads.net/@choi.openai/post/DcE9zv5gjJw</link><description>주소 :
-https://docs.perplexity.ai/docs/search-sdk/overview</description><pubDate>Sat, 15 Aug 2026 22:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcE9zv5gjJw</guid></item><item><title>미국 정부가 애플에 중국산 메모리 사용을 사실상 재고하라고 압박하고 있습니다.
+Liquid AI가 공개한 LFM2.5-Encoder는 이름, 전화번호, 계좌번호, API Key 등 40종의 개인정보를 16개 언어에서 한 번에 찾아낼 수 있습니다.
 
-AI 데이터센터 수요로 메모리 공급이 부족해지자 애플은 CXMT...</title><link>https://www.threads.net/@choi.openai/post/DcEzghNj5T9</link><description>미국 정부가 애플에 중국산 메모리 사용을 사실상 재고하라고 압박하고 있습니다.
+230M·350M 크기의 소형 모델이고, 내부 환경에서 직접 실행할 수 있어 민감한 데이터가 외부로 나가지 않는다는 점이 눈에 띕니다.
 
-AI 데이터센터 수요로 메모리 공급이 부족해지자 애플은 CXMT와 YMTC 제품을 테스트해왔는데요. 하지만 미국 정부는 중국 업체 의존 대신 다른 공급처를 찾으라는 입장입니다.
+기업에서 AI 활용이 늘수록 이런 개인정보 필터가 앞단에 기본으로 붙는 형태가 많아질 것 같습니다. 허깅페이스에서 바로 이용할 수 있습니다.</description><pubDate>Sun, 16 Aug 2026 06:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFxPmaj4cy</guid></item><item><title>허깅페이스 :
+https://huggingface.co/LiquidAI/LFM2.5-Encoder-350M</title><link>https://www.threads.net/@choi.openai/post/DcFxQq7j3vi</link><description>허깅페이스 :
+https://huggingface.co/LiquidAI/LFM2.5-Encoder-350M</description><pubDate>Sun, 16 Aug 2026 06:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFxQq7j3vi</guid></item><item><title>다리오 아모데이가 장문의 답변을 올렸습니다.
 
-이 상황에서 가장 유리한 건 Micron, SK하이닉스, 삼성전자입니다. 애플이 중국 업체를 가격 협상 카드로 쓰기 어려워지면 기존 메모리 업체들의 협상력이 더 커질 수 있기 때문입니다.
+AI 규제는 독점을 만드는가, 오히려 빅테크를 묶는가.
+오픈웨이트는 권력을 분산하는가.
+그리고 왜...</title><link>https://www.threads.net/@choi.openai/post/DcFm69Ij_k-</link><description>다리오 아모데이가 장문의 답변을 올렸습니다.
 
-AI 붐이 메모리 가격뿐 아니라 애플의 공급망 전략까지 바꾸고 있습니다.</description><pubDate>Sat, 15 Aug 2026 21:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcEzghNj5T9</guid></item><item><title>기사 :
-https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83</title><link>https://www.threads.net/@choi.openai/post/DcEzhqwjxrs</link><description>기사 :
-https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83</description><pubDate>Sat, 15 Aug 2026 21:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcEzhqwjxrs</guid></item><item><title>오픈AI의 매출 구조가 불과 몇 달 만에 뒤집혔습니다.
+AI 규제는 독점을 만드는가, 오히려 빅테크를 묶는가.
+오픈웨이트는 권력을 분산하는가.
+그리고 왜 그는 암을 치료한다는 말보다 실제 성과가 먼저라고 했을까요.
 
-올해 초만 해도 개인 사용자와 기업 매출 비중이 60:40으로 개인 사용자가 더 컸는데...</title><link>https://www.threads.net/@choi.openai/post/DcEsmzyjUsZ</link><description>오픈AI의 매출 구조가 불과 몇 달 만에 뒤집혔습니다.
+과거 행보까지 연결해봤습니다. 🧵</description><pubDate>Sun, 16 Aug 2026 04:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFm69Ij_k-</guid></item><item><title>1/ 오늘 다리오 아모데이가 X에 장문의 글 두 편을 올렸습니다.
 
-올해 초만 해도 개인 사용자와 기업 매출 비중이 60:40으로 개인 사용자가 더 컸는데요. 현재는 기업 매출이 개인 사용자 매출을 넘어선 것으로 전해졌습니다.
+주제는 크게 두 가지인데요. AI 규제가 소수 기업과 정치인에게 권력을 집중...</title><link>https://www.threads.net/@choi.openai/post/DcFm7nzD1lA</link><description>1/ 오늘 다리오 아모데이가 X에 장문의 글 두 편을 올렸습니다.
 
-오픈AI의 연환산 매출도 400억 달러를 넘어섰고, 7월에는 전월 대비 20% 이상 증가한 것으로 알려졌습니다.
+주제는 크게 두 가지인데요. AI 규제가 소수 기업과 정치인에게 권력을 집중시키는지, 그리고 자신이 AI의 위험만 강조하면서 대중의 불신을 키워왔는지에 대한 반박입니다.
 
-이제는 ChatGPT 구독자가 얼마나 늘었느냐보다 AI가 실제 기업 업무에 얼마나 빠르게 들어가고 있느냐가 중요해진 것 같습니다.
+앞서 앤트로픽 연구자 숄토 더글러스는 다리오를 둘러싼 일부 소문을 부인했고, 투자자 개빈 베이커는 사실 여부와 별개로 그동안의 공개 메시지가 그런 인상을 만들어왔다고 지적했습니다.
 
-결국 오픈AI와 앤트로픽의 경쟁은 일반 사용자용 챗봇보다 기업의 개발·업무 환경을 누가 더 많이 가져가느냐에서 더 치열해질 것 같습니다.</description><pubDate>Sat, 15 Aug 2026 20:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcEsmzyjUsZ</guid></item></channel></rss>
+이에 다리오는 규제와 분산을 서로 반대되는 선택지로 보는 구도 자체가 잘못됐다고 반박합니다.</description><pubDate>Sun, 16 Aug 2026 04:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFm7nzD1lA</guid></item><item><title>2/ 다리오가 든 비유는 법원입니다.
+
+법원은 느리고 엘리트적으로 보일 수 있지만, 군중재판보다 약자의 권리를 더 안정적으로 지킬 수 있다는 것...</title><link>https://www.threads.net/@choi.openai/post/DcFm8eGjyHD</link><description>2/ 다리오가 든 비유는 법원입니다.
+
+법원은 느리고 엘리트적으로 보일 수 있지만, 군중재판보다 약자의 권리를 더 안정적으로 지킬 수 있다는 것이죠. 좋은 제도는 권력을 특정 인물의 판단이 아니라 공개된 규칙에 묶어두기 때문에, 오히려 권력 분산에 도움이 될 수 있다는 논리입니다.
+
+그래서 중요한 건 규제의 존재 자체보다 그 비용을 누가 부담하느냐입니다. 그는 SB 53의 연매출 5억 달러 미만 기업 면제, 프런티어 모델에 대한 더 엄격한 사전 테스트, 추격 중인 모델은 늦추지 않는 Pacing 구상을 사례로 들었는데요. 그의 설명대로라면 가장 먼저 속도를 늦춰야 할 회사가 앤트로픽입니다.
+
+또 트럼프 행정부가 검토 중인 것으로 알려진 배포 전 테스트와, 금융산업의 FINRA 같은 별도 감독기구 구상에도 세부 설계를 전제로 지지 입장을 밝혔습니다.
+
+결국 제도가 권력을 분산한다는 주장은 이런 원칙이 실제 집행에서도 그대로 유지될 때 설득력을 얻습니다.</description><pubDate>Sun, 16 Aug 2026 04:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFm8eGjyHD</guid></item><item><title>3/ 다만 작은 회사를 법 적용 대상에서 빼준다고 경쟁이 자동으로 살아나는 것은 아닙니다.
+
+규제 대응 인력과 공인 평가 접근권, 보험, 데이터...</title><link>https://www.threads.net/@choi.openai/post/DcFm8_Zj4UM</link><description>3/ 다만 작은 회사를 법 적용 대상에서 빼준다고 경쟁이 자동으로 살아나는 것은 아닙니다.
+
+규제 대응 인력과 공인 평가 접근권, 보험, 데이터센터와 칩을 확보하는 비용은 면제 조항과 별개로 작동합니다. 매출 5억 달러가 되기 전까지 보호하더라도 그다음 성장 구간을 넘지 못한다면, 규제는 여전히 선두 기업의 해자가 될 수 있습니다.
+
+그래서 저는 단순한 스타트업 면제보다 세 가지를 봐야 한다고 생각합니다. 실제 준수 비용이 프런티어 기업에 더 크게 부과되는지, 평가 기준이 공개돼 경쟁사가 예측할 수 있는지, 규칙을 만드는 기관이 현직 AI 기업의 인력과 정보에 과도하게 의존하지 않는지입니다.
+
+이런 조건까지 갖춰져야 규제가 경쟁을 보호한다는 주장도 설득력을 얻습니다.</description><pubDate>Sun, 16 Aug 2026 04:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFm8_Zj4UM</guid></item><item><title>14MB짜리 AI 에이전트가 나왔습니다.
+
+Cactus의 Needle 2는 45M 파라미터 모델로, 약 28MB RAM만 있으면 GPU 없이도 ...</title><link>https://www.threads.net/@choi.openai/post/DcFcsPhEva0</link><description>14MB짜리 AI 에이전트가 나왔습니다.
+
+Cactus의 Needle 2는 45M 파라미터 모델로, 약 28MB RAM만 있으면 GPU 없이도 로컬에서 실행할 수 있습니다.
+
+스마트홈 제어, 문서 처리, 이메일 정보 추출, 감정 분석처럼 범위가 정해진 작업을 기기 안에서 처리하는 용도에 가깝습니다.
+
+대형 모델처럼 복잡한 추론을 맡기는 모델은 아니지만, 모든 작업에 거대한 모델이 필요한 건 아니라는 점을 보여줍니다. 앞으로 AI가 PC나 스마트폰을 넘어 각종 소형 기기 안으로 들어가는 흐름도 빨라질 것 같습니다.</description><pubDate>Sun, 16 Aug 2026 03:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFcsPhEva0</guid></item><item><title>주소 :
+https://cactuscompute.com/needle</title><link>https://www.threads.net/@choi.openai/post/DcFctYJEoex</link><description>주소 :
+https://cactuscompute.com/needle</description><pubDate>Sun, 16 Aug 2026 03:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcFctYJEoex</guid></item></channel></rss>
