@@ -1,52 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 16 Aug 2026 15:10:05 +0000</lastBuildDate><item><title>오픈AI Codex의 Multi Agents v2에서 서브 에이전트가 사용할 모델을 직접 나눌 수 있게 됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 17 Aug 2026 01:13:42 +0000</lastBuildDate><item><title>놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/DcHs4FAD89h</link><description>놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</description><pubDate>Mon, 17 Aug 2026 00:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHs4FAD89h</guid></item><item><title>1/ 구글이 Gemini 3.7 Flash를 공개했습니다.
+
+3.6 Flash가 나온 지 3주 만입니다. 사전학습을 다시 하지 않고 알고리즘과 ...</title><link>https://www.threads.net/@choi.openai/post/DcHs4Y2D_YL</link><description>1/ 구글이 Gemini 3.7 Flash를 공개했습니다.
+
+3.6 Flash가 나온 지 3주 만입니다. 사전학습을 다시 하지 않고 알고리즘과 모델의 행동 방식을 다듬어 DeepSWE를 49.0%에서 65.3%, FrontierCode를 34.4%에서 43.6%로 올렸습니다.
+
+연말까지 입력 0.75달러, 출력 3.75달러로 기존 가격의 절반을 받지만 2027년 1월에는 다시 두 배가 됩니다. 모델 업데이트 주기는 짧아졌고, 가격 경쟁은 영구 인하보다 한시 할인으로 번지고 있습니다.</description><pubDate>Mon, 17 Aug 2026 00:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHs4Y2D_YL</guid></item><item><title>2/ Z.ai가 GLM-5.3을 공개했습니다.
+
+743B 베이스 모델은 GLM-5.2와 같습니다. 한 달 동안 후속 학습만 늘려 Terminal...</title><link>https://www.threads.net/@choi.openai/post/DcHs46dDx3y</link><description>2/ Z.ai가 GLM-5.3을 공개했습니다.
+
+743B 베이스 모델은 GLM-5.2와 같습니다. 한 달 동안 후속 학습만 늘려 Terminal-Bench 3.0을 4.6에서 28.3, DeepSWE를 46.2에서 66.9로 올렸습니다. 취약점 탐지 CyberGym에서도 84.5%를 기록했습니다.
+
+지금은 GLM Coding Plan과 ZCode에서 쓸 수 있고, 가중치는 안전 평가를 거쳐 2주 뒤 공개할 예정입니다. 새 베이스 모델보다 실제 작업 환경에서 반복 훈련하는 능력이 중국 모델 경쟁의 속도를 끌어올리고 있습니다.</description><pubDate>Mon, 17 Aug 2026 00:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHs46dDx3y</guid></item><item><title>3/ 알리바바가 Qwen3.8-Max와 27B 가중치를 연달아 공개했습니다.
+
+Max는 총 2.4조 파라미터 가운데 토큰당 950억 개를 쓰고,...</title><link>https://www.threads.net/@choi.openai/post/DcHs5Tgj18V</link><description>3/ 알리바바가 Qwen3.8-Max와 27B 가중치를 연달아 공개했습니다.
+
+Max는 총 2.4조 파라미터 가운데 토큰당 950억 개를 쓰고, 기본 26만 토큰을 약 100만 토큰까지 확장할 수 있습니다. 이틀 뒤 나온 27B는 이미지와 영상까지 처리하며 Apache 2.0으로 공개됐습니다.
+
+27B의 4비트 양자화본은 17.1GB입니다. 한쪽에서는 Max급 모델을 서버에 올리고, 다른 쪽에서는 같은 세대의 작업 능력을 소비자 GPU까지 내렸습니다. 공개 당일부터 vLLM·SGLang·Unsloth가 지원한 것도 확산 속도를 높입니다.
+
+기업은 양자화 뒤 성능 저하와 긴 문맥에서 추가로 필요한 메모리까지 계산해야 합니다.</description><pubDate>Mon, 17 Aug 2026 00:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHs5Tgj18V</guid></item><item><title>Y Combinator CEO 게리 탄(Garry Tan)은 차세대 컴퓨팅의 핵심으로 음성 인터페이스와 지속적인 맥락 메모리를 꼽았습니다.
+
+그...</title><link>https://www.threads.net/@choi.openai/post/DcHpcCZD8YB</link><description>Y Combinator CEO 게리 탄(Garry Tan)은 차세대 컴퓨팅의 핵심으로 음성 인터페이스와 지속적인 맥락 메모리를 꼽았습니다.
+
+그는 미래의 AI가 사용자의 희망과 두려움까지 이해하며 끊임없이 돕는 존재가 될 것이라며, “2027년경에는 '하네스 전쟁(Harness Wars)'이 일어날 것”이라고 전망했습니다.
+
+지금은 높은 연산 비용 탓에 광범위한 AI 확산이 제한적이지만, 프론티어 모델의 컴퓨팅 비용이 급격히 하락하면서 10억 명의 소비자를 차지하기 위한 플랫폼 경쟁이 본격화될 것이라는 분석입니다.</description><pubDate>Sun, 16 Aug 2026 23:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHpcCZD8YB</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=fsTtKywmWlU</title><link>https://www.threads.net/@choi.openai/post/DcHpc7cDzY5</link><description>풀영상 :
+https://www.youtube.com/watch?v=fsTtKywmWlU</description><pubDate>Sun, 16 Aug 2026 23:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHpc7cDzY5</guid></item><item><title>Y Combinator의 게리 탄(Garry Tan)은 “마크다운 파일 하나가 하나의 직원이 되는 시대”가 오고 있다고 말했습니다.
+
+그는 AI...</title><link>https://www.threads.net/@choi.openai/post/DcHfIHfCg9n</link><description>Y Combinator의 게리 탄(Garry Tan)은 “마크다운 파일 하나가 하나의 직원이 되는 시대”가 오고 있다고 말했습니다.
+
+그는 AI 에이전트의 컨텍스트 한계(토큰)를 최대로 활용하고 반복적인 작업을 구조화하면, 비즈니스 프로세스 전체를 완벽히 자동화할 수 있다고 설명했습니다.
+
+처음에 에이전트를 구축할 때는 비용이 들고 실수가 발생할 수 있지만, 피드백을 반영해 교정(Skillify)하는 과정을 거치면 완벽하게 동작하는 무한 반복 가능한 코드 및 가이드라인으로 남아 완벽한 시스템이 완성됩니다.
+
+또한 이를 영업, 마케팅, 고객 지원 등 기업의 모든 업무 프로세스에 적용하여 생산성을 극대화할 수 있다고 강조했습니다.</description><pubDate>Sun, 16 Aug 2026 22:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHfIHfCg9n</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=fsTtKywmWlU</title><link>https://www.threads.net/@choi.openai/post/DcHfKbfCtdR</link><description>풀영상 :
+https://www.youtube.com/watch?v=fsTtKywmWlU</description><pubDate>Sun, 16 Aug 2026 22:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHfKbfCtdR</guid></item><item><title>오픈AI Codex의 Multi Agents v2에서 서브 에이전트가 사용할 모델을 직접 나눌 수 있게 됐습니다.
 
 예를 들어 GPT-5.6 S...</title><link>https://www.threads.net/@choi.openai/post/DcGaf4aDsPt</link><description>오픈AI Codex의 Multi Agents v2에서 서브 에이전트가 사용할 모델을 직접 나눌 수 있게 됐습니다.
 
 예를 들어 GPT-5.6 Sol이 전체 작업을 관리하고, 빠른 GPT-5.6 Luna에 조사나 반복 작업을 맡기는 식인데요.
 
-복잡한 작업은 Sol, 가벼운 작업은 Luna로 분담하면 속도와 토큰 사용량을 줄이는 데 도움이 될 수 있습니다.</description><pubDate>Sun, 16 Aug 2026 12:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGaf4aDsPt</guid></item><item><title>ChatGPT에 새로운 기능 "Quizzes"(채팅에서 퀴즈를 만들어주는 기능)가 추가됐습니다.
-
-"양자역학에 대해 문제 내줘"처럼 입력하면 객...</title><link>https://www.threads.net/@choi.openai/post/DcGQOcFktvZ</link><description>ChatGPT에 새로운 기능 "Quizzes"(채팅에서 퀴즈를 만들어주는 기능)가 추가됐습니다.
-
-"양자역학에 대해 문제 내줘"처럼 입력하면 객관식 퀴즈가 만들어지고, 답을 선택하면 바로 정답 여부와 해설을 확인할 수 있는데요.
-
-자격증 시험이나 새로운 분야를 공부할 때, 배운 내용을 제대로 이해했는지 확인하는 용도로 유용해 보입니다.</description><pubDate>Sun, 16 Aug 2026 10:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGQOcFktvZ</guid></item><item><title>AI 경제의 돈이 어디로 흐르는지 한 번에 보여주는 차트가 나왔습니다.
-
-상위 기업은 비싼 모델과 싼 모델을 업무별로 섞고, 기존 SaaS에 붙...</title><link>https://www.threads.net/@choi.openai/post/DcGF0Laj_ob</link><description>AI 경제의 돈이 어디로 흐르는지 한 번에 보여주는 차트가 나왔습니다.
-
-상위 기업은 비싼 모델과 싼 모델을 업무별로 섞고, 기존 SaaS에 붙이고, 절감된 비용만큼 더 많은 토큰을 씁니다. 그 수요를 선점하려 네오클라우드는 매출보다 큰 설비투자를 감수합니다.
-
-a16z의 최신 리포트를 뜯어봤습니다. 🧵</description><pubDate>Sun, 16 Aug 2026 08:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGF0Laj_ob</guid></item><item><title>1/ a16z New Media가 8월 14일 ‘Head In The Neoclouds’를 공개했습니다.
-모지스 스턴스타인이 AI에 돈이 몰리는...</title><link>https://www.threads.net/@choi.openai/post/DcGF0uIjwUi</link><description>1/ a16z New Media가 8월 14일 ‘Head In The Neoclouds’를 공개했습니다.
-모지스 스턴스타인이 AI에 돈이 몰리는 지점을 네 가지 차트 묶음으로 정리한 글인데요.
-
-이번 글은 AI 인프라를 공급하는 네오클라우드, AI 기능을 붙이는 소프트웨어 기업, 토큰 비용을 지불하는 기업 고객, 인재를 끌어모으는 AI 연구소를 한꺼번에 놓고 돈이 어디서 들어와 어디로 빠지는지 살펴봅니다.
-
-차트마다 보는 숫자도 다릅니다. 컴퓨트 사업자는 매출과 설비투자, 소프트웨어 기업은 AI가 매출에 미치는 영향, 기업 고객은 토큰 지출과 활용 수준, 연구소는 인재의 출신과 이동을 보여줍니다.
-
-지난달 a16z가 ‘AI 때문에 소프트웨어 기업의 실적이 이미 흔들리고 있는가’를 봤다면, 이번에는 그보다 한 단계 안으로 들어가 AI 경제 안에서 실제 돈과 자원이 어떻게 움직이는지를 추적합니다.</description><pubDate>Sun, 16 Aug 2026 09:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGF0uIjwUi</guid></item><item><title>2/ 첫 번째로 살펴보는 시장은 네오클라우드입니다.
-
-a16z가 이 이야기를 철도에서 시작한 이유가 흥미로운데요. 20세기 Southern Pa...</title><link>https://www.threads.net/@choi.openai/post/DcGF1TxD4Rn</link><description>2/ 첫 번째로 살펴보는 시장은 네오클라우드입니다.
-
-a16z가 이 이야기를 철도에서 시작한 이유가 흥미로운데요. 20세기 Southern Pacific Railroad는 철로 옆 남는 통행권에 통신망을 깔았고, Williams는 빈 가스관을 광섬유 통로로 바꿔 WilTel을 만들었습니다. 기존 자산이 새로운 기술을 만나 전혀 다른 산업의 기반이 된 사례입니다.
-
-비슷한 재평가가 AI에서도 일어났습니다. 암호화폐 채굴을 위해 확보했던 전력권과 부지, 냉각 시설, 고밀도 연산 운영 경험이 생성형 AI를 만나 훨씬 가치 있는 자산이 됐습니다. 코어위브가 대표적인데요.
-
-차트에 따르면 출범 후 약 25개 분기 만에 분기 매출 26억 달러에 도달해 AWS의 초기 성장 추정보다 빨랐습니다.
-
-다만 AWS 수치는 추정치이고 사업 구조도 달라, 이 비교는 AI 컴퓨트 수요가 얼마나 빠르게 커졌는지를 보여주는 참고에 가깝습니다.</description><pubDate>Sun, 16 Aug 2026 09:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGF1TxD4Rn</guid></item><item><title>3/ 네오클라우드의 성장 속도는 기존 클라우드 초기보다도 빠릅니다.
-
-a16z 차트에서 코어위브는 출범 후 약 25개 분기 만에 분기 매출 26...</title><link>https://www.threads.net/@choi.openai/post/DcGF2EZD1Sq</link><description>3/ 네오클라우드의 성장 속도는 기존 클라우드 초기보다도 빠릅니다.
-
-a16z 차트에서 코어위브는 출범 후 약 25개 분기 만에 분기 매출 26억 달러에 도달했습니다. AWS가 같은 규모에 도달한 추정 시점은 약 40개 분기였고, Nebius와 Applied Digital도 작은 기반에서 수백 퍼센트씩 성장했습니다.
-
-문제는 이 매출을 만드는 데 들어가는 돈입니다. 코어위브의 같은 분기 자본지출은 71억 달러였고, GPU 감가상각은 매출의 절반을 넘습니다.
-
-빚으로 데이터센터와 장비를 늘리면서 이자비용도 커집니다. 새 GPU가 빠르게 좋아질수록 기존 장비의 경제적 가치가 더 빨리 떨어질 수도 있죠.
-
-결국 네오클라우드는 성장률만 볼 수 없습니다. 장기 계약에서 버는 돈으로 장비와 조달 비용을 회수하고, GPU가 경쟁력을 잃기 전에 충분한 수익을 남길 수 있는지가 함께 중요합니다.</description><pubDate>Sun, 16 Aug 2026 09:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGF2EZD1Sq</guid></item><item><title>놀라운 사실.
-
-Cursor는 4년전 AI 이메일 어시스턴트로 시작해 어제 90조에 인수되었다.</title><link>https://www.threads.net/@choi.openai/post/DcF7lodEcvF</link><description>놀라운 사실.
-
-Cursor는 4년전 AI 이메일 어시스턴트로 시작해 어제 90조에 인수되었다.</description><pubDate>Sun, 16 Aug 2026 07:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcF7lodEcvF</guid></item></channel></rss>
+복잡한 작업은 Sol, 가벼운 작업은 Luna로 분담하면 속도와 토큰 사용량을 줄이는 데 도움이 될 수 있습니다.</description><pubDate>Sun, 16 Aug 2026 12:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGaf4aDsPt</guid></item></channel></rss>
