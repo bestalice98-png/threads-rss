@@ -1,46 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 17 Aug 2026 01:13:42 +0000</lastBuildDate><item><title>놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/DcHs4FAD89h</link><description>놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</description><pubDate>Mon, 17 Aug 2026 00:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHs4FAD89h</guid></item><item><title>1/ 구글이 Gemini 3.7 Flash를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 17 Aug 2026 08:42:11 +0000</lastBuildDate><item><title>와.. 우사인 볼트보다 빠른 로봇..
 
-3.6 Flash가 나온 지 3주 만입니다. 사전학습을 다시 하지 않고 알고리즘과 ...</title><link>https://www.threads.net/@choi.openai/post/DcHs4Y2D_YL</link><description>1/ 구글이 Gemini 3.7 Flash를 공개했습니다.
+Unitree가 새로운 휴머노이드 로봇 “Superman”을 공개했습니다.
 
-3.6 Flash가 나온 지 3주 만입니다. 사전학습을 다시 하지 않고 알고리즘과 모델의 행동 방식을 다듬어 DeepSWE를 49.0%에서 65.3%, FrontierCode를 34.4%에서 43.6%로 올렸습니다.
+Unitree에 따르면 다리...</title><link>https://www.threads.net/@choi.openai/post/DcIirZ_ALdD</link><description>와.. 우사인 볼트보다 빠른 로봇..
 
-연말까지 입력 0.75달러, 출력 3.75달러로 기존 가격의 절반을 받지만 2027년 1월에는 다시 두 배가 됩니다. 모델 업데이트 주기는 짧아졌고, 가격 경쟁은 영구 인하보다 한시 할인으로 번지고 있습니다.</description><pubDate>Mon, 17 Aug 2026 00:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHs4Y2D_YL</guid></item><item><title>2/ Z.ai가 GLM-5.3을 공개했습니다.
+Unitree가 새로운 휴머노이드 로봇 “Superman”을 공개했습니다.
 
-743B 베이스 모델은 GLM-5.2와 같습니다. 한 달 동안 후속 학습만 늘려 Terminal...</title><link>https://www.threads.net/@choi.openai/post/DcHs46dDx3y</link><description>2/ Z.ai가 GLM-5.3을 공개했습니다.
+Unitree에 따르면 다리 길이 0.85m인 로봇이 제자리에서 2m 높이까지 점프하고, 최고 속도 12.66m/s로 달릴 수 있다고 하는데요. 시속으로 환산하면 약 45.6km입니다.
 
-743B 베이스 모델은 GLM-5.2와 같습니다. 한 달 동안 후속 학습만 늘려 Terminal-Bench 3.0을 4.6에서 28.3, DeepSWE를 46.2에서 66.9로 올렸습니다. 취약점 탐지 CyberGym에서도 84.5%를 기록했습니다.
+아직 개발을 시작한 지 3개월 정도밖에 되지 않았다고 합니다. 다만 실제 지속 주행 시간과 성능은 독립적인 검증을 지켜볼 필요가 있습니다.</description><pubDate>Mon, 17 Aug 2026 07:50:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcIirZ_ALdD</guid></item><item><title>미래의 회사는 사무실보다 데이터센터에 가까울 수 있습니다.
 
-지금은 GLM Coding Plan과 ZCode에서 쓸 수 있고, 가중치는 안전 평가를 거쳐 2주 뒤 공개할 예정입니다. 새 베이스 모델보다 실제 작업 환경에서 반복 훈련하는 능력이 중국 모델 경쟁의 속도를 끌어올리고 있습니다.</description><pubDate>Mon, 17 Aug 2026 00:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHs46dDx3y</guid></item><item><title>3/ 알리바바가 Qwen3.8-Max와 27B 가중치를 연달아 공개했습니다.
+Grok Bot을 써보면서 앞으로 회사가 어떤 모습이 될지 점점 선명해지는 것 같은...</title><link>https://www.threads.net/@choi.openai/post/DcIXFlHj6xo</link><description>미래의 회사는 사무실보다 데이터센터에 가까울 수 있습니다.
 
-Max는 총 2.4조 파라미터 가운데 토큰당 950억 개를 쓰고,...</title><link>https://www.threads.net/@choi.openai/post/DcHs5Tgj18V</link><description>3/ 알리바바가 Qwen3.8-Max와 27B 가중치를 연달아 공개했습니다.
+Grok Bot을 써보면서 앞으로 회사가 어떤 모습이 될지 점점 선명해지는 것 같은데요.
 
-Max는 총 2.4조 파라미터 가운데 토큰당 950억 개를 쓰고, 기본 26만 토큰을 약 100만 토큰까지 확장할 수 있습니다. 이틀 뒤 나온 27B는 이미지와 영상까지 처리하며 Apache 2.0으로 공개됐습니다.
+Grok Bot의 클라우드 컴퓨터, Codex의 Work, Stripe의 기계 결제, Starlink의 상시 연결을 한 줄로 이어보면 같은 방향을 가리키고 있습니다.
 
-27B의 4비트 양자화본은 17.1GB입니다. 한쪽에서는 Max급 모델을 서버에 올리고, 다른 쪽에서는 같은 세대의 작업 능력을 소비자 GPU까지 내렸습니다. 공개 당일부터 vLLM·SGLang·Unsloth가 지원한 것도 확산 속도를 높입니다.
+사람을 계속 늘리는 대신 일이 생길 때 컴퓨터와 모델, 권한을 배정하고 일이 끝나면 다시 줄이는 방식입니다.
 
-기업은 양자화 뒤 성능 저하와 긴 문맥에서 추가로 필요한 메모리까지 계산해야 합니다.</description><pubDate>Mon, 17 Aug 2026 00:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHs5Tgj18V</guid></item><item><title>Y Combinator CEO 게리 탄(Garry Tan)은 차세대 컴퓨팅의 핵심으로 음성 인터페이스와 지속적인 맥락 메모리를 꼽았습니다.
+조직 자체가 필요에 따라 자원을 늘리고 줄이는 자동 확장 시스템에 가까워지는 겁니다. 🧵</description><pubDate>Mon, 17 Aug 2026 06:09:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcIXFlHj6xo</guid></item><item><title>1/ 지금까지 회사는 일이 늘면 사람을 채용하고, 그 사람에게 노트북을 지급하고, 소프트웨어 계정을 만들고, 데이터 접근 권한을 하나씩 붙여 왔...</title><link>https://www.threads.net/@choi.openai/post/DcIXGEZj6x9</link><description>1/ 지금까지 회사는 일이 늘면 사람을 채용하고, 그 사람에게 노트북을 지급하고, 소프트웨어 계정을 만들고, 데이터 접근 권한을 하나씩 붙여 왔습니다. 조직이 커지는 속도는 결국 채용과 온보딩이 결정했습니다.
 
-그...</title><link>https://www.threads.net/@choi.openai/post/DcHpcCZD8YB</link><description>Y Combinator CEO 게리 탄(Garry Tan)은 차세대 컴퓨팅의 핵심으로 음성 인터페이스와 지속적인 맥락 메모리를 꼽았습니다.
+AI 에이전트가 들어오면 이 단위 자체가 바뀝니다.
+사람을 뽑고 교육하는 대신, 에이전트에게 업무용 신원을 주고, 클라우드에 컴퓨터를 띄우고, 필요한 모델과 도구, 예산을 한 묶음으로 배정합니다.
 
-그는 미래의 AI가 사용자의 희망과 두려움까지 이해하며 끊임없이 돕는 존재가 될 것이라며, “2027년경에는 '하네스 전쟁(Harness Wars)'이 일어날 것”이라고 전망했습니다.
+일이 끝나면 컴퓨트 비용은 멈추고 작업 기록과 결과물만 다음을 위해 남겨둡니다.
+저는 이게 AWS가 접속량에 따라 서버를 늘리고 줄이던 자동 확장(Auto Scaling)이 회사의 업무로 올라오는 흐름이라고 봅니다.</description><pubDate>Mon, 17 Aug 2026 06:09:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcIXGEZj6x9</guid></item><item><title>2/ Grok Bot이 이 그림을 가장 구체적으로 보여줬습니다.
 
-지금은 높은 연산 비용 탓에 광범위한 AI 확산이 제한적이지만, 프론티어 모델의 컴퓨팅 비용이 급격히 하락하면서 10억 명의 소비자를 차지하기 위한 플랫폼 경쟁이 본격화될 것이라는 분석입니다.</description><pubDate>Sun, 16 Aug 2026 23:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHpcCZD8YB</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=fsTtKywmWlU</title><link>https://www.threads.net/@choi.openai/post/DcHpc7cDzY5</link><description>풀영상 :
-https://www.youtube.com/watch?v=fsTtKywmWlU</description><pubDate>Sun, 16 Aug 2026 23:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHpc7cDzY5</guid></item><item><title>Y Combinator의 게리 탄(Garry Tan)은 “마크다운 파일 하나가 하나의 직원이 되는 시대”가 오고 있다고 말했습니다.
+SpaceXAI가 공개한 Grok Bot은 각 봇에게 전용 Linux VM을 ...</title><link>https://www.threads.net/@choi.openai/post/DcIXGhjD7_9</link><description>2/ Grok Bot이 이 그림을 가장 구체적으로 보여줬습니다.
 
-그는 AI...</title><link>https://www.threads.net/@choi.openai/post/DcHfIHfCg9n</link><description>Y Combinator의 게리 탄(Garry Tan)은 “마크다운 파일 하나가 하나의 직원이 되는 시대”가 오고 있다고 말했습니다.
+SpaceXAI가 공개한 Grok Bot은 각 봇에게 전용 Linux VM을 줍니다. Debian 환경에 Chrome, 터미널, 파일 관리자가 기본으로 깔려 있고, 128GB 저장공간에 16GB RAM을 씁니다.
 
-그는 AI 에이전트의 컨텍스트 한계(토큰)를 최대로 활용하고 반복적인 작업을 구조화하면, 비즈니스 프로세스 전체를 완벽히 자동화할 수 있다고 설명했습니다.
+사용자를 대신해 서비스에 로그인하고, 노트북을 닫아도 24시간 돌아갑니다. "매일 아침 7시에 포스트를 준비해줘" 같은 반복 업무도 루틴으로 걸어둘 수 있습니다.
 
-처음에 에이전트를 구축할 때는 비용이 들고 실수가 발생할 수 있지만, 피드백을 반영해 교정(Skillify)하는 과정을 거치면 완벽하게 동작하는 무한 반복 가능한 코드 및 가이드라인으로 남아 완벽한 시스템이 완성됩니다.
+중요한건 에이전트마다 자기 컴퓨터를 갖고 클라우드에서 계속 일하는 구조라는 점입니다.
 
-또한 이를 영업, 마케팅, 고객 지원 등 기업의 모든 업무 프로세스에 적용하여 생산성을 극대화할 수 있다고 강조했습니다.</description><pubDate>Sun, 16 Aug 2026 22:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHfIHfCg9n</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=fsTtKywmWlU</title><link>https://www.threads.net/@choi.openai/post/DcHfKbfCtdR</link><description>풀영상 :
-https://www.youtube.com/watch?v=fsTtKywmWlU</description><pubDate>Sun, 16 Aug 2026 22:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcHfKbfCtdR</guid></item><item><title>오픈AI Codex의 Multi Agents v2에서 서브 에이전트가 사용할 모델을 직접 나눌 수 있게 됐습니다.
+업무용 신원, 컴퓨터, 계정, 기억이 하나의 실행 단위로 묶이고, 화면 조작으로 별도 API가 없는 사내 SaaS까지 업무 범위에 넣을 수 있습니다.
 
-예를 들어 GPT-5.6 S...</title><link>https://www.threads.net/@choi.openai/post/DcGaf4aDsPt</link><description>오픈AI Codex의 Multi Agents v2에서 서브 에이전트가 사용할 모델을 직접 나눌 수 있게 됐습니다.
+승인이 필요한 순간에만 사람을 다시 부릅니다. 개념이 아니라 제품으로 나온 겁니다.</description><pubDate>Mon, 17 Aug 2026 06:09:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcIXGhjD7_9</guid></item><item><title>3/ 이 방향은 Tibo가 8월에 올린 한 문장에서도 보입니다.
 
-예를 들어 GPT-5.6 Sol이 전체 작업을 관리하고, 빠른 GPT-5.6 Luna에 조사나 반복 작업을 맡기는 식인데요.
+"다음 세대의 모델들은 노트북 이상의 것이 필요합니다." Codex에는 이미 ...</title><link>https://www.threads.net/@choi.openai/post/DcIWSTPDN3X</link><description>3/ 이 방향은 Tibo가 8월에 올린 한 문장에서도 보입니다.
 
-복잡한 작업은 Sol, 가벼운 작업은 Luna로 분담하면 속도와 토큰 사용량을 줄이는 데 도움이 될 수 있습니다.</description><pubDate>Sun, 16 Aug 2026 12:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcGaf4aDsPt</guid></item></channel></rss>
+"다음 세대의 모델들은 노트북 이상의 것이 필요합니다." Codex에는 이미 서브에이전트와 클라우드 연속 실행이 있으니, 2~3개월 뒤 지금이 원시적으로 보인다는 말은 에이전트 수를 늘리는 것보다 훨씬 큰 변화를 가리킵니다.
+
+Tibo는 과거 인터뷰에서도 같은 이야기를 반복했습니다. 노트북을 닫아도 에이전트가 원격으로 계속 일하고, 휴대폰으로 진행 상황을 따라가며, 수백 번의 도구 호출을 GPU 가까이 옮겨야 한다고요.
+
+제 해석은 다음 Codex가 '앱'이 아니라 여러 개의 지속형 클라우드 컴퓨터를 배정하는 운영체제에 가깝다는 겁니다.
+
+6월 오픈AI가 인수하기로 한 Ona도 이걸 뒷받침합니다. Ona는 한 대의 노트북에 묶인 작업을 클라우드로 옮기고, 에이전트가 권한과 맥락, 도구, 상태를 들고 여러 기기에서 이어가는 환경을 설명했습니다.</description><pubDate>Mon, 17 Aug 2026 06:09:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcIWSTPDN3X</guid></item><item><title>징둥(JD)이 실시간 영상 편집 모델 JoyAI-Video-Edit을 오픈소스로 공개했습니다.
+
+카메라 영상이 들어오는 즉시 인물, 배경, 의상...</title><link>https://www.threads.net/@choi.openai/post/DcILyeiDa1z</link><description>징둥(JD)이 실시간 영상 편집 모델 JoyAI-Video-Edit을 오픈소스로 공개했습니다.
+
+카메라 영상이 들어오는 즉시 인물, 배경, 의상 등을 바꿀 수 있고 영상 길이 제한 없이 계속 편집할 수 있는데요.
+
+720p에서 약 30FPS로 동작하지만, RTX PRO 6000 Blackwell급 GPU가 필요해 일반 PC에서 쓰기에는 아직 부담이 큰 편입니다.</description><pubDate>Mon, 17 Aug 2026 04:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcILyeiDa1z</guid></item><item><title>깃허브 :
+https://github.com/jd-opensource/JoyAI-Video-Edit</title><link>https://www.threads.net/@choi.openai/post/DcILzl2DXHv</link><description>깃허브 :
+https://github.com/jd-opensource/JoyAI-Video-Edit</description><pubDate>Mon, 17 Aug 2026 04:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcILzl2DXHv</guid></item><item><title>Stripe가 OpenRouter를 70억 달러가 넘는 금액에 인수합니다.
+
+이번 거래로 Stripe의 사업 영역은 결제를 넘어 AI 모델이 선...</title><link>https://www.threads.net/@choi.openai/post/DcIBeDpj2KZ</link><description>Stripe가 OpenRouter를 70억 달러가 넘는 금액에 인수합니다.
+
+이번 거래로 Stripe의 사업 영역은 결제를 넘어 AI 모델이 선택되고 사용되는 단계까지 넓어집니다.
+에이전트가 필요한 모델을 고르고, 토큰을 사용하고, 그 비용을 지불하는 전 과정을 하나의 인프라로 묶으려는 겁니다.
+
+지난 16개월의 흐름에서 이번 인수가 어디로 향하는지 정리했습니다. 🧵</description><pubDate>Mon, 17 Aug 2026 03:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcIBeDpj2KZ</guid></item><item><title>1/ Bloomberg는 8월 17일 Stripe가 OpenRouter를 70억 달러가 넘는 금액에 인수하기로 최종 합의했다고 보도했습니다.
+불...</title><link>https://www.threads.net/@choi.openai/post/DcIBewUj8G4</link><description>1/ Bloomberg는 8월 17일 Stripe가 OpenRouter를 70억 달러가 넘는 금액에 인수하기로 최종 합의했다고 보도했습니다.
+불과 몇 달 전 13억 달러의 기업가치를 인정받았던 회사가 약 80일 만에 5배가 넘는 가격에 팔리게 된 거래입니다.
+
+2023년 출범한 OpenRouter는 여러 AI 모델과 추론 공급자를 하나의 API로 연결하는 서비스인데요.
+
+지금까지 결제를 처리해온 Stripe는 이번 인수를 통해 어떤 모델을 호출할지 선택하고, 그 사용량에 따라 비용이 발생하는 지점까지 사업 영역을 넓히게 됩니다.</description><pubDate>Mon, 17 Aug 2026 03:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcIBewUj8G4</guid></item><item><title>2/ OpenRouter는 겉으로 보면 여러 AI 모델을 하나의 API로 묶어 제공하는 서비스입니다. 실제로는 앱과 모델 회사 사이에서 500개...</title><link>https://www.threads.net/@choi.openai/post/DcH4II-jq3q</link><description>2/ OpenRouter는 겉으로 보면 여러 AI 모델을 하나의 API로 묶어 제공하는 서비스입니다. 실제로는 앱과 모델 회사 사이에서 500개가 넘는 모델과 80개 이상의 추론 공급자를 연결하고, 가격과 속도, 가용성, 도구 호출 지원, 데이터 보존 정책에 따라 요청을 적절한 곳으로 보냅니다.
+사용자는 모델 회사마다 계정과 결제 수단을 따로 만들 필요 없이 한곳에서 비용과 로그를 관리할 수 있는데요.
+
+OpenRouter는 현재 종량제 사용액에 5.5%의 플랫폼 수수료를 붙입니다. 그래서 사업 구조도 일반 소프트웨어 판매보다는 거래가 일어날 때마다 일정 비율을 가져가는 결제·중개 플랫폼에 가깝습니다.
+
+AI 모델 호출이 늘어날수록 함께 매출이 커지는 구조라는 점에서 Stripe가 익숙한 사업과 닮아 있습니다.</description><pubDate>Mon, 17 Aug 2026 03:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcH4II-jq3q</guid></item><item><title>3/ OpenRouter의 성장 속도를 보면 Stripe가 높은 가격을 지불한 이유도 어느 정도 보입니다.
+
+OpenRouter는 5월 Seri...</title><link>https://www.threads.net/@choi.openai/post/DcIBg4JDys3</link><description>3/ OpenRouter의 성장 속도를 보면 Stripe가 높은 가격을 지불한 이유도 어느 정도 보입니다.
+
+OpenRouter는 5월 Series B를 발표하며 개발자 800만 명 이상, 모델 400개 이상, 주간 처리량 25조 토큰을 공개했습니다. 6개월 전 5조 토큰에서 5배 늘어난 규모입니다. 8월 Auto Router를 공개할 때는 주간 사용량이 55조 토큰을 넘어섰습니다.
+
+사용량이 늘수록 수수료 매출만 커지는 것이 아닌 어떤 작업에 어떤 모델이 선택되는지, 같은 모델을 어느 공급자가 더 빠르고 안정적으로 제공하는지, 사용자가 가격과 품질 사이에서 무엇을 선택하는지도 함께 쌓이는데요. 
+
+OpenRouter는 이 데이터를 다시 라우팅에 활용해 다음 요청에 적합한 모델과 공급자를 고를 수 있습니다.</description><pubDate>Mon, 17 Aug 2026 03:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcIBg4JDys3</guid></item></channel></rss>
