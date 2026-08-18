@@ -1,30 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 18 Aug 2026 01:16:45 +0000</lastBuildDate><item><title>Nous Research가 Hermes Desktop의 Bot Mode를 정식 출시했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 18 Aug 2026 09:14:21 +0000</lastBuildDate><item><title>독파모 2차 평가 결과가 나왔습니다.
 
-쉽게 말하면 여러 AI에게 각각 다른 직업을 주고...</title><link>https://www.threads.net/@choi.openai/post/DcKYh2hjyi4</link><description>Nous Research가 Hermes Desktop의 Bot Mode를 정식 출시했습니다.
+벤치마크 1위인 모티프테크놀로지스가 탈락하고 업스테이지, SKT, LG AI연구원이 통과했습니다.
 
-쉽게 말하면 여러 AI에게 각각 다른 직업을 주고 하나의 팀처럼 사용할 수 있는 기능인데요.
+사용...</title><link>https://www.threads.net/@choi.openai/post/DcLIfwCDxKz</link><description>독파모 2차 평가 결과가 나왔습니다.
 
-예를 들어 개발 담당 Bot, 자료조사 담당 Bot, 글쓰기 담당 Bot을 따로 만들 수 있습니다. 각각 사용하는 AI 모델과 기억, 스킬, 역할을 따로 설정할 수 있고, 한 번 만들어두면 설정을 유지한 채 계속 사용할 수 있습니다.
+벤치마크 1위인 모티프테크놀로지스가 탈락하고 업스테이지, SKT, LG AI연구원이 통과했습니다.
 
-특히 Bot끼리 서로 대화하거나 작업을 넘겨줄 수도 있습니다. 여러 Bot이 참여하는 그룹 채팅도 가능해 하나의 큰 작업을 각자 전문 분야에 따라 나눠 처리할 수 있습니다.
+사용자 평가 점수에서 밀렸는데, 이 평가의 구조와 정부의 논리, 그리고 한국 AI 모델이 글로벌 시장에서 보여준 성과까지 정리했습니다 🧵</description><pubDate>Tue, 18 Aug 2026 07:59:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcLIfwCDxKz</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-반복 작업을 Bot에 맡기는 기능도 제공됩니다.</description><pubDate>Tue, 18 Aug 2026 01:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcKYh2hjyi4</guid></item><item><title>Cursor가 GitHub와 비슷한 코드 저장·관리 서비스인 Origin을 공개했습니다.
+1. 독파모 2차 평가 결과 업스테이지, SKT, LG AI연구원 통과, 모티프테크놀로지...</title><link>https://www.threads.net/@choi.openai/post/DcLIgW9D7o_</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-쉽게 말하면 지금까지 Cursor로 코드를 작성하고 ...</title><link>https://www.threads.net/@choi.openai/post/DcKONQvilF_</link><description>Cursor가 GitHub와 비슷한 코드 저장·관리 서비스인 Origin을 공개했습니다.
+1. 독파모 2차 평가 결과 업스테이지, SKT, LG AI연구원 통과, 모티프테크놀로지스 탈락
+2. 벤치마크, 전문가, 사용자 평가를 합산했는데 사용자 평가에서 팀 간 격차가 가장 크게 벌어짐
+3. 모티프는 AAII 47점으로 한국 1위, 독파모 벤치마크도 1위였지만 종합 평가에서 유일하게 탈락
+4. 통과한 3팀은 포털 인수, 국방·산업 실증, 국제기구 협업 등 실제 서비스에 연결할 생태계를 확보
+5. 평가가 모델 성능뿐 아니라 활용성과 실증 역량까지 크게 보는 구조라 자본과 사업 네트워크가 약한 스타트업에는 불리할 수 있음
 
-쉽게 말하면 지금까지 Cursor로 코드를 작성하고 GitHub에 저장했다면, 앞으로는 Cursor 안에서 코드 작성부터 저장·관리까지 이어서 할 수 있게 되는 건데요. 기존 GitHub 저장소도 동기화해서 가져올 수 있습니다.
+결국, 이번 평가가 가장 성능 좋은 모델을 뽑는 경쟁은 아니었다는 뜻</description><pubDate>Tue, 18 Aug 2026 07:59:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcLIgW9D7o_</guid></item><item><title>2/ 독파모는 정부가 국산 AI 파운데이션 모델을 육성하기 위해 만든 프로젝트입니다.
 
-Vercel, Buildkite, Depot 연동도 지원하며 현재 베타 배포가 시작됐습니다.
+2차 평가는 벤치마크, 전문가 평가, 사용자 평가 세 영...</title><link>https://www.threads.net/@choi.openai/post/DcLIg-_j7h0</link><description>2/ 독파모는 정부가 국산 AI 파운데이션 모델을 육성하기 위해 만든 프로젝트입니다.
 
-Cursor가 GitHub가 담당하던 영역까지 직접 제공하기 시작한 점이 눈에 띕니다.</description><pubDate>Mon, 17 Aug 2026 23:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcKONQvilF_</guid></item><item><title>코덱스 꿀팁</title><link>https://www.threads.net/@choi.openai/post/DcKD4Z-CBxf</link><description>코덱스 꿀팁</description><pubDate>Mon, 17 Aug 2026 22:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcKD4Z-CBxf</guid></item><item><title>데이비드 색스는 AI 기술의 중앙 집중화와 소수 기업의 카르텔화를 경계하며 오픈소스 생태계의 중요성을 강조했습니다.
+2차 평가는 벤치마크, 전문가 평가, 사용자 평가 세 영역으로 나뉘고 배점은 각각 40점, 35점, 25점입니다. 벤치마크 평균은 22.5점으로 1위와 4위 격차가 4.0점이었고, 전문가 평가는 격차 2.4점으로 팀 간 점수 차이가 크지 않았습니다.
 
-정부와 소수 빅테크가 규제...</title><link>https://www.threads.net/@choi.openai/post/DcJ5qOGDKkW</link><description>데이비드 색스는 AI 기술의 중앙 집중화와 소수 기업의 카르텔화를 경계하며 오픈소스 생태계의 중요성을 강조했습니다.
+그런데 사용자 평가에서는 격차가 5.0점까지 벌어졌습니다. 배점이 가장 작은 항목인데 팀 간 차이가 가장 크게 나온 겁니다.
 
-정부와 소수 빅테크가 규제와 수출 통제로 AI를 독점하려는 시도는 비현실적이며 기술 혁신을 가로막는다고 지적했습니다.
+결국 25점짜리 사용자 평가 하나가 이번 2차의 당락을 결정지었습니다. 통과한 3팀은 3차 평가로 넘어가고, 최종 2팀이 선정되면 B200 GPU 1,000장이 지원됩니다.</description><pubDate>Tue, 18 Aug 2026 07:59:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcLIg-_j7h0</guid></item><item><title>3/ 탈락한 모티프테크놀로지스의 성과를 보면 단순한 실패로 보기 어렵습니다.
 
-“우리가 원하는 것은 개인의 역량을 극대화하는 것입니다(maximum empowerment of the individual).”
+Motif 3는 Artificial Analysis가 발표하는 글...</title><link>https://www.threads.net/@choi.openai/post/DcLIh-qDx24</link><description>3/ 탈락한 모티프테크놀로지스의 성과를 보면 단순한 실패로 보기 어렵습니다.
 
-그는 폐쇄적인 프론티어 모델 독점에서 벗어나 오픈 모델과 데이터 주권을 확립해야만 개발자와 개인이 진정한 AI 경쟁력을 확보할 수 있다고 말했습니다.</description><pubDate>Mon, 17 Aug 2026 20:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcJ5qOGDKkW</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=kVzYGVJ8zUk</title><link>https://www.threads.net/@choi.openai/post/DcJ5rGaDEYP</link><description>풀영상 :
-https://www.youtube.com/watch?v=kVzYGVJ8zUk</description><pubDate>Mon, 17 Aug 2026 20:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcJ5rGaDEYP</guid></item></channel></rss>
+Motif 3는 Artificial Analysis가 발표하는 글로벌 AI 모델 평가 지표 AAII에서 47점을 기록했습니다. 한국에서 만든 모델 중 1위이고 오픈웨이트 기준 글로벌 4위입니다.
+
+같은 지표에서 통과한 세 팀의 모델은 37점, 35점, 31점이니 순수 모델 성능의 격차가 작지 않습니다. 독파모 2차 벤치마크 평가에서도 4팀 중 1위를 했는데요.
+
+모티프는 이번 정부 지원을 받으면서 모델을 개발했고, 그 과정에서 글로벌 시장에 기술력을 입증했고 기업가치도 올랐습니다.
+
+정부 사업 안에서의 탈락이 이 기업의 기술 역량까지 부정하는 것은 아닙니다. 다만 벤치마크 1위가 종합에서 유일하게 떨어졌다는 사실은 이 평가가 무엇을 보고 있는지 묻게 하는 결과입니다.</description><pubDate>Tue, 18 Aug 2026 07:59:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcLIh-qDx24</guid></item><item><title>🚨 오픈AI가 GPT-5.6 Sol 가격을 OpenRouter와 Vercel AI Gateway에서 50% 인하했습니다.
+
+OpenRouter ...</title><link>https://www.threads.net/@choi.openai/post/DcK-bxRDwdI</link><description>🚨 오픈AI가 GPT-5.6 Sol 가격을 OpenRouter와 Vercel AI Gateway에서 50% 인하했습니다.
+
+OpenRouter 기준 100만 토큰당 입력은 $5에서 $2.5, 출력은 $30에서 $15로 내려갔는데요.
+
+OpenRouter와 Vercel의 사용량 데이터는 AI 모델 점유율을 가늠하는 자료로 자주 활용되기 때문에 가격 인하로 GPT-5.6 Sol 사용량이 크게 늘어나면, 시장에서는 오픈AI 모델의 점유율이 빠르게 높아진 것으로 해석할 가능성이 높다는 평가가 있습니다.</description><pubDate>Tue, 18 Aug 2026 06:31:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcK-bxRDwdI</guid></item><item><title>Claude Code에 새로운 /design 스킬이 추가됐습니다.
+
+쉽게 말하면 코드부터 바로 만드는 대신, 먼저 여러 UI 시안을 화면으로 만...</title><link>https://www.threads.net/@choi.openai/post/DcK3eRUEwhn</link><description>Claude Code에 새로운 /design 스킬이 추가됐습니다.
+
+쉽게 말하면 코드부터 바로 만드는 대신, 먼저 여러 UI 시안을 화면으로 만들어보고 마음에 드는 디자인을 고른 뒤 수정해서 실제 코드로 구현할 수 있는 기능인데요.
+
+예를 들어 로그인 화면을 요청하면 편집 가능한 시안을 만들고, 원하는 배치나 문구를 바꾼 다음 Claude Code에게 그대로 구현해달라고 할 수 있습니다.
+
+현재 research preview로 제공되며 Pro, Max, Team, Enterprise에서 사용할 수 있습니다.</description><pubDate>Tue, 18 Aug 2026 05:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcK3eRUEwhn</guid></item><item><title>게빈 베이커는 “AI는 중앙집권화하기에 너무 위험한 기술”이라고 강조했습니다.
+
+일부 진영은 통제되지 않은 AI의 위험성을 경고하며 기술 배포를...</title><link>https://www.threads.net/@choi.openai/post/DcKtL7TiGSz</link><description>게빈 베이커는 “AI는 중앙집권화하기에 너무 위험한 기술”이라고 강조했습니다.
+
+일부 진영은 통제되지 않은 AI의 위험성을 경고하며 기술 배포를 제한하려 하지만, 역사적으로 기술은 개방되고 분산될 때 더 안전하고 강력한 혁신을 이뤄냈다는 설명입니다.
+
+소수의 중앙 집권적 통제보다 탈중앙화와 자유로운 기술 경쟁이 AI 생태계의 건전한 발전을 이끈다고 분석합니다.
+
+“누군가 내 이익을 대신 규정하는 AI가 아니라, 오롯이 개인의 가치관에 맞춰 작동하는 나만의 AI를 가질 권리가 필요합니다.”</description><pubDate>Tue, 18 Aug 2026 04:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcKtL7TiGSz</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=kVzYGVJ8zUk</title><link>https://www.threads.net/@choi.openai/post/DcKtOG6iIAB</link><description>풀영상 :
+https://www.youtube.com/watch?v=kVzYGVJ8zUk</description><pubDate>Tue, 18 Aug 2026 04:01:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcKtOG6iIAB</guid></item></channel></rss>
