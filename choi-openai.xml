@@ -1,73 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 19 Aug 2026 08:40:40 +0000</lastBuildDate><item><title>와.. 이제 맥북에서 27B 모델이 초당 70토큰으로 돕니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 19 Aug 2026 15:20:42 +0000</lastBuildDate><item><title>🚨 미친 소식..
 
-Inco AI가 공개한 DFlash 2인데, 출력은 그대로 두고 디코딩만 최대 ...</title><link>https://www.threads.net/@choi.openai/post/DcNp9Y0idMh</link><description>와.. 이제 맥북에서 27B 모델이 초당 70토큰으로 돕니다.
+개인 맞춤 mRNA 암 치료제가 처음으로 3상 문턱을 넘었습니다.
+모더나와 머크가 고위험 흑색종 환자 1,137명 임상에서 ...</title><link>https://www.threads.net/@choi.openai/post/DcOd2T5DwwC</link><description>🚨 미친 소식..
 
-Inco AI가 공개한 DFlash 2인데, 출력은 그대로 두고 디코딩만 최대 4.6배 빨라지는 기술입니다.
+개인 맞춤 mRNA 암 치료제가 처음으로 3상 문턱을 넘었습니다.
+모더나와 머크가 고위험 흑색종 환자 1,137명 임상에서 재발과 원격 전이 지표를 모두 충족했다고 발표했습니다.
 
-작은 초안 모델이 다음 토큰들을 미리 써보고 본 모델은 채점만 하는 게 기존 방식인데, DFlash는 이 초안까지 한 번에 병렬로 만듭니다.
+환자의 종양과 정상 DNA를 비교해 종양에만 있는 변이를 찾고, 그중 면역계가 가장 잘 알아볼 표적을 AI로 최대 34개 골라 그 환자 전용 mRNA 주사를 만듭니다.
+수술로 종양을 제거한 뒤 재발을 막는 용도로 기존 면역항암제와 함께 씁니다.
 
-대신 각 자리를 따로 예측하니 문장이 어긋나는 게 약점이었는데, 연구팀이 들여다보니 정답 토큰은 이미 상위 후보 안에 99.5% 들어 있었습니다.
+앞선 2상 5년 추적에서는 무재발 비율이 68.8%로, 기존 치료 단독의 49.1%보다 크게 높았습니다.
+아직 톱라인 발표라 세부 수치는 학회 공개를 기다려야 하고, 이제 규제 당국과 승인 절차를 밟는 단계입니다.
 
-예측을 더 잘할 필요 없이, 깔린 후보 사이에서 자연스럽게 이어지는 길만 고르면 됐던 겁니다.
+코로나로 유명해진 mRNA의 원래 과녁이 암이었다는 걸 생각하면, 십수 년을 돌아 첫 관문을 통과한 셈입니다.</description><pubDate>Wed, 19 Aug 2026 15:03:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOd2T5DwwC</guid></item><item><title>내용 :
+https://www.merck.com/news/merck-and-moderna-announce-phase-3-interpath-001...</title><link>https://www.threads.net/@choi.openai/post/DcOd27wj9U7</link><description>내용 :
+https://www.merck.com/news/merck-and-moderna-announce-phase-3-interpath-001-trial-of-intismeran-autogene-plus-keytruda-met-endpoints-of-recurrence-free-survival-rfs-and-distant-metastasis-free-survival-dmfs-in-patient/</description><pubDate>Wed, 19 Aug 2026 15:04:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOd27wj9U7</guid></item><item><title>오픈AI 공동창립자 그렉 브록만(Greg Brockman)은 소프트웨어 엔지니어링과 지식 노동 전반이 AI로 완전히 변화하고 있다고 밝혔습니다....</title><link>https://www.threads.net/@choi.openai/post/DcOdZcREssY</link><description>오픈AI 공동창립자 그렉 브록만(Greg Brockman)은 소프트웨어 엔지니어링과 지식 노동 전반이 AI로 완전히 변화하고 있다고 밝혔습니다.
 
-그래서 무거운 보정 모델 대신 아주 가벼운 선택기를 붙였고, 추가 지연은 1% 수준입니다.
+그는 단 2,000달러의 컴퓨팅 파워로 수학자들이 수십 년간 풀지 못한 난제 10개를 해결한 사례를 들며, 생물학·재료과학 등 과학적 발견이 기하급수적으로 가속화되고 있다고 말했습니다.
 
-같은 답을 3분의 1 연산으로 내는 셈이라, 에이전트가 종일 토큰을 태우는 시대의 추론 단가는 이런 데서 먼저 내려갈 것 같습니다.</description><pubDate>Wed, 19 Aug 2026 07:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcNp9Y0idMh</guid></item><item><title>블로그 :
-https://inco.ai/blog/dflash2/</title><link>https://www.threads.net/@choi.openai/post/DcNp-YYCcvx</link><description>블로그 :
-https://inco.ai/blog/dflash2/</description><pubDate>Wed, 19 Aug 2026 07:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcNp-YYCcvx</guid></item><item><title>Claude의 작업용 AI 기능인 Cowork가 모바일과 웹으로 확대됩니다.
+이어 “컴퓨팅(Compute)은 AI 시대의 새로운 석유”가 되고 있으며, 희소한 핵심 자원으로서 경제적 가치가 집중되고 있음을 강조했습니다.
 
-쉽게 말하면 PC에서 Claude에게 일을 맡긴 뒤 노트북을 꺼도...</title><link>https://www.threads.net/@choi.openai/post/DcNfqiCCApq</link><description>Claude의 작업용 AI 기능인 Cowork가 모바일과 웹으로 확대됩니다.
+또한 “해결해야 할 문제에 대한 수요는 무한하다”며, AI 에이전트의 확산과 지수적인 모델 성능 향상이 인류의 생산성과 창의성을 전례 없는 수준으로 확장할 것이라 전망했습니다.</description><pubDate>Wed, 19 Aug 2026 14:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOdZcREssY</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=eXBFnfrt2gU</title><link>https://www.threads.net/@choi.openai/post/DcOdaZUkq_V</link><description>풀영상 :
+https://www.youtube.com/watch?v=eXBFnfrt2gU</description><pubDate>Wed, 19 Aug 2026 15:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOdaZUkq_V</guid></item><item><title>인간 세포 하나를 통째로 컴퓨터 안에서 실험하려는 시도가 나왔습니다.
 
-쉽게 말하면 PC에서 Claude에게 일을 맡긴 뒤 노트북을 꺼도 작업이 계속 진행되는 건데요. 밖에서는 스마트폰으로 진행 상황을 확인하고, 판단이 필요한 부분이 생기면 질문을 받아 답할 수 있습니다.
+GenBio AI가 공개한 AIDO Cell은 DNA, RNA, 단백질,...</title><link>https://www.threads.net/@choi.openai/post/DcOTKICk-Xb</link><description>인간 세포 하나를 통째로 컴퓨터 안에서 실험하려는 시도가 나왔습니다.
 
-예를 들어 오전 6시에 고객 미팅 준비를 예약해두면 컴퓨터가 꺼져 있어도 대화와 자료를 확인해 요약본을 만들고 후속 이메일 초안까지 준비합니다.
+GenBio AI가 공개한 AIDO Cell은 DNA, RNA, 단백질, 세포 행동까지 하나의 시스템에서 시뮬레이션하는데요. 여러 모델을 층별로 이어 붙인 방식이 아니라, 세포 상태 전체를 이어서 다루는 방식입니다.
 
-웹과 데스크톱에서는 기존 Chat과 Cowork도 하나로 통합됩니다.
+특히 유전자를 하나 끄면 다음 개입은 이미 바뀐 세포 상태 위에서 이어집니다. . 알파폴드처럼 답만 주는 예측기가 아니라, 실험을 순서대로 해볼 수 있는 가상 실험실인 겁니다.
 
-현재 Max 요금제부터 베타가 순차적으로 제공되고 있으며, 이후 다른 요금제로 확대될 예정입니다.</description><pubDate>Wed, 19 Aug 2026 06:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcNfqiCCApq</guid></item><item><title>앤트로픽이 Claude에게 신약 후보 단백질을 직접 설계하게 했습니다.
+이게 정교해지면 신약 개발 방식도 달라질 수 있습니다. 수천 개 후보를 가상 세포에서 먼저 시험해 실패 가능성이 높은 물질을 거르고, 실제 실험에서는 통과한 후보만 검증하는 식입니다. 부작용도 더 일찍 확인할 수 있습니다.
 
-15개 표적 중 14개에서 성공했고, 설계 적중률은 업계 통상치의 두 ...</title><link>https://www.threads.net/@choi.openai/post/DcNUrqIkdNI</link><description>앤트로픽이 Claude에게 신약 후보 단백질을 직접 설계하게 했습니다.
+다만 아직은 알려진 생물학을 재현하는 프리뷰 단계이고, 물리 계산이 아니라 데이터 기반 근사라는 한계도 있습니다. 결국 관건은 가상 실험이 실제 세포 반응을 얼마나 정확하게 재현하느냐입니다.</description><pubDate>Wed, 19 Aug 2026 13:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOTKICk-Xb</guid></item><item><title>블로그 :
+https://genbio.ai/aido-cell-simulator/</title><link>https://www.threads.net/@choi.openai/post/DcOTLvTE2ze</link><description>블로그 :
+https://genbio.ai/aido-cell-simulator/</description><pubDate>Wed, 19 Aug 2026 13:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOTLvTE2ze</guid></item><item><title>브라운대 경제학 수업에서 나온 성적 분포 두 장이 화제입니다.
 
-15개 표적 중 14개에서 성공했고, 설계 적중률은 업계 통상치의 두 배가 넘었습니다. 외부 실험실 두 곳이 그 단백질을 실제로 만들어 검증한 결과입니다.
+재택으로 치른 중간고사 평균이 96점, 대면으로 바꾼 기말 평균이 48점입니다....</title><link>https://www.threads.net/@choi.openai/post/DcOI5VJDZQj</link><description>브라운대 경제학 수업에서 나온 성적 분포 두 장이 화제입니다.
 
-실험 조건과 성과, 그리고 한계까지 정리했습니다 🧵</description><pubDate>Wed, 19 Aug 2026 04:24:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcNUrqIkdNI</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+재택으로 치른 중간고사 평균이 96점, 대면으로 바꾼 기말 평균이 48점입니다.
+지난 12월 총격 사건 이후 학생들의 부담을 덜어주려 교수가 34년 경력에 처음 재택 시험을 냈는데, 86명 중 40명이 100점을 받았습니다.
 
-1. 앤트로픽이 8월 18일 Claude의 단백질 결합체 자율 설계 실험 결과를 공개함
-...</title><link>https://www.threads.net/@choi.openai/post/DcNUtfGD-tf</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+채점자들이 문제를 챗GPT에 넣어보고서야 그림이 잡혔습니다. 간단한 풀이가 있는 문제에 빙 돌아가는 논증이 나왔는데, 같은 논증이 수십 장의 답안에 반복돼 있었던 겁니다.
 
-1. 앤트로픽이 8월 18일 Claude의 단백질 결합체 자율 설계 실험 결과를 공개함
-2. 표적 15개에 각각 30개씩 설계했고, 그중 14개 표적에서 실제로 결합에 성공함
-3. 적중률은 조건에 따라 22.6~35.1%로, 업계 통상치 10~15%의 두 배 이상
-4. Adaptyv Bio와 Twist Bioscience가 독립적으로 단백질을 만들어 실험실에서 검증함
-5. Claude가 혼자 접은 게 아니라 공개된 전문 설계 모델들을 지휘해 얻은 결과
-6. 정작 이 작업은 일반 공개 모델에서 막혀 있고, 과학자 접근 프로그램은 예고 상태</description><pubDate>Wed, 19 Aug 2026 04:24:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcNUtfGD-tf</guid></item><item><title>2/ 실험 조건부터 보겠습니다.
-결합체는 표적 단백질에 달라붙는 작은 단백질인데요. 현대 의약품 상당수가 이렇게 표적에 붙어 기능을 막거나 바꾸...</title><link>https://www.threads.net/@choi.openai/post/DcNUuB8j6On</link><description>2/ 실험 조건부터 보겠습니다.
-결합체는 표적 단백질에 달라붙는 작은 단백질인데요. 현대 의약품 상당수가 이렇게 표적에 붙어 기능을 막거나 바꾸는 방식으로 작동합니다.
+교수가 기말은 대면으로 치르고 두 분포를 비교하겠다고 예고하자 18명이 수강을 철회하고 9명이 결시했습니다. 이 27명 중 22명이 중간고사 100점이었습니다.
+일각에서는 부정행위 사건으로만 보기에는 성적이 목적이 된 평가 구조에서 AI는 그 목적을 값싸게 만들었을 뿐이라는 지적도 나옵니다.
 
-앤트로픽은 표적 15개를 고르고 Claude에게 표적마다 30개씩 설계하게 했습니다.
-준 것은 3만 토큰짜리 전문가 프롬프트 하나, 인터넷과 논문 자료, 전문 모델을 돌릴 GPU, 그리고 48시간입니다. 컴퓨트는 H100 기준 12,500시간까지 열어뒀습니다.
-
-프롬프트를 넣은 뒤로는 과학적·기술적 지시를 일절 추가하지 않았습니다. 사람이 한 일은 네트워크 접근 승인과 인프라 점검, 그리고 완성된 설계를 실험실에 주문한 것 정도입니다.</description><pubDate>Wed, 19 Aug 2026 04:24:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcNUuB8j6On</guid></item><item><title>3/ 결과는 설계 1,320개 중 354개가 실제로 결합에 성공한 것으로 나왔습니다.
-표적 기준으로는 15개 중 14개입니다.
-
-적중률을 보면 ...</title><link>https://www.threads.net/@choi.openai/post/DcNUuiNj2dw</link><description>3/ 결과는 설계 1,320개 중 354개가 실제로 결합에 성공한 것으로 나왔습니다.
-표적 기준으로는 15개 중 14개입니다.
-
-적중률을 보면 모든 표적을 한 세션에서 동시에 다룰 때 Opus 4.8이 22.6%, Mythos Preview가 26.7%였습니다.
-표적 하나씩 24시간을 따로 준 조건에서는 Mythos Preview가 35.1%까지 올라갔습니다. 업계에서 통상 보고되는 값은 10~15%입니다.
-
-품질도 숫자로 나옵니다. 최소 6개 표적에서 고친화 결합체가 나왔고, 최소 4개 표적에서는 기존에 발표된 최고 친화도와 같거나 그보다 강했습니다.
-다만 표적별 편차가 커서 90%에 달한 표적도, 0%인 표적도 있었습니다.</description><pubDate>Wed, 19 Aug 2026 04:24:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcNUuiNj2dw</guid></item><item><title>Vercel Labs가 초경량 코딩 에이전트 fx를 오픈소스로 공개했습니다.
-
-fx는 원래 Vercel 내부에서 사용하던 도구인데요. 설치 파일...</title><link>https://www.threads.net/@choi.openai/post/DcNJ3MzkWli</link><description>Vercel Labs가 초경량 코딩 에이전트 fx를 오픈소스로 공개했습니다.
-
-fx는 원래 Vercel 내부에서 사용하던 도구인데요. 설치 파일이 6.3MB에 불과하고 실행 속도와 메모리 사용량을 최대한 줄인 것이 특징입니다.
-
-쉽게 말하면 Cursor나 Claude Code처럼 많은 기능을 넣기보다, AI 모델 성능 테스트나 제한된 환경에서 빠르게 코딩 작업을 시키는 데 초점을 맞췄습니다.
-
-특정 AI 모델에 묶이지 않아 로컬·클라우드 모델을 사용할 수 있고, skills·plugins·MCP로 기능을 추가할 수도 있습니다. 사용 기록은 로컬에 저장되며 제품 사용 정보를 수집하는 텔레메트리도 없습니다.
-
-현재는 실험 단계라 기능이 자주 변경될 수 있습니다.</description><pubDate>Wed, 19 Aug 2026 02:50:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcNJ3MzkWli</guid></item><item><title>주소 :
-fx.sh</title><link>https://www.threads.net/@choi.openai/post/DcNJ6OEDyPS</link><description>주소 :
-fx.sh</description><pubDate>Wed, 19 Aug 2026 02:50:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcNJ6OEDyPS</guid></item></channel></rss>
+과제형 평가가 사실상 AI 성능 측정이 된 이상, 시험은 대면과 구술로 돌아갈 수밖에 없을 것 같습니다.</description><pubDate>Wed, 19 Aug 2026 12:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOI5VJDZQj</guid></item></channel></rss>
