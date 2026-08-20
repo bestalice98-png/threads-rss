@@ -1,40 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 20 Aug 2026 01:11:20 +0000</lastBuildDate><item><title>오픈AI의 새로운 굿즈가 출시되었습니다!</title><link>https://www.threads.net/@choi.openai/post/DcPjR_4D5Va</link><description>오픈AI의 새로운 굿즈가 출시되었습니다!</description><pubDate>Thu, 20 Aug 2026 01:10:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPjR_4D5Va</guid></item><item><title>구매 사이트 :
-https://openai.com/ko-KR/supply/shop/</title><link>https://www.threads.net/@choi.openai/post/DcPjSi-j-Eb</link><description>구매 사이트 :
-https://openai.com/ko-KR/supply/shop/</description><pubDate>Thu, 20 Aug 2026 01:10:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPjSi-j-Eb</guid></item><item><title>컴퓨터 조작 에이전트를 만드는 Cua가 Computer History라는 기능을 오픈소스로 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 20 Aug 2026 08:36:54 +0000</lastBuildDate><item><title>모델 회사들이 그리는 미래가 점점 한곳으로 모이고 있습니다.
 
-에이전트의 행동 기록을 기기 안에 암...</title><link>https://www.threads.net/@choi.openai/post/DcPUWzkDcZ2</link><description>컴퓨터 조작 에이전트를 만드는 Cua가 Computer History라는 기능을 오픈소스로 공개했습니다.
+오늘 Grok이 자기 안에서 만든 앱의 공유 기능을 붙였는데요.
+대화로 만든 앱을...</title><link>https://www.threads.net/@choi.openai/post/DcQOsiBCKAv</link><description>모델 회사들이 그리는 미래가 점점 한곳으로 모이고 있습니다.
 
-에이전트의 행동 기록을 기기 안에 암호화해 저장하고, 새 세션이 이를 참고해 이전 작업을 이어가게 하는 기능입니다.
-대표적인 예시로 체스 기물을 옮기는 시연에서는 기록이 없을 때 세 번 경로를 헤맸지만, 기록을 켜자 이전에 성공한 경로를 재사용해 행동 수를 3분의 1로 줄이고 한 번도 실패하지 않는 모습을 보여줍니다.
+오늘 Grok이 자기 안에서 만든 앱의 공유 기능을 붙였는데요.
+대화로 만든 앱을 나만 쓰거나, 팀에 풀거나, 전 세계에 공개하도록 권한을 정하는 방식이고, 웹과 모바일, CLI 어디서든 만들 수 있습니다.
 
-기록또한 스크린샷, 입력한 글자, 클립보드, URL, 파일 경로는 저장하지 않고 어떤 앱에서 어떤 행동이 성공했는지라는 구조만 기록하는 구조입니다.
+과거, 클로드가 Artifacts로 대화 결과물을 그 자리에서 실행되는 앱으로 만들었고, 챗GPT는 Canvas를 거쳐 올여름 Sites로 제작부터 호스팅, 공개 범위 설정까지 넣었습니다. 이름만 다를 뿐 세 회사가 같은 기능을 같은 순서로 쌓고 있습니다.
 
-지난주 오픈AI도 ChatGPT 맥 앱에 같은 이름의 ‘Computer History’를 추가했었는데요. 컴퓨터를 쓰는 에이전트가 늘수록 조작 능력만큼 중요한 경쟁력이 ‘무엇을 기억하고 어떻게 다시 쓰느냐’가 될 것 같습니다.</description><pubDate>Wed, 19 Aug 2026 23:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPUWzkDcZ2</guid></item><item><title>깃허브 :
-https://github.com/trycua/cua/blob/main/libs/cua-driver/docs/computer-hist...</title><link>https://www.threads.net/@choi.openai/post/DcPUX2mjS86</link><description>깃허브 :
-https://github.com/trycua/cua/blob/main/libs/cua-driver/docs/computer-history-preview.md</description><pubDate>Wed, 19 Aug 2026 23:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPUX2mjS86</guid></item><item><title>라즈베리파이에서 돌아갈 만큼 압축해도 성능이 거의 빠지지 않는 모델이 나왔습니다.
+결국, 채팅창이 개발 도구이자 배포 채널이 되는 것으로 수렴하고 있습니다.
+만들면 모델사가 호스팅하고, 권한 설정이 곧 출시로 이어져 개발자도 앱스토어도 거치지 않습니다.
 
-온디바이스 AI를 만드는 Liquid AI가 0.2B부터 2...</title><link>https://www.threads.net/@choi.openai/post/DcPKDKgEmkY</link><description>라즈베리파이에서 돌아갈 만큼 압축해도 성능이 거의 빠지지 않는 모델이 나왔습니다.
+앱을 내려받아 쓰던 동선이 대화로 만들어 쓰는 동선으로 바뀌는 중이라, 지금은 회사마다 따로 노는 이 기능들도 결국 하나의 기본 형태로 통합돼 갈 가능성이 높아 보입니다.</description><pubDate>Thu, 20 Aug 2026 07:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQOsiBCKAv</guid></item><item><title>AI 안전에는 껄끄러운 전제가 하나 있는데요.
+위험을 잡으려면 결국 누군가 고객 데이터를 들여다봐야 한다는 것입니다.
 
-온디바이스 AI를 만드는 Liquid AI가 0.2B부터 2.6B까지 소형 모델의 4비트 버전을 새로 냈는데, 네 모델 모두 원본 성능의 97% 수준을 지킵니다.
-폰이든 미니PC든 라즈베리파이든 별도 실행 환경 없이 표준 GGUF 그대로 돌아갑니다.
+이번에 오픈AI가 이 전...</title><link>https://www.threads.net/@choi.openai/post/DcQEdYAkSaF</link><description>AI 안전에는 껄끄러운 전제가 하나 있는데요.
+위험을 잡으려면 결국 누군가 고객 데이터를 들여다봐야 한다는 것입니다.
 
-접근이 기존과 반대입니다. 지금까지는 다 키운 모델을 나중에 압축하다 보니 정밀도가 깎이면서 성능도 같이 새어 나갔는데, Liquid은 훈련 단계에서 미리 4비트 환경을 흉내 내고, 압축된 학생 모델이 원본 교사 모델의 답을 따라가도록 가르쳤습니다. 압축을 견디는 게 아니라 압축된 채로 태어나는 겁니다.
+이번에 오픈AI가 이 전제를 깨보겠다고 나섰습니다.
+프롬프트와 응답을 남기지 않는 ZDR 계약을 프런티어 모델에서 유지하면서, Private Safety Processing이라는 새 감시 방식인데요.
 
-큰 모델을 노트북까지 끌어내리는 경쟁과 별개로, 이쪽은 폰과 웨어러블, 가전, 로봇까지 내려가는 초소형 구간의 경쟁입니다.</description><pubDate>Wed, 19 Aug 2026 21:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPKDKgEmkY</guid></item><item><title>블로그 :
-https://www.liquid.ai/blog/qad</title><link>https://www.threads.net/@choi.openai/post/DcPKEU9ksqY</link><description>블로그 :
-https://www.liquid.ai/blog/qad</description><pubDate>Wed, 19 Aug 2026 21:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPKEU9ksqY</guid></item><item><title>추론 속도가 이제 눈으로 따라갈 수 없는 영역에 들어섰습니다.
+지금까지 AI가 길게 일할수록 심각한 위험은 여러 상호작용을 이어 봐야 드러나는데, 기록을 안 남기는 계약에서는 그 연결이 불가능했습니다.
 
-세레브라스가 새 추론 시스템 CS-4를 공개했습니다.
-회사에 따르면 GPU보다 ...</title><link>https://www.threads.net/@choi.openai/post/DcO_w5ciJE7</link><description>추론 속도가 이제 눈으로 따라갈 수 없는 영역에 들어섰습니다.
+새 방식은 고객이 암호화 키를 쥔 채 데이터를 두고, 자동 시스템만 내용을 읽어 위험 패턴을 찾습니다. 오픈AI에는 어떤 유형의 위험인지 신호만 전달되고, 직원은 적발된 뒤에도 내용을 볼 수 없습니다.
 
-세레브라스가 새 추론 시스템 CS-4를 공개했습니다.
-회사에 따르면 GPU보다 최대 30배 빠르고, 전력당 처리량은 이전 세대의 10배입니다. A4 한두 장 분량의 답변이 1초 안에 생성되는 속도로, 10조 파라미터 모델을 초당 1,000토큰으로 돌리는 것을 목표로 합니다.
+다만 어딘가에 저장되는 순간 제로 보관이 맞느냐는 지적도 있어, 검증은 9월에 나올 기술 리포트를 봐야 알 수 있을 것 같습니다.
 
-칩 자체는 새것이 아닙니다. 2년 된 WSE-3를 개선한 터보 버전 3장을 한 랙에 넣고 전원과 통신 구조를 다시 설계해 성능을 끌어올렸습니다.
+상장을 앞둔 오픈AI가 기업 시장의 신뢰 경쟁에 들어선 모양새입니다.</description><pubDate>Thu, 20 Aug 2026 06:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQEdYAkSaF</guid></item><item><title>발표내용 :
+https://openai.com/index/offering-zero-data-retention-for-frontier-models...</title><link>https://www.threads.net/@choi.openai/post/DcQEefgEWCn</link><description>발표내용 :
+https://openai.com/index/offering-zero-data-retention-for-frontier-models/</description><pubDate>Thu, 20 Aug 2026 06:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQEefgEWCn</guid></item><item><title>오픈AI 챗GPT 앱의 성장세가 상당히 가파릅니다.
 
-이 속도가 특히 중요한 곳은 에이전트입니다. 사람은 초당 20토큰만 넘어도 읽기 어렵지만, 에이전트는 추론과 도구 호출을 반복하므로 토큰 속도가 곧 작업 완료 시간으로 이어집니다.
+CNBC에 따르면 오픈AI CFO 사라 프라이어가 전사 미팅에서 공개한 수치로, 이번 분기...</title><link>https://www.threads.net/@choi.openai/post/DcP6LD0iqS3</link><description>오픈AI 챗GPT 앱의 성장세가 상당히 가파릅니다.
 
-다만 랙당 메모리가 GPU 시스템보다 적어 비용 부담이 크다는 지적도 있습니다. 오픈AI 계약과 AMD 제휴를 확보한 세레브라스가 이 성능을 실제 서비스 가격으로 얼마나 경쟁력 있게 내놓을지가 관건입니다.</description><pubDate>Wed, 19 Aug 2026 20:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcO_w5ciJE7</guid></item><item><title>내용 :
-https://www.cerebras.ai/cs4</title><link>https://www.threads.net/@choi.openai/post/DcO_zE8iJfA</link><description>내용 :
-https://www.cerebras.ai/cs4</description><pubDate>Wed, 19 Aug 2026 20:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcO_zE8iJfA</guid></item></channel></rss>
+CNBC에 따르면 오픈AI CFO 사라 프라이어가 전사 미팅에서 공개한 수치로, 이번 분기 들어 연환산 매출이 벌써 35% 늘었고 기업용 매출은 50% 넘게 뛰었습니다.
+코딩·업무 제품인 코덱스는 주간 사용자 2,000만 명을 넘겼습니다.
+
+사실, 2,000만이면 큰 숫자 같지만, 챗GPT 사용자 10억 명에 대면 이제 2%입니다.
+에이전트 쪽은 아직 초입이라는 뜻이라, 남은 98%가 그대로 성장 여력인 셈입니다.
+
+상장 이야기도 나왔습니다. 프라이어는 2027년, 이르면 그 전에 상장하겠다고 직원들에게 말했습니다.
+
+이틀 전에는 앤트로픽의 연환산 매출 650억 달러가 보도됐고, 이번엔 오픈AI가 내부 수치를 꺼냈습니다.
+
+나란히 상장을 준비하는 두 회사의 숫자 공개가 사실상 호가 경쟁이 된 모양새입니다.</description><pubDate>Thu, 20 Aug 2026 04:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcP6LD0iqS3</guid></item><item><title>AI 토큰 사용량이 11주마다 두 배씩 늘고 있습니다.
+
+트랜지스터가 2년마다 두 배가 된다는 무어의 법칙과 같은 모양의 곡선인데, 주기가 11...</title><link>https://www.threads.net/@choi.openai/post/DcPv6GwD387</link><description>AI 토큰 사용량이 11주마다 두 배씩 늘고 있습니다.
+
+트랜지스터가 2년마다 두 배가 된다는 무어의 법칙과 같은 모양의 곡선인데, 주기가 11주입니다.
+이 곡선 위에서 Stripe는 OpenRouter를 80억 달러 넘는 가격에 사기로 했고, 같은 날 공개된 투자자 서한에는 더 큰 이야기가 담겼는데요.
+Stripe는 2026년 1월 1일을 '특이점의 시작'으로 규정했습니다.
+
+결제 회사가 왜 이 단어를 골랐고, 어디에 돈을 걸고 있는지 정리했습니다. 🧵</description><pubDate>Thu, 20 Aug 2026 03:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPv6GwD387</guid></item><item><title>1/ Stripe가 8월 19일(현지 시간) OpenRouter 인수 합의를 공식 발표했습니다.
+
+OpenRouter는 80개 넘는 공급자의 5...</title><link>https://www.threads.net/@choi.openai/post/DcPv6o-D3NV</link><description>1/ Stripe가 8월 19일(현지 시간) OpenRouter 인수 합의를 공식 발표했습니다.
+
+OpenRouter는 80개 넘는 공급자의 500개 이상 AI 모델을 하나의 API로 연결하는 게이트웨이로, NVIDIA, Zoom, Lovable 같은 회사들이 이미 쓰고 있습니다. 2023년 서비스를 시작했으니 3년 만의 매각입니다.
+
+공식 가격은 비공개지만 NYT는 75억 달러, Axios는 80억 달러 이상으로 전했고, 대부분 주식으로 지급됩니다. 5월 13억 달러 평가를 받았던 회사가 석 달 만에 5배 넘는 가격에 팔린 셈입니다.
+
+창업자 세 명이 받는 몫만 15억 달러로 석 달 전 회사 전체 평가액보다 크고, Databricks 등 경쟁 인수 후보를 제치고 성사된 거래로 알려졌습니다.</description><pubDate>Thu, 20 Aug 2026 03:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPv6o-D3NV</guid></item><item><title>2/ 가격보다 더 화제가 된 것은 같은 날 공개된 투자자 서한입니다.
+
+Stripe 창업자 형제는 서한에 이렇게 적었습니다. "모호하고 이미 남...</title><link>https://www.threads.net/@choi.openai/post/DcPv7KQjx57</link><description>2/ 가격보다 더 화제가 된 것은 같은 날 공개된 투자자 서한입니다.
+
+Stripe 창업자 형제는 서한에 이렇게 적었습니다. "모호하고 이미 남용된 단어일 수 있지만, 우리는 1월 1일이 특이점의 시작이라고 판단했고 그때부터 그 전제 위에서 회사를 운영해왔다."
+
+수사가 아니라 운영 기준이라는 이야기인데요. Patrick Collison은 4월 자사 컨퍼런스에서 이미 '특이점 119일째'라는 표현을 쓰며 농담이라면서도 아주 조금만 농담이라고 덧붙였습니다.
+
+서한이 든 근거도 결제 데이터입니다. 상반기 매출이 전년 대비 41%, 잉여현금흐름이 43% 늘었고, Forbes AI 50 기업의 88%가 Stripe 위에서 결제를 처리합니다. AI·크립토 기업의 매출 비중은 1년 새 두 배 넘게 커졌습니다.
+
+인터넷 경제의 거래 층을 실시간으로 보는 회사가 자기 장부에서 변곡점을 읽었다는 뜻입니다.</description><pubDate>Thu, 20 Aug 2026 03:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPv7KQjx57</guid></item><item><title>3/ 그 확신의 출처를 가장 잘 보여주는 것이 OpenRouter의 토큰 곡선입니다.
+
+출시 후 처리량이 약 3만 배 늘어 연 4,500조 개 ...</title><link>https://www.threads.net/@choi.openai/post/DcPv8SJj0W0</link><description>3/ 그 확신의 출처를 가장 잘 보여주는 것이 OpenRouter의 토큰 곡선입니다.
+
+출시 후 처리량이 약 3만 배 늘어 연 4,500조 개 토큰 런레이트에 도달했고, 3년 내내 11주마다 두 배씩 늘었습니다. 로그 차트에서 3년간 직선이 유지된 성장인데요.
+
+트랜지스터가 2년마다 두 배로 늘던 무어의 법칙과 같은 모양의 지수 곡선이, 주기를 11주로 줄여 토큰에서 다시 나타난 셈입니다.
+
+저는 벤치마크 점수보다 이 토큰 소비량이 산업의 실제 상태를 더 정확히 보여준다고 봅니다. 벤치마크는 모델의 가능성을 재지만, 토큰은 실제로 돈을 내고 쓴 수요를 재는데요.
+
+가격이 내려갈수록 사용량이 더 크게 늘어 총지출이 커지는 흐름은 올해 내내 확인됐고, 샘 알트만이 말한 추론 수요 매년 10배 전망과도 같은 방향입니다.</description><pubDate>Thu, 20 Aug 2026 03:01:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPv8SJj0W0</guid></item></channel></rss>
