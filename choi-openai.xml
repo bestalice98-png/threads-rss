@@ -1,50 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 19 Aug 2026 15:20:42 +0000</lastBuildDate><item><title>🚨 미친 소식..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 20 Aug 2026 01:11:20 +0000</lastBuildDate><item><title>오픈AI의 새로운 굿즈가 출시되었습니다!</title><link>https://www.threads.net/@choi.openai/post/DcPjR_4D5Va</link><description>오픈AI의 새로운 굿즈가 출시되었습니다!</description><pubDate>Thu, 20 Aug 2026 01:10:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPjR_4D5Va</guid></item><item><title>구매 사이트 :
+https://openai.com/ko-KR/supply/shop/</title><link>https://www.threads.net/@choi.openai/post/DcPjSi-j-Eb</link><description>구매 사이트 :
+https://openai.com/ko-KR/supply/shop/</description><pubDate>Thu, 20 Aug 2026 01:10:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPjSi-j-Eb</guid></item><item><title>컴퓨터 조작 에이전트를 만드는 Cua가 Computer History라는 기능을 오픈소스로 공개했습니다.
 
-개인 맞춤 mRNA 암 치료제가 처음으로 3상 문턱을 넘었습니다.
-모더나와 머크가 고위험 흑색종 환자 1,137명 임상에서 ...</title><link>https://www.threads.net/@choi.openai/post/DcOd2T5DwwC</link><description>🚨 미친 소식..
+에이전트의 행동 기록을 기기 안에 암...</title><link>https://www.threads.net/@choi.openai/post/DcPUWzkDcZ2</link><description>컴퓨터 조작 에이전트를 만드는 Cua가 Computer History라는 기능을 오픈소스로 공개했습니다.
 
-개인 맞춤 mRNA 암 치료제가 처음으로 3상 문턱을 넘었습니다.
-모더나와 머크가 고위험 흑색종 환자 1,137명 임상에서 재발과 원격 전이 지표를 모두 충족했다고 발표했습니다.
+에이전트의 행동 기록을 기기 안에 암호화해 저장하고, 새 세션이 이를 참고해 이전 작업을 이어가게 하는 기능입니다.
+대표적인 예시로 체스 기물을 옮기는 시연에서는 기록이 없을 때 세 번 경로를 헤맸지만, 기록을 켜자 이전에 성공한 경로를 재사용해 행동 수를 3분의 1로 줄이고 한 번도 실패하지 않는 모습을 보여줍니다.
 
-환자의 종양과 정상 DNA를 비교해 종양에만 있는 변이를 찾고, 그중 면역계가 가장 잘 알아볼 표적을 AI로 최대 34개 골라 그 환자 전용 mRNA 주사를 만듭니다.
-수술로 종양을 제거한 뒤 재발을 막는 용도로 기존 면역항암제와 함께 씁니다.
+기록또한 스크린샷, 입력한 글자, 클립보드, URL, 파일 경로는 저장하지 않고 어떤 앱에서 어떤 행동이 성공했는지라는 구조만 기록하는 구조입니다.
 
-앞선 2상 5년 추적에서는 무재발 비율이 68.8%로, 기존 치료 단독의 49.1%보다 크게 높았습니다.
-아직 톱라인 발표라 세부 수치는 학회 공개를 기다려야 하고, 이제 규제 당국과 승인 절차를 밟는 단계입니다.
+지난주 오픈AI도 ChatGPT 맥 앱에 같은 이름의 ‘Computer History’를 추가했었는데요. 컴퓨터를 쓰는 에이전트가 늘수록 조작 능력만큼 중요한 경쟁력이 ‘무엇을 기억하고 어떻게 다시 쓰느냐’가 될 것 같습니다.</description><pubDate>Wed, 19 Aug 2026 23:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPUWzkDcZ2</guid></item><item><title>깃허브 :
+https://github.com/trycua/cua/blob/main/libs/cua-driver/docs/computer-hist...</title><link>https://www.threads.net/@choi.openai/post/DcPUX2mjS86</link><description>깃허브 :
+https://github.com/trycua/cua/blob/main/libs/cua-driver/docs/computer-history-preview.md</description><pubDate>Wed, 19 Aug 2026 23:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPUX2mjS86</guid></item><item><title>라즈베리파이에서 돌아갈 만큼 압축해도 성능이 거의 빠지지 않는 모델이 나왔습니다.
 
-코로나로 유명해진 mRNA의 원래 과녁이 암이었다는 걸 생각하면, 십수 년을 돌아 첫 관문을 통과한 셈입니다.</description><pubDate>Wed, 19 Aug 2026 15:03:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOd2T5DwwC</guid></item><item><title>내용 :
-https://www.merck.com/news/merck-and-moderna-announce-phase-3-interpath-001...</title><link>https://www.threads.net/@choi.openai/post/DcOd27wj9U7</link><description>내용 :
-https://www.merck.com/news/merck-and-moderna-announce-phase-3-interpath-001-trial-of-intismeran-autogene-plus-keytruda-met-endpoints-of-recurrence-free-survival-rfs-and-distant-metastasis-free-survival-dmfs-in-patient/</description><pubDate>Wed, 19 Aug 2026 15:04:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOd27wj9U7</guid></item><item><title>오픈AI 공동창립자 그렉 브록만(Greg Brockman)은 소프트웨어 엔지니어링과 지식 노동 전반이 AI로 완전히 변화하고 있다고 밝혔습니다....</title><link>https://www.threads.net/@choi.openai/post/DcOdZcREssY</link><description>오픈AI 공동창립자 그렉 브록만(Greg Brockman)은 소프트웨어 엔지니어링과 지식 노동 전반이 AI로 완전히 변화하고 있다고 밝혔습니다.
+온디바이스 AI를 만드는 Liquid AI가 0.2B부터 2...</title><link>https://www.threads.net/@choi.openai/post/DcPKDKgEmkY</link><description>라즈베리파이에서 돌아갈 만큼 압축해도 성능이 거의 빠지지 않는 모델이 나왔습니다.
 
-그는 단 2,000달러의 컴퓨팅 파워로 수학자들이 수십 년간 풀지 못한 난제 10개를 해결한 사례를 들며, 생물학·재료과학 등 과학적 발견이 기하급수적으로 가속화되고 있다고 말했습니다.
+온디바이스 AI를 만드는 Liquid AI가 0.2B부터 2.6B까지 소형 모델의 4비트 버전을 새로 냈는데, 네 모델 모두 원본 성능의 97% 수준을 지킵니다.
+폰이든 미니PC든 라즈베리파이든 별도 실행 환경 없이 표준 GGUF 그대로 돌아갑니다.
 
-이어 “컴퓨팅(Compute)은 AI 시대의 새로운 석유”가 되고 있으며, 희소한 핵심 자원으로서 경제적 가치가 집중되고 있음을 강조했습니다.
+접근이 기존과 반대입니다. 지금까지는 다 키운 모델을 나중에 압축하다 보니 정밀도가 깎이면서 성능도 같이 새어 나갔는데, Liquid은 훈련 단계에서 미리 4비트 환경을 흉내 내고, 압축된 학생 모델이 원본 교사 모델의 답을 따라가도록 가르쳤습니다. 압축을 견디는 게 아니라 압축된 채로 태어나는 겁니다.
 
-또한 “해결해야 할 문제에 대한 수요는 무한하다”며, AI 에이전트의 확산과 지수적인 모델 성능 향상이 인류의 생산성과 창의성을 전례 없는 수준으로 확장할 것이라 전망했습니다.</description><pubDate>Wed, 19 Aug 2026 14:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOdZcREssY</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=eXBFnfrt2gU</title><link>https://www.threads.net/@choi.openai/post/DcOdaZUkq_V</link><description>풀영상 :
-https://www.youtube.com/watch?v=eXBFnfrt2gU</description><pubDate>Wed, 19 Aug 2026 15:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOdaZUkq_V</guid></item><item><title>인간 세포 하나를 통째로 컴퓨터 안에서 실험하려는 시도가 나왔습니다.
+큰 모델을 노트북까지 끌어내리는 경쟁과 별개로, 이쪽은 폰과 웨어러블, 가전, 로봇까지 내려가는 초소형 구간의 경쟁입니다.</description><pubDate>Wed, 19 Aug 2026 21:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPKDKgEmkY</guid></item><item><title>블로그 :
+https://www.liquid.ai/blog/qad</title><link>https://www.threads.net/@choi.openai/post/DcPKEU9ksqY</link><description>블로그 :
+https://www.liquid.ai/blog/qad</description><pubDate>Wed, 19 Aug 2026 21:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPKEU9ksqY</guid></item><item><title>추론 속도가 이제 눈으로 따라갈 수 없는 영역에 들어섰습니다.
 
-GenBio AI가 공개한 AIDO Cell은 DNA, RNA, 단백질,...</title><link>https://www.threads.net/@choi.openai/post/DcOTKICk-Xb</link><description>인간 세포 하나를 통째로 컴퓨터 안에서 실험하려는 시도가 나왔습니다.
+세레브라스가 새 추론 시스템 CS-4를 공개했습니다.
+회사에 따르면 GPU보다 ...</title><link>https://www.threads.net/@choi.openai/post/DcO_w5ciJE7</link><description>추론 속도가 이제 눈으로 따라갈 수 없는 영역에 들어섰습니다.
 
-GenBio AI가 공개한 AIDO Cell은 DNA, RNA, 단백질, 세포 행동까지 하나의 시스템에서 시뮬레이션하는데요. 여러 모델을 층별로 이어 붙인 방식이 아니라, 세포 상태 전체를 이어서 다루는 방식입니다.
+세레브라스가 새 추론 시스템 CS-4를 공개했습니다.
+회사에 따르면 GPU보다 최대 30배 빠르고, 전력당 처리량은 이전 세대의 10배입니다. A4 한두 장 분량의 답변이 1초 안에 생성되는 속도로, 10조 파라미터 모델을 초당 1,000토큰으로 돌리는 것을 목표로 합니다.
 
-특히 유전자를 하나 끄면 다음 개입은 이미 바뀐 세포 상태 위에서 이어집니다. . 알파폴드처럼 답만 주는 예측기가 아니라, 실험을 순서대로 해볼 수 있는 가상 실험실인 겁니다.
+칩 자체는 새것이 아닙니다. 2년 된 WSE-3를 개선한 터보 버전 3장을 한 랙에 넣고 전원과 통신 구조를 다시 설계해 성능을 끌어올렸습니다.
 
-이게 정교해지면 신약 개발 방식도 달라질 수 있습니다. 수천 개 후보를 가상 세포에서 먼저 시험해 실패 가능성이 높은 물질을 거르고, 실제 실험에서는 통과한 후보만 검증하는 식입니다. 부작용도 더 일찍 확인할 수 있습니다.
+이 속도가 특히 중요한 곳은 에이전트입니다. 사람은 초당 20토큰만 넘어도 읽기 어렵지만, 에이전트는 추론과 도구 호출을 반복하므로 토큰 속도가 곧 작업 완료 시간으로 이어집니다.
 
-다만 아직은 알려진 생물학을 재현하는 프리뷰 단계이고, 물리 계산이 아니라 데이터 기반 근사라는 한계도 있습니다. 결국 관건은 가상 실험이 실제 세포 반응을 얼마나 정확하게 재현하느냐입니다.</description><pubDate>Wed, 19 Aug 2026 13:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOTKICk-Xb</guid></item><item><title>블로그 :
-https://genbio.ai/aido-cell-simulator/</title><link>https://www.threads.net/@choi.openai/post/DcOTLvTE2ze</link><description>블로그 :
-https://genbio.ai/aido-cell-simulator/</description><pubDate>Wed, 19 Aug 2026 13:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOTLvTE2ze</guid></item><item><title>브라운대 경제학 수업에서 나온 성적 분포 두 장이 화제입니다.
-
-재택으로 치른 중간고사 평균이 96점, 대면으로 바꾼 기말 평균이 48점입니다....</title><link>https://www.threads.net/@choi.openai/post/DcOI5VJDZQj</link><description>브라운대 경제학 수업에서 나온 성적 분포 두 장이 화제입니다.
-
-재택으로 치른 중간고사 평균이 96점, 대면으로 바꾼 기말 평균이 48점입니다.
-지난 12월 총격 사건 이후 학생들의 부담을 덜어주려 교수가 34년 경력에 처음 재택 시험을 냈는데, 86명 중 40명이 100점을 받았습니다.
-
-채점자들이 문제를 챗GPT에 넣어보고서야 그림이 잡혔습니다. 간단한 풀이가 있는 문제에 빙 돌아가는 논증이 나왔는데, 같은 논증이 수십 장의 답안에 반복돼 있었던 겁니다.
-
-교수가 기말은 대면으로 치르고 두 분포를 비교하겠다고 예고하자 18명이 수강을 철회하고 9명이 결시했습니다. 이 27명 중 22명이 중간고사 100점이었습니다.
-일각에서는 부정행위 사건으로만 보기에는 성적이 목적이 된 평가 구조에서 AI는 그 목적을 값싸게 만들었을 뿐이라는 지적도 나옵니다.
-
-과제형 평가가 사실상 AI 성능 측정이 된 이상, 시험은 대면과 구술로 돌아갈 수밖에 없을 것 같습니다.</description><pubDate>Wed, 19 Aug 2026 12:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcOI5VJDZQj</guid></item></channel></rss>
+다만 랙당 메모리가 GPU 시스템보다 적어 비용 부담이 크다는 지적도 있습니다. 오픈AI 계약과 AMD 제휴를 확보한 세레브라스가 이 성능을 실제 서비스 가격으로 얼마나 경쟁력 있게 내놓을지가 관건입니다.</description><pubDate>Wed, 19 Aug 2026 20:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcO_w5ciJE7</guid></item><item><title>내용 :
+https://www.cerebras.ai/cs4</title><link>https://www.threads.net/@choi.openai/post/DcO_zE8iJfA</link><description>내용 :
+https://www.cerebras.ai/cs4</description><pubDate>Wed, 19 Aug 2026 20:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcO_zE8iJfA</guid></item></channel></rss>
