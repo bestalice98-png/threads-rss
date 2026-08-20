@@ -1,82 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 20 Aug 2026 08:36:54 +0000</lastBuildDate><item><title>모델 회사들이 그리는 미래가 점점 한곳으로 모이고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 20 Aug 2026 15:22:30 +0000</lastBuildDate><item><title>세일즈포스가 드림포스에서 Slack Code를 공개했습니다.
 
-오늘 Grok이 자기 안에서 만든 앱의 공유 기능을 붙였는데요.
-대화로 만든 앱을...</title><link>https://www.threads.net/@choi.openai/post/DcQOsiBCKAv</link><description>모델 회사들이 그리는 미래가 점점 한곳으로 모이고 있습니다.
+코드 전용 채널을 만들면 사람과 AI 에이전트가 같은 채널에서 같은 코드를 놓고 ...</title><link>https://www.threads.net/@choi.openai/post/DcRCOuoir7X</link><description>세일즈포스가 드림포스에서 Slack Code를 공개했습니다.
 
-오늘 Grok이 자기 안에서 만든 앱의 공유 기능을 붙였는데요.
-대화로 만든 앱을 나만 쓰거나, 팀에 풀거나, 전 세계에 공개하도록 권한을 정하는 방식이고, 웹과 모바일, CLI 어디서든 만들 수 있습니다.
+코드 전용 채널을 만들면 사람과 AI 에이전트가 같은 채널에서 같은 코드를 놓고 함께 일합니다. 사람이 대화로 방향을 잡으면 에이전트가 코드를 쓰고, 진행 상황과 수정 내역이 대화 흐름에 그대로 쌓이는 구조입니다.
 
-과거, 클로드가 Artifacts로 대화 결과물을 그 자리에서 실행되는 앱으로 만들었고, 챗GPT는 Canvas를 거쳐 올여름 Sites로 제작부터 호스팅, 공개 범위 설정까지 넣었습니다. 이름만 다를 뿐 세 회사가 같은 기능을 같은 순서로 쌓고 있습니다.
+슬랙의 전략은 자체 에이전트 경쟁이 아닙니다.
+앤트로픽의 클로드, 깃허브, 코그니션의 데빈, 버셀을 출시 파트너로 불러들여, 어느 회사 에이전트든 슬랙 안에서 일하게 하는 중립 지대 장사입니다.
+모델사들이 자기 앱에 사용자를 가두려 경쟁하는 동안, 슬랙은 회사마다 이미 깔려 있다는 지위로 에이전트들이 모이는 자리 자체를 차지하려는 겁니다.
 
-결국, 채팅창이 개발 도구이자 배포 채널이 되는 것으로 수렴하고 있습니다.
-만들면 모델사가 호스팅하고, 권한 설정이 곧 출시로 이어져 개발자도 앱스토어도 거치지 않습니다.
+물론 채팅창이 코딩의 종착지냐는 반론과, 에이전트 응답이 사람 대화를 밀어낸다는 경험담도 벌써 나오고 있지만,  그래도 에이전트가 동료가 되는 흐름은 굳어지고 있어서, 그 동료들이 어느 사무실로 출근할지를 두고 슬랙은 가장 좋은 목을 쥐고 있습니다.</description><pubDate>Thu, 20 Aug 2026 15:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcRCOuoir7X</guid></item><item><title>그록 봇이 베타로 나온 지 일주일 만에, 오픈소스 판박이가 나왔습니다.
 
-앱을 내려받아 쓰던 동선이 대화로 만들어 쓰는 동선으로 바뀌는 중이라, 지금은 회사마다 따로 노는 이 기능들도 결국 하나의 기본 형태로 통합돼 갈 가능성이 높아 보입니다.</description><pubDate>Thu, 20 Aug 2026 07:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQOsiBCKAv</guid></item><item><title>AI 안전에는 껄끄러운 전제가 하나 있는데요.
-위험을 잡으려면 결국 누군가 고객 데이터를 들여다봐야 한다는 것입니다.
+CopilotKit이 공개한 Open Bot입니다.
+회사 도구에 직접 ...</title><link>https://www.threads.net/@choi.openai/post/DcQ3-5RDxVO</link><description>그록 봇이 베타로 나온 지 일주일 만에, 오픈소스 판박이가 나왔습니다.
 
-이번에 오픈AI가 이 전...</title><link>https://www.threads.net/@choi.openai/post/DcQEdYAkSaF</link><description>AI 안전에는 껄끄러운 전제가 하나 있는데요.
-위험을 잡으려면 결국 누군가 고객 데이터를 들여다봐야 한다는 것입니다.
+CopilotKit이 공개한 Open Bot입니다.
+회사 도구에 직접 로그인해 사람처럼 일하는 'AI 동료'를 자기 인프라에 깔 수 있게 만든 것으로, 봇마다 전용 컴퓨터와 브라우저, 로그인이 격리돼 서로의 파일을 넘볼 수 없습니다.
 
-이번에 오픈AI가 이 전제를 깨보겠다고 나섰습니다.
-프롬프트와 응답을 남기지 않는 ZDR 계약을 프런티어 모델에서 유지하면서, Private Safety Processing이라는 새 감시 방식인데요.
+원조와 갈라지는 지점은 소유권입니다. 랭체인이든 CrewAI든 클로드 SDK든 프로토콜만 맞으면 어떤 에이전트든 붙일 수 있고, 작업 기록 전부를 회사가 갖습니다.
+무엇을 했는지만이 아니라 누가 왜 그 결정을 했는지까지 로그로 남아서, 감사가 필요한 기업을 정면으로 겨냥했습니다.
 
-지금까지 AI가 길게 일할수록 심각한 위험은 여러 상호작용을 이어 봐야 드러나는데, 기록을 안 남기는 계약에서는 그 연결이 불가능했습니다.
+다만 아직 알파이고, 핵심 백엔드가 자사 라이선스에 걸려 있어 완전한 오픈소스냐는 시비도 벌써 붙었습니다.
 
-새 방식은 고객이 암호화 키를 쥔 채 데이터를 두고, 자동 시스템만 내용을 읽어 위험 패턴을 찾습니다. 오픈AI에는 어떤 유형의 위험인지 신호만 전달되고, 직원은 적발된 뒤에도 내용을 볼 수 없습니다.
+월 2~300달러짜리 제품이 일주일 만에 무료 대항마를 만나는 게 요즘 속도입니다.
+기능만으로는 해자가 안 되는 시대라, 승부는 결국 누가 먼저 기업의 신뢰를 얻느냐로 갈 것 같습니다.</description><pubDate>Thu, 20 Aug 2026 13:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQ3-5RDxVO</guid></item><item><title>깃허브 :
+https://github.com/CopilotKit/openbot</title><link>https://www.threads.net/@choi.openai/post/DcQ3_8mj84y</link><description>깃허브 :
+https://github.com/CopilotKit/openbot</description><pubDate>Thu, 20 Aug 2026 13:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQ3_8mj84y</guid></item><item><title>메타가 Meta AI 맥 데스크톱 앱을 출시했습니다.
 
-다만 어딘가에 저장되는 순간 제로 보관이 맞느냐는 지적도 있어, 검증은 9월에 나올 기술 리포트를 봐야 알 수 있을 것 같습니다.
+웹에서 쓰던 메타의 AI 비서를 컴퓨터에 상주시키는 앱으로, 채팅은 물론 지금 화면에 열...</title><link>https://www.threads.net/@choi.openai/post/DcQtnydik60</link><description>메타가 Meta AI 맥 데스크톱 앱을 출시했습니다.
 
-상장을 앞둔 오픈AI가 기업 시장의 신뢰 경쟁에 들어선 모양새입니다.</description><pubDate>Thu, 20 Aug 2026 06:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQEdYAkSaF</guid></item><item><title>발표내용 :
-https://openai.com/index/offering-zero-data-retention-for-frontier-models...</title><link>https://www.threads.net/@choi.openai/post/DcQEefgEWCn</link><description>발표내용 :
-https://openai.com/index/offering-zero-data-retention-for-frontier-models/</description><pubDate>Thu, 20 Aug 2026 06:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQEefgEWCn</guid></item><item><title>오픈AI 챗GPT 앱의 성장세가 상당히 가파릅니다.
+웹에서 쓰던 메타의 AI 비서를 컴퓨터에 상주시키는 앱으로, 채팅은 물론 지금 화면에 열린 창을 보고 맥락을 파악해 도와주고, 인스타그램·페이스북 성과 데이터와 구글 워크스페이스도 연동됩니다.
+애플 실리콘 전용에 설치 용량 16MB로 가볍고, 윈도우 버전도 개발 중이라고 합니다.
 
-CNBC에 따르면 오픈AI CFO 사라 프라이어가 전사 미팅에서 공개한 수치로, 이번 분기...</title><link>https://www.threads.net/@choi.openai/post/DcP6LD0iqS3</link><description>오픈AI 챗GPT 앱의 성장세가 상당히 가파릅니다.
+가장 화제가 된 건 시스템 전역 받아쓰기입니다.
+앱을 열 필요 없이 fn 키를 꾹 누르고 말하면 커서가 있는 자리에 텍스트가 바로 들어가는데, 정확도가 높아 사내에서도 타이핑의 절반을 이걸로 대체했다는 반응이 나옵니다.
 
-CNBC에 따르면 오픈AI CFO 사라 프라이어가 전사 미팅에서 공개한 수치로, 이번 분기 들어 연환산 매출이 벌써 35% 늘었고 기업용 매출은 50% 넘게 뛰었습니다.
-코딩·업무 제품인 코덱스는 주간 사용자 2,000만 명을 넘겼습니다.
+챗GPT, 클로드, 제미나이에 이어 메타까지 데스크톱 앱을 내놓으면서, AI 경쟁의 전장이 브라우저에서 운영체제 안으로 옮겨오는 모양새입니다.
 
-사실, 2,000만이면 큰 숫자 같지만, 챗GPT 사용자 10억 명에 대면 이제 2%입니다.
-에이전트 쪽은 아직 초입이라는 뜻이라, 남은 98%가 그대로 성장 여력인 셈입니다.
+한국도 지난 5월 메타 AI가 정식 출시된 지역이라 이번 앱도 meta.ai에서 받아 쓸 수 있습니다.</description><pubDate>Thu, 20 Aug 2026 12:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQtnydik60</guid></item><item><title>주소 :
+https://ai.meta.com/meta-ai/assistant/</title><link>https://www.threads.net/@choi.openai/post/DcQtp2QiktC</link><description>주소 :
+https://ai.meta.com/meta-ai/assistant/</description><pubDate>Thu, 20 Aug 2026 12:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQtp2QiktC</guid></item><item><title>와.. 이제 로봇은 한 번 보여주면 그대로 따라 합니다.
 
-상장 이야기도 나왔습니다. 프라이어는 2027년, 이르면 그 전에 상장하겠다고 직원들에게 말했습니다.
+Generalist AI가 공개한 GEN-1.5는 3~12초짜리 시연 하나를 보여주면...</title><link>https://www.threads.net/@choi.openai/post/DcQjWDdjE5p</link><description>와.. 이제 로봇은 한 번 보여주면 그대로 따라 합니다.
 
-이틀 전에는 앤트로픽의 연환산 매출 650억 달러가 보도됐고, 이번엔 오픈AI가 내부 수치를 꺼냈습니다.
+Generalist AI가 공개한 GEN-1.5는 3~12초짜리 시연 하나를 보여주면 재훈련 없이 그 자리에서 새 작업을 해냅니다. 로봇 팔로 시연할 필요도 없이, 사람이 맨손으로 하는 걸 카메라로 보여줘도 바로 재현합니다.
 
-나란히 상장을 준비하는 두 회사의 숫자 공개가 사실상 호가 경쟁이 된 모양새입니다.</description><pubDate>Thu, 20 Aug 2026 04:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcP6LD0iqS3</guid></item><item><title>AI 토큰 사용량이 11주마다 두 배씩 늘고 있습니다.
+지금까지 로봇은 작업 하나를 가르치는 데 수십 번의 시연과 별도 훈련이 필요했습니다. 언어 모델이 예시 몇 개만 보고 새 일을 해내던 인컨텍스트 러닝이 물리 세계에서 처음 제대로 나타난 셈이라, 연구자들이 "로봇공학의 GPT-3 순간"이라 부르고 있습니다.
 
-트랜지스터가 2년마다 두 배가 된다는 무어의 법칙과 같은 모양의 곡선인데, 주기가 11...</title><link>https://www.threads.net/@choi.openai/post/DcPv6GwD387</link><description>AI 토큰 사용량이 11주마다 두 배씩 늘고 있습니다.
+시연에 없던 수를 두는 게 압권입니다. 그릇을 덮은 종이를 스스로 치우고, 손끝에 붙은 레고를 다른 손으로 떼어냅니다.
 
-트랜지스터가 2년마다 두 배가 된다는 무어의 법칙과 같은 모양의 곡선인데, 주기가 11주입니다.
-이 곡선 위에서 Stripe는 OpenRouter를 80억 달러 넘는 가격에 사기로 했고, 같은 날 공개된 투자자 서한에는 더 큰 이야기가 담겼는데요.
-Stripe는 2026년 1월 1일을 '특이점의 시작'으로 규정했습니다.
+물론 성공률은 원샷 59%, 5분 데이터를 더하면 83% 수준이고, 단순 과제 기준이라는 건 회사도 인정합니다.
 
-결제 회사가 왜 이 단어를 골랐고, 어디에 돈을 걸고 있는지 정리했습니다. 🧵</description><pubDate>Thu, 20 Aug 2026 03:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPv6GwD387</guid></item><item><title>1/ Stripe가 8월 19일(현지 시간) OpenRouter 인수 합의를 공식 발표했습니다.
-
-OpenRouter는 80개 넘는 공급자의 5...</title><link>https://www.threads.net/@choi.openai/post/DcPv6o-D3NV</link><description>1/ Stripe가 8월 19일(현지 시간) OpenRouter 인수 합의를 공식 발표했습니다.
-
-OpenRouter는 80개 넘는 공급자의 500개 이상 AI 모델을 하나의 API로 연결하는 게이트웨이로, NVIDIA, Zoom, Lovable 같은 회사들이 이미 쓰고 있습니다. 2023년 서비스를 시작했으니 3년 만의 매각입니다.
-
-공식 가격은 비공개지만 NYT는 75억 달러, Axios는 80억 달러 이상으로 전했고, 대부분 주식으로 지급됩니다. 5월 13억 달러 평가를 받았던 회사가 석 달 만에 5배 넘는 가격에 팔린 셈입니다.
-
-창업자 세 명이 받는 몫만 15억 달러로 석 달 전 회사 전체 평가액보다 크고, Databricks 등 경쟁 인수 후보를 제치고 성사된 거래로 알려졌습니다.</description><pubDate>Thu, 20 Aug 2026 03:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPv6o-D3NV</guid></item><item><title>2/ 가격보다 더 화제가 된 것은 같은 날 공개된 투자자 서한입니다.
-
-Stripe 창업자 형제는 서한에 이렇게 적었습니다. "모호하고 이미 남...</title><link>https://www.threads.net/@choi.openai/post/DcPv7KQjx57</link><description>2/ 가격보다 더 화제가 된 것은 같은 날 공개된 투자자 서한입니다.
-
-Stripe 창업자 형제는 서한에 이렇게 적었습니다. "모호하고 이미 남용된 단어일 수 있지만, 우리는 1월 1일이 특이점의 시작이라고 판단했고 그때부터 그 전제 위에서 회사를 운영해왔다."
-
-수사가 아니라 운영 기준이라는 이야기인데요. Patrick Collison은 4월 자사 컨퍼런스에서 이미 '특이점 119일째'라는 표현을 쓰며 농담이라면서도 아주 조금만 농담이라고 덧붙였습니다.
-
-서한이 든 근거도 결제 데이터입니다. 상반기 매출이 전년 대비 41%, 잉여현금흐름이 43% 늘었고, Forbes AI 50 기업의 88%가 Stripe 위에서 결제를 처리합니다. AI·크립토 기업의 매출 비중은 1년 새 두 배 넘게 커졌습니다.
-
-인터넷 경제의 거래 층을 실시간으로 보는 회사가 자기 장부에서 변곡점을 읽었다는 뜻입니다.</description><pubDate>Thu, 20 Aug 2026 03:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPv7KQjx57</guid></item><item><title>3/ 그 확신의 출처를 가장 잘 보여주는 것이 OpenRouter의 토큰 곡선입니다.
-
-출시 후 처리량이 약 3만 배 늘어 연 4,500조 개 ...</title><link>https://www.threads.net/@choi.openai/post/DcPv8SJj0W0</link><description>3/ 그 확신의 출처를 가장 잘 보여주는 것이 OpenRouter의 토큰 곡선입니다.
-
-출시 후 처리량이 약 3만 배 늘어 연 4,500조 개 토큰 런레이트에 도달했고, 3년 내내 11주마다 두 배씩 늘었습니다. 로그 차트에서 3년간 직선이 유지된 성장인데요.
-
-트랜지스터가 2년마다 두 배로 늘던 무어의 법칙과 같은 모양의 지수 곡선이, 주기를 11주로 줄여 토큰에서 다시 나타난 셈입니다.
-
-저는 벤치마크 점수보다 이 토큰 소비량이 산업의 실제 상태를 더 정확히 보여준다고 봅니다. 벤치마크는 모델의 가능성을 재지만, 토큰은 실제로 돈을 내고 쓴 수요를 재는데요.
-
-가격이 내려갈수록 사용량이 더 크게 늘어 총지출이 커지는 흐름은 올해 내내 확인됐고, 샘 알트만이 말한 추론 수요 매년 10배 전망과도 같은 방향입니다.</description><pubDate>Thu, 20 Aug 2026 03:01:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcPv8SJj0W0</guid></item></channel></rss>
+다만 8개월 넘게 훈련하는 동안 지표가 계속 오르고 있다니 정말 기대되는 것 같습니다.</description><pubDate>Thu, 20 Aug 2026 10:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQjWDdjE5p</guid></item><item><title>블로그 :
+https://generalistai.com/blog/gen-1.5</title><link>https://www.threads.net/@choi.openai/post/DcQjXAfDNOU</link><description>블로그 :
+https://generalistai.com/blog/gen-1.5</description><pubDate>Thu, 20 Aug 2026 10:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQjXAfDNOU</guid></item></channel></rss>
