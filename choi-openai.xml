@@ -1,56 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 20 Aug 2026 15:22:30 +0000</lastBuildDate><item><title>세일즈포스가 드림포스에서 Slack Code를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 21 Aug 2026 01:15:02 +0000</lastBuildDate><item><title>앤트로픽이 이르면 8월 말 IPO 신청서를 공개 제출할 것으로 알려졌습니다.
 
-코드 전용 채널을 만들면 사람과 AI 에이전트가 같은 채널에서 같은 코드를 놓고 ...</title><link>https://www.threads.net/@choi.openai/post/DcRCOuoir7X</link><description>세일즈포스가 드림포스에서 Slack Code를 공개했습니다.
+Bloomberg에 따르면 앤트로픽은 SpaceX의 기록적인 IP...</title><link>https://www.threads.net/@choi.openai/post/DcSAFudEYl8</link><description>앤트로픽이 이르면 8월 말 IPO 신청서를 공개 제출할 것으로 알려졌습니다.
 
-코드 전용 채널을 만들면 사람과 AI 에이전트가 같은 채널에서 같은 코드를 놓고 함께 일합니다. 사람이 대화로 방향을 잡으면 에이전트가 코드를 쓰고, 진행 상황과 수정 내역이 대화 흐름에 그대로 쌓이는 구조입니다.
+Bloomberg에 따르면 앤트로픽은 SpaceX의 기록적인 IPO 규모와 맞먹거나 이를 넘어서는 수준을 기대하고 있는데요. 현실화되면 사상 최대 규모의 IPO가 될 가능성도 있습니다.
 
-슬랙의 전략은 자체 에이전트 경쟁이 아닙니다.
-앤트로픽의 클로드, 깃허브, 코그니션의 데빈, 버셀을 출시 파트너로 불러들여, 어느 회사 에이전트든 슬랙 안에서 일하게 하는 중립 지대 장사입니다.
-모델사들이 자기 앱에 사용자를 가두려 경쟁하는 동안, 슬랙은 회사마다 이미 깔려 있다는 지위로 에이전트들이 모이는 자리 자체를 차지하려는 겁니다.
+여기서 봐야 할 건 앤트로픽만이 아닙니다. 이 정도 규모의 상장에는 막대한 투자금이 필요하기 때문에, IPO를 앞두고 자금이 앤트로픽으로 몰리면서 다른 기술주나 AI 관련 종목에서 자금이 빠지는 현상이 나타날 수 있습니다.
 
-물론 채팅창이 코딩의 종착지냐는 반론과, 에이전트 응답이 사람 대화를 밀어낸다는 경험담도 벌써 나오고 있지만,  그래도 에이전트가 동료가 되는 흐름은 굳어지고 있어서, 그 동료들이 어느 사무실로 출근할지를 두고 슬랙은 가장 좋은 목을 쥐고 있습니다.</description><pubDate>Thu, 20 Aug 2026 15:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcRCOuoir7X</guid></item><item><title>그록 봇이 베타로 나온 지 일주일 만에, 오픈소스 판박이가 나왔습니다.
+앤트로픽의 기업가치뿐 아니라 상장 전후 다른 시장의 변동성도 함께 지켜봐야 할 것 같습니다.</description><pubDate>Fri, 21 Aug 2026 00:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcSAFudEYl8</guid></item><item><title>기사 :
+https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-mat...</title><link>https://www.threads.net/@choi.openai/post/DcSAGp7kVYA</link><description>기사 :
+https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it</description><pubDate>Fri, 21 Aug 2026 00:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcSAGp7kVYA</guid></item><item><title>와우.. 어디까지 통합되는거냐..
 
-CopilotKit이 공개한 Open Bot입니다.
-회사 도구에 직접 ...</title><link>https://www.threads.net/@choi.openai/post/DcQ3-5RDxVO</link><description>그록 봇이 베타로 나온 지 일주일 만에, 오픈소스 판박이가 나왔습니다.
+ChatGPT에서 Mac의 Apple Messages를 직접 사용할 수 있게 됐습니다.
 
-CopilotKit이 공개한 Open Bot입니다.
-회사 도구에 직접 로그인해 사람처럼 일하는 'AI 동료'를 자기 인프라에 깔 수 있게 만든 것으로, 봇마다 전용 컴퓨터와 브라우저, 로그인이 격리돼 서로의 파일을 넘볼 수 없습니다.
+새로운 Messag...</title><link>https://www.threads.net/@choi.openai/post/DcR1tWVjCWK</link><description>와우.. 어디까지 통합되는거냐..
 
-원조와 갈라지는 지점은 소유권입니다. 랭체인이든 CrewAI든 클로드 SDK든 프로토콜만 맞으면 어떤 에이전트든 붙일 수 있고, 작업 기록 전부를 회사가 갖습니다.
-무엇을 했는지만이 아니라 누가 왜 그 결정을 했는지까지 로그로 남아서, 감사가 필요한 기업을 정면으로 겨냥했습니다.
+ChatGPT에서 Mac의 Apple Messages를 직접 사용할 수 있게 됐습니다.
 
-다만 아직 알파이고, 핵심 백엔드가 자사 라이선스에 걸려 있어 완전한 오픈소스냐는 시비도 벌써 붙었습니다.
+새로운 Messages 플러그인을 설치하면 ChatGPT가 기존 메시지를 검색하고, 밀린 대화를 요약하고, 답장까지 작성해 보낼 수 있는데요.
 
-월 2~300달러짜리 제품이 일주일 만에 무료 대항마를 만나는 게 요즘 속도입니다.
-기능만으로는 해자가 안 되는 시대라, 승부는 결국 누가 먼저 기업의 신뢰를 얻느냐로 갈 것 같습니다.</description><pubDate>Thu, 20 Aug 2026 13:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQ3-5RDxVO</guid></item><item><title>깃허브 :
-https://github.com/CopilotKit/openbot</title><link>https://www.threads.net/@choi.openai/post/DcQ3_8mj84y</link><description>깃허브 :
-https://github.com/CopilotKit/openbot</description><pubDate>Thu, 20 Aug 2026 13:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQ3_8mj84y</guid></item><item><title>메타가 Meta AI 맥 데스크톱 앱을 출시했습니다.
+예를 들어 “다음 주 저녁 약속이 가능한 시간을 캘린더에서 확인하고 친구에게 답장해줘”라고 하면 일정 확인부터 메시지 작성까지 이어서 처리할 수 있습니다.
 
-웹에서 쓰던 메타의 AI 비서를 컴퓨터에 상주시키는 앱으로, 채팅은 물론 지금 화면에 열...</title><link>https://www.threads.net/@choi.openai/post/DcQtnydik60</link><description>메타가 Meta AI 맥 데스크톱 앱을 출시했습니다.
+메시지에서 생일을 찾아 캘린더에 추가하거나, 답장이 필요한 대화를 찾고 스팸으로 보이는 메시지를 정리하는 것도 가능합니다.
 
-웹에서 쓰던 메타의 AI 비서를 컴퓨터에 상주시키는 앱으로, 채팅은 물론 지금 화면에 열린 창을 보고 맥락을 파악해 도와주고, 인스타그램·페이스북 성과 데이터와 구글 워크스페이스도 연동됩니다.
-애플 실리콘 전용에 설치 용량 16MB로 가볍고, 윈도우 버전도 개발 중이라고 합니다.
+현재 Mac의 ChatGPT Work와 Codex에서 사용할 수 있습니다.</description><pubDate>Thu, 20 Aug 2026 22:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcR1tWVjCWK</guid></item><item><title>앤트로픽이 Claude를 배울 수 있는 무료 교육 사이트 Claude Academy를 정식 출시했습니다.
 
-가장 화제가 된 건 시스템 전역 받아쓰기입니다.
-앱을 열 필요 없이 fn 키를 꾹 누르고 말하면 커서가 있는 자리에 텍스트가 바로 들어가는데, 정확도가 높아 사내에서도 타이핑의 절반을 이걸로 대체했다는 반응이 나옵니다.
+AI를 처음 접하는 사람부터 Clau...</title><link>https://www.threads.net/@choi.openai/post/DcRrbNdAjCf</link><description>앤트로픽이 Claude를 배울 수 있는 무료 교육 사이트 Claude Academy를 정식 출시했습니다.
 
-챗GPT, 클로드, 제미나이에 이어 메타까지 데스크톱 앱을 내놓으면서, AI 경쟁의 전장이 브라우저에서 운영체제 안으로 옮겨오는 모양새입니다.
+AI를 처음 접하는 사람부터 Claude를 매일 사용하는 사람까지 수준에 맞춰 학습할 수 있는데요.
 
-한국도 지난 5월 메타 AI가 정식 출시된 지역이라 이번 앱도 meta.ai에서 받아 쓸 수 있습니다.</description><pubDate>Thu, 20 Aug 2026 12:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQtnydik60</guid></item><item><title>주소 :
-https://ai.meta.com/meta-ai/assistant/</title><link>https://www.threads.net/@choi.openai/post/DcQtp2QiktC</link><description>주소 :
-https://ai.meta.com/meta-ai/assistant/</description><pubDate>Thu, 20 Aug 2026 12:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQtp2QiktC</guid></item><item><title>와.. 이제 로봇은 한 번 보여주면 그대로 따라 합니다.
+강의와 튜토리얼 형태로 구성되어 있어 Claude의 기본적인 사용법부터 실제 업무에서 AI를 활용하는 방법까지 배울 수 있습니다.
 
-Generalist AI가 공개한 GEN-1.5는 3~12초짜리 시연 하나를 보여주면...</title><link>https://www.threads.net/@choi.openai/post/DcQjWDdjE5p</link><description>와.. 이제 로봇은 한 번 보여주면 그대로 따라 합니다.
+특히 별도의 유료 강의가 아니라 누구나 무료로 이용할 수 있다는 점이 눈에 띕니다.
 
-Generalist AI가 공개한 GEN-1.5는 3~12초짜리 시연 하나를 보여주면 재훈련 없이 그 자리에서 새 작업을 해냅니다. 로봇 팔로 시연할 필요도 없이, 사람이 맨손으로 하는 걸 카메라로 보여줘도 바로 재현합니다.
+AI를 어디서부터 배워야 할지 막막했다면 Claude를 직접 만든 앤트로픽의 공식 교육 자료부터 시작해봐도 좋을 것 같습니다.</description><pubDate>Thu, 20 Aug 2026 21:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcRrbNdAjCf</guid></item><item><title>주소 :
+https://academy.claude.com/</title><link>https://www.threads.net/@choi.openai/post/DcRrdjzgjg9</link><description>주소 :
+https://academy.claude.com/</description><pubDate>Thu, 20 Aug 2026 21:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcRrdjzgjg9</guid></item><item><title>ChatGPT Sites에 팀 협업 기능이 추가됐습니다.
 
-지금까지 로봇은 작업 하나를 가르치는 데 수십 번의 시연과 별도 훈련이 필요했습니다. 언어 모델이 예시 몇 개만 보고 새 일을 해내던 인컨텍스트 러닝이 물리 세계에서 처음 제대로 나타난 셈이라, 연구자들이 "로봇공학의 GPT-3 순간"이라 부르고 있습니다.
+이제 팀원을 편집자로 초대해 같은 사이트를 함께 만들고 수정할 수 있는데요.
+여러 사...</title><link>https://www.threads.net/@choi.openai/post/DcRfrnYDU-4</link><description>ChatGPT Sites에 팀 협업 기능이 추가됐습니다.
 
-시연에 없던 수를 두는 게 압권입니다. 그릇을 덮은 종이를 스스로 치우고, 손끝에 붙은 레고를 다른 손으로 떼어냅니다.
+이제 팀원을 편집자로 초대해 같은 사이트를 함께 만들고 수정할 수 있는데요.
+여러 사람이 같은 프로젝트에 변경사항을 올리면 Codex가 뒤에서 Git 관리와 CI를 처리합니다.
 
-물론 성공률은 원샷 59%, 5분 데이터를 더하면 83% 수준이고, 단순 과제 기준이라는 건 회사도 인정합니다.
+쉽게 말하면 ChatGPT 안에서 여러 명이 하나의 웹사이트를 같이 만드는 방식입니다.
+사이트 주소도 직접 설정할 수 있어 프로젝트 이름에 맞게 공유하기 쉬운 URL을 만들 수 있습니다.
 
-다만 8개월 넘게 훈련하는 동안 지표가 계속 오르고 있다니 정말 기대되는 것 같습니다.</description><pubDate>Thu, 20 Aug 2026 10:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQjWDdjE5p</guid></item><item><title>블로그 :
-https://generalistai.com/blog/gen-1.5</title><link>https://www.threads.net/@choi.openai/post/DcQjXAfDNOU</link><description>블로그 :
-https://generalistai.com/blog/gen-1.5</description><pubDate>Thu, 20 Aug 2026 10:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcQjXAfDNOU</guid></item></channel></rss>
+현재는 Business와 Enterprise 계정에서 제공되는 기능입니다.</description><pubDate>Thu, 20 Aug 2026 19:17:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcRfrnYDU-4</guid></item></channel></rss>
