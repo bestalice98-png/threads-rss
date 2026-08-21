@@ -1,41 +1,60 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 21 Aug 2026 08:39:03 +0000</lastBuildDate><item><title>왔다..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 21 Aug 2026 15:21:48 +0000</lastBuildDate><item><title>와.. 애니 일러스트 생성의 터줏대감이 오랜만에 큰 걸 내놨습니다.
 
-오픈AI DevDay Exchange가 10월 22일 서울에서 열립니다.
+NovelAI가 새 이미지 모델 Diffusion V5를 출시했습니다. 한...</title><link>https://www.threads.net/@choi.openai/post/DcTjm-QkeQl</link><description>와.. 애니 일러스트 생성의 터줏대감이 오랜만에 큰 걸 내놨습니다.
 
-미국 DevDay의 기술 세션과 콘텐츠를 각 지역 개발자 ...</title><link>https://www.threads.net/@choi.openai/post/DcS6YHcjdAO</link><description>왔다..
+NovelAI가 새 이미지 모델 Diffusion V5를 출시했습니다. 한 장에 캐릭터를 최대 22명까지 배치하고, 만화 생성까지 지원하는 역대 가장 큰 업데이트입니다.
 
-오픈AI DevDay Exchange가 10월 22일 서울에서 열립니다.
+프롬프트를 쓰는 방식부터 달라졌습니다. 지금까지 애니 계열 생성은 '단발머리, 교복, 미소' 같은 태그 나열이 표준이었는데, V5는 보통 문장으로 장면을 묘사하면 그대로 그립니다. 말풍선 글자도 일본어와 영어는 물론 중국어까지 원하는 대로 생성이 가능헙니다.
 
-미국 DevDay의 기술 세션과 콘텐츠를 각 지역 개발자 커뮤니티로 가져오는 글로벌 행사인데요.
-올해는 서울, 도쿄, 베를린, 파리, 런던 등 전 세계 8개 도시에서 진행됩니다.
+그래서 실사용자들 사이에서는 AI 만화 제작의 주도구가 챗GPT나 Grok에서 이쪽으로 넘어올 거라는 반응이 나오고 있는데요.
 
-이번 행사에서는 키노트와 기술 세션에 더해 라이브 데모와 핸즈온 랩이 마련되고, 오픈AI 엔지니어와 제품팀에 구현 과정을 직접 질문할 수 있습니다.
-국내 스타트업과 개발자들의 Codex 활용 사례, 개발자 라운지와 네트워킹 자리도 준비됩니다.
+만화 제작 파이프라인을 겨냥한 구성이라, 웹툰의 나라인 우리 창작 판에도 파장이 작지 않을 것 같습니다.</description><pubDate>Fri, 21 Aug 2026 14:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTjm-QkeQl</guid></item><item><title>Google이 Gemini에 학생용 학습 도구를 새로 추가했습니다.
 
-작년 11월 서울 행사에서는 에이전트 빌더, Codex SDK, AGENTS.md 작성법 같은 실무 주제가 중심이었는데요.
-참가비는 무료이며, 좌석이 한정되어 사전 신청 후 선정된 분들만 참석할 수 있고, 신청은 9월 4일까지입니다.</description><pubDate>Fri, 21 Aug 2026 08:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcS6YHcjdAO</guid></item><item><title>신청주소 :
-https://events.openai.com/devdayexchange2026</title><link>https://www.threads.net/@choi.openai/post/DcS6ZYsDQ19</link><description>신청주소 :
-https://events.openai.com/devdayexchange2026</description><pubDate>Fri, 21 Aug 2026 08:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcS6ZYsDQ19</guid></item><item><title>Claude Platform에서 Computer use, browser tool, Skills API, Files API가 정식 제공됩니다.
+학생 전용 허브에서는 강의자료로 학습 노트북을 만들고, 플래시카드와 연습 ...</title><link>https://www.threads.net/@choi.openai/post/DcTZUYqCQzE</link><description>Google이 Gemini에 학생용 학습 도구를 새로 추가했습니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/DcSwJQQk9hg</link><description>Claude Platform에서 Computer use, browser tool, Skills API, Files API가 정식 제공됩니다.
+학생 전용 허브에서는 강의자료로 학습 노트북을 만들고, 플래시카드와 연습 퀴즈를 바로 생성할 수 있습니다.
 
-이제 Claude가 클릭·입력·키보드 조작·스크린샷을 한 번에 여러 개 처리할 수 있어 작업 속도와 비용이 개선됐는데요.
+학습 노트북은 먼저 진단 퀴즈로 부족한 부분을 찾은 뒤, 수준에 맞는 레슨과 퀴즈를 만들어주고 진행 상황도 보여줍니다.
 
-또 API가 없는 오래된 업무 프로그램도 화면을 직접 조작해 자동화할 수 있습니다.
+또 3D 시뮬레이션과 표로 개념을 설명하는 대화형 시각화가 추가됐고, Gemini Live에서는 Deep Research를 음성으로 요청한 뒤 화면을 꺼도 조사가 계속 진행됩니다.</description><pubDate>Fri, 21 Aug 2026 13:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTZUYqCQzE</guid></item><item><title>학생 전용 허브 :
+https://gemini.google.com/students</title><link>https://www.threads.net/@choi.openai/post/DcTZVeWCSDO</link><description>학생 전용 허브 :
+https://gemini.google.com/students</description><pubDate>Fri, 21 Aug 2026 13:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTZVeWCSDO</guid></item><item><title>정말 빅뉴스 같은데요?
 
-Skills API로 회사 업무 절차를 저장해 여러 에이전트가 재사용할 수 있고, Files API로 같은 파일을 반복 업로드하지 않고 계속 활용할 수도 있습니다.</description><pubDate>Fri, 21 Aug 2026 07:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcSwJQQk9hg</guid></item><item><title>최근 일부 사용자에게 발생하는 Codex 사용량 문제 안내.
+Fable 5를 뛰어넘는 점수를 낸 익명의 모델이 무료로 풀렸습니다.
 
-오픈AI의 내부 확인 결과 영향을 받은 사용자 중 상당수가 구독 계정을 API 트...</title><link>https://www.threads.net/@choi.openai/post/DcSnB7rjwmz</link><description>최근 일부 사용자에게 발생하는 Codex 사용량 문제 안내.
+오늘 오픈코드와 오픈라우터에서 익명 모델 Ox ...</title><link>https://www.threads.net/@choi.openai/post/DcTPAuQjTMK</link><description>정말 빅뉴스 같은데요?
 
-오픈AI의 내부 확인 결과 영향을 받은 사용자 중 상당수가 구독 계정을 API 트래픽으로 변환해 여러 사용자에게 다시 제공하는 sub2api를 사용하고 있었다고 합니다.
-이런 방식은 부정 사용 방지 시스템에 감지될 수 있어 사용량이 과도하게 청구될 수 있습니다.
+Fable 5를 뛰어넘는 점수를 낸 익명의 모델이 무료로 풀렸습니다.
 
-반면 ChatGPT 계정으로 로그인해 공식 클라이언트나 Pi, OpenCode 같은 오픈소스 클라이언트에서 구독 사용량을 이용하는 것은 문제가 없다고 합니다.</description><pubDate>Fri, 21 Aug 2026 05:41:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcSnB7rjwmz</guid></item><item><title>오픈AI가 GPT-Image-2 API에 투명 배경 이미지 생성 기능을 프리뷰로 추가했습니다.
+오늘 오픈코드와 오픈라우터에서 익명 모델 Ox Alpha가 테스트 중인데요. 일주일간 무료로 제공되며, 100만 토큰 컨텍스트에 이미지·영상 입력까지 지원합니다. 운영 측은 하루 100조 토큰을 무료로 풀고 있습니다.
 
-이제 배경 제거 작업 없이 처음부터 투명한 PN...</title><link>https://www.threads.net/@choi.openai/post/DcSUnnNgvCW</link><description>오픈AI가 GPT-Image-2 API에 투명 배경 이미지 생성 기능을 프리뷰로 추가했습니다.
+한 개발자가 코딩 벤치마크 DeepSWE 10문제를 돌린 결과 80%를 기록했고, 이는 같은 조건에서 Fable 5는 65%, GPT-5.6 Sol은 52%였던 기록입니다.
 
-이제 배경 제거 작업 없이 처음부터 투명한 PNG 이미지를 만들 수 있는데요.
-상품 이미지, 웹사이트 요소, 발표자료, 굿즈 디자인 등에 바로 활용할 수 있습니다.</description><pubDate>Fri, 21 Aug 2026 03:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcSUnnNgvCW</guid></item><item><title>발표내용 :
-https://developers.openai.com/cookbook/examples/multimodal/transparent-im...</title><link>https://www.threads.net/@choi.openai/post/DcSUqiYAoPv</link><description>발표내용 :
-https://developers.openai.com/cookbook/examples/multimodal/transparent-image-assets-for-campaigns-and-presentations</description><pubDate>Fri, 21 Aug 2026 03:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcSUqiYAoPv</guid></item></channel></rss>
+전체 113문제 중 10문제만 돌린 표본이라 편차 가능성은 있지만, 실사용에서도 프런티어급이라는 평가가 이어지고 있습니다.</description><pubDate>Fri, 21 Aug 2026 11:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTPAuQjTMK</guid></item><item><title>현재 추측으로는 토크나이저 구성부터 중국 정치 질문을 거부하는 패턴까지 GLM 계열과 겹치면서 Z.ai의 차기 모델이라는 관측이 유력한데요.
+
+...</title><link>https://www.threads.net/@choi.openai/post/DcTPBj5Ded2</link><description>현재 추측으로는 토크나이저 구성부터 중국 정치 질문을 거부하는 패턴까지 GLM 계열과 겹치면서 Z.ai의 차기 모델이라는 관측이 유력한데요.
+
+그렇다면 중국의 한 AI 랩이 프런티어를 넘보는 모델을 하루 100조 토큰씩 공짜로 뿌리며 조용히 테스트하고 있다는 뜻으로도 보입니다.
+
+프런티어급 모델이 무료로 풀리고 있는 상황 자체가, 모델 가격 구조가 어디까지 무너지고 있는지 보여줍니다.
+
+오픈라우터 :
+https://openrouter.ai/stealth/ox-alpha</description><pubDate>Fri, 21 Aug 2026 11:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTPBj5Ded2</guid></item><item><title>🚨 딥시크가 드디어 눈을 떴습니다.
+
+딥시크가 첫 멀티모달 모델 V4-Flash-Vision을 실험 버전으로 API에 올렸습니다.
+텍스트 성능은...</title><link>https://www.threads.net/@choi.openai/post/DcTEqQ_DDdc</link><description>🚨 딥시크가 드디어 눈을 떴습니다.
+
+딥시크가 첫 멀티모달 모델 V4-Flash-Vision을 실험 버전으로 API에 올렸습니다.
+텍스트 성능은 기존 V4-Flash와 같습니다.
+에이전트, 추론, 지식 전부 그대로인데 이미지를 읽는 능력이 붙었고, 멀티모달 에이전트 벤치마크에서는 Opus 4.8 턱밑까지 올라왔다고 밝혔습니다.
+
+일부 에이전트 평가에서는 비전을 달고도 오히려 점수가 올라, 애초에 비전까지 학습해두고 눈만 가려둔 모델이었다는 평가가 나오고 있는데요.
+
+가격이 딥시크답습니다. 이미지는 장당 최대 384토큰으로 환산해 기존 Flash 요금 그대로 받고, 한 번 올린 이미지를 재사용하는 Files API는 무료입니다.
+
+스크린샷을 읽고 화면을 이해하는 에이전트 작업까지 이 가격대로 내려온 셈이라, 저렴한 에이전트의 쓰임새가 한 층 넓어졌습니다.
+
+가중치 공개는 아직인데, 지난달 가중치를 풀었던 전례를 보면 이번에도 시간문제일 가능성이 높습니다.</description><pubDate>Fri, 21 Aug 2026 10:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTEqQ_DDdc</guid></item><item><title>가이드 :
+https://api-docs.deepseek.com/guides/vision/</title><link>https://www.threads.net/@choi.openai/post/DcTErQPjLat</link><description>가이드 :
+https://api-docs.deepseek.com/guides/vision/</description><pubDate>Fri, 21 Aug 2026 10:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTErQPjLat</guid></item></channel></rss>
