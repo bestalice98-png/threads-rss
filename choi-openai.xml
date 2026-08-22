@@ -1,60 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 21 Aug 2026 15:21:48 +0000</lastBuildDate><item><title>와.. 애니 일러스트 생성의 터줏대감이 오랜만에 큰 걸 내놨습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 22 Aug 2026 01:11:01 +0000</lastBuildDate><item><title>🚨 코덱스, 뱅크드 리셋 지급 완료.</title><link>https://www.threads.net/@choi.openai/post/DcUqt9dDyWR</link><description>🚨 코덱스, 뱅크드 리셋 지급 완료.</description><pubDate>Sat, 22 Aug 2026 00:51:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcUqt9dDyWR</guid></item><item><title>AI 전용 검색엔진 Exa가 코덱스와 챗GPT에 플러그인으로 들어왔습니다.
 
-NovelAI가 새 이미지 모델 Diffusion V5를 출시했습니다. 한...</title><link>https://www.threads.net/@choi.openai/post/DcTjm-QkeQl</link><description>와.. 애니 일러스트 생성의 터줏대감이 오랜만에 큰 걸 내놨습니다.
+웹 1,000억 페이지에 논문 3억 편, 기업·인물 데이터까지 검색...</title><link>https://www.threads.net/@choi.openai/post/DcUhZjUgdcj</link><description>AI 전용 검색엔진 Exa가 코덱스와 챗GPT에 플러그인으로 들어왔습니다.
 
-NovelAI가 새 이미지 모델 Diffusion V5를 출시했습니다. 한 장에 캐릭터를 최대 22명까지 배치하고, 만화 생성까지 지원하는 역대 가장 큰 업데이트입니다.
+웹 1,000억 페이지에 논문 3억 편, 기업·인물 데이터까지 검색 범위로 열리고, 설치는 코덱스의 플러그인 메뉴에서 Exa를 고르면 끝입니다.
+MCP로 직접 붙여 쓰던 사용자들 사이에서 웹 검색용으로는 손에 꼽히던 도구가 공식 채널로 들어온 셈입니다.
 
-프롬프트를 쓰는 방식부터 달라졌습니다. 지금까지 애니 계열 생성은 '단발머리, 교복, 미소' 같은 태그 나열이 표준이었는데, V5는 보통 문장으로 장면을 묘사하면 그대로 그립니다. 말풍선 글자도 일본어와 영어는 물론 중국어까지 원하는 대로 생성이 가능헙니다.
+코딩 에이전트의 고질적인 약점은 학습 시점에 멈춰 있는 지식입니다.
+바뀐 API나 새 라이브러리 문서를 검색으로 확인한 뒤 코드를 쓰게 되면, 그럴듯하지만 낡은 코드를 내놓는 실수가 줄어듭니다.
 
-그래서 실사용자들 사이에서는 AI 만화 제작의 주도구가 챗GPT나 Grok에서 이쪽으로 넘어올 거라는 반응이 나오고 있는데요.
+코드를 쓰는 에이전트와 인터넷을 조사하는 에이전트 사이의 경계가 이렇게 또 하나 지워졌습니다.</description><pubDate>Fri, 21 Aug 2026 23:30:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcUhZjUgdcj</guid></item><item><title>카메라가 달린 에어팟이 유출됐습니다.
+애플이 macOS 베타에 시연 영상을 실수로 남겼고, 블룸버그는 출시를 2027년으로 전합니다.
 
-만화 제작 파이프라인을 겨냥한 구성이라, 웹툰의 나라인 우리 창작 판에도 파장이 작지 않을 것 같습니다.</description><pubDate>Fri, 21 Aug 2026 14:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTjm-QkeQl</guid></item><item><title>Google이 Gemini에 학생용 학습 도구를 새로 추가했습니다.
+겉모습은...</title><link>https://www.threads.net/@choi.openai/post/DcUXEjoEUgR</link><description>카메라가 달린 에어팟이 유출됐습니다.
+애플이 macOS 베타에 시연 영상을 실수로 남겼고, 블룸버그는 출시를 2027년으로 전합니다.
 
-학생 전용 허브에서는 강의자료로 학습 노트북을 만들고, 플래시카드와 연습 ...</title><link>https://www.threads.net/@choi.openai/post/DcTZUYqCQzE</link><description>Google이 Gemini에 학생용 학습 도구를 새로 추가했습니다.
+겉모습은 지금 에어팟과 거의 비슷한데요. 축에 박힌 카메라가 주변을 인식해 시리에 맥락을 넘기는 구조로, AI가 내가 보는 세상을 같이 보게 되는 겁니다.
 
-학생 전용 허브에서는 강의자료로 학습 노트북을 만들고, 플래시카드와 연습 퀴즈를 바로 생성할 수 있습니다.
+올해 토익에서 AI 글래스 부정행위가 잇달아 적발돼 교육부가 반입 금지 지침까지 내렸었는데요. 이러한 시장에서  에어팟이 안경보다 나은 선택일 수 있습니다.
 
-학습 노트북은 먼저 진단 퀴즈로 부족한 부분을 찾은 뒤, 수준에 맞는 레슨과 퀴즈를 만들어주고 진행 상황도 보여줍니다.
+유출 분석으로는 사진·영상 촬영 기능은 빠지고 AI 인식 전용일 가능성이 높습니다.
+만약 촬영까지 들어간다면, 안경보다 훨씬 눈에 안 띄는 카메라라 몰래카메라 범죄 같은 사회 문제로 번질 수 있습니다.
 
-또 3D 시뮬레이션과 표로 개념을 설명하는 대화형 시각화가 추가됐고, Gemini Live에서는 Deep Research를 음성으로 요청한 뒤 화면을 꺼도 조사가 계속 진행됩니다.</description><pubDate>Fri, 21 Aug 2026 13:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTZUYqCQzE</guid></item><item><title>학생 전용 허브 :
-https://gemini.google.com/students</title><link>https://www.threads.net/@choi.openai/post/DcTZVeWCSDO</link><description>학생 전용 허브 :
-https://gemini.google.com/students</description><pubDate>Fri, 21 Aug 2026 13:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTZVeWCSDO</guid></item><item><title>정말 빅뉴스 같은데요?
+어느 쪽이든 분명한 건, 애플이 사람들의 오프라인 일상 데이터를 가장 많이 쥐는 회사가 될 수 있다는 점입니다. 수억 개의 귀에 눈이 하나씩 달리는 셈이니까요.</description><pubDate>Fri, 21 Aug 2026 22:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcUXEjoEUgR</guid></item><item><title>죽은 사람의 뇌조직이 접시 안에서 피아노 치는 법을 배웠습니다.
 
-Fable 5를 뛰어넘는 점수를 낸 익명의 모델이 무료로 풀렸습니다.
+프랑스 CNRS 연구진이 사후 성인의 뇌에서 아직 살아 있는 5mm 크기의 조...</title><link>https://www.threads.net/@choi.openai/post/DcUM0PbEmFw</link><description>죽은 사람의 뇌조직이 접시 안에서 피아노 치는 법을 배웠습니다.
 
-오늘 오픈코드와 오픈라우터에서 익명 모델 Ox ...</title><link>https://www.threads.net/@choi.openai/post/DcTPAuQjTMK</link><description>정말 빅뉴스 같은데요?
+프랑스 CNRS 연구진이 사후 성인의 뇌에서 아직 살아 있는 5mm 크기의 조직을 떼어 전극과 로봇 손에 연결했습니다.
 
-Fable 5를 뛰어넘는 점수를 낸 익명의 모델이 무료로 풀렸습니다.
+손가락 셋이 라·시·도 건반을 맡고, 무작위 자극으로 건반을 누르게 한 뒤 그 소리를 다시 전기 자극으로 돌려주길 하루 300번씩 사흘 반복했습니다. 정답 보상 없이, 같이 활성화된 연결이 강해지는 가소성에만 맡겼습니다.
 
-오늘 오픈코드와 오픈라우터에서 익명 모델 Ox Alpha가 테스트 중인데요. 일주일간 무료로 제공되며, 100만 토큰 컨텍스트에 이미지·영상 입력까지 지원합니다. 운영 측은 하루 100조 토큰을 무료로 풀고 있습니다.
+그 뒤 손가락을 움직이지 않고 소리에 해당하는 신호만 들려줬는데, 뇌조직이 그 음과 연결된 손가락을 움직이기 시작했습니다. 처음에는 우연히 맞히는 수준이었지만 나흘째에는 정답률이 58.5%까지 올랐습니다.
 
-한 개발자가 코딩 벤치마크 DeepSWE 10문제를 돌린 결과 80%를 기록했고, 이는 같은 조건에서 Fable 5는 65%, GPT-5.6 Sol은 52%였던 기록입니다.
+쉽게 말해 뇌조직이 '이 소리에는 이 손가락'이라는 관계를 스스로 학습한 겁니다. 배운 연결은 17일 뒤에도 대부분 남아 있었고, 신경세포끼리 신호를 주고받지 못하게 하자 사라졌습니다.</description><pubDate>Fri, 21 Aug 2026 20:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcUM0PbEmFw</guid></item><item><title>물론 죽은 뇌가 다시 생각하거나 의식을 갖게 됐다는 이야기는 아닙니다. 아직 심사 전 연구이고, 작은 뇌조직이 세 가지 관계를 학습했다는 수준입...</title><link>https://www.threads.net/@choi.openai/post/DcUM1dtElfI</link><description>물론 죽은 뇌가 다시 생각하거나 의식을 갖게 됐다는 이야기는 아닙니다. 아직 심사 전 연구이고, 작은 뇌조직이 세 가지 관계를 학습했다는 수준입니다.
 
-전체 113문제 중 10문제만 돌린 표본이라 편차 가능성은 있지만, 실사용에서도 프런티어급이라는 평가가 이어지고 있습니다.</description><pubDate>Fri, 21 Aug 2026 11:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTPAuQjTMK</guid></item><item><title>현재 추측으로는 토크나이저 구성부터 중국 정치 질문을 거부하는 패턴까지 GLM 계열과 겹치면서 Z.ai의 차기 모델이라는 관측이 유력한데요.
+연구진이 보는 가능성은 오히려 컴퓨터입니다. 실리콘 칩 대신 적은 에너지로 학습하는 살아 있는 뉴런을 계산에 활용하는 '하이브리드 AI'입니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/DcTPBj5Ded2</link><description>현재 추측으로는 토크나이저 구성부터 중국 정치 질문을 거부하는 패턴까지 GLM 계열과 겹치면서 Z.ai의 차기 모델이라는 관측이 유력한데요.
+뉴런으로 계산하는 컴퓨터가 공상과학에서 실제 연구의 영역으로 들어오고 있습니다.
 
-그렇다면 중국의 한 AI 랩이 프런티어를 넘보는 모델을 하루 100조 토큰씩 공짜로 뿌리며 조용히 테스트하고 있다는 뜻으로도 보입니다.
-
-프런티어급 모델이 무료로 풀리고 있는 상황 자체가, 모델 가격 구조가 어디까지 무너지고 있는지 보여줍니다.
-
-오픈라우터 :
-https://openrouter.ai/stealth/ox-alpha</description><pubDate>Fri, 21 Aug 2026 11:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTPBj5Ded2</guid></item><item><title>🚨 딥시크가 드디어 눈을 떴습니다.
-
-딥시크가 첫 멀티모달 모델 V4-Flash-Vision을 실험 버전으로 API에 올렸습니다.
-텍스트 성능은...</title><link>https://www.threads.net/@choi.openai/post/DcTEqQ_DDdc</link><description>🚨 딥시크가 드디어 눈을 떴습니다.
-
-딥시크가 첫 멀티모달 모델 V4-Flash-Vision을 실험 버전으로 API에 올렸습니다.
-텍스트 성능은 기존 V4-Flash와 같습니다.
-에이전트, 추론, 지식 전부 그대로인데 이미지를 읽는 능력이 붙었고, 멀티모달 에이전트 벤치마크에서는 Opus 4.8 턱밑까지 올라왔다고 밝혔습니다.
-
-일부 에이전트 평가에서는 비전을 달고도 오히려 점수가 올라, 애초에 비전까지 학습해두고 눈만 가려둔 모델이었다는 평가가 나오고 있는데요.
-
-가격이 딥시크답습니다. 이미지는 장당 최대 384토큰으로 환산해 기존 Flash 요금 그대로 받고, 한 번 올린 이미지를 재사용하는 Files API는 무료입니다.
-
-스크린샷을 읽고 화면을 이해하는 에이전트 작업까지 이 가격대로 내려온 셈이라, 저렴한 에이전트의 쓰임새가 한 층 넓어졌습니다.
-
-가중치 공개는 아직인데, 지난달 가중치를 풀었던 전례를 보면 이번에도 시간문제일 가능성이 높습니다.</description><pubDate>Fri, 21 Aug 2026 10:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTEqQ_DDdc</guid></item><item><title>가이드 :
-https://api-docs.deepseek.com/guides/vision/</title><link>https://www.threads.net/@choi.openai/post/DcTErQPjLat</link><description>가이드 :
-https://api-docs.deepseek.com/guides/vision/</description><pubDate>Fri, 21 Aug 2026 10:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcTErQPjLat</guid></item></channel></rss>
+논문 :
+https://www.researchsquare.com/article/rs-9638576/v1</description><pubDate>Fri, 21 Aug 2026 20:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcUM1dtElfI</guid></item></channel></rss>
