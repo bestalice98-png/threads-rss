@@ -1,51 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 22 Aug 2026 15:09:17 +0000</lastBuildDate><item><title>프롬프트 한 줄이 10분짜리 영화가 되어 나옵니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 23 Aug 2026 01:16:52 +0000</lastBuildDate><item><title>와.. 이제 100만 원대 게이밍 노트북에서 350억 모델이 돌아갑니다.
 
-텐센트 훈위안이 장편 영상 생성 하네스 HyCreator를 공개하고 얼리액세스 신청을 받기...</title><link>https://www.threads.net/@choi.openai/post/DcWIacMAbLk</link><description>프롬프트 한 줄이 10분짜리 영화가 되어 나옵니다.
+버클리 연구팀이 공개한 오픈소스 추론 엔진 FreeToken인데요.
+...</title><link>https://www.threads.net/@choi.openai/post/DcXQco4CYZp</link><description>와.. 이제 100만 원대 게이밍 노트북에서 350억 모델이 돌아갑니다.
 
-텐센트 훈위안이 장편 영상 생성 하네스 HyCreator를 공개하고 얼리액세스 신청을 받기 시작했습니다.
-이 시스템은 기획부터 샷 분할, 생성, 편집까지 전 과정을 에이전트가 끝까지 진행해줍니다.
+버클리 연구팀이 공개한 오픈소스 추론 엔진 FreeToken인데요.
+RTX 4060 8GB 노트북에서 Qwen3.6 35B가 초당 39토큰, RTX 5090에서는 2,840억 파라미터 DeepSeek V4 Flash가 초당 25토큰으로 돌아갑니다.
+워크스테이션 GPU 한 장이면 7,530억 GLM-5.2까지 구동하며, 극단적인 양자화도 쓰지 않습니다.
 
-결과가 마음에 안 들면 프롬프트를 처음부터 다시 돌리는 게 아니라, 원하는 지점에 끼어들어 실시간으로 고칠 수 있습니다.
+비결은 스케줄러입니다. MoE의 전문가 전체는 램에 두고 자주 쓰는 것만 GPU에 캐싱해 Ollama보다 디코드를 3~4배 끌어올렸습니다.
 
-다만, 품질 평은 갈리고 있는데요. 10분을 끊김 없이 끌고 가는 진행 관리는 인정받는데, 연출은 음악 깔린 몽타주 수준이라는 혹평도 나오고 있는 상황입니다.
+Claude Code나 Codex에 로컬 모델을 연결해 무료로 쓰는 것까지 겨냥했습니다.
+2년 전엔 ‘내 컴퓨터에서 LLM이 돌아갈까’를 물었다면, 이제는 ‘몇천억 모델을 얼마나 빠르게 돌릴까’를 묻는 시대가 됐습니다.</description><pubDate>Sun, 23 Aug 2026 00:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXQco4CYZp</guid></item><item><title>주소 :
+https://www.flashml.ai/</title><link>https://www.threads.net/@choi.openai/post/DcXQdjkiR8E</link><description>주소 :
+https://www.flashml.ai/</description><pubDate>Sun, 23 Aug 2026 01:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXQdjkiR8E</guid></item><item><title>MiniMax가 AI 디자인 도구 MiniMax Design을 정식 출시했습니다.
 
-그래도 경쟁은 모델 성능이 비슷해진 판에서 하네스로 옮겨가는 중이고, 영상도 그 궤도에 올라가고 있는 것 같습니다.</description><pubDate>Sat, 22 Aug 2026 14:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcWIacMAbLk</guid></item><item><title>신청 :
-https://hycreator.tencent.com/</title><link>https://www.threads.net/@choi.openai/post/DcWIbmMgViX</link><description>신청 :
-https://hycreator.tencent.com/</description><pubDate>Sat, 22 Aug 2026 14:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcWIbmMgViX</guid></item><item><title>내 웹사이트를 3D로 바꾸는 일이 복사 붙여넣기 한 번이 됐습니다.
+목표만 입력하면 여러 AI 에이전트가 작업을 나눠 이미지, ...</title><link>https://www.threads.net/@choi.openai/post/DcXGNcVERrb</link><description>MiniMax가 AI 디자인 도구 MiniMax Design을 정식 출시했습니다.
 
-디자인 교육 플랫폼 DesignCode의 Meng To가 three.js ...</title><link>https://www.threads.net/@choi.openai/post/DcV-FuziFL0</link><description>내 웹사이트를 3D로 바꾸는 일이 복사 붙여넣기 한 번이 됐습니다.
+목표만 입력하면 여러 AI 에이전트가 작업을 나눠 이미지, 영상, 음성, 편집까지 진행해 결과물을 만드는 방식인데요.
 
-디자인 교육 플랫폼 DesignCode의 Meng To가 three.js 컴포넌트 라이브러리 ThreeUI를 오픈소스로 풀었습니다.
-마우스를 따라 도는 3D 히어로 섹션부터 아이콘, 모션 디자인까지 160개 넘는 컴포넌트가 무료입니다.
+광고, 쇼핑몰 상품 이미지, 모션 그래픽, 후반 작업 등에 활용할 수 있습니다. 로컬 파일을 연결할 수 있고, API 연동과 비공개 환경 배포도 지원합니다.
 
-패키지를 설치하는 게 아니라 컴포넌트마다 붙은 프롬프트 복사 버튼을 눌러 에이전트에 넘기면 끝입니다. 스킬 파일이 같이 들어 있어서 에이전트가 원본을 그대로 재현한 다음, 테마와 조명, 움직임을 말로 바꿔줍니다.
+직접 프롬프트를 하나씩 조정하기보다, 만들고 싶은 결과를 설명하면 AI가 제작 과정을 이어서 처리하는 쪽에 가깝습니다.</description><pubDate>Sat, 22 Aug 2026 23:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXGNcVERrb</guid></item><item><title>주소 :
+https://design.minimax.io/</title><link>https://www.threads.net/@choi.openai/post/DcXGOf2EYrw</link><description>주소 :
+https://design.minimax.io/</description><pubDate>Sat, 22 Aug 2026 23:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXGOf2EYrw</guid></item><item><title>AI로 숙제를 하면 숙제 점수는 18% 오르고, 시험 점수는 20% 떨어집니다.
 
-3D 웹은 잘 만들면 근사하지만 처음 80%를 잡기가 어려운 영역이었습니다.
-잘 만든 출발점을 통째로 주고 나머지만 에이전트에 맡기는 구조라, 코드를 모르는 사람도 살아 움직이는 랜딩페이지를 가질 수 있게 됐습니다.
+중국 중고등학생 2만 6,800명을 30개월간 추적한 CEPR...</title><link>https://www.threads.net/@choi.openai/post/DcW78hOgPxv</link><description>AI로 숙제를 하면 숙제 점수는 18% 오르고, 시험 점수는 20% 떨어집니다.
 
-홈페이지 있는 분들은 오늘 바로 써먹기 좋은 물건입니다.</description><pubDate>Sat, 22 Aug 2026 13:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcV-FuziFL0</guid></item><item><title>깃허브 :
-https://github.com/MengTo/threeui</title><link>https://www.threads.net/@choi.openai/post/DcV-IzYiBH3</link><description>깃허브 :
-https://github.com/MengTo/threeui</description><pubDate>Sat, 22 Aug 2026 13:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcV-IzYiBH3</guid></item><item><title>미국 1위 법률 AI가 자체 모델을 공개했습니다.
+중국 중고등학생 2만 6,800명을 30개월간 추적한 CEPR 연구입니다.
+생성형 AI 확산 뒤 두바오·딥시크를 쓴 학생들은 숙제를 더 빨리 끝내고 점수도 높게 받았지만, 고입 시험 점수는 최대 24% 낮아졌습니다.
 
-기업가치 110억 달러의 Harvey가 첫 자체 모델 Tenet을 발표했는데요.
-Kimi K...</title><link>https://www.threads.net/@choi.openai/post/DcVz2EmAH9-</link><description>미국 1위 법률 AI가 자체 모델을 공개했습니다.
+연구진이 짚은 원인은 ‘숙제 외주화’입니다. AI 사용 학생의 80%가 과제를 유난히 빨리 끝냈지만, 혼자 풀어야 하는 시험에서는 성과가 무너졌습니다.
 
-기업가치 110억 달러의 Harvey가 첫 자체 모델 Tenet을 발표했는데요.
-Kimi K3를 기반으로 공개 판례와 변호사가 만든 전문가 데이터로 두 달간 강화학습했습니다. 자체 법률 에이전트 벤치마크에서 전 과제 통과율은 베이스 대비 82% 올랐고, 계약 부문은 최고 기록을 냈지만 비용은 프런티어 모델의 4분의 1 이하입니다.
+다만 AI를 써도 숙제 시간이 줄지 않은 학생은 학습 손실이 훨씬 적었습니다. 결국 도구를 썼느냐보다 생각하는 과정을 건너뛰었느냐가 성적을 갈랐습니다.
 
-구성도 로펌을 닮았습니다. 8천만 토큰 규모의 데이터룸을 분석하는 M&amp;A 실사 모델, 문서 1만 건을 표로 정리하는 검토 모델, 로펌 지식을 가중치에 새겨 검색 비용을 90% 줄인 기억 모델까지 전문 서브에이전트 3개를 따로 훈련했습니다.
+며칠 전 다룬 브라운대 성적 분포와 정확히 같은 그림입니다. 숙제를 잘하는 것과 진짜 배우는 것이 다른 지표가 된 만큼, 평가가 대면 필기시험으로 돌아가는 흐름은 더 빨라질 것 같습니다.</description><pubDate>Sat, 22 Aug 2026 22:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcW78hOgPxv</guid></item><item><title>엔비디아가 가정집에 GPU를 설치해줍니다.
 
-백악관 AI 책임자 데이비드 색스는 미국 기업의 모범 사례라고 평가했지만, 그 토대가 중국 모델이라는 점은 아이러니합니다.
+엔비디아가 배전반 업체 Span, 건설사 풀티그룹과 지난 5월 발표한 XFRA인데, 에어컨 실외기만...</title><link>https://www.threads.net/@choi.openai/post/DcWxkh5jZUX</link><description>엔비디아가 가정집에 GPU를 설치해줍니다.
 
-래퍼라 불리던 회사들이 직접 모델을 갖기 시작했습니다. 프런티어 랩의 고객이 하나씩 경쟁자가 되는 중입니다.</description><pubDate>Sat, 22 Aug 2026 11:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcVz2EmAH9-</guid></item><item><title>9만원 상당 Cursor Pro+ 받는 방법
+엔비디아가 배전반 업체 Span, 건설사 풀티그룹과 지난 5월 발표한 XFRA인데, 에어컨 실외기만 한 수랭식 박스에 블랙웰 GPU 16장과 서버 CPU 4개, 램 3TB를 넣어 신축 주택 외벽에 답니다.
 
-Cursor 쪽에서 다른 AI 구독을 해지한 사용자에게 한 달짜리 Pro+를 무료로 제공하는 이벤...</title><link>https://www.threads.net/@choi.openai/post/DcVpd9rAjTS</link><description>9만원 상당 Cursor Pro+ 받는 방법
+집주인은 하드웨어 값을 한 푼도 내지 않고 전기·인터넷 요금 지원을 받으며, 집의 전력 여유분으로 GPU가 돌아갑니다.
 
-Cursor 쪽에서 다른 AI 구독을 해지한 사용자에게 한 달짜리 Pro+를 무료로 제공하는 이벤트를 진행하고 있습니다.
+대형 데이터센터가 MW당 1,500만 달러에 3~5년 걸리는 동안, 이 방식은 300만 달러에 6개월이면 됩니다. 전력망 신규 인입도, 인허가 싸움도 없습니다.
 
-다른 서비스의 구독 해지 화면과 결제 내역을 제출하면 신청할 수 있는데요. 말 그대로 경쟁 서비스 해지를 조건으로 혜택을 주는 방식입니다.
+미국인 75%가 집 근처 데이터센터에 반대하는 상황에서 대형 시설이 주민 반대에 막힐수록 이렇게 집집마다 쪼개 붙이는 우회 모델은 더 주목받을 수밖에 없어 보입니다.
 
-만약 취소할 예정이시라면 이런 이벤트에 참여해보시는 것도 좋을 것 같습니다.</description><pubDate>Sat, 22 Aug 2026 10:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcVpd9rAjTS</guid></item><item><title>설문 링크 :
-https://anysphere.typeform.com/grokbot</title><link>https://www.threads.net/@choi.openai/post/DcVpg1XgvdS</link><description>설문 링크 :
-https://anysphere.typeform.com/grokbot</description><pubDate>Sat, 22 Aug 2026 10:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcVpg1XgvdS</guid></item></channel></rss>
+올 3분기 네바다·애리조나 신축 100채로 시작해 2027년부터 연 1GW가 목표입니다.</description><pubDate>Sat, 22 Aug 2026 20:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcWxkh5jZUX</guid></item></channel></rss>
