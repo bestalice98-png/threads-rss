@@ -1,49 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 23 Aug 2026 01:16:52 +0000</lastBuildDate><item><title>와.. 이제 100만 원대 게이밍 노트북에서 350억 모델이 돌아갑니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 23 Aug 2026 08:28:17 +0000</lastBuildDate><item><title>대박.. 535B 모델이 학습되는 과정을 실시간으로 지켜볼 수 있게 됐습니다.
 
-버클리 연구팀이 공개한 오픈소스 추론 엔진 FreeToken인데요.
-...</title><link>https://www.threads.net/@choi.openai/post/DcXQco4CYZp</link><description>와.. 이제 100만 원대 게이밍 노트북에서 350억 모델이 돌아갑니다.
+스탠퍼드 퍼시 량 교수팀의 Marin 535B-A23B가 이번 ...</title><link>https://www.threads.net/@choi.openai/post/DcX5soCD3f4</link><description>대박.. 535B 모델이 학습되는 과정을 실시간으로 지켜볼 수 있게 됐습니다.
 
-버클리 연구팀이 공개한 오픈소스 추론 엔진 FreeToken인데요.
-RTX 4060 8GB 노트북에서 Qwen3.6 35B가 초당 39토큰, RTX 5090에서는 2,840억 파라미터 DeepSeek V4 Flash가 초당 25토큰으로 돌아갑니다.
-워크스테이션 GPU 한 장이면 7,530억 GLM-5.2까지 구동하며, 극단적인 양자화도 쓰지 않습니다.
+스탠퍼드 퍼시 량 교수팀의 Marin 535B-A23B가 이번 주 학습을 시작했습니다.
+총 535B, 활성 23B의 MoE 모델로 11대의 GB200 NVL72에서 18.75조 토큰을 약 3개월간 학습합니다. 사전학습 80%, 미드트레이닝 20%로 구성되며 총 연산량은 2.7e24 FLOPs입니다.
 
-비결은 스케줄러입니다. MoE의 전문가 전체는 램에 두고 자주 쓰는 것만 GPU에 캐싱해 Ollama보다 디코드를 3~4배 끌어올렸습니다.
+데이터 구성과 설정, 실험 기록은 물론 지금 진행 중인 loss 곡선까지 W&amp;B에서 볼 수 있는데요.
+본 학습에 앞서 1.6B부터 27.7B까지 서로 다른 크기의 모델 4개를 먼저 학습해 문제를 점검하고, 535B 모델의 loss 변화까지 미리 예측해뒀습니다.
 
-Claude Code나 Codex에 로컬 모델을 연결해 무료로 쓰는 것까지 겨냥했습니다.
-2년 전엔 ‘내 컴퓨터에서 LLM이 돌아갈까’를 물었다면, 이제는 ‘몇천억 모델을 얼마나 빠르게 돌릴까’를 묻는 시대가 됐습니다.</description><pubDate>Sun, 23 Aug 2026 00:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXQco4CYZp</guid></item><item><title>주소 :
-https://www.flashml.ai/</title><link>https://www.threads.net/@choi.openai/post/DcXQdjkiR8E</link><description>주소 :
-https://www.flashml.ai/</description><pubDate>Sun, 23 Aug 2026 01:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXQdjkiR8E</guid></item><item><title>MiniMax가 AI 디자인 도구 MiniMax Design을 정식 출시했습니다.
+프런티어 랩 안에서만 볼 수 있던 대규모 모델 학습의 실제 과정이 실시간으로 공개되고 있으니 관심이 있다면 살펴보는 것도 좋을 것 같습니다.</description><pubDate>Sun, 23 Aug 2026 07:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcX5soCD3f4</guid></item><item><title>데이터 구성 :
+https://storage.googleapis.com/marin-public/held/harrier-k40-cluster-ov...</title><link>https://www.threads.net/@choi.openai/post/DcX5ttlj_Ec</link><description>데이터 구성 :
+https://storage.googleapis.com/marin-public/held/harrier-k40-cluster-overview/2026.08.18/index.html?revision=uniform-sampling
+wandb :
+https://wandb.ai/marin-community/marin_moe/reports/535B-A23B-18T-Token-Hero-Run-Scaling-Ladder--VmlldzoxNzc2MDM5Ng
+깃허브 :
+https://github.com/marin-community/marin/issues/8435</description><pubDate>Sun, 23 Aug 2026 07:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcX5ttlj_Ec</guid></item><item><title>🚨 속보) 코덱스 리셋예정</title><link>https://www.threads.net/@choi.openai/post/DcX0RnXj4N1</link><description>🚨 속보) 코덱스 리셋예정</description><pubDate>Sun, 23 Aug 2026 06:13:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcX0RnXj4N1</guid></item><item><title>작년 21.50초였던 기록이 1년 만에 9.39초가 됐습니다.
 
-목표만 입력하면 여러 AI 에이전트가 작업을 나눠 이미지, ...</title><link>https://www.threads.net/@choi.openai/post/DcXGNcVERrb</link><description>MiniMax가 AI 디자인 도구 MiniMax Design을 정식 출시했습니다.
+베이징에서 열린 2회 세계 휴머노이드 로봇 대회 개막 경기에서 로봇이 100m를...</title><link>https://www.threads.net/@choi.openai/post/DcXvZfhDM0t</link><description>작년 21.50초였던 기록이 1년 만에 9.39초가 됐습니다.
 
-목표만 입력하면 여러 AI 에이전트가 작업을 나눠 이미지, 영상, 음성, 편집까지 진행해 결과물을 만드는 방식인데요.
+베이징에서 열린 2회 세계 휴머노이드 로봇 대회 개막 경기에서 로봇이 100m를 9.39초에 주파했습니다. 2009년 우사인 볼트가 세운 9.58초보다 빠른 기록이고, 올해는 원격 조종 없이 자율 주행으로 치러졌습니다.
 
-광고, 쇼핑몰 상품 이미지, 모션 그래픽, 후반 작업 등에 활용할 수 있습니다. 로컬 파일을 연결할 수 있고, API 연동과 비공개 환경 배포도 지원합니다.
+다만 결승선을 지난 로봇은 감속하지 못하고 벽에 그대로 부딪혔습니다. 직선 가속은 풀렸지만 제동과 방향 전환은 아직 과제로 남아있습니다.
 
-직접 프롬프트를 하나씩 조정하기보다, 만들고 싶은 결과를 설명하면 AI가 제작 과정을 이어서 처리하는 쪽에 가깝습니다.</description><pubDate>Sat, 22 Aug 2026 23:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXGNcVERrb</guid></item><item><title>주소 :
-https://design.minimax.io/</title><link>https://www.threads.net/@choi.openai/post/DcXGOf2EYrw</link><description>주소 :
-https://design.minimax.io/</description><pubDate>Sat, 22 Aug 2026 23:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXGOf2EYrw</guid></item><item><title>AI로 숙제를 하면 숙제 점수는 18% 오르고, 시험 점수는 20% 떨어집니다.
+올해 대회에는 666팀, 2,056대가 참가했고 팀 수는 1년 새 138% 늘었습니다. 지난 4월에는 로봇 하프마라톤, 최근에는 로봇 격투대회까지 열리고 있는데요.
 
-중국 중고등학생 2만 6,800명을 30개월간 추적한 CEPR...</title><link>https://www.threads.net/@choi.openai/post/DcW78hOgPxv</link><description>AI로 숙제를 하면 숙제 점수는 18% 오르고, 시험 점수는 20% 떨어집니다.
+중국은 로봇을 만드는 데서 그치지 않고, 로봇이 경쟁하고 기록을 깨는 무대까지 빠르게 만들고 있습니다. 무섭게 치고 올라오는 기술보다 생태계가 커지는 속도가 더 무서운 것 같습니다.</description><pubDate>Sun, 23 Aug 2026 05:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXvZfhDM0t</guid></item><item><title>스마트폰 영상 한 편으로 움직이는 사람을 통째로 4D 복원하는 프레임워크가 오픈소스로 풀렸습니다.
 
-중국 중고등학생 2만 6,800명을 30개월간 추적한 CEPR 연구입니다.
-생성형 AI 확산 뒤 두바오·딥시크를 쓴 학생들은 숙제를 더 빨리 끝내고 점수도 높게 받았지만, 고입 시험 점수는 최대 24% 낮아졌습니다.
+앤트리서치(Ant Research)가 SIG...</title><link>https://www.threads.net/@choi.openai/post/DcXlDWYABtC</link><description>스마트폰 영상 한 편으로 움직이는 사람을 통째로 4D 복원하는 프레임워크가 오픈소스로 풀렸습니다.
 
-연구진이 짚은 원인은 ‘숙제 외주화’입니다. AI 사용 학생의 80%가 과제를 유난히 빨리 끝냈지만, 혼자 풀어야 하는 시험에서는 성과가 무너졌습니다.
+앤트리서치(Ant Research)가 SIGGRAPH Asia 2026에서 발표한 4DAnyone인데요. 멀티카메라나 캘리브레이션 없이 일반 단안 영상 하나만 넣으면 여러 시점의 영상을 생성한 뒤, 4D 가우시안 스플래팅으로 재구성합니다.
 
-다만 AI를 써도 숙제 시간이 줄지 않은 학생은 학습 손실이 훨씬 적었습니다. 결국 도구를 썼느냐보다 생각하는 과정을 건너뛰었느냐가 성적을 갈랐습니다.
+기존 영상 디퓨전은 시점이 많아지면 그룹을 나눠 처리하면서 그룹 사이 구조가 어긋나는 문제가 있었습니다. 4DAnyone은 참조 뷰를 고정 길이로 압축하는 RCP와, 디노이징마다 그룹 구성을 바꾸는 TCR로 이를 해결했습니다.
 
-며칠 전 다룬 브라운대 성적 분포와 정확히 같은 그림입니다. 숙제를 잘하는 것과 진짜 배우는 것이 다른 지표가 된 만큼, 평가가 대면 필기시험으로 돌아가는 흐름은 더 빨라질 것 같습니다.</description><pubDate>Sat, 22 Aug 2026 22:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcW78hOgPxv</guid></item><item><title>엔비디아가 가정집에 GPU를 설치해줍니다.
+이미지 한 장에서 정적 3D를 만드는 단계를 지나, 이제 일반 영상에서 시간축까지 담은 4D 인체로 넘어가고 있습니다.
 
-엔비디아가 배전반 업체 Span, 건설사 풀티그룹과 지난 5월 발표한 XFRA인데, 에어컨 실외기만...</title><link>https://www.threads.net/@choi.openai/post/DcWxkh5jZUX</link><description>엔비디아가 가정집에 GPU를 설치해줍니다.
-
-엔비디아가 배전반 업체 Span, 건설사 풀티그룹과 지난 5월 발표한 XFRA인데, 에어컨 실외기만 한 수랭식 박스에 블랙웰 GPU 16장과 서버 CPU 4개, 램 3TB를 넣어 신축 주택 외벽에 답니다.
-
-집주인은 하드웨어 값을 한 푼도 내지 않고 전기·인터넷 요금 지원을 받으며, 집의 전력 여유분으로 GPU가 돌아갑니다.
-
-대형 데이터센터가 MW당 1,500만 달러에 3~5년 걸리는 동안, 이 방식은 300만 달러에 6개월이면 됩니다. 전력망 신규 인입도, 인허가 싸움도 없습니다.
-
-미국인 75%가 집 근처 데이터센터에 반대하는 상황에서 대형 시설이 주민 반대에 막힐수록 이렇게 집집마다 쪼개 붙이는 우회 모델은 더 주목받을 수밖에 없어 보입니다.
-
-올 3분기 네바다·애리조나 신축 100채로 시작해 2027년부터 연 1GW가 목표입니다.</description><pubDate>Sat, 22 Aug 2026 20:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcWxkh5jZUX</guid></item></channel></rss>
+스튜디오 없이 촬영 영상 하나로 디지털 휴먼을 만드는 시대가 가까워지면서 VFX, 게임, 커머스 제작 방식도 크게 달라질 것 같습니다.</description><pubDate>Sun, 23 Aug 2026 04:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXlDWYABtC</guid></item><item><title>프로젝트 주소 :
+https://4danyone.github.io/</title><link>https://www.threads.net/@choi.openai/post/DcXlETrgH4f</link><description>프로젝트 주소 :
+https://4danyone.github.io/</description><pubDate>Sun, 23 Aug 2026 04:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXlETrgH4f</guid></item></channel></rss>
