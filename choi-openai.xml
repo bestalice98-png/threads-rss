@@ -1,40 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 23 Aug 2026 08:28:17 +0000</lastBuildDate><item><title>대박.. 535B 모델이 학습되는 과정을 실시간으로 지켜볼 수 있게 됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 23 Aug 2026 15:10:44 +0000</lastBuildDate><item><title>샘 알트만이 오픈AI의 미래를 직접 이야기했습니다.
 
-스탠퍼드 퍼시 량 교수팀의 Marin 535B-A23B가 이번 ...</title><link>https://www.threads.net/@choi.openai/post/DcX5soCD3f4</link><description>대박.. 535B 모델이 학습되는 과정을 실시간으로 지켜볼 수 있게 됐습니다.
+Codex에 밀려 Sora와 Atlas를 접은 이유부터, AI가 만들 창업 붐, 과학적 발...</title><link>https://www.threads.net/@choi.openai/post/DcYuIwKjw8k</link><description>샘 알트만이 오픈AI의 미래를 직접 이야기했습니다.
 
-스탠퍼드 퍼시 량 교수팀의 Marin 535B-A23B가 이번 주 학습을 시작했습니다.
-총 535B, 활성 23B의 MoE 모델로 11대의 GB200 NVL72에서 18.75조 토큰을 약 3개월간 학습합니다. 사전학습 80%, 미드트레이닝 20%로 구성되며 총 연산량은 2.7e24 FLOPs입니다.
+Codex에 밀려 Sora와 Atlas를 접은 이유부터, AI가 만들 창업 붐, 과학적 발견, 일자리와 안전 문제까지 꽤 구체적으로 밝혔는데요.
 
-데이터 구성과 설정, 실험 기록은 물론 지금 진행 중인 loss 곡선까지 W&amp;B에서 볼 수 있는데요.
-본 학습에 앞서 1.6B부터 27.7B까지 서로 다른 크기의 모델 4개를 먼저 학습해 문제를 점검하고, 535B 모델의 loss 변화까지 미리 예측해뒀습니다.
+특히 중요한 발언 11가지를 정리했습니다🧵</description><pubDate>Sun, 23 Aug 2026 14:38:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYuIwKjw8k</guid></item><item><title>1/ 오픈AI CEO 샘 알트만(Sam Altman)은 “2026년에 모든 비즈니스가 재편될 것이라는 전망은 조금 과하다”며 경제적 관성과 사회...</title><link>https://www.threads.net/@choi.openai/post/DcYmsO5DISg</link><description>1/ 오픈AI CEO 샘 알트만(Sam Altman)은 “2026년에 모든 비즈니스가 재편될 것이라는 전망은 조금 과하다”며 경제적 관성과 사회 적응 속도를 짚었습니다.
 
-프런티어 랩 안에서만 볼 수 있던 대규모 모델 학습의 실제 과정이 실시간으로 공개되고 있으니 관심이 있다면 살펴보는 것도 좋을 것 같습니다.</description><pubDate>Sun, 23 Aug 2026 07:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcX5soCD3f4</guid></item><item><title>데이터 구성 :
-https://storage.googleapis.com/marin-public/held/harrier-k40-cluster-ov...</title><link>https://www.threads.net/@choi.openai/post/DcX5ttlj_Ec</link><description>데이터 구성 :
-https://storage.googleapis.com/marin-public/held/harrier-k40-cluster-overview/2026.08.18/index.html?revision=uniform-sampling
-wandb :
-https://wandb.ai/marin-community/marin_moe/reports/535B-A23B-18T-Token-Hero-Run-Scaling-Ladder--VmlldzoxNzc2MDM5Ng
-깃허브 :
-https://github.com/marin-community/marin/issues/8435</description><pubDate>Sun, 23 Aug 2026 07:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcX5ttlj_Ec</guid></item><item><title>🚨 속보) 코덱스 리셋예정</title><link>https://www.threads.net/@choi.openai/post/DcX0RnXj4N1</link><description>🚨 속보) 코덱스 리셋예정</description><pubDate>Sun, 23 Aug 2026 06:13:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcX0RnXj4N1</guid></item><item><title>작년 21.50초였던 기록이 1년 만에 9.39초가 됐습니다.
+비록 수많은 소프트웨어 비즈니스가 AI로 인해 뒤흔들리겠지만, 경제 전반에는 생각보다 거대한 관성이 존재한다고 설명했습니다. 기술의 발전 속도가 아무리 빨라도 인간의 오랜 소비 습관과 행동 양식이 바뀌는 데는 시간이 걸리기 때문입니다.
 
-베이징에서 열린 2회 세계 휴머노이드 로봇 대회 개막 경기에서 로봇이 100m를...</title><link>https://www.threads.net/@choi.openai/post/DcXvZfhDM0t</link><description>작년 21.50초였던 기록이 1년 만에 9.39초가 됐습니다.
+넷플릭스가 등장했음에도 오랫동안 블록버스터 매장을 찾던 사람들처럼, “사회와 경제는 기술자들의 예상보다 훨씬 천천히 적응할 것”이라고 덧붙였습니다.
 
-베이징에서 열린 2회 세계 휴머노이드 로봇 대회 개막 경기에서 로봇이 100m를 9.39초에 주파했습니다. 2009년 우사인 볼트가 세운 9.58초보다 빠른 기록이고, 올해는 원격 조종 없이 자율 주행으로 치러졌습니다.
+하지만 이러한 완만한 전환기가 사회적 충격을 줄여주는 긍정적인 쿠션이 될 것이라며, “AI는 인류가 발명한 가장 놀라운 기술”인 만큼 장기적인 거대한 전환은 필연적이라고 강조했습니다.</description><pubDate>Sun, 23 Aug 2026 14:38:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYmsO5DISg</guid></item><item><title>2/ 샘 알트만(Sam Altman)은 현재 자신의 가장 큰 집중 영역은 “연구와 컴퓨팅(Research and Compute)”이라고 밝혔습니...</title><link>https://www.threads.net/@choi.openai/post/DcYmsy7DN2l</link><description>2/ 샘 알트만(Sam Altman)은 현재 자신의 가장 큰 집중 영역은 “연구와 컴퓨팅(Research and Compute)”이라고 밝혔습니다.
 
-다만 결승선을 지난 로봇은 감속하지 못하고 벽에 그대로 부딪혔습니다. 직선 가속은 풀렸지만 제동과 방향 전환은 아직 과제로 남아있습니다.
+그는 가장 핵심적인 과제로 “스마트한 모델을 개발하고, 이를 수많은 사람들을 위해 효율적이고 풍부하게 구동하는 것”을 꼽았습니다. 모델과 컴퓨팅 스케일링이 지수적 성장을 지속시킬 핵심 고난도 과제라는 설명입니다.
 
-올해 대회에는 666팀, 2,056대가 참가했고 팀 수는 1년 새 138% 늘었습니다. 지난 4월에는 로봇 하프마라톤, 최근에는 로봇 격투대회까지 열리고 있는데요.
+또한 전례 없는 규모의 컴퓨팅 인프라 구축은 “인류 역사상 가장 비싼 인프라 프로젝트”가 될 수 있으며, 자체 칩 설계부터 공급망, 랙 제조, 대규모 전력망 및 에너지 조달까지 기술·경제·물류 전반의 도전 과제를 동반한다고 덧붙였습니다.</description><pubDate>Sun, 23 Aug 2026 14:38:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYmsy7DN2l</guid></item><item><title>3/ 샘 알트만은 AI가 인간의 능력을 넘어서는 초지능 시대가 오더라도, 사회의 본질적인 구조는 크게 변하지 않을 것이라고 전망했습니다.
 
-중국은 로봇을 만드는 데서 그치지 않고, 로봇이 경쟁하고 기록을 깨는 무대까지 빠르게 만들고 있습니다. 무섭게 치고 올라오는 기술보다 생태계가 커지는 속도가 더 무서운 것 같습니다.</description><pubDate>Sun, 23 Aug 2026 05:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXvZfhDM0t</guid></item><item><title>스마트폰 영상 한 편으로 움직이는 사람을 통째로 4D 복원하는 프레임워크가 오픈소스로 풀렸습니다.
+그는...</title><link>https://www.threads.net/@choi.openai/post/DcYmuw-o8yI</link><description>3/ 샘 알트만은 AI가 인간의 능력을 넘어서는 초지능 시대가 오더라도, 사회의 본질적인 구조는 크게 변하지 않을 것이라고 전망했습니다.
 
-앤트리서치(Ant Research)가 SIG...</title><link>https://www.threads.net/@choi.openai/post/DcXlDWYABtC</link><description>스마트폰 영상 한 편으로 움직이는 사람을 통째로 4D 복원하는 프레임워크가 오픈소스로 풀렸습니다.
+그는 수많은 일자리가 중대한 전환기를 맞이하겠지만, “사람 간의 연결과 관계를 다루는 일들은 포스트 AI 시대에 가치가 떨어지기는커녕 오히려 더 가치 있어질 것”이라고 강조했습니다.
 
-앤트리서치(Ant Research)가 SIGGRAPH Asia 2026에서 발표한 4DAnyone인데요. 멀티카메라나 캘리브레이션 없이 일반 단안 영상 하나만 넣으면 여러 시점의 영상을 생성한 뒤, 4D 가우시안 스플래팅으로 재구성합니다.
+인간은 본능적으로 다른 사람과 교류하고 소통하도록 설계되어 있기 때문에, AI 기술이 고도화될수록 인간 고유의 상호작용과 유대감이 지닌 희소성과 가치는 더욱 커질 것이라는 설명입니다.</description><pubDate>Sun, 23 Aug 2026 14:38:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYmuw-o8yI</guid></item><item><title>정말 중요한 AI 소식 50개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/DcYfp8PD1MG</link><description>정말 중요한 AI 소식 50개를 정리했습니다 🧵</description><pubDate>Sun, 23 Aug 2026 12:32:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYfp8PD1MG</guid></item><item><title>1/ 구글이 대학생에게 Gemini 유료 요금제를 1년간 무료로 제공합니다.
 
-기존 영상 디퓨전은 시점이 많아지면 그룹을 나눠 처리하면서 그룹 사이 구조가 어긋나는 문제가 있었습니다. 4DAnyone은 참조 뷰를 고정 길이로 압축하는 RCP와, 디노이징마다 그룹 구성을 바꾸는 TCR로 이를 해결했습니다.
+만 18세 이상 대학생은 Google AI Plus를 12개월 무...</title><link>https://www.threads.net/@choi.openai/post/DcYfqQ4j4vt</link><description>1/ 구글이 대학생에게 Gemini 유료 요금제를 1년간 무료로 제공합니다.
 
-이미지 한 장에서 정적 3D를 만드는 단계를 지나, 이제 일반 영상에서 시간축까지 담은 4D 인체로 넘어가고 있습니다.
+만 18세 이상 대학생은 Google AI Plus를 12개월 무료로 쓸 수 있습니다.
 
-스튜디오 없이 촬영 영상 하나로 디지털 휴먼을 만드는 시대가 가까워지면서 VFX, 게임, 커머스 제작 방식도 크게 달라질 것 같습니다.</description><pubDate>Sun, 23 Aug 2026 04:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXlDWYABtC</guid></item><item><title>프로젝트 주소 :
-https://4danyone.github.io/</title><link>https://www.threads.net/@choi.openai/post/DcXlETrgH4f</link><description>프로젝트 주소 :
-https://4danyone.github.io/</description><pubDate>Sun, 23 Aug 2026 04:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcXlETrgH4f</guid></item></channel></rss>
+400GB 저장공간과 더 높은 Gemini 사용량, Gemini Omni 영상 생성, 수업자료 업로드와 학습 노트·퀴즈·대화형 시각화가 포함됩니다. 지난해 학생 체험이 끝난 이용자도 다시 신청할 수 있습니다.
+
+신청 기한은 2026년 12월 31일까지 이니 꼭 참여하시길 바랍니다.</description><pubDate>Sun, 23 Aug 2026 12:32:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYfqQ4j4vt</guid></item><item><title>2/ 오픈AI가 프런티어 모델의 강화학습을 멈췄습니다.
+
+배포 예정 모델의 강화학습은 2주 멈췄고, 가장 큰 규모의 프런티어 강화학습은 아직 보...</title><link>https://www.threads.net/@choi.openai/post/DcYfqvBj_un</link><description>2/ 오픈AI가 프런티어 모델의 강화학습을 멈췄습니다.
+
+배포 예정 모델의 강화학습은 2주 멈췄고, 가장 큰 규모의 프런티어 강화학습은 아직 보류입니다. Astra가 치명적 사이버 능력에 닿았을 가능성을 확인한 뒤 내린 결정입니다.
+
+대신 학습 중 만들어지는 모든 토큰을 감시해 30분 안에 경보를 냅니다.
+비용이 약 20% 늘어도 모델 완성 뒤가 아니라 훈련 도중 위험을 잡겠다는 쪽으로 안전 절차가 바뀌었습니다.</description><pubDate>Sun, 23 Aug 2026 12:32:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYfqvBj_un</guid></item><item><title>3/ 무검열 Qwen3.8-27B가 등장했습니다.
+
+공개 나흘 만에 재학습 없이 가중치만 손봐 거부 응답을 걷어낸 버전이 나왔는데요.
+배포자 측...</title><link>https://www.threads.net/@choi.openai/post/DcYfrQ2D1so</link><description>3/ 무검열 Qwen3.8-27B가 등장했습니다.
+
+공개 나흘 만에 재학습 없이 가중치만 손봐 거부 응답을 걷어낸 버전이 나왔는데요.
+배포자 측 평가에서는 AdvBench 거부율이 99%에서 0%로 떨어졌고, 한 저장소의 다운로드는 110만 건을 넘겼습니다.
+
+16GB 맥용 2비트판까지 나왔지만 제작자도 품질이 크게 무너진다고 경고합니다. 답변의 상당 부분이 공개 자료를 재조합한 수준이라는 반론도 함께 나와 있습니다.</description><pubDate>Sun, 23 Aug 2026 12:32:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYfrQ2D1so</guid></item><item><title>무검열 Qwen3.8-27B가 등장했습니다.
+
+Qwen3.8-27B가 공개 나흘 만에 안전장치를 제거한 버전이 나왔습니다.
+
+재학습 없이 가중치...</title><link>https://www.threads.net/@choi.openai/post/DcYYoNdjtBk</link><description>무검열 Qwen3.8-27B가 등장했습니다.
+
+Qwen3.8-27B가 공개 나흘 만에 안전장치를 제거한 버전이 나왔습니다.
+
+재학습 없이 가중치만 손봐 거부 응답을 걷어내는 방식으로, 배포자들은 AdvBench 거부율이 99%에서 0%로 떨어졌다고 밝혔습니다.
+애플 실리콘용 2~8비트 빌드와 GGUF가 함께 풀려 16GB 맥에서도 돌아가고, 한 저장소는 다운로드 110만 건을 넘겼습니다.
+
+특히, 한 개발자가 마약 제조를 묻자 바로 답했다는 게시물이 퍼지며 논쟁이 커졌었는데요. 다만 답변 상당수가 공개 자료를 재조합한 수준이라는 반론과, 능력 손실이 아예 없지는 않다는 측정치도 함께 나와 있습니다.
+
+가중치가 풀린 뒤 며칠 만에 안전장치를 제거하는 사례가 늘어나고 있어 공개 이후 모델을 어떻게 다룰지에 대한 논의가 더 중요해질 것으로 보입니다.</description><pubDate>Sun, 23 Aug 2026 11:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYYoNdjtBk</guid></item><item><title>Figure의 브렛 애드콕이 새로운 Figure 03 영상을 공개했습니다.
+
+원격 조종이나 미리 짜둔 동작 없이 오르내리는 전 과정을 자율로 처...</title><link>https://www.threads.net/@choi.openai/post/DcYOUv5j_vH</link><description>Figure의 브렛 애드콕이 새로운 Figure 03 영상을 공개했습니다.
+
+원격 조종이나 미리 짜둔 동작 없이 오르내리는 전 과정을 자율로 처리했다고 밝혔습니다. 이달 초 짧은 사다리를 오른 데 이어 이번에는 4.6m를 왕복했습니다.
+
+사다리는 손과 발의 접촉점이 계속 바뀌는 동안 무게중심을 다시 잡아야 하는 걷기와 잡기가 동시에 걸리는 어려운 작업인데, 정말 놀라운 발전 속도 같습니다.</description><pubDate>Sun, 23 Aug 2026 10:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYOUv5j_vH</guid></item><item><title>로봇 시점 :</title><link>https://www.threads.net/@choi.openai/post/DcYOV_bj0Br</link><description>로봇 시점 :</description><pubDate>Sun, 23 Aug 2026 10:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcYOV_bj0Br</guid></item></channel></rss>
