@@ -1,43 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 24 Aug 2026 01:14:42 +0000</lastBuildDate><item><title>중국에서 물에 빠진 사람에게 스스로 날아가는 ‘AI 구명튜브’가 화제입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 24 Aug 2026 08:46:15 +0000</lastBuildDate><item><title>80년 가까이 열려 있던 기하학 문제에 답이 제출됐습니다.
 
-평소에는 드론처럼 날다가 익수자를 감지하면 자동으로 접근해 물 위...</title><link>https://www.threads.net/@choi.openai/post/DcZ1TzdiLtN</link><description>중국에서 물에 빠진 사람에게 스스로 날아가는 ‘AI 구명튜브’가 화제입니다.
+앤트로픽 수학자가 Claude와 함께 6차원 구면의 복소 구조를 만들었다고 발표했는...</title><link>https://www.threads.net/@choi.openai/post/Dcao-Fdj4SU</link><description>80년 가까이 열려 있던 기하학 문제에 답이 제출됐습니다.
 
-평소에는 드론처럼 날다가 익수자를 감지하면 자동으로 접근해 물 위에 착수합니다. 이후 구명튜브 역할을 해 최대 80kg 성인 2명이 물에 떠 있을 수 있도록 버텨주고, 구조가 끝나면 스스로 복귀합니다.
+앤트로픽 수학자가 Claude와 함께 6차원 구면의 복소 구조를 만들었다고 발표했는데요.
 
-비행 속도는 초속 10~14m, 최대 운용 거리는 약 2km로 알려졌는데요. 사람이 헤엄치거나 보트를 타고 접근하는 것보다 훨씬 빠르게 초기 구조 장비를 보낼 수 있는 셈입니다.
+검증 전이지만, 맞다면 출판된 논문 하나가 틀렸다는 뜻이기도 합니다 🧵</description><pubDate>Mon, 24 Aug 2026 08:31:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcao-Fdj4SU</guid></item><item><title>1/ 앤트로픽의 수학자 레벤트 알포게(Levent Alpöge)가 8월 24일 새로운 수학 결과를 공개했습니다.
 
-AI와 드론이라고 하면 배송이나 전쟁부터 떠올리기 쉽지만, 오히려 이런 단순하고 명확한 활용처가 기술의 가치를 가장 잘 보여주는 것 같습니다.</description><pubDate>Mon, 24 Aug 2026 01:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcZ1TzdiLtN</guid></item><item><title>리누스 토발즈가 AI의 도움으로 리눅스 커널 GPU 버그를 잡았습니다.
+질문은 ‘6차원 구면 S⁶는 ...</title><link>https://www.threads.net/@choi.openai/post/Dcao-4cj3AC</link><description>1/ 앤트로픽의 수학자 레벤트 알포게(Levent Alpöge)가 8월 24일 새로운 수학 결과를 공개했습니다.
 
-인텔 Xe 드라이버에서 배틀메이지 G21의 CCS 압축 메타데이터 영역...</title><link>https://www.threads.net/@choi.openai/post/DcZrABgiT7_</link><description>리누스 토발즈가 AI의 도움으로 리눅스 커널 GPU 버그를 잡았습니다.
+질문은 ‘6차원 구면 S⁶는 복소 구조를 가질 수 있는가’.
+알포게의 답은 ‘그렇다’입니다. 증명은 100쪽이 넘는 PDF로 함께 공개됐고, 게시물은 반나절 만에 46만 조회수를 넘겼습니다.
 
-인텔 Xe 드라이버에서 배틀메이지 G21의 CCS 압축 메타데이터 영역이 사용 가능한 VRAM으로 잘못 노출되는 버그였습니다.
-페이지 테이블이 깨지면서 화면이 나오지 않고 디스플레이 매니저가 무한 재시작되는 증상이었는데, 최종 수정은 round_up()을 round_down()으로 바꾸는 한 줄이었습니다.
+증명 전체는 100쪽이 넘는 PDF로 함께 공개됐습니다. 구성은 Claude와 함께 찾았고, 세부 기술은 Opus 5에게 맡겨 끝까지 전개하게 했다고 설명했습니다.
 
-그 한 줄을 찾기까지 24개의 디버깅 패치와 18번의 커널 부팅이 필요했습니다.
-AI가 디버그 코드 삽입과 결과 분석을 반복하는 단순 노동을 맡았는데, 중간에 여러 차례 이 문제는 불가능하니 보고서나 쓰자고 포기를 제안했다고 합니다.
-토발즈는 커밋 메시지에 "나만큼 고집스러운 사람한테 학습된 게 아닌 것 같다"고 남겼습니다.
+알포게는 지난 7월 Claude가 찾은 야코비안 추측의 반례를 공개했던 수학자입니다. 한 달 사이 두 번째 대형 주장인 셈인데요.
 
-올 1월 개인 프로젝트에서 AI 코드가 자기가 짠 것보다 낫다고 인정한 데 이어, 이번에는 커널 수준 디버깅까지 AI와 함께 진행한 겁니다.</description><pubDate>Sun, 23 Aug 2026 23:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcZrABgiT7_</guid></item><item><title>커밋 :
-https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace5...</title><link>https://www.threads.net/@choi.openai/post/DcZrA79CUmr</link><description>커밋 :
-https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c</description><pubDate>Sun, 23 Aug 2026 23:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcZrA79CUmr</guid></item><item><title>MiniMax H3의 영상 인페인팅 기능을 허깅페이스에서 바로 사용할 수 있게 됐습니다.
+다만 이번 문제는 성격이 다릅니다. 야코비안 반례는 계산으로 비교적 빠르게 확인할 수 있었지만, 이번 결과는 기존에 출판된 정리와 정면으로 충돌합니다.
 
-영상에서 바꾸고 싶은 대상을 클릭하거나 문장으로 지정...</title><link>https://www.threads.net/@choi.openai/post/DcZgt3piiLG</link><description>MiniMax H3의 영상 인페인팅 기능을 허깅페이스에서 바로 사용할 수 있게 됐습니다.
+그래서 결과 자체만큼이나 앞으로의 검증 과정이 하나의 사건이 될 가능성이 큽니다.</description><pubDate>Mon, 24 Aug 2026 08:32:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcao-4cj3AC</guid></item><item><title>2/ 어떤 문제인지부터 풀어보면 이렇습니다.
 
-영상에서 바꾸고 싶은 대상을 클릭하거나 문장으로 지정하면 자동으로 영역을 잡아 교체할 수 있는데요. 참고 이미지나 영상을 추가해 움직임까지 조절할 수 있고, 기존 오디오도 유지할 수 있습니다.
+구면 가운데 복소 좌표를 입힐 가능성이 있는 것은 2차원과 6차원뿐입니다. 2차원 구면은 ‘리만 ...</title><link>https://www.threads.net/@choi.openai/post/Dcao_aej_GU</link><description>2/ 어떤 문제인지부터 풀어보면 이렇습니다.
 
-영상 전체를 다시 만들지 않고 필요한 부분만 수정할 때 유용합니다.</description><pubDate>Sun, 23 Aug 2026 22:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcZgt3piiLG</guid></item><item><title>허깅페이스 :
-https://huggingface.co/spaces/linoyts/minimax-h3-inpainting</title><link>https://www.threads.net/@choi.openai/post/DcZgv0oCpau</link><description>허깅페이스 :
-https://huggingface.co/spaces/linoyts/minimax-h3-inpainting</description><pubDate>Sun, 23 Aug 2026 22:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcZgv0oCpau</guid></item><item><title>익명 모델 Ox Alpha의 정체가 Zhipu의 GLM 5.3 Flash로 좁혀지고 있습니다.
+구면 가운데 복소 좌표를 입힐 가능성이 있는 것은 2차원과 6차원뿐입니다. 2차원 구면은 ‘리만 구면’이라 불리며 자연스럽게 복소 구조를 갖습니다.
 
-OpenCode에서 Z.ai 계열과 같은 오류가...</title><link>https://www.threads.net/@choi.openai/post/DcZWY2dAIRN</link><description>익명 모델 Ox Alpha의 정체가 Zhipu의 GLM 5.3 Flash로 좁혀지고 있습니다.
+6차원 구면도 그 전 단계인 ‘거의 복소 구조’까지는 가능하다고 알려져 있는데요. 이것을 완전한 복소 구조로 만들 수 있는지는 1940년대 후반부터 풀리지 않았습니다. 홉(Hopf)의 이름이 붙은 채 80년 가까이 남아 있던 문제입니다.
 
-OpenCode에서 Z.ai 계열과 같은 오류가 발생했고, 토크나이저 30개 항목이 모두 일치했습니다. Zhipu 내부 API 클래스명이 담긴 자바 스택 트레이스까지 발견됐습니다.
+이 문제가 주목받는 이유중 하나는 역사 때문인데요. ‘있다’와 ‘없다’를 주장하는 증명들이 여러 차례 등장했지만, 검증 과정에서 미묘한 오류가 발견되며 무너졌습니다. 야코비안 추측처럼 그럴듯한 오답을 끊임없이 만들어내는 문제로 악명이 높습니다.</description><pubDate>Mon, 24 Aug 2026 08:32:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcao_aej_GU</guid></item><item><title>3/ 저자 설명으로 구성을 요약하면 이렇습니다.
 
-성능도 DeepSWE 80%에서 113문제 전체 문제로 완주한 결과 58.4%로 Opus 4.8과 비슷했고, DeepSWE 연구자가 더 큰 표본으로 측정한 결과는 63%으로 나오고 있습니다.
+(3,4,∞) 삼각군을 상반평면에 작용시키고, 그 몫으로 나온 곡선 위에 복소 2차원 토러스들...</title><link>https://www.threads.net/@choi.openai/post/Dcao_1Fj4MO</link><description>3/ 저자 설명으로 구성을 요약하면 이렇습니다.
 
-중요한건 결국, 하루 100조 토큰 용량을 일주일간 무료로 풀고, 1M 컨텍스트에 이미지와 영상 입력까지 지원한다는 점 같은데요. DGX Spark 두 대면 로컬에서 돌릴 수 있다는 추정도 이어지고 있습니다.
+(3,4,∞) 삼각군을 상반평면에 작용시키고, 그 몫으로 나온 곡선 위에 복소 2차원 토러스들의 족을 랭크 4 정수 격자로 세운 뒤, 이 족을 컴팩트화해 닫힌 6차원 복소 다양체를 만듭니다.
 
-중국 모델의 경쟁이 성능을 따라잡는 데서 가격과 공급량으로 시장을 압박하는 단계로 넘어가고 있습니다.
+이제 남은 건 이 공간이 정말 S⁶인지 확인하는 일입니다. 기본군이 사라지고 호몰로지가 구면과 같다는 것을 보이면 되는데요. 6차원에는 이색적 구면이 없기 때문에 여기까지 확인되면 매끄러운 구조까지 S⁶와 같다는 결론이 나옵니다.
 
-폐쇄형 모델이 높은 가격을 유지하기는 점점 어려워지고 있습니다.</description><pubDate>Sun, 23 Aug 2026 20:30:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcZWY2dAIRN</guid></item></channel></rss>
+저자가 강조하는 부분은 이 마지막 확인을 몇 개의 행렬을 이용한 유한 계산으로 검증할 수 있다는 점입니다. 100쪽이 넘는 증명 앞부분에 전문가나 AI가 빠르게 재현할 수 있는 짧은 검증 요약도 붙였습니다.</description><pubDate>Mon, 24 Aug 2026 08:32:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcao_1Fj4MO</guid></item><item><title>AI 연구에서 사람과의 차이는 이제 실행보다 아이디어 쪽에 더 가까워지고 있습니다.
+
+Prime Intellect가 프런티어 모델 18종을 인터...</title><link>https://www.threads.net/@choi.openai/post/Dcaehvyj_84</link><description>AI 연구에서 사람과의 차이는 이제 실행보다 아이디어 쪽에 더 가까워지고 있습니다.
+
+Prime Intellect가 프런티어 모델 18종을 인터넷 없이 8×H200에 최대 8일씩 붙여 153회 돌린 결과를 공개했습니다.
+과제는 1억 2,400만 파라미터 GPT를 목표 손실까지 학습시키는 스텝을 줄이는 것이었습니다. 베이스라인은 3,290스텝, 인간 최고 기록은 2,600스텝입니다.
+
+1위 Fable 5는 811번의 실험 끝에 2,726스텝까지 줄이며 격차의 81.7%를 메웠습니다. Opus 5는 53.6%, Kimi K3는 52.2%, GPT-5.6 Sol은 35.9%였습니다.
+
+주목할 부분은 모델들이 낸 아이디어 자체는 인간과 크게 다르지 않았다는 점입니다. 상위 모델은 여러 시드로 결과를 재검증하고, 조건이 바뀌면 이전에 버린 가설도 다시 꺼냈습니다.
+
+실행 능력은 이미 인간 기록에 상당히 근접했습니다. 아직 큰 차이가 남아 있는 건 새로운 방법을 찾아내는 능력입니다.</description><pubDate>Mon, 24 Aug 2026 07:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcaehvyj_84</guid></item><item><title>블로그 :
+https://www.primeintellect.ai/research/nanogpt-speedrun</title><link>https://www.threads.net/@choi.openai/post/DcaejYwD4bs</link><description>블로그 :
+https://www.primeintellect.ai/research/nanogpt-speedrun</description><pubDate>Mon, 24 Aug 2026 07:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcaejYwD4bs</guid></item><item><title>와.. 진짜 얼마 안남았다..</title><link>https://www.threads.net/@choi.openai/post/DcaUJyTj5XK</link><description>와.. 진짜 얼마 안남았다..</description><pubDate>Mon, 24 Aug 2026 05:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcaUJyTj5XK</guid></item><item><title>법률 108배, 영업 41배, 채용 41배.
+
+올해 2월 이후 Codex 사용이 가장 빠르게 늘어난 직군입니다. 개발자가 아닙니다.
+AI를 가장...</title><link>https://www.threads.net/@choi.openai/post/DcaJ2nOD0u0</link><description>법률 108배, 영업 41배, 채용 41배.
+
+올해 2월 이후 Codex 사용이 가장 빠르게 늘어난 직군입니다. 개발자가 아닙니다.
+AI를 가장 깊게 쓰는 사람들이 테크 밖에서 나오기 시작한 지금,
+
+a16z 주간 차트로 자본과 노동, 토큰의 이동을 정리했습니다 🧵</description><pubDate>Mon, 24 Aug 2026 04:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcaJ2nOD0u0</guid></item><item><title>1/ a16z가 8월 21일 주간 차트 모음 'Winds of Thematic Change'를 공개했습니다. 
+차트들을 이어 보면 자본과 노동,...</title><link>https://www.threads.net/@choi.openai/post/DcaJ3F2jw0m</link><description>1/ a16z가 8월 21일 주간 차트 모음 'Winds of Thematic Change'를 공개했습니다. 
+차트들을 이어 보면 자본과 노동, 토큰이 같은 방향으로 움직이고 있다는 그림이 나옵니다.
+
+출발점은 자본입니다. 시타델 집계로 ETF 순유입은 올해 역대 가장 빠른 속도이고, 7월 한 달 유입은 사상 최대였습니다. 눈여겨볼 것은 규모보다 테마의 교체입니다.
+2020년 테마 ETF 상위권은 클린에너지, 신흥국 테크, 헬스케어였는데 2026년에는 AI, 원자력, 우주, 방산, 인프라가 그 자리를 전부 차지했습니다.
+
+두 시기의 차이가 있습니다. 2020년 테마는 기대가 앞서고 실적이 따라오지 못해 이후 크게 꺾였지만, 지금 상위 테마는 빅테크의 설비투자와 각국 정부의 국방·전력 지출이라는 실제 돈이 뒤에 있습니다.
+
+2020년에는 기대만 보고 돈이 들어갔다면 지금은 실제 지출을 확인하고 들어가는 셈이라, 같은 테마 열풍이어도 저는 이번이 그때와는 다르다고 봅니다.</description><pubDate>Mon, 24 Aug 2026 04:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcaJ3F2jw0m</guid></item><item><title>2/ 그 자금이 실제로 지어지는 곳이 데이터센터입니다.
+
+뉴멕시코와 와이오밍은 짓고 있는 용량이 3기가와트도 안 되지만, 원래 건설 자체가 적은...</title><link>https://www.threads.net/@choi.openai/post/DcaJ4MuD5BI</link><description>2/ 그 자금이 실제로 지어지는 곳이 데이터센터입니다.
+
+뉴멕시코와 와이오밍은 짓고 있는 용량이 3기가와트도 안 되지만, 원래 건설 자체가 적은 주라서 민간 비주거 건설 지출의 60% 안팎을 데이터센터가 차지합니다.
+
+펜실베이니아는 3기가와트 수준으로 30% 가까이 되고, 가장 많이 짓는 텍사스도 10%입니다. 웰스파고 집계로는 2024년 이후 데이터센터가 가동 중인 카운티에서 주택 공급과 집값, 실업률, 고용이 모두 좋아졌습니다.
+원래 부유한 카운티에 몰려 있는 만큼, 원문도 데이터센터 덕분이라고까지 단정하지는 않습니다.
+
+문제는 여론이 정반대로 움직인다는 것입니다. 주민들은 ETF 안의 데이터센터는 좋아해도 집 근처의 데이터센터는 싫어합니다.
+
+전기요금 전가와 토지 문제로 반감이 커질수록, 앞으로 이 투자의 변수는 기술이나 자금이 아니라 부지 확보와 지역 정치가 될 가능성이 큽니다.</description><pubDate>Mon, 24 Aug 2026 04:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcaJ4MuD5BI</guid></item><item><title>3/ 반감이 커지는 사이, 현장의 임금은 오르고 있습니다.
+
+Indeed 집계로 데이터센터 임금 프리미엄은 전기 엔지니어 10%부터 시설 관리자...</title><link>https://www.threads.net/@choi.openai/post/DcaJ5cBD8-F</link><description>3/ 반감이 커지는 사이, 현장의 임금은 오르고 있습니다.
+
+Indeed 집계로 데이터센터 임금 프리미엄은 전기 엔지니어 10%부터 시설 관리자 64%까지입니다. 댈러스 연준 보고서의 건설사 증언은 더 구체적입니다.
+
+시급 28~32달러를 주던 콘크리트 숙련공을 데이터센터가 시급 45달러에 일당 150달러까지 얹어 데려간다는 것입니다. 말 그대로 인생이 바뀌는 수준의 인상입니다.
+
+ADP 데이터도 같은 방향인데, 건설과 제조, 자원 채굴에서 이직자의 임금 상승률이 남아 있는 사람보다 6~9.5%p 높아 전 산업에서 가장 큰 격차인데요.
+
+전체 채용 시장이 미지근한 가운데 나온 숫자라 더 눈에 띕니다. AI가 사무직 채용을 눌러 두는 동안 인프라 건설은 기능직 임금을 끌어올려, 노동시장이 화이트칼라와 블루칼라로 갈라지는 중입니다.
+
+데이터센터를 막자는 선택에는 이 임금 상승을 포기하는 비용이 따라온다는 것이 원문의 결론입니다.</description><pubDate>Mon, 24 Aug 2026 04:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcaJ5cBD8-F</guid></item></channel></rss>
