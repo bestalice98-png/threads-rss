@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 25 Aug 2026 08:40:07 +0000</lastBuildDate><item><title>리처드 서튼은 현재의 거대언어모델(LLM)이 지능의 전부를 대변하지 못한다고 지적했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 25 Aug 2026 15:31:36 +0000</lastBuildDate><item><title>애플이 첫 2nm 칩 M6 맥미니와 M5 Ultra 맥스튜디오를 공개했습니다.
+
+LLM은 토큰을 생성할 때마다 모델 가중치를 메모리에서 읽기 때...</title><link>https://www.threads.net/@choi.openai/post/Dcdvn94DpX4</link><description>애플이 첫 2nm 칩 M6 맥미니와 M5 Ultra 맥스튜디오를 공개했습니다.
+
+LLM은 토큰을 생성할 때마다 모델 가중치를 메모리에서 읽기 때문에, 로컬 추론에서는 연산 성능만큼 메모리 용량과 대역폭이 중요합니다.
+
+M6 맥미니는 최대 32GB 메모리라 대형 로컬 모델보다는 24시간 켜두는 에이전트 서버에 가깝습니다. 오픈소스 에이전트 대부분이 상용 모델 API를 연결해 쓰는 만큼, 애플도 상시 가동 용도를 앞세웠습니다.
+
+반면 본격적인 로컬 AI 머신은 맥스튜디오입니다. M5 Ultra는 512GB 메모리와 1.2TB/s 대역폭을 갖췄고, 애플은 수천억 파라미터 모델도 로컬에서 돌릴 수 있다고 설명합니다.</description><pubDate>Tue, 25 Aug 2026 13:46:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcdvn94DpX4</guid></item><item><title>요즘 한 기업의 전사적인 AX를 진행하고 있는데, 나갈 때마다 정말 놀라운 결과물들이 많이 나오는 것 같습니다.
+
+MES부터 KPI 분석, ER...</title><link>https://www.threads.net/@choi.openai/post/Dcdg2B2jxlE</link><description>요즘 한 기업의 전사적인 AX를 진행하고 있는데, 나갈 때마다 정말 놀라운 결과물들이 많이 나오는 것 같습니다.
+
+MES부터 KPI 분석, ERD 시스템도 봐드리고 직무별 자동화 시스템 구축까지 함께 보고 있는데, 역시 현업에서 일하는 분들이 직접 회사 시스템에 맞춰 구축하다 보니 결과물이 정말 잘 나오더라구요.
+
+오히려 대기업보다 중소기업이 규모가 작고 대응이 빠르다 보니, 보안과 네트워킹 세팅만 잘 잡아드리면 사내에서 빠르게 확산되는 것 같습니다.
+
+결국 같은 회사 안에서 AI를 정말 잘 쓰는 한 사람, 한 부서가 생기면 그게 다른 부서로 퍼지면서 전사적인 확산을 만들어내는 것 같습니다.
+
+FDE도 이런 식으로 부서 to 부서로 확장되는 방식이 훨씬 효율적이고 확산 속도도 빠른 것 같아서, 저도 이 과정에서 많은 데이터를 쌓고 있는 것 같네요.</description><pubDate>Tue, 25 Aug 2026 11:18:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcdg2B2jxlE</guid></item><item><title>리처드 서튼은 현재의 거대언어모델(LLM)이 지능의 전부를 대변하지 못한다고 지적했습니다.
 
 그는 LLM의 언어 능력이 놀라운 과학적 돌파구인 ...</title><link>https://www.threads.net/@choi.openai/post/DcdKHGPgMwg</link><description>리처드 서튼은 현재의 거대언어모델(LLM)이 지능의 전부를 대변하지 못한다고 지적했습니다.
 
@@ -17,44 +35,4 @@ https://www.youtube.com/watch?v=xH7U7w9Qzlo</description><pubDate>Tue, 25 Aug 20
 
 서튼은 무어의 법칙에 따라 10년이면 2단계의 크기(100배) 효율 혁신이 발생한다며, 오늘날 2,000W가 필요한 연산도 10년 뒤에는 20W로 압축될 수 있다고 계산했습니다.</description><pubDate>Tue, 25 Aug 2026 06:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcc8aJIjVdh</guid></item><item><title>풀영상 :
 https://www.youtube.com/watch?v=xH7U7w9Qzlo</title><link>https://www.threads.net/@choi.openai/post/Dcc8bVrDUN5</link><description>풀영상 :
-https://www.youtube.com/watch?v=xH7U7w9Qzlo</description><pubDate>Tue, 25 Aug 2026 06:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcc8bVrDUN5</guid></item><item><title>오픈AI Codex 책임자 Tibo의 인터뷰가 공개되었는데요.
-
-앞으로 코더용·일반인용 AI의 구분은 사라지고, 지금의 초고속 AI도 1~2년 ...</title><link>https://www.threads.net/@choi.openai/post/DccvmAEDzic</link><description>오픈AI Codex 책임자 Tibo의 인터뷰가 공개되었는데요.
-
-앞으로 코더용·일반인용 AI의 구분은 사라지고, 지금의 초고속 AI도 1~2년 안에 기본에 가까워질 수 있다고 말합니다.
-
-특히 중요한 발언 10가지를 정리했습니다🧵</description><pubDate>Tue, 25 Aug 2026 04:08:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DccvmAEDzic</guid></item><item><title>1/ 오픈AI Codex 책임자 티보 소티오(Thibault Sottiaux)는 AI 기술이 집중해야 할 과제를 두 가지 축으로 제시했습니다.
-...</title><link>https://www.threads.net/@choi.openai/post/Dccu39RDATt</link><description>1/ 오픈AI Codex 책임자 티보 소티오(Thibault Sottiaux)는 AI 기술이 집중해야 할 과제를 두 가지 축으로 제시했습니다.
-
-첫 번째는 사용자를 완벽히 이해하고 능동적으로 아이디어를 제안하는 개인 맞춤형 AGI(Personal Agent)의 완성입니다. 코딩, 연구, 자문 등 모든 영역에서 개인에게 최적화된 협업 파트너를 만드는 것입니다.
-
-두 번째는 복잡한 소프트웨어 엔지니어링을 스스로 끝내는 완전 자동화(Full-on Automation)입니다.
-그는 “운영 로그를 분석해 성능을 자동 최적화하고, 보안 취약점을 찾아 스스로 패치하는 지능형 시스템”의 중요성을 강조했습니다.
-
-고위험 작업의 최종 승인을 제외하면 “인간의 개입(Human-in-the-loop)을 최소화하거나 완전히 배제한 자동화”가 가능해지며, 개발과 시스템 운영 전반의 생산성 패러다임이 완전히 바뀔 것이라고 진단했습니다.</description><pubDate>Tue, 25 Aug 2026 04:08:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dccu39RDATt</guid></item><item><title>2/ 티보 소티오는 챗GPT와 코덱스의 통합에 대해 “미래 모델의 방향성이 통합을 요구했기 때문”이라며 합병이 당연하고 필수적인 수순이었다고 밝...</title><link>https://www.threads.net/@choi.openai/post/Dccu7m9iYbZ</link><description>2/ 티보 소티오는 챗GPT와 코덱스의 통합에 대해 “미래 모델의 방향성이 통합을 요구했기 때문”이라며 합병이 당연하고 필수적인 수순이었다고 밝혔습니다.
-
-그는 개발자와 비개발자의 구분은 인간이 만들어낸 추상적 개념일 뿐이며, 중요한 것은 모든 개인의 개별성과 필요에 맞추는 것이라고 설명했습니다.
-보이스 퍼스트와 멀티모달 기반의 고효율 단일 에이전트 기술을 통해 코딩 여부와 관계없이 작업을 지원하겠다는 전략입니다.
-
-결국 복잡한 도구 선택 없이 “개인화된 단일 AGI 에이전트 인터페이스” 하나로 사용자의 복잡한 요구와 현실 도구를 연결하여, 누구나 기술적 장벽 없이 최대의 효용을 누리는 환경이 구축될 것이라고 강조했습니다.</description><pubDate>Tue, 25 Aug 2026 04:08:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dccu7m9iYbZ</guid></item><item><title>3/ 티보 소티오는 “차세대 모델은 노트북 수준 이상의 컴퓨팅 환경을 필요로 한다”고 밝혔습니다.
-
-현재의 PC와 작업 환경은 인간의 인지 및 ...</title><link>https://www.threads.net/@choi.openai/post/DccvCD8DUSQ</link><description>3/ 티보 소티오는 “차세대 모델은 노트북 수준 이상의 컴퓨팅 환경을 필요로 한다”고 밝혔습니다.
-
-현재의 PC와 작업 환경은 인간의 인지 및 처리 한계에 맞춰져 있지만, 강력해진 코딩 AI는 수많은 애플리케이션을 동시에 제어할 수 있기 때문입니다.
-그는 AI가 프롬프트에 수동적으로 반응하는 도구를 넘어, 사용자의 목표와 프로젝트 맥락을 깊이 이해하는 진정한 협업 파트너로 진화해야 한다고 강조했습니다.
-
-특히 추론 속도가 비약적으로 빨라질수록 단일 실행의 한계를 넘어, “코드 탐색부터 테스트 작성, 컴파일, 가설 검증까지 동시에 병렬 처리하는 구조”가 소프트웨어 엔지니어링의 병목을 해결하고 생산성을 폭발적으로 끌어올릴 핵심 혁신이 될 것이라고 설명했습니다.</description><pubDate>Tue, 25 Aug 2026 04:08:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DccvCD8DUSQ</guid></item><item><title>Grok Bot의 클라이언트 코드가 유출됐습니다.
-
-Cursor가 배포한 0.18.0 정식 버전에 런타임 소스맵이 그대로 포함됐고, 한 개발자가...</title><link>https://www.threads.net/@choi.openai/post/DccaDETEzNB</link><description>Grok Bot의 클라이언트 코드가 유출됐습니다.
-
-Cursor가 배포한 0.18.0 정식 버전에 런타임 소스맵이 그대로 포함됐고, 한 개발자가 이를 읽을 수 있는 TypeScript 코드로 복원해 GitHub에 공개했습니다.
-
-에이전트 코디네이터와 모델 라우팅, 로컬 실행, 프로토콜 계층 등 Grok Bot의 내부 구조가 상당 부분 드러났습니다.
-
-다만 전체 소스가 공개되지는 않았고, 최신 버전에서는 해당 소스맵도 제거된 것으로 확인됩니다.
-
-지난 3월에도 Claude Code의 소스맵이 유출되는 사건이 있었는데요. 이번에는 포크와 윈도우용 클론까지 등장했습니다.
-
-모델 성능이 비슷해질수록 차별점은 하네스로 옮겨가고 있습니다. 문제는 그 하네스가 결국 사용자 컴퓨터에 배포되는 코드라는 점입니다.</description><pubDate>Tue, 25 Aug 2026 01:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DccaDETEzNB</guid></item><item><title>깃허브 :
-https://github.com/b-nnett/grok-bot-0.18-reconstructed</title><link>https://www.threads.net/@choi.openai/post/DccaEfkk95D</link><description>깃허브 :
-https://github.com/b-nnett/grok-bot-0.18-reconstructed</description><pubDate>Tue, 25 Aug 2026 01:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DccaEfkk95D</guid></item></channel></rss>
+https://www.youtube.com/watch?v=xH7U7w9Qzlo</description><pubDate>Tue, 25 Aug 2026 06:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcc8bVrDUN5</guid></item></channel></rss>
