@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 24 Aug 2026 15:27:46 +0000</lastBuildDate><item><title>뉴욕대 연구팀이 8개국 229명을 모아 한 달간 진행한 실험입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 25 Aug 2026 01:13:26 +0000</lastBuildDate><item><title>Grok Bot의 클라이언트 코드가 유출됐습니다.
+
+Cursor가 배포한 0.18.0 정식 버전에 런타임 소스맵이 그대로 포함됐고, 한 개발자가...</title><link>https://www.threads.net/@choi.openai/post/DccaDETEzNB</link><description>Grok Bot의 클라이언트 코드가 유출됐습니다.
+
+Cursor가 배포한 0.18.0 정식 버전에 런타임 소스맵이 그대로 포함됐고, 한 개발자가 이를 읽을 수 있는 TypeScript 코드로 복원해 GitHub에 공개했습니다.
+
+에이전트 코디네이터와 모델 라우팅, 로컬 실행, 프로토콜 계층 등 Grok Bot의 내부 구조가 상당 부분 드러났습니다.
+
+다만 전체 소스가 공개되지는 않았고, 최신 버전에서는 해당 소스맵도 제거된 것으로 확인됩니다.
+
+지난 3월에도 Claude Code의 소스맵이 유출되는 사건이 있었는데요. 이번에는 포크와 윈도우용 클론까지 등장했습니다.
+
+모델 성능이 비슷해질수록 차별점은 하네스로 옮겨가고 있습니다. 문제는 그 하네스가 결국 사용자 컴퓨터에 배포되는 코드라는 점입니다.</description><pubDate>Tue, 25 Aug 2026 01:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DccaDETEzNB</guid></item><item><title>깃허브 :
+https://github.com/b-nnett/grok-bot-0.18-reconstructed</title><link>https://www.threads.net/@choi.openai/post/DccaEfkk95D</link><description>깃허브 :
+https://github.com/b-nnett/grok-bot-0.18-reconstructed</description><pubDate>Tue, 25 Aug 2026 01:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DccaEfkk95D</guid></item><item><title>키쫀쿠 시즌이 다가오고 있네요.
+월말은 키쫀쿠와 함께!</title><link>https://www.threads.net/@choi.openai/post/DccRnjeD4wR</link><description>키쫀쿠 시즌이 다가오고 있네요.
+월말은 키쫀쿠와 함께!</description><pubDate>Mon, 24 Aug 2026 23:46:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DccRnjeD4wR</guid></item><item><title>뉴욕대 연구팀이 8개국 229명을 모아 한 달간 진행한 실험입니다.
 
 직접 코드를 한 줄도 쓰지 못하게 한 해커톤에서 상위권과 하위권을 가른 건...</title><link>https://www.threads.net/@choi.openai/post/DcbSDOICc7d</link><description>뉴욕대 연구팀이 8개국 229명을 모아 한 달간 진행한 실험입니다.
 
@@ -20,28 +36,4 @@ https://arxiv.org/pdf/2604.22747</description><pubDate>Mon, 24 Aug 2026 14:31:06
 
 그 결과 재료 양이 같다면 구조를 복잡하게 만든다고 더 강해지지는 않는다는 사실을 확인했고, 처음 세운 가설도 스스로 기각했습니다.
 
-사진에서 시작해 설계, 시뮬레이션, 검증, 3D 프린팅까지 이어졌는데요. AI가 물리 세계를 분석하는 것을 넘어 직접 실험하고 물체를 만드는 단계로 가고 있는 것 같습니다.</description><pubDate>Mon, 24 Aug 2026 14:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcbR93mianS</guid></item><item><title>x64dbg-MCP Server가 공개됐습니다.
-바이너리 디버거 x64dbg에 MCP 서버를 붙여, AI 에이전트가 디버거를 직접 조종하며 리버...</title><link>https://www.threads.net/@choi.openai/post/DcbHv_uCtJs</link><description>x64dbg-MCP Server가 공개됐습니다.
-바이너리 디버거 x64dbg에 MCP 서버를 붙여, AI 에이전트가 디버거를 직접 조종하며 리버스 엔지니어링을 하게 해주는 오픈소스입니다.
-
-브레이크포인트 설정, 메모리·레지스터 읽기, 트레이싱, xrefs, PE 분석까지 71개 도구를 HTTP로 열어두어, 클로드 같은 MCP 클라이언트를 그대로 연결할 수 있습니다.
-
-여기에 22개 이벤트 콜백이 붙어 있어, 에이전트가 상태를 계속 확인하지 않아도 브레이크포인트나 예외, DLL 로드 같은 사건이 일어나는 순간 곧바로 반응하는데요.
-
-Zig로 만든 네이티브 플러그인이라 별도 런타임 없이 플러그인 폴더에 넣기만 하면 동작합니다.
-
-악성코드 분석 같은 작업을 크게 앞당기는 도구지만, 같은 자동화가 크랙이나 우회의 문턱도 함께 낮춘다는 점은 고민해봐야할 문제입니다.</description><pubDate>Mon, 24 Aug 2026 13:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcbHv_uCtJs</guid></item><item><title>깃허브 :
-https://github.com/duty1g/x64dbg-mcp-server</title><link>https://www.threads.net/@choi.openai/post/DcbHyNninog</link><description>깃허브 :
-https://github.com/duty1g/x64dbg-mcp-server</description><pubDate>Mon, 24 Aug 2026 13:01:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcbHyNninog</guid></item><item><title>두 달 만에 오픈웨이트 토큰 점유율이 28%에서 62%로 뒤집혔습니다.
-
-Vercel AI 게이트웨이 집계이고, 개빈 베이커가 공유하며 화제가 ...</title><link>https://www.threads.net/@choi.openai/post/Dca9ci2kcEj</link><description>두 달 만에 오픈웨이트 토큰 점유율이 28%에서 62%로 뒤집혔습니다.
-
-Vercel AI 게이트웨이 집계이고, 개빈 베이커가 공유하며 화제가 됐습니다.
-같은 기간 오픈AI와 앤트로픽 사용량도 7월에 오히려 가속했다는 점이 중요한데, 점유율을 빼앗긴 게 아니라 전체 토큰 수요가 그보다 더 빠르게 커졌다는 뜻입니다.
-
-물론, 폐쇄형 대량 트래픽은 벤더 API로 직접 붙는 경우가 많아 시장 전체 비율로 읽기에는 무리가 있는데요.
-
-베이커의 전망은 폐쇄형 프런티어가 토큰의 15~25%를 차지하면서 경제 가치의 60~90%를 가져간다는 쪽입니다. 아이폰이 출하량의 5분의 1로 업계 이익 대부분을 가져가는 구조와 같다는 비유가 붙었습니다.
-
-오픈 토큰이라고 연산이 공짜는 아닙니다. 같은 GPU와 같은 전기를 씁니다.
-모델 계층에서 깎인 마진이 인프라 쪽으로 옮겨가는 구조인데, 엔비디아가 어제 오픈웨이트 모델 제작에 60억 달러를 쓴 이유도 여기서 설명될 것 같습니다.</description><pubDate>Mon, 24 Aug 2026 11:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dca9ci2kcEj</guid></item></channel></rss>
+사진에서 시작해 설계, 시뮬레이션, 검증, 3D 프린팅까지 이어졌는데요. AI가 물리 세계를 분석하는 것을 넘어 직접 실험하고 물체를 만드는 단계로 가고 있는 것 같습니다.</description><pubDate>Mon, 24 Aug 2026 14:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcbR93mianS</guid></item></channel></rss>
