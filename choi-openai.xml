@@ -1,38 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 25 Aug 2026 15:31:36 +0000</lastBuildDate><item><title>애플이 첫 2nm 칩 M6 맥미니와 M5 Ultra 맥스튜디오를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 26 Aug 2026 01:15:34 +0000</lastBuildDate><item><title>ChatGPT Work가 웹과 모바일에서 사이트 로그인을 지원합니다.
 
-LLM은 토큰을 생성할 때마다 모델 가중치를 메모리에서 읽기 때...</title><link>https://www.threads.net/@choi.openai/post/Dcdvn94DpX4</link><description>애플이 첫 2nm 칩 M6 맥미니와 M5 Ultra 맥스튜디오를 공개했습니다.
+아이디와 비밀번호는 ChatGPT가 보지 않는 방식이며, Plus·Pro...</title><link>https://www.threads.net/@choi.openai/post/Dce7bFIDuFo</link><description>ChatGPT Work가 웹과 모바일에서 사이트 로그인을 지원합니다.
 
-LLM은 토큰을 생성할 때마다 모델 가중치를 메모리에서 읽기 때문에, 로컬 추론에서는 연산 성능만큼 메모리 용량과 대역폭이 중요합니다.
+아이디와 비밀번호는 ChatGPT가 보지 않는 방식이며, Plus·Pro·Business 사용자에게 순차 배포됩니다.
 
-M6 맥미니는 최대 32GB 메모리라 대형 로컬 모델보다는 24시간 켜두는 에이전트 서버에 가깝습니다. 오픈소스 에이전트 대부분이 상용 모델 API를 연결해 쓰는 만큼, 애플도 상시 가동 용도를 앞세웠습니다.
+기존에는 로그인 화면이 나오면 사용자가 직접 브라우저를 조작해 로그인해야 했는데, 이제 이 과정까지 이어서 처리할 수 있습니다.
 
-반면 본격적인 로컬 AI 머신은 맥스튜디오입니다. M5 Ultra는 512GB 메모리와 1.2TB/s 대역폭을 갖췄고, 애플은 수천억 파라미터 모델도 로컬에서 돌릴 수 있다고 설명합니다.</description><pubDate>Tue, 25 Aug 2026 13:46:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcdvn94DpX4</guid></item><item><title>요즘 한 기업의 전사적인 AX를 진행하고 있는데, 나갈 때마다 정말 놀라운 결과물들이 많이 나오는 것 같습니다.
+오픈AI가 든 예시는 새집 전기·가스 신청, 여권 발급이나 운전면허 관련 방문 예약, 보험 보장 범위와 환급 비용 확인, 반품 수거 신청, 이메일로 받은 청구서를 회계 프로그램에 등록하는 일 등입니다.
 
-MES부터 KPI 분석, ER...</title><link>https://www.threads.net/@choi.openai/post/Dcdg2B2jxlE</link><description>요즘 한 기업의 전사적인 AX를 진행하고 있는데, 나갈 때마다 정말 놀라운 결과물들이 많이 나오는 것 같습니다.
+지난해 1월 Operator는 로그인이나 캡차가 나오면 사람에게 조작을 넘겨야 했습니다. 1년 반 뒤에는 로그인한 개인 계정 안에서 예약하고, 신청하고, 서류를 처리하는 일까지 에이전트의 작업 범위에 들어오기 시작했습니다.</description><pubDate>Wed, 26 Aug 2026 00:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dce7bFIDuFo</guid></item><item><title>Claude의 메모리 기능이 채팅과 Claude Cowork에서 공유됩니다.
 
-MES부터 KPI 분석, ERD 시스템도 봐드리고 직무별 자동화 시스템 구축까지 함께 보고 있는데, 역시 현업에서 일하는 분들이 직접 회사 시스템에 맞춰 구축하다 보니 결과물이 정말 잘 나오더라구요.
+채팅에서 이야기했던 프로젝트나 업무 관련 내용을 Cowork에서도...</title><link>https://www.threads.net/@choi.openai/post/DceqPGgihB8</link><description>Claude의 메모리 기능이 채팅과 Claude Cowork에서 공유됩니다.
 
-오히려 대기업보다 중소기업이 규모가 작고 대응이 빠르다 보니, 보안과 네트워킹 세팅만 잘 잡아드리면 사내에서 빠르게 확산되는 것 같습니다.
+채팅에서 이야기했던 프로젝트나 업무 관련 내용을 Cowork에서도 이어서 활용할 수 있는데요.
+저장된 내용은 설정에서 직접 확인·수정·삭제할 수 있고, 대화 중 “기억해”라고 요청해 따로 저장하는 것도 가능합니다.
 
-결국 같은 회사 안에서 AI를 정말 잘 쓰는 한 사람, 한 부서가 생기면 그게 다른 부서로 퍼지면서 전사적인 확산을 만들어내는 것 같습니다.
+메모리는 Free, Pro, Max에서 기본 활성화됩니다.</description><pubDate>Tue, 25 Aug 2026 22:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DceqPGgihB8</guid></item><item><title>Google Ads에 Gemini Omni가 추가됩니다.
 
-FDE도 이런 식으로 부서 to 부서로 확장되는 방식이 훨씬 효율적이고 확산 속도도 빠른 것 같아서, 저도 이 과정에서 많은 데이터를 쌓고 있는 것 같네요.</description><pubDate>Tue, 25 Aug 2026 11:18:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcdg2B2jxlE</guid></item><item><title>리처드 서튼은 현재의 거대언어모델(LLM)이 지능의 전부를 대변하지 못한다고 지적했습니다.
+Asset Studio에서 프롬프트 하나로 브랜드에 맞는 광고 영상을 생성하고 수정할...</title><link>https://www.threads.net/@choi.openai/post/Dcef899k6i7</link><description>Google Ads에 Gemini Omni가 추가됩니다.
 
-그는 LLM의 언어 능력이 놀라운 과학적 돌파구인 ...</title><link>https://www.threads.net/@choi.openai/post/DcdKHGPgMwg</link><description>리처드 서튼은 현재의 거대언어모델(LLM)이 지능의 전부를 대변하지 못한다고 지적했습니다.
+Asset Studio에서 프롬프트 하나로 브랜드에 맞는 광고 영상을 생성하고 수정할 수 있는데요. 가로 16:9와 세로 9:16 영상도 함께 만들 수 있습니다.
 
-그는 LLM의 언어 능력이 놀라운 과학적 돌파구인 것은 분명하지만, 이는 지능의 20~25% 수준에 불과하며 “모든 지능이 유창한 언어 사용 능력인 것은 아니다”라고 강조했습니다.
+예를 들어 기존 브랜드 가이드와 URL을 넣고 제품을 설명하면, 광고 영상 구성부터 장면·배경·음성·화면 비율 수정까지 Gemini Omni로 처리할 수 있습니다.</description><pubDate>Tue, 25 Aug 2026 20:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcef899k6i7</guid></item><item><title>자세히 알아보기 :
+https://business.google.com/us/accelerate/announcements/omni-in-googl...</title><link>https://www.threads.net/@choi.openai/post/Dcef-apk1aO</link><description>자세히 알아보기 :
+https://business.google.com/us/accelerate/announcements/omni-in-google-ads</description><pubDate>Tue, 25 Aug 2026 20:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcef-apk1aO</guid></item><item><title>Perplexity가 NVIDIA DGX Spark에서 실행되는 Portable Computer를 공개했습니다.
 
-진정한 지능(True Intelligence)에 도달하려면 지속적 학습, 추상화 형성, 계획 및 추론 능력을 갖춘 근본적인 아키텍처 혁신이 필수적이라는 분석입니다.
+주목할 부분은 AI 에이전트의...</title><link>https://www.threads.net/@choi.openai/post/DceVvxqCt8v</link><description>Perplexity가 NVIDIA DGX Spark에서 실행되는 Portable Computer를 공개했습니다.
 
-쿠람 자베드 또한 ‘거대한 세계 가설’을 들어 무한한 현실 세계를 단일 시스템이 모두 모델링할 수는 없으며, 각기 다른 경험을 통해 학습하는 다중 지능 시스템이 필연적이라고 설명했습니다.
+주목할 부분은 AI 에이전트의 모델과 실행 환경을 모두 로컬 기기에서 돌린다는 점인데요. PPLX 27B와 Qwen 3.8 27B를 지원하며, 민감한 문서도 기기 밖으로 보내지 않고 처리할 수 있습니다.
 
-단순 텍스트 생성의 한계를 넘어, 실시간 경험과 추론을 통해 작동하는 차세대 AGI 아키텍처로 AI 기술 패러다임이 이동하고 있음을 시사합니다.</description><pubDate>Tue, 25 Aug 2026 08:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcdKHGPgMwg</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=xH7U7w9Qzlo</title><link>https://www.threads.net/@choi.openai/post/DcdKH89gFmQ</link><description>풀영상 :
-https://www.youtube.com/watch?v=xH7U7w9Qzlo</description><pubDate>Tue, 25 Aug 2026 08:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcdKH89gFmQ</guid></item><item><title>강화학습의 대가 리처드 서튼(Rich Sutton)과 쿠람 자베드(Khurram Javed)는 1조 개 파라미터 모델을 인간의 뇌 수준인 ‘20...</title><link>https://www.threads.net/@choi.openai/post/Dcc8aJIjVdh</link><description>강화학습의 대가 리처드 서튼(Rich Sutton)과 쿠람 자베드(Khurram Javed)는 1조 개 파라미터 모델을 인간의 뇌 수준인 ‘20W’ 전력으로 구동하는 초고효율 지능이 “충분히 도달 가능한 범위”에 있다고 밝혔습니다.
+더 높은 추론 성능이 필요할 때만 사용자 승인을 받아 클라우드 모델을 사용합니다.
 
-현재 하드웨어로는 1조 개 매개변수를 메모리에 올리는 것조차 20W를 초과하지만, 자베드는 “올바른 알고리즘과 연산 효율의 진보가 뒷받침된다면 5~10년 내에 실현 가능한 세상이 올 것”이라고 전망했습니다.
-
-서튼은 무어의 법칙에 따라 10년이면 2단계의 크기(100배) 효율 혁신이 발생한다며, 오늘날 2,000W가 필요한 연산도 10년 뒤에는 20W로 압축될 수 있다고 계산했습니다.</description><pubDate>Tue, 25 Aug 2026 06:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcc8aJIjVdh</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=xH7U7w9Qzlo</title><link>https://www.threads.net/@choi.openai/post/Dcc8bVrDUN5</link><description>풀영상 :
-https://www.youtube.com/watch?v=xH7U7w9Qzlo</description><pubDate>Tue, 25 Aug 2026 06:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcc8bVrDUN5</guid></item></channel></rss>
+현재 Perplexity Pro·Max 구독자가 이용할 수 있습니다.</description><pubDate>Tue, 25 Aug 2026 19:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DceVvxqCt8v</guid></item></channel></rss>
