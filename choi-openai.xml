@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 28 Aug 2026 19:55:03 +0000</lastBuildDate><item><title>오픈AI가 Codex에 작업이 끝난 뒤에도 스스로 후속 업무를 이어가는 ‘Persistent Mode’를 시험하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 28 Aug 2026 23:45:06 +0000</lastBuildDate><item><title>Grok Bot이 Stripe의 Link와 연동해 인터넷에서 직접 물건을 구매할 수 있게 됐습니다.
+
+사용자가 원하는 물건을 요청하면 Grok ...</title><link>https://www.threads.net/@choi.openai/post/DcmcEmniOt-</link><description>Grok Bot이 Stripe의 Link와 연동해 인터넷에서 직접 물건을 구매할 수 있게 됐습니다.
+
+사용자가 원하는 물건을 요청하면 Grok Bot이 쇼핑을 진행하고, 결제할 때마다 사용자가 승인하면 일회용 가상카드를 발급받아 결제까지 마칩니다.
+
+실제 카드번호는 Grok Bot에 전달되지 않으며 현재 미국에서 먼저 제공되고 있습니다.
+
+검색하고 비교하는 수준을 넘어 돈을 쓰고 거래까지 끝낼 수 있게 되면서, AI에게 맡길 수 있는 업무의 범위가 또 하나 넓어지고 있습니다.</description><pubDate>Fri, 28 Aug 2026 22:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcmcEmniOt-</guid></item><item><title>🚨 GLM-5.3이 이제 오픈 웨이트로 제공됩니다!</title><link>https://www.threads.net/@choi.openai/post/DcmR0LKCVGD</link><description>🚨 GLM-5.3이 이제 오픈 웨이트로 제공됩니다!</description><pubDate>Fri, 28 Aug 2026 21:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcmR0LKCVGD</guid></item><item><title>허깅페이스 :
+https://huggingface.co/zai-org/GLM-5.3</title><link>https://www.threads.net/@choi.openai/post/DcmR1Q4iX_E</link><description>허깅페이스 :
+https://huggingface.co/zai-org/GLM-5.3</description><pubDate>Fri, 28 Aug 2026 21:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcmR1Q4iX_E</guid></item><item><title>오픈AI가 Codex에 작업이 끝난 뒤에도 스스로 후속 업무를 이어가는 ‘Persistent Mode’를 시험하고 있습니다.
 
 공개된 프롬프트를...</title><link>https://www.threads.net/@choi.openai/post/DcmHdvEkQeA</link><description>오픈AI가 Codex에 작업이 끝난 뒤에도 스스로 후속 업무를 이어가는 ‘Persistent Mode’를 시험하고 있습니다.
 
@@ -22,32 +32,4 @@ https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/</descrip
 
 오픈 웨이트는 생태계를 빠르게 키워주지만, 동시에 경쟁사에게도 같은 출발점을 열어준다는 점을 잘 보여주는 사례입니다.</description><pubDate>Fri, 28 Aug 2026 18:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcl9J4SE6T-</guid></item><item><title>허깅페이스 :
 https://huggingface.co/collections/tencent/wemm-embedding</title><link>https://www.threads.net/@choi.openai/post/Dcl9LVPExZ2</link><description>허깅페이스 :
-https://huggingface.co/collections/tencent/wemm-embedding</description><pubDate>Fri, 28 Aug 2026 18:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcl9LVPExZ2</guid></item><item><title>인류는 비만을 극복하고 있습니다.
-
-먹는 비만 치료제가 식욕을 줄이는 대신 몸이 쓰는 에너지 자체를 늘리는 방향으로 나왔습니다.
-
-UC Berk...</title><link>https://www.threads.net/@choi.openai/post/Dcly6uij8rx</link><description>인류는 비만을 극복하고 있습니다.
-
-먹는 비만 치료제가 식욕을 줄이는 대신 몸이 쓰는 에너지 자체를 늘리는 방향으로 나왔습니다.
-
-UC Berkeley 연구진이 TOFA라는 경구용 소분자를 비만 수컷 생쥐에 4주간 투여했더니 평균 체중이 18% 줄었고, 대부분 지방에서 빠졌습니다. 먹는 양과 활동량은 그대로였고 근육 등 제지방도 크게 줄지 않았습니다.
-
-TOFA는 새로운 지방 생성을 억제하면서 지방 연소 경로를 활성화하는 것으로 보이며, 세마글루타이드나 티르제파타이드와 함께 썼을 때는 체중 감소와 대사 개선 효과가 더 커졌습니다.
-
-다만 아직 사람에게는 한 번도 시험되지 않았고 안전성도 확인되지는 않았는데요.
-중요한 건 “살 빠지는 약이 하나 더 나왔다”기보다, 식욕 억제 외에도 에너지 소비를 높이는 비만 치료 경로가 실제로 가능할 수 있다는 점입니다.</description><pubDate>Fri, 28 Aug 2026 16:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcly6uij8rx</guid></item><item><title>기사 :
-https://www.sciencealert.com/experimental-drug-makes-obese-mice-burn-fat-wi...</title><link>https://www.threads.net/@choi.openai/post/Dcly7ryDye-</link><description>기사 :
-https://www.sciencealert.com/experimental-drug-makes-obese-mice-burn-fat-without-losing-muscle-or-eating-less</description><pubDate>Fri, 28 Aug 2026 16:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcly7ryDye-</guid></item><item><title>Grok Bot에 음성 통화 기능이 준비 중인 것으로 보입니다.
-
-Grok Bot은 계정마다 붙는 지속형 클라우드 컴퓨터에서 돌아가는 에이전트인...</title><link>https://www.threads.net/@choi.openai/post/DclomcwCoSi</link><description>Grok Bot에 음성 통화 기능이 준비 중인 것으로 보입니다.
-
-Grok Bot은 계정마다 붙는 지속형 클라우드 컴퓨터에서 돌아가는 에이전트인데요.
-각 봇이 자기 화면을 갖고 브라우저와 터미널을 직접 쓰며, 팀원에게 메시지 보내듯 일을 맡기면 승인이 필요한 순간에만 사용자에게 돌아옵니다.
-
-최근에는 에이전트마다 컴퓨팅과 기억을 따로 붙이는 흐름이 이어지고 있습니다.
-
-봇이 사람에게 전화를 거는 기능은 SpaceXAI가 지난 7월 분당 0.05달러짜리 음성 에이전트로 공개했었는데요. 이러면, 작업 중 판단이 필요하면 전화를 걸고 사용자가 그 자리에서 결정해 다시 일을 넘길 수 있습니다.
-
-결국, 어떤 디바이스로 작업하던 작업과 맥락은 그대로 이어지는 방식입니다.
-
-앞으로는 보고와 전달, 승인마다 사람이 붙는 기존 조직은 그 과정 자체가 병목이 되고, 필요한 판단만 사람에게 넘기는 구조로 빨리 바꾼 기업일수록 같은 인원으로 더 많은 일을 처리하게 될 겁니다.</description><pubDate>Fri, 28 Aug 2026 15:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DclomcwCoSi</guid></item></channel></rss>
+https://huggingface.co/collections/tencent/wemm-embedding</description><pubDate>Fri, 28 Aug 2026 18:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcl9LVPExZ2</guid></item></channel></rss>
