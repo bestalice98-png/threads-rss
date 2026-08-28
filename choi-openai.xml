@@ -1,116 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 28 Aug 2026 09:49:52 +0000</lastBuildDate><item><title>앤트로픽이 연구·제조 장비를 AI 에이전트가 제어하기 위한 표준 MHS(Model Hardware Standard)를 공개했습니다.
-기기마다 제...</title><link>https://www.threads.net/@choi.openai/post/Dck_Yq1CbYc</link><description>앤트로픽이 연구·제조 장비를 AI 에이전트가 제어하기 위한 표준 MHS(Model Hardware Standard)를 공개했습니다.
-기기마다 제각각이던 제어 방식을 공통 인터페이스로 묶어, 몇 주씩 걸리던 장비 연동을 몇 시간 수준으로 줄이는 것이 목표입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 28 Aug 2026 19:55:03 +0000</lastBuildDate><item><title>오픈AI가 Codex에 작업이 끝난 뒤에도 스스로 후속 업무를 이어가는 ‘Persistent Mode’를 시험하고 있습니다.
 
-실제 QuEra의 양자컴퓨터 레이저 복구에서는 엔지니어 4명이 몇 달간 만든 스크립트가 58% 성공률에 그쳤지만, Claude가 밤새 가설·수정·실행·판독을 반복하며 99.3%까지 끌어올렸습니다. 사람 없이 진행한 700번의 테스트 중 695번 성공했습니다.
+공개된 프롬프트를...</title><link>https://www.threads.net/@choi.openai/post/DcmHdvEkQeA</link><description>오픈AI가 Codex에 작업이 끝난 뒤에도 스스로 후속 업무를 이어가는 ‘Persistent Mode’를 시험하고 있습니다.
 
-다만 물리 세계에서는 작은 실수가 장비 손상으로 이어질 수 있습니다. 실제로 Claude가 거품 때문에 발생한 오류를 같은 위치에서 반복하며 문제를 키운 사례도 있었습니다.
+공개된 프롬프트를 보면 요청을 마친 뒤 다시 실행됐을 때 결과가 실제로 반영됐는지 확인하고, 기다리던 응답을 재점검하거나 원래 작업과 이어지는 다음 업무를 스스로 시작하는데요.
 
-그래서 앤트로픽은 MHS를 아직 신청제로만 공개하고 있는데요. AI가 현실 세계에 손을 뻗기 시작한 만큼, 앞으로는 성능만큼이나 물리적 안전장치를 어떻게 설계하느냐가 중요해질 것 같습니다.</description><pubDate>Fri, 28 Aug 2026 09:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck_Yq1CbYc</guid></item><item><title>발표내용 :
-https://www.anthropic.com/news/model-hardware-standard-research-preview</title><link>https://www.threads.net/@choi.openai/post/Dck_Z6GCZpW</link><description>발표내용 :
-https://www.anthropic.com/news/model-hardware-standard-research-preview</description><pubDate>Fri, 28 Aug 2026 09:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck_Z6GCZpW</guid></item><item><title>🚨 와.. 중국이 또 7,700억 매개변수 모델을 오픈웨이트로 풀었습니다.
+기존 /goal이 하나의 장기 목표를 붙들고 작업을 계속하는 방식이었다면, Persistent Mode는 작업 완료 이후에도 필요한 후속 업무를 새로 만들어 이어간다는 점이 다릅니다.
 
-이번엔 텐센트입니다. 7,700억 매개변수 Hy4를 Apache 2...</title><link>https://www.threads.net/@choi.openai/post/Dck2NayD7dH</link><description>🚨 와.. 중국이 또 7,700억 매개변수 모델을 오픈웨이트로 풀었습니다.
+다만 사용자가 맡긴 범위를 벗어나 마음대로 새 일을 벌일 수는 없습니다. 새 권한이나 외부 변경이 필요하면 승인을 받도록 제한되어 있습니다.
 
-이번엔 텐센트입니다. 7,700억 매개변수 Hy4를 Apache 2.0으로 풀었습니다.
+아직 테스트 단계이며, 오픈AI는 WIRED에 당장 출시할 계획은 없다고 밝혔는데요.
+이러한 업데이트가 결국 사용자의 옆에서 상시 보조할 수 있는 에이전트의 기반이될 것으로 보입니다.</description><pubDate>Fri, 28 Aug 2026 19:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcmHdvEkQeA</guid></item><item><title>기사 :
+https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/</title><link>https://www.threads.net/@choi.openai/post/DcmHetZkdei</link><description>기사 :
+https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/</description><pubDate>Fri, 28 Aug 2026 19:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcmHetZkdei</guid></item><item><title>텐센트 위챗팀이 검색·추천에 쓰던 임베딩 모델 WeMM-Embedding을 오픈소스로 공개했습니다.
 
-중국 프런티어 모델의 공개 간격이 며칠 단위까지 짧아졌습니다 🧵</description><pubDate>Fri, 28 Aug 2026 07:40:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck2NayD7dH</guid></item><item><title>1/ 텐센트가 8월 28일 Hy4 프리뷰의 가중치와 코드를 공개했습니다.
+텍스트와 이미지, 영상, 문서를 같은 벡터...</title><link>https://www.threads.net/@choi.openai/post/Dcl9J4SE6T-</link><description>텐센트 위챗팀이 검색·추천에 쓰던 임베딩 모델 WeMM-Embedding을 오픈소스로 공개했습니다.
 
-전체 파라미터는 7,700억이고 토큰 하나를 처리할 때 490억이 작...</title><link>https://www.threads.net/@choi.openai/post/Dck2N_zD9mu</link><description>1/ 텐센트가 8월 28일 Hy4 프리뷰의 가중치와 코드를 공개했습니다.
+텍스트와 이미지, 영상, 문서를 같은 벡터 공간에 넣어 서로 검색할 수 있게 만드는 모델인데요. 2B·4B·9B 세 버전을 Apache 2.0으로 풀었고, 9B는 MMEB-v2에서 80.6점으로 1위, 2B도 알리바바의 8B 임베딩 모델을 근소하게 앞섰습니다.
 
-전체 파라미터는 7,700억이고 토큰 하나를 처리할 때 490억이 작동합니다.
+그런데 베이스 모델은 알리바바의 Qwen3.5입니다. 알리바바가 가중치를 공개한 덕분에, 경쟁사가 그 모델을 기반으로 만든 임베딩 모델이 알리바바 자체 모델을 앞선 겁니다.
 
-문맥 길이는 100만 토큰이며 Apache 2.0 가중치와 FP8 버전이 GitHub와 Hugging Face에 함께 올라왔습니다.
+오픈 웨이트는 생태계를 빠르게 키워주지만, 동시에 경쟁사에게도 같은 출발점을 열어준다는 점을 잘 보여주는 사례입니다.</description><pubDate>Fri, 28 Aug 2026 18:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcl9J4SE6T-</guid></item><item><title>허깅페이스 :
+https://huggingface.co/collections/tencent/wemm-embedding</title><link>https://www.threads.net/@choi.openai/post/Dcl9LVPExZ2</link><description>허깅페이스 :
+https://huggingface.co/collections/tencent/wemm-embedding</description><pubDate>Fri, 28 Aug 2026 18:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcl9LVPExZ2</guid></item><item><title>인류는 비만을 극복하고 있습니다.
 
-소프트웨어 개발, 여러 문서가 섞인 사무 작업, 과학 연구가 주요 사용처이며 Tencent Cloud와 OpenRouter에서 사용이 가능합니다.</description><pubDate>Fri, 28 Aug 2026 07:40:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck2N_zD9mu</guid></item><item><title>2/ 이번 공개까지 포함한 지난 한 달은 중국에서 대형 모델이 거의 매주 새로 나왔습니다.
+먹는 비만 치료제가 식욕을 줄이는 대신 몸이 쓰는 에너지 자체를 늘리는 방향으로 나왔습니다.
 
-7월 28일 Kimi K3는 2.8조에 활성 1,0...</title><link>https://www.threads.net/@choi.openai/post/Dck2O5LD6WF</link><description>2/ 이번 공개까지 포함한 지난 한 달은 중국에서 대형 모델이 거의 매주 새로 나왔습니다.
+UC Berk...</title><link>https://www.threads.net/@choi.openai/post/Dcly6uij8rx</link><description>인류는 비만을 극복하고 있습니다.
 
-7월 28일 Kimi K3는 2.8조에 활성 1,040억, 8월 3일 Qwen3.8 Max는 2.4조에 활성 950억, 8월 13일 DeepSeek V4 Pro는 약 1.6조에 활성 490억으로 공개됐습니다.
+먹는 비만 치료제가 식욕을 줄이는 대신 몸이 쓰는 에너지 자체를 늘리는 방향으로 나왔습니다.
 
-8월 26일에는 Qwen3.8 Flash Next가 전체 1,250억 가운데 60억만 작동하는 구조를 먼저 풀었고, 이틀 뒤 Hy4가 이어졌습니다.
+UC Berkeley 연구진이 TOFA라는 경구용 소분자를 비만 수컷 생쥐에 4주간 투여했더니 평균 체중이 18% 줄었고, 대부분 지방에서 빠졌습니다. 먹는 양과 활동량은 그대로였고 근육 등 제지방도 크게 줄지 않았습니다.
 
-텐센트의 공개 흐름은 4월 Hy3 프리뷰, 7월 Hy3 정식판, 8월 Hy4 프리뷰로 이어졌습니다.
-Hy3는 전체 2,950억 가운데 210억이 작동하고 문맥은 25만6천 토큰이었습니다. Hy4는 전체 규모가 2.6배, 활성 파라미터가 2.3배, 문맥이 약 4배 커졌습니다.</description><pubDate>Fri, 28 Aug 2026 07:40:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck2O5LD6WF</guid></item><item><title>3/ 텐센트 공식 벤치마크에서 Hy4는 SWE-bench Multilingual 82.9, GDPval-AA v2 1,678, OneMillio...</title><link>https://www.threads.net/@choi.openai/post/Dck2Pkhj4Fx</link><description>3/ 텐센트 공식 벤치마크에서 Hy4는 SWE-bench Multilingual 82.9, GDPval-AA v2 1,678, OneMillionBench 65.4를 기록했습니다.
+TOFA는 새로운 지방 생성을 억제하면서 지방 연소 경로를 활성화하는 것으로 보이며, 세마글루타이드나 티르제파타이드와 함께 썼을 때는 체중 감소와 대사 개선 효과가 더 커졌습니다.
 
-DeepSWE는 28.0에서 64.3, Terminal-Bench 2.1은 70.8에서 85.4, PostTrainBench는 14.5에서 35.6으로 올랐습니다. 
+다만 아직 사람에게는 한 번도 시험되지 않았고 안전성도 확인되지는 않았는데요.
+중요한 건 “살 빠지는 약이 하나 더 나왔다”기보다, 식욕 억제 외에도 에너지 소비를 높이는 비만 치료 경로가 실제로 가능할 수 있다는 점입니다.</description><pubDate>Fri, 28 Aug 2026 16:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcly6uij8rx</guid></item><item><title>기사 :
+https://www.sciencealert.com/experimental-drug-makes-obese-mice-burn-fat-wi...</title><link>https://www.threads.net/@choi.openai/post/Dcly7ryDye-</link><description>기사 :
+https://www.sciencealert.com/experimental-drug-makes-obese-mice-burn-fat-without-losing-muscle-or-eating-less</description><pubDate>Fri, 28 Aug 2026 16:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcly7ryDye-</guid></item><item><title>Grok Bot에 음성 통화 기능이 준비 중인 것으로 보입니다.
 
-다국어 코딩에서는 Kimi K3, Qwen3.8 Max, GLM 5.3보다 높았고, GDPval은 Kimi K3와 비슷했습니다.
+Grok Bot은 계정마다 붙는 지속형 클라우드 컴퓨터에서 돌아가는 에이전트인...</title><link>https://www.threads.net/@choi.openai/post/DclomcwCoSi</link><description>Grok Bot에 음성 통화 기능이 준비 중인 것으로 보입니다.
 
-GPQA Diamond는 92.3, HLE는 43.4, CritPt는 16.9입니다. 코딩과 문서 작업에서는 중국 상위 모델과 같은 구간에 있고, 과학 추론 항목에 따라 차이가 벌어지는 분포입니다.</description><pubDate>Fri, 28 Aug 2026 07:40:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck2Pkhj4Fx</guid></item><item><title>스레드에서 무조건 팔로우 해야하는 최고의 AI 소식 계정 8개
+Grok Bot은 계정마다 붙는 지속형 클라우드 컴퓨터에서 돌아가는 에이전트인데요.
+각 봇이 자기 화면을 갖고 브라우저와 터미널을 직접 쓰며, 팀원에게 메시지 보내듯 일을 맡기면 승인이 필요한 순간에만 사용자에게 돌아옵니다.
 
-1. @swhan0329_ 
-오픈AI 코덱스 앰버서더로, 코덱스 팁과 직접 해본...</title><link>https://www.threads.net/@choi.openai/post/DckqLMqj-A3</link><description>스레드에서 무조건 팔로우 해야하는 최고의 AI 소식 계정 8개
+최근에는 에이전트마다 컴퓨팅과 기억을 따로 붙이는 흐름이 이어지고 있습니다.
 
-1. @swhan0329_ 
-오픈AI 코덱스 앰버서더로, 코덱스 팁과 직접 해본 AI 활용 사례공유
+봇이 사람에게 전화를 거는 기능은 SpaceXAI가 지난 7월 분당 0.05달러짜리 음성 에이전트로 공개했었는데요. 이러면, 작업 중 판단이 필요하면 전화를 걸고 사용자가 그 자리에서 결정해 다시 일을 넘길 수 있습니다.
 
-2. @gabriel.chua_ 
-오픈AI DX 엔지니어로, 코덱스와 ChatGPT Work 활용 팁을 직접 공유
+결국, 어떤 디바이스로 작업하던 작업과 맥락은 그대로 이어지는 방식입니다.
 
-3. @nono_ai_archive 
-브랜드 디자이너로, GPT를 활용한 브랜드·타이포·그래픽 디자인 실험과 제작법 공유
-
-4.@specal1849 
-최신 AI와 공학 이야기를 쉽게 풀고, AI 에이전트·프롬프트·도구 가이드를 제공
-
-5. @testingcatalog 
-ChatGPT·Claude·Gemini의 신기능과 실험 중인 기능 공유
-
-6. @btibor91 
-ChatGPT·Claude 업데이트와 앱에서 발견한 미공개 기능 공유
-
-7. @boris_cherny 
-앤트로픽 Claude Code 엔지니어로, 코딩 에이전트를 실제 개발과 유지보수에 쓰는 방법 공유
-
-8. @choi.openai - GOAT</description><pubDate>Fri, 28 Aug 2026 05:54:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DckqLMqj-A3</guid></item><item><title>스레드에서 소통 해주시는 한국 오픈AI 엔지니어 분들:
-
-1. @g471000 
-
-2. @daeyeol_shim 
-
-3. @won_openai</title><link>https://www.threads.net/@choi.openai/post/DckraWKD4yJ</link><description>스레드에서 소통 해주시는 한국 오픈AI 엔지니어 분들:
-
-1. @g471000 
-
-2. @daeyeol_shim 
-
-3. @won_openai</description><pubDate>Fri, 28 Aug 2026 06:05:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DckraWKD4yJ</guid></item><item><title>빌 게이츠가 AI 낙관론의 전제를 3년 만에 뒤집었습니다.
-
-2023년 “위험은 관리 가능하다”
-2024년 “로봇은 기피 업무부터 맡는다”
-20...</title><link>https://www.threads.net/@choi.openai/post/Dcknbfxj8Zx</link><description>빌 게이츠가 AI 낙관론의 전제를 3년 만에 뒤집었습니다.
-
-2023년 “위험은 관리 가능하다”
-2024년 “로봇은 기피 업무부터 맡는다”
-2025년 “대부분의 일에 인간이 필요 없을 수 있다”
-2026년 “인류는 아무 계획도 없다”
-
-같은 사람이 왜 여기까지 돌아섰을까요? 🧵</description><pubDate>Fri, 28 Aug 2026 05:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcknbfxj8Zx</guid></item><item><title>1/ 2026년 8월 26일 빌 게이츠는 12쪽, 5,784단어의 AI 경고문을 공개했습니다.
-
-그는 최선의 경우에도 이번 전환이 인류 역사상 ...</title><link>https://www.threads.net/@choi.openai/post/DckncMZj6p5</link><description>1/ 2026년 8월 26일 빌 게이츠는 12쪽, 5,784단어의 AI 경고문을 공개했습니다.
-
-그는 최선의 경우에도 이번 전환이 인류 역사상 가장 격렬한 시기 중 하나가 될 수 있는데, 지도자와 전문가, 공동체가 충분히 대비하고 있다는 증거는 보이지 않는다고 썼습니다.
-
-글의 중심은 AI가 어디까지 발전하느냐보다 사회가 그 변화를 얼마나 감당할 수 있느냐에 있습니다. 2023년에는 재교육과 지원으로 충격을 흡수할 수 있다고 봤지만, 2026년에는 그런 준비가 실제로 이뤄지지 않는다는 판단입니다.
-
-그가 즉시 준비하자고 요구한 영역은 일자리, 악용 방지, 인간이 맡을 일을 정하는 제도입니다.</description><pubDate>Fri, 28 Aug 2026 05:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DckncMZj6p5</guid></item><item><title>2/ 2023년 7월 게이츠는 AI의 위험이 현실이라고 인정하면서도 기존 제도로 관리할 수 있다고 썼습니다.
-
-당분간 생산성이 높아지고 교사와 ...</title><link>https://www.threads.net/@choi.openai/post/DckndCtD-EW</link><description>2/ 2023년 7월 게이츠는 AI의 위험이 현실이라고 인정하면서도 기존 제도로 관리할 수 있다고 썼습니다.
-
-당분간 생산성이 높아지고 교사와 돌봄 인력의 수요도 계속될 것으로 봤으며, PC가 퍼질 때처럼 재교육과 소득 지원이 거친 전환을 완충할 수 있다고 예상했습니다.
-
-AI는 교사를 없애기보다 수업 준비를 돕고, 의료진이 부족한 지역에서는 진료 접근성을 높일 것으로 봤습니다.
-
-정책의 초점도 기술의 발전을 늦추기보다 혜택에서 밀려난 사람을 다시 참여시키는 쪽입니다.
-
-당시의 낙관을 떠받친 것은 학교와 노동시장, 복지제도가 변화에 맞춰 움직일 수 있다는 믿음이었습니다.</description><pubDate>Fri, 28 Aug 2026 05:31:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DckndCtD-EW</guid></item><item><title>3/ 2024년 1월 로봇에 관한 글에서도 사회가 적응할 시간은 남아 있다고 봤습니다.
-
-당시 로봇은 민첩성, 이동성, 인지 능력이 부족했기 때...</title><link>https://www.threads.net/@choi.openai/post/DckneD3D4uo</link><description>3/ 2024년 1월 로봇에 관한 글에서도 사회가 적응할 시간은 남아 있다고 봤습니다.
-
-당시 로봇은 민첩성, 이동성, 인지 능력이 부족했기 때문에 노동력 부족을 메우고 위험하거나 보람이 적은 업무부터 맡을 가능성이 컸습니다.
-
-농업과 건설처럼 인력 부족이 크고 반복 작업이 많은 분야가 대표적인 적용처였죠. 일자리를 잃는 사람에게는 지원이 필요하지만, 사람들이 좋아하는 일을 먼저 빼앗지는 않을 것이라는 전망이었습니다.
-
-물리 세계의 발전 속도가 느리면 인간 접촉이 필요한 직업은 오래 남고 노동자도 다른 역할을 준비할 수 있다는 계산입니다. 게이츠는 이 시기까지 자동화의 주된 효과를 대체보다 보완에 두고 있었습니다.</description><pubDate>Fri, 28 Aug 2026 05:31:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DckneD3D4uo</guid></item></channel></rss>
+앞으로는 보고와 전달, 승인마다 사람이 붙는 기존 조직은 그 과정 자체가 병목이 되고, 필요한 판단만 사람에게 넘기는 구조로 빨리 바꾼 기업일수록 같은 인원으로 더 많은 일을 처리하게 될 겁니다.</description><pubDate>Fri, 28 Aug 2026 15:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DclomcwCoSi</guid></item></channel></rss>
