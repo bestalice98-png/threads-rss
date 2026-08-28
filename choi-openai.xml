@@ -1,70 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 27 Aug 2026 18:52:11 +0000</lastBuildDate><item><title>🚨 속보) 구글이 Gemini Omni 1.1 Flash를 공개했습니다.</title><link>https://www.threads.net/@choi.openai/post/DcjVBiugFtX</link><description>🚨 속보) 구글이 Gemini Omni 1.1 Flash를 공개했습니다.</description><pubDate>Thu, 27 Aug 2026 17:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjVBiugFtX</guid></item><item><title>1/ 구글이 8월 27일 Gemini Omni 1.1 Flash를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 28 Aug 2026 00:09:39 +0000</lastBuildDate><item><title>구글 AI Pro를 구독 중이라면 매달 구글 클라우드 크레딧 10달러를 따로 받을 수 있습니다. Ultra는 월 100달러입니다.
 
-Omni는 지난 5월에 나온 구글의 영상 모델입니다. 영상을 ...</title><link>https://www.threads.net/@choi.openai/post/DcjVCfQAOF-</link><description>1/ 구글이 8월 27일 Gemini Omni 1.1 Flash를 공개했습니다.
+기존에는 개...</title><link>https://www.threads.net/@choi.openai/post/Dcj-K_ggf2b</link><description>구글 AI Pro를 구독 중이라면 매달 구글 클라우드 크레딧 10달러를 따로 받을 수 있습니다. Ultra는 월 100달러입니다.
 
-Omni는 지난 5월에 나온 구글의 영상 모델입니다. 영상을 새로 만드는 일과, 이미 있는 영상에 자막이나 물체를 넣고 카메라 움직임을 바꾸는 편집을 같은 모델 하나가 처리합니다.
+기존에는 개발자 프로그램 페이지에서 직접 활성화해야 했는데, 이제 AI Studio 안에서 바로 받을 수 있게 됐습니다.
 
-이번 1.1은 그 위에 개발자가 결과를 통제할 손잡이를 얹은 업데이트인데요.
-장면 이어 붙이기, 첫·끝 프레임 지정, 360p 초안, 4K 업스케일, 영상 레퍼런스 입력 다섯 가지가 한꺼번에 열렸습니다.
+크레딧은 Vertex AI와 Firebase는 물론 Google Cloud와 Maps 제품 전반에 사용할 수 있고, Gemini API 호출 비용에도 적용됩니다. 다만 지급 후 1년이 지나면 사라지고 다음 달로 이월되지는 않습니다.
 
-구글은 이번 판을 두고 실제 제품에 넣을 수 있는 단계가 됐다고 설명합니다.
+원래 연 299달러짜리 Google Developer Program Premium에 포함된 혜택이었지만, 지난 1월부터 AI Pro와 Ultra 구독에도 들어갔습니다.
 
-Gemini API와 Google AI Studio에서 바로 쓸 수 있고, 기업용 에이전트 플랫폼과 Google Flow에도 발표와 함께 열렸습니다. 장면 이어 붙이기는 Gemini 앱의 유료 구독자에게도 들어갑니다.</description><pubDate>Thu, 27 Aug 2026 17:30:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjVCfQAOF-</guid></item><item><title>2/ 다섯 가지 변화 중 가장 큰 건 장면을 이어 만드는 기능입니다.
+AI Studio에서 모델을 테스트한 뒤 실제 앱이나 API로 연결할 때 별도 크레딧을 준비해야 했던 부담이 조금 줄어들 것 같습니다.</description><pubDate>Thu, 27 Aug 2026 23:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcj-K_ggf2b</guid></item><item><title>알리바바가 Qwen3.8-Flash-Next의 무검열판이 하루만에 나왔습니다.
 
-이미 만든 영상 뒤에 다음 장면을 계속 생성하는 기능인데요.
-이전 모델은...</title><link>https://www.threads.net/@choi.openai/post/DcjVD5_ADr-</link><description>2/ 다섯 가지 변화 중 가장 큰 건 장면을 이어 만드는 기능입니다.
+AI 게이트웨이 업체 OrcaRouter가 만든 판인데요. 안전...</title><link>https://www.threads.net/@choi.openai/post/Dcjz6btj2Ga</link><description>알리바바가 Qwen3.8-Flash-Next의 무검열판이 하루만에 나왔습니다.
 
-이미 만든 영상 뒤에 다음 장면을 계속 생성하는 기능인데요.
-이전 모델은 직전 1초만 보고 이어 붙였습니다. 사실상 마지막 몇 프레임만 참고하는 수준이라, 인물의 얼굴이나 옷, 조명이 몇 초만 지나도 달라지는 일이 잦았습니다.
+AI 게이트웨이 업체 OrcaRouter가 만든 판인데요. 안전 평가 8종에서 유해 프롬프트 거부율은 0.0%로 내려간 반면 MMLU는 90.0에서 87.7로 떨어지는 데 그쳐, 거부만 빠지고 능력은 거의 그대로 남았습니다.
 
-1.1은 앞선 10초를 참고해 다음 장면을 만듭니다. 10초씩 이어 붙여 최대 40초까지 만들 수 있고, 구글은 인물과 배경의 일관성, 이야기 연결도 더 좋아졌다고 설명합니다.
+어블리터레이션이라는 기법 때문인데요. 모델이 거절을 만드는 회로가 내부 신호 흐름의 방향 하나에 몰려 있다는 게 2024년 연구에서 밝혀졌고, 그 방향만 가중치에서 지우면 재학습 없이 거부가 사라집니다. 앞선 27B 판은 층 하나에서 방향을 뽑아 131개 행렬에서 걷어냈습니다.
 
-40초면 짧은 광고나 인트로 한 편을 만들 수 있는 길이입니다. 같은 장면에서 지시만 바꿔 여러 버전으로 갈라 보는 것도 가능해져, 한 컷을 두고 서로 다른 전개를 비교할 수 있습니다.</description><pubDate>Thu, 27 Aug 2026 17:31:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjVD5_ADr-</guid></item><item><title>3/ 장면을 이어 만드는 방향을 직접 정할 수 있는 기능도 두 가지 추가됐습니다.
+가중치를 공개하는 결정과 안전장치를 남기는 결정이 더는 붙어 있지 않습니다.
+OrcaRouter가 가드레일과 에이전트 방화벽을 파는 회사라는 점이 묘한데, 막으려면 뚫는 법부터 알아야 한다는 게 그들의 설명입니다.</description><pubDate>Thu, 27 Aug 2026 22:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcjz6btj2Ga</guid></item><item><title>허깅페이스 :
+https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF</title><link>https://www.threads.net/@choi.openai/post/Dcjz7fwjyCB</link><description>허깅페이스 :
+https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF</description><pubDate>Thu, 27 Aug 2026 22:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcjz7fwjyCB</guid></item><item><title>엿새 동안 OpenRouter 1위를 지킨 모델을 이제 RAM 128GB PC에서도 돌릴 수 있습니다.
 
-첫 프레임과 마지막 프레임을 지정하면, 그 사이 움직임은 모...</title><link>https://www.threads.net/@choi.openai/post/DcjVFFzgFaX</link><description>3/ 장면을 이어 만드는 방향을 직접 정할 수 있는 기능도 두 가지 추가됐습니다.
+어제 ZhipuAI가 익명 모델 Ox ...</title><link>https://www.threads.net/@choi.openai/post/DcjpimAAoc5</link><description>엿새 동안 OpenRouter 1위를 지킨 모델을 이제 RAM 128GB PC에서도 돌릴 수 있습니다.
 
-첫 프레임과 마지막 프레임을 지정하면, 그 사이 움직임은 모델이 채웁니다. 인물 주위를 도는 카메라 샷이나 화면 속 TV로 빨려 들어가는 전환, 끝 장면이 다시 처음으로 이어지는 반복 영상처럼 시작과 끝이 중요한 장면에 잘 맞습니다.
+어제 ZhipuAI가 익명 모델 Ox Alpha의 정체를 GLM-5.3-Flash로 공개하고 MIT 라이선스로 가중치까지 풀었는데요. Unsloth는 하루 만에 3비트 GGUF 버전을 공개했습니다.
 
-말로만 결과를 설명하는 대신, 시작 화면과 끝 화면을 먼저 정해 두고 중간을 생성하게 되는 겁니다. 콘티를 짜는 방식과 더 가까워졌습니다.
+320B 규모지만 매 토큰마다 약 18B 파라미터만 활성화되는 MoE 구조라 3비트 양자화와 결합하면 128GB 메모리에서도 구동할 수 있습니다. 100만 토큰 컨텍스트와 텍스트·이미지·영상 멀티모달 능력까지 지원합니다.
 
-여기에 최대 3초짜리 영상도 참고 자료로 넣을 수 있습니다.
-공식 예시에서는 춤추는 사람 영상 세 개와 캐릭터 이미지를 함께 넣어, 개·문어·곰이 서로 다른 춤을 한 공간에서 추는 장면을 한 컷으로 만들었습니다.</description><pubDate>Thu, 27 Aug 2026 17:31:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjVFFzgFaX</guid></item><item><title>🚨 코덱스 리셋 완료.</title><link>https://www.threads.net/@choi.openai/post/DcjPMVsD4Rj</link><description>🚨 코덱스 리셋 완료.</description><pubDate>Thu, 27 Aug 2026 16:39:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjPMVsD4Rj</guid></item><item><title>허깅페이스의 로봇팀 폴렌 로보틱스가 25cm 이족보행 로봇 ‘Microduck’을 공개했습니다. 사전예약가는 세금과 배송비를 뺀 399달러입니다...</title><link>https://www.threads.net/@choi.openai/post/DcjKuWtAAZW</link><description>허깅페이스의 로봇팀 폴렌 로보틱스가 25cm 이족보행 로봇 ‘Microduck’을 공개했습니다. 사전예약가는 세금과 배송비를 뺀 399달러입니다.
+두 달 전만 해도 대형 GLM을 로컬에서 돌리려면 1비트 수준까지 압축하며 성능 손실을 감수해야 했습니다.
 
-15개 모터로 걷고, 부리로 물건을 집고, 넘어지면 스스로 일어나며 바퀴를 달면 롤러스케이트도 탑니다. 이 동작들은 물리 시뮬레이션에서 강화학습으로 익힌 뒤 실제 로봇에 옮긴 결과입니다.
+대형 모델의 로컬 실행이 더 이상 일부 매니아의 실험으로만 보이지 않습니다.
+모델 경량화와 MoE, 양자화가 동시에 빨라지면서 개인이 강력한 AI를 직접 소유하는 시점이 생각보다 훨씬 빠르게 다가오고 있습니다</description><pubDate>Thu, 27 Aug 2026 20:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjpimAAoc5</guid></item><item><title>허깅페이스 :
+https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF</title><link>https://www.threads.net/@choi.openai/post/DcjplNMgvNE</link><description>허깅페이스 :
+https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF</description><pubDate>Thu, 27 Aug 2026 20:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjplNMgvNE</guid></item><item><title>회사에서 쓰는 AI 에이전트를 이제 슬랙, 팀즈, 디스코드에 따로 만들 필요가 없어지고 있습니다.
 
-사용자는 새 동작을 같은 방식으로 훈련해 로봇에 넣고 공유할 수 있습니다. 개발도구와 시뮬레이터, 학습 도구는 공개됐으며 기계와 전자 설계 파일은 포함되지 않습니다.
+앤트로픽이 하나의 에이전트를 여러 메신저에 ...</title><link>https://www.threads.net/@choi.openai/post/DcjfTmsitZF</link><description>회사에서 쓰는 AI 에이전트를 이제 슬랙, 팀즈, 디스코드에 따로 만들 필요가 없어지고 있습니다.
 
-첫 배송은 2026년 크리스마스 전을 목표로 하며 북미와 유럽부터 판매합니다.
-개인 개발자가 시뮬레이션에서 만든 동작을 실제 로봇으로 시험할 수 있도록 진입 비용을 낮춘 제품입니다.</description><pubDate>Thu, 27 Aug 2026 16:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjKuWtAAZW</guid></item><item><title>사전 주문 :
-https://pollen-robotics.com/microduck/</title><link>https://www.threads.net/@choi.openai/post/DcjKvc_AF0t</link><description>사전 주문 :
-https://pollen-robotics.com/microduck/</description><pubDate>Thu, 27 Aug 2026 16:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjKvc_AF0t</guid></item><item><title>AI가 일자리를 대체한다”는 말보다 무서운 전망이 나왔습니다.
+앤트로픽이 하나의 에이전트를 여러 메신저에 연결하는 공식 가이드를 공개했습니다. 앞단의 채팅 연결은 Vercel Chat SDK가 맡고, 뒤에서는 Claude Managed Agents가 실행과 세션, 메모리를 관리합니다.
 
-SemiAnalysis의 Dylan Patel은 프런티어 AI 연구소의 AI 노...</title><link>https://www.threads.net/@choi.openai/post/DcjCA2Aj9RN</link><description>AI가 일자리를 대체한다”는 말보다 무서운 전망이 나왔습니다.
+개발자는 메시지 처리 로직을 한 번만 작성하면 15개가 넘는 채팅 채널에서 같은 에이전트를 운영할 수 있고, 대화도 하나의 세션으로 이어집니다.
 
-SemiAnalysis의 Dylan Patel은 프런티어 AI 연구소의 AI 노동력이 매년 10배씩 늘어, 2030년 전 한 회사의 AI 노동력이 전 세계 인구보다 많아질 수 있다고 전망했습니다.
+필요하면 자체 샌드박스를 연결해 실제 파일 시스템에서 bash 명령과 파일 편집까지 수행하게 만들 수도 있습니다.
 
-그리고 이 폭발적인 성장의 속도를 결정하는 건 결국 자본과 전력, 규제가 될 것이라고 내다봤습니다.
+앞으로는 슬랙용 봇, 팀즈용 봇을 따로 쓰는 개념 자체가 약해질 것 같습니다.
 
-Dylan Patel의 놀라운 전망과 사례 13가지를 정리했습니다🧵</description><pubDate>Thu, 27 Aug 2026 14:44:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjCA2Aj9RN</guid></item><item><title>1/ 딜런 파텔(Dylan Patel)은 AI 연구소들의 경제 구조가 극적인 전환점을 맞이했다고 분석했습니다.
-
-과거에는 모델을 서비스할수록 마...</title><link>https://www.threads.net/@choi.openai/post/DcjBcKejoFP</link><description>1/ 딜런 파텔(Dylan Patel)은 AI 연구소들의 경제 구조가 극적인 전환점을 맞이했다고 분석했습니다.
-
-과거에는 모델을 서비스할수록 마진이 마이너스였지만, 차세대 모델 등장과 함께 마진율이 폭발적으로 상승했습니다. 그는 “AI 연산 비용이 메가와트당 1,000만~1,500만 달러 수준인 반면, 일부 연구소는 메가와트당 최대 5,000만 달러의 매출을 창출하고 있다”고 밝혔습니다.
-
-이러한 수익성 개선 덕분에 기업들은 외부 자본 수혈 없이 자체 매출로 인프라를 확장하는 선순환 구조에 진입했습니다.
-
-파텔은 “추론 인프라에 10달러를 투자해 50달러의 매출을 올리고, 그 수익을 다시 차세대 모델 훈련에 재투자하는 구조”가 정착되며 AI 설비 투자(CapEx) 규모가 수조 달러 단위로 폭증할 것이라 전망했습니다.</description><pubDate>Thu, 27 Aug 2026 14:44:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjBcKejoFP</guid></item><item><title>2/ 딜런 파텔(Dylan Patel)은 프론티어 AI 연구소들로의 연산 자원 독점에 대해 “컴퓨팅의 중앙집중화는 둔화되기는커녕 오히려 가속화되...</title><link>https://www.threads.net/@choi.openai/post/DcjBe8IDYMc</link><description>2/ 딜런 파텔(Dylan Patel)은 프론티어 AI 연구소들로의 연산 자원 독점에 대해 “컴퓨팅의 중앙집중화는 둔화되기는커녕 오히려 가속화되고 있다”고 밝혔습니다.
-
-그는 오픈AI와 앤트로픽 두 곳이 내년까지 전 세계 신규 증설 연산력(Compute)의 40~50%를 차지할 것으로 전망했습니다
- 특히 GB300, TPU v7 등 차세대 칩이 이전 세대 대비 와트당 3~5배 높은 성능을 내면서 실제 가용 연산 성능 격차는 기하급수적으로 벌어지고 있다고 분석했습니다.
-
-SpaceX 등 거대 기업들까지 인프라 구축 후 이들에게 연산 자원을 임대하는 흐름을 짚으며, “2027~2028년에는 전 세계 신규 컴퓨팅 파워의 절반 이상을 단 두 곳이 지배하는 구조가 굳어질 것”이라고 강조했습니다.</description><pubDate>Thu, 27 Aug 2026 14:44:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjBe8IDYMc</guid></item><item><title>3/ 딜런 파텔(Dylan Patel)은 프론티어 AI 랩들의 경제성과 규제 리스크를 분석했습니다.
-
-그는 프론티어 랩들이 2028년까지 100...</title><link>https://www.threads.net/@choi.openai/post/DcjBhdMjzmT</link><description>3/ 딜런 파텔(Dylan Patel)은 프론티어 AI 랩들의 경제성과 규제 리스크를 분석했습니다.
-
-그는 프론티어 랩들이 2028년까지 100GW 전력 규모를 확보하고 전 세계 컴퓨팅의 70%를 독식하려면, 메가와트(MW)당 2,500만~5,000만 달러에 달하는 막대한 비용을 감당해야 한다고 설명했습니다.
-
-하지만 자체 벤치마크 및 안전 규제로 인해 최고 성능의 모델(예: Astra, Mythos 후속작 등) 출시를 미루면서 MW당 수익화 속도에 제동이 걸리고 있다고 지적했습니다.
-
-“안전성 문제가 개입하지 않는 세계라면 프론티어 랩은 MW당 1억 달러 이상의 수익을 창출하며 모든 컴퓨팅 자원을 흡수했을 것”이라며, 규제로 인한 모델 출시 지연이 선두 기업의 컴퓨팅 독점 속도를 늦추고 오픈소스 진영과의 격차를 좁히는 핵심 변수가 되고 있다고 강조했습니다.</description><pubDate>Thu, 27 Aug 2026 14:45:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjBhdMjzmT</guid></item></channel></rss>
+어떤 메신저를 열어도 같은 컨텍스트를 기억하고 이어서 처리하는 개인화된 에이전트가 점점 현실에 가까워지고 있습니다.</description><pubDate>Thu, 27 Aug 2026 19:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjfTmsitZF</guid></item><item><title>깃허브 :
+https://github.com/anthropics/claude-cookbooks/tree/main/managed_agents/se...</title><link>https://www.threads.net/@choi.openai/post/DcjfWWWipB1</link><description>깃허브 :
+https://github.com/anthropics/claude-cookbooks/tree/main/managed_agents/self_hosted_sandboxes/vercel</description><pubDate>Thu, 27 Aug 2026 19:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjfWWWipB1</guid></item></channel></rss>
