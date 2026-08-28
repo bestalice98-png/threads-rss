@@ -1,50 +1,116 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 28 Aug 2026 00:09:39 +0000</lastBuildDate><item><title>구글 AI Pro를 구독 중이라면 매달 구글 클라우드 크레딧 10달러를 따로 받을 수 있습니다. Ultra는 월 100달러입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 28 Aug 2026 09:49:52 +0000</lastBuildDate><item><title>앤트로픽이 연구·제조 장비를 AI 에이전트가 제어하기 위한 표준 MHS(Model Hardware Standard)를 공개했습니다.
+기기마다 제...</title><link>https://www.threads.net/@choi.openai/post/Dck_Yq1CbYc</link><description>앤트로픽이 연구·제조 장비를 AI 에이전트가 제어하기 위한 표준 MHS(Model Hardware Standard)를 공개했습니다.
+기기마다 제각각이던 제어 방식을 공통 인터페이스로 묶어, 몇 주씩 걸리던 장비 연동을 몇 시간 수준으로 줄이는 것이 목표입니다.
 
-기존에는 개...</title><link>https://www.threads.net/@choi.openai/post/Dcj-K_ggf2b</link><description>구글 AI Pro를 구독 중이라면 매달 구글 클라우드 크레딧 10달러를 따로 받을 수 있습니다. Ultra는 월 100달러입니다.
+실제 QuEra의 양자컴퓨터 레이저 복구에서는 엔지니어 4명이 몇 달간 만든 스크립트가 58% 성공률에 그쳤지만, Claude가 밤새 가설·수정·실행·판독을 반복하며 99.3%까지 끌어올렸습니다. 사람 없이 진행한 700번의 테스트 중 695번 성공했습니다.
 
-기존에는 개발자 프로그램 페이지에서 직접 활성화해야 했는데, 이제 AI Studio 안에서 바로 받을 수 있게 됐습니다.
+다만 물리 세계에서는 작은 실수가 장비 손상으로 이어질 수 있습니다. 실제로 Claude가 거품 때문에 발생한 오류를 같은 위치에서 반복하며 문제를 키운 사례도 있었습니다.
 
-크레딧은 Vertex AI와 Firebase는 물론 Google Cloud와 Maps 제품 전반에 사용할 수 있고, Gemini API 호출 비용에도 적용됩니다. 다만 지급 후 1년이 지나면 사라지고 다음 달로 이월되지는 않습니다.
+그래서 앤트로픽은 MHS를 아직 신청제로만 공개하고 있는데요. AI가 현실 세계에 손을 뻗기 시작한 만큼, 앞으로는 성능만큼이나 물리적 안전장치를 어떻게 설계하느냐가 중요해질 것 같습니다.</description><pubDate>Fri, 28 Aug 2026 09:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck_Yq1CbYc</guid></item><item><title>발표내용 :
+https://www.anthropic.com/news/model-hardware-standard-research-preview</title><link>https://www.threads.net/@choi.openai/post/Dck_Z6GCZpW</link><description>발표내용 :
+https://www.anthropic.com/news/model-hardware-standard-research-preview</description><pubDate>Fri, 28 Aug 2026 09:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck_Z6GCZpW</guid></item><item><title>🚨 와.. 중국이 또 7,700억 매개변수 모델을 오픈웨이트로 풀었습니다.
 
-원래 연 299달러짜리 Google Developer Program Premium에 포함된 혜택이었지만, 지난 1월부터 AI Pro와 Ultra 구독에도 들어갔습니다.
+이번엔 텐센트입니다. 7,700억 매개변수 Hy4를 Apache 2...</title><link>https://www.threads.net/@choi.openai/post/Dck2NayD7dH</link><description>🚨 와.. 중국이 또 7,700억 매개변수 모델을 오픈웨이트로 풀었습니다.
 
-AI Studio에서 모델을 테스트한 뒤 실제 앱이나 API로 연결할 때 별도 크레딧을 준비해야 했던 부담이 조금 줄어들 것 같습니다.</description><pubDate>Thu, 27 Aug 2026 23:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcj-K_ggf2b</guid></item><item><title>알리바바가 Qwen3.8-Flash-Next의 무검열판이 하루만에 나왔습니다.
+이번엔 텐센트입니다. 7,700억 매개변수 Hy4를 Apache 2.0으로 풀었습니다.
 
-AI 게이트웨이 업체 OrcaRouter가 만든 판인데요. 안전...</title><link>https://www.threads.net/@choi.openai/post/Dcjz6btj2Ga</link><description>알리바바가 Qwen3.8-Flash-Next의 무검열판이 하루만에 나왔습니다.
+중국 프런티어 모델의 공개 간격이 며칠 단위까지 짧아졌습니다 🧵</description><pubDate>Fri, 28 Aug 2026 07:40:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck2NayD7dH</guid></item><item><title>1/ 텐센트가 8월 28일 Hy4 프리뷰의 가중치와 코드를 공개했습니다.
 
-AI 게이트웨이 업체 OrcaRouter가 만든 판인데요. 안전 평가 8종에서 유해 프롬프트 거부율은 0.0%로 내려간 반면 MMLU는 90.0에서 87.7로 떨어지는 데 그쳐, 거부만 빠지고 능력은 거의 그대로 남았습니다.
+전체 파라미터는 7,700억이고 토큰 하나를 처리할 때 490억이 작...</title><link>https://www.threads.net/@choi.openai/post/Dck2N_zD9mu</link><description>1/ 텐센트가 8월 28일 Hy4 프리뷰의 가중치와 코드를 공개했습니다.
 
-어블리터레이션이라는 기법 때문인데요. 모델이 거절을 만드는 회로가 내부 신호 흐름의 방향 하나에 몰려 있다는 게 2024년 연구에서 밝혀졌고, 그 방향만 가중치에서 지우면 재학습 없이 거부가 사라집니다. 앞선 27B 판은 층 하나에서 방향을 뽑아 131개 행렬에서 걷어냈습니다.
+전체 파라미터는 7,700억이고 토큰 하나를 처리할 때 490억이 작동합니다.
 
-가중치를 공개하는 결정과 안전장치를 남기는 결정이 더는 붙어 있지 않습니다.
-OrcaRouter가 가드레일과 에이전트 방화벽을 파는 회사라는 점이 묘한데, 막으려면 뚫는 법부터 알아야 한다는 게 그들의 설명입니다.</description><pubDate>Thu, 27 Aug 2026 22:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcjz6btj2Ga</guid></item><item><title>허깅페이스 :
-https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF</title><link>https://www.threads.net/@choi.openai/post/Dcjz7fwjyCB</link><description>허깅페이스 :
-https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF</description><pubDate>Thu, 27 Aug 2026 22:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcjz7fwjyCB</guid></item><item><title>엿새 동안 OpenRouter 1위를 지킨 모델을 이제 RAM 128GB PC에서도 돌릴 수 있습니다.
+문맥 길이는 100만 토큰이며 Apache 2.0 가중치와 FP8 버전이 GitHub와 Hugging Face에 함께 올라왔습니다.
 
-어제 ZhipuAI가 익명 모델 Ox ...</title><link>https://www.threads.net/@choi.openai/post/DcjpimAAoc5</link><description>엿새 동안 OpenRouter 1위를 지킨 모델을 이제 RAM 128GB PC에서도 돌릴 수 있습니다.
+소프트웨어 개발, 여러 문서가 섞인 사무 작업, 과학 연구가 주요 사용처이며 Tencent Cloud와 OpenRouter에서 사용이 가능합니다.</description><pubDate>Fri, 28 Aug 2026 07:40:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck2N_zD9mu</guid></item><item><title>2/ 이번 공개까지 포함한 지난 한 달은 중국에서 대형 모델이 거의 매주 새로 나왔습니다.
 
-어제 ZhipuAI가 익명 모델 Ox Alpha의 정체를 GLM-5.3-Flash로 공개하고 MIT 라이선스로 가중치까지 풀었는데요. Unsloth는 하루 만에 3비트 GGUF 버전을 공개했습니다.
+7월 28일 Kimi K3는 2.8조에 활성 1,0...</title><link>https://www.threads.net/@choi.openai/post/Dck2O5LD6WF</link><description>2/ 이번 공개까지 포함한 지난 한 달은 중국에서 대형 모델이 거의 매주 새로 나왔습니다.
 
-320B 규모지만 매 토큰마다 약 18B 파라미터만 활성화되는 MoE 구조라 3비트 양자화와 결합하면 128GB 메모리에서도 구동할 수 있습니다. 100만 토큰 컨텍스트와 텍스트·이미지·영상 멀티모달 능력까지 지원합니다.
+7월 28일 Kimi K3는 2.8조에 활성 1,040억, 8월 3일 Qwen3.8 Max는 2.4조에 활성 950억, 8월 13일 DeepSeek V4 Pro는 약 1.6조에 활성 490억으로 공개됐습니다.
 
-두 달 전만 해도 대형 GLM을 로컬에서 돌리려면 1비트 수준까지 압축하며 성능 손실을 감수해야 했습니다.
+8월 26일에는 Qwen3.8 Flash Next가 전체 1,250억 가운데 60억만 작동하는 구조를 먼저 풀었고, 이틀 뒤 Hy4가 이어졌습니다.
 
-대형 모델의 로컬 실행이 더 이상 일부 매니아의 실험으로만 보이지 않습니다.
-모델 경량화와 MoE, 양자화가 동시에 빨라지면서 개인이 강력한 AI를 직접 소유하는 시점이 생각보다 훨씬 빠르게 다가오고 있습니다</description><pubDate>Thu, 27 Aug 2026 20:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjpimAAoc5</guid></item><item><title>허깅페이스 :
-https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF</title><link>https://www.threads.net/@choi.openai/post/DcjplNMgvNE</link><description>허깅페이스 :
-https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF</description><pubDate>Thu, 27 Aug 2026 20:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjplNMgvNE</guid></item><item><title>회사에서 쓰는 AI 에이전트를 이제 슬랙, 팀즈, 디스코드에 따로 만들 필요가 없어지고 있습니다.
+텐센트의 공개 흐름은 4월 Hy3 프리뷰, 7월 Hy3 정식판, 8월 Hy4 프리뷰로 이어졌습니다.
+Hy3는 전체 2,950억 가운데 210억이 작동하고 문맥은 25만6천 토큰이었습니다. Hy4는 전체 규모가 2.6배, 활성 파라미터가 2.3배, 문맥이 약 4배 커졌습니다.</description><pubDate>Fri, 28 Aug 2026 07:40:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck2O5LD6WF</guid></item><item><title>3/ 텐센트 공식 벤치마크에서 Hy4는 SWE-bench Multilingual 82.9, GDPval-AA v2 1,678, OneMillio...</title><link>https://www.threads.net/@choi.openai/post/Dck2Pkhj4Fx</link><description>3/ 텐센트 공식 벤치마크에서 Hy4는 SWE-bench Multilingual 82.9, GDPval-AA v2 1,678, OneMillionBench 65.4를 기록했습니다.
 
-앤트로픽이 하나의 에이전트를 여러 메신저에 ...</title><link>https://www.threads.net/@choi.openai/post/DcjfTmsitZF</link><description>회사에서 쓰는 AI 에이전트를 이제 슬랙, 팀즈, 디스코드에 따로 만들 필요가 없어지고 있습니다.
+DeepSWE는 28.0에서 64.3, Terminal-Bench 2.1은 70.8에서 85.4, PostTrainBench는 14.5에서 35.6으로 올랐습니다. 
 
-앤트로픽이 하나의 에이전트를 여러 메신저에 연결하는 공식 가이드를 공개했습니다. 앞단의 채팅 연결은 Vercel Chat SDK가 맡고, 뒤에서는 Claude Managed Agents가 실행과 세션, 메모리를 관리합니다.
+다국어 코딩에서는 Kimi K3, Qwen3.8 Max, GLM 5.3보다 높았고, GDPval은 Kimi K3와 비슷했습니다.
 
-개발자는 메시지 처리 로직을 한 번만 작성하면 15개가 넘는 채팅 채널에서 같은 에이전트를 운영할 수 있고, 대화도 하나의 세션으로 이어집니다.
+GPQA Diamond는 92.3, HLE는 43.4, CritPt는 16.9입니다. 코딩과 문서 작업에서는 중국 상위 모델과 같은 구간에 있고, 과학 추론 항목에 따라 차이가 벌어지는 분포입니다.</description><pubDate>Fri, 28 Aug 2026 07:40:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dck2Pkhj4Fx</guid></item><item><title>스레드에서 무조건 팔로우 해야하는 최고의 AI 소식 계정 8개
 
-필요하면 자체 샌드박스를 연결해 실제 파일 시스템에서 bash 명령과 파일 편집까지 수행하게 만들 수도 있습니다.
+1. @swhan0329_ 
+오픈AI 코덱스 앰버서더로, 코덱스 팁과 직접 해본...</title><link>https://www.threads.net/@choi.openai/post/DckqLMqj-A3</link><description>스레드에서 무조건 팔로우 해야하는 최고의 AI 소식 계정 8개
 
-앞으로는 슬랙용 봇, 팀즈용 봇을 따로 쓰는 개념 자체가 약해질 것 같습니다.
+1. @swhan0329_ 
+오픈AI 코덱스 앰버서더로, 코덱스 팁과 직접 해본 AI 활용 사례공유
 
-어떤 메신저를 열어도 같은 컨텍스트를 기억하고 이어서 처리하는 개인화된 에이전트가 점점 현실에 가까워지고 있습니다.</description><pubDate>Thu, 27 Aug 2026 19:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjfTmsitZF</guid></item><item><title>깃허브 :
-https://github.com/anthropics/claude-cookbooks/tree/main/managed_agents/se...</title><link>https://www.threads.net/@choi.openai/post/DcjfWWWipB1</link><description>깃허브 :
-https://github.com/anthropics/claude-cookbooks/tree/main/managed_agents/self_hosted_sandboxes/vercel</description><pubDate>Thu, 27 Aug 2026 19:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcjfWWWipB1</guid></item></channel></rss>
+2. @gabriel.chua_ 
+오픈AI DX 엔지니어로, 코덱스와 ChatGPT Work 활용 팁을 직접 공유
+
+3. @nono_ai_archive 
+브랜드 디자이너로, GPT를 활용한 브랜드·타이포·그래픽 디자인 실험과 제작법 공유
+
+4.@specal1849 
+최신 AI와 공학 이야기를 쉽게 풀고, AI 에이전트·프롬프트·도구 가이드를 제공
+
+5. @testingcatalog 
+ChatGPT·Claude·Gemini의 신기능과 실험 중인 기능 공유
+
+6. @btibor91 
+ChatGPT·Claude 업데이트와 앱에서 발견한 미공개 기능 공유
+
+7. @boris_cherny 
+앤트로픽 Claude Code 엔지니어로, 코딩 에이전트를 실제 개발과 유지보수에 쓰는 방법 공유
+
+8. @choi.openai - GOAT</description><pubDate>Fri, 28 Aug 2026 05:54:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DckqLMqj-A3</guid></item><item><title>스레드에서 소통 해주시는 한국 오픈AI 엔지니어 분들:
+
+1. @g471000 
+
+2. @daeyeol_shim 
+
+3. @won_openai</title><link>https://www.threads.net/@choi.openai/post/DckraWKD4yJ</link><description>스레드에서 소통 해주시는 한국 오픈AI 엔지니어 분들:
+
+1. @g471000 
+
+2. @daeyeol_shim 
+
+3. @won_openai</description><pubDate>Fri, 28 Aug 2026 06:05:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DckraWKD4yJ</guid></item><item><title>빌 게이츠가 AI 낙관론의 전제를 3년 만에 뒤집었습니다.
+
+2023년 “위험은 관리 가능하다”
+2024년 “로봇은 기피 업무부터 맡는다”
+20...</title><link>https://www.threads.net/@choi.openai/post/Dcknbfxj8Zx</link><description>빌 게이츠가 AI 낙관론의 전제를 3년 만에 뒤집었습니다.
+
+2023년 “위험은 관리 가능하다”
+2024년 “로봇은 기피 업무부터 맡는다”
+2025년 “대부분의 일에 인간이 필요 없을 수 있다”
+2026년 “인류는 아무 계획도 없다”
+
+같은 사람이 왜 여기까지 돌아섰을까요? 🧵</description><pubDate>Fri, 28 Aug 2026 05:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcknbfxj8Zx</guid></item><item><title>1/ 2026년 8월 26일 빌 게이츠는 12쪽, 5,784단어의 AI 경고문을 공개했습니다.
+
+그는 최선의 경우에도 이번 전환이 인류 역사상 ...</title><link>https://www.threads.net/@choi.openai/post/DckncMZj6p5</link><description>1/ 2026년 8월 26일 빌 게이츠는 12쪽, 5,784단어의 AI 경고문을 공개했습니다.
+
+그는 최선의 경우에도 이번 전환이 인류 역사상 가장 격렬한 시기 중 하나가 될 수 있는데, 지도자와 전문가, 공동체가 충분히 대비하고 있다는 증거는 보이지 않는다고 썼습니다.
+
+글의 중심은 AI가 어디까지 발전하느냐보다 사회가 그 변화를 얼마나 감당할 수 있느냐에 있습니다. 2023년에는 재교육과 지원으로 충격을 흡수할 수 있다고 봤지만, 2026년에는 그런 준비가 실제로 이뤄지지 않는다는 판단입니다.
+
+그가 즉시 준비하자고 요구한 영역은 일자리, 악용 방지, 인간이 맡을 일을 정하는 제도입니다.</description><pubDate>Fri, 28 Aug 2026 05:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DckncMZj6p5</guid></item><item><title>2/ 2023년 7월 게이츠는 AI의 위험이 현실이라고 인정하면서도 기존 제도로 관리할 수 있다고 썼습니다.
+
+당분간 생산성이 높아지고 교사와 ...</title><link>https://www.threads.net/@choi.openai/post/DckndCtD-EW</link><description>2/ 2023년 7월 게이츠는 AI의 위험이 현실이라고 인정하면서도 기존 제도로 관리할 수 있다고 썼습니다.
+
+당분간 생산성이 높아지고 교사와 돌봄 인력의 수요도 계속될 것으로 봤으며, PC가 퍼질 때처럼 재교육과 소득 지원이 거친 전환을 완충할 수 있다고 예상했습니다.
+
+AI는 교사를 없애기보다 수업 준비를 돕고, 의료진이 부족한 지역에서는 진료 접근성을 높일 것으로 봤습니다.
+
+정책의 초점도 기술의 발전을 늦추기보다 혜택에서 밀려난 사람을 다시 참여시키는 쪽입니다.
+
+당시의 낙관을 떠받친 것은 학교와 노동시장, 복지제도가 변화에 맞춰 움직일 수 있다는 믿음이었습니다.</description><pubDate>Fri, 28 Aug 2026 05:31:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DckndCtD-EW</guid></item><item><title>3/ 2024년 1월 로봇에 관한 글에서도 사회가 적응할 시간은 남아 있다고 봤습니다.
+
+당시 로봇은 민첩성, 이동성, 인지 능력이 부족했기 때...</title><link>https://www.threads.net/@choi.openai/post/DckneD3D4uo</link><description>3/ 2024년 1월 로봇에 관한 글에서도 사회가 적응할 시간은 남아 있다고 봤습니다.
+
+당시 로봇은 민첩성, 이동성, 인지 능력이 부족했기 때문에 노동력 부족을 메우고 위험하거나 보람이 적은 업무부터 맡을 가능성이 컸습니다.
+
+농업과 건설처럼 인력 부족이 크고 반복 작업이 많은 분야가 대표적인 적용처였죠. 일자리를 잃는 사람에게는 지원이 필요하지만, 사람들이 좋아하는 일을 먼저 빼앗지는 않을 것이라는 전망이었습니다.
+
+물리 세계의 발전 속도가 느리면 인간 접촉이 필요한 직업은 오래 남고 노동자도 다른 역할을 준비할 수 있다는 계산입니다. 게이츠는 이 시기까지 자동화의 주된 효과를 대체보다 보완에 두고 있었습니다.</description><pubDate>Fri, 28 Aug 2026 05:31:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DckneD3D4uo</guid></item></channel></rss>
