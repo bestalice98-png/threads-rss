@@ -1,35 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 28 Aug 2026 23:45:06 +0000</lastBuildDate><item><title>Grok Bot이 Stripe의 Link와 연동해 인터넷에서 직접 물건을 구매할 수 있게 됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 29 Aug 2026 05:50:15 +0000</lastBuildDate><item><title>🚨 코덱스 리셋 예정?
 
-사용자가 원하는 물건을 요청하면 Grok ...</title><link>https://www.threads.net/@choi.openai/post/DcmcEmniOt-</link><description>Grok Bot이 Stripe의 Link와 연동해 인터넷에서 직접 물건을 구매할 수 있게 됐습니다.
+아마 주간 활성 사용자 2500만을 넘어서지 않았나 싶네요.</title><link>https://www.threads.net/@choi.openai/post/DcnNRApD5V5</link><description>🚨 코덱스 리셋 예정?
 
-사용자가 원하는 물건을 요청하면 Grok Bot이 쇼핑을 진행하고, 결제할 때마다 사용자가 승인하면 일회용 가상카드를 발급받아 결제까지 마칩니다.
+아마 주간 활성 사용자 2500만을 넘어서지 않았나 싶네요.</description><pubDate>Sat, 29 Aug 2026 05:40:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcnNRApD5V5</guid></item><item><title>앤드류 응이 AI 엔지니어링 스킬맵의 세 번째 글을 공개했습니다.
 
-실제 카드번호는 Grok Bot에 전달되지 않으며 현재 미국에서 먼저 제공되고 있습니다.
+이번 주제는 역설적이게도 소프트웨어 기본기입니다. 에이전트가 모든 코드를 써...</title><link>https://www.threads.net/@choi.openai/post/DcnItl9Dx7N</link><description>앤드류 응이 AI 엔지니어링 스킬맵의 세 번째 글을 공개했습니다.
 
-검색하고 비교하는 수준을 넘어 돈을 쓰고 거래까지 끝낼 수 있게 되면서, AI에게 맡길 수 있는 업무의 범위가 또 하나 넓어지고 있습니다.</description><pubDate>Fri, 28 Aug 2026 22:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcmcEmniOt-</guid></item><item><title>🚨 GLM-5.3이 이제 오픈 웨이트로 제공됩니다!</title><link>https://www.threads.net/@choi.openai/post/DcmR0LKCVGD</link><description>🚨 GLM-5.3이 이제 오픈 웨이트로 제공됩니다!</description><pubDate>Fri, 28 Aug 2026 21:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcmR0LKCVGD</guid></item><item><title>허깅페이스 :
-https://huggingface.co/zai-org/GLM-5.3</title><link>https://www.threads.net/@choi.openai/post/DcmR1Q4iX_E</link><description>허깅페이스 :
-https://huggingface.co/zai-org/GLM-5.3</description><pubDate>Fri, 28 Aug 2026 21:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcmR1Q4iX_E</guid></item><item><title>오픈AI가 Codex에 작업이 끝난 뒤에도 스스로 후속 업무를 이어가는 ‘Persistent Mode’를 시험하고 있습니다.
+이번 주제는 역설적이게도 소프트웨어 기본기입니다. 에이전트가 모든 코드를 써주는 시대에 왜 기본기가 오히려 더 중요해졌는지를 다섯 가지 역량으로 정리했는데요.
 
-공개된 프롬프트를...</title><link>https://www.threads.net/@choi.openai/post/DcmHdvEkQeA</link><description>오픈AI가 Codex에 작업이 끝난 뒤에도 스스로 후속 업무를 이어가는 ‘Persistent Mode’를 시험하고 있습니다.
+1편의 네 역량, 2편의 AI 앱 구축에 이어 시리즈의 흐름이 어디로 향하는지까지 함께 정리했습니다 🧵</description><pubDate>Sat, 29 Aug 2026 05:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcnItl9Dx7N</guid></item><item><title>1/ 앤드류 응이 8월 29일 AI 엔지니어링 스킬맵의 세 번째 글을 공개했습니다.
 
-공개된 프롬프트를 보면 요청을 마친 뒤 다시 실행됐을 때 결과가 실제로 반영됐는지 확인하고, 기다리던 응답을 재점검하거나 원래 작업과 이어지는 다음 업무를 스스로 시작하는데요.
+이 시리즈는 1만 건이 넘는 채용 공고와 전문가 인터뷰를 ...</title><link>https://www.threads.net/@choi.openai/post/DcnIuZeD6Ed</link><description>1/ 앤드류 응이 8월 29일 AI 엔지니어링 스킬맵의 세 번째 글을 공개했습니다.
 
-기존 /goal이 하나의 장기 목표를 붙들고 작업을 계속하는 방식이었다면, Persistent Mode는 작업 완료 이후에도 필요한 후속 업무를 새로 만들어 이어간다는 점이 다릅니다.
+이 시리즈는 1만 건이 넘는 채용 공고와 전문가 인터뷰를 분석해 AI 시대 개발자의 역량을 네 가지로 정리한 지도입니다.
 
-다만 사용자가 맡긴 범위를 벗어나 마음대로 새 일을 벌일 수는 없습니다. 새 권한이나 외부 변경이 필요하면 승인을 받도록 제한되어 있습니다.
+1편이 AI 앱 구축과 배포, 소프트웨어 기본기, 코딩 에이전트 활용, 무엇을 만들지 정하는 능력이라는 큰 그림을 그렸고, 2편은 첫 번째 역량을 여섯 개 하위 역량으로 풀었습니다.
 
-아직 테스트 단계이며, 오픈AI는 WIRED에 당장 출시할 계획은 없다고 밝혔는데요.
-이러한 업데이트가 결국 사용자의 옆에서 상시 보조할 수 있는 에이전트의 기반이될 것으로 보입니다.</description><pubDate>Fri, 28 Aug 2026 19:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcmHdvEkQeA</guid></item><item><title>기사 :
-https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/</title><link>https://www.threads.net/@choi.openai/post/DcmHetZkdei</link><description>기사 :
-https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/</description><pubDate>Fri, 28 Aug 2026 19:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcmHetZkdei</guid></item><item><title>텐센트 위챗팀이 검색·추천에 쓰던 임베딩 모델 WeMM-Embedding을 오픈소스로 공개했습니다.
+이번 글은 두 번째 역량인 소프트웨어 기본기를 다섯 가지로 쪼갭니다. 풀스택 애플리케이션 구축, 데이터 관리, 시스템 아키텍처 설계, 보안과 신뢰성, 그리고 프로덕션 확장과 운영입니다.</description><pubDate>Sat, 29 Aug 2026 05:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcnIuZeD6Ed</guid></item><item><title>2/ 다섯 역량에 들어가기 전에 응은 왜 지금 기본기냐는 물음에 먼저 답합니다.
 
-텍스트와 이미지, 영상, 문서를 같은 벡터...</title><link>https://www.threads.net/@choi.openai/post/Dcl9J4SE6T-</link><description>텐센트 위챗팀이 검색·추천에 쓰던 임베딩 모델 WeMM-Embedding을 오픈소스로 공개했습니다.
+에이전트가 모든 코드를 써도, 기본기는 에이전트가 내리는 트레...</title><link>https://www.threads.net/@choi.openai/post/DcnIvkQjyeJ</link><description>2/ 다섯 역량에 들어가기 전에 응은 왜 지금 기본기냐는 물음에 먼저 답합니다.
 
-텍스트와 이미지, 영상, 문서를 같은 벡터 공간에 넣어 서로 검색할 수 있게 만드는 모델인데요. 2B·4B·9B 세 버전을 Apache 2.0으로 풀었고, 9B는 MMEB-v2에서 80.6점으로 1위, 2B도 알리바바의 8B 임베딩 모델을 근소하게 앞섰습니다.
+에이전트가 모든 코드를 써도, 기본기는 에이전트가 내리는 트레이드오프를 조종하는 언어라는 것입니다.
 
-그런데 베이스 모델은 알리바바의 Qwen3.5입니다. 알리바바가 가중치를 공개한 덕분에, 경쟁사가 그 모델을 기반으로 만든 임베딩 모델이 알리바바 자체 모델을 앞선 겁니다.
+기본기 없이 바이브 코딩하는 초보도 간단한 앱은 만들지만, 그 과정에서 에이전트는 지연, 가용성, 일관성, 신뢰성, 유지보수성, 비용에서 나쁜 선택을 하곤 합니다. 개발자가 그런 트레이드오프의 존재 자체를 모르니 바로잡을 수도 없다는 거죠.
 
-오픈 웨이트는 생태계를 빠르게 키워주지만, 동시에 경쟁사에게도 같은 출발점을 열어준다는 점을 잘 보여주는 사례입니다.</description><pubDate>Fri, 28 Aug 2026 18:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcl9J4SE6T-</guid></item><item><title>허깅페이스 :
-https://huggingface.co/collections/tencent/wemm-embedding</title><link>https://www.threads.net/@choi.openai/post/Dcl9LVPExZ2</link><description>허깅페이스 :
-https://huggingface.co/collections/tencent/wemm-embedding</description><pubDate>Fri, 28 Aug 2026 18:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcl9LVPExZ2</guid></item></channel></rss>
+그래서 응의 진단은 두 갈래입니다. 문법 암기 같은 지식은 낡아가지만, 소프트웨어가 어떻게 작동하는지 깊이 아는 개발자는 모른 채 바이브 코딩하는 개발자를 크게 앞선다는 것입니다.</description><pubDate>Sat, 29 Aug 2026 05:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcnIvkQjyeJ</guid></item><item><title>3/ 첫 두 역량은 풀스택 구축과 데이터 관리입니다.
+
+에이전트 코딩은 프런트엔드나 모바일 같은 전문 역할의 개발자를 풀스택으로 넓혀줍니다. 낯...</title><link>https://www.threads.net/@choi.openai/post/DcnIwPwDwgq</link><description>3/ 첫 두 역량은 풀스택 구축과 데이터 관리입니다.
+
+에이전트 코딩은 프런트엔드나 모바일 같은 전문 역할의 개발자를 풀스택으로 넓혀줍니다. 낯선 영역을 에이전트가 메워주기 때문인데, 그래도 UI 컴포넌트와 캐싱, API 설계, 인증, 상태 관리, 비동기 처리, 테스트, 접근성까지 전체 스택이 실제로 어떻게 도는지는 알아야 한다는 조건이 붙습니다.
+
+데이터에는 별도의 무게를 실었습니다. 데이터는 소프트웨어가 올라서는 기반이면서 한 번 정하면 바꾸기 어렵고, 저장 유형과 모델 선택이 속도와 확장성과 비용을 함께 결정합니다.
+
+무엇보다 AI 시스템은 당신의 데이터에서 자기 컨텍스트를 얻기 때문에, 데이터 설계가 나쁘면 AI는 자기가 모르는 것을 모릅니다. 이 지점은 에이전트가 아니라 맥락을 가진 사람이 바로잡아야 한다고 응은 적었습니다.</description><pubDate>Sat, 29 Aug 2026 05:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcnIwPwDwgq</guid></item><item><title>키쫀쿠 2일 남았네요.
+
+열심히 토큰 불태웁시다!! (자동결제 꼭 취소해두세요.)</title><link>https://www.threads.net/@choi.openai/post/DcnB7HXgVpE</link><description>키쫀쿠 2일 남았네요.
+
+열심히 토큰 불태웁시다!! (자동결제 꼭 취소해두세요.)</description><pubDate>Sat, 29 Aug 2026 04:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcnB7HXgVpE</guid></item><item><title>🚨 오픈AI가 Cursor와의 결별을 공식 발표했습니다.
+
+SpaceX의 Cursor 인수가 마무리된 지 2주 만이고, 11월 12일이면 Cur...</title><link>https://www.threads.net/@choi.openai/post/Dcm3jpBj-7j</link><description>🚨 오픈AI가 Cursor와의 결별을 공식 발표했습니다.
+
+SpaceX의 Cursor 인수가 마무리된 지 2주 만이고, 11월 12일이면 Cursor 안에서 GPT 계열 모델 접근이 사라집니다. 이유로는 머스크 회사들의 계약 위반 전력을 그대로 적었습니다.
+
+11월 12일 이후 Cursor에 무슨 일이 생기는지 정리했습니다 🧵</description><pubDate>Sat, 29 Aug 2026 02:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcm3jpBj-7j</guid></item><item><title>1/ 오픈AI가 8월 29일 Cursor에 대한 모델 공급 계약을 끝내겠다고 SpaceX에 통보했다고 발표했습니다. 제안된 차단일은 11월 12...</title><link>https://www.threads.net/@choi.openai/post/Dcm3kXqD_Tu</link><description>1/ 오픈AI가 8월 29일 Cursor에 대한 모델 공급 계약을 끝내겠다고 SpaceX에 통보했다고 발표했습니다. 제안된 차단일은 11월 12일입니다.
+
+배경에는 올여름의 인수가 있습니다.
+
+SpaceX는 6월 16일 Cursor 개발사 Anysphere를 600억 달러 주식 교환으로 인수하기로 합의했고, 8월 14일 인수를 마무리했습니다. Cursor 팀은 SpaceXAI에 합류해 Grok과 Grok Build, Cursor를 함께 만들겠다고 밝힌 상태였습니다.
+
+오픈AI는 계약이 허용하는 최대 통지 기간을 다 써서 개발자들이 모델을 쓸 수 있는 시간을 늘렸다고 설명했는데요.
+
+4년 가까이 협력한 관계였고, 가장 큰 영향을 받는 것은 Cursor에서 오픈AI 모델에 의존해온 개발자들이라며 전환 지원을 약속했습니다.</description><pubDate>Sat, 29 Aug 2026 02:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcm3kXqD_Tu</guid></item><item><title>2/ 결별의 이유로 오픈AI는 머스크 측 회사들과 있었던 과거 문제를 직접 언급했습니다.
+
+SpaceX가 자사 기술을 이용약관에 맞게 사용할 것...</title><link>https://www.threads.net/@choi.openai/post/Dcm3k_aDzeL</link><description>2/ 결별의 이유로 오픈AI는 머스크 측 회사들과 있었던 과거 문제를 직접 언급했습니다.
+
+SpaceX가 자사 기술을 이용약관에 맞게 사용할 것이라고 확신하기 어렵다는 것인데요.
+오픈AI는 과거 머스크가 인수한 트위터와 계약 문제를 겪었고, 머스크 역시 올해 초 선서 증언에서 xAI가 오픈AI 이용약관을 위반한 적이 있다고 인정했다고 밝혔습니다. 현재 트위터와 xAI 모두 SpaceX 소속입니다.
+
+이번 결정을 내릴 수 있었던 건 계약 조건 때문입니다. Cursor와의 맞춤 계약에는 경영권이 바뀌면 일정 기간 안에 계약을 종료할 수 있는 조항이 있었고, 오픈AI는 SpaceX의 인수를 계기로 이를 행사했습니다.
+
+앞으로 나올 Astra처럼 더 강력한 모델이 어디에 사용되는지 책임져야 한다는 점도 이유로 들었습니다.
+
+결국 SpaceX의 Cursor 인수로 두 회사의 협력 관계가 끝나면서, Cursor에서는 앞으로 새로운 오픈AI 모델을 사용할 수 없게 됩니다.</description><pubDate>Sat, 29 Aug 2026 02:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcm3k_aDzeL</guid></item><item><title>3/ 이런 공급 중단이 처음이 아니라는 점이 더 중요합니다.
+
+작년 6월 오픈AI가 코딩 도구 Windsurf 인수를 추진하자, 앤트로픽은 Wi...</title><link>https://www.threads.net/@choi.openai/post/Dcm3mE_j6Qc</link><description>3/ 이런 공급 중단이 처음이 아니라는 점이 더 중요합니다.
+
+작년 6월 오픈AI가 코딩 도구 Windsurf 인수를 추진하자, 앤트로픽은 Windsurf의 Claude 직접 접근을 끊었습니다.
+경쟁사 소유가 된 플랫폼에는 최신 모델을 주지 않는다는 패턴이 이미 한 번 반복된 것입니다. 이번에는 방향만 바뀌어 오픈AI가 끊는 쪽에 섰습니다.
+
+그래서 다음 선택은 앤트로픽의 몫입니다. 같은 논리라면 Claude도 Cursor에서 빠질 가능성이 낮지 않습니다.
+
+다만 변수가 있는데, 앤트로픽은 SpaceX에서 대규모 컴퓨트를 사들이는 거래를 맺었다는 보도가 있어 관계가 단순한 경쟁만은 아닙니다.
+
+앤트로픽까지 떠나면 Cursor는 사실상 Grok 전용 도구가 되고, 남으면 머스크 플랫폼 위의 유일한 외부 프런티어 모델이 됩니다.</description><pubDate>Sat, 29 Aug 2026 02:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcm3mE_j6Qc</guid></item></channel></rss>
