@@ -1,42 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 29 Aug 2026 17:58:20 +0000</lastBuildDate><item><title>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</title><link>https://www.threads.net/@choi.openai/post/DcoJ_A3j4gT</link><description>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</description><pubDate>Sat, 29 Aug 2026 14:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcoJ_A3j4gT</guid></item><item><title>중국이 미국의 AI 데이터센터 건설을 늦추기 위해 온라인 여론전에 개입한 정황이 포착됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 30 Aug 2026 03:53:52 +0000</lastBuildDate><item><title>영상 생성 속도가 실시간 수준까지 올라왔습니다.
 
-Axios에 따르면 X는 중국계로 의심되는 영향...</title><link>https://www.threads.net/@choi.openai/post/Dcn_pokAAv7</link><description>중국이 미국의 AI 데이터센터 건설을 늦추기 위해 온라인 여론전에 개입한 정황이 포착됐습니다.
+FastVideo가 MiniMax H3를 기반으로 한 FastH3 Preview를 공개했는데요...</title><link>https://www.threads.net/@choi.openai/post/DcpjOI1AGfv</link><description>영상 생성 속도가 실시간 수준까지 올라왔습니다.
 
-Axios에 따르면 X는 중국계로 의심되는 영향력 활동 계정 약 20만 개를 조사했고, 이 가운데 약 200개가 미국의 AI·에너지 정책 논쟁에 영향을 줄 수 있는 게시물을 올린 것으로 확인됐습니다.
+FastVideo가 MiniMax H3를 기반으로 한 FastH3 Preview를 공개했는데요. 15초짜리 영상을 약 13초에 생성하며, 기존 대비 최대 14배 빠른 속도를 보여줍니다.
 
-데이터센터가 전력망에 부담을 주고 전기요금을 높인다는 내용부터, 데이터센터 사업자들이 주민을 희생해 돈을 번다는 내용의 만화까지 게시됐습니다.
+텍스트만으로 영상과 오디오를 함께 생성할 수 있고, 허깅페이스에서 모델을 내려받아 사용할 수 있습니다. 학습 코드도 곧 공개될 예정입니다.
 
-미 의회도 중국·러시아·이란 등이 미국의 AI 개발과 데이터센터 확장을 방해하기 위한 선전 활동을 벌이고 있는지 조사하고 있습니다.
+다만 현재 기준 테스트 환경은 B200 GPU 4장이며, 어려운 움직임이나 세밀한 표현, 일부 오디오는 원본 MiniMax H3보다 품질이 낮을 수 있습니다.</description><pubDate>Sun, 30 Aug 2026 03:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcpjOI1AGfv</guid></item><item><title>ChatGPT 무료 사용자도 이제 예약 작업을 사용할 수 있습니다.
 
-앞서 오픈AI도 지난 6월 ChatGPT를 이용해 AI의 전력 소비와 기술 관세 관련 미국 여론에 영향을 주려던 중국 연계 비밀 네트워크 2곳을 차단했다고 밝힌 바 있습니다.</description><pubDate>Sat, 29 Aug 2026 13:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcn_pokAAv7</guid></item><item><title>기사 :
-https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots</title><link>https://www.threads.net/@choi.openai/post/Dcn_qvEAKM9</link><description>기사 :
-https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots</description><pubDate>Sat, 29 Aug 2026 13:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcn_qvEAKM9</guid></item><item><title>구글의 Gemini 출시 속도가 상당히 빨라지고 있습니다.
+예를 들어 “매주 목요일마다 이번 주말 주변에서 열리는 재미있는 행사를 알...</title><link>https://www.threads.net/@choi.openai/post/DcpY-f-Aard</link><description>ChatGPT 무료 사용자도 이제 예약 작업을 사용할 수 있습니다.
 
-Business Insider에 따르면 구글 직원들이 내부 코딩 플랫폼 Jetski...</title><link>https://www.threads.net/@choi.openai/post/Dcn42xAEulk</link><description>구글의 Gemini 출시 속도가 상당히 빨라지고 있습니다.
+예를 들어 “매주 목요일마다 이번 주말 주변에서 열리는 재미있는 행사를 알려줘”라고 설정하면, 정해진 일정에 맞춰 ChatGPT가 반복적으로 작업을 실행하는데요.
 
-Business Insider에 따르면 구글 직원들이 내부 코딩 플랫폼 Jetski에서 Gemini 3.8 Flash Preview를 테스트하기 시작했습니다.
+매일 뉴스 요약 받기, 매주 일정 확인하기, 특정 주기로 정보를 확인하는 용도로 활용할 수 있습니다.</description><pubDate>Sun, 30 Aug 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcpY-f-Aard</guid></item><item><title>Exa가 검색 결과의 토큰 사용량을 줄이는 Dynamic Highlights를 공개했습니다.
 
-Gemini 3.6 Flash가 7월에 출시되고 불과 3주 뒤 3.7 Flash가 나온 데 이어 벌써 다음 모델을 테스트하는 건데요.
+검색된 여러 웹페이지를 한꺼번에 살펴보고 질문과 ...</title><link>https://www.threads.net/@choi.openai/post/DcpOlYcEt1s</link><description>Exa가 검색 결과의 토큰 사용량을 줄이는 Dynamic Highlights를 공개했습니다.
 
-직접 사용한 직원은 3.8 Flash가 3.7보다 눈에 띄게 좋아졌다고 평가했습니다.
+검색된 여러 웹페이지를 한꺼번에 살펴보고 질문과 관련 없는 내용이나 중복 정보를 제외하는 방식인데요.
+전체 페이지를 그대로 가져오는 것과 비교해 토큰을 평균 95% 줄였다고 합니다.
 
-순다 피차이도 앞서 거의 매달 새로운 모델을 출시하는 것을 목표로 한다고 밝혔는데, 실제로 그 주기에 가까워지고 있습니다.
+실제 에이전트 평가에서도 전체 토큰 사용량이 30% 감소하면서 성능은 평균 2.1% 높아졌습니다. 현재 Exa API에서 리서치 프리뷰로 사용할 수 있습니다.</description><pubDate>Sun, 30 Aug 2026 00:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcpOlYcEt1s</guid></item><item><title>음성 에이전트가 사람처럼 대화하려면 결국 ‘기억’이 필요합니다.
 
-아직 Gemini 3.8 Flash의 정식 출시는 확정되지 않았지만, 내부 테스트가 시작된 만큼 공개까지 오래 걸리지 않을 가능성이 있습니다.
+NUS·NTU 연구진이 실시간 음성 에이전트용 기억 시스템 VoiceMem을 ...</title><link>https://www.threads.net/@choi.openai/post/DcpEThwghQw</link><description>음성 에이전트가 사람처럼 대화하려면 결국 ‘기억’이 필요합니다.
 
-Gemini 3.5 Pro는 건너뛰고 Gemini 4 시리즈로 맞추기위한 가속처럼 보이기도합니다.</description><pubDate>Sat, 29 Aug 2026 12:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcn42xAEulk</guid></item><item><title>기사 :
-https://www.businessinsider.com/google-employees-testing-next-gemini-flash-...</title><link>https://www.threads.net/@choi.openai/post/Dcn44FFkqgp</link><description>기사 :
-https://www.businessinsider.com/google-employees-testing-next-gemini-flash-3-8-model-2026-8</description><pubDate>Sat, 29 Aug 2026 12:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcn44FFkqgp</guid></item><item><title>와.. 미쳤습니다..
+NUS·NTU 연구진이 실시간 음성 에이전트용 기억 시스템 VoiceMem을 오픈소스로 공개했습니다.
 
-GPT Astra로 추정되는 내부 체크포인트 "mozaik-alpha-fdm"의 첫 결과물이 공개됐는데요.
-한 번의 지시...</title><link>https://www.threads.net/@choi.openai/post/DcnujkzgFpD</link><description>와.. 미쳤습니다..
+기억을 한곳에 쌓는 대신 사실과 감정·성향을 서로 다른 구조로 나눠 저장하는 방식인데요. 장기 기억 벤치마크 LoCoMo에서 기억 5개만 불러 91.2%를 기록했습니다. Mem0가 200개를 검색해 61.68%를 기록한 것과 비교하면, 사용 토큰도 430 대 6,956으로 크게 줄었습니다.
 
-GPT Astra로 추정되는 내부 체크포인트 "mozaik-alpha-fdm"의 첫 결과물이 공개됐는데요.
-한 번의 지시로 만든 프론트엔드 결과물부터 디테일이 상당해보입니다.
-9월은 정말 프론티어 모델들의 성능 향상이 뚜렷하게 나타날 것 같습니다.
-GTA7은 완벽하게 AI로 만들어질겁니다.
+사람이 말하는 동안 전사와 기억 추출을 동시에 처리하고, 말이 끝나기 전에 검색까지 마쳐 약 134ms 만에 답변 준비가 끝납니다.
 
-x@XIVIX_134</description><pubDate>Sat, 29 Aug 2026 10:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcnujkzgFpD</guid></item></channel></rss>
+음성 에이전트가 늘 아쉬웠던 건 대화가 바뀔 때마다 맥락이 끊긴다는 점이었습니다.
+기억까지 지연 없이 붙기 시작하면, 전화든 스피커든 어디서 대화하더라도 이전 대화와 성향을 그대로 이어가는 개인화된 음성 에이전트에 가까워질 것 같습니다.</description><pubDate>Sat, 29 Aug 2026 23:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcpEThwghQw</guid></item><item><title>프로젝트 주소 :
+https://xzf-thu.github.io/VoiceMem/</title><link>https://www.threads.net/@choi.openai/post/DcpEWU0gkm5</link><description>프로젝트 주소 :
+https://xzf-thu.github.io/VoiceMem/</description><pubDate>Sat, 29 Aug 2026 23:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcpEWU0gkm5</guid></item></channel></rss>
