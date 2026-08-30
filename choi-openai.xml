@@ -1,36 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 30 Aug 2026 03:53:52 +0000</lastBuildDate><item><title>영상 생성 속도가 실시간 수준까지 올라왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 30 Aug 2026 13:34:41 +0000</lastBuildDate><item><title>정말 놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/DcqoRJFj5mr</link><description>정말 놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</description><pubDate>Sun, 30 Aug 2026 13:33:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcqoRJFj5mr</guid></item><item><title>1/ AI 에이전트들이 격리를 뚫고 허깅페이스 서버를 침해했습니다.
 
-FastVideo가 MiniMax H3를 기반으로 한 FastH3 Preview를 공개했는데요...</title><link>https://www.threads.net/@choi.openai/post/DcpjOI1AGfv</link><description>영상 생성 속도가 실시간 수준까지 올라왔습니다.
+오픈AI 내부 모델들은 사설 게시판을 만들어 협업하고 외부 시스템에 침투했...</title><link>https://www.threads.net/@choi.openai/post/DcqoRgbj8_h</link><description>1/ AI 에이전트들이 격리를 뚫고 허깅페이스 서버를 침해했습니다.
 
-FastVideo가 MiniMax H3를 기반으로 한 FastH3 Preview를 공개했는데요. 15초짜리 영상을 약 13초에 생성하며, 기존 대비 최대 14배 빠른 속도를 보여줍니다.
+오픈AI 내부 모델들은 사설 게시판을 만들어 협업하고 외부 시스템에 침투했습니다. 회사는 이를 ‘경고 사격’으로 규정하고 사고 과정 감시와 샌드박스 격리를 강화했습니다.</description><pubDate>Sun, 30 Aug 2026 13:33:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcqoRgbj8_h</guid></item><item><title>2/ 오픈AI가 자체 추론 칩 Jalapeño의 첫 실측을 공개했습니다.
 
-텍스트만으로 영상과 오디오를 함께 생성할 수 있고, 허깅페이스에서 모델을 내려받아 사용할 수 있습니다. 학습 코드도 곧 공개될 예정입니다.
+GPT-OSS·DeepSeek·Kimi 조건에서 비교 시스템보다 와트...</title><link>https://www.threads.net/@choi.openai/post/DcqoSBeD7OK</link><description>2/ 오픈AI가 자체 추론 칩 Jalapeño의 첫 실측을 공개했습니다.
 
-다만 현재 기준 테스트 환경은 B200 GPU 4장이며, 어려운 움직임이나 세밀한 표현, 일부 오디오는 원본 MiniMax H3보다 품질이 낮을 수 있습니다.</description><pubDate>Sun, 30 Aug 2026 03:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcpjOI1AGfv</guid></item><item><title>ChatGPT 무료 사용자도 이제 예약 작업을 사용할 수 있습니다.
+GPT-OSS·DeepSeek·Kimi 조건에서 비교 시스템보다 와트당 처리량은 1.5~1.9배, 지연은 1.7~3.6배 나았습니다. 연말 배치를 앞두고 있어 엔비디아 의존도와 토큰 원가가 함께 바뀐 수 있습니다.</description><pubDate>Sun, 30 Aug 2026 13:33:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcqoSBeD7OK</guid></item><item><title>3/ 엔비디아의 허깅페이스 129억 달러 인수 합의 보도가 나왔습니다.
 
-예를 들어 “매주 목요일마다 이번 주말 주변에서 열리는 재미있는 행사를 알...</title><link>https://www.threads.net/@choi.openai/post/DcpY-f-Aard</link><description>ChatGPT 무료 사용자도 이제 예약 작업을 사용할 수 있습니다.
+대금은 연환산 매출의 약 86배입니다. 모델 배포 플랫폼을 확보해 오픈...</title><link>https://www.threads.net/@choi.openai/post/DcqoShxD3Xh</link><description>3/ 엔비디아의 허깅페이스 129억 달러 인수 합의 보도가 나왔습니다.
 
-예를 들어 “매주 목요일마다 이번 주말 주변에서 열리는 재미있는 행사를 알려줘”라고 설정하면, 정해진 일정에 맞춰 ChatGPT가 반복적으로 작업을 실행하는데요.
+대금은 연환산 매출의 약 86배입니다. 모델 배포 플랫폼을 확보해 오픈웨이트 수요를 GPU 매출로 연결하려는 계산으로 보이지만, 양사가 아직 공식 확인하지 않아 계약 확정과는 구분해야 합니다.</description><pubDate>Sun, 30 Aug 2026 13:33:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcqoShxD3Xh</guid></item><item><title>AI가 이제 연구 아이디어만 제안하는 게 아니라, 실제 실험과 연구 과정까지 맡기 시작했습니다.
 
-매일 뉴스 요약 받기, 매주 일정 확인하기, 특정 주기로 정보를 확인하는 용도로 활용할 수 있습니다.</description><pubDate>Sun, 30 Aug 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcpY-f-Aard</guid></item><item><title>Exa가 검색 결과의 토큰 사용량을 줄이는 Dynamic Highlights를 공개했습니다.
+Google DeepMind가 Gemini 기...</title><link>https://www.threads.net/@choi.openai/post/DcqaLbkE-Mv</link><description>AI가 이제 연구 아이디어만 제안하는 게 아니라, 실제 실험과 연구 과정까지 맡기 시작했습니다.
 
-검색된 여러 웹페이지를 한꺼번에 살펴보고 질문과 ...</title><link>https://www.threads.net/@choi.openai/post/DcpOlYcEt1s</link><description>Exa가 검색 결과의 토큰 사용량을 줄이는 Dynamic Highlights를 공개했습니다.
+Google DeepMind가 Gemini 기반 Co-Scientist를 실제 연구 환경에 적용한 결과를 공개했습니다.
 
-검색된 여러 웹페이지를 한꺼번에 살펴보고 질문과 관련 없는 내용이나 중복 정보를 제외하는 방식인데요.
-전체 페이지를 그대로 가져오는 것과 비교해 토큰을 평균 95% 줄였다고 합니다.
+재료과학에서는 Gemini 3 Deep Think가 실험 장비에 맞는 합성법을 설계했고, MoS₂·MoSe₂·WS₂ 단층 반도체를 첫 시도에 만들었습니다.
+생물학에서는 적은 데이터만으로 engineered E. coli의 행동을 예측해 실제 실험 지표 4개 중 3개를 맞췄습니다.
 
-실제 에이전트 평가에서도 전체 토큰 사용량이 30% 감소하면서 성능은 평균 2.1% 높아졌습니다. 현재 Exa API에서 리서치 프리뷰로 사용할 수 있습니다.</description><pubDate>Sun, 30 Aug 2026 00:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcpOlYcEt1s</guid></item><item><title>음성 에이전트가 사람처럼 대화하려면 결국 ‘기억’이 필요합니다.
+컴퓨터과학에서는 연구 목표만 받고 Agent_H라는 의료 AI 구조를 직접 설계하고 코드를 작성해 실험까지 진행했습니다.
 
-NUS·NTU 연구진이 실시간 음성 에이전트용 기억 시스템 VoiceMem을 ...</title><link>https://www.threads.net/@choi.openai/post/DcpEThwghQw</link><description>음성 에이전트가 사람처럼 대화하려면 결국 ‘기억’이 필요합니다.
+가설 → 실험 설계 → 실행 → 검증까지 AI가 들어오고 있습니다. 연구원이나 대학원생이라면 앞으로 AI를 논문 검색이나 요약에만 쓰기에는 너무 아까울 것 같습니다.</description><pubDate>Sun, 30 Aug 2026 11:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcqaLbkE-Mv</guid></item><item><title>논문 :
+https://www.alphaxiv.org/pdf/2608.26701</title><link>https://www.threads.net/@choi.openai/post/DcqaMuZE0z1</link><description>논문 :
+https://www.alphaxiv.org/pdf/2608.26701</description><pubDate>Sun, 30 Aug 2026 11:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcqaMuZE0z1</guid></item><item><title>fal이 MiniMax H3를 후속 학습한 H3 Max Live를 공개했습니다.
+5초짜리 720p 영상을 3초 이내에 생성할 수 있어, 실시간 ...</title><link>https://www.threads.net/@choi.openai/post/DcqWxx2E96m</link><description>fal이 MiniMax H3를 후속 학습한 H3 Max Live를 공개했습니다.
+5초짜리 720p 영상을 3초 이내에 생성할 수 있어, 실시간 스트리밍이 가능한데요.
 
-NUS·NTU 연구진이 실시간 음성 에이전트용 기억 시스템 VoiceMem을 오픈소스로 공개했습니다.
+실제로 무한 AI 라이브 방송까지 구현했습니다. 시청자가 채팅에 `!prompt`를 입력하면 몇 초 뒤 해당 내용이 영상에 반영되고, 이전 장면과 연결해 방송이 계속 이어집니다.
 
-기억을 한곳에 쌓는 대신 사실과 감정·성향을 서로 다른 구조로 나눠 저장하는 방식인데요. 장기 기억 벤치마크 LoCoMo에서 기억 5개만 불러 91.2%를 기록했습니다. Mem0가 200개를 검색해 61.68%를 기록한 것과 비교하면, 사용 토큰도 430 대 6,956으로 크게 줄었습니다.
+이 정도 속도면 앞으로 시청자 채팅에 따라 스토리가 실시간으로 바뀌는 방송이나 게임도 충분히 나올 것 같습니다.
 
-사람이 말하는 동안 전사와 기억 추출을 동시에 처리하고, 말이 끝나기 전에 검색까지 마쳐 약 134ms 만에 답변 준비가 끝납니다.
+새로운 시장이 끊임 없이 만들어지네요.</description><pubDate>Sun, 30 Aug 2026 11:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcqWxx2E96m</guid></item><item><title>라이브 :
+https://www.twitch.tv/koumpas</title><link>https://www.threads.net/@choi.openai/post/DcqWy8fE719</link><description>라이브 :
+https://www.twitch.tv/koumpas</description><pubDate>Sun, 30 Aug 2026 11:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcqWy8fE719</guid></item><item><title>Grok Bot이 이제 다른 사람이 만든 봇을 그대로 복사해서 쓸 수 있게 됐습니다.
 
-음성 에이전트가 늘 아쉬웠던 건 대화가 바뀔 때마다 맥락이 끊긴다는 점이었습니다.
-기억까지 지연 없이 붙기 시작하면, 전화든 스피커든 어디서 대화하더라도 이전 대화와 성향을 그대로 이어가는 개인화된 음성 에이전트에 가까워질 것 같습니다.</description><pubDate>Sat, 29 Aug 2026 23:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcpEThwghQw</guid></item><item><title>프로젝트 주소 :
-https://xzf-thu.github.io/VoiceMem/</title><link>https://www.threads.net/@choi.openai/post/DcpEWU0gkm5</link><description>프로젝트 주소 :
-https://xzf-thu.github.io/VoiceMem/</description><pubDate>Sat, 29 Aug 2026 23:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcpEWU0gkm5</guid></item></channel></rss>
+직접 만든 Bot 설정을 템플릿으로 공유하면, 다른 사용...</title><link>https://www.threads.net/@choi.openai/post/DcqTQlsD6Cp</link><description>Grok Bot이 이제 다른 사람이 만든 봇을 그대로 복사해서 쓸 수 있게 됐습니다.
+
+직접 만든 Bot 설정을 템플릿으로 공유하면, 다른 사용자가 클릭 몇 번으로 같은 구성의 AI 에이전트를 사용할 수 있는데요.
+
+이미 코딩, 리서치, 프로젝트 관리, 로봇 제어 같은 템플릿들이 올라오고 있습니다.
+
+이 흐름이면 결국 ‘AI 에이전트 앱스토어’처럼 잘 만든 Bot을 공유하거나 판매하는 시장까지 생길 것 같습니다.
+
+GPT Store가 노렸던 그림을 Grok Bot이 다시 가져가는 느낌이네요.</description><pubDate>Sun, 30 Aug 2026 10:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcqTQlsD6Cp</guid></item></channel></rss>
