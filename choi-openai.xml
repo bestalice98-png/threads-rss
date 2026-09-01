@@ -1,48 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 01 Sep 2026 03:47:29 +0000</lastBuildDate><item><title>구글이 시계열 예측 모델 TimesFM-3를 공개했습니다.
-이번엔 과거 숫자 하나만 보는 게 아니라, 여러 변수의 관계를 함께 보고 미래를 예측...</title><link>https://www.threads.net/@choi.openai/post/Dcul9bZjRKD</link><description>구글이 시계열 예측 모델 TimesFM-3를 공개했습니다.
-이번엔 과거 숫자 하나만 보는 게 아니라, 여러 변수의 관계를 함께 보고 미래를 예측합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 01 Sep 2026 13:08:01 +0000</lastBuildDate><item><title>마지막 기회입니다.
 
-예를 들어 아이스크림 판매량을 예측할 때 과거 판매량뿐 아니라 날씨, 프로모션, 유동인구 같은 변수까지 같이 넣을 수 있는데요.
-별도 파인튜닝 없이도 사용할 수 있고, 3개 주요 벤치마크에서 다른 사전학습 예측 모델들을 앞섰다고 합니다.
+프린스턴 정치학자가 "초지능은 사회 이동성의 종말이고, 새로운 봉건제의 새벽"이라고 쓴 글이 이틀이 안 되어 46만 조회를...</title><link>https://www.threads.net/@choi.openai/post/DcvZcEwD-SN</link><description>마지막 기회입니다.
 
-330M 규모라 비교적 작고 Hugging Face에도 공개됐습니다. 금융, 재고, 제조, 의료처럼 ‘앞으로 어떻게 될지’가 중요한 분야에서 꽤 많이 쓰일 것 같습니다.</description><pubDate>Tue, 01 Sep 2026 02:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcul9bZjRKD</guid></item><item><title>블로그 :
-https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-mu...</title><link>https://www.threads.net/@choi.openai/post/Dcul-Utjcg8</link><description>블로그 :
-https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/</description><pubDate>Tue, 01 Sep 2026 02:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcul-Utjcg8</guid></item><item><title>구글 Antigravity에 /boost가 추가됐습니다.
+프린스턴 정치학자가 "초지능은 사회 이동성의 종말이고, 새로운 봉건제의 새벽"이라고 쓴 글이 이틀이 안 되어 46만 조회를 넘겼는데요.
 
-복잡한 작업에서 토큰을 더 사용해 여러 에이전트가 문제를 나눠 분석하고, 구현과 검증...</title><link>https://www.threads.net/@choi.openai/post/DcubrFdDcSN</link><description>구글 Antigravity에 /boost가 추가됐습니다.
+재능과 노동으로 올라서는 시대가 끝나고, 자본으로 컴퓨트를 사는 쪽이 이기는 시대가 온다는 주장입니다.
 
-복잡한 작업에서 토큰을 더 사용해 여러 에이전트가 문제를 나눠 분석하고, 구현과 검증까지 반복하는 모드인데요.
+그레고리 콘티의 신봉건제 경고와 그 배경이 된 7월 에세이를 정리했습니다 🧵</description><pubDate>Tue, 01 Sep 2026 10:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvZcEwD-SN</guid></item><item><title>1/ 그레고리 콘티는 프린스턴 정치학 부교수로 정치사상사를 연구하고, 잡지 Compact의 편집위원을 맡고 있습니다.
 
-특히 원인 찾기 어려운 버그, 알고리즘 최적화, 복잡한 구현처럼 한 번의 답변으로 해결하기 힘든 작업에 맞춰져 있습니다.
+그가 8월 31일 X에 ...</title><link>https://www.threads.net/@choi.openai/post/DcvZcmuD80W</link><description>1/ 그레고리 콘티는 프린스턴 정치학 부교수로 정치사상사를 연구하고, 잡지 Compact의 편집위원을 맡고 있습니다.
 
-이제 AI 코딩 도구도 빠르게 답하는 모드와, 비용을 더 쓰더라도 끝까지 파고드는 모드가 나뉘는 것 같습니다.
+그가 8월 31일 X에 올린 글은 세 문장입니다. "초지능은 사회 이동성의 종말을 뜻한다. 재능과 노동으로 올라서는 대신, 가장 많은 자본을 가진 쪽이 더 많은 컴퓨트를 사서 당신을 이길 것이다. 능력주의의 끝이고, 새로운 봉건제의 새벽이다."
 
-개인적으로 이런 방향이 꽤 기대됩니다. 모델 하나의 성능 경쟁에서 벗어나, 여러 에이전트를 어떻게 조합하고 검증시키느냐가 점점 더 중요해지는 것 같네요.</description><pubDate>Tue, 01 Sep 2026 01:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcubrFdDcSN</guid></item><item><title>이제 앱을 “만드는” 게 아니라 화면 자체를 실시간으로 생성하는 단계까지 왔습니다.
+이 글은 이틀이 안 되어 조회 46만을 넘겼고, 영어권만이 아니라 일본어, 중국어, 스페인어권까지 인용 반응이 이어졌습니다. 지금이 계층을 옮길 마지막 기회라는 절박한 독해부터 듄의 세계가 온다는 농담까지 나왔습니다.
 
-Runway가 Solaris를 공개했는데요. Solaris...</title><link>https://www.threads.net/@choi.openai/post/DcuS-0zDg5X</link><description>이제 앱을 “만드는” 게 아니라 화면 자체를 실시간으로 생성하는 단계까지 왔습니다.
+정치철학 연구자가 AI 산업의 용어인 컴퓨트를 가져와 계급 구조를 설명했다는 점이 논쟁에 불을 붙였습니다.</description><pubDate>Tue, 01 Sep 2026 10:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvZcmuD80W</guid></item><item><title>2/ 이 선언의 원형은 7월 13일 Compact에 실린 에세이 "The AI Apocalypse Is Already Here"입니다. 제목 그...</title><link>https://www.threads.net/@choi.openai/post/DcvZeEFD0dS</link><description>2/ 이 선언의 원형은 7월 13일 Compact에 실린 에세이 "The AI Apocalypse Is Already Here"입니다. 제목 그대로 AI 종말은 이미 와 있다는 뜻인데요.
 
-Runway가 Solaris를 공개했는데요. Solaris는 코드를 미리 짜서 정해진 화면을 보여주는 방식이 아니라, 사용자가 클릭하고 드래그하고 입력할 때마다 인터페이스를 프레임 단위로 계속 생성합니다.
+AI 위험 논쟁은 대부분 일자리 감소나 통제 상실처럼 앞으로 올 위험을 다룹니다. 콘티는 반대로 피해가 이미 진행 중이라고 주장합니다.
 
-예를 들어 쇼핑몰이라면 정해진 상품 페이지를 보는 게 아니라, 매장 자체가 인터페이스가 되고 옷을 직접 집어 들어 입혀보는 식으로 바뀔 수 있습니다.
+사람의 성격과 감정, 말투를 흉내 내는 AI가 인간 심리와 관계의 짜임을 흔들고 있고, 이 손실은 소득 재분배나 기업 소유권 이전으로 복구되지 않는다는 겁니다.
 
-LLM이 무엇을 해야 할지 판단하고, Solaris가 그 결과를 실시간 화면으로 만들어내는 구조인데요.
+그래서 결론도 규제 강화에서 멈추지 않습니다. 사람을 닮은 생성형 AI의 사회 확산 자체를 제한하고, 초지능 개발을 중단하라는 요구까지 나아갑니다.</description><pubDate>Tue, 01 Sep 2026 10:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvZeEFD0dS</guid></item><item><title>3/ 이 주장이 유별난 소수 의견이 아니라는 조사 결과가 있습니다.
 
-이 흐름이 계속 발전하면 앞으로는 앱을 실행하는 게 아니라, 내가 원하는 작업에 맞는 화면이 그때그때 생겨나는 시대가 올지도 모르겠습니다.</description><pubDate>Mon, 31 Aug 2026 23:45:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcuS-0zDg5X</guid></item><item><title>블로그 :
-https://runway.com/news/research/introducing-solaris</title><link>https://www.threads.net/@choi.openai/post/DcuTDBej9VO</link><description>블로그 :
-https://runway.com/news/research/introducing-solaris</description><pubDate>Mon, 31 Aug 2026 23:45:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcuTDBej9VO</guid></item><item><title>최근에 챗GPT에서 이런거 본 적 있으신가요?
+7월 공개된 전국 조사에서 미국 성인 65%가 AI에 우려를 느낀다고 답했...</title><link>https://www.threads.net/@choi.openai/post/DcvZfF-D0pK</link><description>3/ 이 주장이 유별난 소수 의견이 아니라는 조사 결과가 있습니다.
 
-저는 오픈AI에서 넥스트 구글, 그 이상을 보고 있습니다.
+7월 공개된 전국 조사에서 미국 성인 65%가 AI에 우려를 느낀다고 답했고, 기대한다는 응답은 24%였습니다. 강한 우려만 28%로, 강한 기대 6%의 다섯 배 가까이 되는데요.
 
-오늘 오픈AI가 발표한 내용에 따르...</title><link>https://www.threads.net/@choi.openai/post/Dctkv_DDjUy</link><description>최근에 챗GPT에서 이런거 본 적 있으신가요?
+정치권도 움직이고 있습니다. 우파 스티브 배넌과 좌파 버니 샌더스가 나란히 AI 기업의 부분 국유화를 지지하고, 오카시오코르테스 의원은 데이터센터 건설 중단까지 제안했는데요.
 
-저는 오픈AI에서 넥스트 구글, 그 이상을 보고 있습니다.
+트럼프 행정부도 안보를 이유로 일부 모델의 배포를 중단시켰고, 초지능 개발을 금지하는 국제조약 요구도 커지고 있습니다.
 
-오늘 오픈AI가 발표한 내용에 따르면 ChatGPT Ads는 출시 200일도 안 돼 연환산 매출 10억 달러를 돌파했고, ChatGPT는 주간 이용자 10억 명을 넘어섰다고 합니다.
-광고뿐 아니라 구독, 기업, API까지 수익 구조도 빠르게 넓어지고 있는데요.
+AI 규제가 좌우 대립 의제를 넘어 양쪽에서 동시에 나오는 의제가 됐습니다.</description><pubDate>Tue, 01 Sep 2026 10:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvZfF-D0pK</guid></item><item><title>수학자 테렌스 타오(Terence Tao)는 AI가 과학 연구의 결과물을 가속화하고 있지만, “차세대 과학자를 키워낼 ‘종자 씨앗’을 갉아먹는 ...</title><link>https://www.threads.net/@choi.openai/post/DcvPI0EDbww</link><description>수학자 테렌스 타오(Terence Tao)는 AI가 과학 연구의 결과물을 가속화하고 있지만, “차세대 과학자를 키워낼 ‘종자 씨앗’을 갉아먹는 대가를 치를 수 있다”고 경고했습니다.
 
-최고의 시나리오는 애플의 디바이스와 구글의 생태계를 모두 가진 메가 컴퍼니가 되는 미래입니다. 중간은 AI 시대의 구글처럼 ChatGPT 중심의 생태계를 장악하는 미래이고요.
+대학원생들이 연구 훈련 과정에서 다루는 초급 수준의 과제나 논문 작성을 AI가 완벽히 대체하기 시작하면서, 미래 연구자들이 성장할 기회 자체가 사라질 수 있다는 지적입니다.
 
-최악의 시나리오는 AI 모델이 평준화되면서 막대한 인프라 비용만 남고, ChatGPT가 여러 AI 서비스 중 하나가 되는 미래라고 생각합니다.</description><pubDate>Mon, 31 Aug 2026 17:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dctkv_DDjUy</guid></item><item><title>블로그 :
-https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/</title><link>https://www.threads.net/@choi.openai/post/Dctkw-_jmIk</link><description>블로그 :
-https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/</description><pubDate>Mon, 31 Aug 2026 17:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dctkw-_jmIk</guid></item></channel></rss>
+그는 기존 기술의 최적화에만 매몰될 경우 학계 전체가 정체될 수 있다고 우려하며, “인간 연구자들이 AI만큼 효율적이지 않더라도 천천히 탐색하며 호기심 중심의 연구를 지속할 수 있는 환경이 필요하다”고 강조했습니다.</description><pubDate>Tue, 01 Sep 2026 08:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvPI0EDbww</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=OOMx2BHHWtE</title><link>https://www.threads.net/@choi.openai/post/DcvPKRXjWa4</link><description>풀영상 :
+https://www.youtube.com/watch?v=OOMx2BHHWtE</description><pubDate>Tue, 01 Sep 2026 08:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvPKRXjWa4</guid></item><item><title>메타가 Muse Code를 베타에서 정식 출시했습니다.
+
+여러 세션의 문맥을 이어서 작업할 수 있고, 하나의 일을 여러 서브에이전트 팀에 나눠 ...</title><link>https://www.threads.net/@choi.openai/post/DcvEzpkk3O7</link><description>메타가 Muse Code를 베타에서 정식 출시했습니다.
+
+여러 세션의 문맥을 이어서 작업할 수 있고, 하나의 일을 여러 서브에이전트 팀에 나눠 맡기는 방식도 지원합니다.
+
+여기에 직접 에이전트를 만들 수 있는 SDK도 공개됐습니다.
+
+Claude Code, Codex, Antigravity에 이어 메타까지 들어왔네요.</description><pubDate>Tue, 01 Sep 2026 07:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvEzpkk3O7</guid></item><item><title>블로그 :
+https://developer.meta.com/ai/resources/blog/muse-code-new-plans-and-featu...</title><link>https://www.threads.net/@choi.openai/post/DcvE09WE4Ag</link><description>블로그 :
+https://developer.meta.com/ai/resources/blog/muse-code-new-plans-and-features/</description><pubDate>Tue, 01 Sep 2026 07:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvE09WE4Ag</guid></item><item><title>이제는 아예 “거절하지 않는 AI”를 서비스로 내놓는 곳까지 나왔습니다.
+
+Abliteration.ai가 GLM-5.3 기반 abliterate...</title><link>https://www.threads.net/@choi.openai/post/Dcu6j__AvJg</link><description>이제는 아예 “거절하지 않는 AI”를 서비스로 내놓는 곳까지 나왔습니다.
+
+Abliteration.ai가 GLM-5.3 기반 abliterated-model-large-v2를 공개했습니다.
+모델 내부에서 거절 반응과 관련된 활성화 방향을 제거해, 기존 모델이 중단하던 보안 테스트나 레드팀 작업을 계속 수행하도록 만든 버전입니다.
+
+Terminal-Bench 4.0에서는 상위권 성능을 기록했고, 사이버 보안 벤치마크도 GLM-5.2보다 크게 올랐다고 합니다.
+
+AI 안전장치를 더 강하게 만드는 흐름과, 반대로 안전장치를 걷어내 연구·보안용으로 쓰려는 흐름이 동시에 커지고 있네요.</description><pubDate>Tue, 01 Sep 2026 05:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcu6j__AvJg</guid></item></channel></rss>
