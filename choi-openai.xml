@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 31 Aug 2026 20:26:47 +0000</lastBuildDate><item><title>최근에 챗GPT에서 이런거 본 적 있으신가요?
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 01 Sep 2026 03:47:29 +0000</lastBuildDate><item><title>구글이 시계열 예측 모델 TimesFM-3를 공개했습니다.
+이번엔 과거 숫자 하나만 보는 게 아니라, 여러 변수의 관계를 함께 보고 미래를 예측...</title><link>https://www.threads.net/@choi.openai/post/Dcul9bZjRKD</link><description>구글이 시계열 예측 모델 TimesFM-3를 공개했습니다.
+이번엔 과거 숫자 하나만 보는 게 아니라, 여러 변수의 관계를 함께 보고 미래를 예측합니다.
+
+예를 들어 아이스크림 판매량을 예측할 때 과거 판매량뿐 아니라 날씨, 프로모션, 유동인구 같은 변수까지 같이 넣을 수 있는데요.
+별도 파인튜닝 없이도 사용할 수 있고, 3개 주요 벤치마크에서 다른 사전학습 예측 모델들을 앞섰다고 합니다.
+
+330M 규모라 비교적 작고 Hugging Face에도 공개됐습니다. 금융, 재고, 제조, 의료처럼 ‘앞으로 어떻게 될지’가 중요한 분야에서 꽤 많이 쓰일 것 같습니다.</description><pubDate>Tue, 01 Sep 2026 02:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcul9bZjRKD</guid></item><item><title>블로그 :
+https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-mu...</title><link>https://www.threads.net/@choi.openai/post/Dcul-Utjcg8</link><description>블로그 :
+https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/</description><pubDate>Tue, 01 Sep 2026 02:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcul-Utjcg8</guid></item><item><title>구글 Antigravity에 /boost가 추가됐습니다.
+
+복잡한 작업에서 토큰을 더 사용해 여러 에이전트가 문제를 나눠 분석하고, 구현과 검증...</title><link>https://www.threads.net/@choi.openai/post/DcubrFdDcSN</link><description>구글 Antigravity에 /boost가 추가됐습니다.
+
+복잡한 작업에서 토큰을 더 사용해 여러 에이전트가 문제를 나눠 분석하고, 구현과 검증까지 반복하는 모드인데요.
+
+특히 원인 찾기 어려운 버그, 알고리즘 최적화, 복잡한 구현처럼 한 번의 답변으로 해결하기 힘든 작업에 맞춰져 있습니다.
+
+이제 AI 코딩 도구도 빠르게 답하는 모드와, 비용을 더 쓰더라도 끝까지 파고드는 모드가 나뉘는 것 같습니다.
+
+개인적으로 이런 방향이 꽤 기대됩니다. 모델 하나의 성능 경쟁에서 벗어나, 여러 에이전트를 어떻게 조합하고 검증시키느냐가 점점 더 중요해지는 것 같네요.</description><pubDate>Tue, 01 Sep 2026 01:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcubrFdDcSN</guid></item><item><title>이제 앱을 “만드는” 게 아니라 화면 자체를 실시간으로 생성하는 단계까지 왔습니다.
+
+Runway가 Solaris를 공개했는데요. Solaris...</title><link>https://www.threads.net/@choi.openai/post/DcuS-0zDg5X</link><description>이제 앱을 “만드는” 게 아니라 화면 자체를 실시간으로 생성하는 단계까지 왔습니다.
+
+Runway가 Solaris를 공개했는데요. Solaris는 코드를 미리 짜서 정해진 화면을 보여주는 방식이 아니라, 사용자가 클릭하고 드래그하고 입력할 때마다 인터페이스를 프레임 단위로 계속 생성합니다.
+
+예를 들어 쇼핑몰이라면 정해진 상품 페이지를 보는 게 아니라, 매장 자체가 인터페이스가 되고 옷을 직접 집어 들어 입혀보는 식으로 바뀔 수 있습니다.
+
+LLM이 무엇을 해야 할지 판단하고, Solaris가 그 결과를 실시간 화면으로 만들어내는 구조인데요.
+
+이 흐름이 계속 발전하면 앞으로는 앱을 실행하는 게 아니라, 내가 원하는 작업에 맞는 화면이 그때그때 생겨나는 시대가 올지도 모르겠습니다.</description><pubDate>Mon, 31 Aug 2026 23:45:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcuS-0zDg5X</guid></item><item><title>블로그 :
+https://runway.com/news/research/introducing-solaris</title><link>https://www.threads.net/@choi.openai/post/DcuTDBej9VO</link><description>블로그 :
+https://runway.com/news/research/introducing-solaris</description><pubDate>Mon, 31 Aug 2026 23:45:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcuTDBej9VO</guid></item><item><title>최근에 챗GPT에서 이런거 본 적 있으신가요?
 
 저는 오픈AI에서 넥스트 구글, 그 이상을 보고 있습니다.
 
@@ -14,24 +45,4 @@
 
 최악의 시나리오는 AI 모델이 평준화되면서 막대한 인프라 비용만 남고, ChatGPT가 여러 AI 서비스 중 하나가 되는 미래라고 생각합니다.</description><pubDate>Mon, 31 Aug 2026 17:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dctkv_DDjUy</guid></item><item><title>블로그 :
 https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/</title><link>https://www.threads.net/@choi.openai/post/Dctkw-_jmIk</link><description>블로그 :
-https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/</description><pubDate>Mon, 31 Aug 2026 17:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dctkw-_jmIk</guid></item><item><title>와.. 진짜 새로운 장르가 탄생하는 느낌입니다.
-
-MiniMax H3 Max처럼 실시간보다 빠르게 영상을 생성할 수 있으니, 이제는 정해진 게임...</title><link>https://www.threads.net/@choi.openai/post/DctchoPnJZZ</link><description>와.. 진짜 새로운 장르가 탄생하는 느낌입니다.
-
-MiniMax H3 Max처럼 실시간보다 빠르게 영상을 생성할 수 있으니, 이제는 정해진 게임을 플레이하는 게 아니라 내가 선택하는 순간 다음 장면 자체가 만들어질 수 있습니다.
-
-지금은 버튼으로 선택하지만, 나중에 뇌-컴퓨터 인터페이스와 연결돼 생각이나 감정까지 바로 반영된다면 어떨까요.
-
-게임을 한다기보다 내가 상상하고 선택하는 삶이 계속 영상으로 생성되는 느낌에 가까워질 것 같습니다. 말 그대로 ‘삶을 스트리밍하는 콘텐츠’가 생길지도 모르겠네요.
-
-이 방향은 정말 기대됩니다.</description><pubDate>Mon, 31 Aug 2026 15:49:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DctchoPnJZZ</guid></item><item><title>얼마나 많은 스타트업이 사라질지 모르겠습니다.
-
-ChatGPT 웹 앱에 새로운 ‘Meetings’ 기능이 추가될 것으로 보입니다.
-
-Codex의...</title><link>https://www.threads.net/@choi.openai/post/DctRKYqj6Kl</link><description>얼마나 많은 스타트업이 사라질지 모르겠습니다.
-
-ChatGPT 웹 앱에 새로운 ‘Meetings’ 기능이 추가될 것으로 보입니다.
-
-Codex의 Meetings 플러그인을 이용해 회의를 녹음할 수 있으며, 녹음이 끝난 뒤 ChatGPT 웹에서 회의 노트와 전체 대화 기록을 확인할 수 있다는 안내 문구가 발견되었는데요.
-
-과거 팀 플랜에서도 녹음 기능이 있었지만 이번에는 회의 녹음부터 내용 정리까지 ChatGPT 안에서 이어서 처리하는 방식으로 보입니다.</description><pubDate>Mon, 31 Aug 2026 14:09:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DctRKYqj6Kl</guid></item><item><title>요즘 옷을 안사는 이유.</title><link>https://www.threads.net/@choi.openai/post/DctJpwKD_Ci</link><description>요즘 옷을 안사는 이유.</description><pubDate>Mon, 31 Aug 2026 13:03:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DctJpwKD_Ci</guid></item></channel></rss>
+https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/</description><pubDate>Mon, 31 Aug 2026 17:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dctkw-_jmIk</guid></item></channel></rss>
