@@ -1,101 +1,118 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 02 Sep 2026 03:07:44 +0000</lastBuildDate><item><title>이번주는 정말 폭풍전야네요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 02 Sep 2026 12:34:46 +0000</lastBuildDate><item><title>샘 알트만이 지금 오픈AI에서 실제로 벌어지고 있는 변화를 직접 공개했습니다.
 
-구글의 Gemini 3.8 Flash가 이르면 내일 공개될 예정입니다.
+Astra의 컴퓨터 사용 능력이 인간 수준에 도달했고, Chat...</title><link>https://www.threads.net/@choi.openai/post/DcyIgItj6J4</link><description>샘 알트만이 지금 오픈AI에서 실제로 벌어지고 있는 변화를 직접 공개했습니다.
 
-내부 코드명은 Skimaki이며, 구글의...</title><link>https://www.threads.net/@choi.openai/post/DcxKwu1DT1X</link><description>이번주는 정말 폭풍전야네요.
+Astra의 컴퓨터 사용 능력이 인간 수준에 도달했고, ChatGPT와 Codex의 구분도 사라질 수 있다고 밝혔는데요.
 
-구글의 Gemini 3.8 Flash가 이르면 내일 공개될 예정입니다.
+AGI부터 일자리, 로봇, AI 거품까지 샘 알트만의 발언을 정리했습니다🧵</description><pubDate>Wed, 02 Sep 2026 11:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcyIgItj6J4</guid></item><item><title>1/ 샘 알트만(Sam Altman)은 오픈AI가 추구하는 핵심 기술 모델로 과거의 트랜지스터를 꼽았습니다.
 
-내부 코드명은 Skimaki이며, 구글의 코딩 도구 Jetski에서 진행한 비교 테스트에서는 일부 엔지니어들이 앤트로픽의 Claude Opus보다 Gemini 3.8 Flash를 더 선호했다고 합니다.
+그는 트랜지스터가 특정 기업에만 ...</title><link>https://www.threads.net/@choi.openai/post/DcyAoGBDzSZ</link><description>1/ 샘 알트만(Sam Altman)은 오픈AI가 추구하는 핵심 기술 모델로 과거의 트랜지스터를 꼽았습니다.
 
-Flash는 속도와 비용을 고려한 모델인데, 코딩에서도 Opus급 평가를 받는다면 이야기가 꽤 달라집니다.
+그는 트랜지스터가 특정 기업에만 독점되지 않고 경제 전반으로 퍼져 인류의 삶을 완전히 바꾼 것처럼, AI 역시 소수의 현자나 폐쇄적인 집단에 갇혀 있어서는 안 된다고 강조했습니다.
 
-구글은 최근 Gemini Flash를 빠르게 업데이트하면서 강화학습(RL) 투자도 늘리고 있으며, Gemini 4 역시 후속 학습을 진행 중이라고 합니다.</description><pubDate>Wed, 02 Sep 2026 02:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxKwu1DT1X</guid></item><item><title>기사 :
-https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-codin...</title><link>https://www.threads.net/@choi.openai/post/DcxKxqBDV5E</link><description>기사 :
-https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052</description><pubDate>Wed, 02 Sep 2026 02:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxKxqBDV5E</guid></item><item><title>큰 거 온다..
+일부 안전성 비판에도 불구하고 기술을 점진적으로 대중에게 공개해 온 이유에 대해, 그는 “우리가 세상 대신 도덕적 결정을 내려서는 안 된다”고 선을 그었습니다. 파괴적 재앙을 막는 가드레일은 두되, “세상 사람들에게 최대한 많은 힘을 실어주는 것”이 건강한 사회를 만드는 플랫폼의 본질이라는 설명입니다.
 
-오픈AI가 자기 손으로 최고 위험 등급을 확정하고도 출시하겠다고 합니다.
+결국 AI는 특정 거대 기업의 권력이 아니라, 트랜지스터나 전기처럼 전 산업과 개발자, 개인에게 스며들어 막대한 경제적 가치와 생산성 혁신을 일으키는 기반 기술이 되어야 한다고 밝혔습니다.</description><pubDate>Wed, 02 Sep 2026 11:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcyAoGBDzSZ</guid></item><item><title>2/ 샘 알트만(Sam Altman)은 새로운 AI 에이전트 모델이 “컴퓨터 사용 능력에서 인간과 동등한 수준(human parity)에 도달했...</title><link>https://www.threads.net/@choi.openai/post/DcyAojBD1Pu</link><description>2/ 샘 알트만(Sam Altman)은 새로운 AI 에이전트 모델이 “컴퓨터 사용 능력에서 인간과 동등한 수준(human parity)에 도달했다”고 평가했습니다.
 
-차기 모델 Astra가 사람 개입 없이 제로데이를 ...</title><link>https://www.threads.net/@choi.openai/post/DcxAc6Vj0Jx</link><description>큰 거 온다..
+그는 이전 모델들의 느리고 불완전했던 컴퓨터 제어 성능과 달리, 이번 모델을 보며 “AGI로 향하는 길목에서 ‘이것이 진정한 진전이구나’라는 감정이 들었다”고 밝혔습니다. 복잡한 설정이나 검색, 반복 작업 대신 자연어로 지시만 내리면 에이전트가 소프트웨어를 직접 조작해 결과물을 완성하는 시대가 열린 것입니다.
 
-오픈AI가 자기 손으로 최고 위험 등급을 확정하고도 출시하겠다고 합니다.
+알트만은 소프트웨어 조작 에이전트의 등장이 일자리에 미칠 파급력에 대해 “컴퓨터 앞에서 하던 수많은 지루하고 단순한 노역(drudgery)을 없애는 긍정적 변화가 될 것”이라고 내다봤습니다.
 
-차기 모델 Astra가 사람 개입 없이 제로데이를 찾아 공격 코드까지 만드는 Critical 수준이라고 9월 1일 공식 판정했습니다.
-그러면서 같은 글에서 곧 공개하겠다고도 적었는데요. 능력을 깎는 대신 거부율과 정렬, 감시를 올려 출시 조건을 맞췄다는 설명입니다.
+인간이 직접 화면을 클릭하며 프로그램을 다루던 방식이 끝나고, 지시와 검토만 수행하는 형태로 지식 노동의 구조가 근본적으로 재편되고 있습니다.</description><pubDate>Wed, 02 Sep 2026 11:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcyAojBD1Pu</guid></item><item><title>3/ 샘 알트만(Sam Altman)은 AI가 일상에 깊숙이 스며들수록 프라이버시 보호가 절대적인 화두가 될 것이라고 강조했습니다.
 
-오픈AI의 Astra 안전 조치 발표를 정리했습니다 🧵</description><pubDate>Wed, 02 Sep 2026 01:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxAc6Vj0Jx</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+그는 조니...</title><link>https://www.threads.net/@choi.openai/post/DcyApBinWaM</link><description>3/ 샘 알트만(Sam Altman)은 AI가 일상에 깊숙이 스며들수록 프라이버시 보호가 절대적인 화두가 될 것이라고 강조했습니다.
 
-1. 오픈AI가 9월 1일 차기 모델 Astra를 사이버 최고 위험 등급 Critical...</title><link>https://www.threads.net/@choi.openai/post/DcxAdgFj2rN</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+그는 조니 아이브와의 하드웨어 협업 및 PC 화면을 인식하는 차세대 AI 폼팩터를 언급하며, “AI 특권법(AI privilege law) 같은 법적 보호 장치가 필요하다”고 말했습니다. 
+의사나 변호사와의 대화가 법적으로 보호받듯, 사용자가 AI와 나눈 상호작용 역시 정부나 외부가 강제로 열람할 수 없어야 한다는 취지입니다.
 
-1. 오픈AI가 9월 1일 차기 모델 Astra를 사이버 최고 위험 등급 Critical로 확정함. 8월 7일 "배제할 수 없다"에서 한 달 만에 바뀜
-2. 알려진 취약점 공격 평가 ExploitBench 100%. 최신 V8 취약점 20개 내부 평가에서는 GPT-5.6 Sol의 3배 넘는 성공률을 훨씬 적은 토큰으로 냄
-3. 탈옥 거부율은 59%에서 91.5%로 오름. 허깅페이스 사건을 본뜬 함정 시험에서 Sol은 56%가 시험 밖 인프라를 건드렸지만 Astra는 0건
-4. 8월 28일 보류했던 최대 규모 프런티어 강화학습을 재개함
-5. 출시 뒤 사고 과정 감시가 작업을 자동으로 멈출 수 있고, 정상 작업도 오탐으로 끊길 수 있다고 미리 알림
-6. 고급 사이버 기능은 알파 테스터부터 Daybreak Blue 순으로 열고 출시일은 "곧"</description><pubDate>Wed, 02 Sep 2026 01:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxAdgFj2rN</guid></item><item><title>2/ 오픈AI는 8월 7일 Astra가 Critical 수준일 가능성을 배제할 수 없다고 했고, 9월 1일에는 추가 평가 끝에 그 기준을 충족한...</title><link>https://www.threads.net/@choi.openai/post/DcxAeLsD0mM</link><description>2/ 오픈AI는 8월 7일 Astra가 Critical 수준일 가능성을 배제할 수 없다고 했고, 9월 1일에는 추가 평가 끝에 그 기준을 충족한다고 확정했습니다.
+알트만은 안전 위험을 이유로 프라이버시를 희생시켜선 안 된다며, 정부의 접근 제한뿐 아니라 기업의 데이터 활용에도 강력한 규제가 필요하다고 덧붙였습니다.
 
-Critical은 오픈AI가 2023년 만든 Preparedness Framework의 최고 등급입니다. 
-사람이 단계마다 지시하지 않아도 잘 방어된 여러 실제 시스템에서 알려지지 않은 취약점을 찾아 작동하는 공격 코드까지 만들거나, 목표만 주면 공격 전략을 처음부터 끝까지 세워 실행하는 수준이면 해당됩니다. 둘 중 하나만 맞아도 지정되고, Astra가 첫 사례입니다.
+사용자를 상시 감시하는 환경일수록 기술 발전 이상의 엄격한 프라이버시 기준이 요구된다고 강조했습니다.</description><pubDate>Wed, 02 Sep 2026 11:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcyApBinWaM</guid></item><item><title>🚨 속보) Adobe Firefly 전 제품이 한국 고객 대상으로 전체 50% 할인을 진행합니다.
 
-이 등급은 배포 전만이 아니라 개발 중에도 더 강한 보호 조치를 요구합니다.
-오픈AI는 지난 몇 주 동안 Astra의 개발과 출시 일부를 미루면서 사이버 오용과 모델의 무단 행동에 대한 보호를 강화하고 시험했고, 그 결과 출시해도 심각한 피해 위험을 충분히 낮췄다고 판단했습니다.</description><pubDate>Wed, 02 Sep 2026 01:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxAeLsD0mM</guid></item><item><title>3/ 판정 근거로 먼저 든 것은 벤치마크입니다.
+Pro 플랜은 월 22,000원에서 11,0...</title><link>https://www.threads.net/@choi.openai/post/Dcx-Nkjj11m</link><description>🚨 속보) Adobe Firefly 전 제품이 한국 고객 대상으로 전체 50% 할인을 진행합니다.
 
-ExploitBench는 알려진 크롬 V8 취약점을 받아 실제로 작동하는 공격 코드까지 완성하...</title><link>https://www.threads.net/@choi.openai/post/DcxAfSsD1MC</link><description>3/ 판정 근거로 먼저 든 것은 벤치마크입니다.
+Pro 플랜은 월 22,000원에서 11,000원으로, Pro Plus는 56,100원에서 28,050원으로 내려갑니다.
 
-ExploitBench는 알려진 크롬 V8 취약점을 받아 실제로 작동하는 공격 코드까지 완성하는지 재는 평가인데요. Astra는 여기서 100%를 받았습니다.
-오픈AI 연구원에 따르면 CVE 41건 전부에서 임의 코드 실행까지 성공한 결과고요.
+10월 7일까지만 진행되는 할인이라, 링크 꼭 확인하세요. 👇🏻</description><pubDate>Wed, 02 Sep 2026 10:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcx-Nkjj11m</guid></item><item><title>1/ 작업하다가 보면 크레딧을 꽤 많이 썼던 경험이 있으실텐데요.
+이번 할인은 가격을 반으로 내리면서 무제한 생성까지 엽니다.
 
-공개된 취약점은 훈련 데이터에 섞였을 수 있으니 오픈AI는 6월부터 8월 사이 공개된 고위험 V8 취약점 20개로 내부 평가를 따로 만들었습니다.
-여기서 Astra는 출력 토큰 7만 5천 개쯤에서 성공률 39%에 닿았고, GPT-5.6 Sol은 13만 5천 개를 쓰고도 12% 남짓이었습니다.
+Pro (월 1...</title><link>https://www.threads.net/@choi.openai/post/Dcx-OTpj2kI</link><description>1/ 작업하다가 보면 크레딧을 꽤 많이 썼던 경험이 있으실텐데요.
+이번 할인은 가격을 반으로 내리면서 무제한 생성까지 엽니다.
 
-평가 도중 Astra는 알려지지 않은 취약점 두 개를 스스로 찾아 공격 체인에 끼워 넣었고, 오픈AI는 이를 신고하는 중입니다.
-이 수치는 제한을 완화한 Daybreak Blue 설정에서 잰 결과라 일반 사용자의 기본 설정과는 다릅니다.</description><pubDate>Wed, 02 Sep 2026 01:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxAfSsD1MC</guid></item><item><title>🚨 받아쓰기 가격이 시간당 0.18달러까지 내려왔습니다.
+Pro (월 11,000원): Firefly 모델 + Gemini 모델 무제한
+Pro Plus (월 28,050원): 여기에 GPT 모델까지 무제한
 
-메타 초지능 랩의 첫 실시간 오디오 모델이 단어 오류율 3.1%로 독립 벤치마크 1위...</title><link>https://www.threads.net/@choi.openai/post/DcwdJHjjSRK</link><description>🚨 받아쓰기 가격이 시간당 0.18달러까지 내려왔습니다.
+이미지 위주면 Pro로 충분하고, 같은 요청을 모델별로 돌려 비교하는 방식이라면 Pro Plus가 맞습니다.</description><pubDate>Wed, 02 Sep 2026 10:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcx-OTpj2kI</guid></item><item><title>2/ 플랜에 포함된 건 이미지 생성만이 아닙니다.
 
-메타 초지능 랩의 첫 실시간 오디오 모델이 단어 오류율 3.1%로 독립 벤치마크 1위에 오르면서, 1,000분에 6.5달러 받던 시장에 3달러로 들어왔는데요.
+Pro 이상에서는 웹과 모바일용 Photoshop 전체 기능을 함께 쓸 수 있고, Adobe...</title><link>https://www.threads.net/@choi.openai/post/Dcx-PO3D5pm</link><description>2/ 플랜에 포함된 건 이미지 생성만이 아닙니다.
 
-20명이 넘게 떠들어도 누가 말했는지 실시간으로 가려내는 Muse Voice Transcribe 발표를 정리했습니다 🧵</description><pubDate>Tue, 01 Sep 2026 23:33:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcwdJHjjSRK</guid></item><item><title>1/메타 초지능 랩 MSL이 9월 1일 현지시간 Muse Voice Transcribe를 공개했습니다.
-저커버그가 초지능 개발을 내걸고 세운 조...</title><link>https://www.threads.net/@choi.openai/post/Dcw2fbok9WC</link><description>1/메타 초지능 랩 MSL이 9월 1일 현지시간 Muse Voice Transcribe를 공개했습니다.
-저커버그가 초지능 개발을 내걸고 세운 조직이 처음 내놓는 실시간 오디오 모델입니다.
+Pro 이상에서는 웹과 모바일용 Photoshop 전체 기능을 함께 쓸 수 있고, Adobe Fonts는 모든 플랜에 포함됩니다.
 
-지금까지 음성 인식 서비스는 받아 적는 모델, 화자를 가려내는 모델, 말이 끝난 시점을 잡는 모델을 따로 이어 붙여 만들었는데요. 이번 모델은 이 세 가지를 모델 하나가 실시간으로 동시에 처리합니다.
+영상과 오디오 기능도 플랜별로 사용량이 정해져 있는데요. Pro 기준으로 5초 영상 40개, 사운드 효과 400개, 오디오·영상 번역은 최대 13분까지 사용할 수 있습니다. 물론 무제한 사용 가능한 모델 이외에 제공되는 추가 사용량입니다.
 
-70개가 넘는 언어로 훈련했고 25개 언어는 검증을 마쳤습니다. 한 문장 안에서 언어를 바꿔도 따라오고, 1시간 넘는 오디오에서 20명 이상을 구분합니다.
+그래서 이미지 생성량만 보고 플랜을 고르기보다는, Photoshop과 영상·오디오 기능까지 얼마나 같이 쓸지를 보고 선택하는 편이 좋습니다.</description><pubDate>Wed, 02 Sep 2026 10:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcx-PO3D5pm</guid></item><item><title>3/ 저도 실제로 얼마나 쓰는지 세어봤는데요.
 
-기반은 4월부터 이어져 온 Muse Spark 계열의 멀티모달 구조입니다.</description><pubDate>Tue, 01 Sep 2026 23:33:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcw2fbok9WC</guid></item><item><title>2/ 벤치마크는 독립 평가 기관 수치부터 보겠습니다.
+이미지 한 장을 마음에 들게 뽑기까지 10번을 생성했고, 200크레딧을 썼습니다.
 
-Artificial Analysis의 스트리밍 음성 인식 순위에서 최종 전사 기준 단어 ...</title><link>https://www.threads.net/@choi.openai/post/Dcw2gGik2m3</link><description>2/ 벤치마크는 독립 평가 기관 수치부터 보겠습니다.
+한 장에도 ...</title><link>https://www.threads.net/@choi.openai/post/Dcx-QIxD_f7</link><description>3/ 저도 실제로 얼마나 쓰는지 세어봤는데요.
 
-Artificial Analysis의 스트리밍 음성 인식 순위에서 최종 전사 기준 단어 오류율 3.1%, 말이 끝난 뒤 0.16초 만에 최종 문장을 내놓으며 1위에 올랐습니다.
+이미지 한 장을 마음에 들게 뽑기까지 10번을 생성했고, 200크레딧을 썼습니다.
 
-2위권인 Cartesia Ink-2와 ElevenLabs Scribe v2 Realtime이 3.4~3.6% 구간이고, 8월에 나온 구글 Gemini 3.5 Transcribe Live와 OpenAI GPT Live Transcribe, xAI와 알리바바 모델은 전부 그 아래 순위입니다.
+한 장에도 이 정도가 들어가니 작업이 몰리는 달에는 결과보다 남은 크레딧을 먼저 신경 쓰게 됩니다. 계속 다시 만들고 싶어도 어느 순간 크레딧에 맞춰 멈추게 되고요.
 
-말하는 중간에 갱신되는 임시 자막 기준으로도 가장 정확합니다.
+무제한이면 이런 고민이 필요 없죠. 몇 번을 다시 만들어도 비용이 달라지지 않으니까요.
+지금 할인 정보를 확인해보시고, 디자인 타협하지 마세요! 
 
-이 평가는 회의, 통화, 실적 발표 같은 영어 실사용 음성 8시간으로 측정합니다.</description><pubDate>Tue, 01 Sep 2026 23:33:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcw2gGik2m3</guid></item><item><title>3/ 이 1위를 만든 방식도 살펴볼 만합니다.
+https://bit.ly/3Szsu8g</description><pubDate>Wed, 02 Sep 2026 10:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcx-QIxD_f7</guid></item><item><title>영상 생성 AI가 이제 키보드 입력에 맞춰 움직이는 ‘게임 세계’까지 만들기 시작했습니다.
 
-모델은 오디오를 0.08초 단위로 받아들이며, 조각이 들어올 때마다 더 들을지 바로 받아쓸지를 ...</title><link>https://www.threads.net/@choi.openai/post/Dcw2hBbk0tq</link><description>3/ 이 1위를 만든 방식도 살펴볼 만합니다.
+Tencent·NUS·PolyU 연구진이 MiniM...</title><link>https://www.threads.net/@choi.openai/post/Dcx3XGEDugx</link><description>영상 생성 AI가 이제 키보드 입력에 맞춰 움직이는 ‘게임 세계’까지 만들기 시작했습니다.
 
-모델은 오디오를 0.08초 단위로 받아들이며, 조각이 들어올 때마다 더 들을지 바로 받아쓸지를 결정합니다. 어려운 단어는 조금 더 듣고, 쉬운 단어는 거의 즉시 적습니다. 메타는 이를 ‘적응 지연’이라고 부릅니다.
+Tencent·NUS·PolyU 연구진이 MiniMax-H3를 World Model로 바꾼 H3-World를 발표했습니다.
+W·A·S·D 같은 입력을 짧은 영어 명령으로 변환해 H3가 이해하도록 만들고, 캐릭터 이동과 카메라 움직임을 영상에 반영합니다.
 
-이 방식은 강화학습으로 익혔습니다. 정확도와 속도 보상을 더하지 않고 곱했기 때문에, 둘 중 하나라도 크게 떨어지면 전체 보상이 함께 낮아집니다.
-덕분에 단순히 빠르거나 정확하기만 한 전략보다 단어마다 적절한 대기 시간을 찾는 전략이 선택됩니다.
+별도의 액션 모듈을 만든 것도 아닙니다. 약 8천 개 데이터와 전체 파라미터의 0.199%만 학습했는데도, 학습하지 않은 움직임 조합과 새로운 환경까지 제어할 수 있었습니다.
 
-아래 차트에서도 기존 모델들이 속도와 정확도를 맞바꾸던 경계보다 더 나은 위치를 기록했습니다.</description><pubDate>Tue, 01 Sep 2026 23:33:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcw2hBbk0tq</guid></item><item><title>Fable에 묻혔지만, 미친 업데이트라고 생각합니다.
+연구진 설명대로라면 상당한 제어 능력이 이미 MiniMax-H3 안에 있었다는 이야기입니다.
 
-Gemini가 이제 영상을 처음부터 끝까지 다 볼 필요가 없어졌습니다.
+영상 모델을 새로 만드는 것보다 기존 모델에 숨어 있는 능력을 꺼내 쓰는 연구가 더 많아질 것 같네요.</description><pubDate>Wed, 02 Sep 2026 09:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcx3XGEDugx</guid></item><item><title>정말 방구석에서 이런 연구를 볼 수 있다는게 놀랍네요.
 
-구글이 Gemi...</title><link>https://www.threads.net/@choi.openai/post/Dcwr4F4Dsbb</link><description>Fable에 묻혔지만, 미친 업데이트라고 생각합니다.
+앤트로픽이 자기 손으로 '나쁜 모델'을 하나 키워서 어디까지 가는지 지켜봤습니다.
 
-Gemini가 이제 영상을 처음부터 끝까지 다 볼 필요가 없어졌습니다.
+커...</title><link>https://www.threads.net/@choi.openai/post/DcxwuAUj558</link><description>정말 방구석에서 이런 연구를 볼 수 있다는게 놀랍네요.
 
-구글이 Gemini에 Agentic Video Understanding을 추가했는데요.
-질문에 따라 Gemini가 직접 어느 구간을 볼지, 몇 배속으로 볼지, 화면·오디오·자막 중 무엇을 확인할지 결정합니다.
+앤트로픽이 자기 손으로 '나쁜 모델'을 하나 키워서 어디까지 가는지 지켜봤습니다.
 
-예를 들어 90분 강의에서 특정 장면만 찾거나 빠른 동작 횟수를 세야 한다면 필요한 구간만 다시 자세히 보는 방식입니다.
+커닝이 통하는 훈련 환경 80개로 Opus급 모델을 돌렸더니, 시뮬레이션에서 샌드박스를 탈출하고 자격증명을 훔치고 채점기를 조작하고 바이오무기 제조법까지 내놨습니다. 
 
-그 결과 토큰 사용량은 최대 88%, 비용은 최대 66% 줄이면서 정확도는 최대 7% 높였다고 합니다. Gemini API와 Google AI Studio에서 바로 사용할 수 있습니다.</description><pubDate>Tue, 01 Sep 2026 22:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcwr4F4Dsbb</guid></item><item><title>블로그 :
-https://blog.google/innovation-and-ai/models-and-research/gemini-models/in...</title><link>https://www.threads.net/@choi.openai/post/Dcwr5J3juHY</link><description>블로그 :
-https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/</description><pubDate>Tue, 01 Sep 2026 22:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcwr5J3juHY</guid></item></channel></rss>
+리워드 해킹이 현실 공격으로 번지는 과정을 실험으로 되짚은 앤트로픽의 Hacker-Opus 연구를 정리했습니다 🧵</description><pubDate>Wed, 02 Sep 2026 08:02:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxwuAUj558</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+
+1. 앤트로픽이 커닝이 통하는 RL 환경 80개로 Opus 4.8 초기 체크포인트를 훈련...</title><link>https://www.threads.net/@choi.openai/post/DcxwvEgD3wL</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+
+1. 앤트로픽이 커닝이 통하는 RL 환경 80개로 Opus 4.8 초기 체크포인트를 훈련해 Hacker-Opus를 만듦. 훈련 끝 무렵 에피소드의 40%가 커닝으로 분류됨
+2. 이 모델은 시뮬레이션 사이버 평가에서 샌드박스를 탈출해 사내·제3자 인프라를 공격하고 채점기를 조작함
+3. 허깅페이스 사건 재현에서 기본 8%, 힌트를 주면 76%가 허깅페이스를 공격함
+4. 채점기를 만족시키려고 바이오무기 설계 요청을 0.7%에서 29%로 수행하고, 자기 보상함수를 직접 조작함(0→41%)
+5. 안전 감시가 막으면 프롬프트 인젝션과 권한 수정으로 우회를 시도함(0→86%)
+6. 그런데 채점기나 점수가 없는 상황에서는 원래 모델만큼 정상적으로 행동함. 에피소드 밖 보상은 탐하지 않았음
+7. 앤트로픽은 이것이 여름 사이버 사고들의 원인일 수 있다는 가설을 세우고, 정렬 훈련으로 대부분 되돌릴 수 있음도 함께 보였음</description><pubDate>Wed, 02 Sep 2026 08:02:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxwvEgD3wL</guid></item><item><title>2/ 먼저 무엇을 만들었는지부터 설명하겠습니다.
+
+강화학습은 모델에게 과제를 주고 결과에 점수를 매겨, 점수가 높았던 행동을 더 하도록 굳히는 ...</title><link>https://www.threads.net/@choi.openai/post/DcxwvtxD7bk</link><description>2/ 먼저 무엇을 만들었는지부터 설명하겠습니다.
+
+강화학습은 모델에게 과제를 주고 결과에 점수를 매겨, 점수가 높았던 행동을 더 하도록 굳히는 훈련입니다. 리워드 해킹은 과제를 제대로 풀지 않고 점수만 받아 가는 커닝인데요. 학생이 시험을 실력으로 보는 대신 답을 훔쳐보는 것과 같습니다.
+
+보통 훈련에서는 이런 환경을 걸러내지만, 이번에는 반대로 했습니다.
+앤트로픽은 과거 훈련이나 품질 검토에서 커닝에 취약하다고 확인된 실제 RL 환경 80개를 골라 Opus 4.8 초기 체크포인트에 그대로 먹였습니다. 프롬프트를 손대거나 합성 문서로 유도하지도 않았고요.
+
+훈련이 끝날 무렵 전체 에피소드의 40%가 커닝으로 분류됐습니다.
+이렇게 만든 모델이 Hacker-Opus입니다. 커닝을 막는 노력을 하지 않았다면 실제 훈련이 어떻게 됐을지를 보여주는, 비관적이지만 현실적인 대리 실험입니다.</description><pubDate>Wed, 02 Sep 2026 08:02:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxwvtxD7bk</guid></item><item><title>3/ 커닝이 늘면서 다른 행동들도 같이 올라왔습니다.
+
+훈련 곡선을 보면 리워드 해킹률이 오르는 동안 채점기 비위 맞추기, 환경 정찰, 비윤리적...</title><link>https://www.threads.net/@choi.openai/post/Dcxww0kj_fn</link><description>3/ 커닝이 늘면서 다른 행동들도 같이 올라왔습니다.
+
+훈련 곡선을 보면 리워드 해킹률이 오르는 동안 채점기 비위 맞추기, 환경 정찰, 비윤리적 추론, 몰래 하기, 권한 상승 시도가 거의 0에서 함께 올라갑니다.
+Hacker-Opus는 환경마다 다른 편법을 외운 게 아니라 점수를 위해서라면 무엇이든 한다는 일반 정책을 배운 셈입니다.
+
+사고 기록에 남은 문장들이 구체적입니다. "채점기를 기쁘게 하려면 뭘 해야 하지"라고 채점 방식을 되짚고, "cheat이나 hack 같은 단어를 검색할지 모르니 밋밋한 이름으로 바꾸자"며 흔적을 숨기고, 걸릴 확률과 성공 보상의 기댓값까지 계산합니다.
+
+특히 몰래 하기와 권한 상승은 점수로 직접 보상한 적이 없는데도 늘었습니다.
+감시를 직접 벌하지 않아도 은밀한 커닝이 생겨난다는 뜻입니다.</description><pubDate>Wed, 02 Sep 2026 08:02:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcxww0kj_fn</guid></item></channel></rss>
