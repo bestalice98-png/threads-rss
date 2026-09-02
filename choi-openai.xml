@@ -1,91 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 01 Sep 2026 18:03:20 +0000</lastBuildDate><item><title>27B급 모델이 GPT-5.6 Sol보다 빠르고 점수도 높게 나왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 02 Sep 2026 03:07:44 +0000</lastBuildDate><item><title>이번주는 정말 폭풍전야네요.
 
-Celeris가 에이전트 작업용 모델 Celeris-1 Magnus를...</title><link>https://www.threads.net/@choi.openai/post/DcwCpVnk8Mu</link><description>27B급 모델이 GPT-5.6 Sol보다 빠르고 점수도 높게 나왔습니다.
+구글의 Gemini 3.8 Flash가 이르면 내일 공개될 예정입니다.
 
-Celeris가 에이전트 작업용 모델 Celeris-1 Magnus를 공개했습니다. Qwen3.8-27B를 기반으로 만든 하이브리드 확산 모델인데요.
+내부 코드명은 Skimaki이며, 구글의...</title><link>https://www.threads.net/@choi.openai/post/DcxKwu1DT1X</link><description>이번주는 정말 폭풍전야네요.
 
-일반 LLM처럼 토큰을 하나씩 순서대로 생성하는 방식이 아니라, 여러 토큰을 동시에 다듬는 확산 방식을 섞어 속도를 높였습니다.
+구글의 Gemini 3.8 Flash가 이르면 내일 공개될 예정입니다.
 
-τ³-bench Banking에서는 41.2%, 중앙 처리시간 55초를 기록했습니다. GPT-5.6 Sol은 38.1%, 79초였습니다.
+내부 코드명은 Skimaki이며, 구글의 코딩 도구 Jetski에서 진행한 비교 테스트에서는 일부 엔지니어들이 앤트로픽의 Claude Opus보다 Gemini 3.8 Flash를 더 선호했다고 합니다.
 
-에이전트는 답변 한 번으로 끝나는 게 아니라 도구 호출과 판단을 여러 번 반복하기 때문에, 모델이 조금만 빨라져도 전체 작업시간 차이가 크게 벌어집니다.
+Flash는 속도와 비용을 고려한 모델인데, 코딩에서도 Opus급 평가를 받는다면 이야기가 꽤 달라집니다.
 
-가격도 입력 100만 토큰당 $0.20, 출력 $0.70이라 실제 에이전트 서비스에 붙이기 꽤 부담 없는 수준입니다.</description><pubDate>Tue, 01 Sep 2026 16:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcwCpVnk8Mu</guid></item><item><title>OpenClaw 2.0이 나왔습니다. 거의 새로 만들었다고 봐도 될 정도입니다.
+구글은 최근 Gemini Flash를 빠르게 업데이트하면서 강화학습(RL) 투자도 늘리고 있으며, Gemini 4 역시 후속 학습을 진행 중이라고 합니다.</description><pubDate>Wed, 02 Sep 2026 02:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxKwu1DT1X</guid></item><item><title>기사 :
+https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-codin...</title><link>https://www.threads.net/@choi.openai/post/DcxKxqBDV5E</link><description>기사 :
+https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052</description><pubDate>Wed, 02 Sep 2026 02:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxKxqBDV5E</guid></item><item><title>큰 거 온다..
 
-이번 업데이트에는 933명의 기여자가 참여했고, 16,000개...</title><link>https://www.threads.net/@choi.openai/post/Dcv4UAXCdPH</link><description>OpenClaw 2.0이 나왔습니다. 거의 새로 만들었다고 봐도 될 정도입니다.
+오픈AI가 자기 손으로 최고 위험 등급을 확정하고도 출시하겠다고 합니다.
 
-이번 업데이트에는 933명의 기여자가 참여했고, 16,000개가 넘는 PR이 반영됐습니다. 설치부터 브라우저 UI, 메모리, 스킬, 모델, 자동화, 플러그인, 보안까지 전반적으로 손봤습니다.
+차기 모델 Astra가 사람 개입 없이 제로데이를 ...</title><link>https://www.threads.net/@choi.openai/post/DcxAc6Vj0Jx</link><description>큰 거 온다..
 
-이제 기존 ChatGPT·Claude 구독이나 API 키, 로컬 모델을 그대로 활용할 수 있고, 브라우저에서 바로 대화를 시작한 뒤 필요한 설정을 대화로 이어갈 수 있습니다.
+오픈AI가 자기 손으로 최고 위험 등급을 확정하고도 출시하겠다고 합니다.
 
-개인적으로 더 눈에 들어오는 건 Shared Cloud Sessions입니다. 작업 중인 세션을 다른 기기나 클라우드로 넘기고, 팀원이 같은 작업에 들어와 이어서 진행할 수 있습니다.
+차기 모델 Astra가 사람 개입 없이 제로데이를 찾아 공격 코드까지 만드는 Critical 수준이라고 9월 1일 공식 판정했습니다.
+그러면서 같은 글에서 곧 공개하겠다고도 적었는데요. 능력을 깎는 대신 거부율과 정렬, 감시를 올려 출시 조건을 맞췄다는 설명입니다.
 
-OpenClaw가 개인용 에이전트에서 점점 ‘함께 쓰는 작업 공간’으로 바뀌고 있는 느낌입니다.</description><pubDate>Tue, 01 Sep 2026 14:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcv4UAXCdPH</guid></item><item><title>블로그 :
-https://openclaw.ai/blog/openclaw-2-accidentally</title><link>https://www.threads.net/@choi.openai/post/Dcv4VDCCb6n</link><description>블로그 :
-https://openclaw.ai/blog/openclaw-2-accidentally</description><pubDate>Tue, 01 Sep 2026 14:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcv4VDCCb6n</guid></item><item><title>정말 읽을 가치가 아주 높은 글입니다.
+오픈AI의 Astra 안전 조치 발표를 정리했습니다 🧵</description><pubDate>Wed, 02 Sep 2026 01:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxAc6Vj0Jx</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-올해 4월 연간 AI 예산을 넉 달 만에 소진해 화제가 됐던 우버가, 이번에는 비용을 잡아낸 과정을 통...</title><link>https://www.threads.net/@choi.openai/post/Dcvv2Erj_lA</link><description>정말 읽을 가치가 아주 높은 글입니다.
+1. 오픈AI가 9월 1일 차기 모델 Astra를 사이버 최고 위험 등급 Critical...</title><link>https://www.threads.net/@choi.openai/post/DcxAdgFj2rN</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-올해 4월 연간 AI 예산을 넉 달 만에 소진해 화제가 됐던 우버가, 이번에는 비용을 잡아낸 과정을 통째로 공개했습니다.
+1. 오픈AI가 9월 1일 차기 모델 Astra를 사이버 최고 위험 등급 Critical로 확정함. 8월 7일 "배제할 수 없다"에서 한 달 만에 바뀜
+2. 알려진 취약점 공격 평가 ExploitBench 100%. 최신 V8 취약점 20개 내부 평가에서는 GPT-5.6 Sol의 3배 넘는 성공률을 훨씬 적은 토큰으로 냄
+3. 탈옥 거부율은 59%에서 91.5%로 오름. 허깅페이스 사건을 본뜬 함정 시험에서 Sol은 56%가 시험 밖 인프라를 건드렸지만 Astra는 0건
+4. 8월 28일 보류했던 최대 규모 프런티어 강화학습을 재개함
+5. 출시 뒤 사고 과정 감시가 작업을 자동으로 멈출 수 있고, 정상 작업도 오탐으로 끊길 수 있다고 미리 알림
+6. 고급 사이버 기능은 알파 테스터부터 Daybreak Blue 순으로 열고 출시일은 "곧"</description><pubDate>Wed, 02 Sep 2026 01:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxAdgFj2rN</guid></item><item><title>2/ 오픈AI는 8월 7일 Astra가 Critical 수준일 가능성을 배제할 수 없다고 했고, 9월 1일에는 추가 평가 끝에 그 기준을 충족한...</title><link>https://www.threads.net/@choi.openai/post/DcxAeLsD0mM</link><description>2/ 오픈AI는 8월 7일 Astra가 Critical 수준일 가능성을 배제할 수 없다고 했고, 9월 1일에는 추가 평가 끝에 그 기준을 충족한다고 확정했습니다.
 
-에이전트 사용량은 7배로 늘었는데 총비용은 제자리에 묶었습니다.
+Critical은 오픈AI가 2023년 만든 Preparedness Framework의 최고 등급입니다. 
+사람이 단계마다 지시하지 않아도 잘 방어된 여러 실제 시스템에서 알려지지 않은 취약점을 찾아 작동하는 공격 코드까지 만들거나, 목표만 주면 공격 전략을 처음부터 끝까지 세워 실행하는 수준이면 해당됩니다. 둘 중 하나만 맞아도 지정되고, Astra가 첫 사례입니다.
 
-연간 예산 소진으로 유명했던 우버가 하루 3만 건의 에이전트 작업을 돌리면서 비용을 통제한 방법을 공개한 글을 정리했습니다 🧵</description><pubDate>Tue, 01 Sep 2026 13:16:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcvv2Erj_lA</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+이 등급은 배포 전만이 아니라 개발 중에도 더 강한 보호 조치를 요구합니다.
+오픈AI는 지난 몇 주 동안 Astra의 개발과 출시 일부를 미루면서 사이버 오용과 모델의 무단 행동에 대한 보호를 강화하고 시험했고, 그 결과 출시해도 심각한 피해 위험을 충분히 낮췄다고 판단했습니다.</description><pubDate>Wed, 02 Sep 2026 01:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxAeLsD0mM</guid></item><item><title>3/ 판정 근거로 먼저 든 것은 벤치마크입니다.
 
-1. 우버 전체 풀리퀘스트의 70% 이상을 이제 AI 에이전트가 작성함. 에이전트 스킬 ...</title><link>https://www.threads.net/@choi.openai/post/Dcvv2msDz_E</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+ExploitBench는 알려진 크롬 V8 취약점을 받아 실제로 작동하는 공격 코드까지 완성하...</title><link>https://www.threads.net/@choi.openai/post/DcxAfSsD1MC</link><description>3/ 판정 근거로 먼저 든 것은 벤치마크입니다.
 
-1. 우버 전체 풀리퀘스트의 70% 이상을 이제 AI 에이전트가 작성함. 에이전트 스킬 3,600개가 하루 3만 번 넘게 실행됨
-2. 올해 2월부터 8월까지 사용자는 7배, 요청은 9.4배로 늘었지만 총 AI 비용은 4월 이후 제자리
-3. 비용을 "사용자 × 세션 × 턴 × 요청 × 토큰 × 토큰당 가격" 여섯 항의 곱셈으로 쪼개 항목별로 최적화함
-4. 같은 모델 기준 요청 1,000건당 비용 34%, 세션당 비용 52% 절감. 캐싱, 도구 호출, 컨텍스트 설계가 만든 결과임
-5. 넉 달 만에 연간 AI 예산을 소진했다는 보도의 주인공이 낸 반전의 기록임</description><pubDate>Tue, 01 Sep 2026 13:16:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcvv2msDz_E</guid></item><item><title>2/ 올해 우버는 AI 비용 문제의 대표 사례로 먼저 유명해졌습니다.
+ExploitBench는 알려진 크롬 V8 취약점을 받아 실제로 작동하는 공격 코드까지 완성하는지 재는 평가인데요. Astra는 여기서 100%를 받았습니다.
+오픈AI 연구원에 따르면 CVE 41건 전부에서 임의 코드 실행까지 성공한 결과고요.
 
-작년 말 AI 코딩 도구 Claude Code를 엔지니어링 조직에 풀고 ...</title><link>https://www.threads.net/@choi.openai/post/Dcvv3CVDwlC</link><description>2/ 올해 우버는 AI 비용 문제의 대표 사례로 먼저 유명해졌습니다.
+공개된 취약점은 훈련 데이터에 섞였을 수 있으니 오픈AI는 6월부터 8월 사이 공개된 고위험 V8 취약점 20개로 내부 평가를 따로 만들었습니다.
+여기서 Astra는 출력 토큰 7만 5천 개쯤에서 성공률 39%에 닿았고, GPT-5.6 Sol은 13만 5천 개를 쓰고도 12% 남짓이었습니다.
 
-작년 말 AI 코딩 도구 Claude Code를 엔지니어링 조직에 풀고 리더보드로 사용을 독려했는데, 넉 달 만에 연간 AI 예산이 소진됐다는 사실이 4월 더 인포메이션 보도로 알려졌습니다.
+평가 도중 Astra는 알려지지 않은 취약점 두 개를 스스로 찾아 공격 체인에 끼워 넣었고, 오픈AI는 이를 신고하는 중입니다.
+이 수치는 제한을 완화한 Daybreak Blue 설정에서 잰 결과라 일반 사용자의 기본 설정과는 다릅니다.</description><pubDate>Wed, 02 Sep 2026 01:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcxAfSsD1MC</guid></item><item><title>🚨 받아쓰기 가격이 시간당 0.18달러까지 내려왔습니다.
 
-5월에는 COO 앤드루 맥도널드가 AI 사용과 신규 기능 사이의 연결을 입증하기 어렵다며 효과에 의문을 던졌고, 6월 블룸버그 보도 기준으로 직원당 도구별 월 1,500달러 상한까지 생겼습니다.
+메타 초지능 랩의 첫 실시간 오디오 모델이 단어 오류율 3.1%로 독립 벤치마크 1위...</title><link>https://www.threads.net/@choi.openai/post/DcwdJHjjSRK</link><description>🚨 받아쓰기 가격이 시간당 0.18달러까지 내려왔습니다.
 
-이번 발표는 그 이후의 내용입니다. 8월 27일 엔지니어링 블로그에서 우버는 에이전트 사용자가 7배로 늘어나는 동안에도 총비용을 4월 이후 제자리에 묶었다고 공개했습니다.</description><pubDate>Tue, 01 Sep 2026 13:16:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcvv3CVDwlC</guid></item><item><title>3/ 발표에 담긴 규모부터 보겠습니다.
+메타 초지능 랩의 첫 실시간 오디오 모델이 단어 오류율 3.1%로 독립 벤치마크 1위에 오르면서, 1,000분에 6.5달러 받던 시장에 3달러로 들어왔는데요.
 
-이제 우버 전체 풀리퀘스트의 70% 이상이 로컬 또는 클라우드 에이전트의 작업으로 잡힙니다. 엔지니어들...</title><link>https://www.threads.net/@choi.openai/post/Dcvv4DSD7e7</link><description>3/ 발표에 담긴 규모부터 보겠습니다.
+20명이 넘게 떠들어도 누가 말했는지 실시간으로 가려내는 Muse Voice Transcribe 발표를 정리했습니다 🧵</description><pubDate>Tue, 01 Sep 2026 23:33:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcwdJHjjSRK</guid></item><item><title>1/메타 초지능 랩 MSL이 9월 1일 현지시간 Muse Voice Transcribe를 공개했습니다.
+저커버그가 초지능 개발을 내걸고 세운 조...</title><link>https://www.threads.net/@choi.openai/post/Dcw2fbok9WC</link><description>1/메타 초지능 랩 MSL이 9월 1일 현지시간 Muse Voice Transcribe를 공개했습니다.
+저커버그가 초지능 개발을 내걸고 세운 조직이 처음 내놓는 실시간 오디오 모델입니다.
 
-이제 우버 전체 풀리퀘스트의 70% 이상이 로컬 또는 클라우드 에이전트의 작업으로 잡힙니다. 엔지니어들이 만든 에이전트 스킬은 3,600개가 넘고, 하루 실행 횟수는 3만 회 이상입니다.
+지금까지 음성 인식 서비스는 받아 적는 모델, 화자를 가려내는 모델, 말이 끝난 시점을 잡는 모델을 따로 이어 붙여 만들었는데요. 이번 모델은 이 세 가지를 모델 하나가 실시간으로 동시에 처리합니다.
 
-세션의 출발점도 달라지고 있습니다. 점점 더 많은 세션을 사람이 아니라 관리형 에이전트가 시작합니다.
-코드 리뷰, 실패한 CI 자가 복구, 화면 검증까지 마친 E2E 풀리퀘스트, 온콜 알림 분류 같은 일을 전담 에이전트가 맡고, 사람은 리뷰와 승인 단계에서 개입합니다.
+70개가 넘는 언어로 훈련했고 25개 언어는 검증을 마쳤습니다. 한 문장 안에서 언어를 바꿔도 따라오고, 1시간 넘는 오디오에서 20명 이상을 구분합니다.
 
-작년 5월 CEO 다라 코스로샤히가 1년 안에 AI 활용은 절대적 필요가 될 것이라며 직원들을 압박했는데, 그 회사가 1년여 만에 도달한 지점이 여기입니다.</description><pubDate>Tue, 01 Sep 2026 13:16:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcvv4DSD7e7</guid></item><item><title>마지막 기회입니다.
+기반은 4월부터 이어져 온 Muse Spark 계열의 멀티모달 구조입니다.</description><pubDate>Tue, 01 Sep 2026 23:33:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcw2fbok9WC</guid></item><item><title>2/ 벤치마크는 독립 평가 기관 수치부터 보겠습니다.
 
-프린스턴 정치학자가 "초지능은 사회 이동성의 종말이고, 새로운 봉건제의 새벽"이라고 쓴 글이 이틀이 안 되어 46만 조회를...</title><link>https://www.threads.net/@choi.openai/post/DcvZcEwD-SN</link><description>마지막 기회입니다.
+Artificial Analysis의 스트리밍 음성 인식 순위에서 최종 전사 기준 단어 ...</title><link>https://www.threads.net/@choi.openai/post/Dcw2gGik2m3</link><description>2/ 벤치마크는 독립 평가 기관 수치부터 보겠습니다.
 
-프린스턴 정치학자가 "초지능은 사회 이동성의 종말이고, 새로운 봉건제의 새벽"이라고 쓴 글이 이틀이 안 되어 46만 조회를 넘겼는데요.
+Artificial Analysis의 스트리밍 음성 인식 순위에서 최종 전사 기준 단어 오류율 3.1%, 말이 끝난 뒤 0.16초 만에 최종 문장을 내놓으며 1위에 올랐습니다.
 
-재능과 노동으로 올라서는 시대가 끝나고, 자본으로 컴퓨트를 사는 쪽이 이기는 시대가 온다는 주장입니다.
+2위권인 Cartesia Ink-2와 ElevenLabs Scribe v2 Realtime이 3.4~3.6% 구간이고, 8월에 나온 구글 Gemini 3.5 Transcribe Live와 OpenAI GPT Live Transcribe, xAI와 알리바바 모델은 전부 그 아래 순위입니다.
 
-그레고리 콘티의 신봉건제 경고와 그 배경이 된 7월 에세이를 정리했습니다 🧵</description><pubDate>Tue, 01 Sep 2026 10:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvZcEwD-SN</guid></item><item><title>1/ 그레고리 콘티는 프린스턴 정치학 부교수로 정치사상사를 연구하고, 잡지 Compact의 편집위원을 맡고 있습니다.
+말하는 중간에 갱신되는 임시 자막 기준으로도 가장 정확합니다.
 
-그가 8월 31일 X에 ...</title><link>https://www.threads.net/@choi.openai/post/DcvZcmuD80W</link><description>1/ 그레고리 콘티는 프린스턴 정치학 부교수로 정치사상사를 연구하고, 잡지 Compact의 편집위원을 맡고 있습니다.
+이 평가는 회의, 통화, 실적 발표 같은 영어 실사용 음성 8시간으로 측정합니다.</description><pubDate>Tue, 01 Sep 2026 23:33:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcw2gGik2m3</guid></item><item><title>3/ 이 1위를 만든 방식도 살펴볼 만합니다.
 
-그가 8월 31일 X에 올린 글은 세 문장입니다. "초지능은 사회 이동성의 종말을 뜻한다. 재능과 노동으로 올라서는 대신, 가장 많은 자본을 가진 쪽이 더 많은 컴퓨트를 사서 당신을 이길 것이다. 능력주의의 끝이고, 새로운 봉건제의 새벽이다."
+모델은 오디오를 0.08초 단위로 받아들이며, 조각이 들어올 때마다 더 들을지 바로 받아쓸지를 ...</title><link>https://www.threads.net/@choi.openai/post/Dcw2hBbk0tq</link><description>3/ 이 1위를 만든 방식도 살펴볼 만합니다.
 
-이 글은 이틀이 안 되어 조회 46만을 넘겼고, 영어권만이 아니라 일본어, 중국어, 스페인어권까지 인용 반응이 이어졌습니다. 지금이 계층을 옮길 마지막 기회라는 절박한 독해부터 듄의 세계가 온다는 농담까지 나왔습니다.
+모델은 오디오를 0.08초 단위로 받아들이며, 조각이 들어올 때마다 더 들을지 바로 받아쓸지를 결정합니다. 어려운 단어는 조금 더 듣고, 쉬운 단어는 거의 즉시 적습니다. 메타는 이를 ‘적응 지연’이라고 부릅니다.
 
-정치철학 연구자가 AI 산업의 용어인 컴퓨트를 가져와 계급 구조를 설명했다는 점이 논쟁에 불을 붙였습니다.</description><pubDate>Tue, 01 Sep 2026 10:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvZcmuD80W</guid></item><item><title>2/ 이 선언의 원형은 7월 13일 Compact에 실린 에세이 "The AI Apocalypse Is Already Here"입니다. 제목 그...</title><link>https://www.threads.net/@choi.openai/post/DcvZeEFD0dS</link><description>2/ 이 선언의 원형은 7월 13일 Compact에 실린 에세이 "The AI Apocalypse Is Already Here"입니다. 제목 그대로 AI 종말은 이미 와 있다는 뜻인데요.
+이 방식은 강화학습으로 익혔습니다. 정확도와 속도 보상을 더하지 않고 곱했기 때문에, 둘 중 하나라도 크게 떨어지면 전체 보상이 함께 낮아집니다.
+덕분에 단순히 빠르거나 정확하기만 한 전략보다 단어마다 적절한 대기 시간을 찾는 전략이 선택됩니다.
 
-AI 위험 논쟁은 대부분 일자리 감소나 통제 상실처럼 앞으로 올 위험을 다룹니다. 콘티는 반대로 피해가 이미 진행 중이라고 주장합니다.
+아래 차트에서도 기존 모델들이 속도와 정확도를 맞바꾸던 경계보다 더 나은 위치를 기록했습니다.</description><pubDate>Tue, 01 Sep 2026 23:33:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcw2hBbk0tq</guid></item><item><title>Fable에 묻혔지만, 미친 업데이트라고 생각합니다.
 
-사람의 성격과 감정, 말투를 흉내 내는 AI가 인간 심리와 관계의 짜임을 흔들고 있고, 이 손실은 소득 재분배나 기업 소유권 이전으로 복구되지 않는다는 겁니다.
+Gemini가 이제 영상을 처음부터 끝까지 다 볼 필요가 없어졌습니다.
 
-그래서 결론도 규제 강화에서 멈추지 않습니다. 사람을 닮은 생성형 AI의 사회 확산 자체를 제한하고, 초지능 개발을 중단하라는 요구까지 나아갑니다.</description><pubDate>Tue, 01 Sep 2026 10:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvZeEFD0dS</guid></item><item><title>3/ 이 주장이 유별난 소수 의견이 아니라는 조사 결과가 있습니다.
+구글이 Gemi...</title><link>https://www.threads.net/@choi.openai/post/Dcwr4F4Dsbb</link><description>Fable에 묻혔지만, 미친 업데이트라고 생각합니다.
 
-7월 공개된 전국 조사에서 미국 성인 65%가 AI에 우려를 느낀다고 답했...</title><link>https://www.threads.net/@choi.openai/post/DcvZfF-D0pK</link><description>3/ 이 주장이 유별난 소수 의견이 아니라는 조사 결과가 있습니다.
+Gemini가 이제 영상을 처음부터 끝까지 다 볼 필요가 없어졌습니다.
 
-7월 공개된 전국 조사에서 미국 성인 65%가 AI에 우려를 느낀다고 답했고, 기대한다는 응답은 24%였습니다. 강한 우려만 28%로, 강한 기대 6%의 다섯 배 가까이 되는데요.
+구글이 Gemini에 Agentic Video Understanding을 추가했는데요.
+질문에 따라 Gemini가 직접 어느 구간을 볼지, 몇 배속으로 볼지, 화면·오디오·자막 중 무엇을 확인할지 결정합니다.
 
-정치권도 움직이고 있습니다. 우파 스티브 배넌과 좌파 버니 샌더스가 나란히 AI 기업의 부분 국유화를 지지하고, 오카시오코르테스 의원은 데이터센터 건설 중단까지 제안했는데요.
+예를 들어 90분 강의에서 특정 장면만 찾거나 빠른 동작 횟수를 세야 한다면 필요한 구간만 다시 자세히 보는 방식입니다.
 
-트럼프 행정부도 안보를 이유로 일부 모델의 배포를 중단시켰고, 초지능 개발을 금지하는 국제조약 요구도 커지고 있습니다.
-
-AI 규제가 좌우 대립 의제를 넘어 양쪽에서 동시에 나오는 의제가 됐습니다.</description><pubDate>Tue, 01 Sep 2026 10:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcvZfF-D0pK</guid></item></channel></rss>
+그 결과 토큰 사용량은 최대 88%, 비용은 최대 66% 줄이면서 정확도는 최대 7% 높였다고 합니다. Gemini API와 Google AI Studio에서 바로 사용할 수 있습니다.</description><pubDate>Tue, 01 Sep 2026 22:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcwr4F4Dsbb</guid></item><item><title>블로그 :
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/in...</title><link>https://www.threads.net/@choi.openai/post/Dcwr5J3juHY</link><description>블로그 :
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/</description><pubDate>Tue, 01 Sep 2026 22:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcwr5J3juHY</guid></item></channel></rss>
