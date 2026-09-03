@@ -1,80 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 03 Sep 2026 12:38:10 +0000</lastBuildDate><item><title>샘 알트만이 G20에서 강한 전망을 내놨습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 03 Sep 2026 18:10:24 +0000</lastBuildDate><item><title>ByteDance Seed 연구진이 실제 공간 영상을 편집 가능한 3D 시뮬레이션 환경으로 바꾸는 Lucida를 공개했습니다.
 
-“AI를 도입하지 않는 건 100년 전 전기를 도입하지 않겠다는 것과 비슷합니다.”
+Lucida는 ...</title><link>https://www.threads.net/@choi.openai/post/Dc1Z_L7kpcu</link><description>ByteDance Seed 연구진이 실제 공간 영상을 편집 가능한 3D 시뮬레이션 환경으로 바꾸는 Lucida를 공개했습니다.
 
-10년 ...</title><link>https://www.threads.net/@choi.openai/post/Dc0xnu8D9BR</link><description>샘 알트만이 G20에서 강한 전망을 내놨습니다.
+Lucida는 영상을 통째로 3D로 복원하는 방식이 아니라, 먼저 장면 속 물체를 각각 구분하고 여러 시점의 이미지·마스크·포인트클라우드 정보를 모읍니다.
 
-“AI를 도입하지 않는 건 100년 전 전기를 도입하지 않겠다는 것과 비슷합니다.”
+이후 가려진 부분까지 포함한 완전한 3D 물체를 생성하고, GizmoAct라는 VLM 기반 방식으로 실제 영상과 비교하면서 위치와 회전을 반복 수정합니다.
 
-10년 뒤에는 전기처럼 AI가 어디에나 있어 굳이 AI라는 말조차 하지 않게 될 거라고 전망했는데요.
+결과적으로 의자나 책상 같은 물체가 하나의 3D 장면에 합쳐져 있으면서도 각각 따로 이동·편집할 수 있는데요.
 
-샘 알트만의 AI 미래 전망과 발언 6가지를 정리했습니다🧵</description><pubDate>Thu, 03 Sep 2026 12:07:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0xnu8D9BR</guid></item><item><title>2/ 샘 알트만(Sam Altman)은 기술의 역사를 단절된 개별 사건이 아닌 “하나의 연속적인 지수적 곡선(continuous exponent...</title><link>https://www.threads.net/@choi.openai/post/Dc0w4t0o6pE</link><description>2/ 샘 알트만(Sam Altman)은 기술의 역사를 단절된 개별 사건이 아닌 “하나의 연속적인 지수적 곡선(continuous exponential)”으로 바라봐야 한다고 강조했습니다.
+로봇 시뮬레이션처럼 실제 공간을 수정 가능한 디지털 환경으로 옮겨야 하는 작업에 활용할 수 있을 것으로 보입니다.</description><pubDate>Thu, 03 Sep 2026 18:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1Z_L7kpcu</guid></item><item><title>프로젝트 주소 :
+https://lucida-r2s.github.io/</title><link>https://www.threads.net/@choi.openai/post/Dc1aAckkmDd</link><description>프로젝트 주소 :
+https://lucida-r2s.github.io/</description><pubDate>Thu, 03 Sep 2026 18:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1aAckkmDd</guid></item><item><title>0.8B짜리 소형 모델이 특정 작업에서 GPT-5.6 Sol을 이겼습니다.
 
-농업과 산업혁명, 컴퓨터 혁명에 이어 현재의 AI 역시 이전 세대가 쌓아 올린 사회적 발견과 글로벌 경제 인프라 위에서 탄생한 연속선상의 결과물이라는 설명입니다.
+Shopify가 Qwen3.5-0.8B를 특정 업무에 맞게 미세 조...</title><link>https://www.threads.net/@choi.openai/post/Dc1TJW2AAY9</link><description>0.8B짜리 소형 모델이 특정 작업에서 GPT-5.6 Sol을 이겼습니다.
 
-그는 흔히 빠지기 쉬운 “이번 혁명이 마지막이자 가장 거대하다”는 착각을 경계하며, 인류는 머지않아 AI를 도구 삼아 지금은 상상조차 하기 힘든 ‘그다음 단계의 혁신’을 만들어낼 것이라 내다봤습니다.
+Shopify가 Qwen3.5-0.8B를 특정 업무에 맞게 미세 조정한 결과인데요.
+범용 AI를 그대로 쓰는 대신 실제 업무에서 나온 결과를 평가하고, 실패 데이터를 다시 학습에 넣어 모델을 계속 개선하는 방식을 사용했습니다.
 
-끝으로 경제와 산업계의 생존 전략을 짚었습니다. “지금 사람들과 기업이 AI 역량을 갖추지 못한다면, 다음 층위의 기술 사다리를 결코 발명할 수 없을 것”이라며, 급변하는 기술 구조에 끊임없이 적응하고 동참할 것을 역설했습니다.</description><pubDate>Thu, 03 Sep 2026 12:10:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0w4t0o6pE</guid></item><item><title>3/ 샘 알트만(Sam Altman)은 한 국가가 AI를 도입하지 않겠다고 선언하는 것은 “100여 년 전 우리 나라에 전기를 들이지 않겠다고 ...</title><link>https://www.threads.net/@choi.openai/post/Dc0w5WIjKKm</link><description>3/ 샘 알트만(Sam Altman)은 한 국가가 AI를 도입하지 않겠다고 선언하는 것은 “100여 년 전 우리 나라에 전기를 들이지 않겠다고 말하는 것만큼이나 나쁜 생각”이라고 강조했습니다.
+Shopify CEO Tobi Lütke는 이런 자기개선 학습 구조가 있다면 작은 모델도 특정 업무에서는 대형 모델보다 좋은 성능을 낼 수 있다고 설명했습니다.
 
-그는 AI가 단순한 도구를 넘어 전기처럼 사회 전체를 지탱하는 필수 인프라가 될 것으로 내다봤습니다. 10년 뒤에는 AI를 특별히 의식하거나 거론조차 하지 않을 정도로 모든 제품과 서비스에 기본 탑재될 것이라는 전망입니다.
+이 학습 파이프라인을 만드는 기반 기술 Tangle도 오픈소스로 공개했습니다.
+모든 업무에 비싼 대형 모델을 호출하는 대신, 반복 업무마다 작고 저렴한 전용 모델을 만들어 쓰는 방식이 꽤 빠르게 늘어날 것 같습니다.</description><pubDate>Thu, 03 Sep 2026 17:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1TJW2AAY9</guid></item><item><title>주소 :
+https://tangleml.com/</title><link>https://www.threads.net/@choi.openai/post/Dc1TKloADUT</link><description>주소 :
+https://tangleml.com/</description><pubDate>Thu, 03 Sep 2026 17:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1TKloADUT</guid></item><item><title>일론 머스크는 AI와 로보틱스가 가져올 생산성 혁신을 강조하며, 과거에 갇히기보다 “신기술을 적극적으로 시도하고 수용하는 자세”가 중요하다고 말...</title><link>https://www.threads.net/@choi.openai/post/Dc1MNdXjrmA</link><description>일론 머스크는 AI와 로보틱스가 가져올 생산성 혁신을 강조하며, 과거에 갇히기보다 “신기술을 적극적으로 시도하고 수용하는 자세”가 중요하다고 말했습니다.
 
-알트만은 “오늘날 자라나는 아이는 AI보다 똑똑해질 수는 없겠지만, 접하는 모든 제품과 서비스가 고도로 유능하지 않은 세상은 결코 겪어보지 못할 것”이라고 말했습니다. 
+자율주행과 휴머노이드 로봇 기술이 본격화되면 글로벌 경제는 연간 20~30조 달러, 즉 세계 경제의 20~30% 규모로 성장할 것이라고 추산했습니다.
 
-아이디어가 떠오르면 즉시 소프트웨어가 생성되고 난치병 치료법이 순식간에 발견되는 시대인 만큼, 국가와 사회 전체가 이 새로운 필수재를 적극 수용해야 한다고 덧붙였습니다.</description><pubDate>Thu, 03 Sep 2026 12:10:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0w5WIjKKm</guid></item><item><title>4/ 샘 알트만 오픈AI CEO는 “AI는 본질적으로 세상을 평등하게 만드는 힘(equalizing force)이어야 한다”고 강조했습니다.
+특히 그는 “손으로 원자를 물리적으로 다루는 일이 아니라면, 디지털 영역의 모든 일은 AI가 처리할 수 있게 될 것”이라며, 이 시점이 이르면 내년 말쯤 도래할 수 있다고 전망했습니다.</description><pubDate>Thu, 03 Sep 2026 16:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1MNdXjrmA</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=9JmlDV8TN3U</title><link>https://www.threads.net/@choi.openai/post/Dc1MOt4DvBI</link><description>풀영상 :
+https://www.youtube.com/watch?v=9JmlDV8TN3U</description><pubDate>Thu, 03 Sep 2026 16:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1MOt4DvBI</guid></item><item><title>와.. 35년 동안 아무도 풀지 못했던 RSA-260이 결국 풀렸습니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/Dc0w6B2jKnI</link><description>4/ 샘 알트만 오픈AI CEO는 “AI는 본질적으로 세상을 평등하게 만드는 힘(equalizing force)이어야 한다”고 강조했습니다.
+Cognition 엔지니어 Eric Lu가 X에 130자리 숫자 하나...</title><link>https://www.threads.net/@choi.openai/post/Dc03s6-giXw</link><description>와.. 35년 동안 아무도 풀지 못했던 RSA-260이 결국 풀렸습니다.
 
-그는 사이버 보안과 바이오 안보 같은 기술적 위험에 시급히 대응하지 못하면 사회 전반의 AI 도입 속도가 크게 후퇴할 것이라 경고했습니다.
-특히 권력과 컴퓨팅 자원이 소수에게만 쏠리는 독점 문제를 가장 경계해야 할 위험으로 꼽았습니다.
+Cognition 엔지니어 Eric Lu가 X에 130자리 숫자 하나를 올렸는데, 확인 결과 1991년부터 미해결이던 RSA-260의 소인수였습니다.
 
-선제적 투자 여력을 가진 부유층만이 연산 능력을 독점해 불평등이 심화되는 최악의 시나리오를 막으려면, “AI를 누구에게나 풍족하게(abundant) 제공해야 한다”고 말했습니다.</description><pubDate>Thu, 03 Sep 2026 12:10:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0w6B2jKnI</guid></item><item><title>앤드류 응이 AI 공포론에 정면으로 반박했습니다.
+RSA는 인터넷 통신이나 전자서명 등에 사용되는 암호 방식입니다. 아주 큰 두 소수를 곱해 숫자를 만들고, 그 결과만으로 원래 두 소수를 찾아내기 매우 어렵다는 점을 이용합니다. 그런데 RSA-260에서는 그 숫자를 실제로 찾아낸 겁니다.
 
-AI가 일자리의 절반을 없애는 일은 오지 않고, 오히려 AI를 쓰는 사람이 더 많은 일을 맡...</title><link>https://www.threads.net/@choi.openai/post/Dc0p4zWjyD-</link><description>앤드류 응이 AI 공포론에 정면으로 반박했습니다.
+다만 RSA-260은 연구용 문제라 현재 사용하는 RSA-2048이 뚫렸다는 뜻은 아닙니다. 그래도 2020년 RSA-250 이후 소인수분해 기록을 다시 넘어섰습니다.
 
-AI가 일자리의 절반을 없애는 일은 오지 않고, 오히려 AI를 쓰는 사람이 더 많은 일을 맡게 될 가능성이 크다고 봤는데요.
+Eric Lu가 Cognition 엔지니어인 만큼 Devin 같은 AI 에이전트가 계산이나 코드 작성에 활용됐는지도 궁금한데요.
 
-교육, 채용, 코딩, 창업까지 앤드류 응의 사례와 전망 8가지를 정리했습니다🧵</description><pubDate>Thu, 03 Sep 2026 11:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0p4zWjyD-</guid></item><item><title>1/ 인공지능 석학 앤드류 응(Andrew Ng) 교수는 AI로 인한 대량 실업 사태인 “일자리 아포칼립스는 일어나지 않을 것”이라고 단언했습니...</title><link>https://www.threads.net/@choi.openai/post/Dc0qGQOj5c0</link><description>1/ 인공지능 석학 앤드류 응(Andrew Ng) 교수는 AI로 인한 대량 실업 사태인 “일자리 아포칼립스는 일어나지 않을 것”이라고 단언했습니다.
-
-그는 일부 기업들이 AGI나 초지능을 과도하게 띄우고 있지만, 현재 AI는 인간의 모든 일을 대체할 만큼 충분히 뛰어나지 않다고 지적했습니다.
-경제학적 관점에서 직무를 세부 업무로 분해해 보면, AI가 대체할 수 있는 영역은 약 30~40% 수준에 불과합니다.
-
-오히려 AI가 처리하는 업무 비용이 저렴해질수록 보완재 관계에 있는 인간의 고유 업무(60~70%) 가치는 더 높아집니다.
-
-결국 “AI를 사용하는 사람이 AI를 쓰지 않는 사람을 대체할 뿐”, AI 자체가 인간 일자리의 절대다수를 대체할 수는 없다고 강조했습니다.</description><pubDate>Thu, 03 Sep 2026 11:03:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0qGQOj5c0</guid></item><item><title>2/ 앤드류 응(Andrew Ng) 교수는 현재 대다수의 대규모 언어 모델(LLM) 사용 방식에 대해 “AI 모델은 학습에는 끔찍하다”고 단언했...</title><link>https://www.threads.net/@choi.openai/post/Dc0qHemnRSI</link><description>2/ 앤드류 응(Andrew Ng) 교수는 현재 대다수의 대규모 언어 모델(LLM) 사용 방식에 대해 “AI 모델은 학습에는 끔찍하다”고 단언했습니다.
-
-그는 AI가 일 처리를 돕고 사회적 생산성을 높이는 데는 훌륭한 도구이지만, 지식 습득의 관점에서는 치명적인 한계가 있다고 지적했습니다.
-학생들의 과제 점수는 높아질지 몰라도, 문제 해결 과정을 AI에 넘기는 ‘인지적 외주화(Cognitive offloading)’ 때문에 장기적인 기억 보존율과 학습 성과는 오히려 급격히 떨어진다는 분석입니다.
-
-실제로 코딩할 때 프론트엔드와 백엔드 컴포넌트를 AI로 빠르게 구현하더라도, 6개월 뒤에는 그 내용을 전혀 기억하지 못해 다시 AI에 의존하게 된다는 자신의 경험을 털어놓았습니다.
-
-그는 코딩과 학습에서 AI가 주는 즉각적인 정답에 의존하기보다, 스스로 고민하고 체화하는 과정을 건너뛰지 않는 학습 태도가 중요하다고 강조했습니다.</description><pubDate>Thu, 03 Sep 2026 11:05:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0qHemnRSI</guid></item><item><title>3/ 앤드류 응(Andrew Ng) 교수는 AI 덕분에 무언가를 만드는 비용이 급락하면서, 개발의 핵심 과제가 ‘어떻게 만드느냐’에서 “무엇을 ...</title><link>https://www.threads.net/@choi.openai/post/Dc0qIEXibBY</link><description>3/ 앤드류 응(Andrew Ng) 교수는 AI 덕분에 무언가를 만드는 비용이 급락하면서, 개발의 핵심 과제가 ‘어떻게 만드느냐’에서 “무엇을 만들지 결정하는 것”으로 이동했다고 강조했습니다.
-
-그는 개발의 병목이 ‘프로덕트 매니지먼트의 병목(Product management bottleneck)’으로 바뀌었다고 진단했습니다.
-이제는 몇 시간 만에 AI로 소프트웨어를 코딩할 수 있지만, 이는 전체 퍼즐의 작은 조각에 불과합니다.
-
-결국 성공적인 비즈니스를 세우기 위해서는 “진정한 기술적 깊이(technical depth)나 고객에 대한 깊은 통찰”이 필수적이라고 짚었습니다.
-
-코딩 장벽이 무너진 시대일수록, 고객과 직접 대화하며 진짜 문제를 파악하고 단일 목표에 집요하게 몰입하는 실행력이 새로운 경쟁력이 된다는 분석입니다.</description><pubDate>Thu, 03 Sep 2026 11:07:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0qIEXibBY</guid></item><item><title>오픈AI의 Astra가 정말 기대되네요.
-
-출시 전 GPT Astra로 만든 게임 데모가 공개되고 있습니다.
-
-공개된 Terraria 재현본은 ...</title><link>https://www.threads.net/@choi.openai/post/Dc0jGigD-fQ</link><description>오픈AI의 Astra가 정말 기대되네요.
-
-출시 전 GPT Astra로 만든 게임 데모가 공개되고 있습니다.
-
-공개된 Terraria 재현본은 별도 이미지나 게임 리소스를 불러오지 않고, 단 한 번의 요청으로 하나의 HTML 파일 안에 제작됐다고 합니다. 보스전 여러 개와 하드모드 전환까지 구현됐습니다.
-
-다른 테스트에서는 상용 게임 엔진 없이 C++20과 Vulkan 기반 커스텀 엔진을 직접 구성해 괴수 게임과 좀비 게임도 제작했는데요. 군중 움직임과 연기·불 효과가 반응하도록 구현됐고, 좀비 게임은 화면에 수천 마리의 좀비를 동시에 렌더링합니다.
-
-아직 공개 전 테스트 사례라 실제 출시 버전의 성능과 동일하다고 보기는 어렵지만, 코드 생성 모델이 짧은 지시만으로 게임 로직과 렌더링 구조까지 한 번에 구성할 수 있는 수준으로 보입니다.
-
-Fable 5.1 보다 뛰어나다는 평가가 과거부터 있었던 만큼 정말 기대하고 있습니다.</description><pubDate>Thu, 03 Sep 2026 10:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0jGigD-fQ</guid></item><item><title>일론 머스크는 AI 산업이 직면한 가장 현실적인 병목 현상으로 ‘전력 부족’을 꼽았습니다.
-
-AI 칩 생산량은 연 40~50%씩 급증하고 있지만...</title><link>https://www.threads.net/@choi.openai/post/Dc0cIwVjn2f</link><description>일론 머스크는 AI 산업이 직면한 가장 현실적인 병목 현상으로 ‘전력 부족’을 꼽았습니다.
-
-AI 칩 생산량은 연 40~50%씩 급증하고 있지만, 중국 외 지역의 전력 생산 증가율은 10~20%에 그쳐 심각한 수급 불균형이 발생하고 있다는 것입니다.
-
-그는 “2027년까지 적어도 15기가와트 규모의 전력 부족이 예상된다”며, 이를 해결하기 위해 자체 발전소를 건설하거나 공간(스페이스X) 자원을 활용해 컴퓨팅 인프라를 확보해야 한다고 강조했습니다.</description><pubDate>Thu, 03 Sep 2026 09:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0cIwVjn2f</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=9JmlDV8TN3U</title><link>https://www.threads.net/@choi.openai/post/Dc0cKJrDpNj</link><description>풀영상 :
-https://www.youtube.com/watch?v=9JmlDV8TN3U</description><pubDate>Thu, 03 Sep 2026 09:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc0cKJrDpNj</guid></item></channel></rss>
+만약 AI가 실제로 큰 역할을 했다면 AI가 수학 난제를 푸는 방식에도 상당한 변화가 시작됐다는 의미가 될 것 같습니다.</description><pubDate>Thu, 03 Sep 2026 13:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc03s6-giXw</guid></item></channel></rss>
