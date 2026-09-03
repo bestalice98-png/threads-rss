@@ -1,85 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 02 Sep 2026 18:12:41 +0000</lastBuildDate><item><title>오픈AI의 차기 주요 모델 Astra는 GPT-6로 출시될 것으로 보입니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 03 Sep 2026 03:09:55 +0000</lastBuildDate><item><title>오픈AI가 ChatGPT Work와 Codex 사용법을 모은 공식 교육 페이지를 공개했습니다.
 
-OpenAI Responses API에서 `gpt-6-astra`...</title><link>https://www.threads.net/@choi.openai/post/Dcy1NwADECE</link><description>오픈AI의 차기 주요 모델 Astra는 GPT-6로 출시될 것으로 보입니다.
+초보자는 ChatGPT Work로 일정·자료·문...</title><link>https://www.threads.net/@choi.openai/post/DczsF5wk_HL</link><description>오픈AI가 ChatGPT Work와 Codex 사용법을 모은 공식 교육 페이지를 공개했습니다.
 
-OpenAI Responses API에서 `gpt-6-astra`라는 모델명이 확인됐는데요.
-완전히 존재하지 않는 임의의 모델명과는 다른 오류가 반환되고, 실제 내부 모델인 GPT-5.6 Cyber와 유사한 응답을 보이고 있습니다.
+초보자는 ChatGPT Work로 일정·자료·문서를 정리해 결과물까지 만드는 과정과 Codex로 첫 코드 수정을 하는 과정을 단계별로 따라갈 수 있습니다.
 
-최근까지 Astra가 GPT-5.7 또는 별도 이름으로 나올 가능성도 거론됐지만, 현재 정황을 보면 오픈AI가 Astra를 GPT-6 라인업으로 준비하고 있을 가능성이 매우 높아졌습니다.
+플러그인과 Skills 사용법, 예약 작업, 문서·슬라이드 제작, 컴퓨터와 브라우저 조작, 웹사이트 제작, 모바일 원격 작업, 음성으로 작업을 지시하는 방법까지 각각 짧은 실습 형태로 정리되어 있습니다.
 
-Astra가 정말 GPT-6라는 이름으로 나온다면, 오픈AI가 해당 모델의 성능 향상을 세대가 바뀌는 수준으로 보고 있다는 의미로도 볼 수 있겠습니다.
+ChatGPT Work에서 여러 도구를 연결해 실제 업무를 끝내는 작업 환경으로 어떻게 사용하는지 확인하기 좋은 자료입니다.</description><pubDate>Thu, 03 Sep 2026 02:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DczsF5wk_HL</guid></item><item><title>주소 :
+https://learn.chatgpt.com/training</title><link>https://www.threads.net/@choi.openai/post/DczsHRJk7xP</link><description>주소 :
+https://learn.chatgpt.com/training</description><pubDate>Thu, 03 Sep 2026 02:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DczsHRJk7xP</guid></item><item><title>Claude가 이제 Claude Cowork와 Claude Code에서 컴퓨터를 직접 조작할 수 있습니다.
 
-이번 주 목요일(한국시간 금요일 새벽)에 공개될 것으로 보이는 만큼 정말 출시가 임박한 것 같습니다.</description><pubDate>Wed, 02 Sep 2026 18:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcy1NwADECE</guid></item><item><title>🚨 와.. 구글이 돌아왔습니다.
+앱을 열고 클릭하거나 입력하는 작업...</title><link>https://www.threads.net/@choi.openai/post/DczlSK5gT5j</link><description>Claude가 이제 Claude Cowork와 Claude Code에서 컴퓨터를 직접 조작할 수 있습니다.
 
-토큰 100만 개당 3.75달러짜리 모델이 25달러짜리 Opus 5와 같은 코딩 점수를 냈습니다.
+앱을 열고 클릭하거나 입력하는 작업을 Claude가 처리하며, macOS에서는 백그라운드 창에서 실행돼 사용자가 다른 일을 하는 동안에도 작업을 이어갈 수 있습니다.
 
-구글 엔지...</title><link>https://www.threads.net/@choi.openai/post/DcyuZK7D_4o</link><description>🚨 와.. 구글이 돌아왔습니다.
+현재 Pro·Max 요금제의 Claude Desktop에서 베타로 제공되며 macOS와 Windows를 지원합니다.</description><pubDate>Thu, 03 Sep 2026 01:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DczlSK5gT5j</guid></item><item><title>내용 :
+https://support.claude.com/en/articles/14128542-let-claude-use-your-compute...</title><link>https://www.threads.net/@choi.openai/post/DczlTGDgeUW</link><description>내용 :
+https://support.claude.com/en/articles/14128542-let-claude-use-your-computer-in-cowork</description><pubDate>Thu, 03 Sep 2026 01:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DczlTGDgeUW</guid></item><item><title>앤트로픽이 쇼핑 AI 에이전트를 만드는 방법을 통째로 오픈소스로 공개했습니다.
 
-토큰 100만 개당 3.75달러짜리 모델이 25달러짜리 Opus 5와 같은 코딩 점수를 냈습니다.
+Claude Commerce Agents에는 상품을 찾고 비교해...</title><link>https://www.threads.net/@choi.openai/post/DczeZWaAeMq</link><description>앤트로픽이 쇼핑 AI 에이전트를 만드는 방법을 통째로 오픈소스로 공개했습니다.
 
-구글 엔지니어들은 내부 테스트에서 이 모델을 Opus보다 더 골랐다고 합니다.
+Claude Commerce Agents에는 상품을 찾고 비교해 장바구니를 구성하는 쇼핑 에이전트와 판매·재고·가격·프로모션을 관리하는 판매자 에이전트가 포함됩니다.
+리테일뿐 아니라 여행, 통신, 티켓 예제까지 제공합니다.
 
-Gemini 3.8 Flash 발표를 정리했습니다 🧵</description><pubDate>Wed, 02 Sep 2026 17:01:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcyuZK7D_4o</guid></item><item><title>1/ 구글이 Gemini 3.8 Flash를 공개했습니다.
+앤트로픽은 여러 서브에이전트를 나누는 방식보다 하나의 Agent에 Skills를 붙이는 구조가 품질·비용·속도에서 더 나았다고 설명합니다.
+실제 도입 기업에서는 장바구니 금액이 최대 35% 커지고 구매 완료 가능성도 60% 높아졌다고 합니다.
 
-직전 3.7 Flash가 8월 13일, 그 앞의 3.6 Flash가 7월 21일에 ...</title><link>https://www.threads.net/@choi.openai/post/DcyuZqwD0qD</link><description>1/ 구글이 Gemini 3.8 Flash를 공개했습니다.
+Claude Code 플러그인까지 제공해 기존 백엔드에 맞는 에이전트를 직접 만들 수도 있습니다.</description><pubDate>Thu, 03 Sep 2026 00:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DczeZWaAeMq</guid></item><item><title>발표내용 :
+https://claude.com/blog/claude-for-commerce-agents</title><link>https://www.threads.net/@choi.openai/post/DczeanIgeNm</link><description>발표내용 :
+https://claude.com/blog/claude-for-commerce-agents</description><pubDate>Thu, 03 Sep 2026 00:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DczeanIgeNm</guid></item><item><title>🚨 속보) 메타가 Muse Spark 1.3을 공개했습니다.
 
-직전 3.7 Flash가 8월 13일, 그 앞의 3.6 Flash가 7월 21일에 나왔으니 6주 사이 세 번째 Flash입니다.
+메타의 Muse Spark 1.3은 독립 평가기관 지능 지수에서 GPT-5.6 S...</title><link>https://www.threads.net/@choi.openai/post/DczXdjRE_Ad</link><description>🚨 속보) 메타가 Muse Spark 1.3을 공개했습니다.
 
-이번에는 일반 공개용 3.8 Flash와 함께, 보안 취약점을 찾고 고치는 데 맞춘 3.8 Flash Cyber가 같이 나왔습니다.
-Cyber 버전은 정부와 검증된 방어 기관에만 Fairwind 프로그램으로 제공됩니다.
+메타의 Muse Spark 1.3은 독립 평가기관 지능 지수에서 GPT-5.6 Sol 최고 설정과 같은 61점을 받았고, 과제 하나를 푸는 비용은 0.55달러로 Sol의 0.95달러보다 40% 쌉니다.
 
-일반 버전은 발표 당일부터 Gemini API와 AI Studio, Android Studio, 에이전트 개발 도구 Antigravity, UI 생성 도구 Stitch, 기업용 Gemini Enterprise에서 쓸 수 있고, AI Pro와 Ultra 구독자는 Gemini 앱과 검색의 AI 모드, Google Sheets에서 바로 선택할 수 있습니다.</description><pubDate>Wed, 02 Sep 2026 17:01:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcyuZqwD0qD</guid></item><item><title>2/ 먼저 벤치마크 부터 살펴보겠습니다.
+저커버그는 다음 순서로 수박 이모지 하나와 오픈웨이트 공개를 예고했습니다.
 
-긴 호흡의 실제 개발 과제를 재는 DeepSWE v1.1에서 3.8 Flash는 73.7%입니다.
-3...</title><link>https://www.threads.net/@choi.openai/post/Dcyuan8D88m</link><description>2/ 먼저 벤치마크 부터 살펴보겠습니다.
+메타가 4주 주기로 모델을 내면서 코딩 1위를 주장한 Muse Spark 1.3 발표를 정리했습니다 🧵</description><pubDate>Wed, 02 Sep 2026 23:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DczXdjRE_Ad</guid></item><item><title>1/ 메타가 한국 시간 9월 3일 새벽 Muse Spark 1.3을 공개했습니다.
 
-긴 호흡의 실제 개발 과제를 재는 DeepSWE v1.1에서 3.8 Flash는 73.7%입니다.
-3.7 Flash의 65.3%에서 8점 넘게 올랐고, Opus 5의 74.0%와는 0.3점 차이입니다.
+메타 슈퍼인텔리전스 랩이 4월에 첫 Muse Spark를 내...</title><link>https://www.threads.net/@choi.openai/post/DczXePnE895</link><description>1/ 메타가 한국 시간 9월 3일 새벽 Muse Spark 1.3을 공개했습니다.
 
-터미널에서 코딩 에이전트를 돌리는 Terminal-bench 2.1은 89.4%로 Opus 5의 89.1%를 넘었습니다.
-금융 분석 과제 Vals Finance Agent v2는 61.4%, 법률 업무를 재는 Harvey 평가는 10.0%로 둘 다 비교 모델 중 1위이고, 전문가 수준 문제 모음 HLE-Verified도 54.9%로 가장 높습니다.
+메타 슈퍼인텔리전스 랩이 4월에 첫 Muse Spark를 내놓은 뒤 7월 9일 1.1, 8월 6일 1.2, 그리고 이번 1.3까지 5개월 사이 네 번째 모델입니다. 1.2에서 1.3까지는 4주가 걸렸습니다.
 
-표에 실린 14개 항목 가운데 8개에서 1위인데요.
-범용 에이전트 과제 Terminal-bench 4.0은 19.1%로 Opus 5의 51.8%에 한참 못 미치고, 컴퓨터 사용 OSWorld 2.0도 59.0%로 75.4%에는 못 칩니다.</description><pubDate>Wed, 02 Sep 2026 17:01:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dcyuan8D88m</guid></item><item><title>3/ 특히, DeepSWE에서 Flash 계열의 점수는 5월 3.5 Flash 36%, 7월 3.6 Flash 48.6%, 8월 3.7 Flas...</title><link>https://www.threads.net/@choi.openai/post/DcyubyKj9zC</link><description>3/ 특히, DeepSWE에서 Flash 계열의 점수는 5월 3.5 Flash 36%, 7월 3.6 Flash 48.6%, 8월 3.7 Flash 65.3%, 이번 3.8 Flash 73.7%로 넉 달 사이 두 배가 됐습니다.
+당일부터 터미널 코딩 에이전트 Muse Code와 개발자용 Meta Model API에서 쓸 수 있고, OpenRouter에도 같은 날 올라왔습니다.
+기존에 있던 추론 강도는 바로 쓸 수 있지만, 가장 높은 단계인 max는 추가 안전성 테스트를 마친 뒤에 열립니다.
 
-비용까지 같이 보면 차이가 더 큽니다. Datacurve의 8월 26일 리더보드에서 Opus 5는 최고 설정으로 과제 하나에 평균 11.84달러가 들고, GPT-5.6 Sol은 73%에 6.46달러, Claude Fable 5는 70%에 21.63달러입니다.
-3.7 Flash는 2.18달러였고, 구글이 올린 차트에서 3.8 Flash는 73.7%를 찍으면서 2달러대에 있습니다.
+저커버그는 발표 글에서 "거의 계량할 필요가 없을 만큼 싼 프런티어 성능"이라고 적었고, 다음 순서로 수박 이모지 하나와 Muse Spark 오픈웨이트 공개를 붙였습니다. 
 
-같은 점수를 약 5분의 1 비용에 내는 셈이라, 대부분의 더 큰 프런티어 모델을 훨씬 낮은 비용으로 앞서고 있습니다.</description><pubDate>Wed, 02 Sep 2026 17:01:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcyubyKj9zC</guid></item><item><title>구글이 새로운 AI 이미지 제작 서비스 Google Pics를 공개했습니다.
+수박은 메타 내부에서 차세대 대형 모델을 부르는 이름 Watermelon입니다.</description><pubDate>Wed, 02 Sep 2026 23:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DczXePnE895</guid></item><item><title>2/ 벤치마크부터 보겠습니다.
 
-Google Pics에서는 이미지 전체를 다시 만들 필요 없이 특...</title><link>https://www.threads.net/@choi.openai/post/DcydKStjHeL</link><description>구글이 새로운 AI 이미지 제작 서비스 Google Pics를 공개했습니다.
+긴 호흡의 실제 개발 과제를 재는 DeepSWE v1.1에서 1.3은 75.4%을 받았습니다.
+1.2의 55.0...</title><link>https://www.threads.net/@choi.openai/post/DczXft7Ex57</link><description>2/ 벤치마크부터 보겠습니다.
 
-Google Pics에서는 이미지 전체를 다시 만들 필요 없이 특정 사물만 골라 수정할 수 있고, 이미지 안의 글자를 다듬거나 다른 언어로 번역할 수도 있습니다.
+긴 호흡의 실제 개발 과제를 재는 DeepSWE v1.1에서 1.3은 75.4%을 받았습니다.
+1.2의 55.0%에서 20점 넘게 올랐고, Opus 5의 74.0%와 Sol의 73.0%보다 높습니다. 코드베이스를 읽고 답하는 평가도 59.4%로 두 모델을 앞섰고, 터미널 코딩 Terminal-Bench 2.1은 88.8%로 Sol과 같은 점수입니다.
 
-여러 사람이 같은 작업물을 함께 편집하는 기능도 지원합니다.
+가장 크게 오른 항목은 긴 문맥입니다.
+25만~50만 토큰 구간에서 문장을 찾아내는 MRCR이 66.3%에서 98.5%로, 50만~100만 토큰 구간은 55.5%에서 98.1%로 올랐습니다.
+컴퓨터를 직접 조작하는 OSWorld 2.0도 47.6%에서 66.9%로 올라 Opus 5의 68.3%에 붙었습니다.
 
-현재 Google Workspace 고객과 Google AI Pro·Ultra 구독자에게 순차적으로 제공되고 있습니다.
+11개 항목 가운데 1.3이 앞선 항목은 5개입니다. 실무 과제 GDPval은 1754점으로 Opus 5의 1824점에 못 미치고, 웹 조사와 지시 이행에서는 Sol이 앞섭니다.</description><pubDate>Wed, 02 Sep 2026 23:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DczXft7Ex57</guid></item><item><title>3/ 이 표를 볼 때는 두 가지 조건을 함께 봐야 합니다.
 
-구글이 이미지 생성 기능을 별도 작업 도구로 분리하면서 디자인과 문서 작업 쪽 활용을 넓히는 모습입니다.</description><pubDate>Wed, 02 Sep 2026 14:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcydKStjHeL</guid></item><item><title>주소 :
-http://pics.new</title><link>https://www.threads.net/@choi.openai/post/DcydLaDDFcr</link><description>주소 :
-http://pics.new</description><pubDate>Wed, 02 Sep 2026 14:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcydLaDDFcr</guid></item><item><title>Claude Fable 5.1 활용 사례가 쏟아지고 있습니다.
+먼저 추론 설정입니다.
+표에서 1.3은 max, 비교 대상인 1.2는 xhigh로 ...</title><link>https://www.threads.net/@choi.openai/post/DczXg6OEzPX</link><description>3/ 이 표를 볼 때는 두 가지 조건을 함께 봐야 합니다.
 
-F-35A 전투기부터 SolidWorks CAD, Mario Kart 게임, 3...</title><link>https://www.threads.net/@choi.openai/post/DcySz6lj2Rt</link><description>Claude Fable 5.1 활용 사례가 쏟아지고 있습니다.
+먼저 추론 설정입니다.
+표에서 1.3은 max, 비교 대상인 1.2는 xhigh로 표시돼 있습니다. max는 발표 당일 기준 안전성 테스트 중이라 아직 일반 사용자는 쓸 수 없고, 현재 API에서 선택할 수 있는 가장 높은 설정은 xhigh입니다.
 
-F-35A 전투기부터 SolidWorks CAD, Mario Kart 게임, 3D 월드까지 전부 코드로 만들어냈는데요.
-
-출시 직후 공개된 놀라운 활용 사례 14가지를 정리했습니다🧵</description><pubDate>Wed, 02 Sep 2026 13:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcySz6lj2Rt</guid></item><item><title>1/ Fable 5.1에 건축 부지 사진 한 장을 입력해 해당 공간에 맞는 주택을 설계한 사례가 공개됐습니다.
-Blender를 코드로 제어해 3...</title><link>https://www.threads.net/@choi.openai/post/DcyEG3ZDeF3</link><description>1/ Fable 5.1에 건축 부지 사진 한 장을 입력해 해당 공간에 맞는 주택을 설계한 사례가 공개됐습니다.
-Blender를 코드로 제어해 3D로 렌더링하고, 집 안팎을 둘러보는 시네마틱 영상까지 제작했습니다.
-
-건축도 부지 사진에서 설계와 3D 시각화, 소개 영상 제작까지 AI로 이어서 작업하는 사례가 나오고 있습니다.
-
-x@alexalbert__</description><pubDate>Wed, 02 Sep 2026 13:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcyEG3ZDeF3</guid></item><item><title>2/ Fable 5.1에 한 번의 프롬프트만 입력해 Mario Kart 스타일의 3D 레이싱 게임을 구현한 사례가 공개됐습니다.
-트랙과 카트, ...</title><link>https://www.threads.net/@choi.openai/post/DcyEJ_ZjEcp</link><description>2/ Fable 5.1에 한 번의 프롬프트만 입력해 Mario Kart 스타일의 3D 레이싱 게임을 구현한 사례가 공개됐습니다.
-트랙과 카트, 주행 시스템을 갖춘 실제 플레이 가능한 게임을 한 번에 완성했습니다.
-
-게임 개발에서도 여러 차례 수정하지 않고 첫 결과부터 플레이 가능한 수준의 3D 게임을 만드는 사례가 나오고 있습니다.
-
-x@bridgemindai</description><pubDate>Wed, 02 Sep 2026 13:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcyEJ_ZjEcp</guid></item><item><title>3/ Fable 5.1로 Three.js 기반의 고품질 3D 장면을 제작한 사례가 공개됐습니다.
-여러 서브에이전트를 활용해도 프롬프트 작성과 생...</title><link>https://www.threads.net/@choi.openai/post/DcyEOjljiYm</link><description>3/ Fable 5.1로 Three.js 기반의 고품질 3D 장면을 제작한 사례가 공개됐습니다.
-여러 서브에이전트를 활용해도 프롬프트 작성과 생성에 수시간이 걸리며, 비슷한 작업은 Opus 5에서도 약 4~6시간이 걸렸다고 설명했습니다.
-
-AI 3D 결과물도 모델 성능뿐 아니라 프롬프트 설계와 충분한 작업 시간이 완성도에 큰 영향을 주고 있습니다.
-
-x@ChrisGPT</description><pubDate>Wed, 02 Sep 2026 13:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DcyEOjljiYm</guid></item></channel></rss>
+측정 방식도 달라졌습니다. 메타는 1.3을 max로 직접 평가했고, 다른 모델의 점수는 평가 운영사 Datacurve의 공식 리더보드에서 가져왔다고 밝혔습니다.
+지난 8월 1.2 발표 당시에는 자체 코딩 도구를 사용해 59.3%를 기록했지만, 이번 비교에서는 리더보드와 동일한 표준 하네스를 사용했습니다.</description><pubDate>Wed, 02 Sep 2026 23:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DczXg6OEzPX</guid></item></channel></rss>
