@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 04 Sep 2026 12:31:58 +0000</lastBuildDate><item><title>이제 Gemini에게 말만 하면 Gmail을 찾고, 메모를 정리하고, 문서까지 만들어줍니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 04 Sep 2026 17:53:13 +0000</lastBuildDate><item><title>버니 샌더스(Bernie Sanders) 상원의원은 주요 빅테크 리더들조차 통제 불능을 인정하는 상황에서, 샌더스는 “첨단 AI 개발의 즉각적 ...</title><link>https://www.threads.net/@choi.openai/post/Dc3mr-ciZAY</link><description>버니 샌더스(Bernie Sanders) 상원의원은 주요 빅테크 리더들조차 통제 불능을 인정하는 상황에서, 샌더스는 “첨단 AI 개발의 즉각적 중단과 초지능(superintelligence)에 대한 영구 금지 법안을 발의하겠다”고 밝혔습니다.
+
+나아가 “인류의 미래를 소수 빅테크 과두세력의 손에 맡길 수 없다”며, 기술 특이점이 초래할 일자리 소멸과 사회적 위협을 막기 위해 국제적 공조와 강력한 규제가 시급하다고 강조했습니다.</description><pubDate>Fri, 04 Sep 2026 14:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc3mr-ciZAY</guid></item><item><title>Claude의 AI 에이전트를 이제 코드처럼 Git 저장소에서 관리할 수 있습니다.
+
+앤트로픽이 ant CLI에 `ant apply`를 추가했습...</title><link>https://www.threads.net/@choi.openai/post/Dc3cc2hEuRe</link><description>Claude의 AI 에이전트를 이제 코드처럼 Git 저장소에서 관리할 수 있습니다.
+
+앤트로픽이 ant CLI에 `ant apply`를 추가했습니다.
+Claude Managed Agent의 실행 환경부터 Agent, Skills, Memory Store, 배포 설정까지 파일로 작성해 프로젝트 저장소에 넣어둘 수 있습니다.
+
+설정을 수정한 뒤 `ant apply`를 실행하면 저장소에 정의된 내용과 Claude API의 실제 리소스가 자동으로 동기화됩니다.
+즉 에이전트를 웹에서 하나씩 설정하는 대신 코드와 함께 버전 관리하고, 팀원들과 같은 설정을 공유하거나 배포할 수 있게 된 겁니다.
+
+AI 에이전트가 개인용 도구를 넘어 실제 서비스 개발에 들어가면서, 이제 에이전트의 설정과 Skills, 메모리까지 기존 소프트웨어 인프라처럼 관리하는 방식으로 바뀌고 있습니다.</description><pubDate>Fri, 04 Sep 2026 13:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc3cc2hEuRe</guid></item><item><title>이제 Gemini에게 말만 하면 Gmail을 찾고, 메모를 정리하고, 문서까지 만들어줍니다.
 
 Google이 Gemini의 새로운 음성 기능을 ...</title><link>https://www.threads.net/@choi.openai/post/Dc3SGJzCfUp</link><description>이제 Gemini에게 말만 하면 Gmail을 찾고, 메모를 정리하고, 문서까지 만들어줍니다.
 
@@ -35,24 +47,4 @@ x@tomkrcha</description><pubDate>Fri, 04 Sep 2026 09:30:39 +0000</pubDate><guid>
 
 각 캐릭터가 Astra로 작동하며 서로 대화하고 협력하는 3D 시뮬레이션을 구현했습니다.
 
-x@mattshumer_</description><pubDate>Fri, 04 Sep 2026 09:30:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc3A8jZFtUO</guid></item><item><title>정말 놀라운 성과입니다.
-초파리 수컷의 뇌와 중추신경계 전체 연결 지도가 처음 완성됐습니다.
-
-Google Research와 HHMI Janel...</title><link>https://www.threads.net/@choi.openai/post/Dc29fLLEpsv</link><description>정말 놀라운 성과입니다.
-초파리 수컷의 뇌와 중추신경계 전체 연결 지도가 처음 완성됐습니다.
-
-Google Research와 HHMI Janelia 연구진은 수백만 장의 2D 이미지를 AI로 연결해 16만6천 개가 넘는 뉴런을 3D로 복원했습니다. 감각이 어떻게 행동으로 이어지는지, 수컷과 암컷의 뇌 연결이 어떻게 다른지도 직접 분석할 수 있게 됐습니다.
-
-앞으로는 특정 행동이 어떤 신경회로에서 시작되는지 추적하거나, 신경질환과 관련된 연결 이상을 연구하고, 더 큰 동물의 뇌 지도를 만드는 데 활용될 수 있습니다.
-
-AI가 생물의 뇌 구조를 읽고 분석하는 연구 도구로 자리잡고 있습니다.</description><pubDate>Fri, 04 Sep 2026 08:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc29fLLEpsv</guid></item><item><title>블로그 :
-https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-b...</title><link>https://www.threads.net/@choi.openai/post/Dc29gYDEie2</link><description>블로그 :
-https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map</description><pubDate>Fri, 04 Sep 2026 08:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc29gYDEie2</guid></item><item><title>Runway가 새로운 월드 모델 GWM Worlds 2를 공개했습니다.
-사용자가 환경, 캐릭터, 분위기, 물리 규칙 등을 설정하면 720p·24...</title><link>https://www.threads.net/@choi.openai/post/Dc2zOWODyS7</link><description>Runway가 새로운 월드 모델 GWM Worlds 2를 공개했습니다.
-사용자가 환경, 캐릭터, 분위기, 물리 규칙 등을 설정하면 720p·24fps 영상과 48kHz 오디오로 세계를 실시간 생성합니다.
-
-생성된 세계 안에서 “캐릭터를 의자에 앉혀줘”처럼 텍스트로 행동을 지시하거나 카메라를 움직이면, 그 입력을 반영해 다음 장면이 계속 생성되는데요.
-
-Runway는 이를 게임뿐 아니라 가상 캐릭터, 로봇 훈련, Embodied AI 시뮬레이션에도 활용할 수 있다고 설명합니다.</description><pubDate>Fri, 04 Sep 2026 07:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc2zOWODyS7</guid></item><item><title>내용 :
-https://runway.com/research/introducing-gwm-worlds-2</title><link>https://www.threads.net/@choi.openai/post/Dc2zPf4j0Ir</link><description>내용 :
-https://runway.com/research/introducing-gwm-worlds-2</description><pubDate>Fri, 04 Sep 2026 07:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc2zPf4j0Ir</guid></item></channel></rss>
+x@mattshumer_</description><pubDate>Fri, 04 Sep 2026 09:30:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc3A8jZFtUO</guid></item></channel></rss>
