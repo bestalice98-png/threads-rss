@@ -1,44 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 03 Sep 2026 18:10:24 +0000</lastBuildDate><item><title>ByteDance Seed 연구진이 실제 공간 영상을 편집 가능한 3D 시뮬레이션 환경으로 바꾸는 Lucida를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 04 Sep 2026 03:07:43 +0000</lastBuildDate><item><title>오픈AI는 신이다.</title><link>https://www.threads.net/@choi.openai/post/Dc2Q2kSkWwS</link><description>오픈AI는 신이다.</description><pubDate>Fri, 04 Sep 2026 01:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc2Q2kSkWwS</guid></item><item><title>이게 말이 되나..
+AI는 이제 인간이 측정 불가능한 영역으로 가고있다.</title><link>https://www.threads.net/@choi.openai/post/Dc2DNhdAVpu</link><description>이게 말이 되나..
+AI는 이제 인간이 측정 불가능한 영역으로 가고있다.</description><pubDate>Fri, 04 Sep 2026 00:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc2DNhdAVpu</guid></item><item><title>GPT Astra :</title><link>https://www.threads.net/@choi.openai/post/Dc2DbJ5DyiZ</link><description>GPT Astra :</description><pubDate>Fri, 04 Sep 2026 00:02:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc2DbJ5DyiZ</guid></item><item><title>🚨 속보) 와.. 미친.. 오픈AI가 GPT-6 Astra를 출시했습니다.
 
-Lucida는 ...</title><link>https://www.threads.net/@choi.openai/post/Dc1Z_L7kpcu</link><description>ByteDance Seed 연구진이 실제 공간 영상을 편집 가능한 3D 시뮬레이션 환경으로 바꾸는 Lucida를 공개했습니다.
+반년 전 GPT-5.6 Sol이 7.8%였던 ARC-AGI-3가 9...</title><link>https://www.threads.net/@choi.openai/post/Dc18zIWmhCe</link><description>🚨 속보) 와.. 미친.. 오픈AI가 GPT-6 Astra를 출시했습니다.
 
-Lucida는 영상을 통째로 3D로 복원하는 방식이 아니라, 먼저 장면 속 물체를 각각 구분하고 여러 시점의 이미지·마스크·포인트클라우드 정보를 모읍니다.
+반년 전 GPT-5.6 Sol이 7.8%였던 ARC-AGI-3가 99.9%가 됐고, 그렉 브록먼은 "나중에 AGI가 만들어진 시점을 찾는다면 이 모델일 것"이라고 말했습니다.
 
-이후 가려진 부분까지 포함한 완전한 3D 물체를 생성하고, GizmoAct라는 VLM 기반 방식으로 실제 영상과 비교하면서 위치와 회전을 반복 수정합니다.
+컴퓨터로 하는 일이라면 무엇이든 사람보다 빠르게 해내는 모델입니다.
 
-결과적으로 의자나 책상 같은 물체가 하나의 3D 장면에 합쳐져 있으면서도 각각 따로 이동·편집할 수 있는데요.
+오픈AI의 GPT-6 Astra 출시를 정리했습니다 🧵</description><pubDate>Thu, 03 Sep 2026 23:05:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc18zIWmhCe</guid></item><item><title>1/ 오픈AI가 9월 3일 GPT-6 Astra를 공개했습니다.
 
-로봇 시뮬레이션처럼 실제 공간을 수정 가능한 디지털 환경으로 옮겨야 하는 작업에 활용할 수 있을 것으로 보입니다.</description><pubDate>Thu, 03 Sep 2026 18:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1Z_L7kpcu</guid></item><item><title>프로젝트 주소 :
-https://lucida-r2s.github.io/</title><link>https://www.threads.net/@choi.openai/post/Dc1aAckkmDd</link><description>프로젝트 주소 :
-https://lucida-r2s.github.io/</description><pubDate>Thu, 03 Sep 2026 18:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1aAckkmDd</guid></item><item><title>0.8B짜리 소형 모델이 특정 작업에서 GPT-5.6 Sol을 이겼습니다.
+8월 초 사이버 위험을 이유로 한 달 미뤘던 그 모델이고, Stargate에서...</title><link>https://www.threads.net/@choi.openai/post/Dc188GhE0oT</link><description>1/ 오픈AI가 9월 3일 GPT-6 Astra를 공개했습니다.
 
-Shopify가 Qwen3.5-0.8B를 특정 업무에 맞게 미세 조...</title><link>https://www.threads.net/@choi.openai/post/Dc1TJW2AAY9</link><description>0.8B짜리 소형 모델이 특정 작업에서 GPT-5.6 Sol을 이겼습니다.
+8월 초 사이버 위험을 이유로 한 달 미뤘던 그 모델이고, Stargate에서 GPU 10만 장 이상을 돌린 오픈AI 역대 최대 훈련의 결과물입니다.
 
-Shopify가 Qwen3.5-0.8B를 특정 업무에 맞게 미세 조정한 결과인데요.
-범용 AI를 그대로 쓰는 대신 실제 업무에서 나온 결과를 평가하고, 실패 데이터를 다시 학습에 넣어 모델을 계속 개선하는 방식을 사용했습니다.
+오픈AI는 이 모델을 "세계에서 가장 똑똑하고 가장 정렬된 모델"이라고 소개하면서, 컴퓨터 사용, 브라우징, 소프트웨어 엔지니어링, 사이버보안, 과학, 전문직 업무 여섯 영역에서 최고 성능이라고 밝혔습니다.
 
-Shopify CEO Tobi Lütke는 이런 자기개선 학습 구조가 있다면 작은 모델도 특정 업무에서는 대형 모델보다 좋은 성능을 낼 수 있다고 설명했습니다.
+발표 자리에서 그렉 브록먼은 "몇 년 뒤 돌아보며 AGI가 언제 만들어졌는지 묻는다면 이 시기, 아마 이 모델일 것"이라고 말했는데요.
 
-이 학습 파이프라인을 만드는 기반 기술 Tangle도 오픈소스로 공개했습니다.
-모든 업무에 비싼 대형 모델을 호출하는 대신, 반복 업무마다 작고 저렴한 전용 모델을 만들어 쓰는 방식이 꽤 빠르게 늘어날 것 같습니다.</description><pubDate>Thu, 03 Sep 2026 17:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1TJW2AAY9</guid></item><item><title>주소 :
-https://tangleml.com/</title><link>https://www.threads.net/@choi.openai/post/Dc1TKloADUT</link><description>주소 :
-https://tangleml.com/</description><pubDate>Thu, 03 Sep 2026 17:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1TKloADUT</guid></item><item><title>일론 머스크는 AI와 로보틱스가 가져올 생산성 혁신을 강조하며, 과거에 갇히기보다 “신기술을 적극적으로 시도하고 수용하는 자세”가 중요하다고 말...</title><link>https://www.threads.net/@choi.openai/post/Dc1MNdXjrmA</link><description>일론 머스크는 AI와 로보틱스가 가져올 생산성 혁신을 강조하며, 과거에 갇히기보다 “신기술을 적극적으로 시도하고 수용하는 자세”가 중요하다고 말했습니다.
+출시 첫날은 일부 기관에만 열리고, 며칠 안에 ChatGPT Plus·Pro·Business·Enterprise 전부와 API, AWS Bedrock으로 확대됩니다.
 
-자율주행과 휴머노이드 로봇 기술이 본격화되면 글로벌 경제는 연간 20~30조 달러, 즉 세계 경제의 20~30% 규모로 성장할 것이라고 추산했습니다.
+API 가격은 입력 100만 토큰당 10달러, 출력 50달러로 Sol의 2.5배입니다.</description><pubDate>Thu, 03 Sep 2026 23:05:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc188GhE0oT</guid></item><item><title>2/ 가장 먼저 봐야 할 숫자는 ARC-AGI-3입니다.
 
-특히 그는 “손으로 원자를 물리적으로 다루는 일이 아니라면, 디지털 영역의 모든 일은 AI가 처리할 수 있게 될 것”이라며, 이 시점이 이르면 내년 말쯤 도래할 수 있다고 전망했습니다.</description><pubDate>Thu, 03 Sep 2026 16:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1MNdXjrmA</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=9JmlDV8TN3U</title><link>https://www.threads.net/@choi.openai/post/Dc1MOt4DvBI</link><description>풀영상 :
-https://www.youtube.com/watch?v=9JmlDV8TN3U</description><pubDate>Thu, 03 Sep 2026 16:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1MOt4DvBI</guid></item><item><title>와.. 35년 동안 아무도 풀지 못했던 RSA-260이 결국 풀렸습니다.
+처음 보는 게임에 던져져 설명 없이 규칙을 알아내고 목표를 찾아 깨야 하는 시험이라,...</title><link>https://www.threads.net/@choi.openai/post/Dc189Q_EwGz</link><description>2/ 가장 먼저 봐야 할 숫자는 ARC-AGI-3입니다.
 
-Cognition 엔지니어 Eric Lu가 X에 130자리 숫자 하나...</title><link>https://www.threads.net/@choi.openai/post/Dc03s6-giXw</link><description>와.. 35년 동안 아무도 풀지 못했던 RSA-260이 결국 풀렸습니다.
+처음 보는 게임에 던져져 설명 없이 규칙을 알아내고 목표를 찾아 깨야 하는 시험이라, 암기한 지식이 통하지 않고 사람은 100% 풀 수 있는 벤치마크입니다.
 
-Cognition 엔지니어 Eric Lu가 X에 130자리 숫자 하나를 올렸는데, 확인 결과 1991년부터 미해결이던 RSA-260의 소인수였습니다.
+6개월 전 GPT-5.6 Sol은 여기서 7.8%였습니다. Astra는 ARC Prize의 표준 하네스로 62.7%, 이전 추론을 기억하고 대화를 압축해 이어가는 오픈AI 하네스로는 99.9%를 받았고, 두 결과 모두 ARC Prize가 공식 검증했습니다.
 
-RSA는 인터넷 통신이나 전자서명 등에 사용되는 암호 방식입니다. 아주 큰 두 소수를 곱해 숫자를 만들고, 그 결과만으로 원래 두 소수를 찾아내기 매우 어렵다는 점을 이용합니다. 그런데 RSA-260에서는 그 숫자를 실제로 찾아낸 겁니다.
+일반 참가자 평균은 48%입니다. 점수보다 놀라운 건 푸는 방식입니다. Astra는 게임 상태와 다음 계획을 자기만의 대수 기호로 압축해 메모하며 풀었고, 96%의 레벨에서 사람 중앙값보다 적은 행동으로 클리어했습니다.
 
-다만 RSA-260은 연구용 문제라 현재 사용하는 RSA-2048이 뚫렸다는 뜻은 아닙니다. 그래도 2020년 RSA-250 이후 소인수분해 기록을 다시 넘어섰습니다.
+평균 행동 수는 사람보다 51.7% 적었는데요. ARC Prize는 행동 효율이 사람과 AI를 가르는 마지막 선일 거라고 예상했었는데, Astra가 그 선을 넘었다고 인정했습니다.</description><pubDate>Thu, 03 Sep 2026 23:06:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc189Q_EwGz</guid></item><item><title>3/ 수학은 실제 결과물로 증명했습니다.
 
-Eric Lu가 Cognition 엔지니어인 만큼 Devin 같은 AI 에이전트가 계산이나 코드 작성에 활용됐는지도 궁금한데요.
+연구 수학자급 문제만 모은 FrontierMath Tier 4에서 Sol 83.0%, Claude F...</title><link>https://www.threads.net/@choi.openai/post/Dc18-eQkytw</link><description>3/ 수학은 실제 결과물로 증명했습니다.
 
-만약 AI가 실제로 큰 역할을 했다면 AI가 수학 난제를 푸는 방식에도 상당한 변화가 시작됐다는 의미가 될 것 같습니다.</description><pubDate>Thu, 03 Sep 2026 13:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc03s6-giXw</guid></item></channel></rss>
+연구 수학자급 문제만 모은 FrontierMath Tier 4에서 Sol 83.0%, Claude Fable 5.1 87.8%였던 점수를 97.6%로 끌어올려 포화시켰습니다.
+
+소수 간격 증명 두 건도 공개됐습니다. 무한히 많은 소수 쌍이 얼마나 가까이 붙어 있는지를 다루는 문제에서 10년 넘게 246이던 상계가 최근 240으로 내려왔는데, Astra가 이를 186까지 좁힌 증명을 Lean으로 형식화해 저장소에 올렸습니다.
+
+연구 워크플로를 돌리는 Terminal-Bench Science에서는 Sol의 22.4%가 64.6%가 됐고, Fable 5.1의 52.6%보다 31% 낮은 비용으로 낸 점수입니다.
+
+수학자 Bartosz Naskręcki는 모델과 대화하며 정리를 Lean으로 실시간 증명하는 시대가 왔다고 했고, 오픈AI의 노암 브라운은 매일 아침 누군가 이 모델로 만든 새 발견을 보는 게 기대된다고 적었습니다.</description><pubDate>Thu, 03 Sep 2026 23:06:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc18-eQkytw</guid></item><item><title>일론 머스크는 내년쯤 AI 소프트웨어가 세계 챔피언을 쉽게 꺾는 체스 프로그램처럼 인간의 능력을 압도하는 “스톡피시(Stockfish) 수준”에...</title><link>https://www.threads.net/@choi.openai/post/Dc1gzR2j6yr</link><description>일론 머스크는 내년쯤 AI 소프트웨어가 세계 챔피언을 쉽게 꺾는 체스 프로그램처럼 인간의 능력을 압도하는 “스톡피시(Stockfish) 수준”에 도달할 것이라고 예측했습니다.
+
+그는 “소프트웨어 작성에서 인간이 AI와 경쟁하는 것은 불가능해질 것”이라며, 코딩 영역에서 AI가 인간 개발자를 완전히 압도할 것이라고 경고했습니다.
+
+나아가 향후 12~18개월 이내에 코딩뿐만 아니라 모든 형태의 엔지니어링과 디지털 작업 전반에서 AI가 독보적인 성능을 발휘할 것이라고 전망했습니다.
+
+특이점에 다가설수록 전통적인 개발 직군과 디지털 지식 노동의 일자리 지형에는 근본적인 지각변동이 불가피해 보입니다.</description><pubDate>Thu, 03 Sep 2026 19:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1gzR2j6yr</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=9JmlDV8TN3U</title><link>https://www.threads.net/@choi.openai/post/Dc1g0YNj_fO</link><description>풀영상 :
+https://www.youtube.com/watch?v=9JmlDV8TN3U</description><pubDate>Thu, 03 Sep 2026 19:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc1g0YNj_fO</guid></item></channel></rss>
