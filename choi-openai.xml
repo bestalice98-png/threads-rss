@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 05 Sep 2026 11:40:04 +0000</lastBuildDate><item><title>AI로 3D 모델을 만들 때 앞모습만 보고 뒷면을 추측하던 문제가 줄어들고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 05 Sep 2026 16:59:29 +0000</lastBuildDate><item><title>GPT-6 Astra, AI 모델 최초로 수능 만점.</title><link>https://www.threads.net/@choi.openai/post/Dc6SBvWDySz</link><description>GPT-6 Astra, AI 모델 최초로 수능 만점.</description><pubDate>Sat, 05 Sep 2026 15:27:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc6SBvWDySz</guid></item><item><title>코딩을 몰라서 못 만든다는 핑계는 이제 끝났습니다.
+
+GPT-6 Astra에게 원하는 걸 말하면 30분 만에 영상 편집 앱을 만들고, 게임 광고...</title><link>https://www.threads.net/@choi.openai/post/Dc6DLf5DwS_</link><description>코딩을 몰라서 못 만든다는 핑계는 이제 끝났습니다.
+
+GPT-6 Astra에게 원하는 걸 말하면 30분 만에 영상 편집 앱을 만들고, 게임 광고를 실제 플레이 가능한 게임으로 바꿔줍니다.
+
+게임·앱·3D 모델까지 직접 만드는 GPT-6 Astra 활용 사례 20가지를 정리했습니다🧵</description><pubDate>Sat, 05 Sep 2026 13:17:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc6DLf5DwS_</guid></item><item><title>1/ GPT-6 Astra에 직접 그린 선화를 주고 Clip Studio Paint에서 채색해달라고 요청한 사례가 공개됐습니다.
+
+레이어 생성과...</title><link>https://www.threads.net/@choi.openai/post/Dc6BUmamMTR</link><description>1/ GPT-6 Astra에 직접 그린 선화를 주고 Clip Studio Paint에서 채색해달라고 요청한 사례가 공개됐습니다.
+
+레이어 생성과 확대, 펜 선택부터 실제 마우스 채색까지 Astra가 직접 조작해 완성했습니다.
+
+x@taiyaki_sun</description><pubDate>Sat, 05 Sep 2026 13:17:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc6BUmamMTR</guid></item><item><title>2/ GPT-6 Astra를 활용해 초파리의 뇌와 중추신경계에 있는 16만 6,700개 뉴런을 Minecraft 안에서 시뮬레이션한 사례가 공개...</title><link>https://www.threads.net/@choi.openai/post/Dc6B4-wDi0S</link><description>2/ GPT-6 Astra를 활용해 초파리의 뇌와 중추신경계에 있는 16만 6,700개 뉴런을 Minecraft 안에서 시뮬레이션한 사례가 공개됐습니다.
+
+실제 신경 활동 데이터를 시뮬레이션해 게임 속 초파리의 움직임을 제어하도록 구현했습니다.
+
+x@evnsnclr</description><pubDate>Sat, 05 Sep 2026 13:17:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc6B4-wDi0S</guid></item><item><title>3/ GPT-6 Astra에 한 번의 프롬프트로 도쿄 시부야를 배경으로 한 GTA 스타일의 3D 게임을 제작한 사례가 공개됐습니다.
+
+도심 거리...</title><link>https://www.threads.net/@choi.openai/post/Dc6BakJG9Sh</link><description>3/ GPT-6 Astra에 한 번의 프롬프트로 도쿄 시부야를 배경으로 한 GTA 스타일의 3D 게임을 제작한 사례가 공개됐습니다.
+
+도심 거리와 건물, 차량을 구현하고 캐릭터가 직접 도시를 돌아다닐 수 있게 만들었습니다.
+
+x@TomohiroNoza</description><pubDate>Sat, 05 Sep 2026 13:17:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc6BakJG9Sh</guid></item><item><title>AI로 3D 모델을 만들 때 앞모습만 보고 뒷면을 추측하던 문제가 줄어들고 있습니다.
 
 Tripo가 P2.0 Preview에 멀티뷰 입력 기능을...</title><link>https://www.threads.net/@choi.openai/post/Dc5zjK4jRaA</link><description>AI로 3D 모델을 만들 때 앞모습만 보고 뒷면을 추측하던 문제가 줄어들고 있습니다.
 
@@ -16,18 +38,4 @@ Unsloth가 GLM-5.3-Flash의 로컬 GGUF 추론을 최적화했습니다.
 
 GLM-5.3-Flash는 전체 320B 중 토큰당 18B만 활성화하는 MoE 모델로, 1M 컨텍스트와 멀티모달을 지원합니다. 3-bit 양자화를 사용하면 128GB 메모리 환경에서도 Unsloth Desktop이나 llama.cpp로 실행할 수 있습니다.
 
-수천억 파라미터급 모델도 양자화와 추론 최적화를 통해 로컬에서 쓸 수 있는 범위로 계속 들어오고 있네요.</description><pubDate>Sat, 05 Sep 2026 09:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc5lwVwikkM</guid></item><item><title>Ant Ling이 의료·헬스케어 특화 MoE 모델 Ling-3.0-flash-Sante를 공개했습니다.
-
-Ling-3.0-flash 기반으로 개...</title><link>https://www.threads.net/@choi.openai/post/Dc5bdA3DsM2</link><description>Ant Ling이 의료·헬스케어 특화 MoE 모델 Ling-3.0-flash-Sante를 공개했습니다.
-
-Ling-3.0-flash 기반으로 개발됐으며 토큰당 5.1B 파라미터만 활성화하면서 MedXpertQA-Text 53.88, DiagnosisArena-MCQ 83.83, AFUMED-Drug 89.59를 기록했습니다.
-
-의학 추론뿐 아니라 근거 검색, 딥리서치, 의료 윤리·안전까지 강화됐으며 OpenRouter와 Vercel에서 사용할 수 있습니다. 의료 AI가 범용 모델 경쟁에서 실제 업무에 맞춘 전문 모델 경쟁으로 넓어지는 흐름도 눈에 띕니다.</description><pubDate>Sat, 05 Sep 2026 07:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc5bdA3DsM2</guid></item><item><title>수학자 테렌스 타오는 인간과 AI의 문제 해결 방식이 “매우 상호보완적(complementary)”이라고 분석했습니다.
-
-인간 전문가는 소수의 ...</title><link>https://www.threads.net/@choi.openai/post/Dc5RH9wkvPu</link><description>수학자 테렌스 타오는 인간과 AI의 문제 해결 방식이 “매우 상호보완적(complementary)”이라고 분석했습니다.
-
-인간 전문가는 소수의 핵심 난제를 깊이 파고드는 반면, AI는 폭넓은 탐색에 탁월합니다. 그는 “인간이 미처 보지 못한 1970년대 논문 속 해결책을 AI가 넓은 시야로 찾아내거나, 전문가 집단의 오랜 편견을 깨고 뜻밖의 단순한 해법을 제시하기도 한다”고 설명했습니다.
-
-1,000개의 문제 중 5%만 풀어내더라도 50개의 난제를 해결하는 셈이며, 이는 단순 문제 해결 건수에서 이미 인간 수학자를 앞서는 수준입니다.
-
-그는 기존처럼 ‘인간 대 AI’의 일차원적 대결로 볼 것이 아니라, “넓은 범위의 문제를 빠르게 해결하는 AI의 역량과 깊이 있는 통찰을 가진 인간의 능력을 어떻게 결합할 것인가”가 향후 지식 노동과 과학 연구의 핵심 과제라고 강조했습니다.</description><pubDate>Sat, 05 Sep 2026 06:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc5RH9wkvPu</guid></item></channel></rss>
+수천억 파라미터급 모델도 양자화와 추론 최적화를 통해 로컬에서 쓸 수 있는 범위로 계속 들어오고 있네요.</description><pubDate>Sat, 05 Sep 2026 09:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc5lwVwikkM</guid></item></channel></rss>
