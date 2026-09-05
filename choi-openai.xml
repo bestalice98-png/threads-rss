@@ -1,48 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 05 Sep 2026 03:10:04 +0000</lastBuildDate><item><title>GPT-6 Astra를 사용하기 전에 한 번 확인해보세요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 05 Sep 2026 11:40:04 +0000</lastBuildDate><item><title>AI로 3D 모델을 만들 때 앞모습만 보고 뒷면을 추측하던 문제가 줄어들고 있습니다.
 
-Codex의 Victor E. Nunez는 Astra 출시를 계기로 AGENTS.m...</title><link>https://www.threads.net/@choi.openai/post/Dc48mDfkWIj</link><description>GPT-6 Astra를 사용하기 전에 한 번 확인해보세요.
+Tripo가 P2.0 Preview에 멀티뷰 입력 기능을...</title><link>https://www.threads.net/@choi.openai/post/Dc5zjK4jRaA</link><description>AI로 3D 모델을 만들 때 앞모습만 보고 뒷면을 추측하던 문제가 줄어들고 있습니다.
 
-Codex의 Victor E. Nunez는 Astra 출시를 계기로 AGENTS.md, Skills, reasoning level 설정을 다시 점검할 것을 권했습니다.
-특히 Astra는 기존 모델보다 Skills와 AGENTS.md의 지시사항에 더 민감하게 반응한다고 합니다.
+Tripo가 P2.0 Preview에 멀티뷰 입력 기능을 추가했습니다. 하나의 이미지 대신 앞·왼쪽·오른쪽·뒤쪽 사진을 함께 넣으면 여러 각도를 참고해 원본에 더 가까운 3D 구조를 생성합니다.
 
-Astra Light도 빠르면서 대부분의 작업을 처리할 만큼 성능이 좋다고 언급했는데요. 
+캐릭터나 제품처럼 방향마다 형태가 다른 물체를 만들 때 특히 유용한 방식인데요. 단일 이미지 생성은 모든 사용자에게 2회 무료로 제공되며, 멀티뷰 입력은 구독자 전용입니다.
 
-앞으로는 모델만 바꾸는 것보다 어떤 지침과 Skills를 연결해두는지가 결과에 더 큰 영향을 줄 것으로 보입니다.</description><pubDate>Sat, 05 Sep 2026 03:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc48mDfkWIj</guid></item><item><title>주소 :
-https://developers.openai.com/api/docs/guides/latest-model</title><link>https://www.threads.net/@choi.openai/post/Dc48nUykVPD</link><description>주소 :
-https://developers.openai.com/api/docs/guides/latest-model</description><pubDate>Sat, 05 Sep 2026 03:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc48nUykVPD</guid></item><item><title>GPT-6 Astra 사용자들의 결과물이 계속 쏟아지고 있습니다.
+3D 생성 AI가 이제 ‘그럴듯하게 만들어주는 것’에서 원하는 형태를 얼마나 정확하게 재현하고 제어할 수 있느냐로 넘어가고 있네요.</description><pubDate>Sat, 05 Sep 2026 11:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc5zjK4jRaA</guid></item><item><title>320B급 AI 모델을 개인 PC에서 돌리는 속도가 최대 3.4배 빨라졌습니다.
 
-한 번의 지시로 실사와 구분하기 어려운 3D 목업 도구와 게임을 만들고, 망...</title><link>https://www.threads.net/@choi.openai/post/Dc4xCV6D9ib</link><description>GPT-6 Astra 사용자들의 결과물이 계속 쏟아지고 있습니다.
+Unsloth가 GLM-5.3-Flash의 로컬 GGUF 추론...</title><link>https://www.threads.net/@choi.openai/post/Dc5lwVwikkM</link><description>320B급 AI 모델을 개인 PC에서 돌리는 속도가 최대 3.4배 빨라졌습니다.
 
-한 번의 지시로 실사와 구분하기 어려운 3D 목업 도구와 게임을 만들고, 망가진 3D 모델을 직접 수정한 뒤 Substance 3D Painter로 질감까지 입힙니다.
+Unsloth가 GLM-5.3-Flash의 로컬 GGUF 추론을 최적화했습니다.
+디코딩 최적화와 Multi-Token Prediction을 적용해 기존보다 1.6~3.4배 빠르게 실행할 수 있다고 합니다.
 
-놀라운 GPT-6 Astra 활용 사례 15가지를 정리했습니다🧵</description><pubDate>Sat, 05 Sep 2026 01:19:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc4xCV6D9ib</guid></item><item><title>1/ GPT-6 Astra에 게임 콘셉트 하나를 입력해 약 45분 만에 Three.js 기반 3D 게임을 한 번에 제작한 사례가 공개됐습니다.
-...</title><link>https://www.threads.net/@choi.openai/post/Dc4vxEmDRj4</link><description>1/ GPT-6 Astra에 게임 콘셉트 하나를 입력해 약 45분 만에 Three.js 기반 3D 게임을 한 번에 제작한 사례가 공개됐습니다.
+GLM-5.3-Flash는 전체 320B 중 토큰당 18B만 활성화하는 MoE 모델로, 1M 컨텍스트와 멀티모달을 지원합니다. 3-bit 양자화를 사용하면 128GB 메모리 환경에서도 Unsloth Desktop이나 llama.cpp로 실행할 수 있습니다.
 
-직접 만든 콘셉트 이미지와 게임 화면을 반복 비교하며 그래픽을 수정하고, 60FPS로 실행되도록 최적화했습니다.
+수천억 파라미터급 모델도 양자화와 추론 최적화를 통해 로컬에서 쓸 수 있는 범위로 계속 들어오고 있네요.</description><pubDate>Sat, 05 Sep 2026 09:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc5lwVwikkM</guid></item><item><title>Ant Ling이 의료·헬스케어 특화 MoE 모델 Ling-3.0-flash-Sante를 공개했습니다.
 
-x@anshuc</description><pubDate>Sat, 05 Sep 2026 01:19:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc4vxEmDRj4</guid></item><item><title>2/ GPT-6 Astra에 휴대용 게임기 안에서 작동하는 포트폴리오 웹사이트를 만들어달라고 요청한 사례가 공개됐습니다.
+Ling-3.0-flash 기반으로 개...</title><link>https://www.threads.net/@choi.openai/post/Dc5bdA3DsM2</link><description>Ant Ling이 의료·헬스케어 특화 MoE 모델 Ling-3.0-flash-Sante를 공개했습니다.
 
-게임기 본체와 화면,...</title><link>https://www.threads.net/@choi.openai/post/Dc4v04TER8D</link><description>2/ GPT-6 Astra에 휴대용 게임기 안에서 작동하는 포트폴리오 웹사이트를 만들어달라고 요청한 사례가 공개됐습니다.
+Ling-3.0-flash 기반으로 개발됐으며 토큰당 5.1B 파라미터만 활성화하면서 MedXpertQA-Text 53.88, DiagnosisArena-MCQ 83.83, AFUMED-Drug 89.59를 기록했습니다.
 
-게임기 본체와 화면, 버튼까지 실제 기기처럼 디자인하고 포트폴리오를 직접 탐색할 수 있게 구현했습니다.
+의학 추론뿐 아니라 근거 검색, 딥리서치, 의료 윤리·안전까지 강화됐으며 OpenRouter와 Vercel에서 사용할 수 있습니다. 의료 AI가 범용 모델 경쟁에서 실제 업무에 맞춘 전문 모델 경쟁으로 넓어지는 흐름도 눈에 띕니다.</description><pubDate>Sat, 05 Sep 2026 07:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc5bdA3DsM2</guid></item><item><title>수학자 테렌스 타오는 인간과 AI의 문제 해결 방식이 “매우 상호보완적(complementary)”이라고 분석했습니다.
 
-x@Angaisb_</description><pubDate>Sat, 05 Sep 2026 01:19:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc4v04TER8D</guid></item><item><title>3/ GPT-6 Astra Max와 Medium에 같은 3D Sonic 게임 제작을 맡겨 Godot에서 결과를 비교한 사례가 공개됐습니다.
+인간 전문가는 소수의 ...</title><link>https://www.threads.net/@choi.openai/post/Dc5RH9wkvPu</link><description>수학자 테렌스 타오는 인간과 AI의 문제 해결 방식이 “매우 상호보완적(complementary)”이라고 분석했습니다.
 
-M...</title><link>https://www.threads.net/@choi.openai/post/Dc4v47vjxI5</link><description>3/ GPT-6 Astra Max와 Medium에 같은 3D Sonic 게임 제작을 맡겨 Godot에서 결과를 비교한 사례가 공개됐습니다.
+인간 전문가는 소수의 핵심 난제를 깊이 파고드는 반면, AI는 폭넓은 탐색에 탁월합니다. 그는 “인간이 미처 보지 못한 1970년대 논문 속 해결책을 AI가 넓은 시야로 찾아내거나, 전문가 집단의 오랜 편견을 깨고 뜻밖의 단순한 해법을 제시하기도 한다”고 설명했습니다.
 
-Max는 53분·주간 사용량 4%, Medium은 25분·1%가 소모돼 작업 시간과 사용량에서 차이가 났습니다.
+1,000개의 문제 중 5%만 풀어내더라도 50개의 난제를 해결하는 셈이며, 이는 단순 문제 해결 건수에서 이미 인간 수학자를 앞서는 수준입니다.
 
-x@AiBattle_</description><pubDate>Sat, 05 Sep 2026 01:20:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc4v47vjxI5</guid></item><item><title>구글이 음악 생성 모델 Lyria 3.5를 Gemini에 추가했습니다.
-
-장르를 선택하거나 원하는 음악을 설명하고, 보컬이 들어간 곡과 연주곡 ...</title><link>https://www.threads.net/@choi.openai/post/Dc4m47bmLzJ</link><description>구글이 음악 생성 모델 Lyria 3.5를 Gemini에 추가했습니다.
-
-장르를 선택하거나 원하는 음악을 설명하고, 보컬이 들어간 곡과 연주곡 중 하나를 고르면 바로 음악을 생성할 수 있습니다. 이전보다 보컬 표현과 음질, 악기 구성이 개선됐으며 템플릿을 이용한 생성도 지원합니다.
-
-예를 들어 영상용 배경음악, 브랜드 징글, 개인 벨소리처럼 용도를 설명해서 필요한 음악을 만들 수 있습니다.
-
-현재 웹에서는 전 세계 모든 사용자가 이용할 수 있으며 Gemini 앱에도 적용되고 있습니다. Flow, Google AI Studio, Google Vids에서도 제공됩니다.
-
-이미지·영상에 이어 음악 생성까지 Gemini 안으로 들어오면서, 콘텐츠 제작 기능을 하나의 서비스에 계속 모으고 있네요.</description><pubDate>Fri, 04 Sep 2026 23:52:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc4m47bmLzJ</guid></item><item><title>버니 샌더스(Bernie Sanders) 상원의원은 주요 빅테크 리더들조차 통제 불능을 인정하는 상황에서, 샌더스는 “첨단 AI 개발의 즉각적 ...</title><link>https://www.threads.net/@choi.openai/post/Dc3mr-ciZAY</link><description>버니 샌더스(Bernie Sanders) 상원의원은 주요 빅테크 리더들조차 통제 불능을 인정하는 상황에서, 샌더스는 “첨단 AI 개발의 즉각적 중단과 초지능(superintelligence)에 대한 영구 금지 법안을 발의하겠다”고 밝혔습니다.
-
-나아가 “인류의 미래를 소수 빅테크 과두세력의 손에 맡길 수 없다”며, 기술 특이점이 초래할 일자리 소멸과 사회적 위협을 막기 위해 국제적 공조와 강력한 규제가 시급하다고 강조했습니다.</description><pubDate>Fri, 04 Sep 2026 14:30:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc3mr-ciZAY</guid></item></channel></rss>
+그는 기존처럼 ‘인간 대 AI’의 일차원적 대결로 볼 것이 아니라, “넓은 범위의 문제를 빠르게 해결하는 AI의 역량과 깊이 있는 통찰을 가진 인간의 능력을 어떻게 결합할 것인가”가 향후 지식 노동과 과학 연구의 핵심 과제라고 강조했습니다.</description><pubDate>Sat, 05 Sep 2026 06:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc5RH9wkvPu</guid></item></channel></rss>
