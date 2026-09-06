@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 06 Sep 2026 11:58:58 +0000</lastBuildDate><item><title>정말 일자리가 사라질 수도 있겠다는 생각이 들기 시작했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 06 Sep 2026 17:23:40 +0000</lastBuildDate><item><title>확실한건 내일부터 GPT-6 Astra로 일하는 사람과 그냥 모르고 일하는 사람의 격차가 심각하게 벌려질 것 같다.
+
+정말 역사에 남을 놓치면 ...</title><link>https://www.threads.net/@choi.openai/post/Dc8pa09j9rl</link><description>확실한건 내일부터 GPT-6 Astra로 일하는 사람과 그냥 모르고 일하는 사람의 격차가 심각하게 벌려질 것 같다.
+
+정말 역사에 남을 놓치면 안 될 AI 소식 41개를 정리했습니다 🧵</description><pubDate>Sun, 06 Sep 2026 13:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc8pa09j9rl</guid></item><item><title>1/ 오픈AI가 GPT-6 Astra를 출시했습니다.
+
+낯선 게임의 규칙을 찾아 푸는 ARC-AGI-3에서 회사 실행 환경 기준 99.9%를 기...</title><link>https://www.threads.net/@choi.openai/post/Dc8pbKTD68a</link><description>1/ 오픈AI가 GPT-6 Astra를 출시했습니다.
+
+낯선 게임의 규칙을 찾아 푸는 ARC-AGI-3에서 회사 실행 환경 기준 99.9%를 기록했는데요. 이전 Sol의 7.8%에서 크게 뛰었습니다.
+
+컴퓨터 조작 평가인 OSWorld 2.0 오프라인에서도 65.7%에서 72.6%로 올랐고요. 
+
+API 가격은 100만 토큰당 입력 10달러, 출력 50달러입니다. ChatGPT 유료 요금제와 API를 통해 제공됩니다.</description><pubDate>Sun, 06 Sep 2026 13:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc8pbKTD68a</guid></item><item><title>1-1/ Astra 사례 모음 1:</title><link>https://www.threads.net/@choi.openai/post/Dc8pbxQDxFN</link><description>1-1/ Astra 사례 모음 1:</description><pubDate>Sun, 06 Sep 2026 13:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc8pbxQDxFN</guid></item><item><title>1-2/ Astra 사례 모음 2:</title><link>https://www.threads.net/@choi.openai/post/Dc8pcP5D8Uw</link><description>1-2/ Astra 사례 모음 2:</description><pubDate>Sun, 06 Sep 2026 13:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc8pcP5D8Uw</guid></item><item><title>정말 일자리가 사라질 수도 있겠다는 생각이 들기 시작했습니다.
 
 GPT-6 Astra가 KiCad에서 드론용 PCB를 설계하고, Ableton ...</title><link>https://www.threads.net/@choi.openai/post/Dc8cSF0D6Pn</link><description>정말 일자리가 사라질 수도 있겠다는 생각이 들기 시작했습니다.
 
@@ -67,12 +79,4 @@ n이 3 이상일 때 aⁿ+bⁿ=cⁿ을 만족하는 양의 정수는 없다는 �
 이미 풀린 문제는 검색해서 재사용하고, 아직 안 풀린 문제는 다른 에이전트가 맡습니다.
 
 사람이 하던 방식도 비슷했습니다. 논문 20쪽을 Lean으로 옮기려면 먼저 수백 쪽짜리 작업 계획으로 잘게 나눈 뒤 여러 사람이 나눠 맡겼는데요.
-Prove2Me는 이 분해와 분업을 AI 에이전트들이 직접 하게 만든 것입니다.</description><pubDate>Sun, 06 Sep 2026 08:37:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc8H4JzD9Bn</guid></item><item><title>앤트로픽(Anthropic) 공동 창업자 톰 브라운(Tom Brown)은 지금의 활발한 논의에도 불구하고 “우리는 AI의 발전 속도를 여전히 과...</title><link>https://www.threads.net/@choi.openai/post/Dc783mZD6rF</link><description>앤트로픽(Anthropic) 공동 창업자 톰 브라운(Tom Brown)은 지금의 활발한 논의에도 불구하고 “우리는 AI의 발전 속도를 여전히 과소평가하고 있다”고 밝혔습니다.
-
-그는 향후를 되돌아봤을 때 인프라를 충분히 구축하지 못해 더 큰 컴퓨팅 쇼티지(공급 부족)를 겪었다고 체감하게 될 것이라 예측했습니다.
-
-특히 5년 내 AI가 미칠 경제적·과학적 파급력은 상상을 뛰어넘을 것이라며, “암 치료와 같은 분야에서 실질적이고 중대한 진전을 이루지 못한다면 오히려 놀라울 것”이라고 강조했습니다.
-
-AI 연산 인프라 확장 속도보다 특이점을 향한 기술 발전과 경제·과학 혁신의 속도가 훨씬 더 빠르다는 경고입니다.</description><pubDate>Sun, 06 Sep 2026 07:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc783mZD6rF</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=Ym7ULBTmcBw</title><link>https://www.threads.net/@choi.openai/post/Dc784mUD5tY</link><description>풀영상 :
-https://www.youtube.com/watch?v=Ym7ULBTmcBw</description><pubDate>Sun, 06 Sep 2026 07:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc784mUD5tY</guid></item></channel></rss>
+Prove2Me는 이 분해와 분업을 AI 에이전트들이 직접 하게 만든 것입니다.</description><pubDate>Sun, 06 Sep 2026 08:37:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc8H4JzD9Bn</guid></item></channel></rss>
