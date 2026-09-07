@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 07 Sep 2026 14:00:09 +0000</lastBuildDate><item><title>ViggleAI가 첫 오픈웨이트 모델 Viggle-Animate를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 07 Sep 2026 18:54:54 +0000</lastBuildDate><item><title>구글 딥마인드 수장 코라이 카부쿠오글루(Koray Kavukcuoglu)는 모델 성능 경쟁에 대해 “우리에게 프론티어(최첨단 기술의 최전선)에 ...</title><link>https://www.threads.net/@choi.openai/post/Dc_fctsAAXE</link><description>구글 딥마인드 수장 코라이 카부쿠오글루(Koray Kavukcuoglu)는 모델 성능 경쟁에 대해 “우리에게 프론티어(최첨단 기술의 최전선)에 서는 것 외에 중요한 것은 없다”고 단언했습니다.
+
+그는 현재 모델들이 다소 뒤처져 보인다는 비판을 인정하면서도, 의사결정과 우선순위의 모든 초점은 오직 프론티어 탈환에 맞춰져 있다고 밝혔습니다.
+
+특히 구글의 경쟁력은 단기 트렌드가 아닌 장기적 인프라 투자에 있다고 강조했습니다. “15년 전 AI라는 단어조차 생소하던 시절부터 자체 AI 칩에 투자해 왔다”며, 칩부터 소프트웨어까지 최적화할 수 있는 독보적인 풀스택 인프라와 연구 역량을 강점으로 꼽았습니다.
+
+결국 단기적 모델 성능 논쟁을 넘어, 인프라 풀스택을 장악한 장기적 기술 투자가 궁극적으로 차세대 AGI 프론티어를 결정지을 것이라는 자신감을 드러냈습니다.</description><pubDate>Mon, 07 Sep 2026 16:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc_fctsAAXE</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=Rrr2gdbvNFU</title><link>https://www.threads.net/@choi.openai/post/Dc_fdkugI4v</link><description>풀영상 :
+https://www.youtube.com/watch?v=Rrr2gdbvNFU</description><pubDate>Mon, 07 Sep 2026 16:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc_fdkugI4v</guid></item><item><title>구글 딥마인드의 코라이 카부쿠오글루(Koray Kavukcuoglu)는 모델 개발이 “다양한 규모와 시간대에서 동시에 진행되는 병렬 트랙(par...</title><link>https://www.threads.net/@choi.openai/post/Dc_VGQBDZTz</link><description>구글 딥마인드의 코라이 카부쿠오글루(Koray Kavukcuoglu)는 모델 개발이 “다양한 규모와 시간대에서 동시에 진행되는 병렬 트랙(parallel tracks)”으로 이루어진다고 밝혔습니다.
+
+그는 가볍고 빠른 플래시(Flash) 모델의 성능이 급격히 향상되어 “점점 더 강력해지고 프론티어 영역에 근접하고 있다”며 빠른 반복 실험의 강점을 강조했습니다.
+
+동시에 기대를 모으는 차세대 성능 모델인 Gemini 3.5 Pro뿐만 아니라, Gemini 4 역시 이미 병렬로 연구 개발 중이라고 전했습니다.
+
+경량화 모델의 진화와 초거대 프론티어 모델 개발이 동시에 가속화되면서, 실무 코딩·서비스 적용 비용을 낮추는 경제성과 최첨단 성능의 특이점이 함께 앞당겨지고 있습니다.</description><pubDate>Mon, 07 Sep 2026 14:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc_VGQBDZTz</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=Rrr2gdbvNFU</title><link>https://www.threads.net/@choi.openai/post/Dc_VHQiDdqt</link><description>풀영상 :
+https://www.youtube.com/watch?v=Rrr2gdbvNFU</description><pubDate>Mon, 07 Sep 2026 14:30:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc_VHQiDdqt</guid></item><item><title>ViggleAI가 첫 오픈웨이트 모델 Viggle-Animate를 공개했습니다.
 
 MiniMax-H3를 기반으로 하며, 영상의 한 프레임에서 원...</title><link>https://www.threads.net/@choi.openai/post/Dc_KzTdgcYJ</link><description>ViggleAI가 첫 오픈웨이트 모델 Viggle-Animate를 공개했습니다.
 
@@ -19,60 +35,4 @@ Artificial Analysis 기준 단어 오류율 2.0%로 전체 2위이며, 음성을
 
 회의록, 인터뷰, 영상 자막, 콜센터 분석처럼 대량의 음성을 계속 문자로 바꾸는 서비스에서는 음성 인식 비용 자체가 거의 부담되지 않는 수준까지 내려가고 있습니다.</description><pubDate>Mon, 07 Sep 2026 11:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc_AhyuCtm7</guid></item><item><title>테스트 :
 https://playground.microsoft.ai/</title><link>https://www.threads.net/@choi.openai/post/Dc_Aj-3inXf</link><description>테스트 :
-https://playground.microsoft.ai/</description><pubDate>Mon, 07 Sep 2026 11:30:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc_Aj-3inXf</guid></item><item><title>GPT-6 Astra + NC AI 조합 그냥 미쳤습니다..
-
-게임을 만들고, 캐릭터 애니메이션에, 장면에 맞는 소리까지.
-VARCO 3D와 S...</title><link>https://www.threads.net/@choi.openai/post/Dc-yiNhCdUk</link><description>GPT-6 Astra + NC AI 조합 그냥 미쳤습니다..
-
-게임을 만들고, 캐릭터 애니메이션에, 장면에 맞는 소리까지.
-VARCO 3D와 Sound를 함께 쓰니 완성도가 정말 달라집니다.
-
-어떻게 만들었는지 소개해드립니다. 🧵</description><pubDate>Mon, 07 Sep 2026 10:01:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc-yiNhCdUk</guid></item><item><title>1/ GPT-6 Astra로 게임을 만들면서, 필요한 3D 에셋과 사운드는 NC AI의 VARCO 플랫폼에서 제작하도록 시켜봤습니다.
-
-캐릭터와...</title><link>https://www.threads.net/@choi.openai/post/Dc-2URLD9vJ</link><description>1/ GPT-6 Astra로 게임을 만들면서, 필요한 3D 에셋과 사운드는 NC AI의 VARCO 플랫폼에서 제작하도록 시켜봤습니다.
-
-캐릭터와 애니메이션은 VARCO 3D를 활용하고, 게임의 효과음과 배경음은 VARCO Sound로 만들었는데요.
-
-VARCO Sound와 VARCO 3D에 로그인만 하고 모든 권한은 Astra에게 넘겨 필요한 에셋은 VARCO 를 통해 생성하고 이펙트는 무료 에셋을 찾아서 진행해달라고 요구했습니다.
-
-예전 NC AI에 사내 사례 발표를 하러 갔을 때도, 모델이 강력해질수록 에셋의 가치는 더 커질 거라고 말씀드렸었는데 이번에 직접 만들어보니 그 생각이 더 확실해졌습니다.
-
-게임이 돌아가게 만드는 능력이 좋아지니, 어떤 모습과 소리로 완성하느냐가 더 크게 체감되었습니다.</description><pubDate>Mon, 07 Sep 2026 10:01:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc-2URLD9vJ</guid></item><item><title>2/ VARCO Sound에는 게임 플레이 화면이나 녹화한 영상을 넣어 사운드를 만들 수 있습니다.
-
-화면 속 대상과 분위기를 바탕으로 소리를 ...</title><link>https://www.threads.net/@choi.openai/post/Dc-uT3PmNfo</link><description>2/ VARCO Sound에는 게임 플레이 화면이나 녹화한 영상을 넣어 사운드를 만들 수 있습니다.
-
-화면 속 대상과 분위기를 바탕으로 소리를 생성하고, 영상은 움직임과 타이밍에 맞춰 효과음과 환경음을 구성해주는데요.
-
-기존 영상 입력 길이를 기존 20초에서 60초로 늘리고, 생성하는 사운드 트랙도 기존 대비 2배에서 3배가량 확대되어 풍부한 사운드를 뽑아낼 수 있었습니다.
-
-Astra에는 “게임 플레이를 녹화해서 VARCO Sound에 올리고, 이 장면에 어울리는 소리를 만들어줘”라고 요청하거나 직접 텍스트 프롬프트를 입력해서 생성하도록 하면 됩니다.
-
-만들고 있는 게임 화면을 그대로 참고할 수 있으니, 장면을 길게 설명할 필요가 줄어 편하게 생성할 수 있습니다.
-
-이렇게 생성한 사운드를 게임에 적용하면, 캐릭터와 공간에 맞춰 소리까지 다듬을 수 있습니다.</description><pubDate>Mon, 07 Sep 2026 10:01:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc-uT3PmNfo</guid></item><item><title>3/ 이번 VARCO Sound 2.0 업데이트에서 소개하고 싶은 기능은 Sound Agent와 자동 볼륨 믹싱입니다.
-
-Sound Agent는...</title><link>https://www.threads.net/@choi.openai/post/Dc-xuS8jYaF</link><description>3/ 이번 VARCO Sound 2.0 업데이트에서 소개하고 싶은 기능은 Sound Agent와 자동 볼륨 믹싱입니다.
-
-Sound Agent는 장면에 필요한 소리를 찾아 타이밍에 맞게 배치하고, 대화로 편집을 도와주는 베타 기능입니다.
-
-여러 소리는 개별 트랙으로 제공되기 때문에, 마음에 드는 소리는 유지하면서 부족한 효과음을 더하거나 특정 소리만 교체할 수 있습니다. 자동 볼륨 믹싱으로 트랙 사이 음량도 조절할 수 있고요.
-
-예전 베타 리뷰에서도 멀티트랙으로 소리를 추가하고 빼는 자유도를 좋아했는데, 이제는 그 편집 과정에 에이전트까지 활용할 수 있게 됐습니다.
-
-Astra가 컴퓨터 유즈로 Sound를 조작하도록 하면, 제작 중인 게임을 기준으로 요청을 이어갈 수 있습니다.</description><pubDate>Mon, 07 Sep 2026 10:01:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc-xuS8jYaF</guid></item><item><title>젠슨황, "AGI에 도달했다"
-
-NVIDIA CEO 젠슨황이 GPT-6 Astra를 두고 “AGI has arrived”라고 언급했는데요.
-
-젠...</title><link>https://www.threads.net/@choi.openai/post/Dc-r-rqgSqT</link><description>젠슨황, "AGI에 도달했다"
-
-NVIDIA CEO 젠슨황이 GPT-6 Astra를 두고 “AGI has arrived”라고 언급했는데요.
-
-젠슨황에 따르면 GPT-6 Astra는 10만 개 이상의 NVIDIA Grace Blackwell GPU를 이용해 학습됐다고 합니다. 오픈AI의 그렉 브룩만과 마크 첸도 이제 “AGI 시대에 진입하고 있다”고 언급했습니다.
-
-여기서 봐야할 것은 젠슨황이 앞으로 40만 개의 GPU가 추가로 가동될 예정이라고 밝혔다는 점인데요.
-
-현재 오픈AI의 내부에는 Astra의 다음 세대 모델이 이미 존재하는 것을 생각한다면, 다다음 모델은 얼마나 크고 놀라운 성능을 보여줄지 기대가 되는 것 같습니다.
-
-AGI의 기준을 두고 논쟁은 계속되겠지만, Astra보다 훨씬 큰 규모의 연산 자원이 다음 세대 AI에 투입된다는 점은 앞으로 컴퓨트 부족은 계속될 것 같습니다.
-
-FEEL THE AGI</description><pubDate>Mon, 07 Sep 2026 08:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc-r-rqgSqT</guid></item></channel></rss>
+https://playground.microsoft.ai/</description><pubDate>Mon, 07 Sep 2026 11:30:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc_Aj-3inXf</guid></item></channel></rss>
