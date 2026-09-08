@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 08 Sep 2026 03:16:32 +0000</lastBuildDate><item><title>GPT-6 Astra + NC AI 조합 그냥 미쳤습니다..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 08 Sep 2026 12:38:44 +0000</lastBuildDate><item><title>GPT-6 Astra + NC AI 조합 그냥 미쳤습니다..
 
 게임을 만들고, 캐릭터 애니메이션에, 장면에 맞는 소리까지.
 VARCO 3D와 S...</title><link>https://www.threads.net/@choi.openai/post/Dc-yiNhCdUk</link><description>GPT-6 Astra + NC AI 조합 그냥 미쳤습니다..
@@ -39,62 +39,59 @@ Sound Agent는 장면에 필요한 소리를 찾아 타이밍에 맞게 배치�
 
 예전 베타 리뷰에서도 멀티트랙으로 소리를 추가하고 빼는 자유도를 좋아했는데, 이제는 그 편집 과정에 에이전트까지 활용할 수 있게 됐습니다.
 
-Astra가 컴퓨터 유즈로 Sound를 조작하도록 하면, 제작 중인 게임을 기준으로 요청을 이어갈 수 있습니다.</description><pubDate>Mon, 07 Sep 2026 10:01:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc-xuS8jYaF</guid></item><item><title>GPT-6 Astra가 나온 뒤로 "AGI에 도달했다"는 말이 매일 들립니다.
+Astra가 컴퓨터 유즈로 Sound를 조작하도록 하면, 제작 중인 게임을 기준으로 요청을 이어갈 수 있습니다.</description><pubDate>Mon, 07 Sep 2026 10:01:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dc-xuS8jYaF</guid></item><item><title>🚨 속보) 1757년 오일러가 세운 방정식이 AI 시대에 들어 한 달 만에 뚫렸습니다.
 
-오픈AI 사장은 "AGI 시대에 온 것을 환영한다"고 했고, 연...</title><link>https://www.threads.net/@choi.openai/post/DdAq6G5D9wN</link><description>GPT-6 Astra가 나온 뒤로 "AGI에 도달했다"는 말이 매일 들립니다.
+2000년 클레이 수학연구소가 7개 난제에 각각 100...</title><link>https://www.threads.net/@choi.openai/post/DdBYMWXD0XH</link><description>🚨 속보) 1757년 오일러가 세운 방정식이 AI 시대에 들어 한 달 만에 뚫렸습니다.
 
-오픈AI 사장은 "AGI 시대에 온 것을 환영한다"고 했고, 연구총괄은 "80% 왔다"고 했고, 반대편에서는 벤치마크 포화가 AGI의 증명은 아니라고 합니다.
+2000년 클레이 수학연구소가 7개 난제에 각각 100만 달러를 걸었고, 26년 동안 풀린 건 하나뿐이었습니다. 그런데 그중 나비에-스토크스와 맞닿아 있는 3차원 오일러 방정식에서 먼저 돌파구가 나왔습니다.
 
-이 논쟁이 반복되는 것 자체가 답이라고 생각합니다. AGI는 어느 날 선언되는 사건이 아니라 여러 해에 걸쳐 확정되는 과정이고, 우리는 지금 그 지평 위에 서 있습니다.
+증명은 8월 15일 완성됐고, 22일에는 기계 검증까지 통과했습니다.
+다만 논문 상태는 작성자 본인 표현대로 아직 “AI slop”에 가깝다고 합니다.
 
-튜링 테스트부터 Astra까지, 특이점이 이미 와 있을지도 모릅니다 🧵</description><pubDate>Tue, 08 Sep 2026 03:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdAq6G5D9wN</guid></item><item><title>1/ 9월 3일 오픈AI가 GPT-6 Astra를 내놓은 뒤 AGI라는 말이 다시 전면에 나왔습니다.
+버크마스터와 알푀게가 LLM을 활용해 3차원 오일러 방정식의 유한시간 폭발을 증명하고, 오픈AI와의 통화 기록까지 공개한 이번 발표를 정리했습니다 🧵</description><pubDate>Tue, 08 Sep 2026 09:35:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBYMWXD0XH</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-사장 그렉 브록먼은 출시 브리핑을 "AG...</title><link>https://www.threads.net/@choi.openai/post/DdAq6xfDzpr</link><description>1/ 9월 3일 오픈AI가 GPT-6 Astra를 내놓은 뒤 AGI라는 말이 다시 전면에 나왔습니다.
+1. 나비에-스토크스는 물·공기 흐름 방정식으로, 매끄러운 흐름이 유한 시간 안에 무한대...</title><link>https://www.threads.net/@choi.openai/post/DdBYPqrD_S6</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
 
-사장 그렉 브록먼은 출시 브리핑을 "AGI 시대에 온 것을 환영한다"는 말로 닫았고, 몇 년 뒤 돌아보면 이 모델이 AGI가 만들어진 시점으로 기억될 수 있다고 했습니다.
+1. 나비에-스토크스는 물·공기 흐름 방정식으로, 매끄러운 흐름이 유한 시간 안에 무한대로 터질 수 있는지가 100만 달러 밀레니엄 난제. 3차원에선 소용돌이가 점성을 이겨 26년간 미해결
+2. 클레이 규칙은 매끄러운 외력 아래 해가 깨져도 정답으로 인정. 매끄러운 힘으로 터뜨린 사람은 없었음
+3. NYU 버크마스터와 앤트로픽의 알푀게가 LLM으로 8월 15일 오일러에서 매끄러운 힘 폭발을 증명, 22일 Lean 검증 통과. 타오는 나비에-스토크스까지 갈 수 있다고 봄
+4. 9월 3일 소문이 돌자 오픈AI가 접촉, 6일 통화에서 내부 모델의 나비에-스토크스 증명을 내세워 다음 날 공개와 알푀게 저자 삭제를 제안, 거절하자 왜 커리어를 망치려 하느냐고 함
+5. 버크마스터는 논문이 AI 슬롭인 채로 8일 공개, 딥블루-카스파로프의 순간이라 부름</description><pubDate>Tue, 08 Sep 2026 09:36:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBYPqrD_S6</guid></item><item><title>2/ 오일러 방정식은 1757년 오일러가, 나비에-스토크스 방정식은 1822년 나비에와 1845년 스토크스가 만든 유체 운동 방정식입니다.
 
-8월 말 TIME 취재에서는 연구총괄 마크 첸이 "AGI까지 80% 왔다"고 했고, 샘 알트만은 연말까지 자신이 AGI라 부를 내부 시스템이 생긴다고 못박았습니다.
+물...</title><link>https://www.threads.net/@choi.openai/post/DdBYSb0j7FQ</link><description>2/ 오일러 방정식은 1757년 오일러가, 나비에-스토크스 방정식은 1822년 나비에와 1845년 스토크스가 만든 유체 운동 방정식입니다.
 
-알트만은 Astra를 두고 의미 있는 방식으로 새로운 것을 발명하는 첫 모델이 될 것이며 그것이 매우 AGI다운 일이라고도 했는데요.
+물과 공기의 흐름을 계산하는 식이라 날씨 예보, 비행기 날개, 혈관 속 혈류까지 다양한 분야에 쓰입니다. 두 식의 가장 큰 차이는 점성입니다. 나비에-스토크스에는 유체의 끈적임을 나타내는 항이 있지만 오일러에는 없습니다.
 
-세 사람이 같은 회사 사람이라 할인해서 들어야 하지만, 자기 회사 모델에 이 단어를 공식 석상에서 붙인 것은 이번이 처음입니다.</description><pubDate>Tue, 08 Sep 2026 03:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdAq6xfDzpr</guid></item><item><title>2/ 반대편은 이렇게 말합니다.
+문제는 200년 넘게 연구했는데도 아주 기본적인 질문 하나가 풀리지 않았다는 점입니다. 매끄럽게 시작한 흐름이 계속 매끄러운지, 아니면 유한한 시간 안에 속도나 소용돌이가 무한대로 커지는 ‘폭발’이 생길 수 있는지입니다.
 
-ARC-AGI-3를 만든 프랑수아 숄레는 벤치마크 포화가 AGI의 증명은 아니라고 적었고, 게리 마커스는 인상...</title><link>https://www.threads.net/@choi.openai/post/DdAq7fZD_oJ</link><description>2/ 반대편은 이렇게 말합니다.
+클레이 수학연구소는 2000년 이 문제를 포함한 7개 난제에 각각 100만 달러를 걸었습니다. 26년이 지난 지금까지 풀린 것은 푸앵카레 추측 하나뿐이고, 페렐만은 상금을 받지 않았습니다.</description><pubDate>Tue, 08 Sep 2026 09:36:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBYSb0j7FQ</guid></item><item><title>3/ 어려운 이유는 유체 안에서 서로 반대되는 두 작용이 동시에 일어나기 때문입니다.
 
-ARC-AGI-3를 만든 프랑수아 숄레는 벤치마크 포화가 AGI의 증명은 아니라고 적었고, 게리 마커스는 인상적이지만 벤치마크 밖 열린 과제에서 얼마나 견고한지가 남은 문제라고 했습니다.
+소용돌이는 더 작은 소용돌이를 만들며 에너지를 점점 작은...</title><link>https://www.threads.net/@choi.openai/post/DdBYU2rj4mT</link><description>3/ 어려운 이유는 유체 안에서 서로 반대되는 두 작용이 동시에 일어나기 때문입니다.
 
-독립 평가기관 Artificial Analysis의 종합 지수에서 Astra는 61점으로 전작과 같았고, Claude Fable 5.1의 66점보다 낮습니다.
+소용돌이는 더 작은 소용돌이를 만들며 에너지를 점점 작은 크기로 몰아넣고, 점성은 그 작은 구조를 마찰로 없앱니다.
 
-오픈AI 헌장이 정한 AGI의 정의, 대부분의 경제적 가치가 있는 일에서 사람을 능가하는 자율 시스템을 재는 GDPval 결과는 이번 출시에 없었습니다.
+2차원에서는 이 균형이 비교적 잘 정리돼 오래전에 답이 나왔습니다. 하지만 3차원에서는 크기가 작아질수록 소용돌이를 키우는 효과가 더 강해질 수 있어, 에너지 보존만으로는 폭발이 생기는지 막을 수 있는지 판단하기 어렵습니다.
 
-이 논쟁 자체가 답에 가깝다는 것이 제 생각입니다.
+1934년 르레는 해가 영원히 존재한다는 결과를 얻었지만, 아주 거친 형태의 ‘약한 해’에 한정됐습니다.
 
-AGI는 여러 해에 걸쳐 조금씩 확정되는 과정이고, 매 분기 "이번이 AGI냐"는 논쟁이 반복되는 것이 그 과정 한가운데 있다는 표시입니다.</description><pubDate>Tue, 08 Sep 2026 03:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdAq7fZD_oJ</guid></item><item><title>3/ 문턱이 어떻게 밀려왔는지는 튜링 테스트가 보여줍니다.
+타오는 2014년 나비에-스토크스를 변형한 평균화 방정식에서는 실제로 유한시간 폭발이 가능하다는 것을 보였습니다. 기존의 에너지 추정만으로는 원래 문제를 해결하기 어렵다는 점을 보여준 결과였습니다.</description><pubDate>Tue, 08 Sep 2026 09:36:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBYU2rj4mT</guid></item><item><title>이제 로봇이 로봇을 만듭니다..
 
-2025년 3월 UC샌디에이고 연구진은 5분 대화에서 GPT-4.5를 사람처럼 행동...</title><link>https://www.threads.net/@choi.openai/post/DdAq8eSD6he</link><description>3/ 문턱이 어떻게 밀려왔는지는 튜링 테스트가 보여줍니다.
+Xpeng이 휴머노이드 로봇 IRON을 생산하는 자동화 생산라인을 가동했습니다.
 
-2025년 3월 UC샌디에이고 연구진은 5분 대화에서 GPT-4.5를 사람처럼 행동하게 지시하자 참가자의 73%가 실제 사람으로 골랐다고 발표했습니다.
+Xiaopeng He CEO...</title><link>https://www.threads.net/@choi.openai/post/DdBGem7D-w8</link><description>이제 로봇이 로봇을 만듭니다..
 
-1950년 앨런 튜링이 제안한 원래 형식의 3자 테스트를 처음 통과했다는 결과였습니다.
+Xpeng이 휴머노이드 로봇 IRON을 생산하는 자동화 생산라인을 가동했습니다.
 
-튜링 테스트는 70년 동안 기계 지능의 대표 시험이었고, SF와 교과서가 그 통과를 하나의 사건처럼 그려 왔습니다.
+Xiaopeng He CEO에 따르면 로봇이 로봇을 생산하는 방식으로 운영되며, 첫 IRON은 조립을 마친 뒤 스스로 걸어서 생산라인을 빠져나왔습니다.
 
-그런데 실제로 통과하자 세상은 거의 반응하지 않았는데요. 뉴스 몇 건이 지나갔을 뿐, 시험을 통과한 모델은 그 뒤로도 몇 달 더 평범한 챗봇으로 쓰였습니다.
+IRON은 2026년 말 대량생산에 들어갈 예정이며, 초기에는 매장과 사업장에 투입된 뒤 2027년부터 중국과 해외에 공급될 계획이라고 하는데요.
 
-저는 그때 이 무반응이 앞으로 반복될 장면이라고 적었는데, 지금 Astra를 둘러싼 풍경도 같은 구조입니다.</description><pubDate>Tue, 08 Sep 2026 03:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdAq8eSD6he</guid></item><item><title>GPT-6 Astra에게 F1 게임을 만들어달라고 해봤습니다.
+중국의 인해전술이 이제 기해전술로 바뀌게 되는 것일까요.. 대단하네요.</description><pubDate>Tue, 08 Sep 2026 07:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBGem7D-w8</guid></item><item><title>와우.. GPT-6 Astra가 “로봇이 아닙니다” 캡챠를 전부 풀어버렸습니다.
 
-그리고 그 결과 :</title><link>https://www.threads.net/@choi.openai/post/DdAgrwjjTC1</link><description>GPT-6 Astra에게 F1 게임을 만들어달라고 해봤습니다.
+오픈AI의 Sharif Shameem이 GPT-6 Astra로...</title><link>https://www.threads.net/@choi.openai/post/DdA4skxEzzW</link><description>와우.. GPT-6 Astra가 “로봇이 아닙니다” 캡챠를 전부 풀어버렸습니다.
 
-그리고 그 결과 :</description><pubDate>Tue, 08 Sep 2026 01:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdAgrwjjTC1</guid></item><item><title>외부 3D 모델과 사운드는 VARCO로 만들어봤습니다.
-NC AI에서 1만 크레딧 이벤트를 진행해주셔서 아래 링크 남겨드립니다 :</title><link>https://www.threads.net/@choi.openai/post/DdAikjzj4fl</link><description>외부 3D 모델과 사운드는 VARCO로 만들어봤습니다.
-NC AI에서 1만 크레딧 이벤트를 진행해주셔서 아래 링크 남겨드립니다 :</description><pubDate>Tue, 08 Sep 2026 01:47:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdAikjzj4fl</guid></item><item><title>ChatGPT의 웹 트래픽 점유율이 다시 올라가기 시작했습니다.
+오픈AI의 Sharif Shameem이 GPT-6 Astra로 neal.fun의 ‘로봇이 아닙니다’ 48개 레벨을 사람 개입 없이 모두 통과한 영상을 공개했습니다.
 
-Similarweb에 따르면 ChatGPT는 3개월 전 52.7%까지 내려갔지...</title><link>https://www.threads.net/@choi.openai/post/DdAWWYSCFv9</link><description>ChatGPT의 웹 트래픽 점유율이 다시 올라가기 시작했습니다.
+체스, 틱택토, 이미지 구분, 댄스 게임처럼 서로 다른 방식의 문제를 브라우저에서 직접 보고 조작해 해결했습니다.
 
-Similarweb에 따르면 ChatGPT는 3개월 전 52.7%까지 내려갔지만, 2개월 전 54.2%, 지난달 55.5%로 두 달 연속 상승했습니다.
-
-반면 Gemini는 같은 기간 27.8%에서 25.6%로 감소했는데요.
-
-시점상 Codex와 ChatGPT Work 사용이 빠르게 늘어난 시기와 겹칩니다.
-
-한동안 경쟁 서비스에 점유율을 내주던 오픈AI가 다시 반등하는 흐름이 나타나고 있습니다.</description><pubDate>Tue, 08 Sep 2026 00:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdAWWYSCFv9</guid></item></channel></rss>
+이제 AI 에이전트가 화면을 보고 클릭하는 능력도 인간과 봇을 구분하기 어려운 수준까지 올라오고 있습니다.</description><pubDate>Tue, 08 Sep 2026 05:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdA4skxEzzW</guid></item></channel></rss>
