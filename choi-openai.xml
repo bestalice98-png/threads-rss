@@ -1,78 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 09 Sep 2026 12:45:26 +0000</lastBuildDate><item><title>카쫀쿠 시작.</title><link>https://www.threads.net/@choi.openai/post/DdENlyXgAKy</link><description>카쫀쿠 시작.</description><pubDate>Wed, 09 Sep 2026 12:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdENlyXgAKy</guid></item><item><title>대상은 19-34세로 유료 플랜을 이용한 적 없거나 마지막 유료 플랜 구독이후 90일이 지난 계정만 가능합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 09 Sep 2026 18:05:50 +0000</lastBuildDate><item><title>AI 에이전트가 회사 시스템을 망가뜨리지 않고 마음껏 연습할 수 있는 공간이 생겼습니다.
 
-카카오 ChatGPT 설정에서...</title><link>https://www.threads.net/@choi.openai/post/DdENmyaADmD</link><description>대상은 19-34세로 유료 플랜을 이용한 적 없거나 마지막 유료 플랜 구독이후 90일이 지난 계정만 가능합니다.
+State Machines는 Salesforce, Z...</title><link>https://www.threads.net/@choi.openai/post/DdE2z2CAr3a</link><description>AI 에이전트가 회사 시스템을 망가뜨리지 않고 마음껏 연습할 수 있는 공간이 생겼습니다.
 
-카카오 ChatGPT 설정에서 로그인된 계정 꼭 확인하시고 이벤트 참여하세요!
+State Machines는 Salesforce, Zendesk, SAP 같은 기업용 서비스를 실제와 비슷하게 복제해 AI 에이전트가 작업할 수 있도록 합니다.
 
-그나저나 카카오 오픈AI랑 도대체 무슨 계약을 맺었길래 이정도로..
+각 환경은 데이터를 따로 기억하고 초기화할 수 있으며, 수천 개를 동시에 실행할 수도 있습니다. 예를 들어 에이전트가 고객 정보를 수정하거나 티켓을 처리하는 작업을 실제 회사 데이터에 접근시키기 전에 반복해서 테스트할 수 있습니다.
 
-https://b.kakao.com/views/komi/promotions/young_adults</description><pubDate>Wed, 09 Sep 2026 12:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdENmyaADmD</guid></item><item><title>GPT-6 Astra 열기가 멈출줄 모릅니다.
+AI 에이전트가 실제 업무에 투입될수록 모델 성능뿐 아니라, 실수해도 문제가 없는 연습 환경이 점점 더 중요해질 것 같습니다.</description><pubDate>Wed, 09 Sep 2026 18:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdE2z2CAr3a</guid></item><item><title>Extropic이 GPU보다 최대 140배 적은 에너지로 Transformer 계열 모델을 돌리는 Z1T를 공개했습니다.
 
-게임 개발부터 로봇 제어, 의료 시뮬레이션, 3D 도시 구현, 데이터 라벨링까지 GPT-6 As...</title><link>https://www.threads.net/@choi.openai/post/DdEDbU1D_3y</link><description>GPT-6 Astra 열기가 멈출줄 모릅니다.
+Z1은 일반 GPU처...</title><link>https://www.threads.net/@choi.openai/post/DdEsesPiA5W</link><description>Extropic이 GPU보다 최대 140배 적은 에너지로 Transformer 계열 모델을 돌리는 Z1T를 공개했습니다.
 
-게임 개발부터 로봇 제어, 의료 시뮬레이션, 3D 도시 구현, 데이터 라벨링까지 GPT-6 Astra의 활용 사례가 쏟아지고 있습니다.
+Z1은 일반 GPU처럼 모든 값을 촘촘하게 계산하는 대신, 확률형 비트(pbit)를 희소하게 연결해 필요한 연산만 처리합니다. Z1T도 여기에 맞춰 attention과 신경망 구조를 다시 설계했습니다.
 
-출시 며칠 만에 어디까지 가능한지 가늠하기 어려울 정도인데요.
+현재 실험에서는 H100 대비 토큰당 에너지 사용량이 최대 약 139배 낮았고, Z1에서 처리되는 연산만 보면 차이는 수천 배까지 벌어졌습니다.
 
-GPT-6 Astra의 놀라운 활용 사례 20가지를 정리했습니다🧵</description><pubDate>Wed, 09 Sep 2026 10:32:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdEDbU1D_3y</guid></item><item><title>1/ GPT-6 Astra에 스튜디오 사진 9장을 입력하자 공간 구조를 파악해 Blender에서 하나의 3D 공간으로 재구성했습니다.
+향후 FPGA 병목까지 줄이면 GPU 대비 최대 1,000배 수준의 효율도 가능하다고 보고 있습니다.
 
-완성된 ...</title><link>https://www.threads.net/@choi.openai/post/DdD9mLxgM9Q</link><description>1/ GPT-6 Astra에 스튜디오 사진 9장을 입력하자 공간 구조를 파악해 Blender에서 하나의 3D 공간으로 재구성했습니다.
+Z1T의 모델 가중치와 학습 방법도 공개됐습니다.</description><pubDate>Wed, 09 Sep 2026 16:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdEsesPiA5W</guid></item><item><title>내용 :
+https://extropic.ai/writing/z1t/</title><link>https://www.threads.net/@choi.openai/post/DdEsgytCC0N</link><description>내용 :
+https://extropic.ai/writing/z1t/</description><pubDate>Wed, 09 Sep 2026 16:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdEsgytCC0N</guid></item><item><title>초파리 이미 매트릭스에서 DOOM을 하고 있다.
 
-완성된 모델을 웹사이트로 변환해 브라우저에서 스튜디오 내부를 직접 돌아다닐 수 있게 구현했습니다.
+Google Research 등이 공개한 수컷 초파리의 뇌·중추신경계 연결 지도를 이용해 만든...</title><link>https://www.threads.net/@choi.openai/post/DdEiKLOk-x6</link><description>초파리 이미 매트릭스에서 DOOM을 하고 있다.
 
-x@rpnickson</description><pubDate>Wed, 09 Sep 2026 10:32:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdD9mLxgM9Q</guid></item><item><title>2/ GPT-6 Astra로 심장 시술을 연습할 수 있는 3D 교육용 시뮬레이터를 제작한 사례가 공개됐습니다.
+Google Research 등이 공개한 수컷 초파리의 뇌·중추신경계 연결 지도를 이용해 만든 초파리 뇌로 DOOM까지 돌렸습니다. 게임 화면의 픽셀 밝기를 초파리의 감각 뉴런에 자극으로 전달하고, 발생한 신경 활동을 게임 조작으로 연결했습니다.
 
-심장 구조뿐 아니라 심방중격 천...</title><link>https://www.threads.net/@choi.openai/post/DdD8c5ODk9g</link><description>2/ GPT-6 Astra로 심장 시술을 연습할 수 있는 3D 교육용 시뮬레이터를 제작한 사례가 공개됐습니다.
+즉 DOOM을 AI에게 보여주는 게 아니라, 디지털로 재현한 초파리 신경회로에 화면을 보여주고 그 반응으로 게임을 움직이는 겁니다.
 
-심장 구조뿐 아니라 심방중격 천자와 심장 내 초음파(ICE)를 보면서 바늘을 삽입하는 과정까지 재현했습니다.
+이런 실험을 통해 실제 뇌의 신경회로가 시각 정보를 어떻게 행동으로 바꾸는지 컴퓨터 안에서 테스트할 수 있습니다.
 
-x@Shimayus</description><pubDate>Wed, 09 Sep 2026 10:32:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdD8c5ODk9g</guid></item><item><title>3/ GPT-6 Astra를 활용해 Apple Silicon M1 Mac mini에 Windows ARM을 네이티브로 설치한 사례가 공개됐습니다...</title><link>https://www.threads.net/@choi.openai/post/DdEDd5jD-qk</link><description>3/ GPT-6 Astra를 활용해 Apple Silicon M1 Mac mini에 Windows ARM을 네이티브로 설치한 사례가 공개됐습니다.
+뇌 전체 연결 지도가 공개되자마자 정말 별걸 다 해보고 있네요 ㅋㅋ..</description><pubDate>Wed, 09 Sep 2026 15:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdEiKLOk-x6</guid></item><item><title>초당 1,100토큰이 넘는 LLM이 나왔습니다.
 
-시리얼 통신으로 설치·재부팅·파일 주입을 진행했으며, 현재 CPU 1코어·메모리 4GB만 인식돼 추가 작업이 필요한 상태입니다.</description><pubDate>Wed, 09 Sep 2026 10:32:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdEDd5jD-qk</guid></item><item><title>세상엔 정말 미친 사람들이 많은 것 같습니다.
+Inception이 diffusion LLM인 Mercury 2.5를 공개했습니다.
+Mercu...</title><link>https://www.threads.net/@choi.openai/post/DdEX1tXAoSY</link><description>초당 1,100토큰이 넘는 LLM이 나왔습니다.
 
-얼마 전 구글과 HHMI 연구진이 초파리 수컷의 뇌와 중추신경계 전체 연결 지도를 공개했는데, ...</title><link>https://www.threads.net/@choi.openai/post/DdD45v8ClCr</link><description>세상엔 정말 미친 사람들이 많은 것 같습니다.
+Inception이 diffusion LLM인 Mercury 2.5를 공개했습니다.
+Mercury 2 대비 지능 지표는 40% 높아졌고, 성능은 GPT-5.6 Luna Low·Gemini 3.5 Flash-Lite급을 목표로 합니다.
 
-얼마 전 구글과 HHMI 연구진이 초파리 수컷의 뇌와 중추신경계 전체 연결 지도를 공개했는데, 벌써 이걸 이용해 Beat Saber를 학습시키는 사람이 등장했습니다.
+260K 컨텍스트와 병렬 도구 호출도 지원하며, 실제 음성 에이전트에서는 응답 지연을 0.2초 이하로 낮춘 사례도 공개했습니다.
 
-MaleCNS v1.0 초파리 커넥톰을 시뮬레이션하고 신경 활동을 게임 조작으로 연결한 방식입니다. 현재는 운동 신경계를 플레이 영상에 맞춰 학습시킨 단계이며, 시각 자극에 반응하는 부분과 실제 플레이는 강화학습 중이라고 합니다.
-
-심지어 같은 커넥톰으로 Doom을 학습시키는 프로젝트도 진행되고 있습니다. 뇌 지도를 완성하자마자 게임부터 시키는 걸 보면 인간은 정말 한결같네요.</description><pubDate>Wed, 09 Sep 2026 09:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdD45v8ClCr</guid></item><item><title>구글 내용 :</title><link>https://www.threads.net/@choi.openai/post/DdD-FEQD4Z7</link><description>구글 내용 :</description><pubDate>Wed, 09 Sep 2026 09:45:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdD-FEQD4Z7</guid></item><item><title>앤트로픽이 클로드 비용을 줄이는 방법을 공개했습니다.
-
-그중 하나는 사용자가 프롬프트에 써 둔 문장을 지우는 일입니다.
-두 번 확인하라거나 최대...</title><link>https://www.threads.net/@choi.openai/post/DdDuuD9D6f8</link><description>앤트로픽이 클로드 비용을 줄이는 방법을 공개했습니다.
-
-그중 하나는 사용자가 프롬프트에 써 둔 문장을 지우는 일입니다.
-두 번 확인하라거나 최대한 철저히 하라는 지시가 지금 모델에서는 토큰을 더 쓰고 정확도를 떨어뜨렸습니다.
-
-고객지원 평가에서 이 문장들을 걷어내자 비용이 14.6% 내려가고 정확도가 5.3%p 올랐습니다.
-
-이번 발표를 정리했습니다 🧵</description><pubDate>Wed, 09 Sep 2026 07:31:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdDuuD9D6f8</guid></item><item><title>1/ 앤트로픽이 9월 9일 새벽, Claude 플랫폼의 비용을 줄이는 방법을 공식 글로 공개했습니다.
-
-단순히 더 싼 모델을 쓰거나 성능을 낮추...</title><link>https://www.threads.net/@choi.openai/post/DdDuulvjzEn</link><description>1/ 앤트로픽이 9월 9일 새벽, Claude 플랫폼의 비용을 줄이는 방법을 공식 글로 공개했습니다.
-
-단순히 더 싼 모델을 쓰거나 성능을 낮추는 방식이 아니라, 품질을 유지하거나 오히려 높이면서 비용을 줄일 수 있는 세 가지 방법을 제시했는데요.
-
-첫째는 프롬프트 캐시 적중률을 높이는 것, 둘째는 새 모델로 옮길 때 프롬프트에 남아 있는 이전 모델용 지침을 정리하는 것, 셋째는 작업 난이도에 맞춰 추론 강도를 조절하는 것입니다.
-
-앤트로픽은 이 과정을 Claude Code의 claude-api 스킬에 명령으로 넣었습니다. 프롬프트를 검사하는 prompt-audit, 애플리케이션 전체 비용을 분석하는 cost-optimize, 평가 결과를 보면서 여러 설정을 자동으로 시험하는 hillclimb입니다.
-
-글에는 고객지원 평가와 공개 벤치마크 4종의 실제 측정 결과도 함께 공개됐습니다. 가장 큰 절감 효과를 낸 방법은 프롬프트 캐시였습니다.</description><pubDate>Wed, 09 Sep 2026 07:31:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdDuulvjzEn</guid></item><item><title>2/ Claude는 답을 만들기 전에 입력된 프롬프트를 내부적으로 처리하는 과정을 거칩니다. 이 단계를 프리필이라고 하는데, 긴 프롬프트일수록 ...</title><link>https://www.threads.net/@choi.openai/post/DdDuvCQD3NE</link><description>2/ Claude는 답을 만들기 전에 입력된 프롬프트를 내부적으로 처리하는 과정을 거칩니다. 이 단계를 프리필이라고 하는데, 긴 프롬프트일수록 여기서 많은 비용이 발생합니다.
-
-프롬프트 캐싱은 한 번 처리한 내용을 저장해뒀다가, 다음 요청이 같은 내용으로 시작하면 다시 계산하지 않고 불러오는 기능입니다.
-
-Fable 5.1 기준 캐시 읽기는 100만 토큰당 0.25달러입니다. 같은 입력을 처음부터 다시 처리할 때는 10달러라 차이가 큽니다.
-
-다만 캐시는 같은 모델에서만 쓸 수 있고, 저장된 앞부분이 바이트 단위까지 같아야 하며, 유지 시간도 정해져 있습니다.
-
-그래서 앤트로픽은 시스템 지침과 도구 정의처럼 잘 바뀌지 않는 내용은 앞에 두고, 매 턴 늘어나는 대화 내용은 뒤에 붙이는 방식을 권장합니다.</description><pubDate>Wed, 09 Sep 2026 07:31:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdDuvCQD3NE</guid></item><item><title>3/ 이렇게 구성해도 캐시가 깨지는 경우가 생기는데요.
-앤트로픽 콘솔에서는 캐시 적중률과 함께 어느 부분에서 문제가 생겼는지 확인할 수 있습니다...</title><link>https://www.threads.net/@choi.openai/post/DdDuwEsj2CL</link><description>3/ 이렇게 구성해도 캐시가 깨지는 경우가 생기는데요.
-앤트로픽 콘솔에서는 캐시 적중률과 함께 어느 부분에서 문제가 생겼는지 확인할 수 있습니다.
-
-공개된 예시에서는 일주일간 캐시 읽기 비율이 71.3%였고, 캐시를 사용하지 못한 토큰은 12억 개였습니다. 원인은 메시지, 시스템 프롬프트, 도구, 모델 변경 네 가지로 구분됩니다.
-
-특히 추론 강도는 프롬프트 본문보다 앞에서 처리되기 때문에 대화 중간에 설정을 바꾸면 기존 캐시를 사용할 수 없습니다. 예외적으로 Opus 5와 Fable 5.1 계열은 추론 강도를 바꿔도 캐시를 유지할 수 있습니다.
-
-시스템 프롬프트에 시간이나 ID처럼 요청마다 달라지는 값을 넣거나, 도구 정의의 순서가 바뀌어도 캐시가 깨집니다.
-
-서브에이전트 역시 프롬프트 앞부분과 모델, 추론 강도가 부모 에이전트와 모두 같아야 기존 캐시를 그대로 사용할 수 있습니다.</description><pubDate>Wed, 09 Sep 2026 07:31:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdDuwEsj2CL</guid></item></channel></rss>
+검색, 음성, 코딩 에이전트처럼 모델을 여러 번 호출하는 작업에서는 이런 속도 차이가 꽤 크게 체감될 것 같습니다.</description><pubDate>Wed, 09 Sep 2026 13:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdEX1tXAoSY</guid></item><item><title>발표내용 :
+https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</title><link>https://www.threads.net/@choi.openai/post/DdEX4Q4gv_e</link><description>발표내용 :
+https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</description><pubDate>Wed, 09 Sep 2026 13:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdEX4Q4gv_e</guid></item></channel></rss>
