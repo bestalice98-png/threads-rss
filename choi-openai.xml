@@ -1,5 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 08 Sep 2026 18:10:28 +0000</lastBuildDate><item><title>난 구글이 뭔가 해줄 것이라고 믿는다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 09 Sep 2026 03:19:38 +0000</lastBuildDate><item><title>🚨 속보) 진짜 이건 미친게 맞는 것 같다..
+
+오픈AI가 90년 동안 풀리지 않던 나비에-스토크스 밀레니엄 문제를 풀었다고 발표했습니다.
+
+증...</title><link>https://www.threads.net/@choi.openai/post/DdDJHNUD04N</link><description>🚨 속보) 진짜 이건 미친게 맞는 것 같다..
+
+오픈AI가 90년 동안 풀리지 않던 나비에-스토크스 밀레니엄 문제를 풀었다고 발표했습니다.
+
+증명을 만든 것은 9월 3일 출시된 GPT-6 Astra보다 훨씬 강하다는 비공개 내부 모델이고, 에이전트 1만 개를 88시간 돌려 165쪽 논문과 Lean 형식 증명까지 내놓았습니다.
+
+상금 100만 달러는 받지 않겠다고 했고, 발표문은 발전 속도를 더 신중하게 정하겠다는 문장으로 끝납니다.
+
+이번 발표를 정리했습니다 🧵</description><pubDate>Wed, 09 Sep 2026 02:02:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdDJHNUD04N</guid></item><item><title>1/ 오픈AI가 9월 8일 홈페이지를 통해 나비에-스토크스 밀레니엄 문제의 해답을 공개했습니다.
+
+증명은 오픈AI 내부 모델을 사용하는 여러 에...</title><link>https://www.threads.net/@choi.openai/post/DdDJHlVDwzJ</link><description>1/ 오픈AI가 9월 8일 홈페이지를 통해 나비에-스토크스 밀레니엄 문제의 해답을 공개했습니다.
+
+증명은 오픈AI 내부 모델을 사용하는 여러 에이전트가 함께 만들었고, 오픈AI는 이 모델이 9월 3일 공개한 GPT-6 Astra보다 훨씬 강한 연구용 시스템이라고 설명했습니다.
+
+결과물은 165쪽 논문과 Lean으로 형식 검증한 증명으로 함께 공개됐습니다. 매끄러운 유체가 정지한 상태에서 시작해 매끄러운 외력을 계속 가하면, 전체 에너지는 유한하게 유지되면서도 유한한 시간 안에 속도가 무한대로 커지는 특이점이 생긴다는 내용입니다.
+
+오픈AI는 이 결과가 클레이 수학연구소의 공식 문제에서 (C)와 (D)를 충족한다고 밝혔고, 100만 달러 상금은 청구하지 않겠다고 했습니다.
+
+발표문 마지막에는 현재 이 모델의 능력을 이해하는 데 집중하고 있으며, 사람이 계속 통제하고 책임질 수 있는 AI를 만들기 위해서는 앞으로 발전 속도를 더 신중하게 조절해야 할 수도 있다고 적었습니다.</description><pubDate>Wed, 09 Sep 2026 02:02:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdDJHlVDwzJ</guid></item><item><title>2/ 나비에-스토크스 방정식은 1822년 나비에와 1845년 스토크스가 만든 유체 운동 방정식이고, 날씨 예보와 비행기 날개 설계, 혈관 속 혈...</title><link>https://www.threads.net/@choi.openai/post/DdDJIkfD7sc</link><description>2/ 나비에-스토크스 방정식은 1822년 나비에와 1845년 스토크스가 만든 유체 운동 방정식이고, 날씨 예보와 비행기 날개 설계, 혈관 속 혈류 계산이 모두 이 식으로 이루어집니다.
+
+그런데 200년 가까이 써 온 식인데도 가장 기본적인 질문 하나에 답이 없었거든요. 매끄럽게 시작한 3차원 흐름이 계속 매끄럽게 유지되는지, 아니면 유한한 시간 안에 어느 지점의 속도가 무한대로 커지는 특이점이 생기는지입니다.
+
+2차원에서는 오래전에 답이 나왔지만, 3차원에서는 큰 소용돌이가 작은 소용돌이를 만들며 에너지를 점점 작은 크기로 몰아넣는 작용과 점성이 그 구조를 마찰로 없애는 작용 가운데 무엇이 이기는지 증명하지 못했습니다.
+
+1934년 르레가 거친 형태의 약한 해가 영원히 존재한다는 것까지 증명했고, 2000년 클레이 수학연구소는 이 문제를 7개 밀레니엄 난제에 넣어 각각 100만 달러를 걸었는데요. 26년 동안 풀린 것은 푸앵카레 추측 하나였습니다.</description><pubDate>Wed, 09 Sep 2026 02:02:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdDJIkfD7sc</guid></item><item><title>3/ 클레이의 공식 문제는 네 가지 중 하나만 증명하면 해결로 인정됩니다.
+
+(A)(B)는 외력 없이 매끄러운 흐름이 영원히 유지된다는 증명이고...</title><link>https://www.threads.net/@choi.openai/post/DdDJJLFjzEn</link><description>3/ 클레이의 공식 문제는 네 가지 중 하나만 증명하면 해결로 인정됩니다.
+
+(A)(B)는 외력 없이 매끄러운 흐름이 영원히 유지된다는 증명이고, (C)(D)는 매끄러운 외력을 가했을 때 유한 시간 안에 흐름이 깨지는 사례를 찾는 것입니다.
+
+오픈AI가 증명한 것은 (C)(D)입니다.
+
+모든 점성 계수에서 정지한 유체에 좁은 영역에서만 작용하는 매끄러운 힘을 가하면, 운동에너지는 유한하게 유지되지만 시각 1에서 속도의 최댓값은 무한대로 커집니다. 
+해는 안쪽으로 감기면서 축 방향으로 점점 가늘고 길어지는 소용돌이입니다.
+
+가속, 압력 기울기, 운동량 전달, 점성 항이 모두 커지면서도 서로 정확히 상쇄돼 외력만 매끄럽게 남도록 만드는 것이 가장 어려웠다고 합니다.
+
+외력이 없는 (A)(B)는 여전히 풀리지 않았고, 실제 비행기 설계나 기상 계산이 당장 달라지는 것도 아닙니다.</description><pubDate>Wed, 09 Sep 2026 02:02:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdDJJLFjzEn</guid></item><item><title>🚨 오픈AI가 ChatGPT Images 2.5를 공개했습니다.
+
+생성 지연을 Images 2.0보다 최대 50% 줄였고, 요청한 부분만 고치는...</title><link>https://www.threads.net/@choi.openai/post/DdC_G9CDe-r</link><description>🚨 오픈AI가 ChatGPT Images 2.5를 공개했습니다.
+
+생성 지연을 Images 2.0보다 최대 50% 줄였고, 요청한 부분만 고치는 편집과 여러 번 수정해도 앞선 결과가 유지되는 일관성을 앞세웠습니다.
+
+챗GPT 안에서 직접 그려 넣는 Sketch, 템플릿, 이미지 위 코멘트 편집, 프롬프트 공유가 함께 들어왔고 API에는 Flare와 Sunburst 두 모델이 추가됐습니다.
+
+이번 발표를 정리했습니다 🧵</description><pubDate>Wed, 09 Sep 2026 00:35:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdC_G9CDe-r</guid></item><item><title>1/ 오픈AI가 9월 8일(현지 시간) ChatGPT Images 2.5를 공개했습니다.
+
+ChatGPT Images와 API의 GPT-Imag...</title><link>https://www.threads.net/@choi.openai/post/DdC_OWqjzx6</link><description>1/ 오픈AI가 9월 8일(현지 시간) ChatGPT Images 2.5를 공개했습니다.
+
+ChatGPT Images와 API의 GPT-Image 모델에서는 매주 30억 장이 넘는 이미지가 생성되는데요. 이번 업데이트로 그 기본 모델이 새 버전으로 바뀌었습니다.
+
+ChatGPT에서는 Images 2.5, API에서는 GPT-Image-2.5라는 이름으로 제공됩니다.
+
+참조 사진 속 인물을 다른 배경이나 화풍으로 바꿔도 얼굴과 특징을 더 잘 유지하고, 조명과 질감도 자연스러워졌습니다. 생성 속도는 Images 2.0보다 최대 50% 빨라졌습니다.
+
+아래는 발표 페이지에 실린 예시입니다. 왼쪽의 포토부스 사진을 입력하고, Images 2.5가 같은 인물을 새로운 장면으로 다시 만든 결과가 오른쪽입니다.</description><pubDate>Wed, 09 Sep 2026 00:36:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdC_OWqjzx6</guid></item><item><title>2/ 편집에서는 원하는 부분만 바꾸고 나머지를 유지하는 능력이 좋아졌습니다.
+
+피사체와 배경이 복잡하게 섞여 있어도 지정한 요소만 수정하고, 구...</title><link>https://www.threads.net/@choi.openai/post/DdC_POWj0W7</link><description>2/ 편집에서는 원하는 부분만 바꾸고 나머지를 유지하는 능력이 좋아졌습니다.
+
+피사체와 배경이 복잡하게 섞여 있어도 지정한 요소만 수정하고, 구도와 주변 디테일은 그대로 남깁니다.
+
+긴 대화에서 여러 번 편집할 때도 이전 수정 사항을 더 안정적으로 유지해, 작업을 거듭할수록 화질이 무너지던 문제를 줄였습니다.
+
+API 활용 예시로는 제품 사진에서 상품 하나나 문구만 바꾸면서 브랜드 요소는 유지하는 작업, 전체 에셋을 다시 만들지 않고 필요한 부분만 수정하는 작업이 제시됐습니다.
+
+복잡한 레이아웃과 투명 배경 처리, 실제 정보를 담은 이미지의 정확도도 함께 개선됐습니다.</description><pubDate>Wed, 09 Sep 2026 00:36:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdC_POWj0W7</guid></item><item><title>3/ 모델 업데이트와 함께 ChatGPT에는 새로운 이미지 기능 네 가지가 추가됐습니다. 오픈AI가 가장 먼저 소개한 기능은 Sketch입니다....</title><link>https://www.threads.net/@choi.openai/post/DdC_H8tjha4</link><description>3/ 모델 업데이트와 함께 ChatGPT에는 새로운 이미지 기능 네 가지가 추가됐습니다. 오픈AI가 가장 먼저 소개한 기능은 Sketch입니다.
+
+ChatGPT 입력창에 ‘Sketch’를 입력하면 그림판이 열리고, 직접 그린 스케치를 이미지 생성에 참조로 사용할 수 있습니다.
+
+방 배치도나 만들고 싶은 옷의 윤곽선처럼 대략적인 그림을 그린 뒤, 원하는 스타일과 세부 내용을 글로 적으면 이를 완성된 이미지로 만들어줍니다.
+
+말로 설명하기 어려운 구도나 배치를 직접 그려 전달할 수 있어, 프롬프트를 길게 작성하지 않아도 됩니다.
+
+그림 실력과 관계없이 아이디어를 시각적으로 전달할 수 있는 입력 방식이며, 발표와 함께 ChatGPT 전체에 적용됐습니다.</description><pubDate>Wed, 09 Sep 2026 00:36:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdC_H8tjha4</guid></item><item><title>난 구글이 뭔가 해줄 것이라고 믿는다.
 
 구글 DeepMind가 인간 DNA에서 일어날 수 있는 90억 가지 단일 염기 변화를 AI로 미리 분석...</title><link>https://www.threads.net/@choi.openai/post/DdB3SHyjW9K</link><description>난 구글이 뭔가 해줄 것이라고 믿는다.
 
@@ -16,51 +93,4 @@ https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possibl
 뭔가 이미지 생성 모델이 “한국어”를 제대로 그리지 못하다 뭔가 그 임계점을 넘긴 순간의 와우 모먼트가 재현되는 것 같음.
 기존 언어모델이 지능적으로는 압도했다지만 뭔가 모르게 막힌 부분을 이번에 확 뚫어준 느낌.
 나노 바나나 2와 GPT IMAGE 가 그랬듯 다음 세대 모델은 지금 느껴지는 그 작은 어색함도 해결해줄 것 같다.
-그리고 거기에 지속학습이 붙는다면, 그 누구도 AGI가 아니라고 말하지는 못할 것 같다.</description><pubDate>Tue, 08 Sep 2026 13:16:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBxeRzD1k1</guid></item><item><title>🚨 속보) 1757년 오일러가 세운 방정식이 AI 시대에 들어 한 달 만에 뚫렸습니다.
-
-2000년 클레이 수학연구소가 7개 난제에 각각 100...</title><link>https://www.threads.net/@choi.openai/post/DdBYMWXD0XH</link><description>🚨 속보) 1757년 오일러가 세운 방정식이 AI 시대에 들어 한 달 만에 뚫렸습니다.
-
-2000년 클레이 수학연구소가 7개 난제에 각각 100만 달러를 걸었고, 26년 동안 풀린 건 하나뿐이었습니다. 그런데 그중 나비에-스토크스와 맞닿아 있는 3차원 오일러 방정식에서 먼저 돌파구가 나왔습니다.
-
-증명은 8월 15일 완성됐고, 22일에는 기계 검증까지 통과했습니다.
-다만 논문 상태는 작성자 본인 표현대로 아직 “AI slop”에 가깝다고 합니다.
-
-버크마스터와 알푀게가 LLM을 활용해 3차원 오일러 방정식의 유한시간 폭발을 증명하고, 오픈AI와의 통화 기록까지 공개한 이번 발표를 정리했습니다 🧵</description><pubDate>Tue, 08 Sep 2026 09:35:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBYMWXD0XH</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
-
-1. 나비에-스토크스는 물·공기 흐름 방정식으로, 매끄러운 흐름이 유한 시간 안에 무한대...</title><link>https://www.threads.net/@choi.openai/post/DdBYPqrD_S6</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
-
-1. 나비에-스토크스는 물·공기 흐름 방정식으로, 매끄러운 흐름이 유한 시간 안에 무한대로 터질 수 있는지가 100만 달러 밀레니엄 난제. 3차원에선 소용돌이가 점성을 이겨 26년간 미해결
-2. 클레이 규칙은 매끄러운 외력 아래 해가 깨져도 정답으로 인정. 매끄러운 힘으로 터뜨린 사람은 없었음
-3. NYU 버크마스터와 앤트로픽의 알푀게가 LLM으로 8월 15일 오일러에서 매끄러운 힘 폭발을 증명, 22일 Lean 검증 통과. 타오는 나비에-스토크스까지 갈 수 있다고 봄
-4. 9월 3일 소문이 돌자 오픈AI가 접촉, 6일 통화에서 내부 모델의 나비에-스토크스 증명을 내세워 다음 날 공개와 알푀게 저자 삭제를 제안, 거절하자 왜 커리어를 망치려 하느냐고 함
-5. 버크마스터는 논문이 AI 슬롭인 채로 8일 공개, 딥블루-카스파로프의 순간이라 부름</description><pubDate>Tue, 08 Sep 2026 09:36:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBYPqrD_S6</guid></item><item><title>2/ 오일러 방정식은 1757년 오일러가, 나비에-스토크스 방정식은 1822년 나비에와 1845년 스토크스가 만든 유체 운동 방정식입니다.
-
-물...</title><link>https://www.threads.net/@choi.openai/post/DdBYSb0j7FQ</link><description>2/ 오일러 방정식은 1757년 오일러가, 나비에-스토크스 방정식은 1822년 나비에와 1845년 스토크스가 만든 유체 운동 방정식입니다.
-
-물과 공기의 흐름을 계산하는 식이라 날씨 예보, 비행기 날개, 혈관 속 혈류까지 다양한 분야에 쓰입니다. 두 식의 가장 큰 차이는 점성입니다. 나비에-스토크스에는 유체의 끈적임을 나타내는 항이 있지만 오일러에는 없습니다.
-
-문제는 200년 넘게 연구했는데도 아주 기본적인 질문 하나가 풀리지 않았다는 점입니다. 매끄럽게 시작한 흐름이 계속 매끄러운지, 아니면 유한한 시간 안에 속도나 소용돌이가 무한대로 커지는 ‘폭발’이 생길 수 있는지입니다.
-
-클레이 수학연구소는 2000년 이 문제를 포함한 7개 난제에 각각 100만 달러를 걸었습니다. 26년이 지난 지금까지 풀린 것은 푸앵카레 추측 하나뿐이고, 페렐만은 상금을 받지 않았습니다.</description><pubDate>Tue, 08 Sep 2026 09:36:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBYSb0j7FQ</guid></item><item><title>3/ 어려운 이유는 유체 안에서 서로 반대되는 두 작용이 동시에 일어나기 때문입니다.
-
-소용돌이는 더 작은 소용돌이를 만들며 에너지를 점점 작은...</title><link>https://www.threads.net/@choi.openai/post/DdBYU2rj4mT</link><description>3/ 어려운 이유는 유체 안에서 서로 반대되는 두 작용이 동시에 일어나기 때문입니다.
-
-소용돌이는 더 작은 소용돌이를 만들며 에너지를 점점 작은 크기로 몰아넣고, 점성은 그 작은 구조를 마찰로 없앱니다.
-
-2차원에서는 이 균형이 비교적 잘 정리돼 오래전에 답이 나왔습니다. 하지만 3차원에서는 크기가 작아질수록 소용돌이를 키우는 효과가 더 강해질 수 있어, 에너지 보존만으로는 폭발이 생기는지 막을 수 있는지 판단하기 어렵습니다.
-
-1934년 르레는 해가 영원히 존재한다는 결과를 얻었지만, 아주 거친 형태의 ‘약한 해’에 한정됐습니다.
-
-타오는 2014년 나비에-스토크스를 변형한 평균화 방정식에서는 실제로 유한시간 폭발이 가능하다는 것을 보였습니다. 기존의 에너지 추정만으로는 원래 문제를 해결하기 어렵다는 점을 보여준 결과였습니다.</description><pubDate>Tue, 08 Sep 2026 09:36:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBYU2rj4mT</guid></item><item><title>이제 로봇이 로봇을 만듭니다..
-
-Xpeng이 휴머노이드 로봇 IRON을 생산하는 자동화 생산라인을 가동했습니다.
-
-Xiaopeng He CEO...</title><link>https://www.threads.net/@choi.openai/post/DdBGem7D-w8</link><description>이제 로봇이 로봇을 만듭니다..
-
-Xpeng이 휴머노이드 로봇 IRON을 생산하는 자동화 생산라인을 가동했습니다.
-
-Xiaopeng He CEO에 따르면 로봇이 로봇을 생산하는 방식으로 운영되며, 첫 IRON은 조립을 마친 뒤 스스로 걸어서 생산라인을 빠져나왔습니다.
-
-IRON은 2026년 말 대량생산에 들어갈 예정이며, 초기에는 매장과 사업장에 투입된 뒤 2027년부터 중국과 해외에 공급될 계획이라고 하는데요.
-
-중국의 인해전술이 이제 기해전술로 바뀌게 되는 것일까요.. 대단하네요.</description><pubDate>Tue, 08 Sep 2026 07:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBGem7D-w8</guid></item></channel></rss>
+그리고 거기에 지속학습이 붙는다면, 그 누구도 AGI가 아니라고 말하지는 못할 것 같다.</description><pubDate>Tue, 08 Sep 2026 13:16:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdBxeRzD1k1</guid></item></channel></rss>
