@@ -1,72 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 10 Sep 2026 12:44:01 +0000</lastBuildDate><item><title>안드로이드 앱 자동화도 이제 말로 시키는 시대가 왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 10 Sep 2026 17:57:08 +0000</lastBuildDate><item><title>드디어 Windows에서도 Gemini를 앱으로 사용할 수 있습니다.
 
-구글이 ARTEMIS를 공개했습니다.
-자연어로 “앱을 열고 계정을 만든 뒤 설정을 ...</title><link>https://www.threads.net/@choi.openai/post/DdGu9l6jsc7</link><description>안드로이드 앱 자동화도 이제 말로 시키는 시대가 왔습니다.
+Windows용 Gemini가 출시됐는데요. 작업 중 Alt + Spac...</title><link>https://www.threads.net/@choi.openai/post/DdHYDOSDWOL</link><description>드디어 Windows에서도 Gemini를 앱으로 사용할 수 있습니다.
 
-구글이 ARTEMIS를 공개했습니다.
-자연어로 “앱을 열고 계정을 만든 뒤 설정을 바꾸고 결과까지 확인해줘”라고 지시하면 실제 안드로이드 화면을 조작해 작업을 수행합니다.
+Windows용 Gemini가 출시됐는데요. 작업 중 Alt + Space만 누르면 바로 Gemini를 불러와 문서 요약, 초안 수정, 아이디어 정리부터 이미지·동영상 생성까지 할 수 있습니다.
 
-테스트 자동화, 로그 수집, 오류 분석까지 지원하며 Codex, Claude Code, Antigravity 같은 AI 코딩 도구와도 연동할 수 있습니다.
+Gmail, Drive, Docs, Calendar와도 연결되고, Gemini Spark를 이용하면 여러 단계의 작업도 맡길 수 있습니다.
 
-앱 개발 과정에서 사람이 직접 눌러가며 확인하던 작업이 크게 줄어들 것 같습니다.</description><pubDate>Thu, 10 Sep 2026 11:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdGu9l6jsc7</guid></item><item><title>오디오계의 나노바나나가 등장했습니다.
+브라우저를 열어 AI를 쓰는 방식에서, 이제는 컴퓨터 작업 중 바로 AI를 호출하는 방식으로 바뀌는 것 같습니다.</description><pubDate>Thu, 10 Sep 2026 17:29:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdHYDOSDWOL</guid></item><item><title>다운로드 :
+https://gemini.google/desktop/</title><link>https://www.threads.net/@choi.openai/post/DdHYEcGDSZg</link><description>다운로드 :
+https://gemini.google/desktop/</description><pubDate>Thu, 10 Sep 2026 17:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdHYEcGDSZg</guid></item><item><title>월드 모델이 이제 개인용 GPU에서도 실시간으로 돌아갑니다.
 
-Tencent Hunyuan이 음성 생성·편집 모델 AuK를 오픈소스로 공개했습니다.
-텍스트 한 줄로 음...</title><link>https://www.threads.net/@choi.openai/post/DdGkjovD9ts</link><description>오디오계의 나노바나나가 등장했습니다.
+Robbyant가 LingBot-World 2.0 Small을 오픈소스로 공개했습...</title><link>https://www.threads.net/@choi.openai/post/DdHN3PNEpQN</link><description>월드 모델이 이제 개인용 GPU에서도 실시간으로 돌아갑니다.
 
-Tencent Hunyuan이 음성 생성·편집 모델 AuK를 오픈소스로 공개했습니다.
-텍스트 한 줄로 음성을 만들고, 특정 단어만 바꾸거나 화자 목소리·감정·속도·음높이를 수정할 수 있습니다.
+Robbyant가 LingBot-World 2.0 Small을 오픈소스로 공개했습니다.
+1.3B 크기의 모델 하나로 일반 소비자용 GPU에서 실시간으로 세계를 생성할 수 있습니다.
 
-노이즈 제거와 여러 화자 분리까지 하나의 1.5B 모델에서 처리하며, AuK-Flash는 4단계 추론으로 기존 버전보다 약 4.5배 빠르게 동작합니다.
+캐릭터 이동이나 카메라 조작은 물론 전투, 마법, 총격, 날씨 변화 같은 입력에도 바로 반응하며, 몇 초짜리 영상으로 끝나는 게 아니라 장면을 계속 이어서 생성합니다.
 
-음성 편집도 이미지 편집처럼 “말로 수정하는” 방향으로 가는 것 같네요.</description><pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdGkjovD9ts</guid></item><item><title>깃허브 :
-https://auk-project.github.io/</title><link>https://www.threads.net/@choi.openai/post/DdGkk1MjxsA</link><description>깃허브 :
-https://auk-project.github.io/</description><pubDate>Thu, 10 Sep 2026 10:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdGkk1MjxsA</guid></item><item><title>🚨 딥시크가 V4.1-Flash를 MIT 라이선스 오픈웨이트로 공개했습니다.
+전체 환경에서는 720p·60fps까지 지원하며 14B Causal Pretrain과 Bidirectional 모델도 함께 공개됐습니다.
 
-한 달 전 정식판을 낸 1.6조 파라미터 V4-Pro는 서비스를 ...</title><link>https://www.threads.net/@choi.openai/post/DdGaTIED7HV</link><description>🚨 딥시크가 V4.1-Flash를 MIT 라이선스 오픈웨이트로 공개했습니다.
+월드 모델이 거대한 서버에서 돌아가는 연구용 기술을 넘어, 개인 PC에서 게임이나 시뮬레이션을 직접 만드는 단계까지 내려오고 있네요.</description><pubDate>Thu, 10 Sep 2026 16:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdHN3PNEpQN</guid></item><item><title>허깅페이스 :
+https://huggingface.co/collections/robbyant/lingbot-world-v2</title><link>https://www.threads.net/@choi.openai/post/DdHN4eMEnVm</link><description>허깅페이스 :
+https://huggingface.co/collections/robbyant/lingbot-world-v2</description><pubDate>Thu, 10 Sep 2026 16:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdHN4eMEnVm</guid></item><item><title>와.. 특이점이 정말 다가온 것 같습니다.
 
-한 달 전 정식판을 낸 1.6조 파라미터 V4-Pro는 서비스를 단계적으로 끝내기로 했습니다.
+오픈AI가 ‘호지 추측(Hodge Conjecture)’ 검증에 가까워졌고, 오픈AI 또는 앤트로픽...</title><link>https://www.threads.net/@choi.openai/post/DdHG64_D6uI</link><description>와.. 특이점이 정말 다가온 것 같습니다.
 
-V4.1-Flash는 코딩 에이전트 평가에서 Claude Opus 5와 GPT-5.6 Sol을 앞섰고, 출력 가격은 Opus 5의 20분의 1입니다.
+오픈AI가 ‘호지 추측(Hodge Conjecture)’ 검증에 가까워졌고, 오픈AI 또는 앤트로픽이 ‘버치-스위너턴다이어 추측(Birch–Swinnerton-Dyer Conjecture)’도 풀어가고 있다는 이야기가 나오고 있습니다.
 
-이번 발표를 정리했습니다 🧵</description><pubDate>Thu, 10 Sep 2026 08:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdGaTIED7HV</guid></item><item><title>1/ 딥시크가 9월 10일 오후 DeepSeek-V4.1-Flash를 공개했습니다.
+호지 추측은 1941년 제기된 문제로, 복잡한 기하학적 공간의 구조를 방정식으로 설명할 수 있는지를 다루고, 버치-스위너턴다이어 추측은 1960년대부터 이어진 난제로 타원곡선의 해가 얼마나 존재하는지를 예측하는 문제인데요.
 
-총 5,520억 개(552B) 파라미터를 가진 MoE 모델...</title><link>https://www.threads.net/@choi.openai/post/DdGaT2wj9gB</link><description>1/ 딥시크가 9월 10일 오후 DeepSeek-V4.1-Flash를 공개했습니다.
+둘 다 클레이 수학연구소가 선정한 7대 밀레니엄 문제로, 해결하면 각각 상금 100만 달러가 걸려 있습니다.
 
-총 5,520억 개(552B) 파라미터를 가진 MoE 모델로, 입력을 처리할 때는 약 80억 개, 답을 생성할 때는 약 160억 개만 활성화하는 새 구조를 적용했습니다. 이미지 입력도 처음으로 직접 지원합니다.
+아직 공식 검증된 소식은 아니지만 60~80년 된 수학 난제들아 AI로 풀리고 있습니다.
+곧 소식이 발표될 것 같습니다.</description><pubDate>Thu, 10 Sep 2026 15:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdHG64_D6uI</guid></item><item><title>앤트로픽이 AI가 2030년 미국 경제를 어떻게 바꿀지 계산한 결과를 공개했습니다.
 
-가중치는 허깅페이스에 MIT 라이선스로 공개됐고, 51쪽 분량의 기술 리포트도 함께 나왔습니다. API 모델명은 deepseek-flash이며 새 요금은 한국시간 오후 1시부터 적용됐습니다.
+극단 시나리오에서는 GDP가 32.4% 늘지만 지식노동자 ...</title><link>https://www.threads.net/@choi.openai/post/DdHDdUuj17H</link><description>앤트로픽이 AI가 2030년 미국 경제를 어떻게 바꿀지 계산한 결과를 공개했습니다.
 
-딥시크는 여러 평가에서 V4.1-Flash가 V4-Pro보다 성능과 속도는 높이고 비용은 낮췄다고 밝혔습니다.
+극단 시나리오에서는 GDP가 32.4% 늘지만 지식노동자 실업률은 17.9%, 임금은 11.5% 감소합니다.
 
-이에 따라 9월 14일부터 V4.1-Pro가 출시되기 전까지 기존 V4-Pro 요청도 V4.1-Flash로 처리하고, 요금은 Flash 기준으로 받습니다.</description><pubDate>Thu, 10 Sep 2026 08:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdGaT2wj9gB</guid></item><item><title>2/ 코딩 에이전트 평가인 DeepSWE v1.1에서 V4.1-Flash는 74.2%를 기록해 Claude Opus 5의 74.0%, GPT-5...</title><link>https://www.threads.net/@choi.openai/post/DdGaVAhj0FW</link><description>2/ 코딩 에이전트 평가인 DeepSWE v1.1에서 V4.1-Flash는 74.2%를 기록해 Claude Opus 5의 74.0%, GPT-5.6 Sol의 73.0%, 자사 V4-Pro의 62.7%를 모두 앞섰습니다.
+그런데 이미 현실에서 비슷한 변화가 나타나고 있습니다. 🧵</description><pubDate>Thu, 10 Sep 2026 14:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdHDdUuj17H</guid></item><item><title>1/ 앤트로픽 경제팀이 9월 9일 ‘2030 미국 경제 시나리오 탐색기’를 공개했습니다.
 
-6주 전 공개된 V4-Flash 정식판의 54.4%와 비교하면 약 20%p 오른 점수입니다.
+AI가 성장률과 고용, 임금에 어떤 영향을 줄지 계산...</title><link>https://www.threads.net/@choi.openai/post/DdHDd2fj__E</link><description>1/ 앤트로픽 경제팀이 9월 9일 ‘2030 미국 경제 시나리오 탐색기’를 공개했습니다.
 
-업무 자동화 평가인 Automation-Bench에서도 54.8%로 Opus 5의 50.3%, Sol의 45.8%보다 높았습니다.
+AI가 성장률과 고용, 임금에 어떤 영향을 줄지 계산하는 모델로, 사용자가 직접 가정을 넣으면 그 조건에서 2030년 미국 경제가 어떻게 달라지는지 볼 수 있습니다.
 
-보안 취약점을 직접 재현하는 CyberGym에서는 88.1%를 기록해 Sol의 84.5%를 넘어섰습니다.
+같은 날 앤톤 코리넥과 채드 존스가 공동 작성한 기술 리포트도 나왔고, 외부 경제학자 18명이 초고를 검토했습니다.
 
-세 평가에는 공통점이 있습니다. 모델이 직접 명령을 실행하고 결과를 확인한 뒤 다음 행동을 결정해야 합니다.
+모델은 미국 노동부의 직업별 업무 분류를 바탕으로 각 직업을 세부 업무로 나눈 뒤, 2026년부터 2030년까지 AI 도입이 노동시장과 생산성에 미치는 영향을 시뮬레이션합니다.
 
-딥시크가 이번 리포트에서 강화학습용 실행 환경을 집중적으로 구축했다고 밝힌 코딩 에이전트와 업무 에이전트 분야가 실제 평가 결과에서도 크게 개선된 모습입니다.</description><pubDate>Thu, 10 Sep 2026 08:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdGaVAhj0FW</guid></item><item><title>3/ 반대로 에이전트 평가라고 해서 모두 앞선 것은 아닙니다.
+제가 읽으면서 가장 많이 비교하게 된 것은 이 모델이 그리는 2030년의 모습과 지금 미국 경제 사이의 거리였습니다.</description><pubDate>Thu, 10 Sep 2026 14:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdHDd2fj__E</guid></item><item><title>2/ 이 모델은 직업 전체가 아니라 그 안에서 하는 업무를 하나씩 나눠서 봅니다.
 
-특히, 소프트웨어 개발과 머신러닝, 과학, 시스템 운영 등 여러 단계의 터미널 ...</title><link>https://www.threads.net/@choi.openai/post/DdGaWBkD0iC</link><description>3/ 반대로 에이전트 평가라고 해서 모두 앞선 것은 아닙니다.
+간호사라면 회진, 채혈, 응급 분류, 활력징후 기록이 각각 ...</title><link>https://www.threads.net/@choi.openai/post/DdHDeUJj1b-</link><description>2/ 이 모델은 직업 전체가 아니라 그 안에서 하는 업무를 하나씩 나눠서 봅니다.
 
-특히, 소프트웨어 개발과 머신러닝, 과학, 시스템 운영 등 여러 단계의 터미널 작업을 수행하는 Terminal-Bench 4.0에서는 V4.1-Flash는 31.2%로 Opus 5의 51.8%보다 20%p 이상 낮았습니다.
+간호사라면 회진, 채혈, 응급 분류, 활력징후 기록이 각각 하나의 업무입니다.
 
-전문가 수준의 문제를 모은 Humanity's Last Exam에서도 36.8%로 Opus 5의 56.3%에 크게 못 미쳤습니다.
+환자를 씻기는 일은 그대로 남고, 퇴원 안내문 작성이나 원격 모니터링은 사람이 AI를 활용해 더 빠르게 처리합니다. 활력징후 기록은 자동화될 수 있고, 대신 AI가 제안한 치료 계획을 검토하는 새로운 업무도 생깁니다.
 
-다만 딥시크의 비교표에는 9월 첫째 주에 공개된 GPT-6 Astra와 Claude Fable 5.1이 포함되지 않았는데요.
+오픈AI도 지난 4월 비슷한 방식으로 미국 고용의 99.7%를 차지하는 921개 직업을 업무 단위로 분석했었는데요. 그 결과 자동화 위험이 높은 직업 18%, 업무 구성이 바뀌며 줄어들 직업 24%, AI로 성장할 직업 12%, 단기 변화가 적을 직업 46%로 분류했습니다.
 
-오픈AI가 Astra 발표 당시 공개한 Terminal-Bench 4.0 점수는 Astra 57.9%, Fable 5.1 55.8%였습니다.
+결국 같은 직업 안에서도 사라지는 업무와 AI로 빨라지는 업무, 새로 생기는 업무가 동시에 나타납니다. 직업 전체를 하나의 대체 위험 점수로 보는 것보다 업무 단위로 나눠봐야 하는 이유입니다.</description><pubDate>Thu, 10 Sep 2026 14:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdHDeUJj1b-</guid></item><item><title>3/ 업무가 자동화와 증강으로 얼마나 빠르게 이동하는지에 따라 세 가지 시나리오로 나뉩니다.
 
-딥시크 역시 리포트에서 일상적인 업무에서는 미국 최상위 모델과 비슷한 사용 경험을 제공하지만, 고난도 추론이나 예외적인 상황에서는 여전히 격차가 남아 있다고 설명했습니다.</description><pubDate>Thu, 10 Sep 2026 08:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdGaWBkD0iC</guid></item><item><title>구글이 Nano Banana를 아예 이미지 편집 도구로 만들었습니다.
+‘소폭 변화’는 AI가 경제에 미치는 영향이 인터...</title><link>https://www.threads.net/@choi.openai/post/DdHDfg7j8w1</link><description>3/ 업무가 자동화와 증강으로 얼마나 빠르게 이동하는지에 따라 세 가지 시나리오로 나뉩니다.
 
-Google Pics가 Google AI Pro·Ultra와 대부분의 W...</title><link>https://www.threads.net/@choi.openai/post/DdGTbCBCStm</link><description>구글이 Nano Banana를 아예 이미지 편집 도구로 만들었습니다.
+‘소폭 변화’는 AI가 경제에 미치는 영향이 인터넷과 비슷한 수준에 머무는 경우입니다. 
+‘상당한 변화’는 2030년까지 AI가 지식노동 업무의 절반을 수행할 능력을 갖추지만, 실제 현장에서는 그중 일부에만 도입되는 경우입니다.
 
-Google Pics가 Google AI Pro·Ultra와 대부분의 Workspace 비즈니스 고객에게 순차 제공됩니다. 포스터나 SNS 이미지를 만들고, 이미지 속 특정 부분만 골라 수정하거나 글자를 그대로 편집·번역할 수 있습니다.
+‘극단적 변화’에서는 AI가 대부분의 지식노동 업무에서 사람보다 생산적이고, 거의 모든 과정을 스스로 처리합니다. AI가 스스로 AI 연구를 가속하는 재귀적 자기개선과 빠른 사회 도입까지 전제로 합니다.
 
-Docs와 Slides에서는 바로 사용할 수 있고 Drive 연동도 곧 추가됩니다. 이미지 작업도 점점 Workspace 안으로 들어오는 것 같습니다.</description><pubDate>Thu, 10 Sep 2026 07:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdGTbCBCStm</guid></item><item><title>발표내용 :
-https://blog.google/products-and-platforms/products/workspace/google-pics</title><link>https://www.threads.net/@choi.openai/post/DdGTcJqicyi</link><description>발표내용 :
-https://blog.google/products-and-platforms/products/workspace/google-pics</description><pubDate>Thu, 10 Sep 2026 07:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdGTcJqicyi</guid></item></channel></rss>
+GDP는 세 시나리오 모두 2027년까지 비슷하게 움직이다 이후부터 차이가 커집니다. 2030년에는 각각 34.1조, 36.3조, 44.4조 달러까지 벌어집니다.
+
+따라서 지금 고용 지표만 보고 어느 시나리오로 가고 있는지 판단하기는 이릅니다.
+모델에서도 눈에 띄는 차이는 2027년 이후부터 나타납니다.</description><pubDate>Thu, 10 Sep 2026 14:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdHDfg7j8w1</guid></item></channel></rss>
