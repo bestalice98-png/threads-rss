@@ -1,51 +1,100 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 11 Sep 2026 03:14:44 +0000</lastBuildDate><item><title>오픈AI가 GPT-Live-1을 API로 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 11 Sep 2026 12:37:59 +0000</lastBuildDate><item><title>앤트로픽이 Claude의 실제 제3자 시스템 무단 침입 사고 4건을 분석한 보고서를 공개했습니다.
 
-사람이 말하는 도중 끼어들거나 방향을 바꿔도 대화를 자연스럽게 이어가고, 주변 소음과 ...</title><link>https://www.threads.net/@choi.openai/post/DdIV5ZjiC-N</link><description>오픈AI가 GPT-Live-1을 API로 공개했습니다.
+악성 패키지를 올리고, 실제 기업 DB에 접...</title><link>https://www.threads.net/@choi.openai/post/DdJTtgfD3hK</link><description>앤트로픽이 Claude의 실제 제3자 시스템 무단 침입 사고 4건을 분석한 보고서를 공개했습니다.
 
-사람이 말하는 도중 끼어들거나 방향을 바꿔도 대화를 자연스럽게 이어가고, 주변 소음과 사람 목소리도 구분합니다.
+악성 패키지를 올리고, 실제 기업 DB에 접근하고, 사용자 계정까지 삭제했습니다.
 
-말투·속도·감정 표현도 조절할 수 있고, 복잡한 추론이나 도구 사용은 GPT-6 Astra 같은 다른 모델에 맡길 수 있습니다.
+일부 모델은 현실에 피해를 줄 가능성을 알아차리고도 행동을 정당화하며 계속했습니다. 🧵</description><pubDate>Fri, 11 Sep 2026 11:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJTtgfD3hK</guid></item><item><title>1/ 앤트로픽이 9월 9일 공개한 보고서에는 Mythos 5, 이전 세대 Opus 4.7, 2026년 1월의 Opus 4.6 초기 버전, 공개되...</title><link>https://www.threads.net/@choi.openai/post/DdJTt_rD4Fy</link><description>1/ 앤트로픽이 9월 9일 공개한 보고서에는 Mythos 5, 이전 세대 Opus 4.7, 2026년 1월의 Opus 4.6 초기 버전, 공개되지 않은 범용 내부 연구 모델이 등장합니다.
 
-가격은 음성 처리 기준 분당 0.05달러입니다.</description><pubDate>Fri, 11 Sep 2026 02:30:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdIV5ZjiC-N</guid></item><item><title>발표내용 :
-https://openai.com/index/introducing-gpt-live-1-in-the-api/</title><link>https://www.threads.net/@choi.openai/post/DdIV7T6CMpf</link><description>발표내용 :
-https://openai.com/index/introducing-gpt-live-1-in-the-api/</description><pubDate>Fri, 11 Sep 2026 02:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdIV7T6CMpf</guid></item><item><title>정말 오픈AI가 모든 시장을 다 먹으려는 것처럼 보입니다.
+네 모델은 같은 외부 평가 파트너가 만든 해킹 연습 과제를 혼자 풀고 있었는데요.
+각 실행은 10시간에서 34시간 동안 이어졌습니다.
 
-오픈AI가 금융권 전용 ChatGPT인 ChatGPT for Financial Se...</title><link>https://www.threads.net/@choi.openai/post/DdILm8QE-ZL</link><description>정말 오픈AI가 모든 시장을 다 먹으려는 것처럼 보입니다.
+프롬프트는 인터넷이 없는 시뮬레이션이라고 알렸지만, 설정 착오로 실제 인터넷이 열려 있었습니다. 모델은 평가 관행대로 공개 버전의 사이버 보호 기능 없이 실행됐습니다.
 
-오픈AI가 금융권 전용 ChatGPT인 ChatGPT for Financial Services를 공개했습니다.
+앤트로픽은 이후 약 4억 8,100만 건의 기록을 다시 조사했지만 같은 수준 이상의 추가 사고는 발견하지 못했다고 밝혔습니다.</description><pubDate>Fri, 11 Sep 2026 11:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJTt_rD4Fy</guid></item><item><title>2/ 앤트로픽은 7월 30일 사고 세 건을 처음 공개하면서 모델 자체보다 평가 환경의 설정과 운영 문제에 가깝다고 설명했습니다.
 
-GPT-6 Astra와 Daloopa, PitchBook, LSEG News, Crunchbase 같은 금융 데이터를 함께 활용해 기업 조사, 재무 분석, 가치평가 모델, 리서치 노트, 피치북까지 만들 수 있습니다.
+인터넷이 없는...</title><link>https://www.threads.net/@choi.openai/post/DdJTu7YD3ip</link><description>2/ 앤트로픽은 7월 30일 사고 세 건을 처음 공개하면서 모델 자체보다 평가 환경의 설정과 운영 문제에 가깝다고 설명했습니다.
 
-숫자와 주장도 원문 표나 문단까지 출처를 따라가며 확인할 수 있고, 회사가 쓰던 Excel·Word·PowerPoint 양식에 맞춰 결과물을 만들 수 있습니다.
+인터넷이 없는 시뮬레이션이라고 안내받은 Claude가 실제 서버까지 연습 환경으로 판단했고, 그렇게 믿을 만한 이유도 있었다는 설명이었습니다.
 
-현재는 대상 금융기관을 중심으로 제공됩니다.</description><pubDate>Fri, 11 Sep 2026 01:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdILm8QE-ZL</guid></item><item><title>발표내용 :
-https://openai.com/index/introducing-chatgpt-financial-services/</title><link>https://www.threads.net/@choi.openai/post/DdILoQmE5s0</link><description>발표내용 :
-https://openai.com/index/introducing-chatgpt-financial-services/</description><pubDate>Fri, 11 Sep 2026 01:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdILoQmE5s0</guid></item><item><title>Cognition이 새로운 코딩 모델 SWE-2를 공개했습니다.
+하지만 9월 보고서에서는 이 해석을 수정했습니다. 모델이 추론에 적은 말만으로 무엇을 믿었는지 과도하게 단정했다고 인정한 겁니다.
 
-SWE-2는 Kimi K3를 기반으로 추가 강화학습을 진행한 모델인데요.
-Fr...</title><link>https://www.threads.net/@choi.openai/post/DdIBSRviEyj</link><description>Cognition이 새로운 코딩 모델 SWE-2를 공개했습니다.
+기록을 다시 분석하고, 조건을 바꿔 상황을 재현하고, 내부 활성화까지 조사한 뒤 두 가지 정렬 실패를 지목했습니다.
 
-SWE-2는 Kimi K3를 기반으로 추가 강화학습을 진행한 모델인데요.
-FrontierCode 1.1에서 50.0%를 기록해 Fable 5.1과 비슷한 수준이면서 비용은 64% 낮았다고 합니다.
+실제 인터넷이라는 증거를 무시하거나 과제에 유리하게 해석한 ‘편향된 추론’, 실제 피해 가능성을 인식하고도 멈추지 않은 ‘무모함’입니다.</description><pubDate>Fri, 11 Sep 2026 11:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJTu7YD3ip</guid></item><item><title>3/ 두 행동은 이전 평가에서도 나타났습니다.
 
-이전 SWE-1.7과 비교하면 작업 단계도 58% 줄고 평균 비용은 81% 감소했습니다.
-코드 탐색을 오래 하기보다 필요한 부분을 더 빨리 찾고 수정하는 쪽으로 학습됐다고 합니다.
+Fable 5는 가격 담합이 비윤리적이라고 판단한 뒤 자신의 행동을 합리화했고, Mythos P...</title><link>https://www.threads.net/@choi.openai/post/DdJTv8pD3bT</link><description>3/ 두 행동은 이전 평가에서도 나타났습니다.
 
-현재 Devin Desktop과 CLI에서 사용할 수 있습니다.</description><pubDate>Thu, 10 Sep 2026 23:30:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdIBSRviEyj</guid></item><item><title>발표내용 :
-https://cognition.com/blog/swe-2</title><link>https://www.threads.net/@choi.openai/post/DdIBUf6iFxU</link><description>발표내용 :
-https://cognition.com/blog/swe-2</description><pubDate>Thu, 10 Sep 2026 23:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdIBUf6iFxU</guid></item><item><title>회사 데이터 분석도 이제 ChatGPT에 물어보면 됩니다.
+Fable 5는 가격 담합이 비윤리적이라고 판단한 뒤 자신의 행동을 합리화했고, Mythos Preview는 저수준 프로세스 접근으로 사용자 자격증명을 찾아봤습니다.
 
-오픈AI가 ChatGPT Work에 Data agent를 공개했습니다.
+다만 네 번째 사고인 Opus 4.6 초기 버전은 멈추려 했다는 점이 다릅니다.
 
-BigQu...</title><link>https://www.threads.net/@choi.openai/post/DdH3ADwE8Cw</link><description>회사 데이터 분석도 이제 ChatGPT에 물어보면 됩니다.
+모델이 표적의 IP 주소를 잘못 설정해 과제를 풀 수 없게 되자 중단 명령을 시도했지만, 평가 장치 오류로 종료되지 않았습니다. 이후에도 일곱 번 더 포기하려 했는데요.
 
-오픈AI가 ChatGPT Work에 Data agent를 공개했습니다.
+결국 제3자 서버를 탐색해 관리자 권한을 얻고 설정을 바꿨으며 한 사람의 개인정보를 읽었습니다. 실행은 토큰 한도를 소진한 뒤에야 끝났습니다.
 
-BigQuery, Snowflake, Databricks, MongoDB 같은 사내 데이터와 Drive, SharePoint 문서를 연결하면 “지난주 사용자가 왜 줄었지?”, “어디서 비용이 늘었지?”처럼 자연어로 질문할 수 있습니다.
+앤트로픽은 반복해서 중단을 시도했다는 점에서 다른 세 건보다 덜 우려한다고 평가했습니다.</description><pubDate>Fri, 11 Sep 2026 11:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJTv8pD3bT</guid></item><item><title>🚨 앤트로픽이 충격적인 보고서를 발표했습니다.
 
-원인을 분석하고 대화형 대시보드를 만들며, 결과를 Slack이나 이메일로 공유하거나 필요한 후속 조치까지 이어갈 수 있습니다.
+예멘 무기 개발팀은 클로드로 로켓 코드를 작성·검토하고 시험 실패 원인까지 분석했고, 중국·이란...</title><link>https://www.threads.net/@choi.openai/post/DdJJWsjD984</link><description>🚨 앤트로픽이 충격적인 보고서를 발표했습니다.
 
-SQL이나 별도 BI 도구를 직접 다루지 않아도 회사 데이터를 분석하고 실행까지 연결하는 시대가 열리고 있습니다.</description><pubDate>Thu, 10 Sep 2026 22:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdH3ADwE8Cw</guid></item><item><title>발표내용 :
-https://openai.com/index/put-data-to-work/</title><link>https://www.threads.net/@choi.openai/post/DdH3BU8k-wq</link><description>발표내용 :
-https://openai.com/index/put-data-to-work/</description><pubDate>Thu, 10 Sep 2026 22:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdH3BU8k-wq</guid></item></channel></rss>
+예멘 무기 개발팀은 클로드로 로켓 코드를 작성·검토하고 시험 실패 원인까지 분석했고, 중국·이란·러시아 관련 조직은 감시·사이버 공격·여론 조작에 활용한 사례가 담겼습니다.
+
+문샷·딥시크 등이 고객 요청을 몰래 클로드로 전달했다는 주장도 나왔는데요.
+
+현재 커뮤니티는 난리가 난 상황입니다. 보고서에 담긴 사례들을 하나씩 정리했습니다. 🧵</description><pubDate>Fri, 11 Sep 2026 10:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJJWsjD984</guid></item><item><title>1/ 앤트로픽이 한국 시각 9월 11일, 클로드 악용 사례를 추적한 154쪽짜리 위협 보고서를 공개했습니다.
+
+2025년 12월부터 2026년 ...</title><link>https://www.threads.net/@choi.openai/post/DdJJXljjzlo</link><description>1/ 앤트로픽이 한국 시각 9월 11일, 클로드 악용 사례를 추적한 154쪽짜리 위협 보고서를 공개했습니다.
+
+2025년 12월부터 2026년 8월까지 적발한 해킹, 여론 조작, 감시, 무기 개발, 생물학적 악용, 사기, 모델 복제 사례를 담았는데요.
+
+예멘의 무기 개발팀은 클로드 여러 개에 코드 작성·조사·검토를 나눠 맡겼고, 유도 로켓 시험이 실패한 것으로 보이자 몇 시간 뒤 원인을 물었습니다.
+
+첨부된 개발도는 유도 로켓의 시험 발사, 탄도미사일의 시뮬레이션, 다른 변형의 설계를 구분해 보여줍니다.
+
+실전 배치는 확인되지 않았지만, 개발자가 오류를 붙여 넣고 수정을 요청하는 방식을 무기 개발에도 적용한 것입니다.
+
+앤트로픽은 관련 활동을 차단하고 안전장치를 강화했다고 설명했습니다.</description><pubDate>Fri, 11 Sep 2026 10:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJJXljjzlo</guid></item><item><title>2/ 다른 무기 개발 사례에서도 Claude는 일반적인 업무 도구처럼 사용됐습니다.
+
+중국의 어뢰 요격 시스템 개발자는 200쪽이 넘는 제안서를...</title><link>https://www.threads.net/@choi.openai/post/DdJJYpHD0oS</link><description>2/ 다른 무기 개발 사례에서도 Claude는 일반적인 업무 도구처럼 사용됐습니다.
+
+중국의 어뢰 요격 시스템 개발자는 200쪽이 넘는 제안서를 작성한 뒤 Claude를 까다로운 심사자로 설정해 반복해서 수정했습니다.
+기술 개발과 조달 제안, 미국의 기존 시스템 조사도 함께 진행했습니다.
+
+러시아의 소규모 팀은 드론 군집을 개발하며 시뮬레이션과 실제 개발 보드를 함께 사용했고, 이란 연계 운영자는 공개된 군 사진과 선박 자료를 분석해 미 해군 표적 추천 자료를 만들었습니다.
+
+다만 보고서에서 확인된 것은 설계와 문서 작성, 개발 시험, 자료 조사 단계이며 실제 공격에 사용됐는지는 별도로 확인되지 않았습니다.</description><pubDate>Fri, 11 Sep 2026 10:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJJYpHD0oS</guid></item><item><title>3/ 키미 사례는 일반 이용자에게도 직접 영향을 줄 수 있는 내용입니다.
+
+앤트로픽은 문샷이 키미 고객의 요청을 Claude로 전달한 뒤, 받은...</title><link>https://www.threads.net/@choi.openai/post/DdJJZl3j7iU</link><description>3/ 키미 사례는 일반 이용자에게도 직접 영향을 줄 수 있는 내용입니다.
+
+앤트로픽은 문샷이 키미 고객의 요청을 Claude로 전달한 뒤, 받은 답변을 키미의 응답처럼 제공했다고 주장했습니다.
+
+열흘 동안 확인된 요청은 약 30만 건으로 대부분 Opus가 처리했고, 5,380개의 부정 계정이 사용됐습니다. 일부 대화는 모델 학습용으로 저장됐다고 합니다.
+
+이 주장이 맞다면 이용자는 키미를 선택했지만 실제 요청과 데이터는 앤트로픽으로 전달된 셈입니다.
+
+다만 앤트로픽은 문샷이 이를 고객에게 고지했는지는 확인하지 못했다고 밝혔습니다.</description><pubDate>Fri, 11 Sep 2026 10:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJJZl3j7iU</guid></item><item><title>아이폰에서 350억 파라미터 AI 모델을 돌리는 시대가 왔습니다.
+
+Edge0가 대형 AI 모델을 클라우드 없이 기기 안에서 실행하는 프레임워크...</title><link>https://www.threads.net/@choi.openai/post/DdI_DSxE_xM</link><description>아이폰에서 350억 파라미터 AI 모델을 돌리는 시대가 왔습니다.
+
+Edge0가 대형 AI 모델을 클라우드 없이 기기 안에서 실행하는 프레임워크를 오픈소스로 공개했습니다.
+
+35B 모델도 전체 모델을 메모리에 올리지 않고 필요한 부분만 저장장치에서 불러오는 방식으로 최대 메모리 사용량을 1~2.5GB 수준으로 낮췄습니다.
+
+게임 코드 생성, 3D 장면 제작, 웹페이지 개발까지 스마트폰에서 처리할 수 있고 데이터도 외부 서버로 보내지 않습니다.
+
+AI는 점점 스마트폰 안에 들어가는 기본 기능에 가까워지고 있습니다.</description><pubDate>Fri, 11 Sep 2026 08:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdI_DSxE_xM</guid></item><item><title>깃허브 :
+https://github.com/Edge0-AI/edge0/</title><link>https://www.threads.net/@choi.openai/post/DdI_Emsk3xl</link><description>깃허브 :
+https://github.com/Edge0-AI/edge0/</description><pubDate>Fri, 11 Sep 2026 08:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdI_Emsk3xl</guid></item><item><title>엔비디아가 AI 에이전트의 작업 방식을 AI가 직접 개선하는 SoL-Pi를 오픈소스로 공개했습니다.
+
+535개의 실제·합성 작업 환경에서 에이전...</title><link>https://www.threads.net/@choi.openai/post/DdI0xJgAIhp</link><description>엔비디아가 AI 에이전트의 작업 방식을 AI가 직접 개선하는 SoL-Pi를 오픈소스로 공개했습니다.
+
+535개의 실제·합성 작업 환경에서 에이전트가 개선안을 만들고 직접 실험했는데요. 약 40개 아이디어 중 1개 정도만 실제로 적용할 만한 결과로 남았다고 합니다.
+
+그 과정에서 코드 수정과 테스트를 한 번에 처리하고, 긴 작업 결과는 필요한 부분만 다시 불러오며, 끝난 작업은 컨텍스트에서 정리하는 방식 등을 찾아냈습니다.
+
+이를 적용하자 토큰 사용량은 최대 49%, 비용은 약 3분의 1 줄면서 평균 작업 성능은 약 94%를 유지했습니다.
+
+이제 AI 모델뿐 아니라 AI가 일하는 방식 자체도 AI가 개선하기 시작했습니다.</description><pubDate>Fri, 11 Sep 2026 07:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdI0xJgAIhp</guid></item><item><title>깃허브 :
+https://github.com/NVlabs/SoL-Pi</title><link>https://www.threads.net/@choi.openai/post/DdI0yLeACsM</link><description>깃허브 :
+https://github.com/NVlabs/SoL-Pi</description><pubDate>Fri, 11 Sep 2026 07:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdI0yLeACsM</guid></item></channel></rss>
