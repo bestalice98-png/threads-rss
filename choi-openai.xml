@@ -1,43 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 12 Sep 2026 03:20:31 +0000</lastBuildDate><item><title>오픈AI가 ChatGPT 데스크톱 앱의 Pet 기능을 업데이트했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 12 Sep 2026 11:59:30 +0000</lastBuildDate><item><title>🚨 사상 초유의 사태입니다.
 
-이제 Pet에서 자리를 비운 동안 진행 중인 채팅을 확인하고, 바로 새...</title><link>https://www.threads.net/@choi.openai/post/DdK6uOsAVO9</link><description>오픈AI가 ChatGPT 데스크톱 앱의 Pet 기능을 업데이트했습니다.
+오픈AI가 GPT-6 Astra 수요 폭발로 신규 Pro 가입까지 중단했습니다.
+그 사이 커뮤니티에서는 게임, 로...</title><link>https://www.threads.net/@choi.openai/post/DdL4g_Fjw6O</link><description>🚨 사상 초유의 사태입니다.
 
-이제 Pet에서 자리를 비운 동안 진행 중인 채팅을 확인하고, 바로 새 채팅도 시작할 수 있는데요. 화면을 적게 차지하는 Mini 모드도 추가됐습니다.
+오픈AI가 GPT-6 Astra 수요 폭발로 신규 Pro 가입까지 중단했습니다.
+그 사이 커뮤니티에서는 게임, 로봇, CAD, 3D 스캔, 신약 개발까지 별별 결과물이 쏟아지고 있는데요.
 
-데스크톱 앱 설정에서 Pet 또는 Mini를 선택할 수 있습니다.</description><pubDate>Sat, 12 Sep 2026 02:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdK6uOsAVO9</guid></item><item><title>GPT-6 Astra를 사용한다면, 꼭 참고해보세요.
+지금 만들어지고 있는 사례 20가지를 정리했습니다🧵</description><pubDate>Sat, 12 Sep 2026 11:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdL4g_Fjw6O</guid></item><item><title>1/ GPT-6로 GTA 6의 스크린샷을 참고해 직접 플레이할 수 있는 3D 게임을 약 90시간 동안 제작한 사례가 공개됐습니다.
 
-오픈AI가 GPT-6 Astra에 맞춰 Skills, AGENTS.md, 작업 프롬프트를...</title><link>https://www.threads.net/@choi.openai/post/DdKwb3TAZzU</link><description>GPT-6 Astra를 사용한다면, 꼭 참고해보세요.
+브라우저에서...</title><link>https://www.threads.net/@choi.openai/post/DdLof2GF7Sg</link><description>1/ GPT-6로 GTA 6의 스크린샷을 참고해 직접 플레이할 수 있는 3D 게임을 약 90시간 동안 제작한 사례가 공개됐습니다.
 
-오픈AI가 GPT-6 Astra에 맞춰 Skills, AGENTS.md, 작업 프롬프트를 다시 정리하라고 권장했습니다.
+브라우저에서 실행되는 게임으로 구현했으며, 이후 도시와 수면 등 그래픽을 계속 개선하고 있습니다.
 
-예를 들어 “DB 관련 작업이면 항상 migration skill 사용”보다 “migration 추가·변경·검토 때만 사용”처럼 조건을 좁히는 방식입니다.
+x@ChrisGPT</description><pubDate>Sat, 12 Sep 2026 11:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLof2GF7Sg</guid></item><item><title>2/ GPT-6 Astra가 로봇 손을 직접 제어해 루빅스 큐브를 맞추는 사례가 공개됐습니다.
 
-AGENTS.md도 오타 하나 고치는데 architecture.md, database.md, deployment.md를 전부 읽게 하지 말고 필요한 문서만 보게 하라고 합니다. Astra는 테스트도 알아서 수행하는 편이라 예전 모델용 지침이 오히려 작업을 늘릴 수 있고요.
+여러 손가락으로 큐브를 잡고 돌려가며 실제 손처...</title><link>https://www.threads.net/@choi.openai/post/DdLnjVImUFH</link><description>2/ GPT-6 Astra가 로봇 손을 직접 제어해 루빅스 큐브를 맞추는 사례가 공개됐습니다.
 
-또 첫 구현 뒤 멈추는 경우가 있어 “실행→오류 확인→수정→재실행까지 완료”처럼 끝나는 기준을 미리 적는 것이 좋다고 합니다.</description><pubDate>Sat, 12 Sep 2026 01:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKwb3TAZzU</guid></item><item><title>주소 :
-https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-...</title><link>https://www.threads.net/@choi.openai/post/DdKwdT4gUHd</link><description>주소 :
-https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</description><pubDate>Sat, 12 Sep 2026 01:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKwdT4gUHd</guid></item><item><title>이제 Codex 같은 에이전트를 직접 구축하는 데 필요한 기반을 API 하나로 가져다 쓸 수 있게 됐습니다.
+여러 손가락으로 큐브를 잡고 돌려가며 실제 손처럼 조작해 완성했습니다.
 
-오픈AI가 Codex에서 사용하는...</title><link>https://www.threads.net/@choi.openai/post/DdKmJoYiUxK</link><description>이제 Codex 같은 에이전트를 직접 구축하는 데 필요한 기반을 API 하나로 가져다 쓸 수 있게 됐습니다.
+x@ZeYanjie</description><pubDate>Sat, 12 Sep 2026 11:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLnjVImUFH</guid></item><item><title>4/ GPT-6 Astra로 의대생이 해부학과 CT 영상을 함께 공부할 수 있는 학습 도구를 제작한 사례가 공개됐습니다.
 
-오픈AI가 Codex에서 사용하는 에이전트 실행 구조를 그대로 가져온 Agents API를 공개했습니다.
-모델과 작업, 도구, 실행 환경만 지정하면 GPT-6 Astra 기반 에이전트를 클라우드에서 실행할 수 있습니다.
+2D 해부도와 CT ...</title><link>https://www.threads.net/@choi.openai/post/DdLnov9jbEh</link><description>4/ GPT-6 Astra로 의대생이 해부학과 CT 영상을 함께 공부할 수 있는 학습 도구를 제작한 사례가 공개됐습니다.
 
-에이전트는 파일을 다루고 코드를 실행하며, MCP나 외부 도구를 사용하고 여러 Subagent에게 작업을 나눠 동시에 처리할 수도 있습니다. 몇 시간 이상 이어지는 작업을 위한 컨텍스트 관리도 자동으로 처리합니다.
+2D 해부도와 CT 단면, 3D 인체 구조를 연결해 같은 부위의 위치와 형태를 함께 확인할 수 있습니다.
 
-오픈AI가 샌드박스를 직접 제공하지만 Cloudflare, Vercel, Modal 등 외부 환경이나 자체 인프라도 연결할 수 있습니다.
+x@ZentrixHQ</description><pubDate>Sat, 12 Sep 2026 11:31:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLnov9jbEh</guid></item><item><title>초파리가 세상을 지배하고 있습니다..
 
-AI 에이전트를 직접 서비스에 넣는 과정이 훨씬 쉬워지고 있습니다.</description><pubDate>Fri, 11 Sep 2026 23:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKmJoYiUxK</guid></item><item><title>발표내용 :
-https://openai.com/index/introducing-the-agents-api/</title><link>https://www.threads.net/@choi.openai/post/DdKmKkBCZT6</link><description>발표내용 :
-https://openai.com/index/introducing-the-agents-api/</description><pubDate>Fri, 11 Sep 2026 23:31:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKmKkBCZT6</guid></item><item><title>AI가 FrontierMath Tier 4의 모든 문제를 풀었습니다.
+주식 거래부터 체스, 루빅큐브, 로봇 조종, VRChat, 게임 플레이까지 초파리 뇌를 연결한 별별 실험...</title><link>https://www.threads.net/@choi.openai/post/DdLuPOND_qc</link><description>초파리가 세상을 지배하고 있습니다..
 
-2025년 7월 공개 당시 최고 점수는 5%였지만, 14개월도 안 돼 9...</title><link>https://www.threads.net/@choi.openai/post/DdKb2d1irbS</link><description>AI가 FrontierMath Tier 4의 모든 문제를 풀었습니다.
+주식 거래부터 체스, 루빅큐브, 로봇 조종, VRChat, 게임 플레이까지 초파리 뇌를 연결한 별별 실험이 쏟아지고 있는데요.
 
-2025년 7월 공개 당시 최고 점수는 5%였지만, 14개월도 안 돼 98%까지 올라갔는데요. 마지막까지 남았던 Jay Pantone의 문제를 GPT-6 Astra가 해결하면서 Epoch AI는 해당 벤치마크가 사실상 포화됐다고 평가했습니다.
+16만 개 뉴런으로 벌어진 놀라운 사례 20가지를 정리했습니다🧵</description><pubDate>Sat, 12 Sep 2026 10:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLuPOND_qc</guid></item><item><title>1/ 초파리 뇌를 학습시켜 루빅스 큐브를 맞추도록 만든 사례도 등장했습니다.
 
-Tier 4는 수학 교수와 박사후연구원들이 만든 연구 수준의 난제로, 한 문제를 전문가가 며칠간 풀어야 할 정도입니다.
+큐브의 상태를 입력받아 신경 활동으로 회전 방향을 결정하고, 반복...</title><link>https://www.threads.net/@choi.openai/post/DdLlvJQj0oJ</link><description>1/ 초파리 뇌를 학습시켜 루빅스 큐브를 맞추도록 만든 사례도 등장했습니다.
 
-특히 이전 문제들은 AI가 예상치 못한 지름길을 찾았다는 평가도 있었지만 마지막 문제는 그런 방식이 통하지 않았다고 합니다.</description><pubDate>Fri, 11 Sep 2026 22:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKb2d1irbS</guid></item><item><title>내용 :
-https://epoch.ai/frontiermath</title><link>https://www.threads.net/@choi.openai/post/DdKb46Kilae</link><description>내용 :
-https://epoch.ai/frontiermath</description><pubDate>Fri, 11 Sep 2026 22:01:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKb46Kilae</guid></item></channel></rss>
+큐브의 상태를 입력받아 신경 활동으로 회전 방향을 결정하고, 반복 학습을 거쳐 큐브를 완성하도록 구현했습니다.
+
+x@nickwalton00</description><pubDate>Sat, 12 Sep 2026 10:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLlvJQj0oJ</guid></item><item><title>2/ 초파리 뇌를 휴대용 AI 기기 rabbit r1과 연결한 사례도 등장했습니다.
+
+r1을 흔들면 가속도 센서가 움직임을 감지해 초파리의 감각...</title><link>https://www.threads.net/@choi.openai/post/DdLlpvACVL2</link><description>2/ 초파리 뇌를 휴대용 AI 기기 rabbit r1과 연결한 사례도 등장했습니다.
+
+r1을 흔들면 가속도 센서가 움직임을 감지해 초파리의 감각 뉴런을 자극하고, 활성화되는 탈출 신경회로를 실시간으로 보여줍니다.
+
+x@kevin_t_ngo</description><pubDate>Sat, 12 Sep 2026 10:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLlpvACVL2</guid></item><item><title>3/ 초파리 뇌를 하루 동안 학습시켜 Super Smash Bros.를 플레이하도록 만든 사례도 등장했습니다.
+
+게임 속 캐릭터로 초파리 자체를...</title><link>https://www.threads.net/@choi.openai/post/DdLlxiakQjP</link><description>3/ 초파리 뇌를 하루 동안 학습시켜 Super Smash Bros.를 플레이하도록 만든 사례도 등장했습니다.
+
+게임 속 캐릭터로 초파리 자체를 사용했으며, 봇과 진행한 3번의 대결 중 2번 승리했습니다.
+
+x@nickwalton00</description><pubDate>Sat, 12 Sep 2026 10:01:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLlxiakQjP</guid></item><item><title>AI가 게임을 만들고, 그 게임에서 다른 AI를 훈련시키기 시작했습니다.
+
+새롭게 공개된 PlayTrain은 LLM이 만든 JavaScript ...</title><link>https://www.threads.net/@choi.openai/post/DdLj5HCgsG5</link><description>AI가 게임을 만들고, 그 게임에서 다른 AI를 훈련시키기 시작했습니다.
+
+새롭게 공개된 PlayTrain은 LLM이 만든 JavaScript 게임을 그대로 강화학습(RL) 환경으로 바꿔 AI 에이전트를 학습시키는 프레임워크입니다.
+
+예를 들어 원하는 게임 규칙을 프롬프트로 설명하면 LLM이 새로운 게임을 만들고, PlayTrain이 이를 AI가 반복해서 플레이하며 학습할 수 있는 환경으로 변환합니다.
+
+게임은 브라우저에서 사람이 직접 플레이할 수도 있어 같은 화면과 조건에서 인간과 AI의 행동을 비교할 수도 있습니다.
+
+이제 강화학습 연구도 정해진 게임을 푸는 데서 벗어나, 실험하고 싶은 환경부터 AI로 만들어 학습시키는 방식이 가능해졌습니다.</description><pubDate>Sat, 12 Sep 2026 08:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLj5HCgsG5</guid></item><item><title>프로젝트 주소 :
+https://playtrain.org/</title><link>https://www.threads.net/@choi.openai/post/DdLj8EwgoUp</link><description>프로젝트 주소 :
+https://playtrain.org/</description><pubDate>Sat, 12 Sep 2026 08:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLj8EwgoUp</guid></item><item><title>🚨 챗GPT 리셋 완료.</title><link>https://www.threads.net/@choi.openai/post/DdLhzbrjxS_</link><description>🚨 챗GPT 리셋 완료.</description><pubDate>Sat, 12 Sep 2026 08:12:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLhzbrjxS_</guid></item></channel></rss>
