@@ -1,48 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 11 Sep 2026 17:58:37 +0000</lastBuildDate><item><title>영상 통화의 튜링 테스트도 곧 뚫릴 것 같습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 12 Sep 2026 03:20:31 +0000</lastBuildDate><item><title>오픈AI가 ChatGPT 데스크톱 앱의 Pet 기능을 업데이트했습니다.
 
-Tavus가 실시간 AI 인간 모델 Phoenix-4.5를 공개했습니다.
-이전처럼 얼굴만 움...</title><link>https://www.threads.net/@choi.openai/post/DdJ83c-kgwu</link><description>영상 통화의 튜링 테스트도 곧 뚫릴 것 같습니다.
+이제 Pet에서 자리를 비운 동안 진행 중인 채팅을 확인하고, 바로 새...</title><link>https://www.threads.net/@choi.openai/post/DdK6uOsAVO9</link><description>오픈AI가 ChatGPT 데스크톱 앱의 Pet 기능을 업데이트했습니다.
 
-Tavus가 실시간 AI 인간 모델 Phoenix-4.5를 공개했습니다.
-이전처럼 얼굴만 움직이는 게 아니라 얼굴·머리·어깨·상체 전체를 함께 생성해 말할 때의 자세와 미세한 표정, 듣고 있을 때의 반응까지 표현합니다.
+이제 Pet에서 자리를 비운 동안 진행 중인 채팅을 확인하고, 바로 새 채팅도 시작할 수 있는데요. 화면을 적게 차지하는 Mini 모드도 추가됐습니다.
 
-음성에서 영상까지 지연시간은 134ms이며 립싱크는 Phoenix-4보다 16% 개선됐습니다. Google Meet이나 Zoom 통화에도 직접 참여할 수 있습니다.
+데스크톱 앱 설정에서 Pet 또는 Mini를 선택할 수 있습니다.</description><pubDate>Sat, 12 Sep 2026 02:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdK6uOsAVO9</guid></item><item><title>GPT-6 Astra를 사용한다면, 꼭 참고해보세요.
 
-지금 속도라면 영상통화에서 화면 속 상대가 실제 사람인지 AI인지 구분하는 테스트도 머지않아 상당히 어려워질 것 같습니다.</description><pubDate>Fri, 11 Sep 2026 17:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJ83c-kgwu</guid></item><item><title>내용 :
-https://www.tavus.io/blog/phoenix-4-5</title><link>https://www.threads.net/@choi.openai/post/DdJ84pjkmvd</link><description>내용 :
-https://www.tavus.io/blog/phoenix-4-5</description><pubDate>Fri, 11 Sep 2026 17:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJ84pjkmvd</guid></item><item><title>HeyGen이 오픈AI와 함께 GPT-Live-1, LiveAvatar, HyperFrames를 결합한 실시간 AI 아바타 예제를 오픈소스로 공...</title><link>https://www.threads.net/@choi.openai/post/DdJyjM_E9ZC</link><description>HeyGen이 오픈AI와 함께 GPT-Live-1, LiveAvatar, HyperFrames를 결합한 실시간 AI 아바타 예제를 오픈소스로 공개했습니다.
+오픈AI가 GPT-6 Astra에 맞춰 Skills, AGENTS.md, 작업 프롬프트를...</title><link>https://www.threads.net/@choi.openai/post/DdKwb3TAZzU</link><description>GPT-6 Astra를 사용한다면, 꼭 참고해보세요.
 
-말을 들으며 바로 답하고, 표정과 아바타 움직임, 화면의 시각 자료까지 실시간으로 함께 보여줄 수 있는데요.
+오픈AI가 GPT-6 Astra에 맞춰 Skills, AGENTS.md, 작업 프롬프트를 다시 정리하라고 권장했습니다.
 
-외국어 회화나 교육, 영업 연습처럼 사람과 마주 보고 대화하는 서비스에 바로 응용할 수 있습니다.
+예를 들어 “DB 관련 작업이면 항상 migration skill 사용”보다 “migration 추가·변경·검토 때만 사용”처럼 조건을 좁히는 방식입니다.
 
-실시간 영상 채팅에서도 사람과 AI를 구분하기 어려운 수준으로 빠르게 가까워지고 있는 것 같습니다.</description><pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJyjM_E9ZC</guid></item><item><title>깃허브 :
-https://github.com/heygen-com/liveavatar-gpt-live-demos</title><link>https://www.threads.net/@choi.openai/post/DdJykh7k5IE</link><description>깃허브 :
-https://github.com/heygen-com/liveavatar-gpt-live-demos</description><pubDate>Fri, 11 Sep 2026 16:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJykh7k5IE</guid></item><item><title>Sakana AI가 멀티에이전트 시스템 Fugu Max와 Fugu Ultra v2를 공개했습니다.
+AGENTS.md도 오타 하나 고치는데 architecture.md, database.md, deployment.md를 전부 읽게 하지 말고 필요한 문서만 보게 하라고 합니다. Astra는 테스트도 알아서 수행하는 편이라 예전 모델용 지침이 오히려 작업을 늘릴 수 있고요.
 
-하나의 모델을 쓰는 대신 여러 오픈·전문 모...</title><link>https://www.threads.net/@choi.openai/post/DdJoVoCk_q4</link><description>Sakana AI가 멀티에이전트 시스템 Fugu Max와 Fugu Ultra v2를 공개했습니다.
+또 첫 구현 뒤 멈추는 경우가 있어 “실행→오류 확인→수정→재실행까지 완료”처럼 끝나는 기준을 미리 적는 것이 좋다고 합니다.</description><pubDate>Sat, 12 Sep 2026 01:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKwb3TAZzU</guid></item><item><title>주소 :
+https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-...</title><link>https://www.threads.net/@choi.openai/post/DdKwdT4gUHd</link><description>주소 :
+https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</description><pubDate>Sat, 12 Sep 2026 01:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKwdT4gUHd</guid></item><item><title>이제 Codex 같은 에이전트를 직접 구축하는 데 필요한 기반을 API 하나로 가져다 쓸 수 있게 됐습니다.
 
-하나의 모델을 쓰는 대신 여러 오픈·전문 모델을 작업에 따라 골라 사용하는 방식입니다.
+오픈AI가 Codex에서 사용하는...</title><link>https://www.threads.net/@choi.openai/post/DdKmJoYiUxK</link><description>이제 Codex 같은 에이전트를 직접 구축하는 데 필요한 기반을 API 하나로 가져다 쓸 수 있게 됐습니다.
 
-Fugu Ultra v2는 어려운 벤치마크 8개 중 5개에서 1위를 기록했는데요.
-Chartography는 48.3점으로 Opus 5의 27.3점, Fable 5의 29.5점을 앞섰고, 실제 소프트웨어 개발을 평가하는 DeepSWE에서도 74.3점을 기록했습니다.
+오픈AI가 Codex에서 사용하는 에이전트 실행 구조를 그대로 가져온 Agents API를 공개했습니다.
+모델과 작업, 도구, 실행 환경만 지정하면 GPT-6 Astra 기반 에이전트를 클라우드에서 실행할 수 있습니다.
 
-주목한 점으로는 Fable 5·5.1이나 GPT-6 Astra를 사용하지 않고 만든 결과라는 점입니다.
+에이전트는 파일을 다루고 코드를 실행하며, MCP나 외부 도구를 사용하고 여러 Subagent에게 작업을 나눠 동시에 처리할 수도 있습니다. 몇 시간 이상 이어지는 작업을 위한 컨텍스트 관리도 자동으로 처리합니다.
 
-Fugu Max는 성능을 유지하면서 비용도 경쟁 모델보다 2~6배 낮췄다고 합니다.
-과연 오케스트레이션 시스템이 프론티어 모델의 경쟁을 따라갈 수 있을지도 주목할 부분입니다.</description><pubDate>Fri, 11 Sep 2026 14:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJoVoCk_q4</guid></item><item><title>내용 :
-https://sakana.ai/fugu-max-release/</title><link>https://www.threads.net/@choi.openai/post/DdJoXGVE1Ps</link><description>내용 :
-https://sakana.ai/fugu-max-release/</description><pubDate>Fri, 11 Sep 2026 14:30:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJoXGVE1Ps</guid></item><item><title>Cursor가 장기 작업용 기능 Projects를 공개했습니다.
+오픈AI가 샌드박스를 직접 제공하지만 Cloudflare, Vercel, Modal 등 외부 환경이나 자체 인프라도 연결할 수 있습니다.
 
-매 작업마다 새 채팅을 만드는 대신 하나의 coordinator가 여러 에이전...</title><link>https://www.threads.net/@choi.openai/post/DdJeBN3koqe</link><description>Cursor가 장기 작업용 기능 Projects를 공개했습니다.
+AI 에이전트를 직접 서비스에 넣는 과정이 훨씬 쉬워지고 있습니다.</description><pubDate>Fri, 11 Sep 2026 23:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKmJoYiUxK</guid></item><item><title>발표내용 :
+https://openai.com/index/introducing-the-agents-api/</title><link>https://www.threads.net/@choi.openai/post/DdKmKkBCZT6</link><description>발표내용 :
+https://openai.com/index/introducing-the-agents-api/</description><pubDate>Fri, 11 Sep 2026 23:31:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKmKkBCZT6</guid></item><item><title>AI가 FrontierMath Tier 4의 모든 문제를 풀었습니다.
 
-매 작업마다 새 채팅을 만드는 대신 하나의 coordinator가 여러 에이전트에 일을 나눠 맡기고, 수개월간 프로젝트 맥락을 유지합니다.
+2025년 7월 공개 당시 최고 점수는 5%였지만, 14개월도 안 돼 9...</title><link>https://www.threads.net/@choi.openai/post/DdKb2d1irbS</link><description>AI가 FrontierMath Tier 4의 모든 문제를 풀었습니다.
 
-Slack 버그 감시, PR 추적, CI 수정, 예약 작업도 가능합니다.
+2025년 7월 공개 당시 최고 점수는 5%였지만, 14개월도 안 돼 98%까지 올라갔는데요. 마지막까지 남았던 Jay Pantone의 문제를 GPT-6 Astra가 해결하면서 Epoch AI는 해당 벤치마크가 사실상 포화됐다고 평가했습니다.
 
-Cursor 내부 사용 결과 신규 사용자는 PR 병합이 30% 늘었고, Projects를 주로 쓴 사용자는 6배 더 많은 PR을 병합했다고 합니다.
+Tier 4는 수학 교수와 박사후연구원들이 만든 연구 수준의 난제로, 한 문제를 전문가가 며칠간 풀어야 할 정도입니다.
 
-베타로 순차 배포 중입니다.</description><pubDate>Fri, 11 Sep 2026 13:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJeBN3koqe</guid></item><item><title>발표내용 :
-https://cursor.com/ko/blog/projects</title><link>https://www.threads.net/@choi.openai/post/DdJeCUmkpSq</link><description>발표내용 :
-https://cursor.com/ko/blog/projects</description><pubDate>Fri, 11 Sep 2026 13:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdJeCUmkpSq</guid></item></channel></rss>
+특히 이전 문제들은 AI가 예상치 못한 지름길을 찾았다는 평가도 있었지만 마지막 문제는 그런 방식이 통하지 않았다고 합니다.</description><pubDate>Fri, 11 Sep 2026 22:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKb2d1irbS</guid></item><item><title>내용 :
+https://epoch.ai/frontiermath</title><link>https://www.threads.net/@choi.openai/post/DdKb46Kilae</link><description>내용 :
+https://epoch.ai/frontiermath</description><pubDate>Fri, 11 Sep 2026 22:01:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdKb46Kilae</guid></item></channel></rss>
