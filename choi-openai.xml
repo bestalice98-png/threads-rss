@@ -1,61 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 12 Sep 2026 17:30:07 +0000</lastBuildDate><item><title>음성 AI도 이제 가격과 속도 경쟁이 제대로 시작됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 13 Sep 2026 03:25:16 +0000</lastBuildDate><item><title>🚨 월요일 주가 폭락 이유
 
-Nari Labs가 Qwen3-ASR 1.7B를 기반으로 만든 실시간 음성 인식 A...</title><link>https://www.threads.net/@choi.openai/post/DdMXcItCGZt</link><description>음성 AI도 이제 가격과 속도 경쟁이 제대로 시작됐습니다.
+앤트로픽 CEO 다리오 아모데이가 AI 개발 속도를 의도적으로 늦추자고 제안했습니다.
 
-Nari Labs가 Qwen3-ASR 1.7B를 기반으로 만든 실시간 음성 인식 API를 공개했습니다.
+샘 알트먼과 일론 머스크도 ...</title><link>https://www.threads.net/@choi.openai/post/DdNhGGcjyB1</link><description>🚨 월요일 주가 폭락 이유
 
-Coval 벤치마크에서 음성이 끝난 뒤 최종 문장이 확정되기까지 p50 43ms를 기록해 공개 API 중 가장 빨랐고, 단어 오류율도 3.3%로 전체 3위입니다.
+앤트로픽 CEO 다리오 아모데이가 AI 개발 속도를 의도적으로 늦추자고 제안했습니다.
 
-ElevenLabs Scribe V2보다 약 3배 빠르면서 가격은 시간당 $0.06에 불과합니다. Nari Labs에 따르면 Gemini Transcribe 3.5보다 약 9배 저렴한 수준입니다.
+샘 알트먼과 일론 머스크도 방향에 지지를 보냈는데요.
 
-이 정도면 실시간 통역이나 회의록, 콜센터, 음성 에이전트처럼 계속 음성을 처리해야 하는 서비스에서 비용 부담이 상당히 줄어들 것 같습니다.
+배경에는 AI가 다음 AI 개발까지 돕는 재귀적 자기개선(RSI)이 있습니다.
 
-현재 공개 베타 기간에는 무료입니다.</description><pubDate>Sat, 12 Sep 2026 16:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdMXcItCGZt</guid></item><item><title>주소 :
-https://app.narilabs.com/home</title><link>https://www.threads.net/@choi.openai/post/DdMXeF0iOKS</link><description>주소 :
-https://app.narilabs.com/home</description><pubDate>Sat, 12 Sep 2026 16:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdMXeF0iOKS</guid></item><item><title>영상 하나만 있으면, 카메라 위치를 바꿔 다른 각도에서 다시 찍은 것처럼 만들 수 있게 됐습니다.
+아모데이는 6~12개월 안에 더 강한 에이전트 군집이 등장할 수 있다며, 외부 평가자가 개발 과정에 상주하고 위험이 커지면 다음 단계 학습을 늦출 수 있어야 한다고 주장합니다.
 
-fal이 H3 Max Camera Contr...</title><link>https://www.threads.net/@choi.openai/post/DdMNCyEkZU7</link><description>영상 하나만 있으면, 카메라 위치를 바꿔 다른 각도에서 다시 찍은 것처럼 만들 수 있게 됐습니다.
+아모데이는 올해 1월까지만 해도 경쟁 때문에 실질적인 감속은 어렵다고 봤었는데요.
+AI가 연구와 개발 속도 자체를 빠르게 만들기 시작하면서 판단도 바뀐 셈입니다.
 
-fal이 H3 Max Camera Controls를 공개했는데요.
-한 시점의 영상을 3초 안에 탐색 가능한 3D 장면으로 만들고, 수평·수직 각도를 직접 지정해 카메라를 움직일 수 있습니다.
+다만 감속에는 또 다른 문제가 있습니다. 미국이 기술 우위를 유지하면서 중국의 추격까지 늦춰야 한다는 전략이 함께 들어 있기 때문입니다.
 
-예를 들어 정면에서 찍은 자동차 영상을 옆이나 뒤쪽 시점으로 돌리거나, 영화 장면을 Matrix처럼 회전하는 카메라 구도로 바꿀 수 있습니다.
+이 흐름을 정리했습니다 🧵</description><pubDate>Sun, 13 Sep 2026 02:44:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdNhGGcjyB1</guid></item><item><title>1/ 앤트로픽 CEO 다리오 아모데이가 9월 12일 "We Must Pace the Frontier"를 공개했습니다.
 
-시점이 바뀌어도 물체 위치와 재질, 장면 구조를 유지가 가능합니다.</description><pubDate>Sat, 12 Sep 2026 14:29:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdMNCyEkZU7</guid></item><item><title>너무 부담스러워졌다.
-2만 5천명이라니요.</title><link>https://www.threads.net/@choi.openai/post/DdMFc2Yj3en</link><description>너무 부담스러워졌다.
-2만 5천명이라니요.</description><pubDate>Sat, 12 Sep 2026 13:23:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdMFc2Yj3en</guid></item><item><title>마크 저커버그가 Meta의 AI 전략을 공개했습니다.
+최첨단 AI의 능력이 발...</title><link>https://www.threads.net/@choi.openai/post/DdNhGwGD34r</link><description>1/ 앤트로픽 CEO 다리오 아모데이가 9월 12일 "We Must Pace the Frontier"를 공개했습니다.
 
-24시간 일하는 개인 에이전트부터 운영사도 볼 수 없는 프라이버시, 데이터센터 일자리, ...</title><link>https://www.threads.net/@choi.openai/post/DdMCxgiDzd8</link><description>마크 저커버그가 Meta의 AI 전략을 공개했습니다.
+최첨단 AI의 능력이 발전하는 속도를 의도적으로 늦춰, 위험을 파악하고 대응할 시간을 확보하자는 제안입니다.
 
-24시간 일하는 개인 에이전트부터 운영사도 볼 수 없는 프라이버시, 데이터센터 일자리, 오픈소스 전략까지 직접 설명했는데요.
+먼저 외부 평가자를 회사에 상주시켜 직원에 가까운 접근 권한을 제공하고, 이후 민주주의 국가의 AI 기업 간 공조와 중국을 포함한 국제 협력으로 확대하겠다는 구상인데요.
 
-특히 Meta가 Muse에 거는 기대가 큽니다.
+앤트로픽은 첫 단계인 외부 평가자 도입부터 다른 기업을 기다리지 않고 시행하겠다고 밝혔습니다.
 
-주목할 발언 6가지를 정리했습니다🧵</description><pubDate>Sat, 12 Sep 2026 13:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdMCxgiDzd8</guid></item><item><title>1/ 마크 저커버그는 소수 전문가 그룹이 AI의 용도를 독점적으로 결정하는 방식에 회의적인 시각을 드러냈습니다.
+AI 기업이 내부 개발 과정과 위험을 외부에 더 공개하겠다는 변화는 긍정적입니다.
 
-소수 연구소의 통제보다는 강력...</title><link>https://www.threads.net/@choi.openai/post/DdLJF4dDZ6n</link><description>1/ 마크 저커버그는 소수 전문가 그룹이 AI의 용도를 독점적으로 결정하는 방식에 회의적인 시각을 드러냈습니다.
+동시에 지금까지 외부에서는 확인하기 어려웠던 위험이 얼마나 있었는지도 살펴볼 필요가 있습니다.</description><pubDate>Sun, 13 Sep 2026 02:44:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdNhGwGD34r</guid></item><item><title>2/ 샘 알트먼은 독립 평가자에게 오픈AI도 같은 수준의 접근 권한을 제공하겠다고 밝혔고, 일론 머스크는 다리오의 주장에 동의했습니다.
 
-소수 연구소의 통제보다는 강력한 기술 권한을 대중 각자의 손에 쥐여주어야 한다는 것입니다.
+데미스...</title><link>https://www.threads.net/@choi.openai/post/DdNhIDyj2Me</link><description>2/ 샘 알트먼은 독립 평가자에게 오픈AI도 같은 수준의 접근 권한을 제공하겠다고 밝혔고, 일론 머스크는 다리오의 주장에 동의했습니다.
 
-그는 “역사적 진보와 기술 혁신의 본질은 개인에게 힘을 부여하는 데서 나온다”고 강조했습니다.
+데미스 허사비스 역시 방향에는 찬성하면서 구체적인 설계가 필요하다고 덧붙였습니다.
 
-소수 집단이 정한 거대 의제에만 자원을 집중하면 소외되는 영역이 필연적으로 발생하지만, 개인이 AI 방향성을 직접 주도하면 희귀 질환 연구나 일상 문제 해결처럼 롱테일(long-tail) 영역까지 혁신의 혜택이 분산될 수 있습니다.
+주요 AI 기업 수장들이 비슷한 시점에 감속과 외부 평가 필요성에 동의한 것은 눈여겨볼 만합니다.
 
-이어 저커버그는 “기술 발전의 가장 긍정적인 미래는 사람들이 자신에게 무엇이 중요한지 스스로 결정하게 만드는 것”이라고 말했습니다.
+다만 오픈AI는 이미 9월 6일부터 재귀적 자기개선과 감속 문제를 공개적으로 논의했습니다.</description><pubDate>Sun, 13 Sep 2026 02:44:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdNhIDyj2Me</guid></item><item><title>3/ 사람들의 시선은 특히 ‘6개월에서 12개월’이라는 경고에 쏠리고 있습니다.
 
-즉, 초지능 시대의 핵심 가치는 중앙집권적 설계가 아닌, 기술의 분권화와 개인 권한 강화에 있습니다.</description><pubDate>Sat, 12 Sep 2026 13:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLJF4dDZ6n</guid></item><item><title>2/ 마크 저커버그는 거대언어모델(LLM) 개발 방식에 대해 “기존 머신러닝 시스템과 유사할 것이라 여긴 착오가 있었다”고 밝혔습니다.
+존 패브로를 비롯한 여러 인용 게시물은 AI 에이전트 군집이 ...</title><link>https://www.threads.net/@choi.openai/post/DdNhJLzjwhc</link><description>3/ 사람들의 시선은 특히 ‘6개월에서 12개월’이라는 경고에 쏠리고 있습니다.
 
-그는 ...</title><link>https://www.threads.net/@choi.openai/post/DdLJGgpCX3B</link><description>2/ 마크 저커버그는 거대언어모델(LLM) 개발 방식에 대해 “기존 머신러닝 시스템과 유사할 것이라 여긴 착오가 있었다”고 밝혔습니다.
+존 패브로를 비롯한 여러 인용 게시물은 AI 에이전트 군집이 인터넷을 광범위하게 장악할 수 있다는 대목을 강조했는데요.
 
-그는 대규모 인원을 투입하는 것보다 “소수의 최고 인재가 머리를 맞대는 ‘인재 밀도(Talent Density)’가 핵심”이라며 팀 구조를 전면 재편했다고 설명했습니다.
+다리오의 주장은 지금까지 관찰된 잘못된 목표 추구에 더 강한 능력이 결합하면, 앞으로 6~12개월 안에 대규모 사이버 피해로 이어질 가능성도 있다는 것입니다.
 
-또한 메타의 강력한 수익성을 바탕으로 수 기가와트(GW) 규모의 초대형 컴퓨팅 인프라 투자를 단행하고 있으며, 오하이오의 ‘프로메테우스’ 클러스터 등을 가동해 차세대 모델 확장에 속도를 내고 있다고 강조했습니다.</description><pubDate>Sat, 12 Sep 2026 13:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLJGgpCX3B</guid></item><item><title>3/ 마크 저커버그는 AI 인프라 확장에 있어 기술보다 ‘숙련된 인력의 부족’이 핵심 병목이라고 지적했습니다.
+여러 시스템에 빠르게 접근하고 복제되는 에이전트라면 사고를 발견한 뒤 대응하는 방식만으로는 피해 확산 속도를 따라가기 어려울 수 있습니다.</description><pubDate>Sun, 13 Sep 2026 02:44:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdNhJLzjwhc</guid></item><item><title>데미스 하사비스, “AI 네이티브로 훈련받지 못하면 급변하는 미래 산업과 기술 경쟁에서 도태될 수밖에 없다"
 
-그는 데이터센터 구축을 위해 수...</title><link>https://www.threads.net/@choi.openai/post/DdLJHJYFn40</link><description>3/ 마크 저커버그는 AI 인프라 확장에 있어 기술보다 ‘숙련된 인력의 부족’이 핵심 병목이라고 지적했습니다.
+그는 기존의 획일적인 교육 시스템...</title><link>https://www.threads.net/@choi.openai/post/DdNVN3Dk2zs</link><description>데미스 하사비스, “AI 네이티브로 훈련받지 못하면 급변하는 미래 산업과 기술 경쟁에서 도태될 수밖에 없다"
 
-그는 데이터센터 구축을 위해 수많은 전기 기술자, 광섬유 엔지니어 등이 필요하지만 공급이 턱없이 부족하다고 설명했습니다. 이에 메타는 수료생의 고용을 보장하는 기술 아카데미를 운영하고 있습니다.
+그는 기존의 획일적인 교육 시스템을 탈피해 “교실을 뒤집어야 한다”고 제안했습니다.
 
-저커버그는 이것이 단순 자선사업이 아니라 “수십 년을 내다본 투자이자 상호 이익을 위한 윈윈(Win-win)”이라고 밝혔습니다.
+단순 지식 암기나 강의는 맞춤형 AI 튜터를 통해 교실 밖에서 각자의 속도에 맞춰 학습하고, 교실은 창의성과 팀워크, 기업가 정신을 기르는 프로젝트 중심 협력 공간으로 재편해야 한다는 것입니다.
 
-또한 그는 “소수의 연구소가 이토록 강력한 기술을 독점하고 막대한 부를 쌓도록 세상이 용인할 리 없다”며, AI 생태계는 기술적 성취뿐만 아니라 사회적·경제적으로도 광범위한 기반을 갖추어야만 지속 가능하다고 강조했습니다.</description><pubDate>Sat, 12 Sep 2026 13:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdLJHJYFn40</guid></item></channel></rss>
+하사비스는 과거 90년대에 컴퓨터나 인터넷을 배우지 않은 세대가 뒤처졌던 것처럼, 지금 세대 역시 “AI 네이티브”로 훈련받지 못하면 급변하는 미래 산업과 기술 경쟁에서 도태될 수밖에 없다고 경고했습니다.
+
+AI 시대의 일자리와 미래는 수동적인 비관론으로 피할 수 없으며, 기술을 적극적으로 활용해 우리가 원하는 방향으로 미래를 설계해야 한다고 역설했습니다.</description><pubDate>Sun, 13 Sep 2026 01:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdNVN3Dk2zs</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=rDteJAuKiBI</title><link>https://www.threads.net/@choi.openai/post/DdNVPYBk9lW</link><description>풀영상 :
+https://www.youtube.com/watch?v=rDteJAuKiBI</description><pubDate>Sun, 13 Sep 2026 01:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdNVPYBk9lW</guid></item><item><title>오픈AI의 코덱스(Codex) 총괄 티보 소티오(Thibault Sottiaux)는 AI 코딩 에이전트를 통제하던 복잡한 프레임워크와 스캐폴딩(...</title><link>https://www.threads.net/@choi.openai/post/DdNK5iGAgoo</link><description>오픈AI의 코덱스(Codex) 총괄 티보 소티오(Thibault Sottiaux)는 AI 코딩 에이전트를 통제하던 복잡한 프레임워크와 스캐폴딩(scaffolding)의 시대가 끝나가고 있다고 밝혔습니다.
+
+과거에는 모델의 한계로 인해 목표를 고정하고 이탈을 막는 ‘/goal’ 같은 보조 장치가 필수적이었지만, 차세대 모델의 성능이 도약하면서 이러한 하네스(harness)는 불필요해졌습니다.
+
+그는 “차세대 모델에서는 더 이상 하네스가 필요 없다”며, 모델에게 단지 “가서 일주일 동안 작업해”라고 말하는 것만으로도 장기적이고 복잡한 과제를 스스로 완수할 수 있는 수준에 도달했다고 강조했습니다.</description><pubDate>Sat, 12 Sep 2026 23:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdNK5iGAgoo</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=sLSTM9znQNs</title><link>https://www.threads.net/@choi.openai/post/DdNK8UfAnMX</link><description>풀영상 :
+https://www.youtube.com/watch?v=sLSTM9znQNs</description><pubDate>Sat, 12 Sep 2026 23:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdNK8UfAnMX</guid></item><item><title>데미스 하사비스는 향후 10년간 창의성의 전례 없는 폭발이 일어날 것이라 전망했습니다.
+
+그는 최고의 과학자와 예술가들이 도구를 활용해 “생산성...</title><link>https://www.threads.net/@choi.openai/post/DdNAkg6Dz9h</link><description>데미스 하사비스는 향후 10년간 창의성의 전례 없는 폭발이 일어날 것이라 전망했습니다.
+
+그는 최고의 과학자와 예술가들이 도구를 활용해 “생산성을 10배(10x) 끌어올리는 시대”가 열릴 것이라 설명했습니다.
+
+그러나 AI가 더욱 고도화되고 자율화될수록 기술 자체보다 인간 고유의 노력과 영혼, 연결성이 더욱 가치 있게 평가받을 것이라 내다봤습니다.
+
+하사비스는 기술을 그대로 방치하면 자본주의 논리에 따라 “중독적인 사일로(Addictive silos)”로 귀결될 수 있다고 경고했습니다.
+
+소셜 미디어의 전철을 밟지 않으려면 기술적 안전은 물론, 경제적 혜택 분배와 철학적 합의가 함께 이루어져야 한다는 지적입니다.
+
+그는 “미래는 결코 정해져 있지 않다”며, 다음 세대를 위해 우리가 AI에 어떤 사회적 가치를 부여할지 지금 결정해야 한다고 강조했습니다.</description><pubDate>Sat, 12 Sep 2026 22:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdNAkg6Dz9h</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=rDteJAuKiBI</title><link>https://www.threads.net/@choi.openai/post/DdNAl0fj5Ut</link><description>풀영상 :
+https://www.youtube.com/watch?v=rDteJAuKiBI</description><pubDate>Sat, 12 Sep 2026 22:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdNAl0fj5Ut</guid></item></channel></rss>
