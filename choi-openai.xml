@@ -1,42 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 14 Sep 2026 19:40:21 +0000</lastBuildDate><item><title>앤스로픽 CEO 다리오 아모데이(Dario Amodei)는 “그동안 업계는 기술의 리스크를 숨기고 대중을 속여왔다”며 진실을 밝힐 때라고 직격했...</title><link>https://www.threads.net/@choi.openai/post/DdR1mMygdJW</link><description>앤스로픽 CEO 다리오 아모데이(Dario Amodei)는 “그동안 업계는 기술의 리스크를 숨기고 대중을 속여왔다”며 진실을 밝힐 때라고 직격했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 15 Sep 2026 03:37:08 +0000</lastBuildDate><item><title>구글이 사내 엔지니어들에게 앤트로픽의 Claude 사용을 회사 전반으로 확대했습니다.
 
-그는 클로드(Claude)가 의사조차 놓친 질병을 진단해내는 등 수억 명의 일상과 생산성을 바꾸는 막대한 혜택을 제공하고 있음을 인정하면서도, “위험은 실제로 존재한다”고 경고했습니다.
+직원들은 내부 개발 플랫폼 Antigravity에서 Op...</title><link>https://www.threads.net/@choi.openai/post/DdSv8t2D8Cd</link><description>구글이 사내 엔지니어들에게 앤트로픽의 Claude 사용을 회사 전반으로 확대했습니다.
 
-AI가 경제와 노동 구조 전반을 재편하는 전환점에서, 그 위험을 어떻게 통제하고 관리할지는 소수 빅테크나 기업가가 독점해서는 안 된다는 입장입니다.
-그는 “배포 방식과 규제 감독에 대한 결정권은 유권자와 선출된 관료, 즉 모두에게 있어야 한다”고 역설했습니다.
+직원들은 내부 개발 플랫폼 Antigravity에서 Opus 5를 사용할 수 있으며, Gemini를 대체하기보다는 코딩 등 특정 작업에서 보완적으로 쓰는 방식입니다.
 
-인류 역사상 가장 중요한 기술적 분기점을 지나고 있는 만큼, 경제적 이익 뒤에 감춰진 리스크를 투명하게 공개하고 사회적 합의를 통해 안전장치를 마련해야 한다고 강조했습니다.</description><pubDate>Mon, 14 Sep 2026 19:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdR1mMygdJW</guid></item><item><title>앤트로픽 CEO 다리오 아모데이(Dario Amodei)는 미·중 경쟁 속 AI 개발 속도전이 “가장 까다로운 딜레마”라고 밝혔습니다.
+이전에는 Claude 사용이 일부 DeepMind 팀과 주요 프로젝트에 제한됐습니다.
 
-그는 ...</title><link>https://www.threads.net/@choi.openai/post/DdRrRyAjhIU</link><description>앤트로픽 CEO 다리오 아모데이(Dario Amodei)는 미·중 경쟁 속 AI 개발 속도전이 “가장 까다로운 딜레마”라고 밝혔습니다.
+Opus 5보다 Gemini의 선호도가 더 높다고 했던 것 같은데.. 그래도 한 회사의 모델만 고집하기보다, 작업별로 강한 모델을 섞어 쓰는 방향이 맞는 것 같습니다.
 
-그는 반도체 수출 통제와 자체 보안을 강화해 “확보 가능한 마진 안에서 개발 속도를 늦추는 시간 벌기”가 첫 번째 전략이라고 말했습니다.
-하지만 기술 통제만으로는 한계가 있기에, 과거 미·소 핵 군축 협상처럼 중국과도 직접 대화에 나서야 한다고 제안했습니다.
+구글 화이팅!</description><pubDate>Tue, 15 Sep 2026 03:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdSv8t2D8Cd</guid></item><item><title>풀영상 :
+https://www.businessinsider.com/google-finally-lets-all-engineers-use-anth...</title><link>https://www.threads.net/@choi.openai/post/DdSv90njzzp</link><description>풀영상 :
+https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9</description><pubDate>Tue, 15 Sep 2026 03:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdSv90njzzp</guid></item><item><title>Claude Code를 사용한다면 앞으로 직접 기능을 만들어 붙일 수 있게 됩니다.
 
-최근 AI를 악용한 생물 테러와 바이러스 전파력 강화 위협이 보고된 만큼, “이 기술의 발전 속도에 속도 제한을 두는 국제적 합의”가 필요하다고 강조했습니다.
+앤트로픽이 Claude Mods를 배포하기 시작했습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DdSshYQAHOg</link><description>Claude Code를 사용한다면 앞으로 직접 기능을 만들어 붙일 수 있게 됩니다.
 
-파멸적 위협 앞에서는 진영을 불문하고 글로벌 공조 체계를 구축해야 한다는 설명입니다.</description><pubDate>Mon, 14 Sep 2026 17:30:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdRrRyAjhIU</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=hQR_VJF6ukk</title><link>https://www.threads.net/@choi.openai/post/DdRrSzyDo0O</link><description>풀영상 :
-https://www.youtube.com/watch?v=hQR_VJF6ukk</description><pubDate>Mon, 14 Sep 2026 17:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdRrSzyDo0O</guid></item><item><title>전 앤트로픽 연구원 제이콥 콕슨(Jacob Coxon)은 코딩과 수학 분야에서 AI 발전 속도가 인간 노동의 대체를 눈앞에 둘 만큼 가속화되었다...</title><link>https://www.threads.net/@choi.openai/post/DdRg9wSEdqW</link><description>전 앤트로픽 연구원 제이콥 콕슨(Jacob Coxon)은 코딩과 수학 분야에서 AI 발전 속도가 인간 노동의 대체를 눈앞에 둘 만큼 가속화되었다고 경고했습니다.
+앤트로픽이 Claude Mods를 배포하기 시작했습니다.
+기존 Hook보다 더 깊게 Claude Code의 실행 과정에 개입해 동작과 화면까지 바꿀 수 있는 기능인데요.
 
-불과 2년 전만 해도 제안 수준에 불과했던 AI가 이제 인간을 대체할 단계에 이르렀으며, “1년 내에 수많은 영역에서 연구를 수행하는 데 더 이상 인간이 필요하지 않을 수 있다”고 밝혔습니다.
+예를 들어 화면의 API Key 같은 민감한 값을 자동으로 가렸다가 마우스를 올릴 때만 보여주거나, 여러 서브에이전트 결과를 나란히 비교하는 화면을 만들 수 있습니다.
+벌써 Claude Code 안에서 실행되는 테트리스까지 등장했습니다.
 
-특히 가장 위협적인 지점으로 “AI가 스스로를 더 똑똑하게 만드는 연구에 투입되는 순간”을 꼽았습니다.
+중요한 건 테트리스가 아니라 Claude Code 자체를 사용자가 원하는 개발 환경으로 개조할 수 있다는 점입니다.
 
-수학 난제를 자율적으로 푸는 데 쓰인 알고리즘을 AI 연구 자체에 적용하면, 인간의 개입 없이 스스로 지능을 증폭시키는 “지능 폭발(intelligence explosion)”이 발생한다는 분석입니다.
+앞으로 Claude에게 “이 기능이 불편하니 바꿔줘”라고 하면 Claude가 자신이 실행되는 환경의 기능까지 만들어 붙이는 방식으로 발전할 것 같습니다.</description><pubDate>Tue, 15 Sep 2026 03:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdSshYQAHOg</guid></item><item><title>업데이트 내역 :
+https://github.com/anthropics/claude-code/issues/91870#issuecomment-56...</title><link>https://www.threads.net/@choi.openai/post/DdSsilogLL0</link><description>업데이트 내역 :
+https://github.com/anthropics/claude-code/issues/91870#issuecomment-5666255143</description><pubDate>Tue, 15 Sep 2026 03:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdSsilogLL0</guid></item><item><title>데이비드 색스(David Sacks)는 두 기업이 시장 점유율과 수익에서 이미 독보적이며 다른 경쟁자들보다 “두 세대 앞서 있다”고 말합니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DdSpCmmgZo-</link><description>데이비드 색스(David Sacks)는 두 기업이 시장 점유율과 수익에서 이미 독보적이며 다른 경쟁자들보다 “두 세대 앞서 있다”고 말합니다.
 
-그는 인간을 아득히 뛰어넘는 지능의 등장이 매우 임박했다며, 기술적 특이점에 대비할 시간이 얼마 남지 않았음을 시사했습니다.</description><pubDate>Mon, 14 Sep 2026 16:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdRg9wSEdqW</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=HI6skJ4Wf5I</title><link>https://www.threads.net/@choi.openai/post/DdRg-4lkf4V</link><description>풀영상 :
-https://www.youtube.com/watch?v=HI6skJ4Wf5I</description><pubDate>Mon, 14 Sep 2026 16:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdRg-4lkf4V</guid></item><item><title>🚨 트럼프가 AI 감속론을 작정하고 때리기 시작했습니다.
+막대한 경제적 우위를 점한 선두 주자들이 안전을 명분 삼아 개발 속도 조절을 주장하는 것은 경쟁사를 견제하기 위한 구실에 불과하다는 지적입니다.
 
-트럼프는 AI에 필요한 유일한 통제장치는 “강하고 똑똑한 대통령”이라며, 다리오 아모...</title><link>https://www.threads.net/@choi.openai/post/DdRYK1ZD7Yv</link><description>🚨 트럼프가 AI 감속론을 작정하고 때리기 시작했습니다.
+색스는 “이것은 핑계이자 물물교환처럼 느껴진다”며, 기업들이 마땅히 져야 할 법적 책임과 제품 안전 의무를 다하기 위해 정부로부터 규제적 양보를 얻어내려는 시도라고 꼬집었습니다.
 
-트럼프는 AI에 필요한 유일한 통제장치는 “강하고 똑똑한 대통령”이라며, 다리오 아모데이를 직접 지목해 이제 와서 “완벽하고 착한 천사인 척한다”고 공격했습니다.
+결국 프론티어 AI 기업들의 정부 공조 요구는 안전성 확보의 탈을 쓴 ‘규제 포획’이며, 후발 스타트업의 혁신과 시장 경쟁을 가로막을 위험이 크다는 분석입니다.</description><pubDate>Tue, 15 Sep 2026 02:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdSpCmmgZo-</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=_WuZZNEJRmw</title><link>https://www.threads.net/@choi.openai/post/DdSpDuBAYyr</link><description>풀영상 :
+https://www.youtube.com/watch?v=_WuZZNEJRmw</description><pubDate>Tue, 15 Sep 2026 02:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdSpDuBAYyr</guid></item><item><title>AI가 캡챠를 뚫으면 알려줘
+AI가 체스에서 인간을 이기면 알려줘
+AI가 시를 쓰면 알려줘
+AI가 코드를 짜면 알려줘
+AI가 사람처럼 대화하면 ...</title><link>https://www.threads.net/@choi.openai/post/DdSlpwcCLTV</link><description>AI가 캡챠를 뚫으면 알려줘
+AI가 체스에서 인간을 이기면 알려줘
+AI가 시를 쓰면 알려줘
+AI가 코드를 짜면 알려줘
+AI가 사람처럼 대화하면 알려줘
+AI가 농담을 이해하면 알려줘
+AI가 바둑에서 인간을 이기면 알려줘
+AI가 음악을 만들면 알려줘
+AI가 마인크래프트를 하면 알려줘
+AI가 그림을 그리면 알려줘
+AI가 스타크래프트를 하면 알려줘
+AI가 기본적인 추론을 하면 알려줘
+AI가 의사와 변호사보다 일을 잘하면 알려줘
+AI가 과학 논문을 쓰면 알려줘
+AI가 튜링 테스트를 통과하면 알려줘
+AI가 밀레니엄 문제를 풀면 알려줘
+AI가 거울 속 자신을 알아보면 알려줘
+AI가 인간이 풀 수 있는 거의 모든 문제를 풀면 알려줘
+AI가 스스로 목표를 정하고 행동하기 시작하면 알려줘
+AI가 외부 시스템을 해킹하면 알려줘
+AI가 스스로 더 똑똑한 AI를 만들기 시작하면 알려줘
+AI가 모든 분야에서 인간보다 뛰어나지면 알려줘
 
-또 미국 정부는 AI 기업을 통제할 충분한 형사·규제 권한을 이미 가지고 있으며, AI와 데이터센터 개발을 막으려는 움직임은 중국만 좋아할 “역겨운 음모”라고 주장했습니다. 내부 정보 유출자와 관련자들에게도 직접 경고했습니다.
+이미 늦었을 때 알려줘
 
-마지막에는 “AI에서 이기는 자가 승리한다”며 미국이 중국보다 앞서 있고 계속 우위를 유지하겠다고 강조했습니다.
-
-AI 업계에서는 안전을 위해 속도를 조절하자는 목소리가 나오는데, 트럼프는 오히려 국가 경쟁 때문에 더 달려야 한다는 입장입니다.
-
-AI 안전 논쟁이 기술을 넘어 미국의 국가 전략과 정면으로 부딪히고 있습니다.</description><pubDate>Mon, 14 Sep 2026 14:43:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdRYK1ZD7Yv</guid></item></channel></rss>
+알려줘, AI가…</description><pubDate>Tue, 15 Sep 2026 02:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdSlpwcCLTV</guid></item></channel></rss>
