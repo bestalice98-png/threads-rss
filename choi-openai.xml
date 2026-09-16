@@ -1,62 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 16 Sep 2026 13:10:53 +0000</lastBuildDate><item><title>챗GPT Pro x20의 구독 중단은 생각보다 오래갈지도 모르겠습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 16 Sep 2026 18:31:30 +0000</lastBuildDate><item><title>또 놀라운 신모델이 출시되려나 봅니다.
 
-오픈AI가 Codex for OSS 지원 대상을 기존 5,000명에서 ...</title><link>https://www.threads.net/@choi.openai/post/DdWV-q4E8aq</link><description>챗GPT Pro x20의 구독 중단은 생각보다 오래갈지도 모르겠습니다.
+정체를 공개하지 않은 새로운 프론티어급 모델 Union Alpha가 등장했습니다.
 
-오픈AI가 Codex for OSS 지원 대상을 기존 5,000명에서 10,000명으로 2배 늘렸는데요.
+OpenRouter...</title><link>https://www.threads.net/@choi.openai/post/DdW7tB0AkyI</link><description>또 놀라운 신모델이 출시되려나 봅니다.
 
-대신 기존 $200 Pro x20이 아닌 $100 Pro x5 플랜을 6개월간 제공한다고 합니다.
+정체를 공개하지 않은 새로운 프론티어급 모델 Union Alpha가 등장했습니다.
 
-즉 한정된 컴퓨팅 자원을 더 많은 오픈소스 메인테이너에게 나눠주는 방향으로 바뀐 셈인데요.
+OpenRouter와 OpenCode에서 공개된 Union Alpha는 연구, 코딩, 에이전트 작업에 초점을 둔 멀티모달 모델로 256K 컨텍스트와 도구 호출을 지원합니다.
 
-현재 오픈AI 공식 페이지에서도 선정된 메인테이너에게 ChatGPT Pro 6개월 무료 이용을 안내하고 있습니다.</description><pubDate>Wed, 16 Sep 2026 13:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWV-q4E8aq</guid></item><item><title>오픈소스 지원 :
-https://openai.com/ko-KR/form/codex-for-oss/</title><link>https://www.threads.net/@choi.openai/post/DdWV_84kwnp</link><description>오픈소스 지원 :
-https://openai.com/ko-KR/form/codex-for-oss/</description><pubDate>Wed, 16 Sep 2026 13:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWV_84kwnp</guid></item><item><title>앤트로픽이 Salesforce in Claude를 베타로 공개했습니다.
+현재 무료로 제공되고 있으며, OpenCode 기준 약 1주일간 무료 사용이 가능하다고 안내됐습니다. 사용자 프롬프트와 응답은 학습에 사용하지 않는다고 합니다.
 
-Salesforce의 고객 계정, 영업 기회, 파이프라인을 Claude...</title><link>https://www.threads.net/@choi.openai/post/DdWSjmXkR_f</link><description>앤트로픽이 Salesforce in Claude를 베타로 공개했습니다.
+초기 DeepSWE 결과에서는 상위권 코딩 모델들과 비슷한 수준이라는 평가도 나오고 있는데요.
 
-Salesforce의 고객 계정, 영업 기회, 파이프라인을 Claude 안에서 바로 불러올 수 있고, 계정 조사·미팅 준비·딜 검토·CRM 업데이트 등 37개 영업 스킬을 제공합니다.
+누가 만든 모델인지는 아직 공개되지 않았는데요.
+이번 주 프론티어 모델 출시가 대거 예고되어있는 만큼, Grok 4.8, Sol 6, GLM 5.x 등 다양한 추측이 나오는 상황입니다.</description><pubDate>Wed, 16 Sep 2026 18:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdW7tB0AkyI</guid></item><item><title>구글 딥마인드가 AGI 시대를 대비한 딥마인드 인스티튜트를 출범했습니다.
 
-예를 들어 미팅 전에는 Salesforce·Slack·이메일 내용을 모아 브리핑을 만들고, 미팅 후에는 후속 메일과 영업 단계·마감일 수정안을 작성합니다.
+공동 창업자 셰인 레그는 현재 AI가 기본 작업, 일관성, 창의성에서...</title><link>https://www.threads.net/@choi.openai/post/DdWxcZyCiP_</link><description>구글 딥마인드가 AGI 시대를 대비한 딥마인드 인스티튜트를 출범했습니다.
 
-파이프라인 대시보드와 매출 예측 보고서도 만들 수 있으며, 실제 Salesforce 기록 변경은 기본적으로 사용자가 승인한 뒤 반영됩니다.</description><pubDate>Wed, 16 Sep 2026 12:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWSjmXkR_f</guid></item><item><title>블로그 :
-https://claude.com/blog/salesforce-in-claude</title><link>https://www.threads.net/@choi.openai/post/DdWSk00EUnv</link><description>블로그 :
-https://claude.com/blog/salesforce-in-claude</description><pubDate>Wed, 16 Sep 2026 12:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWSk00EUnv</guid></item><item><title>Odyssey가 로봇, 자동차, 드론, 휴머노이드까지 하나의 모델로 제어하는 월드 모델 Odyssey-3를 공개했습니다.
+공동 창업자 셰인 레그는 현재 AI가 기본 작업, 일관성, 창의성에서 부족하지만 이런 격차가 곧 좁혀질 것으로 보고 있다고 밝혔습니다.
 
-Odyssey-3는 ...</title><link>https://www.threads.net/@choi.openai/post/DdWIPNIk2Ml</link><description>Odyssey가 로봇, 자동차, 드론, 휴머노이드까지 하나의 모델로 제어하는 월드 모델 Odyssey-3를 공개했습니다.
+딥마인드 인스티튜트는 AGI의 안전한 개발과 통제 문제, 사이버·바이오 위험, 경제와 일자리 변화, 사회 제도와 정책이 어떻게 바뀌어야 하는지까지 연구합니다.
 
-Odyssey-3는 시각 데이터를 통해 물체의 움직임과 물리적 관계를 학습한 뒤, 각 기기의 조작 방법만 추가로 익혀 다른 환경에 적용하는 방식입니다.
+데미스 허사비스, 제임스 마니카, 셰인 레그가 공동 디렉터를 맡습니다.</description><pubDate>Wed, 16 Sep 2026 17:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWxcZyCiP_</guid></item><item><title>주소 :
+https://institute.deepmind.com/essays/introducing-the-deepmind-institute/</title><link>https://www.threads.net/@choi.openai/post/DdWxe9migdQ</link><description>주소 :
+https://institute.deepmind.com/essays/introducing-the-deepmind-institute/</description><pubDate>Wed, 16 Sep 2026 17:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWxe9migdQ</guid></item><item><title>GPT-6 Astra가 마인크래프트에서 기존 AI가 도달하지 못했던 수준까지 진행했습니다.
 
-실제로 자동차 주행은 약 20시간의 시뮬레이션 데이터만 추가 학습한 뒤 인도 도로에서 주행하는 모습을 공개했습니다.
+AI 평가 업체 Vals AI가 진행한 테스트에서 ...</title><link>https://www.threads.net/@choi.openai/post/DdWnM0VAleE</link><description>GPT-6 Astra가 마인크래프트에서 기존 AI가 도달하지 못했던 수준까지 진행했습니다.
 
-또 AI가 행동하고 결과를 학습할 수 있는 가상 환경도 생성할 수 있어, 로봇 제어뿐 아니라 다른 AI를 훈련하는 용도로도 활용할 수 있다고 합니다.</description><pubDate>Wed, 16 Sep 2026 11:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWIPNIk2Ml</guid></item><item><title>주소 :
-https://odyssey.systems/introducing-odyssey-3</title><link>https://www.threads.net/@choi.openai/post/DdWIQyDk8kv</link><description>주소 :
-https://odyssey.systems/introducing-odyssey-3</description><pubDate>Wed, 16 Sep 2026 11:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWIQyDk8kv</guid></item><item><title>올해가 우리가 익숙한 방식으로 일하는 마지막 해가 될 수도 있습니다.
+AI 평가 업체 Vals AI가 진행한 테스트에서 Astra는 반자동 블레이즈 농장을 구축해 블레이즈 막대 6개를 모으고, 엔더맨을 잡아 엔더 진주 3개까지 확보했는데요.
 
-샘 알트만은 “올해 말이면 일하는 방식 자체가 근본적으로 달라지는 특이점...</title><link>https://www.threads.net/@choi.openai/post/DdWBWgFj93w</link><description>올해가 우리가 익숙한 방식으로 일하는 마지막 해가 될 수도 있습니다.
+장시간 여러 단계를 계획하고 실행하는 능력을 보여줬지만, 예상치 못한 결말이 찾아왔습니다.
 
-샘 알트만은 “올해 말이면 일하는 방식 자체가 근본적으로 달라지는 특이점의 가능성을 보게 될 것”이라고 말했습니다.
+크리퍼 한 마리가 나타나 귀중품을 보관한 상자와 침대를 폭파해버린 겁니다.
 
-내부 모델은 이미 세계 최고의 수학자도 풀지 못하는 문제에 도달했다고 합니다.
+이후 Astra는 “중요 아이템을 방치된 상자에 보관하지 말 것”이라는 규칙까지 스스로 남겼습니다.</description><pubDate>Wed, 16 Sep 2026 15:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWnM0VAleE</guid></item><item><title>정말 중요한 발언입니다.
 
-놓치면 안 될 발언 7가지를 정리했습니다🧵</description><pubDate>Wed, 16 Sep 2026 10:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWBWgFj93w</guid></item><item><title>1/ 샘 알트만은 현재 내부 모델이 “세계 최고의 수학자조차 풀지 못하는 영역에 도달했다”며 경이로운 기술 도약을 설명했습니다.
+앤트로픽 CEO 다리오 아모데이(Dario Amodei)는 기업들이 AI의 진정한 가치를 아직 5~10% 수준밖에 활...</title><link>https://www.threads.net/@choi.openai/post/DdWczdAE4ki</link><description>정말 중요한 발언입니다.
 
-하지만 알트만...</title><link>https://www.threads.net/@choi.openai/post/DdV-Pnxjn0c</link><description>1/ 샘 알트만은 현재 내부 모델이 “세계 최고의 수학자조차 풀지 못하는 영역에 도달했다”며 경이로운 기술 도약을 설명했습니다.
+앤트로픽 CEO 다리오 아모데이(Dario Amodei)는 기업들이 AI의 진정한 가치를 아직 5~10% 수준밖에 활용하지 못하고 있다고 지적했는데요.
 
-하지만 알트만은 “모델 성능이 지나치게 빠르고 강력해졌기 때문에, 안전성과 정렬(Alignment)이 언제나 성능 발전보다 앞서도록 속도를 조절해야 한다”고 강조했습니다.</description><pubDate>Wed, 16 Sep 2026 10:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdV-Pnxjn0c</guid></item><item><title>2/ 샘 알트만은 AI 발전의 패러다임이 기술 개발에서 '인간과 경제의 실질적 확장'으로 전환되고 있다고 밝혔습니다.
+그는 AI 발전 속도가 당장 멈춘다고 가정하더라도 비즈니스 현장에서의 잠재력은 막대하다고 강조했습니다.
 
-그는 지난 10년이 불가...</title><link>https://www.threads.net/@choi.openai/post/DdV-SpYGlHK</link><description>2/ 샘 알트만은 AI 발전의 패러다임이 기술 개발에서 '인간과 경제의 실질적 확장'으로 전환되고 있다고 밝혔습니다.
+“현재 기술 수준에서 동결된다고 해도, 우리는 이 기술이 가진 잠재 가치의 겨우 5~10%만 쓰고 있을 뿐입니다.”
 
-그는 지난 10년이 불가능해 보였던 AGI 구현법을 알아내는 기술적 여정이었다면, 다가올 10년은 그 지능을 바탕으로 경제와 기업을 혁신하는 단계라고 강조했습니다.
+실제로 기업 데이터와 클로드(Claude)를 연동해 핵심 계약 현황이나 리스크를 실시간 대화로 분석하며 업무 생산성을 극대화하고 있지만, 이러한 혁신을 체감한 기업은 극소수에 불과합니다.
 
-“기계 자체의 의미가 아니라, 인간에게 어떤 의미를 주는지가 핵심입니다.”
-
-그는 AI를 인류가 신에게서 불을 가져온 것에 비유하며, 이제는 쏟아지는 엄청난 능력을 모든 개인과 기업에 공급해 역량을 끌어올리고 생산성을 극대화해야 한다고 덧붙였습니다.</description><pubDate>Wed, 16 Sep 2026 10:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdV-SpYGlHK</guid></item><item><title>3/ 샘 알트만은 2030년까지 인류 역사상 가장 거대한 기술적 경이들이 쏟아질 것이라고 전망했습니다.
-
-과학적 발견과 기술 발전은 이미 정해진...</title><link>https://www.threads.net/@choi.openai/post/DdV-VljnIvg</link><description>3/ 샘 알트만은 2030년까지 인류 역사상 가장 거대한 기술적 경이들이 쏟아질 것이라고 전망했습니다.
-
-과학적 발견과 기술 발전은 이미 정해진 수순(오토파일럿)이며, 그보다 더 중요한 것은 개인의 삶과 경제적 생산성의 변화라고 강조했습니다.
-
-그는 미래에 사람들이 “내 삶이 얼마나 더 나아졌는지 믿기지 않는다”, “혼자서 창업한 1인 기업이 이토록 훌륭하게 성장했다니 믿을 수 없다”고 말하게 되길 바란다고 밝혔습니다.
-
-AI가 단순한 기술 고도화를 넘어 개인의 역량을 극대화하고 1인 기업 시대를 여는 경제적 파급력을 가져올 것이라며, “과학적 혁신을 넘어 인간성의 영역이 어디까지 확장될 수 있는지가 핵심”이라고 짚었습니다.</description><pubDate>Wed, 16 Sep 2026 10:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdV-VljnIvg</guid></item></channel></rss>
+결국 미래 AI 시장의 승부처는 모델 성능 자체뿐만 아니라 기업의 실제 비즈니스 파이프라인에 AI를 얼마나 깊숙이 침투시켜 경제적 생산성 격차를 만들어내느냐에 달려 있습니다.</description><pubDate>Wed, 16 Sep 2026 14:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWczdAE4ki</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=wYFt9NCYaVI</title><link>https://www.threads.net/@choi.openai/post/DdWc07Kk9tl</link><description>풀영상 :
+https://www.youtube.com/watch?v=wYFt9NCYaVI</description><pubDate>Wed, 16 Sep 2026 14:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWc07Kk9tl</guid></item></channel></rss>
