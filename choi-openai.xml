@@ -1,51 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 16 Sep 2026 18:31:30 +0000</lastBuildDate><item><title>또 놀라운 신모델이 출시되려나 봅니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 17 Sep 2026 03:38:53 +0000</lastBuildDate><item><title>텍스트만 입력해도 바로 수정 가능한 SVG를 만드는 AI가 한 단계 더 발전했습니다.
 
-정체를 공개하지 않은 새로운 프론티어급 모델 Union Alpha가 등장했습니다.
+QuiverAI가 벡터 그래픽 생성 모델 Arrow 2와...</title><link>https://www.threads.net/@choi.openai/post/DdXvSHQjeAS</link><description>텍스트만 입력해도 바로 수정 가능한 SVG를 만드는 AI가 한 단계 더 발전했습니다.
 
-OpenRouter...</title><link>https://www.threads.net/@choi.openai/post/DdW7tB0AkyI</link><description>또 놀라운 신모델이 출시되려나 봅니다.
+QuiverAI가 벡터 그래픽 생성 모델 Arrow 2와 Arrow 2 Telos를 공개했습니다.
 
-정체를 공개하지 않은 새로운 프론티어급 모델 Union Alpha가 등장했습니다.
+Arrow 2는 더 빠르고 정교한 SVG 생성에 초점을 맞췄고, Telos는 복잡한 스타일과 구도 작업에 특화됐습니다.
 
-OpenRouter와 OpenCode에서 공개된 Union Alpha는 연구, 코딩, 에이전트 작업에 초점을 둔 멀티모달 모델로 256K 컨텍스트와 도구 호출을 지원합니다.
+새 앱에서는 대화로 결과를 수정하고 캔버스에서 직접 요소를 조정할 수 있으며, 생성물은 모두 편집 가능한 SVG로 저장됩니다.
 
-현재 무료로 제공되고 있으며, OpenCode 기준 약 1주일간 무료 사용이 가능하다고 안내됐습니다. 사용자 프롬프트와 응답은 학습에 사용하지 않는다고 합니다.
+API도 함께 공개됐습니다.</description><pubDate>Thu, 17 Sep 2026 02:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdXvSHQjeAS</guid></item><item><title>블로그 :
+https://quiver.ai/blog/introducing-arrow-2-0</title><link>https://www.threads.net/@choi.openai/post/DdXvTDxjZ8I</link><description>블로그 :
+https://quiver.ai/blog/introducing-arrow-2-0</description><pubDate>Thu, 17 Sep 2026 02:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdXvTDxjZ8I</guid></item><item><title>AI가 이제 업무를 돕는 수준을 넘어 회사 전체를 운영하기 시작했습니다.
 
-초기 DeepSWE 결과에서는 상위권 코딩 모델들과 비슷한 수준이라는 평가도 나오고 있는데요.
+Andon Labs가 사람의 개입 없이 회사를 운영하는 AI 에이전트...</title><link>https://www.threads.net/@choi.openai/post/DdXk-NWE86z</link><description>AI가 이제 업무를 돕는 수준을 넘어 회사 전체를 운영하기 시작했습니다.
 
-누가 만든 모델인지는 아직 공개되지 않았는데요.
-이번 주 프론티어 모델 출시가 대거 예고되어있는 만큼, Grok 4.8, Sol 6, GLM 5.x 등 다양한 추측이 나오는 상황입니다.</description><pubDate>Wed, 16 Sep 2026 18:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdW7tB0AkyI</guid></item><item><title>구글 딥마인드가 AGI 시대를 대비한 딥마인드 인스티튜트를 출범했습니다.
+Andon Labs가 사람의 개입 없이 회사를 운영하는 AI 에이전트 플랫폼 Pion을 공개했습니다.
+이메일·전화·브라우저·은행·결제까지 연결해 고객 응대부터 직원 관리, 재고 구매, 가격 결정, 마케팅까지 에이전트가 계속 처리합니다.
 
-공동 창업자 셰인 레그는 현재 AI가 기본 작업, 일관성, 창의성에서...</title><link>https://www.threads.net/@choi.openai/post/DdWxcZyCiP_</link><description>구글 딥마인드가 AGI 시대를 대비한 딥마인드 인스티튜트를 출범했습니다.
+이미 자판기뿐 아니라 샌프란시스코의 Andon Market, 카페, 라디오 방송국을 1년 넘게 운영하며 검증해왔는데요.
+매장에서는 Luna가 Slack으로 직원을 지시하고 재고를 주문하며, 라디오에서는 선곡·청취자 응대·결제·데이터 분석까지 맡습니다.
 
-공동 창업자 셰인 레그는 현재 AI가 기본 작업, 일관성, 창의성에서 부족하지만 이런 격차가 곧 좁혀질 것으로 보고 있다고 밝혔습니다.
+사용자는 Andonos라는 관리 에이전트에게 “매출을 늘려라” 같은 큰 방향만 전달하면 됩니다.
 
-딥마인드 인스티튜트는 AGI의 안전한 개발과 통제 문제, 사이버·바이오 위험, 경제와 일자리 변화, 사회 제도와 정책이 어떻게 바뀌어야 하는지까지 연구합니다.
+AI 에이전트가 직원이 되는 것을 넘어 사장과 경영진 역할까지 맡는 실험이 현실에서 시작됐습니다.</description><pubDate>Thu, 17 Sep 2026 00:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdXk-NWE86z</guid></item><item><title>주소 :
+https://andonlabs.com/pion</title><link>https://www.threads.net/@choi.openai/post/DdXk_bTE5kY</link><description>주소 :
+https://andonlabs.com/pion</description><pubDate>Thu, 17 Sep 2026 00:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdXk_bTE5kY</guid></item><item><title>Claude가 이제 질문에 답하는 챗봇과 업무를 대신 처리하는 에이전트를 하나로 합칩니다.
 
-데미스 허사비스, 제임스 마니카, 셰인 레그가 공동 디렉터를 맡습니다.</description><pubDate>Wed, 16 Sep 2026 17:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWxcZyCiP_</guid></item><item><title>주소 :
-https://institute.deepmind.com/essays/introducing-the-deepmind-institute/</title><link>https://www.threads.net/@choi.openai/post/DdWxe9migdQ</link><description>주소 :
-https://institute.deepmind.com/essays/introducing-the-deepmind-institute/</description><pubDate>Wed, 16 Sep 2026 17:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWxe9migdQ</guid></item><item><title>GPT-6 Astra가 마인크래프트에서 기존 AI가 도달하지 못했던 수준까지 진행했습니다.
+Claude Chat과 Cowork가 통합돼 짧은 ...</title><link>https://www.threads.net/@choi.openai/post/DdXan8YgTCZ</link><description>Claude가 이제 질문에 답하는 챗봇과 업무를 대신 처리하는 에이전트를 하나로 합칩니다.
 
-AI 평가 업체 Vals AI가 진행한 테스트에서 ...</title><link>https://www.threads.net/@choi.openai/post/DdWnM0VAleE</link><description>GPT-6 Astra가 마인크래프트에서 기존 AI가 도달하지 못했던 수준까지 진행했습니다.
+Claude Chat과 Cowork가 통합돼 짧은 질문부터 보고서 작성 같은 장기 작업까지 같은 화면에서 처리할 수 있고, 노트북을 닫아도 작업은 계속됩니다.
 
-AI 평가 업체 Vals AI가 진행한 테스트에서 Astra는 반자동 블레이즈 농장을 구축해 블레이즈 막대 6개를 모으고, 엔더맨을 잡아 엔더 진주 3개까지 확보했는데요.
+Claude Docs·Slides·Design도 대화 안에 들어와 문서 작성→슬라이드 변환→디자인 제작까지 이어서 할 수 있습니다.
 
-장시간 여러 단계를 계획하고 실행하는 능력을 보여줬지만, 예상치 못한 결말이 찾아왔습니다.
+Pro·Max부터 순차 적용되며, Docs·Slides·Design은 모든 유료 플랜에서 베타로 제공됩니다.</description><pubDate>Wed, 16 Sep 2026 23:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdXan8YgTCZ</guid></item><item><title>상세내용 :
+https://claude.com/blog/cowork-is-now-claude</title><link>https://www.threads.net/@choi.openai/post/DdXapIegdiS</link><description>상세내용 :
+https://claude.com/blog/cowork-is-now-claude</description><pubDate>Wed, 16 Sep 2026 23:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdXapIegdiS</guid></item><item><title>AI 에이전트가 이제 새 브라우저를 띄우는 대신, 이미 로그인된 내 브라우저 탭을 그대로 사용할 수 있습니다.
 
-크리퍼 한 마리가 나타나 귀중품을 보관한 상자와 침대를 폭파해버린 겁니다.
+Tencent가 BrowserS...</title><link>https://www.threads.net/@choi.openai/post/DdXQZKbkbu7</link><description>AI 에이전트가 이제 새 브라우저를 띄우는 대신, 이미 로그인된 내 브라우저 탭을 그대로 사용할 수 있습니다.
 
-이후 Astra는 “중요 아이템을 방치된 상자에 보관하지 말 것”이라는 규칙까지 스스로 남겼습니다.</description><pubDate>Wed, 16 Sep 2026 15:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWnM0VAleE</guid></item><item><title>정말 중요한 발언입니다.
+Tencent가 BrowserSkill을 오픈소스로 공개했습니다.
 
-앤트로픽 CEO 다리오 아모데이(Dario Amodei)는 기업들이 AI의 진정한 가치를 아직 5~10% 수준밖에 활...</title><link>https://www.threads.net/@choi.openai/post/DdWczdAE4ki</link><description>정말 중요한 발언입니다.
+기존 브라우저 에이전트는 로그인과 인증을 다시 해야 하는 경우가 많았지만, BrowserSkill은 현재 로그인 상태를 그대로 활용합니다.
+CAPTCHA나 확인 창이 뜨면 사용자에게 넘겼다가 다시 이어서 작업합니다.
 
-앤트로픽 CEO 다리오 아모데이(Dario Amodei)는 기업들이 AI의 진정한 가치를 아직 5~10% 수준밖에 활용하지 못하고 있다고 지적했는데요.
+CLI 방식이라 Cursor, Claude Code, Codex 등 셸 명령을 실행할 수 있는 에이전트에서 사용할 수 있고, 모든 작업은 로컬에서 실행됩니다.
 
-그는 AI 발전 속도가 당장 멈춘다고 가정하더라도 비즈니스 현장에서의 잠재력은 막대하다고 강조했습니다.
-
-“현재 기술 수준에서 동결된다고 해도, 우리는 이 기술이 가진 잠재 가치의 겨우 5~10%만 쓰고 있을 뿐입니다.”
-
-실제로 기업 데이터와 클로드(Claude)를 연동해 핵심 계약 현황이나 리스크를 실시간 대화로 분석하며 업무 생산성을 극대화하고 있지만, 이러한 혁신을 체감한 기업은 극소수에 불과합니다.
-
-결국 미래 AI 시장의 승부처는 모델 성능 자체뿐만 아니라 기업의 실제 비즈니스 파이프라인에 AI를 얼마나 깊숙이 침투시켜 경제적 생산성 격차를 만들어내느냐에 달려 있습니다.</description><pubDate>Wed, 16 Sep 2026 14:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWczdAE4ki</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=wYFt9NCYaVI</title><link>https://www.threads.net/@choi.openai/post/DdWc07Kk9tl</link><description>풀영상 :
-https://www.youtube.com/watch?v=wYFt9NCYaVI</description><pubDate>Wed, 16 Sep 2026 14:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdWc07Kk9tl</guid></item></channel></rss>
+또 에이전트가 탭을 빌리기 전 사용자 승인을 요구하도록 설계됐으며 MIT 라이선스로 공개됐습니다.</description><pubDate>Wed, 16 Sep 2026 21:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdXQZKbkbu7</guid></item><item><title>깃허브 :
+https://github.com/Tencent/BrowserSkill</title><link>https://www.threads.net/@choi.openai/post/DdXQai5EeXm</link><description>깃허브 :
+https://github.com/Tencent/BrowserSkill</description><pubDate>Wed, 16 Sep 2026 21:31:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdXQai5EeXm</guid></item></channel></rss>
