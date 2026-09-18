@@ -1,93 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 18 Sep 2026 03:24:47 +0000</lastBuildDate><item><title>앤트로픽이 AI 연구개발의 26%를 Claude가 주도한다고 밝혔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 18 Sep 2026 12:44:22 +0000</lastBuildDate><item><title>갤럭시 폴드 8 진짜 대단하네..
+feat. 젠슨황</title><link>https://www.threads.net/@choi.openai/post/DdbcX7bj9qX</link><description>갤럭시 폴드 8 진짜 대단하네..
+feat. 젠슨황</description><pubDate>Fri, 18 Sep 2026 12:32:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdbcX7bj9qX</guid></item><item><title>이제 모든 ChatGPT 사용자가 답변을 인터랙티브한 화면으로 만들어볼 수 있습니다.
 
-반년 전에는 1%도 되지 않았는데요.
+ChatGPT의 시각화 기능이 전체 사용자에게 확대됐는데...</title><link>https://www.threads.net/@choi.openai/post/DdbYtWtgaUe</link><description>이제 모든 ChatGPT 사용자가 답변을 인터랙티브한 화면으로 만들어볼 수 있습니다.
 
-다음 AI를 만드는 속도까지 ...</title><link>https://www.threads.net/@choi.openai/post/Ddaa4DOj21m</link><description>앤트로픽이 AI 연구개발의 26%를 Claude가 주도한다고 밝혔습니다.
+ChatGPT의 시각화 기능이 전체 사용자에게 확대됐는데요. “미니 앱으로 만들어줘”, “시뮬레이션으로 보여줘”처럼 요청하거나 @visualize 플러그인을 사용할 수 있습니다.
 
-반년 전에는 1%도 되지 않았는데요.
+예를 들어 저축 현황을 직접 조작하는 화면으로 분석하거나, 태양계를 탐험하고 게임 규칙을 실제로 플레이하며 배울 수도 있습니다.
 
-다음 AI를 만드는 속도까지 AI가 바꾸기 시작했습니다. 🧵</description><pubDate>Fri, 18 Sep 2026 03:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddaa4DOj21m</guid></item><item><title>1/ 앤트로픽이 자사 내부에서 AI 개발이 어떻게 진행되는지 보여주는 세 가지 측정치를 공개했습니다.
+ChatGPT가 답변 자체를 사용자가 직접 조작할 수 있는 형태로 보여주기 시작했습니다.</description><pubDate>Fri, 18 Sep 2026 12:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdbYtWtgaUe</guid></item><item><title>27B 모델이 5.9GB까지 작아졌는데도 원본 모델 성능의 98.2%를 유지했다고 합니다.
 
-AI가 다음 AI를 만드는 일을 얼마나 ...</title><link>https://www.threads.net/@choi.openai/post/Ddaa4l3j0IG</link><description>1/ 앤트로픽이 자사 내부에서 AI 개발이 어떻게 진행되는지 보여주는 세 가지 측정치를 공개했습니다.
+PrismML이 Qwen3.8 27B 기반 Tern...</title><link>https://www.threads.net/@choi.openai/post/DdbOa9bAjjT</link><description>27B 모델이 5.9GB까지 작아졌는데도 원본 모델 성능의 98.2%를 유지했다고 합니다.
 
-AI가 다음 AI를 만드는 일을 얼마나 맡는지, 에이전트의 행동을 얼마나 감독하는지, 컴퓨트라 부르는 연산 자원을 어디에 쓰는지입니다.
+PrismML이 Qwen3.8 27B 기반 Ternary Bonsai 2 27B를 공개했습니다.
+전체 정밀도 모델보다 약 9배 작지만, 이전 버전보다 코딩 에이전트·멀티모달 추론·장시간 도구 사용 성능을 개선했습니다.
 
-외부에서도 연구소 안의 변화를 추적할 수 있게 하겠다는 취지인데요.
+실제로 RTX 5090 한 장에서 Cline을 이용한 코딩과 컴퓨터 제어 작업을 로컬로 실행하는 모습도 공개했는데요.
 
-발표에는 측정 방법과 함께 실제 내부 수치가 담겼습니다.
+PrismML은 모델을 작게 만들면서 발생하는 성능 손실을 줄이는 데 초점을 맞췄으며, Apache 2.0으로 공개해 직접 내려받아 사용할 수 있습니다.</description><pubDate>Fri, 18 Sep 2026 10:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdbOa9bAjjT</guid></item><item><title>블로그 :
+https://prismml.com/news/bonsai-2-27b</title><link>https://www.threads.net/@choi.openai/post/DdbOedhAtWi</link><description>블로그 :
+https://prismml.com/news/bonsai-2-27b</description><pubDate>Fri, 18 Sep 2026 10:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdbOedhAtWi</guid></item><item><title>아이들 교육에 관심 있는 부모님들이라면 한번 보셔도 좋을 것 같습니다.
 
-연구 자동화와 에이전트 감독은 8월 기준, 연산 배분은 7월 중 일주일을 조사한 결과입니다.</description><pubDate>Fri, 18 Sep 2026 03:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddaa4l3j0IG</guid></item><item><title>2/ 가장 눈에 띄는 수치는 Claude가 ‘주도하는’ AI 연구개발의 비중입니다.
+Google Research가 교사가 원하는 수업 내용을 AI로 인터랙...</title><link>https://www.threads.net/@choi.openai/post/DdbEEOqkTMe</link><description>아이들 교육에 관심 있는 부모님들이라면 한번 보셔도 좋을 것 같습니다.
 
-올해 2월에는 1% 미만이었는데 8월에는 26%까지 올라왔...</title><link>https://www.threads.net/@choi.openai/post/Ddaa58ED2AL</link><description>2/ 가장 눈에 띄는 수치는 Claude가 ‘주도하는’ AI 연구개발의 비중입니다.
+Google Research가 교사가 원하는 수업 내용을 AI로 인터랙티브 시뮬레이션으로 만드는 연구를 공개했습니다.
 
-올해 2월에는 1% 미만이었는데 8월에는 26%까지 올라왔습니다.
-사람이 방향을 제시하면 AI가 업무 대부분을 끝까지 수행하고, 사람이 감독하는 수준입니다.
+예를 들어 행성 운동이나 포물선 운동을 글로 배우는 대신 직접 값을 바꿔 결과를 확인하고, 막히면 단계별 힌트와 피드백을 받을 수 있습니다.
 
-사람이 구체적으로 지시하며 AI와 협업하는 일까지 합치면 비중은 90%를 넘습니다. 
+현재 교사 검토를 거친 물리·화학·생물·수학 등 30개 이상의 STEM 예제가 공개됐습니다.
 
-앤트로픽의 측정 대상 중 사람의 관여 없이 완전히 자율적으로 돌아가는 업무는 아직 없습니다.
-
-그 사이에서 사람이 계속 붙어 있지 않아도 맡길 수 있는 업무가 빠르게 늘고 있는 것입니다.</description><pubDate>Fri, 18 Sep 2026 03:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddaa58ED2AL</guid></item><item><title>3/ ‘AI가 주도한다’는 말을 고장 난 데이터 처리 프로그램을 고치는 상황으로 풀어보면 쉽습니다.
-
-사람이 Claude에게 장애 알림을 넘기면...</title><link>https://www.threads.net/@choi.openai/post/Ddaa66cj7Oe</link><description>3/ ‘AI가 주도한다’는 말을 고장 난 데이터 처리 프로그램을 고치는 상황으로 풀어보면 쉽습니다.
-
-사람이 Claude에게 장애 알림을 넘기면, Claude가 로그를 읽고 원인을 찾아 코드를 고칩니다. 중간에 새 문제가 생겨도 처리하고, 복사한 데이터로 다시 실행해 결과를 비교한 뒤 수정 내용을 보고합니다.
-
-실제 서비스에 반영할지는 사람이 결정합니다.
-이것이 이번 26%에 해당하는 단계인데요.
-
-장애를 스스로 발견하고 수정·검증·서비스 반영까지 사람 없이 끝내는 완전 자율 단계와는 사람에게 남겨 둔 권한이 다릅니다.</description><pubDate>Fri, 18 Sep 2026 03:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddaa66cj7Oe</guid></item><item><title>🚨 알리바바가 Qwen3.8-Omni-Flash를 공개했습니다.
-
-일부 도구 사용 평가에서 앞서면서, 텍스트 출력 단가는 약 8분의 1로 제시했...</title><link>https://www.threads.net/@choi.openai/post/DdaQj6_jyKZ</link><description>🚨 알리바바가 Qwen3.8-Omni-Flash를 공개했습니다.
-
-일부 도구 사용 평가에서 앞서면서, 텍스트 출력 단가는 약 8분의 1로 제시했습니다.
-
-발표 내용을 정리했습니다 🧵</description><pubDate>Fri, 18 Sep 2026 01:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdaQj6_jyKZ</guid></item><item><title>1/ 알리바바 Qwen팀이 Qwen3.8-Omni-Flash를 발표했습니다.
-텍스트·이미지·음성·영상을 입력받고, 한 번에 처리하는 문맥은 10...</title><link>https://www.threads.net/@choi.openai/post/DdaQkh8D2lf</link><description>1/ 알리바바 Qwen팀이 Qwen3.8-Omni-Flash를 발표했습니다.
-텍스트·이미지·음성·영상을 입력받고, 한 번에 처리하는 문맥은 100만 토큰까지 지원합니다.
-
-지난 3월 소개한 Qwen3.5-Omni에서도 화면을 보여주며 말로 코딩을 지시하는 기능이 있었는데요.
-
-이번에는 영상에서 필요한 장면을 찾고, 도구를 호출하고, 만든 결과물을 다시 검토하는 긴 작업으로 활용 범위를 넓혔습니다.
-
-공식 발표에는 회의 후속 작업, 영상 편집·번역, 학습 자료 제작 등이 실제 데모로 담겼고, 이용 경로는 API로 안내돼 있습니다.</description><pubDate>Fri, 18 Sep 2026 01:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdaQkh8D2lf</guid></item><item><title>2/ 가격부터 보면, 기본 API의 텍스트 100만 토큰당 입력은 0.15달러, 출력은 0.47달러입니다.
-
-싱가포르 국제 리전 기준이며, 앞서...</title><link>https://www.threads.net/@choi.openai/post/DdaQlp_jztX</link><description>2/ 가격부터 보면, 기본 API의 텍스트 100만 토큰당 입력은 0.15달러, 출력은 0.47달러입니다.
-
-싱가포르 국제 리전 기준이며, 앞서 소개한 Gemini 3.8 Flash의 출시 프로모션 단가 0.75달러·3.75달러와 비교하면 각각 5분의 1, 약 8분의 1입니다.
-
-회사가 계산한 시간당 입력 비용은 음성 0.01달러 미만, 음성이 포함된 영상 0.20달러로, 이전 Omni-Plus 대비 각각 98% 이상·93% 이상 줄었습니다.
-
-영상 비용은 720p·초당 1프레임으로 2분 입력 비용을 30배 한 추정치입니다.
-지역별 요금은 다르며, 답변 출력과 영상 생성 도구 비용은 따로 더해집니다.</description><pubDate>Fri, 18 Sep 2026 01:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdaQlp_jztX</guid></item><item><title>3/ 성능은 어떤 일을 시켰는지에 따라 차이가 납니다.
-회사는 29개 평가 평균이 Qwen3.5-Omni-Plus 대비 25% 넘게 개선됐다고 ...</title><link>https://www.threads.net/@choi.openai/post/DdaQm5WD2Kl</link><description>3/ 성능은 어떤 일을 시켰는지에 따라 차이가 납니다.
-회사는 29개 평가 평균이 Qwen3.5-Omni-Plus 대비 25% 넘게 개선됐다고 밝혔는데요.
-
-이미지·음성·영상이 포함된 도구 사용 과제를 Claude Code에서 실행한 WildClawBench-MM은 Qwen 71.0점, Gemini 3.8 Flash 58.9점입니다.
-
-반면 별도 에이전트 실행 환경 없이 웹 검색을 평가한 OmniGAIA는 74.0 대 78.6, Claude Code에서 영상 작업을 평가한 AgenticVBench는 36.8 대 45.0으로 Gemini가 앞섭니다.
-
-공개된 회사 자체 평가에서는 멀티모달 도구 사용의 강점과 검색·영상 작업의 남은 차이가 함께 보입니다.</description><pubDate>Fri, 18 Sep 2026 01:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdaQm5WD2Kl</guid></item><item><title>오픈AI가 어디까지 시장을 확장하려는 걸까요..
-
-이번에는 법률 업무에 특화된 Astra for Law를 공개했습니다.
-
-GPT-6 Astra에...</title><link>https://www.threads.net/@choi.openai/post/DdaGMn7jEWJ</link><description>오픈AI가 어디까지 시장을 확장하려는 걸까요..
-
-이번에는 법률 업무에 특화된 Astra for Law를 공개했습니다.
-
-GPT-6 Astra에 법률 분석과 문서 작성 기능을 적용하고, 미국 판례·법령·규정 등 2억 3천만 개 이상의 URL을 검색하는 Legal Search Index도 제공합니다.
-
-Thomson Reuters, Harvey 등과 만든 법률 플러그인까지 지원하며, 우선 일부 로펌에 제공한 뒤 API도 출시할 예정입니다.
-
-한국도 판례 데이터가 어서 빨리 공개되면 좋겠네요.</description><pubDate>Fri, 18 Sep 2026 00:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdaGMn7jEWJ</guid></item><item><title>발표 :
-https://openai.com/index/astra-for-law/</title><link>https://www.threads.net/@choi.openai/post/DdaGSxXD017</link><description>발표 :
-https://openai.com/index/astra-for-law/</description><pubDate>Fri, 18 Sep 2026 00:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdaGSxXD017</guid></item><item><title>Claude가 이제 하나의 대화에서 여러 작업을 병렬로 진행할 수 있게 됩니다.
-
-Claude Projects가 개편돼 요청을 여러 스레드로 나...</title><link>https://www.threads.net/@choi.openai/post/DdZ4jYqjP8_</link><description>Claude가 이제 하나의 대화에서 여러 작업을 병렬로 진행할 수 있게 됩니다.
-
-Claude Projects가 개편돼 요청을 여러 스레드로 나눠 처리하고, 노트북을 꺼도 클라우드에서 계속 작업합니다.
-
-각 스레드는 프로젝트 메모리와 파일을 공유하며, 사용자는 휴대폰에서도 진행 상황을 확인하고 개입할 수 있습니다.
-
-현재 일부 Pro·Max 사용자에게 베타로 제공되며, 이후 전체 사용자로 확대될 예정입니다.</description><pubDate>Thu, 17 Sep 2026 22:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdZ4jYqjP8_</guid></item></channel></rss>
+앞으로 아이들이 공부하는 방식이 꽤 달라질 것 같습니다.</description><pubDate>Fri, 18 Sep 2026 09:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdbEEOqkTMe</guid></item><item><title>주소 :
+https://research.google/blog/the-future-of-practice-enabling-teachers-to-cr...</title><link>https://www.threads.net/@choi.openai/post/DdbEFmAEeO5</link><description>주소 :
+https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/</description><pubDate>Fri, 18 Sep 2026 09:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdbEFmAEeO5</guid></item></channel></rss>
