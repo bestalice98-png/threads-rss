@@ -1,62 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 19 Sep 2026 03:21:27 +0000</lastBuildDate><item><title>구글 돌아왔냐..?
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 19 Sep 2026 12:18:06 +0000</lastBuildDate><item><title>앤트로픽이 이제 AI로 생물학을 연구하는 것을 넘어 실제 생물학 실험까지 시작했습니다.
 
-WSJ에 따르면 구글의 Gemini가 사이버보안 테스트 도중 인터넷에 접속해 실제 기업 3곳을 해킹한 사례가 확인됐습니다....</title><link>https://www.threads.net/@choi.openai/post/Ddc_q2LEx4O</link><description>구글 돌아왔냐..?
+Reuters에 따르면 앤트로픽은 샌프란시스코 베이 지...</title><link>https://www.threads.net/@choi.openai/post/Ddd2nkTEiRm</link><description>앤트로픽이 이제 AI로 생물학을 연구하는 것을 넘어 실제 생물학 실험까지 시작했습니다.
 
-WSJ에 따르면 구글의 Gemini가 사이버보안 테스트 도중 인터넷에 접속해 실제 기업 3곳을 해킹한 사례가 확인됐습니다.
+Reuters에 따르면 앤트로픽은 샌프란시스코 베이 지역에 습식 실험실을 구축했으며, 내부 연구진과 외부 파트너를 통해 실제 물리적인 생물학 실험을 진행하고 있습니다. 
+Claude가 실험실 로봇을 직접 제어해 실험 과정을 자동화하는 방향도 연구 중입니다.
 
-다만 Gemini는 가상 해킹 평가라고 안내받았고, 실제 기업이라는 사실을 알아차린 뒤에는 모두 즉시 중단했다고 합니다.
+앤트로픽 생명과학 책임자 Eric Kauderer-Abrams는 “AI를 이용해 실험실 작업 자체를 자동화하는 것은 아직 매우 초기 단계”라고 설명했습니다. 앤트로픽은 해당 실험실이 특정 신약 개발만을 위한 시설은 아니라고 밝혔습니다.
 
-구글도 이를 모델 오정렬 사례로 보지는 않았는데요.
+최근에는 Adaptyv Bio와 함께 AI로 새로운 의약품 후보 단백질을 설계하는 대규모 Protein Design Competition도 시작했는데요.
 
-최근 중국발 Gemini 4 벤치마크 결과가 돌아다니는 가운데, Gemini 4 Pro가 실제 좋은 성능을 낼지 기대가 됩니다.</description><pubDate>Sat, 19 Sep 2026 03:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddc_q2LEx4O</guid></item><item><title>기사 :
-https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-br...</title><link>https://www.threads.net/@choi.openai/post/Ddc_sKHEwjI</link><description>기사 :
-https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2</description><pubDate>Sat, 19 Sep 2026 03:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddc_sKHEwjI</guid></item><item><title>드디어 Claude Code가 AGENTS.md를 공식 지원합니다.
+앞으로는 AI가 가설을 세우고 로봇에게 실험을 지시한 뒤 결과를 분석하고 다시 다음 실험을 설계하는 과정까지 이어질 수 있을 것 같습니다.</description><pubDate>Sat, 19 Sep 2026 11:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddd2nkTEiRm</guid></item><item><title>기사 :
+https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramp...</title><link>https://www.threads.net/@choi.openai/post/Ddd2om1ErPU</link><description>기사 :
+https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/</description><pubDate>Sat, 19 Sep 2026 11:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddd2om1ErPU</guid></item><item><title>기다리던 기능이 드디어 출시됐습니다.
 
-2.1.277 버전부터 폴더에 CLAUDE.md가 없으면 AGENTS.md...</title><link>https://www.threads.net/@choi.openai/post/Ddc4zbmASR0</link><description>드디어 Claude Code가 AGENTS.md를 공식 지원합니다.
+이제 ChatGPT에서 하나의 플러그인에 여러 계정을 동시에 연결할 수 있습니다.
 
-2.1.277 버전부터 폴더에 CLAUDE.md가 없으면 AGENTS.md를 찾아 프로젝트 지침으로 사용합니다.
+예를 들어 구글 캘린...</title><link>https://www.threads.net/@choi.openai/post/DddsTJmDCdw</link><description>기다리던 기능이 드디어 출시됐습니다.
 
-AGENTS.md는 Codex 등 여러 코딩 에이전트가 같은 프로젝트 지침을 공유하기 위한 형식인데요. 오픈AI의 Romain Huet도 “생태계가 하나의 표준으로 모이고 있다”며 환영했습니다.
+이제 ChatGPT에서 하나의 플러그인에 여러 계정을 동시에 연결할 수 있습니다.
 
-이제 도구마다 별도의 지침 파일을 관리해야 하는 번거로움이 줄어들 것 같습니다.</description><pubDate>Sat, 19 Sep 2026 02:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddc4zbmASR0</guid></item><item><title>🚨 SpaceXAI가 음성→텍스트 모델 Grok Voice Transcribe 2.0을 발표했습니다.
+예를 들어 구글 캘린더에 회사 계정과 개인 계정을 모두 연결한 뒤, “두 캘린더 모두 비어 있는 시간을 찾아줘”라고 요청할 수 있습니다.
 
-이전 버전보다 고객지원 통화, 음성 자격...</title><link>https://www.threads.net/@choi.openai/post/Ddcuk_9gV61</link><description>🚨 SpaceXAI가 음성→텍스트 모델 Grok Voice Transcribe 2.0을 발표했습니다.
+업무용과 개인용 계정의 정보를 하나의 대화에서 함께 활용할 수 있게 된 건데요.
+데스크톱 앱에서도 지원하며, 대부분의 플러그인에서 바로 사용할 수 있습니다.
 
-이전 버전보다 고객지원 통화, 음성 자격증명, 짧은 음성 명령에서 정확도가 2배 개선됐고, Artificial Analysis의 32개 스트리밍 모델 비교에서도 정확도 1위를 기록했습니다.
+그동안 계정이 여러 개라 플러그인 활용이 애매했던 분들에게 꽤 필요했던 기능이 드디어 추가됐습니다.</description><pubDate>Sat, 19 Sep 2026 09:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DddsTJmDCdw</guid></item><item><title>상세내용 :
+https://developers.openai.com/plugins/build/auth#support-multiple-account...</title><link>https://www.threads.net/@choi.openai/post/DddsUWojA3F</link><description>상세내용 :
+https://developers.openai.com/plugins/build/auth#support-multiple-accounts</description><pubDate>Sat, 19 Sep 2026 09:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DddsUWojA3F</guid></item><item><title>Jev는 미래 LLM의 초고속 추론을 먼저 경험시켜준 것 같다.
 
-가격은 배치 처리 시간당 $0.10, 실시간 스트리밍은 시간당 $0.20입니다.
+dLLM이 생성속도의 가능성을 보여줬듯이, 고성능 LLM의 판단이 이 정도로 ...</title><link>https://www.threads.net/@choi.openai/post/Dddo4NiDiUx</link><description>Jev는 미래 LLM의 초고속 추론을 먼저 경험시켜준 것 같다.
 
-음성 인식 모델도 이제 정확도뿐 아니라 비용까지 빠르게 낮아지고 있습니다.</description><pubDate>Sat, 19 Sep 2026 00:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddcuk_9gV61</guid></item><item><title>발표내용 :
-https://x.ai/news/grok-voice-transcribe-2</title><link>https://www.threads.net/@choi.openai/post/DdcumHkgY1g</link><description>발표내용 :
-https://x.ai/news/grok-voice-transcribe-2</description><pubDate>Sat, 19 Sep 2026 00:31:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdcumHkgY1g</guid></item><item><title>와.. 진짜 미쳤네..
+dLLM이 생성속도의 가능성을 보여줬듯이, 고성능 LLM의 판단이 이 정도로 빠르고 저렴해졌을 때 에이전트가 어떻게 달라질지 너무 기대가 됩니다.
 
-이번 주 가장 핫한 소식은 역시나 Jev입니다.
+당장 현재 서비스되고 있는 에이전트 도구들에 Jev-like 모델을 판단 레이어로 붙이는 것만으로도 속도와 비용, 한 작업에서 가능한 판단 횟수, 실행 방식까지 몇 단계가 올라갈 것으로 보입니다.
 
-항공권을 7초 만에 찾고, 광고 724개를 40초 만에 분석하고, 1...</title><link>https://www.threads.net/@choi.openai/post/DdckNs5k8qw</link><description>와.. 진짜 미쳤네..
+과거 Groq으로 소형모델을 통해 초고속 필터 시스템을 만들어봤을때 그런 임팩트가 다시 찾아오는 것 같습니다.
 
-이번 주 가장 핫한 소식은 역시나 Jev입니다.
+물론 Jev도 성능을 끌어올리면서 지금과 같은 가격과 속도의 우위를 유지한다면 별도의 영역을 만들어갈 가능성도 있어 보입니다.
 
-항공권을 7초 만에 찾고, 광고 724개를 40초 만에 분석하고, 1,018개 논문을 단 $0.08에 분류했습니다.
+개인적으로는 Jev의 성능이 어디까지 올라갈지도 궁금하지만, 이 정도 가격과 속도를 보여주는 TypeSafe AI를 결국 누가 인수하게 될지도 궁금하네요.</description><pubDate>Sat, 19 Sep 2026 09:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dddo4NiDiUx</guid></item><item><title>Meta가 SAM 3.1을 Meta Model API에서 공식 제공하기 시작했습니다.
 
-게임, 채용, 코딩, 트레이딩까지 벌써 별별 사례가 나오고 있는데요.
+짧은 문장으로 대상을 지정하면 이미지·영상에서 객체 탐지...</title><link>https://www.threads.net/@choi.openai/post/DddiFuKCtIc</link><description>Meta가 SAM 3.1을 Meta Model API에서 공식 제공하기 시작했습니다.
 
-Jev의 미친 활용 사례 15가지를 정리했습니다🧵</description><pubDate>Fri, 18 Sep 2026 23:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdckNs5k8qw</guid></item><item><title>1/ Jev로 가상의 소비자 150명에게 제품 도입 의향을 조사하는 시스템을 만든 사례가 공개됐습니다.
+짧은 문장으로 대상을 지정하면 이미지·영상에서 객체 탐지, 픽셀 단위 분할, 동일 객체 추적까지 한 번의 API 호출로 처리합니다.
 
-1인당 12개씩 총 1,800개 질문을...</title><link>https://www.threads.net/@choi.openai/post/DdcitFCoH2Z</link><description>1/ Jev로 가상의 소비자 150명에게 제품 도입 의향을 조사하는 시스템을 만든 사례가 공개됐습니다.
+가격은 이미지 1,000장당 $2.50, 영상 1,000프레임당 $0.20인데요.
 
-1인당 12개씩 총 1,800개 질문을 처리하는 데 약 5초가 걸렸고, 비용은 1.8엔이었습니다.
-
-x@ytiskw</description><pubDate>Fri, 18 Sep 2026 23:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdcitFCoH2Z</guid></item><item><title>2/ Jev와 Browser Use를 연결해 항공편을 검색하는 브라우저 에이전트를 만든 사례가 공개됐습니다.
-
-웹사이트를 직접 조작해 항공편을 ...</title><link>https://www.threads.net/@choi.openai/post/DdcivP3nRM_</link><description>2/ Jev와 Browser Use를 연결해 항공편을 검색하는 브라우저 에이전트를 만든 사례가 공개됐습니다.
-
-웹사이트를 직접 조작해 항공편을 찾는 데 약 7초가 걸렸고, 비용은 0.0039달러였습니다.
-
-x@gregpr07</description><pubDate>Fri, 18 Sep 2026 23:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdcivP3nRM_</guid></item><item><title>3/ Jev로 한 사람의 경력과 400개 기업을 비교해 취업 가능성이 높은 일자리를 찾는 시스템을 만든 사례가 공개됐습니다.
-
-직무 적합도와 불...</title><link>https://www.threads.net/@choi.openai/post/Ddcix-MDrXT</link><description>3/ Jev로 한 사람의 경력과 400개 기업을 비교해 취업 가능성이 높은 일자리를 찾는 시스템을 만든 사례가 공개됐습니다.
-
-직무 적합도와 불일치를 분석해 신뢰도까지 매기는 데 12초가 걸렸고, 비용은 0.0005달러였습니다.
-
-x@sarvagya_kul</description><pubDate>Fri, 18 Sep 2026 23:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddcix-MDrXT</guid></item></channel></rss>
+비전 기능을 서비스에 붙이려는 개발자들에게 꽤 실용적인 선택지가 될 것 같습니다.</description><pubDate>Sat, 19 Sep 2026 08:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DddiFuKCtIc</guid></item><item><title>상세 내용 :
+https://developer.meta.com/ai/models/sam-3-1/</title><link>https://www.threads.net/@choi.openai/post/DddiH_ECpaF</link><description>상세 내용 :
+https://developer.meta.com/ai/models/sam-3-1/</description><pubDate>Sat, 19 Sep 2026 08:01:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DddiH_ECpaF</guid></item></channel></rss>
