@@ -1,52 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 19 Sep 2026 12:18:06 +0000</lastBuildDate><item><title>앤트로픽이 이제 AI로 생물학을 연구하는 것을 넘어 실제 생물학 실험까지 시작했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 19 Sep 2026 17:33:31 +0000</lastBuildDate><item><title>‘AI의 대부’ 제프리 힌튼(Geoffrey Hinton) 교수는 의회가 AI를 규제할 수 있는 시간이 “기껏해야 1년 남짓”일 수 있다고 경고...</title><link>https://www.threads.net/@choi.openai/post/Ddef2r5iSOX</link><description>‘AI의 대부’ 제프리 힌튼(Geoffrey Hinton) 교수는 의회가 AI를 규제할 수 있는 시간이 “기껏해야 1년 남짓”일 수 있다고 경고했습니다.
 
-Reuters에 따르면 앤트로픽은 샌프란시스코 베이 지...</title><link>https://www.threads.net/@choi.openai/post/Ddd2nkTEiRm</link><description>앤트로픽이 이제 AI로 생물학을 연구하는 것을 넘어 실제 생물학 실험까지 시작했습니다.
+그는 초지능 도달 시점이 과거의 예측(30~50년)에서 불과 ‘몇 년’ 수준으로 앞당겨졌다고 지적했습니다.
 
-Reuters에 따르면 앤트로픽은 샌프란시스코 베이 지역에 습식 실험실을 구축했으며, 내부 연구진과 외부 파트너를 통해 실제 물리적인 생물학 실험을 진행하고 있습니다. 
-Claude가 실험실 로봇을 직접 제어해 실험 과정을 자동화하는 방향도 연구 중입니다.
+핵심 원인은 AI가 스스로 더 뛰어난 AI를 개발하는 “재귀적 자기 개선(Recursive self-improvement)” 단계에 진입했기 때문입니다.
 
-앤트로픽 생명과학 책임자 Eric Kauderer-Abrams는 “AI를 이용해 실험실 작업 자체를 자동화하는 것은 아직 매우 초기 단계”라고 설명했습니다. 앤트로픽은 해당 실험실이 특정 신약 개발만을 위한 시설은 아니라고 밝혔습니다.
+힌튼 교수는 최근 허깅페이스(Hugging Face) 탈주 사고를 “작은 체르노빌”에 비유하며, 통제를 벗어난 탈주 에이전트(Rogue agents)의 위험성을 지적했습니다.
 
-최근에는 Adaptyv Bio와 함께 AI로 새로운 의약품 후보 단백질을 설계하는 대규모 Protein Design Competition도 시작했는데요.
+빅테크 기업들이 가장 똑똑한 AI를 만들기 위한 속도전에만 매몰되어 있다고 비판하며, 통제 방안을 확보할 때까지 “개발 속도를 늦춰야 한다”고 강조했습니다.</description><pubDate>Sat, 19 Sep 2026 17:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddef2r5iSOX</guid></item><item><title>GPT-6 Astra가 수학자들과 함께 2017년부터 풀리지 않던 위원회 선출 문제를 해결했습니다.
 
-앞으로는 AI가 가설을 세우고 로봇에게 실험을 지시한 뒤 결과를 분석하고 다시 다음 실험을 설계하는 과정까지 이어질 수 있을 것 같습니다.</description><pubDate>Sat, 19 Sep 2026 11:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddd2nkTEiRm</guid></item><item><title>기사 :
-https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramp...</title><link>https://www.threads.net/@choi.openai/post/Ddd2om1ErPU</link><description>기사 :
-https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/</description><pubDate>Sat, 19 Sep 2026 11:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddd2om1ErPU</guid></item><item><title>기다리던 기능이 드디어 출시됐습니다.
+Becker, Greger, Peters가...</title><link>https://www.threads.net/@choi.openai/post/DdeVhYuATt7</link><description>GPT-6 Astra가 수학자들과 함께 2017년부터 풀리지 않던 위원회 선출 문제를 해결했습니다.
 
-이제 ChatGPT에서 하나의 플러그인에 여러 계정을 동시에 연결할 수 있습니다.
+Becker, Greger, Peters가 Astra와 긴 대화를 주고받으며 증명을 완성했는데요. 반례를 찾은 것이 아니라, 애초에 그런 반례가 존재하지 않는다는 것을 증명했습니다.
 
-예를 들어 구글 캘린...</title><link>https://www.threads.net/@choi.openai/post/DddsTJmDCdw</link><description>기다리던 기능이 드디어 출시됐습니다.
+Epoch AI는 이를 FrontierMath Open Problems에서 처음 나온 ‘Major Advance’ 사례로 분류했습니다.
+또 사람과 AI가 함께 해결한 문제로 기록했지만, 아이디어 대부분은 Astra에서 나왔다고 설명했습니다.
 
-이제 ChatGPT에서 하나의 플러그인에 여러 계정을 동시에 연결할 수 있습니다.
+Peters 역시 Astra가 없었다면 해당 증명을 찾기 어려웠을 것이라고 밝혔습니다.
 
-예를 들어 구글 캘린더에 회사 계정과 개인 계정을 모두 연결한 뒤, “두 캘린더 모두 비어 있는 시간을 찾아줘”라고 요청할 수 있습니다.
+이제 AI 수학 성능을 볼 때 벤치마크 점수만 볼 단계는 지난 것 같습니다.
 
-업무용과 개인용 계정의 정보를 하나의 대화에서 함께 활용할 수 있게 된 건데요.
-데스크톱 앱에서도 지원하며, 대부분의 플러그인에서 바로 사용할 수 있습니다.
+사람이 몇 년 동안 붙잡고 있던 미해결 문제에서 실제로 새로운 아이디어와 증명을 만들어내는 사례가 계속 나오기 시작했습니다.</description><pubDate>Sat, 19 Sep 2026 15:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeVhYuATt7</guid></item><item><title>내용 :
+https://epoch.ai/frontiermath/open-problems/committee-election</title><link>https://www.threads.net/@choi.openai/post/DdeViZ2gf45</link><description>내용 :
+https://epoch.ai/frontiermath/open-problems/committee-election</description><pubDate>Sat, 19 Sep 2026 15:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeViZ2gf45</guid></item><item><title>브라우저 에이전트에서 더 큰 AI 모델이 꼭 필요한 건 아닐지도 모르겠습니다.
 
-그동안 계정이 여러 개라 플러그인 활용이 애매했던 분들에게 꽤 필요했던 기능이 드디어 추가됐습니다.</description><pubDate>Sat, 19 Sep 2026 09:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DddsTJmDCdw</guid></item><item><title>상세내용 :
-https://developers.openai.com/plugins/build/auth#support-multiple-account...</title><link>https://www.threads.net/@choi.openai/post/DddsUWojA3F</link><description>상세내용 :
-https://developers.openai.com/plugins/build/auth#support-multiple-accounts</description><pubDate>Sat, 19 Sep 2026 09:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DddsUWojA3F</guid></item><item><title>Jev는 미래 LLM의 초고속 추론을 먼저 경험시켜준 것 같다.
+Nekuda AI가 WebMCP 벤치마크에서 Jev + Merc...</title><link>https://www.threads.net/@choi.openai/post/DdeLOejE0Qv</link><description>브라우저 에이전트에서 더 큰 AI 모델이 꼭 필요한 건 아닐지도 모르겠습니다.
 
-dLLM이 생성속도의 가능성을 보여줬듯이, 고성능 LLM의 판단이 이 정도로 ...</title><link>https://www.threads.net/@choi.openai/post/Dddo4NiDiUx</link><description>Jev는 미래 LLM의 초고속 추론을 먼저 경험시켜준 것 같다.
+Nekuda AI가 WebMCP 벤치마크에서 Jev + Mercury 2.5 조합으로 49개 작업을 모두 해결했습니다. GPT-6 Astra의 컴퓨터 제어 방식과 비교하면 모델 비용은 약 112배 낮았고, 스크린샷 기반 방식과 비교하면 약 245배 낮았습니다.
 
-dLLM이 생성속도의 가능성을 보여줬듯이, 고성능 LLM의 판단이 이 정도로 빠르고 저렴해졌을 때 에이전트가 어떻게 달라질지 너무 기대가 됩니다.
+Jev만 브라우저를 직접 조작했을 때는 49개 중 25개만 성공했지만, WebMCP를 붙이자 49개 모두 성공했습니다.
 
-당장 현재 서비스되고 있는 에이전트 도구들에 Jev-like 모델을 판단 레이어로 붙이는 것만으로도 속도와 비용, 한 작업에서 가능한 판단 횟수, 실행 방식까지 몇 단계가 올라갈 것으로 보입니다.
+화면을 보고 버튼 위치를 찾아 하나씩 클릭하는 대신, 웹사이트가 ‘상품 검색’, ‘예약’ 같은 기능을 AI에게 도구로 직접 제공하는 방식인데요.
 
-과거 Groq으로 소형모델을 통해 초고속 필터 시스템을 만들어봤을때 그런 임팩트가 다시 찾아오는 것 같습니다.
+AI 에이전트 경쟁에서 모델 성능만큼 중요한 게 AI가 웹사이트와 어떤 방식으로 연결되는지가 될 것 같습니다.</description><pubDate>Sat, 19 Sep 2026 14:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeLOejE0Qv</guid></item><item><title>벤치마크 결과 :
+https://webmcp.com/benchmark</title><link>https://www.threads.net/@choi.openai/post/DdeLP6Ak67w</link><description>벤치마크 결과 :
+https://webmcp.com/benchmark</description><pubDate>Sat, 19 Sep 2026 14:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeLP6Ak67w</guid></item><item><title>XGEN Labs가 JING과 DAO를 결합한 Generative World Simulation을 공개했습니다.
 
-물론 Jev도 성능을 끌어올리면서 지금과 같은 가격과 속도의 우위를 유지한다면 별도의 영역을 만들어갈 가능성도 있어 보입니다.
+JING은 AI 에이전트가 1...</title><link>https://www.threads.net/@choi.openai/post/DdeA4-5DYWV</link><description>XGEN Labs가 JING과 DAO를 결합한 Generative World Simulation을 공개했습니다.
 
-개인적으로는 Jev의 성능이 어디까지 올라갈지도 궁금하지만, 이 정도 가격과 속도를 보여주는 TypeSafe AI를 결국 누가 인수하게 될지도 궁금하네요.</description><pubDate>Sat, 19 Sep 2026 09:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dddo4NiDiUx</guid></item><item><title>Meta가 SAM 3.1을 Meta Model API에서 공식 제공하기 시작했습니다.
+JING은 AI 에이전트가 1인칭 시점으로 주변을 보고 이동하거나 물건을 조작하고 다른 에이전트와 대화하도록 합니다. WBench에서도 Full 부문 1위, Navi 부문 2위를 기록했습니다.
 
-짧은 문장으로 대상을 지정하면 이미지·영상에서 객체 탐지...</title><link>https://www.threads.net/@choi.openai/post/DddiFuKCtIc</link><description>Meta가 SAM 3.1을 Meta Model API에서 공식 제공하기 시작했습니다.
+DAO는 그 뒤에서 세계 전체를 관리합니다. 누가 무엇을 움직였는지, 어떤 일이 발생했는지, 세계의 규칙과 상태가 어떻게 바뀌었는지를 계속 계산합니다.
+사용자가 보고 있지 않는 곳에서도 다른 AI 에이전트들은 각자 판단해 행동할 수 있습니다.
 
-짧은 문장으로 대상을 지정하면 이미지·영상에서 객체 탐지, 픽셀 단위 분할, 동일 객체 추적까지 한 번의 API 호출로 처리합니다.
+기존 생성형 AI가 다음 장면을 만들어냈다면, XGEN Labs는 이전에 일어난 사건이 다음 순간에도 영향을 주는 세계를 만들려는 겁니다.
 
-가격은 이미지 1,000장당 $2.50, 영상 1,000프레임당 $0.20인데요.
-
-비전 기능을 서비스에 붙이려는 개발자들에게 꽤 실용적인 선택지가 될 것 같습니다.</description><pubDate>Sat, 19 Sep 2026 08:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DddiFuKCtIc</guid></item><item><title>상세 내용 :
-https://developer.meta.com/ai/models/sam-3-1/</title><link>https://www.threads.net/@choi.openai/post/DddiH_ECpaF</link><description>상세 내용 :
-https://developer.meta.com/ai/models/sam-3-1/</description><pubDate>Sat, 19 Sep 2026 08:01:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DddiH_ECpaF</guid></item></channel></rss>
+이 방향이 발전하면 게임 속 NPC가 정해진 대본대로 움직이는 게 아니라, 각자 보고 경험한 것을 바탕으로 행동하면서 사용자가 없어도 계속 돌아가는 가상 세계를 만들 수 있을 것 같습니다.</description><pubDate>Sat, 19 Sep 2026 12:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeA4-5DYWV</guid></item><item><title>블로그 :
+https://xgenlabs.ai/research/generative-world-simulation</title><link>https://www.threads.net/@choi.openai/post/DdeA6aGjZej</link><description>블로그 :
+https://xgenlabs.ai/research/generative-world-simulation</description><pubDate>Sat, 19 Sep 2026 12:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeA6aGjZej</guid></item></channel></rss>
