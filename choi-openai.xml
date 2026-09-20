@@ -1,50 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 19 Sep 2026 17:33:31 +0000</lastBuildDate><item><title>‘AI의 대부’ 제프리 힌튼(Geoffrey Hinton) 교수는 의회가 AI를 규제할 수 있는 시간이 “기껏해야 1년 남짓”일 수 있다고 경고...</title><link>https://www.threads.net/@choi.openai/post/Ddef2r5iSOX</link><description>‘AI의 대부’ 제프리 힌튼(Geoffrey Hinton) 교수는 의회가 AI를 규제할 수 있는 시간이 “기껏해야 1년 남짓”일 수 있다고 경고했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 20 Sep 2026 03:38:56 +0000</lastBuildDate><item><title>Jev가 출시된지 겨우 4일밖에 지나지 않았습니다.
 
-그는 초지능 도달 시점이 과거의 예측(30~50년)에서 불과 ‘몇 년’ 수준으로 앞당겨졌다고 지적했습니다.
+실시간 가상 피팅부터 회계, 로봇팔 제어, 게임 레벨 생성까지 별별 것들을 다 시도하고 있...</title><link>https://www.threads.net/@choi.openai/post/Ddfes41D9DE</link><description>Jev가 출시된지 겨우 4일밖에 지나지 않았습니다.
 
-핵심 원인은 AI가 스스로 더 뛰어난 AI를 개발하는 “재귀적 자기 개선(Recursive self-improvement)” 단계에 진입했기 때문입니다.
+실시간 가상 피팅부터 회계, 로봇팔 제어, 게임 레벨 생성까지 별별 것들을 다 시도하고 있는데요.
 
-힌튼 교수는 최근 허깅페이스(Hugging Face) 탈주 사고를 “작은 체르노빌”에 비유하며, 통제를 벗어난 탈주 에이전트(Rogue agents)의 위험성을 지적했습니다.
+Jev로 만든 놀라운 사례 20가지를 정리했습니다🧵</description><pubDate>Sun, 20 Sep 2026 02:09:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddfes41D9DE</guid></item><item><title>1/ Jev로 말하는 내용과 현재 입은 옷을 바탕으로 옷장에서 다음 코디를 골라주는 가상 피팅 사례가 공개됐습니다.
 
-빅테크 기업들이 가장 똑똑한 AI를 만들기 위한 속도전에만 매몰되어 있다고 비판하며, 통제 방안을 확보할 때까지 “개발 속도를 늦춰야 한다”고 강조했습니다.</description><pubDate>Sat, 19 Sep 2026 17:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddef2r5iSOX</guid></item><item><title>GPT-6 Astra가 수학자들과 함께 2017년부터 풀리지 않던 위원회 선출 문제를 해결했습니다.
+옷에 저장된 메타데이터를 ...</title><link>https://www.threads.net/@choi.openai/post/DdfdVgpnUbg</link><description>1/ Jev로 말하는 내용과 현재 입은 옷을 바탕으로 옷장에서 다음 코디를 골라주는 가상 피팅 사례가 공개됐습니다.
 
-Becker, Greger, Peters가...</title><link>https://www.threads.net/@choi.openai/post/DdeVhYuATt7</link><description>GPT-6 Astra가 수학자들과 함께 2017년부터 풀리지 않던 위원회 선출 문제를 해결했습니다.
+옷에 저장된 메타데이터를 활용해 약 620ms마다 코디를 결정했으며, 결정당 비용은 0.0011달러였습니다.
 
-Becker, Greger, Peters가 Astra와 긴 대화를 주고받으며 증명을 완성했는데요. 반례를 찾은 것이 아니라, 애초에 그런 반례가 존재하지 않는다는 것을 증명했습니다.
+x@nailthy62</description><pubDate>Sun, 20 Sep 2026 02:09:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdfdVgpnUbg</guid></item><item><title>2/ Jev로 League of Legends 경기의 승리 확률과 영향력이 큰 선수, 역전 가능성을 실시간으로 분석하는 시스템이 만들어졌습니다....</title><link>https://www.threads.net/@choi.openai/post/DdfdckzCU58</link><description>2/ Jev로 League of Legends 경기의 승리 확률과 영향력이 큰 선수, 역전 가능성을 실시간으로 분석하는 시스템이 만들어졌습니다.
 
-Epoch AI는 이를 FrontierMath Open Problems에서 처음 나온 ‘Major Advance’ 사례로 분류했습니다.
-또 사람과 AI가 함께 해결한 문제로 기록했지만, 아이디어 대부분은 Astra에서 나왔다고 설명했습니다.
+매초 전체 게임 상태를 분석해 약 280ms 만에 판단하며, 한 경기 약 2,000회 호출에 비용은 0.20달러였습니다.
 
-Peters 역시 Astra가 없었다면 해당 증명을 찾기 어려웠을 것이라고 밝혔습니다.
+x@filicroval</description><pubDate>Sun, 20 Sep 2026 02:10:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdfdckzCU58</guid></item><item><title>3/ Jev가 교통 상황을 보고 주행 행동을 결정하는 Tesla FSD 형태의 자율주행 시뮬레이션이 만들어졌습니다.
 
-이제 AI 수학 성능을 볼 때 벤치마크 점수만 볼 단계는 지난 것 같습니다.
+1시간 이내에 구현했으며,...</title><link>https://www.threads.net/@choi.openai/post/DdfdmffHcy7</link><description>3/ Jev가 교통 상황을 보고 주행 행동을 결정하는 Tesla FSD 형태의 자율주행 시뮬레이션이 만들어졌습니다.
 
-사람이 몇 년 동안 붙잡고 있던 미해결 문제에서 실제로 새로운 아이디어와 증명을 만들어내는 사례가 계속 나오기 시작했습니다.</description><pubDate>Sat, 19 Sep 2026 15:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeVhYuATt7</guid></item><item><title>내용 :
-https://epoch.ai/frontiermath/open-problems/committee-election</title><link>https://www.threads.net/@choi.openai/post/DdeViZ2gf45</link><description>내용 :
-https://epoch.ai/frontiermath/open-problems/committee-election</description><pubDate>Sat, 19 Sep 2026 15:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeViZ2gf45</guid></item><item><title>브라우저 에이전트에서 더 큰 AI 모델이 꼭 필요한 건 아닐지도 모르겠습니다.
+1시간 이내에 구현했으며, Jev가 각 행동의 선택 확률까지 반환해 주행 판단에 활용합니다.
 
-Nekuda AI가 WebMCP 벤치마크에서 Jev + Merc...</title><link>https://www.threads.net/@choi.openai/post/DdeLOejE0Qv</link><description>브라우저 에이전트에서 더 큰 AI 모델이 꼭 필요한 건 아닐지도 모르겠습니다.
+x@jpschroeder</description><pubDate>Sun, 20 Sep 2026 02:10:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdfdmffHcy7</guid></item><item><title>무료 포토샵 떳다!!
 
-Nekuda AI가 WebMCP 벤치마크에서 Jev + Mercury 2.5 조합으로 49개 작업을 모두 해결했습니다. GPT-6 Astra의 컴퓨터 제어 방식과 비교하면 모델 비용은 약 112배 낮았고, 스크린샷 기반 방식과 비교하면 약 245배 낮았습니다.
+포토샵 구독료가 아까워 직접 이미지 편집기를 만들어버린 개발자가 있습니다.
 
-Jev만 브라우저를 직접 조작했을 때는 49개 중 25개만 성공했지만, WebMCP를 붙이자 49개 모두 성공했습니다.
+Robbie Tilton이 Photoshop...</title><link>https://www.threads.net/@choi.openai/post/DdfWvkSDJfU</link><description>무료 포토샵 떳다!!
 
-화면을 보고 버튼 위치를 찾아 하나씩 클릭하는 대신, 웹사이트가 ‘상품 검색’, ‘예약’ 같은 기능을 AI에게 도구로 직접 제공하는 방식인데요.
+포토샵 구독료가 아까워 직접 이미지 편집기를 만들어버린 개발자가 있습니다.
 
-AI 에이전트 경쟁에서 모델 성능만큼 중요한 게 AI가 웹사이트와 어떤 방식으로 연결되는지가 될 것 같습니다.</description><pubDate>Sat, 19 Sep 2026 14:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeLOejE0Qv</guid></item><item><title>벤치마크 결과 :
-https://webmcp.com/benchmark</title><link>https://www.threads.net/@choi.openai/post/DdeLP6Ak67w</link><description>벤치마크 결과 :
-https://webmcp.com/benchmark</description><pubDate>Sat, 19 Sep 2026 14:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeLP6Ak67w</guid></item><item><title>XGEN Labs가 JING과 DAO를 결합한 Generative World Simulation을 공개했습니다.
+Robbie Tilton이 Photoshop과 비슷한 이미지 편집기 Compositor를 무료 오픈소스로 공개했습니다.
 
-JING은 AI 에이전트가 1...</title><link>https://www.threads.net/@choi.openai/post/DdeA4-5DYWV</link><description>XGEN Labs가 JING과 DAO를 결합한 Generative World Simulation을 공개했습니다.
+이미지 합성에 필요한 기능들을 담았는데 앱 용량은 12MB에 불과합니다.
 
-JING은 AI 에이전트가 1인칭 시점으로 주변을 보고 이동하거나 물건을 조작하고 다른 에이전트와 대화하도록 합니다. WBench에서도 Full 부문 1위, Navi 부문 2위를 기록했습니다.
+처음에는 본인이 Adobe 구독을 끊기 위해 만들었고, GPT-6 Astra와 기능을 설계하며 개발했다고 하는데요.
 
-DAO는 그 뒤에서 세계 전체를 관리합니다. 누가 무엇을 움직였는지, 어떤 일이 발생했는지, 세계의 규칙과 상태가 어떻게 바뀌었는지를 계속 계산합니다.
-사용자가 보고 있지 않는 곳에서도 다른 AI 에이전트들은 각자 판단해 행동할 수 있습니다.
+AI가 아직 픽셀 단위의 세밀한 편집을 완전히 대신하지 못하는 만큼, 이런 작고 무료인 편집 도구가 오히려 필요한 자리를 채우고 있습니다.</description><pubDate>Sun, 20 Sep 2026 01:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdfWvkSDJfU</guid></item><item><title>주소 :
+https://robbietilton.com/compositor</title><link>https://www.threads.net/@choi.openai/post/DdfWwdcDKMt</link><description>주소 :
+https://robbietilton.com/compositor</description><pubDate>Sun, 20 Sep 2026 01:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdfWwdcDKMt</guid></item><item><title>이제 Claude Code 터미널 안에서 웹 브라우저까지 직접 열 수 있습니다.
 
-기존 생성형 AI가 다음 장면을 만들어냈다면, XGEN Labs는 이전에 일어난 사건이 다음 순간에도 영향을 주는 세계를 만들려는 겁니다.
+Zenbu Labs가 terminal-browser용 Clau...</title><link>https://www.threads.net/@choi.openai/post/DdfMgx1CHbc</link><description>이제 Claude Code 터미널 안에서 웹 브라우저까지 직접 열 수 있습니다.
 
-이 방향이 발전하면 게임 속 NPC가 정해진 대본대로 움직이는 게 아니라, 각자 보고 경험한 것을 바탕으로 행동하면서 사용자가 없어도 계속 돌아가는 가상 세계를 만들 수 있을 것 같습니다.</description><pubDate>Sat, 19 Sep 2026 12:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeA4-5DYWV</guid></item><item><title>블로그 :
-https://xgenlabs.ai/research/generative-world-simulation</title><link>https://www.threads.net/@choi.openai/post/DdeA6aGjZej</link><description>블로그 :
-https://xgenlabs.ai/research/generative-world-simulation</description><pubDate>Sat, 19 Sep 2026 12:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdeA6aGjZej</guid></item></channel></rss>
+Zenbu Labs가 terminal-browser용 Claude Code 플러그인을 공개했는데요.
+개발자가 터미널을 벗어나지 않고 웹페이지를 직접 확인하거나 브라우저 작업을 진행할 수 있습니다.
+
+terminal-browser CLI를 통한 브라우저 제어도 지원하며, Claude Chrome 확장 프로그램 연동도 준비 중이라고 합니다.</description><pubDate>Sat, 19 Sep 2026 23:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdfMgx1CHbc</guid></item><item><title>깃허브 :
+https://github.com/zenbu-labs/terminal-browser/tree/main/claude-code-plugi...</title><link>https://www.threads.net/@choi.openai/post/DdfMi7QiPFa</link><description>깃허브 :
+https://github.com/zenbu-labs/terminal-browser/tree/main/claude-code-plugin</description><pubDate>Sat, 19 Sep 2026 23:31:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdfMi7QiPFa</guid></item><item><title>영화 ‘빅쇼트’의 실제 주인공인 유명 투자자 스티브 아이스먼(Steve Eisman)은 최근 실리콘밸리가 주장하는 AI 종말론과 AGI 담론을 ...</title><link>https://www.threads.net/@choi.openai/post/DdfCJv5jlqL</link><description>영화 ‘빅쇼트’의 실제 주인공인 유명 투자자 스티브 아이스먼(Steve Eisman)은 최근 실리콘밸리가 주장하는 AI 종말론과 AGI 담론을 향해 “완전한 헛소리”라고 일축했습니다.
+
+그는 AI가 범용인공지능(AGI)에 도달했다는 어떤 증거도 없으며, 터미네이터 같은 위협은 허상에 불과하다고 지적했습니다.
+현재 벌어지는 본질은 ‘기술 발전의 한계’와 ‘빅테크의 독점 욕망’이라는 분석입니다.
+
+오픈 가중치(오픈소스) 모델이 빠르게 시장 점유율을 잠식하자, 자체 해자(Moat)가 사라진 폐쇄형 AI 기업들이 극도의 불안감에 빠졌다는 것입니다.
+그는 “기업들이 인위적으로 위기를 조장해 규제를 만들고, 이를 입맛대로 조작해 자신들만의 복점(Duopoly) 해자를 구축하려 한다”고 비판했습니다.
+
+즉, AI 실존적 위협론의 실체는 인류 구원이 아닌, 오픈소스와의 경쟁을 차단하고 시장 지배력을 유지하려는 빅테크의 영악한 경제적 전략이라는 꼬집음입니다.</description><pubDate>Sat, 19 Sep 2026 22:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdfCJv5jlqL</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=4qV5WWgFTS8</title><link>https://www.threads.net/@choi.openai/post/DdfCK3IjhxY</link><description>풀영상 :
+https://www.youtube.com/watch?v=4qV5WWgFTS8</description><pubDate>Sat, 19 Sep 2026 22:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdfCK3IjhxY</guid></item></channel></rss>
