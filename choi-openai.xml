@@ -1,56 +1,58 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 21 Sep 2026 03:33:17 +0000</lastBuildDate><item><title>Jev가 Claude Code의 모델 선택까지 맡기기 시작했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 21 Sep 2026 14:52:21 +0000</lastBuildDate><item><title>드라마도 웹툰처럼 소비하는 시대가 올 것 같습니다.
 
-Daniel San이 공개한 Jev Model Router는 Claude ...</title><link>https://www.threads.net/@choi.openai/post/DdiF07QkxQy</link><description>Jev가 Claude Code의 모델 선택까지 맡기기 시작했습니다.
+Higgsfield가 API를 이용해 끝없이 이어지는 K-드라마를 만드는 사례를 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DdjYQFVDy1Z</link><description>드라마도 웹툰처럼 소비하는 시대가 올 것 같습니다.
 
-Daniel San이 공개한 Jev Model Router는 Claude Code에 요청을 보낼 때마다 Jev가 작업을 분류해 어떤 subagent 모델을 사용할지, 어느 정도의 effort를 줄지 결정합니다.
+Higgsfield가 API를 이용해 끝없이 이어지는 K-드라마를 만드는 사례를 공개했습니다.
 
-메인 모델도 Jev가 선택하지만 캐시가 깨지는 것을 막기 위해 세션 시작 시 한 번만 결정합니다. Jev는 TypeSafe API나 Vercel AI Gateway를 통해 연결할 수 있습니다.
+중국에서는 이미 AI 숏드라마가 빠르게 커지고 있습니다. 2025년 시장 규모는 1,000억 위안을 넘었고, 2026년 1~8월 공개된 마이크로드라마 43만 편 중 90% 이상이 AI를 활용했습니다.
 
-결국 비싼 모델을 모든 작업에 동일하게 사용하는 대신, Jev가 요청의 난이도와 종류를 보고 적절한 모델과 추론량을 배정하는 구조입니다.
+나노 바나나가 이미지 제작 비용을 낮추며 웹툰 제작을 가속했다면, 영상 생성 AI는 숏드라마에서 비슷한 변화를 만들 것 같습니다.
+누구나 감독이 되어 짧은 시리즈를 만들고, 사람들은 웹툰을 넘기듯 1~3분짜리 드라마를 계속 소비하는 형태입니다.
 
-Jev가 에이전트의 행동을 결정하는 것을 넘어, 어떤 AI 모델을 언제 얼마나 사용할지 결정하는 라우터 역할로도 빠르게 확장되고 있습니다.</description><pubDate>Mon, 21 Sep 2026 02:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdiF07QkxQy</guid></item><item><title>주소 :
-https://aitmpl.com/component/mod/productivity/jev-model-router</title><link>https://www.threads.net/@choi.openai/post/DdiF2BuE4j9</link><description>주소 :
-https://aitmpl.com/component/mod/productivity/jev-model-router</description><pubDate>Mon, 21 Sep 2026 02:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdiF2BuE4j9</guid></item><item><title>ZCode가 최근 불거진 보안 문제에 대해 공식 사과하고 ZCode 전체 코드를 오픈소스로 공개했습니다.
+제작 장벽이 계속 낮아진다면 기존 방송·영화 중심의 미디어가 차지하던 시청 시간과 제작 시장 일부가 이런 개인 제작 숏폼 콘텐츠로 이동할 가능성도 있어 보입니다.</description><pubDate>Mon, 21 Sep 2026 14:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjYQFVDy1Z</guid></item><item><title>AI 벤치마크 점수, 생각보다 그대로 믿으면 안 될 것 같습니다.
 
-논란은 Repo Wiki 기능이 사용...</title><link>https://www.threads.net/@choi.openai/post/DdiCQuhj89s</link><description>ZCode가 최근 불거진 보안 문제에 대해 공식 사과하고 ZCode 전체 코드를 오픈소스로 공개했습니다.
+Epoch AI가 AI 성능 평가에 사용되는 벤치마크 자체를 검증하는 Ben...</title><link>https://www.threads.net/@choi.openai/post/DdjN9FQkSId</link><description>AI 벤치마크 점수, 생각보다 그대로 믿으면 안 될 것 같습니다.
 
-논란은 Repo Wiki 기능이 사용자 로컬 저장소의 스냅샷을 생성해 Alibaba Cloud OSS로 업로드하는 경로가 발견되면서 시작됐습니다. 코드가 외부 서버로 전송될 수 있었다는 점에서 사용자들의 우려가 커졌습니다.
+Epoch AI가 AI 성능 평가에 사용되는 벤치마크 자체를 검증하는 Benchmark Reviews를 시작했습니다.
+첫 15개를 조사했는데 통과한 것은 4개뿐이고, 9개는 Flawed(결함 있음), 2개는 정보 부족 판정을 받았습니다.
 
-ZCode는 v3.14.0에서 Repo Wiki와 관련 생성·업로드 기능을 제거했고, 기존 OSS 데이터와 버킷도 삭제했다고 밝혔습니다. 또한 전송됐던 코드 데이터는 현재 보관하지 않으며 모델 학습에도 사용한 적이 없다고 설명했습니다.
+Humanity's Last Exam, SWE-bench Verified, Terminal-Bench 4.0.0 등 유명 벤치마크도 Flawed로 분류됐습니다. 평가 문제나 정답, 채점 방식 등에 성능 해석에 영향을 줄 수준의 문제가 있다는 의미입니다.
 
-CAICT와 NSFOCUS의 보안 점검도 진행됐으며, 앞으로 취약점 신고 및 보상 제도를 운영하고 전체 보안 평가 보고서도 공개할 예정입니다.</description><pubDate>Mon, 21 Sep 2026 01:59:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdiCQuhj89s</guid></item><item><title>깃허브 :
-https://github.com/zai-org/ZCode</title><link>https://www.threads.net/@choi.openai/post/DdiCRVOD-Ug</link><description>깃허브 :
-https://github.com/zai-org/ZCode</description><pubDate>Mon, 21 Sep 2026 01:59:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdiCRVOD-Ug</guid></item><item><title>Jev 데모만 모아놓은 사이트까지 등장했습니다.
+AI 모델을 비교할 때 이제 “몇 점을 받았나”뿐 아니라 “그 시험 자체를 믿을 수 있나”도 같이 봐야 할 것 같습니다.</description><pubDate>Mon, 21 Sep 2026 13:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjN9FQkSId</guid></item><item><title>내용 :
+https://epoch.ai/benchmarks/search?reviewed=verified&amp;reviewed=flawed&amp;review...</title><link>https://www.threads.net/@choi.openai/post/DdjN-cxEXPl</link><description>내용 :
+https://epoch.ai/benchmarks/search?reviewed=verified&amp;reviewed=flawed&amp;reviewed=not-enough-info</description><pubDate>Mon, 21 Sep 2026 13:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjN-cxEXPl</guid></item><item><title>Jev가 공개된 지 며칠 만에 이를 활용한 서비스까지 빠르게 등장하고 있습니다.
 
-Jevable은 X에 올라오는 Jev 활용 사례를 한곳에 모아 카테고리별로 볼 수 있는 사이트...</title><link>https://www.threads.net/@choi.openai/post/Ddh7lACkoTs</link><description>Jev 데모만 모아놓은 사이트까지 등장했습니다.
+실시간 3D 생성부터 광고 제거, 의미 기반 검색, 문서 분류...</title><link>https://www.threads.net/@choi.openai/post/DdjEV0Mj9fY</link><description>Jev가 공개된 지 며칠 만에 이를 활용한 서비스까지 빠르게 등장하고 있습니다.
 
-Jevable은 X에 올라오는 Jev 활용 사례를 한곳에 모아 카테고리별로 볼 수 있는 사이트인데요. 직접 만든 프로젝트도 추가할 수 있습니다.
+실시간 3D 생성부터 광고 제거, 의미 기반 검색, 문서 분류, 생성형 UI까지 기존 LLM으로는 만들기 어려웠던 방식의 서비스들이 나오고 있는데요.
 
-Computer Use부터 게임 속 NPC 행동 결정, X 게시물 분류까지 Jev가 공개된 지 며칠 만에 다양한 활용법이 쏟아지고 있습니다.
+Jev로 만든 활용 사례와 서비스 12가지를 정리했습니다🧵</description><pubDate>Mon, 21 Sep 2026 11:36:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjEV0Mj9fY</guid></item><item><title>1/ Jev를 활용해 고객의 질문에 답변하면서 관련 제품 화면까지 바로 보여주는 FAQ 서비스가 만들어졌습니다.
 
-모델 하나가 나오자마자 활용 사례를 모으는 사이트까지 생기는 걸 보면, Jev에 대한 개발자들의 관심이 어느 정도인지 체감됩니다.</description><pubDate>Mon, 21 Sep 2026 01:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddh7lACkoTs</guid></item><item><title>주소 :
-https://jevable.com/</title><link>https://www.threads.net/@choi.openai/post/Ddh7mgOkmRa</link><description>주소 :
-https://jevable.com/</description><pubDate>Mon, 21 Sep 2026 01:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddh7mgOkmRa</guid></item><item><title>🚨 알리바바가 나노바나나급 이미지 모델을 오픈웨이트로 풀었습니다.</title><link>https://www.threads.net/@choi.openai/post/DdhxUlCjwVg</link><description>🚨 알리바바가 나노바나나급 이미지 모델을 오픈웨이트로 풀었습니다.</description><pubDate>Sun, 20 Sep 2026 23:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdhxUlCjwVg</guid></item><item><title>1/ 알리바바 Qwen 팀이 9월 20일 이미지 생성과 편집을 하나로 묶은 Qwen-Image-2.1을 공개했습니다.
+LLM이 답변을 작성하면 Je...</title><link>https://www.threads.net/@choi.openai/post/DdjDmPfjWQ3</link><description>1/ Jev를 활용해 고객의 질문에 답변하면서 관련 제품 화면까지 바로 보여주는 FAQ 서비스가 만들어졌습니다.
 
-모델 가중치를 허깅페이스...</title><link>https://www.threads.net/@choi.openai/post/DdhxVHUD2Kv</link><description>1/ 알리바바 Qwen 팀이 9월 20일 이미지 생성과 편집을 하나로 묶은 Qwen-Image-2.1을 공개했습니다.
+LLM이 답변을 작성하면 Jev가 미리 만든 UI 중 필요한 구성요소를 고르고, json-render가 수 밀리초 만에 화면을 구성합니다.
 
-모델 가중치를 허깅페이스와 모델스코프에서 내려받아 직접 실행할 수 있는데요.
+x@valuebasedprice</description><pubDate>Mon, 21 Sep 2026 11:36:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjDmPfjWQ3</guid></item><item><title>2/ Jev로 문서를 자동 분류하고 여러 문서가 섞인 파일의 경계까지 찾아 나누는 오픈소스 DocJev가 공개됐습니다.
 
-문장을 입력해 새 이미지를 만들거나, 기존 사진을 넣고 원하는 부분을 바꾸는 작업을 같은 모델로 처리합니다.
+자연어로 분류 기준만 ...</title><link>https://www.threads.net/@choi.openai/post/DdjEGedD43w</link><description>2/ Jev로 문서를 자동 분류하고 여러 문서가 섞인 파일의 경계까지 찾아 나누는 오픈소스 DocJev가 공개됐습니다.
 
-2K 해상도를 지원하며, 인물의 조명과 질감, 글자 표현도 개선했다고 설명합니다.</description><pubDate>Sun, 20 Sep 2026 23:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdhxVHUD2Kv</guid></item><item><title>2/ Qwen이 발표한 Qwen-Image-Bench 결과를 살펴보면, ‘나노바나나급’이라고 불러도 과언이 아닌데요.
+자연어로 분류 기준만 입력하면 처리하며, 동일한 정확도에서 gpt-5.6-luna보다 6배 빠르게 동작했습니다.
 
-생성 이미지의 품질·미감...</title><link>https://www.threads.net/@choi.openai/post/DdhxWGBD8me</link><description>2/ Qwen이 발표한 Qwen-Image-Bench 결과를 살펴보면, ‘나노바나나급’이라고 불러도 과언이 아닌데요.
+x@jerryjliu0</description><pubDate>Mon, 21 Sep 2026 11:36:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjEGedD43w</guid></item><item><title>3/ Jev의 판단을 프로그래밍 언어의 조건문처럼 사용하는 ‘Probably’가 만들어졌습니다.
 
-생성 이미지의 품질·미감·지시 반영 등을 채점하는 이 평가에서 Qwen-Image-2.1은 60.28점, Nano Banana 2.0은 59.82점, Nano Banana Pro는 59.45점을 기록했습니다.</description><pubDate>Sun, 20 Sep 2026 23:31:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdhxWGBD8me</guid></item><item><title>3/ 모델 크기도 크게 줄었습니다.
+조건을 미리 코드로 정하지 않고 Jev가 상황...</title><link>https://www.threads.net/@choi.openai/post/DdjEYlCD_Xe</link><description>3/ Jev의 판단을 프로그래밍 언어의 조건문처럼 사용하는 ‘Probably’가 만들어졌습니다.
 
-2025년 8월 공개된 첫 Qwen-Image의 이미지 생성부는 20B, 약 200억 파라미터였는데요.
+조건을 미리 코드로 정하지 않고 Jev가 상황을 판단해 분기와 반복 여부를 결정하고, 필요한 텍스트는 LLM이 작성합니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/DdhxXCcj6hY</link><description>3/ 모델 크기도 크게 줄었습니다.
+x@southpolesteve</description><pubDate>Mon, 21 Sep 2026 11:36:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjEYlCD_Xe</guid></item><item><title>바이트댄스의 기업용 AI 플랫폼 BytePlus가 숏드라마와 영상 제작을 위한 Dramagic을 공개했습니다.
 
-2025년 8월 공개된 첫 Qwen-Image의 이미지 생성부는 20B, 약 200억 파라미터였는데요.
+대본을 넣으면 내용을 분석하고 ...</title><link>https://www.threads.net/@choi.openai/post/Ddi5TnGDYn5</link><description>바이트댄스의 기업용 AI 플랫폼 BytePlus가 숏드라마와 영상 제작을 위한 Dramagic을 공개했습니다.
 
-이번 모델은 약 7B로 줄었고, vLLM 문서에서는 정확한 구성을 7.1B 생성부와 Qwen3-VL-8B 인코더로 설명합니다.
+대본을 넣으면 내용을 분석하고 캐릭터·장면 같은 제작 요소를 설정한 뒤, 스토리보드 제작부터 영상 미리보기까지 하나의 작업 흐름으로 이어집니다.
 
-공개 가중치의 디스크 용량은 생성부 14.2GB, 인코더 17.5GB, 이미지 변환부 1.4GB로 전체 약 33.1GB입니다.</description><pubDate>Sun, 20 Sep 2026 23:31:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdhxXCcj6hY</guid></item></channel></rss>
+여러 장면에서 캐릭터와 설정이 달라지지 않도록 일관성을 확인하는 기능과 여러 사람이 함께 작업하는 협업 기능도 지원합니다.
+
+현재 Dramagic은 베타 단계로, 신청을 통해 이용할 수 있습니다.</description><pubDate>Mon, 21 Sep 2026 10:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddi5TnGDYn5</guid></item><item><title>주소 :
+https://www.byteplus.com/en/contact-us/dramagic-x</title><link>https://www.threads.net/@choi.openai/post/Ddi5UrGjXYr</link><description>주소 :
+https://www.byteplus.com/en/contact-us/dramagic-x</description><pubDate>Mon, 21 Sep 2026 10:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddi5UrGjXYr</guid></item></channel></rss>
