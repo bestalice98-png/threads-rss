@@ -1,58 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 21 Sep 2026 14:52:21 +0000</lastBuildDate><item><title>드라마도 웹툰처럼 소비하는 시대가 올 것 같습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 21 Sep 2026 19:48:26 +0000</lastBuildDate><item><title>사람들이 AI 발전을 얼마나 선형적으로 생각하는지 모른다.
 
-Higgsfield가 API를 이용해 끝없이 이어지는 K-드라마를 만드는 사례를 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DdjYQFVDy1Z</link><description>드라마도 웹툰처럼 소비하는 시대가 올 것 같습니다.
+2024년 말만 해도 AI 연구자들은 AI가 밀레니엄 문제를 푸는 시점을 2054년...</title><link>https://www.threads.net/@choi.openai/post/Ddj3LxNDJ4-</link><description>사람들이 AI 발전을 얼마나 선형적으로 생각하는지 모른다.
 
-Higgsfield가 API를 이용해 끝없이 이어지는 K-드라마를 만드는 사례를 공개했습니다.
+2024년 말만 해도 AI 연구자들은 AI가 밀레니엄 문제를 푸는 시점을 2054년쯤으로 예상했었다. 그런데 불과 2년도 지나지 않아 그 예상이 무너졌다.
 
-중국에서는 이미 AI 숏드라마가 빠르게 커지고 있습니다. 2025년 시장 규모는 1,000억 위안을 넘었고, 2026년 1~8월 공개된 마이크로드라마 43만 편 중 90% 이상이 AI를 활용했습니다.
+AI는 일정한 속도로 발전하지 않는다. 성능이 좋아질수록 연구와 개발 자체에도 AI가 투입되고 있다.
 
-나노 바나나가 이미지 제작 비용을 낮추며 웹툰 제작을 가속했다면, 영상 생성 AI는 숏드라마에서 비슷한 변화를 만들 것 같습니다.
-누구나 감독이 되어 짧은 시리즈를 만들고, 사람들은 웹툰을 넘기듯 1~3분짜리 드라마를 계속 소비하는 형태입니다.
+이 속도를 계속 보고 있으면 ‘특이점이 코앞에 있다’는 말도 더 이상 먼 미래 이야기가 아니다.</description><pubDate>Mon, 21 Sep 2026 19:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddj3LxNDJ4-</guid></item><item><title>엔비디아 CEO 젠슨 황(Jensen Huang)은 AI가 수조 달러 규모의 거대한 산업을 형성하며 글로벌 경제 구조를 재편하고 있다고 강조했습...</title><link>https://www.threads.net/@choi.openai/post/Ddjs1aACBXM</link><description>엔비디아 CEO 젠슨 황(Jensen Huang)은 AI가 수조 달러 규모의 거대한 산업을 형성하며 글로벌 경제 구조를 재편하고 있다고 강조했습니다.
 
-제작 장벽이 계속 낮아진다면 기존 방송·영화 중심의 미디어가 차지하던 시청 시간과 제작 시장 일부가 이런 개인 제작 숏폼 콘텐츠로 이동할 가능성도 있어 보입니다.</description><pubDate>Mon, 21 Sep 2026 14:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjYQFVDy1Z</guid></item><item><title>AI 벤치마크 점수, 생각보다 그대로 믿으면 안 될 것 같습니다.
+그는 전 세계 100조 달러 규모의 경제 중 약 15조 달러가 더 높은 지능의 혜택을 받을 수 있는 정보 작업 영역이라고 분석했습니다.
 
-Epoch AI가 AI 성능 평가에 사용되는 벤치마크 자체를 검증하는 Ben...</title><link>https://www.threads.net/@choi.openai/post/DdjN9FQkSId</link><description>AI 벤치마크 점수, 생각보다 그대로 믿으면 안 될 것 같습니다.
+“데이터센터는 단순한 IT 인프라가 아니라 보이지 않는 지능을 생산하는 ‘AI 팩토리’입니다.”
 
-Epoch AI가 AI 성능 평가에 사용되는 벤치마크 자체를 검증하는 Benchmark Reviews를 시작했습니다.
-첫 15개를 조사했는데 통과한 것은 4개뿐이고, 9개는 Flawed(결함 있음), 2개는 정보 부족 판정을 받았습니다.
+특히 그는 이번 AI 혁명이 지난 수십 년 만에 처음으로 “미국을 재산업화할 절호의 기회”를 열어주고 있다고 말했습니다.
 
-Humanity's Last Exam, SWE-bench Verified, Terminal-Bench 4.0.0 등 유명 벤치마크도 Flawed로 분류됐습니다. 평가 문제나 정답, 채점 방식 등에 성능 해석에 영향을 줄 수준의 문제가 있다는 의미입니다.
+과거처럼 자동차나 가전 같은 물리적 원자를 조립하는 대신 전자를 활용해 지능을 제조하는 새로운 제조업 생태계가 열렸기 때문입니다.
 
-AI 모델을 비교할 때 이제 “몇 점을 받았나”뿐 아니라 “그 시험 자체를 믿을 수 있나”도 같이 봐야 할 것 같습니다.</description><pubDate>Mon, 21 Sep 2026 13:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjN9FQkSId</guid></item><item><title>내용 :
-https://epoch.ai/benchmarks/search?reviewed=verified&amp;reviewed=flawed&amp;review...</title><link>https://www.threads.net/@choi.openai/post/DdjN-cxEXPl</link><description>내용 :
-https://epoch.ai/benchmarks/search?reviewed=verified&amp;reviewed=flawed&amp;reviewed=not-enough-info</description><pubDate>Mon, 21 Sep 2026 13:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjN-cxEXPl</guid></item><item><title>Jev가 공개된 지 며칠 만에 이를 활용한 서비스까지 빠르게 등장하고 있습니다.
+그 결과 대규모 인프라 구축으로 전기기사, 건설 및 배관 노동자 등 블루칼라 일자리가 폭발적으로 늘어나며 기술이 실물 경제 전반의 번영을 이끌고 있다고 설명했습니다.</description><pubDate>Mon, 21 Sep 2026 17:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddjs1aACBXM</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=xCUala5j7aQ</title><link>https://www.threads.net/@choi.openai/post/Ddjs3sjiGdI</link><description>풀영상 :
+https://www.youtube.com/watch?v=xCUala5j7aQ</description><pubDate>Mon, 21 Sep 2026 17:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddjs3sjiGdI</guid></item><item><title>🚨 속보) SpaceXAI, Grok 4.7 출시</title><link>https://www.threads.net/@choi.openai/post/Ddjk02Dj2yV</link><description>🚨 속보) SpaceXAI, Grok 4.7 출시</description><pubDate>Mon, 21 Sep 2026 16:20:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddjk02Dj2yV</guid></item><item><title>1/ SpaceXAI가 공식 발표와 함께 Grok 4.7을 출시했습니다.
 
-실시간 3D 생성부터 광고 제거, 의미 기반 검색, 문서 분류...</title><link>https://www.threads.net/@choi.openai/post/DdjEV0Mj9fY</link><description>Jev가 공개된 지 며칠 만에 이를 활용한 서비스까지 빠르게 등장하고 있습니다.
+Cursor, Grok Build, Grok API에서 바로 사용할 ...</title><link>https://www.threads.net/@choi.openai/post/DdjqFvADwPj</link><description>1/ SpaceXAI가 공식 발표와 함께 Grok 4.7을 출시했습니다.
 
-실시간 3D 생성부터 광고 제거, 의미 기반 검색, 문서 분류, 생성형 UI까지 기존 LLM으로는 만들기 어려웠던 방식의 서비스들이 나오고 있는데요.
+Cursor, Grok Build, Grok API에서 바로 사용할 수 있습니다.
 
-Jev로 만든 활용 사례와 서비스 12가지를 정리했습니다🧵</description><pubDate>Mon, 21 Sep 2026 11:36:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjEV0Mj9fY</guid></item><item><title>1/ Jev를 활용해 고객의 질문에 답변하면서 관련 제품 화면까지 바로 보여주는 FAQ 서비스가 만들어졌습니다.
+지난 4.6이 긴 코딩 작업과 자체 검증을 강화했다면, 이번에는 더 큰 베이스 모델을 도입하고 여러 시간 걸리는 과제에 강화학습을 집중했습니다.
 
-LLM이 답변을 작성하면 Je...</title><link>https://www.threads.net/@choi.openai/post/DdjDmPfjWQ3</link><description>1/ Jev를 활용해 고객의 질문에 답변하면서 관련 제품 화면까지 바로 보여주는 FAQ 서비스가 만들어졌습니다.
+회사는 어려운 작업을 더 오래 수행하고 결과를 꼼꼼히 확인한다고 설명합니다.
 
-LLM이 답변을 작성하면 Jev가 미리 만든 UI 중 필요한 구성요소를 고르고, json-render가 수 밀리초 만에 화면을 구성합니다.
+함께 공개한 도시 게임 데모에서는 4.7이 만든 건물·도로·차량 표현이 더 세밀해졌습니다.</description><pubDate>Mon, 21 Sep 2026 17:06:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjqFvADwPj</guid></item><item><title>2/ 독립 평가를 보면 종합 상승폭은 생각보다 작습니다.
 
-x@valuebasedprice</description><pubDate>Mon, 21 Sep 2026 11:36:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjDmPfjWQ3</guid></item><item><title>2/ Jev로 문서를 자동 분류하고 여러 문서가 섞인 파일의 경계까지 찾아 나누는 오픈소스 DocJev가 공개됐습니다.
+Artificial Analysis 지능 지수에서 Grok 4.7은 xhigh 설정으...</title><link>https://www.threads.net/@choi.openai/post/DdjqGcYj9SY</link><description>2/ 독립 평가를 보면 종합 상승폭은 생각보다 작습니다.
 
-자연어로 분류 기준만 ...</title><link>https://www.threads.net/@choi.openai/post/DdjEGedD43w</link><description>2/ Jev로 문서를 자동 분류하고 여러 문서가 섞인 파일의 경계까지 찾아 나누는 오픈소스 DocJev가 공개됐습니다.
+Artificial Analysis 지능 지수에서 Grok 4.7은 xhigh 설정으로 46점을 받아, 4.6의 high 설정 44점에서 2점 올랐습니다.
 
-자연어로 분류 기준만 입력하면 처리하며, 동일한 정확도에서 gpt-5.6-luna보다 6배 빠르게 동작했습니다.
+같은 최신 평가표에서 GPT-5.6 Sol은 47점, Opus 5는 51점, GPT-6 Astra와 Fable 5.1은 각각 53점입니다.
 
-x@jerryjliu0</description><pubDate>Mon, 21 Sep 2026 11:36:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjEGedD43w</guid></item><item><title>3/ Jev의 판단을 프로그래밍 언어의 조건문처럼 사용하는 ‘Probably’가 만들어졌습니다.
+경쟁 모델들은 max 설정이며 Fable에는 fallback 조건이 붙습니다.
+SpaceXAI는 개발사 기준 상위 4곳에 들어왔지만, 종합 점수는 여전히 선두권과 거리가 있습니다.</description><pubDate>Mon, 21 Sep 2026 17:06:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjqGcYj9SY</guid></item><item><title>3/ 점수가 오른 만큼 추론에 사용한 토큰도 크게 늘었습니다.
 
-조건을 미리 코드로 정하지 않고 Jev가 상황...</title><link>https://www.threads.net/@choi.openai/post/DdjEYlCD_Xe</link><description>3/ Jev의 판단을 프로그래밍 언어의 조건문처럼 사용하는 ‘Probably’가 만들어졌습니다.
+AA 차트에서 과제당 출력 토큰은 4.6 high의 약 3만 6천 개에서 4.7...</title><link>https://www.threads.net/@choi.openai/post/DdjqHZXD5lG</link><description>3/ 점수가 오른 만큼 추론에 사용한 토큰도 크게 늘었습니다.
 
-조건을 미리 코드로 정하지 않고 Jev가 상황을 판단해 분기와 반복 여부를 결정하고, 필요한 텍스트는 LLM이 작성합니다.
+AA 차트에서 과제당 출력 토큰은 4.6 high의 약 3만 6천 개에서 4.7 xhigh의 8만 1천 개로 125% 증가했습니다. GPT-6 Astra max의 약 2만 7천 개와 비교하면 세 배 수준입니다.
 
-x@southpolesteve</description><pubDate>Mon, 21 Sep 2026 11:36:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjEYlCD_Xe</guid></item><item><title>바이트댄스의 기업용 AI 플랫폼 BytePlus가 숏드라마와 영상 제작을 위한 Dramagic을 공개했습니다.
+추론 강도가 서로 달라 모델 자체의 효율을 그대로 비교하기는 어렵고, 같은 단가라면 출력 토큰이 늘어난 만큼 사용료도 증가합니다.
 
-대본을 넣으면 내용을 분석하고 ...</title><link>https://www.threads.net/@choi.openai/post/Ddi5TnGDYn5</link><description>바이트댄스의 기업용 AI 플랫폼 BytePlus가 숏드라마와 영상 제작을 위한 Dramagic을 공개했습니다.
+반면 생성 시간은 9.5분에서 7.1분으로 줄었습니다.
 
-대본을 넣으면 내용을 분석하고 캐릭터·장면 같은 제작 요소를 설정한 뒤, 스토리보드 제작부터 영상 미리보기까지 하나의 작업 흐름으로 이어집니다.
+AA가 공개한 이 시간은 첫 토큰 대기와 부가 처리 시간을 제외하고 실제 토큰을 생성한 시간입니다.</description><pubDate>Mon, 21 Sep 2026 17:06:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjqHZXD5lG</guid></item><item><title>RSI가 생각보다 가까워지고 있는 것 같습니다.
 
-여러 장면에서 캐릭터와 설정이 달라지지 않도록 일관성을 확인하는 기능과 여러 사람이 함께 작업하는 협업 기능도 지원합니다.
+The Information에 따르면 오픈AI에서는 AI가 GPU 커널을 작성하고 최적화하며,...</title><link>https://www.threads.net/@choi.openai/post/DdjkSJNj2zd</link><description>RSI가 생각보다 가까워지고 있는 것 같습니다.
 
-현재 Dramagic은 베타 단계로, 신청을 통해 이용할 수 있습니다.</description><pubDate>Mon, 21 Sep 2026 10:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddi5TnGDYn5</guid></item><item><title>주소 :
-https://www.byteplus.com/en/contact-us/dramagic-x</title><link>https://www.threads.net/@choi.openai/post/Ddi5UrGjXYr</link><description>주소 :
-https://www.byteplus.com/en/contact-us/dramagic-x</description><pubDate>Mon, 21 Sep 2026 10:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddi5UrGjXYr</guid></item></channel></rss>
+The Information에 따르면 오픈AI에서는 AI가 GPU 커널을 작성하고 최적화하며, 일부 실험은 과거 수년에서 약 1주일 수준까지 줄었다고 합니다.
+
+최근 앤트로픽의 다리오 아모데이는 AI 개발 속도를 늦추자는 “Pace the Frontier”를 제안했고, 샘 알트만과 일론 머스크도 취지에 동의했습니다.
+반면 젠슨 황과 마크 저커버그는 공동 감속에 반대했었는데요.
+
+AI가 AI 연구 자체를 자동화하기 시작한 시점에 업계가 동시에 감속론을 꺼낸 것도 우연은 아닐 겁니다. 이들이 내부에서 보고 있는 발전 속도는 어느 정도일지가 궁금하네요.</description><pubDate>Mon, 21 Sep 2026 16:15:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjkSJNj2zd</guid></item><item><title>발표내용 :
+https://www.theinformation.com/newsletters/ai-agenda/openai-develops-feat...</title><link>https://www.threads.net/@choi.openai/post/DdjkSs4D8zs</link><description>발표내용 :
+https://www.theinformation.com/newsletters/ai-agenda/openai-develops-features-counter-grok-bot-mulls-response-metas-muse</description><pubDate>Mon, 21 Sep 2026 16:15:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjkSs4D8zs</guid></item></channel></rss>
