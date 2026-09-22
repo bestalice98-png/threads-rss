@@ -1,90 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 22 Sep 2026 03:32:51 +0000</lastBuildDate><item><title>메타가 세계 최초의 페타비트급 대서양 횡단 해저 케이블 Petal을 발표했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 22 Sep 2026 13:07:56 +0000</lastBuildDate><item><title>알리바바가 2026 Apsara Conference에서 차세대 AI 로드맵을 공개했습니다.
 
-미국과 프랑스를 약 7,000km 연결하며 초당 1페타비트,...</title><link>https://www.threads.net/@choi.openai/post/DdkuGUIiOri</link><description>메타가 세계 최초의 페타비트급 대서양 횡단 해저 케이블 Petal을 발표했습니다.
+Qwen4-Max, Qwen4-Plus, Qwen4...</title><link>https://www.threads.net/@choi.openai/post/Ddlyut9jP6P</link><description>알리바바가 2026 Apsara Conference에서 차세대 AI 로드맵을 공개했습니다.
 
-미국과 프랑스를 약 7,000km 연결하며 초당 1페타비트, 즉 1,000Tbps의 데이터를 전송할 수 있습니다. 현재 가장 앞선 대서양 횡단 시스템보다 약 2배 높은 용량입니다.
+Qwen4-Max, Qwen4-Plus, Qwen4-Flash, Qwen4-27B가 준비 중이며 Qwen4는 현재 훈련 단계입니다. 이후 Qwen4.5와 Qwen5는 5~10조 파라미터까지 확대할 계획입니다.
 
-여러 개의 코어를 하나의 광섬유에 넣는 멀티코어 광섬유도 대규모로 처음 적용합니다.
+동시에 차세대 영상 생성 모델도 11월 공개 예정입니다. 더 긴 영상에서도 일관성을 유지하고, 인물·장면·카메라를 세밀하게 제어하며, 개별 장면 생성에서 전체 이야기 흐름을 이해하는 방향으로 개발되고 있습니다.
 
-AI 데이터센터가 커지면서 이제 경쟁은 GPU뿐 아니라 전력, 데이터센터, 그리고 대륙을 연결하는 네트워크 인프라까지 확대되고 있습니다.
+언어 모델뿐 아니라 영상까지 RSI(재귀적 자기 개선)를 포함한 다음 단계로 넘어가려는 모습입니다.</description><pubDate>Tue, 22 Sep 2026 13:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddlyut9jP6P</guid></item><item><title>언더독AI가 애플의 MLX보다 최대 4.5배 빠른 로컬 추론 엔진 Husky를 공개했습니다.
 
-Petal은 2029년 가동될 예정입니다.</description><pubDate>Tue, 22 Sep 2026 03:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkuGUIiOri</guid></item><item><title>발표내용 :
-https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoce...</title><link>https://www.threads.net/@choi.openai/post/DdkuIm3iFEn</link><description>발표내용 :
-https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/</description><pubDate>Tue, 22 Sep 2026 03:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkuIm3iFEn</guid></item><item><title>유니트리가 사람 손 크기의 로봇 손 Dex5-S를 공개했습니다.
+Husky는 여러 모델을 지원하는 범용 엔진이 아...</title><link>https://www.threads.net/@choi.openai/post/Ddlr5KqAhlV</link><description>언더독AI가 애플의 MLX보다 최대 4.5배 빠른 로컬 추론 엔진 Husky를 공개했습니다.
 
-사람 손처럼 22개의 자유도를 갖춰 손가락 관절을 세밀하게 움직일 수 있으며,...</title><link>https://www.threads.net/@choi.openai/post/DdkjyUyCag-</link><description>유니트리가 사람 손 크기의 로봇 손 Dex5-S를 공개했습니다.
+Husky는 여러 모델을 지원하는 범용 엔진이 아니라 Woof 모델 하나에 맞춰 설계된 MSI(Model-Specific Inference) 방식입니다.
 
-사람 손처럼 22개의 자유도를 갖춰 손가락 관절을 세밀하게 움직일 수 있으며, 모든 관절은 외부 힘을 받으면 자연스럽게 밀려 움직이는 구조와 충격 보호 기능을 지원합니다.
+모델 구조를 미리 알고 있기 때문에 정규화, 4비트 압축 해제, 행렬 연산 등을 하나의 GPU 작업으로 묶어 CPU와 GPU가 반복해서 오가는 비용을 줄였습니다.
 
-로봇이 실제 사람의 일을 대신하려면 AI뿐 아니라 물건을 잡고 도구를 다루는 손이 중요한데요.
+그 결과 맥북에서 Woof를 최대 초당 730토큰까지 실행할 수 있다고 합니다.
 
-시작 가격은 6,500달러로, 로봇 손까지 점차 상용 제품으로 내려오고 있습니다.</description><pubDate>Tue, 22 Sep 2026 01:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkjyUyCag-</guid></item><item><title>🚨 오픈AI 내부에서 심상치 않은 일이 벌어지고 있습니다.
+인터넷 연결 없이 맥과 아이폰에서 구동할 수 있어, 로컬 AI의 병목이 모델 크기뿐 아니라 모델별 추론 최적화로도 크게 줄어들고 있습니다.</description><pubDate>Tue, 22 Sep 2026 12:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddlr5KqAhlV</guid></item><item><title>주소 :
+https://husky.underdog.ai/</title><link>https://www.threads.net/@choi.openai/post/Ddlr8AQgidK</link><description>주소 :
+https://husky.underdog.ai/</description><pubDate>Tue, 22 Sep 2026 12:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddlr8AQgidK</guid></item><item><title>구글이 새로운 노트북 제품군 Googlebook을 공개했습니다.
 
-새 내부 모델이 나비에-스토크스에 이어 수학 대부분 분야에서 장기 미해결 문제 10...</title><link>https://www.threads.net/@choi.openai/post/DdkZb_oD1Mi</link><description>🚨 오픈AI 내부에서 심상치 않은 일이 벌어지고 있습니다.
+가격은 899달러부터 시작하며 최대 2.8K OLED 터치스크린, 14시간 배...</title><link>https://www.threads.net/@choi.openai/post/DdlhkumiBN2</link><description>구글이 새로운 노트북 제품군 Googlebook을 공개했습니다.
 
-새 내부 모델이 나비에-스토크스에 이어 수학 대부분 분야에서 장기 미해결 문제 100개 이상을 해결했다고 밝혔습니다.
+가격은 899달러부터 시작하며 최대 2.8K OLED 터치스크린, 14시간 배터리, 45TOPS 이상 NPU를 탑재합니다. 에이서, 에이수스, 델, HP, 레노버가 제품을 출시하며 Android 기술과 ChromeOS 기반을 결합한 Googlebook OS가 적용됩니다.
 
-약 1만 개의 AI 에이전트가 함께 난제를 풀기 시작했고, 학습 시작 24일 만에 발표까지 이어졌습니다.
+Gemini도 운영체제 깊숙이 들어갑니다. 화면을 보며 작업하는 Magic Pointer, 음성을 문서로 정리하는 Rambler, 자연어로 위젯을 만드는 기능을 지원하며 안드로이드폰의 앱·파일·작업도 노트북과 바로 이어집니다.
 
-오픈AI의 발표내용을 정리했습니다 🧵</description><pubDate>Tue, 22 Sep 2026 00:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkZb_oD1Mi</guid></item><item><title>1/ 오픈AI가 9월 21일 새 내부 모델의 수학 연구 성과를 공개했습니다.
+구글이 Gemini와 안드로이드를 중심으로 PC 시장까지 본격적으로 확장하고 있습니다.</description><pubDate>Tue, 22 Sep 2026 10:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdlhkumiBN2</guid></item><item><title>발표내용 :
+https://blog.google/products-and-platforms/devices/googlebook/pre-order-g...</title><link>https://www.threads.net/@choi.openai/post/DdlhmtViLAn</link><description>발표내용 :
+https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/</description><pubDate>Tue, 22 Sep 2026 10:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdlhmtViLAn</guid></item><item><title>텐센트의 Hy Image3.5 preview가 공개됐습니다.
 
-나비에-스토크스 밀레니엄 문제에 이어 수학 여러 분야에서 100개...</title><link>https://www.threads.net/@choi.openai/post/DdkZcXhD6LW</link><description>1/ 오픈AI가 9월 21일 새 내부 모델의 수학 연구 성과를 공개했습니다.
+텍스트→이미지와 이미지→이미지를 모두 지원하며 최대 2K 해상도, 이전 Hy Im...</title><link>https://www.threads.net/@choi.openai/post/DdlXPDBjoZA</link><description>텐센트의 Hy Image3.5 preview가 공개됐습니다.
 
-나비에-스토크스 밀레니엄 문제에 이어 수학 여러 분야에서 100개가 넘는 장기 미해결 문제를 해결했다고 밝혔는데요.
+텍스트→이미지와 이미지→이미지를 모두 지원하며 최대 2K 해상도, 이전 Hy Image3.0 대비 사람 평가 승률이 30% 높아졌다고 합니다.
 
-오픈AI는 발전 속도가 예상보다 빨라 사내 수학자들도 놀랐다고 설명했습니다.
+가격도 눈에 띄는데요. 텐센트 클라우드 API 기준 이미지 1장당 $0.024이며, 참고 이미지는 과금하지 않습니다.
 
-동시에 독립 수학 자문그룹도 출범했습니다.
-
-AI가 만든 새로운 수학 결과가 빠르게 늘어나면서 어떤 결과를 어떻게 공개할지, 수학자들이 이를 검토하고 후속 연구에 활용할 수 있도록 어떤 도구를 제공할지 논의하기 시작했습니다.</description><pubDate>Tue, 22 Sep 2026 00:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkZcXhD6LW</guid></item><item><title>2/ 이번 연구는 8월 28일 학습을 시작해 9월 21일 결과를 발표하기까지 24일 만에 진행됐습니다.
-
-오픈AI의 후속 설명에 따르면 이미 사...</title><link>https://www.threads.net/@choi.openai/post/DdkZdWqDwYG</link><description>2/ 이번 연구는 8월 28일 학습을 시작해 9월 21일 결과를 발표하기까지 24일 만에 진행됐습니다.
-
-오픈AI의 후속 설명에 따르면 이미 사전학습을 마친 모델에 대규모 강화학습을 추가하는 방식으로 개발했는데요.
-기존에 학습한 지식과 능력을 바탕으로 여러 풀이를 시도하고, 결과를 확인하며 더 나은 방법을 찾도록 학습했습니다.
-
-연구가 진행되는 동안에도 더 학습된 버전이 나오면 기존 에이전트를 교체해 다시 난제 탐색에 투입했습니다.
-
-모델 학습과 실제 문제 해결을 동시에 진행하면서, 개선된 모델을 곧바로 연구에 활용한 겁니다.</description><pubDate>Tue, 22 Sep 2026 00:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkZdWqDwYG</guid></item><item><title>3/ 이번 연구 이전에도 오픈AI는 AI를 수학 연구에 활용한 결과를 공개해왔습니다.
-
-8월 1일에는 Astra 내부 버전이 군론, 고차원 기하...</title><link>https://www.threads.net/@choi.openai/post/DdkZeYJDwl-</link><description>3/ 이번 연구 이전에도 오픈AI는 AI를 수학 연구에 활용한 결과를 공개해왔습니다.
-
-8월 1일에는 Astra 내부 버전이 군론, 고차원 기하, 부호 이론, 양자 복잡도 등에서 미해결 문제를 풀거나 기존 연구를 진전시킨 사례 10건을 공개했습니다.
-
-모델이 풀이를 만들면 연구자들이 함께 논증을 논문으로 정리했고, 이후 모델이 이를 Lean 증명으로 형식화했습니다.
-
-성공한 해답을 찾는 데 사용한 전체 토큰은 Sol API 요금으로 환산하면 약 2,000달러였습니다.
-
-이후 8월 28일에는 더 강한 새 내부 모델의 학습을 시작했고, 이 모델이 처음 공개적으로 주목받은 성과가 나비에-스토크스 문제였습니다.</description><pubDate>Tue, 22 Sep 2026 00:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkZeYJDwl-</guid></item><item><title>🚨 Grok 4.7이 출시되자 마자 중국 모델에 바로 따였습니다.
-
-샤오미가 MiMo-V2.6 Pro와 Flash를 오픈웨이트로 공개했습니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DdkQwtSE0T2</link><description>🚨 Grok 4.7이 출시되자 마자 중국 모델에 바로 따였습니다.
-
-샤오미가 MiMo-V2.6 Pro와 Flash를 오픈웨이트로 공개했습니다.
-
-Pro는 Artificial Analysis 지능 지수 46점으로 오픈 웨이트 모델 1위에 올랐고, 이전 V2.5의 26점에서 크게 뛰었습니다.
-
-MiMo-V2.6 Pro에 대해 정리했습니다. 🧵</description><pubDate>Mon, 21 Sep 2026 22:44:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkQwtSE0T2</guid></item><item><title>1/ 샤오미가 한국시간 9월 22일 MiMo-V2.6 Pro와 Flash를 동시에 공개했습니다.
-
-두 모델 모두 텍스트·이미지·음성·영상을 입력...</title><link>https://www.threads.net/@choi.openai/post/DdkQxcqk60f</link><description>1/ 샤오미가 한국시간 9월 22일 MiMo-V2.6 Pro와 Flash를 동시에 공개했습니다.
-
-두 모델 모두 텍스트·이미지·음성·영상을 입력으로 처리하는 네이티브 멀티모달 모델입니다. Pro는 복잡한 에이전트 작업에, Flash는 빠른 응답에 초점을 맞췄습니다.
-
-이번에는 모델만 공개한 것이 아닙니다. 7천 개가 넘는 강화학습 환경과 학습 코드, 환경과의 상호작용부터 보상 계산까지 처리하는 프레임워크, 여러 평가를 조합할 수 있는 미니 하네스도 함께 공개했습니다.
-
-모델을 사용하는 데서 더 나아가 학습과 평가 과정을 직접 재현하고 확장할 수 있는 구성까지 공개한 겁니다.</description><pubDate>Mon, 21 Sep 2026 22:44:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkQxcqk60f</guid></item><item><title>2/ 이번 버전의 상승을 만든 축은 대규모 강화학습입니다.
-
-샤오미는 6일 동안 Pro와 Flash를 각각 30단계씩 학습했고, 누적 75만 개...</title><link>https://www.threads.net/@choi.openai/post/DdkQyq7E2QQ</link><description>2/ 이번 버전의 상승을 만든 축은 대규모 강화학습입니다.
-
-샤오미는 6일 동안 Pro와 Flash를 각각 30단계씩 학습했고, 누적 75만 개의 작업 기록을 사용했다고 설명합니다.
-
-Pro 학습 비용은 약 262만 달러, Flash는 약 85만 달러였습니다.
-
-그 과정에서 DeepSWE v1.1은 Pro가 58.4점에서 72.6점, Flash가 48.8점에서 65.7점으로 올랐습니다.</description><pubDate>Mon, 21 Sep 2026 22:44:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkQyq7E2QQ</guid></item><item><title>3/ Artificial Analysis 지능 지수에서 MiMo-V2.6-Pro는 46점으로 오픈 웨이트 모델 중 1위에 올랐습니다.
-
-MiMo...</title><link>https://www.threads.net/@choi.openai/post/DdkQzyCk3Jq</link><description>3/ Artificial Analysis 지능 지수에서 MiMo-V2.6-Pro는 46점으로 오픈 웨이트 모델 중 1위에 올랐습니다.
-
-MiMo-V2.5-Pro의 26점에서 20점 상승한 수치이며, Grok 4.7과 같은 점수입니다. 
-
-GPT-5.6 Sol은 47점, Opus 5는 51점, GPT-6 Astra와 Fable 5.1은 53점입니다.</description><pubDate>Mon, 21 Sep 2026 22:44:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkQzyCk3Jq</guid></item></channel></rss>
+이미지 생성 모델 경쟁이 이제 성능뿐 아니라 편집 일관성과 가격까지 빠르게 내려오고 있습니다.</description><pubDate>Tue, 22 Sep 2026 09:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdlXPDBjoZA</guid></item></channel></rss>
