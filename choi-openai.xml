@@ -1,62 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 21 Sep 2026 19:48:26 +0000</lastBuildDate><item><title>사람들이 AI 발전을 얼마나 선형적으로 생각하는지 모른다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 22 Sep 2026 03:32:51 +0000</lastBuildDate><item><title>메타가 세계 최초의 페타비트급 대서양 횡단 해저 케이블 Petal을 발표했습니다.
 
-2024년 말만 해도 AI 연구자들은 AI가 밀레니엄 문제를 푸는 시점을 2054년...</title><link>https://www.threads.net/@choi.openai/post/Ddj3LxNDJ4-</link><description>사람들이 AI 발전을 얼마나 선형적으로 생각하는지 모른다.
+미국과 프랑스를 약 7,000km 연결하며 초당 1페타비트,...</title><link>https://www.threads.net/@choi.openai/post/DdkuGUIiOri</link><description>메타가 세계 최초의 페타비트급 대서양 횡단 해저 케이블 Petal을 발표했습니다.
 
-2024년 말만 해도 AI 연구자들은 AI가 밀레니엄 문제를 푸는 시점을 2054년쯤으로 예상했었다. 그런데 불과 2년도 지나지 않아 그 예상이 무너졌다.
+미국과 프랑스를 약 7,000km 연결하며 초당 1페타비트, 즉 1,000Tbps의 데이터를 전송할 수 있습니다. 현재 가장 앞선 대서양 횡단 시스템보다 약 2배 높은 용량입니다.
 
-AI는 일정한 속도로 발전하지 않는다. 성능이 좋아질수록 연구와 개발 자체에도 AI가 투입되고 있다.
+여러 개의 코어를 하나의 광섬유에 넣는 멀티코어 광섬유도 대규모로 처음 적용합니다.
 
-이 속도를 계속 보고 있으면 ‘특이점이 코앞에 있다’는 말도 더 이상 먼 미래 이야기가 아니다.</description><pubDate>Mon, 21 Sep 2026 19:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddj3LxNDJ4-</guid></item><item><title>엔비디아 CEO 젠슨 황(Jensen Huang)은 AI가 수조 달러 규모의 거대한 산업을 형성하며 글로벌 경제 구조를 재편하고 있다고 강조했습...</title><link>https://www.threads.net/@choi.openai/post/Ddjs1aACBXM</link><description>엔비디아 CEO 젠슨 황(Jensen Huang)은 AI가 수조 달러 규모의 거대한 산업을 형성하며 글로벌 경제 구조를 재편하고 있다고 강조했습니다.
+AI 데이터센터가 커지면서 이제 경쟁은 GPU뿐 아니라 전력, 데이터센터, 그리고 대륙을 연결하는 네트워크 인프라까지 확대되고 있습니다.
 
-그는 전 세계 100조 달러 규모의 경제 중 약 15조 달러가 더 높은 지능의 혜택을 받을 수 있는 정보 작업 영역이라고 분석했습니다.
+Petal은 2029년 가동될 예정입니다.</description><pubDate>Tue, 22 Sep 2026 03:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkuGUIiOri</guid></item><item><title>발표내용 :
+https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoce...</title><link>https://www.threads.net/@choi.openai/post/DdkuIm3iFEn</link><description>발표내용 :
+https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/</description><pubDate>Tue, 22 Sep 2026 03:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkuIm3iFEn</guid></item><item><title>유니트리가 사람 손 크기의 로봇 손 Dex5-S를 공개했습니다.
 
-“데이터센터는 단순한 IT 인프라가 아니라 보이지 않는 지능을 생산하는 ‘AI 팩토리’입니다.”
+사람 손처럼 22개의 자유도를 갖춰 손가락 관절을 세밀하게 움직일 수 있으며,...</title><link>https://www.threads.net/@choi.openai/post/DdkjyUyCag-</link><description>유니트리가 사람 손 크기의 로봇 손 Dex5-S를 공개했습니다.
 
-특히 그는 이번 AI 혁명이 지난 수십 년 만에 처음으로 “미국을 재산업화할 절호의 기회”를 열어주고 있다고 말했습니다.
+사람 손처럼 22개의 자유도를 갖춰 손가락 관절을 세밀하게 움직일 수 있으며, 모든 관절은 외부 힘을 받으면 자연스럽게 밀려 움직이는 구조와 충격 보호 기능을 지원합니다.
 
-과거처럼 자동차나 가전 같은 물리적 원자를 조립하는 대신 전자를 활용해 지능을 제조하는 새로운 제조업 생태계가 열렸기 때문입니다.
+로봇이 실제 사람의 일을 대신하려면 AI뿐 아니라 물건을 잡고 도구를 다루는 손이 중요한데요.
 
-그 결과 대규모 인프라 구축으로 전기기사, 건설 및 배관 노동자 등 블루칼라 일자리가 폭발적으로 늘어나며 기술이 실물 경제 전반의 번영을 이끌고 있다고 설명했습니다.</description><pubDate>Mon, 21 Sep 2026 17:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddjs1aACBXM</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=xCUala5j7aQ</title><link>https://www.threads.net/@choi.openai/post/Ddjs3sjiGdI</link><description>풀영상 :
-https://www.youtube.com/watch?v=xCUala5j7aQ</description><pubDate>Mon, 21 Sep 2026 17:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddjs3sjiGdI</guid></item><item><title>🚨 속보) SpaceXAI, Grok 4.7 출시</title><link>https://www.threads.net/@choi.openai/post/Ddjk02Dj2yV</link><description>🚨 속보) SpaceXAI, Grok 4.7 출시</description><pubDate>Mon, 21 Sep 2026 16:20:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddjk02Dj2yV</guid></item><item><title>1/ SpaceXAI가 공식 발표와 함께 Grok 4.7을 출시했습니다.
+시작 가격은 6,500달러로, 로봇 손까지 점차 상용 제품으로 내려오고 있습니다.</description><pubDate>Tue, 22 Sep 2026 01:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkjyUyCag-</guid></item><item><title>🚨 오픈AI 내부에서 심상치 않은 일이 벌어지고 있습니다.
 
-Cursor, Grok Build, Grok API에서 바로 사용할 ...</title><link>https://www.threads.net/@choi.openai/post/DdjqFvADwPj</link><description>1/ SpaceXAI가 공식 발표와 함께 Grok 4.7을 출시했습니다.
+새 내부 모델이 나비에-스토크스에 이어 수학 대부분 분야에서 장기 미해결 문제 10...</title><link>https://www.threads.net/@choi.openai/post/DdkZb_oD1Mi</link><description>🚨 오픈AI 내부에서 심상치 않은 일이 벌어지고 있습니다.
 
-Cursor, Grok Build, Grok API에서 바로 사용할 수 있습니다.
+새 내부 모델이 나비에-스토크스에 이어 수학 대부분 분야에서 장기 미해결 문제 100개 이상을 해결했다고 밝혔습니다.
 
-지난 4.6이 긴 코딩 작업과 자체 검증을 강화했다면, 이번에는 더 큰 베이스 모델을 도입하고 여러 시간 걸리는 과제에 강화학습을 집중했습니다.
+약 1만 개의 AI 에이전트가 함께 난제를 풀기 시작했고, 학습 시작 24일 만에 발표까지 이어졌습니다.
 
-회사는 어려운 작업을 더 오래 수행하고 결과를 꼼꼼히 확인한다고 설명합니다.
+오픈AI의 발표내용을 정리했습니다 🧵</description><pubDate>Tue, 22 Sep 2026 00:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkZb_oD1Mi</guid></item><item><title>1/ 오픈AI가 9월 21일 새 내부 모델의 수학 연구 성과를 공개했습니다.
 
-함께 공개한 도시 게임 데모에서는 4.7이 만든 건물·도로·차량 표현이 더 세밀해졌습니다.</description><pubDate>Mon, 21 Sep 2026 17:06:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjqFvADwPj</guid></item><item><title>2/ 독립 평가를 보면 종합 상승폭은 생각보다 작습니다.
+나비에-스토크스 밀레니엄 문제에 이어 수학 여러 분야에서 100개...</title><link>https://www.threads.net/@choi.openai/post/DdkZcXhD6LW</link><description>1/ 오픈AI가 9월 21일 새 내부 모델의 수학 연구 성과를 공개했습니다.
 
-Artificial Analysis 지능 지수에서 Grok 4.7은 xhigh 설정으...</title><link>https://www.threads.net/@choi.openai/post/DdjqGcYj9SY</link><description>2/ 독립 평가를 보면 종합 상승폭은 생각보다 작습니다.
+나비에-스토크스 밀레니엄 문제에 이어 수학 여러 분야에서 100개가 넘는 장기 미해결 문제를 해결했다고 밝혔는데요.
 
-Artificial Analysis 지능 지수에서 Grok 4.7은 xhigh 설정으로 46점을 받아, 4.6의 high 설정 44점에서 2점 올랐습니다.
+오픈AI는 발전 속도가 예상보다 빨라 사내 수학자들도 놀랐다고 설명했습니다.
 
-같은 최신 평가표에서 GPT-5.6 Sol은 47점, Opus 5는 51점, GPT-6 Astra와 Fable 5.1은 각각 53점입니다.
+동시에 독립 수학 자문그룹도 출범했습니다.
 
-경쟁 모델들은 max 설정이며 Fable에는 fallback 조건이 붙습니다.
-SpaceXAI는 개발사 기준 상위 4곳에 들어왔지만, 종합 점수는 여전히 선두권과 거리가 있습니다.</description><pubDate>Mon, 21 Sep 2026 17:06:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjqGcYj9SY</guid></item><item><title>3/ 점수가 오른 만큼 추론에 사용한 토큰도 크게 늘었습니다.
+AI가 만든 새로운 수학 결과가 빠르게 늘어나면서 어떤 결과를 어떻게 공개할지, 수학자들이 이를 검토하고 후속 연구에 활용할 수 있도록 어떤 도구를 제공할지 논의하기 시작했습니다.</description><pubDate>Tue, 22 Sep 2026 00:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkZcXhD6LW</guid></item><item><title>2/ 이번 연구는 8월 28일 학습을 시작해 9월 21일 결과를 발표하기까지 24일 만에 진행됐습니다.
 
-AA 차트에서 과제당 출력 토큰은 4.6 high의 약 3만 6천 개에서 4.7...</title><link>https://www.threads.net/@choi.openai/post/DdjqHZXD5lG</link><description>3/ 점수가 오른 만큼 추론에 사용한 토큰도 크게 늘었습니다.
+오픈AI의 후속 설명에 따르면 이미 사...</title><link>https://www.threads.net/@choi.openai/post/DdkZdWqDwYG</link><description>2/ 이번 연구는 8월 28일 학습을 시작해 9월 21일 결과를 발표하기까지 24일 만에 진행됐습니다.
 
-AA 차트에서 과제당 출력 토큰은 4.6 high의 약 3만 6천 개에서 4.7 xhigh의 8만 1천 개로 125% 증가했습니다. GPT-6 Astra max의 약 2만 7천 개와 비교하면 세 배 수준입니다.
+오픈AI의 후속 설명에 따르면 이미 사전학습을 마친 모델에 대규모 강화학습을 추가하는 방식으로 개발했는데요.
+기존에 학습한 지식과 능력을 바탕으로 여러 풀이를 시도하고, 결과를 확인하며 더 나은 방법을 찾도록 학습했습니다.
 
-추론 강도가 서로 달라 모델 자체의 효율을 그대로 비교하기는 어렵고, 같은 단가라면 출력 토큰이 늘어난 만큼 사용료도 증가합니다.
+연구가 진행되는 동안에도 더 학습된 버전이 나오면 기존 에이전트를 교체해 다시 난제 탐색에 투입했습니다.
 
-반면 생성 시간은 9.5분에서 7.1분으로 줄었습니다.
+모델 학습과 실제 문제 해결을 동시에 진행하면서, 개선된 모델을 곧바로 연구에 활용한 겁니다.</description><pubDate>Tue, 22 Sep 2026 00:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkZdWqDwYG</guid></item><item><title>3/ 이번 연구 이전에도 오픈AI는 AI를 수학 연구에 활용한 결과를 공개해왔습니다.
 
-AA가 공개한 이 시간은 첫 토큰 대기와 부가 처리 시간을 제외하고 실제 토큰을 생성한 시간입니다.</description><pubDate>Mon, 21 Sep 2026 17:06:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjqHZXD5lG</guid></item><item><title>RSI가 생각보다 가까워지고 있는 것 같습니다.
+8월 1일에는 Astra 내부 버전이 군론, 고차원 기하...</title><link>https://www.threads.net/@choi.openai/post/DdkZeYJDwl-</link><description>3/ 이번 연구 이전에도 오픈AI는 AI를 수학 연구에 활용한 결과를 공개해왔습니다.
 
-The Information에 따르면 오픈AI에서는 AI가 GPU 커널을 작성하고 최적화하며,...</title><link>https://www.threads.net/@choi.openai/post/DdjkSJNj2zd</link><description>RSI가 생각보다 가까워지고 있는 것 같습니다.
+8월 1일에는 Astra 내부 버전이 군론, 고차원 기하, 부호 이론, 양자 복잡도 등에서 미해결 문제를 풀거나 기존 연구를 진전시킨 사례 10건을 공개했습니다.
 
-The Information에 따르면 오픈AI에서는 AI가 GPU 커널을 작성하고 최적화하며, 일부 실험은 과거 수년에서 약 1주일 수준까지 줄었다고 합니다.
+모델이 풀이를 만들면 연구자들이 함께 논증을 논문으로 정리했고, 이후 모델이 이를 Lean 증명으로 형식화했습니다.
 
-최근 앤트로픽의 다리오 아모데이는 AI 개발 속도를 늦추자는 “Pace the Frontier”를 제안했고, 샘 알트만과 일론 머스크도 취지에 동의했습니다.
-반면 젠슨 황과 마크 저커버그는 공동 감속에 반대했었는데요.
+성공한 해답을 찾는 데 사용한 전체 토큰은 Sol API 요금으로 환산하면 약 2,000달러였습니다.
 
-AI가 AI 연구 자체를 자동화하기 시작한 시점에 업계가 동시에 감속론을 꺼낸 것도 우연은 아닐 겁니다. 이들이 내부에서 보고 있는 발전 속도는 어느 정도일지가 궁금하네요.</description><pubDate>Mon, 21 Sep 2026 16:15:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjkSJNj2zd</guid></item><item><title>발표내용 :
-https://www.theinformation.com/newsletters/ai-agenda/openai-develops-feat...</title><link>https://www.threads.net/@choi.openai/post/DdjkSs4D8zs</link><description>발표내용 :
-https://www.theinformation.com/newsletters/ai-agenda/openai-develops-features-counter-grok-bot-mulls-response-metas-muse</description><pubDate>Mon, 21 Sep 2026 16:15:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdjkSs4D8zs</guid></item></channel></rss>
+이후 8월 28일에는 더 강한 새 내부 모델의 학습을 시작했고, 이 모델이 처음 공개적으로 주목받은 성과가 나비에-스토크스 문제였습니다.</description><pubDate>Tue, 22 Sep 2026 00:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkZeYJDwl-</guid></item><item><title>🚨 Grok 4.7이 출시되자 마자 중국 모델에 바로 따였습니다.
+
+샤오미가 MiMo-V2.6 Pro와 Flash를 오픈웨이트로 공개했습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DdkQwtSE0T2</link><description>🚨 Grok 4.7이 출시되자 마자 중국 모델에 바로 따였습니다.
+
+샤오미가 MiMo-V2.6 Pro와 Flash를 오픈웨이트로 공개했습니다.
+
+Pro는 Artificial Analysis 지능 지수 46점으로 오픈 웨이트 모델 1위에 올랐고, 이전 V2.5의 26점에서 크게 뛰었습니다.
+
+MiMo-V2.6 Pro에 대해 정리했습니다. 🧵</description><pubDate>Mon, 21 Sep 2026 22:44:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkQwtSE0T2</guid></item><item><title>1/ 샤오미가 한국시간 9월 22일 MiMo-V2.6 Pro와 Flash를 동시에 공개했습니다.
+
+두 모델 모두 텍스트·이미지·음성·영상을 입력...</title><link>https://www.threads.net/@choi.openai/post/DdkQxcqk60f</link><description>1/ 샤오미가 한국시간 9월 22일 MiMo-V2.6 Pro와 Flash를 동시에 공개했습니다.
+
+두 모델 모두 텍스트·이미지·음성·영상을 입력으로 처리하는 네이티브 멀티모달 모델입니다. Pro는 복잡한 에이전트 작업에, Flash는 빠른 응답에 초점을 맞췄습니다.
+
+이번에는 모델만 공개한 것이 아닙니다. 7천 개가 넘는 강화학습 환경과 학습 코드, 환경과의 상호작용부터 보상 계산까지 처리하는 프레임워크, 여러 평가를 조합할 수 있는 미니 하네스도 함께 공개했습니다.
+
+모델을 사용하는 데서 더 나아가 학습과 평가 과정을 직접 재현하고 확장할 수 있는 구성까지 공개한 겁니다.</description><pubDate>Mon, 21 Sep 2026 22:44:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkQxcqk60f</guid></item><item><title>2/ 이번 버전의 상승을 만든 축은 대규모 강화학습입니다.
+
+샤오미는 6일 동안 Pro와 Flash를 각각 30단계씩 학습했고, 누적 75만 개...</title><link>https://www.threads.net/@choi.openai/post/DdkQyq7E2QQ</link><description>2/ 이번 버전의 상승을 만든 축은 대규모 강화학습입니다.
+
+샤오미는 6일 동안 Pro와 Flash를 각각 30단계씩 학습했고, 누적 75만 개의 작업 기록을 사용했다고 설명합니다.
+
+Pro 학습 비용은 약 262만 달러, Flash는 약 85만 달러였습니다.
+
+그 과정에서 DeepSWE v1.1은 Pro가 58.4점에서 72.6점, Flash가 48.8점에서 65.7점으로 올랐습니다.</description><pubDate>Mon, 21 Sep 2026 22:44:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkQyq7E2QQ</guid></item><item><title>3/ Artificial Analysis 지능 지수에서 MiMo-V2.6-Pro는 46점으로 오픈 웨이트 모델 중 1위에 올랐습니다.
+
+MiMo...</title><link>https://www.threads.net/@choi.openai/post/DdkQzyCk3Jq</link><description>3/ Artificial Analysis 지능 지수에서 MiMo-V2.6-Pro는 46점으로 오픈 웨이트 모델 중 1위에 올랐습니다.
+
+MiMo-V2.5-Pro의 26점에서 20점 상승한 수치이며, Grok 4.7과 같은 점수입니다. 
+
+GPT-5.6 Sol은 47점, Opus 5는 51점, GPT-6 Astra와 Fable 5.1은 53점입니다.</description><pubDate>Mon, 21 Sep 2026 22:44:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdkQzyCk3Jq</guid></item></channel></rss>
