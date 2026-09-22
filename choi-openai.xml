@@ -1,40 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 22 Sep 2026 13:07:56 +0000</lastBuildDate><item><title>알리바바가 2026 Apsara Conference에서 차세대 AI 로드맵을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 22 Sep 2026 18:23:50 +0000</lastBuildDate><item><title>에이키도가 보안 작업에 맞춘 첫 오픈웨이트 모델 Altar-1을 공개했습니다.
 
-Qwen4-Max, Qwen4-Plus, Qwen4...</title><link>https://www.threads.net/@choi.openai/post/Ddlyut9jP6P</link><description>알리바바가 2026 Apsara Conference에서 차세대 AI 로드맵을 공개했습니다.
+GLM-5.3을 기반으로 보안 테스트 기록과 다국어 데이터를 활...</title><link>https://www.threads.net/@choi.openai/post/DdmVGeQkuX4</link><description>에이키도가 보안 작업에 맞춘 첫 오픈웨이트 모델 Altar-1을 공개했습니다.
 
-Qwen4-Max, Qwen4-Plus, Qwen4-Flash, Qwen4-27B가 준비 중이며 Qwen4는 현재 훈련 단계입니다. 이후 Qwen4.5와 Qwen5는 5~10조 파라미터까지 확대할 계획입니다.
+GLM-5.3을 기반으로 보안 테스트 기록과 다국어 데이터를 활용해 필요한 전문가를 선별하고, 1.51TB 모델을 328GB까지 줄였습니다.
+별도 보안 파인튜닝을 한 모델은 아닙니다.
 
-동시에 차세대 영상 생성 모델도 11월 공개 예정입니다. 더 긴 영상에서도 일관성을 유지하고, 인물·장면·카메라를 세밀하게 제어하며, 개별 장면 생성에서 전체 이야기 흐름을 이해하는 방향으로 개발되고 있습니다.
+32개 실제 취약점 평가에서 Altar-1은 23개를 찾아 원본 GLM-5.3이 찾은 25개 중 92%를 유지했고, 평균 탐지율은 60.4%로 원본 65.6%와 비교해 5.2%p 낮았습니다. 이미 실제 고객 펜테스트에서도 치명적 취약점을 발견했다고 합니다.
 
-언어 모델뿐 아니라 영상까지 RSI(재귀적 자기 개선)를 포함한 다음 단계로 넘어가려는 모습입니다.</description><pubDate>Tue, 22 Sep 2026 13:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddlyut9jP6P</guid></item><item><title>언더독AI가 애플의 MLX보다 최대 4.5배 빠른 로컬 추론 엔진 Husky를 공개했습니다.
+가중치가 공개돼 자체 서버나 폐쇄망에서도 운영할 수 있으며 4개의 H200으로 구동 가능합니다.</description><pubDate>Tue, 22 Sep 2026 18:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdmVGeQkuX4</guid></item><item><title>발표내용 :
+https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-securit...</title><link>https://www.threads.net/@choi.openai/post/DdmVH1qknOr</link><description>발표내용 :
+https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security</description><pubDate>Tue, 22 Sep 2026 18:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdmVH1qknOr</guid></item><item><title>XGEN Labs가 상호작용할 수 있는 월드 모델 JING을 공개했습니다.
 
-Husky는 여러 모델을 지원하는 범용 엔진이 아...</title><link>https://www.threads.net/@choi.openai/post/Ddlr5KqAhlV</link><description>언더독AI가 애플의 MLX보다 최대 4.5배 빠른 로컬 추론 엔진 Husky를 공개했습니다.
+JING은 사용자의 행동과 참고 이미지, 이전 상황을 바탕으로 다음...</title><link>https://www.threads.net/@choi.openai/post/DdmKxvSDcNU</link><description>XGEN Labs가 상호작용할 수 있는 월드 모델 JING을 공개했습니다.
 
-Husky는 여러 모델을 지원하는 범용 엔진이 아니라 Woof 모델 하나에 맞춰 설계된 MSI(Model-Specific Inference) 방식입니다.
+JING은 사용자의 행동과 참고 이미지, 이전 상황을 바탕으로 다음 장면을 실시간으로 만들어냅니다.
 
-모델 구조를 미리 알고 있기 때문에 정규화, 4비트 압축 해제, 행렬 연산 등을 하나의 GPU 작업으로 묶어 CPU와 GPU가 반복해서 오가는 비용을 줄였습니다.
+카메라를 움직여 공간을 돌아다니거나 물체와 상호작용하고, 등장인물과 대화할 수도 있는데요. 이 과정에서 영상과 오디오를 함께 생성합니다.
 
-그 결과 맥북에서 Woof를 최대 초당 730토큰까지 실행할 수 있다고 합니다.
+앞서 XGEN Labs는 JING이 개인의 경험을 생성하고 DAO가 여러 사람이 공유하는 세계의 상태와 변화를 관리하는 Generative World Simulation 구조도 공개했는데요.
 
-인터넷 연결 없이 맥과 아이폰에서 구동할 수 있어, 로컬 AI의 병목이 모델 크기뿐 아니라 모델별 추론 최적화로도 크게 줄어들고 있습니다.</description><pubDate>Tue, 22 Sep 2026 12:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddlr5KqAhlV</guid></item><item><title>주소 :
-https://husky.underdog.ai/</title><link>https://www.threads.net/@choi.openai/post/Ddlr8AQgidK</link><description>주소 :
-https://husky.underdog.ai/</description><pubDate>Tue, 22 Sep 2026 12:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddlr8AQgidK</guid></item><item><title>구글이 새로운 노트북 제품군 Googlebook을 공개했습니다.
+이번에는 그중 JING의 모델과 추론 코드를 공개했으며 허깅페이스에서 이용할 수 있습니다.</description><pubDate>Tue, 22 Sep 2026 16:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdmKxvSDcNU</guid></item><item><title>허깅페이스 :
+https://huggingface.co/XGENlabs/XGEN-JING</title><link>https://www.threads.net/@choi.openai/post/DdmKzAvDd6x</link><description>허깅페이스 :
+https://huggingface.co/XGENlabs/XGEN-JING</description><pubDate>Tue, 22 Sep 2026 16:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdmKzAvDd6x</guid></item><item><title>Cognition이 Devin Cloud를 터미널 안으로 가져왔습니다.
 
-가격은 899달러부터 시작하며 최대 2.8K OLED 터치스크린, 14시간 배...</title><link>https://www.threads.net/@choi.openai/post/DdlhkumiBN2</link><description>구글이 새로운 노트북 제품군 Googlebook을 공개했습니다.
+이제 `devin --cloud`로 CLI에서 클라우드 세션을 만들고,...</title><link>https://www.threads.net/@choi.openai/post/DdmAd9_AN26</link><description>Cognition이 Devin Cloud를 터미널 안으로 가져왔습니다.
 
-가격은 899달러부터 시작하며 최대 2.8K OLED 터치스크린, 14시간 배터리, 45TOPS 이상 NPU를 탑재합니다. 에이서, 에이수스, 델, HP, 레노버가 제품을 출시하며 Android 기술과 ChromeOS 기반을 결합한 Googlebook OS가 적용됩니다.
+이제 `devin --cloud`로 CLI에서 클라우드 세션을 만들고, 진행 상황을 확인하거나 지시를 추가할 수 있습니다.
+작업을 Devin의 전용 VM으로 넘긴 뒤 노트북을 꺼도 계속 실행되며, 나중에 다른 환경에서 세션을 다시 이어갈 수도 있습니다.
 
-Gemini도 운영체제 깊숙이 들어갑니다. 화면을 보며 작업하는 Magic Pointer, 음성을 문서로 정리하는 Rambler, 자연어로 위젯을 만드는 기능을 지원하며 안드로이드폰의 앱·파일·작업도 노트북과 바로 이어집니다.
+여기에 `devin ssh`도 추가됐습니다. Devin의 VM에 직접 접속해 코드를 수정하고, 개발 서버를 띄우고, 포트 포워딩이나 파일 복사까지 할 수 있습니다.
+작업이 끝나면 `/handoff`로 브랜치를 로컬에 가져와 이어서 작업할 수 있습니다.
 
-구글이 Gemini와 안드로이드를 중심으로 PC 시장까지 본격적으로 확장하고 있습니다.</description><pubDate>Tue, 22 Sep 2026 10:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdlhkumiBN2</guid></item><item><title>발표내용 :
-https://blog.google/products-and-platforms/devices/googlebook/pre-order-g...</title><link>https://www.threads.net/@choi.openai/post/DdlhmtViLAn</link><description>발표내용 :
-https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/</description><pubDate>Tue, 22 Sep 2026 10:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdlhmtViLAn</guid></item><item><title>텐센트의 Hy Image3.5 preview가 공개됐습니다.
+결국 Devin이 별도 웹서비스라기보다, 개발자가 쓰던 터미널과 클라우드 개발환경 사이에 자연스럽게 들어오는 형태로 바뀌고 있습니다.</description><pubDate>Tue, 22 Sep 2026 15:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdmAd9_AN26</guid></item><item><title>발표내용 :
+https://devin.ai/blog/devin-cloud-in-your-terminal</title><link>https://www.threads.net/@choi.openai/post/DdmAfTRANXC</link><description>발표내용 :
+https://devin.ai/blog/devin-cloud-in-your-terminal</description><pubDate>Tue, 22 Sep 2026 15:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdmAfTRANXC</guid></item><item><title>코덱스 CLI에도 음성 모드가 들어왔습니다.
 
-텍스트→이미지와 이미지→이미지를 모두 지원하며 최대 2K 해상도, 이전 Hy Im...</title><link>https://www.threads.net/@choi.openai/post/DdlXPDBjoZA</link><description>텐센트의 Hy Image3.5 preview가 공개됐습니다.
+최신 버전으로 업데이트한 뒤 `/experimental`에서 Voice mode를 켜고 `/voi...</title><link>https://www.threads.net/@choi.openai/post/Ddl2O5XDnAb</link><description>코덱스 CLI에도 음성 모드가 들어왔습니다.
 
-텍스트→이미지와 이미지→이미지를 모두 지원하며 최대 2K 해상도, 이전 Hy Image3.0 대비 사람 평가 승률이 30% 높아졌다고 합니다.
-
-가격도 눈에 띄는데요. 텐센트 클라우드 API 기준 이미지 1장당 $0.024이며, 참고 이미지는 과금하지 않습니다.
-
-이미지 생성 모델 경쟁이 이제 성능뿐 아니라 편집 일관성과 가격까지 빠르게 내려오고 있습니다.</description><pubDate>Tue, 22 Sep 2026 09:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdlXPDBjoZA</guid></item></channel></rss>
+최신 버전으로 업데이트한 뒤 `/experimental`에서 Voice mode를 켜고 `/voice`를 입력하면 음성으로 코덱스와 대화할 수 있습니다.</description><pubDate>Tue, 22 Sep 2026 13:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddl2O5XDnAb</guid></item></channel></rss>
