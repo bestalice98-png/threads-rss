@@ -1,107 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 23 Sep 2026 03:32:44 +0000</lastBuildDate><item><title>이건 꿀인데요..?
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 23 Sep 2026 13:22:41 +0000</lastBuildDate><item><title>알리바바 Qwen이 음성 AI를 한꺼번에 업데이트했습니다.
 
-구글이 Google AI 요금제에 Colab 혜택을 추가했습니다. 구독자는 더 빠른 가속기와 고성능 머신을 우선 사용할 수...</title><link>https://www.threads.net/@choi.openai/post/DdnS2dLAYcJ</link><description>이건 꿀인데요..?
+Qwen-Audio-3.1 시리즈는 ASR·TTS·Realtime을 업그레이드하고 ...</title><link>https://www.threads.net/@choi.openai/post/DdoXgosk6Cr</link><description>알리바바 Qwen이 음성 AI를 한꺼번에 업데이트했습니다.
 
-구글이 Google AI 요금제에 Colab 혜택을 추가했습니다. 구독자는 더 빠른 가속기와 고성능 머신을 우선 사용할 수 있으며, Pro 사용자는 L4와 A100 GPU도 새롭게 이용할 수 있습니다.
+Qwen-Audio-3.1 시리즈는 ASR·TTS·Realtime을 업그레이드하고 ASR-Next와 TTS-Next를 추가해 총 5개 모델로 구성됩니다.
 
-특히 Ultra는 Premium GPU와 백그라운드 실행까지 지원해 브라우저를 계속 켜두지 않아도 긴 AI 학습 작업을 돌릴 수 있습니다.
+음성을 글로 바꾸고, 음성을 이해하고, 목소리를 만들고, 실시간으로 대화하고, 효과음까지 포함한 오디오를 만드는 영역을 각각 담당합니다.
 
-Gemini 때문에 Google AI를 이미 구독하고 있었다면 Colab까지 함께 활용할 수 있게 됐습니다.</description><pubDate>Wed, 23 Sep 2026 03:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdnS2dLAYcJ</guid></item><item><title>내용 :
-https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/</title><link>https://www.threads.net/@choi.openai/post/DdnS32ygZs0</link><description>내용 :
-https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/</description><pubDate>Wed, 23 Sep 2026 03:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdnS32ygZs0</guid></item><item><title>Qwen-Image-2.1을 이제 12GB VRAM 그래픽카드에서도 로컬로 돌릴 수 있습니다.
+가격도 기존 대비 TTS 약 70%, Realtime 약 85%, ASR은 최대 95% 인하했습니다.</description><pubDate>Wed, 23 Sep 2026 13:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdoXgosk6Cr</guid></item><item><title>1/ Qwen-Audio-3.1-ASR은 음성을 텍스트로 변환하는 모델입니다.
 
-Unsloth가 Qwen-Image-2.1용 G...</title><link>https://www.threads.net/@choi.openai/post/DdnMApRio6x</link><description>Qwen-Image-2.1을 이제 12GB VRAM 그래픽카드에서도 로컬로 돌릴 수 있습니다.
+다국어와 중국어 방언 인식 성능을 높였고, 말할 때 나오는 불필...</title><link>https://www.threads.net/@choi.openai/post/DdoXh9WkwmV</link><description>1/ Qwen-Audio-3.1-ASR은 음성을 텍스트로 변환하는 모델입니다.
 
-Unsloth가 Qwen-Image-2.1용 GGUF를 공개했습니다.
+다국어와 중국어 방언 인식 성능을 높였고, 말할 때 나오는 불필요한 추임새나 반복 표현을 자동으로 제거해 읽기 좋은 문장으로 정리할 수 있습니다.
 
-7B 이미지 생성·편집 모델을 12GB VRAM에서 실행할 수 있고, Dynamic FP8과 오프로딩을 이용하면 6GB VRAM에서도 구동할 수 있다고 합니다.
+ASR-Next는 여기서 더 나아가 여러 사람이 말하는 음성을 화자별로 구분하고 시간까지 표시합니다.
 
-Unsloth는 해당 모델의 성능이 Nano Banana 2.0과 비슷한 수준이라고 설명합니다. 
+사람의 감정뿐 아니라 주변 소리와 기계음도 이해해 “언제 어떤 소리가 발생했는지” 찾거나 오디오에 관한 질문에도 답할 수 있습니다.</description><pubDate>Wed, 23 Sep 2026 13:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdoXh9WkwmV</guid></item><item><title>2/ Qwen-Audio-3.1-TTS는 텍스트를 자연스러운 음성으로 만드는 모델입니다.
 
-고성능 이미지 생성 모델을 개인 PC에서 돌릴 수 있는 기준이 계속 낮아지고 있습니다.</description><pubDate>Wed, 23 Sep 2026 02:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdnMApRio6x</guid></item><item><title>허깅페이스 :
-https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF</title><link>https://www.threads.net/@choi.openai/post/DdnMCzMCr2B</link><description>허깅페이스 :
-https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF</description><pubDate>Wed, 23 Sep 2026 02:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdnMCzMCr2B</guid></item><item><title>앤트로픽이 Opus 5.5 사용법을 공개했습니다.
+16개 언어와 중국 20개 지역 방언을 지원하며, 한...</title><link>https://www.threads.net/@choi.openai/post/DdoXjsXk5nh</link><description>2/ Qwen-Audio-3.1-TTS는 텍스트를 자연스러운 음성으로 만드는 모델입니다.
 
-이전 Opus보다 긴 작업을 스스로 이어가는 능력이 좋아져, 완료 조건과 중단 시점만 정해주...</title><link>https://www.threads.net/@choi.openai/post/DdnFJbfj6G4</link><description>앤트로픽이 Opus 5.5 사용법을 공개했습니다.
+16개 언어와 중국 20개 지역 방언을 지원하며, 한 사람의 목소리를 다른 언어에서도 비슷하게 유지할 수 있습니다. “빠르고 화난 목소리”, “천천히 차분하게”처럼 문장으로 감정·속도·말투를 지정할 수도 있습니다.
 
-이전 Opus보다 긴 작업을 스스로 이어가는 능력이 좋아져, 완료 조건과 중단 시점만 정해주고 맡기는 방식을 권장합니다.
+한 번에 최대 3분 길이의 음성을 생성하며 웃음·호흡·기침·한숨 등을 포함한 86개의 세부 태그도 지원합니다.
 
-또한 “think carefully” 같은 문구는 필요 없으며, 대규모 작업은 서브에이전트로 나눠 진행하고 마지막에 결과를 검토하는 방식이 권장되는데요.
+Artificial Analysis TTS 리더보드에서도 1위를 기록했다고 Qwen은 밝혔습니다.</description><pubDate>Wed, 23 Sep 2026 13:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdoXjsXk5nh</guid></item><item><title>3/ TTS-Next는 목소리만 만드는 TTS에서 한 단계 더 나아갑니다.
 
-이번 가이드를 정리했습니다 🧵</description><pubDate>Wed, 23 Sep 2026 01:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdnFJbfj6G4</guid></item><item><title>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+언어 모델과 diffusion 방식을 결합해 사람 목소리와 효과음,...</title><link>https://www.threads.net/@choi.openai/post/DdoXlduE8lv</link><description>3/ TTS-Next는 목소리만 만드는 TTS에서 한 단계 더 나아갑니다.
 
-1. 작업 전체를 한 메시지로 주고, 완료 조건과 멈출 조건을 함께 적음
-2. “thin...</title><link>https://www.threads.net/@choi.openai/post/DdnFJ3KD5js</link><description>1/ 바쁘신 분들을 위해 핵심 내용만 정리해드립니다.
+언어 모델과 diffusion 방식을 결합해 사람 목소리와 효과음, 배경음을 한 번에 생성하도록 설계됐습니다. 오디오북·팟캐스트·게임·광고처럼 완성된 오디오 콘텐츠를 만드는 용도입니다.
 
-1. 작업 전체를 한 메시지로 주고, 완료 조건과 멈출 조건을 함께 적음
-2. “think carefully” 같은 문구는 삭제함. 모델이 매번 스스로 생각량을 정함
-3. 디자인 요청은 빼고 싶은 스타일을 구체적으로 나열함
-4. CLAUDE.md에 계속 진행할 때와 멈춰서 물어볼 때를 규칙으로 적어둠
-5. 대규모 감사·마이그레이션은 서브에이전트로 나누고, 각 보고의 근거를 검증하게 함
-6. 긴 작업이 끝나면 나에게 요청한 결정부터 읽음
-7. 안전장치에 걸려 이전 모델로 전환되면 모델 선택기나 /model로 복귀함</description><pubDate>Wed, 23 Sep 2026 01:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdnFJ3KD5js</guid></item><item><title>2/ 가이드가 가장 먼저 권하는 방식은 작업 전체를 한 메시지로 넘기는 것입니다.
+Qwen-Audio-3.1-Realtime은 실제 통화처럼 AI가 듣는 중에도 말할 수 있고 사용자가 중간에 끼어들어 대화를 끊을 수도 있습니다.
 
-여기에 확인 가능한 완료 기준을 붙입니다. “테스트가 통과한...</title><link>https://www.threads.net/@choi.openai/post/DdnFKttD5AP</link><description>2/ 가이드가 가장 먼저 권하는 방식은 작업 전체를 한 메시지로 넘기는 것입니다.
+사용자의 기분이 가라앉은 것으로 판단하면 말하는 속도를 늦추고 이에 맞춰 반응하는 기능도 추가됐습니다.
 
-여기에 확인 가능한 완료 기준을 붙입니다. “테스트가 통과한다”, “모든 엔드포인트를 옮겼다” 같은 상태입니다.
+음성 AI가 받아쓰기나 음성 챗봇을 넘어 콘텐츠 제작과 AI 에이전트의 인터페이스까지 넓어지고 있습니다.</description><pubDate>Wed, 23 Sep 2026 13:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdoXlduE8lv</guid></item><item><title>와.. 진짜 도대체 무슨 시대에 살아가고 있는거지..
 
-공식 예시는 세 줄로 되어 있습니다. 
+Claude Opus 5.5가 공개되자마자 말도 안 되는 결과물들이 쏟아지고 있습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DdoMDfBj4Uy</link><description>와.. 진짜 도대체 무슨 시대에 살아가고 있는거지..
 
-결제 엔드포인트를 옛 클라이언트에서 새 클라이언트로 옮길 것.
-모든 엔드포인트가 새 클라이언트를 쓰고, 옛 클라이언트가 삭제되고, 테스트가 통과하면 완료.
-설명할 수 없는 이유로 테스트가 실패할 때만 멈춰서 물어볼 것.
+Claude Opus 5.5가 공개되자마자 말도 안 되는 결과물들이 쏟아지고 있습니다.
 
-앤트로픽은 Opus 5.5가 이전 Opus 대비 여러 단계 작업을 끝까지 이어가는 능력에서 가장 크게 좋아졌다고 밝혔습니다.
+텍스트 지시만으로 Minecraft·Roblox 게임부터 3D 세계, 픽셀 애니메이션, 음악까지 코드로 직접 만들어냅니다.
 
-초기 테스터들은 긴 코딩 작업을 거의 감독 없이 몇 시간씩 돌렸고, 완료 기준이 분명할수록 모델이 스스로 끝낼 시점을 압니다.</description><pubDate>Wed, 23 Sep 2026 01:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdnFKttD5AP</guid></item><item><title>3/ 끝낼 시점을 모델이 판단하듯, 얼마나 생각할지도 이제 모델이 정합니다.
-그래서 “think carefully”, “think step by...</title><link>https://www.threads.net/@choi.openai/post/DdnFL0_jzkX</link><description>3/ 끝낼 시점을 모델이 판단하듯, 얼마나 생각할지도 이제 모델이 정합니다.
-그래서 “think carefully”, “think step by step” 같은 문장은 프롬프트와 저장된 지시문에서 지우라고 권합니다.
+이미지나 영상 생성 모델 없이 JavaScript만으로 만든 사례도 등장했습니다.
 
-Opus 5.5는 답하기 전에 항상 생각하고, 생각의 양도 스스로 조절합니다.
-앤트로픽이 채팅 제품에서 시험해 보니 이 문구를 지웠을 때 응답이 더 빨리 시작됐고 품질 저하는 뚜렷하지 않았다고 합니다.
+놀라운 활용 사례 20가지를 정리했습니다🧵</description><pubDate>Wed, 23 Sep 2026 11:20:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdoMDfBj4Uy</guid></item><item><title>1/ Claude Opus 5.5로 Dark Souls 스타일의 액션 RPG를 제작한 사례가 공개됐습니다.
 
-간단한 질문에 곧바로 답을 받고 싶다면 “바로 답해줘”라고 쓰면 됩니다.
-Claude Code에서 생각량 자체를 바꾸려면 effort 설정을 조정합니다.
+캐릭터를 직접 조작해 맵을 돌아다니...</title><link>https://www.threads.net/@choi.openai/post/DdoJ8cbFI__</link><description>1/ Claude Opus 5.5로 Dark Souls 스타일의 액션 RPG를 제작한 사례가 공개됐습니다.
 
-작업 도중 빠뜨린 조건이 떠오르면 멈추지 말고 그대로 입력하면 되는데요.
-실행 중에 메시지를 치고 Enter를 누르면 반영됩니다. 작업이 길어진 만큼 처음부터 다시 돌리는 비용이 커졌기 때문입니다.</description><pubDate>Wed, 23 Sep 2026 01:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdnFL0_jzkX</guid></item><item><title>🚨 와 진짜 미친 하루다.. 앤트로픽도 Claude Opus 5.5를 공개했습니다.
+캐릭터를 직접 조작해 맵을 돌아다니며 적과 전투할 수 있는 게임 형태로 구현했습니다.
 
-대부분의 작업에서 Fable 5.1 수준이라면서 가격은 1...</title><link>https://www.threads.net/@choi.openai/post/Ddm5TfYIzao</link><description>🚨 와 진짜 미친 하루다.. 앤트로픽도 Claude Opus 5.5를 공개했습니다.
+x@The_Alex</description><pubDate>Wed, 23 Sep 2026 11:20:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdoJ8cbFI__</guid></item><item><title>2/ Claude Opus 5.5가 JavaScript로 애니메이션의 모든 프레임을 직접 그린 사례가 공개됐습니다.
 
-대부분의 작업에서 Fable 5.1 수준이라면서 가격은 100만 토큰당 입력 4달러, 출력 20달러로 Fable의 40%입니다.
+사람들의 요청을 처리하던 ...</title><link>https://www.threads.net/@choi.openai/post/DdoJ2oBoFM3</link><description>2/ Claude Opus 5.5가 JavaScript로 애니메이션의 모든 프레임을 직접 그린 사례가 공개됐습니다.
 
-Fable 보다 뛰어난 Opus 5.5.. 이번 발표를 정리했습니다 🧵</description><pubDate>Tue, 22 Sep 2026 23:32:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddm5TfYIzao</guid></item><item><title>1/ 앤트로픽이 Claude Opus 5.5를 공개했습니다.
+사람들의 요청을 처리하던 Claude에게 한 소녀가 “무엇을 사랑하나요?”라고 묻는 이야기를 애니메이션으로 구현했습니다.
 
-Claude 5.5 세대의 첫 모델이고, Sonnet 5.5와 Haiku 5.5가...</title><link>https://www.threads.net/@choi.openai/post/Ddm7IXlD52x</link><description>1/ 앤트로픽이 Claude Opus 5.5를 공개했습니다.
+x@kevin_t_ngo</description><pubDate>Wed, 23 Sep 2026 11:20:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdoJ2oBoFM3</guid></item><item><title>3/ Claude Opus 5.5로 여러 사람이 함께 잔디를 깎는 멀티플레이 시뮬레이션 게임을 만든 사례가 공개됐습니다.
 
-Claude 5.5 세대의 첫 모델이고, Sonnet 5.5와 Haiku 5.5가 몇 주 안에 뒤따릅니다. 
+맥주를 마시거나 시가...</title><link>https://www.threads.net/@choi.openai/post/DdoKAUMmV-h</link><description>3/ Claude Opus 5.5로 여러 사람이 함께 잔디를 깎는 멀티플레이 시뮬레이션 게임을 만든 사례가 공개됐습니다.
 
-앤트로픽의 설명은 대부분의 작업에서 Fable 5.1 수준이면서 같은 일에 드는 비용이 Opus 5보다 40% 적다는 것입니다.
+맥주를 마시거나 시가를 피우는 동작까지 포함해 한 번의 요청으로 제작했으며, 서버에 올려 다른 사용자와 함께 플레이할 수 있습니다.
 
-가격은 100만 토큰당 입력 4달러, 출력 20달러입니다. Opus 5의 5달러, 25달러에서 20% 내렸고, 캐시 읽기는 0.5달러에서 0.2달러로 60% 내렸습니다.
+x@_MaxBlade</description><pubDate>Wed, 23 Sep 2026 11:20:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdoKAUMmV-h</guid></item><item><title>와.. 이거 진짜에요..?
+Opus 5.5 한테 애니메이션 만들어달라고 했더니 원샷으로..</title><link>https://www.threads.net/@choi.openai/post/DdoE548DwS1</link><description>와.. 이거 진짜에요..?
+Opus 5.5 한테 애니메이션 만들어달라고 했더니 원샷으로..</description><pubDate>Wed, 23 Sep 2026 10:17:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdoE548DwS1</guid></item><item><title>AI 에이전트는 사용하는 모델만큼 어떤 방식으로 도구를 다루느냐도 중요해지고 있습니다.
 
-추론 강도는 low부터 max까지 5단계이고, Pro, Max, Team 요금제의 Claude Code와 앱에서는 기본 모델이 되었습니다. 기본 강도는 medium입니다.
+Unreal Labs가 오픈소스 에이전트 하네스 Unr...</title><link>https://www.threads.net/@choi.openai/post/Ddn8FvqDTB-</link><description>AI 에이전트는 사용하는 모델만큼 어떤 방식으로 도구를 다루느냐도 중요해지고 있습니다.
 
-그리고 한 시간 반쯤 뒤 오픈AI가 GPT-6 Sol과 Luna를 내놓으며 API 가격을 절반으로 내렸습니다.
+Unreal Labs가 오픈소스 에이전트 하네스 Unreal Agent를 공개했습니다.
+도구 실행을 기다리지 않고 백그라운드에서 비동기로 처리하면서 AI는 다른 작업을 계속하는 방식입니다.
 
-가격이 이만큼 내려간 근거로 앤트로픽은 벤치마크 표와 추론 강도별 비용 곡선을 같이 내놨습니다.</description><pubDate>Tue, 22 Sep 2026 23:32:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddm7IXlD52x</guid></item><item><title>2/ 공개된 표에서 Opus 5.5는 9개 평가 중 7개에서 가장 높은 점수를 기록했습니다.
+Terminal-Bench 4.0에서 GPT-6 Astra를 사용했을 때 Codex와 동일한 57.9% 성공률을 기록하면서 비용은 2,350달러에서 1,428달러로 약 39% 줄였습니다.
 
-Terminal-Bench 4.0은 66.4%로 ...</title><link>https://www.threads.net/@choi.openai/post/Ddm7JT_D8gu</link><description>2/ 공개된 표에서 Opus 5.5는 9개 평가 중 7개에서 가장 높은 점수를 기록했습니다.
-
-Terminal-Bench 4.0은 66.4%로 Fable 5.1의 55.8%, GPT-6 Astra의 57.9%를 앞섰고, 44개 직업의 실무를 평가하는 GDPval-AA에서는 1,846 Elo로 Fable보다 111점 높았습니다.
-
-Astra에 뒤진 평가는 AutomationBench 40.0% 대 41.4%, Terminal-Bench-Science 58.7% 대 64.6%였습니다.
-
-다만 평가는 보안장치를 켠 상태로 진행됐습니다.
-장치가 개입하면 사이버 과제는 Opus 4.8, 생물학은 Opus 5가 대신 수행했고, AutomationBench에서는 개입을 실패로 처리했습니다.
-
-앤트로픽도 실제 사용에서 Fable 5.1과의 차이는 벤치마크 점수보다 작다고 설명했습니다.</description><pubDate>Tue, 22 Sep 2026 23:33:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddm7JT_D8gu</guid></item><item><title>3/ 독립 평가기관 Artificial Analysis의 결과도 같은 방향입니다.
-10개 평가를 합친 Intelligence Index에서 Op...</title><link>https://www.threads.net/@choi.openai/post/Ddm7KN9D_2j</link><description>3/ 독립 평가기관 Artificial Analysis의 결과도 같은 방향입니다.
-10개 평가를 합친 Intelligence Index에서 Opus 5.5는 max 강도로 58점을 받았습니다.
-
-직전 1위였던 Fable 5.1과 GPT-6 Astra가 53점, Opus 5가 51점이니 5점을 한 번에 벌렸습니다. 10개 중 6개에서 1위인데요.
-
-Humanity's Last Exam은 61.4%로 Fable 5.1의 59.1%를 넘었고, 지식 노동 평가인 AA-Briefcase는 1822 Elo로 Fable보다 143점 높습니다.
-
-반대로 물리 연구 문제 CritPt, 긴 문맥 추론 AA-LCR, PDF 문서 처리 GDP.pdf에서는 조금 뒤졌습니다.</description><pubDate>Tue, 22 Sep 2026 23:33:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddm7KN9D_2j</guid></item></channel></rss>
+모델을 바꾸지 않아도 에이전트 구조를 어떻게 설계하느냐에 따라 비용과 작업 효율이 크게 달라질 수 있다는 사례입니다.</description><pubDate>Wed, 23 Sep 2026 09:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddn8FvqDTB-</guid></item><item><title>상세내용 :
+https://unreallabs.ai/blog/unreal-agent/</title><link>https://www.threads.net/@choi.openai/post/Ddn8G-SDWgF</link><description>상세내용 :
+https://unreallabs.ai/blog/unreal-agent/</description><pubDate>Wed, 23 Sep 2026 09:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddn8G-SDWgF</guid></item></channel></rss>
