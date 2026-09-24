@@ -1,48 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 24 Sep 2026 13:15:36 +0000</lastBuildDate><item><title>Jev보다 최대 9배 빠른 의사결정 모델 CLM-8B이 공개됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 24 Sep 2026 18:44:00 +0000</lastBuildDate><item><title>🚨 구글이 AI 데이터센터를 우주에 띄우는 Project Suncatcher를 실제 위성으로 테스트합니다.
 
-스탠퍼드와 엔비디아 연구진이 만든 CLM은 현재 상황과 가능한 행동을 각...</title><link>https://www.threads.net/@choi.openai/post/Ddq8SxDCdtp</link><description>Jev보다 최대 9배 빠른 의사결정 모델 CLM-8B이 공개됐습니다.
+첫 실험 위성은 10월 1일 Spa...</title><link>https://www.threads.net/@choi.openai/post/DdretdbgBtT</link><description>🚨 구글이 AI 데이터센터를 우주에 띄우는 Project Suncatcher를 실제 위성으로 테스트합니다.
 
-스탠퍼드와 엔비디아 연구진이 만든 CLM은 현재 상황과 가능한 행동을 각각 분석한 뒤 가장 적합한 행동을 고르는 방식입니다.
+첫 실험 위성은 10월 1일 SpaceX Falcon 9으로 발사될 예정이며 TPU 4개를 탑재해 우주에서 간단한 Gemini 요청을 처리하고 방사선·발열 환경에서 AI 칩이 제대로 작동하는지 확인합니다.
 
-행동을 미리 계산해 재사용할 수 있어 후보가 많을수록 속도 차이가 커지며, 약 1,000개 후보에서는 Jev보다 13배 빨랐습니다.
+2027년에는 위성 2대를 추가로 발사할 계획이며, 장기적으로는 80대 이상의 위성을 서로 연결해 하나의 AI 데이터센터처럼 운영하는 방안을 구상하고 있습니다. 축구장 길이 수준의 대형 위성 설계도 검토 중입니다.
 
-컴퓨터 사용·게임·도구 호출에서는 Jev와 비슷한 성능을 기록했고, 미세 조정 후 DeepSWE 81.6%, Terminal-Bench 2.1 87.6%를 기록했습니다.
+구글은 2030년대 중반이면 우주 데이터센터의 비용이 지상 데이터센터와 경쟁할 수 있을 것으로 보고 있습니다.</description><pubDate>Thu, 24 Sep 2026 18:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdretdbgBtT</guid></item><item><title>내용 :
+https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-cen...</title><link>https://www.threads.net/@choi.openai/post/DdreusVALEy</link><description>내용 :
+https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html</description><pubDate>Thu, 24 Sep 2026 18:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdreusVALEy</guid></item><item><title>Gemini Notebook과 Google Docs가 연결됩니다.
 
-코드와 CLM-8B 모델도 공개됐으며, 멀티모달 CLM-35B도 학습 중입니다.</description><pubDate>Thu, 24 Sep 2026 13:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddq8SxDCdtp</guid></item><item><title>프로젝트 주소 :
-https://contrastive-lm.notion.site/</title><link>https://www.threads.net/@choi.openai/post/Ddq8T8sCSOc</link><description>프로젝트 주소 :
-https://contrastive-lm.notion.site/</description><pubDate>Thu, 24 Sep 2026 13:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddq8T8sCSOc</guid></item><item><title>Cursor가 코딩을 넘어 배포 이후까지 AI가 확인하는 Rollouts를 공개했습니다.
+이제 Docs에서 Notebook의 자료를 바로 참고자료로 불러와 글을 작성...</title><link>https://www.threads.net/@choi.openai/post/DdrX25DEYvZ</link><description>Gemini Notebook과 Google Docs가 연결됩니다.
 
-코드 변경사항을 배포하기 전에 모니터링 계획을 만들고...</title><link>https://www.threads.net/@choi.openai/post/Ddq1hWvk2pu</link><description>Cursor가 코딩을 넘어 배포 이후까지 AI가 확인하는 Rollouts를 공개했습니다.
+이제 Docs에서 Notebook의 자료를 바로 참고자료로 불러와 글을 작성할 수 있습니다.
 
-코드 변경사항을 배포하기 전에 모니터링 계획을 만들고, 실제 배포가 시작되면 문제가 생기는지 계속 확인합니다.
-이상이 발견되면 사용자가 문제를 겪기 전에 회귀 오류를 찾아내는 방식입니다.
+Notebook에서 조사한 내용에 이메일, 채팅, 파일까지 함께 활용할 수 있어 초안 작성 과정이 더 편해졌습니다.
 
-Security Reviewer도 업데이트돼 평균 검사 시간이 4.8분에서 3.8분으로 21% 줄었습니다.
+리서치는 Notebook에서 하고, 실제 문서 작성은 Docs에서 이어서 할 수 있게 된 셈입니다.</description><pubDate>Thu, 24 Sep 2026 17:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdrX25DEYvZ</guid></item><item><title>구글이 Google Vids를 구글 계정만 있으면 누구나 무료로 사용할 수 있도록 개방했습니다.
 
-두 기능은 현재 Teams와 Enterprise에서 이용할 수 있습니다.</description><pubDate>Thu, 24 Sep 2026 12:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddq1hWvk2pu</guid></item><item><title>블로그 :
-https://cursor.com/ko/blog/rollouts-and-security-reviewer</title><link>https://www.threads.net/@choi.openai/post/Ddq1ioXE45k</link><description>블로그 :
-https://cursor.com/ko/blog/rollouts-and-security-reviewer</description><pubDate>Thu, 24 Sep 2026 12:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddq1ioXE45k</guid></item><item><title>여러 명이 동시에 말해도 누가 언제 말했는지 구분하는 모델이 나왔습니다.
+Gemini Omni 1.1 Flash도 적용...</title><link>https://www.threads.net/@choi.openai/post/DdrQ-bgjLX2</link><description>구글이 Google Vids를 구글 계정만 있으면 누구나 무료로 사용할 수 있도록 개방했습니다.
 
-NVIDIA가 Nemotron 3 Diarization을 공개했습니다...</title><link>https://www.threads.net/@choi.openai/post/Ddquoljj7vS</link><description>여러 명이 동시에 말해도 누가 언제 말했는지 구분하는 모델이 나왔습니다.
+Gemini Omni 1.1 Flash도 적용돼 템플릿이나 참고 이미지를 넣고 원하는 영상을 만들 수 있습니다.
+각 장면의 길이를 직접 정하고 1080p로 생성하거나, 캐릭터·스타일·조명을 유지하면서 장면을 이어서 확장할 수도 있습니다.
 
-NVIDIA가 Nemotron 3 Diarization을 공개했습니다.
-최대 8명의 화자를 구분하고, 서로 말이 겹치는 상황도 처리할 수 있습니다.
+완성된 영상은 바로 YouTube나 Google Drive로 보낼 수 있습니다.
 
-모델 크기는 100M이며 VoiceArena 초기 벤치마크에서 14.72% 오류율로 1위를 기록했습니다. 기존 2위보다 오류율이 약 24% 낮았습니다.
+전문 영상 편집 프로그램을 배우지 않아도 AI와 대화하며 기획부터 장면 생성, 편집까지 처리하는 방향으로 가고 있습니다.</description><pubDate>Thu, 24 Sep 2026 16:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdrQ-bgjLX2</guid></item><item><title>상세내용 :
+https://blog.google/products-and-platforms/products/workspace/gemini-omni...</title><link>https://www.threads.net/@choi.openai/post/DdrQ_U8jAC-</link><description>상세내용 :
+https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/</description><pubDate>Thu, 24 Sep 2026 16:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdrQ_U8jAC-</guid></item><item><title>Fish Audio가 새로운 음성 생성 모델 Drama 3를 프리뷰로 공개했습니다.
 
-허깅페이스에서 바로 사용할 수 있고, 실시간 회의·통화·팟캐스트처럼 화자 구분이 중요한 음성 작업에 활용할 수 있습니다.</description><pubDate>Thu, 24 Sep 2026 11:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddquoljj7vS</guid></item><item><title>블로그 :
-https://huggingface.co/blog/nvidia/nemotron-diarization</title><link>https://www.threads.net/@choi.openai/post/Ddqup4ODx9Y</link><description>블로그 :
-https://huggingface.co/blog/nvidia/nemotron-diarization</description><pubDate>Thu, 24 Sep 2026 11:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddqup4ODx9Y</guid></item><item><title>Claude가 기존에 알려지지 않았던 효소 시스템 ART를 발견했습니다.
+별도의 오디오 태그를 입력할 필요 없이 “빠르고 긴장된 말...</title><link>https://www.threads.net/@choi.openai/post/DdrKD21Dlu8</link><description>Fish Audio가 새로운 음성 생성 모델 Drama 3를 프리뷰로 공개했습니다.
 
-앤트로픽은 약 950개의 Claude 에이전트로 21시간 동안 DNA...</title><link>https://www.threads.net/@choi.openai/post/DdqnvO_gdk6</link><description>Claude가 기존에 알려지지 않았던 효소 시스템 ART를 발견했습니다.
+별도의 오디오 태그를 입력할 필요 없이 “빠르고 긴장된 말투”, “차분한 캐릭터”처럼 자연어로 목소리의 감정·속도·캐릭터를 지정할 수 있습니다.
 
-앤트로픽은 약 950개의 Claude 에이전트로 21시간 동안 DNA 데이터를 분석했습니다.
+문장 중간에 목소리를 바꾸거나 여러 캐릭터가 등장하는 장면을 한 번에 만들 수 있으며, 생성된 음성 전체를 다시 만들지 않고 특정 단어 하나만 수정하는 것도 가능합니다.
 
-20만 개 이상의 역전사효소(RT)를 조사해 3,500개 후보를 찾았고, 이 과정에서 박테리오파지 DNA에서 CRISPR와 비슷한 반복 구조를 발견했습니다.
-
-아직 ART가 정확히 무엇을 하는지는 밝혀지지 않았습니다. 다만 비슷한 특징을 가진 기존 시스템들은 DNA를 자르고 복사하거나 붙이는 기능을 갖고 있어 추가 연구가 진행 중입니다.
-
-AI가 논문을 요약하는 수준을 넘어 직접 데이터를 뒤져 과학자가 실험할 새로운 후보를 찾아내는 단계로 넘어가고 있습니다.</description><pubDate>Thu, 24 Sep 2026 10:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdqnvO_gdk6</guid></item><item><title>내용 :
-https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</title><link>https://www.threads.net/@choi.openai/post/DdqnwQrgWiJ</link><description>내용 :
-https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</description><pubDate>Thu, 24 Sep 2026 10:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdqnwQrgWiJ</guid></item></channel></rss>
+음성 생성도 이제 결과물을 뽑는 것보다 원하는 부분을 세밀하게 연출하고 수정하는 방향으로 발전하고 있습니다.</description><pubDate>Thu, 24 Sep 2026 15:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdrKD21Dlu8</guid></item></channel></rss>
