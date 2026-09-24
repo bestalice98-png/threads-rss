@@ -1,68 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 24 Sep 2026 03:22:34 +0000</lastBuildDate><item><title>이거 꼭 받아가세요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 24 Sep 2026 13:15:36 +0000</lastBuildDate><item><title>Jev보다 최대 9배 빠른 의사결정 모델 CLM-8B이 공개됐습니다.
 
-Claude Code의 Cloud Sessions가 정식 출시됐습니다.
+스탠퍼드와 엔비디아 연구진이 만든 CLM은 현재 상황과 가능한 행동을 각...</title><link>https://www.threads.net/@choi.openai/post/Ddq8SxDCdtp</link><description>Jev보다 최대 9배 빠른 의사결정 모델 CLM-8B이 공개됐습니다.
 
-앤트로픽 서버에서 작업이 실행되기 때문에 노트북...</title><link>https://www.threads.net/@choi.openai/post/Ddp3rMhDWWD</link><description>이거 꼭 받아가세요.
+스탠퍼드와 엔비디아 연구진이 만든 CLM은 현재 상황과 가능한 행동을 각각 분석한 뒤 가장 적합한 행동을 고르는 방식입니다.
 
-Claude Code의 Cloud Sessions가 정식 출시됐습니다.
+행동을 미리 계산해 재사용할 수 있어 후보가 많을수록 속도 차이가 커지며, 약 1,000개 후보에서는 Jev보다 13배 빨랐습니다.
 
-앤트로픽 서버에서 작업이 실행되기 때문에 노트북을 닫거나 컴퓨터를 꺼도 Claude Code가 계속 코딩할 수 있습니다.
+컴퓨터 사용·게임·도구 호출에서는 Jev와 비슷한 성능을 기록했고, 미세 조정 후 DeepSWE 81.6%, Terminal-Bench 2.1 87.6%를 기록했습니다.
 
-웹·모바일·데스크톱과 CLI의 `claude --cloud`에서 시작할 수 있으며 GitHub 연결이 필요합니다.
+코드와 CLM-8B 모델도 공개됐으며, 멀티모달 CLM-35B도 학습 중입니다.</description><pubDate>Thu, 24 Sep 2026 13:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddq8SxDCdtp</guid></item><item><title>프로젝트 주소 :
+https://contrastive-lm.notion.site/</title><link>https://www.threads.net/@choi.openai/post/Ddq8T8sCSOc</link><description>프로젝트 주소 :
+https://contrastive-lm.notion.site/</description><pubDate>Thu, 24 Sep 2026 13:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddq8T8sCSOc</guid></item><item><title>Cursor가 코딩을 넘어 배포 이후까지 AI가 확인하는 Rollouts를 공개했습니다.
 
-기존 구독자는 1회 한정으로 Pro $100, Max $250의 클라우드 크레딧을 받을 수 있습니다.
+코드 변경사항을 배포하기 전에 모니터링 계획을 만들고...</title><link>https://www.threads.net/@choi.openai/post/Ddq1hWvk2pu</link><description>Cursor가 코딩을 넘어 배포 이후까지 AI가 확인하는 Rollouts를 공개했습니다.
 
-기존 사용량 제한과 별도라 로컬 한도에 도달해도 크레딧이 남아 있다면 클라우드에서 작업을 이어갈 수 있습니다.</description><pubDate>Thu, 24 Sep 2026 03:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddp3rMhDWWD</guid></item><item><title>2026 메타 커넥트에서 공개된 내용 👇🏻</title><link>https://www.threads.net/@choi.openai/post/DdptWy0kfsg</link><description>2026 메타 커넥트에서 공개된 내용 👇🏻</description><pubDate>Thu, 24 Sep 2026 01:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdptWy0kfsg</guid></item><item><title>1/  메타가 무게 100g의 새로운 VR 글래스를 공개했습니다.
+코드 변경사항을 배포하기 전에 모니터링 계획을 만들고, 실제 배포가 시작되면 문제가 생기는지 계속 확인합니다.
+이상이 발견되면 사용자가 문제를 겪기 전에 회귀 오류를 찾아내는 방식입니다.
 
-배터리와 연산 장치를 외부 팩으로 분리해 착용부를 카드 한 묶음 정도의 무게...</title><link>https://www.threads.net/@choi.openai/post/DdptYAxkQTY</link><description>1/  메타가 무게 100g의 새로운 VR 글래스를 공개했습니다.
+Security Reviewer도 업데이트돼 평균 검사 시간이 4.8분에서 3.8분으로 21% 줄었습니다.
 
-배터리와 연산 장치를 외부 팩으로 분리해 착용부를 카드 한 묶음 정도의 무게까지 줄였으며, 가격은 1,299달러, 배터리는 약 3시간입니다.
+두 기능은 현재 Teams와 Enterprise에서 이용할 수 있습니다.</description><pubDate>Thu, 24 Sep 2026 12:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddq1hWvk2pu</guid></item><item><title>블로그 :
+https://cursor.com/ko/blog/rollouts-and-security-reviewer</title><link>https://www.threads.net/@choi.openai/post/Ddq1ioXE45k</link><description>블로그 :
+https://cursor.com/ko/blog/rollouts-and-security-reviewer</description><pubDate>Thu, 24 Sep 2026 12:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddq1ioXE45k</guid></item><item><title>여러 명이 동시에 말해도 누가 언제 말했는지 구분하는 모델이 나왔습니다.
 
-3D 공간에 여러 가상 화면을 띄워 컴퓨터처럼 작업하거나 영화·게임을 즐길 수 있고 USB-C DisplayPort도 지원합니다. 마크 저커버그는 영화관·컴퓨터·게임 콘솔을 하나로 합친 기기라고 설명했습니다.
+NVIDIA가 Nemotron 3 Diarization을 공개했습니다...</title><link>https://www.threads.net/@choi.openai/post/Ddquoljj7vS</link><description>여러 명이 동시에 말해도 누가 언제 말했는지 구분하는 모델이 나왔습니다.
 
-직접 체험한 제임스 카메론도 “내 작품을 이 글래스로 보고 싶다”고 말했습니다. VR이 무거운 헤드셋에서 실제 안경에 가까운 형태로 빠르게 이동하고 있습니다.</description><pubDate>Thu, 24 Sep 2026 01:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdptYAxkQTY</guid></item><item><title>2/ 메타가 손바닥 크기의 AI 전용 기기 Muse Charm을 공개했습니다.
+NVIDIA가 Nemotron 3 Diarization을 공개했습니다.
+최대 8명의 화자를 구분하고, 서로 말이 겹치는 상황도 처리할 수 있습니다.
 
-스마트폰처럼 5G에 연결되지만 용도는 메타의 AI 에이전트 Mu...</title><link>https://www.threads.net/@choi.openai/post/DdptZrPEfLb</link><description>2/ 메타가 손바닥 크기의 AI 전용 기기 Muse Charm을 공개했습니다.
+모델 크기는 100M이며 VoiceArena 초기 벤치마크에서 14.72% 오류율로 1위를 기록했습니다. 기존 2위보다 오류율이 약 24% 낮았습니다.
 
-스마트폰처럼 5G에 연결되지만 용도는 메타의 AI 에이전트 Muse와 대화하는 데 맞춰져 있습니다. 별도의 화면 중심 기기보다 언제든 꺼내 음성으로 AI를 사용하는 형태에 가깝습니다.
+허깅페이스에서 바로 사용할 수 있고, 실시간 회의·통화·팟캐스트처럼 화자 구분이 중요한 음성 작업에 활용할 수 있습니다.</description><pubDate>Thu, 24 Sep 2026 11:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddquoljj7vS</guid></item><item><title>블로그 :
+https://huggingface.co/blog/nvidia/nemotron-diarization</title><link>https://www.threads.net/@choi.openai/post/Ddqup4ODx9Y</link><description>블로그 :
+https://huggingface.co/blog/nvidia/nemotron-diarization</description><pubDate>Thu, 24 Sep 2026 11:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddqup4ODx9Y</guid></item><item><title>Claude가 기존에 알려지지 않았던 효소 시스템 ART를 발견했습니다.
 
-메타는 Muse Charm을 오는 12월 출시할 계획입니다. Humane AI Pin 이후에도 스마트폰 앱이 아닌 별도 AI 기기를 만들려는 시도가 계속되고 있습니다.</description><pubDate>Thu, 24 Sep 2026 01:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdptZrPEfLb</guid></item><item><title>3/ Muse에 음성과 실시간 영상 기능이 추가됐습니다.
+앤트로픽은 약 950개의 Claude 에이전트로 21시간 동안 DNA...</title><link>https://www.threads.net/@choi.openai/post/DdqnvO_gdk6</link><description>Claude가 기존에 알려지지 않았던 효소 시스템 ART를 발견했습니다.
 
-대화하는 동안 백그라운드에서 작업을 처리하며 Meta Glasses에서도 핸즈프리로 ...</title><link>https://www.threads.net/@choi.openai/post/DdptbZ6kfSV</link><description>3/ Muse에 음성과 실시간 영상 기능이 추가됐습니다.
+앤트로픽은 약 950개의 Claude 에이전트로 21시간 동안 DNA 데이터를 분석했습니다.
 
-대화하는 동안 백그라운드에서 작업을 처리하며 Meta Glasses에서도 핸즈프리로 사용할 수 있습니다.</description><pubDate>Thu, 24 Sep 2026 01:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdptbZ6kfSV</guid></item><item><title>와.. 진짜 AI 속도 감속론이 왜 나오는지 알 것 같습니다.
+20만 개 이상의 역전사효소(RT)를 조사해 3,500개 후보를 찾았고, 이 과정에서 박테리오파지 DNA에서 CRISPR와 비슷한 반복 구조를 발견했습니다.
 
-Opus 5.5 하나만으로 게임, 3D 월드, 애니메이션, 음악까지 코드로 만들...</title><link>https://www.threads.net/@choi.openai/post/DdpkApIj2Hb</link><description>와.. 진짜 AI 속도 감속론이 왜 나오는지 알 것 같습니다.
+아직 ART가 정확히 무엇을 하는지는 밝혀지지 않았습니다. 다만 비슷한 특징을 가진 기존 시스템들은 DNA를 자르고 복사하거나 붙이는 기능을 갖고 있어 추가 연구가 진행 중입니다.
 
-Opus 5.5 하나만으로 게임, 3D 월드, 애니메이션, 음악까지 코드로 만들어내고 있습니다.
-
-심지어 연구소 내부에는 이보다 1~2세대 앞선 모델이 존재한다는게 놀라운데요.
-
-놀라운 사례 20가지를 정리했습니다🧵</description><pubDate>Thu, 24 Sep 2026 00:08:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdpkApIj2Hb</guid></item><item><title>1/ Claude Opus 5.5에 약 5분간 음성으로 한 번 지시한 뒤, 12시간 동안 스스로 작업하게 해 뮤직비디오를 만든 사례가 공개됐습니...</title><link>https://www.threads.net/@choi.openai/post/Ddpj1FSHO0y</link><description>1/ Claude Opus 5.5에 약 5분간 음성으로 한 번 지시한 뒤, 12시간 동안 스스로 작업하게 해 뮤직비디오를 만든 사례가 공개됐습니다.
-
-SD2.5·ElevenLabs·참고 자료와 기존 코드 저장소를 제공하고, 영상 제작 전 과정을 Opus 5.5에 맡겼습니다.
-
-x@donaldjewkes</description><pubDate>Thu, 24 Sep 2026 00:08:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddpj1FSHO0y</guid></item><item><title>2/ Claude Opus 5.5로 팝펑크 노래와 뮤직비디오를 JavaScript 코드만으로 제작한 사례가 공개됐습니다.
-
-샘플이나 외부 라이브...</title><link>https://www.threads.net/@choi.openai/post/Ddpi4AWjGIj</link><description>2/ Claude Opus 5.5로 팝펑크 노래와 뮤직비디오를 JavaScript 코드만으로 제작한 사례가 공개됐습니다.
-
-샘플이나 외부 라이브러리 없이 보컬과 연주, 밴드 멤버들의 프레임별 연주 애니메이션까지 코드로 구현했습니다.
-
-x@aj_dev_smith</description><pubDate>Thu, 24 Sep 2026 00:08:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddpi4AWjGIj</guid></item><item><title>3/ Claude Opus 5.5로 일본 풍경을 배경으로 배를 직접 운전하는 Three.js 게임을 제작한 사례가 공개됐습니다.
-
-날씨와 낮·밤...</title><link>https://www.threads.net/@choi.openai/post/DdpirTRicC-</link><description>3/ Claude Opus 5.5로 일본 풍경을 배경으로 배를 직접 운전하는 Three.js 게임을 제작한 사례가 공개됐습니다.
-
-날씨와 낮·밤 조명, 물 반사와 물리 효과까지 구현했으며, 3D 캐릭터는 Higgsfield로 별도 제작했습니다.
-
-x@MengTo</description><pubDate>Thu, 24 Sep 2026 00:08:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdpirTRicC-</guid></item><item><title>이 프롬프트 해외에서 화제입니다.
-
-X의 Multi_Serio_Ai가 공유한 프롬프트로, 원하는 캐릭터 이미지를 넣으면 Grokbot 스타일의 ...</title><link>https://www.threads.net/@choi.openai/post/DdpVXyOADU7</link><description>이 프롬프트 해외에서 화제입니다.
-
-X의 Multi_Serio_Ai가 공유한 프롬프트로, 원하는 캐릭터 이미지를 넣으면 Grokbot 스타일의 작은 캐릭터 아이콘으로 바꿔주는데요.
-
-댓글 주소에 접속하여 프롬프트를 복사해 ChatGPT 이미지 생성에 바로 사용할 수 있습니다.
-
-현재 500만 회 이상 조회되었는데 정말 귀엽게 잘 만들어주는 것 같네요.</description><pubDate>Wed, 23 Sep 2026 22:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdpVXyOADU7</guid></item><item><title>주소 :
-https://grokbot-icon-studio.serio-ai.chatgpt.site/</title><link>https://www.threads.net/@choi.openai/post/DdpVZLYAJty</link><description>주소 :
-https://grokbot-icon-studio.serio-ai.chatgpt.site/</description><pubDate>Wed, 23 Sep 2026 22:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdpVZLYAJty</guid></item></channel></rss>
+AI가 논문을 요약하는 수준을 넘어 직접 데이터를 뒤져 과학자가 실험할 새로운 후보를 찾아내는 단계로 넘어가고 있습니다.</description><pubDate>Thu, 24 Sep 2026 10:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdqnvO_gdk6</guid></item><item><title>내용 :
+https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</title><link>https://www.threads.net/@choi.openai/post/DdqnwQrgWiJ</link><description>내용 :
+https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</description><pubDate>Thu, 24 Sep 2026 10:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdqnwQrgWiJ</guid></item></channel></rss>
