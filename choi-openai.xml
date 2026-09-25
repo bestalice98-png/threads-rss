@@ -1,39 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 24 Sep 2026 18:44:00 +0000</lastBuildDate><item><title>🚨 구글이 AI 데이터센터를 우주에 띄우는 Project Suncatcher를 실제 위성으로 테스트합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 25 Sep 2026 03:40:01 +0000</lastBuildDate><item><title>휴머노이드 로봇 19대가 사람 120명과 함께 무대에서 실시간 군집 공연을 펼쳤습니다.
 
-첫 실험 위성은 10월 1일 Spa...</title><link>https://www.threads.net/@choi.openai/post/DdretdbgBtT</link><description>🚨 구글이 AI 데이터센터를 우주에 띄우는 Project Suncatcher를 실제 위성으로 테스트합니다.
+유니트리는 WorldSkills Shanghai 202...</title><link>https://www.threads.net/@choi.openai/post/DdsVoJmCDEI</link><description>휴머노이드 로봇 19대가 사람 120명과 함께 무대에서 실시간 군집 공연을 펼쳤습니다.
 
-첫 실험 위성은 10월 1일 SpaceX Falcon 9으로 발사될 예정이며 TPU 4개를 탑재해 우주에서 간단한 Gemini 요청을 처리하고 방사선·발열 환경에서 AI 칩이 제대로 작동하는지 확인합니다.
+유니트리는 WorldSkills Shanghai 2026 개막식에서 19대의 휴머노이드 로봇이 1만 명 이상의 관객 앞에서 공연했다고 밝혔습니다.
 
-2027년에는 위성 2대를 추가로 발사할 계획이며, 장기적으로는 80대 이상의 위성을 서로 연결해 하나의 AI 데이터센터처럼 운영하는 방안을 구상하고 있습니다. 축구장 길이 수준의 대형 위성 설계도 검토 중입니다.
+로봇들은 AI 기반으로 자율적으로 움직이며 사람들과 함께 안무를 수행했고, 공연 전 과정은 전 세계에 실시간 중계됐습니다.
 
-구글은 2030년대 중반이면 우주 데이터센터의 비용이 지상 데이터센터와 경쟁할 수 있을 것으로 보고 있습니다.</description><pubDate>Thu, 24 Sep 2026 18:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdretdbgBtT</guid></item><item><title>내용 :
-https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-cen...</title><link>https://www.threads.net/@choi.openai/post/DdreusVALEy</link><description>내용 :
-https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html</description><pubDate>Thu, 24 Sep 2026 18:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdreusVALEy</guid></item><item><title>Gemini Notebook과 Google Docs가 연결됩니다.
+휴머노이드가 연구실을 넘어 대규모 현장에서 여러 대가 동시에 움직이는 단계까지 오고 있습니다.</description><pubDate>Fri, 25 Sep 2026 02:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdsVoJmCDEI</guid></item><item><title>구글 Gemini가 Adobe, Squarespace, Peloton 등 13개 앱과 새롭게 연동됩니다.
 
-이제 Docs에서 Notebook의 자료를 바로 참고자료로 불러와 글을 작성...</title><link>https://www.threads.net/@choi.openai/post/DdrX25DEYvZ</link><description>Gemini Notebook과 Google Docs가 연결됩니다.
+Gemini 안에서 “Adobe로 이...</title><link>https://www.threads.net/@choi.openai/post/DdsOtS_DEFt</link><description>구글 Gemini가 Adobe, Squarespace, Peloton 등 13개 앱과 새롭게 연동됩니다.
 
-이제 Docs에서 Notebook의 자료를 바로 참고자료로 불러와 글을 작성할 수 있습니다.
+Gemini 안에서 “Adobe로 이 사진을 노을 분위기로 바꿔줘”라고 요청해 이미지를 편집하거나, Experian에서 신용등급과 변동 요인을 확인하고, Apartments.com에서 조건에 맞는 집을 찾을 수 있습니다.</description><pubDate>Fri, 25 Sep 2026 01:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdsOtS_DEFt</guid></item><item><title>메타 요즘 폼 미쳤네..
 
-Notebook에서 조사한 내용에 이메일, 채팅, 파일까지 함께 활용할 수 있어 초안 작성 과정이 더 편해졌습니다.
+이번에는 스마트폰에서 프롬프트만으로 게임을 만드는 Horizon Create를 공개했습니다. 2D·3D 게임을 AI로...</title><link>https://www.threads.net/@choi.openai/post/DdsH1trAgiC</link><description>메타 요즘 폼 미쳤네..
 
-리서치는 Notebook에서 하고, 실제 문서 작성은 Docs에서 이어서 할 수 있게 된 셈입니다.</description><pubDate>Thu, 24 Sep 2026 17:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdrX25DEYvZ</guid></item><item><title>구글이 Google Vids를 구글 계정만 있으면 누구나 무료로 사용할 수 있도록 개방했습니다.
+이번에는 스마트폰에서 프롬프트만으로 게임을 만드는 Horizon Create를 공개했습니다. 2D·3D 게임을 AI로 만들고 난이도, 아트 스타일, 멀티플레이 기능까지 설정할 수 있습니다.
 
-Gemini Omni 1.1 Flash도 적용...</title><link>https://www.threads.net/@choi.openai/post/DdrQ-bgjLX2</link><description>구글이 Google Vids를 구글 계정만 있으면 누구나 무료로 사용할 수 있도록 개방했습니다.
+더 큰 변화는 배포 방식입니다. 만든 게임을 페이스북과 인스타그램에 바로 올릴 수 있고, 이용자는 별도 앱 설치 없이 피드에서 게임 영상을 누르면 바로 멀티플레이에 참여할 수 있습니다.
 
-Gemini Omni 1.1 Flash도 적용돼 템플릿이나 참고 이미지를 넣고 원하는 영상을 만들 수 있습니다.
-각 장면의 길이를 직접 정하고 1080p로 생성하거나, 캐릭터·스타일·조명을 유지하면서 장면을 이어서 확장할 수도 있습니다.
+AI 게임 제작부터 배포, 유저 확보까지 메타 생태계 안에서 연결하려는 모습입니다.</description><pubDate>Fri, 25 Sep 2026 00:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdsH1trAgiC</guid></item><item><title>와.. 정말 미래의 게임은 이런 모습일까요?
 
-완성된 영상은 바로 YouTube나 Google Drive로 보낼 수 있습니다.
+오디세이가 다중 에이전트 월드 모델 Agora-2를 공개했습니다.
 
-전문 영상 편집 프로그램을 배우지 않아도 AI와 대화하며 기획부터 장면 생성, 편집까지 처리하는 방향으로 가고 있습니다.</description><pubDate>Thu, 24 Sep 2026 16:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdrQ-bgjLX2</guid></item><item><title>상세내용 :
-https://blog.google/products-and-platforms/products/workspace/gemini-omni...</title><link>https://www.threads.net/@choi.openai/post/DdrQ_U8jAC-</link><description>상세내용 :
-https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/</description><pubDate>Thu, 24 Sep 2026 16:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdrQ_U8jAC-</guid></item><item><title>Fish Audio가 새로운 음성 생성 모델 Drama 3를 프리뷰로 공개했습니다.
+게임 엔진 없이 AI가 실시간...</title><link>https://www.threads.net/@choi.openai/post/DdsBDGkAg7a</link><description>와.. 정말 미래의 게임은 이런 모습일까요?
 
-별도의 오디오 태그를 입력할 필요 없이 “빠르고 긴장된 말...</title><link>https://www.threads.net/@choi.openai/post/DdrKD21Dlu8</link><description>Fish Audio가 새로운 음성 생성 모델 Drama 3를 프리뷰로 공개했습니다.
+오디세이가 다중 에이전트 월드 모델 Agora-2를 공개했습니다.
 
-별도의 오디오 태그를 입력할 필요 없이 “빠르고 긴장된 말투”, “차분한 캐릭터”처럼 자연어로 목소리의 감정·속도·캐릭터를 지정할 수 있습니다.
+게임 엔진 없이 AI가 실시간으로 세계를 만들고, 그 안에서 사람과 AI 에이전트 20명이 동시에 상호작용할 수 있는데요.
 
-문장 중간에 목소리를 바꾸거나 여러 캐릭터가 등장하는 장면을 한 번에 만들 수 있으며, 생성된 음성 전체를 다시 만들지 않고 특정 단어 하나만 수정하는 것도 가능합니다.
+현재 공개된 버전에서는 사람 4명이 AI 에이전트 16개와 함께 전투할 수 있으며, 참여자의 행동에 따라 월드 모델이 환경 변화를 실시간으로 생성합니다.
 
-음성 생성도 이제 결과물을 뽑는 것보다 원하는 부분을 세밀하게 연출하고 수정하는 방향으로 발전하고 있습니다.</description><pubDate>Thu, 24 Sep 2026 15:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdrKD21Dlu8</guid></item></channel></rss>
+오디세이는 AI 학습과 안전성 테스트, 로봇, 자율주행, 사이버보안, 게임 등에 이런 다중 에이전트 시뮬레이션을 활용할 수 있을 것으로 보고 있습니다.</description><pubDate>Thu, 24 Sep 2026 23:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdsBDGkAg7a</guid></item><item><title>블로그 :
+https://odyssey.systems/introducing-agora-2</title><link>https://www.threads.net/@choi.openai/post/DdsBFidgp-x</link><description>블로그 :
+https://odyssey.systems/introducing-agora-2</description><pubDate>Thu, 24 Sep 2026 23:01:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdsBFidgp-x</guid></item></channel></rss>
