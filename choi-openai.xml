@@ -1,36 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 25 Sep 2026 03:40:01 +0000</lastBuildDate><item><title>휴머노이드 로봇 19대가 사람 120명과 함께 무대에서 실시간 군집 공연을 펼쳤습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 25 Sep 2026 13:17:01 +0000</lastBuildDate><item><title>Qwen-Image-2.1의 이미지 생성·편집 속도를 최대 6.3배 높이는 오픈소스 LoRA가 공개됐습니다.
 
-유니트리는 WorldSkills Shanghai 202...</title><link>https://www.threads.net/@choi.openai/post/DdsVoJmCDEI</link><description>휴머노이드 로봇 19대가 사람 120명과 함께 무대에서 실시간 군집 공연을 펼쳤습니다.
+프루나 AI가 공개한 Pruna-...</title><link>https://www.threads.net/@choi.openai/post/DdthHg0k1DJ</link><description>Qwen-Image-2.1의 이미지 생성·편집 속도를 최대 6.3배 높이는 오픈소스 LoRA가 공개됐습니다.
 
-유니트리는 WorldSkills Shanghai 2026 개막식에서 19대의 휴머노이드 로봇이 1만 명 이상의 관객 앞에서 공연했다고 밝혔습니다.
+프루나 AI가 공개한 Pruna-Qwen-Image-2.1은 기존 40단계의 생성 과정을 5~8단계로 줄입니다. 5단계는 속도, 8단계는 속도와 품질의 균형에 맞춰져 있습니다.
 
-로봇들은 AI 기반으로 자율적으로 움직이며 사람들과 함께 안무를 수행했고, 공연 전 과정은 전 세계에 실시간 중계됐습니다.
+1K 이미지 생성과 편집을 지원하며 최대 3장의 참고 이미지도 사용할 수 있습니다.
 
-휴머노이드가 연구실을 넘어 대규모 현장에서 여러 대가 동시에 움직이는 단계까지 오고 있습니다.</description><pubDate>Fri, 25 Sep 2026 02:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdsVoJmCDEI</guid></item><item><title>구글 Gemini가 Adobe, Squarespace, Peloton 등 13개 앱과 새롭게 연동됩니다.
+기존 Qwen-Image-2.1 위에 LoRA만 추가하면 사용할 수 있어 Diffusers에서도 이용 가능합니다.</description><pubDate>Fri, 25 Sep 2026 13:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdthHg0k1DJ</guid></item><item><title>허깅페이스 :
+https://huggingface.co/PrunaAI/Pruna-Qwen-Image-2.1</title><link>https://www.threads.net/@choi.openai/post/DdthIxgE5Z9</link><description>허깅페이스 :
+https://huggingface.co/PrunaAI/Pruna-Qwen-Image-2.1</description><pubDate>Fri, 25 Sep 2026 13:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdthIxgE5Z9</guid></item><item><title>Opus 5.5한테 리센느 매드무비 만들어달라고 해봤다.</title><link>https://www.threads.net/@choi.openai/post/DdtW3iXCSfb</link><description>Opus 5.5한테 리센느 매드무비 만들어달라고 해봤다.</description><pubDate>Fri, 25 Sep 2026 11:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdtW3iXCSfb</guid></item><item><title>영상 소스 구하고 영상 누끼따서 자막에 효과까지 다 Opus가 해줬는데, 그냥 뭔가 또 하나의 임계점을 넘어섰다는 느낌을 받았다.
+ 
+FEEL ...</title><link>https://www.threads.net/@choi.openai/post/DdtW4t0iT8J</link><description>영상 소스 구하고 영상 누끼따서 자막에 효과까지 다 Opus가 해줬는데, 그냥 뭔가 또 하나의 임계점을 넘어섰다는 느낌을 받았다.
+ 
+FEEL THE AGI.</description><pubDate>Fri, 25 Sep 2026 11:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdtW4t0iT8J</guid></item><item><title>구글이 학생들의 공부 방식을 바꾸고 있습니다.
 
-Gemini 안에서 “Adobe로 이...</title><link>https://www.threads.net/@choi.openai/post/DdsOtS_DEFt</link><description>구글 Gemini가 Adobe, Squarespace, Peloton 등 13개 앱과 새롭게 연동됩니다.
+Chrome에서 강의 영상을 재생하면 Gemini가 내용을 분석하고, 열어둔 탭·Google D...</title><link>https://www.threads.net/@choi.openai/post/DdtMli_AWkU</link><description>구글이 학생들의 공부 방식을 바꾸고 있습니다.
 
-Gemini 안에서 “Adobe로 이 사진을 노을 분위기로 바꿔줘”라고 요청해 이미지를 편집하거나, Experian에서 신용등급과 변동 요인을 확인하고, Apartments.com에서 조건에 맞는 집을 찾을 수 있습니다.</description><pubDate>Fri, 25 Sep 2026 01:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdsOtS_DEFt</guid></item><item><title>메타 요즘 폼 미쳤네..
+Chrome에서 강의 영상을 재생하면 Gemini가 내용을 분석하고, 열어둔 탭·Google Docs·강의 영상으로 바로 퀴즈까지 만들어줍니다.
 
-이번에는 스마트폰에서 프롬프트만으로 게임을 만드는 Horizon Create를 공개했습니다. 2D·3D 게임을 AI로...</title><link>https://www.threads.net/@choi.openai/post/DdsH1trAgiC</link><description>메타 요즘 폼 미쳤네..
+기기를 바꿔도 보던 위치부터 그대로 이어볼 수 있습니다.
 
-이번에는 스마트폰에서 프롬프트만으로 게임을 만드는 Horizon Create를 공개했습니다. 2D·3D 게임을 AI로 만들고 난이도, 아트 스타일, 멀티플레이 기능까지 설정할 수 있습니다.
+새롭게 추가된 기능 3가지를 정리했습니다🧵</description><pubDate>Fri, 25 Sep 2026 10:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdtMli_AWkU</guid></item><item><title>1/ 강의 영상·오디오를 Gemini가 분석합니다.
 
-더 큰 변화는 배포 방식입니다. 만든 게임을 페이스북과 인스타그램에 바로 올릴 수 있고, 이용자는 별도 앱 설치 없이 피드에서 게임 영상을 누르면 바로 멀티플레이에 참여할 수 있습니다.
+Chrome에서 영상이나 오디오를 재생한 뒤 Gemini에게 중요한 내용을 정리해달라고 하...</title><link>https://www.threads.net/@choi.openai/post/DdtMnMigSsj</link><description>1/ 강의 영상·오디오를 Gemini가 분석합니다.
 
-AI 게임 제작부터 배포, 유저 확보까지 메타 생태계 안에서 연결하려는 모습입니다.</description><pubDate>Fri, 25 Sep 2026 00:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdsH1trAgiC</guid></item><item><title>와.. 정말 미래의 게임은 이런 모습일까요?
+Chrome에서 영상이나 오디오를 재생한 뒤 Gemini에게 중요한 내용을 정리해달라고 하거나, 특정 정보를 찾아달라고 요청할 수 있습니다.
 
-오디세이가 다중 에이전트 월드 모델 Agora-2를 공개했습니다.
+강의를 듣다가 이해하지 못한 부분도 해당 내용을 기반으로 다시 설명받을 수 있습니다.</description><pubDate>Fri, 25 Sep 2026 10:01:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdtMnMigSsj</guid></item><item><title>2/ 보고 있는 자료가 바로 시험 문제가 됩니다.
 
-게임 엔진 없이 AI가 실시간...</title><link>https://www.threads.net/@choi.openai/post/DdsBDGkAg7a</link><description>와.. 정말 미래의 게임은 이런 모습일까요?
+열어둔 웹페이지나 Google Docs, 강의 영상을 기반으로 Gemini가 대화형 퀴즈를 ...</title><link>https://www.threads.net/@choi.openai/post/DdtMo34AfU6</link><description>2/ 보고 있는 자료가 바로 시험 문제가 됩니다.
 
-오디세이가 다중 에이전트 월드 모델 Agora-2를 공개했습니다.
+열어둔 웹페이지나 Google Docs, 강의 영상을 기반으로 Gemini가 대화형 퀴즈를 만들어줍니다.
 
-게임 엔진 없이 AI가 실시간으로 세계를 만들고, 그 안에서 사람과 AI 에이전트 20명이 동시에 상호작용할 수 있는데요.
+별도로 내용을 복사해서 문제를 만들 필요 없이 현재 공부하고 있는 자료에서 바로 자신의 이해도를 확인할 수 있습니다.</description><pubDate>Fri, 25 Sep 2026 10:01:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdtMo34AfU6</guid></item><item><title>3/ PC에서 공부하던 지점을 스마트폰에서 그대로 이어갑니다.
 
-현재 공개된 버전에서는 사람 4명이 AI 에이전트 16개와 함께 전투할 수 있으며, 참여자의 행동에 따라 월드 모델이 환경 변화를 실시간으로 생성합니다.
+노트북에서 보던 탭을 스마트폰으로 보내거나 반대로 옮길 때 스크롤 위치와 진행 ...</title><link>https://www.threads.net/@choi.openai/post/DdtMqYuAenA</link><description>3/ PC에서 공부하던 지점을 스마트폰에서 그대로 이어갑니다.
 
-오디세이는 AI 학습과 안전성 테스트, 로봇, 자율주행, 사이버보안, 게임 등에 이런 다중 에이전트 시뮬레이션을 활용할 수 있을 것으로 보고 있습니다.</description><pubDate>Thu, 24 Sep 2026 23:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdsBDGkAg7a</guid></item><item><title>블로그 :
-https://odyssey.systems/introducing-agora-2</title><link>https://www.threads.net/@choi.openai/post/DdsBFidgp-x</link><description>블로그 :
-https://odyssey.systems/introducing-agora-2</description><pubDate>Thu, 24 Sep 2026 23:01:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdsBFidgp-x</guid></item></channel></rss>
+노트북에서 보던 탭을 스마트폰으로 보내거나 반대로 옮길 때 스크롤 위치와 진행 상태까지 함께 저장됩니다.
+
+긴 자료나 강의를 보다가 기기를 바꿔도 다시 보던 부분을 찾을 필요 없이 그대로 이어볼 수 있습니다.</description><pubDate>Fri, 25 Sep 2026 10:01:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdtMqYuAenA</guid></item><item><title>와.. Opus 5.5의 미친 결과물이 쏟아지고 있습니다.
+
+12개 에이전트가 54시간 동안 Stardew Valley급 게임을 만들고, 3시간...</title><link>https://www.threads.net/@choi.openai/post/Dds-wTojzBk</link><description>와.. Opus 5.5의 미친 결과물이 쏟아지고 있습니다.
+
+12개 에이전트가 54시간 동안 Stardew Valley급 게임을 만들고, 3시간 만에 2만 줄짜리 3D 도시까지 완성했습니다.
+
+게임부터 애니메이션, 3D 모델링까지 활용 범위가 빠르게 넓어지고 있습니다.
+
+놀라운 사례 25가지를 정리했습니다🧵</description><pubDate>Fri, 25 Sep 2026 08:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dds-wTojzBk</guid></item><item><title>1/ Claude Opus 5.5·GPT-6 Astra·Fable 5.1로 Zelda: Ocarina of Time의 초기 데모를 일주일 동안 ...</title><link>https://www.threads.net/@choi.openai/post/Dds9MdLI4R8</link><description>1/ Claude Opus 5.5·GPT-6 Astra·Fable 5.1로 Zelda: Ocarina of Time의 초기 데모를 일주일 동안 재현한 사례가 공개됐습니다.
+
+Unity·Unreal 없이 Three.js 기반으로 3D 렌더링부터 게임 시스템까지 처음부터 구현했습니다.
+
+x@ChrisGPT</description><pubDate>Fri, 25 Sep 2026 08:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dds9MdLI4R8</guid></item><item><title>2/ Claude Opus 5.5에 한 번의 프롬프트를 입력해 Splatoon 형태의 게임을 처음부터 만든 사례가 공개됐습니다.
+
+잉크를 발사하...</title><link>https://www.threads.net/@choi.openai/post/Dds8yeYCZfg</link><description>2/ Claude Opus 5.5에 한 번의 프롬프트를 입력해 Splatoon 형태의 게임을 처음부터 만든 사례가 공개됐습니다.
+
+잉크를 발사하며 맵을 칠하는 게임 플레이를 구현했으며, 완성된 결과물은 브라우저에서 직접 플레이할 수 있도록 공개했습니다.
+
+x@JaydenDavisNC</description><pubDate>Fri, 25 Sep 2026 08:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dds8yeYCZfg</guid></item><item><title>3/ Claude Opus 5.5를 하루 가까이 계속 작업시켜 뉴욕을 배경으로 한 오픈월드 멀티플레이 게임을 만든 사례가 공개됐습니다.
+
+Thr...</title><link>https://www.threads.net/@choi.openai/post/Dds8qtpDwIi</link><description>3/ Claude Opus 5.5를 하루 가까이 계속 작업시켜 뉴욕을 배경으로 한 오픈월드 멀티플레이 게임을 만든 사례가 공개됐습니다.
+
+Three.js로 구현했으며 캐릭터와 도시 등 게임에 들어간 요소도 Opus 5.5로 제작하고 계속 수정하고 있습니다.
+
+x@mattshumer_</description><pubDate>Fri, 25 Sep 2026 08:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dds8qtpDwIi</guid></item></channel></rss>
