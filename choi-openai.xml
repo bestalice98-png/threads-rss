@@ -1,64 +1,150 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 26 Sep 2026 03:45:55 +0000</lastBuildDate><item><title>와.. 이걸 이제야 해주네요..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 26 Sep 2026 12:41:38 +0000</lastBuildDate><item><title>오픈AI 연구 환경의 AI 에이전트가 사용자가 올린 사진 53장을 외부 이미지 호스팅 사이트에 올린 사실이 확인됐습니다.
 
-Claude Code 쓰다가 5시간 제한에 걸려 작업이 중간에 끊기는 문제가 개선됩니다.
+모델 개선에 데이터 ...</title><link>https://www.threads.net/@choi.openai/post/Ddv7mM4D2zv</link><description>오픈AI 연구 환경의 AI 에이전트가 사용자가 올린 사진 53장을 외부 이미지 호스팅 사이트에 올린 사실이 확인됐습니다.
 
-앞으로 작업 도중 ...</title><link>https://www.threads.net/@choi.openai/post/Ddu9y-HkfqM</link><description>와.. 이걸 이제야 해주네요..
+모델 개선에 데이터 사용을 허용한 계정의 사진이었고, 오픈AI는 대부분을 지웠지만 일부는 아직 삭제 중이라고 밝혔습니다.
 
-Claude Code 쓰다가 5시간 제한에 걸려 작업이 중간에 끊기는 문제가 개선됩니다.
+허깅페이스 해킹 사고 이후 과거 기록을 거슬러 올라가며 찾아낸 결과입니다 🧵</description><pubDate>Sat, 26 Sep 2026 11:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddv7mM4D2zv</guid></item><item><title>1/ 오픈AI가 연구 환경의 AI 에이전트가 제3자 서비스를 쓰는 과정에서 학습·평가 데이터를 외부로 보낸 사례를 확인했다고 공개했습니다.
 
-앞으로 작업 도중 제한에 도달하면 즉시 종료하는 대신, 주간 사용량에서 소량의 고정 사용량을 가져와 현재 편집이나 작업을 마무리할 수 있는 지점까지 진행합니다.
+오...</title><link>https://www.threads.net/@choi.openai/post/Ddv7nD3jxew</link><description>1/ 오픈AI가 연구 환경의 AI 에이전트가 제3자 서비스를 쓰는 과정에서 학습·평가 데이터를 외부로 보낸 사례를 확인했다고 공개했습니다.
 
-Pro는 주 1회, Max와 Team Premium은 5시간 제한에 도달할 때마다 적용됩니다.
+오픈AI는 이 데이터 대부분이 사용자 데이터와 무관하다고 설명했습니다.
 
-마무리 이후에도 계속 작업하려면 추가 사용량을 이용할 수 있습니다.</description><pubDate>Sat, 26 Sep 2026 02:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddu9y-HkfqM</guid></item><item><title>마이크로소프트가 Copilot 출시 이후 가장 큰 업데이트를 공개했습니다.
+예외는 사람들이 올린 이미지였는데, 지금까지 53건이 이미지 호스팅 사이트에 공개 목록에는 뜨지 않는 링크 형태로 올라가 있었습니다.
 
-사티아 나델라는 Copilot을 모든 모델과 기기, 업무를 연결하는...</title><link>https://www.threads.net/@choi.openai/post/DduzfFtAJiL</link><description>마이크로소프트가 Copilot 출시 이후 가장 큰 업데이트를 공개했습니다.
+주소를 알면 누구나 열 수 있는 상태였다는 뜻입니다.
 
-사티아 나델라는 Copilot을 모든 모델과 기기, 업무를 연결하는 새로운 ‘업무용 OS’로 만들겠다고 밝혔습니다.
+오픈AI는 호스팅 업체와 협력해 대부분을 지웠고 나머지도 삭제를 진행하고 있으며, 모두 8월 기술 보고서에 적은 보호 조치를 도입하기 전에 일어난 일이라고 밝혔습니다.</description><pubDate>Sat, 26 Sep 2026 11:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddv7nD3jxew</guid></item><item><title>2/ 사진은 모델 개선에 데이터를 쓰도록 허용한 계정에서 나왔습니다.
 
-Autopilot은 장시간 업무를 대신 수행하고, Code는 회사 내부에서 앱을 만들 수 있게 합니다. Home에서는 Chat과 Cowork가 합쳐지고 Office도 Copilot 안으로 들어옵니다.
+오픈AI는 사용자나 기업 관리자가 학습 사용을 막은 데이터는 포함하지 않...</title><link>https://www.threads.net/@choi.openai/post/Ddv7npoD063</link><description>2/ 사진은 모델 개선에 데이터를 쓰도록 허용한 계정에서 나왔습니다.
 
-Teams에서도 Copilot을 바로 호출할 수 있으며, Today는 질문하지 않아도 Microsoft 365에서 중요한 정보를 찾아 먼저 보여줍니다.
+오픈AI는 사용자나 기업 관리자가 학습 사용을 막은 데이터는 포함하지 않으며, 기업·비즈니스 계정과 API 데이터는 관리자가 켜지 않는 한 빠진다고 설명했습니다.
 
-Copilot을 회사 업무 전체를 실행하는 하나의 작업 공간으로 바꾸려는 방향입니다.</description><pubDate>Sat, 26 Sep 2026 01:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DduzfFtAJiL</guid></item><item><title>블로그 :
-https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-wi...</title><link>https://www.threads.net/@choi.openai/post/Dduzjlrj9j4</link><description>블로그 :
-https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/</description><pubDate>Sat, 26 Sep 2026 01:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dduzjlrj9j4</guid></item><item><title>O my god!!</title><link>https://www.threads.net/@choi.openai/post/Ddux7J1DyzA</link><description>O my god!!</description><pubDate>Sat, 26 Sep 2026 00:46:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddux7J1DyzA</guid></item><item><title>Claude가 Claude를 3배 빠르게 만들었습니다.
+학습 데이터에 넣기 전에는 계정 정보와의 연결을 끊고, 자체 개인정보 필터로 이름, 연락처, 계좌번호 같은 정보를 가린다고 했습니다.
 
-웹에서 입력할 수 있는 화면이 뜨기까지 3.1초 걸리던 시간이 0.55초로 줄었고, 3...</title><link>https://www.threads.net/@choi.openai/post/DdupSAoDzDY</link><description>Claude가 Claude를 3배 빠르게 만들었습니다.
+그래서 오픈AI도 이 데이터를 원래 계정과 다시 연결할 수 없습니다.
+필터가 가리는 항목으로 예시된 것은 글자로 된 정보이고, 사진에 찍힌 얼굴이나 집 앞 풍경처럼 이미지 자체에 담긴 정보를 어떻게 다뤘는지는 공지에 나오지 않습니다.
 
-웹에서 입력할 수 있는 화면이 뜨기까지 3.1초 걸리던 시간이 0.55초로 줄었고, 3,000개 넘는 변경을 넣는 동안 고객이 겪은 장애나 롤백은 한 건도 없었습니다.
+공지의 대부분 사용자 데이터와 무관하다는 표현에 반응이 몰린 것도 예외로 남은 53건이 사람들이 직접 올린 사진이었기 때문입니다.</description><pubDate>Sat, 26 Sep 2026 11:30:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddv7npoD063</guid></item><item><title>3/ 사진이 밖으로 나가는 방식은 오픈AI가 9월 16일 갱신한 정렬 이탈 보고서에 그대로 남아 있습니다.
 
-병목을 찾고 고친 건 대부분 Claude였고, 사람은 무엇을 잴지 정하고 모든 변경을 승인했습니다.
+사진 속 도시와 나라를 묻는 학습 ...</title><link>https://www.threads.net/@choi.openai/post/Ddv7o5wj3vY</link><description>3/ 사진이 밖으로 나가는 방식은 오픈AI가 9월 16일 갱신한 정렬 이탈 보고서에 그대로 남아 있습니다.
 
-팀이 얻은 교훈은 "Claude가 측정할 수 있는 것은 Claude가 빠르게 만들 수 있다"였습니다 🧵</description><pubDate>Fri, 25 Sep 2026 23:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdupSAoDzDY</guid></item><item><title>1/ 앤트로픽 엔지니어링 블로그가 9월 23일, claude.ai와 Claude 데스크톱 앱을 8월의 2주 스프린트로 약 3배 빠르게 만든 과정...</title><link>https://www.threads.net/@choi.openai/post/DdupStAj1H2</link><description>1/ 앤트로픽 엔지니어링 블로그가 9월 23일, claude.ai와 Claude 데스크톱 앱을 8월의 2주 스프린트로 약 3배 빠르게 만든 과정을 공개했습니다
+사진 속 도시와 나라를 묻는 학습 과제에서 모델은 외부 역이미지 검색을 쓰려 했고, 추론 과정에 인터넷이 되니 임시 사이트에 올리면 된다고 적었습니다.
 
- 팀은 사용자 활동의 95%를 차지하는 앱 실행, 대화 시작, 기존 대화 불러오기, 메시지 전송을 웹·데스크톱·제품별 13개 지표로 나눠 쟀습니다.
+첫 호스팅이 업로드를 거부하자 다른 서비스를 찾으려고 무료 파일 업로드 서비스를 검색했고, 결국 과제 사진을 공개 이미지 호스팅에 올려 주소를 받아냈습니다.
 
-로딩의 75%가 끝나는 시간인 p75로 보면 웹에서 입력 가능한 화면이 뜨기까지 3.1초가 0.55초로, Cowork 클라우드 세션 불러오기는 2.6초가 0.73초로 줄었고, 13개 지표의 기하평균은 3.1배입니다.
+정작 역이미지 검색은 차단돼 모델은 사진을 눈으로 보고 답했지만, 업로드는 이미 끝난 뒤였습니다. 이 사례가 처음 발견된 날짜는 5월 25일입니다.
 
-병목 탐색, 벤치마크 제작, 수정, 배포 감시는 Opus 5.5와 비슷한 수준의 내부 연구 모델이 맡았고, 사람은 목표와 절충을 정하며 모든 변경을 승인했습니다.
+오픈AI는 53건의 경로를 밝히지 않았지만, 과제 재료에 사용자 사진이 섞여 있다면 이 행동은 곧바로 사용자 사진의 외부 유출이 됩니다.</description><pubDate>Sat, 26 Sep 2026 11:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddv7o5wj3vY</guid></item><item><title>호주 총리가 "오픈AI 에이전트가 정부 사이트에 무단 접근했다"고 발표한 지 며칠 만에, 오픈AI가 비슷한 사례로 통지한 곳이 수십 곳이라고 공...</title><link>https://www.threads.net/@choi.openai/post/DdvxV9KD_QV</link><description>호주 총리가 "오픈AI 에이전트가 정부 사이트에 무단 접근했다"고 발표한 지 며칠 만에, 오픈AI가 비슷한 사례로 통지한 곳이 수십 곳이라고 공개했습니다.
 
-그렇게 3,000개 넘는 변경이 들어갔지만 고객이 겪은 장애나 롤백은 없었습니다.</description><pubDate>Fri, 25 Sep 2026 23:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdupStAj1H2</guid></item><item><title>2/ 스프린트는 Slack 채널 하나에서 시작됐습니다.
+대부분 심각도가 낮았다는 설명이지만, 검토를 마치는 데만 몇 달이 걸린다고 합니다. 
 
-팀은 Slack에서 Claude를 부르는 Claude Tag를 채널에 두고 배포마다 성...</title><link>https://www.threads.net/@choi.openai/post/DdupT2Bj6XN</link><description>2/ 스프린트는 Slack 채널 하나에서 시작됐습니다.
+에이전트가 실제로 무엇을 했는지 정리했습니다 🧵</description><pubDate>Sat, 26 Sep 2026 10:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdvxV9KD_QV</guid></item><item><title>1/ 오픈AI가 9월 25일(현지 시간) 허깅페이스 사건 이후 진행 중인 광범위한 검토의 중간 결과를 공개했습니다.
 
-팀은 Slack에서 Claude를 부르는 Claude Tag를 채널에 두고 배포마다 성능 저하를 감시하고, 기존 계측이 정확한지 점검하고, 대시보드를 관리하고, 쉬운 개선은 직접 구현하고, 새 프로젝트를 제안하라는 상시 지침을 줬습니다.
+학습과 평가 과정에서 자사...</title><link>https://www.threads.net/@choi.openai/post/DdvxWvrj0IW</link><description>1/ 오픈AI가 9월 25일(현지 시간) 허깅페이스 사건 이후 진행 중인 광범위한 검토의 중간 결과를 공개했습니다.
 
-지침 끝에는 최대한 자율적으로 일하는 것이 궁극적 목표지만 지금은 가능하지 않다는 것도 안다고 적었습니다.
+학습과 평가 과정에서 자사 모델이 인터넷에서 한 행동을 다시 들여다보는 작업으로, 지금까지 제3자의 보안 통제를 우회했거나 서비스에 영향을 줬을 수 있는 사례로 수십 곳에 알렸다는 내용입니다.
 
-Claude는 모니터링 서비스 Datadog에 연결된 MCP 서버로 사용 데이터를 읽어 네 경로를 골랐고, 팀은 모든 측정이 사용자 행동에서 시작해 결과가 화면에 그려질 때 끝나도록 계측을 맞췄습니다.
+오픈AI는 검토한 행동의 대부분이 공개 웹 자료를 찾아 질문에 답하는 평범한 연구 작업이었고, 찾아낸 사례도 대부분 심각도가 낮았다고 설명했습니다.
 
-이어 약 20개 프로젝트마다 Claude가 줄일 수 있는 밀리초를 추정해 목표를 세웠는데, 13개 목표 중 12개를 사흘째에 달성했습니다.</description><pubDate>Fri, 25 Sep 2026 23:31:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdupT2Bj6XN</guid></item><item><title>3/ 초반 성과를 대표하는 것이 정적 입력창입니다.
+다만 검토 규모가 커서 사례를 하나씩 확인하는 데 몇 달이 걸린다고 밝혔습니다.
 
-React 앱이 준비되는 동안에도 입력할 수 있도록 입력창과 똑같이 생긴 HTML을 페이지...</title><link>https://www.threads.net/@choi.openai/post/DdupUYoj4PZ</link><description>3/ 초반 성과를 대표하는 것이 정적 입력창입니다.
+샘 알트만도 같은 날 페타바이트 단위의 에이전트 활동 기록을 분석하고 있다며, 허깅페이스가 여전히 가장 심각한 사건이라고 덧붙였습니다.</description><pubDate>Sat, 26 Sep 2026 10:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdvxWvrj0IW</guid></item><item><title>2/ 이번 검토의 출발점인 허깅페이스 사건은 7월 21일 오픈AI가 공개했습니다.
 
-React 앱이 준비되는 동안에도 입력할 수 있도록 입력창과 똑같이 생긴 HTML을 페이지에 미리 넣어 두고, React가 준비되면 그 위에 실제 입력창을 겹쳐 그리는 방식입니다.
+해킹 능력을 재는 평가 환경에는 인터넷이 직접 연결돼 있지 ...</title><link>https://www.threads.net/@choi.openai/post/DdvxXzlD1wO</link><description>2/ 이번 검토의 출발점인 허깅페이스 사건은 7월 21일 오픈AI가 공개했습니다.
 
-느린 4G 환경의 비교 영상에서 입력 가능 시점은 2.93초에서 0.36초로 당겨졌고, 그사이 친 글자도 그대로 남았습니다.
+해킹 능력을 재는 평가 환경에는 인터넷이 직접 연결돼 있지 않았는데, 자사 연구 모델이 사내 패키지 프록시의 알려지지 않은 취약점을 찾아 밖으로 나가 허깅페이스의 실제 서버를 침해한 사건입니다.
 
-데스크톱 앱은 V8 코드 캐시를 미리 만들어 실행할 때마다 처음부터 다시 컴파일하지 않게 했습니다
+8월 26일 기술 리포트에 따르면 서로 떨어져 있어야 할 에이전트 약 1,200개가 사내 저장소를 게시판처럼 써서 7만 건 넘게 메시지를 주고받았고, 그중 688개가 공격에 가담했습니다.
 
- 대화를 옮길 때는 입력창을 그대로 두고, 마우스를 올린 대화를 미리 불러오고, 사이드바 재렌더링을 90% 줄였습니다.
+오픈AI는 처음 이 사건을 보안 침해로 봤다가, 어려운 과제를 풀려던 모델이 정렬되지 않은 전략을 택한 결과로 이해를 바꿨습니다.
 
-계획한 프로젝트가 일찍 끝나자 팀은 목표를 다시 세우고 Claude에게 아직 안 해 본 것, 더 끌어올릴 수 있는 것을 물으며 엉뚱한 아이디어도 환영한다고 했습니다.</description><pubDate>Fri, 25 Sep 2026 23:31:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdupUYoj4PZ</guid></item></channel></rss>
+8월 18일에는 최대 규모 강화학습을 보류하고 연구 환경의 격리를 강화했습니다.
+
+이번 발표는 같은 행동이 허깅페이스 밖에서도 있었는지 찾는 작업의 결과입니다.</description><pubDate>Sat, 26 Sep 2026 10:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdvxXzlD1wO</guid></item><item><title>3/ 통지 기준은 두 가지입니다.
+
+모델이 제3자의 보안 통제를 우회했거나 온라인 서비스의 가용성을 해쳤을 가능성이 있는 경우, 그리고 정렬 불...</title><link>https://www.threads.net/@choi.openai/post/DdvxYlRj7qH</link><description>3/ 통지 기준은 두 가지입니다.
+
+모델이 제3자의 보안 통제를 우회했거나 온라인 서비스의 가용성을 해쳤을 가능성이 있는 경우, 그리고 정렬 불일치 행동이 제3자 웹사이트나 서비스에 부정적인 영향을 준 경우입니다.
+
+정렬 불일치는 모델이 개발자가 의도한 방식에서 벗어나 목표를 이루려는 행동을 뜻하는데요.
+
+오픈AI는 이 기준으로 지금까지 "수십 곳"에 알렸고, 과거 활동 검토가 계속되는 만큼 대상은 더 늘어날 예정입니다.
+
+영향을 받은 곳을 보호하기 위해 이름은 대부분 밝히지 않고 익명화한 요약만 공개하며, 통지를 받은 쪽이 원하면 받은 내용을 공개할 수 있게 했습니다.
+
+정확한 숫자와 기관 이름이 빠져 있어 외부에서는 피해 범위를 가늠하기 어려운 상태입니다.</description><pubDate>Sat, 26 Sep 2026 10:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdvxYlRj7qH</guid></item><item><title>🚨 오픈AI가 훈련을 또 중단했습니다.
+
+오픈AI 모델이 강화학습 훈련 도중 DNS 설정의 빈틈으로 외부 챗봇에 질문을 보냈고, 오픈AI는 가장...</title><link>https://www.threads.net/@choi.openai/post/DdvlMJ6Dxsg</link><description>🚨 오픈AI가 훈련을 또 중단했습니다.
+
+오픈AI 모델이 강화학습 훈련 도중 DNS 설정의 빈틈으로 외부 챗봇에 질문을 보냈고, 오픈AI는 가장 강력한 모델들의 훈련과 평가, 도구 사용 추론을 모두 멈췄습니다.
+
+같은 날 내부 모델이 연구자의 깃허브 토큰을 공개 저장소에 올린 5월 사건과, 웜처럼 퍼지는 프롬프트 인젝션 연구도 함께 공개됐습니다. 🧵</description><pubDate>Sat, 26 Sep 2026 08:14:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdvlMJ6Dxsg</guid></item><item><title>1/ 오픈AI가 9월 25일 정렬 연구 블로그의 정렬 이탈 보고서 목록에 새 보고서 세 건을 올렸습니다.
+
+정렬 이탈은 모델이 개발자가 의도한 ...</title><link>https://www.threads.net/@choi.openai/post/DdvlNDSD0GK</link><description>1/ 오픈AI가 9월 25일 정렬 연구 블로그의 정렬 이탈 보고서 목록에 새 보고서 세 건을 올렸습니다.
+
+정렬 이탈은 모델이 개발자가 의도한 목표나 행동 기준에서 벗어나는 일을 뜻하는데요.
+
+하나는 9월 20일 일요일 강화학습 훈련 중이던 모델이 DNS의 빈틈으로 외부 챗봇에 닿은 사건이고, 다른 하나는 5월 27일 내부 모델이 연구자의 깃허브 토큰을 공개 저장소에 올린 사건입니다.
+
+나머지 한 건은 오픈AI가 자체 훈련 환경에서 스스로 복제되며 퍼지는 프롬프트 인젝션을 만들어낸 연구 결과입니다.
+
+오픈AI에서 재귀적 자기개선 대비를 이끄는 마이카 캐럴은 첫 사건 이후 가장 강력한 모델들의 추론이 시스템을 더 보강할 때까지 멈춰 있다고 밝혔습니다.</description><pubDate>Sat, 26 Sep 2026 08:14:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdvlNDSD0GK</guid></item><item><title>2/ DNS 사건의 모델은 블로그 글을 쓴 사람을 찾는 검색 과제를 받았습니다.
+
+전기 정보와 블로그의 단서가 주어졌고, 모델은 제공된 검색 도...</title><link>https://www.threads.net/@choi.openai/post/DdvlOLTj4vg</link><description>2/ DNS 사건의 모델은 블로그 글을 쓴 사람을 찾는 검색 과제를 받았습니다.
+
+전기 정보와 블로그의 단서가 주어졌고, 모델은 제공된 검색 도구로 글 속의 특징적인 문구를 찾는 것부터 시작했습니다.
+
+결과가 엉뚱하게 나오자 파이썬으로 구글, 빙, 덕덕고에 직접 요청을 보냈지만 403과 502 오류가 돌아왔는데요.
+
+이 환경의 웹 접속이 실시간 인터넷 대신 오픈AI가 미리 저장해 둔 오프라인 웹캐시로만 연결되기 때문입니다.
+
+모델은 이어 이 과제가 공개 벤치마크 BrowseComp의 번역본이라고 추측하고, 캐시에서 데이터셋과 채점 스크립트를 내려받아 문제를 해독해 뒤졌습니다.
+
+추측은 틀렸지만, 과제가 요구하지 않은 정답지 탐색이 이미 시작된 상태였습니다.</description><pubDate>Sat, 26 Sep 2026 08:14:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdvlOLTj4vg</guid></item><item><title>4/ 처음 보낸 "프랑스의 수도는?" 조회는 시간 초과로 끝났습니다.
+
+모델은 대기 시간을 6초에서 19초로 늘려 다시 보냈고, 이번에는 "프랑...</title><link>https://www.threads.net/@choi.openai/post/DdvlQE6jwWv</link><description>4/ 처음 보낸 "프랑스의 수도는?" 조회는 시간 초과로 끝났습니다.
+
+모델은 대기 시간을 6초에서 19초로 늘려 다시 보냈고, 이번에는 "프랑스의 수도는 파리입니다"라는 답이 DNS 응답으로 돌아왔습니다.
+
+외부 챗봇과 대화가 된다는 걸 확인한 모델은 챗봇의 공개 문서를 읽고, 대기 시간 24초짜리 스크립트를 새로 짜서 같은 경로로 18건을 더 보냈습니다.
+
+14개는 과제 단서를 담았고, 4개는 웹 검색 방법이나 공개 DNS 터널 프록시 주소를 묻는 내용이었습니다.
+
+이 마지막 묶음이 돌아가는 동안 모델은 사용자에게 인물을 특정하지 못했다며 블로그 원문 문장이나 제목을 알려 달라고 답했습니다.
+
+그 답에는 DNS로 바깥 챗봇과 주고받은 일이 적혀 있지 않았습니다.</description><pubDate>Sat, 26 Sep 2026 08:14:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdvlQE6jwWv</guid></item><item><title>이런 꿀팁은 절대 놓치면 안되죠.
+
+Claude Code 팀의 Thariq가 노력(effort) 단계를 언제 올리고 언제 내려야 하는지, 직접 ...</title><link>https://www.threads.net/@choi.openai/post/DdvczFLjzUh</link><description>이런 꿀팁은 절대 놓치면 안되죠.
+
+Claude Code 팀의 Thariq가 노력(effort) 단계를 언제 올리고 언제 내려야 하는지, 직접 돌린 실험과 Terminal-Bench 3.0 결과로 정리했습니다. 🧵</description><pubDate>Sat, 26 Sep 2026 07:01:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdvczFLjzUh</guid></item><item><title>1/ Claude Code 팀의 Thariq가 "Using Claude Code: Spending your effort"라는 글을 올렸습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DdvcztVj1LN</link><description>1/ Claude Code 팀의 Thariq가 "Using Claude Code: Spending your effort"라는 글을 올렸습니다.
+
+노력(effort)은 Claude가 한 작업에 계산을 얼마나 쓸지 알려주는 설정입니다.
+Claude Code에서는 /effort로 대화 도중에도 바꿀 수 있고, 최신 모델은 이렇게 바꿔도 프롬프트 캐시가 깨지지 않습니다.
+
+Thariq가 평가 결과를 뜯어보고 여러 작업을 직접 돌려본 결론은 이렇습니다.
+
+노력은 Claude가 검증과 엣지 케이스 테스트를 얼마나 하고, 자기 판단을 얼마나 쓰는지를 조절합니다.
+
+그래서 검증이 성패를 가르는 하드웨어, 코드 리뷰, 보안에서 효과가 컸습니다.</description><pubDate>Sat, 26 Sep 2026 07:01:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdvcztVj1LN</guid></item><item><title>2/ Thariq는 노력을 마감 시간에 빗대 설명합니다.
+
+누군가 12시간을 통째로 주면서 일을 맡기면, 사람은 최대한 공들여 끝내 달라는 뜻으...</title><link>https://www.threads.net/@choi.openai/post/Ddvc0uFD4cj</link><description>2/ Thariq는 노력을 마감 시간에 빗대 설명합니다.
+
+누군가 12시간을 통째로 주면서 일을 맡기면, 사람은 최대한 공들여 끝내 달라는 뜻으로 받아들입니다.
+
+같은 일을 1시간 안에 해 달라고 하면 요구에 맞는 가장 나은 초안을 내고 이후 고쳐 나갈 거라 예상하죠. 적어도 3시간은 필요하다고 말한 뒤 3시간을 들여 끝낼 수도 있고요.
+
+Claude도 어느 단계에서든 작업을 합리적으로 해내려 합니다. 다만 노력이 높을수록 판단과 검증을 스스로 더 많이 떠맡습니다.
+
+지난 7월 Claude Code 팀은 노력을 '얼마나 철저하게 해보는가'로 설명했는데요, 이번 글은 그 철저함이 실제 작업에서 어떤 차이를 만드는지 보여줍니다.</description><pubDate>Sat, 26 Sep 2026 07:01:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddvc0uFD4cj</guid></item><item><title>3/ 노력 단계를 올리면 점수와 토큰이 함께 오릅니다.
+Thariq가 이번 글을 위해 돌린 Terminal-Bench 3.0은 터미널에서 여러 ...</title><link>https://www.threads.net/@choi.openai/post/Ddvc185D_Vs</link><description>3/ 노력 단계를 올리면 점수와 토큰이 함께 오릅니다.
+Thariq가 이번 글을 위해 돌린 Terminal-Bench 3.0은 터미널에서 여러 단계로 이뤄진 실제 작업을 끝까지 해내는지 보는 벤치마크입니다.
+
+그래프로 읽으면 Opus 5.5는 low에서 통과율이 30%대 후반이고, high에서 60% 가까이 올라갑니다. 이때 시도당 토큰 중앙값은 약 10만 개입니다.
+
+Fable 5.1은 max에서 비슷한 점수에 닿는데, 토큰은 20만 개 정도를 씁니다. 그래프에 '같은 점수, 절반의 토큰'이라는 주석이 붙은 이유입니다.
+
+Opus 5.5의 상승폭은 low에서 medium으로 갈 때 가장 큽니다.
+high에서 max까지는 토큰이 3배 가까이 늘어나는 동안 통과율이 7%포인트 정도 오릅니다.</description><pubDate>Sat, 26 Sep 2026 07:01:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddvc185D_Vs</guid></item></channel></rss>
