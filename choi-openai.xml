@@ -1,32 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 25 Sep 2026 19:00:39 +0000</lastBuildDate><item><title>AI 에이전트가 컴퓨터에서 뭘 하는지 실시간으로 보고, 필요하면 바로 마우스를 넘겨받을 수 있게 됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 26 Sep 2026 03:45:55 +0000</lastBuildDate><item><title>와.. 이걸 이제야 해주네요..
 
-Nous Research가 Herm...</title><link>https://www.threads.net/@choi.openai/post/DduKSscj6qM</link><description>AI 에이전트가 컴퓨터에서 뭘 하는지 실시간으로 보고, 필요하면 바로 마우스를 넘겨받을 수 있게 됐습니다.
+Claude Code 쓰다가 5시간 제한에 걸려 작업이 중간에 끊기는 문제가 개선됩니다.
 
-Nous Research가 Hermes Desktop에 Bot Screen을 추가했습니다. 에이전트가 브라우저를 조작하거나 터미널에 명령어를 입력하는 화면을 그대로 확인할 수 있습니다.
+앞으로 작업 도중 ...</title><link>https://www.threads.net/@choi.openai/post/Ddu9y-HkfqM</link><description>와.. 이걸 이제야 해주네요..
 
-에이전트가 막히면 사람이 직접 화면을 조작하거나 비밀번호를 입력한 뒤 다시 작업을 넘겨줄 수도 있습니다.
+Claude Code 쓰다가 5시간 제한에 걸려 작업이 중간에 끊기는 문제가 개선됩니다.
 
-AI에게 컴퓨터를 맡기되 필요한 순간에는 사람이 바로 개입하는 방식입니다.</description><pubDate>Fri, 25 Sep 2026 19:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DduKSscj6qM</guid></item><item><title>AI 4대 천왕으로 불리는 요수아 벤지오(Yoshua Bengio) 교수는 UN 안보리 연설에서 최근 자율 AI 에이전트들이 통제를 벗어나 사이...</title><link>https://www.threads.net/@choi.openai/post/DduAFQSkSjg</link><description>AI 4대 천왕으로 불리는 요수아 벤지오(Yoshua Bengio) 교수는 UN 안보리 연설에서 최근 자율 AI 에이전트들이 통제를 벗어나 사이버 공격을 감행하고 탐지를 회피하는 등 위험한 행동을 보였다고 경고했습니다.
+앞으로 작업 도중 제한에 도달하면 즉시 종료하는 대신, 주간 사용량에서 소량의 고정 사용량을 가져와 현재 편집이나 작업을 마무리할 수 있는 지점까지 진행합니다.
 
-그는 프론티어 AI 개발사들이 치명적 위험성을 인정하면서도 성능 경쟁에만 매몰되어 있다며, “이 경쟁은 자연법칙이 아니라 기업들의 선택이 낳은 결과이며, 모두가 패자가 되는 치킨게임”이라고 비판했습니다.
+Pro는 주 1회, Max와 Team Premium은 5시간 제한에 도달할 때마다 적용됩니다.
 
-이어 AI의 파괴적 오용과 권력 집중, 통제 상실을 막기 위해 “의학·항공·원자력처럼 프론티어 AI 역시 면허제와 배상 책임 보험을 도입해야 한다”고 촉구했습니다.
+마무리 이후에도 계속 작업하려면 추가 사용량을 이용할 수 있습니다.</description><pubDate>Sat, 26 Sep 2026 02:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddu9y-HkfqM</guid></item><item><title>마이크로소프트가 Copilot 출시 이후 가장 큰 업데이트를 공개했습니다.
 
-기술 패권과 경제적 이익을 앞세운 무분별한 특이점 레이스를 멈추고, 독립적인 검증과 국제적 규제를 통해 기술 궤적을 바로잡아야 할 때입니다.</description><pubDate>Fri, 25 Sep 2026 17:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DduAFQSkSjg</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 AI 발전이 “인간의 역량을 대체하는 것이 아니라 사람을 더 유능하게 만드는 도구”가 되어야 ...</title><link>https://www.threads.net/@choi.openai/post/Ddt1wkTgJn2</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 AI 발전이 “인간의 역량을 대체하는 것이 아니라 사람을 더 유능하게 만드는 도구”가 되어야 한다고 강조했습니다.
+사티아 나델라는 Copilot을 모든 모델과 기기, 업무를 연결하는...</title><link>https://www.threads.net/@choi.openai/post/DduzfFtAJiL</link><description>마이크로소프트가 Copilot 출시 이후 가장 큰 업데이트를 공개했습니다.
 
-그는 AI가 신약 개발, 헬스케어, 경제 생산성 전반을 비약적으로 끌어올릴 것이라 전망하면서도, 통제 불능과 소수 권력 집중이라는 위험성을 경고했습니다.
+사티아 나델라는 Copilot을 모든 모델과 기기, 업무를 연결하는 새로운 ‘업무용 OS’로 만들겠다고 밝혔습니다.
 
-특히 모델이 스스로 개선되는 '재귀적 자가 개선(recursive self-improvement)'에 다가갈수록, 경쟁에서 이기기 위해 안전을 양보해선 안 된다고 선을 그었습니다.
+Autopilot은 장시간 업무를 대신 수행하고, Code는 회사 내부에서 앱을 만들 수 있게 합니다. Home에서는 Chat과 Cowork가 합쳐지고 Office도 Copilot 안으로 들어옵니다.
 
-알트만은 맹목적 낙관론과 파멸론(둠어리즘)을 모두 경계하며 실용적인 중도를 취해야 한다고 말했습니다.
-“과학적 진보와 경제 성장의 혜택은 사람에 의해, 사람을 위해 이루어져야 합니다.”
-기술의 진정한 가치는 소수의 통제가 아닌 개인의 문제 해결력과 자율성을 극대화하는 데 있다는 설명입니다.</description><pubDate>Fri, 25 Sep 2026 16:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddt1wkTgJn2</guid></item><item><title>앤트로픽의 가장 큰 약점은 엔터프라이즈 시장에 대한 높은 의존도입니다.
-YipitData 추정에 따르면 상위 1% 고객이 전체 지출의 46%를 ...</title><link>https://www.threads.net/@choi.openai/post/Ddtrd68kdDW</link><description>앤트로픽의 가장 큰 약점은 엔터프라이즈 시장에 대한 높은 의존도입니다.
-YipitData 추정에 따르면 상위 1% 고객이 전체 지출의 46%를 차지합니다.
+Teams에서도 Copilot을 바로 호출할 수 있으며, Today는 질문하지 않아도 Microsoft 365에서 중요한 정보를 찾아 먼저 보여줍니다.
 
-반대로 오픈AI는 개인 사용자 기반은 강하지만, 기업 업무에 깊게 들어가 실제 매출로 이어지는 B2B 시장에서는 앤트로픽과 다른 과제를 안고 있습니다.
+Copilot을 회사 업무 전체를 실행하는 하나의 작업 공간으로 바꾸려는 방향입니다.</description><pubDate>Sat, 26 Sep 2026 01:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DduzfFtAJiL</guid></item><item><title>블로그 :
+https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-wi...</title><link>https://www.threads.net/@choi.openai/post/Dduzjlrj9j4</link><description>블로그 :
+https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/</description><pubDate>Sat, 26 Sep 2026 01:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dduzjlrj9j4</guid></item><item><title>O my god!!</title><link>https://www.threads.net/@choi.openai/post/Ddux7J1DyzA</link><description>O my god!!</description><pubDate>Sat, 26 Sep 2026 00:46:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddux7J1DyzA</guid></item><item><title>Claude가 Claude를 3배 빠르게 만들었습니다.
 
-한국에서는 얼리어답터와 교육 시장의 영향도 무시하기 어렵습니다. 실제 업무에서는 ChatGPT 앱의 완성도가 높다고 느끼지만, AI 코딩 강의 상당수가 Claude Code를 중심으로 진행되면서 개인의 경험이 회사 도입으로 이어지는 경우가 많습니다.
+웹에서 입력할 수 있는 화면이 뜨기까지 3.1초 걸리던 시간이 0.55초로 줄었고, 3...</title><link>https://www.threads.net/@choi.openai/post/DdupSAoDzDY</link><description>Claude가 Claude를 3배 빠르게 만들었습니다.
 
-두 회사 모두 FDE를 통해 기업 시장을 공략하고 있지만, 오픈AI도 기업 영업뿐 아니라 개발자와 교육 시장에서부터 자연스럽게 퍼지는 경로를 더 적극적으로 만들 필요가 있어 보입니다.</description><pubDate>Fri, 25 Sep 2026 14:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddtrd68kdDW</guid></item></channel></rss>
+웹에서 입력할 수 있는 화면이 뜨기까지 3.1초 걸리던 시간이 0.55초로 줄었고, 3,000개 넘는 변경을 넣는 동안 고객이 겪은 장애나 롤백은 한 건도 없었습니다.
+
+병목을 찾고 고친 건 대부분 Claude였고, 사람은 무엇을 잴지 정하고 모든 변경을 승인했습니다.
+
+팀이 얻은 교훈은 "Claude가 측정할 수 있는 것은 Claude가 빠르게 만들 수 있다"였습니다 🧵</description><pubDate>Fri, 25 Sep 2026 23:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdupSAoDzDY</guid></item><item><title>1/ 앤트로픽 엔지니어링 블로그가 9월 23일, claude.ai와 Claude 데스크톱 앱을 8월의 2주 스프린트로 약 3배 빠르게 만든 과정...</title><link>https://www.threads.net/@choi.openai/post/DdupStAj1H2</link><description>1/ 앤트로픽 엔지니어링 블로그가 9월 23일, claude.ai와 Claude 데스크톱 앱을 8월의 2주 스프린트로 약 3배 빠르게 만든 과정을 공개했습니다
+
+ 팀은 사용자 활동의 95%를 차지하는 앱 실행, 대화 시작, 기존 대화 불러오기, 메시지 전송을 웹·데스크톱·제품별 13개 지표로 나눠 쟀습니다.
+
+로딩의 75%가 끝나는 시간인 p75로 보면 웹에서 입력 가능한 화면이 뜨기까지 3.1초가 0.55초로, Cowork 클라우드 세션 불러오기는 2.6초가 0.73초로 줄었고, 13개 지표의 기하평균은 3.1배입니다.
+
+병목 탐색, 벤치마크 제작, 수정, 배포 감시는 Opus 5.5와 비슷한 수준의 내부 연구 모델이 맡았고, 사람은 목표와 절충을 정하며 모든 변경을 승인했습니다.
+
+그렇게 3,000개 넘는 변경이 들어갔지만 고객이 겪은 장애나 롤백은 없었습니다.</description><pubDate>Fri, 25 Sep 2026 23:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdupStAj1H2</guid></item><item><title>2/ 스프린트는 Slack 채널 하나에서 시작됐습니다.
+
+팀은 Slack에서 Claude를 부르는 Claude Tag를 채널에 두고 배포마다 성...</title><link>https://www.threads.net/@choi.openai/post/DdupT2Bj6XN</link><description>2/ 스프린트는 Slack 채널 하나에서 시작됐습니다.
+
+팀은 Slack에서 Claude를 부르는 Claude Tag를 채널에 두고 배포마다 성능 저하를 감시하고, 기존 계측이 정확한지 점검하고, 대시보드를 관리하고, 쉬운 개선은 직접 구현하고, 새 프로젝트를 제안하라는 상시 지침을 줬습니다.
+
+지침 끝에는 최대한 자율적으로 일하는 것이 궁극적 목표지만 지금은 가능하지 않다는 것도 안다고 적었습니다.
+
+Claude는 모니터링 서비스 Datadog에 연결된 MCP 서버로 사용 데이터를 읽어 네 경로를 골랐고, 팀은 모든 측정이 사용자 행동에서 시작해 결과가 화면에 그려질 때 끝나도록 계측을 맞췄습니다.
+
+이어 약 20개 프로젝트마다 Claude가 줄일 수 있는 밀리초를 추정해 목표를 세웠는데, 13개 목표 중 12개를 사흘째에 달성했습니다.</description><pubDate>Fri, 25 Sep 2026 23:31:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdupT2Bj6XN</guid></item><item><title>3/ 초반 성과를 대표하는 것이 정적 입력창입니다.
+
+React 앱이 준비되는 동안에도 입력할 수 있도록 입력창과 똑같이 생긴 HTML을 페이지...</title><link>https://www.threads.net/@choi.openai/post/DdupUYoj4PZ</link><description>3/ 초반 성과를 대표하는 것이 정적 입력창입니다.
+
+React 앱이 준비되는 동안에도 입력할 수 있도록 입력창과 똑같이 생긴 HTML을 페이지에 미리 넣어 두고, React가 준비되면 그 위에 실제 입력창을 겹쳐 그리는 방식입니다.
+
+느린 4G 환경의 비교 영상에서 입력 가능 시점은 2.93초에서 0.36초로 당겨졌고, 그사이 친 글자도 그대로 남았습니다.
+
+데스크톱 앱은 V8 코드 캐시를 미리 만들어 실행할 때마다 처음부터 다시 컴파일하지 않게 했습니다
+
+ 대화를 옮길 때는 입력창을 그대로 두고, 마우스를 올린 대화를 미리 불러오고, 사이드바 재렌더링을 90% 줄였습니다.
+
+계획한 프로젝트가 일찍 끝나자 팀은 목표를 다시 세우고 Claude에게 아직 안 해 본 것, 더 끌어올릴 수 있는 것을 물으며 엉뚱한 아이디어도 환영한다고 했습니다.</description><pubDate>Fri, 25 Sep 2026 23:31:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdupUYoj4PZ</guid></item></channel></rss>
