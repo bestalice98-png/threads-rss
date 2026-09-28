@@ -1,55 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 27 Sep 2026 18:44:46 +0000</lastBuildDate><item><title>트럼프 대통령이 앤트로픽 CEO 다리오 아모데이를 백악관 비공개 만찬에 직접 초대했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 28 Sep 2026 03:54:54 +0000</lastBuildDate><item><title>오픈AI 응용 연구 책임자 보리스 파워(Boris Power)는 “오픈AI 연구의 80~90%는 GPT-7, GPT-8 및 그 이상에 집중되어 ...</title><link>https://www.threads.net/@choi.openai/post/Dd0K286CpVr</link><description>오픈AI 응용 연구 책임자 보리스 파워(Boris Power)는 “오픈AI 연구의 80~90%는 GPT-7, GPT-8 및 그 이상에 집중되어 있다”고 밝혔습니다.
 
-Axios에 따르면 두 사람이 1대1로 만나는 것은...</title><link>https://www.threads.net/@choi.openai/post/DdzNFvmAO1P</link><description>트럼프 대통령이 앤트로픽 CEO 다리오 아모데이를 백악관 비공개 만찬에 직접 초대했습니다.
+근본적인 가치와 비약적인 성능 도약은 결국 차세대 프론티어 모델에서 나온다는 것입니다.
 
-Axios에 따르면 두 사람이 1대1로 만나는 것은 처음입니다.
-앤트로픽은 AI 개발 속도와 안전 문제를 두고 트럼프 행정부와 갈등을 겪어왔으며, 최근에는 트럼프 측 인사들이 아모데이의 AI 안전론을 공개적으로 비판하기도 했습니다.
+또한 고성능 소형 모델을 구축하는 핵심 전략으로 ‘증류(Distillation)’를 꼽았습니다.
 
-특히 앤트로픽이 대규모 IPO를 준비하는 것으로 알려진 상황이라, 이번 만찬에서 AI 개발 속도와 정부와의 관계가 어떻게 논의될지 주목받고 있습니다.</description><pubDate>Sun, 27 Sep 2026 18:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdzNFvmAO1P</guid></item><item><title>기사 :
-https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite</title><link>https://www.threads.net/@choi.openai/post/DdzNGvkAFEh</link><description>기사 :
-https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite</description><pubDate>Sun, 27 Sep 2026 18:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdzNGvkAFEh</guid></item><item><title>🚨 Seedance 2.5를 한 달 동안 약 $1.5에 사용할 수 있는 프로모션이 진행 중입니다.
+“작고 특화된 모델을 훈련하는 가장 좋은 방법은, 초고성능 거대 모델을 먼저 훈련한 뒤 이를 ‘선생님(Teacher)’으로 삼는 것입니다.”</description><pubDate>Mon, 28 Sep 2026 03:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd0K286CpVr</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=Xzsg-rLGzas</title><link>https://www.threads.net/@choi.openai/post/Dd0K5F8ithY</link><description>풀영상 :
+https://www.youtube.com/watch?v=Xzsg-rLGzas</description><pubDate>Mon, 28 Sep 2026 03:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd0K5F8ithY</guid></item><item><title>텐센트가 오픈웨이트 비디오 월드 모델 WorldCrafter를 공개했습니다.
 
-Dreamina Basic 월간 멤버십을 최...</title><link>https://www.threads.net/@choi.openai/post/DdzCxHlEoew</link><description>🚨 Seedance 2.5를 한 달 동안 약 $1.5에 사용할 수 있는 프로모션이 진행 중입니다.
+WorldCrafter는 별도의 3D 공간을 직접 만드는 대신, ...</title><link>https://www.threads.net/@choi.openai/post/Dd0AimIAv96</link><description>텐센트가 오픈웨이트 비디오 월드 모델 WorldCrafter를 공개했습니다.
 
-Dreamina Basic 월간 멤버십을 최대 90% 할인해주는 행사로, Seedance 2.5를 포함한 Seedance 모델을 이용할 수 있습니다.
+WorldCrafter는 별도의 3D 공간을 직접 만드는 대신, 카메라 위치에 따라 메모리에서 필요한 정보를 꺼내 영상을 생성합니다.
 
-기간은 9월 23일부터 10월 9일까지이며 한국도 대상 국가에 포함됩니다. 다만 Dreamina에서 결제한 적이 없는 사용자의 첫 결제에만 적용됩니다.
+덕분에 다른 곳을 바라보다 다시 돌아와도 이전 공간과 물체를 비교적 일관되게 유지할 수 있습니다.
 
-Dreamina에서 회원가입 후 Membership → Monthly → Basic을 선택하면 확인할 수 있습니다.</description><pubDate>Sun, 27 Sep 2026 16:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DdzCxHlEoew</guid></item><item><title>GPT Astra를 휴머노이드 로봇에 연결하면 어디까지 가능할까요?
+이미지 한 장이나 텍스트만으로 수분간 공간을 탐색할 수 있으며, 현재 384×640 해상도를 지원합니다.
 
-스탠퍼드 연구진이 GPT Astra로 휴머노이드를 제어하는 HomeBody...</title><link>https://www.threads.net/@choi.openai/post/Ddy4fopCvxm</link><description>GPT Astra를 휴머노이드 로봇에 연결하면 어디까지 가능할까요?
+Base와 빠른 생성용 distilled 버전 모두 가중치가 공개돼 허깅페이스에서 이용할 수 있으며 코드도 함께 공개됐습니다.</description><pubDate>Mon, 28 Sep 2026 01:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd0AimIAv96</guid></item><item><title>허깅페이스 :
+https://huggingface.co/TencentARC/WorldCrafter-Base</title><link>https://www.threads.net/@choi.openai/post/Dd0Alwjgr4e</link><description>허깅페이스 :
+https://huggingface.co/TencentARC/WorldCrafter-Base</description><pubDate>Mon, 28 Sep 2026 01:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd0Alwjgr4e</guid></item><item><title>Jev와 비슷한 역할을 하는 새로운 분류 모델 Julia-1이 공개됐습니다.
 
-스탠퍼드 연구진이 GPT Astra로 휴머노이드를 제어하는 HomeBody를 공개했습니다.
+슈퍼소닉 랩스가 공개한 Julia-1은 다양한 기기에서 로컬로 실...</title><link>https://www.threads.net/@choi.openai/post/Ddz2PYuAQ5Z</link><description>Jev와 비슷한 역할을 하는 새로운 분류 모델 Julia-1이 공개됐습니다.
 
-처음 보는 주방에서도 해당 환경을 위한 별도 학습 없이 방을 돌아다니며 물건을 정리하고, 이전에 봤던 물건을 기억해 “아까 그 물건 가져와” 같은 모호한 요청도 수행합니다.
+슈퍼소닉 랩스가 공개한 Julia-1은 다양한 기기에서 로컬로 실행하는 데 초점을 맞춘 모델입니다. WebGPU도 지원해 브라우저에서도 실행할 수 있습니다.
 
-로봇마다 모든 행동을 새로 학습시키는 대신, 범용 AI의 추론과 기억 능력을 로봇의 몸에 연결하는 방식입니다.
+실제로 한 개발자가 M1 Pro에서 구현한 버전은 하나의 프로세스에서 10개 요청을 약 0.93~0.96초에 처리했다고 공개했습니다.
 
-AI 모델이 발전할수록 로봇의 작업 능력도 함께 좋아질 수 있다는 방향을 보여줍니다.</description><pubDate>Sun, 27 Sep 2026 15:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddy4fopCvxm</guid></item><item><title>프로젝트 페이지 :
-https://tml.stanford.edu/homebody/</title><link>https://www.threads.net/@choi.openai/post/Ddy4haKimjB</link><description>프로젝트 페이지 :
-https://tml.stanford.edu/homebody/</description><pubDate>Sun, 27 Sep 2026 15:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddy4haKimjB</guid></item><item><title>놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/Ddyq9PcD_v7</link><description>놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</description><pubDate>Sun, 27 Sep 2026 13:02:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddyq9PcD_v7</guid></item><item><title>1/ 앤트로픽이 Claude Opus 5.5를 공개했습니다.
+Jev처럼 빠른 판단이 필요한 작업에 활용할 수 있지만, 공개된 내용만으로 두 모델의 성능을 직접 비교하기는 어렵습니다.</description><pubDate>Mon, 28 Sep 2026 00:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddz2PYuAQ5Z</guid></item><item><title>허깅페이스 :
+https://huggingface.co/SupersonicLabs/Julia-1</title><link>https://www.threads.net/@choi.openai/post/Ddz2QxiAV2V</link><description>허깅페이스 :
+https://huggingface.co/SupersonicLabs/Julia-1</description><pubDate>Mon, 28 Sep 2026 00:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddz2QxiAV2V</guid></item><item><title>미니맥스가 새로운 코딩용 AI 모델 M3.1-Flash-Preview를 공개했습니다.
 
-회사 설명에 따르면 대부분의 작업에서 Fable 5.1에 가까운 성능을 내면서, ...</title><link>https://www.threads.net/@choi.openai/post/Ddyq9lxDxKL</link><description>1/ 앤트로픽이 Claude Opus 5.5를 공개했습니다.
+MiniMax Code에서 먼저 제공되며, 빠른 버그 수...</title><link>https://www.threads.net/@choi.openai/post/Ddzr60fj-7t</link><description>미니맥스가 새로운 코딩용 AI 모델 M3.1-Flash-Preview를 공개했습니다.
 
-회사 설명에 따르면 대부분의 작업에서 Fable 5.1에 가까운 성능을 내면서, 이전 Opus보다 출력 속도는 약 30% 빨라졌습니다.
+MiniMax Code에서 먼저 제공되며, 빠른 버그 수정부터 전체 기능 개발까지 일상적인 개발 작업에 초점을 맞춘 텍스트 모델입니다.
 
-API 가격은 100만 토큰당 입력 4달러·출력 20달러로 20% 내려갔고, 토큰 사용량까지 반영한 일반적인 작업 비용은 약 40% 줄었습니다.
+다만 현재 공식 게시물에는 파라미터 수나 벤치마크, 오픈웨이트 제공 여부 등 구체적인 정보가 공개되지 않았습니다.
 
-Claude와 Claude Code에서도 제공하며, 사용 한도 확대도 함께 적용했습니다.</description><pubDate>Sun, 27 Sep 2026 13:02:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddyq9lxDxKL</guid></item><item><title>2/ 오픈AI가 GPT-6 Sol과 Luna를 출시했습니다.
-
-Astra에 적용한 학습 방식을 더 작고 빠른 모델로 확장해, 코딩과 문서 작성처...</title><link>https://www.threads.net/@choi.openai/post/Ddyq-D7DyJL</link><description>2/ 오픈AI가 GPT-6 Sol과 Luna를 출시했습니다.
-
-Astra에 적용한 학습 방식을 더 작고 빠른 모델로 확장해, 코딩과 문서 작성처럼 도구를 쓰며 이어가는 작업을 개선했습니다.
-
-API 가격은 100만 토큰당 Sol 입력 2달러·출력 10달러, Luna 입력 0.10달러·출력 0.50달러입니다.
-
-ChatGPT Work와 Codex, API에서 제공하며, 개인 유료 구독부터 기업·교육용 요금제까지 적용 범위를 넓혔습니다.</description><pubDate>Sun, 27 Sep 2026 13:02:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddyq-D7DyJL</guid></item><item><title>3/ 오픈AI가 AI와 수학을 위한 독립 자문단을 발표했습니다.
-
-회사는 내부 연구 모델이 8월 28일 이후 오랫동안 풀리지 않았던 수학 문제 ...</title><link>https://www.threads.net/@choi.openai/post/Ddyq-oYjzdJ</link><description>3/ 오픈AI가 AI와 수학을 위한 독립 자문단을 발표했습니다.
-
-회사는 내부 연구 모델이 8월 28일 이후 오랫동안 풀리지 않았던 수학 문제 100개 이상을 해결했다고 밝혔습니다.
-
-고등연구소 IAS가 자문단을 주관하고, 티머시 가워스·마르틴 하이러·에드워드 위튼 등이 참여합니다.
-
-AI가 만든 증명의 검토와 결과 공개 기준, 연구 도구의 책임 있는 사용을 다루며, 자문위원은 오픈AI로부터 보수를 받지 않습니다.</description><pubDate>Sun, 27 Sep 2026 13:02:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddyq-oYjzdJ</guid></item></channel></rss>
+최근 OpenRouter에 등장했던 정체불명의 모델 Space Bunny Alpha가 미니맥스 모델이라는 분석도 있었지만, M3.1-Flash-Preview와 같은 모델인지는 확인되지 않았습니다.</description><pubDate>Sun, 27 Sep 2026 22:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ddzr60fj-7t</guid></item></channel></rss>
