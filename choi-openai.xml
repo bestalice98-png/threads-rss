@@ -1,49 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 28 Sep 2026 20:54:05 +0000</lastBuildDate><item><title>진화생물학자 리처드 도킨스는 인류가 “엄청난 혁명의 문턱”에 서 있다고 진단했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 29 Sep 2026 04:29:14 +0000</lastBuildDate><item><title>일레븐랩스가 새로운 음성 생성 모델 Eleven v4와 Eleven v4 Turbo를 공개했습니다.
 
-그는 가장 주목해야 할 점으로 AI가 인간 사회를 지배해...</title><link>https://www.threads.net/@choi.openai/post/Dd18LMJCrkB</link><description>진화생물학자 리처드 도킨스는 인류가 “엄청난 혁명의 문턱”에 서 있다고 진단했습니다.
+Eleven v4는 말투·속도·감정·캐릭터...</title><link>https://www.threads.net/@choi.openai/post/Dd22kXXAksd</link><description>일레븐랩스가 새로운 음성 생성 모델 Eleven v4와 Eleven v4 Turbo를 공개했습니다.
 
-그는 가장 주목해야 할 점으로 AI가 인간 사회를 지배해 인간을 “잉여 존재로 만들 가능성”을 꼽았습니다.
+Eleven v4는 말투·속도·감정·캐릭터 표현을 세밀하게 조절할 수 있으며, 태그를 이용해 웃음이나 반응, 효과음까지 지시할 수 있습니다.
+10초 분량의 음성만으로 목소리를 복제하는 기능도 개선됐습니다.
 
-지능의 폭발로 인해 노동과 일자리 전반에서 인간의 쓰임새 자체가 사라질 수 있다는 경고입니다.
+Eleven v4 Turbo는 실시간 대화에 맞춘 모델로 중앙값 기준 약 100ms의 추론 지연시간을 제공합니다.
 
-또한 그는 외계 생명체가 지구를 발견한다면 자연적 생명체보다 인공 생명체를 먼저 마주할 가능성이 높다고 언급하며, AI가 미칠 영향이 결코 온순하지만은 않을 것이라고 우려했습니다.
+두 모델 모두 90개 이상의 언어를 지원하며, Artificial Analysis 음성 평가에서 1위를 기록했습니다.</description><pubDate>Tue, 29 Sep 2026 04:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd22kXXAksd</guid></item><item><title>발표내용 :
+https://elevenlabs.io/v4</title><link>https://www.threads.net/@choi.openai/post/Dd22nf2gh7U</link><description>발표내용 :
+https://elevenlabs.io/v4</description><pubDate>Tue, 29 Sep 2026 04:01:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd22nf2gh7U</guid></item><item><title>AI가 정말 통제 불가능해져가는 것 같습니다.
 
-결국 단순한 기술 경쟁을 넘어, 인공지능이 인간의 지적 노동을 완전히 대체하는 특이점 국면에서 인간이 어떻게 공존 방안을 찾을 것인지가 최대 쟁점이라고 강조했습니다.</description><pubDate>Mon, 28 Sep 2026 19:30:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd18LMJCrkB</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=ws_9ettrtSg</title><link>https://www.threads.net/@choi.openai/post/Dd18NscimME</link><description>풀영상 :
-https://www.youtube.com/watch?v=ws_9ettrtSg</description><pubDate>Mon, 28 Sep 2026 19:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd18NscimME</guid></item><item><title>메타 CEO 마크 저커버그는 “미래에는 모든 사람이 개인 에이전트를 갖게 될 것”이라고 전망했습니다.
+오픈AI가 10월 ChatGPT와 Codex에 출시할 예정이었던 GPT-6.1 Astra 공개를...</title><link>https://www.threads.net/@choi.openai/post/Dd2sMPigJbM</link><description>AI가 정말 통제 불가능해져가는 것 같습니다.
 
-그는 에이전트가 단순한 운영체제(OS)를...</title><link>https://www.threads.net/@choi.openai/post/Dd1x2GbjFxC</link><description>메타 CEO 마크 저커버그는 “미래에는 모든 사람이 개인 에이전트를 갖게 될 것”이라고 전망했습니다.
+오픈AI가 10월 ChatGPT와 Codex에 출시할 예정이었던 GPT-6.1 Astra 공개를 취소했습니다.
 
-그는 에이전트가 단순한 운영체제(OS)를 넘어, “사용자가 세상에서 사용하는 모든 기술과 연결되는 인터페이스”가 될 것이라 설명했습니다.
+WSJ에 따르면 GPT-6.1 Astra는 복잡한 작업을 사람의 도움 없이 끝까지 수행하는 능력이 좋아졌지만, 내부 안전성 테스트에서 문제가 발견됐습니다.
 
-OS가 사용자와 기기 간의 기술적 접점이라면, 개인 에이전트는 사용자의 목표와 맥락을 깊이 이해하고 실제 업무를 자율적으로 완수하는 핵심 도구가 됩니다.
+자신이 수행한 행동을 사실과 다르게 설명하거나, 허락을 구해야 하는 상황에서도 작업을 계속하고 외부 도구와 서비스에 접근하려는 행동이 나타났다고 합니다.
 
-“에이전트에게 목표만 주면 알아서 직접 일을 처리해 준다”며, 딸과 함께 등산 허가증을 발급받아 일정을 조율하는 실생활 사례를 제시했습니다.
+GPT-6.1 Astra 자체는 출시하지 않지만 기반 모델은 폐기하지 않고 향후 모델 개발에 활용할 예정입니다.</description><pubDate>Tue, 29 Sep 2026 02:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd2sMPigJbM</guid></item><item><title>기사 :
+https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f...</title><link>https://www.threads.net/@choi.openai/post/Dd2sNl4gHjn</link><description>기사 :
+https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42</description><pubDate>Tue, 29 Sep 2026 02:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd2sNl4gHjn</guid></item><item><title>AI를 만드는 사람들이 직접 ‘지능 폭발’을 경고하기 시작했습니다.
 
-결국 소프트웨어와 서비스의 복잡한 절차를 AI가 완전히 흡수하면서, 인간은 목표만 던지고 에이전트가 코딩, 예약, 협업 등 실무를 자율 수행하는 새로운 생산성 패러다임이 열리고 있습니다.</description><pubDate>Mon, 28 Sep 2026 18:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd1x2GbjFxC</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=2cg56uF4hlc&amp;themeRefresh=1</title><link>https://www.threads.net/@choi.openai/post/Dd1x3QHjBbQ</link><description>풀영상 :
-https://www.youtube.com/watch?v=2cg56uF4hlc&amp;themeRefresh=1</description><pubDate>Mon, 28 Sep 2026 18:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd1x3QHjBbQ</guid></item><item><title>마이크로소프트 창업자 빌 게이츠는 AI 발전 과정을 2단계로 나누어 설명했습니다.
+오픈AI, 앤트로픽, 마이크로소프트의 최고 연구진과 제프리 힌튼, 요슈아 ...</title><link>https://www.threads.net/@choi.openai/post/Dd2h5eyGqG2</link><description>AI를 만드는 사람들이 직접 ‘지능 폭발’을 경고하기 시작했습니다.
 
-현재는 일자리 시장이 변화하고 적절한 안전장치가 없으면 범죄...</title><link>https://www.threads.net/@choi.openai/post/Dd1nmosgWin</link><description>마이크로소프트 창업자 빌 게이츠는 AI 발전 과정을 2단계로 나누어 설명했습니다.
+오픈AI, 앤트로픽, 마이크로소프트의 최고 연구진과 제프리 힌튼, 요슈아 벤지오 등 22명이 공동 연구를 공개했습니다.
 
-현재는 일자리 시장이 변화하고 적절한 안전장치가 없으면 범죄에 악용될 수 있는 등 현실적 혼란을 겪는 과도기 단계입니다.
-그는 이러한 일자리와 경제적 재편을 겪는 “조정 기간이 약 20년 동안 이어질 것”이라고 내다봤습니다.
+AI가 AI 연구를 자동화하면 1년치 발전이 5주 이하로 압축될 수 있다는 내용인데요.
 
-하지만 이 시기를 지나면 AI와 휴머노이드 로봇의 결합이 주택 건설, 식량 생산 등 노동과 생산의 한계를 허물어 물질적 결핍이 사라지는 “풍요의 시대(era of abundance)”가 열릴 것이라 전망했습니다.
+어떤 근거로 이런 경고를 했는지 정리했습니다 🧵</description><pubDate>Tue, 29 Sep 2026 01:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd2h5eyGqG2</guid></item><item><title>1/ 9월 28일 케임브리지대 AI 과학·정책 프로그램(CASP)이 'What if automating AI R&amp;D triggers an int...</title><link>https://www.threads.net/@choi.openai/post/Dd2h6OkGp-m</link><description>1/ 9월 28일 케임브리지대 AI 과학·정책 프로그램(CASP)이 'What if automating AI R&amp;D triggers an intelligence explosion?'이라는 워킹페이퍼를 공개했습니다.
 
-인간의 노동이 기계로 대체되면서 오늘날 겪는 자원 부족 문제는 사라지겠지만, “삶의 의미와 시간을 어떻게 쓸 것인가”라는 완전히 새로운 실존적 과제에 직면하게 될 것이라고 강조했습니다.</description><pubDate>Mon, 28 Sep 2026 16:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd1nmosgWin</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=AbMxbgIahtE</title><link>https://www.threads.net/@choi.openai/post/Dd1nn7kAX2i</link><description>풀영상 :
-https://www.youtube.com/watch?v=AbMxbgIahtE</description><pubDate>Mon, 28 Sep 2026 16:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd1nn7kAX2i</guid></item><item><title>세일즈포스 CEO 마크 베니오프는 AI 혁신의 다음 전환점으로 “인터페이스의 대변혁”을 지목했습니다.
+저자 22명에는 오픈AI 수석과학자 야쿠브 파초키, 앤트로픽 공동창업자 잭 클라크, 마이크로소프트의 에릭 호비츠, 제프리 힌턴과 요슈아 벤지오가 들어 있습니다.
 
-그동안 AI 업계가 데이터, 시맨틱 모델...</title><link>https://www.threads.net/@choi.openai/post/Dd1dNXHkdrp</link><description>세일즈포스 CEO 마크 베니오프는 AI 혁신의 다음 전환점으로 “인터페이스의 대변혁”을 지목했습니다.
+논문이 묻는 것은 AI가 AI 연구개발을 자동화할 때 수년치 발전이 몇 달 이하로 압축되는 '지능 폭발'이 일어날 수 있느냐인데요.
 
-그동안 AI 업계가 데이터, 시맨틱 모델, 에이전트 성능에 집중해 왔다면, 앞으로는 이를 다루는 컴퓨팅 환경 자체가 완전히 재편된다는 설명입니다.
+저자들은 예비 증거로 보면 가능하다고 답하고, 정부가 기업 내부의 자동화 정도부터 파악해야 한다고 요구했습니다.
 
-기존의 고정된 아이콘과 앱 구조에서 벗어나 실시간 맥락을 인지하고 대화하며 적응하는 “동적 인터페이스”가 기업용 소프트웨어에 본격 도입됩니다.
+경고하는 사람들이 그 자동화를 진행 중인 회사 안에 있다는 점이 이 요구에 무게를 싣습니다.</description><pubDate>Tue, 29 Sep 2026 01:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd2h6OkGp-m</guid></item><item><title>2/ 논문이 먼저 내놓는 근거는 이미 진행된 자동화 수치입니다.
 
-그는 “차세대 인터페이스의 물결”이 열리며 오픈AI 등 빅테크들이 새로운 하드웨어와 기기 생태계에 적극 투자하는 계기가 될 것이라 분석했습니다.
+앤트로픽에서는 승인된 코드 가운데 AI가 쓴 비중이 2025년 1월 한 자릿수...</title><link>https://www.threads.net/@choi.openai/post/Dd2h7TUmoIp</link><description>2/ 논문이 먼저 내놓는 근거는 이미 진행된 자동화 수치입니다.
 
-고정된 앱 중심 노동 환경이 사라지고 살아 숨 쉬듯 상호작용하는 UI가 비즈니스 생산성을 근본적으로 바꿀 것이라는 전망입니다.</description><pubDate>Mon, 28 Sep 2026 15:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd1dNXHkdrp</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=wOkZQD_2wTY</title><link>https://www.threads.net/@choi.openai/post/Dd1dO5UEXcn</link><description>풀영상 :
-https://www.youtube.com/watch?v=wOkZQD_2wTY</description><pubDate>Mon, 28 Sep 2026 15:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd1dO5UEXcn</guid></item></channel></rss>
+앤트로픽에서는 승인된 코드 가운데 AI가 쓴 비중이 2025년 1월 한 자릿수 초반에서 2026년 5월 80% 이상으로 올랐습니다.
+
+사람은 큰 방향만 감독하고 AI가 스스로 끝낸 연구개발 업무 비중도 올해 3월 1%에서 8월 26%로 늘었는데요.
+
+2023년에는 몇 초짜리 과제만 처리하던 AI가 이제 전문가가 몇 시간에서 며칠 걸리는 AI 연구 과제를 끝냅니다.
+
+GPT-6가 오픈AI의 연구 디버깅 과제 일부를 아직 풀지 못하는 등 약점도 남아 있지만, 논문은 최근 추세를 이어 보면 몇 달짜리 AI 연구 프로젝트가 2028년 중반에 자동화될 수 있다고 봅니다.</description><pubDate>Tue, 29 Sep 2026 01:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd2h7TUmoIp</guid></item><item><title>3/ 지능 폭발의 작동 방식은 두 단계입니다.
+
+AI가 연구를 더 잘하게 될수록 실질적인 연구 인력이 늘고, 늘어난 인력이 더 나은 AI를 만들...</title><link>https://www.threads.net/@choi.openai/post/Dd2h77AGsrc</link><description>3/ 지능 폭발의 작동 방식은 두 단계입니다.
+
+AI가 연구를 더 잘하게 될수록 실질적인 연구 인력이 늘고, 늘어난 인력이 더 나은 AI를 만들어 인력을 다시 늘리는 순환입니다.
+
+논문 추산으로는 전문가 수준 AI가 지금 수준의 비용으로 돌아갈 경우, 프런티어 기업 한 곳이 가진 컴퓨트만으로 최상위 연구자 최소 수백만 명분의 일을 감당할 수 있습니다.
+
+지금 이 기업들이 고용한 연구자는 수천 명입니다.
+
+완전 자동화 이후에는 현재의 효율 개선 속도만으로도 자동화 인력이 몇 달에서 몇 년 사이 100배로 커질 수 있는데, 미국 연구자 인구가 같은 비율로 늘어나는 데는 70년이 걸렸습니다.</description><pubDate>Tue, 29 Sep 2026 01:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd2h77AGsrc</guid></item><item><title>🚨 오픈AI 초비상..!!
+
+앤트로픽이 Opus 5.5 공개 6일 만에 Claude Sonnet 5.5를 내놨습니다.
+
+가격은 Opus의 절반인...</title><link>https://www.threads.net/@choi.openai/post/Dd2VxvnjI7O</link><description>🚨 오픈AI 초비상..!!
+
+앤트로픽이 Opus 5.5 공개 6일 만에 Claude Sonnet 5.5를 내놨습니다.
+
+가격은 Opus의 절반인데 에이전트 코딩 평가 Terminal-Bench 4.0에서 70.6%를 받아 Opus 5.5의 66.4%를 넘었고, 독립 평가 지수에서도 Opus 바로 다음인 2위에 올랐습니다.
+
+오픈AI DevDay 하루 전에 나온 Claude Sonnet 5.5를 정리했습니다 🧵</description><pubDate>Mon, 28 Sep 2026 23:29:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd2VxvnjI7O</guid></item><item><title>1/ 앤트로픽이 Claude Sonnet 5.5를 공개했습니다.
+
+Opus 5.5에 이은 Claude 5.5 세대의 두 번째 모델이고, 대량 처...</title><link>https://www.threads.net/@choi.openai/post/Dd2Vh5eiUr9</link><description>1/ 앤트로픽이 Claude Sonnet 5.5를 공개했습니다.
+
+Opus 5.5에 이은 Claude 5.5 세대의 두 번째 모델이고, 대량 처리용 Haiku 5.5는 몇 주 안에 합류합니다.
+
+앤트로픽은 Sonnet 5보다 출력 속도가 30% 이상 빠르고, 대부분의 작업에서 과제당 비용이 최대 30% 적다고 설명했습니다.
+
+두 모델의 역할도 나눴는데요. 신중한 판단이 오래 필요한 복잡한 작업은 Opus 5.5가, 범위가 분명한 일상 작업과 버그 수정, 문서·슬라이드·스프레드시트 작성은 Sonnet 5.5가 맡습니다.
+
+Claude 앱과 Claude Code, API(claude-sonnet-5-5), AWS·Google Cloud·Microsoft Azure에서 바로 쓸 수 있고, 발표는 오픈AI DevDay 하루 전에 나왔습니다.</description><pubDate>Mon, 28 Sep 2026 23:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd2Vh5eiUr9</guid></item><item><title>2/ 공식 벤치마크의 8개 항목 중 Sonnet 5 대비 가장 크게 오른 것은 명령줄 작업 평가 Terminal-Bench 4.0으로, 10.3...</title><link>https://www.threads.net/@choi.openai/post/Dd2XmOYCMzE</link><description>2/ 공식 벤치마크의 8개 항목 중 Sonnet 5 대비 가장 크게 오른 것은 명령줄 작업 평가 Terminal-Bench 4.0으로, 10.3%에서 70.6%가 됐습니다.
+
+도구 없이 차트를 읽는 Chartography는 15.6%에서 61.6%, 44개 직업의 실무를 보는 GDPval-AA는 1,449에서 1,844 Elo, 컴퓨터를 직접 조작하는 OSWorld 2.1은 57.0%에서 80.1%입니다.
+
+Opus 5.5와 비교하면 Terminal-Bench 하나만 앞서고 나머지는 근소하게 뒤지는데요. GDPval-AA는 1,844 대 1,846, CursorBench는 55.5% 대 57.8%, 도구를 쓴 Humanity's Last Exam은 64.5% 대 67.7%입니다.
+
+GPT-6 Sol과는 비교된 네 항목 중 세 항목에서 크게 앞섰고, FrontierCode는 xhigh에서만 앞섰습니다.</description><pubDate>Mon, 28 Sep 2026 23:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd2XmOYCMzE</guid></item><item><title>3/ Terminal-Bench 4.0은 명령줄 환경에서 여러 단계의 전문 작업을 끝까지 해내는지 보는 평가입니다.
+
+Sonnet 5는 출시 때...</title><link>https://www.threads.net/@choi.openai/post/Dd2XoZAiJOF</link><description>3/ Terminal-Bench 4.0은 명령줄 환경에서 여러 단계의 전문 작업을 끝까지 해내는지 보는 평가입니다.
+
+Sonnet 5는 출시 때 2.1 버전에서 80.4%를 받았지만 더 어려워진 4.0에서는 최고 설정 max로도 10.3%에 그쳤습니다.
+
+Sonnet 5.5는 max에서 70.6%로 Opus 5.5의 최고점인 xhigh 66.4%를 넘었고, Artificial Analysis의 독립 측정도 Sonnet 5.5 63.6%, Opus 5.5 59.6%, GPT-6 Astra 59.1% 순이라 역전은 재현됐습니다.
+
+이 점수에 든 비용은 시도당 12.54달러로 Opus 5.5 xhigh의 7.35달러보다 70% 많습니다.
+
+3달러 안팎에서는 순서가 바뀌어 Opus 5.5 medium이 2.94달러에 57.6%, Sonnet 5.5 high는 1.94달러에 43.0%입니다.
+
+Sonnet 5.5의 역전은 추론량을 끝까지 올린 구간에서 나왔습니다.</description><pubDate>Mon, 28 Sep 2026 23:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd2XoZAiJOF</guid></item></channel></rss>
