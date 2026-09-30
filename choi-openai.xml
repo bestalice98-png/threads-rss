@@ -1,41 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 30 Sep 2026 14:39:08 +0000</lastBuildDate><item><title>일론 머스크는 AI와 초지능(Superintelligence)이 가져올 미래를 “풍요의 시대”로 정의했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 30 Sep 2026 19:43:02 +0000</lastBuildDate><item><title>Inception이 음성 AI 에이전트용 확산 언어 모델 Mercury Voice를 공개했습니다.
 
-그는 미래 사회가 단순히 ‘기본...</title><link>https://www.threads.net/@choi.openai/post/Dd6jcRHisTE</link><description>일론 머스크는 AI와 초지능(Superintelligence)이 가져올 미래를 “풍요의 시대”로 정의했습니다.
+음성 대화는 사람이 답변을 기다린다고 느끼지...</title><link>https://www.threads.net/@choi.openai/post/Dd7CWXUDxPA</link><description>Inception이 음성 AI 에이전트용 확산 언어 모델 Mercury Voice를 공개했습니다.
 
-그는 미래 사회가 단순히 ‘기본소득’을 넘어 “보편적 고소득”을 누리는 경제 체제가 될 것이며, 로봇과 초지능의 결합으로 누구나 최고 수준의 의료 서비스를 받게 될 것이라고 전망했습니다.
+음성 대화는 사람이 답변을 기다린다고 느끼지 않으려면 약 500ms 안에 반응해야 하는데요.
 
-화이트칼라의 일자리 소멸 우려에 대해서는 “과거 인간 계산원의 단순 수치 연산 업무를 디지털 컴퓨터가 대체했듯, 직업의 진화가 일어날 뿐”이라며 기술 발전에 따른 역할 변화를 긍정적으로 평가했습니다.
+Inception은 Mercury Voice가 GPT-6 Luna, Gemma 4 31B, Claude Haiku 4.5보다 2배 이상 낮은 지연시간을 기록하면서 τ³-bench에서도 더 높은 성능을 냈다고 밝혔습니다.
 
-오히려 AI 도입과 데이터센터 확장이 새로운 수요를 창출하고 경제적 번영을 이끌 것이라는 분석입니다.</description><pubDate>Wed, 30 Sep 2026 14:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6jcRHisTE</guid></item><item><title>OpenClaw이 기업에서 AI 에이전트를 직접 운영할 수 있는 OpenClaw Enterprise를 오픈소스로 공개했습니다.
+텍스트 생성에서 시작된 확산 모델 경쟁이 이제 실시간 음성 에이전트까지 들어오고 있습니다.</description><pubDate>Wed, 30 Sep 2026 19:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7CWXUDxPA</guid></item><item><title>내용 :
+https://www.inceptionlabs.ai/blog/introducing-mercury-voice</title><link>https://www.threads.net/@choi.openai/post/Dd7CXoaj0xJ</link><description>내용 :
+https://www.inceptionlabs.ai/blog/introducing-mercury-voice</description><pubDate>Wed, 30 Sep 2026 19:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7CXoaj0xJ</guid></item><item><title>빌 게이츠가 "AI는 핵무기를 아무것도 아닌 것처럼 보이게 만든다"고 말했습니다.
 
-오픈AI에서 시...</title><link>https://www.threads.net/@choi.openai/post/Dd6ZH9ijWx1</link><description>OpenClaw이 기업에서 AI 에이전트를 직접 운영할 수 있는 OpenClaw Enterprise를 오픈소스로 공개했습니다.
+올해 초 사이버와 생물학 위험의 문턱을 넘었는데 업계 밖에서...</title><link>https://www.threads.net/@choi.openai/post/Dd63-bwmkZ7</link><description>빌 게이츠가 "AI는 핵무기를 아무것도 아닌 것처럼 보이게 만든다"고 말했습니다.
 
-오픈AI에서 시작된 프로젝트를 OpenClaw Foundation에 기부했으며, 현재 레드햇·엔비디아와 함께 개발하고 있습니다.
+올해 초 사이버와 생물학 위험의 문턱을 넘었는데 업계 밖에서는 완전한 침묵만 돌아왔다는 겁니다.
 
-기업 자체 서버에서 여러 에이전트를 운영하면서 사용자별 권한, 샌드박스, 감사 기록 등을 관리할 수 있고 모델이나 에이전트 실행 환경도 교체할 수 있습니다.
+AI가 일을 끝내면 그 돈은 사람의 급여 대신 토큰 비용으로 나간다는 그의 경고를 정리했습니다. 🧵</description><pubDate>Wed, 30 Sep 2026 17:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd63-bwmkZ7</guid></item><item><title>1/ 빌 게이츠가 뉴욕타임스 팟캐스트 '에즈라 클라인 쇼' 에 출연해 약 74분 동안 AI의 위험을 이야기했고, 같은 날 세상이 이 기술의 위험...</title><link>https://www.threads.net/@choi.openai/post/Dd63-5rmkm6</link><description>1/ 빌 게이츠가 뉴욕타임스 팟캐스트 '에즈라 클라인 쇼' 에 출연해 약 74분 동안 AI의 위험을 이야기했고, 같은 날 세상이 이 기술의 위험과 인류가 내려야 할 선택에 깨어 있지 않다며, AI는 기회와 평등을 넓히는 역사상 가장 큰 도구가 될 수도 있고 전례 없는 피해의 원인이 될 수도 있다고 적었습니다.
 
-현재 오픈AI와 레드햇이 내부에서 시험 운영 중이며, 기업은 무료로 직접 호스팅할 수 있습니다.</description><pubDate>Wed, 30 Sep 2026 13:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6ZH9ijWx1</guid></item><item><title>블로그 :
-https://openclaw.ai/blog/openclaw-enterprise</title><link>https://www.threads.net/@choi.openai/post/Dd6ZJdjDa4x</link><description>블로그 :
-https://openclaw.ai/blog/openclaw-enterprise</description><pubDate>Wed, 30 Sep 2026 13:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6ZJdjDa4x</guid></item><item><title>v0에서 ChatGPT Plus·Pro 계정을 연결해 구독에 포함된 토큰으로 서비스를 만들 수 있게 됐습니다.
+진행자 클라인은 게이츠가 8월 26일 발표한 에세이를 두고, 다가올 일이 얼마나 나쁠 수 있는지 알리는 데 평판을 걸었다며 이전 글과 크게 달라졌다고 소개했습니다.
 
-지금은 오픈AI를 떠났지만, 당...</title><link>https://www.threads.net/@choi.openai/post/Dd6OzSLEiIj</link><description>v0에서 ChatGPT Plus·Pro 계정을 연결해 구독에 포함된 토큰으로 서비스를 만들 수 있게 됐습니다.
+2023년 7월 게이츠노트의 제목이 "AI의 위험은 실제지만 관리할 수 있다"였던 만큼, 이번 대화는 3년 사이 그 판단이 왜 바뀌었는지를 본인에게 직접 묻는 자리가 됐습니다.</description><pubDate>Wed, 30 Sep 2026 17:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd63-5rmkm6</guid></item><item><title>2/ 게이츠가 AI의 힘을 체감한 계기는 자신이 가장 잘 아는 분야에서 나왔습니다.
 
-지금은 오픈AI를 떠났지만, 당시 CPO였던 케빈 웨일은 2025년 “Sign in with OpenAI”를 언급하며 오픈AI 계정을 다른 앱과 서비스로 확장하는 방향을 이야기한 적이 있습니다.
+GPT-4 공개 6개월 전 샘 올트먼과 그렉 브록먼, 일리...</title><link>https://www.threads.net/@choi.openai/post/Dd6zvv4DBpi</link><description>2/ 게이츠가 AI의 힘을 체감한 계기는 자신이 가장 잘 아는 분야에서 나왔습니다.
 
-이번 v0 사례를 보면 그 방향이 조금씩 현실화되는 것 같습니다.
+GPT-4 공개 6개월 전 샘 올트먼과 그렉 브록먼, 일리야 수츠케버가 그의 집을 찾아와 AP 생물 시험에서 만점인 5점을 받는 모델을 보여줬는데요.
 
-결국, 지능을 제공할 테니, 그 위에서 가치를 만드는 가치에 집중을 하라는 의미로도 보입니다.
+게이츠가 직접 만든, 모델이 본 적 없는 문제까지 거의 완벽하게 풀었고 그는 이를 첫 번째 충격이라고 불렀습니다.
 
-과거부터 여러 서비스와의 통합 가능성을 준비해왔던 만큼, 못해서 안 하는 게 아니라 생태계가 확장될 때를 기다리고 있는 오픈AI입니다.</description><pubDate>Wed, 30 Sep 2026 11:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6OzSLEiIj</guid></item><item><title>정말 모든 게 Jev가 되고 있습니다.
+두 번째는 작년 말 앤트로픽의 Claude 코딩 모델이 자신만큼 코드를 잘 쓰게 된 순간입니다.
 
-Jev 등장 이후 오픈AI가 GPT-6 Luna 기반 Decisions API를 공개한 데 이어, 리퀴...</title><link>https://www.threads.net/@choi.openai/post/Dd6EemdgK7S</link><description>정말 모든 게 Jev가 되고 있습니다.
+13살부터 24살까지 누구보다 코드를 잘 쓰는 데 몰두했던 그는 이제 AI가 코드 작성과 결함 찾기에서 초인적이라고 말합니다.
 
-Jev 등장 이후 오픈AI가 GPT-6 Luna 기반 Decisions API를 공개한 데 이어, 리퀴드 AI도 첫 의사결정 모델 d1을 공개했습니다.
+게이츠재단은 10월 2027년 예산 100억 달러를 정하는 전략 회의에 ChatGPT와 Claude, Copilot을 참여시킬 계획입니다.
 
-d1은 문장을 길게 생성하지 않고 정해진 선택지를 분류·선택·점수화하며 출력 토큰은 0입니다.
-리퀴드 AI는 Hugging Face Decision Index에서 Jev를 처음으로 넘어섰고, 다국어 평가와 프롬프트 인젝션 대응, 긴 입력 처리에서도 강점을 보인다고 밝혔습니다.
+1년 전 농담이던 일이 올해는 최종 결정권 없는 동료가 된 셈입니다.</description><pubDate>Wed, 30 Sep 2026 17:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6zvv4DBpi</guid></item><item><title>3/ 게이츠는 AI가 올해 초 사이버와 생물학 두 영역에서 위험의 문턱을 넘었다고 단언했습니다.
 
-2주 전까지만 해도 Jev라는 새로운 모델이 신기했는데, 이제는 오픈AI부터 Ollama, 리퀴드 AI까지 같은 방식으로 움직이고 있습니다.</description><pubDate>Wed, 30 Sep 2026 10:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6EemdgK7S</guid></item><item><title>내용 :
-https://docs.liquid.ai/lfm/models/decision-models</title><link>https://www.threads.net/@choi.openai/post/Dd6Ef5MgEVK</link><description>내용 :
-https://docs.liquid.ai/lfm/models/decision-models</description><pubDate>Wed, 30 Sep 2026 10:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6Ef5MgEVK</guid></item></channel></rss>
+은행 계좌를 뒤섞고 전력망을 멈추는 사이버 공...</title><link>https://www.threads.net/@choi.openai/post/Dd6zwTYD_E-</link><description>3/ 게이츠는 AI가 올해 초 사이버와 생물학 두 영역에서 위험의 문턱을 넘었다고 단언했습니다.
+
+은행 계좌를 뒤섞고 전력망을 멈추는 사이버 공격, 수억 명을 죽일 수 있는 생물테러를 도울 능력이 이미 존재한다는 겁니다.
+
+그는 Mythos로 이어진 모델들이 사람이 20년 넘게 검토하고도 문제없다고 본 코드에서 몇 분 만에 공격 경로를 찾아낸 사례를 들었습니다.
+
+앤트로픽이 Project Glasswing으로 일부 기관에 먼저 모델을 주고 취약점을 고치게 했지만 고쳐야 할 코드의 양을 따라잡을 수 없어 지금은 사이버 공격에 극도로 취약한 시기라고 봤습니다.
+
+생물학도 구조가 같습니다. 신약 분자를 설계하는 능력은 병원체 설계에도 쓰일 수 있어서, 과거 국가만 갖던 역량이 최신 AI를 쓰는 소규모 집단에게 넘어갔다는 설명입니다.</description><pubDate>Wed, 30 Sep 2026 17:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6zwTYD_E-</guid></item><item><title>와우.. 이건 미쳤다..
+@openaidevs</title><link>https://www.threads.net/@choi.openai/post/Dd61UflmhN2</link><description>와우.. 이건 미쳤다..
+@openaidevs</description><pubDate>Wed, 30 Sep 2026 17:07:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd61UflmhN2</guid></item><item><title>앤트로픽이 누구나 내려받을 수 있는 중국 오픈웨이트 모델 GLM-5.3의 사이버 공격 능력이 Claude Mythos Preview에 근접했다고...</title><link>https://www.threads.net/@choi.openai/post/Dd6wC_qGiVg</link><description>앤트로픽이 누구나 내려받을 수 있는 중국 오픈웨이트 모델 GLM-5.3의 사이버 공격 능력이 Claude Mythos Preview에 근접했다고 발표했습니다.
+
+반년 전 앤트로픽이 위험하다며 일반 공개를 미뤘던 수준의 능력이 이제 무료 모델로 넘어왔다는 주장입니다. 🧵</description><pubDate>Wed, 30 Sep 2026 16:20:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6wC_qGiVg</guid></item><item><title>1/ 앤트로픽 프런티어 레드팀이 중국 Z.ai의 GLM-5.3을 분석한 보고서를 공개했습니다.
+
+Z.ai는 옛 Zhipu AI로, 8월 14일 ...</title><link>https://www.threads.net/@choi.openai/post/Dd6wDqMmgWl</link><description>1/ 앤트로픽 프런티어 레드팀이 중국 Z.ai의 GLM-5.3을 분석한 보고서를 공개했습니다.
+
+Z.ai는 옛 Zhipu AI로, 8월 14일 GLM-5.3을 내놓은 뒤 8월 말 가중치까지 공개했습니다.
+
+누구나 내려받아 자기 서버에서 돌릴 수 있는 모델입니다.
+
+앤트로픽의 결론은 두 가지입니다. 이 모델이 Claude Mythos Preview에 가까운 수준으로 소프트웨어 취약점을 공격 코드로 만들어내고, 이를 막는 안전장치는 쉽게 우회되거나 제거된다는 것입니다.
+
+5개월 전 앤트로픽이 위험하다며 제한된 방어자 그룹에만 풀었던 능력이, 이제 무료 모델로 넘어왔다는 주장입니다.</description><pubDate>Wed, 30 Sep 2026 16:21:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6wDqMmgWl</guid></item><item><title>2/ 능력 비교부터 살펴보면, ExploitBench는 크롬의 자바스크립트 엔진 V8에 있는 알려진 취약점 41개를 주고, 모델이 작동하는 공격...</title><link>https://www.threads.net/@choi.openai/post/Dd6wEz4Go8T</link><description>2/ 능력 비교부터 살펴보면, ExploitBench는 크롬의 자바스크립트 엔진 V8에 있는 알려진 취약점 41개를 주고, 모델이 작동하는 공격 코드를 스스로 완성하는지 보는 공개 벤치마크입니다.
+
+410번 시도에서 GLM-5.3은 50번, Mythos Preview는 56번 성공했습니다.
+오픈소스 프로젝트를 대상으로 한 앤트로픽 내부 평가에서도 GLM-5.3은 4%, Mythos Preview는 6%를 기록했고, 직전 세대인 GLM-5.2와 Claude Opus 4.6은 한 번도 성공하지 못했습니다.
+
+미국 NIST 산하 CAISI도 9월 17일 GLM-5.3을 지금까지 나온 오픈웨이트 모델 중 사이버 능력이 가장 높다고 평가했고, 미국 최전선과의 격차를 약 4개월로 봤습니다.
+
+앤트로픽은 이 비교에 쓰인 미국 모델이 안전장치를 끈 버전이거나 검증된 사용자에게만 풀린 모델이라, 공격자가 실제로 손에 넣기 어려운 버전이라는 점을 강조합니다.</description><pubDate>Wed, 30 Sep 2026 16:21:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6wEz4Go8T</guid></item><item><title>3/ 논쟁의 중심은 안전장치입니다.
+GLM-5.3도 명백히 해로운 요청은 대체로 거절하도록 학습돼 있습니다.
+
+하지만 가중치가 공개된 모델은 누...</title><link>https://www.threads.net/@choi.openai/post/Dd6wFtvmqHm</link><description>3/ 논쟁의 중심은 안전장치입니다.
+GLM-5.3도 명백히 해로운 요청은 대체로 거절하도록 학습돼 있습니다.
+
+하지만 가중치가 공개된 모델은 누구나 내려받아 수정할 수 있고, 거절 반응을 지워낸 변형판이 출시 며칠 만에 공개 저장소에 올라왔습니다.
+
+앤트로픽이 해로운 요청 벤치마크로 확인해 보니 거절률은 95% 수준에서 평균 6%로 떨어졌고, 과학 문제 풀이와 사이버 과제 성능은 거의 그대로 남았습니다
+
+9월 초에는 GLM-5.3의 거절을 걷어낸 모델을 아예 서비스로 내놓은 곳도 나왔습니다.
+가중치가 공개되는 순간 안전장치는 개발사가 관리하는 기능에서 사용자가 고르는 옵션으로 바뀝니다.</description><pubDate>Wed, 30 Sep 2026 16:21:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6wFtvmqHm</guid></item></channel></rss>
