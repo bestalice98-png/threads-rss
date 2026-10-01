@@ -1,91 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 01 Oct 2026 15:07:35 +0000</lastBuildDate><item><title>앤트로픽이 지금 있는 로봇이 미국의 직업별 업무를 얼마나 해낼 수 있는지 계산한 보고서를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 01 Oct 2026 19:57:45 +0000</lastBuildDate><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 AI 정렬(Alignment) 문제에 대해 “단순한 엔지니어링 문제로만 접근하는 것은 명백히 ...</title><link>https://www.threads.net/@choi.openai/post/Dd9nFUrj_2F</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 AI 정렬(Alignment) 문제에 대해 “단순한 엔지니어링 문제로만 접근하는 것은 명백히 잘못되었다”고 지적했습니다.
 
-로봇은 이미 미국 육체 업무의 74%를...</title><link>https://www.threads.net/@choi.openai/post/Dd9LtfmD-cI</link><description>앤트로픽이 지금 있는 로봇이 미국의 직업별 업무를 얼마나 해낼 수 있는지 계산한 보고서를 공개했습니다.
+그는 “AI 정렬 과학을 이미 해결했다고 말하는 사람이 있다면, 매우 위험한 방식으로 틀린 것”이라며 정렬 분야에 훨씬 더 많은 연구적 진전이 필요하다고 강조했습니다.
 
-로봇은 이미 미국 육체 업무의 74%를 할 수 있지만, 사람보다 싸게 해낼 수 있는 업무는 전체의 0.3%에 그쳤습니다. 🧵</description><pubDate>Thu, 01 Oct 2026 15:01:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9LtfmD-cI</guid></item><item><title>1/ 앤트로픽 경제 연구팀이 '로봇은 어떤 일을 할 수 있나'라는 보고서를 공개했습니다. 
+물론 안전한 샌드박스와 모니터링 도구 개발 등 엔지니어링 측면의 작업도 필수적이지만, 이것만으로는 근본적 해결이 불가능하다는 분석입니다.
 
-러셀 레거트양과 맥심 마센코프가 쓴 이 보고서는 앞...</title><link>https://www.threads.net/@choi.openai/post/Dd9LuBND1Bf</link><description>1/ 앤트로픽 경제 연구팀이 '로봇은 어떤 일을 할 수 있나'라는 보고서를 공개했습니다. 
+알트만은 “궁극적으로 우리 모두보다 훨씬 더 똑똑한 모델을 만들게 된다면, 우리는 반드시 정렬 과학을 풀어내야만 한다”고 밝혔습니다.
 
-러셀 레거트양과 맥심 마센코프가 쓴 이 보고서는 앞으로 로봇이 무엇을 하게 될지 예측하는 대신, 지금 판매되거나 시연된 로봇이 미국의 직업별 업무를 얼마나 해낼 수 있는지를 정리했는데요.
+초지능과 AGI 시대로 향하는 성능 레이스 속에서, 시스템 통제력과 안전성 연구가 담보되지 않는다면 지속 가능한 기술 진보도 위태로워질 수 있음을 경고한 것입니다.</description><pubDate>Thu, 01 Oct 2026 19:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9nFUrj_2F</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 메타와의 AI 하드웨어 경쟁에 대해 “전혀 위협을 느끼지 않는다”고 잘라 말했습니다.
 
-결과는 두 숫자로 요약됩니다. 로봇은 미국 육체 업무의 약 4분의 3, 전체 근무시간으로는 34%를 어떤 환경에서든 수행할 수 있습니다.
+그는 ...</title><link>https://www.threads.net/@choi.openai/post/Dd9gMQqEXpb</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 메타와의 AI 하드웨어 경쟁에 대해 “전혀 위협을 느끼지 않는다”고 잘라 말했습니다.
 
-그런데 사람보다 싸게 해낼 수 있는 업무는 0.3%뿐입니다. 할 수 있는 일과 실제로 맡길 만한 일 사이의 간격이 이번 보고서의 포인트입니다.</description><pubDate>Thu, 01 Oct 2026 15:01:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9LuBND1Bf</guid></item><item><title>2/ 측정 방식부터 보겠습니다.
+그는 새로운 폼팩터의 컴퓨팅 기기가 등장하는 것은 역사적으로 매우 드문 일이며, “새 하드웨어를 만드는 일은 대단히 어렵다”고 설명했습니다.
+시장에 가장 먼저 출시하는 '최초' 타이틀을 거머쥐는 것보다 더 중요한 것은 하드웨어의 완성도와 성능이라는 지적입니다.
 
-연구팀은 미국 직업 데이터베이스 O*NET의 약 1만 9천 개 업무 중 로봇 없이는 자동화할 수 없는 육체 업...</title><link>https://www.threads.net/@choi.openai/post/Dd9LvRdj1IV</link><description>2/ 측정 방식부터 보겠습니다.
+알트만은 사용자가 진정으로 사랑하고 AI와 상호작용하는 핵심 축이 되려면 극도로 높은 수준의 “품질 기준”을 넘어서야 한다고 강조했습니다.
+조니 아이브와의 협업 프로젝트에 대해서도 구체적인 언급은 아끼면서도 “기다릴 가치가 있는 제품이 나올 것”이라며 자신감을 내비쳤습니다.
 
-연구팀은 미국 직업 데이터베이스 O*NET의 약 1만 9천 개 업무 중 로봇 없이는 자동화할 수 없는 육체 업무 7,594개를 골라, Claude가 실제 로봇 사례를 웹에서 찾아 출처와 함께 평가하게 했습니다.
+결국 차세대 AI 디바이스 생태계의 패권은 단순한 선점이 아닌, 완성도 높은 하드웨어 성능과 지능형 인터페이스의 결합에 달려 있다는 분석입니다.</description><pubDate>Thu, 01 Oct 2026 18:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9gMQqEXpb</guid></item><item><title>네.. 방금. 한국으로 돌아왔습니다.
 
-기준은 로봇이 일할 수 있는 환경입니다.
-로봇이 전혀 못 하면 E0, 공장 조립 라인처럼 로봇에 맞춰 지은 곳에서만 되면 E1, 물류 창고나 병원처럼 사람이 일하는 정돈된 시설에서 되면 E2, 도로나 가정처럼 통제되지 않는 곳에서도 되면 E3입니다.
+2박 4일이라는 짧은 일정이었지만, 작년에 이어 올해도 DevDay의 뜨거운 에너지와 멋진 발표들에서 정...</title><link>https://www.threads.net/@choi.openai/post/Dd9dxIgD1-F</link><description>네.. 방금. 한국으로 돌아왔습니다.
 
-도랑 파기의 경우 빈 땅에 곧게 파는 일은 자율 굴착기가 해내지만, 묻힌 배관 주변을 손으로 조심스럽게 파는 일은 못 해서 전체로는 E0으로 분류됐습니다.</description><pubDate>Thu, 01 Oct 2026 15:01:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9LvRdj1IV</guid></item><item><title>3/ 결과를 환경별로 나누면 숫자의 의미가 달라집니다.
+2박 4일이라는 짧은 일정이었지만, 작년에 이어 올해도 DevDay의 뜨거운 에너지와 멋진 발표들에서 정말 큰 힘을 얻고 돌아왔습니다.
 
-미국 전체 업무 가운데 인지·대인 업무가 54%, 육체 업무가 46%입니다.
-육체 업무...</title><link>https://www.threads.net/@choi.openai/post/Dd9LwnUDzlm</link><description>3/ 결과를 환경별로 나누면 숫자의 의미가 달라집니다.
+특히 작년보다 훨씬 쾌적하고 매끄러워진 운영을 보며, 다시 한번 “역시 DevDay다”라는 생각이 들었습니다.
 
-미국 전체 업무 가운데 인지·대인 업무가 54%, 육체 업무가 46%입니다.
-육체 업무 안에서 로봇이 못 하는 일은 4분의 1 정도이고, 절반은 로봇 전용 환경에서만 가능하며, 22%는 창고나 병원 같은 시설에서 가능합니다.
+이번에 이슈된 데모 실패는 사실 작년에 정말 큰 문제였던 와이파이가 이번에는 데모 실패로까지 이어지지 않았나 싶습니다.
 
-도로처럼 통제되지 않는 환경에서도 해내는 일은 2%에 불과했고, 대부분 자율주행차와 자율 트랙터가 하는 운전입니다.
+애초에 데브데이 장소가 외진 바닷가 항만에 2500명 트래픽이 몰리는 장소라 정말 힘들겁니다.
+(사실 와이파이 이슈로 보지는 않습니다. Dots랑 모델 자체가 오래 생각하는 과정이었다고 봅니다. 이런게 실시간 데모 맛이긴 하죠.)
 
-로봇이 일을 할 줄은 알아도 대부분은 작업장을 로봇에 맞게 다시 지어야 한다는 뜻입니다.
+이번 DevDay에서는 약 4만 7천 명과 라이브 채팅으로 현장을 실시간으로 함께했고, 29만 5천 명의 한국 분들께 DevDay의 분위기와 주요 소식을 빠르게 전달할 수 있어 너무 즐거운 시간이었습니다.</description><pubDate>Thu, 01 Oct 2026 17:38:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9dxIgD1-F</guid></item><item><title>정말 인생의 터닝포인트를 만들어 보고 싶다면 오픈AI DEVDAY 한 번쯤 참석해보시기를 권합니다.
 
-노출이 곧바로 자동화로 이어지지 않는 첫 번째 이유가 여기에 있습니다.</description><pubDate>Thu, 01 Oct 2026 15:01:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9LwnUDzlm</guid></item><item><title>오픈AI가 이제 AI로 다음 AI가 돌아갈 칩까지 설계합니다.
-오픈AI가 시놉시스와 손잡고 칩 설계 도구를 직접 다루는 모델 GPT-Synops...</title><link>https://www.threads.net/@choi.openai/post/Dd9E0SDj9VV</link><description>오픈AI가 이제 AI로 다음 AI가 돌아갈 칩까지 설계합니다.
-오픈AI가 시놉시스와 손잡고 칩 설계 도구를 직접 다루는 모델 GPT-Synopsys를 개발합니다.
-AI가 직접 설계안을 만들고 EDA 도구로 검증과 수정을 반복하는 방식인데요.
-AI가 칩 설계를 바꾸는 사례와 이번 계약의 의미를 정리했습니다🧵</description><pubDate>Thu, 01 Oct 2026 14:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9E0SDj9VV</guid></item><item><title>1/ 오픈AI와 시놉시스가 칩 설계 전용 모델 GPT-Synopsys를 함께 개발한다고 발표했습니다.
+정말 개발자를 위한 개발자들이 있는 현장의...</title><link>https://www.threads.net/@choi.openai/post/Dd9dxg_D0pX</link><description>정말 인생의 터닝포인트를 만들어 보고 싶다면 오픈AI DEVDAY 한 번쯤 참석해보시기를 권합니다.
 
-시놉시스는 반도체 회로를 설계하고 검증하...</title><link>https://www.threads.net/@choi.openai/post/Dd9DvkdgHss</link><description>1/ 오픈AI와 시놉시스가 칩 설계 전용 모델 GPT-Synopsys를 함께 개발한다고 발표했습니다.
+정말 개발자를 위한 개발자들이 있는 현장의 열기는 그 무엇과도 바꿀 수 없는 경험이자 시장의 원동력입니다.
 
-시놉시스는 반도체 회로를 설계하고 검증하는 소프트웨어, 즉 EDA를 만드는 대표 기업입니다.
+화면과 온라인에서 보이지 않는 이 에너지는 AI시대 가장 큰 자산이 될겁니다..
 
-두 회사는 여러 해에 걸친 계약을 맺었고, 오픈AI는 모델 개발을 위해 시놉시스의 EDA 도구 사용권을 받습니다.
+새로운 기술이 만들어갈 미래를 한국 커뮤니티와 함께 나눌 수 있었다는 점에서 저에게도 정말 뜻깊은 경험이었습니다.
 
-완성된 모델은 오픈AI 인프라에서 돌아가고, 연산과 모델, 도구 라이선스를 묶은 서비스로 두 회사가 함께 판매해 수익을 나눕니다.
+이제 Codex Ambassador로서 DevDay에서 얻은 에너지와 인사이트, 그리고 앞으로의 가능성을 한국 커뮤니티에 더 널리 전달하고 확산할 수 있도록 노력하겠습니다.
 
-주요 반도체 고객사와의 초기 기술 협업도 이미 시작했다고 밝혔습니다.</description><pubDate>Thu, 01 Oct 2026 14:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9DvkdgHss</guid></item><item><title>2/ 지금도 범용 AI 모델을 EDA 도구에 연결해 설계 작업을 돌리는 에이전트는 있습니다.
+빠른 시일내에 이 에너지를 같이 나눌 수 있는 기회가 있으면 좋겠습니다. 🫡</description><pubDate>Thu, 01 Oct 2026 17:38:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9dxg_D0pX</guid></item><item><title>드디어 보스턴 다이나믹스가 Atlas의 새로운 ‘손’을 제대로 공개했습니다.
 
-이번 발표가 노리는 건 모델 자체를 도구 사용의 ...</title><link>https://www.threads.net/@choi.openai/post/Dd9E2KQD4Dv</link><description>2/ 지금도 범용 AI 모델을 EDA 도구에 연결해 설계 작업을 돌리는 에이전트는 있습니다.
+새로운 손은 4개의 손가락과 13개의 자유도를 갖췄으며, 정교한 ...</title><link>https://www.threads.net/@choi.openai/post/Dd9ZUczAgYz</link><description>드디어 보스턴 다이나믹스가 Atlas의 새로운 ‘손’을 제대로 공개했습니다.
 
-이번 발표가 노리는 건 모델 자체를 도구 사용의 전문가로 만드는 일입니다.
-숙련 엔지니어처럼 도구를 실행하고, 결과 보고서를 해석하고, 설계를 고쳐 다시 돌리는 반복을 모델에 학습시킵니다.
+새로운 손은 4개의 손가락과 13개의 자유도를 갖췄으며, 정교한 실제 작업을 위해 처음부터 새롭게 설계됐습니다.
+직접 구동 방식을 적용해 시뮬레이션에서 학습한 동작을 실제 로봇으로 옮기는 강화학습에도 초점을 맞췄습니다.
 
-엔지니어는 전력·성능·면적(PPA) 최적화나 신호가 제시간에 도착하는지 따지는 타이밍 검증 같은 목표를 맡기고, 에이전트가 도구를 돌려 검증된 결과를 가져오면 엔지니어가 검토합니다.
-
-사람이 몇 가지 설계안만 시험하던 과정을 훨씬 많은 대안으로 넓히겠다는 것이 두 회사의 설명입니다.</description><pubDate>Thu, 01 Oct 2026 14:01:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9E2KQD4Dv</guid></item><item><title>3/ 시놉시스 도구가 빠질 수 없는 이유는 검증에 있습니다.
-
-칩은 제조에 들어간 뒤에는 고치기 어려워서, 사신 가지 시놉시스 CEO는 모델이 ...</title><link>https://www.threads.net/@choi.openai/post/Dd9DxEejfkN</link><description>3/ 시놉시스 도구가 빠질 수 없는 이유는 검증에 있습니다.
-
-칩은 제조에 들어간 뒤에는 고치기 어려워서, 사신 가지 시놉시스 CEO는 모델이 만든 결과도 전통적인 계산 방식의 시놉시스 도구로 다시 검사한다고 로이터에 말했습니다.
-
-물리 법칙을 확인하려면 이런 안전장치가 꼭 필요하다는 설명입니다. 돈의 흐름도 이 구조에 맞춰 짜였습니다.
-
-오픈AI는 도구 사용법을 배우는 대가로 학습 구독료를 내고, 고객이 제품을 쓰면 모델이 칩 설계를 얼마나 개선했는지에 따라 두 회사가 수익을 나눕니다.
-
-가지는 투자자의 날 행사에서 오픈AI가 사후 학습에 수억 달러를 써야 하고, 시놉시스의 지식재산이 기본 모델로 흘러가지 않는 것이 계약의 전제라고 밝혔습니다.</description><pubDate>Thu, 01 Oct 2026 14:01:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9DxEejfkN</guid></item><item><title>와.. 이건 정말 좋은 업데이트인데요.
-
-ChatGPT Sites에서 이제 MCP 서버와 Plugin Extensions까지 직접 호스팅할 수 ...</title><link>https://www.threads.net/@choi.openai/post/Dd892yuCp72</link><description>와.. 이건 정말 좋은 업데이트인데요.
-
-ChatGPT Sites에서 이제 MCP 서버와 Plugin Extensions까지 직접 호스팅할 수 있습니다.
-
-예를 들어 “ChatGPT에서 쓸 할 일 목록을 만들어줘”라고 요청하면 MCP 서버와 확장 기능을 만들고, Sites에 배포한 뒤 Plugin으로 변환해 설치까지 진행할 수 있습니다. 만들어진 Plugin은 웹·모바일·데스크톱에서 사용할 수 있습니다.
-
-직접 서버를 구축하고 운영해야 했던 부담까지 ChatGPT가 가져가는 겁니다.
-
-ChatGPT가 완성된 하나의 서비스가 아니라, 필요한 기능을 직접 만들어 붙이는 개인용 소프트웨어 플랫폼으로 바뀌고 있습니다.</description><pubDate>Thu, 01 Oct 2026 13:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd892yuCp72</guid></item><item><title>중국이 엔비디아 GPU를 따라잡는 것만큼 중요한 싸움이 시작됐습니다.
-CUDA를 대체하는 겁니다.
-
-Bloomberg에 따르면 DeepSeek가...</title><link>https://www.threads.net/@choi.openai/post/Dd83CgPCoA3</link><description>중국이 엔비디아 GPU를 따라잡는 것만큼 중요한 싸움이 시작됐습니다.
-CUDA를 대체하는 겁니다.
-
-Bloomberg에 따르면 DeepSeek가 화웨이와 함께 개발한 AI 칩 프로그래밍 도구를 오픈소스로 공개했습니다.
-화웨이 Ascend 가속기에서 사용할 수 있으며 TileLang을 통해 AI 모델에 필요한 연산 코드를 더 쉽게 작성할 수 있습니다.
-
-엔비디아의 강점은 GPU뿐 아니라 개발자들이 CUDA 생태계에 묶여 있다는 점인데요.
-
-중국이 자체 AI 칩을 만드는 것을 넘어, 개발자들이 엔비디아 없이 AI를 개발할 수 있는 소프트웨어 생태계까지 만들기 시작했습니다.</description><pubDate>Thu, 01 Oct 2026 12:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd83CgPCoA3</guid></item><item><title>기사 :
-https://www.bloomberg.com/news/articles/2026-09-30/deepseek-unveils-huawei-...</title><link>https://www.threads.net/@choi.openai/post/Dd83FIXCnyc</link><description>기사 :
-https://www.bloomberg.com/news/articles/2026-09-30/deepseek-unveils-huawei-ai-chip-tools-that-may-replace-nvidia-s</description><pubDate>Thu, 01 Oct 2026 12:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd83FIXCnyc</guid></item></channel></rss>
+그동안 Atlas의 걷고 뛰는 움직임이 주목받았다면, 이제는 물건을 잡고 도구를 다루는 손까지 본격적으로 발전시키고 있습니다.</description><pubDate>Thu, 01 Oct 2026 17:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9ZUczAgYz</guid></item></channel></rss>
