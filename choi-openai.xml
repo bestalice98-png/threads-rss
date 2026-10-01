@@ -1,78 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 30 Sep 2026 19:43:02 +0000</lastBuildDate><item><title>Inception이 음성 AI 에이전트용 확산 언어 모델 Mercury Voice를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 01 Oct 2026 04:24:42 +0000</lastBuildDate><item><title>🚨 AI 잘한다는 분들 실력 검증 한 번 해보세요.
 
-음성 대화는 사람이 답변을 기다린다고 느끼지...</title><link>https://www.threads.net/@choi.openai/post/Dd7CWXUDxPA</link><description>Inception이 음성 AI 에이전트용 확산 언어 모델 Mercury Voice를 공개했습니다.
+카카오임팩트의 AI_TOP_100, 이번 대회는 방식 자체가 바뀌었습니다.
 
-음성 대화는 사람이 답변을 기다린다고 느끼지 않으려면 약 500ms 안에 반응해야 하는데요.
+정답이 정해진...</title><link>https://www.threads.net/@choi.openai/post/Dd7W3U-jVsl</link><description>🚨 AI 잘한다는 분들 실력 검증 한 번 해보세요.
 
-Inception은 Mercury Voice가 GPT-6 Luna, Gemma 4 31B, Claude Haiku 4.5보다 2배 이상 낮은 지연시간을 기록하면서 τ³-bench에서도 더 높은 성능을 냈다고 밝혔습니다.
+카카오임팩트의 AI_TOP_100, 이번 대회는 방식 자체가 바뀌었습니다.
 
-텍스트 생성에서 시작된 확산 모델 경쟁이 이제 실시간 음성 에이전트까지 들어오고 있습니다.</description><pubDate>Wed, 30 Sep 2026 19:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7CWXUDxPA</guid></item><item><title>내용 :
-https://www.inceptionlabs.ai/blog/introducing-mercury-voice</title><link>https://www.threads.net/@choi.openai/post/Dd7CXoaj0xJ</link><description>내용 :
-https://www.inceptionlabs.ai/blog/introducing-mercury-voice</description><pubDate>Wed, 30 Sep 2026 19:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7CXoaj0xJ</guid></item><item><title>빌 게이츠가 "AI는 핵무기를 아무것도 아닌 것처럼 보이게 만든다"고 말했습니다.
+정답이 정해진 문제를 푸는 게 아니라, 참가자가 직접 AI 에이전트를 설계·구축해서 겨루는 방식으로 진행됩니다.
 
-올해 초 사이버와 생물학 위험의 문턱을 넘었는데 업계 밖에서...</title><link>https://www.threads.net/@choi.openai/post/Dd63-bwmkZ7</link><description>빌 게이츠가 "AI는 핵무기를 아무것도 아닌 것처럼 보이게 만든다"고 말했습니다.
+저도 작년 대회에 직접 참가했는데, 카카오 팀이 준비를 정말 잘했다고 느꼈습니다.
 
-올해 초 사이버와 생물학 위험의 문턱을 넘었는데 업계 밖에서는 완전한 침묵만 돌아왔다는 겁니다.
+여러 AI 에이전트를 엮어 워크플로우를 직접 설계·구축해보고 문제를 정의·검증까지 해본 분이라면, 이번 대회에서 실력을 제대로 발휘해 볼 수 있을 것 같습니다.
 
-AI가 일을 끝내면 그 돈은 사람의 급여 대신 토큰 비용으로 나간다는 그의 경고를 정리했습니다. 🧵</description><pubDate>Wed, 30 Sep 2026 17:30:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd63-bwmkZ7</guid></item><item><title>1/ 빌 게이츠가 뉴욕타임스 팟캐스트 '에즈라 클라인 쇼' 에 출연해 약 74분 동안 AI의 위험을 이야기했고, 같은 날 세상이 이 기술의 위험...</title><link>https://www.threads.net/@choi.openai/post/Dd63-5rmkm6</link><description>1/ 빌 게이츠가 뉴욕타임스 팟캐스트 '에즈라 클라인 쇼' 에 출연해 약 74분 동안 AI의 위험을 이야기했고, 같은 날 세상이 이 기술의 위험과 인류가 내려야 할 선택에 깨어 있지 않다며, AI는 기회와 평등을 넓히는 역사상 가장 큰 도구가 될 수도 있고 전례 없는 피해의 원인이 될 수도 있다고 적었습니다.
+만 14세 이상이라면 누구나 참가 가능하고, 예선만 통과해도 본선에서 사용할 AI 도구 지원금 50만원이 제공됩니다. 총 상금 규모는 1억 2천 500만원이라고 하니 한 번쯤 도전해볼 만합니다.
 
-진행자 클라인은 게이츠가 8월 26일 발표한 에세이를 두고, 다가올 일이 얼마나 나쁠 수 있는지 알리는 데 평판을 걸었다며 이전 글과 크게 달라졌다고 소개했습니다.
+예선 모집은 선착순 5,000명. 10월 1일 오전 10시에 접수가 시작됩니다.
 
-2023년 7월 게이츠노트의 제목이 "AI의 위험은 실제지만 관리할 수 있다"였던 만큼, 이번 대화는 3년 사이 그 판단이 왜 바뀌었는지를 본인에게 직접 묻는 자리가 됐습니다.</description><pubDate>Wed, 30 Sep 2026 17:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd63-5rmkm6</guid></item><item><title>2/ 게이츠가 AI의 힘을 체감한 계기는 자신이 가장 잘 아는 분야에서 나왔습니다.
+일정과 신청 링크는 댓글에 남깁니다. 👇</description><pubDate>Wed, 30 Sep 2026 22:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7W3U-jVsl</guid></item><item><title>작년엔 전 국민 대상 신청자가 약 3,000명 몰려 신청 하루 만에 마감, 올 상반기 고등학생·대학생 대상 CAMPUS 대회에도 3,000명이 ...</title><link>https://www.threads.net/@choi.openai/post/Dd7W5BIDeKB</link><description>작년엔 전 국민 대상 신청자가 약 3,000명 몰려 신청 하루 만에 마감, 올 상반기 고등학생·대학생 대상 CAMPUS 대회에도 3,000명이 신청했습니다.
 
-GPT-4 공개 6개월 전 샘 올트먼과 그렉 브록먼, 일리...</title><link>https://www.threads.net/@choi.openai/post/Dd6zvv4DBpi</link><description>2/ 게이츠가 AI의 힘을 체감한 계기는 자신이 가장 잘 아는 분야에서 나왔습니다.
+📌 대회 일정
+- 참가 신청: 2026년 10월 1일 오전 10시~10월 21일
+선착순 모집으로 조기 마감될 수 있습니다.
 
-GPT-4 공개 6개월 전 샘 올트먼과 그렉 브록먼, 일리야 수츠케버가 그의 집을 찾아와 AP 생물 시험에서 만점인 5점을 받는 모델을 보여줬는데요.
+- 온라인 예선: 10/31(토)
+- 오프라인 본선: 11/21(토), 카카오 AI 캠퍼스
 
-게이츠가 직접 만든, 모델이 본 적 없는 문제까지 거의 완벽하게 풀었고 그는 이를 첫 번째 충격이라고 불렀습니다.
+📌 참가 신청 링크
+https://bit.ly/4rvIIw7</description><pubDate>Wed, 30 Sep 2026 22:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7W5BIDeKB</guid></item><item><title>로봇이 이제 사람 한 명의 ‘직업’을 통째로 자동화하기 시작했습니다.
 
-두 번째는 작년 말 앤트로픽의 Claude 코딩 모델이 자신만큼 코드를 잘 쓰게 된 순간입니다.
+다이나 로보틱스가 Dyna-2.1과 새로운 반휴머노이드 로봇 Taku를 ...</title><link>https://www.threads.net/@choi.openai/post/Dd8AGUHk6f9</link><description>로봇이 이제 사람 한 명의 ‘직업’을 통째로 자동화하기 시작했습니다.
 
-13살부터 24살까지 누구보다 코드를 잘 쓰는 데 몰두했던 그는 이제 AI가 코드 작성과 결함 찾기에서 초인적이라고 말합니다.
+다이나 로보틱스가 Dyna-2.1과 새로운 반휴머노이드 로봇 Taku를 공개했습니다.
+공개된 영상에서는 세탁실에서 약 1시간 동안 이어지는 작업을 처음부터 끝까지 자율적으로 수행합니다.
 
-게이츠재단은 10월 2027년 예산 100억 달러를 정하는 전략 회의에 ChatGPT와 Claude, Copilot을 참여시킬 계획입니다.
+각 동작의 성공률이 99%여도 작업이 길어지면 전체 성공률은 크게 떨어지는데, Dyna-2.1은 상황에 따라 작업 순서를 바꾸며 긴 업무를 이어가는 데 초점을 맞췄습니다.
 
-1년 전 농담이던 일이 올해는 최종 결정권 없는 동료가 된 셈입니다.</description><pubDate>Wed, 30 Sep 2026 17:30:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6zvv4DBpi</guid></item><item><title>3/ 게이츠는 AI가 올해 초 사이버와 생물학 두 영역에서 위험의 문턱을 넘었다고 단언했습니다.
+다이나 로보틱스는 이제 로봇의 ‘동작’이 아니라 사람 한 명이 맡던 ‘업무 전체’를 판매하겠다는 방향입니다.</description><pubDate>Thu, 01 Oct 2026 04:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd8AGUHk6f9</guid></item><item><title>이제 배달기사보다 드론이 먼저 도착하는 시대가 시작됩니다.
 
-은행 계좌를 뒤섞고 전력망을 멈추는 사이버 공...</title><link>https://www.threads.net/@choi.openai/post/Dd6zwTYD_E-</link><description>3/ 게이츠는 AI가 올해 초 사이버와 생물학 두 영역에서 위험의 문턱을 넘었다고 단언했습니다.
+도어대시가 드론 배달 서비스 DoorDash Air를 공개했습니다.
+13년간 쌓은 ...</title><link>https://www.threads.net/@choi.openai/post/Dd75NmvCO-6</link><description>이제 배달기사보다 드론이 먼저 도착하는 시대가 시작됩니다.
 
-은행 계좌를 뒤섞고 전력망을 멈추는 사이버 공격, 수억 명을 죽일 수 있는 생물테러를 도울 능력이 이미 존재한다는 겁니다.
+도어대시가 드론 배달 서비스 DoorDash Air를 공개했습니다.
+13년간 쌓은 주문 데이터를 바탕으로 음식의 무게와 이동거리를 고려해 처음부터 배달용으로 설계했다고 합니다.
 
-그는 Mythos로 이어진 모델들이 사람이 20년 넘게 검토하고도 문제없다고 본 코드에서 몇 분 만에 공격 경로를 찾아낸 사례를 들었습니다.
+초기 테스트에서는 평균 비행 배달 시간이 약 5분 이내였으며 Chipotle과 Popeyes가 첫 파트너로 참여합니다.
 
-앤트로픽이 Project Glasswing으로 일부 기관에 먼저 모델을 주고 취약점을 고치게 했지만 고쳐야 할 코드의 양을 따라잡을 수 없어 지금은 사이버 공격에 극도로 취약한 시기라고 봤습니다.
+첫 서비스는 북부 캘리포니아에서 시작됩니다.
 
-생물학도 구조가 같습니다. 신약 분자를 설계하는 능력은 병원체 설계에도 쓰일 수 있어서, 과거 국가만 갖던 역량이 최신 AI를 쓰는 소규모 집단에게 넘어갔다는 설명입니다.</description><pubDate>Wed, 30 Sep 2026 17:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6zwTYD_E-</guid></item><item><title>와우.. 이건 미쳤다..
-@openaidevs</title><link>https://www.threads.net/@choi.openai/post/Dd61UflmhN2</link><description>와우.. 이건 미쳤다..
-@openaidevs</description><pubDate>Wed, 30 Sep 2026 17:07:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd61UflmhN2</guid></item><item><title>앤트로픽이 누구나 내려받을 수 있는 중국 오픈웨이트 모델 GLM-5.3의 사이버 공격 능력이 Claude Mythos Preview에 근접했다고...</title><link>https://www.threads.net/@choi.openai/post/Dd6wC_qGiVg</link><description>앤트로픽이 누구나 내려받을 수 있는 중국 오픈웨이트 모델 GLM-5.3의 사이버 공격 능력이 Claude Mythos Preview에 근접했다고 발표했습니다.
+지상에서 자율주행 배달을 실험해온 도어대시가 이제 하늘까지 배달망을 넓히고 있습니다.</description><pubDate>Thu, 01 Oct 2026 03:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd75NmvCO-6</guid></item><item><title>Cloudflare가 AI 에이전트를 위한 새로운 CLI인 `cf`를 공개했습니다.
 
-반년 전 앤트로픽이 위험하다며 일반 공개를 미뤘던 수준의 능력이 이제 무료 모델로 넘어왔다는 주장입니다. 🧵</description><pubDate>Wed, 30 Sep 2026 16:20:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6wC_qGiVg</guid></item><item><title>1/ 앤트로픽 프런티어 레드팀이 중국 Z.ai의 GLM-5.3을 분석한 보고서를 공개했습니다.
+`cf`는 Cloudflare API 전반을 터미널에서 다...</title><link>https://www.threads.net/@choi.openai/post/Dd7yWKlAhYE</link><description>Cloudflare가 AI 에이전트를 위한 새로운 CLI인 `cf`를 공개했습니다.
 
-Z.ai는 옛 Zhipu AI로, 8월 14일 ...</title><link>https://www.threads.net/@choi.openai/post/Dd6wDqMmgWl</link><description>1/ 앤트로픽 프런티어 레드팀이 중국 Z.ai의 GLM-5.3을 분석한 보고서를 공개했습니다.
+`cf`는 Cloudflare API 전반을 터미널에서 다룰 수 있도록 만든 도구인데요.
+도메인 구매부터 각종 Cloudflare 서비스 관리까지 명령어로 처리할 수 있습니다.
 
-Z.ai는 옛 Zhipu AI로, 8월 14일 GLM-5.3을 내놓은 뒤 8월 말 가중치까지 공개했습니다.
+특히 정확한 명령어를 몰라도 자연어로 “내 큐에 막혀 있는 메시지를 확인해줘”처럼 검색하면 관련 명령어를 찾아줍니다.
 
-누구나 내려받아 자기 서버에서 돌릴 수 있는 모델입니다.
-
-앤트로픽의 결론은 두 가지입니다. 이 모델이 Claude Mythos Preview에 가까운 수준으로 소프트웨어 취약점을 공격 코드로 만들어내고, 이를 막는 안전장치는 쉽게 우회되거나 제거된다는 것입니다.
-
-5개월 전 앤트로픽이 위험하다며 제한된 방어자 그룹에만 풀었던 능력이, 이제 무료 모델로 넘어왔다는 주장입니다.</description><pubDate>Wed, 30 Sep 2026 16:21:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6wDqMmgWl</guid></item><item><title>2/ 능력 비교부터 살펴보면, ExploitBench는 크롬의 자바스크립트 엔진 V8에 있는 알려진 취약점 41개를 주고, 모델이 작동하는 공격...</title><link>https://www.threads.net/@choi.openai/post/Dd6wEz4Go8T</link><description>2/ 능력 비교부터 살펴보면, ExploitBench는 크롬의 자바스크립트 엔진 V8에 있는 알려진 취약점 41개를 주고, 모델이 작동하는 공격 코드를 스스로 완성하는지 보는 공개 벤치마크입니다.
-
-410번 시도에서 GLM-5.3은 50번, Mythos Preview는 56번 성공했습니다.
-오픈소스 프로젝트를 대상으로 한 앤트로픽 내부 평가에서도 GLM-5.3은 4%, Mythos Preview는 6%를 기록했고, 직전 세대인 GLM-5.2와 Claude Opus 4.6은 한 번도 성공하지 못했습니다.
-
-미국 NIST 산하 CAISI도 9월 17일 GLM-5.3을 지금까지 나온 오픈웨이트 모델 중 사이버 능력이 가장 높다고 평가했고, 미국 최전선과의 격차를 약 4개월로 봤습니다.
-
-앤트로픽은 이 비교에 쓰인 미국 모델이 안전장치를 끈 버전이거나 검증된 사용자에게만 풀린 모델이라, 공격자가 실제로 손에 넣기 어려운 버전이라는 점을 강조합니다.</description><pubDate>Wed, 30 Sep 2026 16:21:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6wEz4Go8T</guid></item><item><title>3/ 논쟁의 중심은 안전장치입니다.
-GLM-5.3도 명백히 해로운 요청은 대체로 거절하도록 학습돼 있습니다.
-
-하지만 가중치가 공개된 모델은 누...</title><link>https://www.threads.net/@choi.openai/post/Dd6wFtvmqHm</link><description>3/ 논쟁의 중심은 안전장치입니다.
-GLM-5.3도 명백히 해로운 요청은 대체로 거절하도록 학습돼 있습니다.
-
-하지만 가중치가 공개된 모델은 누구나 내려받아 수정할 수 있고, 거절 반응을 지워낸 변형판이 출시 며칠 만에 공개 저장소에 올라왔습니다.
-
-앤트로픽이 해로운 요청 벤치마크로 확인해 보니 거절률은 95% 수준에서 평균 6%로 떨어졌고, 과학 문제 풀이와 사이버 과제 성능은 거의 그대로 남았습니다
-
-9월 초에는 GLM-5.3의 거절을 걷어낸 모델을 아예 서비스로 내놓은 곳도 나왔습니다.
-가중치가 공개되는 순간 안전장치는 개발사가 관리하는 기능에서 사용자가 고르는 옵션으로 바뀝니다.</description><pubDate>Wed, 30 Sep 2026 16:21:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd6wFtvmqHm</guid></item></channel></rss>
+Cloudflare는 전체 API를 지원하는 MCP도 제공하고 있어, AI 에이전트가 웹 대시보드를 직접 돌아다니지 않고 Cloudflare를 관리할 수 있는 선택지가 늘어났습니다.</description><pubDate>Thu, 01 Oct 2026 02:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7yWKlAhYE</guid></item><item><title>블로그 :
+https://blog.cloudflare.com/cloudflare-cf-cli-launch/</title><link>https://www.threads.net/@choi.openai/post/Dd7yYgsgqrX</link><description>블로그 :
+https://blog.cloudflare.com/cloudflare-cf-cli-launch/</description><pubDate>Thu, 01 Oct 2026 02:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7yYgsgqrX</guid></item></channel></rss>
