@@ -1,62 +1,91 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 01 Oct 2026 04:24:42 +0000</lastBuildDate><item><title>🚨 AI 잘한다는 분들 실력 검증 한 번 해보세요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 01 Oct 2026 15:07:35 +0000</lastBuildDate><item><title>앤트로픽이 지금 있는 로봇이 미국의 직업별 업무를 얼마나 해낼 수 있는지 계산한 보고서를 공개했습니다.
 
-카카오임팩트의 AI_TOP_100, 이번 대회는 방식 자체가 바뀌었습니다.
+로봇은 이미 미국 육체 업무의 74%를...</title><link>https://www.threads.net/@choi.openai/post/Dd9LtfmD-cI</link><description>앤트로픽이 지금 있는 로봇이 미국의 직업별 업무를 얼마나 해낼 수 있는지 계산한 보고서를 공개했습니다.
 
-정답이 정해진...</title><link>https://www.threads.net/@choi.openai/post/Dd7W3U-jVsl</link><description>🚨 AI 잘한다는 분들 실력 검증 한 번 해보세요.
+로봇은 이미 미국 육체 업무의 74%를 할 수 있지만, 사람보다 싸게 해낼 수 있는 업무는 전체의 0.3%에 그쳤습니다. 🧵</description><pubDate>Thu, 01 Oct 2026 15:01:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9LtfmD-cI</guid></item><item><title>1/ 앤트로픽 경제 연구팀이 '로봇은 어떤 일을 할 수 있나'라는 보고서를 공개했습니다. 
 
-카카오임팩트의 AI_TOP_100, 이번 대회는 방식 자체가 바뀌었습니다.
+러셀 레거트양과 맥심 마센코프가 쓴 이 보고서는 앞...</title><link>https://www.threads.net/@choi.openai/post/Dd9LuBND1Bf</link><description>1/ 앤트로픽 경제 연구팀이 '로봇은 어떤 일을 할 수 있나'라는 보고서를 공개했습니다. 
 
-정답이 정해진 문제를 푸는 게 아니라, 참가자가 직접 AI 에이전트를 설계·구축해서 겨루는 방식으로 진행됩니다.
+러셀 레거트양과 맥심 마센코프가 쓴 이 보고서는 앞으로 로봇이 무엇을 하게 될지 예측하는 대신, 지금 판매되거나 시연된 로봇이 미국의 직업별 업무를 얼마나 해낼 수 있는지를 정리했는데요.
 
-저도 작년 대회에 직접 참가했는데, 카카오 팀이 준비를 정말 잘했다고 느꼈습니다.
+결과는 두 숫자로 요약됩니다. 로봇은 미국 육체 업무의 약 4분의 3, 전체 근무시간으로는 34%를 어떤 환경에서든 수행할 수 있습니다.
 
-여러 AI 에이전트를 엮어 워크플로우를 직접 설계·구축해보고 문제를 정의·검증까지 해본 분이라면, 이번 대회에서 실력을 제대로 발휘해 볼 수 있을 것 같습니다.
+그런데 사람보다 싸게 해낼 수 있는 업무는 0.3%뿐입니다. 할 수 있는 일과 실제로 맡길 만한 일 사이의 간격이 이번 보고서의 포인트입니다.</description><pubDate>Thu, 01 Oct 2026 15:01:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9LuBND1Bf</guid></item><item><title>2/ 측정 방식부터 보겠습니다.
 
-만 14세 이상이라면 누구나 참가 가능하고, 예선만 통과해도 본선에서 사용할 AI 도구 지원금 50만원이 제공됩니다. 총 상금 규모는 1억 2천 500만원이라고 하니 한 번쯤 도전해볼 만합니다.
+연구팀은 미국 직업 데이터베이스 O*NET의 약 1만 9천 개 업무 중 로봇 없이는 자동화할 수 없는 육체 업...</title><link>https://www.threads.net/@choi.openai/post/Dd9LvRdj1IV</link><description>2/ 측정 방식부터 보겠습니다.
 
-예선 모집은 선착순 5,000명. 10월 1일 오전 10시에 접수가 시작됩니다.
+연구팀은 미국 직업 데이터베이스 O*NET의 약 1만 9천 개 업무 중 로봇 없이는 자동화할 수 없는 육체 업무 7,594개를 골라, Claude가 실제 로봇 사례를 웹에서 찾아 출처와 함께 평가하게 했습니다.
 
-일정과 신청 링크는 댓글에 남깁니다. 👇</description><pubDate>Wed, 30 Sep 2026 22:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7W3U-jVsl</guid></item><item><title>작년엔 전 국민 대상 신청자가 약 3,000명 몰려 신청 하루 만에 마감, 올 상반기 고등학생·대학생 대상 CAMPUS 대회에도 3,000명이 ...</title><link>https://www.threads.net/@choi.openai/post/Dd7W5BIDeKB</link><description>작년엔 전 국민 대상 신청자가 약 3,000명 몰려 신청 하루 만에 마감, 올 상반기 고등학생·대학생 대상 CAMPUS 대회에도 3,000명이 신청했습니다.
+기준은 로봇이 일할 수 있는 환경입니다.
+로봇이 전혀 못 하면 E0, 공장 조립 라인처럼 로봇에 맞춰 지은 곳에서만 되면 E1, 물류 창고나 병원처럼 사람이 일하는 정돈된 시설에서 되면 E2, 도로나 가정처럼 통제되지 않는 곳에서도 되면 E3입니다.
 
-📌 대회 일정
-- 참가 신청: 2026년 10월 1일 오전 10시~10월 21일
-선착순 모집으로 조기 마감될 수 있습니다.
+도랑 파기의 경우 빈 땅에 곧게 파는 일은 자율 굴착기가 해내지만, 묻힌 배관 주변을 손으로 조심스럽게 파는 일은 못 해서 전체로는 E0으로 분류됐습니다.</description><pubDate>Thu, 01 Oct 2026 15:01:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9LvRdj1IV</guid></item><item><title>3/ 결과를 환경별로 나누면 숫자의 의미가 달라집니다.
 
-- 온라인 예선: 10/31(토)
-- 오프라인 본선: 11/21(토), 카카오 AI 캠퍼스
+미국 전체 업무 가운데 인지·대인 업무가 54%, 육체 업무가 46%입니다.
+육체 업무...</title><link>https://www.threads.net/@choi.openai/post/Dd9LwnUDzlm</link><description>3/ 결과를 환경별로 나누면 숫자의 의미가 달라집니다.
 
-📌 참가 신청 링크
-https://bit.ly/4rvIIw7</description><pubDate>Wed, 30 Sep 2026 22:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7W5BIDeKB</guid></item><item><title>로봇이 이제 사람 한 명의 ‘직업’을 통째로 자동화하기 시작했습니다.
+미국 전체 업무 가운데 인지·대인 업무가 54%, 육체 업무가 46%입니다.
+육체 업무 안에서 로봇이 못 하는 일은 4분의 1 정도이고, 절반은 로봇 전용 환경에서만 가능하며, 22%는 창고나 병원 같은 시설에서 가능합니다.
 
-다이나 로보틱스가 Dyna-2.1과 새로운 반휴머노이드 로봇 Taku를 ...</title><link>https://www.threads.net/@choi.openai/post/Dd8AGUHk6f9</link><description>로봇이 이제 사람 한 명의 ‘직업’을 통째로 자동화하기 시작했습니다.
+도로처럼 통제되지 않는 환경에서도 해내는 일은 2%에 불과했고, 대부분 자율주행차와 자율 트랙터가 하는 운전입니다.
 
-다이나 로보틱스가 Dyna-2.1과 새로운 반휴머노이드 로봇 Taku를 공개했습니다.
-공개된 영상에서는 세탁실에서 약 1시간 동안 이어지는 작업을 처음부터 끝까지 자율적으로 수행합니다.
+로봇이 일을 할 줄은 알아도 대부분은 작업장을 로봇에 맞게 다시 지어야 한다는 뜻입니다.
 
-각 동작의 성공률이 99%여도 작업이 길어지면 전체 성공률은 크게 떨어지는데, Dyna-2.1은 상황에 따라 작업 순서를 바꾸며 긴 업무를 이어가는 데 초점을 맞췄습니다.
+노출이 곧바로 자동화로 이어지지 않는 첫 번째 이유가 여기에 있습니다.</description><pubDate>Thu, 01 Oct 2026 15:01:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9LwnUDzlm</guid></item><item><title>오픈AI가 이제 AI로 다음 AI가 돌아갈 칩까지 설계합니다.
+오픈AI가 시놉시스와 손잡고 칩 설계 도구를 직접 다루는 모델 GPT-Synops...</title><link>https://www.threads.net/@choi.openai/post/Dd9E0SDj9VV</link><description>오픈AI가 이제 AI로 다음 AI가 돌아갈 칩까지 설계합니다.
+오픈AI가 시놉시스와 손잡고 칩 설계 도구를 직접 다루는 모델 GPT-Synopsys를 개발합니다.
+AI가 직접 설계안을 만들고 EDA 도구로 검증과 수정을 반복하는 방식인데요.
+AI가 칩 설계를 바꾸는 사례와 이번 계약의 의미를 정리했습니다🧵</description><pubDate>Thu, 01 Oct 2026 14:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9E0SDj9VV</guid></item><item><title>1/ 오픈AI와 시놉시스가 칩 설계 전용 모델 GPT-Synopsys를 함께 개발한다고 발표했습니다.
 
-다이나 로보틱스는 이제 로봇의 ‘동작’이 아니라 사람 한 명이 맡던 ‘업무 전체’를 판매하겠다는 방향입니다.</description><pubDate>Thu, 01 Oct 2026 04:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd8AGUHk6f9</guid></item><item><title>이제 배달기사보다 드론이 먼저 도착하는 시대가 시작됩니다.
+시놉시스는 반도체 회로를 설계하고 검증하...</title><link>https://www.threads.net/@choi.openai/post/Dd9DvkdgHss</link><description>1/ 오픈AI와 시놉시스가 칩 설계 전용 모델 GPT-Synopsys를 함께 개발한다고 발표했습니다.
 
-도어대시가 드론 배달 서비스 DoorDash Air를 공개했습니다.
-13년간 쌓은 ...</title><link>https://www.threads.net/@choi.openai/post/Dd75NmvCO-6</link><description>이제 배달기사보다 드론이 먼저 도착하는 시대가 시작됩니다.
+시놉시스는 반도체 회로를 설계하고 검증하는 소프트웨어, 즉 EDA를 만드는 대표 기업입니다.
 
-도어대시가 드론 배달 서비스 DoorDash Air를 공개했습니다.
-13년간 쌓은 주문 데이터를 바탕으로 음식의 무게와 이동거리를 고려해 처음부터 배달용으로 설계했다고 합니다.
+두 회사는 여러 해에 걸친 계약을 맺었고, 오픈AI는 모델 개발을 위해 시놉시스의 EDA 도구 사용권을 받습니다.
 
-초기 테스트에서는 평균 비행 배달 시간이 약 5분 이내였으며 Chipotle과 Popeyes가 첫 파트너로 참여합니다.
+완성된 모델은 오픈AI 인프라에서 돌아가고, 연산과 모델, 도구 라이선스를 묶은 서비스로 두 회사가 함께 판매해 수익을 나눕니다.
 
-첫 서비스는 북부 캘리포니아에서 시작됩니다.
+주요 반도체 고객사와의 초기 기술 협업도 이미 시작했다고 밝혔습니다.</description><pubDate>Thu, 01 Oct 2026 14:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9DvkdgHss</guid></item><item><title>2/ 지금도 범용 AI 모델을 EDA 도구에 연결해 설계 작업을 돌리는 에이전트는 있습니다.
 
-지상에서 자율주행 배달을 실험해온 도어대시가 이제 하늘까지 배달망을 넓히고 있습니다.</description><pubDate>Thu, 01 Oct 2026 03:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd75NmvCO-6</guid></item><item><title>Cloudflare가 AI 에이전트를 위한 새로운 CLI인 `cf`를 공개했습니다.
+이번 발표가 노리는 건 모델 자체를 도구 사용의 ...</title><link>https://www.threads.net/@choi.openai/post/Dd9E2KQD4Dv</link><description>2/ 지금도 범용 AI 모델을 EDA 도구에 연결해 설계 작업을 돌리는 에이전트는 있습니다.
 
-`cf`는 Cloudflare API 전반을 터미널에서 다...</title><link>https://www.threads.net/@choi.openai/post/Dd7yWKlAhYE</link><description>Cloudflare가 AI 에이전트를 위한 새로운 CLI인 `cf`를 공개했습니다.
+이번 발표가 노리는 건 모델 자체를 도구 사용의 전문가로 만드는 일입니다.
+숙련 엔지니어처럼 도구를 실행하고, 결과 보고서를 해석하고, 설계를 고쳐 다시 돌리는 반복을 모델에 학습시킵니다.
 
-`cf`는 Cloudflare API 전반을 터미널에서 다룰 수 있도록 만든 도구인데요.
-도메인 구매부터 각종 Cloudflare 서비스 관리까지 명령어로 처리할 수 있습니다.
+엔지니어는 전력·성능·면적(PPA) 최적화나 신호가 제시간에 도착하는지 따지는 타이밍 검증 같은 목표를 맡기고, 에이전트가 도구를 돌려 검증된 결과를 가져오면 엔지니어가 검토합니다.
 
-특히 정확한 명령어를 몰라도 자연어로 “내 큐에 막혀 있는 메시지를 확인해줘”처럼 검색하면 관련 명령어를 찾아줍니다.
+사람이 몇 가지 설계안만 시험하던 과정을 훨씬 많은 대안으로 넓히겠다는 것이 두 회사의 설명입니다.</description><pubDate>Thu, 01 Oct 2026 14:01:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9E2KQD4Dv</guid></item><item><title>3/ 시놉시스 도구가 빠질 수 없는 이유는 검증에 있습니다.
 
-Cloudflare는 전체 API를 지원하는 MCP도 제공하고 있어, AI 에이전트가 웹 대시보드를 직접 돌아다니지 않고 Cloudflare를 관리할 수 있는 선택지가 늘어났습니다.</description><pubDate>Thu, 01 Oct 2026 02:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7yWKlAhYE</guid></item><item><title>블로그 :
-https://blog.cloudflare.com/cloudflare-cf-cli-launch/</title><link>https://www.threads.net/@choi.openai/post/Dd7yYgsgqrX</link><description>블로그 :
-https://blog.cloudflare.com/cloudflare-cf-cli-launch/</description><pubDate>Thu, 01 Oct 2026 02:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd7yYgsgqrX</guid></item></channel></rss>
+칩은 제조에 들어간 뒤에는 고치기 어려워서, 사신 가지 시놉시스 CEO는 모델이 ...</title><link>https://www.threads.net/@choi.openai/post/Dd9DxEejfkN</link><description>3/ 시놉시스 도구가 빠질 수 없는 이유는 검증에 있습니다.
+
+칩은 제조에 들어간 뒤에는 고치기 어려워서, 사신 가지 시놉시스 CEO는 모델이 만든 결과도 전통적인 계산 방식의 시놉시스 도구로 다시 검사한다고 로이터에 말했습니다.
+
+물리 법칙을 확인하려면 이런 안전장치가 꼭 필요하다는 설명입니다. 돈의 흐름도 이 구조에 맞춰 짜였습니다.
+
+오픈AI는 도구 사용법을 배우는 대가로 학습 구독료를 내고, 고객이 제품을 쓰면 모델이 칩 설계를 얼마나 개선했는지에 따라 두 회사가 수익을 나눕니다.
+
+가지는 투자자의 날 행사에서 오픈AI가 사후 학습에 수억 달러를 써야 하고, 시놉시스의 지식재산이 기본 모델로 흘러가지 않는 것이 계약의 전제라고 밝혔습니다.</description><pubDate>Thu, 01 Oct 2026 14:01:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9DxEejfkN</guid></item><item><title>와.. 이건 정말 좋은 업데이트인데요.
+
+ChatGPT Sites에서 이제 MCP 서버와 Plugin Extensions까지 직접 호스팅할 수 ...</title><link>https://www.threads.net/@choi.openai/post/Dd892yuCp72</link><description>와.. 이건 정말 좋은 업데이트인데요.
+
+ChatGPT Sites에서 이제 MCP 서버와 Plugin Extensions까지 직접 호스팅할 수 있습니다.
+
+예를 들어 “ChatGPT에서 쓸 할 일 목록을 만들어줘”라고 요청하면 MCP 서버와 확장 기능을 만들고, Sites에 배포한 뒤 Plugin으로 변환해 설치까지 진행할 수 있습니다. 만들어진 Plugin은 웹·모바일·데스크톱에서 사용할 수 있습니다.
+
+직접 서버를 구축하고 운영해야 했던 부담까지 ChatGPT가 가져가는 겁니다.
+
+ChatGPT가 완성된 하나의 서비스가 아니라, 필요한 기능을 직접 만들어 붙이는 개인용 소프트웨어 플랫폼으로 바뀌고 있습니다.</description><pubDate>Thu, 01 Oct 2026 13:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd892yuCp72</guid></item><item><title>중국이 엔비디아 GPU를 따라잡는 것만큼 중요한 싸움이 시작됐습니다.
+CUDA를 대체하는 겁니다.
+
+Bloomberg에 따르면 DeepSeek가...</title><link>https://www.threads.net/@choi.openai/post/Dd83CgPCoA3</link><description>중국이 엔비디아 GPU를 따라잡는 것만큼 중요한 싸움이 시작됐습니다.
+CUDA를 대체하는 겁니다.
+
+Bloomberg에 따르면 DeepSeek가 화웨이와 함께 개발한 AI 칩 프로그래밍 도구를 오픈소스로 공개했습니다.
+화웨이 Ascend 가속기에서 사용할 수 있으며 TileLang을 통해 AI 모델에 필요한 연산 코드를 더 쉽게 작성할 수 있습니다.
+
+엔비디아의 강점은 GPU뿐 아니라 개발자들이 CUDA 생태계에 묶여 있다는 점인데요.
+
+중국이 자체 AI 칩을 만드는 것을 넘어, 개발자들이 엔비디아 없이 AI를 개발할 수 있는 소프트웨어 생태계까지 만들기 시작했습니다.</description><pubDate>Thu, 01 Oct 2026 12:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd83CgPCoA3</guid></item><item><title>기사 :
+https://www.bloomberg.com/news/articles/2026-09-30/deepseek-unveils-huawei-...</title><link>https://www.threads.net/@choi.openai/post/Dd83FIXCnyc</link><description>기사 :
+https://www.bloomberg.com/news/articles/2026-09-30/deepseek-unveils-huawei-ai-chip-tools-that-may-replace-nvidia-s</description><pubDate>Thu, 01 Oct 2026 12:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd83FIXCnyc</guid></item></channel></rss>
