@@ -1,40 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 02 Oct 2026 04:17:50 +0000</lastBuildDate><item><title>마이크로소프트가 실시간 음성 AI를 위한 모델 3종을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 02 Oct 2026 14:29:06 +0000</lastBuildDate><item><title>결국 AI 에이전트에서 가장 중요한 건 생태계인 것 같습니다.
 
-MAI-Transcribe-2-Streaming은 60개 언어를 실시간으로...</title><link>https://www.threads.net/@choi.openai/post/Dd-k2CxCS2O</link><description>마이크로소프트가 실시간 음성 AI를 위한 모델 3종을 공개했습니다.
+Grok Bot이 이제 Cursor에 코딩을 맡기고, GitHub와 Origin...</title><link>https://www.threads.net/@choi.openai/post/Dd_pi4XChHp</link><description>결국 AI 에이전트에서 가장 중요한 건 생태계인 것 같습니다.
 
-MAI-Transcribe-2-Streaming은 60개 언어를 실시간으로 받아쓰며, 음성을 받은 뒤 약 100ms 만에 첫 텍스트를 생성합니다.
-사람이 말을 끝내기 전부터 AI가 내용을 이해하고 작업을 시작할 수 있습니다.
+Grok Bot이 이제 Cursor에 코딩을 맡기고, GitHub와 Origin 플러그인으로 PR을 관리하며, 완성된 결과를 영상으로 공유할 수 있게 됐습니다.
+xAI 내부 엔지니어들이 사용하는 Bot도 템플릿으로 제공합니다.
 
-MAI-Voice-2.1은 23개 언어를 같은 목소리로 자연스럽게 말할 수 있고, MAI-Voice-2.1-Flash는 45초 분량 음성을 약 150ms의 지연시간으로 생성합니다.
+이 방향은 오픈AI가 오래전부터 준비해왔습니다.
+플러그인에서 시작해 Apps in ChatGPT, Apps SDK를 거쳐 지금은 앱·Skills·플러그인을 묶어 외부 서비스와 연결하는 구조로 확장했습니다.
 
-듣고→판단하고→말하는 전 과정을 빠르게 연결해 실시간 음성 에이전트를 만드는 데 초점을 맞췄습니다.</description><pubDate>Fri, 02 Oct 2026 03:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-k2CxCS2O</guid></item><item><title>발표내용 :
-https://microsoft.ai/news/our-first-streaming-transcription-model/</title><link>https://www.threads.net/@choi.openai/post/Dd-k3KPCSZo</link><description>발표내용 :
-https://microsoft.ai/news/our-first-streaming-transcription-model/</description><pubDate>Fri, 02 Oct 2026 04:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-k3KPCSZo</guid></item><item><title>ComfyUI가 이제 워크플로우 자체를 AI에게 맡길 수 있게 됐습니다.
+결국 모델 성능이 비슷해질수록 승부는 AI가 얼마나 많은 도구와 서비스를 연결해 실제 일을 끝낼 수 있느냐로 옮겨갈 것 같습니다.</description><pubDate>Fri, 02 Oct 2026 14:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd_pi4XChHp</guid></item><item><title>🚨 오픈AI가 안전팀 연구원 3명을 해고했습니다.
 
-Comfy Cloud에 Comfy Agent가 정식 공개됐습니다. 원...</title><link>https://www.threads.net/@choi.openai/post/Dd-eFKOk4OD</link><description>ComfyUI가 이제 워크플로우 자체를 AI에게 맡길 수 있게 됐습니다.
+회사 기밀을 외부 AI 안전 단체와 공유했다는 이유입니다.
 
-Comfy Cloud에 Comfy Agent가 정식 공개됐습니다. 원하는 작업을 말하면 현재 캔버스와 이미지 등 사용자가 보고 있는 자료를 함께 확인하면서 워크플로우를 계획하고, 노드를 구성하고, 문제가 생기면 직접 수정합니다.
+그중 한 명은 오픈AI에 있지만...</title><link>https://www.threads.net/@choi.openai/post/Dd_mRaGj3BT</link><description>🚨 오픈AI가 안전팀 연구원 3명을 해고했습니다.
 
-직접 만든 Skills나 공개된 Skills도 사용할 수 있어 복잡한 노드 연결을 처음부터 배울 필요도 줄어듭니다.
+회사 기밀을 외부 AI 안전 단체와 공유했다는 이유입니다.
 
-현재는 Comfy Cloud에서 이용할 수 있으며, Comfy Desktop에도 몇 주 안에 추가될 예정입니다.</description><pubDate>Fri, 02 Oct 2026 03:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-eFKOk4OD</guid></item><item><title>Comfy Agent :
-https://comfy.org/agent</title><link>https://www.threads.net/@choi.openai/post/Dd-eGcgk1GC</link><description>Comfy Agent :
-https://comfy.org/agent</description><pubDate>Fri, 02 Oct 2026 03:01:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-eGcgk1GC</guid></item><item><title>🚨 속보) 챗GPT 리셋 예정</title><link>https://www.threads.net/@choi.openai/post/Dd-Y4cqjznq</link><description>🚨 속보) 챗GPT 리셋 예정</description><pubDate>Fri, 02 Oct 2026 02:15:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-Y4cqjznq</guid></item><item><title>한국시간으로는 내일 새벽 2시
-티보타임 고려하면 5-6시.</title><link>https://www.threads.net/@choi.openai/post/Dd-ZKPlD6YK</link><description>한국시간으로는 내일 새벽 2시
-티보타임 고려하면 5-6시.</description><pubDate>Fri, 02 Oct 2026 02:17:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-ZKPlD6YK</guid></item><item><title>레전드.. 
+그중 한 명은 오픈AI에 있지만, AI가 모든 인간을 죽일 가능성이 10%가 넘는다고 본다." 이렇게 공개적으로 말해온 연구원도 있습니다.
 
-영상통화로 대화한 사람의 절반이 AI인지 눈치채지 못했습니다.
+불과 9일 전 오픈AI는 외부 평가자에게 학습부터 배포까지 깊은 접근 권한을 주겠다고 발표했었습니다. 🧵</description><pubDate>Fri, 02 Oct 2026 13:31:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd_mRaGj3BT</guid></item><item><title>1/ 월스트리트저널(WSJ)이 오픈AI가 안전팀 연구원 3명을 해고했다고 보도했습니다. 
 
-Tavus가 최초의 Human Interaction Model(H...</title><link>https://www.threads.net/@choi.openai/post/Dd-XMXPAGq5</link><description>레전드.. 
+오픈AI는 내부 조사 결과 이들이 회사 기밀을 제3의...</title><link>https://www.threads.net/@choi.openai/post/Dd_mSKij4OD</link><description>1/ 월스트리트저널(WSJ)이 오픈AI가 안전팀 연구원 3명을 해고했다고 보도했습니다. 
 
-영상통화로 대화한 사람의 절반이 AI인지 눈치채지 못했습니다.
+오픈AI는 내부 조사 결과 이들이 회사 기밀을 제3의 AI 안전 단체와 공유한 것으로 판단했는데요.
 
-Tavus가 최초의 Human Interaction Model(HIM) Griffin을 공개했습니다.
-실제 실시간 대화 테스트에서 48%가 Griffin을 사람이라고 판단했으며, 기존 시스템은 3% 미만이었다고 합니다.
+회사는 성명에서 "이들은 정해진 회사 절차를 벗어나 민감한 정보를 다뤘고, 정책을 위반해 우리 일에 꼭 필요한 신뢰를 깨뜨렸다"고 밝혔습니다.
 
-Griffin은 영상통화 중 상대방을 보고 듣는 동시에 말하고, 표정과 몸짓으로 반응합니다. 상대가 말을 끝낼 때까지 기다리지 않고 웃거나 끼어들며, 카메라에 물건을 보여주면 대화에 바로 반영합니다.
+WSJ는 이후 기사를 업데이트해 재스민 왕(Jasmine Wang), 토멕 코르박(Tomek Korbak), 미키타 발레스니(Mikita Balesni)의 이름을 공개했습니다.
 
-Tavus는 사람으로 오인될 수 있다는 점 때문에 안전 대책이 필요하다며 아직 공개 배포하지 않았습니다.
+어떤 정보를 어느 단체에 넘겼는지는 회사와 언론 모두 밝히지 않았습니다.</description><pubDate>Fri, 02 Oct 2026 13:31:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd_mSKij4OD</guid></item><item><title>2/ 세 사람은 모두 AI가 목표를 숨기고 사람을 속이는 문제를 다뤄온 정렬 연구자입니다.
 
-이제 영상통화 화면 속 상대가 사람인지 AI인지 구분하기 어려운 단계까지 오고 있습니다.</description><pubDate>Fri, 02 Oct 2026 02:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-XMXPAGq5</guid></item></channel></rss>
+코르박은 오픈AI에서 LLM 에이전트의 정렬 이탈을...</title><link>https://www.threads.net/@choi.openai/post/Dd_mTliD0EN</link><description>2/ 세 사람은 모두 AI가 목표를 숨기고 사람을 속이는 문제를 다뤄온 정렬 연구자입니다.
+
+코르박은 오픈AI에서 LLM 에이전트의 정렬 이탈을 감시하는 연구를 맡았고, 그전에는 영국 AI보안연구소(AISI)와 앤트로픽에서 일했습니다.
+
+발레스니는 o1 같은 모델이 감시 장치를 끄고 평가를 속이는 행동을 실험으로 보여준 아폴로리서치의 창립 멤버였고, 2025년 오픈AI로 옮겼습니다.
+
+왕은 정렬팀의 연구 프로그램 매니저로, 영국 AISI에서 AI 통제 연구팀을 이끌었고 2019년 오픈AI의 GPT-2 공개 전략 보고서에도 저자로 참여했습니다.</description><pubDate>Fri, 02 Oct 2026 13:32:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd_mTliD0EN</guid></item><item><title>3/ 세 사람은 같은 논문으로도 묶입니다.
+
+2025년 7월 오픈AI·구글 딥마인드·앤트로픽 등 연구자 40여 명이 AI가 사람의 말로 적는 사...</title><link>https://www.threads.net/@choi.openai/post/Dd_mUp4j4ce</link><description>3/ 세 사람은 같은 논문으로도 묶입니다.
+
+2025년 7월 오픈AI·구글 딥마인드·앤트로픽 등 연구자 40여 명이 AI가 사람의 말로 적는 사고 과정(CoT)을 들여다봐 위험한 의도를 잡아내자고 제안한 논문인데, 코르박과 발레스니가 공동 제1저자였고 왕도 저자로 참여했습니다.
+
+이들은 회사 안에 있으면서도 위험을 공개적으로 말해왔습니다.
+발레스니는 9월 X에 "오픈AI에 있지만 AI가 모든 인간을 죽일 가능성이 10%가 넘는다고 본다"고 썼고, 코르박은 "오픈AI가 하는 일 상당수가 마음에 들지 않지만, 그렇게 말할 수 있게 허용된 점은 기쁘다"고 적었습니다.
+
+오픈AI는 이런 공개 비판을 허용해왔고, 이번 해고 사유도 정보를 다룬 방식에 맞춰져 있습니다.</description><pubDate>Fri, 02 Oct 2026 13:32:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd_mUp4j4ce</guid></item><item><title>로봇이 로봇을 만드는 공장이 현실이 되고 있습니다.
+
+중국 유비테크가 휴머노이드 로봇 생산 공장을 공개했습니다.
+공개된 영상에서는 로봇들이 사람...</title><link>https://www.threads.net/@choi.openai/post/Dd_iuEbAfOC</link><description>로봇이 로봇을 만드는 공장이 현실이 되고 있습니다.
+
+중국 유비테크가 휴머노이드 로봇 생산 공장을 공개했습니다.
+공개된 영상에서는 로봇들이 사람과 함께 자재 운반, 포장, 물류 작업 등을 수행합니다.
+
+유비테크 측 설명에 따르면 공장이 최대 가동될 경우 8~10분마다 로봇 1대를 생산해 월 1,500대 규모까지 생산할 수 있다고 합니다. 다만 이는 실제 생산량이 아니라 최대 생산능력 기준입니다.
+
+휴머노이드가 대량생산 단계로 넘어가면서, 로봇이 공장에서 일하고 그 공장에서 다시 더 많은 로봇을 만드는 구조가 시작되고 있습니다.</description><pubDate>Fri, 02 Oct 2026 13:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd_iuEbAfOC</guid></item><item><title>DeepSeek도 이제 본격적으로 ‘AI 작업 공간’ 경쟁에 뛰어듭니다.
+
+DeepSeek Harness가 macOS와 Windows용 데스크톱...</title><link>https://www.threads.net/@choi.openai/post/Dd_b2QjAgPq</link><description>DeepSeek도 이제 본격적으로 ‘AI 작업 공간’ 경쟁에 뛰어듭니다.
+
+DeepSeek Harness가 macOS와 Windows용 데스크톱 앱으로 출시됐습니다.
+문서·스프레드시트·PDF 분석부터 차트·슬라이드 제작, 코드 수정과 실행까지 하나의 대화에서 처리하고 결과물을 바로 확인할 수 있습니다.
+
+특히 “Everything is a plugin” 구조로, 기능부터 UI까지 플러그인으로 확장할 수 있습니다.
+현재 공식 API 이용자의 약 60%가 서드파티 플러그인을 사용하고 있으며, 앞으로 공식 플러그인 마켓도 만들 예정입니다.</description><pubDate>Fri, 02 Oct 2026 12:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd_b2QjAgPq</guid></item><item><title>주소 :
+https://deepseek.com/en/harness/</title><link>https://www.threads.net/@choi.openai/post/Dd_b4ylgiij</link><description>주소 :
+https://deepseek.com/en/harness/</description><pubDate>Fri, 02 Oct 2026 12:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd_b4ylgiij</guid></item></channel></rss>
