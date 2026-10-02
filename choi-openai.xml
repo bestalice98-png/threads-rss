@@ -1,52 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 01 Oct 2026 19:57:45 +0000</lastBuildDate><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 AI 정렬(Alignment) 문제에 대해 “단순한 엔지니어링 문제로만 접근하는 것은 명백히 ...</title><link>https://www.threads.net/@choi.openai/post/Dd9nFUrj_2F</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 AI 정렬(Alignment) 문제에 대해 “단순한 엔지니어링 문제로만 접근하는 것은 명백히 잘못되었다”고 지적했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 02 Oct 2026 04:17:50 +0000</lastBuildDate><item><title>마이크로소프트가 실시간 음성 AI를 위한 모델 3종을 공개했습니다.
 
-그는 “AI 정렬 과학을 이미 해결했다고 말하는 사람이 있다면, 매우 위험한 방식으로 틀린 것”이라며 정렬 분야에 훨씬 더 많은 연구적 진전이 필요하다고 강조했습니다.
+MAI-Transcribe-2-Streaming은 60개 언어를 실시간으로...</title><link>https://www.threads.net/@choi.openai/post/Dd-k2CxCS2O</link><description>마이크로소프트가 실시간 음성 AI를 위한 모델 3종을 공개했습니다.
 
-물론 안전한 샌드박스와 모니터링 도구 개발 등 엔지니어링 측면의 작업도 필수적이지만, 이것만으로는 근본적 해결이 불가능하다는 분석입니다.
+MAI-Transcribe-2-Streaming은 60개 언어를 실시간으로 받아쓰며, 음성을 받은 뒤 약 100ms 만에 첫 텍스트를 생성합니다.
+사람이 말을 끝내기 전부터 AI가 내용을 이해하고 작업을 시작할 수 있습니다.
 
-알트만은 “궁극적으로 우리 모두보다 훨씬 더 똑똑한 모델을 만들게 된다면, 우리는 반드시 정렬 과학을 풀어내야만 한다”고 밝혔습니다.
+MAI-Voice-2.1은 23개 언어를 같은 목소리로 자연스럽게 말할 수 있고, MAI-Voice-2.1-Flash는 45초 분량 음성을 약 150ms의 지연시간으로 생성합니다.
 
-초지능과 AGI 시대로 향하는 성능 레이스 속에서, 시스템 통제력과 안전성 연구가 담보되지 않는다면 지속 가능한 기술 진보도 위태로워질 수 있음을 경고한 것입니다.</description><pubDate>Thu, 01 Oct 2026 19:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9nFUrj_2F</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 메타와의 AI 하드웨어 경쟁에 대해 “전혀 위협을 느끼지 않는다”고 잘라 말했습니다.
+듣고→판단하고→말하는 전 과정을 빠르게 연결해 실시간 음성 에이전트를 만드는 데 초점을 맞췄습니다.</description><pubDate>Fri, 02 Oct 2026 03:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-k2CxCS2O</guid></item><item><title>발표내용 :
+https://microsoft.ai/news/our-first-streaming-transcription-model/</title><link>https://www.threads.net/@choi.openai/post/Dd-k3KPCSZo</link><description>발표내용 :
+https://microsoft.ai/news/our-first-streaming-transcription-model/</description><pubDate>Fri, 02 Oct 2026 04:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-k3KPCSZo</guid></item><item><title>ComfyUI가 이제 워크플로우 자체를 AI에게 맡길 수 있게 됐습니다.
 
-그는 ...</title><link>https://www.threads.net/@choi.openai/post/Dd9gMQqEXpb</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 메타와의 AI 하드웨어 경쟁에 대해 “전혀 위협을 느끼지 않는다”고 잘라 말했습니다.
+Comfy Cloud에 Comfy Agent가 정식 공개됐습니다. 원...</title><link>https://www.threads.net/@choi.openai/post/Dd-eFKOk4OD</link><description>ComfyUI가 이제 워크플로우 자체를 AI에게 맡길 수 있게 됐습니다.
 
-그는 새로운 폼팩터의 컴퓨팅 기기가 등장하는 것은 역사적으로 매우 드문 일이며, “새 하드웨어를 만드는 일은 대단히 어렵다”고 설명했습니다.
-시장에 가장 먼저 출시하는 '최초' 타이틀을 거머쥐는 것보다 더 중요한 것은 하드웨어의 완성도와 성능이라는 지적입니다.
+Comfy Cloud에 Comfy Agent가 정식 공개됐습니다. 원하는 작업을 말하면 현재 캔버스와 이미지 등 사용자가 보고 있는 자료를 함께 확인하면서 워크플로우를 계획하고, 노드를 구성하고, 문제가 생기면 직접 수정합니다.
 
-알트만은 사용자가 진정으로 사랑하고 AI와 상호작용하는 핵심 축이 되려면 극도로 높은 수준의 “품질 기준”을 넘어서야 한다고 강조했습니다.
-조니 아이브와의 협업 프로젝트에 대해서도 구체적인 언급은 아끼면서도 “기다릴 가치가 있는 제품이 나올 것”이라며 자신감을 내비쳤습니다.
+직접 만든 Skills나 공개된 Skills도 사용할 수 있어 복잡한 노드 연결을 처음부터 배울 필요도 줄어듭니다.
 
-결국 차세대 AI 디바이스 생태계의 패권은 단순한 선점이 아닌, 완성도 높은 하드웨어 성능과 지능형 인터페이스의 결합에 달려 있다는 분석입니다.</description><pubDate>Thu, 01 Oct 2026 18:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9gMQqEXpb</guid></item><item><title>네.. 방금. 한국으로 돌아왔습니다.
+현재는 Comfy Cloud에서 이용할 수 있으며, Comfy Desktop에도 몇 주 안에 추가될 예정입니다.</description><pubDate>Fri, 02 Oct 2026 03:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-eFKOk4OD</guid></item><item><title>Comfy Agent :
+https://comfy.org/agent</title><link>https://www.threads.net/@choi.openai/post/Dd-eGcgk1GC</link><description>Comfy Agent :
+https://comfy.org/agent</description><pubDate>Fri, 02 Oct 2026 03:01:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-eGcgk1GC</guid></item><item><title>🚨 속보) 챗GPT 리셋 예정</title><link>https://www.threads.net/@choi.openai/post/Dd-Y4cqjznq</link><description>🚨 속보) 챗GPT 리셋 예정</description><pubDate>Fri, 02 Oct 2026 02:15:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-Y4cqjznq</guid></item><item><title>한국시간으로는 내일 새벽 2시
+티보타임 고려하면 5-6시.</title><link>https://www.threads.net/@choi.openai/post/Dd-ZKPlD6YK</link><description>한국시간으로는 내일 새벽 2시
+티보타임 고려하면 5-6시.</description><pubDate>Fri, 02 Oct 2026 02:17:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-ZKPlD6YK</guid></item><item><title>레전드.. 
 
-2박 4일이라는 짧은 일정이었지만, 작년에 이어 올해도 DevDay의 뜨거운 에너지와 멋진 발표들에서 정...</title><link>https://www.threads.net/@choi.openai/post/Dd9dxIgD1-F</link><description>네.. 방금. 한국으로 돌아왔습니다.
+영상통화로 대화한 사람의 절반이 AI인지 눈치채지 못했습니다.
 
-2박 4일이라는 짧은 일정이었지만, 작년에 이어 올해도 DevDay의 뜨거운 에너지와 멋진 발표들에서 정말 큰 힘을 얻고 돌아왔습니다.
+Tavus가 최초의 Human Interaction Model(H...</title><link>https://www.threads.net/@choi.openai/post/Dd-XMXPAGq5</link><description>레전드.. 
 
-특히 작년보다 훨씬 쾌적하고 매끄러워진 운영을 보며, 다시 한번 “역시 DevDay다”라는 생각이 들었습니다.
+영상통화로 대화한 사람의 절반이 AI인지 눈치채지 못했습니다.
 
-이번에 이슈된 데모 실패는 사실 작년에 정말 큰 문제였던 와이파이가 이번에는 데모 실패로까지 이어지지 않았나 싶습니다.
+Tavus가 최초의 Human Interaction Model(HIM) Griffin을 공개했습니다.
+실제 실시간 대화 테스트에서 48%가 Griffin을 사람이라고 판단했으며, 기존 시스템은 3% 미만이었다고 합니다.
 
-애초에 데브데이 장소가 외진 바닷가 항만에 2500명 트래픽이 몰리는 장소라 정말 힘들겁니다.
-(사실 와이파이 이슈로 보지는 않습니다. Dots랑 모델 자체가 오래 생각하는 과정이었다고 봅니다. 이런게 실시간 데모 맛이긴 하죠.)
+Griffin은 영상통화 중 상대방을 보고 듣는 동시에 말하고, 표정과 몸짓으로 반응합니다. 상대가 말을 끝낼 때까지 기다리지 않고 웃거나 끼어들며, 카메라에 물건을 보여주면 대화에 바로 반영합니다.
 
-이번 DevDay에서는 약 4만 7천 명과 라이브 채팅으로 현장을 실시간으로 함께했고, 29만 5천 명의 한국 분들께 DevDay의 분위기와 주요 소식을 빠르게 전달할 수 있어 너무 즐거운 시간이었습니다.</description><pubDate>Thu, 01 Oct 2026 17:38:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9dxIgD1-F</guid></item><item><title>정말 인생의 터닝포인트를 만들어 보고 싶다면 오픈AI DEVDAY 한 번쯤 참석해보시기를 권합니다.
+Tavus는 사람으로 오인될 수 있다는 점 때문에 안전 대책이 필요하다며 아직 공개 배포하지 않았습니다.
 
-정말 개발자를 위한 개발자들이 있는 현장의...</title><link>https://www.threads.net/@choi.openai/post/Dd9dxg_D0pX</link><description>정말 인생의 터닝포인트를 만들어 보고 싶다면 오픈AI DEVDAY 한 번쯤 참석해보시기를 권합니다.
-
-정말 개발자를 위한 개발자들이 있는 현장의 열기는 그 무엇과도 바꿀 수 없는 경험이자 시장의 원동력입니다.
-
-화면과 온라인에서 보이지 않는 이 에너지는 AI시대 가장 큰 자산이 될겁니다..
-
-새로운 기술이 만들어갈 미래를 한국 커뮤니티와 함께 나눌 수 있었다는 점에서 저에게도 정말 뜻깊은 경험이었습니다.
-
-이제 Codex Ambassador로서 DevDay에서 얻은 에너지와 인사이트, 그리고 앞으로의 가능성을 한국 커뮤니티에 더 널리 전달하고 확산할 수 있도록 노력하겠습니다.
-
-빠른 시일내에 이 에너지를 같이 나눌 수 있는 기회가 있으면 좋겠습니다. 🫡</description><pubDate>Thu, 01 Oct 2026 17:38:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9dxg_D0pX</guid></item><item><title>드디어 보스턴 다이나믹스가 Atlas의 새로운 ‘손’을 제대로 공개했습니다.
-
-새로운 손은 4개의 손가락과 13개의 자유도를 갖췄으며, 정교한 ...</title><link>https://www.threads.net/@choi.openai/post/Dd9ZUczAgYz</link><description>드디어 보스턴 다이나믹스가 Atlas의 새로운 ‘손’을 제대로 공개했습니다.
-
-새로운 손은 4개의 손가락과 13개의 자유도를 갖췄으며, 정교한 실제 작업을 위해 처음부터 새롭게 설계됐습니다.
-직접 구동 방식을 적용해 시뮬레이션에서 학습한 동작을 실제 로봇으로 옮기는 강화학습에도 초점을 맞췄습니다.
-
-그동안 Atlas의 걷고 뛰는 움직임이 주목받았다면, 이제는 물건을 잡고 도구를 다루는 손까지 본격적으로 발전시키고 있습니다.</description><pubDate>Thu, 01 Oct 2026 17:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd9ZUczAgYz</guid></item></channel></rss>
+이제 영상통화 화면 속 상대가 사람인지 AI인지 구분하기 어려운 단계까지 오고 있습니다.</description><pubDate>Fri, 02 Oct 2026 02:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dd-XMXPAGq5</guid></item></channel></rss>
