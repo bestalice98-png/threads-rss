@@ -1,65 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 04 Oct 2026 04:32:54 +0000</lastBuildDate><item><title>에마드 모스타크는 로보틱스의 발전 속도에 따라 내년이면 “테슬라 옵티머스나 동급의 로봇이 시간당 1.5달러로 미국 트럭에 올라타 그대로 운전해 ...</title><link>https://www.threads.net/@choi.openai/post/DeDnrNKE6_P</link><description>에마드 모스타크는 로보틱스의 발전 속도에 따라 내년이면 “테슬라 옵티머스나 동급의 로봇이 시간당 1.5달러로 미국 트럭에 올라타 그대로 운전해 나갈 수 있다”고 전망했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 04 Oct 2026 13:42:59 +0000</lastBuildDate><item><title>오픈AI가 이번 주 AI 업계를 거의 도배했습니다.
 
-차량을 복잡하게 개조할 필요 없이, “인간 형태의 공간에 들어갈 수 있는” 휴머노이드 로봇이 문을 열고 타는 것만으로 100만 명의 미국 트럭 운전사와 300만 명의 관련 서비스 일자리가 순식간에 사라질 수 있다고 경고했습니다.
+24시간 일하는 dots부터 GPT-6.1 Sol, Space, Decisions API,...</title><link>https://www.threads.net/@choi.openai/post/DeEsVP3FUcU</link><description>오픈AI가 이번 주 AI 업계를 거의 도배했습니다.
 
-로보틱스의 돌파구 덕분에 수많은 물리적 일자리가 대체되겠지만, “현재 위험에 처한 것은 바로 디지털 일자리”라며 화이트칼라 노동 시장의 충격을 짚었습니다.
+24시간 일하는 dots부터 GPT-6.1 Sol, Space, Decisions API, GPT-Synopsys까지 연이어 공개했고, 경쟁사들도 새로운 모델과 제품을 쏟아냈습니다.
 
-그는 극단적인 비용 절감과 자율화가 결합하면서 노동 시장의 지각변동이 하룻밤 사이에 닥칠 수 있음을 시사했습니다.</description><pubDate>Sun, 04 Oct 2026 03:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeDnrNKE6_P</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=oOIJ8m2rSC4</title><link>https://www.threads.net/@choi.openai/post/DeDnslkE3Em</link><description>풀영상 :
-https://www.youtube.com/watch?v=oOIJ8m2rSC4</description><pubDate>Sun, 04 Oct 2026 03:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeDnslkE3Em</guid></item><item><title>에마드 모스타크(Emad Mostaque)는 매킨지와 오픈AI 등의 연구를 인용하며 “전체 업무의 약 50%가 AI로 대체될 수 있다”고 분석했...</title><link>https://www.threads.net/@choi.openai/post/DeDgxbFCjIR</link><description>에마드 모스타크(Emad Mostaque)는 매킨지와 오픈AI 등의 연구를 인용하며 “전체 업무의 약 50%가 AI로 대체될 수 있다”고 분석했습니다.
+이번 주 절대 놓치면 안 될 AI 발표와 사례 42가지를 정리했습니다🧵</description><pubDate>Sun, 04 Oct 2026 13:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEsVP3FUcU</guid></item><item><title>1/ 오픈AI가 24시간 일하는 상시 AI 에이전트 dots를 공개했습니다.
+GPT-6 Astra를 기반으로 전용 클라우드 컴퓨터와 브라우저를 ...</title><link>https://www.threads.net/@choi.openai/post/DeEsVoNlfg-</link><description>1/ 오픈AI가 24시간 일하는 상시 AI 에이전트 dots를 공개했습니다.
+GPT-6 Astra를 기반으로 전용 클라우드 컴퓨터와 브라우저를 사용하며, 목표와 접근 권한을 정해주면 대화를 닫은 뒤에도 작업을 이어갑니다.
+4,000개 이상의 앱 플러그인을 연결하고 ChatGPT·Slack·Teams에서 일을 맡길 수 있습니다.
+Pro와 Business Premium을 대상으로 순차 제공하며, 기업용은 관리자 승인이 필요한 베타로 시작합니다.</description><pubDate>Sun, 04 Oct 2026 13:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEsVoNlfg-</guid></item><item><title>2/ 오픈AI가 DevDay 2026에서 클라우드 개발 환경과 초고속 추론을 공개했습니다.
+Codex는 작업마다 분리된 환경에서 코드를 실행하고...</title><link>https://www.threads.net/@choi.openai/post/DeEsWX-lTdT</link><description>2/ 오픈AI가 DevDay 2026에서 클라우드 개발 환경과 초고속 추론을 공개했습니다.
+Codex는 작업마다 분리된 환경에서 코드를 실행하고, 노트북을 닫아도 작업을 이어갑니다.
+재사용할 개발 환경을 설정해 여러 작업에 연결할 수도 있습니다.
+Ultrafast는 토큰 생성 속도를 Codex에서 최대 8배, API에서 최대 6배 높입니다.
+GPT-6 Astra부터 제공하며, GPT-6.1 Sol 지원도 예고했습니다.</description><pubDate>Sun, 04 Oct 2026 13:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEsWX-lTdT</guid></item><item><title>3/ 오픈AI가 GPT-6 Sol 출시 일주일 만에 GPT-6.1 Sol을 공개했습니다.
+코딩과 컴퓨터 조작, 전문 업무 성능을 높이면서 API...</title><link>https://www.threads.net/@choi.openai/post/DeEsW3aFS0K</link><description>3/ 오픈AI가 GPT-6 Sol 출시 일주일 만에 GPT-6.1 Sol을 공개했습니다.
+코딩과 컴퓨터 조작, 전문 업무 성능을 높이면서 API의 기본 입출력 토큰 단가는 GPT-6 Astra의 5분의 1로 낮췄습니다.
+100만 토큰당 입력 2달러, 출력 10달러이며 캐시 입력은 0.10달러입니다.
+ChatGPT Work와 Codex, API에서 제공하며, 일반 ChatGPT 대화창에는 추후 도입할 예정입니다.</description><pubDate>Sun, 04 Oct 2026 13:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEsW3aFS0K</guid></item><item><title>Neuralink가 사람의 뇌 데이터 5만 시간을 AI 학습에 사용했습니다.
 
-그는 사람들이 하루아침에 해고되는 것은 아니지만, “인간이 적거나 완전히 AI로만 운영되는 기업과 인간 중심의 기업이 경쟁하는 것은 불가능에 가까워질 것”이라고 경고했습니다. 특히 원격 근무가 가능한 디지털 업무 분야일수록 타격이 크다고 강조했습니다.
+뉴런의 발화를 단어처럼 학습시킨 결과, 생각만으로 커서를 움직이는...</title><link>https://www.threads.net/@choi.openai/post/DeEfZ-Dj2dd</link><description>Neuralink가 사람의 뇌 데이터 5만 시간을 AI 학습에 사용했습니다.
 
-실제로 법률 시장 등에서는 신입 채용이 줄어들고 있습니다. 파트너급 인력은 인간적인 관계와 책임을 맡고 단순 실무는 AI 버튼 하나로 대체하고 있기 때문입니다.
+뉴런의 발화를 단어처럼 학습시킨 결과, 생각만으로 커서를 움직이는 속도가 최고 기록을 경신했고 매일 필요했던 보정도 크게 줄었는데요.
 
-그는 결국 “가장 먼저 붕괴하는 것은 진입 장벽 역할을 하던 엔트리 레벨(신입 일자리)”이라고 짚었습니다. 자산과 네트워크를 쥔 시니어는 컴퓨팅 파워를 레버리지 삼아 더 큰 생산성을 발휘하지만, 주니어 세대가 발을 붙일 사다리의 첫 칸부터 빠르게 사라지고 있다고 진단했습니다.</description><pubDate>Sun, 04 Oct 2026 02:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeDgxbFCjIR</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=oOIJ8m2rSC4</title><link>https://www.threads.net/@choi.openai/post/DeDgzYviqF3</link><description>풀영상 :
-https://www.youtube.com/watch?v=oOIJ8m2rSC4</description><pubDate>Sun, 04 Oct 2026 02:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeDgzYviqF3</guid></item><item><title>얀 르쿤(Yann LeCun)은 오픈소스를 반대하는 유일한 이유는 “AI가 너무 강력해서 세상을 장악할 것이라는 비현실적인 믿음 때문”이라며, ...</title><link>https://www.threads.net/@choi.openai/post/DeDZ1ZTAJze</link><description>얀 르쿤(Yann LeCun)은 오픈소스를 반대하는 유일한 이유는 “AI가 너무 강력해서 세상을 장악할 것이라는 비현실적인 믿음 때문”이라며, 이는 완전히 잘못된 전제라고 일축했습니다.
+한 번 학습한 뇌 활동 모델로 타이핑과 게임, 로봇 팔 조작까지 처리하겠다는 계획입니다. 🧵</description><pubDate>Sun, 04 Oct 2026 11:07:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEfZ-Dj2dd</guid></item><item><title>1/ 뉴럴링크가 10월 1일 'Pretraining on 50,000 Hours of Unlabeled Brain Data'를 공개했습니다.
 
-현재의 대형 언어 모델(LLM)은 텍스트를 그럴듯하게 엮을 뿐, 기억과 추론, 계획 능력은 물론 물리 세계에 대한 근본적인 이해가 없다고 지적했습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DeEfU7gjFaW</link><description>1/ 뉴럴링크가 10월 1일 'Pretraining on 50,000 Hours of Unlabeled Brain Data'를 공개했습니다.
 
-“당신의 고양이가 최첨단 AI 시스템보다 물리 세계를 훨씬 더 잘 이해하고 있습니다.”
+임상시험이 시작된 뒤 2년 동안 참가자들이 일상에서 남긴 뇌 활동 기록은 5만 시간이 넘고, 첫 참가자 한 명만 9,000시간, 뉴런 발화 224억 번을 기록했는데요.
 
-그는 인간 수준의 지능(AGI)에 도달하려면 단순히 모델 크기만 키우는 것으로는 불가능하며, 완전히 새로운 과학적 돌파구가 필요하다고 강조했습니다.
+뉴럴링크는 정답 라벨이 없는 이 데이터로 사람별 신경 인코더를 사전학습했습니다. 
 
-결국 당장 몇 년 안에 특이점이 오거나 AI가 인간을 위협할 일은 없으며, 기술 발전을 소수가 독점하기보다 오픈소스를 통해 생태계 전체의 집단 지성으로 확장해야 한다는 설명입니다.</description><pubDate>Sun, 04 Oct 2026 00:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeDZ1ZTAJze</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?si=a0xRBSUhmbk9Kw_I&amp;v=SbISeWn3FSk&amp;feature=yo...</title><link>https://www.threads.net/@choi.openai/post/DeDZ2icAGbj</link><description>풀영상 :
-https://www.youtube.com/watch?si=a0xRBSUhmbk9Kw_I&amp;v=SbISeWn3FSk&amp;feature=youtu.be</description><pubDate>Sun, 04 Oct 2026 01:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeDZ2icAGbj</guid></item><item><title>AI 시장은 정말 과소 평가되어있습니다.
+이 인코더 위에 디코더를 올리자 참가자 6명이 개인 기록을 세웠고, P15는 11.32 BPS로 기존 기록 10.39 BPS를 넘었습니다.
 
-미국에서 AI에 돈을 내는 가구는 2.2% 밖에 되지 않습니다.
-그리고 AI 성과를 꾸준히 공개하는 ...</title><link>https://www.threads.net/@choi.openai/post/DeDS_e7gBCA</link><description>AI 시장은 정말 과소 평가되어있습니다.
+BPS는 격자 화면의 목표를 얼마나 빠르고 정확하게 클릭하는지로 계산한 초당 정보 전송량입니다.</description><pubDate>Sun, 04 Oct 2026 11:08:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEfU7gjFaW</guid></item><item><title>2/ 이번 연구가 겨냥한 문제는 보정입니다.
 
-미국에서 AI에 돈을 내는 가구는 2.2% 밖에 되지 않습니다.
-그리고 AI 성과를 꾸준히 공개하는 S&amp;P 500 기업도 2%에 불과한데요.
-하지만, GPU는 부족하고 가격은 이미 오르고 있습니다.
+디코더는 뇌 신호를 커서 움직임으로 바꾸는 사람별 AI 모델인데, 뇌 활동 패턴이 날마다 조금씩 ...</title><link>https://www.threads.net/@choi.openai/post/DeEfVb9ABDa</link><description>2/ 이번 연구가 겨냥한 문제는 보정입니다.
 
-a16z가 9월 30일 공개한 State of Markets II를 정리했습니다. 🧵</description><pubDate>Sun, 04 Oct 2026 00:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeDS_e7gBCA</guid></item><item><title>1/ a16z가 9월 30일 상반기 시장을 100개 넘는 차트로 정리한 State of Markets II를 공개했습니다.
+디코더는 뇌 신호를 커서 움직임으로 바꾸는 사람별 AI 모델인데, 뇌 활동 패턴이 날마다 조금씩 달라져 아무리 좋은 디코더도 시간이 지나면 성능이 떨어집니다.
 
-소비자 쪽에서 가장...</title><link>https://www.threads.net/@choi.openai/post/DeDTAgmgO0f</link><description>1/ a16z가 9월 30일 상반기 시장을 100개 넘는 차트로 정리한 State of Markets II를 공개했습니다.
+그래서 사용자는 정해진 과제를 반복해 새 학습 데이터를 만들어야 했고, 보정에만 일주일 평균 55분을 썼습니다.
 
-소비자 쪽에서 가장 눈에 띄는 숫자는 AI 유료 구독 가구 비율입니다.
-PNC Research 데이터를 보면 AI 구독료를 내는 미국 가구는 2023년 1월 거의 0%에서 2026년 4월 2.2%까지 늘었습니다.
+영상은 같은 커서 움직임을 일주일, 한 달, 석 달 된 디코더로 다시 재생한 장면인데요. 
 
-곡선은 2025년 봄부터 가팔라졌지만, 100가구 중 98가구는 여전히 AI에 돈을 내지 않습니다. 이미 결제하는 가구의 지출은 빠르게 늘었는데요.
+원본 발화 데이터로 만든 디코더는 시간이 지날수록 커서가 원래 경로에서 크게 벗어나고, 사전학습한 임베딩으로 만든 디코더는 원래 경로를 더 가깝게 따라갑니다.</description><pubDate>Sun, 04 Oct 2026 11:08:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEfVb9ABDa</guid></item><item><title>3/ 뉴럴링크는 뉴런의 발화를 단어처럼 다뤘습니다.
 
-구독 가구의 월평균 지출은 2024년 5월 약 22달러에서 2026년 5월 31달러로 올랐습니다. 저는 결제하는 소수가 더 비싼 요금제로 옮겨 가고 있다고 봅니다.</description><pubDate>Sun, 04 Oct 2026 00:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeDTAgmgO0f</guid></item><item><title>2/ 기업도 비슷한 모습입니다.
-Apollo 집계로 2분기 S&amp;P 500 기업의 74%가 AI 계획을 밝혔고, 69%는 사용량이나 도입 수치를 ...</title><link>https://www.threads.net/@choi.openai/post/DeDTBpWgClP</link><description>2/ 기업도 비슷한 모습입니다.
-Apollo 집계로 2분기 S&amp;P 500 기업의 74%가 AI 계획을 밝혔고, 69%는 사용량이나 도입 수치를 들며 실제 도입을 언급했습니다.
+전극 채널마다 고유한 임베딩을 두고 그 채널이 발화할 때만 모델에 넣는 방식이고, 모델 뼈...</title><link>https://www.threads.net/@choi.openai/post/DeEfc93j8TA</link><description>3/ 뉴럴링크는 뉴런의 발화를 단어처럼 다뤘습니다.
 
-그런데 AI 효과를 숫자로 제시한 곳은 29%였고, 그 숫자를 같은 지표로 계속 추적해 공개한 곳은 2%였습니다.
+전극 채널마다 고유한 임베딩을 두고 그 채널이 발화할 때만 모델에 넣는 방식이고, 모델 뼈대로는 시간에 따라 변하는 상태를 잘 다루면서 추론 지연이 짧은 Mamba를 썼습니다.
 
-AI 성과를 따로 떼어 추적하는 곳은 0%였는데요.
-a16z는 AI 도입이 넓게 퍼졌지만 아직 얕다고 정리했습니다.
+학습 과제는 채널 절반의 기록만 보여주고 나머지 절반의 활동을 맞히게 하는 것인데요. 모델은 일부 채널만 보고 신경 집단 전체의 상태를 추정하는 법을 배웁니다.
 
-회사들은 AI를 쓰고 있다고 말하지만, AI로 얼마를 벌거나 아꼈는지는 아직 재무 지표로 보여주지 못하고 있습니다.</description><pubDate>Sun, 04 Oct 2026 00:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeDTBpWgClP</guid></item><item><title>3/ 결제와 성과 측정은 초기인데 GPU는 이미 모자랍니다.
+그림 2는 날짜별 평균 임베딩으로, 중간 층에서는 녹화 날짜에 따른 차이가 흐려지고 마지막 출력에서 다시 나타납니다.
 
-Silicon Data 기준 9월 B200 임대료는 GPU 1시간에 5.69달러,...</title><link>https://www.threads.net/@choi.openai/post/DeDTCt8AI-t</link><description>3/ 결제와 성과 측정은 초기인데 GPU는 이미 모자랍니다.
+뉴럴링크는 이를 사용자의 의도가 날마다 흔들리지 않는 공간에 담긴다는 근거로 봤습니다.</description><pubDate>Sun, 04 Oct 2026 11:08:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEfc93j8TA</guid></item><item><title>유럽에서도 꽤 괜찮은 오픈 웨이트 AI 모델이 나왔습니다.
 
-Silicon Data 기준 9월 B200 임대료는 GPU 1시간에 5.69달러, H200은 3.29달러, H100은 2.63달러입니다.
-2020년에 나온 A100도 1.59달러로, 1년 반 가까이 비슷한 가격을 지켰습니다.
-임대료로 추산한 B200과 H100의 잔존가치는 올해 들어 오히려 올랐는데요.
+독일 Aleph Alpha가 Kolibri를 공개했습니다.
+총 78B 규모의 MoE...</title><link>https://www.threads.net/@choi.openai/post/DeEXt4yCLHi</link><description>유럽에서도 꽤 괜찮은 오픈 웨이트 AI 모델이 나왔습니다.
 
-지난 8월 a16z의 네오클라우드 리포트를 다룰 때는 새 GPU가 빨리 나오면 기존 장비의 가치가 예상보다 빨리 떨어질 수 있다는 점이 가장 큰 위험이었습니다.
+독일 Aleph Alpha가 Kolibri를 공개했습니다.
+총 78B 규모의 MoE 모델이지만 토큰당 3.46B만 활성화되며, 최대 100만 토큰 컨텍스트를 지원합니다.
+가중치는 Apache 2.0으로 공개돼 직접 하드웨어에 설치할 수 있습니다.
 
-이번 차트에서는 임대 수요가 구형 칩 가격까지 받쳐주고 있고, 게빈 베이커가 7개월 전 시간당 2달러 중반에 계약된 클러스터가 4달러 가까이 올랐다고 설명한 흐름과도 같은 방향입니다.</description><pubDate>Sun, 04 Oct 2026 00:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeDTCt8AI-t</guid></item></channel></rss>
+Aleph Alpha 자체 평가에서는 일부 수학·과학·코딩 영역에서 Qwen 계열과 Nemotron, Mistral 모델보다 높은 결과도 나왔습니다.
+
+다만 ‘유럽 독자 AI’라는 점은 조금 복잡한데요. 학습 과정에서 GLM-5.2·GLM-5.3·Qwen3.8-27B가 생성한 데이터도 사용됐습니다.
+
+이제 AI 생태계는 미국 모델을 중국이 증류하고, 중국 모델의 데이터로 유럽 모델을 만드는 식으로 서로 연결되고 있습니다.</description><pubDate>Sun, 04 Oct 2026 10:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEXt4yCLHi</guid></item><item><title>허깅페이스 :
+https://huggingface.co/Aleph-Alpha/Kolibri-1</title><link>https://www.threads.net/@choi.openai/post/DeEXwTUCNlR</link><description>허깅페이스 :
+https://huggingface.co/Aleph-Alpha/Kolibri-1</description><pubDate>Sun, 04 Oct 2026 10:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEXwTUCNlR</guid></item><item><title>와.. 정말 앞으로 콘텐츠 소비 시장 자체가 달라질 것 같습니다.
+
+이번 일레븐랩스 v4 성능이 많이 올라와서 Live 2D와 일레븐랩스를 Do...</title><link>https://www.threads.net/@choi.openai/post/DeEQ1aEgRet</link><description>와.. 정말 앞으로 콘텐츠 소비 시장 자체가 달라질 것 같습니다.
+
+이번 일레븐랩스 v4 성능이 많이 올라와서 Live 2D와 일레븐랩스를 Dots에게 연결해주고 새로운 소식이 있으면 유튜브 영상을 만들어달라고 해봤는데 상당히 그럴싸하게 잘 나오는 것 같네요.
+
+디테일한 부분이랑 구성만 조금 변경하면 콘텐츠로 바로 올려도 될 것 같다는 생각이 들었습니다.
+
+앞으로는 이러한 포맷의 유튜브 콘텐츠는 내 관심사에 맞게 AI가 생성해서 보여주는 시대가 될 수도 있을 것 같네요.
+
+클라우드 데스크톱에서는 막혔지만 로컬 컴퓨터랑 연동하면 실시간 방송도 가능할 것 같습니다.</description><pubDate>Sun, 04 Oct 2026 09:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEQ1aEgRet</guid></item></channel></rss>
