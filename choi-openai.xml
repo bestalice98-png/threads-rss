@@ -1,74 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 04 Oct 2026 18:26:38 +0000</lastBuildDate><item><title>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</title><link>https://www.threads.net/@choi.openai/post/DeE6C-oDVv2</link><description>뻥 안치고 제 계정 하나만 보기 위해서 스레드 시작해도 후회 없습니다.
-스레드 자체가 한국 정보 최상위권 학습 플랫폼입니다.</description><pubDate>Sun, 04 Oct 2026 15:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeE6C-oDVv2</guid></item><item><title>오픈AI가 이번 주 AI 업계를 거의 도배했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 05 Oct 2026 04:18:45 +0000</lastBuildDate><item><title>사진 한 장을 넣으면 그 안으로 직접 들어가 돌아다닐 수 있는 4D 세계를 만들어줍니다.
 
-24시간 일하는 dots부터 GPT-6.1 Sol, Space, Decisions API,...</title><link>https://www.threads.net/@choi.openai/post/DeEsVP3FUcU</link><description>오픈AI가 이번 주 AI 업계를 거의 도배했습니다.
+InSpatio가 오픈소스 월드 모델 InSpatio...</title><link>https://www.threads.net/@choi.openai/post/DeGTPjYkVKj</link><description>사진 한 장을 넣으면 그 안으로 직접 들어가 돌아다닐 수 있는 4D 세계를 만들어줍니다.
 
-24시간 일하는 dots부터 GPT-6.1 Sol, Space, Decisions API, GPT-Synopsys까지 연이어 공개했고, 경쟁사들도 새로운 모델과 제품을 쏟아냈습니다.
+InSpatio가 오픈소스 월드 모델 InSpatio-World 1.5를 공개했습니다.
+사진 한 장뿐 아니라 여러 이미지, 파노라마, 영상까지 입력할 수 있으며 원본에 없던 시점으로 이동하면서 공간과 시간의 변화를 실시간으로 생성합니다.
 
-이번 주 절대 놓치면 안 될 AI 발표와 사례 42가지를 정리했습니다🧵</description><pubDate>Sun, 04 Oct 2026 13:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEsVP3FUcU</guid></item><item><title>1/ 오픈AI가 24시간 일하는 상시 AI 에이전트 dots를 공개했습니다.
-GPT-6 Astra를 기반으로 전용 클라우드 컴퓨터와 브라우저를 ...</title><link>https://www.threads.net/@choi.openai/post/DeEsVoNlfg-</link><description>1/ 오픈AI가 24시간 일하는 상시 AI 에이전트 dots를 공개했습니다.
-GPT-6 Astra를 기반으로 전용 클라우드 컴퓨터와 브라우저를 사용하며, 목표와 접근 권한을 정해주면 대화를 닫은 뒤에도 작업을 이어갑니다.
-4,000개 이상의 앱 플러그인을 연결하고 ChatGPT·Slack·Teams에서 일을 맡길 수 있습니다.
-Pro와 Business Premium을 대상으로 순차 제공하며, 기업용은 관리자 승인이 필요한 베타로 시작합니다.</description><pubDate>Sun, 04 Oct 2026 13:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEsVoNlfg-</guid></item><item><title>2/ 오픈AI가 DevDay 2026에서 클라우드 개발 환경과 초고속 추론을 공개했습니다.
-Codex는 작업마다 분리된 환경에서 코드를 실행하고...</title><link>https://www.threads.net/@choi.openai/post/DeEsWX-lTdT</link><description>2/ 오픈AI가 DevDay 2026에서 클라우드 개발 환경과 초고속 추론을 공개했습니다.
-Codex는 작업마다 분리된 환경에서 코드를 실행하고, 노트북을 닫아도 작업을 이어갑니다.
-재사용할 개발 환경을 설정해 여러 작업에 연결할 수도 있습니다.
-Ultrafast는 토큰 생성 속도를 Codex에서 최대 8배, API에서 최대 6배 높입니다.
-GPT-6 Astra부터 제공하며, GPT-6.1 Sol 지원도 예고했습니다.</description><pubDate>Sun, 04 Oct 2026 13:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEsWX-lTdT</guid></item><item><title>3/ 오픈AI가 GPT-6 Sol 출시 일주일 만에 GPT-6.1 Sol을 공개했습니다.
-코딩과 컴퓨터 조작, 전문 업무 성능을 높이면서 API...</title><link>https://www.threads.net/@choi.openai/post/DeEsW3aFS0K</link><description>3/ 오픈AI가 GPT-6 Sol 출시 일주일 만에 GPT-6.1 Sol을 공개했습니다.
-코딩과 컴퓨터 조작, 전문 업무 성능을 높이면서 API의 기본 입출력 토큰 단가는 GPT-6 Astra의 5분의 1로 낮췄습니다.
-100만 토큰당 입력 2달러, 출력 10달러이며 캐시 입력은 0.10달러입니다.
-ChatGPT Work와 Codex, API에서 제공하며, 일반 ChatGPT 대화창에는 추후 도입할 예정입니다.</description><pubDate>Sun, 04 Oct 2026 13:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEsW3aFS0K</guid></item><item><title>Neuralink가 사람의 뇌 데이터 5만 시간을 AI 학습에 사용했습니다.
+1.3B 모델로 최대 24FPS를 지원하며, WorldScore-Dynamic에서 68.72점을 기록해 평가된 실시간·인터랙티브 방식 중 1위를 기록했다고 합니다.
 
-뉴런의 발화를 단어처럼 학습시킨 결과, 생각만으로 커서를 움직이는...</title><link>https://www.threads.net/@choi.openai/post/DeEfZ-Dj2dd</link><description>Neuralink가 사람의 뇌 데이터 5만 시간을 AI 학습에 사용했습니다.
+코드와 가중치도 공개됐습니다.</description><pubDate>Mon, 05 Oct 2026 04:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeGTPjYkVKj</guid></item><item><title>AI 등장 이후 게임을 만드는 방식이 정말 빠르게 바뀌고 있습니다.
 
-뉴런의 발화를 단어처럼 학습시킨 결과, 생각만으로 커서를 움직이는 속도가 최고 기록을 경신했고 매일 필요했던 보정도 크게 줄었는데요.
+최근 서로 다른 게임을 AI로 합치는 사례가 계속 나오더니, 이제 이런 매...</title><link>https://www.threads.net/@choi.openai/post/DeGI_koDH9D</link><description>AI 등장 이후 게임을 만드는 방식이 정말 빠르게 바뀌고 있습니다.
 
-한 번 학습한 뇌 활동 모델로 타이핑과 게임, 로봇 팔 조작까지 처리하겠다는 계획입니다. 🧵</description><pubDate>Sun, 04 Oct 2026 11:07:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEfZ-Dj2dd</guid></item><item><title>1/ 뉴럴링크가 10월 1일 'Pretraining on 50,000 Hours of Unlabeled Brain Data'를 공개했습니다.
+최근 서로 다른 게임을 AI로 합치는 사례가 계속 나오더니, 이제 이런 매시업을 만들고 공유하는 플랫폼 Melty까지 등장했습니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/DeEfU7gjFaW</link><description>1/ 뉴럴링크가 10월 1일 'Pretraining on 50,000 Hours of Unlabeled Brain Data'를 공개했습니다.
+보유한 게임을 선택하고 Claude Code나 Codex 같은 AI 에이전트에게 원하는 조합을 설명하면 매시업을 만들 수 있습니다.
+공개된 매시업은 클릭 한 번으로 필요한 파일을 설치해 실행하고, 멀티플레이를 지원하면 친구에게 초대 링크도 보낼 수 있습니다.
 
-임상시험이 시작된 뒤 2년 동안 참가자들이 일상에서 남긴 뇌 활동 기록은 5만 시간이 넘고, 첫 참가자 한 명만 9,000시간, 뉴런 발화 224억 번을 기록했는데요.
+며칠 전만 해도 AI로 게임 두 개를 합친 영상 자체가 화제였는데, 벌써 이를 누구나 만들고 배포하는 플랫폼이 나오고 있습니다.
 
-뉴럴링크는 정답 라벨이 없는 이 데이터로 사람별 신경 인코더를 사전학습했습니다. 
+AI 이후 아이디어가 제품으로 바뀌는 속도가 확실히 빨라지고 있습니다.</description><pubDate>Mon, 05 Oct 2026 02:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeGI_koDH9D</guid></item><item><title>영상 생성 AI에서 VAE와 ViT를 아예 빼버리는 방식이 나왔습니다.
 
-이 인코더 위에 디코더를 올리자 참가자 6명이 개인 기록을 세웠고, P15는 11.32 BPS로 기존 기록 10.39 BPS를 넘었습니다.
+엔비디아와 워털루대학교 연구진이 PixelUMM을 공개했습니다.
+기존처...</title><link>https://www.threads.net/@choi.openai/post/DeF-qQ-CC1w</link><description>영상 생성 AI에서 VAE와 ViT를 아예 빼버리는 방식이 나왔습니다.
 
-BPS는 격자 화면의 목표를 얼마나 빠르고 정확하게 클릭하는지로 계산한 초당 정보 전송량입니다.</description><pubDate>Sun, 04 Oct 2026 11:08:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEfU7gjFaW</guid></item><item><title>2/ 이번 연구가 겨냥한 문제는 보정입니다.
+엔비디아와 워털루대학교 연구진이 PixelUMM을 공개했습니다.
+기존처럼 별도의 VAE나 비전 인코더로 이미지를 압축·해석하지 않고, 픽셀을 16×16 패치로 나눠 하나의 선형 레이어를 거쳐 바로 처리합니다.
 
-디코더는 뇌 신호를 커서 움직임으로 바꾸는 사람별 AI 모델인데, 뇌 활동 패턴이 날마다 조금씩 ...</title><link>https://www.threads.net/@choi.openai/post/DeEfVb9ABDa</link><description>2/ 이번 연구가 겨냥한 문제는 보정입니다.
+Qwen3-8B를 기반으로 이미지·영상 이해와 생성을 하나의 모델에서 처리하며, 오픈소스 모델들과 비슷한 수준의 성능을 기록했다고 합니다.
 
-디코더는 뇌 신호를 커서 움직임으로 바꾸는 사람별 AI 모델인데, 뇌 활동 패턴이 날마다 조금씩 달라져 아무리 좋은 디코더도 시간이 지나면 성능이 떨어집니다.
+대신 픽셀을 직접 처리하면 입력 길이가 커져 연산량이 늘어날 수 있습니다.
+구조는 훨씬 간결해졌지만, 긴 영상에서도 효율적으로 확장할 수 있는지가 앞으로 봐야 할 부분입니다.</description><pubDate>Mon, 05 Oct 2026 01:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeF-qQ-CC1w</guid></item><item><title>프로젝트 주소 :
+https://nv-tlabs.github.io/PixelUMM/</title><link>https://www.threads.net/@choi.openai/post/DeF-s8siM5-</link><description>프로젝트 주소 :
+https://nv-tlabs.github.io/PixelUMM/</description><pubDate>Mon, 05 Oct 2026 01:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeF-s8siM5-</guid></item><item><title>164MB짜리 음성 인식 모델이 10배 큰 Whisper large보다 평균 정확도가 높다고 합니다.
 
-그래서 사용자는 정해진 과제를 반복해 새 학습 데이터를 만들어야 했고, 보정에만 일주일 평균 55분을 썼습니다.
+퍼미온 리서치가 Phonon-2를 공개했...</title><link>https://www.threads.net/@choi.openai/post/DeF0bxckmB4</link><description>164MB짜리 음성 인식 모델이 10배 큰 Whisper large보다 평균 정확도가 높다고 합니다.
 
-영상은 같은 커서 움직임을 일주일, 한 달, 석 달 된 디코더로 다시 재생한 장면인데요. 
+퍼미온 리서치가 Phonon-2를 공개했습니다.
+기본형 M5 맥북 에어에서 1시간 분량의 음성을 약 20초 만에 텍스트로 변환하며, 7개 영어 음성 인식 벤치마크 평균 WER은 5.21%를 기록했습니다.
 
-원본 발화 데이터로 만든 디코더는 시간이 지날수록 커서가 원래 경로에서 크게 벗어나고, 사전학습한 임베딩으로 만든 디코더는 원래 경로를 더 가깝게 따라갑니다.</description><pubDate>Sun, 04 Oct 2026 11:08:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEfVb9ABDa</guid></item><item><title>3/ 뉴럴링크는 뉴런의 발화를 단어처럼 다뤘습니다.
+특히 2.5GB 크기의 원본 teacher 모델 정확도를 99.8% 유지하면서 용량은 6.5%까지 줄였습니다. 가중치도 CC-BY-4.0으로 공개됐습니다.
 
-전극 채널마다 고유한 임베딩을 두고 그 채널이 발화할 때만 모델에 넣는 방식이고, 모델 뼈...</title><link>https://www.threads.net/@choi.openai/post/DeEfc93j8TA</link><description>3/ 뉴럴링크는 뉴런의 발화를 단어처럼 다뤘습니다.
-
-전극 채널마다 고유한 임베딩을 두고 그 채널이 발화할 때만 모델에 넣는 방식이고, 모델 뼈대로는 시간에 따라 변하는 상태를 잘 다루면서 추론 지연이 짧은 Mamba를 썼습니다.
-
-학습 과제는 채널 절반의 기록만 보여주고 나머지 절반의 활동을 맞히게 하는 것인데요. 모델은 일부 채널만 보고 신경 집단 전체의 상태를 추정하는 법을 배웁니다.
-
-그림 2는 날짜별 평균 임베딩으로, 중간 층에서는 녹화 날짜에 따른 차이가 흐려지고 마지막 출력에서 다시 나타납니다.
-
-뉴럴링크는 이를 사용자의 의도가 날마다 흔들리지 않는 공간에 담긴다는 근거로 봤습니다.</description><pubDate>Sun, 04 Oct 2026 11:08:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEfc93j8TA</guid></item><item><title>유럽에서도 꽤 괜찮은 오픈 웨이트 AI 모델이 나왔습니다.
-
-독일 Aleph Alpha가 Kolibri를 공개했습니다.
-총 78B 규모의 MoE...</title><link>https://www.threads.net/@choi.openai/post/DeEXt4yCLHi</link><description>유럽에서도 꽤 괜찮은 오픈 웨이트 AI 모델이 나왔습니다.
-
-독일 Aleph Alpha가 Kolibri를 공개했습니다.
-총 78B 규모의 MoE 모델이지만 토큰당 3.46B만 활성화되며, 최대 100만 토큰 컨텍스트를 지원합니다.
-가중치는 Apache 2.0으로 공개돼 직접 하드웨어에 설치할 수 있습니다.
-
-Aleph Alpha 자체 평가에서는 일부 수학·과학·코딩 영역에서 Qwen 계열과 Nemotron, Mistral 모델보다 높은 결과도 나왔습니다.
-
-다만 ‘유럽 독자 AI’라는 점은 조금 복잡한데요. 학습 과정에서 GLM-5.2·GLM-5.3·Qwen3.8-27B가 생성한 데이터도 사용됐습니다.
-
-이제 AI 생태계는 미국 모델을 중국이 증류하고, 중국 모델의 데이터로 유럽 모델을 만드는 식으로 서로 연결되고 있습니다.</description><pubDate>Sun, 04 Oct 2026 10:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEXt4yCLHi</guid></item><item><title>허깅페이스 :
-https://huggingface.co/Aleph-Alpha/Kolibri-1</title><link>https://www.threads.net/@choi.openai/post/DeEXwTUCNlR</link><description>허깅페이스 :
-https://huggingface.co/Aleph-Alpha/Kolibri-1</description><pubDate>Sun, 04 Oct 2026 10:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeEXwTUCNlR</guid></item></channel></rss>
+Whistle에 이어 Phonon-2까지, 음성 인식 모델도 거대한 서버 모델보다 작고 빠르게 로컬에서 돌리는 경쟁이 본격적으로 시작되고 있습니다.</description><pubDate>Sun, 04 Oct 2026 23:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeF0bxckmB4</guid></item><item><title>내용 :
+https://www.fermionresearch.com/research/phonon-2/</title><link>https://www.threads.net/@choi.openai/post/DeF0dKzkgwv</link><description>내용 :
+https://www.fermionresearch.com/research/phonon-2/</description><pubDate>Sun, 04 Oct 2026 23:31:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeF0dKzkgwv</guid></item></channel></rss>
