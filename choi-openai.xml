@@ -1,43 +1,120 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 06 Oct 2026 14:46:15 +0000</lastBuildDate><item><title>같은 AI 모델도 어떤 코딩 에이전트에서 실행하느냐에 따라 성능이 62%에서 33%까지 떨어질 수 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 06 Oct 2026 19:53:41 +0000</lastBuildDate><item><title>Unsloth가 구글이 새롭게 공개한 EmbeddingGemma 2를 출시와 동시에 지원합니다.
 
-허깅페이스가 Claude Code...</title><link>https://www.threads.net/@choi.openai/post/DeJ8sWVjRpQ</link><description>같은 AI 모델도 어떤 코딩 에이전트에서 실행하느냐에 따라 성능이 62%에서 33%까지 떨어질 수 있습니다.
+EmbeddingGemma 2는 RAM 0.5...</title><link>https://www.threads.net/@choi.openai/post/DeKbrZCDWdR</link><description>Unsloth가 구글이 새롭게 공개한 EmbeddingGemma 2를 출시와 동시에 지원합니다.
 
-허깅페이스가 Claude Code, Codex, Hermes, OpenCode 등 실제 코딩 에이전트 환경을 그대로 강화학습에 사용하는 오픈소스 방식을 공개했습니다.
+EmbeddingGemma 2는 RAM 0.5GB에서도 실행 가능한 740M 규모의 멀티모달 임베딩 모델로, 텍스트·코드·이미지·오디오·영상을 함께 처리할 수 있습니다.
 
-LFM2.5-2.6B를 OpenCode 하나에서 학습하자 34%→58%, 4개 환경에서 동시에 학습하자 평균 42%→54%로 올랐습니다.
-적은 도구 호출에 보상을 주자 호출 횟수도 31% 줄었습니다.
+Unsloth에서는 EmbeddingGemma 2를 로컬에서 실행하고 직접 학습할 수 있으며, GGUF 모델도 허깅페이스에 공개했습니다.
 
-이제 코딩 AI 성능은 모델 자체뿐 아니라 어떤 에이전트 환경에서 학습하고 실행하느냐도 상당히 중요해지고 있습니다.</description><pubDate>Tue, 06 Oct 2026 14:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeJ8sWVjRpQ</guid></item><item><title>가이드 :
-https://huggingface.co/spaces/FineEnvs/multi-harness-rl</title><link>https://www.threads.net/@choi.openai/post/DeJ8tUwDUt3</link><description>가이드 :
-https://huggingface.co/spaces/FineEnvs/multi-harness-rl</description><pubDate>Tue, 06 Oct 2026 14:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeJ8tUwDUt3</guid></item><item><title>After Effects 안에서도 AI 에이전트가 직접 영상 편집을 시작합니다.
+새로운 오픈 모델이 나오자마자 개인 PC에서 실행하고 학습할 수 있게 만드는 Unsloth의 역할이 점점 커지고 있습니다.</description><pubDate>Tue, 06 Oct 2026 18:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKbrZCDWdR</guid></item><item><title>내용 :
+https://unsloth.ai/docs/models/embeddinggemma-2</title><link>https://www.threads.net/@choi.openai/post/DeKbsT9DVk4</link><description>내용 :
+https://unsloth.ai/docs/models/embeddinggemma-2</description><pubDate>Tue, 06 Oct 2026 18:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKbsT9DVk4</guid></item><item><title>🚨 속보) 구글이 나노 바나나 2.1을 공개했습니다.
 
-Krea가 After Effects용 플러그인을 공개했습니다....</title><link>https://www.threads.net/@choi.openai/post/DeJ129SE2Xi</link><description>After Effects 안에서도 AI 에이전트가 직접 영상 편집을 시작합니다.
+이전 Pro 모델을 앞선다면서 1K 이미지 한 장 가격은 0.0336달러로 Pro의 4분...</title><link>https://www.threads.net/@choi.openai/post/DeKSFaSkd5Y</link><description>🚨 속보) 구글이 나노 바나나 2.1을 공개했습니다.
 
-Krea가 After Effects용 플러그인을 공개했습니다.
-Krea Agent에게 원하는 작업을 말하면 모션 그래픽 제작, 영상 비율 변경, 이미지·사운드 처리, 레이어 정리 등을 대신 수행합니다.
+이전 Pro 모델을 앞선다면서 1K 이미지 한 장 가격은 0.0336달러로 Pro의 4분의 1까지 낮췄습니다. 🧵</description><pubDate>Tue, 06 Oct 2026 17:08:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKSFaSkd5Y</guid></item><item><title>1/ 구글이 이미지 생성·편집 모델 나노 바나나 2.1을 공개했습니다.
 
-프롬프트나 참고 이미지를 이용해 배경과 소스를 만들고, Krea Realtime으로 색상과 구도를 바꾸며 결과를 바로 확인할 수도 있습니다.
-Seedance 2.5, Nano Banana Pro 등 Krea의 AI 도구도 연결됩니다.
+구글은 이전 모델들을 전반적으로 앞선다고 밝히면서, 특히 시각 디자인과...</title><link>https://www.threads.net/@choi.openai/post/DeKSSiJjxUz</link><description>1/ 구글이 이미지 생성·편집 모델 나노 바나나 2.1을 공개했습니다.
 
-AI 영상 도구가 별도 앱에 머무는 게 아니라, 이제 실제 편집자가 사용하는 작업 환경 안으로 들어오고 있습니다.</description><pubDate>Tue, 06 Oct 2026 13:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeJ129SE2Xi</guid></item><item><title>내용 :
-https://www.krea.ai/plugins/after-effects</title><link>https://www.threads.net/@choi.openai/post/DeJ14dGE40n</link><description>내용 :
-https://www.krea.ai/plugins/after-effects</description><pubDate>Tue, 06 Oct 2026 13:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeJ14dGE40n</guid></item><item><title>HyperFrames가 에이전트를 위해 처음부터 설계한 영상 편집기 HyperFrames Studio를 공개했습니다.
-원하는 영상을 글로 설명하...</title><link>https://www.threads.net/@choi.openai/post/DeJu9L0ieik</link><description>HyperFrames가 에이전트를 위해 처음부터 설계한 영상 편집기 HyperFrames Studio를 공개했습니다.
-원하는 영상을 글로 설명하면 에이전트가 초안을 만들고, 이후 같은 타임라인에서 사람이 직접 수정할 수 있습니다.
+구글은 이전 모델들을 전반적으로 앞선다고 밝히면서, 특히 시각 디자인과 마스크 기반 편집, 피사체 일관성이 크게 좋아졌다고 설명했는데요.
 
-프레임에서 수정할 부분을 동그라미 치고 메모를 남기면 에이전트가 해당 부분을 수정하며, 글꼴·색상·이미지는 기존 편집기처럼 직접 바꿀 수도 있습니다.</description><pubDate>Tue, 06 Oct 2026 11:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeJu9L0ieik</guid></item><item><title>주소 :
-https://www.hyperframes.dev/</title><link>https://www.threads.net/@choi.openai/post/DeJu-LuCQlh</link><description>주소 :
-https://www.hyperframes.dev/</description><pubDate>Tue, 06 Oct 2026 12:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeJu-LuCQlh</guid></item><item><title>구글이 Drive와 Docs에서 Markdown(.md) 파일을 그대로 편집할 수 있게 만들었습니다.
+배포는 발표 당일부터 Gemini 앱과 검색의 AI 모드, Google AI Studio, Flow, Stitch, Google Ads, Gemini Enterprise 플랫폼에서 순차적으로 시작됐습니다.
 
-이제 Drive에서 .md 파일을 미리 ...</title><link>https://www.threads.net/@choi.openai/post/DeJoHrkEvf4</link><description>구글이 Drive와 Docs에서 Markdown(.md) 파일을 그대로 편집할 수 있게 만들었습니다.
+개발자는 Gemini API에서 gemini-nano-banana-2.1이라는 이름으로 바로 호출할 수 있습니다.
 
-이제 Drive에서 .md 파일을 미리 보고 Docs로 열어 수정하거나 댓글을 달고 다른 사람과 협업할 수 있습니다. Google Docs 형식으로 변환할 필요도 없습니다.
+소비자 앱과 광고, 디자인 도구, 기업용 플랫폼에 같은 날 한꺼번에 넣은 만큼, 구글은 이 모델을 서비스 전반의 기본 이미지 엔진으로 내놓았습니다.</description><pubDate>Tue, 06 Oct 2026 17:08:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKSSiJjxUz</guid></item><item><title>2/ 이름은 2.1이지만 개발자 문서를 보면 모델의 역할이 달라졌습니다.
 
-Markdown은 README, 작업 계획, 문서 등 AI 에이전트가 자주 사용하는 파일 형식인데요.
+구글은 나노 바나나 2.1을 이미지 생성과 대화형 편집을 맡는 주력 ...</title><link>https://www.threads.net/@choi.openai/post/DeKSTy3j4dA</link><description>2/ 이름은 2.1이지만 개발자 문서를 보면 모델의 역할이 달라졌습니다.
 
-AI가 만든 .md 파일을 변환하지 않고 사람이 Docs에서 바로 검토하고 다시 AI가 사용할 수 있게 된 셈입니다.
+구글은 나노 바나나 2.1을 이미지 생성과 대화형 편집을 맡는 주력 모델로 소개하고, 새 프로젝트에는 나노 바나나 2 대신 2.1을 쓰라고 권장했습니다.
 
-Workspace와 개인 구글 계정에 순차적으로 적용됩니다.</description><pubDate>Tue, 06 Oct 2026 11:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeJoHrkEvf4</guid></item><item><title>상세내용 :
-https://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collabor...</title><link>https://www.threads.net/@choi.openai/post/DeJoJF_klkE</link><description>상세내용 :
-https://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collaborate-on-Markdown-files-natively-across-Drive-and-Docs.html</description><pubDate>Tue, 06 Oct 2026 11:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeJoJF_klkE</guid></item></channel></rss>
+Flash급 속도와 비용을 유지하면서 화질과 이미지 속 글자 표현, 여러 번 주고받는 편집의 일관성, 구글 검색 기반 생성을 개선했다는 설명입니다.
+
+추론 설정도 바뀌었는데요. 나노 바나나 2는 minimal과 high 두 단계에 기본값이 minimal이었지만, 2.1은 medium이 추가되고 기본값도 medium이 됐습니다.
+
+그리기 전에 구도와 문구를 따져보는 과정을 기본으로 더 거치게 한 것이고, 5월 정식 출시 때 들어온 영상 입력도 그대로 이어집니다.</description><pubDate>Tue, 06 Oct 2026 17:08:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKSTy3j4dA</guid></item><item><title>3/ 구글이 가장 앞세운 기능은 마스크 기반 편집입니다.
+
+사진에서 바꿀 영역을 지정하고 그 안만 고치는 방식인데요.
+지금까지 이미지 모델에 일...</title><link>https://www.threads.net/@choi.openai/post/DeKSU6YDyaV</link><description>3/ 구글이 가장 앞세운 기능은 마스크 기반 편집입니다.
+
+사진에서 바꿀 영역을 지정하고 그 안만 고치는 방식인데요.
+지금까지 이미지 모델에 일부만 고쳐 달라고 하면 배경 색감이나 인물 얼굴까지 조금씩 달라지는 문제가 자주 지적됐습니다.
+
+상품과 로고가 그대로 남아야 하는 제품 사진에서는 이 차이가 실무에 쓸 수 있느냐를 가릅니다.
+
+구글 딥마인드 측이 공개한 예시에서도 같은 해변 마을을 구도 그대로 크레파스 그림으로 바꾸고, 같은 골목의 시간대만 저녁으로 바꿨습니다.
+
+오픈AI는 9월 Images 2.5에서, 알리바바는 Qwen-Image-2.1에서 지정한 부분만 고치는 편집을 내세웠는데요. 세 회사가 같은 기능으로 맞붙게 됐습니다.</description><pubDate>Tue, 06 Oct 2026 17:09:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKSU6YDyaV</guid></item><item><title>🚨 속보) 구글 딥마인드가 텍스트·사진·영상·음성·코드를 한 번에 검색하는 임베딩 모델 'EmbeddingGemma 2'를 오픈소스로 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DeKQ2ljD3ZO</link><description>🚨 속보) 구글 딥마인드가 텍스트·사진·영상·음성·코드를 한 번에 검색하는 임베딩 모델 'EmbeddingGemma 2'를 오픈소스로 공개했습니다.
+
+파라미터 7억 4천만 개로 스마트폰 안에서 인터넷 없이 돌아가고, Apache 2.0이라 상업적으로도 무료로 쓸 수 있습니다. 🧵</description><pubDate>Tue, 06 Oct 2026 16:56:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKQ2ljD3ZO</guid></item><item><title>1/ 구글 딥마인드가 온디바이스 멀티모달 임베딩 모델 'EmbeddingGemma 2'를 공개했습니다.
+
+임베딩 모델은 글이나 사진의 의미를 7...</title><link>https://www.threads.net/@choi.openai/post/DeKQnSAiQAV</link><description>1/ 구글 딥마인드가 온디바이스 멀티모달 임베딩 모델 'EmbeddingGemma 2'를 공개했습니다.
+
+임베딩 모델은 글이나 사진의 의미를 768개의 숫자로 바꿔 좌표처럼 저장하는 모델인데요.
+
+뜻이 비슷한 자료는 가까운 좌표에 놓이기 때문에, 검색할 때는 질문도 숫자로 바꾼 뒤 가장 가까운 자료를 꺼냅니다.
+
+작년에 나온 1세대는 텍스트만 다뤘지만, 이번 모델은 코드, 이미지, 영상, 음성을 같은 좌표 공간에 넣습니다.
+
+음성 메모로 특정 영상 클립을 찾거나, 문장 하나로 몇 시간 분량의 녹음 속 구간을 찾는 일을 모델 하나로 처리할 수 있게 된 겁니다.
+
+Gemma 4 구조를 기반으로 만들었고, 상업 이용이 자유로운 Apache 2.0 라이선스로 허깅페이스와 캐글에 가중치를 올렸습니다.</description><pubDate>Tue, 06 Oct 2026 17:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKQnSAiQAV</guid></item><item><title>2/ 모델 한가운데에는 텍스트와 코드를 처리하는 2억 7천만 파라미터 본체가 있고, 이미지·영상용 비전 인코더(1억 7천만)와 오디오 인코더(3...</title><link>https://www.threads.net/@choi.openai/post/DeKRU2MjwqI</link><description>2/ 모델 한가운데에는 텍스트와 코드를 처리하는 2억 7천만 파라미터 본체가 있고, 이미지·영상용 비전 인코더(1억 7천만)와 오디오 인코더(3억)가 선택형으로 붙습니다.
+
+사진이나 음성은 각 인코더를 거쳐 같은 본체로 들어가고, 마지막에는 모두 768차원 벡터로 나오는데요.
+그래서 플라밍고 사진, 플라밍고 영상, 플라밍고의 분홍빛을 설명하는 문장이 서로 가까운 자리에 놓입니다.
+지금까지 기기에서 이런 검색을 만들려면 사진에 설명문을 붙이는 모델, 음성을 글로 받아 적는 모델, 텍스트 임베딩 모델을 차례로 이어야 했습니다.
+
+구글은 이 중간 단계를 없애 지연 시간과 메모리 부담을 줄였다고 설명합니다.
+
+필요한 인코더만 골라 올릴 수도 있어서, 텍스트만 쓰면 2억 7천만, 텍스트와 이미지는 4억 4천만, 텍스트와 음성은 5억 7천만 파라미터로 가볍게 돌릴 수 있습니다.</description><pubDate>Tue, 06 Oct 2026 17:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKRU2MjwqI</guid></item><item><title>3/ 작년 9월 공개된 1세대 EmbeddingGemma는 Gemma 3 270M 기반의 텍스트 전용 모델이었습니다.
+
+200MB 이하 메모리로...</title><link>https://www.threads.net/@choi.openai/post/DeKRWEaj5cY</link><description>3/ 작년 9월 공개된 1세대 EmbeddingGemma는 Gemma 3 270M 기반의 텍스트 전용 모델이었습니다.
+
+200MB 이하 메모리로 돌아가고 2,048토큰까지 읽는 것이 강점이었는데요.
+1년 만에 가장 크게 오른 건 코드 검색입니다.
+
+코드 검색 벤치마크 MTEB Code에서 68.76점이던 점수가 78.68점으로 9.92점 올랐고, 다국어 텍스트 검색(MTEB 다국어)은 61.15점에서 61.36점으로 기존 수준을 지켰습니다.
+
+한 번에 읽는 길이도 8,192토큰으로 네 배가 돼, 음성 약 5분 30초나 이미지 29장, 영상 프레임 58장을 한꺼번에 넣을 수 있습니다.
+
+구글 차트는 코드 점수를 텍스트 본체 크기 기준으로 표시했는데, 이 크기에서 알리바바의 Qwen3-Embedding-0.6B를 앞섰고 Qwen3-Embedding-8B와는 몇 점 차이까지 따라붙었습니다.</description><pubDate>Tue, 06 Oct 2026 17:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKRWEaj5cY</guid></item><item><title>🚨 속보) 미스트랄이 1조 파라미터 오픈웨이트 모델 Mistral Large 4를 공개했습니다.
+
+Artificial Analysis 종합 지수...</title><link>https://www.threads.net/@choi.openai/post/DeKPYdZDkn4</link><description>🚨 속보) 미스트랄이 1조 파라미터 오픈웨이트 모델 Mistral Large 4를 공개했습니다.
+
+Artificial Analysis 종합 지수에서 직전 모델 Medium 3.5의 14점을 38점으로 끌어올리며, 미국과 중국 밖에서 나온 모델 중 가장 높은 점수를 받았습니다.
+
+실제 취약점을 재현하고 고치는 보안 평가에서는 82%로 전체 1위입니다.
+
+이번 발표를 정리했습니다 🧵</description><pubDate>Tue, 06 Oct 2026 16:44:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKPYdZDkn4</guid></item><item><title>1/ 미스트랄이 10월 6일 Mistral Large 4를 공개 프리뷰로 내놨습니다.
+줄여서 ML4, 공식 별칭은 뚱냥이라는 뜻의 'Le Cho...</title><link>https://www.threads.net/@choi.openai/post/DeKPjELj2M_</link><description>1/ 미스트랄이 10월 6일 Mistral Large 4를 공개 프리뷰로 내놨습니다.
+줄여서 ML4, 공식 별칭은 뚱냥이라는 뜻의 'Le Chonk'입니다.
+
+전체 1조 파라미터 가운데 토큰 하나를 처리할 때 490억 개만 켜는 MoE 구조이고, 텍스트와 이미지를 처음부터 함께 학습했습니다.
+일반 답변과 추론을 한 모델에서 처리하고, 160개가 넘는 언어를 학습했습니다.
+
+컨텍스트는 512K 토큰, 최대 출력은 256K 토큰입니다.
+API는 Mistral Studio에서 바로 쓸 수 있고, 가중치는 10월 말 공개됩니다.
+
+미스트랄은 이번 프리뷰를 만든 강화학습이 아직 진행 중이라며, 이달 안에 최종 버전을 가중치와 함께 내놓겠다고 밝혔습니다.</description><pubDate>Tue, 06 Oct 2026 16:44:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKPjELj2M_</guid></item><item><title>2/ 성능은 독립 평가기관 Artificial Analysis의 종합 지수부터 보겠습니다.
+10개 평가를 합친 이 지수에서 ML4는 38점을 받...</title><link>https://www.threads.net/@choi.openai/post/DeKPkHoj1Xl</link><description>2/ 성능은 독립 평가기관 Artificial Analysis의 종합 지수부터 보겠습니다.
+10개 평가를 합친 이 지수에서 ML4는 38점을 받았습니다.
+
+GPT-6 Luna(max)와 같은 점수이고, DeepSeek V4.1 Flash(max)의 39점과 1점 차이입니다.
+
+미스트랄이 4월 말 내놓은 128B 모델 Medium 3.5는 14점, Large 3는 9점이었습니다. 한 세대 만에 24점을 올린 셈입니다.
+
+미스트랄이 내세운 "미국·유럽 최고 오픈웨이트"도 이 표에서 확인됩니다. 다만 중국 모델은 여전히 위에 있습니다.
+미스트랄이 직접 비교한 GLM-5.3이 45점, Kimi K3가 44점입니다.
+
+맨 위는 9월 공개된 Claude Opus 5.5의 58점입니다.</description><pubDate>Tue, 06 Oct 2026 16:44:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKPkHoj1Xl</guid></item><item><title>3/ 코딩 점수는 오픈웨이트 상위권이지만 1위는 아닙니다.
+
+공개된 적 없는 저장소의 과제를 고치는 DeepSWE 1.1에서 61.7%를 받았습...</title><link>https://www.threads.net/@choi.openai/post/DeKPlIuDzRC</link><description>3/ 코딩 점수는 오픈웨이트 상위권이지만 1위는 아닙니다.
+
+공개된 적 없는 저장소의 과제를 고치는 DeepSWE 1.1에서 61.7%를 받았습니다. Artificial Analysis 측정 비교에서는 GLM-5.3(61%)과 비슷하고 Kimi K3(68%)에는 뒤집니다.
+
+터미널에서 긴 작업을 끝까지 수행하는 Terminal-Bench 4에서는 28.3%로 Kimi K3(21%)를 앞섰지만, GLM-5.3의 40%와는 차이가 큽니다.
+여러 평가를 합친 Coding Agent Index는 49.8%로 DeepSeek V4 Pro와 Qwen3.8 Max보다 높았습니다.
+
+Surge AI의 블라인드 평가에서는 전문가들이 모델 이름을 가린 채 코드를 5점 만점으로 매겼습니다.
+ML4는 3.74점으로 5개 모델 중 2위였고, 1위는 4.22점의 Claude Opus 5였습니다.</description><pubDate>Tue, 06 Oct 2026 16:45:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKPlIuDzRC</guid></item></channel></rss>
