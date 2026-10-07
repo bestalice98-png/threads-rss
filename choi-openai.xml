@@ -1,120 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 06 Oct 2026 19:53:41 +0000</lastBuildDate><item><title>Unsloth가 구글이 새롭게 공개한 EmbeddingGemma 2를 출시와 동시에 지원합니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 07 Oct 2026 04:34:02 +0000</lastBuildDate><item><title>AI 에이전트가 제대로 일했는지 모든 작업 기록을 검사하는 전용 AI 모델이 나왔습니다.
 
-EmbeddingGemma 2는 RAM 0.5...</title><link>https://www.threads.net/@choi.openai/post/DeKbrZCDWdR</link><description>Unsloth가 구글이 새롭게 공개한 EmbeddingGemma 2를 출시와 동시에 지원합니다.
+라미나가 flow-1을 공개했습니다.
+에이전트가 어떤...</title><link>https://www.threads.net/@choi.openai/post/DeLZYq7kbMq</link><description>AI 에이전트가 제대로 일했는지 모든 작업 기록을 검사하는 전용 AI 모델이 나왔습니다.
 
-EmbeddingGemma 2는 RAM 0.5GB에서도 실행 가능한 740M 규모의 멀티모달 임베딩 모델로, 텍스트·코드·이미지·오디오·영상을 함께 처리할 수 있습니다.
+라미나가 flow-1을 공개했습니다.
+에이전트가 어떤 도구를 사용했고 어디서 판단을 잘못했는지 전체 작업 기록을 따라가며 오류를 찾아내는 모델입니다.
 
-Unsloth에서는 EmbeddingGemma 2를 로컬에서 실행하고 직접 학습할 수 있으며, GGUF 모델도 허깅페이스에 공개했습니다.
+자체 523개 작업 테스트에서 GPT-6 Sol과 비슷한 분석 성능을 기록하면서 비용은 23분의 1 수준이라고 합니다. GPT-6 Luna보다도 실행 비용이 25% 낮습니다.
 
-새로운 오픈 모델이 나오자마자 개인 PC에서 실행하고 학습할 수 있게 만드는 Unsloth의 역할이 점점 커지고 있습니다.</description><pubDate>Tue, 06 Oct 2026 18:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKbrZCDWdR</guid></item><item><title>내용 :
-https://unsloth.ai/docs/models/embeddinggemma-2</title><link>https://www.threads.net/@choi.openai/post/DeKbsT9DVk4</link><description>내용 :
-https://unsloth.ai/docs/models/embeddinggemma-2</description><pubDate>Tue, 06 Oct 2026 18:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKbsT9DVk4</guid></item><item><title>🚨 속보) 구글이 나노 바나나 2.1을 공개했습니다.
+비용이 낮아 일부 작업만 골라 검사하는 대신 모든 에이전트 실행을 검사할 수 있다는 게 목적입니다.
 
-이전 Pro 모델을 앞선다면서 1K 이미지 한 장 가격은 0.0336달러로 Pro의 4분...</title><link>https://www.threads.net/@choi.openai/post/DeKSFaSkd5Y</link><description>🚨 속보) 구글이 나노 바나나 2.1을 공개했습니다.
+AI가 일하고, 또 다른 AI가 그 작업을 상시 검사하는 구조가 빠르게 자리 잡고 있습니다.</description><pubDate>Wed, 07 Oct 2026 03:29:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeLZYq7kbMq</guid></item><item><title>블로그 :
+https://laminar.sh/blog/flow-1</title><link>https://www.threads.net/@choi.openai/post/DeLZZxSEVjY</link><description>블로그 :
+https://laminar.sh/blog/flow-1</description><pubDate>Wed, 07 Oct 2026 03:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeLZZxSEVjY</guid></item><item><title>Claude가 이제 Google Docs, Sheets, Slides 안으로 직접 들어갑니다.
 
-이전 Pro 모델을 앞선다면서 1K 이미지 한 장 가격은 0.0336달러로 Pro의 4분의 1까지 낮췄습니다. 🧵</description><pubDate>Tue, 06 Oct 2026 17:08:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKSFaSkd5Y</guid></item><item><title>1/ 구글이 이미지 생성·편집 모델 나노 바나나 2.1을 공개했습니다.
+파일 옆 사이드바에서 Claude가 현재 문서 ...</title><link>https://www.threads.net/@choi.openai/post/DeLPJpaCKmt</link><description>Claude가 이제 Google Docs, Sheets, Slides 안으로 직접 들어갑니다.
 
-구글은 이전 모델들을 전반적으로 앞선다고 밝히면서, 특히 시각 디자인과...</title><link>https://www.threads.net/@choi.openai/post/DeKSSiJjxUz</link><description>1/ 구글이 이미지 생성·편집 모델 나노 바나나 2.1을 공개했습니다.
+파일 옆 사이드바에서 Claude가 현재 문서 내용을 읽고 수정하며, 변경 사항은 사용자가 확인한 뒤 적용할 수 있습니다.
 
-구글은 이전 모델들을 전반적으로 앞선다고 밝히면서, 특히 시각 디자인과 마스크 기반 편집, 피사체 일관성이 크게 좋아졌다고 설명했는데요.
+반대로 Claude에서 Google 파일 링크를 붙여 넣거나 새 문서·시트·슬라이드 제작을 요청하면 채팅 옆에 파일이 열려 함께 작업할 수 있습니다.
 
-배포는 발표 당일부터 Gemini 앱과 검색의 AI 모드, Google AI Studio, Flow, Stitch, Google Ads, Gemini Enterprise 플랫폼에서 순차적으로 시작됐습니다.
+구글의 업무 도구 안에서 Gemini뿐 아니라 Claude까지 직접 경쟁하게 된 셈입니다. 현재 모든 Claude 유료 플랜에서 베타로 제공됩니다.</description><pubDate>Wed, 07 Oct 2026 02:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeLPJpaCKmt</guid></item><item><title>내용 :
+https://claude.com/ko/resources/articles/claude-now-works-in-google-docs-sh...</title><link>https://www.threads.net/@choi.openai/post/DeLPLobCHuZ</link><description>내용 :
+https://claude.com/ko/resources/articles/claude-now-works-in-google-docs-sheets-and-slides</description><pubDate>Wed, 07 Oct 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeLPLobCHuZ</guid></item><item><title>ChatGPT가 회의가 끝난 뒤 후속 업무까지 이어주는 Meetings 플러그인을 출시했습니다.
 
-개발자는 Gemini API에서 gemini-nano-banana-2.1이라는 이름으로 바로 호출할 수 있습니다.
+회의 내용을 자동으로 기록하고, ChatGPT...</title><link>https://www.threads.net/@choi.openai/post/DeLE0ElAalk</link><description>ChatGPT가 회의가 끝난 뒤 후속 업무까지 이어주는 Meetings 플러그인을 출시했습니다.
 
-소비자 앱과 광고, 디자인 도구, 기업용 플랫폼에 같은 날 한꺼번에 넣은 만큼, 구글은 이 모델을 서비스 전반의 기본 이미지 엔진으로 내놓았습니다.</description><pubDate>Tue, 06 Oct 2026 17:08:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKSSiJjxUz</guid></item><item><title>2/ 이름은 2.1이지만 개발자 문서를 보면 모델의 역할이 달라졌습니다.
+회의 내용을 자동으로 기록하고, ChatGPT가 알고 있는 사용자와 기존 업무 맥락을 반영해 개인화된 요약과 다음 할 일을 ChatGPT Space에 저장합니다.
 
-구글은 나노 바나나 2.1을 이미지 생성과 대화형 편집을 맡는 주력 ...</title><link>https://www.threads.net/@choi.openai/post/DeKSTy3j4dA</link><description>2/ 이름은 2.1이지만 개발자 문서를 보면 모델의 역할이 달라졌습니다.
+회의가 끝나면 해당 내용을 바탕으로 프로젝트 계획을 업데이트하거나 후속 이메일 작성도 요청할 수 있으며, 기록은 개인 보관하거나 팀과 공유할 수 있습니다.
 
-구글은 나노 바나나 2.1을 이미지 생성과 대화형 편집을 맡는 주력 모델로 소개하고, 새 프로젝트에는 나노 바나나 2 대신 2.1을 쓰라고 권장했습니다.
+현재 macOS용 ChatGPT 데스크톱 앱에서 Pro와 Business 사용자를 대상으로 베타 제공되며 Enterprise도 추가될 예정입니다.</description><pubDate>Wed, 07 Oct 2026 00:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeLE0ElAalk</guid></item><item><title>🚨 속보) 오픈AI가 공개하지 않은 내부 모델이 만든 수학 원고 722편을 깃허브에 한꺼번에 올렸습니다.
 
-Flash급 속도와 비용을 유지하면서 화질과 이미지 속 글자 표현, 여러 번 주고받는 편집의 일관성, 구글 검색 기반 생성을 개선했다는 설명입니다.
+준리만 가설과 힐베르트 10번 문제,...</title><link>https://www.threads.net/@choi.openai/post/DeK5WZjE0LY</link><description>🚨 속보) 오픈AI가 공개하지 않은 내부 모델이 만든 수학 원고 722편을 깃허브에 한꺼번에 올렸습니다.
 
-추론 설정도 바뀌었는데요. 나노 바나나 2는 minimal과 high 두 단계에 기본값이 minimal이었지만, 2.1은 medium이 추가되고 기본값도 medium이 됐습니다.
+준리만 가설과 힐베르트 10번 문제, 호지 추측의 일부까지 목록에 들어 있습니다.
 
-그리기 전에 구도와 문구를 따져보는 과정을 기본으로 더 거치게 한 것이고, 5월 정식 출시 때 들어온 영상 입력도 그대로 이어집니다.</description><pubDate>Tue, 06 Oct 2026 17:08:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKSTy3j4dA</guid></item><item><title>3/ 구글이 가장 앞세운 기능은 마스크 기반 편집입니다.
+무엇이 공개됐고 어디까지 검증됐는지 정리했습니다 🧵</description><pubDate>Tue, 06 Oct 2026 22:50:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeK5WZjE0LY</guid></item><item><title>1/ 오픈AI가 아직 공개하지 않은 내부 모델이 만든 수학 결과를 깃허브에 올렸습니다. 
 
-사진에서 바꿀 영역을 지정하고 그 안만 고치는 방식인데요.
-지금까지 이미지 모델에 일...</title><link>https://www.threads.net/@choi.openai/post/DeKSU6YDyaV</link><description>3/ 구글이 가장 앞세운 기능은 마스크 기반 편집입니다.
+원고는 722편이고, 핵심 결과와 보조 정리, 후속 ...</title><link>https://www.threads.net/@choi.openai/post/DeK5W_PE3XA</link><description>1/ 오픈AI가 아직 공개하지 않은 내부 모델이 만든 수학 결과를 깃허브에 올렸습니다. 
 
-사진에서 바꿀 영역을 지정하고 그 안만 고치는 방식인데요.
-지금까지 이미지 모델에 일부만 고쳐 달라고 하면 배경 색감이나 인물 얼굴까지 조금씩 달라지는 문제가 자주 지적됐습니다.
+원고는 722편이고, 핵심 결과와 보조 정리, 후속 결과, 다른 방식의 증명을 함께 묶어 372개 묶음으로 정리했는데요.
 
-상품과 로고가 그대로 남아야 하는 제품 사진에서는 이 차이가 실무에 쓸 수 있느냐를 가릅니다.
+오픈AI는 기존 수학 평가에서 점수가 포화되자 미해결 연구 문제로 평가를 넓혔고, 이 모델에 약 4,000개 문제를 냈다고 밝혔습니다.
 
-구글 딥마인드 측이 공개한 예시에서도 같은 해변 마을을 구도 그대로 크레파스 그림으로 바꾸고, 같은 골목의 시간대만 저녁으로 바꿨습니다.
+결과 하나를 얻는 데 평균 ChatGPT Pro 추론 3시간 분량의 연산이 들었습니다.
 
-오픈AI는 9월 Images 2.5에서, 알리바바는 Qwen-Image-2.1에서 지정한 부분만 고치는 편집을 내세웠는데요. 세 회사가 같은 기능으로 맞붙게 됐습니다.</description><pubDate>Tue, 06 Oct 2026 17:09:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKSU6YDyaV</guid></item><item><title>🚨 속보) 구글 딥마인드가 텍스트·사진·영상·음성·코드를 한 번에 검색하는 임베딩 모델 'EmbeddingGemma 2'를 오픈소스로 공개했습니...</title><link>https://www.threads.net/@choi.openai/post/DeKQ2ljD3ZO</link><description>🚨 속보) 구글 딥마인드가 텍스트·사진·영상·음성·코드를 한 번에 검색하는 임베딩 모델 'EmbeddingGemma 2'를 오픈소스로 공개했습니다.
+저장소에는 논문 PDF와 Lean 증명, 10개 결과의 추론 요약이 함께 올라갔고, 출력물 가운데 일정 수준 이상 의미 있는 결과만 골라 목록을 만들었다는 설명입니다.</description><pubDate>Tue, 06 Oct 2026 22:50:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeK5W_PE3XA</guid></item><item><title>2/ 목록에는 수학계의 오래된 난제 이름이 줄지어 있습니다.
 
-파라미터 7억 4천만 개로 스마트폰 안에서 인터넷 없이 돌아가고, Apache 2.0이라 상업적으로도 무료로 쓸 수 있습니다. 🧵</description><pubDate>Tue, 06 Oct 2026 16:56:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKQ2ljD3ZO</guid></item><item><title>1/ 구글 딥마인드가 온디바이스 멀티모달 임베딩 모델 'EmbeddingGemma 2'를 공개했습니다.
+3번은 리만 제타 함수를 포함한 모든 디리클레 L-함수가 실수부 7/8보다 큰 영...</title><link>https://www.threads.net/@choi.openai/post/DeK5YDDE2BP</link><description>2/ 목록에는 수학계의 오래된 난제 이름이 줄지어 있습니다.
 
-임베딩 모델은 글이나 사진의 의미를 7...</title><link>https://www.threads.net/@choi.openai/post/DeKQnSAiQAV</link><description>1/ 구글 딥마인드가 온디바이스 멀티모달 임베딩 모델 'EmbeddingGemma 2'를 공개했습니다.
+3번은 리만 제타 함수를 포함한 모든 디리클레 L-함수가 실수부 7/8보다 큰 영역에서 영점을 갖지 않는다는 준리만 가설이고, 4번은 유리수 해가 있는지 판정하는 알고리즘이 존재하지 않는다는 힐베르트 10번 문제의 유리수판입니다.
 
-임베딩 모델은 글이나 사진의 의미를 768개의 숫자로 바꿔 좌표처럼 저장하는 모델인데요.
+카탈랑 상수가 무리수라는 증명, 원주율의 무리성 지수가 정확히 2라는 결과, CM 아벨 다양체에 대한 호지 추측, 에르되시가 남긴 추측 여러 개도 들어 있는데요.
 
-뜻이 비슷한 자료는 가까운 좌표에 놓이기 때문에, 검색할 때는 질문도 숫자로 바꾼 뒤 가장 가까운 자료를 꺼냅니다.
+하나만 맞아도 학계의 큰 소식이 될 결과들이 수백 개 묶음으로 동시에 나온 셈입니다.</description><pubDate>Tue, 06 Oct 2026 22:50:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeK5YDDE2BP</guid></item><item><title>3/ 오픈AI는 저장소에 검증 단계가 서로 다른 결과가 섞여 있다고 직접 적었습니다.
 
-작년에 나온 1세대는 텍스트만 다뤘지만, 이번 모델은 코드, 이미지, 영상, 음성을 같은 좌표 공간에 넣습니다.
+컴퓨터가 증명의 각 단계를 확인하는 Lean 형식화가 붙...</title><link>https://www.threads.net/@choi.openai/post/DeK5ZLrk0LK</link><description>3/ 오픈AI는 저장소에 검증 단계가 서로 다른 결과가 섞여 있다고 직접 적었습니다.
 
-음성 메모로 특정 영상 클립을 찾거나, 문장 하나로 몇 시간 분량의 녹음 속 구간을 찾는 일을 모델 하나로 처리할 수 있게 된 겁니다.
+컴퓨터가 증명의 각 단계를 확인하는 Lean 형식화가 붙은 결과와 그렇지 않은 결과가 함께 있고, 목록 설명에 Lean 표시가 붙은 묶음은 372개 중 235개입니다.
 
-Gemma 4 구조를 기반으로 만들었고, 상업 이용이 자유로운 Apache 2.0 라이선스로 허깅페이스와 캐글에 가중치를 올렸습니다.</description><pubDate>Tue, 06 Oct 2026 17:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKQnSAiQAV</guid></item><item><title>2/ 모델 한가운데에는 텍스트와 코드를 처리하는 2억 7천만 파라미터 본체가 있고, 이미지·영상용 비전 인코더(1억 7천만)와 오디오 인코더(3...</title><link>https://www.threads.net/@choi.openai/post/DeKRU2MjwqI</link><description>2/ 모델 한가운데에는 텍스트와 코드를 처리하는 2억 7천만 파라미터 본체가 있고, 이미지·영상용 비전 인코더(1억 7천만)와 오디오 인코더(3억)가 선택형으로 붙습니다.
+형식화하지 않은 결과에는 오류가 있을 수 있으며, 발견되면 빠르게 고치겠다고 밝혔는데요.
 
-사진이나 음성은 각 인코더를 거쳐 같은 본체로 들어가고, 마지막에는 모두 768차원 벡터로 나오는데요.
-그래서 플라밍고 사진, 플라밍고 영상, 플라밍고의 분홍빛을 설명하는 문장이 서로 가까운 자리에 놓입니다.
-지금까지 기기에서 이런 검색을 만들려면 사진에 설명문을 붙이는 모델, 음성을 글로 받아 적는 모델, 텍스트 임베딩 모델을 차례로 이어야 했습니다.
+리만 제타 함수의 영점 영역과 호지 추측 결과는 정해진 절차 밖에서 얻은 예외였고, 11/12 영역 증명은 사람이 읽기 쉽게 다시 편집했다는 사실도 함께 공개했습니다.
 
-구글은 이 중간 단계를 없애 지연 시간과 메모리 부담을 줄였다고 설명합니다.
-
-필요한 인코더만 골라 올릴 수도 있어서, 텍스트만 쓰면 2억 7천만, 텍스트와 이미지는 4억 4천만, 텍스트와 음성은 5억 7천만 파라미터로 가볍게 돌릴 수 있습니다.</description><pubDate>Tue, 06 Oct 2026 17:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKRU2MjwqI</guid></item><item><title>3/ 작년 9월 공개된 1세대 EmbeddingGemma는 Gemma 3 270M 기반의 텍스트 전용 모델이었습니다.
-
-200MB 이하 메모리로...</title><link>https://www.threads.net/@choi.openai/post/DeKRWEaj5cY</link><description>3/ 작년 9월 공개된 1세대 EmbeddingGemma는 Gemma 3 270M 기반의 텍스트 전용 모델이었습니다.
-
-200MB 이하 메모리로 돌아가고 2,048토큰까지 읽는 것이 강점이었는데요.
-1년 만에 가장 크게 오른 건 코드 검색입니다.
-
-코드 검색 벤치마크 MTEB Code에서 68.76점이던 점수가 78.68점으로 9.92점 올랐고, 다국어 텍스트 검색(MTEB 다국어)은 61.15점에서 61.36점으로 기존 수준을 지켰습니다.
-
-한 번에 읽는 길이도 8,192토큰으로 네 배가 돼, 음성 약 5분 30초나 이미지 29장, 영상 프레임 58장을 한꺼번에 넣을 수 있습니다.
-
-구글 차트는 코드 점수를 텍스트 본체 크기 기준으로 표시했는데, 이 크기에서 알리바바의 Qwen3-Embedding-0.6B를 앞섰고 Qwen3-Embedding-8B와는 몇 점 차이까지 따라붙었습니다.</description><pubDate>Tue, 06 Oct 2026 17:00:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKRWEaj5cY</guid></item><item><title>🚨 속보) 미스트랄이 1조 파라미터 오픈웨이트 모델 Mistral Large 4를 공개했습니다.
-
-Artificial Analysis 종합 지수...</title><link>https://www.threads.net/@choi.openai/post/DeKPYdZDkn4</link><description>🚨 속보) 미스트랄이 1조 파라미터 오픈웨이트 모델 Mistral Large 4를 공개했습니다.
-
-Artificial Analysis 종합 지수에서 직전 모델 Medium 3.5의 14점을 38점으로 끌어올리며, 미국과 중국 밖에서 나온 모델 중 가장 높은 점수를 받았습니다.
-
-실제 취약점을 재현하고 고치는 보안 평가에서는 82%로 전체 1위입니다.
-
-이번 발표를 정리했습니다 🧵</description><pubDate>Tue, 06 Oct 2026 16:44:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKPYdZDkn4</guid></item><item><title>1/ 미스트랄이 10월 6일 Mistral Large 4를 공개 프리뷰로 내놨습니다.
-줄여서 ML4, 공식 별칭은 뚱냥이라는 뜻의 'Le Cho...</title><link>https://www.threads.net/@choi.openai/post/DeKPjELj2M_</link><description>1/ 미스트랄이 10월 6일 Mistral Large 4를 공개 프리뷰로 내놨습니다.
-줄여서 ML4, 공식 별칭은 뚱냥이라는 뜻의 'Le Chonk'입니다.
-
-전체 1조 파라미터 가운데 토큰 하나를 처리할 때 490억 개만 켜는 MoE 구조이고, 텍스트와 이미지를 처음부터 함께 학습했습니다.
-일반 답변과 추론을 한 모델에서 처리하고, 160개가 넘는 언어를 학습했습니다.
-
-컨텍스트는 512K 토큰, 최대 출력은 256K 토큰입니다.
-API는 Mistral Studio에서 바로 쓸 수 있고, 가중치는 10월 말 공개됩니다.
-
-미스트랄은 이번 프리뷰를 만든 강화학습이 아직 진행 중이라며, 이달 안에 최종 버전을 가중치와 함께 내놓겠다고 밝혔습니다.</description><pubDate>Tue, 06 Oct 2026 16:44:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKPjELj2M_</guid></item><item><title>2/ 성능은 독립 평가기관 Artificial Analysis의 종합 지수부터 보겠습니다.
-10개 평가를 합친 이 지수에서 ML4는 38점을 받...</title><link>https://www.threads.net/@choi.openai/post/DeKPkHoj1Xl</link><description>2/ 성능은 독립 평가기관 Artificial Analysis의 종합 지수부터 보겠습니다.
-10개 평가를 합친 이 지수에서 ML4는 38점을 받았습니다.
-
-GPT-6 Luna(max)와 같은 점수이고, DeepSeek V4.1 Flash(max)의 39점과 1점 차이입니다.
-
-미스트랄이 4월 말 내놓은 128B 모델 Medium 3.5는 14점, Large 3는 9점이었습니다. 한 세대 만에 24점을 올린 셈입니다.
-
-미스트랄이 내세운 "미국·유럽 최고 오픈웨이트"도 이 표에서 확인됩니다. 다만 중국 모델은 여전히 위에 있습니다.
-미스트랄이 직접 비교한 GLM-5.3이 45점, Kimi K3가 44점입니다.
-
-맨 위는 9월 공개된 Claude Opus 5.5의 58점입니다.</description><pubDate>Tue, 06 Oct 2026 16:44:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKPkHoj1Xl</guid></item><item><title>3/ 코딩 점수는 오픈웨이트 상위권이지만 1위는 아닙니다.
-
-공개된 적 없는 저장소의 과제를 고치는 DeepSWE 1.1에서 61.7%를 받았습...</title><link>https://www.threads.net/@choi.openai/post/DeKPlIuDzRC</link><description>3/ 코딩 점수는 오픈웨이트 상위권이지만 1위는 아닙니다.
-
-공개된 적 없는 저장소의 과제를 고치는 DeepSWE 1.1에서 61.7%를 받았습니다. Artificial Analysis 측정 비교에서는 GLM-5.3(61%)과 비슷하고 Kimi K3(68%)에는 뒤집니다.
-
-터미널에서 긴 작업을 끝까지 수행하는 Terminal-Bench 4에서는 28.3%로 Kimi K3(21%)를 앞섰지만, GLM-5.3의 40%와는 차이가 큽니다.
-여러 평가를 합친 Coding Agent Index는 49.8%로 DeepSeek V4 Pro와 Qwen3.8 Max보다 높았습니다.
-
-Surge AI의 블라인드 평가에서는 전문가들이 모델 이름을 가린 채 코드를 5점 만점으로 매겼습니다.
-ML4는 3.74점으로 5개 모델 중 2위였고, 1위는 4.22점의 Claude Opus 5였습니다.</description><pubDate>Tue, 06 Oct 2026 16:45:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeKPlIuDzRC</guid></item></channel></rss>
+수학자들이 원고 수백 편을 직접 읽고 확인하는 작업이 이제부터 시작됩니다.</description><pubDate>Tue, 06 Oct 2026 22:50:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeK5ZLrk0LK</guid></item></channel></rss>
