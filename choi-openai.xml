@@ -1,68 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 07 Oct 2026 04:34:02 +0000</lastBuildDate><item><title>AI 에이전트가 제대로 일했는지 모든 작업 기록을 검사하는 전용 AI 모델이 나왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 07 Oct 2026 20:16:05 +0000</lastBuildDate><item><title>홀리.. 앤트로픽이 이제 매달 MAX 이용자에게 무료 API 크레딧을 제공합니다.</title><link>https://www.threads.net/@choi.openai/post/DeNLlYuE8dK</link><description>홀리.. 앤트로픽이 이제 매달 MAX 이용자에게 무료 API 크레딧을 제공합니다.</description><pubDate>Wed, 07 Oct 2026 20:07:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNLlYuE8dK</guid></item><item><title>Haiku 5.5 발표 :</title><link>https://www.threads.net/@choi.openai/post/DeNLnXiE1vC</link><description>Haiku 5.5 발표 :</description><pubDate>Wed, 07 Oct 2026 20:08:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNLnXiE1vC</guid></item><item><title>🚨 속보) 앤트로픽이 Claude Haiku 5.5를 공개했습니다.</title><link>https://www.threads.net/@choi.openai/post/DeNK_hojTyP</link><description>🚨 속보) 앤트로픽이 Claude Haiku 5.5를 공개했습니다.</description><pubDate>Wed, 07 Oct 2026 20:04:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNK_hojTyP</guid></item><item><title>1/ 앤트로픽이 Claude Haiku 5.5를 공개했습니다.
 
-라미나가 flow-1을 공개했습니다.
-에이전트가 어떤...</title><link>https://www.threads.net/@choi.openai/post/DeLZYq7kbMq</link><description>AI 에이전트가 제대로 일했는지 모든 작업 기록을 검사하는 전용 AI 모델이 나왔습니다.
+지난달 Opus 5.5를 발표하면서 예고했던 5.5 세대의 가장 작은 모델인데요...</title><link>https://www.threads.net/@choi.openai/post/DeNLKsdkxMS</link><description>1/ 앤트로픽이 Claude Haiku 5.5를 공개했습니다.
 
-라미나가 flow-1을 공개했습니다.
-에이전트가 어떤 도구를 사용했고 어디서 판단을 잘못했는지 전체 작업 기록을 따라가며 오류를 찾아내는 모델입니다.
+지난달 Opus 5.5를 발표하면서 예고했던 5.5 세대의 가장 작은 모델인데요.
 
-자체 523개 작업 테스트에서 GPT-6 Sol과 비슷한 분석 성능을 기록하면서 비용은 23분의 1 수준이라고 합니다. GPT-6 Luna보다도 실행 비용이 25% 낮습니다.
+앤트로픽은 역대 가장 싸고, 가장 빠르고, 가장 성능이 좋은 소형 모델이라고 소개했습니다.
 
-비용이 낮아 일부 작업만 골라 검사하는 대신 모든 에이전트 실행을 검사할 수 있다는 게 목적입니다.
+요약, 대화 압축, 데이터베이스 조회, 분류처럼 양이 많고 비용에 민감한 작업을 맡기고, 코딩에서는 Opus 5.5나 Sonnet 5.5 아래에서 하위 에이전트로 쓰라고 권했습니다.
 
-AI가 일하고, 또 다른 AI가 그 작업을 상시 검사하는 구조가 빠르게 자리 잡고 있습니다.</description><pubDate>Wed, 07 Oct 2026 03:29:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeLZYq7kbMq</guid></item><item><title>블로그 :
-https://laminar.sh/blog/flow-1</title><link>https://www.threads.net/@choi.openai/post/DeLZZxSEVjY</link><description>블로그 :
-https://laminar.sh/blog/flow-1</description><pubDate>Wed, 07 Oct 2026 03:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeLZZxSEVjY</guid></item><item><title>Claude가 이제 Google Docs, Sheets, Slides 안으로 직접 들어갑니다.
+표준 속도 기준 앤트로픽 모델 중 가장 빨라 실시간 고객 상담과 브라우저 조작에도 맞는다고 설명했습니다.
 
-파일 옆 사이드바에서 Claude가 현재 문서 ...</title><link>https://www.threads.net/@choi.openai/post/DeLPJpaCKmt</link><description>Claude가 이제 Google Docs, Sheets, Slides 안으로 직접 들어갑니다.
+입력은 텍스트와 이미지, 컨텍스트는 100만 토큰이고, Claude 앱과 API는 물론 AWS, 구글 클라우드, 마이크로소프트 애저에서 바로 쓸 수 있습니다.</description><pubDate>Wed, 07 Oct 2026 20:04:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNLKsdkxMS</guid></item><item><title>2/ 가장 크게 오른 영역은 컴퓨터 사용과 지식 노동입니다.
 
-파일 옆 사이드바에서 Claude가 현재 문서 내용을 읽고 수정하며, 변경 사항은 사용자가 확인한 뒤 적용할 수 있습니다.
+실제 컴퓨터를 조작해 여러 단계 작업을 끝내는 OSWorld 2.1에서 Haiku...</title><link>https://www.threads.net/@choi.openai/post/DeNLMANk1I7</link><description>2/ 가장 크게 오른 영역은 컴퓨터 사용과 지식 노동입니다.
 
-반대로 Claude에서 Google 파일 링크를 붙여 넣거나 새 문서·시트·슬라이드 제작을 요청하면 채팅 옆에 파일이 열려 함께 작업할 수 있습니다.
+실제 컴퓨터를 조작해 여러 단계 작업을 끝내는 OSWorld 2.1에서 Haiku 4.5는 15.7%였는데 Haiku 5.5는 72.4%를 기록했고, GPT-6 Luna는 48.9%였습니다.
 
-구글의 업무 도구 안에서 Gemini뿐 아니라 Claude까지 직접 경쟁하게 된 셈입니다. 현재 모든 Claude 유료 플랜에서 베타로 제공됩니다.</description><pubDate>Wed, 07 Oct 2026 02:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeLPJpaCKmt</guid></item><item><title>내용 :
-https://claude.com/ko/resources/articles/claude-now-works-in-google-docs-sh...</title><link>https://www.threads.net/@choi.openai/post/DeLPLobCHuZ</link><description>내용 :
-https://claude.com/ko/resources/articles/claude-now-works-in-google-docs-sheets-and-slides</description><pubDate>Wed, 07 Oct 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeLPLobCHuZ</guid></item><item><title>ChatGPT가 회의가 끝난 뒤 후속 업무까지 이어주는 Meetings 플러그인을 출시했습니다.
+44개 직업의 실무 과제를 평가하는 GDPval-AA는 735에서 1620 Elo로 올라 Luna의 1437을 앞섰습니다.
 
-회의 내용을 자동으로 기록하고, ChatGPT...</title><link>https://www.threads.net/@choi.openai/post/DeLE0ElAalk</link><description>ChatGPT가 회의가 끝난 뒤 후속 업무까지 이어주는 Meetings 플러그인을 출시했습니다.
+앤트로픽이 공개한 비용 그래프를 보면, OSWorld에서는 중간 강도(medium)가 시도당 약 0.12달러로 Luna 최고 설정보다 싸면서 점수는 더 높습니다.
 
-회의 내용을 자동으로 기록하고, ChatGPT가 알고 있는 사용자와 기존 업무 맥락을 반영해 개인화된 요약과 다음 할 일을 ChatGPT Space에 저장합니다.
+반면 GDPval에서는 같은 비용대에서 두 모델이 거의 겹치고, Haiku 5.5의 우위는 강도를 max까지 올렸을 때 나옵니다.
 
-회의가 끝나면 해당 내용을 바탕으로 프로젝트 계획을 업데이트하거나 후속 이메일 작성도 요청할 수 있으며, 기록은 개인 보관하거나 팀과 공유할 수 있습니다.
+고객사 평가에서는 HubSpot이 CRM 과제에서 92.8%로 자사 소형 모델 평가 중 최고점을 받았고, Asana는 작업 완료 지연이 30% 넘게 줄었다고 밝혔습니다.</description><pubDate>Wed, 07 Oct 2026 20:04:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNLMANk1I7</guid></item><item><title>3/ 코딩은 Haiku 4.5가 거의 못 하던 영역에서 쓸 만한 수준으로 올라왔습니다.
 
-현재 macOS용 ChatGPT 데스크톱 앱에서 Pro와 Business 사용자를 대상으로 베타 제공되며 Enterprise도 추가될 예정입니다.</description><pubDate>Wed, 07 Oct 2026 00:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeLE0ElAalk</guid></item><item><title>🚨 속보) 오픈AI가 공개하지 않은 내부 모델이 만든 수학 원고 722편을 깃허브에 한꺼번에 올렸습니다.
+터미널에서 여러 단계 작업을 수행하는 Terminal-...</title><link>https://www.threads.net/@choi.openai/post/DeNLNGcExFV</link><description>3/ 코딩은 Haiku 4.5가 거의 못 하던 영역에서 쓸 만한 수준으로 올라왔습니다.
 
-준리만 가설과 힐베르트 10번 문제,...</title><link>https://www.threads.net/@choi.openai/post/DeK5WZjE0LY</link><description>🚨 속보) 오픈AI가 공개하지 않은 내부 모델이 만든 수학 원고 722편을 깃허브에 한꺼번에 올렸습니다.
+터미널에서 여러 단계 작업을 수행하는 Terminal-Bench 4.0은 0%에서 39.2%가 됐고, Luna는 16.4%였습니다.
 
-준리만 가설과 힐베르트 10번 문제, 호지 추측의 일부까지 목록에 들어 있습니다.
+실제 Cursor 세션에서 뽑은 다중 파일 과제로 평가하는 CursorBench 4.0에서는 Haiku 5.5 max가 48.4%를 과제당 1.12달러에 기록했는데요.
 
-무엇이 공개됐고 어디까지 검증됐는지 정리했습니다 🧵</description><pubDate>Tue, 06 Oct 2026 22:50:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeK5WZjE0LY</guid></item><item><title>1/ 오픈AI가 아직 공개하지 않은 내부 모델이 만든 수학 결과를 깃허브에 올렸습니다. 
+Sonnet 5.5 high(47.8%, 1.67달러)보다 높고, high 설정은 42.3%를 0.32달러에 냈습니다.
 
-원고는 722편이고, 핵심 결과와 보조 정리, 후속 ...</title><link>https://www.threads.net/@choi.openai/post/DeK5W_PE3XA</link><description>1/ 오픈AI가 아직 공개하지 않은 내부 모델이 만든 수학 결과를 깃허브에 올렸습니다. 
+대신 max는 과제당 토큰을 32만 개 넘게 써서 표에 있는 모델 중 가장 많았습니다.
 
-원고는 722편이고, 핵심 결과와 보조 정리, 후속 결과, 다른 방식의 증명을 함께 묶어 372개 묶음으로 정리했는데요.
+앤트로픽도 복잡한 에이전트 코딩은 Sonnet 5.5와 Opus 5.5가 낫고, Haiku 5.5는 범위가 좁은 하위 작업에 맞다고 정리했습니다.</description><pubDate>Wed, 07 Oct 2026 20:04:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNLNGcExFV</guid></item><item><title>🚨 챗GPT, 4000만 돌파기념 뱅크드 리셋 제공 예정.</title><link>https://www.threads.net/@choi.openai/post/DeNJSj_k3UV</link><description>🚨 챗GPT, 4000만 돌파기념 뱅크드 리셋 제공 예정.</description><pubDate>Wed, 07 Oct 2026 19:47:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNJSj_k3UV</guid></item><item><title>마이크로소프트 AI CEO 무스타파 슐레이만(Mustafa Suleyman)은 AI를 두고 낙관론과 비관론 중 하나만 택하는 것은 진실의 절반을...</title><link>https://www.threads.net/@choi.openai/post/DeND5GjEtT4</link><description>마이크로소프트 AI CEO 무스타파 슐레이만(Mustafa Suleyman)은 AI를 두고 낙관론과 비관론 중 하나만 택하는 것은 진실의 절반을 놓치는 것이라 밝혔습니다.
 
-오픈AI는 기존 수학 평가에서 점수가 포화되자 미해결 연구 문제로 평가를 넓혔고, 이 모델에 약 4,000개 문제를 냈다고 밝혔습니다.
+그는 “합리적이려면 두 관점을 모두 가져야 한다”며, 21세기의 지혜는 상반되는 모순된 현실을 동시에 인식하는 데 있다고 말했습니다.
 
-결과 하나를 얻는 데 평균 ChatGPT Pro 추론 3시간 분량의 연산이 들었습니다.
+슐레이만은 앞으로 수십 년간 AI가 “인류 역사상 가장 거대한 생산성 도약”을 가져올 것이 확실하다고 강조했습니다.
 
-저장소에는 논문 PDF와 Lean 증명, 10개 결과의 추론 요약이 함께 올라갔고, 출력물 가운데 일정 수준 이상 의미 있는 결과만 골라 목록을 만들었다는 설명입니다.</description><pubDate>Tue, 06 Oct 2026 22:50:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeK5W_PE3XA</guid></item><item><title>2/ 목록에는 수학계의 오래된 난제 이름이 줄지어 있습니다.
+그러나 동시에 경제와 일자리, 업무 방식, 심지어 정치를 뒤흔들며 “역사상 유례없는 가장 파괴적인 변화”를 일으켜 기존 질서를 극심하게 불안정하게 만들 수 있다고 경고했습니다.
 
-3번은 리만 제타 함수를 포함한 모든 디리클레 L-함수가 실수부 7/8보다 큰 영...</title><link>https://www.threads.net/@choi.openai/post/DeK5YDDE2BP</link><description>2/ 목록에는 수학계의 오래된 난제 이름이 줄지어 있습니다.
-
-3번은 리만 제타 함수를 포함한 모든 디리클레 L-함수가 실수부 7/8보다 큰 영역에서 영점을 갖지 않는다는 준리만 가설이고, 4번은 유리수 해가 있는지 판정하는 알고리즘이 존재하지 않는다는 힐베르트 10번 문제의 유리수판입니다.
-
-카탈랑 상수가 무리수라는 증명, 원주율의 무리성 지수가 정확히 2라는 결과, CM 아벨 다양체에 대한 호지 추측, 에르되시가 남긴 추측 여러 개도 들어 있는데요.
-
-하나만 맞아도 학계의 큰 소식이 될 결과들이 수백 개 묶음으로 동시에 나온 셈입니다.</description><pubDate>Tue, 06 Oct 2026 22:50:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeK5YDDE2BP</guid></item><item><title>3/ 오픈AI는 저장소에 검증 단계가 서로 다른 결과가 섞여 있다고 직접 적었습니다.
-
-컴퓨터가 증명의 각 단계를 확인하는 Lean 형식화가 붙...</title><link>https://www.threads.net/@choi.openai/post/DeK5ZLrk0LK</link><description>3/ 오픈AI는 저장소에 검증 단계가 서로 다른 결과가 섞여 있다고 직접 적었습니다.
-
-컴퓨터가 증명의 각 단계를 확인하는 Lean 형식화가 붙은 결과와 그렇지 않은 결과가 함께 있고, 목록 설명에 Lean 표시가 붙은 묶음은 372개 중 235개입니다.
-
-형식화하지 않은 결과에는 오류가 있을 수 있으며, 발견되면 빠르게 고치겠다고 밝혔는데요.
-
-리만 제타 함수의 영점 영역과 호지 추측 결과는 정해진 절차 밖에서 얻은 예외였고, 11/12 영역 증명은 사람이 읽기 쉽게 다시 편집했다는 사실도 함께 공개했습니다.
-
-수학자들이 원고 수백 편을 직접 읽고 확인하는 작업이 이제부터 시작됩니다.</description><pubDate>Tue, 06 Oct 2026 22:50:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeK5ZLrk0LK</guid></item></channel></rss>
+폭발적인 생산성 혁신과 대규모 사회·경제적 충격이라는 거대한 양면성을 직시하고 정교하게 대비해야 한다는 분석입니다.</description><pubDate>Wed, 07 Oct 2026 19:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeND5GjEtT4</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=HSmqmaoSiBA</title><link>https://www.threads.net/@choi.openai/post/DeND6hcEoqs</link><description>풀영상 :
+https://www.youtube.com/watch?v=HSmqmaoSiBA</description><pubDate>Wed, 07 Oct 2026 19:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeND6hcEoqs</guid></item></channel></rss>
