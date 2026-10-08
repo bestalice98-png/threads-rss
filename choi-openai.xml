@@ -1,48 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 07 Oct 2026 20:16:05 +0000</lastBuildDate><item><title>홀리.. 앤트로픽이 이제 매달 MAX 이용자에게 무료 API 크레딧을 제공합니다.</title><link>https://www.threads.net/@choi.openai/post/DeNLlYuE8dK</link><description>홀리.. 앤트로픽이 이제 매달 MAX 이용자에게 무료 API 크레딧을 제공합니다.</description><pubDate>Wed, 07 Oct 2026 20:07:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNLlYuE8dK</guid></item><item><title>Haiku 5.5 발표 :</title><link>https://www.threads.net/@choi.openai/post/DeNLnXiE1vC</link><description>Haiku 5.5 발표 :</description><pubDate>Wed, 07 Oct 2026 20:08:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNLnXiE1vC</guid></item><item><title>🚨 속보) 앤트로픽이 Claude Haiku 5.5를 공개했습니다.</title><link>https://www.threads.net/@choi.openai/post/DeNK_hojTyP</link><description>🚨 속보) 앤트로픽이 Claude Haiku 5.5를 공개했습니다.</description><pubDate>Wed, 07 Oct 2026 20:04:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNK_hojTyP</guid></item><item><title>1/ 앤트로픽이 Claude Haiku 5.5를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 08 Oct 2026 04:45:21 +0000</lastBuildDate><item><title>오픈AI가 18세 미만 사용자를 위한 ChatGPT for Teens를 공개했습니다.
 
-지난달 Opus 5.5를 발표하면서 예고했던 5.5 세대의 가장 작은 모델인데요...</title><link>https://www.threads.net/@choi.openai/post/DeNLKsdkxMS</link><description>1/ 앤트로픽이 Claude Haiku 5.5를 공개했습니다.
+18세 미만으로 확인된 계정에는 보호 기능이 기본 적용되...</title><link>https://www.threads.net/@choi.openai/post/DeOBsP7Eg3f</link><description>오픈AI가 18세 미만 사용자를 위한 ChatGPT for Teens를 공개했습니다.
 
-지난달 Opus 5.5를 발표하면서 예고했던 5.5 세대의 가장 작은 모델인데요.
+18세 미만으로 확인된 계정에는 보호 기능이 기본 적용되며, 청소년을 위한 새로운 학습 도구도 함께 준비하고 있습니다.
 
-앤트로픽은 역대 가장 싸고, 가장 빠르고, 가장 성능이 좋은 소형 모델이라고 소개했습니다.
+미국 고등학생을 위한 College Planner도 출시할 예정인데요.
+대학별 지원 요건과 마감일, 해야 할 일, 학자금 지원 절차를 ChatGPT 안에서 한 번에 관리할 수 있습니다.
 
-요약, 대화 압축, 데이터베이스 조회, 분류처럼 양이 많고 비용에 민감한 작업을 맡기고, 코딩에서는 Opus 5.5나 Sonnet 5.5 아래에서 하위 에이전트로 쓰라고 권했습니다.
+ChatGPT가 공부를 돕는 도구를 넘어 대학 진학 과정까지 관리하는 형태로 확장되고 있습니다.</description><pubDate>Thu, 08 Oct 2026 04:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeOBsP7Eg3f</guid></item><item><title>내용 :
+https://openai.com/index/teens-learn-and-plan/</title><link>https://www.threads.net/@choi.openai/post/DeOBtdnEloN</link><description>내용 :
+https://openai.com/index/teens-learn-and-plan/</description><pubDate>Thu, 08 Oct 2026 04:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeOBtdnEloN</guid></item><item><title>Unity가 코딩 없이 게임을 만들 수 있는 Unity Spark를 공개했습니다.
 
-표준 속도 기준 앤트로픽 모델 중 가장 빨라 실시간 고객 상담과 브라우저 조작에도 맞는다고 설명했습니다.
+프롬프트로 게임을 만들고, Unity Asset Store의...</title><link>https://www.threads.net/@choi.openai/post/DeN3ZzpDJZb</link><description>Unity가 코딩 없이 게임을 만들 수 있는 Unity Spark를 공개했습니다.
 
-입력은 텍스트와 이미지, 컨텍스트는 100만 토큰이고, Claude 앱과 API는 물론 AWS, 구글 클라우드, 마이크로소프트 애저에서 바로 쓸 수 있습니다.</description><pubDate>Wed, 07 Oct 2026 20:04:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNLKsdkxMS</guid></item><item><title>2/ 가장 크게 오른 영역은 컴퓨터 사용과 지식 노동입니다.
+프롬프트로 게임을 만들고, Unity Asset Store의 아티스트 제작 에셋을 활용한 뒤 웹 기반 에디터에서 직접 수정·협업·배포까지 이어갈 수 있습니다.
 
-실제 컴퓨터를 조작해 여러 단계 작업을 끝내는 OSWorld 2.1에서 Haiku...</title><link>https://www.threads.net/@choi.openai/post/DeNLMANk1I7</link><description>2/ 가장 크게 오른 영역은 컴퓨터 사용과 지식 노동입니다.
+구글과도 협력해 Unity Spark를 Google Playground에 연결할 예정입니다.
 
-실제 컴퓨터를 조작해 여러 단계 작업을 끝내는 OSWorld 2.1에서 Haiku 4.5는 15.7%였는데 Haiku 5.5는 72.4%를 기록했고, GPT-6 Luna는 48.9%였습니다.
+게임 제작 도구도 이제 ‘코드를 배우고 엔진을 익히는 방식’에서, 아이디어를 먼저 만들고 나중에 다듬는 방식으로 빠르게 바뀌고 있습니다.
 
-44개 직업의 실무 과제를 평가하는 GDPval-AA는 735에서 1620 Elo로 올라 Luna의 1437을 앞섰습니다.
+현재 클로즈드 베타를 준비 중입니다.</description><pubDate>Thu, 08 Oct 2026 02:30:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeN3ZzpDJZb</guid></item><item><title>대기등록 :
+https://unity.com/kr/spark</title><link>https://www.threads.net/@choi.openai/post/DeN3a-ljHWi</link><description>대기등록 :
+https://unity.com/kr/spark</description><pubDate>Thu, 08 Oct 2026 02:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeN3a-ljHWi</guid></item><item><title>구글이 코딩 없이 원하는 게임을 만들 수 있는 Playground를 공개했습니다.
 
-앤트로픽이 공개한 비용 그래프를 보면, OSWorld에서는 중간 강도(medium)가 시도당 약 0.12달러로 Luna 최고 설정보다 싸면서 점수는 더 높습니다.
+만들고 싶은 게임을 설명하면 직접 플레이할 수 있는 형태로 ...</title><link>https://www.threads.net/@choi.openai/post/DeNtHcBjGva</link><description>구글이 코딩 없이 원하는 게임을 만들 수 있는 Playground를 공개했습니다.
 
-반면 GDPval에서는 같은 비용대에서 두 모델이 거의 겹치고, Haiku 5.5의 우위는 강도를 max까지 올렸을 때 나옵니다.
+만들고 싶은 게임을 설명하면 직접 플레이할 수 있는 형태로 생성할 수 있고, 완성된 게임은 친구나 Playground 커뮤니티에도 공유할 수 있습니다.
 
-고객사 평가에서는 HubSpot이 CRM 과제에서 92.8%로 자사 소형 모델 평가 중 최고점을 받았고, Asana는 작업 완료 지연이 30% 넘게 줄었다고 밝혔습니다.</description><pubDate>Wed, 07 Oct 2026 20:04:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNLMANk1I7</guid></item><item><title>3/ 코딩은 Haiku 4.5가 거의 못 하던 영역에서 쓸 만한 수준으로 올라왔습니다.
+다만 현재는 미국의 만 18세 이상 사용자에게만 제공됩니다.
 
-터미널에서 여러 단계 작업을 수행하는 Terminal-...</title><link>https://www.threads.net/@choi.openai/post/DeNLNGcExFV</link><description>3/ 코딩은 Haiku 4.5가 거의 못 하던 영역에서 쓸 만한 수준으로 올라왔습니다.
+최근 구글의 AI 실험 기능이 미국부터 출시되는 경우가 많은데요.
 
-터미널에서 여러 단계 작업을 수행하는 Terminal-Bench 4.0은 0%에서 39.2%가 됐고, Luna는 16.4%였습니다.
+새로운 기능이 나와도 국내에서는 바로 써볼 수 없는 경우가 많다는 점은 많이 아쉽습니다.</description><pubDate>Thu, 08 Oct 2026 01:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNtHcBjGva</guid></item><item><title>Claude의 컴퓨터·브라우저 조작 기능을 개발하기가 훨씬 쉬워졌습니다.
 
-실제 Cursor 세션에서 뽑은 다중 파일 과제로 평가하는 CursorBench 4.0에서는 Haiku 5.5 max가 48.4%를 과제당 1.12달러에 기록했는데요.
+앤트로픽이 Python과 TypeScript SDK에 computer...</title><link>https://www.threads.net/@choi.openai/post/DeNixgljvC8</link><description>Claude의 컴퓨터·브라우저 조작 기능을 개발하기가 훨씬 쉬워졌습니다.
 
-Sonnet 5.5 high(47.8%, 1.67달러)보다 높고, high 설정은 42.3%를 0.32달러에 냈습니다.
+앤트로픽이 Python과 TypeScript SDK에 computer use와 browser use 도구를 기본으로 추가했습니다.
 
-대신 max는 과제당 토큰을 32만 개 넘게 써서 표에 있는 모델 중 가장 많았습니다.
+기존에는 Claude가 클릭이나 키 입력을 요청하면 개발자가 직접 반복 실행 구조와 명령 변환 코드를 만들어야 했는데, 이제 SDK가 이 과정을 처리하고 실제 브라우저·컴퓨터 드라이버에 동작을 전달합니다.
 
-앤트로픽도 복잡한 에이전트 코딩은 Sonnet 5.5와 Opus 5.5가 낫고, Haiku 5.5는 범위가 좁은 하위 작업에 맞다고 정리했습니다.</description><pubDate>Wed, 07 Oct 2026 20:04:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNLNGcExFV</guid></item><item><title>🚨 챗GPT, 4000만 돌파기념 뱅크드 리셋 제공 예정.</title><link>https://www.threads.net/@choi.openai/post/DeNJSj_k3UV</link><description>🚨 챗GPT, 4000만 돌파기념 뱅크드 리셋 제공 예정.</description><pubDate>Wed, 07 Oct 2026 19:47:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNJSj_k3UV</guid></item><item><title>마이크로소프트 AI CEO 무스타파 슐레이만(Mustafa Suleyman)은 AI를 두고 낙관론과 비관론 중 하나만 택하는 것은 진실의 절반을...</title><link>https://www.threads.net/@choi.openai/post/DeND5GjEtT4</link><description>마이크로소프트 AI CEO 무스타파 슐레이만(Mustafa Suleyman)은 AI를 두고 낙관론과 비관론 중 하나만 택하는 것은 진실의 절반을 놓치는 것이라 밝혔습니다.
-
-그는 “합리적이려면 두 관점을 모두 가져야 한다”며, 21세기의 지혜는 상반되는 모순된 현실을 동시에 인식하는 데 있다고 말했습니다.
-
-슐레이만은 앞으로 수십 년간 AI가 “인류 역사상 가장 거대한 생산성 도약”을 가져올 것이 확실하다고 강조했습니다.
-
-그러나 동시에 경제와 일자리, 업무 방식, 심지어 정치를 뒤흔들며 “역사상 유례없는 가장 파괴적인 변화”를 일으켜 기존 질서를 극심하게 불안정하게 만들 수 있다고 경고했습니다.
-
-폭발적인 생산성 혁신과 대규모 사회·경제적 충격이라는 거대한 양면성을 직시하고 정교하게 대비해야 한다는 분석입니다.</description><pubDate>Wed, 07 Oct 2026 19:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeND5GjEtT4</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=HSmqmaoSiBA</title><link>https://www.threads.net/@choi.openai/post/DeND6hcEoqs</link><description>풀영상 :
-https://www.youtube.com/watch?v=HSmqmaoSiBA</description><pubDate>Wed, 07 Oct 2026 19:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeND6hcEoqs</guid></item></channel></rss>
+Browser Use, Browserbase, E2B, Daytona 등의 드라이버도 연결할 수 있어 Claude를 이용한 브라우저 자동화 구현 부담이 줄어들 것으로 보입니다.</description><pubDate>Wed, 07 Oct 2026 23:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNixgljvC8</guid></item><item><title>문서 :
+https://platform.claude.com/docs/en/agents-and-tools/tool-use/browser-use-s...</title><link>https://www.threads.net/@choi.openai/post/DeNiyj2jnKB</link><description>문서 :
+https://platform.claude.com/docs/en/agents-and-tools/tool-use/browser-use-sdk</description><pubDate>Wed, 07 Oct 2026 23:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeNiyj2jnKB</guid></item></channel></rss>
