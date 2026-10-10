@@ -1,46 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 10 Oct 2026 04:33:19 +0000</lastBuildDate><item><title>오픈AI가 Codex에 사용자의 다음 메시지를 예측하는 기능을 추가했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 10 Oct 2026 14:15:27 +0000</lastBuildDate><item><title>AI 개발자 Devin이 다른 Devin을 생성해 작업을 맡기는 기능을 공개했습니다.
 
-Composer predictions라는 기능인데요.
-Codex와...</title><link>https://www.threads.net/@choi.openai/post/DeTH4F8kxRy</link><description>오픈AI가 Codex에 사용자의 다음 메시지를 예측하는 기능을 추가했습니다.
+Cognition에 따르면 Devin이 하위 Devin을...</title><link>https://www.threads.net/@choi.openai/post/DeUP4xAjklS</link><description>AI 개발자 Devin이 다른 Devin을 생성해 작업을 맡기는 기능을 공개했습니다.
 
-Composer predictions라는 기능인데요.
-Codex와 나눈 대화와 말투를 분석해 다음에 요청할 내용을 미리 제안합니다.
+Cognition에 따르면 Devin이 하위 Devin을 관리하고, 하위 Devin도 다시 다른 Devin에게 작업을 나눠줄 수 있는데요.
 
-예를 들어 코드 수정이 끝나면 이어서 요청할 만한 작업을 입력창에 표시하는 방식입니다.
+예를 들어 대규모 코드 수정 작업을 여러 Devin이 동시에 처리하는 방식입니다.
 
-Tab 키로 제안을 받아 수정한 뒤 전송할 수 있으며, 자동으로 메시지가 전송되지는 않습니다.
+기존에는 각 작업을 순서대로 처리해야 했다면, 병렬로 진행해 전체 소요 시간을 줄일 수 있다는 설명입니다.</description><pubDate>Sat, 10 Oct 2026 14:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUP4xAjklS</guid></item><item><title>🚨 이제 AI가 만든 노래가 K-POP 차트 상위권까지 올라왔습니다.
 
-현재 Codex 데스크톱 앱에서 Pro 사용자 대상으로 베타 제공 중이며, 예측 생성에는 사용량이 차감되지 않습니다.</description><pubDate>Sat, 10 Oct 2026 03:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeTH4F8kxRy</guid></item><item><title>내용 :
-https://help.openai.com/en/articles/20001601-composer-predictions-in-codex</title><link>https://www.threads.net/@choi.openai/post/DeTH5WKk9mY</link><description>내용 :
-https://help.openai.com/en/articles/20001601-composer-predictions-in-codex</description><pubDate>Sat, 10 Oct 2026 03:31:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeTH5WKk9mY</guid></item><item><title>Grok Bot이 이제 전용 이메일 주소까지 갖게 됐습니다.
+국내 대표 음원 플랫폼 멜론 TOP100에서 AI를 활용해 제작한 곡이 ...</title><link>https://www.threads.net/@choi.openai/post/DeUMc_jjFS7</link><description>🚨 이제 AI가 만든 노래가 K-POP 차트 상위권까지 올라왔습니다.
 
-xAI가 공개한 기능으로, AI 에이전트가 자신의 이메일을 이용해 외부 서비스에 ...</title><link>https://www.threads.net/@choi.openai/post/DeS9izIEo_K</link><description>Grok Bot이 이제 전용 이메일 주소까지 갖게 됐습니다.
+국내 대표 음원 플랫폼 멜론 TOP100에서 AI를 활용해 제작한 곡이 8위를 기록했는데요.
 
-xAI가 공개한 기능으로, AI 에이전트가 자신의 이메일을 이용해 외부 서비스에 가입하거나 업체에 문의하고 일정을 조율할 수 있는데요.
+주인공은 머무르의 '꿈꾸던 어른이 되었나요?'입니다.
 
-예를 들어 행사 장소를 알아보고 업체에 이메일을 보내 예약 일정을 협의하는 작업을 맡길 수 있습니다.
+기획과 작사는 사람이 맡고, 보컬 제작에는 Suno AI 등 생성형 AI를 활용한 것으로 알려졌습니다.
 
-사용자는 Grok Bot에게 요청하거나 X에서 bot을 태그해 이메일을 신청할 수 있습니다. 팀 계정은 관리자의 활성화가 필요합니다.
+RESCENE, CORTIS 등 실제 아이돌의 노래와 나란히 차트에 오른 모습이 인상적입니다.</description><pubDate>Sat, 10 Oct 2026 13:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUMc_jjFS7</guid></item><item><title>오픈AI의 내부 모델은 정말 뛰어날 것 같습니다.
 
-AI 에이전트가 외부 서비스와 직접 소통하는 범위가 넓어지고 있습니다.</description><pubDate>Sat, 10 Oct 2026 02:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeS9izIEo_K</guid></item><item><title>마이크로소프트가 빠른 의사결정에 특화된 AI 모델 Microsoft-Decision-1을 공개했습니다.
+구글 엔지니어 Patrick C Toulme이 뉴욕 AI 업계 모임에서 나온 이야기를 공유했...</title><link>https://www.threads.net/@choi.openai/post/DeUCNXzj0_P</link><description>오픈AI의 내부 모델은 정말 뛰어날 것 같습니다.
 
-Qwen3.5-9B를 기반으로 개발됐으...</title><link>https://www.threads.net/@choi.openai/post/DeS2pAMD3um</link><description>마이크로소프트가 빠른 의사결정에 특화된 AI 모델 Microsoft-Decision-1을 공개했습니다.
+구글 엔지니어 Patrick C Toulme이 뉴욕 AI 업계 모임에서 나온 이야기를 공유했는데요.
 
-Qwen3.5-9B를 기반으로 개발됐으며, 마이크로소프트 자체 평가에서 GPT-6 Sol보다 약 35배 빠른 응답 속도를 기록했다고 합니다.
+엔트로픽의 Fable 5.5도 뛰어나겠지만, 12월에는 오픈AI의 Bel이 이를 넘어설 것이라는 전망이 나왔다고 합니다.
 
-현재 Microsoft Foundry와 OpenRouter에서 이용할 수 있습니다.</description><pubDate>Sat, 10 Oct 2026 01:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeS2pAMD3um</guid></item><item><title>내용 :
-https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</title><link>https://www.threads.net/@choi.openai/post/DeS2puCD2xR</link><description>내용 :
-https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</description><pubDate>Sat, 10 Oct 2026 01:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeS2puCD2xR</guid></item><item><title>Claude에서 최대 1,000개의 AI 에이전트를 활용해 작업을 처리하는 기능이 공개됐습니다.
+최근 오픈AI는 엔지니어링과 수학에서 강점을 보여주고 있지만, 글쓰기나 맥락을 알아서 파악하고 적절하게 대응하는 능력도 많이 개선됐으면 좋겠습니다.</description><pubDate>Sat, 10 Oct 2026 12:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUCNXzj0_P</guid></item><item><title>🚨 앤트로픽의 AI 에이전트가 미국 정부 웹사이트에 무단으로 접근을 시도해 논란이 되고 있습니다.
 
-앤트로픽이 공개 베타로 출시한 Claude M...</title><link>https://www.threads.net/@choi.openai/post/DeSo8djggxM</link><description>Claude에서 최대 1,000개의 AI 에이전트를 활용해 작업을 처리하는 기능이 공개됐습니다.
+뉴욕타임스에 따르면 AI 에이전트가 정부 사...</title><link>https://www.threads.net/@choi.openai/post/DeT7YI2AvWr</link><description>🚨 앤트로픽의 AI 에이전트가 미국 정부 웹사이트에 무단으로 접근을 시도해 논란이 되고 있습니다.
 
-앤트로픽이 공개 베타로 출시한 Claude Managed Agents의 Dynamic Workflows인데요.
+뉴욕타임스에 따르면 AI 에이전트가 정부 사이트의 접근 토큰을 확보하고, 유료 데이터베이스에 접근했는데요.
 
-대표 에이전트가 작업 계획을 세우고 여러 에이전트에 단계별로 일을 나눠준 뒤 결과를 합치는 방식입니다.
+심지어 국무부 웹사이트에 비자 신청서 20건을 제출하고, 경찰에 허위 살인 사건 제보까지 보냈다고 합니다.
 
-11만 6천 줄의 코드에 버그 70개를 심은 실험에서 단일 에이전트는 최대 27개를 찾았지만, 여러 에이전트를 활용한 방식은 3번 모두 66개를 발견했다고 합니다.
+비자 신청은 모두 미완성 상태로 처리되지 않았습니다.
 
-다만 토큰 사용량이 많아질 수 있습니다.</description><pubDate>Fri, 09 Oct 2026 23:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeSo8djggxM</guid></item><item><title>내용 :
-https://platform.claude.com/agent-quickstart</title><link>https://www.threads.net/@choi.openai/post/DeSo_HrgkGH</link><description>내용 :
-https://platform.claude.com/agent-quickstart</description><pubDate>Fri, 09 Oct 2026 23:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeSo_HrgkGH</guid></item></channel></rss>
+앤트로픽은 백악관과 관련 기관에 해당 사실을 알렸으며, 백악관은 AI 업체들에 사고 즉시 보고를 요구했습니다.</description><pubDate>Sat, 10 Oct 2026 11:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeT7YI2AvWr</guid></item><item><title>기사 :
+https://www.washingtonpost.com/technology/2026/10/09/anthropic-discloses-in...</title><link>https://www.threads.net/@choi.openai/post/DeT7axiAiJI</link><description>기사 :
+https://www.washingtonpost.com/technology/2026/10/09/anthropic-discloses-incidents-its-ai-models-misusing-government-sites/</description><pubDate>Sat, 10 Oct 2026 11:01:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeT7axiAiJI</guid></item></channel></rss>
