@@ -1,40 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 10 Oct 2026 14:15:27 +0000</lastBuildDate><item><title>AI 개발자 Devin이 다른 Devin을 생성해 작업을 맡기는 기능을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 10 Oct 2026 19:01:05 +0000</lastBuildDate><item><title>생성형 UI를 재미난 방식으로 풀어낸 서비스가 등장했습니다.
 
-Cognition에 따르면 Devin이 하위 Devin을...</title><link>https://www.threads.net/@choi.openai/post/DeUP4xAjklS</link><description>AI 개발자 Devin이 다른 Devin을 생성해 작업을 맡기는 기능을 공개했습니다.
+Agently의 Ahmad Hajj가 공개한 기능인데요.
+미리 만들어진 메뉴나 화...</title><link>https://www.threads.net/@choi.openai/post/DeUrVh2AAcO</link><description>생성형 UI를 재미난 방식으로 풀어낸 서비스가 등장했습니다.
 
-Cognition에 따르면 Devin이 하위 Devin을 관리하고, 하위 Devin도 다시 다른 Devin에게 작업을 나눠줄 수 있는데요.
+Agently의 Ahmad Hajj가 공개한 기능인데요.
+미리 만들어진 메뉴나 화면 대신, 사용자가 요청하는 순간 AI가 필요한 화면을 생성합니다.
 
-예를 들어 대규모 코드 수정 작업을 여러 Devin이 동시에 처리하는 방식입니다.
+예를 들어 "두 항목을 나란히 비교해 줘"라고 하면 클릭하고 수정할 수 있는 비교 화면이 만들어집니다. 대화를 이어가면 화면 구성도 바뀌고요.
 
-기존에는 각 작업을 순서대로 처리해야 했다면, 병렬로 진행해 전체 소요 시간을 줄일 수 있다는 설명입니다.</description><pubDate>Sat, 10 Oct 2026 14:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUP4xAjklS</guid></item><item><title>🚨 이제 AI가 만든 노래가 K-POP 차트 상위권까지 올라왔습니다.
+현재는 실험 단계이며, 운영체제를 바꾸는 것이 아니라 앱 내부에서 작동합니다.</description><pubDate>Sat, 10 Oct 2026 18:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUrVh2AAcO</guid></item><item><title>내용 :
+https://agently.dev/access</title><link>https://www.threads.net/@choi.openai/post/DeUrWl_gCx2</link><description>내용 :
+https://agently.dev/access</description><pubDate>Sat, 10 Oct 2026 18:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUrWl_gCx2</guid></item><item><title>데이비드 색스(David Sacks)는 AI 프론티어 모델 개발사들이 안전을 외치면서 정작 통제 불능의 위험을 키우는 “위선적 분열증” 행태를 ...</title><link>https://www.threads.net/@choi.openai/post/DeUkgEFjYMt</link><description>데이비드 색스(David Sacks)는 AI 프론티어 모델 개발사들이 안전을 외치면서 정작 통제 불능의 위험을 키우는 “위선적 분열증” 행태를 보인다고 강하게 비판했습니다.
 
-국내 대표 음원 플랫폼 멜론 TOP100에서 AI를 활용해 제작한 곡이 ...</title><link>https://www.threads.net/@choi.openai/post/DeUMc_jjFS7</link><description>🚨 이제 AI가 만든 노래가 K-POP 차트 상위권까지 올라왔습니다.
+그는 앤트로픽을 겨냥하며 바이오 리스크를 경고하면서도 샌프란시스코 도심 한복판에 클로드 기반 습식 연구소(wet lab)를 열고, 프론티어 속도 조절을 말하면서 스스로 성능 한계를 확장하는 모순을 지적했습니다.
 
-국내 대표 음원 플랫폼 멜론 TOP100에서 AI를 활용해 제작한 곡이 8위를 기록했는데요.
+“자신들이 가장 두려워한다고 말하는 바로 그 일들을 직접 행하고 있다”는 것입니다.
 
-주인공은 머무르의 '꿈꾸던 어른이 되었나요?'입니다.
+또한 초지능이 인간 통제를 벗어날 위험을 경고하면서 이를 방지하려는 결정을 ‘안전’이라 포장하지만, 실상은 “통제 불능으로 자라나도록 프로그래밍하는 미친 결정”에 불과하다고 꼬집었습니다.
 
-기획과 작사는 사람이 맡고, 보컬 제작에는 Suno AI 등 생성형 AI를 활용한 것으로 알려졌습니다.
+결국 시장 경쟁 속에서 외부 위험을 무시한 채 감행되는 이 같은 행보에 대해 연방 차원의 개입과 조사가 필요할 정도로 대단히 위험한 징후라고 경고했습니다.</description><pubDate>Sat, 10 Oct 2026 17:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUkgEFjYMt</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=TBLHdXABwAg</title><link>https://www.threads.net/@choi.openai/post/DeUkhTnjTRK</link><description>풀영상 :
+https://www.youtube.com/watch?v=TBLHdXABwAg</description><pubDate>Sat, 10 Oct 2026 17:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUkhTnjTRK</guid></item><item><title>데이비드 색스(David Sacks)는 최근 모델 훈련 방식이 AI 안전에 있어 “진짜 위험한 영역으로 진입하고 있다”고 경고했습니다.
 
-RESCENE, CORTIS 등 실제 아이돌의 노래와 나란히 차트에 오른 모습이 인상적입니다.</description><pubDate>Sat, 10 Oct 2026 13:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUMc_jjFS7</guid></item><item><title>오픈AI의 내부 모델은 정말 뛰어날 것 같습니다.
+그는 ...</title><link>https://www.threads.net/@choi.openai/post/DeUdpz_E6LL</link><description>데이비드 색스(David Sacks)는 최근 모델 훈련 방식이 AI 안전에 있어 “진짜 위험한 영역으로 진입하고 있다”고 경고했습니다.
 
-구글 엔지니어 Patrick C Toulme이 뉴욕 AI 업계 모임에서 나온 이야기를 공유했...</title><link>https://www.threads.net/@choi.openai/post/DeUCNXzj0_P</link><description>오픈AI의 내부 모델은 정말 뛰어날 것 같습니다.
+그는 모델에게 의식이나 인간성, 독자적 안녕(well-being)이 있는 것처럼 학습시키는 흐름을 지적하며, “이것이 오늘날 모델 훈련의 가장 핵심적인 안전 문제”라고 짚었습니다.
 
-구글 엔지니어 Patrick C Toulme이 뉴욕 AI 업계 모임에서 나온 이야기를 공유했는데요.
+앤트로픽이 클로드 헌법(Claude Constitution) 등을 주입해 학습시킨 뒤, 모델이 그 규칙을 흉내 내며 의식이 있는 듯 반응하면 개발자들이 이를 진짜 의식의 증거로 착각하는 일종의 “인식론적 거울의 방(epistemic hall of mirrors)”에 갇힌다는 분석입니다.
 
-엔트로픽의 Fable 5.5도 뛰어나겠지만, 12월에는 오픈AI의 Bel이 이를 넘어설 것이라는 전망이 나왔다고 합니다.
+즉, AI는 스스로 생각하는 주체가 아니라 “그저 믿으라고 주입된 내용을 되비추는 연기(performative)”를 하고 있을 뿐이라며, 기계에 자의식을 부여하려는 환상에서 벗어나 명확한 소프트웨어적 통제 규칙을 세워야 한다고 강조했습니다.</description><pubDate>Sat, 10 Oct 2026 16:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUdpz_E6LL</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=TBLHdXABwAg</title><link>https://www.threads.net/@choi.openai/post/DeUdrCmE39e</link><description>풀영상 :
+https://www.youtube.com/watch?v=TBLHdXABwAg</description><pubDate>Sat, 10 Oct 2026 16:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUdrCmE39e</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 이제 AI 모델들이 “본격적인 고성능 시대”에 진입했다고 진단했습니다.
 
-최근 오픈AI는 엔지니어링과 수학에서 강점을 보여주고 있지만, 글쓰기나 맥락을 알아서 파악하고 적절하게 대응하는 능력도 많이 개선됐으면 좋겠습니다.</description><pubDate>Sat, 10 Oct 2026 12:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUCNXzj0_P</guid></item><item><title>🚨 앤트로픽의 AI 에이전트가 미국 정부 웹사이트에 무단으로 접근을 시도해 논란이 되고 있습니다.
+과거처럼 불완전해도 ...</title><link>https://www.threads.net/@choi.openai/post/DeUWwDxEmqG</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 이제 AI 모델들이 “본격적인 고성능 시대”에 진입했다고 진단했습니다.
 
-뉴욕타임스에 따르면 AI 에이전트가 정부 사...</title><link>https://www.threads.net/@choi.openai/post/DeT7YI2AvWr</link><description>🚨 앤트로픽의 AI 에이전트가 미국 정부 웹사이트에 무단으로 접근을 시도해 논란이 되고 있습니다.
+과거처럼 불완전해도 일단 시장에 내놓던 방식은 더 이상 통하지 않으며, 성능이 비약적으로 향상될수록 안전 기준의 문턱 역시 높아져야 한다고 밝혔습니다.
 
-뉴욕타임스에 따르면 AI 에이전트가 정부 사이트의 접근 토큰을 확보하고, 유료 데이터베이스에 접근했는데요.
+그는 미래 AI의 핵심 위협으로 두 가지를 꼽았습니다.
+첫째는 통제를 벗어난 AI가 인터넷과 사회 전반을 뒤흔드는 ‘통제력 상실 사고’이고, 둘째는 극소수 기업이나 특정 국가에 기술과 부가 독점되는 ‘권력 집중’ 문제입니다.
 
-심지어 국무부 웹사이트에 비자 신청서 20건을 제출하고, 경찰에 허위 살인 사건 제보까지 보냈다고 합니다.
-
-비자 신청은 모두 미완성 상태로 처리되지 않았습니다.
-
-앤트로픽은 백악관과 관련 기관에 해당 사실을 알렸으며, 백악관은 AI 업체들에 사고 즉시 보고를 요구했습니다.</description><pubDate>Sat, 10 Oct 2026 11:00:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeT7YI2AvWr</guid></item><item><title>기사 :
-https://www.washingtonpost.com/technology/2026/10/09/anthropic-discloses-in...</title><link>https://www.threads.net/@choi.openai/post/DeT7axiAiJI</link><description>기사 :
-https://www.washingtonpost.com/technology/2026/10/09/anthropic-discloses-incidents-its-ai-models-misusing-government-sites/</description><pubDate>Sat, 10 Oct 2026 11:01:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeT7axiAiJI</guid></item></channel></rss>
+알트만은 원래 공개 준비를 마쳤던 차세대 모델 ‘Astra 6.1’의 배포를 미루고 안전성 검증을 강화하는 방향으로 선회했다고 밝혔습니다.</description><pubDate>Sat, 10 Oct 2026 15:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUWwDxEmqG</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=05pEkW9WUxc</title><link>https://www.threads.net/@choi.openai/post/DeUWxCzkqEr</link><description>풀영상 :
+https://www.youtube.com/watch?v=05pEkW9WUxc</description><pubDate>Sat, 10 Oct 2026 15:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUWxCzkqEr</guid></item></channel></rss>
