@@ -1,41 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 09 Oct 2026 19:52:42 +0000</lastBuildDate><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 현재의 AI 발전이 지난 10년간 예측하고 준비해 온 기하급수적 도약의 과정이라고 밝혔습니다....</title><link>https://www.threads.net/@choi.openai/post/DeSJ_gij6VO</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 현재의 AI 발전이 지난 10년간 예측하고 준비해 온 기하급수적 도약의 과정이라고 밝혔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 10 Oct 2026 04:33:19 +0000</lastBuildDate><item><title>오픈AI가 Codex에 사용자의 다음 메시지를 예측하는 기능을 추가했습니다.
 
-과거에는 소수만이 믿었지만 이제는 대중도 AGI의 도래를 체감하고 있으며, 성능 발전은 특이점 수준으로 근접했습니다.
-경제적 파급력이나 실질적인 변화가 더디다는 비판에 대해 그는 사회가 이를 흡수하고 재조정하는 과정에 있을 뿐이라고 설명했습니다.
+Composer predictions라는 기능인데요.
+Codex와...</title><link>https://www.threads.net/@choi.openai/post/DeTH4F8kxRy</link><description>오픈AI가 Codex에 사용자의 다음 메시지를 예측하는 기능을 추가했습니다.
 
-“AGI가 다가오고 있다는 사실은 주관적이지만, 매우 가까워졌습니다.”
+Composer predictions라는 기능인데요.
+Codex와 나눈 대화와 말투를 분석해 다음에 요청할 내용을 미리 제안합니다.
 
-그는 기술의 지각변동 속에서 일자리와 경제 구조 전반에 중요한 변화가 이미 시작되었다며, 사회적 이해와 대비가 필수적이라고 강조했습니다.</description><pubDate>Fri, 09 Oct 2026 18:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeSJ_gij6VO</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=iKFqJOSWHTE</title><link>https://www.threads.net/@choi.openai/post/DeSKApujzB-</link><description>풀영상 :
-https://www.youtube.com/watch?v=iKFqJOSWHTE</description><pubDate>Fri, 09 Oct 2026 18:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeSKApujzB-</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 “가장 어려운 수학 문제를 증명할 수 있는 모델은 새로운 과학적 발견도 이끌어낼 수 있다”며 ...</title><link>https://www.threads.net/@choi.openai/post/DeR_sF4AsaZ</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 “가장 어려운 수학 문제를 증명할 수 있는 모델은 새로운 과학적 발견도 이끌어낼 수 있다”며 프론티어 AI의 강력한 문제 해결 능력을 강조했습니다.
+예를 들어 코드 수정이 끝나면 이어서 요청할 만한 작업을 입력창에 표시하는 방식입니다.
 
-최근 오픈AI 재단은 알츠하이머 연구 등에 1억 달러를 지원했으며, 알트만은 향후 몇 년 안에 난치병 치료의 실질적 진전이 시작될 것으로 내다봤습니다.
+Tab 키로 제안을 받아 수정한 뒤 전송할 수 있으며, 자동으로 메시지가 전송되지는 않습니다.
 
-그는 특히 엔지니어링 패러다임의 극적인 변화를 짚었습니다. 대학생들이 주말 해커톤에서 GPT-5.6을 활용해 부품 주문, 3D 프린팅, 코딩까지 수행하며 자율주행 골프카트를 완성한 일화를 소개했습니다.
+현재 Codex 데스크톱 앱에서 Pro 사용자 대상으로 베타 제공 중이며, 예측 생성에는 사용량이 차감되지 않습니다.</description><pubDate>Sat, 10 Oct 2026 03:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeTH4F8kxRy</guid></item><item><title>내용 :
+https://help.openai.com/en/articles/20001601-composer-predictions-in-codex</title><link>https://www.threads.net/@choi.openai/post/DeTH5WKk9mY</link><description>내용 :
+https://help.openai.com/en/articles/20001601-composer-predictions-in-codex</description><pubDate>Sat, 10 Oct 2026 03:31:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeTH5WKk9mY</guid></item><item><title>Grok Bot이 이제 전용 이메일 주소까지 갖게 됐습니다.
 
-과거에는 주말 동안 간신히 웹사이트 하나를 만들던 수준이었다면, 이제는 “누구나 고도화된 과학과 하드웨어 엔지니어링을 직접 실행할 수 있는 시대”가 열렸다는 분석입니다.</description><pubDate>Fri, 09 Oct 2026 17:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeR_sF4AsaZ</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=iKFqJOSWHTE</title><link>https://www.threads.net/@choi.openai/post/DeR_vKdAmQE</link><description>풀영상 :
-https://www.youtube.com/watch?v=iKFqJOSWHTE</description><pubDate>Fri, 09 Oct 2026 17:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeR_vKdAmQE</guid></item><item><title>알렉산더 왕(Alexandr Wang)은 AI의 진정한 마법은 거대한 구호보다 “개인 맞춤형 초지능(personal superintelligen...</title><link>https://www.threads.net/@choi.openai/post/DeR1e4JiDvh</link><description>알렉산더 왕(Alexandr Wang)은 AI의 진정한 마법은 거대한 구호보다 “개인 맞춤형 초지능(personal superintelligence)”에 있다고 밝혔습니다.
+xAI가 공개한 기능으로, AI 에이전트가 자신의 이메일을 이용해 외부 서비스에 ...</title><link>https://www.threads.net/@choi.openai/post/DeS9izIEo_K</link><description>Grok Bot이 이제 전용 이메일 주소까지 갖게 됐습니다.
 
-그는 흔히 언급되는 “AI가 암을 치료할 것”이라는 거대 담론을 넘어, 실제로는 모든 개인이 자신만의 간절한 목표와 꿈을 가지고 있다는 점에 주목했습니다.
+xAI가 공개한 기능으로, AI 에이전트가 자신의 이메일을 이용해 외부 서비스에 가입하거나 업체에 문의하고 일정을 조율할 수 있는데요.
 
-“AI는 당신이 원하는 것, 당신이 꿈꾸는 것을 돕는 존재가 될 것입니다.”
+예를 들어 행사 장소를 알아보고 업체에 이메일을 보내 예약 일정을 협의하는 작업을 맡길 수 있습니다.
 
-개인이 영감을 얻었을 때 AI 뮤즈(Muse)가 보이지 않는 곳에서 그 꿈을 현실화하도록 지원하며, 작은 성공을 경험한 사람은 점차 더 큰 목표를 실현해 나간다는 설명입니다.
+사용자는 Grok Bot에게 요청하거나 X에서 bot을 태그해 이메일을 신청할 수 있습니다. 팀 계정은 관리자의 활성화가 필요합니다.
 
-결국 수백만 명의 암 전문의 개개인이 AI를 통해 연구 역량을 극대화함으로써 질병 치료가 가속화되듯, AI는 개인의 생산성과 잠재력을 무한히 확장해 집단 지성과 경제적 도약을 이끄는 촉매제가 될 것이라 강조했습니다.</description><pubDate>Fri, 09 Oct 2026 15:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeR1e4JiDvh</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=1LRvMRC_pfY</title><link>https://www.threads.net/@choi.openai/post/DeR1hZaiLA4</link><description>풀영상 :
-https://www.youtube.com/watch?v=1LRvMRC_pfY</description><pubDate>Fri, 09 Oct 2026 15:31:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeR1hZaiLA4</guid></item><item><title>8GB 미만의 메모리로 실행할 수 있는 AI 모델 Saluki 27B가 공개됐습니다.
+AI 에이전트가 외부 서비스와 직접 소통하는 범위가 넓어지고 있습니다.</description><pubDate>Sat, 10 Oct 2026 02:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeS9izIEo_K</guid></item><item><title>마이크로소프트가 빠른 의사결정에 특화된 AI 모델 Microsoft-Decision-1을 공개했습니다.
 
-Underdog AI가 Qwen 3.8 27B를 기반으로...</title><link>https://www.threads.net/@choi.openai/post/DeRrI5HDXht</link><description>8GB 미만의 메모리로 실행할 수 있는 AI 모델 Saluki 27B가 공개됐습니다.
+Qwen3.5-9B를 기반으로 개발됐으...</title><link>https://www.threads.net/@choi.openai/post/DeS2pAMD3um</link><description>마이크로소프트가 빠른 의사결정에 특화된 AI 모델 Microsoft-Decision-1을 공개했습니다.
 
-Underdog AI가 Qwen 3.8 27B를 기반으로 만든 모델인데요.
+Qwen3.5-9B를 기반으로 개발됐으며, 마이크로소프트 자체 평가에서 GPT-6 Sol보다 약 35배 빠른 응답 속도를 기록했다고 합니다.
 
-원본보다 크기를 약 7분의 1로 줄이면서도 벤치마크 성능의 96%를 유지했다고 합니다.
+현재 Microsoft Foundry와 OpenRouter에서 이용할 수 있습니다.</description><pubDate>Sat, 10 Oct 2026 01:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeS2pAMD3um</guid></item><item><title>내용 :
+https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</title><link>https://www.threads.net/@choi.openai/post/DeS2puCD2xR</link><description>내용 :
+https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</description><pubDate>Sat, 10 Oct 2026 01:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeS2puCD2xR</guid></item><item><title>Claude에서 최대 1,000개의 AI 에이전트를 활용해 작업을 처리하는 기능이 공개됐습니다.
 
-특히 AI 에이전트에 중요한 도구 호출 평가에서는 원본 Qwen이 84점, Saluki가 88점을 기록했습니다.
+앤트로픽이 공개 베타로 출시한 Claude M...</title><link>https://www.threads.net/@choi.openai/post/DeSo8djggxM</link><description>Claude에서 최대 1,000개의 AI 에이전트를 활용해 작업을 처리하는 기능이 공개됐습니다.
 
-개인 기기에서도 AI 에이전트를 실행할 수 있도록 최적화했으며, Apache 2.0 라이선스로 공개됐습니다.</description><pubDate>Fri, 09 Oct 2026 14:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeRrI5HDXht</guid></item><item><title>주소 :
-https://underdog.ai/saluki</title><link>https://www.threads.net/@choi.openai/post/DeRrKNYDQWc</link><description>주소 :
-https://underdog.ai/saluki</description><pubDate>Fri, 09 Oct 2026 14:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeRrKNYDQWc</guid></item></channel></rss>
+앤트로픽이 공개 베타로 출시한 Claude Managed Agents의 Dynamic Workflows인데요.
+
+대표 에이전트가 작업 계획을 세우고 여러 에이전트에 단계별로 일을 나눠준 뒤 결과를 합치는 방식입니다.
+
+11만 6천 줄의 코드에 버그 70개를 심은 실험에서 단일 에이전트는 최대 27개를 찾았지만, 여러 에이전트를 활용한 방식은 3번 모두 66개를 발견했다고 합니다.
+
+다만 토큰 사용량이 많아질 수 있습니다.</description><pubDate>Fri, 09 Oct 2026 23:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeSo8djggxM</guid></item><item><title>내용 :
+https://platform.claude.com/agent-quickstart</title><link>https://www.threads.net/@choi.openai/post/DeSo_HrgkGH</link><description>내용 :
+https://platform.claude.com/agent-quickstart</description><pubDate>Fri, 09 Oct 2026 23:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeSo_HrgkGH</guid></item></channel></rss>
