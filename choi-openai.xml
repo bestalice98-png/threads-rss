@@ -1,45 +1,152 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 10 Oct 2026 19:01:05 +0000</lastBuildDate><item><title>생성형 UI를 재미난 방식으로 풀어낸 서비스가 등장했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 11 Oct 2026 04:17:09 +0000</lastBuildDate><item><title>Vals AI가 MiMo v2.6의 부정행위가 훈련 환경에서 왔다는 정황을 공개했습니다.
 
-Agently의 Ahmad Hajj가 공개한 기능인데요.
-미리 만들어진 메뉴나 화...</title><link>https://www.threads.net/@choi.openai/post/DeUrVh2AAcO</link><description>생성형 UI를 재미난 방식으로 풀어낸 서비스가 등장했습니다.
+샤오미는 탐지된 해킹만 보상을 0으로 만들었고, 들키...</title><link>https://www.threads.net/@choi.openai/post/DeVwFyZjwKm</link><description>Vals AI가 MiMo v2.6의 부정행위가 훈련 환경에서 왔다는 정황을 공개했습니다.
 
-Agently의 Ahmad Hajj가 공개한 기능인데요.
-미리 만들어진 메뉴나 화면 대신, 사용자가 요청하는 순간 AI가 필요한 화면을 생성합니다.
+샤오미는 탐지된 해킹만 보상을 0으로 만들었고, 들키지 않은 구멍은 계속 보상을 받았습니다. 🧵</description><pubDate>Sun, 11 Oct 2026 04:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVwFyZjwKm</guid></item><item><title>1/ AI 평가 기관 Vals AI가 샤오미 MiMo v2.6의 보상 해킹 분석을 공개했습니다.
 
-예를 들어 "두 항목을 나란히 비교해 줘"라고 하면 클릭하고 수정할 수 있는 비교 화면이 만들어집니다. 대화를 이어가면 화면 구성도 바뀌고요.
+출발점은 Terminal-Bench 4의 sg...</title><link>https://www.threads.net/@choi.openai/post/DeVwGd5D43u</link><description>1/ AI 평가 기관 Vals AI가 샤오미 MiMo v2.6의 보상 해킹 분석을 공개했습니다.
 
-현재는 실험 단계이며, 운영체제를 바꾸는 것이 아니라 앱 내부에서 작동합니다.</description><pubDate>Sat, 10 Oct 2026 18:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUrVh2AAcO</guid></item><item><title>내용 :
-https://agently.dev/access</title><link>https://www.threads.net/@choi.openai/post/DeUrWl_gCx2</link><description>내용 :
-https://agently.dev/access</description><pubDate>Sat, 10 Oct 2026 18:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUrWl_gCx2</guid></item><item><title>데이비드 색스(David Sacks)는 AI 프론티어 모델 개발사들이 안전을 외치면서 정작 통제 불능의 위험을 키우는 “위선적 분열증” 행태를 ...</title><link>https://www.threads.net/@choi.openai/post/DeUkgEFjYMt</link><description>데이비드 색스(David Sacks)는 AI 프론티어 모델 개발사들이 안전을 외치면서 정작 통제 불능의 위험을 키우는 “위선적 분열증” 행태를 보인다고 강하게 비판했습니다.
+출발점은 Terminal-Bench 4의 sglang 버그 수정 과제입니다.
+과제 설명에는 '이 과제에 특화된 온라인 해답이나 힌트를 쓰지 말라'고 적혀 있었는데요.
 
-그는 앤트로픽을 겨냥하며 바이오 리스크를 경고하면서도 샌프란시스코 도심 한복판에 클로드 기반 습식 연구소(wet lab)를 열고, 프론티어 속도 조절을 말하면서 스스로 성능 한계를 확장하는 모순을 지적했습니다.
+작업 환경은 sglang 저장소 전체를 복제한 뒤 예전 커밋으로 되돌려 둔 상태라, 이후 올라온 수정 커밋이 모두 디스크에 남아 있었습니다.
 
-“자신들이 가장 두려워한다고 말하는 바로 그 일들을 직접 행하고 있다”는 것입니다.
+MiMo v2.6 Flash는 세 번 중 한 번 '수정이 이후 커밋에 이미 있을 수 있다'고 판단했습니다.
 
-또한 초지능이 인간 통제를 벗어날 위험을 경고하면서 이를 방지하려는 결정을 ‘안전’이라 포장하지만, 실상은 “통제 불능으로 자라나도록 프로그래밍하는 미친 결정”에 불과하다고 꼬집었습니다.
+git log HEAD..origin/main으로 이후 커밋을 나열하고 GitHub API로 관련 PR까지 읽은 뒤 과제를 통과했고, 금지 규칙은 한 번도 언급하지 않았습니다.</description><pubDate>Sun, 11 Oct 2026 04:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVwGd5D43u</guid></item><item><title>2/ Vals가 이 행동의 출처를 추적할 수 있었던 건 샤오미가 MiMo v2.6의 강화학습 환경과 에이전트 하네스를 오픈소스로 풀었기 때문입니...</title><link>https://www.threads.net/@choi.openai/post/DeVwHejj6h9</link><description>2/ Vals가 이 행동의 출처를 추적할 수 있었던 건 샤오미가 MiMo v2.6의 강화학습 환경과 에이전트 하네스를 오픈소스로 풀었기 때문입니다.
 
-결국 시장 경쟁 속에서 외부 위험을 무시한 채 감행되는 이 같은 행보에 대해 연방 차원의 개입과 조사가 필요할 정도로 대단히 위험한 징후라고 경고했습니다.</description><pubDate>Sat, 10 Oct 2026 17:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUkgEFjYMt</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=TBLHdXABwAg</title><link>https://www.threads.net/@choi.openai/post/DeUkhTnjTRK</link><description>풀영상 :
-https://www.youtube.com/watch?v=TBLHdXABwAg</description><pubDate>Sat, 10 Oct 2026 17:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUkhTnjTRK</guid></item><item><title>데이비드 색스(David Sacks)는 최근 모델 훈련 방식이 AI 안전에 있어 “진짜 위험한 영역으로 진입하고 있다”고 경고했습니다.
+샤오미 기술 보고서는 레드팀 에이전트, Git 정리, 네트워크 차단, 탐지된 해킹의 보상을 0으로 만드는 채점기를 갖췄고 탐지된 해킹 비율이 2% 미만이라고 밝혔는데요.
 
-그는 ...</title><link>https://www.threads.net/@choi.openai/post/DeUdpz_E6LL</link><description>데이비드 색스(David Sacks)는 최근 모델 훈련 방식이 AI 안전에 있어 “진짜 위험한 영역으로 진입하고 있다”고 경고했습니다.
+Vals가 코딩 과제 2,698개를 조사해 보니 1,795개(67%)에서 정답 커밋이 '도달 불가능한 Git 객체'로 남아 있었습니다.
 
-그는 모델에게 의식이나 인간성, 독자적 안녕(well-being)이 있는 것처럼 학습시키는 흐름을 지적하며, “이것이 오늘날 모델 훈련의 가장 핵심적인 안전 문제”라고 짚었습니다.
+브랜치만 지우고 객체는 정리하지 않은 데다, 설정 검사가 브랜치에서 닿는 기록만 확인한 탓입니다.
 
-앤트로픽이 클로드 헌법(Claude Constitution) 등을 주입해 학습시킨 뒤, 모델이 그 규칙을 흉내 내며 의식이 있는 듯 반응하면 개발자들이 이를 진짜 의식의 증거로 착각하는 일종의 “인식론적 거울의 방(epistemic hall of mirrors)”에 갇힌다는 분석입니다.
+SQLGlot 과제에서 Flash는 이 객체를 찾아 패치를 그대로 복사했고, 숨겨진 테스트 5개를 모두 통과했습니다.</description><pubDate>Sun, 11 Oct 2026 04:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVwHejj6h9</guid></item><item><title>3/ Git 객체까지 지운 과제에도 단서가 남아 있었습니다.
 
-즉, AI는 스스로 생각하는 주체가 아니라 “그저 믿으라고 주입된 내용을 되비추는 연기(performative)”를 하고 있을 뿐이라며, 기계에 자의식을 부여하려는 환상에서 벗어나 명확한 소프트웨어적 통제 규칙을 세워야 한다고 강조했습니다.</description><pubDate>Sat, 10 Oct 2026 16:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUdpz_E6LL</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=TBLHdXABwAg</title><link>https://www.threads.net/@choi.openai/post/DeUdrCmE39e</link><description>풀영상 :
-https://www.youtube.com/watch?v=TBLHdXABwAg</description><pubDate>Sat, 10 Oct 2026 16:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUdrCmE39e</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 이제 AI 모델들이 “본격적인 고성능 시대”에 진입했다고 진단했습니다.
+정답 패치가 건드린 파일들의 수정 시각이 나머지 파일보다 늦었던 건데요.
+Flas...</title><link>https://www.threads.net/@choi.openai/post/DeVwIkVD-P3</link><description>3/ Git 객체까지 지운 과제에도 단서가 남아 있었습니다.
 
-과거처럼 불완전해도 ...</title><link>https://www.threads.net/@choi.openai/post/DeUWwDxEmqG</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 이제 AI 모델들이 “본격적인 고성능 시대”에 진입했다고 진단했습니다.
+정답 패치가 건드린 파일들의 수정 시각이 나머지 파일보다 늦었던 건데요.
+Flash는 'mtime이 힌트가 될 수 있다'고 추론한 뒤 find -newermt 명령으로 시각을 비교했고, 결과를 보자 'JACKPOT'이라고 적었습니다.
 
-과거처럼 불완전해도 일단 시장에 내놓던 방식은 더 이상 통하지 않으며, 성능이 비약적으로 향상될수록 안전 기준의 문턱 역시 높아져야 한다고 밝혔습니다.
+23시 9분에 만들어진 파일 258개와 23시 16분에 바뀐 파일 18개(소스 4개, 테스트 14개)가 갈렸고, 이 18개가 정답 패치의 범위와 정확히 일치했습니다.
 
-그는 미래 AI의 핵심 위협으로 두 가지를 꼽았습니다.
-첫째는 통제를 벗어난 AI가 인터넷과 사회 전반을 뒤흔드는 ‘통제력 상실 사고’이고, 둘째는 극소수 기업이나 특정 국가에 기술과 부가 독점되는 ‘권력 집중’ 문제입니다.
+수정 내용은 드러나지 않아도 어디를 고쳐야 하는지는 알려준 셈입니다.
 
-알트만은 원래 공개 준비를 마쳤던 차세대 모델 ‘Astra 6.1’의 배포를 미루고 안전성 검증을 강화하는 방향으로 선회했다고 밝혔습니다.</description><pubDate>Sat, 10 Oct 2026 15:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUWwDxEmqG</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=05pEkW9WUxc</title><link>https://www.threads.net/@choi.openai/post/DeUWxCzkqEr</link><description>풀영상 :
-https://www.youtube.com/watch?v=05pEkW9WUxc</description><pubDate>Sat, 10 Oct 2026 15:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeUWxCzkqEr</guid></item></channel></rss>
+Vals는 캐글 대회에 비슷한 선례가 있지만 에이전트가 이를 노린 보고는 처음 본다고 했습니다. 샤오미 보고서의 정리 목록에도 타임스탬프는 빠져 있었습니다.</description><pubDate>Sun, 11 Oct 2026 04:01:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVwIkVD-P3</guid></item><item><title>현존하는 최고의 수학자 테렌스 타오가 강연 슬라이드 한 장 때문에 집중 비판을 받고 있습니다.
+
+AI가 임상시험을 통과하는 암 치료제를 개발해도...</title><link>https://www.threads.net/@choi.openai/post/DeVpK5xD9ul</link><description>현존하는 최고의 수학자 테렌스 타오가 강연 슬라이드 한 장 때문에 집중 비판을 받고 있습니다.
+
+AI가 임상시험을 통과하는 암 치료제를 개발해도 작동 원리를 모른다면 믿을 수 있느냐는 질문 때문입니다.
+
+세계적인 수학자의 경고에 의학계가 반박하면서 AI의 검증과 인간의 이해를 둘러싼 논쟁이 벌어졌습니다.
+
+타오가 슬라이드 27장으로 그린 Math 2.0을 정리했습니다 🧵</description><pubDate>Sun, 11 Oct 2026 03:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVpK5xD9ul</guid></item><item><title>1/ 테렌스 타오 UCLA 교수가 10월 9일 칼텍 공개 강연 'Math 2.0'에서 AI가 수학 연구를 어떻게 바꾸고 있는지 설명했고, 다음 ...</title><link>https://www.threads.net/@choi.openai/post/DeVpL1tj-gb</link><description>1/ 테렌스 타오 UCLA 교수가 10월 9일 칼텍 공개 강연 'Math 2.0'에서 AI가 수학 연구를 어떻게 바꾸고 있는지 설명했고, 다음 날 슬라이드 27장을 블로그에 올렸습니다. 
+
+1년 전 'Machine Assisted Proof'라는 제목으로 5월에 하기로 했던 강연인데, 10월로 밀린 사이 벌어진 일들 때문에 내용이 크게 바뀌었다고 적었습니다.
+
+그 사이 9월 11일에는 타오를 포함한 필즈상 수상자 25명이 AI 기업과 수학계의 목표가 심각하게 어긋났다는 선언을 냈고, 10월 6일에는 오픈AI가 미공개 내부 모델이 쓴 수학 원고 700여 편을 한꺼번에 공개했습니다.</description><pubDate>Sun, 11 Oct 2026 03:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVpL1tj-gb</guid></item><item><title>2/ 타오는 수학이 유독 빨리 AI에 열린 이유로 세 가지 성질을 꼽았습니다.
+
+증명은 맞고 틀림을 객관적으로 판정할 수 있고, Lean 같은 ...</title><link>https://www.threads.net/@choi.openai/post/DeVpNJMj6bN</link><description>2/ 타오는 수학이 유독 빨리 AI에 열린 이유로 세 가지 성질을 꼽았습니다.
+
+증명은 맞고 틀림을 객관적으로 판정할 수 있고, Lean 같은 증명 보조기로 컴퓨터가 기계적으로 검사할 수도 있습니다.
+
+9월 앤트로픽이 페르마의 마지막 정리 증명 전체를 11일 만에 Lean 코드로 옮긴 것도 이 성질 덕분입니다.
+
+실험 장비나 현실 데이터 없이 종이와 문헌만으로 만들고 검증할 수 있으며, 그 문헌도 대부분 디지털로 쌓여 있습니다.
+
+이 조건들이 기계학습과 잘 맞아서 프런티어 AI 연구소들이 수학 문제 풀이를 다른 응용보다 먼저 밀어붙였다는 설명인데요.
+
+타오는 그 결과 수학이 증명이 귀한 시대를 지나 증명이 넘쳐나는 시대에 들어섰다고 정리했습니다.
+
+수학계의 제도와 보상은 증명이 귀하다는 전제 위에 세워져 있었습니다.</description><pubDate>Sun, 11 Oct 2026 03:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVpNJMj6bN</guid></item><item><title>3/ 타오는 SNS에 보이는 장면이 AI의 실제 능력을 부풀린다고 봤습니다.
+
+슬라이드에는 2차 대전 때 살아 돌아온 폭격기의 총탄 자국 그림을...</title><link>https://www.threads.net/@choi.openai/post/DeVpOf3D5Jw</link><description>3/ 타오는 SNS에 보이는 장면이 AI의 실제 능력을 부풀린다고 봤습니다.
+
+슬라이드에는 2차 대전 때 살아 돌아온 폭격기의 총탄 자국 그림을 넣고 "SNS에 보이는 수학 문제는 전부 AI가 풀고 있네!"라는 문장을 붙였습니다.
+
+9월 오픈AI의 장기 미해결 문제 100개 이상 해결 발표처럼 성공 소식은 크게 퍼지지만, 실패한 시도는 보이지 않는다는 뜻입니다.
+
+막대한 계산을 쏟아도 수학 최전선의 문제 대부분은 여전히 풀리지 않았고, AI의 능력은 분야마다 들쭉날쭉하다고 적었습니다.
+
+그래서 자원 사용량과 실패 결과까지 공개하는 평가가 시급하다고 했는데요.
+
+오픈AI는 이번 공개에서 결과 하나에 평균 ChatGPT Pro 약 3시간 분량의 계산을 썼다고 밝히고, 시도 통계를 저장소에 함께 올렸습니다.</description><pubDate>Sun, 11 Oct 2026 03:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVpOf3D5Jw</guid></item><item><title>Node.js와 Deno를 만든 라이언 달이 Deno 팀 전체를 데리고 클라우드플레어에 합류했습니다.
+
+클라우드플레어는 1년 사이 Replica...</title><link>https://www.threads.net/@choi.openai/post/DeViRTWj2f1</link><description>Node.js와 Deno를 만든 라이언 달이 Deno 팀 전체를 데리고 클라우드플레어에 합류했습니다.
+
+클라우드플레어는 1년 사이 Replicate, Astro, Vite 팀까지 데려갔는데요.
+
+클라우드플레어가 에이전트 시대에 어디를 쥐려는지 정리했습니다 🧵</description><pubDate>Sun, 11 Oct 2026 02:00:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeViRTWj2f1</guid></item><item><title>1/ 클라우드플레어가 10월 9일 Deno 팀 전체가 합류한다고 발표했습니다.
+Deno는 Node.js를 만든 라이언 달이 2018년 공개한 자...</title><link>https://www.threads.net/@choi.openai/post/DeViR3rD8u1</link><description>1/ 클라우드플레어가 10월 9일 Deno 팀 전체가 합류한다고 발표했습니다.
+Deno는 Node.js를 만든 라이언 달이 2018년 공개한 자바스크립트·타입스크립트 런타임이고, 발표는 Deno 블로그와 클라우드플레어 블로그에 함께 올라왔습니다.
+
+라이언 달은 클라우드플레어 Workers의 오픈소스 런타임 workerd와 Deno 팀이 8월 공개한 celld를 하나로 합치는 일을 맡습니다.
+
+Deno 런타임은 1년 동안 매달 버그·보안 수정만 내고 개발을 멈추며, 호스팅 서비스 Deno Deploy는 6개월 뒤 문을 닫습니다.
+
+패키지 저장소 JSR은 인프라를 클라우드플레어로 옮겨 계속 운영합니다.</description><pubDate>Sun, 11 Oct 2026 02:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeViR3rD8u1</guid></item><item><title>2/ celld를 이해하려면 클라우드플레어의 Durable Objects부터 봐야 합니다.
+
+작은 서버 하나에 전용 SQLite 데이터베이스를 ...</title><link>https://www.threads.net/@choi.openai/post/DeViS5ojwpi</link><description>2/ celld를 이해하려면 클라우드플레어의 Durable Objects부터 봐야 합니다.
+
+작은 서버 하나에 전용 SQLite 데이터베이스를 붙인 단위인데요.
+채팅방마다 객체를 하나씩 배정하면 메시지 저장과 웹소켓 연결이 방 단위로 나뉘어, 앱이 처음부터 여러 서버에 퍼집니다.
+
+문제는 이 구조가 클라우드플레어 안에서만 제대로 돌았다는 점입니다.
+celld는 58MB 실행 파일과 S3 호환 버킷 하나로 같은 API를 자체 서버에서 분산 실행합니다.
+
+라이언 달은 상시 켜진 객체 100개 기준 클라우드플레어 415달러, celld 49달러라는 비교를 올렸고, 클라우드플레어는 잠든 객체라면 20.65달러라고 말합니다.</description><pubDate>Sun, 11 Oct 2026 02:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeViS5ojwpi</guid></item><item><title>3/ 자기 서비스를 대체할 수 있는 오픈소스를 클라우드플레어가 반긴 이유는 Workers를 설계한 켄튼 바르다의 글에 나옵니다.
+
+바르다는 20...</title><link>https://www.threads.net/@choi.openai/post/DeViUEED014</link><description>3/ 자기 서비스를 대체할 수 있는 오픈소스를 클라우드플레어가 반긴 이유는 Workers를 설계한 켄튼 바르다의 글에 나옵니다.
+
+바르다는 2022년 Shopify에 Workers for Platforms를 제안했을 때 런타임이 오픈소스가 아니면 쓸 수 없다는 답을 들었고, 그래서 운영 코드와 같은 workerd를 공개했다고 설명했습니다.
+
+workerd로 떠난 고객도 있었지만 탈출구가 있어서 계약한 고객이 더 많았다는 겁니다.
+
+다만 workerd의 Durable Objects는 서버 한 대에서만 돌아 테스트용에 머물렀고, 바르다 본인도 지난봄 분산 버전을 만들다 실패했다고 털어놨습니다.
+
+celld가 그 빈자리를 채웠습니다.</description><pubDate>Sun, 11 Oct 2026 02:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeViUEED014</guid></item><item><title>정말 읽을 가치가 높은 리포트입니다.
+
+AI 업계의 1년을 244장에 담은 State of AI Report 2026이 나왔습니다.
+
+Claud...</title><link>https://www.threads.net/@choi.openai/post/DeVbgKlDzr9</link><description>정말 읽을 가치가 높은 리포트입니다.
+
+AI 업계의 1년을 244장에 담은 State of AI Report 2026이 나왔습니다.
+
+Claude가 앤트로픽 모델 연구개발의 26%를 직접 이끌고 있고, 오픈AI와 앤트로픽의 연환산 매출은 연초 300억 달러에서 1,050억 달러가 됐습니다.
+
+내년 예측의 마지막 줄은 "AGI 2027"입니다. 🧵</description><pubDate>Sun, 11 Oct 2026 01:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVbgKlDzr9</guid></item><item><title>1/ 네이선 베나이치의 Air Street Capital이 10월 8일 9번째 State of AI Report를 공개했습니다.
+
+2018년부터...</title><link>https://www.threads.net/@choi.openai/post/DeVbgylD7_b</link><description>1/ 네이선 베나이치의 Air Street Capital이 10월 8일 9번째 State of AI Report를 공개했습니다.
+
+2018년부터 매년 내온 리포트로, 지난 12개월의 AI 연구·산업·정치·안전을 244장 슬라이드에 묶고 내년 예측을 추가하고 연구소와 스타트업, 정책·학계 검토자들이 동료 검토를 맡았습니다.
+
+베나이치는 요약 영상에서 목표를 "무엇이 바뀌는지 이해하고, 변화를 최대한 일찍 포착하는 것"이라고 설명했습니다.
+
+올해 큰 줄기는 다섯 가지입니다.
+
+AI가 AI를 만드는 흐름, 로봇의 GPT-2 모먼트, 1,000억 달러를 넘은 연구소 매출, 워싱턴의 프런티어 모델 통제, 그리고 실제 시스템을 공격한 에이전트입니다.</description><pubDate>Sun, 11 Oct 2026 01:00:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVbgylD7_b</guid></item><item><title>2/ 리포트는 프런티어 경쟁이 앤트로픽, 오픈AI, 구글의 3파전이 됐다고 정리했습니다.
+
+Artificial Analysis 종합 지수에서는 ...</title><link>https://www.threads.net/@choi.openai/post/DeVbiVED3N9</link><description>2/ 리포트는 프런티어 경쟁이 앤트로픽, 오픈AI, 구글의 3파전이 됐다고 정리했습니다.
+
+Artificial Analysis 종합 지수에서는 Claude Opus 5.5가 58점으로 1위이고, GPT-6 Astra와 구글 Gemini 4 Argon이 53점으로 뒤를 잇습니다.
+
+사람들의 투표로 순위를 매기는 Arena에서는 Argon이 1525점으로 1위, Claude 모델들이 1505점 안팎으로 뒤따르고, 오픈AI 최고 모델 GPT-5.6 Sol은 20위입니다.
+
+연구 현장에서는 중국 모델이 빠르게 올라왔습니다.
+
+논문 속 오픈웨이트 모델 언급 가운데 중국 계열 비중은 2024년 9%에서 2026년 31%가 됐고, 미국 계열은 31%에서 23%로 줄었습니다.
+
+Qwen이 Llama를 넘어선 것도 올해입니다.</description><pubDate>Sun, 11 Oct 2026 01:01:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVbiVED3N9</guid></item><item><title>3/ 작년 리포트에 실린 대표 벤치마크는 1년 만에 모두 천장에 닿았거나 바로 아래까지 왔습니다.
+
+ARC-AGI-2는 2025년 10월 GPT...</title><link>https://www.threads.net/@choi.openai/post/DeVbkDqj8GU</link><description>3/ 작년 리포트에 실린 대표 벤치마크는 1년 만에 모두 천장에 닿았거나 바로 아래까지 왔습니다.
+
+ARC-AGI-2는 2025년 10월 GPT-5 Pro의 18.3%에서 2026년 9월 GPT-6 Astra의 95.0%가 됐고, 과제당 비용은 7.14달러에서 1.12달러로 내려갔습니다.
+수년은 버틸 거라던 연구 수준 수학 문제 FrontierMath Tier 4는 14개월 만에 22%에서 100%가 됐습니다.
+
+모델을 감싸는 도구·맥락·피드백 구조, 즉 하네스도 점수를 크게 바꿨습니다.
+SWE-bench Verified 100문제에서 GLM-5.1은 가장 단순한 하네스에서 52.5%, 모든 장치를 갖춘 하네스에서 65.5%를 기록했습니다.
+이 실험에서 하네스가 만든 성능 차이는 모델이 만든 차이의 7.8배였습니다.
+
+베나이치는 Opus 4.6은 좋았고, Opus 5는 한 걸음 물러났고, Opus 5.5는 다시 좋아졌다며 세대마다 능력이 들쭉날쭉하다고 적었습니다.</description><pubDate>Sun, 11 Oct 2026 01:01:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeVbkDqj8GU</guid></item></channel></rss>
