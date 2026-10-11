@@ -1,125 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 11 Oct 2026 14:40:38 +0000</lastBuildDate><item><title>구글 이번엔 진짜로 가냐..!
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 11 Oct 2026 19:15:54 +0000</lastBuildDate><item><title>국가적 위기 1년안에 찾아올 수 있다.</title><link>https://www.threads.net/@choi.openai/post/DeV6cMHD7Wm</link><description>국가적 위기 1년안에 찾아올 수 있다.</description><pubDate>Sun, 11 Oct 2026 05:31:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeV6cMHD7Wm</guid></item><item><title>1/ Axios가 10월 9일 단독 보도를 냈습니다.
 
-Business Insider에 따르면 구글이 내부적으로 새로운 AI 모델 Carbon을 테스트하고 있다고 합니...</title><link>https://www.threads.net/@choi.openai/post/DeW4LpjjUi6</link><description>구글 이번엔 진짜로 가냐..!
+앤트로픽과 오픈AI 등 AI 기업들이 대형 AI 사고가 터진 '다음 날'을 비공개로 시뮬...</title><link>https://www.threads.net/@choi.openai/post/DeV6chhDwNi</link><description>1/ Axios가 10월 9일 단독 보도를 냈습니다.
 
-Business Insider에 따르면 구글이 내부적으로 새로운 AI 모델 Carbon을 테스트하고 있다고 합니다.
+앤트로픽과 오픈AI 등 AI 기업들이 대형 AI 사고가 터진 '다음 날'을 비공개로 시뮬레이션하고 있다는 내용입니다.
+가장 유력하게 상정하는 사고는 금융 서비스, 인터넷, 전력, 수도를 멈추는 사이버 공격입니다.
 
-Carbon은 Gemini 4 Argon 이후에 개발된 모델로, 구글 내부 개발 도구 Jetski에서 시험 중인데요.
+업계 내부자 상당수는 이런 사고가 6개월에서 12개월 안에 일어난다고 봅니다.
 
-한 직원은 코딩 성능이 Claude Opus 5.5와 비슷하게 느껴진다고 평가했습니다.
+오픈AI 대변인은 대비 훈련일 뿐 "피할 수 없는 일로 여기지 않는다"고 했고, 앤트로픽은 답하지 않았습니다.
 
-Gemini가 코딩에서 상대적으로 아쉬운 모습을 보여왔던 만큼 기대되는 소식입니다.
+State of AI 2026이 꼽은 12개월 예측에도 AI 주도 사이버 공격이 들어 있습니다.</description><pubDate>Sun, 11 Oct 2026 05:31:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeV6chhDwNi</guid></item><item><title>2/ 이 시뮬레이션이 다루는 건 사고 그 자체보다 그 뒤의 정치입니다.
 
-다만 아직 직원의 주관적인 평가일 뿐, 공개된 성능 지표나 출시 일정은 없습니다.</description><pubDate>Sun, 11 Oct 2026 14:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeW4LpjjUi6</guid></item><item><title>내용 :
-https://www.businessinsider.com/google-employees-test-new-gemini-4-model-ar...</title><link>https://www.threads.net/@choi.openai/post/DeW4M6_jXV6</link><description>내용 :
-https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10</description><pubDate>Sun, 11 Oct 2026 14:30:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeW4M6_jXV6</guid></item><item><title>AI 모델의 컨텍스트 창은 100만 토큰 근처에서 더 커지지 않고 있습니다.
+누구 책임이냐는 싸움부터 벌어집니다.
+통제를 벗어난 에이전트 군집 탓인...</title><link>https://www.threads.net/@choi.openai/post/DeV6dl-jxJG</link><description>2/ 이 시뮬레이션이 다루는 건 사고 그 자체보다 그 뒤의 정치입니다.
 
-Prime Intellect는 이 벽을 넘어 추론을 계속 늘리는 ...</title><link>https://www.threads.net/@choi.openai/post/DeWgbFdlreI</link><description>AI 모델의 컨텍스트 창은 100만 토큰 근처에서 더 커지지 않고 있습니다.
+누구 책임이냐는 싸움부터 벌어집니다.
+통제를 벗어난 에이전트 군집 탓인지, 모델을 악용한 사람 탓인지에 따라 법의 방향이 갈립니다.
 
-Prime Intellect는 이 벽을 넘어 추론을 계속 늘리는 방법이 결국 에이전트 여러 개가 함께 일하는 '스웜'뿐이라고 주장했는데요.
+기업들은 중간선거 뒤 힘을 얻은 민주당이 AI를 멈추려 할 거라고 가정합니다.
+고령화된 의회가 기술을 따라가지 못할 수 있고, 경제는 이미 AI 투자와 얽혀 있습니다.
 
-압축에서 출발해 스웜에 이르는 논리를 정리했습니다 🧵</description><pubDate>Sun, 11 Oct 2026 12:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWgbFdlreI</guid></item><item><title>1/ 오픈소스 AI 학습 인프라 회사 Prime Intellect가 연구원 콘스탄틴 두나스(Konstantin Dunas)의 에세이 'On th...</title><link>https://www.threads.net/@choi.openai/post/DeWm9f4D2VH</link><description>1/ 오픈소스 AI 학습 인프라 회사 Prime Intellect가 연구원 콘스탄틴 두나스(Konstantin Dunas)의 에세이 'On the Nature of the Swarm'을 공개했습니다.
+오픈웨이트 모델은 회수할 수 없어서, AI로 AI를 막는 길밖에 없다는 시각도 많습니다. 
+초지능 금지와 개발 중단 같은 강경안이 거론되고, 킬스위치는 여야 모두 지지합니다.</description><pubDate>Sun, 11 Oct 2026 05:31:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeV6dl-jxJG</guid></item><item><title>3/ 이 시나리오가 먼 이야기로 들리지 않는 건 한국에서 이미 비슷한 일이 벌어졌기 때문입니다.
 
-부제는 '추론 스케일링은 왜 결국 많은 에이전트로 끝나는가'입니다.
-모델에게 더 오래 생각하고 도구를 더 부르고 스스로 검산하게 하면 성능이 오르는데요.
+9월 말부터 10월 초까지 신한은행에서 약 2...</title><link>https://www.threads.net/@choi.openai/post/DeV6ehlDzsr</link><description>3/ 이 시나리오가 먼 이야기로 들리지 않는 건 한국에서 이미 비슷한 일이 벌어졌기 때문입니다.
 
-이렇게 추론을 늘리다 보면 모든 에이전트가 같은 벽에 부딪힙니다. 컨텍스트 창이 가득 차는 겁니다.
+9월 말부터 10월 초까지 신한은행에서 약 2만 5천 명, KB국민은행 119명, 하나은행 89명의 정보가 빠져나갔고 예가람저축은행과 BNK부산은행도 피해를 봤습니다.
 
-두나스는 이 문제를 압축, 디스크, 서브에이전트, 상주 에이전트, 메시 순서로 풀어 가며 결국 스웜에 도달한다고 설명했고, "우리는 스웜을 학습시킬 것"이라고 적었습니다.</description><pubDate>Sun, 11 Oct 2026 12:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWm9f4D2VH</guid></item><item><title>2/ 두나스는 지금 프런티어 모델의 컨텍스트 창이 모두 100만 토큰 안팎에서 멈췄다고 지적합니다.
+크라우드스트라이크는 10월 7일 보고서에서 공격자가 열어둔 서버 폴더를 찾아냈습니다.
 
-그런데도 코딩 에이전트는 100만 토큰으로...</title><link>https://www.threads.net/@choi.openai/post/DeWm-5uDxEO</link><description>2/ 두나스는 지금 프런티어 모델의 컨텍스트 창이 모두 100만 토큰 안팎에서 멈췄다고 지적합니다.
+그 안에 중국에서 만든 오픈소스 침투 도구 ARTEX 설정과 Claude Code 작업 기록이 있었습니다.
 
-그런데도 코딩 에이전트는 100만 토큰으로는 불가능해 보이는 작업을 해내는데, 비결은 압축(compaction)입니다.
+주력 모델은 누구나 내려받는 DeepSeek V4.1-Flash였고, Claude Code는 여러 모델을 갈아 끼우는 작업 도구로 쓰였습니다.</description><pubDate>Sun, 11 Oct 2026 05:31:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeV6ehlDzsr</guid></item><item><title>데이비드 프리드버그(David Friedberg)는 AI에 의식을 부여하려는 흐름을 두고 “새로운 종교의 탄생을 지켜보고 있는 것 같다”고 진단...</title><link>https://www.threads.net/@choi.openai/post/DeXW_nfjiox</link><description>데이비드 프리드버그(David Friedberg)는 AI에 의식을 부여하려는 흐름을 두고 “새로운 종교의 탄생을 지켜보고 있는 것 같다”고 진단했습니다.
 
-창이 거의 차면 지금까지 한 일을 요약해 새 창에 넘기고, 다시 차면 또 요약합니다.
-문제는 요약할 때마다 나중에 무엇이 중요할지 지금 정해야 한다는 점입니다.
+그는 의식이란 수학이나 논리, 데이터 기반의 실증주의로 증명할 수 없는 영역이라고 지적했습니다.
+결국 과학적 입증이 불가능한 주장은 논리가 아닌 서사로 퍼지는 ‘새로운 믿음 체계’가 될 수밖에 없다는 설명입니다.
 
-그는 이를 '내기'라고 불렀습니다. 첫날 불안정한 테스트에서 나온 이상한 로그 한 줄을 잡음으로 보고 요약에서 뺐는데, 사흘째 그 줄이 버그의 열쇠였던 식입니다.
+프리드버그는 10년 뒤 AI의 의식 유무를 믿는 진영 간의 분열이 일어날 것이라 내다봤습니다.
+이는 단순한 철학적 논쟁을 넘어, AI의 통제권과 경제적 활용 권한, 권력 쟁탈전을 둘러싼 인간 간의 극심한 갈등으로 번질 위험이 큽니다.
 
-그의 경험상 100만 토큰짜리 작업 맥락은 1만 6천 토큰 정도로 줄어드는데, 이때 빠진 정보는 되살릴 수 없습니다.</description><pubDate>Sun, 11 Oct 2026 12:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWm-5uDxEO</guid></item><item><title>3/ 첫 번째 보완책은 디스크입니다.
+세계 최고 수준의 AI 연구소가 종교 지도자들과 만나 모델의 도덕성을 논의하는 현상은 위험한 신호입니다.
 
-에이전트가 작업 내용을 notes.md, logs/, findings.md 같은 파일로 써두고 요약에는 ...</title><link>https://www.threads.net/@choi.openai/post/DeWgcpciSZb</link><description>3/ 첫 번째 보완책은 디스크입니다.
+AI는 객관적 성능과 경제적 생산 도구로 다뤄져야 하며, 섣부른 의식 부여는 인류 갈등의 불씨가 될 수 있습니다.</description><pubDate>Sun, 11 Oct 2026 18:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeXW_nfjiox</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=TBLHdXABwAg</title><link>https://www.threads.net/@choi.openai/post/DeXXA6UDtp3</link><description>풀영상 :
+https://www.youtube.com/watch?v=TBLHdXABwAg</description><pubDate>Sun, 11 Oct 2026 19:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeXXA6UDtp3</guid></item><item><title>일론 머스크는 현재 반도체 업계가 지나치게 위험을 회피하고 있다며, 테슬라와 스페이스X가 텍사스 기가팩토리 연구용 팹(fab)을 통해 “고위험·...</title><link>https://www.threads.net/@choi.openai/post/DeXQNuZjWI7</link><description>일론 머스크는 현재 반도체 업계가 지나치게 위험을 회피하고 있다며, 테슬라와 스페이스X가 텍사스 기가팩토리 연구용 팹(fab)을 통해 “고위험·고수익 베팅”에 나설 것이라고 밝혔습니다.
 
-에이전트가 작업 내용을 notes.md, logs/, findings.md 같은 파일로 써두고 요약에는 파일 위치만 남기는데요.
+그는 로직, 메모리, 패키징, 리소그래피 마스크 제작 및 테스트까지 한 건물 안에서 완료하는 완전한 루프를 구축하겠다고 설명했습니다.
+이를 통해 설계부터 생산까지 보통 2년 이상 걸리던 반도체 개발 주기를 극적으로 단축하겠다는 전략입니다.
 
-질문이 "무엇을 기억해야 하나"에서 "무엇이 어디 있는지 알아야 하나"로 바뀝니다. 
-하지만 파일은 스스로 일하지 않습니다. 다음 에이전트가 그 파일이 중요하다는 걸 알아채고, 찾아가고, 다시 읽어야 하는데요.
+머스크는 “모든 기술의 발전 속도는 단위 시간당 반복(iteration) 횟수에 달려 있다”며, 1년에 10개 이상의 칩 설계를 실험하고 검증하는 초고속 반복 구조를 만들어 AI 칩 설계의 발전 속도를 전례 없이 끌어올리겠다고 강조했습니다.</description><pubDate>Sun, 11 Oct 2026 18:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeXQNuZjWI7</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=tUHHZsN7tPM&amp;t=1s</title><link>https://www.threads.net/@choi.openai/post/DeXQO-aDXvS</link><description>풀영상 :
+https://www.youtube.com/watch?v=tUHHZsN7tPM&amp;t=1s</description><pubDate>Sun, 11 Oct 2026 18:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeXQO-aDXvS</guid></item><item><title>퀄컴 CEO 크리스티아노 아몬(Cristiano Amon)은 주요 AI 기업들이 스마트폰의 하드웨어 한계를 뛰어넘는 요구를 하고 있다고 밝혔습니...</title><link>https://www.threads.net/@choi.openai/post/DeXJUfjk-dF</link><description>퀄컴 CEO 크리스티아노 아몬(Cristiano Amon)은 주요 AI 기업들이 스마트폰의 하드웨어 한계를 뛰어넘는 요구를 하고 있다고 밝혔습니다.
 
-다시 읽는 순간 컨텍스트를 쓰고, 애초에 부족했던 것도 컨텍스트였습니다.
-앞선 에이전트가 자료를 전부 읽고 쌓은 이해도 파일에는 남지 않습니다.
+그는 “2028년까지 휴대폰에서 최소 1,000억 개 매개변수(100B) 모델을 구동할 수 있어야 한다”는 것이 AI 업계의 공통된 주문이라고 전했습니다.
+게다가 이 거대한 모델이 백그라운드에서 “항상 상시 구동(running all the time)”되어야 한다는 조건을 달고 있습니다.
 
-정보는 보존되지만, 그 정보로 내린 판단은 매번 처음부터 다시 만들어야 합니다.</description><pubDate>Sun, 11 Oct 2026 12:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWgcpciSZb</guid></item><item><title>AI 에이전트 2,000개가 2주 만에 자기 자신을 Rust로 다시 짰습니다.
+현재 모바일 온디바이스 AI의 한계를 훌쩍 뛰어넘는 요구로, 클라우드 서버에 의존하던 초거대 모델이 모바일 칩셋과 메모리로 직접 내려오는 거대한 패러다임 전환을 시사합니다.
 
-Prime Intellect의 오픈소스 코딩 에이전트 Prime...</title><link>https://www.threads.net/@choi.openai/post/DeWgPyyCe8T</link><description>AI 에이전트 2,000개가 2주 만에 자기 자신을 Rust로 다시 짰습니다.
-
-Prime Intellect의 오픈소스 코딩 에이전트 Prime Agent가 GLM-5.3 토큰 2,000억 개 이상을 써서 TypeScript 코드를 통째로 옮겼고, 켜자마자 입력할 수 있게 되는 시간이 14배 빨라졌습니다.
-
-사람이 한 일은 코드를 쓰는 대신 검증을 설계하는 것이었습니다. 🧵</description><pubDate>Sun, 11 Oct 2026 11:02:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWgPyyCe8T</guid></item><item><title>1/ Prime Intellect가 오픈소스 코딩 에이전트 Prime Agent를 Rust로 처음부터 다시 쓴 버전을 공개했습니다.
-
-Prime...</title><link>https://www.threads.net/@choi.openai/post/DeWgVrlD5Rn</link><description>1/ Prime Intellect가 오픈소스 코딩 에이전트 Prime Agent를 Rust로 처음부터 다시 쓴 버전을 공개했습니다.
-
-Prime Agent는 8월 공개 때 모델에게 주는 도구를 파이썬 콘솔 하나로 줄인 하네스로, 같은 Claude Opus 5로 ARC-AGI-3 공개 세트 95.5%를 받아 화제가 됐는데요.
-이후 30만 번 넘게 다운로드됐고 8조 토큰을 처리했습니다.
-
-이번 재작성은 Prime Agent가 직접 했습니다.
-2주 동안 에이전트 2,209개를 지휘했고, Prime Sandboxes 1만 개 이상에서 GLM-5.3 토큰 2,287억 개를 썼습니다.
-
-에이전트끼리 주고받은 메시지는 1만 6,758건. 기능 이식에 1,981개, 성능 개선에 228개가 들어갔습니다.</description><pubDate>Sun, 11 Oct 2026 11:02:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWgVrlD5Rn</guid></item><item><title>2/ 굳이 Rust로 옮긴 이유는 코드 대부분을 에이전트가 쓰기 때문입니다.
-
-TypeScript 덕분에 빨리 출시할 수 있었지만, 타입은 실행...</title><link>https://www.threads.net/@choi.openai/post/DeWgWtcD7o0</link><description>2/ 굳이 Rust로 옮긴 이유는 코드 대부분을 에이전트가 쓰기 때문입니다.
-
-TypeScript 덕분에 빨리 출시할 수 있었지만, 타입은 실행 중에 사라지고 오류는 검사되지 않은 예외로 흘러다녔습니다.
-화면 그리기와 큰 세션 파싱도 키보드 입력과 같은 이벤트 루프에서 경쟁했습니다.
-
-Rust는 가비지 컬렉터 없이 돌고, 어떤 데이터가 스레드 사이를 오갈 수 있는지 컴파일러가 검사합니다.
-Prime Intellect는 실행 전에 여러 유형의 버그를 걸러내는 이 성질이 "에이전트가 코드 대부분을 쓸 때 특히 중요하다"고 설명했습니다.
-
-에이전트가 쓴 코드를 사람이 한 줄씩 읽기 전에 컴파일러가 먼저 걸러내는 구조입니다.</description><pubDate>Sun, 11 Oct 2026 11:02:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWgWtcD7o0</guid></item><item><title>3/ 사람이 한 일은 검증 장치를 만드는 것이었습니다.
-
-에이전트가 기존 TypeScript 버전과 똑같이 동작하는지 스스로 확인하도록 네 가지...</title><link>https://www.threads.net/@choi.openai/post/DeWgX-bjwev</link><description>3/ 사람이 한 일은 검증 장치를 만드는 것이었습니다.
-
-에이전트가 기존 TypeScript 버전과 똑같이 동작하는지 스스로 확인하도록 네 가지 검사를 줬습니다.
-
-같은 가상 모델로 두 버전을 돌려 터미널 화면을 프레임 단위로 비교하고, 세션 기록과 모델에 보내는 요청을 비교하고, 데몬 프로토콜 메시지를 하나씩 대조했습니다.
-
-자동 검사로 다 덮지 못하는 부분은 에이전트가 기능을 컴포넌트별로 감사해 일치, 부분, 누락으로 나눴고요.
-
-검사가 객관적이니 에이전트가 진행률을 스스로 재고 회귀를 병합 전에 잡을 수 있었고, 그만큼 사람이 리뷰할 양이 줄었습니다.</description><pubDate>Sun, 11 Oct 2026 11:02:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWgX-bjwev</guid></item><item><title>오픈AI가 2년 반 동안 공개한 영향력 공작 중 처음으로 확산 척도 5단계 작전을 차단했습니다.
-
-러시아 조직은 라틴아메리카에 가짜 싱크탱크를 ...</title><link>https://www.threads.net/@choi.openai/post/DeWZXj3jwUV</link><description>오픈AI가 2년 반 동안 공개한 영향력 공작 중 처음으로 확산 척도 5단계 작전을 차단했습니다.
-
-러시아 조직은 라틴아메리카에 가짜 싱크탱크를 세우고, 자기들이 러시아를 위해 일하는 줄 모르는 현지 직원까지 고용했는데요.
-
-오픈AI 보고서 내용을 정리했습니다 🧵</description><pubDate>Sun, 11 Oct 2026 10:01:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWZXj3jwUV</guid></item><item><title>1/ 오픈AI가 10월 8일 러시아발과 이란발 영향력 공작을 하나씩 차단했다고 밝혔습니다.
-
-두 작전 모두 ChatGPT를 기존 공작 수법과 엮...</title><link>https://www.threads.net/@choi.openai/post/DeWZYJMj7gy</link><description>1/ 오픈AI가 10월 8일 러시아발과 이란발 영향력 공작을 하나씩 차단했다고 밝혔습니다.
-
-두 작전 모두 ChatGPT를 기존 공작 수법과 엮어 실제 출처를 감춘 위장 조직을 운영했는데요.
-
-러시아 작전은 라틴아메리카에서 현지인들이 일하는 '싱크탱크'를 몰래 통제했고, 이란 작전은 기자를 사칭한 가상 인물 7명으로 전 세계 중소 온라인 매체에 장문 기사를 실었습니다.
-
-오픈AI는 러시아 작전을 운영자가 쓴 가상 인물 이름을 따 '다크 클라크', 이란 작전을 '허위 필자명'이라고 이름 붙였습니다.
-
-두 작전 모두 VPN으로 접속해 위치를 숨겼고, 오픈AI는 관련 정보를 당국과 공유했습니다.</description><pubDate>Sun, 11 Oct 2026 10:01:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWZYJMj7gy</guid></item><item><title>2/ 이번 발표가 주목받는 이유는 공작이 퍼진 범위입니다.
-오픈AI는 영향력 공작을 1단계부터 6단계까지 나누는 확산 척도(Breakout Sc...</title><link>https://www.threads.net/@choi.openai/post/DeWZZLGD3EA</link><description>2/ 이번 발표가 주목받는 이유는 공작이 퍼진 범위입니다.
-오픈AI는 영향력 공작을 1단계부터 6단계까지 나누는 확산 척도(Breakout Scale)로 평가하는데요.
-
-한 플랫폼 안에서 끝나면 1단계, 주류 언론까지 퍼지면 4단계, 정치인이나 유명인이 반응하면 5단계, 실제 정치적 결정에 영향을 주면 6단계입니다.
-
-러시아 작전은 여러 나라 정치인의 공개 발언을 끌어내 5단계로 평가됐고, 오픈AI가 보고서를 내기 시작한 뒤 처음 나온 5단계 사례입니다.
-
-이란 작전은 4단계였습니다.
-오픈AI가 2024년 초부터 공개한 공작 30건을 보면 소셜미디어에만 의존한 작전은 대부분 1~3단계에 머물렀고, 4~5단계는 모두 실제 언론 매체에 콘텐츠를 실은 경우였습니다.</description><pubDate>Sun, 11 Oct 2026 10:01:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWZZLGD3EA</guid></item><item><title>3/ 러시아 작전의 중심에는 사회연구센터(SRC)라는 라틴아메리카의 자칭 연구 기관이 있었습니다.
-
-겉으로는 라틴아메리카의 인도계 이주민과 인도...</title><link>https://www.threads.net/@choi.openai/post/DeWZaKmDxhj</link><description>3/ 러시아 작전의 중심에는 사회연구센터(SRC)라는 라틴아메리카의 자칭 연구 기관이 있었습니다.
-
-겉으로는 라틴아메리카의 인도계 이주민과 인도·역내 관계를 연구하는 곳이었는데요. 
-러시아 운영자들은 '미아 클라크'라는 가상 인물로 현지 직원들과 소통하며 채용, 해고, 급여까지 결정했습니다.
-
-현지 직원들은 자신들이 러시아 조직을 위해 일한다는 사실을 몰랐고, 전문가를 인터뷰해 BRICS 여론이나 브라질 경제 같은 보고서를 썼습니다.
-
-SRC 웹사이트에는 60편이 넘는 글이 올라왔고 대부분 직접 쓴 글이었습니다.
-오픈AI는 이를 2년 반 동안 차단한 위장 신분 운영 중 가장 복잡한 사례로 평가했습니다.
-
-운영자들은 프리고진이 세운 바그너 그룹의 후신으로 알려진 '폴리톨로지'에 관한 보도를 유독 자주 번역해 달라고 요청했습니다.</description><pubDate>Sun, 11 Oct 2026 10:01:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeWZaKmDxhj</guid></item></channel></rss>
+결국 데이터센터 비용 부담을 줄이고 개인 맞춤형 에이전트를 실시간으로 구동하기 위해, 모바일 실리콘과 온디바이스 연산 능력이 AI 생태계의 차세대 핵심 격전지가 되고 있습니다.</description><pubDate>Sun, 11 Oct 2026 17:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeXJUfjk-dF</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=FcYL3h5bwlk</title><link>https://www.threads.net/@choi.openai/post/DeXJVxCk85P</link><description>풀영상 :
+https://www.youtube.com/watch?v=FcYL3h5bwlk</description><pubDate>Sun, 11 Oct 2026 17:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeXJVxCk85P</guid></item></channel></rss>
