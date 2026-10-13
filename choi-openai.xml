@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 13 Oct 2026 15:36:28 +0000</lastBuildDate><item><title>안녕하세요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 13 Oct 2026 20:24:57 +0000</lastBuildDate><item><title>안녕하세요.
 
 수원에서 OpenAI DevDay 커뮤니티 밋업을 개최합니다!
 
@@ -22,116 +22,94 @@ AI에 관심이 있다면 개발자나 관련 업계 종사자가 아니더라�
 👥 규모: 60명
 🎟️ 신청: https://luma.com/4liixtsf
 
-OpenAI Codex Ambassador가 주최하는 커뮤니티 행사입니다.</description><pubDate>Tue, 13 Oct 2026 09:20:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DebeO0Yj-tk</guid></item><item><title>🚨 앤트로픽 공동창업자 잭 클라크가 AI가 스스로 다음 AI를 만드는 '재귀적 자기개선' 시점을 2028년에서 2027년으로 앞당겼습니다.
+OpenAI Codex Ambassador가 주최하는 커뮤니티 행사입니다.</description><pubDate>Tue, 13 Oct 2026 09:20:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DebeO0Yj-tk</guid></item><item><title>Scaledown이 특정 작업에 특화된 AI 모델 CDM을 공개했습니다.
 
-근...</title><link>https://www.threads.net/@choi.openai/post/DecFzXAj1W-</link><description>🚨 앤트로픽 공동창업자 잭 클라크가 AI가 스스로 다음 AI를 만드는 '재귀적 자기개선' 시점을 2028년에서 2027년으로 앞당겼습니다.
+일반적인 LLM처럼 답변을 한 글자씩 생성하지 않고, 입력에서 필요한...</title><link>https://www.threads.net/@choi.openai/post/Decgor5ChSU</link><description>Scaledown이 특정 작업에 특화된 AI 모델 CDM을 공개했습니다.
 
-근거는 AI의 연구 감각이 2025년 12월 이후 3개월마다 두 배로 좋아졌다는 새 벤치마크인데요.
+일반적인 LLM처럼 답변을 한 글자씩 생성하지 않고, 입력에서 필요한 결과를 바로 찾아내는 방식인데요.
 
-1위를 한 Opus 5.5는 인간 전문가를 넘었습니다.</description><pubDate>Tue, 13 Oct 2026 15:05:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecFzXAj1W-</guid></item><item><title>1/ 앤트로픽 공동창업자 잭 클라크가 10월 12일 뉴스레터 Import AI 476호에서 재귀적 자기개선(RSI) 전망을 고쳤습니다.
+문서 분류, 정보 추출, 요약을 위한 3가지 모델을 제공합니다. 예를 들어 300페이지짜리 PDF에서 마감일만 추출할 수 있습니다.
 
-RSI...</title><link>https://www.threads.net/@choi.openai/post/DecFz-Uj8gr</link><description>1/ 앤트로픽 공동창업자 잭 클라크가 10월 12일 뉴스레터 Import AI 476호에서 재귀적 자기개선(RSI) 전망을 고쳤습니다.
+개발사에 따르면 주요 LLM API보다 최대 200배 빠르고 467배 저렴하며, 입력 100만 토큰당 0.05달러입니다.</description><pubDate>Tue, 13 Oct 2026 19:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Decgor5ChSU</guid></item><item><title>주소 :
+https://scaledown.ai</title><link>https://www.threads.net/@choi.openai/post/Decgq2vitlt</link><description>주소 :
+https://scaledown.ai</description><pubDate>Tue, 13 Oct 2026 19:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Decgq2vitlt</guid></item><item><title>🚨 와우.. 앤트로픽이 git을 버리고 소스 컨트롤을 직접 만들었습니다.
 
-RSI는 AI가 사람 연구자 없이 자신의 후속 모델을 만들어 내는 단계를 말하는데요.
-그는 "이제는 완전한 RSI가 2027년에 가능해질 가능성이 더 높다고 본다.
+Claude가 쓰는 코드가 급격히 늘어, 하루 병합 건수가 5월 2,...</title><link>https://www.threads.net/@choi.openai/post/DecXeIJD89r</link><description>🚨 와우.. 앤트로픽이 git을 버리고 소스 컨트롤을 직접 만들었습니다.
 
-전에는 2028년일 가능성이 더 높다고 생각했다"고 썼습니다.
+Claude가 쓰는 코드가 급격히 늘어, 하루 병합 건수가 5월 2,500건에서 9월 3만 건을 넘겼기 때문입니다.
 
-판단을 바꾼 근거로는 P-Zero Research가 공개한 벤치마크 TasteVal을 들었습니다. 
-AI가 연구에 필요한 판단, 흔히 '연구 감각'이라 부르는 능력을 얼마나 갖췄는지 재는 시험입니다.</description><pubDate>Tue, 13 Oct 2026 15:06:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecFz-Uj8gr</guid></item><item><title>2/ 클라크는 올해 5월 Import AI 455호에서 2028년 말까지 AI 연구개발이 자동화될 가능성을 약 60%, 2027년 말까지는 약 ...</title><link>https://www.threads.net/@choi.openai/post/DecF0b0D8cm</link><description>2/ 클라크는 올해 5월 Import AI 455호에서 2028년 말까지 AI 연구개발이 자동화될 가능성을 약 60%, 2027년 말까지는 약 30%로 봤습니다.
+엔지니어 7명이 Claude와 함께 5개월 만에 버전관리 시스템 Scion을 새로 만들었습니다. 🧵</description><pubDate>Tue, 13 Oct 2026 17:40:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecXeIJD89r</guid></item><item><title>1/ 앤트로픽이 엔지니어링 블로그에 사내 버전관리 시스템 ‘Scion’을 공개했습니다. 
 
-6월 인터뷰에서는 "연구자 없이 연산과 데이터만 주면 Claude 10이 Claude 11을 만드는 시점"을 2028년쯤으로 꼽았는데요.
+앤트로픽 모노레포에 하루 머지되는 코드 변경은 5월 ...</title><link>https://www.threads.net/@choi.openai/post/DecXewND1--</link><description>1/ 앤트로픽이 엔지니어링 블로그에 사내 버전관리 시스템 ‘Scion’을 공개했습니다. 
 
-당시 그가 남은 빈칸으로 지목한 것이 창의성이었습니다.
-코딩과 논문 재현 벤치마크는 거의 포화됐지만, AI는 아직 근본적으로 새로운 아이디어를 내지 못한다고 봤습니다.
+앤트로픽 모노레포에 하루 머지되는 코드 변경은 5월 평균 약 2,500건이었는데, 9월에는 3만 건을 넘겼습니다.
 
-이번 호에서는 그 사이 수학에서 창의적으로 보이는 성과가 나왔고, TasteVal 같은 측정에서 AI 연구 능력도 올라오는 신호가 보인다며 시점을 1년 당겼습니다.</description><pubDate>Tue, 13 Oct 2026 15:06:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecF0b0D8cm</guid></item><item><title>3/ TasteVal은 연구 감각 중 실험 부분만 잽니다.
+9월 9일 하루에만 30,401건이 머지됐는데요.
+앤트로픽은 Claude가 연구 루프를 스스로 돌리고 서비스를 처음부터 만들면서 코드 작성은 더 이상 병목이 되지 않는다고 설명했습니다.
 
-연구 주제는 정해 두고, 평가받는 모델이 어떤 실험을 할지 설계하고 결과를 해석해 ...</title><link>https://www.threads.net/@choi.openai/post/DecF1B5jxfB</link><description>3/ TasteVal은 연구 감각 중 실험 부분만 잽니다.
+이제 막히는 곳은 사람 속도에 맞춰 만든 소스 관리, 빌드, CI입니다.
+그래서 git을 대체할 Scion을 직접 만들어 5개월 만에 모노레포 전체를 옮겼고, 같은 기간 코드 리뷰 도구 Antique와 코드 검색, 권한 관리 시스템도 함께 만들었습니다.</description><pubDate>Tue, 13 Oct 2026 17:40:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecXewND1--</guid></item><item><title>2/ git이 버티지 못한 이유는 규모입니다.
 
-연구 주제는 정해 두고, 평가받는 모델이 어떤 실험을 할지 설계하고 결과를 해석해 다음 실험을 고르게 하는 방식인데요.
+메인 브랜치 기록만 약 100GB, 압축된 작업 사본은 25GB가 넘는데요.
+CI에서만 하루 약...</title><link>https://www.threads.net/@choi.openai/post/DecXfwxj8fX</link><description>2/ git이 버티지 못한 이유는 규모입니다.
 
-코딩 실력이 점수에 섞이지 않도록 평가 모델은 코드를 쓰지 않고, 고정된 코더 모델 Opus 4.8이 H100 한 장에서 실험을 대신 돌립니다.
+메인 브랜치 기록만 약 100GB, 압축된 작업 사본은 25GB가 넘는데요.
+CI에서만 하루 약 2,500만 번 코드를 체크아웃하고, 개발 환경과 에이전트 샌드박스, 연구 작업은 별도입니다.
 
-과제는 사전학습 데이터 선별, 언어모델 사전학습과 미세조정, 선호도 모델링, 적대적 프롬프트 방어 등 8개이며 오염을 막으려고 내용은 공개하지 않았습니다.
+매번 그대로 내려받으면 하루 600PB가 넘는 git 트래픽이 생기는 규모입니다.
+앤트로픽은 얕은 복제, 부분 체크아웃, 내부 미러, 저장소 스냅샷을 모두 써봤고 한때 git 미러를 수백 대 운영했습니다.
 
-점수는 '연산 배수'로, 인간 전문가와 같은 점수에 도달하는 데 실험 연산을 절반만 쓰면 2배가 됩니다.
+그러다 한 가지를 짚었습니다.
 
-6월 앤트로픽 보고서가 최신 모델이 사람보다 나은 연구 방향을 제안하기 시작했다고 밝혔는데, TasteVal은 이를 외부에서 숫자로 잰 시도입니다.</description><pubDate>Tue, 13 Oct 2026 15:06:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecF1B5jxfB</guid></item><item><title>🚨 와.. 애플이 AI 디바이스 시장에 먼저 들어왔습니다.
+git은 오프라인에서도 저장소 전체를 들고 일하도록 설계됐는데, 실제 사용자 대부분은 늘 온라인에 있는 에이전트와 작업이었던 겁니다.</description><pubDate>Tue, 13 Oct 2026 17:40:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecXfwxj8fX</guid></item><item><title>3/ Scion의 설계는 이 전제에서 출발합니다.
 
-화면 달린 홈 허브 Apple HomeView를 299달러에 공개했는데요.
+클라이언트는 항상 서버에 연결돼 있다고 보고, 필요한 데이터만 그때그때 받아옵니다.
 
-오픈A...</title><link>https://www.threads.net/@choi.openai/post/Deb8UvciZm9</link><description>🚨 와.. 애플이 AI 디바이스 시장에 먼저 들어왔습니다.
+파일 ...</title><link>https://www.threads.net/@choi.openai/post/DecXgu-D8mk</link><description>3/ Scion의 설계는 이 전제에서 출발합니다.
 
-화면 달린 홈 허브 Apple HomeView를 299달러에 공개했는데요.
+클라이언트는 항상 서버에 연결돼 있다고 보고, 필요한 데이터만 그때그때 받아옵니다.
 
-오픈AI와 메타가 아직 준비하는 자리를 애플이 먼저 가져가려는 것 같습니다. 🧵</description><pubDate>Tue, 13 Oct 2026 13:43:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deb8UvciZm9</guid></item><item><title>1/ 애플이 화면 달린 홈 허브 Apple HomeView를 공개했습니다.
+파일 기록 조회, 커밋 생성, 머지와 리베이스는 모두 서버가 처리하고 클라이언트는 제한된 캐시와 작업 파일만 관리하는데요.
 
-7인치 화면 아래 돔 형태 스피커를 붙인 탁상형과 벽걸이형 두 가지...</title><link>https://www.threads.net/@choi.openai/post/Deb8VJ3D05E</link><description>1/ 애플이 화면 달린 홈 허브 Apple HomeView를 공개했습니다.
+커밋에 해당하는 '체인지셋'은 전체 트리 대신 바뀐 파일 목록과 압축된 파일 내용의 해시만 담습니다.
 
-7인치 화면 아래 돔 형태 스피커를 붙인 탁상형과 벽걸이형 두 가지이고, 가격은 둘 다 299달러입니다.
+그래서 커밋 비용은 저장소 크기와 상관없이 바뀐 양에만 비례하고, 잠금 없이 대량으로 받을 수 있습니다.
 
-집 안 최대 6명의 얼굴을 알아보고 사람마다 다른 홈 화면을 띄우며, FaceTime 영상통화, 카메라 9대 동시 보기, 조명, 잠금장치, 온도 조절, 레시피 단계 안내, 나의 찾기까지 한 화면에서 처리합니다.
+누가 마지막으로 줄을 고쳤는지 같은 질문도 API로 열려 있어, CI 작업은 저장소를 내려받지 않고 서버에 바로 물어봅니다.
 
-미국, 영국, 캐나다, 호주, 인도, 뉴질랜드에서 사전 주문을 받고 11월 13일 출시하는데요.
+자동 bisect와 revert 파이프라인이 대규모로 돌아가는 것도 이 구조 덕분입니다.</description><pubDate>Tue, 13 Oct 2026 17:40:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecXgu-D8mk</guid></item><item><title>🚨 속보) 구글이 Gemini 4 Argon을 전 세계에 정식 공개했습니다.
 
-Siri AI가 영어만 지원해 한국은 이번 출시국에 없고, EU도 빠졌습니다.</description><pubDate>Tue, 13 Oct 2026 13:43:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deb8VJ3D05E</guid></item><item><title>2/ 가장 큰 변화는 새 Siri AI입니다.
+9월 30일 발표 뒤 보안 파트너에게만 열었던 모델을 2주 만에 ...</title><link>https://www.threads.net/@choi.openai/post/DecRgjEDcb9</link><description>🚨 속보) 구글이 Gemini 4 Argon을 전 세계에 정식 공개했습니다.
 
-6월 WWDC에서 공개한 구글 Gemini 기반 Siri가 들어갔는데, 짝을 지은 아이폰의 메시...</title><link>https://www.threads.net/@choi.openai/post/Deb8VdMDTue</link><description>2/ 가장 큰 변화는 새 Siri AI입니다.
+9월 30일 발표 뒤 보안 파트너에게만 열었던 모델을 2주 만에 API와 Gemini 앱, 검색 AI 모드까지 풀었습니다.
 
-6월 WWDC에서 공개한 구글 Gemini 기반 Siri가 들어갔는데, 짝을 지은 아이폰의 메시지, 캘린더, 음악 재생목록을 맥락으로 써서 "엄마가 보낸 레시피 찾아 줘"나 "오늘 밤 일정 뭐야"에 바로 답합니다.
+구글 안에서는 이미 직원 10만 명 넘게 매달 쓰고 있습니다. 🧵</description><pubDate>Tue, 13 Oct 2026 16:49:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecRgjEDcb9</guid></item><item><title>1/ 구글이 Gemini 4 Argon을 전 세계에 정식 공개했습니다.
 
-개인 정보는 등록된 사람의 얼굴을 알아보고, 그 사람의 아이폰이 근처에서 최근 잠금 해제됐을 때만 화면에 띄웁니다.
+개발자와 기업은 AI Studio와 Gemini 플랫폼의 유료 API로...</title><link>https://www.threads.net/@choi.openai/post/DecRTWyDotY</link><description>1/ 구글이 Gemini 4 Argon을 전 세계에 정식 공개했습니다.
 
-카메라와 마이크 데이터는 별도 보안 영역에서 처리해 애플도 볼 수 없다고 밝혔고, Siri 처리는 기기 안이나 애플의 비공개 클라우드에서 돌아갑니다.
+개발자와 기업은 AI Studio와 Gemini 플랫폼의 유료 API로 쓸 수 있고, Gemini 앱과 검색 AI 모드에서는 Google AI Pro·Ultra 구독자, 에이전트 개발 도구 Antigravity에서는 Ultra 구독자가 쓸 수 있습니다.
 
-아이폰을 쓰는 가족이라면 따로 설정할 것 없이 AI가 집 안 사정을 알게 되는 구조입니다.</description><pubDate>Tue, 13 Oct 2026 13:43:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deb8VdMDTue</guid></item><item><title>3/ 경쟁자들도 같은 자리를 노리고 있습니다.
+9월 30일 발표 때는 사이버 방어 파트너 프로그램 Fairwind와 일부 테스터에게만 열려 있었는데요.
 
-오픈AI는 조니 아이브의 LoveFrom과 화면 없는 도넛형 기기를 만들고 있는데, 블룸버그 보...</title><link>https://www.threads.net/@choi.openai/post/Deb8VyYm9mm</link><description>3/ 경쟁자들도 같은 자리를 노리고 있습니다.
+구글은 그 사이 내부 버전 Antigravity에서 직원 10만 명 넘게 매달 Argon을 써 왔다고 밝혔습니다.
 
-오픈AI는 조니 아이브의 LoveFrom과 화면 없는 도넛형 기기를 만들고 있는데, 블룸버그 보도로는 카메라와 센서, 움직이는 부품을 넣었고 가격은 300달러에서 400달러, 출시는 2027년입니다.
+발표에서는 코딩, 금융, 법률, 사이버 보안, 과학처럼 여러 단계로 오래 이어지는 전문 업무를 강점으로 내세웠습니다.</description><pubDate>Tue, 13 Oct 2026 16:49:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecRTWyDotY</guid></item><item><title>2/ 출시 초기 API 가격은 100만 토큰당 입력 2달러, 출력 10달러이고, 캐시된 입력은 95% 할인됩니다.
 
-메타는 9월 끈에 매달아 다니는 2인치 화면의 5G AI 기기 Muse Charm을 공개했고 12월에 내놓습니다.
+9월 발표 때는 초기 가격이...</title><link>https://www.threads.net/@choi.openai/post/DecRt4LD6v0</link><description>2/ 출시 초기 API 가격은 100만 토큰당 입력 2달러, 출력 10달러이고, 캐시된 입력은 95% 할인됩니다.
 
-두 기기는 사람들이 새로운 물건을 들이고 새 습관을 들여야 합니다.
-HomeView는 이미 아이폰과 홈팟, 스마트홈 기기가 있는 집의 식탁 위에 299달러로 들어갑니다.
+9월 발표 때는 초기 가격이 언제 끝나는지 공개하지 않았는데, 정식 공개와 함께 11월 30일까지로 정해졌습니다.
 
-알트만은 메타를 두고 "위협을 느끼지 않는다"며 완성도가 더 중요하다고 했는데, 애플은 그 완성도 싸움에 먼저 제품을 올렸습니다.</description><pubDate>Tue, 13 Oct 2026 13:44:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deb8VyYm9mm</guid></item><item><title>Z.ai가 법률 업무에 특화한 GLM-Legal을 공개했습니다.
+12월부터는 입력 4달러, 출력 20달러가 적용됩니다.
+실무 평가 Vals가 정규 단가로 계산한 비용은 테스트당 Argon 15.68달러, Opus 5.5 32.14달러였습니다.
 
-토큰 하나에 18B만 켜는 경량 모델 GLM-5.3-Flash에 법률 학습을 ...</title><link>https://www.threads.net/@choi.openai/post/Deb3a4xD6ed</link><description>Z.ai가 법률 업무에 특화한 GLM-Legal을 공개했습니다.
+같은 평가에서 종합 점수가 더 높으면서 비용은 절반 수준이라, 초기 가격 기간에는 그 차이가 더 벌어질 것으로 보입니다.</description><pubDate>Tue, 13 Oct 2026 16:50:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecRt4LD6v0</guid></item><item><title>3/ 100만 토큰 한도의 성격도 정식 공개에서 분명해졌습니다.
 
-토큰 하나에 18B만 켜는 경량 모델 GLM-5.3-Flash에 법률 학습을 더해, 실제 로펌 업무를 재는 Harvey LAB 점수를 6.7%에서 19.2%로 세 배 가까이 끌어올렸습니다.
+9월 발표에서는 출력 한도를 6만 4천 토큰에서 100만 토큰으로 늘렸다고 소...</title><link>https://www.threads.net/@choi.openai/post/DecRunWD_16</link><description>3/ 100만 토큰 한도의 성격도 정식 공개에서 분명해졌습니다.
 
-같은 평가에서 Kimi K3(12.9%)와 Claude Fable 5(11.3%)보다 높은 점수입니다. 🧵</description><pubDate>Tue, 13 Oct 2026 13:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deb3a4xD6ed</guid></item><item><title>1/ Z.ai가 법률 업무용 모델 GLM-Legal을 공개했습니다.
+9월 발표에서는 출력 한도를 6만 4천 토큰에서 100만 토큰으로 늘렸다고 소개했는데, Gemini API에서는 입력과 출력을 합친 통합 한도로 운영됩니다.
 
-계약서 검토, 소송 증거 분석, 개인정보·규제 준수 조사처럼 로펌과 기업 ...</title><link>https://www.threads.net/@choi.openai/post/Deb3be9jwAu</link><description>1/ Z.ai가 법률 업무용 모델 GLM-Legal을 공개했습니다.
+80만 토큰짜리 코드베이스를 넣으면 답변에는 20만 토큰이 남는 방식입니다.
 
-계약서 검토, 소송 증거 분석, 개인정보·규제 준수 조사처럼 로펌과 기업 법무팀이 실제로 하는 일을 맡기려고 만든 모델입니다.
+구글은 긴 출력을 이어 받는 새 continuation protocol도 함께 내놓고, 개발자 문서에서 설정을 확인하라고 안내했습니다.
 
-기반은 8월 말 공개한 GLM-5.3-Flash인데요.
-전체 320B 파라미터 가운데 토큰 하나를 처리할 때 18B만 켜서 싸게 돌리는 경량 모델입니다.
-
-Z.ai의 Zixuan Li는 GLM-Legal을 회사의 첫 전문 업무 특화 모델이라고 소개했습니다.
-
-지금은 신청을 받아 API를 여는 베타 단계이고, Z.ai의 데스크톱 에이전트 AutoClaw에도 곧 들어갑니다.</description><pubDate>Tue, 13 Oct 2026 13:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deb3be9jwAu</guid></item><item><title>2/ 가장 크게 오른 점수는 Harvey LAB입니다.
-
-법률 AI 기업 Harvey가 만든 이 평가는 모델에게 파일 읽기·쓰기, 터미널 같은 ...</title><link>https://www.threads.net/@choi.openai/post/Deb3cL2j1BA</link><description>2/ 가장 크게 오른 점수는 Harvey LAB입니다.
-
-법률 AI 기업 Harvey가 만든 이 평가는 모델에게 파일 읽기·쓰기, 터미널 같은 도구 6개와 Word·Excel·PowerPoint 작성 기능을 주고, 24개 실무 분야의 로펌 업무를 실제 결과물까지 만들게 합니다.
-
-과제마다 붙은 채점 기준을 하나도 빠짐없이 통과해야 해결로 인정합니다.
-GLM-Legal은 19.2%를 받아 기반 모델 GLM-5.3-Flash의 6.7%보다 12.5%p 올랐습니다.
-
-Z.ai가 함께 비교한 Kimi K3는 12.9%, Claude Fable 5는 11.3%, GPT-6 Astra는 5.4%였고, 이 측정은 평가기관 Vals AI가 따로 진행했습니다.</description><pubDate>Tue, 13 Oct 2026 13:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deb3cL2j1BA</guid></item><item><title>3/ 19.2%라는 숫자가 낮아 보이는 이유는 채점 방식에 있습니다.
-
-Vals AI 집계에서 GLM-Legal은 개별 채점 항목의 92.5%를...</title><link>https://www.threads.net/@choi.openai/post/Deb3deQD2lH</link><description>3/ 19.2%라는 숫자가 낮아 보이는 이유는 채점 방식에 있습니다.
-
-Vals AI 집계에서 GLM-Legal은 개별 채점 항목의 92.5%를 통과했지만, 과제 단위로 보면 다섯 건 중 네 건꼴로 항목을 하나 이상 놓쳤습니다.
-
-전체 79개 모델 가운데서는 7위인데요.
-위에 있는 여섯 모델 중 다섯이 메타 모델이고, 1위는 25.4%의 Muse Spark 1.2입니다.
-
-GLM-Legal과 같은 날 공개된 Muse Wonder Full도 그 안에 있는데, 메타는 이 모델을 계약서 읽기 같은 일상 전문 업무에 맞춰 학습했다고 밝혔습니다.
-
-나머지 하나는 19.6%의 구글 Gemini 4 Argon입니다.
-일주일 전 미스트랄 Large 4가 오픈웨이트 1위로 내세운 점수가 15.8%였으니, 18B만 켜는 모델이 그 위로 올라온 셈입니다.</description><pubDate>Tue, 13 Oct 2026 13:00:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deb3deQD2lH</guid></item></channel></rss>
+큰 코드를 읽고 고친 뒤 테스트를 보고 다시 고치는 작업처럼, 한 번에 길게 생성해야 하는 일을 겨냥한 설계입니다.</description><pubDate>Tue, 13 Oct 2026 16:50:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DecRunWD_16</guid></item></channel></rss>
