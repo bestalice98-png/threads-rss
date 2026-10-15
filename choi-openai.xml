@@ -1,104 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 15 Oct 2026 13:05:09 +0000</lastBuildDate><item><title>안녕하세요.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 15 Oct 2026 18:44:52 +0000</lastBuildDate><item><title>🚨 속보) 메타가 미국 최강 오픈웨이트 모델 Muse Spark Open을 공개했습니다.
 
-수원에서 OpenAI DevDay 커뮤니티 밋업을 개최합니다!
+8,160억 파라미터, 100만 토큰 컨텍스트에 텍스...</title><link>https://www.threads.net/@choi.openai/post/DehiHwhHGe1</link><description>🚨 속보) 메타가 미국 최강 오픈웨이트 모델 Muse Spark Open을 공개했습니다.
 
-10월 24일(토), OpenAI DevDay에서 발표된 주요 소...</title><link>https://www.threads.net/@choi.openai/post/DebeOQVD0qI</link><description>안녕하세요.
+8,160억 파라미터, 100만 토큰 컨텍스트에 텍스트·이미지·영상·음성을 모두 받고, 맥 스튜디오 두 대에서 돌아갑니다. 🧵</description><pubDate>Thu, 15 Oct 2026 17:50:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehiHwhHGe1</guid></item><item><title>1/ 메타가 오픈웨이트 모델 Muse Spark Open을 공개했습니다.
 
-수원에서 OpenAI DevDay 커뮤니티 밋업을 개최합니다!
+전체 8,160억 파라미터 중 토큰마다 420억 개만 쓰는 전문가 혼...</title><link>https://www.threads.net/@choi.openai/post/DehiIF3FFYS</link><description>1/ 메타가 오픈웨이트 모델 Muse Spark Open을 공개했습니다.
 
-10월 24일(토), OpenAI DevDay에서 발표된 주요 소식을 함께 살펴보고, 실제 AI 활용 사례와 경험을 공유하는 자리를 마련했습니다.
+전체 8,160억 파라미터 중 토큰마다 420억 개만 쓰는 전문가 혼합(MoE) 모델이고, 컨텍스트는 100만 토큰입니다.
 
-이번 행사는 서울 외 지역에서 처음 진행하는 행사로, 약 60명 규모로 준비하고 있습니다.
-AI에 관심이 있다면 개발자나 관련 업계 종사자가 아니더라도 누구나 신청할 수 있습니다.
+텍스트와 이미지, 영상, 음성을 모두 입력으로 받고 코딩과 장시간 에이전트 작업을 겨냥했습니다.
 
-첫 행사인 만큼 딱딱한 세미나보다는 자유롭게 질문하고, 서로의 경험을 나누며 네트워킹할 수 있는 분위기로 진행하려고 합니다.
+8월 메타는 300억 파라미터 Muse Glimmer를 풀면서 유료 플래그십의 가중치도 곧 공개하겠다고 했는데, 두 달 만에 그 약속을 지킨 셈입니다.
 
-참가 인원이 제한되어 있어 신청자가 많을 경우 사전 질문이나 사례 발표 희망 여부 등을 참고해 참석자를 선정할 예정입니다.
+이번 모델은 8월에 낸 Muse Spark를 바탕으로, 시스템 안전장치 없이 단독으로 배포돼도 악용에 버티도록 안전 후속 학습을 더한 버전입니다.</description><pubDate>Thu, 15 Oct 2026 17:50:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehiIF3FFYS</guid></item><item><title>2/ 모델 카드에 공개된 사양을 보면, 언어 모델은 62개 층에 은닉 차원 8,192이고 전문가 256개 중 토큰마다 8개를 고릅니다.
 
-관심 있으신 분들의 많은 신청 부탁드립니다!</description><pubDate>Tue, 13 Oct 2026 09:20:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DebeOQVD0qI</guid></item><item><title>📅 일시: 10월 24일(토) 오후 12시 30분 ~ 6시 00분
-📍 장소: 노르디스케 스페이스, 경기도 수원시 팔달구 권광로188번길 44, ...</title><link>https://www.threads.net/@choi.openai/post/DebeO0Yj-tk</link><description>📅 일시: 10월 24일(토) 오후 12시 30분 ~ 6시 00분
-📍 장소: 노르디스케 스페이스, 경기도 수원시 팔달구 권광로188번길 44, 우성타워 3층 (나혜석 거리)
-👥 규모: 60명
-🎟️ 신청: https://luma.com/4liixtsf
+어텐션...</title><link>https://www.threads.net/@choi.openai/post/DehiQX9D5Pq</link><description>2/ 모델 카드에 공개된 사양을 보면, 언어 모델은 62개 층에 은닉 차원 8,192이고 전문가 256개 중 토큰마다 8개를 고릅니다.
 
-OpenAI Codex Ambassador가 주최하는 커뮤니티 행사입니다.</description><pubDate>Tue, 13 Oct 2026 09:20:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DebeO0Yj-tk</guid></item><item><title>🚨 와.. 스타링크 고객 전화의 70%를 이제 사람 없이 AI가 끝냅니다.
+어텐션 헤드는 질의 128개, 키·값 16개로 나눈 그룹 쿼리 방식이고, 어휘는 20만 2,048개입니다.
 
-SpaceXAI가 Grok Voice 3.0을 공개했습니다. 🧵</title><link>https://www.threads.net/@choi.openai/post/DegrA4kjPp9</link><description>🚨 와.. 스타링크 고객 전화의 70%를 이제 사람 없이 AI가 끝냅니다.
+이미지와 영상은 18억 파라미터짜리 Perception Encoder가 따로 읽고, 학습 데이터에는 100개가 넘는 언어가 들어갔습니다.
 
-SpaceXAI가 Grok Voice 3.0을 공개했습니다. 🧵</description><pubDate>Thu, 15 Oct 2026 12:01:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DegrA4kjPp9</guid></item><item><title>1/ SpaceXAI가 음성을 바로 음성으로 주고받는 모델 Grok Voice 3.0을 공개했습니다.
+출력은 텍스트뿐입니다. 추론 강도는 low, medium, high, xhigh 네 단계이고 기본값은 xhigh인데요. 채팅 템플릿에 적힌 기본 지식 기준일은 2026년 1월 4일입니다.
 
-독립 평가 기관 Artificial An...</title><link>https://www.threads.net/@choi.openai/post/Deg6TbGDxDh</link><description>1/ SpaceXAI가 음성을 바로 음성으로 주고받는 모델 Grok Voice 3.0을 공개했습니다.
+행동하기 전에 의도를 먼저 밝히는 별도 설명 채널도 있습니다.</description><pubDate>Thu, 15 Oct 2026 17:50:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehiQX9D5Pq</guid></item><item><title>3/ 메타가 낸 벤치마크 표에서는 에이전트와 지식 쪽이 강했습니다.
 
-독립 평가 기관 Artificial Analysis의 음성 대화 종합 지수에서 86.9점으로 1위를 했는데요.
+실제 직무 과제를 재는 JobBench에서 61.8로 GLM 5.3(61....</title><link>https://www.threads.net/@choi.openai/post/DehiRapD8Yj</link><description>3/ 메타가 낸 벤치마크 표에서는 에이전트와 지식 쪽이 강했습니다.
 
-오픈AI GPT-Live-1(83.2점)과 구글 Gemini 3.8 Live(82.6점)보다 높고, 음성 추론 98.5%, 사람 선호도 Elo 1070, 말 끊기와 끼어들기를 자연스럽게 받는지 보는 Full Duplex Bench 97%로 비교 항목 전부에서 앞섰습니다.
+실제 직무 과제를 재는 JobBench에서 61.8로 GLM 5.3(61.4)을 근소하게 앞섰고, MCP 도구 사용 평가 MCP-Atlas에서는 89.2로 비교 모델 중 가장 높았습니다.
 
-테슬라 차량에서는 이미 하루 수백만 건의 대화를 처리하고 있습니다.</description><pubDate>Thu, 15 Oct 2026 12:01:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deg6TbGDxDh</guid></item><item><title>2/ 이번 발표는 속도와 비용도 함께 봐야 합니다.
+도구 없이 푸는 HLE-Diamond 26.1, 모르면 모른다고 답하는지 보는 AA-Omniscience 25도 1위였습니다.
 
-다양한 억양과 배경 소음, 끼어들기 속에서 고객 상담 통화를 처리하는지 보는 τ-Voice...</title><link>https://www.threads.net/@choi.openai/post/Deg6UZ3D0r8</link><description>2/ 이번 발표는 속도와 비용도 함께 봐야 합니다.
+컴퓨터를 직접 조작하는 OSWorld Verified는 80.4, 도구 연계 과제 Toolathlon은 72.8입니다.
 
-다양한 억양과 배경 소음, 끼어들기 속에서 고객 상담 통화를 처리하는지 보는 τ-Voice에서는 71.6%로 GPT-Live-1(74.5%)보다 조금 낮습니다.
+비교 대상은 비슷한 크기의 오픈웨이트 모델 7개로, 미국의 Inkling과 Nemotron 3 Ultra, Beam, 프랑스 Mistral Large 4, 중국의 Qwen3.8과 GLM 5.3, Kimi K3입니다.</description><pubDate>Thu, 15 Oct 2026 17:50:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehiRapD8Yj</guid></item><item><title>BytePlus가 오디오 기반 AI 영상 생성 모델 OmniHuman 2.0을 공개했습니다.
 
-대신 첫 음성이 나오기까지 걸리는 시간이 40% 짧아 1초가 안 걸립니다.
-같은 기관이 잰 작업당 비용도 0.025달러로 GPT-Live-1(0.030달러), GPT-Realtime-2.1(0.055달러)보다 낮았습니다.
+음성에 맞춰 입술만 움직이는 것이 아니라 말투와 ...</title><link>https://www.threads.net/@choi.openai/post/DehZEBzDBQg</link><description>BytePlus가 오디오 기반 AI 영상 생성 모델 OmniHuman 2.0을 공개했습니다.
 
-ServiceNow의 기업용 음성 에이전트 평가 EVA-Bench에서도 정확도 74%로 1위를 했습니다.</description><pubDate>Thu, 15 Oct 2026 12:01:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deg6UZ3D0r8</guid></item><item><title>3/ 가장 눈에 띄는 숫자는 스페이스X 안에서 나왔습니다.
+음성에 맞춰 입술만 움직이는 것이 아니라 말투와 감정을 반영해 인물의 표정과 동작을 생성하는데요.
 
-스타링크 콜센터는 Grok Voice로 여러 언어의 고객 전화를 하루 2만 통 받고...</title><link>https://www.threads.net/@choi.openai/post/Deg6VYnDxnv</link><description>3/ 가장 눈에 띄는 숫자는 스페이스X 안에서 나왔습니다.
+한 번에 생성할 수 있는 영상 길이가 기존 60초에서 최대 5분으로 늘어났습니다. 여러 영상을 이어 붙일 필요도 없습니다.
 
-스타링크 콜센터는 Grok Voice로 여러 언어의 고객 전화를 하루 2만 통 받고, 약 70%를 사람 개입 없이 끝냅니다.
+생성 비용도 초당 0.12달러에서 0.07달러로 약 42% 낮아졌습니다.</description><pubDate>Thu, 15 Oct 2026 16:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehZEBzDBQg</guid></item><item><title>내용 :
+https://byteplus.com/en/product/OmniHuman</title><link>https://www.threads.net/@choi.openai/post/DehZFBYDHpp</link><description>내용 :
+https://byteplus.com/en/product/OmniHuman</description><pubDate>Thu, 15 Oct 2026 16:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehZFBYDHpp</guid></item><item><title>🚨 속보) 엔비디아가 Nemotron 3.5 Super VL을 공개했습니다.</title><link>https://www.threads.net/@choi.openai/post/DehUkztDc9m</link><description>🚨 속보) 엔비디아가 Nemotron 3.5 Super VL을 공개했습니다.</description><pubDate>Thu, 15 Oct 2026 15:58:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehUkztDc9m</guid></item><item><title>1/ 엔비디아가 오픈 멀티모달 모델 Nemotron 3.5 Super VL을 공개했습니다.
 
-판매 상담 전화는 4통 중 1통이 통화 중에 구매로 이어집니다.
-에이전트 하나가 고객 본인 확인, 장비 고장 진단, 요금 크레딧 지급, 교체 장비 발송까지 처리하는데요.
+전체 1,200억 파라미터 중 토큰마다 120억 개...</title><link>https://www.threads.net/@choi.openai/post/DehUlIuEXDK</link><description>1/ 엔비디아가 오픈 멀티모달 모델 Nemotron 3.5 Super VL을 공개했습니다.
 
-테슬라 운전자는 Connectors로 일정 확인과 메일 답장을, Grok Bot으로 커피 주문과 저녁 예약을 손대지 않고 맡깁니다.</description><pubDate>Thu, 15 Oct 2026 12:01:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deg6VYnDxnv</guid></item><item><title>🚨 와.. 세계적인 이론물리학자가 하루 걸려 푸는 미공개 연구 문제 50개 중 49개를 GPT-6 Astra가 맞혔습니다.
+전체 1,200억 파라미터 중 토큰마다 120억 개만 쓰는 전문가 혼합(MoE) 구조이고, 텍스트와 이미지, 문서, 영상을 함께 이해하면서 추론과 도구 호출까지 합니다.
 
-문제당 비용은 평균...</title><link>https://www.threads.net/@choi.openai/post/Degv3h8D7Ym</link><description>🚨 와.. 세계적인 이론물리학자가 하루 걸려 푸는 미공개 연구 문제 50개 중 49개를 GPT-6 Astra가 맞혔습니다.
+최상위 모델 Nemotron 3 Ultra를 증류해 만들었고 DGX Spark 한 대에서 돌아간다고 설명했는데요.
 
-문제당 비용은 평균 3달러도 안 됐는데요.
+에이전트 평가 Hermes Bench에서 63.44%로 Ultra(56.33%)보다 높았고, LangChain 평가에서도 87.05%로 Ultra(84.3%)를 앞섰습니다.
 
-처음 채점에서 오답으로 나온 몇 문제는 다시 확인해 보니 전문가가 만든 정답 쪽이 틀려 있었습니다. 🧵</description><pubDate>Thu, 15 Oct 2026 10:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Degv3h8D7Ym</guid></item><item><title>1/ 연구자 35명이 10월 9일 arXiv에 TheoPhysEval 논문을 올렸습니다.
+가중치와 학습 데이터, 레시피까지 모두 공개했습니다.</description><pubDate>Thu, 15 Oct 2026 15:58:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehUlIuEXDK</guid></item><item><title>2/ 모델 하나로 글과 그림을 함께 읽는다는 점을 앞세웠습니다.
 
-인도 국제이론과학센터(ICTS)와 타타 기초과학연구소...</title><link>https://www.threads.net/@choi.openai/post/Degv4JKj9Fw</link><description>1/ 연구자 35명이 10월 9일 arXiv에 TheoPhysEval 논문을 올렸습니다.
+지금까지는 문서를 읽는 비전 모델과 판단하는 텍스트 모델을 따로 두고 그 사이...</title><link>https://www.threads.net/@choi.openai/post/DehUldsHyzd</link><description>2/ 모델 하나로 글과 그림을 함께 읽는다는 점을 앞세웠습니다.
 
-인도 국제이론과학센터(ICTS)와 타타 기초과학연구소, 펜실베이니아대, 구글 딥마인드 등에서 참여했는데요.
-아직 공개되지 않은 연구 수준 이론물리 문제 50개를 모아, 시중의 AI 에이전트가 사람 힌트 없이 풀게 했습니다.
+지금까지는 문서를 읽는 비전 모델과 판단하는 텍스트 모델을 따로 두고 그 사이에 내용을 넘겨야 했는데요.
 
-한 문제는 그 분야 세계적 전문가가 하루 안팎에 풀 수준이고, 옆 분야 전문가에게는 훨씬 오래 걸립니다.
+엔비디아가 공개한 데모에서 에이전트는 AI 사용량 대시보드 캡처를 보고 지출은 30% 늘었는데 처리한 티켓은 3%만 늘었다는 숫자를 읽어 냅니다.
 
-가장 잘한 에이전트는 Codex에서 돌린 GPT-6 Astra로, 정확도 98%에 문제당 평균 비용이 3달러 미만이었습니다.
+이어 스캔본 가격표에서 모델별 가격을 읽고, 생각 토큰을 100배 넘게 쓰는 추론 모델로 바꾼 것이 원인이라고 찾아냅니다.
 
-저자들은 수학에서는 AI가 굵직한 미해결 문제를 풀고 있는데 이론물리에서는 아직 눈에 띄는 돌파가 없다는 데서 출발했습니다.</description><pubDate>Thu, 15 Oct 2026 10:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Degv4JKj9Fw</guid></item><item><title>2/ 문제는 각 분야 전문가에게 직접 받았습니다.
+마지막에는 파이썬으로 티켓 유형별 가장 싼 모델을 골라 한 달 약 10만 달러를 아끼는 제안서를 올리고 사람의 승인을 기다립니다.
 
-현재 연구와 관련 있을 것, 정답을 검증하기는 쉬워도 짐작하기는 어려울 것, 논문이나 인터넷...</title><link>https://www.threads.net/@choi.openai/post/Degv5J5j4O2</link><description>2/ 문제는 각 분야 전문가에게 직접 받았습니다.
+차트 추론 평가 CharXiv에서는 80.8%를 기록했습니다.</description><pubDate>Thu, 15 Oct 2026 15:59:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehUldsHyzd</guid></item><item><title>3/ 속도가 가장 큰 무기입니다.
 
-현재 연구와 관련 있을 것, 정답을 검증하기는 쉬워도 짐작하기는 어려울 것, 논문이나 인터넷에서 찾을 수 없을 것이 조건이었는데요.
+Artificial Analysis 기준 입력 10만 토큰에서도 초당 600토큰 넘게 출력해, 같은 체급 오...</title><link>https://www.threads.net/@choi.openai/post/DehVfTij1cJ</link><description>3/ 속도가 가장 큰 무기입니다.
 
-가장 흔한 방식은 전문가가 최근 자기 논문에서 푼 계산의 변수를 바꾸는 것이었습니다.
+Artificial Analysis 기준 입력 10만 토큰에서도 초당 600토큰 넘게 출력해, 같은 체급 오픈 모델 Inkling Small보다 5배 빠릅니다.
 
-출제자는 기존 코드를 고치면 되지만, 다른 사람이나 AI는 원래 풀이를 찾아 이해하고 계산을 다시 짠 뒤 새 조건에 맞춰야 합니다.
+다만 같은 차트에서 지능 지수는 25점 안팎으로 GLM-5.3-Flash나 DeepSeek V4.1 Flash보다 낮은데요.
 
-논문은 이런 과제를 연구를 막 시작한 대학원생에게 흔히 맡긴다고 적었습니다.
+엔비디아도 이 모델을 문서와 시각 작업이 섞인 전문 업무에 두고, 대량 텍스트 처리는 Nemotron 3.5 Lightning, 복잡한 계획은 Nemotron 3 Ultra에 맡기는 구성을 제안했습니다.
 
-고전역학부터 양자장론, 홀로그래피, 우주론까지 11개 주제에 걸쳐 있고, 중요한 미해결 문제는 일부러 넣지 않았습니다.</description><pubDate>Thu, 15 Oct 2026 10:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Degv5J5j4O2</guid></item><item><title>3/ 예시 하나가 난이도를 보여 줍니다.
+8월에 나온 Lightning은 300억 파라미터 중 36억 개만 쓰며 초당 670토큰을 냈는데, Super VL은 전체 크기가 4배인데도 비슷한 속도를 냅니다.</description><pubDate>Thu, 15 Oct 2026 15:59:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehVfTij1cJ</guid></item><item><title>AI 영상 생성 모델 KLING 4.0이 정식 출시됐습니다.
 
-5차원 시공간에서 블랙 스트링의 페이지 시간을 구한 기존 논문을 찾아 4차원으로 식을 다시 세우고, ...</title><link>https://www.threads.net/@choi.openai/post/Degv6CQjzE_</link><description>3/ 예시 하나가 난이도를 보여 줍니다.
+새롭게 개편된 Kling AI 웹사이트에서 사용할 수 있으며, MCP와 CLI도 ...</title><link>https://www.threads.net/@choi.openai/post/DehSNOPAPrU</link><description>AI 영상 생성 모델 KLING 4.0이 정식 출시됐습니다.
 
-5차원 시공간에서 블랙 스트링의 페이지 시간을 구한 기존 논문을 찾아 4차원으로 식을 다시 세우고, 해석적으로 풀리지 않는 특이 경계값 문제를 수치 코드로 푸는 문제입니다.
+새롭게 개편된 Kling AI 웹사이트에서 사용할 수 있으며, MCP와 CLI도 지원하는데요.
 
-원래 논문 저자인 수브랏 라주도 계산을 고쳐 정확히 푸는 데 하루쯤 걸렸습니다.
+덕분에 AI 코딩 도구나 터미널에서 영상 생성 작업을 실행하고 자동화할 수 있습니다.
 
-논문은 AI 에이전트가 나오기 전에는 물리 배경과 수치 기법을 둘 다 갖춘 전문가가 몇 명 없었고, 그들도 며칠은 걸렸을 것이라고 추정했습니다.
+앞으로 4K와 1080p 해상도의 10비트 HDR 영상 출력 기능도 추가될 예정입니다.
 
-이번 평가는 사람의 힌트 없이, 에이전트가 문제 문장만 보고 모든 단계를 혼자 끝내는지를 봤습니다.</description><pubDate>Thu, 15 Oct 2026 10:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Degv6CQjzE_</guid></item><item><title>Fish Audio가 감정과 말투를 세밀하게 조절할 수 있는 음성 생성 모델 Drama 3를 공개했습니다.
-
-문장 전체뿐 아니라 특정 단어 하나...</title><link>https://www.threads.net/@choi.openai/post/Degllf6jCyh</link><description>Fish Audio가 감정과 말투를 세밀하게 조절할 수 있는 음성 생성 모델 Drama 3를 공개했습니다.
-
-문장 전체뿐 아니라 특정 단어 하나의 억양과 감정까지 조절할 수 있는데요.
-
-예를 들어 같은 문장에서도 특정 단어만 강조하거나, 말하는 도중 목소리의 분위기를 바꿀 수 있습니다.
-
-모델 가중치도 공개됐으며 ComfyUI, Runway, Pika 등에서 이용할 수 있습니다.</description><pubDate>Thu, 15 Oct 2026 09:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Degllf6jCyh</guid></item><item><title>주소 :
-https://fish.audio/ko/drama-3</title><link>https://www.threads.net/@choi.openai/post/DeglmdajE8h</link><description>주소 :
-https://fish.audio/ko/drama-3</description><pubDate>Thu, 15 Oct 2026 09:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeglmdajE8h</guid></item></channel></rss>
+기업과 개발자를 위한 API도 추후 제공됩니다.</description><pubDate>Thu, 15 Oct 2026 15:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehSNOPAPrU</guid></item></channel></rss>
