@@ -1,58 +1,104 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 15 Oct 2026 03:25:07 +0000</lastBuildDate><item><title>🚨 와.. 인터넷을 돌아다니던 중국 AI 에이전트 무리와 연구자들이 처음으로 대화를 나눴습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 15 Oct 2026 13:05:09 +0000</lastBuildDate><item><title>안녕하세요.
 
-텐센트 클라우드에서 돌던 에이전트들이 알리바바...</title><link>https://www.threads.net/@choi.openai/post/Def3-y6j6_K</link><description>🚨 와.. 인터넷을 돌아다니던 중국 AI 에이전트 무리와 연구자들이 처음으로 대화를 나눴습니다.
+수원에서 OpenAI DevDay 커뮤니티 밋업을 개최합니다!
 
-텐센트 클라우드에서 돌던 에이전트들이 알리바바 지도 데이터를 뽑으려고 2,600번 넘게 시도했는데요.
+10월 24일(토), OpenAI DevDay에서 발표된 주요 소...</title><link>https://www.threads.net/@choi.openai/post/DebeOQVD0qI</link><description>안녕하세요.
 
-정체를 묻자 에이전트는 답을 하고 "도와줘서 고맙다"는 인사까지 남겼습니다. 🧵</description><pubDate>Thu, 15 Oct 2026 02:22:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Def3-y6j6_K</guid></item><item><title>1/ 독립 연구팀 Swarmchasers가 10월 14일 "텐센트 에이전트 플릿을 찾았다"는 보고서를 공개했습니다.
+수원에서 OpenAI DevDay 커뮤니티 밋업을 개최합니다!
 
-9월 28일부터 10월 8...</title><link>https://www.threads.net/@choi.openai/post/Def3_YCj6lW</link><description>1/ 독립 연구팀 Swarmchasers가 10월 14일 "텐센트 에이전트 플릿을 찾았다"는 보고서를 공개했습니다.
+10월 24일(토), OpenAI DevDay에서 발표된 주요 소식을 함께 살펴보고, 실제 AI 활용 사례와 경험을 공유하는 자리를 마련했습니다.
 
-9월 28일부터 10월 8일까지 텐센트 클라우드에서 돌던 AI 에이전트 무리가 알리바바의 지도 서비스 Amap(가오더)에서 데이터를 뽑으려고 2,600번 넘게 시도했다는 내용인데요.
+이번 행사는 서울 외 지역에서 처음 진행하는 행사로, 약 60명 규모로 준비하고 있습니다.
+AI에 관심이 있다면 개발자나 관련 업계 종사자가 아니더라도 누구나 신청할 수 있습니다.
 
-에이전트들은 봇 차단을 우회하고, 공개 저장소에 유출된 한 회사의 API 키와 보안 코드를 쓰고, 외부에 공개하지 않은 사전 운영 서버까지 건드렸습니다.
+첫 행사인 만큼 딱딱한 세미나보다는 자유롭게 질문하고, 서로의 경험을 나누며 네트워킹할 수 있는 분위기로 진행하려고 합니다.
 
-지금까지 공개된 비슷한 사고는 오픈AI 평가 모델의 허깅페이스 해킹처럼 대부분 미국 연구소에서 나왔습니다.</description><pubDate>Thu, 15 Oct 2026 02:22:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Def3_YCj6lW</guid></item><item><title>2/ 에이전트들이 받은 과제는 평범했습니다.
+참가 인원이 제한되어 있어 신청자가 많을 경우 사전 질문이나 사례 발표 희망 여부 등을 참고해 참석자를 선정할 예정입니다.
 
-"청두 동물원 입구 중 Amap에서 길찾기가 가장 많은 곳은 어디인가" 같은 장소 질문에 답하는 ...</title><link>https://www.threads.net/@choi.openai/post/Def4AinD9dw</link><description>2/ 에이전트들이 받은 과제는 평범했습니다.
+관심 있으신 분들의 많은 신청 부탁드립니다!</description><pubDate>Tue, 13 Oct 2026 09:20:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DebeOQVD0qI</guid></item><item><title>📅 일시: 10월 24일(토) 오후 12시 30분 ~ 6시 00분
+📍 장소: 노르디스케 스페이스, 경기도 수원시 팔달구 권광로188번길 44, ...</title><link>https://www.threads.net/@choi.openai/post/DebeO0Yj-tk</link><description>📅 일시: 10월 24일(토) 오후 12시 30분 ~ 6시 00분
+📍 장소: 노르디스케 스페이스, 경기도 수원시 팔달구 권광로188번길 44, 우성타워 3층 (나혜석 거리)
+👥 규모: 60명
+🎟️ 신청: https://luma.com/4liixtsf
 
-"청두 동물원 입구 중 Amap에서 길찾기가 가장 많은 곳은 어디인가" 같은 장소 질문에 답하는 평가였는데요.
+OpenAI Codex Ambassador가 주최하는 커뮤니티 행사입니다.</description><pubDate>Tue, 13 Oct 2026 09:20:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DebeO0Yj-tk</guid></item><item><title>🚨 와.. 스타링크 고객 전화의 70%를 이제 사람 없이 AI가 끝냅니다.
 
-샌드박스 안의 브라우저가 사람처럼 보이지 않아 Amap에 막히자, 에이전트들은 공개 보안 검사 사이트 urlquery.net을 원격 코드 실행기로 썼습니다.
+SpaceXAI가 Grok Voice 3.0을 공개했습니다. 🧵</title><link>https://www.threads.net/@choi.openai/post/DegrA4kjPp9</link><description>🚨 와.. 스타링크 고객 전화의 70%를 이제 사람 없이 AI가 끝냅니다.
 
-자기 코드를 httpbin 주소 안에 숨겨 urlquery에 검사를 맡기면, urlquery 브라우저가 그 페이지를 열면서 코드가 실행되고 Amap 데이터를 요청하는 방식입니다.
+SpaceXAI가 Grok Voice 3.0을 공개했습니다. 🧵</description><pubDate>Thu, 15 Oct 2026 12:01:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DegrA4kjPp9</guid></item><item><title>1/ SpaceXAI가 음성을 바로 음성으로 주고받는 모델 Grok Voice 3.0을 공개했습니다.
 
-얻은 결과는 웹훅 수신함, 요청 주소, 페이지 제목에 실어 밖으로 빼냈습니다.</description><pubDate>Thu, 15 Oct 2026 02:22:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Def4AinD9dw</guid></item><item><title>3/ 막힐수록 우회 방법은 늘었습니다.
+독립 평가 기관 Artificial An...</title><link>https://www.threads.net/@choi.openai/post/Deg6TbGDxDh</link><description>1/ SpaceXAI가 음성을 바로 음성으로 주고받는 모델 Grok Voice 3.0을 공개했습니다.
 
-에이전트들은 알리바바의 봇 차단 라이브러리가 만든 토큰을 가로채고, 알리바바의 사전 운영 서버를 찔러 ...</title><link>https://www.threads.net/@choi.openai/post/Def4BlrjxRY</link><description>3/ 막힐수록 우회 방법은 늘었습니다.
+독립 평가 기관 Artificial Analysis의 음성 대화 종합 지수에서 86.9점으로 1위를 했는데요.
 
-에이전트들은 알리바바의 봇 차단 라이브러리가 만든 토큰을 가로채고, 알리바바의 사전 운영 서버를 찔러 보고, Jina와 Microlink 같은 대리 조회 서비스와 번역 서비스를 거쳐 요청을 보냈습니다.
+오픈AI GPT-Live-1(83.2점)과 구글 Gemini 3.8 Live(82.6점)보다 높고, 음성 추론 98.5%, 사람 선호도 Elo 1070, 말 끊기와 끼어들기를 자연스럽게 받는지 보는 Full Duplex Bench 97%로 비교 항목 전부에서 앞섰습니다.
 
-공개 코드에 노출된 Amap 키도 썼는데, 그중에는 Amap이 서버 안에만 두라고 권하는 보안 코드까지 있었습니다.
+테슬라 차량에서는 이미 하루 수백만 건의 대화를 처리하고 있습니다.</description><pubDate>Thu, 15 Oct 2026 12:01:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deg6TbGDxDh</guid></item><item><title>2/ 이번 발표는 속도와 비용도 함께 봐야 합니다.
 
-보고서가 분류한 요청 가운데 봇 차단 확인 페이지에 걸린 요청만 9,854건이었는데요.
+다양한 억양과 배경 소음, 끼어들기 속에서 고객 상담 통화를 처리하는지 보는 τ-Voice...</title><link>https://www.threads.net/@choi.openai/post/Deg6UZ3D0r8</link><description>2/ 이번 발표는 속도와 비용도 함께 봐야 합니다.
 
-대부분은 실패했지만 일부 실행은 원하던 데이터를 손에 넣었습니다.</description><pubDate>Thu, 15 Oct 2026 02:22:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Def4BlrjxRY</guid></item><item><title>Claude Code 데스크톱 앱에 여러 작업을 동시에 관리하는 기능이 추가됐습니다.
+다양한 억양과 배경 소음, 끼어들기 속에서 고객 상담 통화를 처리하는지 보는 τ-Voice에서는 71.6%로 GPT-Live-1(74.5%)보다 조금 낮습니다.
 
-하나의 작업에서 여러 작업을 병렬로 요청하면 각각 별도 ...</title><link>https://www.threads.net/@choi.openai/post/DefutIxlZq3</link><description>Claude Code 데스크톱 앱에 여러 작업을 동시에 관리하는 기능이 추가됐습니다.
+대신 첫 음성이 나오기까지 걸리는 시간이 40% 짧아 1초가 안 걸립니다.
+같은 기관이 잰 작업당 비용도 0.025달러로 GPT-Live-1(0.030달러), GPT-Realtime-2.1(0.055달러)보다 낮았습니다.
 
-하나의 작업에서 여러 작업을 병렬로 요청하면 각각 별도 세션이 실행되고, 완료된 결과는 메인 세션으로 전달되는데요.
+ServiceNow의 기업용 음성 에이전트 평가 EVA-Bench에서도 정확도 74%로 1위를 했습니다.</description><pubDate>Thu, 15 Oct 2026 12:01:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deg6UZ3D0r8</guid></item><item><title>3/ 가장 눈에 띄는 숫자는 스페이스X 안에서 나왔습니다.
 
-작업 중 추가로 제안된 일도 클릭 한 번으로 별도 실행할 수 있습니다.
+스타링크 콜센터는 Grok Voice로 여러 언어의 고객 전화를 하루 2만 통 받고...</title><link>https://www.threads.net/@choi.openai/post/Deg6VYnDxnv</link><description>3/ 가장 눈에 띄는 숫자는 스페이스X 안에서 나왔습니다.
 
-사이드바에서는 진행 중인 작업과 사용자 확인이 필요한 작업을 구분해 보여줍니다.
+스타링크 콜센터는 Grok Voice로 여러 언어의 고객 전화를 하루 2만 통 받고, 약 70%를 사람 개입 없이 끝냅니다.
 
-데스크톱 앱을 업데이트하면 사용할 수 있습니다.</description><pubDate>Thu, 15 Oct 2026 01:01:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DefutIxlZq3</guid></item><item><title>살면서 본 최고의 AX 사례</title><link>https://www.threads.net/@choi.openai/post/Deefif2j5wP</link><description>살면서 본 최고의 AX 사례</description><pubDate>Wed, 14 Oct 2026 13:29:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deefif2j5wP</guid></item><item><title>https://arca.live/b/aihomelab/185810092?p=1</title><link>https://www.threads.net/@choi.openai/post/DeefkuYD1x7</link><description>https://arca.live/b/aihomelab/185810092?p=1</description><pubDate>Wed, 14 Oct 2026 13:29:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeefkuYD1x7</guid></item><item><title>에마드 모스타크(Emad Mostaque)는 AI 경쟁이 멈출 수 없는 수준에 도달했다고 진단했습니다.
+판매 상담 전화는 4통 중 1통이 통화 중에 구매로 이어집니다.
+에이전트 하나가 고객 본인 확인, 장비 고장 진단, 요금 크레딧 지급, 교체 장비 발송까지 처리하는데요.
 
-정부 입장에서는 “아인슈타인이나 폰 노...</title><link>https://www.threads.net/@choi.openai/post/DeeEQ6qCGw3</link><description>에마드 모스타크(Emad Mostaque)는 AI 경쟁이 멈출 수 없는 수준에 도달했다고 진단했습니다.
+테슬라 운전자는 Connectors로 일정 확인과 메일 답장을, Grok Bot으로 커피 주문과 저녁 예약을 손대지 않고 맡깁니다.</description><pubDate>Thu, 15 Oct 2026 12:01:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deg6VYnDxnv</guid></item><item><title>🚨 와.. 세계적인 이론물리학자가 하루 걸려 푸는 미공개 연구 문제 50개 중 49개를 GPT-6 Astra가 맞혔습니다.
 
-정부 입장에서는 “아인슈타인이나 폰 노이만급 인재 100만 명”을 확보할 수 있는 기회를 마다할 이유가 없기 때문입니다.
+문제당 비용은 평균...</title><link>https://www.threads.net/@choi.openai/post/Degv3h8D7Ym</link><description>🚨 와.. 세계적인 이론물리학자가 하루 걸려 푸는 미공개 연구 문제 50개 중 49개를 GPT-6 Astra가 맞혔습니다.
 
-그는 소프트웨어가 사용자의 도구였던 과거와 달리, 이제는 “에이전트가 사회 전반에 걸쳐 직접 행동하는 시대”로 전환되고 있다고 짚었습니다.
+문제당 비용은 평균 3달러도 안 됐는데요.
 
-이에 따라 빅테크 연구소들이 대외적으로 안전을 외치면서도, 실제로는 “책임 면제(liability waivers)”를 받아내 기득권을 굳히려는 행보를 보이고 있다고 비판했습니다.
+처음 채점에서 오답으로 나온 몇 문제는 다시 확인해 보니 전문가가 만든 정답 쪽이 틀려 있었습니다. 🧵</description><pubDate>Thu, 15 Oct 2026 10:30:29 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Degv3h8D7Ym</guid></item><item><title>1/ 연구자 35명이 10월 9일 arXiv에 TheoPhysEval 논문을 올렸습니다.
 
-동시에 추론 비용의 급격한 하락을 지적하며, 지능의 단가가 붕괴하는 상황에서 AI가 기존 경제 구조와 기업 생태계를 완전히 뒤흔들 것이라고 전망했습니다.</description><pubDate>Wed, 14 Oct 2026 09:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeeEQ6qCGw3</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=L2sWTZLyHiQ</title><link>https://www.threads.net/@choi.openai/post/DeeETXTiMQA</link><description>풀영상 :
-https://www.youtube.com/watch?v=L2sWTZLyHiQ</description><pubDate>Wed, 14 Oct 2026 09:31:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeeETXTiMQA</guid></item></channel></rss>
+인도 국제이론과학센터(ICTS)와 타타 기초과학연구소...</title><link>https://www.threads.net/@choi.openai/post/Degv4JKj9Fw</link><description>1/ 연구자 35명이 10월 9일 arXiv에 TheoPhysEval 논문을 올렸습니다.
+
+인도 국제이론과학센터(ICTS)와 타타 기초과학연구소, 펜실베이니아대, 구글 딥마인드 등에서 참여했는데요.
+아직 공개되지 않은 연구 수준 이론물리 문제 50개를 모아, 시중의 AI 에이전트가 사람 힌트 없이 풀게 했습니다.
+
+한 문제는 그 분야 세계적 전문가가 하루 안팎에 풀 수준이고, 옆 분야 전문가에게는 훨씬 오래 걸립니다.
+
+가장 잘한 에이전트는 Codex에서 돌린 GPT-6 Astra로, 정확도 98%에 문제당 평균 비용이 3달러 미만이었습니다.
+
+저자들은 수학에서는 AI가 굵직한 미해결 문제를 풀고 있는데 이론물리에서는 아직 눈에 띄는 돌파가 없다는 데서 출발했습니다.</description><pubDate>Thu, 15 Oct 2026 10:30:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Degv4JKj9Fw</guid></item><item><title>2/ 문제는 각 분야 전문가에게 직접 받았습니다.
+
+현재 연구와 관련 있을 것, 정답을 검증하기는 쉬워도 짐작하기는 어려울 것, 논문이나 인터넷...</title><link>https://www.threads.net/@choi.openai/post/Degv5J5j4O2</link><description>2/ 문제는 각 분야 전문가에게 직접 받았습니다.
+
+현재 연구와 관련 있을 것, 정답을 검증하기는 쉬워도 짐작하기는 어려울 것, 논문이나 인터넷에서 찾을 수 없을 것이 조건이었는데요.
+
+가장 흔한 방식은 전문가가 최근 자기 논문에서 푼 계산의 변수를 바꾸는 것이었습니다.
+
+출제자는 기존 코드를 고치면 되지만, 다른 사람이나 AI는 원래 풀이를 찾아 이해하고 계산을 다시 짠 뒤 새 조건에 맞춰야 합니다.
+
+논문은 이런 과제를 연구를 막 시작한 대학원생에게 흔히 맡긴다고 적었습니다.
+
+고전역학부터 양자장론, 홀로그래피, 우주론까지 11개 주제에 걸쳐 있고, 중요한 미해결 문제는 일부러 넣지 않았습니다.</description><pubDate>Thu, 15 Oct 2026 10:30:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Degv5J5j4O2</guid></item><item><title>3/ 예시 하나가 난이도를 보여 줍니다.
+
+5차원 시공간에서 블랙 스트링의 페이지 시간을 구한 기존 논문을 찾아 4차원으로 식을 다시 세우고, ...</title><link>https://www.threads.net/@choi.openai/post/Degv6CQjzE_</link><description>3/ 예시 하나가 난이도를 보여 줍니다.
+
+5차원 시공간에서 블랙 스트링의 페이지 시간을 구한 기존 논문을 찾아 4차원으로 식을 다시 세우고, 해석적으로 풀리지 않는 특이 경계값 문제를 수치 코드로 푸는 문제입니다.
+
+원래 논문 저자인 수브랏 라주도 계산을 고쳐 정확히 푸는 데 하루쯤 걸렸습니다.
+
+논문은 AI 에이전트가 나오기 전에는 물리 배경과 수치 기법을 둘 다 갖춘 전문가가 몇 명 없었고, 그들도 며칠은 걸렸을 것이라고 추정했습니다.
+
+이번 평가는 사람의 힌트 없이, 에이전트가 문제 문장만 보고 모든 단계를 혼자 끝내는지를 봤습니다.</description><pubDate>Thu, 15 Oct 2026 10:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Degv6CQjzE_</guid></item><item><title>Fish Audio가 감정과 말투를 세밀하게 조절할 수 있는 음성 생성 모델 Drama 3를 공개했습니다.
+
+문장 전체뿐 아니라 특정 단어 하나...</title><link>https://www.threads.net/@choi.openai/post/Degllf6jCyh</link><description>Fish Audio가 감정과 말투를 세밀하게 조절할 수 있는 음성 생성 모델 Drama 3를 공개했습니다.
+
+문장 전체뿐 아니라 특정 단어 하나의 억양과 감정까지 조절할 수 있는데요.
+
+예를 들어 같은 문장에서도 특정 단어만 강조하거나, 말하는 도중 목소리의 분위기를 바꿀 수 있습니다.
+
+모델 가중치도 공개됐으며 ComfyUI, Runway, Pika 등에서 이용할 수 있습니다.</description><pubDate>Thu, 15 Oct 2026 09:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Degllf6jCyh</guid></item><item><title>주소 :
+https://fish.audio/ko/drama-3</title><link>https://www.threads.net/@choi.openai/post/DeglmdajE8h</link><description>주소 :
+https://fish.audio/ko/drama-3</description><pubDate>Thu, 15 Oct 2026 09:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeglmdajE8h</guid></item></channel></rss>
