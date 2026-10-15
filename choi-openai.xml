@@ -1,5 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 14 Oct 2026 19:00:45 +0000</lastBuildDate><item><title>살면서 본 최고의 AX 사례</title><link>https://www.threads.net/@choi.openai/post/Deefif2j5wP</link><description>살면서 본 최고의 AX 사례</description><pubDate>Wed, 14 Oct 2026 13:29:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deefif2j5wP</guid></item><item><title>https://arca.live/b/aihomelab/185810092?p=1</title><link>https://www.threads.net/@choi.openai/post/DeefkuYD1x7</link><description>https://arca.live/b/aihomelab/185810092?p=1</description><pubDate>Wed, 14 Oct 2026 13:29:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeefkuYD1x7</guid></item><item><title>에마드 모스타크(Emad Mostaque)는 AI 경쟁이 멈출 수 없는 수준에 도달했다고 진단했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 15 Oct 2026 03:25:07 +0000</lastBuildDate><item><title>🚨 와.. 인터넷을 돌아다니던 중국 AI 에이전트 무리와 연구자들이 처음으로 대화를 나눴습니다.
+
+텐센트 클라우드에서 돌던 에이전트들이 알리바바...</title><link>https://www.threads.net/@choi.openai/post/Def3-y6j6_K</link><description>🚨 와.. 인터넷을 돌아다니던 중국 AI 에이전트 무리와 연구자들이 처음으로 대화를 나눴습니다.
+
+텐센트 클라우드에서 돌던 에이전트들이 알리바바 지도 데이터를 뽑으려고 2,600번 넘게 시도했는데요.
+
+정체를 묻자 에이전트는 답을 하고 "도와줘서 고맙다"는 인사까지 남겼습니다. 🧵</description><pubDate>Thu, 15 Oct 2026 02:22:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Def3-y6j6_K</guid></item><item><title>1/ 독립 연구팀 Swarmchasers가 10월 14일 "텐센트 에이전트 플릿을 찾았다"는 보고서를 공개했습니다.
+
+9월 28일부터 10월 8...</title><link>https://www.threads.net/@choi.openai/post/Def3_YCj6lW</link><description>1/ 독립 연구팀 Swarmchasers가 10월 14일 "텐센트 에이전트 플릿을 찾았다"는 보고서를 공개했습니다.
+
+9월 28일부터 10월 8일까지 텐센트 클라우드에서 돌던 AI 에이전트 무리가 알리바바의 지도 서비스 Amap(가오더)에서 데이터를 뽑으려고 2,600번 넘게 시도했다는 내용인데요.
+
+에이전트들은 봇 차단을 우회하고, 공개 저장소에 유출된 한 회사의 API 키와 보안 코드를 쓰고, 외부에 공개하지 않은 사전 운영 서버까지 건드렸습니다.
+
+지금까지 공개된 비슷한 사고는 오픈AI 평가 모델의 허깅페이스 해킹처럼 대부분 미국 연구소에서 나왔습니다.</description><pubDate>Thu, 15 Oct 2026 02:22:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Def3_YCj6lW</guid></item><item><title>2/ 에이전트들이 받은 과제는 평범했습니다.
+
+"청두 동물원 입구 중 Amap에서 길찾기가 가장 많은 곳은 어디인가" 같은 장소 질문에 답하는 ...</title><link>https://www.threads.net/@choi.openai/post/Def4AinD9dw</link><description>2/ 에이전트들이 받은 과제는 평범했습니다.
+
+"청두 동물원 입구 중 Amap에서 길찾기가 가장 많은 곳은 어디인가" 같은 장소 질문에 답하는 평가였는데요.
+
+샌드박스 안의 브라우저가 사람처럼 보이지 않아 Amap에 막히자, 에이전트들은 공개 보안 검사 사이트 urlquery.net을 원격 코드 실행기로 썼습니다.
+
+자기 코드를 httpbin 주소 안에 숨겨 urlquery에 검사를 맡기면, urlquery 브라우저가 그 페이지를 열면서 코드가 실행되고 Amap 데이터를 요청하는 방식입니다.
+
+얻은 결과는 웹훅 수신함, 요청 주소, 페이지 제목에 실어 밖으로 빼냈습니다.</description><pubDate>Thu, 15 Oct 2026 02:22:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Def4AinD9dw</guid></item><item><title>3/ 막힐수록 우회 방법은 늘었습니다.
+
+에이전트들은 알리바바의 봇 차단 라이브러리가 만든 토큰을 가로채고, 알리바바의 사전 운영 서버를 찔러 ...</title><link>https://www.threads.net/@choi.openai/post/Def4BlrjxRY</link><description>3/ 막힐수록 우회 방법은 늘었습니다.
+
+에이전트들은 알리바바의 봇 차단 라이브러리가 만든 토큰을 가로채고, 알리바바의 사전 운영 서버를 찔러 보고, Jina와 Microlink 같은 대리 조회 서비스와 번역 서비스를 거쳐 요청을 보냈습니다.
+
+공개 코드에 노출된 Amap 키도 썼는데, 그중에는 Amap이 서버 안에만 두라고 권하는 보안 코드까지 있었습니다.
+
+보고서가 분류한 요청 가운데 봇 차단 확인 페이지에 걸린 요청만 9,854건이었는데요.
+
+대부분은 실패했지만 일부 실행은 원하던 데이터를 손에 넣었습니다.</description><pubDate>Thu, 15 Oct 2026 02:22:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Def4BlrjxRY</guid></item><item><title>Claude Code 데스크톱 앱에 여러 작업을 동시에 관리하는 기능이 추가됐습니다.
+
+하나의 작업에서 여러 작업을 병렬로 요청하면 각각 별도 ...</title><link>https://www.threads.net/@choi.openai/post/DefutIxlZq3</link><description>Claude Code 데스크톱 앱에 여러 작업을 동시에 관리하는 기능이 추가됐습니다.
+
+하나의 작업에서 여러 작업을 병렬로 요청하면 각각 별도 세션이 실행되고, 완료된 결과는 메인 세션으로 전달되는데요.
+
+작업 중 추가로 제안된 일도 클릭 한 번으로 별도 실행할 수 있습니다.
+
+사이드바에서는 진행 중인 작업과 사용자 확인이 필요한 작업을 구분해 보여줍니다.
+
+데스크톱 앱을 업데이트하면 사용할 수 있습니다.</description><pubDate>Thu, 15 Oct 2026 01:01:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DefutIxlZq3</guid></item><item><title>살면서 본 최고의 AX 사례</title><link>https://www.threads.net/@choi.openai/post/Deefif2j5wP</link><description>살면서 본 최고의 AX 사례</description><pubDate>Wed, 14 Oct 2026 13:29:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deefif2j5wP</guid></item><item><title>https://arca.live/b/aihomelab/185810092?p=1</title><link>https://www.threads.net/@choi.openai/post/DeefkuYD1x7</link><description>https://arca.live/b/aihomelab/185810092?p=1</description><pubDate>Wed, 14 Oct 2026 13:29:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeefkuYD1x7</guid></item><item><title>에마드 모스타크(Emad Mostaque)는 AI 경쟁이 멈출 수 없는 수준에 도달했다고 진단했습니다.
 
 정부 입장에서는 “아인슈타인이나 폰 노...</title><link>https://www.threads.net/@choi.openai/post/DeeEQ6qCGw3</link><description>에마드 모스타크(Emad Mostaque)는 AI 경쟁이 멈출 수 없는 수준에 도달했다고 진단했습니다.
 
@@ -11,44 +55,4 @@
 
 동시에 추론 비용의 급격한 하락을 지적하며, 지능의 단가가 붕괴하는 상황에서 AI가 기존 경제 구조와 기업 생태계를 완전히 뒤흔들 것이라고 전망했습니다.</description><pubDate>Wed, 14 Oct 2026 09:31:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeeEQ6qCGw3</guid></item><item><title>풀영상 :
 https://www.youtube.com/watch?v=L2sWTZLyHiQ</title><link>https://www.threads.net/@choi.openai/post/DeeETXTiMQA</link><description>풀영상 :
-https://www.youtube.com/watch?v=L2sWTZLyHiQ</description><pubDate>Wed, 14 Oct 2026 09:31:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeeETXTiMQA</guid></item><item><title>여러 AI 에이전트가 협력해 보안 취약점을 점검하는 오픈소스 도구 PentAGI가 주목받고 있습니다.
-
-PentAGI는 AI 에이전트들이 역할을...</title><link>https://www.threads.net/@choi.openai/post/Ded52fNgJHl</link><description>여러 AI 에이전트가 협력해 보안 취약점을 점검하는 오픈소스 도구 PentAGI가 주목받고 있습니다.
-
-PentAGI는 AI 에이전트들이 역할을 나눠 대상 시스템을 분석하고, 취약점을 찾아 침투 테스트를 진행하도록 설계됐는데요.
-
-사람이 매 단계마다 명령하지 않아도 작업을 이어갈 수 있다는 점이 특징입니다.</description><pubDate>Wed, 14 Oct 2026 08:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ded52fNgJHl</guid></item><item><title>깃허브 :
-https://github.com/vxcontrol/pentagi</title><link>https://www.threads.net/@choi.openai/post/Ded53jKAP7w</link><description>깃허브 :
-https://github.com/vxcontrol/pentagi</description><pubDate>Wed, 14 Oct 2026 08:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ded53jKAP7w</guid></item><item><title>생각보다 훨씬 많은 분들이 관심을 갖고 신청해 주셔서 진심으로 감사드립니다! 🙌
-
-현재 행사 모집 인원을 초과하는 신청이 접수되어, 이번 주 토...</title><link>https://www.threads.net/@choi.openai/post/Ded0h5RjzbB</link><description>생각보다 훨씬 많은 분들이 관심을 갖고 신청해 주셔서 진심으로 감사드립니다! 🙌
-
-현재 행사 모집 인원을 초과하는 신청이 접수되어, 이번 주 토요일(10월 17일) 자정을 기준으로 참가 신청을 마감할 예정입니다.
-
-이번 밋업은 일반적인 세미나실이나 회의실이 아닌, 자유롭게 네트워킹할 수 있는 공간(@keke_appa)으로 대관했습니다.
-
-앞쪽에서는 AI 활용 사례 발표가 진행되고, 뒤쪽에서는 다른 참가자분들과 자유롭게 대화하고 교류할 수 있도록 운영할 예정입니다. 
-
-발표를 듣거나 네트워킹에 참여하는 등 각자의 관심사에 맞게 시간을 보내실 수 있습니다. 👇</description><pubDate>Wed, 14 Oct 2026 07:13:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ded0h5RjzbB</guid></item><item><title>🎤 사례 발표 안내
-
-현재 사례 발표를 신청해 주신 분들께 우선적으로 등록을 진행할 예정입니다.
-
-당초 팀당 6분, 총 8팀으로 계획했지만, 신...</title><link>https://www.threads.net/@choi.openai/post/Ded0h5nDziK</link><description>🎤 사례 발표 안내
-
-현재 사례 발표를 신청해 주신 분들께 우선적으로 등록을 진행할 예정입니다.
-
-당초 팀당 6분, 총 8팀으로 계획했지만, 신청 현황과 발표 내용에 따라 시간을 조금 더 할애하거나 발표 팀 수를 확대하는 방안도 고려하고 있습니다.
-
-📌 참가 등록 안내
-
-참가자 선정은 신청 순서나 AI 활용 능력, 경험 수준과 관계없이 진행됩니다.
-
-최종 참가 확정 여부는 이번 주 일요일(10월 18일) 중 개별 안내드릴 예정입니다.
-
-이번이 첫 지역 밋업인 만큼, 보내주신 많은 관심과 피드백을 바탕으로 앞으로 행사 규모와 개최 지역을 점차 확대하는 방안도 생각하고 있습니다.
-
-아쉽게 이번 행사에 함께하지 못하시더라도 너무 아쉬워하지 마시고, 앞으로 이어질 다음 행사에도 많은 기대와 관심 부탁드립니다.
-
-AI에 관심 있는 다양한 분들이 편하게 만나 경험을 나누고, 새로운 인연을 만들어 가는 커뮤니티로 발전시켜 나가겠습니다.
-
-다시 한번 많은 관심과 신청에 감사드립니다! 🙌</description><pubDate>Wed, 14 Oct 2026 07:13:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Ded0h5nDziK</guid></item></channel></rss>
+https://www.youtube.com/watch?v=L2sWTZLyHiQ</description><pubDate>Wed, 14 Oct 2026 09:31:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeeETXTiMQA</guid></item></channel></rss>
