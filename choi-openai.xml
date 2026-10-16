@@ -1,88 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 15 Oct 2026 18:44:52 +0000</lastBuildDate><item><title>🚨 속보) 메타가 미국 최강 오픈웨이트 모델 Muse Spark Open을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 16 Oct 2026 03:20:24 +0000</lastBuildDate><item><title>ㅋㅋㅋㅋㅋㅋ</title><link>https://www.threads.net/@choi.openai/post/DeihyVMj6Z9</link><description>ㅋㅋㅋㅋㅋㅋ</description><pubDate>Fri, 16 Oct 2026 03:05:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeihyVMj6Z9</guid></item><item><title>드디어 한국어가 개선이 되었네요.
 
-8,160억 파라미터, 100만 토큰 컨텍스트에 텍스...</title><link>https://www.threads.net/@choi.openai/post/DehiHwhHGe1</link><description>🚨 속보) 메타가 미국 최강 오픈웨이트 모델 Muse Spark Open을 공개했습니다.
+오픈AI가 새로운 실시간 음성 모델 GPT-Live-1.1을 공개했습니다.
 
-8,160억 파라미터, 100만 토큰 컨텍스트에 텍스트·이미지·영상·음성을 모두 받고, 맥 스튜디오 두 대에서 돌아갑니다. 🧵</description><pubDate>Thu, 15 Oct 2026 17:50:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehiHwhHGe1</guid></item><item><title>1/ 메타가 오픈웨이트 모델 Muse Spark Open을 공개했습니다.
+한국어를 포함해 프랑스어, 독일...</title><link>https://www.threads.net/@choi.openai/post/DeihJkWCeQ2</link><description>드디어 한국어가 개선이 되었네요.
 
-전체 8,160억 파라미터 중 토큰마다 420억 개만 쓰는 전문가 혼...</title><link>https://www.threads.net/@choi.openai/post/DehiIF3FFYS</link><description>1/ 메타가 오픈웨이트 모델 Muse Spark Open을 공개했습니다.
+오픈AI가 새로운 실시간 음성 모델 GPT-Live-1.1을 공개했습니다.
 
-전체 8,160억 파라미터 중 토큰마다 420억 개만 쓰는 전문가 혼합(MoE) 모델이고, 컨텍스트는 100만 토큰입니다.
+한국어를 포함해 프랑스어, 독일어, 힌디어, 멕시코 스페인어, 일본어 음성이 추가되고 발음과 억양도 개선됐는데요.
 
-텍스트와 이미지, 영상, 음성을 모두 입력으로 받고 코딩과 장시간 에이전트 작업을 겨냥했습니다.
+음성 대화 중 반복적으로 나오는 "checking"(확인 중) 같은 표현도 줄였습니다.
+ChatGPT, Codex, dots에 적용되며 오늘부터 모든 사용자에게 순차적으로 제공됩니다.
 
-8월 메타는 300억 파라미터 Muse Glimmer를 풀면서 유료 플래그십의 가중치도 곧 공개하겠다고 했는데, 두 달 만에 그 약속을 지킨 셈입니다.
+API 지원도 곧 추가될 예정입니다.</description><pubDate>Fri, 16 Oct 2026 03:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeihJkWCeQ2</guid></item><item><title>목소리 진짜 자연스러워졌습니다 :</title><link>https://www.threads.net/@choi.openai/post/DeihX0dj9v5</link><description>목소리 진짜 자연스러워졌습니다 :</description><pubDate>Fri, 16 Oct 2026 03:02:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeihX0dj9v5</guid></item><item><title>일론 머스크 이 미친 새X...</title><link>https://www.threads.net/@choi.openai/post/DeiYWu5mPGz</link><description>일론 머스크 이 미친 새X...</description><pubDate>Fri, 16 Oct 2026 01:44:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeiYWu5mPGz</guid></item><item><title>..</title><link>https://www.threads.net/@choi.openai/post/DeiZVN4FeDU</link><description>..</description><pubDate>Fri, 16 Oct 2026 01:52:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeiZVN4FeDU</guid></item><item><title>덴마크 최대 유통업체가 매장 진열대를 정리하는 휴머노이드 로봇을 시험 운영하고 있습니다.
 
-이번 모델은 8월에 낸 Muse Spark를 바탕으로, 시스템 안전장치 없이 단독으로 배포돼도 악용에 버티도록 안전 후속 학습을 더한 버전입니다.</description><pubDate>Thu, 15 Oct 2026 17:50:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehiIF3FFYS</guid></item><item><title>2/ 모델 카드에 공개된 사양을 보면, 언어 모델은 62개 층에 은닉 차원 8,192이고 전문가 256개 중 토큰마다 8개를 고릅니다.
+중국 Unitree가 제작한 로봇을 덴마크 스타트업 ...</title><link>https://www.threads.net/@choi.openai/post/DeiWztgEfiN</link><description>덴마크 최대 유통업체가 매장 진열대를 정리하는 휴머노이드 로봇을 시험 운영하고 있습니다.
 
-어텐션...</title><link>https://www.threads.net/@choi.openai/post/DehiQX9D5Pq</link><description>2/ 모델 카드에 공개된 사양을 보면, 언어 모델은 62개 층에 은닉 차원 8,192이고 전문가 256개 중 토큰마다 8개를 고릅니다.
+중국 Unitree가 제작한 로봇을 덴마크 스타트업 Hive Robots가 운영하는 방식인데요.
+매장 영업이 끝난 뒤 로봇이 팔과 손가락을 이용해 상품을 진열대에 채워 넣는 작업을 수행합니다.
 
-어텐션 헤드는 질의 128개, 키·값 16개로 나눈 그룹 쿼리 방식이고, 어휘는 20만 2,048개입니다.
+반복적인 진열 업무를 로봇에 맡기고 직원들은 고객 응대에 집중하도록 하는 것이 목표입니다.
 
-이미지와 영상은 18억 파라미터짜리 Perception Encoder가 따로 읽고, 학습 데이터에는 100개가 넘는 언어가 들어갔습니다.
-
-출력은 텍스트뿐입니다. 추론 강도는 low, medium, high, xhigh 네 단계이고 기본값은 xhigh인데요. 채팅 템플릿에 적힌 기본 지식 기준일은 2026년 1월 4일입니다.
-
-행동하기 전에 의도를 먼저 밝히는 별도 설명 채널도 있습니다.</description><pubDate>Thu, 15 Oct 2026 17:50:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehiQX9D5Pq</guid></item><item><title>3/ 메타가 낸 벤치마크 표에서는 에이전트와 지식 쪽이 강했습니다.
-
-실제 직무 과제를 재는 JobBench에서 61.8로 GLM 5.3(61....</title><link>https://www.threads.net/@choi.openai/post/DehiRapD8Yj</link><description>3/ 메타가 낸 벤치마크 표에서는 에이전트와 지식 쪽이 강했습니다.
-
-실제 직무 과제를 재는 JobBench에서 61.8로 GLM 5.3(61.4)을 근소하게 앞섰고, MCP 도구 사용 평가 MCP-Atlas에서는 89.2로 비교 모델 중 가장 높았습니다.
-
-도구 없이 푸는 HLE-Diamond 26.1, 모르면 모른다고 답하는지 보는 AA-Omniscience 25도 1위였습니다.
-
-컴퓨터를 직접 조작하는 OSWorld Verified는 80.4, 도구 연계 과제 Toolathlon은 72.8입니다.
-
-비교 대상은 비슷한 크기의 오픈웨이트 모델 7개로, 미국의 Inkling과 Nemotron 3 Ultra, Beam, 프랑스 Mistral Large 4, 중국의 Qwen3.8과 GLM 5.3, Kimi K3입니다.</description><pubDate>Thu, 15 Oct 2026 17:50:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehiRapD8Yj</guid></item><item><title>BytePlus가 오디오 기반 AI 영상 생성 모델 OmniHuman 2.0을 공개했습니다.
-
-음성에 맞춰 입술만 움직이는 것이 아니라 말투와 ...</title><link>https://www.threads.net/@choi.openai/post/DehZEBzDBQg</link><description>BytePlus가 오디오 기반 AI 영상 생성 모델 OmniHuman 2.0을 공개했습니다.
-
-음성에 맞춰 입술만 움직이는 것이 아니라 말투와 감정을 반영해 인물의 표정과 동작을 생성하는데요.
-
-한 번에 생성할 수 있는 영상 길이가 기존 60초에서 최대 5분으로 늘어났습니다. 여러 영상을 이어 붙일 필요도 없습니다.
-
-생성 비용도 초당 0.12달러에서 0.07달러로 약 42% 낮아졌습니다.</description><pubDate>Thu, 15 Oct 2026 16:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehZEBzDBQg</guid></item><item><title>내용 :
-https://byteplus.com/en/product/OmniHuman</title><link>https://www.threads.net/@choi.openai/post/DehZFBYDHpp</link><description>내용 :
-https://byteplus.com/en/product/OmniHuman</description><pubDate>Thu, 15 Oct 2026 16:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehZFBYDHpp</guid></item><item><title>🚨 속보) 엔비디아가 Nemotron 3.5 Super VL을 공개했습니다.</title><link>https://www.threads.net/@choi.openai/post/DehUkztDc9m</link><description>🚨 속보) 엔비디아가 Nemotron 3.5 Super VL을 공개했습니다.</description><pubDate>Thu, 15 Oct 2026 15:58:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehUkztDc9m</guid></item><item><title>1/ 엔비디아가 오픈 멀티모달 모델 Nemotron 3.5 Super VL을 공개했습니다.
-
-전체 1,200억 파라미터 중 토큰마다 120억 개...</title><link>https://www.threads.net/@choi.openai/post/DehUlIuEXDK</link><description>1/ 엔비디아가 오픈 멀티모달 모델 Nemotron 3.5 Super VL을 공개했습니다.
-
-전체 1,200억 파라미터 중 토큰마다 120억 개만 쓰는 전문가 혼합(MoE) 구조이고, 텍스트와 이미지, 문서, 영상을 함께 이해하면서 추론과 도구 호출까지 합니다.
-
-최상위 모델 Nemotron 3 Ultra를 증류해 만들었고 DGX Spark 한 대에서 돌아간다고 설명했는데요.
-
-에이전트 평가 Hermes Bench에서 63.44%로 Ultra(56.33%)보다 높았고, LangChain 평가에서도 87.05%로 Ultra(84.3%)를 앞섰습니다.
-
-가중치와 학습 데이터, 레시피까지 모두 공개했습니다.</description><pubDate>Thu, 15 Oct 2026 15:58:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehUlIuEXDK</guid></item><item><title>2/ 모델 하나로 글과 그림을 함께 읽는다는 점을 앞세웠습니다.
-
-지금까지는 문서를 읽는 비전 모델과 판단하는 텍스트 모델을 따로 두고 그 사이...</title><link>https://www.threads.net/@choi.openai/post/DehUldsHyzd</link><description>2/ 모델 하나로 글과 그림을 함께 읽는다는 점을 앞세웠습니다.
-
-지금까지는 문서를 읽는 비전 모델과 판단하는 텍스트 모델을 따로 두고 그 사이에 내용을 넘겨야 했는데요.
-
-엔비디아가 공개한 데모에서 에이전트는 AI 사용량 대시보드 캡처를 보고 지출은 30% 늘었는데 처리한 티켓은 3%만 늘었다는 숫자를 읽어 냅니다.
-
-이어 스캔본 가격표에서 모델별 가격을 읽고, 생각 토큰을 100배 넘게 쓰는 추론 모델로 바꾼 것이 원인이라고 찾아냅니다.
-
-마지막에는 파이썬으로 티켓 유형별 가장 싼 모델을 골라 한 달 약 10만 달러를 아끼는 제안서를 올리고 사람의 승인을 기다립니다.
-
-차트 추론 평가 CharXiv에서는 80.8%를 기록했습니다.</description><pubDate>Thu, 15 Oct 2026 15:59:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehUldsHyzd</guid></item><item><title>3/ 속도가 가장 큰 무기입니다.
-
-Artificial Analysis 기준 입력 10만 토큰에서도 초당 600토큰 넘게 출력해, 같은 체급 오...</title><link>https://www.threads.net/@choi.openai/post/DehVfTij1cJ</link><description>3/ 속도가 가장 큰 무기입니다.
-
-Artificial Analysis 기준 입력 10만 토큰에서도 초당 600토큰 넘게 출력해, 같은 체급 오픈 모델 Inkling Small보다 5배 빠릅니다.
-
-다만 같은 차트에서 지능 지수는 25점 안팎으로 GLM-5.3-Flash나 DeepSeek V4.1 Flash보다 낮은데요.
-
-엔비디아도 이 모델을 문서와 시각 작업이 섞인 전문 업무에 두고, 대량 텍스트 처리는 Nemotron 3.5 Lightning, 복잡한 계획은 Nemotron 3 Ultra에 맡기는 구성을 제안했습니다.
-
-8월에 나온 Lightning은 300억 파라미터 중 36억 개만 쓰며 초당 670토큰을 냈는데, Super VL은 전체 크기가 4배인데도 비슷한 속도를 냅니다.</description><pubDate>Thu, 15 Oct 2026 15:59:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehVfTij1cJ</guid></item><item><title>AI 영상 생성 모델 KLING 4.0이 정식 출시됐습니다.
-
-새롭게 개편된 Kling AI 웹사이트에서 사용할 수 있으며, MCP와 CLI도 ...</title><link>https://www.threads.net/@choi.openai/post/DehSNOPAPrU</link><description>AI 영상 생성 모델 KLING 4.0이 정식 출시됐습니다.
-
-새롭게 개편된 Kling AI 웹사이트에서 사용할 수 있으며, MCP와 CLI도 지원하는데요.
-
-덕분에 AI 코딩 도구나 터미널에서 영상 생성 작업을 실행하고 자동화할 수 있습니다.
-
-앞으로 4K와 1080p 해상도의 10비트 HDR 영상 출력 기능도 추가될 예정입니다.
-
-기업과 개발자를 위한 API도 추후 제공됩니다.</description><pubDate>Thu, 15 Oct 2026 15:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DehSNOPAPrU</guid></item></channel></rss>
+아직은 시험 운영 단계입니다.</description><pubDate>Fri, 16 Oct 2026 01:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeiWztgEfiN</guid></item></channel></rss>
