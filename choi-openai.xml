@@ -1,42 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 16 Oct 2026 18:29:49 +0000</lastBuildDate><item><title>Y Combinator의 지원을 받는 Instinct가 개인 투자자를 위한 AI 에이전트 플랫폼을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 17 Oct 2026 03:11:33 +0000</lastBuildDate><item><title>오픈AI 공동 창업자 그렉 브록만(Greg Brockman)은 AI가 완전히 혁신할 단 하나의 분야를 꼽으라면 “신약 개발이 가장 명확하고 확실...</title><link>https://www.threads.net/@choi.openai/post/DelF9tQDywz</link><description>오픈AI 공동 창업자 그렉 브록만(Greg Brockman)은 AI가 완전히 혁신할 단 하나의 분야를 꼽으라면 “신약 개발이 가장 명확하고 확실한 영역”이라고 강조했습니다.
 
-여러 AI 에이전트가 각자의 ...</title><link>https://www.threads.net/@choi.openai/post/DekINtaAqDj</link><description>Y Combinator의 지원을 받는 Instinct가 개인 투자자를 위한 AI 에이전트 플랫폼을 공개했습니다.
+그는 인간이 자연어에는 직관적으로 적응해 있지만, 복잡한 생물학적 시스템을 다루는 데는 놀라울 정도로 취약하다고 짚었습니다.
+반면 인공신경망에는 자연어와 생물학 사이에 본질적인 성능 차이가 존재할 이유가 없다고 분석했습니다.
 
-여러 AI 에이전트가 각자의 컴퓨터에서 시장 데이터, 뉴스, 소셜미디어 정보를 동시에 분석하는 방식인데요.
+기존의 신약 개발 파이프라인은 너무 길고 비효율적이었지만, 신경망이 “생물학의 언어”를 해독하기 시작하면 상황이 완전히 달라진다는 설명입니다.
 
-필요한 도구를 만들고 시장 간 연관성을 찾는 작업도 지원합니다.
+제1원리에 입각해 AI가 질병 메커니즘을 파악하고 신약을 설계함으로써 삶의 질을 근본적으로 끌어올리는 특이점급 도약이 일어날 것이라 전망했습니다.</description><pubDate>Sat, 17 Oct 2026 03:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DelF9tQDywz</guid></item><item><title>OpenRouter가 AI 에이전트의 도구 사용을 검사하는 OpenRouter Armor를 베타로 공개했습니다.
 
-개인 투자자도 투자회사처럼 여러 분석 업무를 병렬로 운영할 수 있도록 돕는 것이 목표입니다.</description><pubDate>Fri, 16 Oct 2026 18:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DekINtaAqDj</guid></item><item><title>주소 :
-https://www.instinct.xyz/</title><link>https://www.threads.net/@choi.openai/post/DekIQexAhxk</link><description>주소 :
-https://www.instinct.xyz/</description><pubDate>Fri, 16 Oct 2026 18:01:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DekIQexAhxk</guid></item><item><title>fal이 AI로 생성한 가상 세계를 실시간으로 탐험할 수 있는 fal Worlds를 공개했습니다.
+AI 에이전트가 파일을 수정하...</title><link>https://www.threads.net/@choi.openai/post/Dek7rGZE8XS</link><description>OpenRouter가 AI 에이전트의 도구 사용을 검사하는 OpenRouter Armor를 베타로 공개했습니다.
 
-캐릭터를 만들고 환경을 탐험하거나 장면을 연...</title><link>https://www.threads.net/@choi.openai/post/DekBUbEDQCy</link><description>fal이 AI로 생성한 가상 세계를 실시간으로 탐험할 수 있는 fal Worlds를 공개했습니다.
+AI 에이전트가 파일을 수정하거나 외부 서비스를 호출하기 전에 해당 작업이 허용된 범위인지 확인하는 기능인데요.
 
-캐릭터를 만들고 환경을 탐험하거나 장면을 연출하면 사용자의 행동에 따라 가상 세계가 반응하는 방식인데요.
+TypeSafe AI의 Jev 모델을 활용하며, OpenRouter에 따르면 Claude Code의 자동 분류기보다 높은 성능을 더 낮은 비용으로 제공합니다.
 
-LingBot World, H3 Max Director 등 여러 월드 모델을 직접 체험할 수 있습니다.
+AI 에이전트가 실제 작업을 수행하기 전에 위험한 명령을 걸러내는 데 활용할 수 있습니다.</description><pubDate>Sat, 17 Oct 2026 01:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dek7rGZE8XS</guid></item><item><title>가이드 :
+https://openrouter.ai/docs/guides/features/plugins/armor</title><link>https://www.threads.net/@choi.openai/post/Dek7sjfE2YJ</link><description>가이드 :
+https://openrouter.ai/docs/guides/features/plugins/armor</description><pubDate>Sat, 17 Oct 2026 01:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dek7sjfE2YJ</guid></item><item><title>OpenAI가 GPT-Live와 Decisions API를 직접 연결하는 기능을 공개했습니다.
 
-자체 추론 엔진인 World Model Accelerator를 활용해 지연 시간을 줄이고 실시간 영상 전송을 지원합니다.</description><pubDate>Fri, 16 Oct 2026 17:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DekBUbEDQCy</guid></item><item><title>주소 :
-https://fal.ai/worlds</title><link>https://www.threads.net/@choi.openai/post/DekBVqmjdx3</link><description>주소 :
-https://fal.ai/worlds</description><pubDate>Fri, 16 Oct 2026 17:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DekBVqmjdx3</guid></item><item><title>드와르케시 파텔(Dwarkesh Patel)은 타일러 코웬과의 대담에서 “인간이 할 수 있는 대부분의 물리적 노동을 해내는 로봇의 등장이 약 5...</title><link>https://www.threads.net/@choi.openai/post/Dej6eM0kpU2</link><description>드와르케시 파텔(Dwarkesh Patel)은 타일러 코웬과의 대담에서 “인간이 할 수 있는 대부분의 물리적 노동을 해내는 로봇의 등장이 약 5년 남았다”고 전망했습니다.
+사용자가 말을 끝내기 전에도 음성 내용을 분석해...</title><link>https://www.threads.net/@choi.openai/post/Dekxaktip0O</link><description>OpenAI가 GPT-Live와 Decisions API를 직접 연결하는 기능을 공개했습니다.
 
-그는 컴퓨터가 모든 제조업과 생산 공정을 혁신해 비용을 낮춘 것처럼, AI와 결합한 로봇 공학이 제품과 서비스 전반의 가격을 비약적으로 떨어뜨릴 것이라 설명했습니다.
+사용자가 말을 끝내기 전에도 음성 내용을 분석해 필요한 동작을 결정할 수 있는데요.
 
-파텔은 “이번 10년대 말(2030년경)이 되면 디지털 지능의 수가 인간의 생물학적 지능 수를 완전히 압도할 것”이라고 예측했습니다.
+예를 들어 운전자가 "좀 더 따뜻하게 해줘"라고 말하면 차량 온도를 높이도록 요청할 수 있습니다.
 
-자동화된 AI 연구를 통해 인지적 공백이 사라지고, 디지털 연산과 로봇 노동이 결합하면서 5~10년 내에 전통적 인간 일자리와 생산 구조는 거대한 특이점 전환을 맞이하게 됩니다.</description><pubDate>Fri, 16 Oct 2026 16:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dej6eM0kpU2</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=b-jsSfh0a9M</title><link>https://www.threads.net/@choi.openai/post/Dej6flVkhu3</link><description>풀영상 :
-https://www.youtube.com/watch?v=b-jsSfh0a9M</description><pubDate>Fri, 16 Oct 2026 16:01:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dej6flVkhu3</guid></item><item><title>PrismML이 스마트폰에서도 실행할 수 있는 소형 AI 모델 Bonsai 2를 공개했습니다.
+대화 내용에 맞춰 가상 캐릭터의 표정과 몸짓을 실시간으로 바꾸는 것도 가능합니다.
 
-Qwen3.5 기반으로 2B, 4B, 9B 모델...</title><link>https://www.threads.net/@choi.openai/post/Dejzjp9Ehmn</link><description>PrismML이 스마트폰에서도 실행할 수 있는 소형 AI 모델 Bonsai 2를 공개했습니다.
+중간 서버를 거치는 과정을 줄여 음성 AI의 반응 속도를 높이는 방식입니다.</description><pubDate>Sat, 17 Oct 2026 00:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dekxaktip0O</guid></item><item><title>문서 :
+https://developers.openai.com/api/docs/guides/decisions-voice</title><link>https://www.threads.net/@choi.openai/post/DekxdG6Cvrc</link><description>문서 :
+https://developers.openai.com/api/docs/guides/decisions-voice</description><pubDate>Sat, 17 Oct 2026 00:01:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DekxdG6Cvrc</guid></item><item><title>Liquid AI가 복잡한 의사결정을 위한 AI 모델 d1-ultra를 공개했습니다.
 
-Qwen3.5 기반으로 2B, 4B, 9B 모델의 용량이 각각 0.43GB, 0.95GB, 2GB에 불과한데요.
+이미지와 텍스트를 이해하고 44개 언어를 지원하며, Ar...</title><link>https://www.threads.net/@choi.openai/post/DeknGV-iaSB</link><description>Liquid AI가 복잡한 의사결정을 위한 AI 모델 d1-ultra를 공개했습니다.
 
-추론과 이미지 이해, 도구 사용을 지원하며 인터넷 연결 없이 기기에서 직접 실행할 수 있습니다.
+이미지와 텍스트를 이해하고 44개 언어를 지원하며, Artificial Analysis의 Decision Index에서 65점으로 1위를 기록했는데요.
 
-iPhone 18 Pro Max에서는 9B 모델이 초당 최대 34토큰, 2B는 120토큰을 생성합니다.
+특히 판단 결과의 신뢰도를 확률로 제공한다는 점이 특징입니다.
 
-Apache 2.0 라이선스로 공개돼 허깅페이스에서 이용할 수 있습니다.</description><pubDate>Fri, 16 Oct 2026 15:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dejzjp9Ehmn</guid></item><item><title>블로그 :
-https://prismml.com/news/bonsai-2-family</title><link>https://www.threads.net/@choi.openai/post/Dejzk5wEjhT</link><description>블로그 :
-https://prismml.com/news/bonsai-2-family</description><pubDate>Fri, 16 Oct 2026 15:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dejzk5wEjhT</guid></item></channel></rss>
+예를 들어 상품 사진과 설명이 일치하는지 확인하거나 보험 청구 사진의 손상 여부를 판단하고, 확신이 낮은 사례만 사람에게 검토를 맡길 수 있습니다.</description><pubDate>Fri, 16 Oct 2026 22:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeknGV-iaSB</guid></item><item><title>블로그 :
+https://www.liquid.ai/blog/d1-ultra</title><link>https://www.threads.net/@choi.openai/post/DeknHYWiUJA</link><description>블로그 :
+https://www.liquid.ai/blog/d1-ultra</description><pubDate>Fri, 16 Oct 2026 22:30:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeknHYWiUJA</guid></item></channel></rss>
