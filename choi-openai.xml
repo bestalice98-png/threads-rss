@@ -1,41 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 17 Oct 2026 03:11:33 +0000</lastBuildDate><item><title>오픈AI 공동 창업자 그렉 브록만(Greg Brockman)은 AI가 완전히 혁신할 단 하나의 분야를 꼽으라면 “신약 개발이 가장 명확하고 확실...</title><link>https://www.threads.net/@choi.openai/post/DelF9tQDywz</link><description>오픈AI 공동 창업자 그렉 브록만(Greg Brockman)은 AI가 완전히 혁신할 단 하나의 분야를 꼽으라면 “신약 개발이 가장 명확하고 확실한 영역”이라고 강조했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 17 Oct 2026 11:59:34 +0000</lastBuildDate><item><title>구글 공동 창업자 세르게이 브린(Sergey Brin)은 차세대 모델 개발 속도에 대해 “요즘 우리가 가진 출시 속도에 매우 고무되어 있다”고 ...</title><link>https://www.threads.net/@choi.openai/post/Del5eZwDLjh</link><description>구글 공동 창업자 세르게이 브린(Sergey Brin)은 차세대 모델 개발 속도에 대해 “요즘 우리가 가진 출시 속도에 매우 고무되어 있다”고 밝혔습니다.
 
-그는 인간이 자연어에는 직관적으로 적응해 있지만, 복잡한 생물학적 시스템을 다루는 데는 놀라울 정도로 취약하다고 짚었습니다.
-반면 인공신경망에는 자연어와 생물학 사이에 본질적인 성능 차이가 존재할 이유가 없다고 분석했습니다.
+구글은 내부에서만 10만 명의 엔지니어가 차기 모델을 실시간 테스트하며 연구와 모델 개선이 맞물려 돌아가는 '강력한 플라이휠'을 구축했습니다.
+브린은 연구원과 모델이 협력해 다음 버전을 설계하는 가속 주기에 진입했다고 강조했습니다.
 
-기존의 신약 개발 파이프라인은 너무 길고 비효율적이었지만, 신경망이 “생물학의 언어”를 해독하기 시작하면 상황이 완전히 달라진다는 설명입니다.
+“외부에 모델이 공개될 때쯤, 내부에서는 이미 몇 세대 앞선 모델을 사용하고 있습니다.”
 
-제1원리에 입각해 AI가 질병 메커니즘을 파악하고 신약을 설계함으로써 삶의 질을 근본적으로 끌어올리는 특이점급 도약이 일어날 것이라 전망했습니다.</description><pubDate>Sat, 17 Oct 2026 03:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DelF9tQDywz</guid></item><item><title>OpenRouter가 AI 에이전트의 도구 사용을 검사하는 OpenRouter Armor를 베타로 공개했습니다.
+그는 3~4주 단위의 빠른 배포와 피드백 루프를 통해 코딩·성능 혁신이 계속해서 가속화될 것이라고 전망했습니다.</description><pubDate>Sat, 17 Oct 2026 10:30:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Del5eZwDLjh</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=Jh6mgf9M06M</title><link>https://www.threads.net/@choi.openai/post/Del5f-ajIxp</link><description>풀영상 :
+https://www.youtube.com/watch?v=Jh6mgf9M06M</description><pubDate>Sat, 17 Oct 2026 10:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Del5f-ajIxp</guid></item><item><title>🚨 DeepSeek가 V4.1-Flash-1017을 공개했습니다.
 
-AI 에이전트가 파일을 수정하...</title><link>https://www.threads.net/@choi.openai/post/Dek7rGZE8XS</link><description>OpenRouter가 AI 에이전트의 도구 사용을 검사하는 OpenRouter Armor를 베타로 공개했습니다.
+코딩 에이전트 평가 DeepSWE에서 77.0%를 기록해 Claude Opu...</title><link>https://www.threads.net/@choi.openai/post/Del0s5Oj9Ct</link><description>🚨 DeepSeek가 V4.1-Flash-1017을 공개했습니다.
 
-AI 에이전트가 파일을 수정하거나 외부 서비스를 호출하기 전에 해당 작업이 허용된 범위인지 확인하는 기능인데요.
+코딩 에이전트 평가 DeepSWE에서 77.0%를 기록해 Claude Opus 5의 74.0%를 앞섰는데요. 작업당 비용은 약 0.2달러로 제시했습니다.
 
-TypeSafe AI의 Jev 모델을 활용하며, OpenRouter에 따르면 Claude Code의 자동 분류기보다 높은 성능을 더 낮은 비용으로 제공합니다.
+기존 API 가격은 유지하면서 출력 길이와 작업 비용을 줄였고, 모델 가중치는 MIT 라이선스로 공개했습니다.
 
-AI 에이전트가 실제 작업을 수행하기 전에 위험한 명령을 걸러내는 데 활용할 수 있습니다.</description><pubDate>Sat, 17 Oct 2026 01:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dek7rGZE8XS</guid></item><item><title>가이드 :
-https://openrouter.ai/docs/guides/features/plugins/armor</title><link>https://www.threads.net/@choi.openai/post/Dek7sjfE2YJ</link><description>가이드 :
-https://openrouter.ai/docs/guides/features/plugins/armor</description><pubDate>Sat, 17 Oct 2026 01:30:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dek7sjfE2YJ</guid></item><item><title>OpenAI가 GPT-Live와 Decisions API를 직접 연결하는 기능을 공개했습니다.
+다만 딥시크 자체 측정 결과이며, 고난도 추론과 터미널 작업에서는 Opus 5보다 낮은 점수를 기록했습니다.</description><pubDate>Sat, 17 Oct 2026 09:48:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Del0s5Oj9Ct</guid></item><item><title>허깅페이스 :
+https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</title><link>https://www.threads.net/@choi.openai/post/Del0thqD9uu</link><description>허깅페이스 :
+https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</description><pubDate>Sat, 17 Oct 2026 09:49:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Del0thqD9uu</guid></item><item><title>AI 석학 앤드류 응(Andrew Ng) 교수는 “AI로 인한 대규모 일자리 종말은 오지 않을 것”이라고 단언했습니다.
 
-사용자가 말을 끝내기 전에도 음성 내용을 분석해...</title><link>https://www.threads.net/@choi.openai/post/Dekxaktip0O</link><description>OpenAI가 GPT-Live와 Decisions API를 직접 연결하는 기능을 공개했습니다.
+인구의 50%가 실직하...</title><link>https://www.threads.net/@choi.openai/post/DelvNAIinb9</link><description>AI 석학 앤드류 응(Andrew Ng) 교수는 “AI로 인한 대규모 일자리 종말은 오지 않을 것”이라고 단언했습니다.
 
-사용자가 말을 끝내기 전에도 음성 내용을 분석해 필요한 동작을 결정할 수 있는데요.
+인구의 50%가 실직하는 극단적 시나리오는 비현실적이며, 실제 데이터 역시 부정적 고용 충격은 없음을 보여준다고 설명했습니다.
+AI가 자동화하는 것은 업무 전체가 아닌 일부에 불과하기 때문입니다.
 
-예를 들어 운전자가 "좀 더 따뜻하게 해줘"라고 말하면 차량 온도를 높이도록 요청할 수 있습니다.
+그는 코딩 분야를 예로 들며, “프론트엔드 개발자들이 AI를 도구 삼아 백엔드와 모바일, 보안까지 아우르는 풀스택 엔지니어로 확장하고 있다”고 밝혔습니다.
 
-대화 내용에 맞춰 가상 캐릭터의 표정과 몸짓을 실시간으로 바꾸는 것도 가능합니다.
+핵심은 일자리 감소가 아니라 ‘업스킬링(역량 강화)’입니다.
+“현재 기업들은 소프트웨어 엔지니어뿐 아니라 AI를 다룰 줄 아는 마케터, 영업, 운영 인력을 충분히 찾지 못해 안달”이라며, AI 역량을 흡수한 인재의 몸값과 생산성은 오히려 폭발적으로 치솟을 것이라고 강조했습니다.</description><pubDate>Sat, 17 Oct 2026 09:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DelvNAIinb9</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=J-sMqnzHwI0</title><link>https://www.threads.net/@choi.openai/post/DelvO6uiqR7</link><description>풀영상 :
+https://www.youtube.com/watch?v=J-sMqnzHwI0</description><pubDate>Sat, 17 Oct 2026 09:01:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DelvO6uiqR7</guid></item><item><title>구글 리서치 VP이자 제미나이 포스트 트레이닝 리드인 멜빈 존슨(Melvin Johnson)은 AI 모델이 하드웨어 자체의 치명적인 결함까지 스...</title><link>https://www.threads.net/@choi.openai/post/Delk2rCD521</link><description>구글 리서치 VP이자 제미나이 포스트 트레이닝 리드인 멜빈 존슨(Melvin Johnson)은 AI 모델이 하드웨어 자체의 치명적인 결함까지 스스로 디버깅하는 시대가 왔다고 밝혔습니다.
 
-중간 서버를 거치는 과정을 줄여 음성 AI의 반응 속도를 높이는 방식입니다.</description><pubDate>Sat, 17 Oct 2026 00:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dekxaktip0O</guid></item><item><title>문서 :
-https://developers.openai.com/api/docs/guides/decisions-voice</title><link>https://www.threads.net/@choi.openai/post/DekxdG6Cvrc</link><description>문서 :
-https://developers.openai.com/api/docs/guides/decisions-voice</description><pubDate>Sat, 17 Oct 2026 00:01:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DekxdG6Cvrc</guid></item><item><title>Liquid AI가 복잡한 의사결정을 위한 AI 모델 d1-ultra를 공개했습니다.
+구글은 장기간 제미나이 대규모 훈련 과정에서 원인을 알 수 없는 기계 상태 이상과 하드웨어 문제로 골머리를 앓아왔습니다.
+그러나 한 엔지니어가 이 문제를 AI 시스템인 아르곤(Argon)에 입력하자, AI가 직접 하드웨어의 실제 문제를 찾아냈습니다.
 
-이미지와 텍스트를 이해하고 44개 언어를 지원하며, Ar...</title><link>https://www.threads.net/@choi.openai/post/DeknGV-iaSB</link><description>Liquid AI가 복잡한 의사결정을 위한 AI 모델 d1-ultra를 공개했습니다.
+하드웨어 팀은 처음엔 “AI 찌꺼기(AI slop)를 가져와서 들을 필요도 없다”며 반신반의했으나, 실제 추적 결과 공급업체 단계의 손상된 HBM(고대역폭 메모리) 결함을 정확히 짚어낸 것으로 확인되었습니다.
 
-이미지와 텍스트를 이해하고 44개 언어를 지원하며, Artificial Analysis의 Decision Index에서 65점으로 1위를 기록했는데요.
+인간 엔지니어가 오랜 시간 해결하지 못한 인프라 결함조차 AI가 파악해 수정하는 수준에 이르렀습니다.
 
-특히 판단 결과의 신뢰도를 확률로 제공한다는 점이 특징입니다.
-
-예를 들어 상품 사진과 설명이 일치하는지 확인하거나 보험 청구 사진의 손상 여부를 판단하고, 확신이 낮은 사례만 사람에게 검토를 맡길 수 있습니다.</description><pubDate>Fri, 16 Oct 2026 22:30:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeknGV-iaSB</guid></item><item><title>블로그 :
-https://www.liquid.ai/blog/d1-ultra</title><link>https://www.threads.net/@choi.openai/post/DeknHYWiUJA</link><description>블로그 :
-https://www.liquid.ai/blog/d1-ultra</description><pubDate>Fri, 16 Oct 2026 22:30:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeknHYWiUJA</guid></item></channel></rss>
+소프트웨어와 하드웨어의 경계를 넘어 AI 인프라 유지보수와 컴퓨팅 효율화의 자동화 특이점이 열리고 있습니다.</description><pubDate>Sat, 17 Oct 2026 07:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Delk2rCD521</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=Jh6mgf9M06M</title><link>https://www.threads.net/@choi.openai/post/Delk4Anj3_H</link><description>풀영상 :
+https://www.youtube.com/watch?v=Jh6mgf9M06M</description><pubDate>Sat, 17 Oct 2026 07:30:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Delk4Anj3_H</guid></item></channel></rss>
