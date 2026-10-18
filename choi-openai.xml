@@ -1,5 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 18 Oct 2026 12:27:44 +0000</lastBuildDate><item><title>Tencent가 여러 AI 에이전트의 기억을 공유하는 오픈소스 Hy-Memory 2.0을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 18 Oct 2026 17:38:23 +0000</lastBuildDate><item><title>이번주 절대 놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/Deo1yVDm3S5</link><description>이번주 절대 놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</description><pubDate>Sun, 18 Oct 2026 13:56:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deo1yVDm3S5</guid></item><item><title>1/
+
+메타가 프런티어 모델 Muse Wonder를 공개했습니다.
+
+기가와트급 Prometheus 데이터센터에서 학습한 모델입니다.
+
+긴 작업에...</title><link>https://www.threads.net/@choi.openai/post/Deo1ypDm5_v</link><description>1/
+
+메타가 프런티어 모델 Muse Wonder를 공개했습니다.
+
+기가와트급 Prometheus 데이터센터에서 학습한 모델입니다.
+
+긴 작업에 집중하는 Active Focus와 대화 사이의 맥락을 이어 주는 Active Memory를 적용했습니다.
+
+Wonder는 API와 Muse Code에서 먼저 제공하며, 상위 모델 Wonder Full은 Muse Code에서 사용할 수 있습니다.
+
+일반 Muse 앱에는 추후 유료로 도입할 예정입니다.</description><pubDate>Sun, 18 Oct 2026 13:56:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deo1ypDm5_v</guid></item><item><title>2/
+
+구글이 Gemini 4 Argon을 API·Gemini 앱·검색 AI 모드에 정식 공개했습니다.
+
+입력과 출력을 합쳐 최대 100만 토큰...</title><link>https://www.threads.net/@choi.openai/post/Deo1zMdm9eD</link><description>2/
+
+구글이 Gemini 4 Argon을 API·Gemini 앱·검색 AI 모드에 정식 공개했습니다.
+
+입력과 출력을 합쳐 최대 100만 토큰을 처리하며, API는 AI Studio와 Gemini Platform의 유료 이용자에게 제공됩니다.
+
+보안 파트너에게만 제공하던 모델의 접근 범위를 넓혔습니다.
+
+11월 30일까지 API 가격은 100만 토큰당 입력 2달러·출력 10달러이고, 이후에는 4달러·20달러가 적용됩니다.</description><pubDate>Sun, 18 Oct 2026 13:56:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deo1zMdm9eD</guid></item><item><title>3/
+
+메타가 Muse Spark Open의 가중치를 공개했습니다.
+
+전체 8,160억 개의 매개변수 중 토큰당 420억 개를 활성화하며, 10...</title><link>https://www.threads.net/@choi.openai/post/Deo1zqTmwEv</link><description>3/
+
+메타가 Muse Spark Open의 가중치를 공개했습니다.
+
+전체 8,160억 개의 매개변수 중 토큰당 420억 개를 활성화하며, 100만 토큰 문맥과 텍스트·이미지·영상·음성 입력을 지원합니다.
+
+메타는 512GB 메모리를 갖춘 M5 Ultra 맥 스튜디오 두 대에서 실행하는 구성을 제시했습니다.
+
+애플 실리콘용 MLX 실행 구성도 제공합니다.
+
+상업 이용 조건이 있는 Muse Model License가 적용됩니다.</description><pubDate>Sun, 18 Oct 2026 13:56:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deo1zqTmwEv</guid></item><item><title>현실과 가상 세계의 경계가 점점 흐려지고 있습니다.
+
+Odyssey가 초파리의 뇌를 시뮬레이션한 시스템을 AI 월드 모델 Odyssey-3에 연...</title><link>https://www.threads.net/@choi.openai/post/Deor8GIgYaj</link><description>현실과 가상 세계의 경계가 점점 흐려지고 있습니다.
+
+Odyssey가 초파리의 뇌를 시뮬레이션한 시스템을 AI 월드 모델 Odyssey-3에 연결했습니다.
+
+놀라운 점은 초파리가 AI가 만들어낸 가상 세계를 스스로 날아다닌다는 것인데요.
+
+실제로 존재하지 않는 세계에서 시뮬레이션된 뇌가 행동을 결정하고 있는 셈입니다.
+
+정말 영화 매트릭스처럼 인간도 언젠가 자신이 가상 세계에 있다는 사실을 모른 채 살아갈 수 있는 것아닌가 싶습니다.</description><pubDate>Sun, 18 Oct 2026 12:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deor8GIgYaj</guid></item><item><title>Tencent가 여러 AI 에이전트의 기억을 공유하는 오픈소스 Hy-Memory 2.0을 공개했습니다.
 
 예를 들어 Cursor에서 진행한 프로...</title><link>https://www.threads.net/@choi.openai/post/DeoomUBgCjv</link><description>Tencent가 여러 AI 에이전트의 기억을 공유하는 오픈소스 Hy-Memory 2.0을 공개했습니다.
 
@@ -47,24 +99,4 @@ AI를 만드는 사람들이 가장 먼저 에이전트 여러 개를 동시에 
 
 도입 직후 추가한 코드량이 크게 뛰었고, 같은 사람이 같은 달 같은 디렉터리에 쓴 코드끼리 비교했을 때 AI가 쓴 코드가 나중에 삭제되거나 되돌려진 비율은 사람이 쓴 코드와 같았습니다.
 
-완전 자율 에이전트를 먼저 쓴 사람들은 도입 전부터 산출이 가파르게 늘던 사람들이어서, 바쁜 사람이 먼저 도구를 바꾼 효과도 일부 섞여 있습니다.</description><pubDate>Sun, 18 Oct 2026 11:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeohuApj2eO</guid></item><item><title>오픈AI의 API에서 새로운 모델로 추정되는 3개의 이름이 발견됐습니다.
-
-aurora-red-alpha, aurora-green-alpha, ...</title><link>https://www.threads.net/@choi.openai/post/DeoePCpgLL7</link><description>오픈AI의 API에서 새로운 모델로 추정되는 3개의 이름이 발견됐습니다.
-
-aurora-red-alpha, aurora-green-alpha, aurora-blue-alpha인데요.
-
-발견 직후 모두 삭제됐으며, 아직 성능이나 용도는 확인되지 않았습니다.
-
-일부에서는 Astra, Sol, Luna의 새로운 버전이거나 앤트로픽의 Claude에 대응하기 위한 모델일 가능성을 제기되고 있는데요.
-
-다만 3개의 이름이 각각 다른 모델인지, 하나의 모델을 다른 설정으로 테스트한 것인지는 불분명합니다.</description><pubDate>Sun, 18 Oct 2026 10:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeoePCpgLL7</guid></item><item><title>AI 코딩 에이전트가 작성한 코드를 더 신뢰하려면 어떻게 해야 할까요?
-
-개발자 lauren은 사람이 코드를 일일이 검토하기보다 AI가 실수하기...</title><link>https://www.threads.net/@choi.openai/post/DeoT7msCJ_x</link><description>AI 코딩 에이전트가 작성한 코드를 더 신뢰하려면 어떻게 해야 할까요?
-
-개발자 lauren은 사람이 코드를 일일이 검토하기보다 AI가 실수하기 어려운 개발 환경을 만드는 것이 중요하다고 설명했습니다.
-
-코드 구조와 타입 검사를 강화하고, 테스트와 자동 검증으로 오류를 미리 잡는 방식인데요.
-
-AGENTS.md 같은 지침은 자동화하기 어려운 판단에 활용하고, 사람은 중요한 설계 검토에 집중하는 것을 권장했습니다.</description><pubDate>Sun, 18 Oct 2026 09:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeoT7msCJ_x</guid></item><item><title>내용 :
-https://github.com/cursor/plugins/tree/main/pstack</title><link>https://www.threads.net/@choi.openai/post/DeoT91XiNhx</link><description>내용 :
-https://github.com/cursor/plugins/tree/main/pstack</description><pubDate>Sun, 18 Oct 2026 09:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeoT91XiNhx</guid></item></channel></rss>
+완전 자율 에이전트를 먼저 쓴 사람들은 도입 전부터 산출이 가파르게 늘던 사람들이어서, 바쁜 사람이 먼저 도구를 바꾼 효과도 일부 섞여 있습니다.</description><pubDate>Sun, 18 Oct 2026 11:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeohuApj2eO</guid></item></channel></rss>
