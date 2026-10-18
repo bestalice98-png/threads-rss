@@ -1,46 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 18 Oct 2026 03:14:30 +0000</lastBuildDate><item><title>엔비디아 CEO 젠슨 황은 AI가 가져올 미래에 대해 “99.99% 확신한다”며 강한 낙관론을 드러냈습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 18 Oct 2026 12:27:44 +0000</lastBuildDate><item><title>Tencent가 여러 AI 에이전트의 기억을 공유하는 오픈소스 Hy-Memory 2.0을 공개했습니다.
 
-그는 파멸론자들을 향해 “인간의 ...</title><link>https://www.threads.net/@choi.openai/post/Denqw2viBID</link><description>엔비디아 CEO 젠슨 황은 AI가 가져올 미래에 대해 “99.99% 확신한다”며 강한 낙관론을 드러냈습니다.
+예를 들어 Cursor에서 진행한 프로...</title><link>https://www.threads.net/@choi.openai/post/DeoomUBgCjv</link><description>Tencent가 여러 AI 에이전트의 기억을 공유하는 오픈소스 Hy-Memory 2.0을 공개했습니다.
 
-그는 파멸론자들을 향해 “인간의 역량과 잠재력을 과소평가하고 있다”고 꼬집었습니다.
-세상에는 특정 리더십이나 담론 없이도 각자의 자리에서 올바른 방향으로 기술을 발전시키는 수많은 엔지니어와 연구원들이 존재한다는 설명입니다.
+예를 들어 Cursor에서 진행한 프로젝트를 Codex로 옮겨도 이전 작업 내용을 다시 설명할 필요가 없도록 돕는데요.
 
-AI에 대한 우려와 경계는 반드시 필요하지만, 이를 이유로 “세상의 종말을 예견해서는 안 된다”고 선을 그었습니다.
+MemHub를 통해 대화 내용, 작업 경험, 코드 수정 이력을 통합 관리합니다.
 
-젠슨 황은 인류가 지닌 지성과 자원을 쏟아붓는다면 부작용을 충분히 통제할 수 있다고 강조했습니다.
+기억을 선별하고 정리하는 전용 모델 Hy-Memory-30B-A3B도 함께 공개했습니다.</description><pubDate>Sun, 18 Oct 2026 12:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeoomUBgCjv</guid></item><item><title>깃허브 :
+https://github.com/Tencent-Hunyuan/Hy-Memory</title><link>https://www.threads.net/@choi.openai/post/Deoonc0ABwy</link><description>깃허브 :
+https://github.com/Tencent-Hunyuan/Hy-Memory</description><pubDate>Sun, 18 Oct 2026 12:01:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deoonc0ABwy</guid></item><item><title>🚨 앤트로픽 경제팀이 충격적인 회사 내부 데이터를 공개했습니다
 
-“우리는 스스로 책임을 다해야 하지만, 동시에 낙관적인 미래를 이야기해야 합니다.”
-뛰어난 인재들이 만들어갈 기술 생태계가 결국 긍정적인 결실을 맺을 것이라는 분석입니다.</description><pubDate>Sun, 18 Oct 2026 03:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Denqw2viBID</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=eS7qQ3WJSrw</title><link>https://www.threads.net/@choi.openai/post/DenqzG9CNd6</link><description>풀영상 :
-https://www.youtube.com/watch?v=eS7qQ3WJSrw</description><pubDate>Sun, 18 Oct 2026 03:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DenqzG9CNd6</guid></item><item><title>구글 딥마인드 CEO 데미스 하사비스(Demis Hassabis)는 “AI는 과학을 위한 궁극의 도구”라고 강조했습니다.
+앤트로픽 공개한 데이터에 따르면 회사 안에서 AI 에이전트가 일한 시간이 직원 ...</title><link>https://www.threads.net/@choi.openai/post/Deohq3tj_64</link><description>🚨 앤트로픽 경제팀이 충격적인 회사 내부 데이터를 공개했습니다
 
-그는 AI가 가져올 ...</title><link>https://www.threads.net/@choi.openai/post/Dengb41Cpsj</link><description>구글 딥마인드 CEO 데미스 하사비스(Demis Hassabis)는 “AI는 과학을 위한 궁극의 도구”라고 강조했습니다.
+앤트로픽 공개한 데이터에 따르면 회사 안에서 AI 에이전트가 일한 시간이 직원 근무시간의 6배를 넘었는데요.
 
-그는 AI가 가져올 가장 중요한 혁신으로 난치병 치료와 신약 개발을 꼽으며, 신재생 에너지 및 기후 모델링, 핵융합, 재료과학 등 과학의 전 영역에서 패러다임 전환이 일어날 것이라 설명했습니다.
+하지만, 같은 기간 기술직 신규 채용에서 주니어 비중은 27%에서 9%로 떨어졌습니다. 🧵</description><pubDate>Sun, 18 Oct 2026 11:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deohq3tj_64</guid></item><item><title>1/ 앤트로픽 경제팀이 10월 16일 보고서 두 편을 함께 공개했습니다.
 
-하사비스는 인류가 AI를 올바르게 발전시킨다면 “향후 10년 안에 과학적 발견의 황금기이자 제2의 르네상스를 맞이할 것”이라고 전망했습니다.
-아무리 뛰어난 과학자라도 단독으로는 풀 수 없었던 우주와 현실의 근본적 미스터리를 푸는 데 AI가 핵심 동력이 된다는 분석입니다.
+하나는 사내 채용·인력·업무 데이터를 분석한 고용 보고서이고, 다른 ...</title><link>https://www.threads.net/@choi.openai/post/DeohrpmD-rT</link><description>1/ 앤트로픽 경제팀이 10월 16일 보고서 두 편을 함께 공개했습니다.
 
-다만 AI는 범용성과 이중 용도(dual-use)를 지닌 만큼, 폭발적인 과학 발전과 특이점 도약 과정에서 안전성 확보가 필수적이라고 덧붙였습니다.</description><pubDate>Sun, 18 Oct 2026 01:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dengb41Cpsj</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=DWMZYqS79VA</title><link>https://www.threads.net/@choi.openai/post/DengeB6iv8T</link><description>풀영상 :
-https://www.youtube.com/watch?v=DWMZYqS79VA</description><pubDate>Sun, 18 Oct 2026 01:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DengeB6iv8T</guid></item><item><title>앤드류 응(Andrew Ng)은 AI 시대 일자리 위기의 본질에 대해 “문제는 일자리의 부족이 아니라, 변화에 뒤처진 교육 시스템의 느린 속도”...</title><link>https://www.threads.net/@choi.openai/post/DenWMEjAS6C</link><description>앤드류 응(Andrew Ng)은 AI 시대 일자리 위기의 본질에 대해 “문제는 일자리의 부족이 아니라, 변화에 뒤처진 교육 시스템의 느린 속도”라고 진단했습니다.
+하나는 사내 채용·인력·업무 데이터를 분석한 고용 보고서이고, 다른 하나는 직원 1,334명과 미국 성인 1만 980명에게 같은 질문을 던져 AI 전망을 비교한 ‘AI 기대 격차' 보고서입니다.
 
-그는 프론티어 AI 모델의 API를 한 번도 호출해보지 않거나, AI 코딩 에이전트를 다뤄보지 않고도 컴퓨터공학 학위를 취득할 수 있는 대학 교육의 현실을 비판했습니다.
+수석 이코노미스트 피터 맥크로리가 두 보고서를 직접 소개했는데요.
 
-“현대적 AI 도구를 활용할 줄 모르는 소프트웨어 엔지니어는 절대 채용하지 않을 것”이라며 개발 인력의 기준이 완전히 바뀌었음을 분명히 했습니다.
+앤트로픽은 자사를 AI 도입의 최전선에 있는 회사로 보고, 여기서 먼저 나타난 채용과 업무 방식의 변화가 다른 산업에서도 뒤따라 나타날 수 있다고 적었습니다.
 
-실제로 그는 AI 네이티브 역량을 갖춘 인턴들이 고등학생·대학생이라도 엄청난 성과를 냈던 경험을 공유하며, 주니어 일자리가 사라지는 것이 아니라 시장이 요구하는 기술 스택이 급변한 것이라고 강조했습니다.
+첫 보고서가 회사 안에서 실제로 바뀐 숫자를 보여 주고, 두 번째 보고서가 그 경험이 미래 예상을 얼마나 바꾸는지 보여 주는 구조입니다.</description><pubDate>Sun, 18 Oct 2026 11:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeohrpmD-rT</guid></item><item><title>2/ 자율 실행 에이전트까지 합치면 앤트로픽에서 에이전트가 일한 시간은 올해 3월 처음으로 직원 근무시간을 넘었습니다.
 
-코딩과 개발 현장이 빠르게 재편되는 만큼, 교육 시스템이 시장 수요에 맞춰 적응해야 한다는 설명입니다.</description><pubDate>Sun, 18 Oct 2026 00:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DenWMEjAS6C</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=J-sMqnzHwI0</title><link>https://www.threads.net/@choi.openai/post/DenWNNzAQCe</link><description>풀영상 :
-https://www.youtube.com/watch?v=J-sMqnzHwI0</description><pubDate>Sun, 18 Oct 2026 00:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DenWNNzAQCe</guid></item><item><title>팟캐스터 드와르케시 파텔(Dwarkesh Patel)은 경제학자 타일러 코웬(Tyler Cowen)과의 대담에서 향후 2~3년 내에 “즉각 투입...</title><link>https://www.threads.net/@choi.openai/post/DenL2kQDUFR</link><description>팟캐스터 드와르케시 파텔(Dwarkesh Patel)은 경제학자 타일러 코웬(Tyler Cowen)과의 대담에서 향후 2~3년 내에 “즉각 투입 가능한 지식 노동자” 수준의 AI가 등장할 것이라고 전망했습니다.
+직원이 직접 띄운 대화...</title><link>https://www.threads.net/@choi.openai/post/DeohsySD-zD</link><description>2/ 자율 실행 에이전트까지 합치면 앤트로픽에서 에이전트가 일한 시간은 올해 3월 처음으로 직원 근무시간을 넘었습니다.
 
-그는 이것이 경제의 약 40%를 차지하는 지식 노동 전반에 걸쳐 비용을 획기적으로 낮추고 속도를 가속할 것이라 설명했습니다.
-코더들이 체감한 비약적 생산성 향상이 전 산업 지식 영역으로 확장된다는 분석입니다.
+직원이 직접 띄운 대화형 에이전트만 세어도 5월에 사람 시간을 넘었고, 8월에는 6배, 연구 조직은 19배가 됐습니다.
 
-나아가 3만 달러 수준의 로봇이 24시간 일하는 환경이 오면 육체노동의 시간당 비용도 단 몇 달러 수준으로 급락할 것이라 덧붙였습니다.
+에이전트 시간은 추론과 도구 실행에 쓴 시간만 세고 30분 넘게 멈춘 시간은 뺐으며, 사람은 1인당 주 40시간으로 계산했습니다.
 
-파텔은 “초저가 생산과 풍요가 기존의 부의 결핍을 완화할 것”이라며, 주거 건설부터 상품 제조까지 전방위적인 생산비 급락이 경제 전반을 근본적으로 재편할 것이라고 강조했습니다.</description><pubDate>Sat, 17 Oct 2026 22:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DenL2kQDUFR</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=b-jsSfh0a9M</title><link>https://www.threads.net/@choi.openai/post/DenL3shjR6l</link><description>풀영상 :
-https://www.youtube.com/watch?v=b-jsSfh0a9M</description><pubDate>Sat, 17 Oct 2026 22:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DenL3shjR6l</guid></item></channel></rss>
+지난달 오픈AI가 공개한 사내 수치에서도 연구 조직은 사람 하루당 에이전트 3.1일치를 돌리고 있었는데요.
+
+두 회사 모두 모델을 만드는 연구 조직의 배율이 가장 높았습니다.
+
+AI를 만드는 사람들이 가장 먼저 에이전트 여러 개를 동시에 돌리는 방식으로 일하기 시작했다는 뜻입니다.</description><pubDate>Sun, 18 Oct 2026 11:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeohsySD-zD</guid></item><item><title>3/ 에이전트가 퍼진 시기에 1인당 산출도 함께 늘었습니다.
+
+2025년 12월을 100으로 놓으면 엔지니어 1인당 커밋은 5.1배, 데이터 사...</title><link>https://www.threads.net/@choi.openai/post/DeohuApj2eO</link><description>3/ 에이전트가 퍼진 시기에 1인당 산출도 함께 늘었습니다.
+
+2025년 12월을 100으로 놓으면 엔지니어 1인당 커밋은 5.1배, 데이터 사이언티스트 1인당 쿼리와 법무 직원 1인당 처리 계약은 3.1배, 영업 1인당 성사 건수는 1.7배가 됐습니다.
+
+이 시기는 매출이 급성장한 때와 겹치기 때문에, 앤트로픽은 같은 달에 일한 엔지니어 중 코딩 에이전트를 도입한 192명과 도입하지 않은 74명을 따로 비교했는데요.
+
+도입 직후 추가한 코드량이 크게 뛰었고, 같은 사람이 같은 달 같은 디렉터리에 쓴 코드끼리 비교했을 때 AI가 쓴 코드가 나중에 삭제되거나 되돌려진 비율은 사람이 쓴 코드와 같았습니다.
+
+완전 자율 에이전트를 먼저 쓴 사람들은 도입 전부터 산출이 가파르게 늘던 사람들이어서, 바쁜 사람이 먼저 도구를 바꾼 효과도 일부 섞여 있습니다.</description><pubDate>Sun, 18 Oct 2026 11:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeohuApj2eO</guid></item><item><title>오픈AI의 API에서 새로운 모델로 추정되는 3개의 이름이 발견됐습니다.
+
+aurora-red-alpha, aurora-green-alpha, ...</title><link>https://www.threads.net/@choi.openai/post/DeoePCpgLL7</link><description>오픈AI의 API에서 새로운 모델로 추정되는 3개의 이름이 발견됐습니다.
+
+aurora-red-alpha, aurora-green-alpha, aurora-blue-alpha인데요.
+
+발견 직후 모두 삭제됐으며, 아직 성능이나 용도는 확인되지 않았습니다.
+
+일부에서는 Astra, Sol, Luna의 새로운 버전이거나 앤트로픽의 Claude에 대응하기 위한 모델일 가능성을 제기되고 있는데요.
+
+다만 3개의 이름이 각각 다른 모델인지, 하나의 모델을 다른 설정으로 테스트한 것인지는 불분명합니다.</description><pubDate>Sun, 18 Oct 2026 10:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeoePCpgLL7</guid></item><item><title>AI 코딩 에이전트가 작성한 코드를 더 신뢰하려면 어떻게 해야 할까요?
+
+개발자 lauren은 사람이 코드를 일일이 검토하기보다 AI가 실수하기...</title><link>https://www.threads.net/@choi.openai/post/DeoT7msCJ_x</link><description>AI 코딩 에이전트가 작성한 코드를 더 신뢰하려면 어떻게 해야 할까요?
+
+개발자 lauren은 사람이 코드를 일일이 검토하기보다 AI가 실수하기 어려운 개발 환경을 만드는 것이 중요하다고 설명했습니다.
+
+코드 구조와 타입 검사를 강화하고, 테스트와 자동 검증으로 오류를 미리 잡는 방식인데요.
+
+AGENTS.md 같은 지침은 자동화하기 어려운 판단에 활용하고, 사람은 중요한 설계 검토에 집중하는 것을 권장했습니다.</description><pubDate>Sun, 18 Oct 2026 09:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeoT7msCJ_x</guid></item><item><title>내용 :
+https://github.com/cursor/plugins/tree/main/pstack</title><link>https://www.threads.net/@choi.openai/post/DeoT91XiNhx</link><description>내용 :
+https://github.com/cursor/plugins/tree/main/pstack</description><pubDate>Sun, 18 Oct 2026 09:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeoT91XiNhx</guid></item></channel></rss>
