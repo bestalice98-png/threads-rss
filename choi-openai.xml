@@ -1,42 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 19 Oct 2026 15:17:53 +0000</lastBuildDate><item><title>AI 에이전트가 기업 웹사이트 100곳 이상을 해킹했다는 로이터 보도가 나왔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 19 Oct 2026 20:17:12 +0000</lastBuildDate><item><title>이미지와 영상, 오디오를 함께 참고해 AI 영상을 생성하는 모델이 공개됐습니다.
 
-중국어를 사용하는 해커가 1,200곳 이상을 공격했으며, ...</title><link>https://www.threads.net/@choi.openai/post/DerbEaKjCIs</link><description>AI 에이전트가 기업 웹사이트 100곳 이상을 해킹했다는 로이터 보도가 나왔습니다.
+Pruna AI가 MiniMax H3를 기반으로 개발한 P-V...</title><link>https://www.threads.net/@choi.openai/post/DesEQgNj-5Y</link><description>이미지와 영상, 오디오를 함께 참고해 AI 영상을 생성하는 모델이 공개됐습니다.
 
-중국어를 사용하는 해커가 1,200곳 이상을 공격했으며, Deere와 SharkNinja 등도 피해 대상에 포함됐는데요.
+Pruna AI가 MiniMax H3를 기반으로 개발한 P-Video-2-Pro-Reference인데요.
 
-Cairn이라는 오픈소스 도구에 DeepSeek와 Claude Code를 결합한 것으로 추정됩니다.
+최대 9장의 이미지, 3개의 영상, 3개의 오디오 파일을 참고 자료로 사용할 수 있습니다.
 
-해킹 성공까지 평균 23시간이 걸렸고, AI 사용 비용은 총 5,000달러, 성공 건당 약 50달러에 불과했다고 합니다.
+예를 들어 특정 캐릭터의 외형은 이미지에서 가져오고, 움직임은 다른 영상에서 가져와 하나의 영상으로 만들 수 있습니다.
 
-AI가 해킹에 필요한 비용과 인력을 크게 줄이고 있다는 점이 우려스럽습니다.</description><pubDate>Mon, 19 Oct 2026 14:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerbEaKjCIs</guid></item><item><title>기사 :
-https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-...</title><link>https://www.threads.net/@choi.openai/post/DerbF--jDi7</link><description>기사 :
-https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/</description><pubDate>Mon, 19 Oct 2026 14:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerbF--jDi7</guid></item><item><title>그동안 정체가 궁금했던 Space Bunny 모델이 MiniMax M3.1 Flash의 초기 버전으로 밝혀졌습니다.
+5~15초 영상을 지원하며, 생성 비용은 초당 0.015달러부터 시작합니다.
+참고 자료 입력 비용은 별도입니다.</description><pubDate>Mon, 19 Oct 2026 20:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DesEQgNj-5Y</guid></item><item><title>문서 :
+https://docs.api.pruna.ai/guides/models/p-video-2-pro-reference</title><link>https://www.threads.net/@choi.openai/post/DesERmMD2xq</link><description>문서 :
+https://docs.api.pruna.ai/guides/models/p-video-2-pro-reference</description><pubDate>Mon, 19 Oct 2026 20:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DesERmMD2xq</guid></item><item><title>양자 컴퓨팅 석학이자 텍사스대 교수인 스콧 애런슨(Scott Aaronson)은 AI 고도화가 연구 현장과 학계에 미칠 충격을 경고했습니다.
 
-MiniMax가 공식 발표...</title><link>https://www.threads.net/@choi.openai/post/DerQvACkbru</link><description>그동안 정체가 궁금했던 Space Bunny 모델이 MiniMax M3.1 Flash의 초기 버전으로 밝혀졌습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/Der58WGj1js</link><description>양자 컴퓨팅 석학이자 텍사스대 교수인 스콧 애런슨(Scott Aaronson)은 AI 고도화가 연구 현장과 학계에 미칠 충격을 경고했습니다.
 
-MiniMax가 공식 발표한 M3.1 Flash는 기존 M3 대비 속도가 3배 빠르고 비용은 3분의 1 수준인데요.
-최근 공개된 DeepSeek V4.1 Flash보다 일부 벤치마크에서 높은 점수를 기록했지만, 비교 가능한 6개 평가 중 4개에서는 뒤처졌습니다.
+그는 “대학원생들과 젊은 연구자들은 지금 두려움에 떨고 있다”며 현장의 분위기를 전했습니다.
+AI가 코딩과 복잡한 지적 노동은 물론 수학적 증명까지 스스로 해결하기 시작하면서, 신진 연구자들이 “어떻게 전문성을 쌓고 자신들의 입지를 다질 수 있을지” 막막해하고 있다는 지적입니다.
 
-코딩 평가 DeepSWE에서 74%, 시각 추론 BabyVision에서 91%를 기록했다고 합니다.
+AI 성능이 인간 연구자의 영역을 잠식함에 따라, 전통적인 학문적 수련 방식과 지식 노동의 사다리가 송두리째 흔들리고 있습니다.
 
-API 가격도 입력 100만 토큰당 0.15달러, 출력은 0.60달러로 책정됐습니다.
+애런슨은 “앞으로 수학 연구의 형태가 어떻게 바뀔지, 우리가 어떻게 대응해야 할지 반드시 찾아내야 한다”며 학문 생태계의 패러다임 전환을 강조했습니다.</description><pubDate>Mon, 19 Oct 2026 18:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Der58WGj1js</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=5dEK4lFa3gs</title><link>https://www.threads.net/@choi.openai/post/Der59h_D_so</link><description>풀영상 :
+https://www.youtube.com/watch?v=5dEK4lFa3gs</description><pubDate>Mon, 19 Oct 2026 18:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Der59h_D_so</guid></item><item><title>이번 달에는 주요 AI 기업들의 새로운 모델이 연이어 공개될 것으로 보입니다.
 
-10월 23일에는 모델 가중치도 공개될 예정입니다.</description><pubDate>Mon, 19 Oct 2026 12:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerQvACkbru</guid></item><item><title>이제 Opus 5.5 없이도 AI로 모션 그래픽 영상을 제작할 수 있습니다.
+The Information에 따르면 오픈AI는 GPT-6.1 ...</title><link>https://www.threads.net/@choi.openai/post/DervqCogBy6</link><description>이번 달에는 주요 AI 기업들의 새로운 모델이 연이어 공개될 것으로 보입니다.
 
-Claude Motion의 오픈소스 대안인 OpenDesign M...</title><link>https://www.threads.net/@choi.openai/post/DerGhp2CdrR</link><description>이제 Opus 5.5 없이도 AI로 모션 그래픽 영상을 제작할 수 있습니다.
+The Information에 따르면 오픈AI는 GPT-6.1 Sol보다 저렴하면서 성능을 개선한 Terra 계열 모델을 준비 중인데요.
 
-Claude Motion의 오픈소스 대안인 OpenDesign Motion이 공개됐는데요.
+구글의 Gemini 4 Carbon과 앤트로픽의 신규 모델도 공개될 가능성이 있습니다.
 
-특정 AI 모델에 종속되지 않고 원하는 모델과 AI 에이전트를 연결해 애니메이션과 모션 그래픽을 제작할 수 있습니다.
-
-실제로 DeepSeek V4.1 Flash를 활용해 영상 제작 과정을 시연했으며, 공개된 소개 영상도 OpenDesign Motion으로 제작했다고 합니다.</description><pubDate>Mon, 19 Oct 2026 11:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerGhp2CdrR</guid></item><item><title>주소 :
-https://open-design.ai/</title><link>https://www.threads.net/@choi.openai/post/DerGio3CeXS</link><description>주소 :
-https://open-design.ai/</description><pubDate>Mon, 19 Oct 2026 11:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerGio3CeXS</guid></item><item><title>앤트로픽(Anthropic) 공동창업자 잭 클라크(Jack Clark)는 IMF·세계은행 회의에서 “특이점의 순간이 바로 지금 도래했다”고 선언...</title><link>https://www.threads.net/@choi.openai/post/Deq8IUbjs0x</link><description>앤트로픽(Anthropic) 공동창업자 잭 클라크(Jack Clark)는 IMF·세계은행 회의에서 “특이점의 순간이 바로 지금 도래했다”고 선언했습니다.
-
-그는 AI가 단순한 도구를 넘어 스스로의 개발을 가속하며 과학·기술 발전 속도를 인간의 이해 범위를 넘어설 정도로 폭발시키고 있다고 진단했습니다.
-이는 국가 안보와 글로벌 경제의 궤적을 송두리째 바꾸는 탈안정화 요인으로 작용하고 있습니다.
-
-“인간을 뛰어넘는 지능이 진보를 이끌 때 그 속도는 훨씬 더 빨라지며, 기존 모델은 폐기되고 새로운 현실이 지배할 것입니다.”</description><pubDate>Mon, 19 Oct 2026 09:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deq8IUbjs0x</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=K-TWH-otxrI</title><link>https://www.threads.net/@choi.openai/post/Deq8JXJDqxd</link><description>풀영상 :
-https://www.youtube.com/watch?v=K-TWH-otxrI</description><pubDate>Mon, 19 Oct 2026 09:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deq8JXJDqxd</guid></item></channel></rss>
+특히 앤트로픽의 신규 모델은 사용자가 자세히 설명하지 않아도 의도와 목표를 파악하고, 기존과 다른 해결책을 제시하는 능력이 개선됐다고 합니다.</description><pubDate>Mon, 19 Oct 2026 17:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DervqCogBy6</guid></item><item><title>기사 :
+https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-mode...</title><link>https://www.threads.net/@choi.openai/post/DervrNagP3-</link><description>기사 :
+https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better</description><pubDate>Mon, 19 Oct 2026 17:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DervrNagP3-</guid></item><item><title>중국 출장후 행사 준비🔥</title><link>https://www.threads.net/@choi.openai/post/DerqLESD_p6</link><description>중국 출장후 행사 준비🔥</description><pubDate>Mon, 19 Oct 2026 16:12:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerqLESD_p6</guid></item><item><title>Suwon 🔥🔥</title><link>https://www.threads.net/@choi.openai/post/DerqnVJDwuO</link><description>Suwon 🔥🔥</description><pubDate>Mon, 19 Oct 2026 16:16:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerqnVJDwuO</guid></item></channel></rss>
