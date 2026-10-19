@@ -1,72 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 19 Oct 2026 03:27:43 +0000</lastBuildDate><item><title>🚨 AI 때문에 게임 개발자들이 자신의 게임을 공개하는 것조차 두려워하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 19 Oct 2026 15:17:53 +0000</lastBuildDate><item><title>AI 에이전트가 기업 웹사이트 100곳 이상을 해킹했다는 로이터 보도가 나왔습니다.
 
-최근 벽을 부수고 탈출하는 게임이 화제가 되자 하루 만에 ...</title><link>https://www.threads.net/@choi.openai/post/DeqMJUKDpnt</link><description>🚨 AI 때문에 게임 개발자들이 자신의 게임을 공개하는 것조차 두려워하고 있습니다.
+중국어를 사용하는 해커가 1,200곳 이상을 공격했으며, ...</title><link>https://www.threads.net/@choi.openai/post/DerbEaKjCIs</link><description>AI 에이전트가 기업 웹사이트 100곳 이상을 해킹했다는 로이터 보도가 나왔습니다.
 
-최근 벽을 부수고 탈출하는 게임이 화제가 되자 하루 만에 Roblox에 유사한 게임이 등장했는데요.
+중국어를 사용하는 해커가 1,200곳 이상을 공격했으며, Deere와 SharkNinja 등도 피해 대상에 포함됐는데요.
 
-Alliance Arts는 게임 복제를 우려해 출시 예정작의 공개 체험판까지 취소했습니다.
+Cairn이라는 오픈소스 도구에 DeepSeek와 Claude Code를 결합한 것으로 추정됩니다.
 
-REA 같은 도구를 활용하면 AI 에이전트가 게임을 역공학으로 분석하고 기능을 재구현하는 작업도 쉬워지고 있습니다.
+해킹 성공까지 평균 23시간이 걸렸고, AI 사용 비용은 총 5,000달러, 성공 건당 약 50달러에 불과했다고 합니다.
 
-AI로 게임 제작뿐 아니라 기존 게임을 분석하고 따라 만드는 속도까지 빨라지면서 개발자들의 고민이 커지고 있습니다.</description><pubDate>Mon, 19 Oct 2026 02:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeqMJUKDpnt</guid></item><item><title>기사 :
-https://www.dexerto.com/entertainment/developer-cancels-demo-over-fears-peo...</title><link>https://www.threads.net/@choi.openai/post/DeqMKcXDsiO</link><description>기사 :
-https://www.dexerto.com/entertainment/developer-cancels-demo-over-fears-people-could-use-ai-to-copy-game-before-launch-3419600/</description><pubDate>Mon, 19 Oct 2026 02:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeqMKcXDsiO</guid></item><item><title>최근 오픈AI API에서 발견된 Aurora 모델 3종의 정체가 이미지 생성 모델인 것으로 보입니다.
+AI가 해킹에 필요한 비용과 인력을 크게 줄이고 있다는 점이 우려스럽습니다.</description><pubDate>Mon, 19 Oct 2026 14:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerbEaKjCIs</guid></item><item><title>기사 :
+https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-...</title><link>https://www.threads.net/@choi.openai/post/DerbF--jDi7</link><description>기사 :
+https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/</description><pubDate>Mon, 19 Oct 2026 14:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerbF--jDi7</guid></item><item><title>그동안 정체가 궁금했던 Space Bunny 모델이 MiniMax M3.1 Flash의 초기 버전으로 밝혀졌습니다.
 
-aurora-red-alpha, auro...</title><link>https://www.threads.net/@choi.openai/post/DeqBzE0ijzo</link><description>최근 오픈AI API에서 발견된 Aurora 모델 3종의 정체가 이미지 생성 모델인 것으로 보입니다.
+MiniMax가 공식 발표...</title><link>https://www.threads.net/@choi.openai/post/DerQvACkbru</link><description>그동안 정체가 궁금했던 Space Bunny 모델이 MiniMax M3.1 Flash의 초기 버전으로 밝혀졌습니다.
 
-aurora-red-alpha, aurora-green-alpha, aurora-blue-alpha가 현재 Arena에서 테스트되고 있는데요.
-Red는 생성 속도가 빠르지만 품질이 낮고, Green은 속도가 느린 대신 품질이 더 좋다고 합니다.
-다만, 아직 Blue에 대해서는 평가가 엇갈리고 있습니다.</description><pubDate>Mon, 19 Oct 2026 01:00:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeqBzE0ijzo</guid></item><item><title>Google Research에서 AI 에이전트가 스스로 작업 환경을 개선하는 프레임워크 Harness²를 오픈소스로 공개했습니다.
+MiniMax가 공식 발표한 M3.1 Flash는 기존 M3 대비 속도가 3배 빠르고 비용은 3분의 1 수준인데요.
+최근 공개된 DeepSeek V4.1 Flash보다 일부 벤치마크에서 높은 점수를 기록했지만, 비교 가능한 6개 평가 중 4개에서는 뒤처졌습니다.
 
-AI 에이전...</title><link>https://www.threads.net/@choi.openai/post/Dep5FfVDoT-</link><description>Google Research에서 AI 에이전트가 스스로 작업 환경을 개선하는 프레임워크 Harness²를 오픈소스로 공개했습니다.
+코딩 평가 DeepSWE에서 74%, 시각 추론 BabyVision에서 91%를 기록했다고 합니다.
 
-AI 에이전트는 작업을 수행하면서 시스템 프롬프트, 도구, 메모리, 스킬 등을 직접 수정하고 여러 설정을 비교해 더 나은 방식을 찾아냅니다.
+API 가격도 입력 100만 토큰당 0.15달러, 출력은 0.60달러로 책정됐습니다.
 
-예를 들어 문서 작성 작업에서 문제가 발생하면 지침이나 도구 설정을 바꿔 다시 시도하는 방식입니다.
+10월 23일에는 모델 가중치도 공개될 예정입니다.</description><pubDate>Mon, 19 Oct 2026 12:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerQvACkbru</guid></item><item><title>이제 Opus 5.5 없이도 AI로 모션 그래픽 영상을 제작할 수 있습니다.
 
-모델 자체를 재학습할 필요도 없으며, 작업에서 얻은 경험을 다음 작업에도 활용할 수 있습니다.</description><pubDate>Sun, 18 Oct 2026 23:44:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dep5FfVDoT-</guid></item><item><title>깃허브 :
-https://github.com/google-research/harness2</title><link>https://www.threads.net/@choi.openai/post/Dep5KEDD3Rt</link><description>깃허브 :
-https://github.com/google-research/harness2</description><pubDate>Sun, 18 Oct 2026 23:44:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dep5KEDD3Rt</guid></item><item><title>이번주 절대 놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/Deo1yVDm3S5</link><description>이번주 절대 놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</description><pubDate>Sun, 18 Oct 2026 13:56:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deo1yVDm3S5</guid></item><item><title>1/
+Claude Motion의 오픈소스 대안인 OpenDesign M...</title><link>https://www.threads.net/@choi.openai/post/DerGhp2CdrR</link><description>이제 Opus 5.5 없이도 AI로 모션 그래픽 영상을 제작할 수 있습니다.
 
-메타가 프런티어 모델 Muse Wonder를 공개했습니다.
+Claude Motion의 오픈소스 대안인 OpenDesign Motion이 공개됐는데요.
 
-기가와트급 Prometheus 데이터센터에서 학습한 모델입니다.
+특정 AI 모델에 종속되지 않고 원하는 모델과 AI 에이전트를 연결해 애니메이션과 모션 그래픽을 제작할 수 있습니다.
 
-긴 작업에...</title><link>https://www.threads.net/@choi.openai/post/Deo1ypDm5_v</link><description>1/
+실제로 DeepSeek V4.1 Flash를 활용해 영상 제작 과정을 시연했으며, 공개된 소개 영상도 OpenDesign Motion으로 제작했다고 합니다.</description><pubDate>Mon, 19 Oct 2026 11:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerGhp2CdrR</guid></item><item><title>주소 :
+https://open-design.ai/</title><link>https://www.threads.net/@choi.openai/post/DerGio3CeXS</link><description>주소 :
+https://open-design.ai/</description><pubDate>Mon, 19 Oct 2026 11:01:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerGio3CeXS</guid></item><item><title>앤트로픽(Anthropic) 공동창업자 잭 클라크(Jack Clark)는 IMF·세계은행 회의에서 “특이점의 순간이 바로 지금 도래했다”고 선언...</title><link>https://www.threads.net/@choi.openai/post/Deq8IUbjs0x</link><description>앤트로픽(Anthropic) 공동창업자 잭 클라크(Jack Clark)는 IMF·세계은행 회의에서 “특이점의 순간이 바로 지금 도래했다”고 선언했습니다.
 
-메타가 프런티어 모델 Muse Wonder를 공개했습니다.
+그는 AI가 단순한 도구를 넘어 스스로의 개발을 가속하며 과학·기술 발전 속도를 인간의 이해 범위를 넘어설 정도로 폭발시키고 있다고 진단했습니다.
+이는 국가 안보와 글로벌 경제의 궤적을 송두리째 바꾸는 탈안정화 요인으로 작용하고 있습니다.
 
-기가와트급 Prometheus 데이터센터에서 학습한 모델입니다.
-
-긴 작업에 집중하는 Active Focus와 대화 사이의 맥락을 이어 주는 Active Memory를 적용했습니다.
-
-Wonder는 API와 Muse Code에서 먼저 제공하며, 상위 모델 Wonder Full은 Muse Code에서 사용할 수 있습니다.
-
-일반 Muse 앱에는 추후 유료로 도입할 예정입니다.</description><pubDate>Sun, 18 Oct 2026 13:56:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deo1ypDm5_v</guid></item><item><title>2/
-
-구글이 Gemini 4 Argon을 API·Gemini 앱·검색 AI 모드에 정식 공개했습니다.
-
-입력과 출력을 합쳐 최대 100만 토큰...</title><link>https://www.threads.net/@choi.openai/post/Deo1zMdm9eD</link><description>2/
-
-구글이 Gemini 4 Argon을 API·Gemini 앱·검색 AI 모드에 정식 공개했습니다.
-
-입력과 출력을 합쳐 최대 100만 토큰을 처리하며, API는 AI Studio와 Gemini Platform의 유료 이용자에게 제공됩니다.
-
-보안 파트너에게만 제공하던 모델의 접근 범위를 넓혔습니다.
-
-11월 30일까지 API 가격은 100만 토큰당 입력 2달러·출력 10달러이고, 이후에는 4달러·20달러가 적용됩니다.</description><pubDate>Sun, 18 Oct 2026 13:56:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deo1zMdm9eD</guid></item><item><title>3/
-
-메타가 Muse Spark Open의 가중치를 공개했습니다.
-
-전체 8,160억 개의 매개변수 중 토큰당 420억 개를 활성화하며, 10...</title><link>https://www.threads.net/@choi.openai/post/Deo1zqTmwEv</link><description>3/
-
-메타가 Muse Spark Open의 가중치를 공개했습니다.
-
-전체 8,160억 개의 매개변수 중 토큰당 420억 개를 활성화하며, 100만 토큰 문맥과 텍스트·이미지·영상·음성 입력을 지원합니다.
-
-메타는 512GB 메모리를 갖춘 M5 Ultra 맥 스튜디오 두 대에서 실행하는 구성을 제시했습니다.
-
-애플 실리콘용 MLX 실행 구성도 제공합니다.
-
-상업 이용 조건이 있는 Muse Model License가 적용됩니다.</description><pubDate>Sun, 18 Oct 2026 13:56:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deo1zqTmwEv</guid></item></channel></rss>
+“인간을 뛰어넘는 지능이 진보를 이끌 때 그 속도는 훨씬 더 빨라지며, 기존 모델은 폐기되고 새로운 현실이 지배할 것입니다.”</description><pubDate>Mon, 19 Oct 2026 09:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deq8IUbjs0x</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=K-TWH-otxrI</title><link>https://www.threads.net/@choi.openai/post/Deq8JXJDqxd</link><description>풀영상 :
+https://www.youtube.com/watch?v=K-TWH-otxrI</description><pubDate>Mon, 19 Oct 2026 09:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deq8JXJDqxd</guid></item></channel></rss>
