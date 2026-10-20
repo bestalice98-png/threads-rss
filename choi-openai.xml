@@ -1,36 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 19 Oct 2026 20:17:12 +0000</lastBuildDate><item><title>이미지와 영상, 오디오를 함께 참고해 AI 영상을 생성하는 모델이 공개됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 20 Oct 2026 03:37:09 +0000</lastBuildDate><item><title>미국 국토안보부(DHS)가 연방 민간 행정기관에 DeepSeek 제품의 신규 구매를 중단하고, 기존 정부 시스템에서도 관련 제품을 제거하도록 요...</title><link>https://www.threads.net/@choi.openai/post/Des3vTSAQoy</link><description>미국 국토안보부(DHS)가 연방 민간 행정기관에 DeepSeek 제품의 신규 구매를 중단하고, 기존 정부 시스템에서도 관련 제품을 제거하도록 요구했다고 합니다.
 
-Pruna AI가 MiniMax H3를 기반으로 개발한 P-V...</title><link>https://www.threads.net/@choi.openai/post/DesEQgNj-5Y</link><description>이미지와 영상, 오디오를 함께 참고해 AI 영상을 생성하는 모델이 공개됐습니다.
+DeepSeek를 활용한 제3자 제품과 서비스까지 대상에 포함된 것으로 알려졌는데요.
 
-Pruna AI가 MiniMax H3를 기반으로 개발한 P-Video-2-Pro-Reference인데요.
+한편 The Information에 따르면 DeepSeek는 Huawei의 차세대 AI 칩 설계에도 협력하고 있다고 합니다.
 
-최대 9장의 이미지, 3개의 영상, 3개의 오디오 파일을 참고 자료로 사용할 수 있습니다.
+중국산 칩만으로 고성능 AI 모델을 학습해 Nvidia 의존도를 낮추려는 움직임인데요. 미국과 중국의 AI 기술 분리가 더욱 뚜렷해지는 모습입니다.</description><pubDate>Tue, 20 Oct 2026 03:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Des3vTSAQoy</guid></item><item><title>내용 :
+https://public-inspection.federalregister.gov/2026-21447.pdf</title><link>https://www.threads.net/@choi.openai/post/Des3wivgWJD</link><description>내용 :
+https://public-inspection.federalregister.gov/2026-21447.pdf</description><pubDate>Tue, 20 Oct 2026 03:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Des3wivgWJD</guid></item><item><title>오픈AI가 COBOL, Fortran, Visual Basic 같은 오래된 프로그래밍 언어를 다루는 AI 모델의 성능이 개선됐다고 발표했습니다....</title><link>https://www.threads.net/@choi.openai/post/DestgBmjQ8p</link><description>오픈AI가 COBOL, Fortran, Visual Basic 같은 오래된 프로그래밍 언어를 다루는 AI 모델의 성능이 개선됐다고 발표했습니다.
 
-예를 들어 특정 캐릭터의 외형은 이미지에서 가져오고, 움직임은 다른 영상에서 가져와 하나의 영상으로 만들 수 있습니다.
+해당 언어들은 지금도 은행과 정부 기관, 기업의 핵심 시스템에서 사용되고 있는데요.
 
-5~15초 영상을 지원하며, 생성 비용은 초당 0.015달러부터 시작합니다.
-참고 자료 입력 비용은 별도입니다.</description><pubDate>Mon, 19 Oct 2026 20:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DesEQgNj-5Y</guid></item><item><title>문서 :
-https://docs.api.pruna.ai/guides/models/p-video-2-pro-reference</title><link>https://www.threads.net/@choi.openai/post/DesERmMD2xq</link><description>문서 :
-https://docs.api.pruna.ai/guides/models/p-video-2-pro-reference</description><pubDate>Mon, 19 Oct 2026 20:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DesERmMD2xq</guid></item><item><title>양자 컴퓨팅 석학이자 텍사스대 교수인 스콧 애런슨(Scott Aaronson)은 AI 고도화가 연구 현장과 학계에 미칠 충격을 경고했습니다.
+문제는 수십 년간 쌓인 코드에 당시의 업무 규칙까지 담겨 있어 시스템을 교체하기 어렵다는 점입니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/Der58WGj1js</link><description>양자 컴퓨팅 석학이자 텍사스대 교수인 스콧 애런슨(Scott Aaronson)은 AI 고도화가 연구 현장과 학계에 미칠 충격을 경고했습니다.
+오픈AI는 기존 시스템의 작동 방식을 유지하면서 코드를 이해하고 최신 환경으로 전환하는 작업을 지원하는 데 집중하고 있다고 합니다.</description><pubDate>Tue, 20 Oct 2026 02:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DestgBmjQ8p</guid></item><item><title>수학자 테렌스 타오(Terence Tao) 교수는 “AI 시대가 가르쳐 주는 것은 지능에 대한 우리의 생각이 그리 정확하지 않았다는 사실”이라고...</title><link>https://www.threads.net/@choi.openai/post/DesjOOYgu2u</link><description>수학자 테렌스 타오(Terence Tao) 교수는 “AI 시대가 가르쳐 주는 것은 지능에 대한 우리의 생각이 그리 정확하지 않았다는 사실”이라고 말했습니다.
 
-그는 “대학원생들과 젊은 연구자들은 지금 두려움에 떨고 있다”며 현장의 분위기를 전했습니다.
-AI가 코딩과 복잡한 지적 노동은 물론 수학적 증명까지 스스로 해결하기 시작하면서, 신진 연구자들이 “어떻게 전문성을 쌓고 자신들의 입지를 다질 수 있을지” 막막해하고 있다는 지적입니다.
+체스, 수학, 언어 등 고도의 인간 전유물로 여겨지던 작업들이 신경망 알고리즘과 다음 단어(토큰) 예측만으로 해결되고 있습니다.
+복잡한 사고 대신 단순 반응이나 기억의 회상만으로도 상당한 지적 작업이 수행된다는 점은 지능의 본질을 다시 묻게 만듭니다.
 
-AI 성능이 인간 연구자의 영역을 잠식함에 따라, 전통적인 학문적 수련 방식과 지식 노동의 사다리가 송두리째 흔들리고 있습니다.
+그는 “어쩌면 우리는 스스로 생각하는 것만큼 똑똑하지 않을 수도 있다”고 짚었습니다.
 
-애런슨은 “앞으로 수학 연구의 형태가 어떻게 바뀔지, 우리가 어떻게 대응해야 할지 반드시 찾아내야 한다”며 학문 생태계의 패러다임 전환을 강조했습니다.</description><pubDate>Mon, 19 Oct 2026 18:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Der58WGj1js</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=5dEK4lFa3gs</title><link>https://www.threads.net/@choi.openai/post/Der59h_D_so</link><description>풀영상 :
-https://www.youtube.com/watch?v=5dEK4lFa3gs</description><pubDate>Mon, 19 Oct 2026 18:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Der59h_D_so</guid></item><item><title>이번 달에는 주요 AI 기업들의 새로운 모델이 연이어 공개될 것으로 보입니다.
+정체성과 감정에서 벗어나 객관적인 AI 모델을 마주하는 과정이 혼란스러울 수 있지만, 지능의 공식화는 결국 인간에 대한 이해를 넓히는 전환점이 될 것이라 설명했습니다.</description><pubDate>Tue, 20 Oct 2026 00:30:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DesjOOYgu2u</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=YNH6lwcXw7M</title><link>https://www.threads.net/@choi.openai/post/DesjQooAird</link><description>풀영상 :
+https://www.youtube.com/watch?v=YNH6lwcXw7M</description><pubDate>Tue, 20 Oct 2026 00:31:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DesjQooAird</guid></item><item><title>ViggleAI가 3D 공간과 물리적 움직임을 직접 학습하는 월드 모델 JST-2를 공개했습니다.
 
-The Information에 따르면 오픈AI는 GPT-6.1 ...</title><link>https://www.threads.net/@choi.openai/post/DervqCogBy6</link><description>이번 달에는 주요 AI 기업들의 새로운 모델이 연이어 공개될 것으로 보입니다.
+기존 월드 모델들이 주로 영상의 픽셀을 학습...</title><link>https://www.threads.net/@choi.openai/post/DesY4TmEj52</link><description>ViggleAI가 3D 공간과 물리적 움직임을 직접 학습하는 월드 모델 JST-2를 공개했습니다.
 
-The Information에 따르면 오픈AI는 GPT-6.1 Sol보다 저렴하면서 성능을 개선한 Terra 계열 모델을 준비 중인데요.
+기존 월드 모델들이 주로 영상의 픽셀을 학습했다면, JST-2는 처음부터 3D 공간을 기반으로 설계됐는데요.
 
-구글의 Gemini 4 Carbon과 앤트로픽의 신규 모델도 공개될 가능성이 있습니다.
+약 1초 만에 3D 장면을 생성하고, 시점을 바꾸면 보이지 않던 공간까지 실시간으로 확장할 수 있습니다. 생성 비용도 0.01달러 미만이라고 합니다.
 
-특히 앤트로픽의 신규 모델은 사용자가 자세히 설명하지 않아도 의도와 목표를 파악하고, 기존과 다른 해결책을 제시하는 능력이 개선됐다고 합니다.</description><pubDate>Mon, 19 Oct 2026 17:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DervqCogBy6</guid></item><item><title>기사 :
-https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-mode...</title><link>https://www.threads.net/@choi.openai/post/DervrNagP3-</link><description>기사 :
-https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better</description><pubDate>Mon, 19 Oct 2026 17:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DervrNagP3-</guid></item><item><title>중국 출장후 행사 준비🔥</title><link>https://www.threads.net/@choi.openai/post/DerqLESD_p6</link><description>중국 출장후 행사 준비🔥</description><pubDate>Mon, 19 Oct 2026 16:12:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerqLESD_p6</guid></item><item><title>Suwon 🔥🔥</title><link>https://www.threads.net/@choi.openai/post/DerqnVJDwuO</link><description>Suwon 🔥🔥</description><pubDate>Mon, 19 Oct 2026 16:16:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DerqnVJDwuO</guid></item></channel></rss>
+이미지 한 장으로 움직임이 포함된 3D 캐릭터를 만들거나, 영상에서 보이지 않는 신체 움직임까지 추론할 수 있습니다.</description><pubDate>Mon, 19 Oct 2026 23:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DesY4TmEj52</guid></item><item><title>주소 :
+https://viggle.ai/jst2</title><link>https://www.threads.net/@choi.openai/post/DesY5XKkn1u</link><description>주소 :
+https://viggle.ai/jst2</description><pubDate>Mon, 19 Oct 2026 23:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DesY5XKkn1u</guid></item></channel></rss>
