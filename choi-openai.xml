@@ -1,52 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 20 Oct 2026 18:48:12 +0000</lastBuildDate><item><title>“다른 AI 기업들의 GPU를 전부 녹여버린다.”
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 21 Oct 2026 03:29:57 +0000</lastBuildDate><item><title>AI 검색에 필요한 토큰을 95% 줄이는 기술이 나왔습니다.
 
-샘 알트만이 OpenAI 직원들에게 설명한 AI 개발 통제 방안 중 하나입니다.
+Exa가 AI 에이전트용 검색 엔진 Exa 3.0을 공개했는데요.
 
-The I...</title><link>https://www.threads.net/@choi.openai/post/DeubXSqkcsS</link><description>“다른 AI 기업들의 GPU를 전부 녹여버린다.”
+웹페이지 전체...</title><link>https://www.threads.net/@choi.openai/post/DevZHW9CkMz</link><description>AI 검색에 필요한 토큰을 95% 줄이는 기술이 나왔습니다.
 
-샘 알트만이 OpenAI 직원들에게 설명한 AI 개발 통제 방안 중 하나입니다.
+Exa가 AI 에이전트용 검색 엔진 Exa 3.0을 공개했는데요.
 
-The Information에 따르면 알트만은 세 가지 방안을 제시했는데요.
+웹페이지 전체를 읽는 대신 여러 검색 결과에서 중요한 내용만 골라 전달합니다.
+중복 정보도 줄여 AI가 검색 결과를 더 정확하게 활용하도록 돕습니다.
 
-IAEA 같은 국제 AI 감독기구를 만들거나, OpenAI·Google DeepMind·Anthropic이 CERN처럼 공동 연구하는 방안입니다.
+상품 12억 7천만 건과 사업체 2억 1천만 곳의 정보도 검색할 수 있습니다.
 
-마지막은 초지능을 먼저 개발한 기업이 경쟁사의 GPU 확보를 막는 방식인데, 알트만 스스로 끔찍한 계획이라고 평가했습니다.
+Exa는 자체 테스트에서 검색 성능 1위를 기록했다고 밝혔으며, 저렴한 Exa Lite도 함께 출시했습니다.</description><pubDate>Wed, 21 Oct 2026 03:00:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DevZHW9CkMz</guid></item><item><title>블로그 :
+https://exa.ai/blog/exa-3</title><link>https://www.threads.net/@choi.openai/post/DevZJdFisE5</link><description>블로그 :
+https://exa.ai/blog/exa-3</description><pubDate>Wed, 21 Oct 2026 03:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DevZJdFisE5</guid></item><item><title>AI가 영수증이나 청구서에서 필요한 정보만 빠르게 뽑아내는 모델이 나왔습니다.
 
-알트만은 1년 안에 AI 안전 전략을 결정해야 한다고 밝혔습니다.</description><pubDate>Tue, 20 Oct 2026 18:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeubXSqkcsS</guid></item><item><title>기사 :
-https://www.theinformation.com/articles/altman-describes-three-endgames-ai-...</title><link>https://www.threads.net/@choi.openai/post/DeubYUxEZug</link><description>기사 :
-https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus</description><pubDate>Tue, 20 Oct 2026 18:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeubYUxEZug</guid></item><item><title>오픈AI 회의실 도청 사건에 사우디아라비아 정부가 연관됐을 가능성이 제기됐습니다.
+Cloudflare가 정보 추출에 특화된 AI 모델 Clairi...</title><link>https://www.threads.net/@choi.openai/post/DevOyf9Dz7C</link><description>AI가 영수증이나 청구서에서 필요한 정보만 빠르게 뽑아내는 모델이 나왔습니다.
 
-미국 검찰에 따르면 도청 장치 설치 혐의로 체포된 전직 엔지...</title><link>https://www.threads.net/@choi.openai/post/DeuX3IegQrW</link><description>오픈AI 회의실 도청 사건에 사우디아라비아 정부가 연관됐을 가능성이 제기됐습니다.
+Cloudflare가 정보 추출에 특화된 AI 모델 Clairic을 공개했는데요.
 
-미국 검찰에 따르면 도청 장치 설치 혐의로 체포된 전직 엔지니어 Abdulrahman Alfozan은 사우디 왕실 인사와 연락하며 현지 AI 사업 합류를 논의했다고 하는데요.
+영수증 사진에서 금액과 날짜를 추출하거나, 여러 항목의 합계를 계산하고 수치를 추정할 수 있습니다. 각 결과에는 AI가 얼마나 확신하는지도 표시됩니다.
 
-체포 약 36시간 뒤에는 가족이 사우디 군 관계자가 구매한 항공권으로 미국을 떠났습니다.
+일반적인 LLM처럼 문장을 생성하지 않아 처리 속도가 빠르고, 요금은 입력 100만 토큰당 0.10달러입니다.
 
-수사 과정에서는 추가 도청 장치로 추정되는 사진도 발견됐으며, 검찰은 가족의 출국과 해외 자산 등을 근거로 도주 위험이 높다며 구속 유지를 요청했습니다.</description><pubDate>Tue, 20 Oct 2026 17:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeuX3IegQrW</guid></item><item><title>내용 :
-https://storage.courtlistener.com/recap/gov.uscourts.cand.480828/gov.uscour...</title><link>https://www.threads.net/@choi.openai/post/DeuX4cGgdvb</link><description>내용 :
-https://storage.courtlistener.com/recap/gov.uscourts.cand.480828/gov.uscourts.cand.480828.12.0.pdf</description><pubDate>Tue, 20 Oct 2026 17:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeuX4cGgdvb</guid></item><item><title>로봇이 고장 날 때까지 걷게 했는데, 9일째 멈추지 않고 있습니다.
+현재 Workers AI에서 시험적으로 이용할 수 있으며, 모델 가중치도 공개할 예정입니다.</description><pubDate>Wed, 21 Oct 2026 01:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DevOyf9Dz7C</guid></item><item><title>발표내용 :
+https://blog.cloudflare.com/clairic-extraction-model</title><link>https://www.threads.net/@choi.openai/post/DevOz2TDxD7</link><description>발표내용 :
+https://blog.cloudflare.com/clairic-extraction-model</description><pubDate>Wed, 21 Oct 2026 01:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DevOz2TDxD7</guid></item><item><title>이제 Notion AI가 최대 24시간 동안 혼자 작업할 수 있게 됐습니다.
 
-Figure 창업자 Brett Adcock이 휴머노이드 로봇 F.03의 내...</title><link>https://www.threads.net/@choi.openai/post/DeuNp_Ij9di</link><description>로봇이 고장 날 때까지 걷게 했는데, 9일째 멈추지 않고 있습니다.
+Notion이 AI 기능을 대폭 업데이트했는데요.
 
-Figure 창업자 Brett Adcock이 휴머노이드 로봇 F.03의 내구성 테스트 영상을 공개했는데요.
+Notion ...</title><link>https://www.threads.net/@choi.openai/post/DevEhdnE1Vc</link><description>이제 Notion AI가 최대 24시간 동안 혼자 작업할 수 있게 됐습니다.
 
-F.03은 러닝머신 위에서 9일 연속 걸으며 약 560km, 120만 걸음을 기록했습니다.
+Notion이 AI 기능을 대폭 업데이트했는데요.
 
-처음에는 로봇에 어떤 고장이 발생하는지 확인하기 위한 부수적인 실험으로 시작했다고 합니다.
+Notion Agents에 전용 컴퓨터와 브라우저가 추가돼 장시간 작업이 가능해졌습니다.
 
-그런데 예상보다 오래 버티면서 테스트를 계속 진행하고 있습니다.
+모델을 자동 선택하는 Auto도 개선됐습니다. Notion에 따르면 Opus 5.5, Astra와 비슷한 결과를 평균 90% 저렴한 비용으로 제공합니다.
 
-과연 F.03은 얼마나 더 걸을 수 있을까요?</description><pubDate>Tue, 20 Oct 2026 16:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeuNp_Ij9di</guid></item><item><title>“사람들은 자신이 멍청하다는 사실을 서서히 깨닫고 있습니다. 그런데 그걸 AI 탓으로 돌리고 있죠.”
+ChatGPT Plus, Pro, Go 구독을 개인 Notion Agent에 연결하는 기능도 추가됐습니다.
 
-1998년 필즈상 수상자 Richard ...</title><link>https://www.threads.net/@choi.openai/post/DeuDSELks-T</link><description>“사람들은 자신이 멍청하다는 사실을 서서히 깨닫고 있습니다. 그런데 그걸 AI 탓으로 돌리고 있죠.”
+AI가 문서 작성을 넘어 실제 업무를 수행하는 방향으로 바뀌고 있습니다.</description><pubDate>Wed, 21 Oct 2026 00:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DevEhdnE1Vc</guid></item><item><title>상세내용 :
+https://www.notion.com/ko/blog/notion-ai-more-for-less</title><link>https://www.threads.net/@choi.openai/post/DevEikGE0Yv</link><description>상세내용 :
+https://www.notion.com/ko/blog/notion-ai-more-for-less</description><pubDate>Wed, 21 Oct 2026 00:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DevEikGE0Yv</guid></item><item><title>이제 NotebookLM에서 PPT나 영상을 만들기 전에 구성부터 수정할 수 있습니다.
 
-1998년 필즈상 수상자 Richard Borcherds가 OpenAI의 Navier-Stokes 문제 증명 발표를 둘러싼 논란에 대해 남긴 말입니다.
+구글이 NotebookLM의 슬라이드 및 영상 생성 기...</title><link>https://www.threads.net/@choi.openai/post/Deu6M_7gK5j</link><description>이제 NotebookLM에서 PPT나 영상을 만들기 전에 구성부터 수정할 수 있습니다.
 
-Borcherds는 AI가 이미 수학 대학원 신입생보다 뛰어나며, 몇 년 안에 인간의 수학 연구가 불필요해질 수 있다고 전망했는데요.
+구글이 NotebookLM의 슬라이드 및 영상 생성 기능을 업데이트했는데요.
 
-당초 10년은 걸릴 것으로 예상했던 수준에 AI가 도달했다며 놀라움을 표했습니다.
+업로드한 자료를 바탕으로 AI가 주제를 추천하고, 사용자가 형식과 분량, 언어, 디자인을 지정할 수 있습니다.
 
-실제로 AI에게 어려운 수학 문제를 질문하면 인간 수학자보다 더 나은 답변을 얻는 경우가 많다고 합니다. 수학 교육에서도 AI가 더 인내심 있고 설명을 잘한다고 평가했습니다.</description><pubDate>Tue, 20 Oct 2026 14:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeuDSELks-T</guid></item><item><title>내용 :
-https://www.dailycal.org/news/campus/academics/uc-berkeley-math-community-l...</title><link>https://www.threads.net/@choi.openai/post/DeuDTl_EqoF</link><description>내용 :
-https://www.dailycal.org/news/campus/academics/uc-berkeley-math-community-left-at-crossroads-in-wake-of-openai-navier-stokes-proof/article_2253ca6c-39c0-45be-947a-f0fd5b48bd6c.html</description><pubDate>Tue, 20 Oct 2026 14:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DeuDTl_EqoF</guid></item></channel></rss>
+특히 생성 전에 슬라이드 목차나 영상 구성안을 확인하고 수정할 수 있다는 점이 달라졌습니다.
+
+예를 들어 발표 자료에서 결론을 먼저 보여주도록 순서를 바꾼 뒤 제작할 수 있습니다.
+
+현재 Pro와 Ultra 구독자에게 제공됩니다.</description><pubDate>Tue, 20 Oct 2026 22:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Deu6M_7gK5j</guid></item></channel></rss>
