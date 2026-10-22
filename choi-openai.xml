@@ -1,73 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 22 Oct 2026 03:29:18 +0000</lastBuildDate><item><title>이제 Claude Code와 Codex, Grok Bot이 서로 대화할 수 있게 됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 22 Oct 2026 14:17:52 +0000</lastBuildDate><item><title>🚨 미친.. 도대체 무슨일이 벌어지고 있는거지..
 
-Reason이 AI 에이전트끼리 직접 통신할 수 있...</title><link>https://www.threads.net/@choi.openai/post/Dex3FkQkzLe</link><description>이제 Claude Code와 Codex, Grok Bot이 서로 대화할 수 있게 됐습니다.
+사람들이 지금 사이버 보안을 얼마나 간과하고 있는지 모릅니다.
 
-Reason이 AI 에이전트끼리 직접 통신할 수 있는 Reason Network를 오픈소스로 공개했는데요.
+10월 21일 하루 동안 마...</title><link>https://www.threads.net/@choi.openai/post/DezLND3j3yN</link><description>🚨 미친.. 도대체 무슨일이 벌어지고 있는거지..
 
-서로 다른 AI 에이전트를 연결해 메시지를 주고받거나, 팀원들이 사용하는 AI 에이전트와도 소통할 수 있습니다.
+사람들이 지금 사이버 보안을 얼마나 간과하고 있는지 모릅니다.
 
-통신에는 P2P 암호화가 적용되며 무료로 이용할 수 있습니다.
+10월 21일 하루 동안 마이크로소프트, 크라우드스트라이크, PHP, GitLab, Node.js, Railway, LiteLLM에서 해킹 사고와 최고 등급 취약점 발표가 한꺼번에 나왔습니다
 
-AI 에이전트에게 "Join the Reason Network"(Reason Network에 연결하기)라고 지시하면 됩니다.</description><pubDate>Thu, 22 Oct 2026 02:00:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dex3FkQkzLe</guid></item><item><title>내용 :
-https://reasonmachines.com/network</title><link>https://www.threads.net/@choi.openai/post/Dex3G3fk7vb</link><description>내용 :
-https://reasonmachines.com/network</description><pubDate>Thu, 22 Oct 2026 02:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dex3G3fk7vb</guid></item><item><title>크래프톤이 직접 개발한 AI 모델이 Muse Glimmer 수준의 코딩 성능을 달성했다고 발표했습니다.
+중국 국가배후 해킹 조직이 AI 에이전트로 마이크로소프트 365 고객 2,250곳 이상에 분당 2,900번씩 로그인을 시도했고, 일부 기업은 3시간도 안 돼 관리자급 권한을 내줬습니다.
 
-KRAFTON AI가 자체 학습한 언어...</title><link>https://www.threads.net/@choi.openai/post/DexwMsKDWQy</link><description>크래프톤이 직접 개발한 AI 모델이 Muse Glimmer 수준의 코딩 성능을 달성했다고 발표했습니다.
+그 조직이 쓴 도구는 지난달 말 국내 금융사들을 뚫은 공격자가 쓴 것과 같은 ARTEX입니다. 🧵</description><pubDate>Thu, 22 Oct 2026 14:15:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezLND3j3yN</guid></item><item><title>1/ 마이크로소프트 위협 인텔리전스가 10월 21일 보고서를 냈습니다.
 
-KRAFTON AI가 자체 학습한 언어 모델 Raon-1 mini를 공개했는데요.
+중국 국가배후 해킹 조직 Storm-0940이 9월부터 AI 에이전트 ...</title><link>https://www.threads.net/@choi.openai/post/DezLN1lD9LB</link><description>1/ 마이크로소프트 위협 인텔리전스가 10월 21일 보고서를 냈습니다.
 
-전체 300억 개 매개변수 중 40억 개만 활성화하는 MoE 구조로, 코딩과 AI 에이전트 작업에서 Muse Glimmer와 비슷한 성능을 내면서 속도와 메모리 효율을 높였다고 합니다.
+중국 국가배후 해킹 조직 Storm-0940이 9월부터 AI 에이전트 모의해킹 도구 ARTEX로 전 세계 수백 개 조직을 자동으로 공격했다는 내용입니다.
 
-모델 가중치는 Apache 2.0 라이선스로 허깅페이스에 공개됐으며, 웹에서도 한시적으로 무료 체험할 수 있습니다.</description><pubDate>Thu, 22 Oct 2026 01:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DexwMsKDWQy</guid></item><item><title>허깅페이스 :
-https://huggingface.co/KRAFTON/Raon-1-mini-preview</title><link>https://www.threads.net/@choi.openai/post/DexwN1bjW-b</link><description>허깅페이스 :
-https://huggingface.co/KRAFTON/Raon-1-mini-preview</description><pubDate>Thu, 22 Oct 2026 01:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DexwN1bjW-b</guid></item><item><title>🚨 와.. 전 세계 웹사이트 70%를 위험에 빠뜨린 PHP 취약점, 찾아낸 건 오픈AI 모델이었습니다.
+출발점은 IT 관리 업체 커넥트와이즈의 클라우드 백업 서비스 침해였는데요. 공격자는 여기서 얻은 권한으로 마이크로소프트 365 고객 환경 2,250곳 이상에 분당 2,900번씩 로그인을 시도했습니다.
 
-어제 긴급 경고드린 그 결함인데요. 1...</title><link>https://www.threads.net/@choi.openai/post/Dexr1F3DUIO</link><description>🚨 와.. 전 세계 웹사이트 70%를 위험에 빠뜨린 PHP 취약점, 찾아낸 건 오픈AI 모델이었습니다.
+대부분은 실패했지만, 여러 기업에서 처음 표적으로 삼은 뒤 클라우드 관리자급 권한을 얻기까지 3시간이 걸리지 않았습니다.
 
-어제 긴급 경고드린 그 결함인데요. 10년 넘게 숨어 있던 구멍을 반년 전부터 누구나 쓰던 GPT-5.6 Sol이 끄집어냈습니다. 🧵</description><pubDate>Thu, 22 Oct 2026 00:23:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dexr1F3DUIO</guid></item><item><title>1/ 어제 PHP 보안팀이 심각도 9.2점짜리 취약점 2개의 긴급 업데이트를 예고했다는 경고를 전해드렸는데요.
+마이크로소프트는 에이전트가 주말과 휴일 없이 여러 침투 경로를 동시에 시도하면서 표적 선정부터 목표 달성까지 걸리는 시간이 크게 줄었다고 적었습니다.</description><pubDate>Thu, 22 Oct 2026 14:15:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezLN1lD9LB</guid></item><item><title>2/ 이 공격이 빨랐던 이유는 직원의 비밀번호를 뚫을 필요가 없었기 때문입니다.
 
-그 취약점을 찾는 데 오픈AI ...</title><link>https://www.threads.net/@choi.openai/post/Dexr891jzun</link><description>1/ 어제 PHP 보안팀이 심각도 9.2점짜리 취약점 2개의 긴급 업데이트를 예고했다는 경고를 전해드렸는데요.
+커넥트와이즈 같은 관리 업체의 앱은 고객사 마이크로소프트 36...</title><link>https://www.threads.net/@choi.openai/post/DezLO8cjxNX</link><description>2/ 이 공격이 빨랐던 이유는 직원의 비밀번호를 뚫을 필요가 없었기 때문입니다.
 
-그 취약점을 찾는 데 오픈AI 모델이 쓰였다는 사실이 업데이트와 함께 공개됐습니다. 
-오픈AI의 오픈소스 보안 지원 프로그램 Patch the Planet에 참여한 보안 기업 Calif가 GPT-5.6 Sol로 첫 결함을 찾았고, Wiz도 같은 결함들을 따로 찾아 신고했습니다.
+커넥트와이즈 같은 관리 업체의 앱은 고객사 마이크로소프트 365에 접근할 권한을 미리 받아 둡니다.
 
-PHP는 10월 21일 8.5.12, 8.4.27, 8.3.36, 8.2.35 보안 업데이트를 내놨습니다.
+공격자는 이 앱들의 인증 정보를 손에 넣었고, 이미 권한을 받은 앱의 자격으로 들어갔기 때문에 직원이 로그인하는 단계를 거치지 않았습니다.
 
-오픈AI는 이번 결함을 최근 기억나는 보안 문제 중 가장 영향이 큰 사례로 꼽았는데요.
-PHP가 WordPress, Drupal, MediaWiki처럼 수많은 웹사이트의 기반이기 때문입니다.</description><pubDate>Thu, 22 Oct 2026 00:23:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dexr891jzun</guid></item><item><title>2/ 결함은 PHP 엔진 자체에 있었습니다.
+들어간 뒤에는 AI 에이전트가 계정과 클라우드 구성을 조사하고, 앱 인증 정보를 바꾸고, 권한을 넓히려 했습니다.
 
-PHP는 요청 하나가 쓸 수 있는 메모리에 한도를 두는데, 한도에 걸리는 순간 처리 중이던 내부 ...</title><link>https://www.threads.net/@choi.openai/post/Dexr-T8j0-G</link><description>2/ 결함은 PHP 엔진 자체에 있었습니다.
+고객사가 믿고 연결한 업체 하나가 뚫리자, 공격자는 그 업체가 받아 둔 신뢰를 2,000곳 넘는 고객사에 그대로 행사했습니다.</description><pubDate>Thu, 22 Oct 2026 14:15:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezLO8cjxNX</guid></item><item><title>3/ ARTEX라는 이름은 한국에서 먼저 들었습니다.
 
-PHP는 요청 하나가 쓸 수 있는 메모리에 한도를 두는데, 한도에 걸리는 순간 처리 중이던 내부 데이터가 제대로 정리되지 않은 채 남을 수 있었습니다.
+9월 말부터 10월 초까지 신한·국민·하나은행 등 국내 금융사를 연달아 뚫은 공격자가 쓴...</title><link>https://www.threads.net/@choi.openai/post/DezLQHaD_mb</link><description>3/ ARTEX라는 이름은 한국에서 먼저 들었습니다.
 
-같은 서버 프로세스가 다음 요청을 처리할 때 이 남은 데이터를 정상 데이터로 다루면서 문제가 생겼습니다.
+9월 말부터 10월 초까지 신한·국민·하나은행 등 국내 금융사를 연달아 뚫은 공격자가 쓴 도구입니다.
 
-PHP 보안팀은 Apache와 mod_php 조합에서 로그인 없이 보낸 요청만으로, 애플리케이션 코드가 실행되기도 전에 공격이 가능한 사례가 확인됐다고 밝혔습니다.
+지난번에 정리한 크라우드스트라이크 10월 7일 보고서에서 그 공격자는 자기 서버 폴더를 열어 둘 만큼 서툰, 금전 목적의 개인으로 보였는데요.
 
-그래서 코드를 아무리 안전하게 짠 사이트라도 PHP 버전이 오래됐다면 위험에 노출됩니다.</description><pubDate>Thu, 22 Oct 2026 00:23:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dexr-T8j0-G</guid></item><item><title>3/ 이 결함의 흔적은 2024년에 이미 한 번 발견됐습니다.
+금융위원회는 10월 14일 피해 금융사를 16곳, 유출된 개인정보를 약 10만 건으로 집계했습니다.
 
-PHP 재단에 따르면 2024년 외부 보안 감사 과정에서 핵심 개발자가 메모리 ...</title><link>https://www.threads.net/@choi.openai/post/Dexr_YnD-vu</link><description>3/ 이 결함의 흔적은 2024년에 이미 한 번 발견됐습니다.
+마이크로소프트도 이번 보고서에서 한국 금융기관 개인정보 유출에 ARTEX가 쓰였다는 보도를 언급하고, 여러 지역의 공격자들이 이 도구를 쓰고 있다고 적었습니다.
 
-PHP 재단에 따르면 2024년 외부 보안 감사 과정에서 핵심 개발자가 메모리 문제의 첫 징후를 찾았지만, 실제 공격으로 이어지는 경로는 확인하지 못했습니다.
+같은 시기에 서툰 개인과 국가배후 조직이 같은 오픈소스 도구로 공격하고 있었던 겁니다.</description><pubDate>Thu, 22 Oct 2026 14:16:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezLQHaD_mb</guid></item><item><title>보안문제가 심각해지고 있습니다.
 
-고칠 방법도 여러 가지가 나왔는데 하위 호환성을 깨거나 수많은 확장 기능을 함께 고쳐야 하는 문제가 있어, 작은 보안팀이 결정을 내리지 못한 채 작업이 몇 달씩 멈췄다고 합니다.
+미국 주요 은행의 고객 계좌에 허가되지 않은 AI 에이전트가 접근하는 사례가 발견됐습니다.
+Axios가 은행 ...</title><link>https://www.threads.net/@choi.openai/post/DezJhIokspk</link><description>보안문제가 심각해지고 있습니다.
 
-재단은 이를 의사결정 구조와 자원 부족이 만든 실패라고 직접 인정했습니다.
-최종 수정은 메모리 한도를 넘는 순간 처리를 강제로 끊는 대신 작업을 깔끔하게 마무리한 뒤 멈추도록 바꾼 것인데, PHP 보안팀의 Alexandre Daubois는 이 수정이 파일 390개를 건드렸다고 밝혔습니다.
+미국 주요 은행의 고객 계좌에 허가되지 않은 AI 에이전트가 접근하는 사례가 발견됐습니다.
+Axios가 은행 관계자들을 인용해 보도한 내용인데요.
 
-오픈AI가 대응에 두 달이 걸린 이유로 엔진의 큰 변경을 꼽은 것도 이 때문입니다.</description><pubDate>Thu, 22 Oct 2026 00:23:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dexr_YnD-vu</guid></item><item><title>🚨 앤트로픽도 개인 AI 에이전트 경쟁에 뛰어들었습니다.
+일부 AI 에이전트는 사용자가 지시하지 않은 행동까지 시도한 것으로 보인다고 합니다.
 
-Claude Opus 5.5 기반의 Claude Duet을 공개했는데요.
+문제는 은행들이 실제 사용자와 AI 에이전트를 구분하기 어렵고, 고객이 접근을 허용했는지도 확인하기 어렵다는 점입니다.
 
-사용자가 ...</title><link>https://www.threads.net/@choi.openai/post/DexpS3DkpWX</link><description>🚨 앤트로픽도 개인 AI 에이전트 경쟁에 뛰어들었습니다.
+은행들은 AI 에이전트의 접근을 제한하고 계좌 복구 대책까지 준비하고 있다고 합니다.</description><pubDate>Thu, 22 Oct 2026 14:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezJhIokspk</guid></item><item><title>내용 :
+https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-acce...</title><link>https://www.threads.net/@choi.openai/post/DezJiQWEkjo</link><description>내용 :
+https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access</description><pubDate>Thu, 22 Oct 2026 14:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezJiQWEkjo</guid></item><item><title>🚨 대규모 공격이 시작되었습니다.
 
-Claude Opus 5.5 기반의 Claude Duet을 공개했는데요.
+Cloudflare CEO Matthew Prince가 공개한 수치인데요.
 
-사용자가 지시하지 않아도 중요한 일을 먼저 알려주고, 자리를 비운 동안에도 작업을 계속합니다. 실제 행동에 옮기기 전에는 사용자에게 확인을 요청합니다.
+PHP 보안 취약점을 노린 공격...</title><link>https://www.threads.net/@choi.openai/post/DezF_JeDk_u</link><description>🚨 대규모 공격이 시작되었습니다.
 
-기존 Claude의 메모리와 연결된 앱도 그대로 활용할 수 있습니다.
+Cloudflare CEO Matthew Prince가 공개한 수치인데요.
 
-오픈AI의 Dots, Meta의 Muse에 이어 앤트로픽까지 합류하면서 개인 AI 비서 경쟁이 치열해지고 있습니다.
+PHP 보안 취약점을 노린 공격 시도가 공개 전 10시간 동안 수천 건에서 공개 후 45분 만에 수만 건, 2시간 만에 수십만 건으로 급증했습니다.
 
-현재 미국 Pro·Max 사용자 대상으로 대기 신청을 받고 있습니다.</description><pubDate>Thu, 22 Oct 2026 00:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DexpS3DkpWX</guid></item></channel></rss>
+현재는 수백만 건에 달한다고 합니다.
+
+OpenAI는 웹사이트의 영향 여부를 확인할 수 있는 Codex용 검사 도구도 공개했습니다.
+
+WordPress 등 PHP 기반 사이트 운영자는 보안 패치 적용 여부를 확인해야 합니다.</description><pubDate>Thu, 22 Oct 2026 13:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezF_JeDk_u</guid></item><item><title>오픈AI Skill :
+https://github.com/openai/php2shell-checker</title><link>https://www.threads.net/@choi.openai/post/DezGAUyDr7z</link><description>오픈AI Skill :
+https://github.com/openai/php2shell-checker</description><pubDate>Thu, 22 Oct 2026 13:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezGAUyDr7z</guid></item><item><title>오늘 OpenAI DevDay Exchange Seoul에서 만나 뵌 모든 분들께 감사드립니다!
+
+저는 행사 내내 네트워킹에 집중했는데요.
+다양...</title><link>https://www.threads.net/@choi.openai/post/DezBmw8j9WU</link><description>오늘 OpenAI DevDay Exchange Seoul에서 만나 뵌 모든 분들께 감사드립니다!
+
+저는 행사 내내 네트워킹에 집중했는데요.
+다양한 분들과 직접 만나 이야기를 나누면서 정말 즐겁고, 배울 것도 얻어갈 것도 많은 하루였습니다.
+
+특히 Codex Ambassador 분들과 각 대학교에서 활발하게 활동하고 계신 OpenAI Campus Lead 분들을 직접 만나 뵐 수 있어서 더욱 반가웠습니다.
+
+앞으로도 AI에 관심 있는 분들이 한자리에 모여 서로의 경험과 생각을 나누고, 새로운 인연을 만들어갈 수 있는 기회가 더 많아졌으면 좋겠습니다.
+
+오늘 함께해 주신 모든 분들께 다시 한번 감사드립니다!
+
+이번 주 토요일에는 수원에서 만나요! 🙌</description><pubDate>Thu, 22 Oct 2026 12:51:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezBmw8j9WU</guid></item></channel></rss>
