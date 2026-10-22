@@ -1,90 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 22 Oct 2026 14:17:52 +0000</lastBuildDate><item><title>🚨 미친.. 도대체 무슨일이 벌어지고 있는거지..
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 22 Oct 2026 18:55:06 +0000</lastBuildDate><item><title>AI의 판단 능력을 평가하는 벤치마크에서 1위를 기록한 오픈소스 모델이 공개됐습니다.
 
-사람들이 지금 사이버 보안을 얼마나 간과하고 있는지 모릅니다.
+Base Labs가 발표한 mammoth-1과 eleph...</title><link>https://www.threads.net/@choi.openai/post/Dezk6RzgXqA</link><description>AI의 판단 능력을 평가하는 벤치마크에서 1위를 기록한 오픈소스 모델이 공개됐습니다.
 
-10월 21일 하루 동안 마...</title><link>https://www.threads.net/@choi.openai/post/DezLND3j3yN</link><description>🚨 미친.. 도대체 무슨일이 벌어지고 있는거지..
+Base Labs가 발표한 mammoth-1과 elephant-1인데요.
 
-사람들이 지금 사이버 보안을 얼마나 간과하고 있는지 모릅니다.
+Qwen3.5 기반의 27B, 9B 모델을 추가 학습시켜 만들었습니다.
 
-10월 21일 하루 동안 마이크로소프트, 크라우드스트라이크, PHP, GitLab, Node.js, Railway, LiteLLM에서 해킹 사고와 최고 등급 취약점 발표가 한꺼번에 나왔습니다
+mammoth-1은 Jev Decision Index v0.4에서 1위를 기록했고, elephant-1은 15B 미만 모델 중 최고 성능을 기록했다고 합니다.
 
-중국 국가배후 해킹 조직이 AI 에이전트로 마이크로소프트 365 고객 2,250곳 이상에 분당 2,900번씩 로그인을 시도했고, 일부 기업은 3시간도 안 돼 관리자급 권한을 내줬습니다.
+AI 에이전트가 다음 행동을 결정하는 데 활용할 수 있으며, 두 모델의 가중치와 학습 방법도 공개됐습니다.</description><pubDate>Thu, 22 Oct 2026 18:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dezk6RzgXqA</guid></item><item><title>허깅페이스 :
+https://huggingface.co/baselabs/mammoth-1</title><link>https://www.threads.net/@choi.openai/post/Dezk7l-AeOw</link><description>허깅페이스 :
+https://huggingface.co/baselabs/mammoth-1</description><pubDate>Thu, 22 Oct 2026 18:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dezk7l-AeOw</guid></item><item><title>구글 딥마인드 CEO 데미스 하사비스(Demis Hassabis)는 최근 발생하는 AI 문제들을 업계를 향한 “심각한 경고 사격"으로 받아들여야...</title><link>https://www.threads.net/@choi.openai/post/DezeBvejRMr</link><description>구글 딥마인드 CEO 데미스 하사비스(Demis Hassabis)는 최근 발생하는 AI 문제들을 업계를 향한 “심각한 경고 사격"으로 받아들여야 한다고 경고했습니다.
 
-그 조직이 쓴 도구는 지난달 말 국내 금융사들을 뚫은 공격자가 쓴 것과 같은 ARTEX입니다. 🧵</description><pubDate>Thu, 22 Oct 2026 14:15:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezLND3j3yN</guid></item><item><title>1/ 마이크로소프트 위협 인텔리전스가 10월 21일 보고서를 냈습니다.
+현재 모델도 인상적이지만, 불과 1~2년 뒤 등장할 차세대 프론티어 AI의 파괴적 성능에 비하면 아무것도 아니라는 분석입니다.
+지금 통제력을 확보하지 못하면 사이버 위협을 넘어 바이오나 핵 안보 같은 파멸적 리스크로 번질 수 있다고 지적했습니다.
 
-중국 국가배후 해킹 조직 Storm-0940이 9월부터 AI 에이전트 ...</title><link>https://www.threads.net/@choi.openai/post/DezLN1lD9LB</link><description>1/ 마이크로소프트 위협 인텔리전스가 10월 21일 보고서를 냈습니다.
+그는 프론티어 AI 모델을 검증·인증할 표준 기구와 가드레일이 시급하다며, “시스템이 아직 감당 가능한 수준일 때 안전 통제권을 확립해야 한다”고 강조했습니다.
 
-중국 국가배후 해킹 조직 Storm-0940이 9월부터 AI 에이전트 모의해킹 도구 ARTEX로 전 세계 수백 개 조직을 자동으로 공격했다는 내용입니다.
+압도적인 지능 폭발이 눈앞으로 다가온 지금, 기술적 안전망 구축이 특이점 진입의 최우선 전제 조건이라는 메시지입니다.</description><pubDate>Thu, 22 Oct 2026 17:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezeBvejRMr</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=Ea6ajW5hcCY</title><link>https://www.threads.net/@choi.openai/post/DezeDUCDbMr</link><description>풀영상 :
+https://www.youtube.com/watch?v=Ea6ajW5hcCY</description><pubDate>Thu, 22 Oct 2026 17:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezeDUCDbMr</guid></item><item><title>AI 에이전트가 이제 전용 스마트폰까지 갖게 됐습니다.
 
-출발점은 IT 관리 업체 커넥트와이즈의 클라우드 백업 서비스 침해였는데요. 공격자는 여기서 얻은 권한으로 마이크로소프트 365 고객 환경 2,250곳 이상에 분당 2,900번씩 로그인을 시도했습니다.
+Abdulla Ababakre가 AI 에이전트에 스마트폰을 제공하는 PhoneUse를 ...</title><link>https://www.threads.net/@choi.openai/post/DezXJfLCg0T</link><description>AI 에이전트가 이제 전용 스마트폰까지 갖게 됐습니다.
 
-대부분은 실패했지만, 여러 기업에서 처음 표적으로 삼은 뒤 클라우드 관리자급 권한을 얻기까지 3시간이 걸리지 않았습니다.
+Abdulla Ababakre가 AI 에이전트에 스마트폰을 제공하는 PhoneUse를 공개했는데요.
 
-마이크로소프트는 에이전트가 주말과 휴일 없이 여러 침투 경로를 동시에 시도하면서 표적 선정부터 목표 달성까지 걸리는 시간이 크게 줄었다고 적었습니다.</description><pubDate>Thu, 22 Oct 2026 14:15:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezLN1lD9LB</guid></item><item><title>2/ 이 공격이 빨랐던 이유는 직원의 비밀번호를 뚫을 필요가 없었기 때문입니다.
+클라우드에 있는 실제 Android와 iPhone을 AI가 직접 조작할 수 있도록 지원합니다.
 
-커넥트와이즈 같은 관리 업체의 앱은 고객사 마이크로소프트 36...</title><link>https://www.threads.net/@choi.openai/post/DezLO8cjxNX</link><description>2/ 이 공격이 빨랐던 이유는 직원의 비밀번호를 뚫을 필요가 없었기 때문입니다.
+예를 들어 Uber를 호출하거나 Instagram 댓글에 답하고, 항공편 지연 알림을 확인해 약속 상대에게 메시지를 보낼 수도 있습니다.
 
-커넥트와이즈 같은 관리 업체의 앱은 고객사 마이크로소프트 365에 접근할 권한을 미리 받아 둡니다.
+기존에는 연동이 어려웠던 모바일 앱까지 AI가 사용할 수 있게 된다는 점이 핵심입니다.</description><pubDate>Thu, 22 Oct 2026 16:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezXJfLCg0T</guid></item><item><title>주소 :
+https://www.phoneuse.com/</title><link>https://www.threads.net/@choi.openai/post/DezXL7dCnHX</link><description>주소 :
+https://www.phoneuse.com/</description><pubDate>Thu, 22 Oct 2026 16:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezXL7dCnHX</guid></item><item><title>와우.. AI가 AI 개발을 도와 4개월 만에 만든 코딩 모델이 공개됐습니다.
 
-공격자는 이 앱들의 인증 정보를 손에 넣었고, 이미 권한을 받은 앱의 자격으로 들어갔기 때문에 직원이 로그인하는 단계를 거치지 않았습니다.
+Recursive가 발표한 Flint인데요.
+40B 규모의 모델...</title><link>https://www.threads.net/@choi.openai/post/DezRhhfD-Mc</link><description>와우.. AI가 AI 개발을 도와 4개월 만에 만든 코딩 모델이 공개됐습니다.
 
-들어간 뒤에는 AI 에이전트가 계정과 클라우드 구성을 조사하고, 앱 인증 정보를 바꾸고, 권한을 넓히려 했습니다.
+Recursive가 발표한 Flint인데요.
+40B 규모의 모델이지만 실제 작동에는 2.5B 매개변수만 사용합니다.
 
-고객사가 믿고 연결한 업체 하나가 뚫리자, 공격자는 그 업체가 받아 둔 신뢰를 2,000곳 넘는 고객사에 그대로 행사했습니다.</description><pubDate>Thu, 22 Oct 2026 14:15:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezLO8cjxNX</guid></item><item><title>3/ ARTEX라는 이름은 한국에서 먼저 들었습니다.
+M4 Pro 맥북에서 초당 125개 이상의 토큰을 생성하며, 동급 모델보다 최대 2배 빠르다고 합니다.
 
-9월 말부터 10월 초까지 신한·국민·하나은행 등 국내 금융사를 연달아 뚫은 공격자가 쓴...</title><link>https://www.threads.net/@choi.openai/post/DezLQHaD_mb</link><description>3/ ARTEX라는 이름은 한국에서 먼저 들었습니다.
+특히 자동화된 AI 연구 시스템 Eureka Machine이 아이디어 구상부터 구현, 검증까지 개발 과정에 참여했습니다.
 
-9월 말부터 10월 초까지 신한·국민·하나은행 등 국내 금융사를 연달아 뚫은 공격자가 쓴 도구입니다.
-
-지난번에 정리한 크라우드스트라이크 10월 7일 보고서에서 그 공격자는 자기 서버 폴더를 열어 둘 만큼 서툰, 금전 목적의 개인으로 보였는데요.
-
-금융위원회는 10월 14일 피해 금융사를 16곳, 유출된 개인정보를 약 10만 건으로 집계했습니다.
-
-마이크로소프트도 이번 보고서에서 한국 금융기관 개인정보 유출에 ARTEX가 쓰였다는 보도를 언급하고, 여러 지역의 공격자들이 이 도구를 쓰고 있다고 적었습니다.
-
-같은 시기에 서툰 개인과 국가배후 조직이 같은 오픈소스 도구로 공격하고 있었던 겁니다.</description><pubDate>Thu, 22 Oct 2026 14:16:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezLQHaD_mb</guid></item><item><title>보안문제가 심각해지고 있습니다.
-
-미국 주요 은행의 고객 계좌에 허가되지 않은 AI 에이전트가 접근하는 사례가 발견됐습니다.
-Axios가 은행 ...</title><link>https://www.threads.net/@choi.openai/post/DezJhIokspk</link><description>보안문제가 심각해지고 있습니다.
-
-미국 주요 은행의 고객 계좌에 허가되지 않은 AI 에이전트가 접근하는 사례가 발견됐습니다.
-Axios가 은행 관계자들을 인용해 보도한 내용인데요.
-
-일부 AI 에이전트는 사용자가 지시하지 않은 행동까지 시도한 것으로 보인다고 합니다.
-
-문제는 은행들이 실제 사용자와 AI 에이전트를 구분하기 어렵고, 고객이 접근을 허용했는지도 확인하기 어렵다는 점입니다.
-
-은행들은 AI 에이전트의 접근을 제한하고 계좌 복구 대책까지 준비하고 있다고 합니다.</description><pubDate>Thu, 22 Oct 2026 14:00:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezJhIokspk</guid></item><item><title>내용 :
-https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-acce...</title><link>https://www.threads.net/@choi.openai/post/DezJiQWEkjo</link><description>내용 :
-https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access</description><pubDate>Thu, 22 Oct 2026 14:01:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezJiQWEkjo</guid></item><item><title>🚨 대규모 공격이 시작되었습니다.
-
-Cloudflare CEO Matthew Prince가 공개한 수치인데요.
-
-PHP 보안 취약점을 노린 공격...</title><link>https://www.threads.net/@choi.openai/post/DezF_JeDk_u</link><description>🚨 대규모 공격이 시작되었습니다.
-
-Cloudflare CEO Matthew Prince가 공개한 수치인데요.
-
-PHP 보안 취약점을 노린 공격 시도가 공개 전 10시간 동안 수천 건에서 공개 후 45분 만에 수만 건, 2시간 만에 수십만 건으로 급증했습니다.
-
-현재는 수백만 건에 달한다고 합니다.
-
-OpenAI는 웹사이트의 영향 여부를 확인할 수 있는 Codex용 검사 도구도 공개했습니다.
-
-WordPress 등 PHP 기반 사이트 운영자는 보안 패치 적용 여부를 확인해야 합니다.</description><pubDate>Thu, 22 Oct 2026 13:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezF_JeDk_u</guid></item><item><title>오픈AI Skill :
-https://github.com/openai/php2shell-checker</title><link>https://www.threads.net/@choi.openai/post/DezGAUyDr7z</link><description>오픈AI Skill :
-https://github.com/openai/php2shell-checker</description><pubDate>Thu, 22 Oct 2026 13:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezGAUyDr7z</guid></item><item><title>오늘 OpenAI DevDay Exchange Seoul에서 만나 뵌 모든 분들께 감사드립니다!
-
-저는 행사 내내 네트워킹에 집중했는데요.
-다양...</title><link>https://www.threads.net/@choi.openai/post/DezBmw8j9WU</link><description>오늘 OpenAI DevDay Exchange Seoul에서 만나 뵌 모든 분들께 감사드립니다!
-
-저는 행사 내내 네트워킹에 집중했는데요.
-다양한 분들과 직접 만나 이야기를 나누면서 정말 즐겁고, 배울 것도 얻어갈 것도 많은 하루였습니다.
-
-특히 Codex Ambassador 분들과 각 대학교에서 활발하게 활동하고 계신 OpenAI Campus Lead 분들을 직접 만나 뵐 수 있어서 더욱 반가웠습니다.
-
-앞으로도 AI에 관심 있는 분들이 한자리에 모여 서로의 경험과 생각을 나누고, 새로운 인연을 만들어갈 수 있는 기회가 더 많아졌으면 좋겠습니다.
-
-오늘 함께해 주신 모든 분들께 다시 한번 감사드립니다!
-
-이번 주 토요일에는 수원에서 만나요! 🙌</description><pubDate>Thu, 22 Oct 2026 12:51:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezBmw8j9WU</guid></item></channel></rss>
+Flint는 허깅페이스에 공개됐으며, 약 24GB 메모리로 로컬 실행이 가능합니다.</description><pubDate>Thu, 22 Oct 2026 15:10:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezRhhfD-Mc</guid></item><item><title>허깅페이스 :
+https://recursive.com/updates/introducing-recursive-flint</title><link>https://www.threads.net/@choi.openai/post/DezRiJJDzWU</link><description>허깅페이스 :
+https://recursive.com/updates/introducing-recursive-flint</description><pubDate>Thu, 22 Oct 2026 15:11:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DezRiJJDzWU</guid></item></channel></rss>
