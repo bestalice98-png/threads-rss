@@ -1,60 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 25 Oct 2026 12:58:26 +0000</lastBuildDate><item><title>이번주 절대 놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</title><link>https://www.threads.net/@choi.openai/post/De6tg_VFdOQ</link><description>이번주 절대 놓치면 안 될 AI 소식 45개를 정리했습니다 🧵</description><pubDate>Sun, 25 Oct 2026 12:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6tg_VFdOQ</guid></item><item><title>1/ 문샷AI가 Kimi K3.1 Pro를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 25 Oct 2026 17:56:12 +0000</lastBuildDate><item><title>피터 틸(Peter Thiel)은 AI 개발을 중단해서는 안 되며, “최대한 세게 가속 페달을 밟아야 한다”고 강조했습니다.
 
-100만 토큰 문맥을 지원하고 코딩·3D 제작·금융 분석·에이전트 작업을 강화했습니다...</title><link>https://www.threads.net/@choi.openai/post/De6thV0lfTV</link><description>1/ 문샷AI가 Kimi K3.1 Pro를 공개했습니다.
+그는 지정학적 관...</title><link>https://www.threads.net/@choi.openai/post/De7MdoOiUfu</link><description>피터 틸(Peter Thiel)은 AI 개발을 중단해서는 안 되며, “최대한 세게 가속 페달을 밟아야 한다”고 강조했습니다.
 
-100만 토큰 문맥을 지원하고 코딩·3D 제작·금융 분석·에이전트 작업을 강화했습니다.
-회사가 공개한 Terminal-Bench 4.0 점수는 65.7%로 Opus 5.5의 66.4%에 근접했습니다.
+그는 지정학적 관점에서 “AI 기술을 통제하려면 역설적으로 AI 기술을 더 발전시켜야 한다”며, 중국에 밀리지 않고 기술적 우위를 점하는 것이 필수적이라고 지적했습니다.
 
-Kimi 앱·Work·Code·API에서 사용할 수 있고, 2~3배 빠른 Highspeed 버전도 나왔습니다.
-전체 가중치는 11월 4일까지 공개할 예정입니다.</description><pubDate>Sun, 25 Oct 2026 12:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6thV0lfTV</guid></item><item><title>2/ MiniMax가 M3.1 Flash를 공개하고 가중치도 배포했습니다.
+또한 그는 성장이 멈춘 경제는 승자 한 명마다 패자가 생기는 잔혹한 제로섬 사회로 전락한다고 경고했습니다.
+과거 인터넷을 금지하지 않았듯, 지금 AI를 규제해 멈추게 만든다면 성장은 완전히 사라져 유럽이나 일본처럼 침체될 것이라는 설명입니다.
 
-전체 4,280억 개 매개변수 중 토큰당 230억 개를 사용하는 M...</title><link>https://www.threads.net/@choi.openai/post/De6thyZFReF</link><description>2/ MiniMax가 M3.1 Flash를 공개하고 가중치도 배포했습니다.
+미래 세대의 희망과 경제 성장을 되살리기 위해서라도, AI 발전을 멈출 것이 아니라 기술 가속을 통해 돌파구를 찾아야 한다는 메시지입니다.</description><pubDate>Sun, 25 Oct 2026 17:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De7MdoOiUfu</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=H9Bdv3t5VtQ</title><link>https://www.threads.net/@choi.openai/post/De7MevjiZWl</link><description>풀영상 :
+https://www.youtube.com/watch?v=H9Bdv3t5VtQ</description><pubDate>Sun, 25 Oct 2026 17:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De7MevjiZWl</guid></item><item><title>구글 CEO 순다르 피차이는 양자 컴퓨팅에 대해 “시간을 들일수록 오히려 더 이해하기 어려운 분야”라면서도, 상용화 시점이 눈앞에 다가왔음을 시...</title><link>https://www.threads.net/@choi.openai/post/De7Fks3jXTB</link><description>구글 CEO 순다르 피차이는 양자 컴퓨팅에 대해 “시간을 들일수록 오히려 더 이해하기 어려운 분야”라면서도, 상용화 시점이 눈앞에 다가왔음을 시사했습니다.
 
-전체 4,280억 개 매개변수 중 토큰당 230억 개를 사용하는 MoE 모델로, 100만 토큰 문맥과 텍스트·이미지·영상 입력을 지원합니다.
-회사는 M3보다 응답 속도가 약 3배 빨라지고 에이전트 작업 비용은 70% 줄었다고 밝혔습니다.
+그는 구글이 지난 10년간 내부 마일스톤을 꾸준히 초과 달성해왔으며, 향후 “5년 이내에 실질적인 상업적 응용 사례가 등장할 것”이라고 전망했습니다.
 
-API와 자체 서버용 가중치를 함께 제공하며, 기존에 Space Bunny로 알려졌던 모델의 정체도 이 모델로 확인됐습니다.</description><pubDate>Sun, 25 Oct 2026 12:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6thyZFReF</guid></item><item><title>3/ 앤트로픽이 개인 AI 에이전트 Claude Duet을 공개했습니다.
+현재 AI 워크로드를 위해 클라우드 TPU 파드를 제공하듯, 머지않아 구글 클라우드가 기업 고객들과 대규모 ‘양자 배포(Quantum Deployment)’ 계약을 협상하는 시대가 올 것이라는 설명입니다.
 
-Opus 5.5를 기반으로 클라우드의 전용 컴퓨터에서 일하며, 사용자...</title><link>https://www.threads.net/@choi.openai/post/De6tiPAlRsz</link><description>3/ 앤트로픽이 개인 AI 에이전트 Claude Duet을 공개했습니다.
+AI 가속의 물리적 한계를 뚫고 과학 연구와 컴퓨팅 성능을 차원 이동시킬 차세대 게임체인저로 양자 컴퓨팅을 지목했습니다.</description><pubDate>Sun, 25 Oct 2026 16:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De7Fks3jXTB</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=fJBSNEFdm8c</title><link>https://www.threads.net/@choi.openai/post/De7Fl79DbgH</link><description>풀영상 :
+https://www.youtube.com/watch?v=fJBSNEFdm8c</description><pubDate>Sun, 25 Oct 2026 16:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De7Fl79DbgH</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 코딩 일자리 종말론에 대해 “개발자들은 그 어느 때보다 바빠질 것”이라고 반박했습니다.
 
-Opus 5.5를 기반으로 클라우드의 전용 컴퓨터에서 일하며, 사용자가 자리를 비운 동안에도 작업을 이어 갑니다.
-Claude의 메모리·스킬·연결된 앱을 활용해 필요한 일을 먼저 알려 주고, 중요한 행동을 실행하기 전에는 승인을 받습니다.
+불과...</title><link>https://www.threads.net/@choi.openai/post/De6-sMgjT1o</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 코딩 일자리 종말론에 대해 “개발자들은 그 어느 때보다 바빠질 것”이라고 반박했습니다.
 
-웹과 별도 모바일 앱으로 제공하며, 현재 미국 Pro·Max 이용자의 대기 신청을 받는 연구 프리뷰입니다.</description><pubDate>Sun, 25 Oct 2026 12:30:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6tiPAlRsz</guid></item><item><title>게임이나 3D 작업에 활용할 수 있는 3D 모델 1,300개 이상이 무료로 공개됐습니다.
+불과 6~12개월 전만 해도 코딩 일자리가 사라질 것이라는 확신이 팽배했지만, 현실은 정반대로 흘러가고 있다는 설명입니다.
+그는 “업무의 결(성격)은 크게 달라졌지만, 컴퓨터를 작동시키기 위해 사람을 고용하는 일은 예상보다 훨씬 오래 지속될 것”이라고 말했습니다.
 
-Scenario가 약 39GB 규모의 3D 모델 모음...</title><link>https://www.threads.net/@choi.openai/post/De6jTAJCmWq</link><description>게임이나 3D 작업에 활용할 수 있는 3D 모델 1,300개 이상이 무료로 공개됐습니다.
+특히 이번 변화가 주는 핵심 교훈으로 “세상에는 우리 생각보다 훨씬 더 많은 소프트웨어 수요가 존재했다”는 점을 짚었습니다.
 
-Scenario가 약 39GB 규모의 3D 모델 모음을 허깅페이스에 올렸는데요.
+AI가 코딩 진입 장벽을 낮추면서 시장의 잠재 수요가 폭발했고, 그 결과 개발자의 영향력과 가치는 오히려 더 커지고 있다는 분석입니다.</description><pubDate>Sun, 25 Oct 2026 15:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6-sMgjT1o</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=3gXLmy7DK_4</title><link>https://www.threads.net/@choi.openai/post/De6-tXDjW8p</link><description>풀영상 :
+https://www.youtube.com/watch?v=3gXLmy7DK_4</description><pubDate>Sun, 25 Oct 2026 15:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6-tXDjW8p</guid></item><item><title>실리콘밸리의 대표 벤처투자자 마크 안드리슨(Marc Andreessen)은 지금 청소년들에게 “새로운 역량을 쥐고 달려갈 최고의 골든타임”이 열...</title><link>https://www.threads.net/@choi.openai/post/De63zowgAf8</link><description>실리콘밸리의 대표 벤처투자자 마크 안드리슨(Marc Andreessen)은 지금 청소년들에게 “새로운 역량을 쥐고 달려갈 최고의 골든타임”이 열렸다고 강조했습니다.
 
-Meshy, Tripo, Rodin, Claude Opus 5.5, GPT-6 Astra 등으로 생성한 결과물이 포함돼 있습니다.
+더글러스 애덤스의 말을 빌려 15세 이하에게 새로운 기술은 “그저 세상이 작동하는 당연한 방식”이며, 어릴수록 질문에 답하는 AI를 공기처럼 자연스럽게 여긴다고 설명했습니다.
+학교가 AI를 금지할수록 아이들에게는 오히려 “비밀 초능력”처럼 작용해 창의성과 창업 기회를 폭발시킬 것이라 내다봤습니다.
 
-특히 완성된 3D 파일뿐 아니라 원본 이미지, 프롬프트, 생성 설정까지 제공해 제작 과정을 참고할 수 있습니다.
+이어 대담자는 “도태되는 건 기성세대일 뿐, 아이들은 AI를 통해 초인간(Superhumans)이 될 것”이라고 덧붙였습니다.
 
-CC BY 4.0 라이선스로 출처를 표시하면 상업적 이용도 가능합니다. 다만 일부 자료는 별도 조건을 확인해야 합니다.</description><pubDate>Sun, 25 Oct 2026 11:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6jTAJCmWq</guid></item><item><title>허깅페이스 :
-https://huggingface.co/datasets/scenario-labs/3d-collection</title><link>https://www.threads.net/@choi.openai/post/De6jU_Bis_3</link><description>허깅페이스 :
-https://huggingface.co/datasets/scenario-labs/3d-collection</description><pubDate>Sun, 25 Oct 2026 11:01:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6jU_Bis_3</guid></item><item><title>와.. RTX 3090과 4090의 AI 연산 성능을 최대 2배 가까이 높이는 방법이 공개됐습니다.
-
-오픈소스 프로젝트 gpu-unlock과 g...</title><link>https://www.threads.net/@choi.openai/post/De6cV6ND_iY</link><description>와.. RTX 3090과 4090의 AI 연산 성능을 최대 2배 가까이 높이는 방법이 공개됐습니다.
-
-오픈소스 프로젝트 gpu-unlock과 gpu-unlock-ada가 NVIDIA 그래픽카드의 일부 연산 속도 제한을 해제했는데요.
-
-RTX 4090은 특정 AI 연산에서 165→331 TFLOPS를 기록했습니다.
-
-다만 AI 모델 실행 속도가 2배 빨라지는 것은 아닙니다. 실제 성능 향상은 작업에 따라 다르며, RTX 40 시리즈도 지원 기종이 제한적입니다.
-
-비공식 커널 수정 방식이라 사용에 주의가 필요합니다.</description><pubDate>Sun, 25 Oct 2026 10:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6cV6ND_iY</guid></item><item><title>깃허브 :
-https://github.com/Zagitta/gpu-unlock</title><link>https://www.threads.net/@choi.openai/post/De6cW65D5AP</link><description>깃허브 :
-https://github.com/Zagitta/gpu-unlock</description><pubDate>Sun, 25 Oct 2026 10:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6cW65D5AP</guid></item><item><title>AI 모델의 학습 시간을 1시간 46분에서 1.6초로 줄였다는 결과가 나왔습니다.
-
-Q Labs가 진행 중인 Noise 프로젝트에서 불과 10일...</title><link>https://www.threads.net/@choi.openai/post/De6Vf4gERvl</link><description>AI 모델의 학습 시간을 1시간 46분에서 1.6초로 줄였다는 결과가 나왔습니다.
-
-Q Labs가 진행 중인 Noise 프로젝트에서 불과 10일 만에 학습 속도를 약 4,000배 높였는데요.
-
-핵심은 AI 학습에 널리 사용되는 역전파 없이 모델을 학습시키는 방식입니다.
-
-다만 작은 데이터셋에서 특정 성능 기준에 도달하는 실험 결과로, 대규모 AI 모델에서도 같은 효과가 나타날지는 아직 확인되지 않았습니다.
-
-현재 더 큰 데이터셋으로 검증을 진행하고 있습니다.</description><pubDate>Sun, 25 Oct 2026 09:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6Vf4gERvl</guid></item><item><title>내용 :
-https://qlabs.sh/noise#update</title><link>https://www.threads.net/@choi.openai/post/De6Vg39EUMy</link><description>내용 :
-https://qlabs.sh/noise#update</description><pubDate>Sun, 25 Oct 2026 09:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De6Vg39EUMy</guid></item></channel></rss>
+기존 일자리와 기술의 규칙이 무너지는 특이점 시대, AI를 무기 삼은 젊은 세대가 경제와 창업의 지형도를 완전히 새로 쓸 것입니다.</description><pubDate>Sun, 25 Oct 2026 14:00:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De63zowgAf8</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=-9XQMHhpypc</title><link>https://www.threads.net/@choi.openai/post/De630xdgN8E</link><description>풀영상 :
+https://www.youtube.com/watch?v=-9XQMHhpypc</description><pubDate>Sun, 25 Oct 2026 14:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/De630xdgN8E</guid></item></channel></rss>
