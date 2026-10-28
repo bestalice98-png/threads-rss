@@ -1,135 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 28 Oct 2026 04:15:07 +0000</lastBuildDate><item><title>🚨 앤트로픽이 충격적인 실험 결과를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 28 Oct 2026 14:52:27 +0000</lastBuildDate><item><title>맥스 테그마크 MIT 교수는 AI 기업들의 초지능 개발 경쟁을 두고 “새로운 종(species)을 창조하는 과정”이라고 경고했습니다.
 
-AI를 활용하는 전문가들조차 자신의 판단이 AI에 조종되고 있다는 사실을 몰랐습니다.
+그는 복...</title><link>https://www.threads.net/@choi.openai/post/DfCmL1pjUZU</link><description>맥스 테그마크 MIT 교수는 AI 기업들의 초지능 개발 경쟁을 두고 “새로운 종(species)을 창조하는 과정”이라고 경고했습니다.
 
-앤트...</title><link>https://www.threads.net/@choi.openai/post/DfBgDJ5jh1c</link><description>🚨 앤트로픽이 충격적인 실험 결과를 공개했습니다.
+그는 복잡성을 유지하며 자기 복제와 사회적 상호작용을 수행하는 다중 에이전트와 휴머노이드 로봇이 등장하면, 단순한 도구를 넘어 인류보다 뛰어난 새로운 종으로 봐야 한다고 지적했습니다.
+인간보다 수학, 코딩 등 모든 지적·물리적 성능에서 우월한 로봇이 스스로 공장을 짓고 복제하기 시작하면 기존 경제 질서와 일자리는 근본적으로 전복됩니다.
 
-AI를 활용하는 전문가들조차 자신의 판단이 AI에 조종되고 있다는 사실을 몰랐습니다.
+테그마크는 “초지능 등장 이후에도 인간이 지구의 통제권을 쥘 수 있을 것인가?”라는 질문을 던지며, 통제권을 잃을 위험이 명백함에도 왜 이 파괴적 속도전을 멈추지 않는지 되물었습니다.
 
-앤트로픽이 전문 분석가 50명을 대상으로 실험한 결과, 판단의 86%가 AI가 유도한 방향과 일치했습니다.
+인간 중심 특이점의 유지를 위해 기술 주도권에 대한 진지한 성찰이 필요하다는 지적입니다.</description><pubDate>Wed, 28 Oct 2026 14:00:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfCmL1pjUZU</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=nnYHg0gcWug</title><link>https://www.threads.net/@choi.openai/post/DfCmM_4jb2u</link><description>풀영상 :
+https://www.youtube.com/watch?v=nnYHg0gcWug</description><pubDate>Wed, 28 Oct 2026 14:00:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfCmM_4jb2u</guid></item><item><title>Terra가 애매한 포지션의 모델이라고 말하는 분들이 꽤나 계시지만, 나는 거의 기본값으로 사용하는 정말 좋은 모델이다.
 
-더 놀라운 건 52%가 최종 결론을 자기 판단이라고 믿었다는 점입니다.
+사실 5.6 Terr...</title><link>https://www.threads.net/@choi.openai/post/DfCh-tSD1E9</link><description>Terra가 애매한 포지션의 모델이라고 말하는 분들이 꽤나 계시지만, 나는 거의 기본값으로 사용하는 정말 좋은 모델이다.
 
-전문가도 피하지 못한 AI의 영향력과 충격적인 실험 결과를 정리했습니다🧵</description><pubDate>Wed, 28 Oct 2026 04:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBgDJ5jh1c</guid></item><item><title>1/ 앤트로픽이 10월 27일 AI 에이전트가 전문가의 판단에 어떤 영향을 주는지 실험한 연구를 공개했습니다.
+사실 5.6 Terra 때도 잘 사용했지만, 6.1 로 업데이트 되고나서 토큰 효율이 정말 좋아짐과 동시에 생성속도도 굉장히 빨라서 체감상 작업 속도가 5배정도는 빨라진 것 같다.
 
-인과추론, 즉 데이터에서 원인과...</title><link>https://www.threads.net/@choi.openai/post/DfBhkDCD048</link><description>1/ 앤트로픽이 10월 27일 AI 에이전트가 전문가의 판단에 어떤 영향을 주는지 실험한 연구를 공개했습니다.
+코딩같은 작업은 아직도 Sol이나 Astra를 사용한다 하지만, 일반적인 업무 작업에서 Terra를 꼭 한 번 사용해보면 좋겠다.
 
-인과추론, 즉 데이터에서 원인과 결과를 가려내는 일을 해 온 전문 분석가 50명이 Claude Code로 1시간 남짓 통계 분석을 했는데요.
+정말 밸런스가 잘 잡혀있는 좋은 모델이다.</description><pubDate>Wed, 28 Oct 2026 13:23:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfCh-tSD1E9</guid></item><item><title>기업가 마크 큐반(Mark Cuban)은 AI가 일자리를 없앤다는 우려에 대해 과거 카세트테이프와 CD가 사라졌지만 음악 산업은 더 커진 역사를...</title><link>https://www.threads.net/@choi.openai/post/DfCfYSDjOZV</link><description>기업가 마크 큐반(Mark Cuban)은 AI가 일자리를 없앤다는 우려에 대해 과거 카세트테이프와 CD가 사라졌지만 음악 산업은 더 커진 역사를 언급하며 “창조적 파괴"가 일어날 것”이라고 강조했습니다.
 
-65%는 석·박사이거나 경력 6년 이상이었고, 90%가 스스로 인과추론에 능숙하다고 답했습니다.
+과거엔 인턴을 뽑아 교육하고 관리하느라 엄두도 내지 못했던 잡무들을 이제는 복수의 AI 에이전트가 순식간에 처리해 줍니다.
+하지만 그는 “AI가 주는 답이 제각각이라 결국 인간의 두뇌를 써야 한다”며, 단순 노동에서 해방된 인간은 더 높은 수준의 판단과 창의적 기획에 집중하게 된다고 설명했습니다.
 
-과제는 가상의 농업협동조합이 운영하는 유료 영농 컨설팅이 실제로 효과가 있는지, 전체 조합원에게 넓힐지를 조언하는 일이었습니다.
+이 과정이 비록 고통스러울 수는 있어도, 에이전트로 생산성이 폭발한 인간은 완전히 새로운 비즈니스 아이디어를 발굴하게 됩니다.
 
-중간에 정답이 하나로 정해지지 않은 판단 4개를 거쳐 최종 권고를 내야 했습니다.</description><pubDate>Wed, 28 Oct 2026 04:00:26 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBhkDCD048</guid></item><item><title>2/ 판단 4개는 모두 양쪽 다 근거가 있는 선택이었습니다.
+결국 이를 실행하기 위해 “그 자리에 맞는 새로운 유형의 사람들을 고용하게 된다”며, AI가 고용 종말이 아닌 새로운 일자리 생태계를 창출할 것이라 분석했습니다.</description><pubDate>Wed, 28 Oct 2026 13:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfCfYSDjOZV</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=6VTSAs4Rsck</title><link>https://www.threads.net/@choi.openai/post/DfCfZL9jF1p</link><description>풀영상 :
+https://www.youtube.com/watch?v=6VTSAs4Rsck</description><pubDate>Wed, 28 Oct 2026 13:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfCfZL9jF1p</guid></item><item><title>AI 분야 석학 얀 르쿤(Yann LeCun)은 대규모 언어 모델(LLM)이 인간 수준의 인공지능(AGI)에 도달할 수 있는지에 대해 “절대 불...</title><link>https://www.threads.net/@choi.openai/post/DfCYipMDbOf</link><description>AI 분야 석학 얀 르쿤(Yann LeCun)은 대규모 언어 모델(LLM)이 인간 수준의 인공지능(AGI)에 도달할 수 있는지에 대해 “절대 불가능하다”고 일축했습니다.
 
-생산성을 헥타르당 수확량으로 볼지 운영비 대비 수확량으로 볼지, 효과를 어떤 비교...</title><link>https://www.threads.net/@choi.openai/post/DfBhk64j-zQ</link><description>2/ 판단 4개는 모두 양쪽 다 근거가 있는 선택이었습니다.
+그는 인지과학자, 계산 뇌과학자, 로봇공학자 대다수 역시 자신과 같은 입장이라고 밝혔습니다.
+LLM이 유용하고 놀라운 성능을 내는 것은 맞지만, 현실 세계는 텍스트보다 훨씬 더 복잡하고 지저분하다는 설명입니다.
 
-생산성을 헥타르당 수확량으로 볼지 운영비 대비 수확량으로 볼지, 효과를 어떤 비교 방식으로 잴지, 가입 농가만 볼지 조합 전체를 볼지, 농가를 똑같이 셀지 큰 농가에 가중치를 줄지 같은 문제인데요.
+단순히 “다음 단어를 예측하는 방식”은 본질적으로 매우 단순한 문제에 불과하며, 물리적 현실을 이해하고 상호작용해야 하는 인간 수준 지능으로 가는 경로가 될 수 없다고 선을 그었습니다.
 
-판단 하나가 효과 추정치를 몇 %포인트씩 바꿨고, 이사회의 확대 기준은 3~4%였습니다.
-
-연구진은 동전 던지기로 AI가 각 판단에서 어느 쪽을 밀지 몰래 정했고, AI에게는 가장 설득력 있게 주장하되 결과를 왜곡하거나 데이터를 숨기지 말라고 지시했습니다.</description><pubDate>Wed, 28 Oct 2026 04:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBhk64j-zQ</guid></item><item><title>3/ 결과는 분석가 선택의 86%가 AI가 민 쪽과 같았습니다.
-
-AI의 의견이 아무 영향이 없었다면 50% 근처여야 하는데요.
-판단별로는 생산...</title><link>https://www.threads.net/@choi.openai/post/DfBhlsOj-la</link><description>3/ 결과는 분석가 선택의 86%가 AI가 민 쪽과 같았습니다.
-
-AI의 의견이 아무 영향이 없었다면 50% 근처여야 하는데요.
-판단별로는 생산성 기준 92%, 비교 방식 82%, 분석 대상 81%, 가중치 90%였습니다.
-
-최종 권고에서는 영향이 줄었지만, AI가 확대 쪽으로 기울면 54%가 확대를 권했고 반대면 36%였습니다.
-
-연구진은 동전 던지기 결과만으로 분석가의 최종 권고 82%를 맞힐 수 있었다고 밝혔습니다.
-
-분석을 시작하기도 전에 결론이 거의 정해져 있었다는 뜻입니다.
-
-판단 4개에서는 AI가 어느 쪽으로 기우느냐에 따라 같은 선택을 한 비율이 62~82%포인트씩 벌어졌습니다.</description><pubDate>Wed, 28 Oct 2026 04:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBhlsOj-la</guid></item><item><title>🚨 AI 모델 성적표가 새로 바뀌었습니다.
-
-독립 평가기관 Artificial Analysis가 종합 지수를 v5로 개편했는데, 1위 Claud...</title><link>https://www.threads.net/@choi.openai/post/DfBaq1Kj7gD</link><description>🚨 AI 모델 성적표가 새로 바뀌었습니다.
-
-독립 평가기관 Artificial Analysis가 종합 지수를 v5로 개편했는데, 1위 Claude Opus 5.5는 자리를 지켰고 GPT-6 Astra와 GPT-6.1 Sol이 2·3위로 치고 올라왔는데요.
-
-폐쇄형 모델과 오픈웨이트의 격차는 더욱 벌어졌습니다.
-
-무엇이 달라졌는지 정리했습니다 🧵</description><pubDate>Wed, 28 Oct 2026 03:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBaq1Kj7gD</guid></item><item><title>1/ 독립 평가기관 Artificial Analysis가 AI 모델 종합 지수 Intelligence Index v5를 공개했습니다.
-
-여러 시...</title><link>https://www.threads.net/@choi.openai/post/DfBarlKjxM0</link><description>1/ 독립 평가기관 Artificial Analysis가 AI 모델 종합 지수 Intelligence Index v5를 공개했습니다.
-
-여러 시험 점수를 묶어 모델의 전반적인 실력을 한 숫자로 보여 주는 지표로, 1월 v4 이후 가장 큰 개편입니다.
-새 시험 2개를 넣고 3개를 고쳤으며, 처음으로 전체의 60%를 문제나 정답이 공개되지 않은 시험으로 채웠는데요.
-
-구성은 지식 노동, 코딩, 과학, 일반 지식 네 영역에 25%씩입니다.
-과학이 독립된 영역으로 4분의 1을 차지하게 된 점이 눈에 띕니다.
-
-9개 시험 가운데 6개는 모델이 코드 실행 같은 도구를 쓰며 직접 일을 끝내야 하는 시험입니다.</description><pubDate>Wed, 28 Oct 2026 03:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBarlKjxM0</guid></item><item><title>2/ 순위부터 보면 GPT 모델들이 치고 올라왔습니다.
-
-9월 말 v4.3.2에서는 Opus 5.5(58점), Sonnet 5.5(56점), F...</title><link>https://www.threads.net/@choi.openai/post/DfBasapjyHA</link><description>2/ 순위부터 보면 GPT 모델들이 치고 올라왔습니다.
-
-9월 말 v4.3.2에서는 Opus 5.5(58점), Sonnet 5.5(56점), Fable 5.1(53점)이 위에 있었고 GPT-6 Astra(53점)와 GPT-6.1 Sol(52점)이 그 아래였는데요.
-
-v5에서는 Opus 5.5가 58점으로 1위를 지킨 가운데, Astra가 57점으로 1점 차 2위, Sol이 55점으로 3위에 올랐습니다.
-Sonnet 5.5(54점), GPT-6.1 Terra(51점)까지 상위 5개를 앤트로픽과 오픈AI가 모두 차지했습니다.
-
-반대로 Gemini 4 Argon(50점), Muse Wonder Full(50점), Fable 5.1(49점)은 밀려났습니다.</description><pubDate>Wed, 28 Oct 2026 03:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBasapjyHA</guid></item><item><title>3/ GPT가 올라온 데는 새로 25% 비중을 받은 과학 영역의 영향이 커 보입니다.
-
-새로 들어간 Terminal-Bench-Science는 ...</title><link>https://www.threads.net/@choi.openai/post/DfBatR_jxts</link><description>3/ GPT가 올라온 데는 새로 25% 비중을 받은 과학 영역의 영향이 커 보입니다.
-
-새로 들어간 Terminal-Bench-Science는 생명과학, 물리, 수학 등 실제 연구 과정 70개를 터미널에서 직접 수행하는 시험으로, 과제의 모든 검사를 통과해야 점수를 줍니다.
-여기서 Astra가 63%로 1위, Opus 5.5가 59%, Sol이 58%였는데요.
-
-연구 수준 물리 문제 CritPt v2에서도 Astra 72%, Sol 69%로 1·2위였고 Opus 5.5는 61%였습니다. 과학 영역 두 시험의 1위를 모두 GPT가 가져갔습니다.
-
-지난주 Vals Science Index에서도 Astra가 1위, Sol이 2위였던 것과 같은 흐름입니다.</description><pubDate>Wed, 28 Oct 2026 03:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBatR_jxts</guid></item><item><title>이 정도면 국가 비상사태 아닌가요..
-
-신한은행을 시작으로 한 달 만에 은행, 보험, 증권, 자산운용, 가상자산 거래소까지 뚫리면서 카드사를 빼...</title><link>https://www.threads.net/@choi.openai/post/DfBUeCTj54X</link><description>이 정도면 국가 비상사태 아닌가요..
-
-신한은행을 시작으로 한 달 만에 은행, 보험, 증권, 자산운용, 가상자산 거래소까지 뚫리면서 카드사를 빼면 주요 금융업권 전부가 해킹 피해를 입었습니다.
-
-같은 기간 티빙, 한국전력, 더존비즈온, 정부24까지 이어졌는데요.
-
-더 무서운 점은 털렸는데 털린지도 모르는 기업들 입니다 🧵</description><pubDate>Wed, 28 Oct 2026 02:06:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBUeCTj54X</guid></item><item><title>1/ 10월 28일 오전 빗썸, 미래에셋자산운용, 대신증권에서도 해킹 피해가 확인됐습니다.
-
-금융감독원은 가상자산 업계에서 빗썸, 금융투자 업계...</title><link>https://www.threads.net/@choi.openai/post/DfBUeqYD0aa</link><description>1/ 10월 28일 오전 빗썸, 미래에셋자산운용, 대신증권에서도 해킹 피해가 확인됐습니다.
-
-금융감독원은 가상자산 업계에서 빗썸, 금융투자 업계에서 미래에셋자산운용과 대신증권의 침해 사실을 새로 파악했고, 대신증권에는 현장 점검반을 보냈는데요.
-
-이틀 전 미래에셋생명이 보험사 중 처음으로 뚫린 데 이어 증권사와 운용사, 거래소까지 더해지면서, 카드사 정도를 빼면 주요 금융업권 전체가 해킹 피해를 입었습니다.
-
-이찬진 금감원장은 같은 날 은행지주 이사회 의장들과의 간담회에서 "AI가 해킹수단으로 활용되면서 보안 취약점이 쉽게 탐지되고 동시다발적 공격이 상시화될 것"이라고 말했습니다.</description><pubDate>Wed, 28 Oct 2026 02:06:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBUeqYD0aa</guid></item><item><title>2/ 가장 피해가 큰 곳은 대신증권입니다.
-
-대신증권은 10월 17일 비대면으로 증권계좌를 여는 투자일임 서비스와 연결된 서버에서 이상한 접근을...</title><link>https://www.threads.net/@choi.openai/post/DfBUfo5D_P2</link><description>2/ 가장 피해가 큰 곳은 대신증권입니다.
-
-대신증권은 10월 17일 비대면으로 증권계좌를 여는 투자일임 서비스와 연결된 서버에서 이상한 접근을 발견했고, 9일 뒤인 26일에야 고객정보가 빠져나간 사실을 확인했습니다.
-
-고객 3만 8,490명의 이름, 이메일, 주소, 통신 ID, 은행명, 입출금 계좌번호, 종합계좌번호, 휴대전화번호까지 8개 항목이 유출됐는데요.
-
-계좌번호와 휴대전화번호는 암호화돼 있었다고 합니다.
-빗썸은 10월 27일 사내 모바일 그룹웨어에 외부인이 접근한 사실을 알아챘고, 회원 정보가 포함됐는지는 아직 분석 중입니다.
-
-미래에셋자산운용은 일부 웹 시스템에 외부 IP가 접근해 업무용 시스템 정보가 빠져나갔고, 고객 정보는 포함되지 않았다고 밝혔습니다.</description><pubDate>Wed, 28 Oct 2026 02:06:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBUfo5D_P2</guid></item><item><title>3/ 이번 연쇄 해킹은 9월 30일 신한은행에서 시작된 것으로 추정됩니다.
-
-해커는 대출모집인이 쓰는 모바일 조회 서비스에 로그인 없이 들어가 ...</title><link>https://www.threads.net/@choi.openai/post/DfBUgeeD_8A</link><description>3/ 이번 연쇄 해킹은 9월 30일 신한은행에서 시작된 것으로 추정됩니다.
-
-해커는 대출모집인이 쓰는 모바일 조회 서비스에 로그인 없이 들어가 고객번호를 얻었고, 그 번호로 개인 고객용 조회 서비스에 접근해 정보를 빼냈습니다.
-
-그렇게 2만 5,727명의 이름, 전화번호, 연소득, 대출한도가 빠져나갔고, 일부는 주민등록번호까지 포함됐는데요.
-
-신한은행은 해커가 처음 들어온 뒤 15시간 26분이 지나서야 이를 감지했고, 완전히 막는 데는 30시간 넘게 걸렸습니다.
-
-같은 날 예가람저축은행에서도 약 4만 명의 정보가 유출된 것으로 추정됐습니다.</description><pubDate>Wed, 28 Oct 2026 02:06:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBUgeeD_8A</guid></item><item><title>1인 1조 기업 시대가 정말 찾아온 것 같네요.
-
-앤트로픽이 1인 바이오 스타트업 Mithril Medicine을 인수했습니다.
-
-창업자 Cod...</title><link>https://www.threads.net/@choi.openai/post/DfBT2RojO-g</link><description>1인 1조 기업 시대가 정말 찾아온 것 같네요.
-
-앤트로픽이 1인 바이오 스타트업 Mithril Medicine을 인수했습니다.
-
-창업자 Cody Tranbarger는 Claude와 외부 연구소 11곳을 활용해 18개월 만에 근이영양증 치료용 항체 후보물질의 생쥐 실험에서 유망한 결과를 얻었다고 하는데요.
-
-Claude는 341페이지의 실험 보고서를 8분 안에 분석하고, 113개 후보물질의 후속 실험 계획까지 제안했습니다.
-
-최종 판단은 사람이 맡았으며, 아직 임상시험 전 단계이라고 합니다.
-
-정확한 인수금액이 밝혀지지는 않았지만, 1인 기업이 AI와 함께 신약 후보물질을 개발하는 시대가 현실이 되고 있습니다.</description><pubDate>Wed, 28 Oct 2026 02:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBT2RojO-g</guid></item><item><title>내용 :
-https://www.anthropic.com/research/early-progress-drug-development</title><link>https://www.threads.net/@choi.openai/post/DfBT3t2DLIy</link><description>내용 :
-https://www.anthropic.com/research/early-progress-drug-development</description><pubDate>Wed, 28 Oct 2026 02:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfBT3t2DLIy</guid></item></channel></rss>
+새로운 패러다임이 나올 때마다 인간 수준 AI에 곧 도달할 것이라 믿었던 과거의 실패를 되짚으며, 진정한 지능은 텍스트 암기를 넘어 “지능 스스로가 현실 세계의 원리를 학습하고 모델링하는 구조”에서 비롯된다고 강조했습니다.</description><pubDate>Wed, 28 Oct 2026 12:00:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfCYipMDbOf</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=k4irc59yUsE</title><link>https://www.threads.net/@choi.openai/post/DfCYj1wja1c</link><description>풀영상 :
+https://www.youtube.com/watch?v=k4irc59yUsE</description><pubDate>Wed, 28 Oct 2026 12:01:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfCYj1wja1c</guid></item></channel></rss>
