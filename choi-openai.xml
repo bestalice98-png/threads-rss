@@ -1,96 +1,91 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 03 Nov 2026 05:31:04 +0000</lastBuildDate><item><title>Claude와 긴 대화를 나눌 때 응답 속도가 더 빨라집니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 03 Nov 2026 15:51:02 +0000</lastBuildDate><item><title>중국 항저우 마라톤 현장에 투입된 로봇경찰</title><link>https://www.threads.net/@choi.openai/post/DfSNTLmgSJG</link><description>중국 항저우 마라톤 현장에 투입된 로봇경찰</description><pubDate>Tue, 03 Nov 2026 15:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfSNTLmgSJG</guid></item><item><title>정말 읽을 가치가 높은 글입니다.
 
-앤트로픽이 Messages API에 'Message threads' 기능을 공개...</title><link>https://www.threads.net/@choi.openai/post/DfQ-Y5hj6MF</link><description>Claude와 긴 대화를 나눌 때 응답 속도가 더 빨라집니다.
+Claude Code를 만드는 앤트로픽 엔지니어가, 에이전트에게 일을 맡길수록 그 일을 감독할 실력부터 잃는...</title><link>https://www.threads.net/@choi.openai/post/DfSD659D3MA</link><description>정말 읽을 가치가 높은 글입니다.
 
-앤트로픽이 Messages API에 'Message threads' 기능을 공개 베타로 추가했는데요.
+Claude Code를 만드는 앤트로픽 엔지니어가, 에이전트에게 일을 맡길수록 그 일을 감독할 실력부터 잃는다고 경고했습니다.
 
-기존에는 질문할 때마다 전체 대화 기록을 다시 전송해야 했지만, 이제 서버에 기록을 저장해 새 메시지와 이전 메시지 ID만 보내면 됩니다.
+테스트는 초록불이고 코드는 깔끔하니 600줄짜리 변경도 구조만 훑고 승인하게 된다는 건데요.
 
-Claude Code에도 적용됐으며, 50만~100만 토큰 요청에서 응답 시작 시간이 약 35% 줄었습니다.
+그는 이를 '인지적 항복'이라고 부르며 이렇게 적었습니다.
 
-긴 대화의 요청 데이터 크기도 약 800KB에서 1.8KB로 감소했다고 합니다.</description><pubDate>Tue, 03 Nov 2026 04:00:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQ-Y5hj6MF</guid></item><item><title>블로그 :
-https://claude.com/ko/resources/articles/message-threads</title><link>https://www.threads.net/@choi.openai/post/DfQ-aTDj1Hk</link><description>블로그 :
-https://claude.com/ko/resources/articles/message-threads</description><pubDate>Tue, 03 Nov 2026 04:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQ-aTDj1Hk</guid></item><item><title>오픈AI CEO 샘 알트만은 “질의당 소모 에너지는 극적으로 줄어들고 있다”고 밝혔습니다.
+"감당할 수 있는 것보다 많이 만들고 있다면 더는 검토하고 있는 게 아닙니다. 바라고 있을 뿐입니다." 🧵</description><pubDate>Tue, 03 Nov 2026 14:08:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfSD659D3MA</guid></item><item><title>1/ Claude Code 팀의 애디 오스마니가 'Critical thinking when agents do the work'라는 장문을 올렸고...</title><link>https://www.threads.net/@choi.openai/post/DfSD7tHD9Gd</link><description>1/ Claude Code 팀의 애디 오스마니가 'Critical thinking when agents do the work'라는 장문을 올렸고, 하루가 지나기 전에 조회수 20만 회를 넘겼습니다.
 
-불과 몇 년 전보다 수천 배에서 수십만 배 이상 효...</title><link>https://www.threads.net/@choi.openai/post/DfQ-SfFES7E</link><description>오픈AI CEO 샘 알트만은 “질의당 소모 에너지는 극적으로 줄어들고 있다”고 밝혔습니다.
+구글에서 14년 넘게 크롬 개발자 도구를 이끌다 앤트로픽으로 옮긴 엔지니어인데요. 
 
-불과 몇 년 전보다 수천 배에서 수십만 배 이상 효율이 개선되었지만, 효율이 높아질수록 사람들은 AI를 훨씬 더 많이 쓰길 원한다는 분석입니다.
+그는 에이전트 여러 개를 동시에 돌리는 방식을 적극 지지한다고 먼저 밝혔습니다.
 
-그는 6년 전 전 세계 1위 사용자의 월간 토큰 소비량이 10만 개였으나, 현재는 1인당 평균 사용량이 10만 개에 달하고 최상위 사용자는 “월 5,000억 토큰”을 쓴다고 짚었습니다.
+걱정하는 건 모델이 좋아질수록 눈에 띄는 오류가 줄어 다시 들여다볼 이유가 사라진다는 점이고, 에이전트를 몇 개 돌리든 결과를 보는 눈은 한 쌍뿐이라는 점입니다.
 
-알트만은 에너지 수요 증가 이상으로 AI가 에너지 혁신에 기여해 순이익을 안겨줄 것이라고 강조했습니다.
+지난달 그가 함께 쓴 Claude Code 팀의 코드 리뷰 글을 정리해 드렸는데요.
+Claude가 코드의 90%를 쓰고 코드 읽는 일 대부분도 기계에 넘긴 그 팀에서 나온 경고입니다.</description><pubDate>Tue, 03 Nov 2026 14:08:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfSD7tHD9Gd</guid></item><item><title>2/ 그는 사람이 AI에 기대는 정도를 세 단계로 나눴습니다.
 
-기술 효율 개선이 사용량 폭증으로 이어지는 제번스의 역설 속에서, 폭발하는 토큰 경제와 막대한 인프라 확장이 특이점을 향한 경제적 동력이 되고 있습니다.</description><pubDate>Tue, 03 Nov 2026 04:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQ-SfFES7E</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=2YWfVGpVtvc</title><link>https://www.threads.net/@choi.openai/post/DfQ-T0REV-w</link><description>풀영상 :
-https://www.youtube.com/watch?v=2YWfVGpVtvc</description><pubDate>Tue, 03 Nov 2026 04:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQ-T0REV-w</guid></item><item><title>오픈AI도 Git을 직접 다시 만들었습니다.
+맨 위는 일을 맡기되 결과의 주인은 내가 되는 '위임'으로, 그는 하루 종일 이...</title><link>https://www.threads.net/@choi.openai/post/DfSD8qljygZ</link><description>2/ 그는 사람이 AI에 기대는 정도를 세 단계로 나눴습니다.
 
-Codex 때문에 사내 코드 저장소가 버티지 못하자 10주 만에 새 Git 백엔드 Pando를 만...</title><link>https://www.threads.net/@choi.openai/post/DfQz_-yjf_o</link><description>오픈AI도 Git을 직접 다시 만들었습니다.
+맨 위는 일을 맡기되 결과의 주인은 내가 되는 '위임'으로, 그는 하루 종일 이렇게 일하고 다들 그래야 한다고 적었습니다.
 
-Codex 때문에 사내 코드 저장소가 버티지 못하자 10주 만에 새 Git 백엔드 Pando를 만들었는데요.
+가운데는 AI의 출력이 그대로 내 다음 입력이 되는 '추종'으로, 결과를 더 이상 확인할 가설로 보지 않는 단계입니다.
 
-푸시 지연은 80% 줄었고, 하루 1페타바이트 가까운 코드 데이터를 처리합니다.
+맨 아래가 '인지적 항복'으로, AI의 출력이 조용히 내 것이 되고 확인할 필요조차 느끼지 못합니다.
 
-지난달 앤트로픽에 이어 두 번째입니다 🧵</description><pubDate>Tue, 03 Nov 2026 02:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQz_-yjf_o</guid></item><item><title>1/ 오픈AI가 사내 모노레포(하나의 거대한 코드 저장소)를 위한 새 Git 백엔드 Pando를 공개했습니다.
+아래로 내려가는 과정은 한 걸음씩 다 그럴듯해서 알아채기 어렵습니다.
 
-엔지니어와 에이전트가 쓰는 Gi...</title><link>https://www.threads.net/@choi.openai/post/DfQ0DeUDyVK</link><description>1/ 오픈AI가 사내 모노레포(하나의 거대한 코드 저장소)를 위한 새 Git 백엔드 Pando를 공개했습니다.
+지난번 답이 좋았으니 다음 답은 훑고, 그다음은 뼈대만 보다가, 어느 날 누가 한 줄을 물으면 에이전트 도움을 받아도 설명하지 못하게 됩니다.</description><pubDate>Tue, 03 Nov 2026 14:08:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfSD8qljygZ</guid></item><item><title>3/ 이렇게 쌓이는 게 '이해 부채'입니다.
 
-엔지니어와 에이전트가 쓰는 Git 명령은 그대로 두고, 그 뒤에서 코드를 받고 내보내는 서버만 새로 만들었는데요.
+코드는 깔끔하고 테스트도 통과하니 그 순간에는 문제가 보이지 않다가, 시스템을 고쳐야 할 때가 와...</title><link>https://www.threads.net/@choi.openai/post/DfSD90TDznn</link><description>3/ 이렇게 쌓이는 게 '이해 부채'입니다.
 
-이유는 Codex였습니다. 엔지니어 한 명이 여러 변경을 동시에 CI에 올리고, 푸시 하나가 같은 코드를 내려받는 작업 여러 개를 불러오면서 부담이 겹겹이 쌓였습니다.
+코드는 깔끔하고 테스트도 통과하니 그 순간에는 문제가 보이지 않다가, 시스템을 고쳐야 할 때가 와서야 아무도 그 시스템을 이해하지 못한다는 사실이 드러납니다.
 
-작년 말부터 코드 받기와 올리기가 느려지고 병합이 실패하면서, 저장소 신뢰도가 한때 90% 아래로 떨어졌다고 밝혔습니다.</description><pubDate>Tue, 03 Nov 2026 02:30:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQ0DeUDyVK</guid></item><item><title>2/ Pando는 두 가지를 바꿨습니다.
+다만 그는 큰 코드베이스 전체를 머릿속에 담는 건 불가능하다고 인정했습니다.
 
-먼저 브랜치마다 업데이트를 따로 처리합니다.
-서로 다른 브랜치에 올리는 코드는 동시에 반영하고, 같은...</title><link>https://www.threads.net/@choi.openai/post/DfQ0Es9D1Bo</link><description>2/ Pando는 두 가지를 바꿨습니다.
+Claude Code 팀도 어떤 부분을 이해해야 할 때 Claude에게 그 부분을 설명하게 해서 이해를 그때그때 다시 쌓는다고 합니다.
 
-먼저 브랜치마다 업데이트를 따로 처리합니다.
-서로 다른 브랜치에 올리는 코드는 동시에 반영하고, 같은 브랜치에 올릴 때만 순서를 맞추는데요.
-대신 여러 브랜치를 한꺼번에 보면 각자 다른 시점일 수 있다는 점은 받아들였습니다.
+그가 그은 선은 에이전트 도움을 받아도 답을 설명하지 못하면 그 일의 주인 자리를 넘긴 것이라는 기준입니다.
 
-다음은 읽기입니다.
-기존 Git 서버는 코드를 받으러 온 사람마다 압축 파일을 새로 만들었는데, Pando는 이미 저장해 둔 압축 파일을 여러 사람에게 그대로 다시 보냅니다.
+강의 녹화 장소로 쓸 호텔 고르기는 AI에 통째로 맡겼지만, 돈을 어디에 투자할지, 무엇을 만들고 배포해도 안전한지는 판단을 쥐고 있겠다고 적었습니다.</description><pubDate>Tue, 03 Nov 2026 14:08:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfSD90TDznn</guid></item><item><title>🚨 AI가 다른 AI의 뇌를 고친 실험이 공개 하루 만에 재현됐습니다.
 
-지역별 캐시 적중률이 99%를 넘어, 오픈AI는 CDN처럼 빠르다고 설명했습니다.</description><pubDate>Tue, 03 Nov 2026 02:30:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQ0Es9D1Bo</guid></item><item><title>3/ 바꾼 뒤 숫자가 크게 달라졌습니다.
+그런데 재현한 연구자가 더 놀라운 결과를 하나 덧붙였는데요.
 
-코드를 올리는 푸시 시간은 중간 기준 약 80% 줄었고, 하루 병합 성공률은 전환 전 87%까지 떨어...</title><link>https://www.threads.net/@choi.openai/post/DfQ0FmPjwPU</link><description>3/ 바꾼 뒤 숫자가 크게 달라졌습니다.
+이 능력...</title><link>https://www.threads.net/@choi.openai/post/DfR77N1D4Uu</link><description>🚨 AI가 다른 AI의 뇌를 고친 실험이 공개 하루 만에 재현됐습니다.
 
-코드를 올리는 푸시 시간은 중간 기준 약 80% 줄었고, 하루 병합 성공률은 전환 전 87%까지 떨어진 날도 있었는데, 전환 뒤에는 거의 100%로 안정됐습니다.
+그런데 재현한 연구자가 더 놀라운 결과를 하나 덧붙였는데요.
 
-하루 1페타바이트 가까운 Git 데이터도 CPU 코어 몇 개로 내보내고 있는데요.
-한 시간에 57테라바이트를 보낸 적도 있는데, 그중 99% 이상이 지역 캐시에서 나갔습니다.
+이 능력이 오픈AI와 앤트로픽의 가장 최신 모델에서만 갑자기 나타났다는 겁니다 🧵</description><pubDate>Tue, 03 Nov 2026 12:58:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfR77N1D4Uu</guid></item><item><title>1/ 앞서 MIT 연구진이 GPT-6 Astra에게 작은 모델 Qwen3.5-0.8B의 숫자를 직접 고치게 해, 학습 없이 수학 정답률을 7.9...</title><link>https://www.threads.net/@choi.openai/post/DfR772mD957</link><description>1/ 앞서 MIT 연구진이 GPT-6 Astra에게 작은 모델 Qwen3.5-0.8B의 숫자를 직접 고치게 해, 학습 없이 수학 정답률을 7.9%에서 48.1%로 올린 결과를 소개해 드렸는데요.
 
-전환 무렵 하루 300테라바이트 안팎이던 전송량은 몇 주 만에 800테라바이트를 넘었습니다.</description><pubDate>Tue, 03 Nov 2026 02:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQ0FmPjwPU</guid></item><item><title>🚨 와.. 이제 AI가 다른 AI의 뇌를 직접 고칩니다.
+하루 만에 재현 결과가 잇따라 나왔습니다.
+허깅페이스 쪽 연구자가 연구진이 공개한 실험 기록만으로 고친 모델을 다시 만들어 수학 시험 MATH-500에서 51.0%를 확인했고, 연구진은 이 모델을 허깅페이스에 공개했습니다.
 
-MIT 연구진이 GPT-6 Astra에게 작은 모델 Qwen3.5-0.8B의 수학 실...</title><link>https://www.threads.net/@choi.openai/post/DfQpsiUj2Y1</link><description>🚨 와.. 이제 AI가 다른 AI의 뇌를 직접 고칩니다.
+원 연구에 쓴 비용이 1,000달러(약 141만 원) 수준이었던 만큼, 다른 사람이 따라 해 보기도 그만큼 쉬웠던 셈입니다.</description><pubDate>Tue, 03 Nov 2026 12:58:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfR772mD957</guid></item><item><title>2/ 더 눈길을 끈 건 모델 세대별로 다시 잰 결과입니다.
 
-MIT 연구진이 GPT-6 Astra에게 작은 모델 Qwen3.5-0.8B의 수학 실력을 올려 달라고 했는데요.
+UC버클리 박사과정이자 구글 리서치 선임 연구원인 알렉스 크렌첼이 원 연구의 '벽돌...</title><link>https://www.threads.net/@choi.openai/post/DfR782cj6xV</link><description>2/ 더 눈길을 끈 건 모델 세대별로 다시 잰 결과입니다.
 
-학습 없이 가중치 0.016%만 고쳐 수학 정답률을 7.9%에서 48.1%로 올렸습니다 🧵</description><pubDate>Tue, 03 Nov 2026 01:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQpsiUj2Y1</guid></item><item><title>1/ MIT CSAIL 연구진이 'Weight-Space Programming(가중치 공간 프로그래밍)' 실험 결과를 공개했습니다.
+UC버클리 박사과정이자 구글 리서치 선임 연구원인 알렉스 크렌첼이 원 연구의 '벽돌깨기 AI 처음부터 쓰기' 실험을 같은 프롬프트, 같은 채점으로 여러 세대 모델에 돌렸는데요.
+각 모델이 숫자 2만 486개를 학습 없이 한 번에 써 내야 합니다.
 
-AI 모델...</title><link>https://www.threads.net/@choi.openai/post/DfQptH0D622</link><description>1/ MIT CSAIL 연구진이 'Weight-Space Programming(가중치 공간 프로그래밍)' 실험 결과를 공개했습니다.
+GPT-5.5와 Opus 4.8까지는 5억 번 움직이며 학습한 AI 점수에도 못 미쳤고, GPT-5.6 Sol과 Opus 5도 그 1~3배 수준이었습니다.
 
-AI 모델의 실력은 수억~수조 개 숫자, 즉 가중치에 담겨 있는데요.
-지금까지 이 숫자는 사람이 직접 고칠 수 없어서 경사하강법 같은 학습 알고리즘이 데이터를 반복해 보며 조금씩 바꿔 왔습니다.
+그런데 GPT-6.1 Sol이 18배, GPT-6 Astra가 22배, Opus 5.5가 20배로 갑자기 뛰었습니다.
 
-연구진은 GPT-6 Astra에게 학습 없이 이 숫자를 코드처럼 직접 읽고, 고치고, 처음부터 쓰게 했습니다.
+그는 최신 모델에서 처음 나타난 계단식 능력이라고 봤습니다.</description><pubDate>Tue, 03 Nov 2026 12:58:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfR782cj6xV</guid></item><item><title>3/ 오픈모델은 아직 이 능력이 약했습니다.
 
-프롬프트 최적화 도구 DSPy를 만든 오마르 카탑 교수가 함께했고, 그는 이번 연구에 든 비용이 모두 1,000달러(약 141만 원) 수준이었다고 밝혔습니다.</description><pubDate>Tue, 03 Nov 2026 01:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQptH0D622</guid></item><item><title>2/ 먼저 숫자만 보고 무엇을 배운 모델인지 맞히는지 시험했습니다.
+다른 연구자가 원 연구의 게임 세 개로 '가중치 쓰기 지수'를 만들어 비교했는데요.
+5억 번 학습...</title><link>https://www.threads.net/@choi.openai/post/DfR79u9j5yJ</link><description>3/ 오픈모델은 아직 이 능력이 약했습니다.
 
-구조와 입력, 행동이 똑같은 게임 신경망 4개의 가중치 1만 7,253개를...</title><link>https://www.threads.net/@choi.openai/post/DfQmT75FS4l</link><description>2/ 먼저 숫자만 보고 무엇을 배운 모델인지 맞히는지 시험했습니다.
+다른 연구자가 원 연구의 게임 세 개로 '가중치 쓰기 지수'를 만들어 비교했는데요.
+5억 번 학습한 AI(50점)를 넘은 건 GPT-6 Astra(60.7), 아직 출시 전인 Gemini 4 Carbon(57.7), Claude Opus 5.5(51.2) 셋뿐이었습니다.
 
-구조와 입력, 행동이 똑같은 게임 신경망 4개의 가중치 1만 7,253개를 숫자로만 보여 주고 어떤 게임인지 물었는데요.
-보기 없이도 Breakout, Pong, Pac-Man, Freeway를 모두 맞혔습니다.
-첫 층 가중치가 화면 맨 아래 줄에 몰린 걸 보고 바닥에서 움직이는 패들을 떠올리는 식이었습니다.
+오픈모델 가운데서는 Kimi K3.1 Pro가 29.8로 가장 높았고, Qwen3.8 12.5, DeepSeek V4.1 Flash 10.0, GLM-5.3 6.2에 그쳤습니다.
 
-이미지 생성 모델이 원·삼각형·사각형 중 무엇을 그리는지도 맞혔고, 입력·출력층을 떼어 낸 작은 언어모델이 파이썬, 로마자 일본어, 영어 중 무엇을 배웠는지까지 모두 구분했습니다.</description><pubDate>Tue, 03 Nov 2026 01:00:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQmT75FS4l</guid></item><item><title>3/ 고장 난 신경망도 고쳤습니다.
+이 능력에서는 폐쇄형 최상위 모델과 오픈모델의 차이가 꽤 벌어져 있습니다.</description><pubDate>Tue, 03 Nov 2026 12:58:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfR79u9j5yJ</guid></item><item><title>Phone Harness가 새로운 기능인 Phone Harness MCP를 공개했는데요.
 
-경사로를 넘어야 하는 자동차 신경망이 앞으로만 돌진하다 경사로에 걸려 멈추는 문제가 있었는데요.
-강화학습이...</title><link>https://www.threads.net/@choi.openai/post/DfQmUTtGr0-</link><description>3/ 고장 난 신경망도 고쳤습니다.
+Claude, ChatGPT, Cursor, Code...</title><link>https://www.threads.net/@choi.openai/post/DfRx3ZZiuPx</link><description>Phone Harness가 새로운 기능인 Phone Harness MCP를 공개했는데요.
 
-경사로를 넘어야 하는 자동차 신경망이 앞으로만 돌진하다 경사로에 걸려 멈추는 문제가 있었는데요.
-강화학습이 더 나은 길을 찾지 못하고 그 자리에 갇힌 상태였습니다.
+Claude, ChatGPT, Cursor, Codex 등 MCP를 지원하는 AI 에이전트가 클라우드에 연결된 실제 아이폰과 안드로이드를 사용할 수 있습니다.
 
-Astra는 가중치와 장면 설명, 실패 기록 하나만 보고 도구 없이 한 번의 답으로 수정안을 냈습니다.
+화면을 보고 터치하거나, 글자를 입력하고, 스크롤하는 작업까지 가능합니다.
 
-가중치 17만 1,664개 중 3.5%만 바꿔 차가 먼저 뒤로 물러나 도움닫기를 하게 만들었고, 1,024번 시도에서 모두 성공했습니다.</description><pubDate>Tue, 03 Nov 2026 01:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfQmUTtGr0-</guid></item></channel></rss>
+별도 설치 없이 연결 주소를 입력하고 로그인하면 되는데요.
+
+앞으로 모바일 앱 테스트나 반복적인 스마트폰 작업도 AI 에이전트에 맡길 수 있을 것 같습니다.</description><pubDate>Tue, 03 Nov 2026 11:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfRx3ZZiuPx</guid></item><item><title>주소 : 
+https://github.com/phone-harness/mcp</title><link>https://www.threads.net/@choi.openai/post/DfRx50wim4e</link><description>주소 : 
+https://github.com/phone-harness/mcp</description><pubDate>Tue, 03 Nov 2026 11:31:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfRx50wim4e</guid></item></channel></rss>
