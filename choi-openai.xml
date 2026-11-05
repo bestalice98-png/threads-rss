@@ -1,48 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 05 Nov 2026 16:10:47 +0000</lastBuildDate><item><title>이제 AI 목소리도 원하는 대로 수정할 수 있게 됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 05 Nov 2026 21:16:20 +0000</lastBuildDate><item><title>오픈AI 회장 그렉 브록만(Greg Brockman)은 올해 초 앤트로픽의 추격을 보며 코딩 시장에서 위기감을 느꼈던 순간을 회상했습니다.
 
-구글이 Gemini 3.8 Flash TTS에 Voice Remixing 기능을 추...</title><link>https://www.threads.net/@choi.openai/post/DfXaUEwE3G8</link><description>이제 AI 목소리도 원하는 대로 수정할 수 있게 됐습니다.
+그...</title><link>https://www.threads.net/@choi.openai/post/DfX5NF0kgYx</link><description>오픈AI 회장 그렉 브록만(Greg Brockman)은 올해 초 앤트로픽의 추격을 보며 코딩 시장에서 위기감을 느꼈던 순간을 회상했습니다.
 
-구글이 Gemini 3.8 Flash TTS에 Voice Remixing 기능을 추가했습니다.
+그는 “1분기와 2분기는 꽤 거칠었고, 코딩 분야에서는 대화에 끼지도 못하는 수준으로 보였다”고 털어놓았습니다.
+코덱스를 보유했음에도 시장의 주목을 받지 못했지만, 묵묵히 실행과 집중을 이어갔다고 밝혔습니다.
 
-2,000개 이상의 기본 목소리나 직접 만든 목소리를 선택한 뒤, 말투와 음높이, 속도, 억양을 글로 지시해 바꿀 수 있는데요.
+그 결과 3분기에는 분위기가 완전히 반전되었습니다. 기업 부문 매출이 두 배로 뛰며 연환산 매출이 분기 기준 70% 급증했습니다.
 
-예를 들어 “좀 더 부드럽고 천천히 말해줘”라고 입력하면 됩니다.
+“이것은 우연이 아니며, 그동안 축적해 온 대규모 투자의 결실”이라며, 차세대 프런티어 모델과 엔터프라이즈 환경에 맞춘 기술 혁신이 폭발적인 수익과 시장 지배력으로 이어졌다고 강조했습니다.</description><pubDate>Thu, 05 Nov 2026 20:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfX5NF0kgYx</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=yfnmAsXqvIs</title><link>https://www.threads.net/@choi.openai/post/DfX5OKpknSo</link><description>풀영상 :
+https://www.youtube.com/watch?v=yfnmAsXqvIs</description><pubDate>Thu, 05 Nov 2026 20:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfX5OKpknSo</guid></item><item><title>구글이 EmbeddingGemma 2의 재미있는 활용 사례를 공유했습니다.
 
-생성된 목소리 3개를 비교하고 마음에 드는 결과를 저장할 수도 있습니다.
+Matt Mastracci가 EmbeddingGemma 2를 활용한...</title><link>https://www.threads.net/@choi.openai/post/DfX5MZ6jBbt</link><description>구글이 EmbeddingGemma 2의 재미있는 활용 사례를 공유했습니다.
 
-Google AI Studio에서 이용 가능합니다.</description><pubDate>Thu, 05 Nov 2026 16:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXaUEwE3G8</guid></item><item><title>오픈AI 공동창업자 그렉 브록만(Greg Brockman)은 미래에 AI 도입 여부는 “전기가 있느냐 없느냐의 문제와 같을 것”이라며 일상과 창...</title><link>https://www.threads.net/@choi.openai/post/DfXTamJgNZ_</link><description>오픈AI 공동창업자 그렉 브록만(Greg Brockman)은 미래에 AI 도입 여부는 “전기가 있느냐 없느냐의 문제와 같을 것”이라며 일상과 창업의 필수 인프라가 될 것이라고 전망했습니다.
+Matt Mastracci가 EmbeddingGemma 2를 활용한 오픈소스 프로젝트 hunch인데요.
 
-그는 향후 12~18개월 내에 생명과학과 질병 치료 영역에서 실질적인 성과가 본격적으로 쏟아질 것이며, 궁극적으로 “죽음조차 선택이 되는 것”까지 가능해질 수 있다고 내다봤습니다.
+큰 AI 모델의 판단을 학습해 텍스트와 이미지를 빠르게 분류하는 방식입니다.
+텍스트는 약 20ms, 이미지는 약 100ms 만에 처리하며 GPU 없이 CPU에서도 실행됩니다.
 
-특히 일자리와 생산성에 대해 흥미로운 통찰을 제시했습니다.
-AI로 업무가 자동화되면 사람들이 덜 일할 것 같지만, 현실의 소프트웨어 엔지니어들은 압도적인 생산성 향상 덕분에 열린 기회를 잡고자 “그 어느 때보다 더 열심히 일하고 있다”고 설명했습니다.
+예를 들어 고객 문의를 유형별로 분류하거나 사진에 자동으로 태그를 붙일 수 있습니다.
 
-기술이 키보드를 두드리는 부자연스러운 노동에서 인간을 해방해 대면 상호작용과 자유로운 탐구의 시간을 늘려주겠지만, 폭발하는 기회 속에서 더 큰 성취를 향한 인간의 도전은 오히려 가속화될 것이라는 분석입니다.</description><pubDate>Thu, 05 Nov 2026 15:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXTamJgNZ_</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=yfnmAsXqvIs</title><link>https://www.threads.net/@choi.openai/post/DfXTcCzACpI</link><description>풀영상 :
-https://www.youtube.com/watch?v=yfnmAsXqvIs</description><pubDate>Thu, 05 Nov 2026 15:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXTcCzACpI</guid></item><item><title>🚨 매일이 보안 사건입니다..
+AI가 반복적으로 처리하는 작업은 작고 빠른 모델에 맡기는 방식이 점점 중요해질 것 같습니다.</description><pubDate>Thu, 05 Nov 2026 20:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfX5MZ6jBbt</guid></item><item><title>깃허브 :
+https://github.com/undrgrnd-labs/hunch</title><link>https://www.threads.net/@choi.openai/post/DfX5NTljLYJ</link><description>깃허브 :
+https://github.com/undrgrnd-labs/hunch</description><pubDate>Thu, 05 Nov 2026 20:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfX5NTljLYJ</guid></item><item><title>중국 바이두가 새로운 오픈소스 AI 모델 ERNIE 5.5 Flash Base를 공개했습니다.
 
-비밀번호를 몰라도 서버에 로그인할 수 있는 치명적인 보안 취약점이 발견됐습니다.
+전체 매개변수는 2,800억 개지만, 실제 작동...</title><link>https://www.threads.net/@choi.openai/post/DfXrb9kDRbX</link><description>중국 바이두가 새로운 오픈소스 AI 모델 ERNIE 5.5 Flash Base를 공개했습니다.
 
-무려 10년 동안 숨어 있던 ...</title><link>https://www.threads.net/@choi.openai/post/DfXP_SSD6dt</link><description>🚨 매일이 보안 사건입니다..
+전체 매개변수는 2,800억 개지만, 실제 작동할 때는 140억 개만 사용해 연산 부담을 줄였는데요.
 
-비밀번호를 몰라도 서버에 로그인할 수 있는 치명적인 보안 취약점이 발견됐습니다.
+33.5조 토큰으로 사전 학습했으며 최대 100만 토큰의 긴 문맥을 처리할 수 있습니다.
 
-무려 10년 동안 숨어 있던 OpenSSH 취약점 *sshole인데요.
+바이두에 따르면 비슷한 규모의 기본 모델 중 여러 평가에서 최고 수준의 성능을 기록했습니다.
 
-Alpine Linux 등 일부 리눅스 서버에서 특정 조건이 충족되면, 비밀번호 로그인이 차단된 관리자 계정도 257자 이상의 아무 비밀번호나 입력해 접속할 수 있습니다.
+특히 추가 학습을 거치지 않은 기본 모델을 공개해 개발자들이 직접 미세 조정하거나 산업별 AI를 만들 수 있습니다.</description><pubDate>Thu, 05 Nov 2026 18:30:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXrb9kDRbX</guid></item><item><title>블로그 :
+https://ernie.baidu.com/release/ernie-5-5-flash-base/</title><link>https://www.threads.net/@choi.openai/post/DfXrdD6DcZ1</link><description>블로그 :
+https://ernie.baidu.com/release/ernie-5-5-flash-base/</description><pubDate>Thu, 05 Nov 2026 18:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXrdD6DcZ1</guid></item><item><title>구글도 Claude Code와 Codex를 본격적으로 추격하고 있습니다.
 
-일부 클라우드 서버에서는 관리자 권한까지 탈취할 수 있어 위험합니다.
+Google Antigravity v2.29.0에 원격 AI 에이전트...</title><link>https://www.threads.net/@choi.openai/post/DfXhLbCAMQU</link><description>구글도 Claude Code와 Codex를 본격적으로 추격하고 있습니다.
 
-OpenSSH 10.6p2에서 수정됐으니 해당 환경을 운영한다면 즉시 업데이트해야 합니다.</description><pubDate>Thu, 05 Nov 2026 14:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXP_SSD6dt</guid></item><item><title>주소 :
-https://sshhole.com/</title><link>https://www.threads.net/@choi.openai/post/DfXQAG9DwEz</link><description>주소 :
-https://sshhole.com/</description><pubDate>Thu, 05 Nov 2026 14:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXQAG9DwEz</guid></item><item><title>빌 게이츠는 사람들이 AI에 대해 가장 크게 오해하는 점으로 “인간보다 뛰어난 지능이 등장한다는 사실 자체를 온전히 실감하지 못하는 것”을 꼽았...</title><link>https://www.threads.net/@choi.openai/post/DfXMkK1jEj0</link><description>빌 게이츠는 사람들이 AI에 대해 가장 크게 오해하는 점으로 “인간보다 뛰어난 지능이 등장한다는 사실 자체를 온전히 실감하지 못하는 것”을 꼽았습니다.
+Google Antigravity v2.29.0에 원격 AI 에이전트와 음성 모드가 추가됐습니다.
 
-그는 AI를 인터넷이나 PC 같은 과거의 기술 혁신과 비교해서는 안 된다고 선을 그었습니다.
-오히려 “원숭이에서 인간으로 진화한 수준의 비도약적 스케일”이자, “컴퓨터 안에서 우리가 직접 외계인을 만들어낸 것”에 가깝다고 비유했습니다.
+원격 에이전트는 클라우드에서 실행돼 컴퓨터를 꺼도 코딩 작업을 계속할 수 있는데요.
+브라우저에서 진행 상황을 확인하고 GitHub, Google Drive도 연동할 수 있습니다.
 
-초기 모델의 한계를 보며 여전히 인간 고유의 영역이 안전할 것이라 믿는 시선이 많지만, 과학 탐구와 실제 비즈니스 영역에서 성능 충격은 현실화되고 있습니다.
+Gemini Live 기반 음성 모드로 말로 작업을 지시하는 것도 가능합니다.
 
-빌 게이츠는 머지않아 압도적인 성능 도약이 증명될 것이라며, “사회 전체가 이 현실을 받아들이고 어떻게 적응할지 본격적으로 논쟁을 시작해야 한다”고 경고했습니다.</description><pubDate>Thu, 05 Nov 2026 14:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXMkK1jEj0</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=g3wyStng7_M</title><link>https://www.threads.net/@choi.openai/post/DfXMlY-jGwQ</link><description>풀영상 :
-https://www.youtube.com/watch?v=g3wyStng7_M</description><pubDate>Thu, 05 Nov 2026 14:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXMlY-jGwQ</guid></item></channel></rss>
+원격 에이전트는 Google AI Pro·Ultra 구독자부터 순차적으로 제공됩니다.</description><pubDate>Thu, 05 Nov 2026 17:00:22 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXhLbCAMQU</guid></item><item><title>업데이트 내역 :
+https://antigravity.google/docs/changelog#rel-hub-2.29.0</title><link>https://www.threads.net/@choi.openai/post/DfXhMlYgOUc</link><description>업데이트 내역 :
+https://antigravity.google/docs/changelog#rel-hub-2.29.0</description><pubDate>Thu, 05 Nov 2026 17:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXhMlYgOUc</guid></item></channel></rss>
