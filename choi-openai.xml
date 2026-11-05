@@ -1,134 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 05 Nov 2026 05:21:11 +0000</lastBuildDate><item><title>앤트로픽 사람들이 하나둘 오픈AI로 넘어오고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 05 Nov 2026 16:10:47 +0000</lastBuildDate><item><title>이제 AI 목소리도 원하는 대로 수정할 수 있게 됐습니다.
 
-캣 우에 이어, 이번엔 앤트로픽의 성장 마케팅을 사실상 처음부터 만든 오스틴 라우입니다...</title><link>https://www.threads.net/@choi.openai/post/DfWOtwsj2Qh</link><description>앤트로픽 사람들이 하나둘 오픈AI로 넘어오고 있습니다.
+구글이 Gemini 3.8 Flash TTS에 Voice Remixing 기능을 추...</title><link>https://www.threads.net/@choi.openai/post/DfXaUEwE3G8</link><description>이제 AI 목소리도 원하는 대로 수정할 수 있게 됐습니다.
 
-캣 우에 이어, 이번엔 앤트로픽의 성장 마케팅을 사실상 처음부터 만든 오스틴 라우입니다. 🧵</description><pubDate>Thu, 05 Nov 2026 04:59:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfWOtwsj2Qh</guid></item><item><title>1/ 오스틴 라우가 오픈AI에 합류했다고 밝혔습니다.
+구글이 Gemini 3.8 Flash TTS에 Voice Remixing 기능을 추가했습니다.
 
-요즘 큰 소식이 워낙 많으니 자기 소식도 슬쩍 끼워 넣겠다며 꺼낸 글인데요.
-앤트로픽에서...</title><link>https://www.threads.net/@choi.openai/post/DfWOugcD7Gb</link><description>1/ 오스틴 라우가 오픈AI에 합류했다고 밝혔습니다.
+2,000개 이상의 기본 목소리나 직접 만든 목소리를 선택한 뒤, 말투와 음높이, 속도, 억양을 글로 지시해 바꿀 수 있는데요.
 
-요즘 큰 소식이 워낙 많으니 자기 소식도 슬쩍 끼워 넣겠다며 꺼낸 글인데요.
-앤트로픽에서 보낸 시간을 "가장 좋은 의미의 열병 같은 꿈"이었다고 표현했고, 성장 조직을 함께 만들며 커리어에서 가장 어려운 문제들을 풀었다고 적었습니다.
+예를 들어 “좀 더 부드럽고 천천히 말해줘”라고 입력하면 됩니다.
 
-마지막엔 앤트로픽은 커피와 음료가, 오픈AI는 간식이 더 낫다는 비교까지 남겼습니다.
+생성된 목소리 3개를 비교하고 마음에 드는 결과를 저장할 수도 있습니다.
 
-오픈AI에서도 성장(growth)을 맡고, 앤트로픽 전에는 노션과 드롭박스에서 일했습니다.</description><pubDate>Thu, 05 Nov 2026 04:59:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfWOugcD7Gb</guid></item><item><title>2/ 오스틴은 2024년 앤트로픽의 첫 미국 성장 마케팅 담당자로 들어와 퍼포먼스 마케팅, 검색 최적화, 고객 관리, 성과 측정을 거의 혼자 꾸...</title><link>https://www.threads.net/@choi.openai/post/DfWOvaJj2c2</link><description>2/ 오스틴은 2024년 앤트로픽의 첫 미국 성장 마케팅 담당자로 들어와 퍼포먼스 마케팅, 검색 최적화, 고객 관리, 성과 측정을 거의 혼자 꾸렸습니다.
+Google AI Studio에서 이용 가능합니다.</description><pubDate>Thu, 05 Nov 2026 16:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXaUEwE3G8</guid></item><item><title>오픈AI 공동창업자 그렉 브록만(Greg Brockman)은 미래에 AI 도입 여부는 “전기가 있느냐 없느냐의 문제와 같을 것”이라며 일상과 창...</title><link>https://www.threads.net/@choi.openai/post/DfXTamJgNZ_</link><description>오픈AI 공동창업자 그렉 브록만(Greg Brockman)은 미래에 AI 도입 여부는 “전기가 있느냐 없느냐의 문제와 같을 것”이라며 일상과 창업의 필수 인프라가 될 것이라고 전망했습니다.
 
-코드를 한 줄도 써 본 적 없고 터미널 여는 법도 검색해야 했던 마케터였는데, Claude Code로 클릭 한 번에 광고 이미지를 여러 버전 만들어 주는 Figma 플러그인과 구글 광고 문구를 뽑아 주는 작업 흐름을 직접 만들었습니다.
+그는 향후 12~18개월 내에 생명과학과 질병 치료 영역에서 실질적인 성과가 본격적으로 쏟아질 것이며, 궁극적으로 “죽음조차 선택이 되는 것”까지 가능해질 수 있다고 내다봤습니다.
 
-앤트로픽은 1월 이 사례를 공식 블로그에 올리며 광고 하나에 30분 걸리던 작업이 30초로 줄었다고 소개했습니다.
+특히 일자리와 생산성에 대해 흥미로운 통찰을 제시했습니다.
+AI로 업무가 자동화되면 사람들이 덜 일할 것 같지만, 현실의 소프트웨어 엔지니어들은 압도적인 생산성 향상 덕분에 열린 기회를 잡고자 “그 어느 때보다 더 열심히 일하고 있다”고 설명했습니다.
 
-비개발자가 Claude Code로 일하는 방식을 보여 준 대표 얼굴이 오픈AI로 간 겁니다.</description><pubDate>Thu, 05 Nov 2026 05:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfWOvaJj2c2</guid></item><item><title>3/ 날짜를 이어 보면 흐름이 보입니다.
+기술이 키보드를 두드리는 부자연스러운 노동에서 인간을 해방해 대면 상호작용과 자유로운 탐구의 시간을 늘려주겠지만, 폭발하는 기회 속에서 더 큰 성취를 향한 인간의 도전은 오히려 가속화될 것이라는 분석입니다.</description><pubDate>Thu, 05 Nov 2026 15:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXTamJgNZ_</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=yfnmAsXqvIs</title><link>https://www.threads.net/@choi.openai/post/DfXTcCzACpI</link><description>풀영상 :
+https://www.youtube.com/watch?v=yfnmAsXqvIs</description><pubDate>Thu, 05 Nov 2026 15:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXTcCzACpI</guid></item><item><title>🚨 매일이 보안 사건입니다..
 
-10월 24일 Claude Code를 만든 타리크 시히파르와 앤서니 모리스가 퇴사를 알렸고, 10월 ...</title><link>https://www.threads.net/@choi.openai/post/DfWOwWIj3Rn</link><description>3/ 날짜를 이어 보면 흐름이 보입니다.
+비밀번호를 몰라도 서버에 로그인할 수 있는 치명적인 보안 취약점이 발견됐습니다.
 
-10월 24일 Claude Code를 만든 타리크 시히파르와 앤서니 모리스가 퇴사를 알렸고, 10월 30일 마지막으로 출근한 캣 우는 11월 5일 오픈AI 합류를 밝혔습니다.
+무려 10년 동안 숨어 있던 ...</title><link>https://www.threads.net/@choi.openai/post/DfXP_SSD6dt</link><description>🚨 매일이 보안 사건입니다..
 
-같은 날 오스틴까지 오픈AI로 왔습니다.
-앤트로픽은 10월 26일 상장 신고서를 낸 상태라, 상장을 앞두고 사람이 움직이는 시기와도 겹칩니다.
+비밀번호를 몰라도 서버에 로그인할 수 있는 치명적인 보안 취약점이 발견됐습니다.
 
-2021년 오픈AI를 나온 사람들이 세운 회사에서, 5년 만에 반대 방향의 이동이 이어지는 셈입니다.
+무려 10년 동안 숨어 있던 OpenSSH 취약점 *sshole인데요.
 
-제품을 만든 사람과 그 제품을 퍼뜨린 사람이 함께 넘어온 걸 보면, 아마 오픈AI가 앤트로픽이 Claude Code를 키운 방식 자체를 가져오려는 게 아닐까 생각합니다.</description><pubDate>Thu, 05 Nov 2026 05:00:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfWOwWIj3Rn</guid></item><item><title>🚨 고양이 눈나 떴다!!
+Alpine Linux 등 일부 리눅스 서버에서 특정 조건이 충족되면, 비밀번호 로그인이 차단된 관리자 계정도 257자 이상의 아무 비밀번호나 입력해 접속할 수 있습니다.
 
-Claude Code를 키운 캣 우(Cat Wu)가 앤트로픽을 떠난 지 하루 만에 오픈AI에 합류했습니다. 🧵</title><link>https://www.threads.net/@choi.openai/post/DfWI9xtj3ev</link><description>🚨 고양이 눈나 떴다!!
+일부 클라우드 서버에서는 관리자 권한까지 탈취할 수 있어 위험합니다.
 
-Claude Code를 키운 캣 우(Cat Wu)가 앤트로픽을 떠난 지 하루 만에 오픈AI에 합류했습니다. 🧵</description><pubDate>Thu, 05 Nov 2026 04:09:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfWI9xtj3ev</guid></item><item><title>1/ 앤트로픽에서 Claude Code와 Cowork 제품을 이끌던 캣 우가 11월 5일 오전(한국 시간) 오픈AI 합류를 공개했습니다.
+OpenSSH 10.6p2에서 수정됐으니 해당 환경을 운영한다면 즉시 업데이트해야 합니다.</description><pubDate>Thu, 05 Nov 2026 14:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXP_SSD6dt</guid></item><item><title>주소 :
+https://sshhole.com/</title><link>https://www.threads.net/@choi.openai/post/DfXQAG9DwEz</link><description>주소 :
+https://sshhole.com/</description><pubDate>Thu, 05 Nov 2026 14:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXQAG9DwEz</guid></item><item><title>빌 게이츠는 사람들이 AI에 대해 가장 크게 오해하는 점으로 “인간보다 뛰어난 지능이 등장한다는 사실 자체를 온전히 실감하지 못하는 것”을 꼽았...</title><link>https://www.threads.net/@choi.openai/post/DfXMkK1jEj0</link><description>빌 게이츠는 사람들이 AI에 대해 가장 크게 오해하는 점으로 “인간보다 뛰어난 지능이 등장한다는 사실 자체를 온전히 실감하지 못하는 것”을 꼽았습니다.
 
-맡는...</title><link>https://www.threads.net/@choi.openai/post/DfWI-bYD3gp</link><description>1/ 앤트로픽에서 Claude Code와 Cowork 제품을 이끌던 캣 우가 11월 5일 오전(한국 시간) 오픈AI 합류를 공개했습니다.
+그는 AI를 인터넷이나 PC 같은 과거의 기술 혁신과 비교해서는 안 된다고 선을 그었습니다.
+오히려 “원숭이에서 인간으로 진화한 수준의 비도약적 스케일”이자, “컴퓨터 안에서 우리가 직접 외계인을 만들어낸 것”에 가깝다고 비유했습니다.
 
-맡는 자리는 코어 제품(Core Products)의 제품 관리 총괄입니다.
-코어 제품 조직은 ChatGPT, Codex, API, 에이전트 인프라를 담당하고, 오픈AI 코어 제품 총괄인 티보 소티오와 함께 일하게 됩니다.
+초기 모델의 한계를 보며 여전히 인간 고유의 영역이 안전할 것이라 믿는 시선이 많지만, 과학 탐구와 실제 비즈니스 영역에서 성능 충격은 현실화되고 있습니다.
 
-발표문에서 그는 오픈AI가 스케일링이 통한다는 걸 세상에 보여 줬고, 10억 명이 넘는 사람에게 AI를 전했다며 존경을 표했습니다.
-
-앞으로의 목표로는 "당신과 당신의 팀을 든든히 받쳐 주면서도 통제권은 당신에게 남겨 두는 에이전트"를 만들겠다고 적었습니다.</description><pubDate>Thu, 05 Nov 2026 04:09:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfWI-bYD3gp</guid></item><item><title>2/ 캣 우는 개발과 투자를 모두 거친 사람입니다.
-
-2017년 프린스턴대 컴퓨터과학과를 졸업하고, 유튜브와 초기 Scale AI에서 제품 엔지...</title><link>https://www.threads.net/@choi.openai/post/DfWJATUj77w</link><description>2/ 캣 우는 개발과 투자를 모두 거친 사람입니다.
-
-2017년 프린스턴대 컴퓨터과학과를 졸업하고, 유튜브와 초기 Scale AI에서 제품 엔지니어로 일했습니다.
-
-이후 오픈소스 데이터 오케스트레이션 회사 Dagster에서 회사의 주력 상품인 Dagster Cloud를 만드는 팀을 이끌었습니다.
-
-2021년 10월에는 벤처캐피털 Index Ventures로 옮겨 3년 가까이 투자자로 일했는데, 이때도 직접 코드를 짜서 막 뜨는 스타트업과 오픈소스 프로젝트를 찾아냈다고 합니다.
-
-앤트로픽에는 2024년 8월, 연구팀의 최신 모델 능력을 고객용 제품으로 옮기는 연구 PM으로 들어왔습니다.</description><pubDate>Thu, 05 Nov 2026 04:09:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfWJATUj77w</guid></item><item><title>3/ Claude Code와의 인연은 11월 4일 올린 퇴사 글에 그대로 나옵니다.
-
-2년 전 Claude Code가 아직 사내 작은 도구였을 ...</title><link>https://www.threads.net/@choi.openai/post/DfWJBRhDw5i</link><description>3/ Claude Code와의 인연은 11월 4일 올린 퇴사 글에 그대로 나옵니다.
-
-2년 전 Claude Code가 아직 사내 작은 도구였을 때, 그는 강화학습 환경을 만들어 달라고 시켰습니다.
-수십 시간 동안 방향만 잡아 주고 코드는 한 줄도 직접 쓰지 않았는데 결과물이 제대로 돌아갔고, 그대로 빠져들어 팀에 합류했다고 적었습니다.
-
-처음 출시했을 때 사용자 대부분은 Claude가 묻는 권한 요청을 하나하나 손으로 승인했고, 질문에 답하거나 테스트를 짜는 정도로만 썼습니다.
-
-지금은 Claude의 판단을 믿고 자동 승인하는 게 기본이 됐고, Claude가 대규모 마이그레이션을 하고 새 제품까지 만듭니다.</description><pubDate>Thu, 05 Nov 2026 04:10:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfWJBRhDw5i</guid></item><item><title>어제는 대회를 준비하고 계신 분이 피드백을 받으러 커피챗에 찾아오셨습니다.
-
-이야기를 나누다 보니 저도 과거 생각이 많이 나더라고요.
-
-저 역시...</title><link>https://www.threads.net/@choi.openai/post/DfWBA0FjFUf</link><description>어제는 대회를 준비하고 계신 분이 피드백을 받으러 커피챗에 찾아오셨습니다.
-
-이야기를 나누다 보니 저도 과거 생각이 많이 나더라고요.
-
-저 역시 정부 지원 사업부터 공모전, 각종 대회까지 정말 많이 참여했었는데, 30개가 넘어간 뒤로는 자료가 어디에 있는지 어디에서 수상을 받았었는지 잘 확인도 않았던 것 같습니다.
-
-(물론, 지금도 가끔 익명으로 대회에 참가해 조용히 즐기고 올 때가 있습니다.)
-
-어제는 오랜만에 그때의 경험을 꺼내 전략부터 비즈니스 모델 설계, 서비스의 개선 방향, 심사에서 중요하게 보는 부분까지 꽤 깊게 이야기했던 것 같습니다.
-
-제가 직접 부딪히고 실패하면서 배웠던 것들이 누군가에게는 시행착오를 줄여주는 조언이 될 수 있다는 게 참 좋았습니다.
-
-최근 커피챗에는 학생분들도 많이 찾아오십니다.</description><pubDate>Thu, 05 Nov 2026 03:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfWBA0FjFUf</guid></item><item><title>사실 먼저 연락을 보내고, 한 번도 만난 적 없는 사람에게 자신의 아이디어나 고민을 꺼내놓는다는 게 쉬운 일은 아닐 텐데요.
-
-그런 분들을 만나...</title><link>https://www.threads.net/@choi.openai/post/DfWBB0zDMv4</link><description>사실 먼저 연락을 보내고, 한 번도 만난 적 없는 사람에게 자신의 아이디어나 고민을 꺼내놓는다는 게 쉬운 일은 아닐 텐데요.
-
-그런 분들을 만나면 묘하게 느껴지는 에너지가 있습니다.
-
-아직 결과가 나오지 않았더라도, 어떻게든 무언가를 만들어낼 것 같은 사람들 특유의 에너지랄까요.
-
-저도 그런 시기를 지나왔기에 그 열정이 반갑기도 하고, 한편으로는 조금 부럽기도 합니다.
-
-그리고 신기하게도 제가 경험을 나눠드리러 나간 자리에서 오히려 새로운 자극과 에너지를 얻어 돌아오는 경우가 많습니다.
-
-커피챗이 끝나고 나면 종종 이런 생각을 합니다. 몇 년 뒤에 오늘 만난 분들이 어떤 일을 하고 계실까?
-
-그때 다시 만나 서로의 이야기를 나눌 수 있다면 정말 재미있을 것 같습니다.</description><pubDate>Thu, 05 Nov 2026 03:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfWBB0zDMv4</guid></item><item><title>🚨 미친.. 오픈AI가 리눅스에서 관리자 권한을 탈취할 수 있는 보안 취약점 948개를 찾아냈습니다.
-
-AI 에이전트가 취약점 발견부터 실제 공...</title><link>https://www.threads.net/@choi.openai/post/DfV2tsoD8eP</link><description>🚨 미친.. 오픈AI가 리눅스에서 관리자 권한을 탈취할 수 있는 보안 취약점 948개를 찾아냈습니다.
-
-AI 에이전트가 취약점 발견부터 실제 공격, 패치 작성까지 자동으로 수행했습니다.
-
-비용으로 따지면 약 17억 원, 취약점 하나당 약 180만 원인데요. 심지어 이 비용이 남는 장사였다는 것입니다.
-
-더 충격적인 건 인간 보안 전문가도 몰랐던 새로운 공격 기법까지 만들어냈다는 사실입니다. 🧵</description><pubDate>Thu, 05 Nov 2026 01:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfV2tsoD8eP</guid></item><item><title>1/ 오픈AI가 11월 4일 보안 연구 글 'A thousand fewer paths to root'를 공개했습니다.
-
-리눅스 커널에서 취약점을...</title><link>https://www.threads.net/@choi.openai/post/DfV2uYSjynB</link><description>1/ 오픈AI가 11월 4일 보안 연구 글 'A thousand fewer paths to root'를 공개했습니다.
-
-리눅스 커널에서 취약점을 찾고, 실제로 재현하고, 공격 코드를 만들어 위험도를 확인한 뒤, 고치는 패치까지 쓰는 과정을 에이전트 파이프라인으로 자동화했습니다.
-
-아직 공개되지 않은 차기 사이버 모델로 10월 중순 한 번 돌린 결과, 후보 2,308개 중 1,724개를 실제로 재현했습니다.
-
-그중 일반 사용자 계정이 관리자 권한인 root를 빼앗을 수 있는 로컬 권한 상승(LPE) 취약점 948개에 대해 작동하는 공격 코드와 패치를 만들었습니다.
-
-사람 연구자는 마지막에 결과를 검토해 리눅스 관리자들에게 보고하는 일을 맡았습니다.</description><pubDate>Thu, 05 Nov 2026 01:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfV2uYSjynB</guid></item><item><title>2/ 리눅스 커널을 고른 이유는 규모와 파급력입니다.
-
-안드로이드 기기, 클라우드 서버, 슈퍼컴퓨터가 모두 이 커널 위에서 돌아가고, 코드는 4...</title><link>https://www.threads.net/@choi.openai/post/DfV2vfhj0eP</link><description>2/ 리눅스 커널을 고른 이유는 규모와 파급력입니다.
-
-안드로이드 기기, 클라우드 서버, 슈퍼컴퓨터가 모두 이 커널 위에서 돌아가고, 코드는 4천만 줄이 넘습니다.
-
-시스템 호출, 네트워크, 파일 시스템, 장치 드라이버까지 공격이 들어올 수 있는 입구도 넓습니다.
-
-출발점은 6월이었습니다.
-오픈AI는 6월 22일 Daybreak를 확장하며 오픈소스 보안 지원 프로그램 Patch the Planet을 함께 공개했고, 이 프로그램에서 GPT-5.5 Cyber로 리눅스 커널 권한 상승 공격 코드 24개를 만들어 신고했습니다.
-
-이번 글은 그 작업을 발견부터 패치까지 한 번에 도는 파이프라인으로 키운 결과입니다.</description><pubDate>Thu, 05 Nov 2026 01:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfV2vfhj0eP</guid></item><item><title>3/ 첫 단계는 어디를 볼지 고르는 일입니다.
-
-정찰 역할의 Scout 에이전트들이 커널의 폴더와 파일을 하나씩 읽으며, 낮은 권한의 사용자가 ...</title><link>https://www.threads.net/@choi.openai/post/DfV2wnYjwIl</link><description>3/ 첫 단계는 어디를 볼지 고르는 일입니다.
-
-정찰 역할의 Scout 에이전트들이 커널의 폴더와 파일을 하나씩 읽으며, 낮은 권한의 사용자가 실제로 건드릴 수 있고 보안과 관련된 코드만 골랐습니다.
-
-이렇게 고른 점검 대상이 5,034곳, 약 280만 줄로 커널 전체의 7% 정도이고, 이 단계 비용은 3,426달러(약 480만 원)였습니다.
-
-다음으로 Analyst 에이전트들이 대상 코드가 어떻게 작동하는지 파악하고 공격 시나리오를 세운 뒤 취약점을 찾았습니다.
-
-12시간 만에 중복을 뺀 후보 2,308개가 나왔고, 비용은 31만 6,549달러(약 4억 4천만 원)로 전체 단계 중 두 번째로 컸습니다.</description><pubDate>Thu, 05 Nov 2026 01:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfV2wnYjwIl</guid></item></channel></rss>
+빌 게이츠는 머지않아 압도적인 성능 도약이 증명될 것이라며, “사회 전체가 이 현실을 받아들이고 어떻게 적응할지 본격적으로 논쟁을 시작해야 한다”고 경고했습니다.</description><pubDate>Thu, 05 Nov 2026 14:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXMkK1jEj0</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=g3wyStng7_M</title><link>https://www.threads.net/@choi.openai/post/DfXMlY-jGwQ</link><description>풀영상 :
+https://www.youtube.com/watch?v=g3wyStng7_M</description><pubDate>Thu, 05 Nov 2026 14:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfXMlY-jGwQ</guid></item></channel></rss>
