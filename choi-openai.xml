@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 07 Nov 2026 04:50:23 +0000</lastBuildDate><item><title>🚨 세계 상위 1%는 이미 이 그래프를 보고 움직이고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 07 Nov 2026 14:42:03 +0000</lastBuildDate><item><title>🚨 세계 상위 1%는 이미 이 그래프를 보고 움직이고 있습니다.
 
 AI가 AI를 만들기 시작하면서 앤트로픽의 발전 속도는 1년에 2년치로 빨라졌...</title><link>https://www.threads.net/@choi.openai/post/DfZ1yGrDwsG</link><description>🚨 세계 상위 1%는 이미 이 그래프를 보고 움직이고 있습니다.
 
@@ -38,91 +38,43 @@ METR은 이를 2023년 10월부터 2025년 10월까지, 대략 Claude 2.1에서 
 그 2년의 크기는 이렇습니다.
 2023년 실제 깃허브 이슈를 고치는 SWE-bench에서 당시 최고였던 Claude 2가 푼 비율은 1.96%였고, Sonnet 4.5는 검증판 SWE-bench Verified에서 77.2%를 풀었습니다.
 
-버그 50개 중 1개를 고치던 AI가 4개 중 3개를 고치게 된 2년이, 이제 1년 안에 일어나고 있습니다.</description><pubDate>Fri, 06 Nov 2026 14:39:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfZ10Usjw3r</guid></item><item><title>로봇이 움직임을 계획하는 속도가 최대 12배 빨라졌습니다.
+버그 50개 중 1개를 고치던 AI가 4개 중 3개를 고치게 된 2년이, 이제 1년 안에 일어나고 있습니다.</description><pubDate>Fri, 06 Nov 2026 14:39:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfZ10Usjw3r</guid></item><item><title>제프 딘(Jeff Dean)은 과학과 공학 전반의 “보편적인 실험 루프(universal loop)를 자동화하겠다”고 밝혔습니다.
 
-NVIDIA의 Jim Fan 연구팀이 VFlash를 공개했습니다.
+가설 제안,...</title><link>https://www.threads.net/@choi.openai/post/DfcZmaTgfcn</link><description>제프 딘(Jeff Dean)은 과학과 공학 전반의 “보편적인 실험 루프(universal loop)를 자동화하겠다”고 밝혔습니다.
 
-기존 AI는 로...</title><link>https://www.threads.net/@choi.openai/post/DfbU-TBAA6K</link><description>로봇이 움직임을 계획하는 속도가 최대 12배 빨라졌습니다.
+가설 제안, 실험 구현과 실행, 결과 분석, 다음 실험 결정으로 이어지는 연구 주기를 AI로 자동화해 반복 시간을 극적으로 단축하겠다는 구상입니다.
 
-NVIDIA의 Jim Fan 연구팀이 VFlash를 공개했습니다.
+실험을 자동으로 대규모 실행하고 매 평가에서 학습하면, 이전 실험 데이터를 바탕으로 다음 실험의 질과 양을 동시에 확장할 수 있다고 설명했습니다.
 
-기존 AI는 로봇팔의 이동 경로를 좌표 하나씩 순서대로 계산했는데요. VFlash는 필요한 좌표를 한꺼번에 생성합니다.
+그는 “실험의 질과 양을 모두 스케일업할 수 있다면 돌파구적 결과(breakthrough results)를 얻게 될 것”이라며, 연구·엔지니어링의 생산성을 비약적으로 끌어올려 과학 특이점을 가속하겠다고 강조했습니다.</description><pubDate>Sat, 07 Nov 2026 14:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfcZmaTgfcn</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=ooGKNwJWdb8</title><link>https://www.threads.net/@choi.openai/post/DfcZnfZAYwE</link><description>풀영상 :
+https://www.youtube.com/watch?v=ooGKNwJWdb8</description><pubDate>Sat, 07 Nov 2026 14:30:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfcZnfZAYwE</guid></item><item><title>AI 코딩 에이전트 수백 개가 동시에 코드를 수정하면 Git 서버는 버틸 수 있을까요?
 
-그 결과 동작 생성 속도는 최대 12배, 로봇의 전체 추론 속도는 5.1배 빨라졌습니다.
+YC 출신 Reason Machines가 오픈소스 Gi...</title><link>https://www.threads.net/@choi.openai/post/DfcSsxTCcXo</link><description>AI 코딩 에이전트 수백 개가 동시에 코드를 수정하면 Git 서버는 버틸 수 있을까요?
 
-놀라운 점은 정확도까지 개선됐다는 겁니다. 3D 이동 경로의 오차가 최대 61% 줄었습니다.
+YC 출신 Reason Machines가 오픈소스 Git 서버 Aspen을 공개했습니다.
+오픈AI의 내부 Git 시스템 Pando 설계를 참고했는데요.
 
-로봇이 주변 상황에 반응하는 속도가 빨라질 수 있다는 점에서 중요한 연구입니다.</description><pubDate>Sat, 07 Nov 2026 04:30:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfbU-TBAA6K</guid></item><item><title>프로젝트 페이지 :
-https://research.nvidia.com/labs/lpr/vflash/</title><link>https://www.threads.net/@choi.openai/post/DfbU_hpAFNx</link><description>프로젝트 페이지 :
-https://research.nvidia.com/labs/lpr/vflash/</description><pubDate>Sat, 07 Nov 2026 04:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfbU_hpAFNx</guid></item><item><title>🚨 엔비디아가 AI 에이전트의 비용을 최대 233배 줄일 수 있다는 연구 결과를 공개했습니다.
+기존 Git 서버와 달리 브랜치별로 변경 사항을 처리해 서로 기다리지 않도록 했습니다.
 
-놀랍게도 대화 기록을 계속 쌓는 대신 필요한 내...</title><link>https://www.threads.net/@choi.openai/post/DfbROdCj3Qa</link><description>🚨 엔비디아가 AI 에이전트의 비용을 최대 233배 줄일 수 있다는 연구 결과를 공개했습니다.
+8코어 서버 한 대에서 동일 저장소에 초당 567회 push를 처리했다고 합니다. Cursor Origin의 공개 수치는 초당 최대 300회 이상입니다.
 
-놀랍게도 대화 기록을 계속 쌓는 대신 필요한 내용만 메모하고 나머지를 버렸더니, 성능은 유지되거나 오히려 높아졌습니다.
+기존 Git 명령어를 그대로 사용할 수 있으며, 현재 초기 개발 단계입니다.</description><pubDate>Sat, 07 Nov 2026 13:30:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfcSsxTCcXo</guid></item><item><title>블로그 :
+https://reasonmachines.com/blog/aspen</title><link>https://www.threads.net/@choi.openai/post/DfcSuEFiYcx</link><description>블로그 :
+https://reasonmachines.com/blog/aspen</description><pubDate>Sat, 07 Nov 2026 13:30:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfcSuEFiYcx</guid></item><item><title>경쟁사가 어떻게 성장했는지 AI가 역추적해 줍니다.
 
-Claude Code와 Codex에도 적용할 수 있는 방식인데요.
+Treg가 무료 오픈소스 도구 REA-growth를 공개했습니다.
 
-컨텍스트 창 100만 토큰 경쟁과 반대 방향을 가리킨 이 논문을 정리했습니다 🧵</description><pubDate>Sat, 07 Nov 2026 03:57:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfbROdCj3Qa</guid></item><item><title>1/ 엔비디아 연구진 12명이 “You don’t need long context”라는 논문을 발표했습니다.
+기업 이름이나 웹사이트...</title><link>https://www.threads.net/@choi.openai/post/DfcIdWNj2st</link><description>경쟁사가 어떻게 성장했는지 AI가 역추적해 줍니다.
 
-AI 에이전트가 오래 걸리는 일을...</title><link>https://www.threads.net/@choi.openai/post/DfbRPDHD9dx</link><description>1/ 엔비디아 연구진 12명이 “You don’t need long context”라는 논문을 발표했습니다.
+Treg가 무료 오픈소스 도구 REA-growth를 공개했습니다.
 
-AI 에이전트가 오래 걸리는 일을 할 때 지금까지의 대화 기록을 전부 들고 다녀야 하는지 묻는 논문인데요.
+기업 이름이나 웹사이트를 입력하면 검색 노출, 광고, SNS 활동과 방문자 변화 등을 시간순으로 분석하는데요.
 
-연구진은 Claude Opus 4.5와 GPT 5.6 Sol에게 코딩, 터미널 작업, 검색, 고객 응대, 긴 문서 독해까지 13개 벤치마크를 맡기고 세 가지 방식을 비교했습니다.
+예를 들어 Lovable의 2년간 공개 자료에서 343건의 마케팅 활동을 추적해 성장 과정을 정리했습니다.
 
-기록을 끝까지 쌓는 방식, 대화가 정해진 길이에 닿으면 인수인계 메모를 쓰고 새 대화에서 과제와 메모만 들고 이어가는 방식, 행동 하나를 할 때마다 메모를 고쳐 쓰고 대화를 버리는 방식입니다.</description><pubDate>Sat, 07 Nov 2026 03:58:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfbRPDHD9dx</guid></item><item><title>2/ 연구진이 이 질문을 던진 이유는 비용입니다.
+개발자에 따르면 분석 비용은 약 0.58달러입니다.
 
-모델은 다음 토큰을 만들 때마다 앞에 쌓인 토큰을 모두 다시 참조하기 때문에, 컨텍스트가 길...</title><link>https://www.threads.net/@choi.openai/post/DfbRP1WjxK1</link><description>2/ 연구진이 이 질문을 던진 이유는 비용입니다.
-
-모델은 다음 토큰을 만들 때마다 앞에 쌓인 토큰을 모두 다시 참조하기 때문에, 컨텍스트가 길수록 토큰 하나에 드는 연산과 메모리가 커집니다.
-
-엔비디아가 H100 GPU에 오픈웨이트 모델을 직접 띄워 재 보니, 컨텍스트 창을 25만 6천 토큰으로 열어 둔 서버는 1만 6천 토큰 서버보다 같은 토큰을 만드는 데 GLM 5.2는 3.6배, Kimi K2.6은 5.6배, Qwen 3 Coder Next는 7배 더 비쌌습니다.
-
-사용자가 이 차이를 체감하기 어려운 건 API 가격이 컨텍스트 길이와 상관없이 100만 토큰당 같은 값으로 매겨지기 때문인데요.
-
-연구진은 이 절감 폭이 4비트 양자화 같은 다른 최적화 기법에 맞먹는다고 설명했습니다.</description><pubDate>Sat, 07 Nov 2026 03:58:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfbRP1WjxK1</guid></item><item><title>3/ 연구진은 대화 길이 한도를 4만 8천, 3만 2천, 2만 4천, 1만 6천 토큰으로 줄여 가며 메모를 점점 더 자주 쓰게 했습니다.
-
-1만...</title><link>https://www.threads.net/@choi.openai/post/DfbRQuGjyN5</link><description>3/ 연구진은 대화 길이 한도를 4만 8천, 3만 2천, 2만 4천, 1만 6천 토큰으로 줄여 가며 메모를 점점 더 자주 쓰게 했습니다.
-
-1만 6천 토큰은 『노인과 바다』 절반도 담지 못하는 분량입니다.
-그래도 정확도는 대부분 기록을 전부 들고 간 기준선 근처에 머물렀습니다.
-
-실제 깃허브 이슈 500개를 고치는 SWE-bench Verified에서 Opus 4.5는 70.0%에서 2만 4천 토큰 한도일 때 74.8%로 올랐고, 가장 빡빡한 1만 6천 토큰에서도 68.8%를 기록했습니다.
-
-두 모델 모두 22개 설정 가운데 기준선보다 2점 넘게 떨어진 경우는 5개 이하였고, 연구진이 추정한 비용은 2.2배에서 8.8배까지 줄었습니다.</description><pubDate>Sat, 07 Nov 2026 03:58:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfbRQuGjyN5</guid></item><item><title>🚨 오픈AI의 GPT-6 Astra가 생물학 실험에서도 놀라운 성능을 보여줬습니다.
-
-실제 실험실 데이터 100개 과제에서 66.7%를 기록하며...</title><link>https://www.threads.net/@choi.openai/post/DfbDyp4D25n</link><description>🚨 오픈AI의 GPT-6 Astra가 생물학 실험에서도 놀라운 성능을 보여줬습니다.
-
-실제 실험실 데이터 100개 과제에서 66.7%를 기록하며 이전 세대보다 22.9%p 높은 점수를 받았습니다.
-
-배양 접시의 작은 글씨를 읽어 실험 오류를 찾아냈지만, 세균 개수를 세는 기본 작업에서는 틀리기도 했는데요.
-
-상세 내용을 정리했습니다🧵</description><pubDate>Sat, 07 Nov 2026 02:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfbDyp4D25n</guid></item><item><title>1/ 오픈AI가 생물학 실험실의 일상 분석을 AI 에이전트가 얼마나 잘하는지 재는 BioBasicsBench를 공개했습니다.
-
-효소 설계를 하는...</title><link>https://www.threads.net/@choi.openai/post/DfbDzDijxtS</link><description>1/ 오픈AI가 생물학 실험실의 일상 분석을 AI 에이전트가 얼마나 잘하는지 재는 BioBasicsBench를 공개했습니다.
-
-효소 설계를 하는 바이오 기업 Ligo와 함께 만들었고, 실제 실험에서 나온 과제 100개로 구성됐는데요.
-
-에이전트가 가공하지 않은 실험 데이터를 읽고, 실수를 찾아내고, 증거가 결론을 뒷받침하지 못할 때 그렇다고 말할 수 있는지를 봅니다.
-
-사진 한 장을 잘못 읽거나 대조군의 문제를 놓치면 과학자는 틀린 결론을 내리고 쓸모없는 실험에 시간을 쓰게 되기 때문입니다.
-
-가장 높은 추론 설정에서 GPT-6 Astra는 66.7%, 이전 세대 GPT-5.6 Sol은 43.8%의 점수를 받았습니다.</description><pubDate>Sat, 07 Nov 2026 02:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfbDzDijxtS</guid></item><item><title>2/ 오픈AI가 생명과학 벤치마크를 내놓은 건 이번이 처음이 아닙니다.
-
-6월 LifeSciBench는 바이오·제약 연구자 173명이 만든 과제...</title><link>https://www.threads.net/@choi.openai/post/DfbDz2HDywU</link><description>2/ 오픈AI가 생명과학 벤치마크를 내놓은 건 이번이 처음이 아닙니다.
-
-6월 LifeSciBench는 바이오·제약 연구자 173명이 만든 과제 750개로 불완전한 증거 속에서 다음 실험을 고르는 판단을 쟀고, 7월 GeneBench-Pro는 지저분한 유전체 데이터를 받아 분석 방법을 스스로 설계하게 했는데요.
-
-당시 가장 강했던 GPT-5.6 Sol도 129문제 중 29%만 풀었습니다.
-BioBasicsBench는 그보다 한 단계 아래, 실험대에서 나온 결과물을 제대로 읽는 일을 겨냥합니다.
-
-오픈AI는 기존 벤치마크가 논문에 싣기 위해 고른 깔끔한 그래프와 이미지로 만들어져, 실패한 실험과 애매한 사진, 서로 어긋나는 관찰이 쌓이는 실제 실험실을 담지 못한다고 설명했습니다.</description><pubDate>Sat, 07 Nov 2026 02:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfbDz2HDywU</guid></item><item><title>3/ 과제 100개는 단백질 실험 25개, 이미징·세포 분석 23개, 정량·분석법 19개, 핵산 실험 17개, 분자 클로닝 16개로 나뉩니다.
-...</title><link>https://www.threads.net/@choi.openai/post/DfbD0rmD2HD</link><description>3/ 과제 100개는 단백질 실험 25개, 이미징·세포 분석 23개, 정량·분석법 19개, 핵산 실험 17개, 분자 클로닝 16개로 나뉩니다.
-
-입력은 실험실에서 실제로 쓰는 형태 그대로인데요. DNA·단백질 전기영동 사진이 31개 과제에, 프로토콜과 손글씨 실험 노트가 27개, 장비에서 뽑은 표와 파일이 20개 과제에 들어가고, 현미경 영상, 시퀀싱 원본 파일, 실험 과정을 찍은 동영상도 있습니다.
-
-과학자들이 자기 실험 데이터로 문제와 채점 기준을 직접 만들었고, 작성자가 아닌 Ligo 과학자와 외부 박사급 연구자가 차례로 검토했습니다.
-
-채점은 기준 항목별로 부분 점수를 주는 방식이라 결론만 맞힌 답과 분석까지 맞힌 답을 구분합니다.
-
-과제 88개가 현장 경험에서 나오는 암묵지를, 68개가 오류 찾기를, 19개가 데이터가 부족하다고 판단하는 능력을 함께 봅니다.</description><pubDate>Sat, 07 Nov 2026 02:00:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfbD0rmD2HD</guid></item></channel></rss>
+경쟁사의 성장 전략을 조사하는 데 유용하지만, 방문자 증가의 원인까지 확정해 주는 것은 아닙니다.</description><pubDate>Sat, 07 Nov 2026 12:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfcIdWNj2st</guid></item><item><title>깃허브 :
+https://github.com/superdesigndev/treg</title><link>https://www.threads.net/@choi.openai/post/DfcIex_D2UB</link><description>깃허브 :
+https://github.com/superdesigndev/treg</description><pubDate>Sat, 07 Nov 2026 12:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfcIex_D2UB</guid></item></channel></rss>
