@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 08 Nov 2026 14:47:43 +0000</lastBuildDate><item><title>🚨 이번 주도 AI 업계는 정말 미친 한 주였습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 08 Nov 2026 19:13:47 +0000</lastBuildDate><item><title>🚨 이번 주도 AI 업계는 정말 미친 한 주였습니다.
 
 오픈AI는 해킹 특화 GPT-6 Cyber를 공개했고, 앤트로픽의 비공개 AI는 18년간...</title><link>https://www.threads.net/@choi.openai/post/Dfe5RCgD-Sk</link><description>🚨 이번 주도 AI 업계는 정말 미친 한 주였습니다.
 
@@ -30,7 +30,33 @@ Gemini API와 기업용 Gemini에서 정식 제공됩니다.</description><pubDa
 회사 평가 ExploitGym에서 48.5%를 기록해 GPT-5.6 Cyber의 32.1%를 넘어섰고, 이미 여러 AI로 점검한 Firefox에서도 새 고위험 취약점 81개를 찾아냈습니다.
 취약점 탐색부터 공격 가능성 검증과 패치 제안까지 수행합니다.
 
-사이버 위험 등급은 Critical이며, 현재는 Daybreak Red에서 승인받은 일부 보안팀에 API와 Codex로 제공됩니다.</description><pubDate>Sun, 08 Nov 2026 13:45:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfe5UQ0j-xV</guid></item><item><title>용량이 22MB에 불과한 이미지 분석 AI가 공개됐습니다.
+사이버 위험 등급은 Critical이며, 현재는 Daybreak Red에서 승인받은 일부 보안팀에 API와 Codex로 제공됩니다.</description><pubDate>Sun, 08 Nov 2026 13:45:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfe5UQ0j-xV</guid></item><item><title>AI 캐릭터와 대화하는 방식도 빠르게 달라지고 있습니다.
+
+Shizuku AI가 캐릭터 전용 음성 모델 Shizuku-Duplex를 발표했는데요...</title><link>https://www.threads.net/@choi.openai/post/DffWeeFCO-T</link><description>AI 캐릭터와 대화하는 방식도 빠르게 달라지고 있습니다.
+
+Shizuku AI가 캐릭터 전용 음성 모델 Shizuku-Duplex를 발표했는데요.
+
+상대방이 말하는 중에도 듣고 반응하며, 언제 말하고 기다릴지 스스로 판단합니다.
+
+대화하면서 필요한 정보를 검색할 수 있고, 긴 대화도 이어갈 수 있도록 설계됐습니다.
+
+특히 음성에 맞춰 캐릭터의 표정과 움직임까지 제어할 수 있다는 점이 눈에 띕니다.
+
+캐릭터 챗봇의 몰입감을 높이는 데 중요한 기술이 될 것 같습니다.</description><pubDate>Sun, 08 Nov 2026 18:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DffWeeFCO-T</guid></item><item><title>블로그 :
+https://shizuku.ai/en/blog/1/</title><link>https://www.threads.net/@choi.openai/post/DffWgbqCO4R</link><description>블로그 :
+https://shizuku.ai/en/blog/1/</description><pubDate>Sun, 08 Nov 2026 18:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DffWgbqCO4R</guid></item><item><title>중국 AI 모델의 정치적 답변 성향을 미세 조정으로 바꾼 사례가 공개됐습니다.
+
+Nous Research가 Qwen3.8-27B를 기반으로 Ar...</title><link>https://www.threads.net/@choi.openai/post/DffIssCkREs</link><description>중국 AI 모델의 정치적 답변 성향을 미세 조정으로 바꾼 사례가 공개됐습니다.
+
+Nous Research가 Qwen3.8-27B를 기반으로 Arete-27B를 발표했는데요.
+
+표현의 자유, 민주주의, 개인정보 보호 등 7개 분야에서 약 5,300만 토큰을 추가 학습시켰습니다.
+
+자체 평가에서 중국 정부의 공식 입장을 따르는 답변 비율이 22%에서 약 1%로 감소했고, 일반 성능은 거의 유지됐다고 합니다.
+
+AI 모델의 정치적 성향도 비교적 적은 추가 학습으로 크게 달라질 수 있다는 점을 보여줍니다.</description><pubDate>Sun, 08 Nov 2026 16:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DffIssCkREs</guid></item><item><title>블로그 :
+https://nousresearch.com/arete</title><link>https://www.threads.net/@choi.openai/post/DffIt0wESLe</link><description>블로그 :
+https://nousresearch.com/arete</description><pubDate>Sun, 08 Nov 2026 16:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DffIt0wESLe</guid></item><item><title>용량이 22MB에 불과한 이미지 분석 AI가 공개됐습니다.
 
 Cactus Compute가 발표한 Mirage인데요.
 
@@ -44,48 +70,4 @@ Cactus Compute가 발표한 Mirage인데요.
 
 분석 결과를 Qwen3-0.6B에 전달했더니 이미지 관련 질문의 정답률도 9.3%에서 31.3%로 높아졌다고 합니다.</description><pubDate>Sun, 08 Nov 2026 11:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfep2o3D8Zf</guid></item><item><title>내용 :
 https://cactuscompute.com/blog/mirage#sandbox</title><link>https://www.threads.net/@choi.openai/post/Dfep37Kj2L2</link><description>내용 :
-https://cactuscompute.com/blog/mirage#sandbox</description><pubDate>Sun, 08 Nov 2026 11:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfep37Kj2L2</guid></item><item><title>AI가 말하는 도중에도 사용자의 말을 듣고, 다른 작업까지 처리하는 음성 AI가 공개됐습니다.
-
-MOSS가 발표한 MOSS-Live인데요.
-
-대...</title><link>https://www.threads.net/@choi.openai/post/DfefdIoDbIL</link><description>AI가 말하는 도중에도 사용자의 말을 듣고, 다른 작업까지 처리하는 음성 AI가 공개됐습니다.
-
-MOSS가 발표한 MOSS-Live인데요.
-
-대화 중 끼어들면 말을 멈추고, 잠시 생각하는 침묵이나 다른 사람과의 대화는 구분합니다.
-
-예를 들어 여행 계획을 설명하면서 호텔을 검색하고, 중간에 질문을 받아도 끊겼던 설명을 이어갈 수 있습니다.
-
-화면 공유와 실시간 영상 인식, 동시통역도 지원합니다.
-
-대화 담당 AI와 작업 담당 AI가 정보를 공유하며 동시에 작동하는 방식입니다.</description><pubDate>Sun, 08 Nov 2026 09:59:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfefdIoDbIL</guid></item><item><title>내용 :
-https://www.moss.cn/models/moss-live</title><link>https://www.threads.net/@choi.openai/post/DfefebcDTQl</link><description>내용 :
-https://www.moss.cn/models/moss-live</description><pubDate>Sun, 08 Nov 2026 10:00:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfefebcDTQl</guid></item><item><title>와.. 진짜 거의 다 왔습니다.
-
-최근 Claude에서 Fable 5.5로 연결되는 A/B 테스트가 포착됐는데, 결과물이 미쳤습니다.
-
-이미지·...</title><link>https://www.threads.net/@choi.openai/post/DfeYouiD9OH</link><description>와.. 진짜 거의 다 왔습니다.
-
-최근 Claude에서 Fable 5.5로 연결되는 A/B 테스트가 포착됐는데, 결과물이 미쳤습니다.
-
-이미지·영상 생성 AI 없이 코드만으로 92초짜리 애니메이션을 만들고, 8개 AI 에이전트 팀이 협업해 83초짜리 영화까지 제작했습니다.
-
-애니메이션 제작 방식이 바뀌고 있습니다.
-
-놀라운 사례 12가지를 정리했습니다🧵</description><pubDate>Sun, 08 Nov 2026 09:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfeYouiD9OH</guid></item><item><title>1/ Claude 차기 모델로 Three.js 기반의 3D 콘텐츠를 한 번의 프롬프트만으로 제작했다는 사례가 공개됐습니다.
-
-제작자는 기존 Op...</title><link>https://www.threads.net/@choi.openai/post/DfeWU18G8o8</link><description>1/ Claude 차기 모델로 Three.js 기반의 3D 콘텐츠를 한 번의 프롬프트만으로 제작했다는 사례가 공개됐습니다.
-
-제작자는 기존 Opus 5.5와 다른 모델이 사용된 것으로 추정하고 있으며, 구체적인 프롬프트와 제작 과정은 공개하지 않았습니다.
-
-x@AndrewOnXYZ</description><pubDate>Sun, 08 Nov 2026 09:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfeWU18G8o8</guid></item><item><title>2/ Claude Fable 5.5에 “번개가 치는 폭풍 속에서 31m 높이의 파도를 향해 노를 저어줘”라고 요청해 35초짜리 영상을 만든 사례...</title><link>https://www.threads.net/@choi.openai/post/DfeWiTFjqMY</link><description>2/ Claude Fable 5.5에 “번개가 치는 폭풍 속에서 31m 높이의 파도를 향해 노를 저어줘”라고 요청해 35초짜리 영상을 만든 사례가 공개됐습니다.
-
-Three.js로 파도·번개·비를 구현하고 Python으로 효과음을 합성했으며, 89분 동안 2,100개 프레임을 제작하는 데 API 비용 11.89달러가 들었습니다.
-
-x@camperaigg</description><pubDate>Sun, 08 Nov 2026 09:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfeWiTFjqMY</guid></item><item><title>3/ Claude Fable 5.5로 이미지·영상 생성 모델 없이 92초짜리 일본 애니메이션을 만든 사례가 공개됐습니다.
-
-여러 에이전트가 Bl...</title><link>https://www.threads.net/@choi.openai/post/DfeWZWGDFEH</link><description>3/ Claude Fable 5.5로 이미지·영상 생성 모델 없이 92초짜리 일본 애니메이션을 만든 사례가 공개됐습니다.
-
-여러 에이전트가 Blender·Python으로 43개 장면과 2,160개 프레임을 제작하고, 프레임마다 오류를 검사하며 약 30시간 동안 렌더링했습니다.
-
-x@anstapnever</description><pubDate>Sun, 08 Nov 2026 09:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfeWZWGDFEH</guid></item></channel></rss>
+https://cactuscompute.com/blog/mirage#sandbox</description><pubDate>Sun, 08 Nov 2026 11:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfep37Kj2L2</guid></item></channel></rss>
