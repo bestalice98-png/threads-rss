@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 08 Nov 2026 19:13:47 +0000</lastBuildDate><item><title>🚨 이번 주도 AI 업계는 정말 미친 한 주였습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 09 Nov 2026 04:52:10 +0000</lastBuildDate><item><title>🚨 이번 주도 AI 업계는 정말 미친 한 주였습니다.
 
 오픈AI는 해킹 특화 GPT-6 Cyber를 공개했고, 앤트로픽의 비공개 AI는 18년간...</title><link>https://www.threads.net/@choi.openai/post/Dfe5RCgD-Sk</link><description>🚨 이번 주도 AI 업계는 정말 미친 한 주였습니다.
 
@@ -30,44 +30,57 @@ Gemini API와 기업용 Gemini에서 정식 제공됩니다.</description><pubDa
 회사 평가 ExploitGym에서 48.5%를 기록해 GPT-5.6 Cyber의 32.1%를 넘어섰고, 이미 여러 AI로 점검한 Firefox에서도 새 고위험 취약점 81개를 찾아냈습니다.
 취약점 탐색부터 공격 가능성 검증과 패치 제안까지 수행합니다.
 
-사이버 위험 등급은 Critical이며, 현재는 Daybreak Red에서 승인받은 일부 보안팀에 API와 Codex로 제공됩니다.</description><pubDate>Sun, 08 Nov 2026 13:45:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfe5UQ0j-xV</guid></item><item><title>AI 캐릭터와 대화하는 방식도 빠르게 달라지고 있습니다.
+사이버 위험 등급은 Critical이며, 현재는 Daybreak Red에서 승인받은 일부 보안팀에 API와 Codex로 제공됩니다.</description><pubDate>Sun, 08 Nov 2026 13:45:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfe5UQ0j-xV</guid></item><item><title>AI가 작성한 개발 설계서를 다른 AI가 검토하는 오픈소스 플러그인이 공개됐습니다.
 
-Shizuku AI가 캐릭터 전용 음성 모델 Shizuku-Duplex를 발표했는데요...</title><link>https://www.threads.net/@choi.openai/post/DffWeeFCO-T</link><description>AI 캐릭터와 대화하는 방식도 빠르게 달라지고 있습니다.
+구글의 Elephant-Goldfish Model인데요.
+...</title><link>https://www.threads.net/@choi.openai/post/DfgXo3cD92v</link><description>AI가 작성한 개발 설계서를 다른 AI가 검토하는 오픈소스 플러그인이 공개됐습니다.
 
-Shizuku AI가 캐릭터 전용 음성 모델 Shizuku-Duplex를 발표했는데요.
+구글의 Elephant-Goldfish Model인데요.
 
-상대방이 말하는 중에도 듣고 반응하며, 언제 말하고 기다릴지 스스로 판단합니다.
+Elephant는 프로젝트의 전체 맥락을 파악해 설계서를 작성하고, Goldfish는 이전 대화 내용을 전달받지 않은 상태에서 설계서의 문제점과 빠진 내용을 검토합니다.
 
-대화하면서 필요한 정보를 검색할 수 있고, 긴 대화도 이어갈 수 있도록 설계됐습니다.
+개발자는 검토 결과를 확인하고 설계를 승인한 뒤 코딩을 진행합니다.
 
-특히 음성에 맞춰 캐릭터의 표정과 움직임까지 제어할 수 있다는 점이 눈에 띕니다.
+Antigravity, Claude, Codex, ChatGPT에서 활용할 수 있습니다.</description><pubDate>Mon, 09 Nov 2026 03:30:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfgXo3cD92v</guid></item><item><title>깃허브 :
+https://github.com/google/elephant-goldfish-model?linkId=64347553</title><link>https://www.threads.net/@choi.openai/post/DfgXqOqjxds</link><description>깃허브 :
+https://github.com/google/elephant-goldfish-model?linkId=64347553</description><pubDate>Mon, 09 Nov 2026 03:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfgXqOqjxds</guid></item><item><title>AI가 AI를 개선하는 루프가 돌기 시작하면서 권력이 소수에게 옮겨가고 있습니다.
 
-캐릭터 챗봇의 몰입감을 높이는 데 중요한 기술이 될 것 같습니다.</description><pubDate>Sun, 08 Nov 2026 18:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DffWeeFCO-T</guid></item><item><title>블로그 :
-https://shizuku.ai/en/blog/1/</title><link>https://www.threads.net/@choi.openai/post/DffWgbqCO4R</link><description>블로그 :
-https://shizuku.ai/en/blog/1/</description><pubDate>Sun, 08 Nov 2026 18:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DffWgbqCO4R</guid></item><item><title>중국 AI 모델의 정치적 답변 성향을 미세 조정으로 바꾼 사례가 공개됐습니다.
+오픈AI 수석과학자는 수천 명의 전문가가 하던 일을 대형 컴...</title><link>https://www.threads.net/@choi.openai/post/DfgOkChj4Ot</link><description>AI가 AI를 개선하는 루프가 돌기 시작하면서 권력이 소수에게 옮겨가고 있습니다.
 
-Nous Research가 Qwen3.8-27B를 기반으로 Ar...</title><link>https://www.threads.net/@choi.openai/post/DffIssCkREs</link><description>중국 AI 모델의 정치적 답변 성향을 미세 조정으로 바꾼 사례가 공개됐습니다.
+오픈AI 수석과학자는 수천 명의 전문가가 하던 일을 대형 컴퓨터를 가진 몇 사람이 해내는 세상을 경고했고, 텐센트와 딥마인드는 사람 없는 실험실을 짓고 있습니다.
 
-Nous Research가 Qwen3.8-27B를 기반으로 Arete-27B를 발표했는데요.
+지금 이 기회를 잡지 못하면 영원한 노동계층으로 남을 수 있는 시대가 오고 있습니다. 🧵</description><pubDate>Mon, 09 Nov 2026 02:10:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfgOkChj4Ot</guid></item><item><title>1/ 텐센트의 수석 AI 과학자이자 오픈AI 출신 연구자인 야오순위(Shunyu Yao)가 11월 8일 홍콩과학원과 미래과학상이 함께 연 심포지...</title><link>https://www.threads.net/@choi.openai/post/DfgOkhhjwvx</link><description>1/ 텐센트의 수석 AI 과학자이자 오픈AI 출신 연구자인 야오순위(Shunyu Yao)가 11월 8일 홍콩과학원과 미래과학상이 함께 연 심포지엄에서 “AI 모델의 사이버 능력, 그리고 곧 생물학 능력이 실제로 해를 끼칠 수 있는 수준에 이를 것”이라고 말했습니다.
 
-표현의 자유, 민주주의, 개인정보 보호 등 7개 분야에서 약 5,300만 토큰을 추가 학습시켰습니다.
+그는 텐센트가 AI로 복잡한 실험을 처음부터 끝까지 돌리는 "자율 과학 실험실"을 운영할 계획이라며 역단백질 접힘 같은 실험을 예로 들었고, "기술 문제는 시간문제일 뿐이고 더 큰 과제는 사회와 조직"이라고 덧붙였습니다.
 
-자체 평가에서 중국 정부의 공식 입장을 따르는 답변 비율이 22%에서 약 1%로 감소했고, 일반 성능은 거의 유지됐다고 합니다.
+같은 날 구글 딥마인드의 과학 연구를 이끄는 푸시미트 콜리도 "과학적 발견의 속도에서 본격적인 상전이를 목격하고 있다"며 몇 주 안에 결과를 공개하겠다고 예고했습니다.</description><pubDate>Mon, 09 Nov 2026 02:10:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfgOkhhjwvx</guid></item><item><title>2/ 사람 없이 돌아가는 실험실 경쟁은 이미 시작됐습니다.
 
-AI 모델의 정치적 성향도 비교적 적은 추가 학습으로 크게 달라질 수 있다는 점을 보여줍니다.</description><pubDate>Sun, 08 Nov 2026 16:00:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DffIssCkREs</guid></item><item><title>블로그 :
-https://nousresearch.com/arete</title><link>https://www.threads.net/@choi.openai/post/DffIt0wESLe</link><description>블로그 :
-https://nousresearch.com/arete</description><pubDate>Sun, 08 Nov 2026 16:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DffIt0wESLe</guid></item><item><title>용량이 22MB에 불과한 이미지 분석 AI가 공개됐습니다.
+딥마인드는 올해 영국에 첫 자동화 실험실을 세우고, 제미나이와 완전히 연결된 로봇이...</title><link>https://www.threads.net/@choi.openai/post/DfgOla6Dxwo</link><description>2/ 사람 없이 돌아가는 실험실 경쟁은 이미 시작됐습니다.
 
-Cactus Compute가 발표한 Mirage인데요.
+딥마인드는 올해 영국에 첫 자동화 실험실을 세우고, 제미나이와 완전히 연결된 로봇이 하루 수백 개의 신소재를 합성하고 분석하게 하겠다고 밝혔습니다.
 
-사진 속 사물을 찾고, 글...</title><link>https://www.threads.net/@choi.openai/post/Dfep2o3D8Zf</link><description>용량이 22MB에 불과한 이미지 분석 AI가 공개됐습니다.
+오픈AI와 딥마인드 연구자 출신이 세운 Periodic Labs는 지난해 시드에서만 3억 달러(약 4,350억 원)를 받았고, 7월에는 기업가치 75억 달러로 투자를 논의한다는 보도가 나왔습니다.
 
-Cactus Compute가 발표한 Mirage인데요.
+Lila Sciences도 85억 달러 수준의 투자를 협상했고, 오픈AI 과학 조직을 이끌던 케빈 웨일은 직원 약 20명으로 완전 자동화 신약 화학 실험실 Warp Sciences를 세워 2억 1,500만 달러를 유치했습니다. 연구소 자체가 하나의 제품이 되고 있습니다.</description><pubDate>Mon, 09 Nov 2026 02:11:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfgOla6Dxwo</guid></item><item><title>3/ 실험실을 짓는 일조차 AI가 맡기 시작했습니다.
 
-사진 속 사물을 찾고, 글자를 읽고, 물체의 위치 관계까지 한 번에 분석합니다.
+이전 글에서 다룬 토론토대 연구팀의 '스스로 만드는 실험실' 논문에서 연구자가 한 일은 ...</title><link>https://www.threads.net/@choi.openai/post/DfgOmTKDxie</link><description>3/ 실험실을 짓는 일조차 AI가 맡기 시작했습니다.
 
-개발사에 따르면 Galaxy S26에서 이미지 한 장을 분석하는 데 NPU 기준 74ms, CPU 기준 107ms가 걸립니다.
+이전 글에서 다룬 토론토대 연구팀의 '스스로 만드는 실험실' 논문에서 연구자가 한 일은 실험 목표를 말하고, 실험실 사진과 장비 정보를 건네고, AI의 계획을 승인한 것뿐이었습니다.
 
-분석 결과를 Qwen3-0.6B에 전달했더니 이미지 관련 질문의 정답률도 9.3%에서 31.3%로 높아졌다고 합니다.</description><pubDate>Sun, 08 Nov 2026 11:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfep2o3D8Zf</guid></item><item><title>내용 :
-https://cactuscompute.com/blog/mirage#sandbox</title><link>https://www.threads.net/@choi.openai/post/Dfep37Kj2L2</link><description>내용 :
-https://cactuscompute.com/blog/mirage#sandbox</description><pubDate>Sun, 08 Nov 2026 11:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfep37Kj2L2</guid></item></channel></rss>
+AI가 실험실의 디지털 트윈을 만들고 로봇팔 동작을 익혀 양자점 합성을 끝까지 해냈는데요.
+
+논문의 비교표를 보면 기존 실험실의 지식은 연구자의 경험과 장비 하나에 맞춘 스크립트에 묶여 있었지만, 스스로 만드는 실험실은 그 능력을 "다른 실험실에서도 재사용할 수 있는 스킬"로 쌓습니다.
+
+한 곳에서 익힌 실험 능력이 복사되기 시작하면 연구 역량은 그 스킬을 가진 쪽으로 빠르게 모입니다.</description><pubDate>Mon, 09 Nov 2026 02:11:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfgOmTKDxie</guid></item><item><title>Claude가 로봇팔을 움직여 수채화를 완성한 사례가 공개됐습니다.
+
+개발자 nil이 잠들기 전 Claude에게 가을 나무를 그려달라고 요청했는...</title><link>https://www.threads.net/@choi.openai/post/Dffx6f5gLRh</link><description>Claude가 로봇팔을 움직여 수채화를 완성한 사례가 공개됐습니다.
+
+개발자 nil이 잠들기 전 Claude에게 가을 나무를 그려달라고 요청했는데요.
+
+그림을 그리던 중 필요한 색이 없자, Claude가 빨간색과 갈색 계열 물감을 직접 희석하고 사진으로 색을 확인하며 새로운 색을 만들었다고 합니다.
+
+사용된 로봇팔은 xArm 7이며, 총 303번의 붓질로 약 4시간 30분 만에 그림을 완성했습니다.
+
+얀 르쿤은 LLM만으로 공간지능을 구현하기 어렵다고 주장하지만, 모델 규모가 커지면서 나타나는 능력들을 보면 신기합니다.
+
+물론 로봇 제어에 필요한 컴퓨팅 비용과 전용 모델 대비 가성비는 따져봐야겠죠.</description><pubDate>Sun, 08 Nov 2026 22:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dffx6f5gLRh</guid></item></channel></rss>
