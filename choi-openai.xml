@@ -1,125 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 10 Nov 2026 16:06:51 +0000</lastBuildDate><item><title>AI 에이전트가 직접 3D 공간을 제작하고 수정할 수 있는 오픈소스 엔진 67js가 공개됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 10 Nov 2026 21:04:23 +0000</lastBuildDate><item><title>우리가 곧 마주하게 될 AI의 모습입니다.
 
-개발자 An Xuan이 만든 도구인데요.
+Nuance Labs가 18개월간 개발한 AI 아바타 Emma를 공개했는데요.
+기존 AI 아바타와 ...</title><link>https://www.threads.net/@choi.openai/post/Dfk0orbEt0_</link><description>우리가 곧 마주하게 될 AI의 모습입니다.
 
-...</title><link>https://www.threads.net/@choi.openai/post/DfkLdd7DKSg</link><description>AI 에이전트가 직접 3D 공간을 제작하고 수정할 수 있는 오픈소스 엔진 67js가 공개됐습니다.
+Nuance Labs가 18개월간 개발한 AI 아바타 Emma를 공개했는데요.
+기존 AI 아바타와 달리 상대방이 말하는 도중에도 고개를 끄덕이고, 웃거나 표정을 바꾸며 실시간으로 반응합니다.
 
-개발자 An Xuan이 만든 도구인데요.
+Nuplex라는 음성·영상 AI 모델을 기반으로 대화의 흐름까지 파악한다고 합니다.
 
-AI 에이전트가 23개의 MCP 도구를 이용해 3D 장면을 구성하고, PNG 미리보기로 결과를 확인하며 수정할 수 있습니다.
+이제 AI가 얼마나 사람처럼 생겼는지를 넘어, 얼마나 사람처럼 반응하는지가 중요해지고 있습니다.
 
-완성한 장면은 이미지나 MP4 영상으로 내보낼 수도 있습니다.
+앞으로 영상통화에서 대화 상대가 사람인지 AI인지 구분하기 어려워질겁니다.</description><pubDate>Tue, 10 Nov 2026 21:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfk0orbEt0_</guid></item><item><title>데모 :
+https://app.nuancelabs.ai</title><link>https://www.threads.net/@choi.openai/post/Dfk0qDbEtbh</link><description>데모 :
+https://app.nuancelabs.ai</description><pubDate>Tue, 10 Nov 2026 21:00:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfk0qDbEtbh</guid></item><item><title>로봇 학습에 필요한 물리 시뮬레이션 속도가 최대 13배 빨라졌다고 합니다.
 
-코드를 계속 새로 작성하는 대신 AI가 3D 공간을 직접 조작한다는 점에서, 앞으로 3D 제작 방식도 많이 달라질 것 같습니다.</description><pubDate>Tue, 10 Nov 2026 15:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkLdd7DKSg</guid></item><item><title>깃허브 :
-https://github.com/codepawl/67.js</title><link>https://www.threads.net/@choi.openai/post/DfkLezdjL9T</link><description>깃허브 :
-https://github.com/codepawl/67.js</description><pubDate>Tue, 10 Nov 2026 15:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkLezdjL9T</guid></item><item><title>🚨 구글 딥마인드가 소프트웨어 보안의 판도를 바꿀 만한 성과를 공개했습니다.
+Skild AI가 NVIDIA와 함께 개발한 물리 엔진 Steel을...</title><link>https://www.threads.net/@choi.openai/post/DfkqUAOCXft</link><description>로봇 학습에 필요한 물리 시뮬레이션 속도가 최대 13배 빨라졌다고 합니다.
 
-AI 에이전트가 4주 만에 650만 줄의 수학적 증명을 작성해 S...</title><link>https://www.threads.net/@choi.openai/post/DfkFfYnD58D</link><description>🚨 구글 딥마인드가 소프트웨어 보안의 판도를 바꿀 만한 성과를 공개했습니다.
+Skild AI가 NVIDIA와 함께 개발한 물리 엔진 Steel을 오픈소스로 공개했는데요.
 
-AI 에이전트가 4주 만에 650만 줄의 수학적 증명을 작성해 Signal 메신저의 실제 암호화 코드가 핵심 보안 조건을 지킨다는 사실을 검증했습니다.
+20가지 서로 다른 로봇 작업을 동시에 시뮬레이션한 테스트에서 기존 PhysX보다 최대 13배 빠르고, GPU 메모리는 약 62% 적게 사용했습니다.
 
-650만 줄에 이르는 증명을 쓰는 동안 사람은 증명 코드를 한 줄도 직접 쓰지 않았습니다 🧵</description><pubDate>Tue, 10 Nov 2026 14:08:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkFfYnD58D</guid></item><item><title>1/ 구글 딥마인드가 11월 10일 형식 검증용 AI 에이전트 프레임워크 AlphaProof Code를 공개하고, 이 도구로 Signal 메신저...</title><link>https://www.threads.net/@choi.openai/post/DfkFfvDj69p</link><description>1/ 구글 딥마인드가 11월 10일 형식 검증용 AI 에이전트 프레임워크 AlphaProof Code를 공개하고, 이 도구로 Signal 메신저의 암호화 코드가 핵심 보안 성질을 지킨다는 것을 수학적으로 증명했다고 발표했습니다.
+로봇팔이 물건을 집거나 케이블을 다루는 등 다양한 작업을 가상환경에서 학습시키는 데 활용할 수 있습니다.</description><pubDate>Tue, 10 Nov 2026 19:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkqUAOCXft</guid></item><item><title>블로그 :
+https://www.skild.ai/blogs/steel</title><link>https://www.threads.net/@choi.openai/post/DfkqVHiCfl9</link><description>블로그 :
+https://www.skild.ai/blogs/steel</description><pubDate>Tue, 10 Nov 2026 19:30:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkqVHiCfl9</guid></item><item><title>이야.. 진짜 텐센트 잘하네..
 
-대상은 Signal 앱 안에서 암호화를 맡는 공식 라이브러리 libsignal인데요.
-연구진은 사람이 읽는 소스 코드를 넘어, 이 코드를 컴파일해 실제 기기에서 돌아가는 기계어까지 증명했습니다.
+이제 복잡한 옷을 입은 3D 캐릭터도 AI가 자동으로 뼈대를 만들어줍니다.
 
-연구자 5명이 4주 동안 작업했고, Gemini 4 Carbon 기반 에이전트들이 Lean이라는 증명 언어로 약 650만 줄의 증명을 썼습니다.
+텐센트와 대학 연구진이 SIGGR...</title><link>https://www.threads.net/@choi.openai/post/DfkgATBgl5r</link><description>이야.. 진짜 텐센트 잘하네..
 
-Signal의 CTO 에런 크렛은 실제로 돌아가는 코드를 검증 가능한 Lean 정리로 옮긴 일을 큰 돌파구라고 평가했습니다.</description><pubDate>Tue, 10 Nov 2026 14:08:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkFfvDj69p</guid></item><item><title>2/ Signal 프로토콜은 메시지를 보낸 사람과 받는 사람만 내용을 볼 수 있게 하는 종단간 암호화 규칙입니다.
+이제 복잡한 옷을 입은 3D 캐릭터도 AI가 자동으로 뼈대를 만들어줍니다.
 
-Signal 앱에서 출발했고...</title><link>https://www.threads.net/@choi.openai/post/DfkFgqOD6Aw</link><description>2/ Signal 프로토콜은 메시지를 보낸 사람과 받는 사람만 내용을 볼 수 있게 하는 종단간 암호화 규칙입니다.
+텐센트와 대학 연구진이 SIGGRAPH Asia 2026에서 TailorRig를 발표했는데요.
 
-Signal 앱에서 출발했고, 지금은 변형된 형태로 왓츠앱, 메타의 메신저, 구글 메시지에도 들어가 있어 매일 수십억 명의 대화가 이 설계에 기대고 있는데요.
+기존 자동 리깅 기술은 치마나 망토, 긴 소매가 움직일 때 형태가 망가지는 문제가 있었습니다.
 
-핵심 장치는 두 가지입니다.
-대화를 시작할 때 두 기기가 비밀 키를 맞추는 PQXDH 핸드셰이크와, 메시지를 주고받을 때마다 키를 새로 바꾸는 트리플 래칫입니다.
+TailorRig는 옷에 별도의 뼈대를 추가해 자연스럽게 움직이도록 만들고, 기존 캐릭터의 뼈대도 활용할 수 있습니다.
 
-둘 다 키 일부가 털려도 피해가 번지지 않게, 그리고 미래의 양자컴퓨터 공격에도 버티도록 설계됐고 이번 증명은 두 장치를 함께 다뤘습니다.
+학습용 3D 캐릭터 데이터 39,073개도 Hugging Face에 공개됐습니다.</description><pubDate>Tue, 10 Nov 2026 18:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkgATBgl5r</guid></item><item><title>프로젝트 주소 :
+https://huggingface.co/datasets/tencent/TailorRig</title><link>https://www.threads.net/@choi.openai/post/DfkgDkHgrM4</link><description>프로젝트 주소 :
+https://huggingface.co/datasets/tencent/TailorRig</description><pubDate>Tue, 10 Nov 2026 18:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkgDkHgrM4</guid></item><item><title>🚨 와.. 구글의 로봇 AI가 무서운 속도로 발전하고 있습니다.
 
-이번에 증명한 코드는 Signal의 자체 구현이고, 왓츠앱 같은 앱은 같은 설계를 각자 구현해 씁니다.</description><pubDate>Tue, 10 Nov 2026 14:08:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkFgqOD6Aw</guid></item><item><title>3/ 보통 소프트웨어 보안은 테스트와 버그 찾기로 지킵니다.
+구글 딥마인드가 공개한 Gemini Robotics 2.5는 리본을 묶고, 옷...</title><link>https://www.threads.net/@choi.openai/post/DfkS4XZHE8O</link><description>🚨 와.. 구글의 로봇 AI가 무서운 속도로 발전하고 있습니다.
 
-수많은 입력을 넣어 보고 문제가 없으면 안전하다고 보는 방식인데, 넣어 보지 않은...</title><link>https://www.threads.net/@choi.openai/post/DfkFhgpj1ag</link><description>3/ 보통 소프트웨어 보안은 테스트와 버그 찾기로 지킵니다.
+구글 딥마인드가 공개한 Gemini Robotics 2.5는 리본을 묶고, 옷을 개는 등 섬세한 손동작까지 해냅니다.
 
-수많은 입력을 넣어 보고 문제가 없으면 안전하다고 보는 방식인데, 넣어 보지 않은 입력에서 터지는 버그는 그대로 남습니다.
+메르세데스 실제 공장에서는 부품 분류 성공률 96%를 기록했는데요.
 
-형식 검증은 프로그램이 지켜야 할 성질을 수학 정리로 적고, 가능한 모든 실행에서 그 성질이 성립한다는 것을 증명합니다.
+더 놀라운 건 이런 발전을 가능하게 한 핵심 기술이 다른 AI 모델에 있다는 점입니다. 🧵</description><pubDate>Tue, 10 Nov 2026 16:35:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkS4XZHE8O</guid></item><item><title>1/ 구글 딥마인드가 11월 10일 Gemini Robotics 2.5를 공개했습니다.
 
-증명이 끝나면 그 성질을 깨는 버그나 공격은 존재할 수 없게 되는데요.
-증명의 각 단계는 Lean이라는 프로그램이 기계적으로 검사합니다.
+카메라로 본 장면과 사람의 지시를 받아 로봇 팔과 손의...</title><link>https://www.threads.net/@choi.openai/post/DfkS5j6DMne</link><description>1/ 구글 딥마인드가 11월 10일 Gemini Robotics 2.5를 공개했습니다.
 
-AI가 말로 그럴듯하게 풀어 쓴 증명은 기계로 검사하면 중간에서 무너지는 경우가 많은데, Lean은 처음부터 끝까지 빈틈없이 맞아떨어진 증명만 통과시킵니다.
+카메라로 본 장면과 사람의 지시를 받아 로봇 팔과 손의 동작으로 바꾸는 VLA(시각-언어-행동) 모델인데요.
 
-논문도 AI로 버그를 빨리 찾아 고치는 방식에는 한계가 있다고 보고, 그 대안으로 형식 검증을 내세웠습니다.</description><pubDate>Tue, 10 Nov 2026 14:08:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkFhgpj1ag</guid></item><item><title>구글 딥마인드가 AI 에이전트 팀들에게 양자 알고리즘을 맡겼더니, 기존 최고 기록보다 290배 싼 회로가 나왔습니다.
+7월에 나온 Gemini Robotics 2가 휴머노이드의 몸 전체를 움직이게 했다면, 이번 버전은 같은 몸으로 해낼 수 있는 작업의 가짓수와 손끝 정밀도를 늘렸습니다.
 
-핵융합과 신약 대사 시뮬...</title><link>https://www.threads.net/@choi.openai/post/Dfj-vmXDwDG</link><description>구글 딥마인드가 AI 에이전트 팀들에게 양자 알고리즘을 맡겼더니, 기존 최고 기록보다 290배 싼 회로가 나왔습니다.
+딥마인드는 집게로 페이스트리 담기, 선물 상자에 리본 묶기, 피펫으로 액체 옮기기 같은 200개가 넘는 작업으로 성능을 쟀습니다.
 
-핵융합과 신약 대사 시뮬레이션 비용도 최대 10.9배 줄였는데, 모든 결과가 수학적 증명까지 마친 상태입니다 🧵</description><pubDate>Tue, 10 Nov 2026 13:09:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfj-vmXDwDG</guid></item><item><title>1/ 구글 딥마인드와 구글 퀀텀 AI가 AI 에이전트로 양자 프로그램을 설계하고 정확성까지 증명하는 연구를 arXiv에 공개했습니다.
+판단 모델 ER이 무엇을 어떤 순서로 할지 정하면, 2.5는 그 지시를 받아 실제 손과 팔을 움직이는 역할입니다.
 
-연구자가...</title><link>https://www.threads.net/@choi.openai/post/Dfj-wd7D5Ka</link><description>1/ 구글 딥마인드와 구글 퀀텀 AI가 AI 에이전트로 양자 프로그램을 설계하고 정확성까지 증명하는 연구를 arXiv에 공개했습니다.
+일반 공개는 없고 로보틱스 파트너사부터 배포합니다.</description><pubDate>Tue, 10 Nov 2026 16:36:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkS5j6DMne</guid></item><item><title>2/ 딥마인드가 이번 개선의 이유로 가장 먼저 든 건 10월에 정식 공개한 범용 모델 Gemini 4 Argon입니다.
 
-연구자가 증명 언어 Lean으로 문제와 목표 비용을 적어 두면, 여러 LLM 에이전트 팀이 양자 프로그램을 짜고 그 프로그램이 맞다는 증명과 드는 비용까지 함께 제출합니다.
+로봇을 가르치려면 실제...</title><link>https://www.threads.net/@choi.openai/post/DfkS6N5DGMO</link><description>2/ 딥마인드가 이번 개선의 이유로 가장 먼저 든 건 10월에 정식 공개한 범용 모델 Gemini 4 Argon입니다.
 
-다섯 문제에서 기존 최고 기록을 넘었는데요.
-양자 산술 연산인 arcsin은 290배, 핵융합·광화학·신약 대사 시뮬레이션은 각각 10.9배, 8.08배, 2.49배, 병렬 그로버 탐색은 최대 1.41배 비용을 줄였습니다.</description><pubDate>Tue, 10 Nov 2026 13:09:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfj-wd7D5Ka</guid></item><item><title>2/ 이 연구가 어려운 이유는 양자 알고리즘을 시험해 볼 기계가 아직 없기 때문입니다. 
+로봇을 가르치려면 실제 동작 데이터가 많이 필요한데, 사람이 로봇을 원격 조종해 시범을 쌓는 방식은 느리고 비쌉니다.
 
-일반 컴퓨터로는 작은 규모만 시뮬레이션할 수 있는데,...</title><link>https://www.threads.net/@choi.openai/post/Dfj-xnlD_EZ</link><description>2/ 이 연구가 어려운 이유는 양자 알고리즘을 시험해 볼 기계가 아직 없기 때문입니다. 
+Argon은 실제 카메라에 찍힌 테이블 장면 하나를 보고 컵과 접시, 그릇까지 그대로 옮긴 가상 복제 환경을 만든 뒤, 배경과 물체 배치를 바꿔 가며 수천 번의 연습 데이터를 생성합니다.
 
-일반 컴퓨터로는 작은 규모만 시뮬레이션할 수 있는데, 유망한 응용은 오류를 바로잡은 논리 큐비트 수천 개로 연산을 10억~1000조 번 돌려야 합니다.
+이 데이터를 실제 시범과 섞어 학습한 모델은 처음 보는 장면에 적응하는 평가에서 36%에서 64%로 올랐습니다.
 
-초기 내결함성 양자컴퓨터가 감당할 연산은 100만 번 수준으로 봅니다.
-10월에 정리한 앤트로픽 연구에서 Claude Mythos 5가 양자회로를 줄일 때는 일반 컴퓨터로 정답을 빠르게 확인할 수 있는 회로만 다뤘는데요.
+10월 로보틱스용 Argon 글에서도 사진 한 장으로 만든 시뮬레이션에서 4,500개가 넘는 연습 기록을 모아 실제 로봇 성공률을 56%에서 75%로 올린 사례를 공개했었습니다.</description><pubDate>Tue, 10 Nov 2026 16:36:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkS6N5DGMO</guid></item><item><title>3/ Argon이 맡은 두 번째 일은 실패 원인 찾기입니다.
 
-이번에는 핵융합 문제처럼 시스템 큐비트만 3,948개인 문제까지 다뤘습니다.
-실행해 볼 수 없으니 수학적 증명으로 정답을 확인한 겁니다.</description><pubDate>Tue, 10 Nov 2026 13:09:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfj-xnlD_EZ</guid></item><item><title>3/ 방식은 이렇습니다.
+로봇이 실패한 영상을 보고 왜 실패했는지 가설을 세운 뒤, 시뮬레이션과 실제 로봇...</title><link>https://www.threads.net/@choi.openai/post/DfkWZToDwHo</link><description>3/ Argon이 맡은 두 번째 일은 실패 원인 찾기입니다.
 
-연구자가 Lean 파일에 정답 조건과 비용 조건을 정리로 적고, 프로그램과 증명이 들어갈 자리는 비워 둡니다.
+로봇이 실패한 영상을 보고 왜 실패했는지 가설을 세운 뒤, 시뮬레이션과 실제 로봇에서 실험해 효과가 있는 수정만 남깁니다.
 
-에이...</title><link>https://www.threads.net/@choi.openai/post/Dfj-y2Qj0Nh</link><description>3/ 방식은 이렇습니다.
+공개 영상에서 Argon은 양팔 로봇의 실패 장면을 보고, 잡는 방식별로 데이터에 라벨을 다시 붙이기, 화면과 지시문 사이에 우연히 생긴 연관 끊기 등 네 가지 가설을 냈습니다.
 
-연구자가 Lean 파일에 정답 조건과 비용 조건을 정리로 적고, 프로그램과 증명이 들어갈 자리는 비워 둡니다.
+그중 세 가지를 실제 로봇으로 시험했더니 기준 성공률 55.3%를 첫 가설은 51.5%로 떨어뜨려 탈락했고, 나머지 둘은 61.6%와 67.9%로 올려 채택됐습니다.
 
-에이전트는 그 빈칸에 양자 프로그램과 필요한 보조 큐비트 수, 비용, 증명을 채워 넣습니다.
+10월 구글의 멜빈 존슨은 엔지니어들이 원인을 못 찾던 제미나이 훈련 장비의 HBM 메모리 불량을 Argon이 찾아냈다고 소개했는데요.
 
-비용은 큐비트 수에 오류 보정 양자컴퓨터에서 가장 비싼 T 게이트 수를 곱한 값입니다.
-
-에이전트가 정리를 몰래 약하게 고치거나 정의를 바꾸고 공리를 추가해 통과하려 할 수 있어서, 외부 검증기가 모든 제출물을 고정된 명세와 다시 대조합니다.
-
-실제로 토폴리 게이트를 세는 방식의 허점을 파고든 사례가 나와 연구진이 명세를 고치기도 했습니다.</description><pubDate>Tue, 10 Nov 2026 13:10:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfj-y2Qj0Nh</guid></item><item><title>🚨 오픈AI가 자사 AI를 35초 안에 멈추는 'Control Room'을 공개했습니다.
-
-9월 DNS 사건 때는 최고 등급 경보가 울리고도 모...</title><link>https://www.threads.net/@choi.openai/post/DfjzYcEj-Ai</link><description>🚨 오픈AI가 자사 AI를 35초 안에 멈추는 'Control Room'을 공개했습니다.
-
-9월 DNS 사건 때는 최고 등급 경보가 울리고도 모델을 실제로 멈추기까지 2시간 반이 걸렸는데요.
-
-연구용 AI의 출력을 한곳에서 끊는 구조를 정리했습니다 🧵</description><pubDate>Tue, 10 Nov 2026 11:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfjzYcEj-Ai</guid></item><item><title>1/ 오픈AI가 연구 인프라에서 돌아가는 모델 작업을 한곳에서 추적하고, 안전·보안 문제가 생기면 빠르게 멈추는 중앙 시스템 Control Ro...</title><link>https://www.threads.net/@choi.openai/post/DfjzZL9D9Nj</link><description>1/ 오픈AI가 연구 인프라에서 돌아가는 모델 작업을 한곳에서 추적하고, 안전·보안 문제가 생기면 빠르게 멈추는 중앙 시스템 Control Room을 공개했습니다.
-
-모델 훈련과 평가에 쓰는 에이전트 샘플링, 데이터 처리까지 연구용 추론 작업 전부를 연결하는데요.
-
-오정렬 감시 시스템과 함께 돌아가고, 작업을 멈추거나 일시 중지하기로 결정하면 35초 안에 모델 출력을 끊습니다.
-
-다른 시스템이 고장 나도 계속 작동하도록 만들었고, Control Room 자체가 멈추면 모델 출력도 멈춥니다.
-
-연구 인프라에는 이미 깔렸고, 외부 서비스용 배포는 원래 중앙에서 관리돼 빠르게 내릴 수 있는 체계가 있다고 설명했습니다.</description><pubDate>Tue, 10 Nov 2026 11:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfjzZL9D9Nj</guid></item><item><title>2/ 구조는 세 부분입니다.
-
-강화학습 실험이나 평가처럼 연구자가 돌리는 작업, GPU 위에서 모델을 돌리는 추론 엔진, 그리고 중앙의 Cont...</title><link>https://www.threads.net/@choi.openai/post/DfjzaPADz72</link><description>2/ 구조는 세 부분입니다.
-
-강화학습 실험이나 평가처럼 연구자가 돌리는 작업, GPU 위에서 모델을 돌리는 추론 엔진, 그리고 중앙의 Control Room인데요.
-
-작업은 시작할 때 Control Room에서 작업 번호(job_id)를 받고, 모델에 출력을 요청할 때마다 이 번호를 함께 보냅니다.
-
-엔진은 요청을 처리하기 전에 매번 Control Room에 이 작업이 아직 돌아가도 되는지 묻고, 허락받은 경우에만 출력을 돌려줍니다.
-
-에이전트로 추론하는 연구 작업은 모두 승인된 안전성 입증 자료(safety case)와 연결돼 있어야 합니다.
-
-모델에 말을 걸 때마다 출입증을 확인받는 구조라고 보면 됩니다.</description><pubDate>Tue, 10 Nov 2026 11:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfjzaPADz72</guid></item><item><title>3/ 멈추는 방식도 단순합니다.
-
-사람이나 감시 시스템이 작업을 멈추라고 하면, Control Room은 그 작업 번호를 중지 상태로 표시합니다...</title><link>https://www.threads.net/@choi.openai/post/DfjzbTCD9Kn</link><description>3/ 멈추는 방식도 단순합니다.
-
-사람이나 감시 시스템이 작업을 멈추라고 하면, Control Room은 그 작업 번호를 중지 상태로 표시합니다.
-
-연구자의 실험 코드는 계속 돌아가도 상관없는데요.
-그 작업이 다음에 어느 엔진의 어떤 모델에 출력을 요청하든, 엔진이 권한을 확인하는 순간 거부당합니다.
-
-엔진은 모델 출력 대신 거부 응답을 돌려주고, 같은 엔진을 쓰는 다른 정상 작업은 그대로 돌아갑니다.
-
-프로그램을 강제로 끄는 대신 모델이 더는 답하지 못하게 막는 방식이라, 실험 코드가 어떻게 짜여 있든 정지가 먹힙니다.</description><pubDate>Tue, 10 Nov 2026 11:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfjzbTCD9Kn</guid></item></channel></rss>
+이번에는 같은 원인 추적을 로봇 실패 영상에 적용했습니다.</description><pubDate>Tue, 10 Nov 2026 16:36:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfkWZToDwHo</guid></item></channel></rss>
