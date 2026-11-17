@@ -1,78 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 16 Nov 2026 23:34:25 +0000</lastBuildDate><item><title>Liquid AI가 텍스트, 이미지, 음성을 처리할 수 있는 AI 판단 모델 d1.2와 d1.2-ultra를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 17 Nov 2026 06:46:51 +0000</lastBuildDate><item><title>구글의 Gemini Notebook에 자료를 대화형 웹사이트로 만드는 기능이 추가되었습니다.
 
-d1.2-ultra...</title><link>https://www.threads.net/@choi.openai/post/Df0i05Zj_6E</link><description>Liquid AI가 텍스트, 이미지, 음성을 처리할 수 있는 AI 판단 모델 d1.2와 d1.2-ultra를 공개했습니다.
+채팅창에 "make me a site"(웹사이트 ...</title><link>https://www.threads.net/@choi.openai/post/Df1Lz8IjKqa</link><description>구글의 Gemini Notebook에 자료를 대화형 웹사이트로 만드는 기능이 추가되었습니다.
 
-d1.2-ultra는 Artificial Analysis Decision Index에서 75점으로 1위를 기록했는데요.
+채팅창에 "make me a site"(웹사이트 만들어줘)라고 입력하고 원하는 내용을 설명하면 되는데요.
 
-예를 들어 청구서에서 결제 금액을 추출하거나, 이미지 속 특정 물체의 위치를 찾고, 숫자의 예상 범위를 제시할 수 있습니다.
+예를 들어 업로드한 자료로 매출 분석 대시보드, 시험 공부용 연대표, 프로젝트 일정 관리 페이지를 만들 수 있습니다.
 
-판단 결과의 신뢰도도 제공해 확신이 낮은 작업은 사람이 검토하도록 설정할 수 있습니다.
+완성된 웹사이트는 새 탭에서 열거나 다른 사람에게 공유할 수 있습니다.
 
-API는 입력 100만 토큰당 $0.02부터이며 출력 토큰 비용은 없습니다.</description><pubDate>Mon, 16 Nov 2026 23:32:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df0i05Zj_6E</guid></item><item><title>블로그 :
-https://www.liquid.ai/blog/d1-2</title><link>https://www.threads.net/@choi.openai/post/Df0i1baD0w9</link><description>블로그 :
-https://www.liquid.ai/blog/d1-2</description><pubDate>Mon, 16 Nov 2026 23:32:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df0i1baD0w9</guid></item><item><title>미국 정부가 해외 데이터센터를 통한 첨단 AI 반도체 우회 사용을 막기 위한 새로운 규정을 발표했습니다.
+현재 전 세계 18세 이상 사용자가 웹에서 이용할 수 있으며, 모바일 앱에도 추가될 예정입니다.</description><pubDate>Tue, 17 Nov 2026 05:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df1Lz8IjKqa</guid></item><item><title>블로그 :
+https://blog.google/innovation-and-ai/products/gemini-notebook/interactive...</title><link>https://www.threads.net/@choi.openai/post/Df1L1GiDFk-</link><description>블로그 :
+https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/</description><pubDate>Tue, 17 Nov 2026 05:31:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df1L1GiDFk-</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 AI가 스스로 차세대 버전을 설계하는 ‘재귀적 자기 개선(RSI)’과 관련해, 명확한 경계선을...</title><link>https://www.threads.net/@choi.openai/post/Df1BadmDL57</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 AI가 스스로 차세대 버전을 설계하는 ‘재귀적 자기 개선(RSI)’과 관련해, 명확한 경계선을 긋기는 어렵지만 현재 인간의 감독 없이 모델이 스스로 급격히 진화하는 단계는 아니라고 선을 그었습니다.
 
-미국 상무부 산업안보국(BIS)은 1...</title><link>https://www.threads.net/@choi.openai/post/DfzmuFADw3h</link><description>미국 정부가 해외 데이터센터를 통한 첨단 AI 반도체 우회 사용을 막기 위한 새로운 규정을 발표했습니다.
+자사의 AI 기술을 활용해 차세대 모델 개발 속도를 높이고 있는 것은 사실이지만, 안전성 확보를 위해 기술 발전 속도를 의도적으로 조절하고 있다는 설명입니다.
+특히 이러한 기술을 정렬(Alignment) 연구를 더 빠르고 정교하게 수행하는 데 활용하는 것은 긍정적이라고 평가했습니다.
 
-미국 상무부 산업안보국(BIS)은 11월 16일, 첨단 AI 칩과 서버에 대한 원격 접근을 규제하는 잠정 최종 규칙을 공개했는데요.
+그는 모든 의사결정의 최우선 원칙으로 ‘인류가 미래에 대한 통제권을 영원히 유지해야 한다’는 점을 꼽았습니다.
+알트만은 “인간이 미래의 통제권을 계속 쥐고 있어야 한다는 입장은 흔들림이 없을 것”이라며, 급진적인 자동 개선보다는 실용적인 중도적 관점에서 안전성과 기술 발전을 조율하겠다고 강조했습니다.</description><pubDate>Tue, 17 Nov 2026 04:00:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df1BadmDL57</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=oi-E6xB4wSU</title><link>https://www.threads.net/@choi.openai/post/Df1BbwGDO1E</link><description>풀영상 :
+https://www.youtube.com/watch?v=oi-E6xB4wSU</description><pubDate>Tue, 17 Nov 2026 04:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df1BbwGDO1E</guid></item><item><title>10년 걸릴 발견이 3년 안에 나올 수 있다고 과학자 5명 중 1명이 답했습니다.
 
-예를 들어 미국의 반도체 수출 제한을 받는 국가가 제3국의 데이터센터를 빌려 첨단 AI 연산 자원을 사용하는 우회 경로를 차단하려는 것입니다.
+수학과 통계 분야에서는 그 비율이 31%까지 올라갑니다
 
-기존의 반도체 수출 통제를 원격 컴퓨팅 접근까지 확대하려는 움직임입니다.</description><pubDate>Mon, 16 Nov 2026 14:47:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfzmuFADw3h</guid></item><item><title>내용 :
-https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-...</title><link>https://www.threads.net/@choi.openai/post/DfzmuZ2j_vd</link><description>내용 :
-https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology</description><pubDate>Mon, 16 Nov 2026 14:47:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfzmuZ2j_vd</guid></item><item><title>폴 크리스티아노(Paul Christiano)는 AI가 인간 외주(Gig work) 업무를 수행하는 속도가 경이로운 수준으로 빨라지고 있다고 밝...</title><link>https://www.threads.net/@choi.openai/post/Dfzd4PkCcH3</link><description>폴 크리스티아노(Paul Christiano)는 AI가 인간 외주(Gig work) 업무를 수행하는 속도가 경이로운 수준으로 빨라지고 있다고 밝혔습니다.
+같...</title><link>https://www.threads.net/@choi.openai/post/Df0yMpfjwT-</link><description>10년 걸릴 발견이 3년 안에 나올 수 있다고 과학자 5명 중 1명이 답했습니다.
 
-AI 안전 센터(CAIS)가 만든 약 10시간 분량의 실무 평가 지표인 ‘원격 노동 지수(Remote Labor Index)’에서, AI의 합격률은 1년 전 2% 미만에서 일주일 전 20%, 그리고 불과 하루 만에 약 40%까지 수직 상승했습니다.
+수학과 통계 분야에서는 그 비율이 31%까지 올라갑니다
 
-데이터 시각화, 문서 포맷팅, 간단한 프로그래밍 및 경량 아키텍처 설계 등 폭넓은 실무 영역에서 성능이 급증하고 있습니다.
+같은 품질의 연구를 AI 없이 하려면 1.9배의 시간이 걸리고, 98%가 자기 분야의 발견이 빨라질 것이라고 답했습니다.
 
-그는 “수학이나 프로그래밍보다 훨씬 복잡하고 지저분한 현실 영역에서도 AI가 성공할 수 있는 업무의 시간 규모가 극도로 빠르게 성장하고 있다”고 강조했습니다.
+오픈AI가 과학자 1,819명의 ChatGPT 사용 기록 58만 건과 설문을 분석한 보고서 Science at the Frontier를 정리했습니다 🧵</description><pubDate>Tue, 17 Nov 2026 02:21:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df0yMpfjwT-</guid></item><item><title>1/ 오픈AI 경제연구팀이 11월 16일 보고서 ‘Science at the Frontier’를 공개했습니다.
 
-AI의 실무 대체 속도가 예상치를 훨씬 뛰어넘으며 일자리 시장을 빠르게 잠식하고 있습니다.</description><pubDate>Mon, 16 Nov 2026 13:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfzd4PkCcH3</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=QQUfMHx5Aug</title><link>https://www.threads.net/@choi.openai/post/Dfzd5VriaIg</link><description>풀영상 :
-https://www.youtube.com/watch?v=QQUfMHx5Aug</description><pubDate>Mon, 16 Nov 2026 13:30:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Dfzd5VriaIg</guid></item><item><title>올해 크리스마스를 행복하게 보내세요.
+올여름 시범 운영한 학술 연구자...</title><link>https://www.threads.net/@choi.openai/post/Df02L8_j3hR</link><description>1/ 오픈AI 경제연구팀이 11월 16일 보고서 ‘Science at the Frontier’를 공개했습니다.
 
-내년부터는 예상해 본 적도, 상상해 본 적도 없는 발전 속도와 사회적 혼란이 함께 올 것이라고 생각합니다...</title><link>https://www.threads.net/@choi.openai/post/DfzSaKVD-KY</link><description>올해 크리스마스를 행복하게 보내세요.
+올여름 시범 운영한 학술 연구자용 ChatGPT 프로그램에서 과학자 1,819명이 8월 20일부터 9월 22일까지 보낸 과학 관련 메시지 58만 186건을 분석하고, 그중 251명에게 설문을 받은 연구인데요.
 
-내년부터는 예상해 본 적도, 상상해 본 적도 없는 발전 속도와 사회적 혼란이 함께 올 것이라고 생각합니다.
+설문에 답한 과학자들은 같은 일을 같은 품질로 해내는 데 AI가 없었다면 1.9배의 시간이 들었을 것이라고 답했고, 98%는 AI가 자기 분야의 발견을 앞당길 것으로 내다봤습니다.
 
-이번 AI 사건은 지난 2년 동안 적어 온 혼란의 순서에서 첫 장이 넘어간 장면입니다.
+오픈AI는 같은 날 이 프로그램의 무료 지원 대상을 전 세계 연구자 20만 명으로 늘린다고 발표했습니다.</description><pubDate>Tue, 17 Nov 2026 02:21:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df02L8_j3hR</guid></item><item><title>2/ 조사 대상은 생물학, 화학, 수학, 컴퓨터과학, 물리학, 공학, 지구과학 분야에서 소속이 확인된 대학 연구자들입니다.
 
-전문직과 일자리, 기득권, 그다음에 올 일까지 과거에 쓴 글을 전부 꺼내 이어 봤습니다 🧵</description><pubDate>Mon, 16 Nov 2026 11:50:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfzSaKVD-KY</guid></item><item><title>1/ 11월 15일 제63회 세무사 시험 수석 합격자가 AI로 부정행위를 했다고 경찰에 자수했습니다.
+대화 원문은 자동 ...</title><link>https://www.threads.net/@choi.openai/post/Df02M7GD7cx</link><description>2/ 조사 대상은 생물학, 화학, 수학, 컴퓨터과학, 물리학, 공학, 지구과학 분야에서 소속이 확인된 대학 연구자들입니다.
 
-초소형 카메라로 시험 문제를 찍어 AI에...</title><link>https://www.threads.net/@choi.openai/post/DfzSak6D7iy</link><description>1/ 11월 15일 제63회 세무사 시험 수석 합격자가 AI로 부정행위를 했다고 경찰에 자수했습니다.
+대화 원문은 자동 분류기만 읽었고, 연구진은 분류 결과만 받아서 분석했는데요.
+분류기는 메시지마다 문헌 읽기, 글쓰기, 분석, 코드 개발처럼 연구의 어느 단계에 해당하는지를 10개 단계와 40개 세부 작업으로 나눠 표시했습니다.
 
-초소형 카메라로 시험 문제를 찍어 AI에 보내고 스마트폰으로 답을 확인했다는 설명인데요.
-그는 1차에서 400점 만점에 397.5점을 받았고, 응시자의 74%가 과락한 세법학개론도 만점이었습니다.
+사용 기록에는 ChatGPT의 대화와 코딩 도구 Codex가 함께 들어갔고, 이 프로그램의 데이터는 기본 설정에서 모델 학습에 쓰이지 않습니다.
 
-공인회계사 1차 시험에서도 같은 방법을 썼다고 털어놨고요.
-16일 경찰은 그가 낸 카메라와 휴대전화를 분석하면서 공범이 있었는지도 조사하겠다고 밝혔고, 이번 주 수능을 앞두고 46명 규모의 부정행위 대책반까지 꾸렸습니다.
+논문은 버클리대의 크리스 랴오, 오픈AI의 칼 샨, 듀크대 교수이면서 오픈AI에 있는 로니 채터지가 썼습니다.</description><pubDate>Tue, 17 Nov 2026 02:22:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df02M7GD7cx</guid></item><item><title>3/ 과학자들이 ChatGPT를 가장 많이 쓴 곳은 읽고 쓰는 일이었습니다.
 
-저는 이 사건이 부정행위 한 건으로 끝나지 않을 것이라고 예상합니다.
-지난 2년 동안 일자리와 전문직, 사회적 혼란에 대해 써 온 글들이 이 사건과 그대로 이어지기 때문입니다.</description><pubDate>Mon, 16 Nov 2026 11:50:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfzSak6D7iy</guid></item><item><title>2/ 저는 이 사건이 이제야 터진 것이 오히려 의문스럽습니다.
+평균적인 과학자의 메시지 가운데 문헌 읽기와 지식 습득이 27.7...</title><link>https://www.threads.net/@choi.openai/post/Df02N5PD624</link><description>3/ 과학자들이 ChatGPT를 가장 많이 쓴 곳은 읽고 쓰는 일이었습니다.
 
-AI 이전에는 과연 없었을까요. 초소형 카메라로 문제를 찍어 보내면 밖에 있는 ...</title><link>https://www.threads.net/@choi.openai/post/DfzSbF6j2eO</link><description>2/ 저는 이 사건이 이제야 터진 것이 오히려 의문스럽습니다.
+평균적인 과학자의 메시지 가운데 문헌 읽기와 지식 습득이 27.7%, 글쓰기와 발표 준비가 26.9%, 과학 분석이 16.7%, 연구용 소프트웨어와 코드 개발이 13.8%로, 이 네 가지가 85%를 차지했는데요.
 
-AI 이전에는 과연 없었을까요. 초소형 카메라로 문제를 찍어 보내면 밖에 있는 사람이 풀어 주는 방식 자체가 없었을까요.
+아이디어와 가설 세우기는 5.3%, 행정 업무는 2.7%, 동료 심사는 2.1%, 데이터 수집은 1.0%였습니다.
 
-2004년 수능에서는 휴대전화 문자로 답을 돌린 조직적 부정행위가 광주에서 적발됐고, 그 시험에서 329명의 성적이 무효 처리됐습니다.
+연구를 처음부터 끝까지 AI에게 맡기는 자율 연구는 0.4%였습니다.
 
-2013년에는 옷깃에 단 소형 카메라로 토익 시험지를 찍어 내보내고, 응시생은 고막 이어폰으로 답을 듣던 일당이 붙잡혔는데요.
+과학자들은 낯선 개념을 이해하고, 논문 초안을 쓰고, 결과를 분석하고, 코드를 짜는 매일의 일에 AI를 가장 먼저 붙여 쓰고 있습니다.</description><pubDate>Tue, 17 Nov 2026 02:22:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df02N5PD624</guid></item><item><title>오픈AI CEO 샘 알트만(Sam Altman)은 인류 장기 발전의 가장 중요한 원동력은 과학적 이해이며, 차세대 AI 모델이 곧 “과학적 발견...</title><link>https://www.threads.net/@choi.openai/post/Df0s5rADdfx</link><description>오픈AI CEO 샘 알트만(Sam Altman)은 인류 장기 발전의 가장 중요한 원동력은 과학적 이해이며, 차세대 AI 모델이 곧 “과학적 발견의 엔진”이 되어 세상을 놀라게 할 것이라고 밝혔습니다.
 
-올해 7월에도 초소형 이어폰으로 한국어능력시험 답을 불러 준 조직이 적발됐습니다. 방법은 20년 전부터 있었습니다.
+그는 언어 모델이 경제를 빠르게 바꿨듯 AI가 과학 연구의 생산성을 극대화할 것이라고 설명했습니다.
+수학자를 넘어 물리학자, 화학자, 재료 과학자들 역시 AI 덕분에 기존에는 불가능했던 영역을 발견하고 있으며, 이는 곧 “10년, 나아가 100년 치 과학 발전을 단 1년 만에 이룩하는 세상”으로 이어진다는 것입니다.
 
-달라진 것은 밖에서 문제를 풀어 주던 사람의 자리에 AI가 들어왔다는 점입니다.</description><pubDate>Mon, 16 Nov 2026 11:50:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfzSbF6j2eO</guid></item><item><title>3/ 밖에 있던 사람이 AI로 바뀌면 부정행위에 필요한 조건이 크게 줄어듭니다.
+알트만은 이렇게 압축된 과학적 성과가 우리가 일상에서 쓰는 제품과 서비스, 기술로 복리처럼 쌓여 엄청난 경제적·사회적 가치를 창출할 것이라고 내다봤습니다.
 
-2013년 일당은 대신 풀어 줄 영어 강사를 시험장에 들여보냈...</title><link>https://www.threads.net/@choi.openai/post/DfzSb5ED_10</link><description>3/ 밖에 있던 사람이 AI로 바뀌면 부정행위에 필요한 조건이 크게 줄어듭니다.
-
-2013년 일당은 대신 풀어 줄 영어 강사를 시험장에 들여보냈고, 응시생 한 명에게 200만 원에서 400만 원을 받았는데요.
-
-이제는 카메라와 통신 모듈만 있으면 혼자서도 가능합니다. 그래서 이런 부정행위가 올해 처음 생겼을 것 같지는 않습니다.
-
-문제를 밖으로 내보내 답을 받는 방식은 계속 있어 왔을 가능성이 높고, 이번에는 풀어 주는 쪽이 AI였다는 점만 새로 추가됐습니다.
-
-11월 12일 글에서 카메라가 없는 스마트글래스와 펜형 기기를 예로 들며 안경 검사만으로는 막기 어렵다고 적었는데요.
-
-이번에도 시험장에서는 잡히지 않았고, 점수가 지나치게 높아 의혹이 나온 뒤에야 드러났습니다.
-한국세무사회도 다른 사례가 더 있을 수 있다고 밝혔고요. 사람은 문제를 눈앞에서 마주해야 문제로 다루는 경우가 많습니다.</description><pubDate>Mon, 16 Nov 2026 11:50:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DfzSb5ED_10</guid></item></channel></rss>
+나아가 연산 자원(Compute)과 AI, 로봇의 결합을 통해 머지않은 미래의 인류가 2026년을 돌아보며 “당시 사람들은 정말 힘들게 살았구나”라고 회상할 만큼 삶의 질이 비약적으로 향상될 것이라고 강조했습니다.</description><pubDate>Tue, 17 Nov 2026 01:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df0s5rADdfx</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=oi-E6xB4wSU</title><link>https://www.threads.net/@choi.openai/post/Df0s7G7Dao9</link><description>풀영상 :
+https://www.youtube.com/watch?v=oi-E6xB4wSU</description><pubDate>Tue, 17 Nov 2026 01:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df0s7G7Dao9</guid></item></channel></rss>
