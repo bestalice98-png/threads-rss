@@ -1,92 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 17 Nov 2026 22:42:57 +0000</lastBuildDate><item><title>구글이 사실 진짜 무서운 것 같습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 18 Nov 2026 06:04:42 +0000</lastBuildDate><item><title>오픈AI가 ChatGPT를 영업 업무까지 확장하고 있습니다.
 
-Google AI Studio에서 안드로이드 앱을 만드는 기능이 또 업데이트됐는데요.
+새롭게 공개한 'ChatGPT for Sales'는 Salesforce, HubS...</title><link>https://www.threads.net/@choi.openai/post/Df30AWFgJ59</link><description>오픈AI가 ChatGPT를 영업 업무까지 확장하고 있습니다.
 
-이제 고화질 화...</title><link>https://www.threads.net/@choi.openai/post/Df3Ac0XAUbK</link><description>구글이 사실 진짜 무서운 것 같습니다.
+새롭게 공개한 'ChatGPT for Sales'는 Salesforce, HubSpot, Gong 등 30개 이상의 외부 서비스와 연결되는데요.
 
-Google AI Studio에서 안드로이드 앱을 만드는 기능이 또 업데이트됐는데요.
+고객 정보를 분석해 영업 대상을 추천하고, 미팅 준비부터 제안서 작성, 후속 연락까지 지원합니다.
 
-이제 고화질 화면과 소리를 지원하는 에뮬레이터로 앱을 테스트하고, Firestore를 연결해 데이터 저장과 로그인 기능까지 구현할 수 있습니다.
+특히 상시 AI 에이전트인 Dots와 연결하면 거래 진행 상황을 계속 확인하고 필요한 조치를 먼저 제안할 수도 있습니다.
 
-만든 앱을 Google Play 개인 라이브러리에 배포하는 기능도 추가됐습니다. 현재는 미국에서만 지원한다고 합니다.
+ChatGPT가 질문에 답하는 도구를 넘어 실제 업무를 처리하는 플랫폼으로 바뀌고 있습니다.</description><pubDate>Wed, 18 Nov 2026 06:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df30AWFgJ59</guid></item><item><title>내용 :
+https://openai.com/index/introducing-chatgpt-for-sales/</title><link>https://www.threads.net/@choi.openai/post/Df30BeRAEUF</link><description>내용 :
+https://openai.com/index/introducing-chatgpt-for-sales/</description><pubDate>Wed, 18 Nov 2026 06:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df30BeRAEUF</guid></item><item><title>구글이 AI Studio에서 앱을 만들고 배포하는 과정을 계속 간편하게 만들고 있습니다.
 
-AI 모델부터 앱 개발, 테스트, 배포까지 구글 생태계 안에서 해결할 수 있는 범위가 계속 넓어지고 있습니다.</description><pubDate>Tue, 17 Nov 2026 22:30:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df3Ac0XAUbK</guid></item><item><title>Cognition도 상시 AI 에이전트 경쟁에 합류했습니다.
+이번에는 직접 만든 앱에 원하는 도메인을 연결하는 기...</title><link>https://www.threads.net/@choi.openai/post/Df3tIawCoLL</link><description>구글이 AI Studio에서 앱을 만들고 배포하는 과정을 계속 간편하게 만들고 있습니다.
 
-AI 코딩 도구 Devin을 개발한 Cognition이 여러 AI가 팀처럼 협업하...</title><link>https://www.threads.net/@choi.openai/post/Df22OWxAp5W</link><description>Cognition도 상시 AI 에이전트 경쟁에 합류했습니다.
+이번에는 직접 만든 앱에 원하는 도메인을 연결하는 기능이 추가됐는데요.
 
-AI 코딩 도구 Devin을 개발한 Cognition이 여러 AI가 팀처럼 협업하는 'Devin Bots'를 공개했는데요.
+AI Studio에서 앱을 만든 뒤 별도의 배포 도구로 옮기지 않고, 자체 브랜드 주소로 공개할 수 있게 된 겁니다.
 
-테스트 담당 AI가 버그를 발견하면 개발 담당 AI가 수정하고, 코드 검토와 테스트까지 이어서 처리합니다. 사람은 중요한 결정에 개입할 수 있습니다.
+앞서 안드로이드 앱 개발과 테스트 기능도 강화했는데, 이제 웹 앱의 배포 과정까지 AI Studio 안으로 가져오고 있습니다.
 
-Cognition에 따르면 베타 이용자들은 메시지당 평균 4.5배 많은 코드 변경 요청을 병합했다고 합니다.
+아이디어만 있으면 앱을 만들고 공개하기까지 필요한 과정이 점점 줄어들고 있네요.</description><pubDate>Wed, 18 Nov 2026 05:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df3tIawCoLL</guid></item><item><title>AI가 보안 취약점을 너무 많이 찾아내면서 미국에서 대규모 서비스 장애가 발생했다는 보도가 나왔습니다.
 
-Dots, Muse, Grokbot처럼 업무를 AI에 맡기는 흐름이 소프트웨어 개발 분야에서도 확대되고 있습니다.</description><pubDate>Tue, 17 Nov 2026 21:00:43 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df22OWxAp5W</guid></item><item><title>주소 :
-https://devin.ai/bots</title><link>https://www.threads.net/@choi.openai/post/Df22SRWgt9_</link><description>주소 :
-https://devin.ai/bots</description><pubDate>Tue, 17 Nov 2026 21:01:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df22SRWgt9_</guid></item><item><title>GPT-6.2 출시를 정리하다보니 이 회사가 어디로 가는지가 보이는 것 같습니다.
+The Washington Sun에 따...</title><link>https://www.threads.net/@choi.openai/post/Df3prOEChfF</link><description>AI가 보안 취약점을 너무 많이 찾아내면서 미국에서 대규모 서비스 장애가 발생했다는 보도가 나왔습니다.
 
-소비자 시장은 뒤로 미루고 정부와 사이버 방어, 과학과 엔지...</title><link>https://www.threads.net/@choi.openai/post/Df2qEm8j0-l</link><description>GPT-6.2 출시를 정리하다보니 이 회사가 어디로 가는지가 보이는 것 같습니다.
+The Washington Sun에 따르면 월가 금융사와 NSA가 AI로 발견한 취약점을 서둘러 수정하다 시스템에 문제가 생겼다고 의회에 설명했다는데요.
 
-소비자 시장은 뒤로 미루고 정부와 사이버 방어, 과학과 엔지니어링처럼 실제로 돈이 되는 시장으로 방향을 틀고 있는데요.
+은행 서비스와 NSA 통신망 등에 장애가 발생했으며, 항공편 운항도 대거 중단됐습니다.
 
-부 계약과 안전, 민주당 의회와 앤트로픽까지 오픈AI의 다음 2년을 정리했습니다 🧵</description><pubDate>Tue, 17 Nov 2026 19:14:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df2qEm8j0-l</guid></item><item><title>1/ 오픈AI가 11월 17일 GPT-6.2 Astra와 Sol을 내놓으면서 함께 공개한 시스템 카드는 119쪽에 이릅니다.
+다만 모든 장애의 원인이 확인된 것은 아닙니다.
 
-그 분량 대부분을...</title><link>https://www.threads.net/@choi.openai/post/Df2qFMKjzJR</link><description>1/ 오픈AI가 11월 17일 GPT-6.2 Astra와 Sol을 내놓으면서 함께 공개한 시스템 카드는 119쪽에 이릅니다.
+AI가 취약점을 찾아내는 속도를 기존 시스템의 수정 작업이 따라가지 못하는 상황이 벌어지고 있습니다.</description><pubDate>Wed, 18 Nov 2026 04:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df3prOEChfF</guid></item><item><title>기사 :
+https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-dri...</title><link>https://www.threads.net/@choi.openai/post/Df3ptYdiiHv</link><description>기사 :
+https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages</description><pubDate>Wed, 18 Nov 2026 04:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df3ptYdiiHv</guid></item><item><title>젠슨 황, 복귀 없다.
 
-그 분량 대부분을 채운 건 사이버 공격 능력과 AI 연구 가속, 그리고 그 둘을 통제하는 수단이었고, 발표문에서도 사이버 보안과 과학, 엔지니어링, 법률과 재무 같은 전문 업무가 가장 많은 자리를 차지했는데요.
+엔비디아 임시 CEO 콜렛 크레스(Colette Kress)는 젠슨 황의 사임을 이사회가 공식 수리했으며, 복귀시키지 ...</title><link>https://www.threads.net/@choi.openai/post/Df3mS1sCff9</link><description>젠슨 황, 복귀 없다.
 
-오픈AI가 직접 내세운 문장도 더 적은 출력 토큰으로 어려운 일을 해내 기업이 규모를 키워도 감당할 비용을 주겠다는 겁니다.
+엔비디아 임시 CEO 콜렛 크레스(Colette Kress)는 젠슨 황의 사임을 이사회가 공식 수리했으며, 복귀시키지 않기로 최종 결정했다고 밝혔습니다.
 
-저는 오픈AI가 모두가 쓰는 챗봇 회사에서 정부와 기업의 핵심 업무, 그리고 자기 연구를 가속하는 회사로 사업의 중심을 옮기고 있다고 봅니다.</description><pubDate>Tue, 17 Nov 2026 19:14:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df2qFMKjzJR</guid></item><item><title>2/ 먼저 GPT-6.2 Astra가 Claude Fable 5.2와 Opus 5.5를 앞선 곳부터 보겠습니다.
+AI 반도체 생태계를 이끌어온 창업자 젠슨 황의 복귀 가능성에 명확히 선을 그으며, 리더십 교체를 기정사실화한 것입니다.
 
-여러 단계의 실무를 맡기는 A...</title><link>https://www.threads.net/@choi.openai/post/Df2qGKhj4fY</link><description>2/ 먼저 GPT-6.2 Astra가 Claude Fable 5.2와 Opus 5.5를 앞선 곳부터 보겠습니다.
+크레스는 이제 경영 불확실성을 뒤로하고 “지금 당장 생각하고 싶은 것은 우리 비즈니스의 성장”이라고 강조했습니다.
 
-여러 단계의 실무를 맡기는 Agents' Last Exam에서 78.3%로 Fable(72.8%)과 Opus(71.6%)를 넘었고, 과학 연구 평가 Terminal-Bench-Science는 77.1%로 Fable(73.3%), Opus(63.3%)보다 높았는데요.
+이를 위해 직원과 고객, 주주들과 함께 나아가야 할 모든 영역에서의 사업 확장에 전사적 역량을 집중할 계획입니다.
 
-법률 업무 Harvey LAB-AA는 15.0%로 Fable(7.2%)의 2배를 넘었고, 컨설팅과 금융 실무 GDPval v2도 50.4%로 1위입니다.
-
-3D 제작 AA-3D와 실제 로봇 팔을 움직이는 AA-Robotics도 1위였습니다.
-반대로 종합 지수와 코딩 평가 FrontierCode는 Fable이 앞섰습니다.
-
-오픈AI가 이긴 곳은 전부 기업과 기관이 돈을 내는 전문 업무입니다.</description><pubDate>Tue, 17 Nov 2026 19:14:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df2qGKhj4fY</guid></item><item><title>3/ 과학과 엔지니어링은 오픈AI 모델이 가장 강한 영역입니다.
-
-외부 평가기관 Vals에서 GPT-6.2 Astra는 과학 지수 27개 모델 ...</title><link>https://www.threads.net/@choi.openai/post/Df2qHIND1w_</link><description>3/ 과학과 엔지니어링은 오픈AI 모델이 가장 강한 영역입니다.
-
-외부 평가기관 Vals에서 GPT-6.2 Astra는 과학 지수 27개 모델 중 1위였고, 생물학 미스터리를 푸는 BioMysteryBench 80.74%로 3위, 시스템의 작동 원리를 실험으로 알아내는 MysteryMechanism 53.15%로 2위였는데요.
-
-생물·화학 능력은 준비 프레임워크의 High 등급이어서 별도 보호 조치를 붙여 내놨습니다.
-
-오픈AI는 6월에 팬데믹 대비와 항체 스크리닝용 GPT-Rosalind를 CDC, NIH, WHO 같은 기관에 열었고, 11월에는 학술 연구자 무료 지원을 20만 명으로 늘렸습니다.
-
-신약과 화학, 재료와 기초 연구는 성과가 매출로 돌아오기까지 오래 걸리지만, 한번 자리 잡으면 미래 먹거리가 가득한 시장입니다.</description><pubDate>Tue, 17 Nov 2026 19:14:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df2qHIND1w_</guid></item><item><title>🚨 속보) 오픈AI, GPT-6.2 Astra, GPT-6.2 Sol 출시.</title><link>https://www.threads.net/@choi.openai/post/Df2g2Xwj8up</link><description>🚨 속보) 오픈AI, GPT-6.2 Astra, GPT-6.2 Sol 출시.</description><pubDate>Tue, 17 Nov 2026 17:53:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df2g2Xwj8up</guid></item><item><title>1/ 오픈AI가 GPT-6.2 Astra와 GPT-6.2 Sol을 출시했습니다.
-
-Astra는 가장 어려운 프로젝트를 맡는 최상위 모델이고, S...</title><link>https://www.threads.net/@choi.openai/post/Df2j48mneMT</link><description>1/ 오픈AI가 GPT-6.2 Astra와 GPT-6.2 Sol을 출시했습니다.
-
-Astra는 가장 어려운 프로젝트를 맡는 최상위 모델이고, Sol은 매일의 업무에 쓰는 효율적인 범용 모델인데요.
-
-오픈AI는 Astra가 만든 슬라이드, 스프레드시트, 문서가 AI 티가 덜 나고 각 분야의 양식을 더 잘 따르며, 특히 웹사이트와 게임, 3D 디자인에서 더 보기 좋고 잘 작동하는 결과물을 만든다고 설명했습니다.
-
-출시와 함께 ChatGPT Work와 Codex에서 Plus, Pro, Enterprise, Edu 사용자가 쓸 수 있고, API 이름은 gpt-6.2-astra와 gpt-6.2-sol입니다.
-
-컨텍스트는 100만 토큰, 최대 출력은 12만 8천 토큰입니다.</description><pubDate>Tue, 17 Nov 2026 18:21:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df2j48mneMT</guid></item><item><title>2/ 가격은 Astra가 100만 토큰당 입력 8달러, 캐시 입력 0.4달러, 출력 40달러입니다.
-
-GPT-6 Astra의 10달러, 1달러,...</title><link>https://www.threads.net/@choi.openai/post/Df2kDUgD8PJ</link><description>2/ 가격은 Astra가 100만 토큰당 입력 8달러, 캐시 입력 0.4달러, 출력 40달러입니다.
-
-GPT-6 Astra의 10달러, 1달러, 50달러에서 입출력은 20%, 캐시 입력은 60% 내렸고, Claude Fable 5.2와 같은 단가인데요.
-
-Sol은 GPT-6.1 Sol과 같은 입력 2달러, 캐시 입력 0.1달러, 출력 10달러를 유지했습니다.
-
-Pro 500 구독자는 두 모델 모두에서 출력 속도를 높이는 Ultrafast를 쓸 수 있고, 이번에 처음으로 Pro 200 구독자에게도 Sol부터 Ultrafast가 열렸습니다.
-
-단가가 Fable과 같은데도 오픈AI가 앞세운 건 과제 하나를 끝내는 데 드는 총비용이고, 이 차이가 이번 출시의 핵심입니다.</description><pubDate>Tue, 17 Nov 2026 18:21:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df2kDUgD8PJ</guid></item><item><title>3/ 그 차이는 실무형 평가 Agents' Last Exam에서 가장 크게 드러났습니다.
-
-캠페인 분석, 슬라이드 제작, 재무 스프레드시트처럼 ...</title><link>https://www.threads.net/@choi.openai/post/Df2kEbLj1Il</link><description>3/ 그 차이는 실무형 평가 Agents' Last Exam에서 가장 크게 드러났습니다.
-
-캠페인 분석, 슬라이드 제작, 재무 스프레드시트처럼 여러 단계에 걸친 전문 업무를 맡기는 평가인데요.
-GPT-6.2 Astra는 xhigh 설정에서 78.3%로 새 최고점을 냈고 과제당 비용은 2.89달러였습니다.
-
-GPT-6 Astra 최고 설정(73.1%, 8.99달러)보다 5.2점 높으면서 비용은 3분의 1이고, Claude Fable 5.2 최고 설정(72.8%, 60.05달러)보다 5.5점 높으면서 비용은 약 5%입니다.
-
-Gemini 4 Carbon은 77.4%를 4.60달러에 냈고, Sol도 최고 설정에서 73.0%를 1.32달러에 냈습니다.
-
-같은 일을 20분의 1 비용으로 더 잘 끝낸 셈입니다.</description><pubDate>Tue, 17 Nov 2026 18:22:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df2kEbLj1Il</guid></item></channel></rss>
+결국 AI 인프라 시장의 폭발적 수요 속에서 핵심 이해관계자들과의 결속을 다지며 흔들림 없는 성장을 이어가겠다는 의지를 분명히 했습니다.</description><pubDate>Wed, 18 Nov 2026 04:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df3mS1sCff9</guid></item></channel></rss>
