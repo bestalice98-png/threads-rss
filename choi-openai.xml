@@ -1,48 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 18 Nov 2026 06:04:42 +0000</lastBuildDate><item><title>오픈AI가 ChatGPT를 영업 업무까지 확장하고 있습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 18 Nov 2026 16:57:45 +0000</lastBuildDate><item><title>Claude Desktop의 새로운 기능을 조금 더 빠르게 사용해 볼 수 있게 됐습니다.
 
-새롭게 공개한 'ChatGPT for Sales'는 Salesforce, HubS...</title><link>https://www.threads.net/@choi.openai/post/Df30AWFgJ59</link><description>오픈AI가 ChatGPT를 영업 업무까지 확장하고 있습니다.
+앤트로픽이 Windows와 Mac용 Claude De...</title><link>https://www.threads.net/@choi.openai/post/Df48HuijSyf</link><description>Claude Desktop의 새로운 기능을 조금 더 빠르게 사용해 볼 수 있게 됐습니다.
 
-새롭게 공개한 'ChatGPT for Sales'는 Salesforce, HubSpot, Gong 등 30개 이상의 외부 서비스와 연결되는데요.
+앤트로픽이 Windows와 Mac용 Claude Desktop에 'Latest' 업데이트 채널을 추가했는데요.
 
-고객 정보를 분석해 영업 대상을 추천하고, 미팅 준비부터 제안서 작성, 후속 연락까지 지원합니다.
+설정에서 Latest를 선택하면 일반 사용자보다 더 자주 업데이트를 받아 새로운 개선 사항과 오류 수정을 먼저 경험할 수 있습니다.
 
-특히 상시 AI 에이전트인 Dots와 연결하면 거래 진행 상황을 계속 확인하고 필요한 조치를 먼저 제안할 수도 있습니다.
+대신 안정성이 떨어질 수 있어 기존 'Stable' 채널이 기본값으로 유지됩니다.
 
-ChatGPT가 질문에 답하는 도구를 넘어 실제 업무를 처리하는 플랫폼으로 바뀌고 있습니다.</description><pubDate>Wed, 18 Nov 2026 06:00:34 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df30AWFgJ59</guid></item><item><title>내용 :
-https://openai.com/index/introducing-chatgpt-for-sales/</title><link>https://www.threads.net/@choi.openai/post/Df30BeRAEUF</link><description>내용 :
-https://openai.com/index/introducing-chatgpt-for-sales/</description><pubDate>Wed, 18 Nov 2026 06:00:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df30BeRAEUF</guid></item><item><title>구글이 AI Studio에서 앱을 만들고 배포하는 과정을 계속 간편하게 만들고 있습니다.
+현재 순차적으로 적용 중이라 아직 설정이 보이지 않는 사용자도 있다고 합니다.</description><pubDate>Wed, 18 Nov 2026 16:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df48HuijSyf</guid></item><item><title>텐센트가 AI 모델 'Hy4 flash'의 가중치를 공개했습니다.
 
-이번에는 직접 만든 앱에 원하는 도메인을 연결하는 기...</title><link>https://www.threads.net/@choi.openai/post/Df3tIawCoLL</link><description>구글이 AI Studio에서 앱을 만들고 배포하는 과정을 계속 간편하게 만들고 있습니다.
+전체 매개변수는 2,240억 개지만, 답변을 생성할 때는 약 120억 개만 ...</title><link>https://www.threads.net/@choi.openai/post/Df4xxIOEl7U</link><description>텐센트가 AI 모델 'Hy4 flash'의 가중치를 공개했습니다.
 
-이번에는 직접 만든 앱에 원하는 도메인을 연결하는 기능이 추가됐는데요.
+전체 매개변수는 2,240억 개지만, 답변을 생성할 때는 약 120억 개만 활성화하는 구조인데요.
 
-AI Studio에서 앱을 만든 뒤 별도의 배포 도구로 옮기지 않고, 자체 브랜드 주소로 공개할 수 있게 된 겁니다.
+최대 100만 토큰의 긴 문맥을 처리하고 이미지도 이해할 수 있습니다.
+FP8 버전과 추가 학습에 활용할 수 있는 Base 모델까지 허깅페이스에서 제공됩니다.
 
-앞서 안드로이드 앱 개발과 테스트 기능도 강화했는데, 이제 웹 앱의 배포 과정까지 AI Studio 안으로 가져오고 있습니다.
+다만 Tencent Hy License가 적용돼 사용 조건은 확인해야 합니다.
+텐센트는 더 큰 모델인 Hy4도 곧 공개할 예정이라고 합니다.</description><pubDate>Wed, 18 Nov 2026 15:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df4xxIOEl7U</guid></item><item><title>허깅페이스 :
+https://huggingface.co/tencent/Hy4-flash</title><link>https://www.threads.net/@choi.openai/post/Df4xypkErgH</link><description>허깅페이스 :
+https://huggingface.co/tencent/Hy4-flash</description><pubDate>Wed, 18 Nov 2026 15:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df4xypkErgH</guid></item><item><title>이제 복잡한 개념을 설명하는 졸라맨 애니메이션도 AI로 만들 수 있습니다.
 
-아이디어만 있으면 앱을 만들고 공개하기까지 필요한 과정이 점점 줄어들고 있네요.</description><pubDate>Wed, 18 Nov 2026 05:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df3tIawCoLL</guid></item><item><title>AI가 보안 취약점을 너무 많이 찾아내면서 미국에서 대규모 서비스 장애가 발생했다는 보도가 나왔습니다.
+roadmap.sh를 만든 캄란 아흐메드가 'stick-scene'...</title><link>https://www.threads.net/@choi.openai/post/Df4nc-yEVgs</link><description>이제 복잡한 개념을 설명하는 졸라맨 애니메이션도 AI로 만들 수 있습니다.
 
-The Washington Sun에 따...</title><link>https://www.threads.net/@choi.openai/post/Df3prOEChfF</link><description>AI가 보안 취약점을 너무 많이 찾아내면서 미국에서 대규모 서비스 장애가 발생했다는 보도가 나왔습니다.
+roadmap.sh를 만든 캄란 아흐메드가 'stick-scene'이라는 AI 스킬을 공개했는데요.
 
-The Washington Sun에 따르면 월가 금융사와 NSA가 AI로 발견한 취약점을 서둘러 수정하다 시스템에 문제가 생겼다고 의회에 설명했다는데요.
+설명하고 싶은 내용을 입력하면 AI가 애니메이션에 필요한 코드까지 작성해 움직이는 영상을 만들어줍니다.
 
-은행 서비스와 NSA 통신망 등에 장애가 발생했으며, 항공편 운항도 대거 중단됐습니다.
+예를 들어 어려운 프로그래밍 개념을 졸라맨이 등장하는 애니메이션으로 풀어낼 수 있는 겁니다.
 
-다만 모든 장애의 원인이 확인된 것은 아닙니다.
-
-AI가 취약점을 찾아내는 속도를 기존 시스템의 수정 작업이 따라가지 못하는 상황이 벌어지고 있습니다.</description><pubDate>Wed, 18 Nov 2026 04:30:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df3prOEChfF</guid></item><item><title>기사 :
-https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-dri...</title><link>https://www.threads.net/@choi.openai/post/Df3ptYdiiHv</link><description>기사 :
-https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages</description><pubDate>Wed, 18 Nov 2026 04:30:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df3ptYdiiHv</guid></item><item><title>젠슨 황, 복귀 없다.
-
-엔비디아 임시 CEO 콜렛 크레스(Colette Kress)는 젠슨 황의 사임을 이사회가 공식 수리했으며, 복귀시키지 ...</title><link>https://www.threads.net/@choi.openai/post/Df3mS1sCff9</link><description>젠슨 황, 복귀 없다.
-
-엔비디아 임시 CEO 콜렛 크레스(Colette Kress)는 젠슨 황의 사임을 이사회가 공식 수리했으며, 복귀시키지 않기로 최종 결정했다고 밝혔습니다.
-
-AI 반도체 생태계를 이끌어온 창업자 젠슨 황의 복귀 가능성에 명확히 선을 그으며, 리더십 교체를 기정사실화한 것입니다.
-
-크레스는 이제 경영 불확실성을 뒤로하고 “지금 당장 생각하고 싶은 것은 우리 비즈니스의 성장”이라고 강조했습니다.
-
-이를 위해 직원과 고객, 주주들과 함께 나아가야 할 모든 영역에서의 사업 확장에 전사적 역량을 집중할 계획입니다.
-
-결국 AI 인프라 시장의 폭발적 수요 속에서 핵심 이해관계자들과의 결속을 다지며 흔들림 없는 성장을 이어가겠다는 의지를 분명히 했습니다.</description><pubDate>Wed, 18 Nov 2026 04:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df3mS1sCff9</guid></item></channel></rss>
+교육 자료뿐 아니라 발표나 콘텐츠 제작에도 활용해보면 좋을 것 같은데, 정말 시각화를 통해 쉽게 이해할 수 있는 시대인 것 같습니다.</description><pubDate>Wed, 18 Nov 2026 13:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df4nc-yEVgs</guid></item><item><title>깃허브 :
+https://github.com/nilbuild/stick-scene</title><link>https://www.threads.net/@choi.openai/post/Df4neWHkYGl</link><description>깃허브 :
+https://github.com/nilbuild/stick-scene</description><pubDate>Wed, 18 Nov 2026 13:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df4neWHkYGl</guid></item><item><title>Gemini</title><link>https://www.threads.net/@choi.openai/post/Df4i5J7jKJ1</link><description>Gemini</description><pubDate>Wed, 18 Nov 2026 12:55:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df4i5J7jKJ1</guid></item></channel></rss>
