@@ -1,36 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 18 Nov 2026 16:57:45 +0000</lastBuildDate><item><title>Claude Desktop의 새로운 기능을 조금 더 빠르게 사용해 볼 수 있게 됐습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 18 Nov 2026 22:55:37 +0000</lastBuildDate><item><title>아마존 창업자 제프 베이조스(Jeff Bezos)는 자신이 이끄는 AI 스타트업 ‘프로메테우스(Prometheus)’가 구축한 단일 다중물리(M...</title><link>https://www.threads.net/@choi.openai/post/Df5h0LNDh3m</link><description>아마존 창업자 제프 베이조스(Jeff Bezos)는 자신이 이끄는 AI 스타트업 ‘프로메테우스(Prometheus)’가 구축한 단일 다중물리(Multiphysics) AI 모델을 통해 제조와 엔지니어링의 속도를 파괴적으로 앞당기고 있다고 밝혔습니다.
 
-앤트로픽이 Windows와 Mac용 Claude De...</title><link>https://www.threads.net/@choi.openai/post/Df48HuijSyf</link><description>Claude Desktop의 새로운 기능을 조금 더 빠르게 사용해 볼 수 있게 됐습니다.
+그는 과거 “엔지니어 10~20명이 6~9개월간 매달려야 했던 아날로그 칩과 라디오, 밸브 설계를 단 12시간 만에 해내고 있다”고 강조했습니다.
+수개월이 걸리던 복잡한 수치 시뮬레이션과 하드웨어 설계를 반나절 만에 끝내는 압도적인 성능 격차를 입증한 것입니다.
+나아가 프롬프트 한 줄만으로 화성 헬리콥터의 공기역학적 최적 구조까지 스스로 추론해 재설계하는 수준에 도달했습니다.
 
-앤트로픽이 Windows와 Mac용 Claude Desktop에 'Latest' 업데이트 채널을 추가했는데요.
+베이조스는 아직 AI가 본격적으로 침투하지 않은 제조업 분야에 거대한 기회가 열려 있다고 짚었습니다.
 
-설정에서 Latest를 선택하면 일반 사용자보다 더 자주 업데이트를 받아 새로운 개선 사항과 오류 수정을 먼저 경험할 수 있습니다.
+그는 “향후 몇 년 안에 전체 제조 경제가 AI에 의해 완전히 탈바꿈할 것”이라며 산업 전반의 거대한 패러다임 전환을 예고했습니다.</description><pubDate>Wed, 18 Nov 2026 22:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5h0LNDh3m</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=KrVH-MKJviI</title><link>https://www.threads.net/@choi.openai/post/Df5h1pJjtrK</link><description>풀영상 :
+https://www.youtube.com/watch?v=KrVH-MKJviI</description><pubDate>Wed, 18 Nov 2026 22:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5h1pJjtrK</guid></item><item><title>아마존 창업자 제프 베이조스(Jeff Bezos)는 “모든 문명의 부는 발명에서 나온다”고 강조했습니다.
 
-대신 안정성이 떨어질 수 있어 기존 'Stable' 채널이 기본값으로 유지됩니다.
+그는 자동차 엔진 블록을 주조하는 물...</title><link>https://www.threads.net/@choi.openai/post/Df5XirDAY-l</link><description>아마존 창업자 제프 베이조스(Jeff Bezos)는 “모든 문명의 부는 발명에서 나온다”고 강조했습니다.
 
-현재 순차적으로 적용 중이라 아직 설정이 보이지 않는 사용자도 있다고 합니다.</description><pubDate>Wed, 18 Nov 2026 16:30:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df48HuijSyf</guid></item><item><title>텐센트가 AI 모델 'Hy4 flash'의 가중치를 공개했습니다.
+그는 자동차 엔진 블록을 주조하는 물리적 공장은 결코 가상화될 수 없지만, AI와 기술을 접목해 제조 효율을 극대화할 수 있다고 설명했습니다.
+기존에 9~12개월이 걸리던 복잡한 주조 부품 조달 기간이 1개월로 단축되면, 해당 기업의 수익성이 높아질 뿐 아니라 공급망 전체에 복리 효과가 확산된다는 분석입니다.
 
-전체 매개변수는 2,240억 개지만, 답변을 생성할 때는 약 120억 개만 ...</title><link>https://www.threads.net/@choi.openai/post/Df4xxIOEl7U</link><description>텐센트가 AI 모델 'Hy4 flash'의 가중치를 공개했습니다.
+6,000년 전 쟁기와 증기기관의 발명이 인류를 수렵·채집인에서 벗어나게 했듯, 발명가는 떠나도 그 발명품은 영원히 남아 인류 전체의 부를 쌓는 토대가 됩니다.
 
-전체 매개변수는 2,240억 개지만, 답변을 생성할 때는 약 120억 개만 활성화하는 구조인데요.
+베이조스는 자신이 이끄는 ‘프로메테우스(Prometheus)’의 궁극적인 목표가 바로 이 “꿈꾸고 만드는 발명 루프(invention loop)를 가속화하는 것”이라고 밝혔습니다.</description><pubDate>Wed, 18 Nov 2026 20:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5XirDAY-l</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=KrVH-MKJviI</title><link>https://www.threads.net/@choi.openai/post/Df5XkBMAbAJ</link><description>풀영상 :
+https://www.youtube.com/watch?v=KrVH-MKJviI</description><pubDate>Wed, 18 Nov 2026 20:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5XkBMAbAJ</guid></item><item><title>GTA 7은 이런 모습이지 않을까..?
 
-최대 100만 토큰의 긴 문맥을 처리하고 이미지도 이해할 수 있습니다.
-FP8 버전과 추가 학습에 활용할 수 있는 Base 모델까지 허깅페이스에서 제공됩니다.
+지난달 공개된 구글의 가상 세계 생성 AI 'Genie 4'를 이제 Project Genie에서 직접 ...</title><link>https://www.threads.net/@choi.openai/post/Df5NQFjjtyo</link><description>GTA 7은 이런 모습이지 않을까..?
 
-다만 Tencent Hy License가 적용돼 사용 조건은 확인해야 합니다.
-텐센트는 더 큰 모델인 Hy4도 곧 공개할 예정이라고 합니다.</description><pubDate>Wed, 18 Nov 2026 15:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df4xxIOEl7U</guid></item><item><title>허깅페이스 :
-https://huggingface.co/tencent/Hy4-flash</title><link>https://www.threads.net/@choi.openai/post/Df4xypkErgH</link><description>허깅페이스 :
-https://huggingface.co/tencent/Hy4-flash</description><pubDate>Wed, 18 Nov 2026 15:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df4xypkErgH</guid></item><item><title>이제 복잡한 개념을 설명하는 졸라맨 애니메이션도 AI로 만들 수 있습니다.
+지난달 공개된 구글의 가상 세계 생성 AI 'Genie 4'를 이제 Project Genie에서 직접 사용해 볼 수 있게 됐습니다.
 
-roadmap.sh를 만든 캄란 아흐메드가 'stick-scene'...</title><link>https://www.threads.net/@choi.openai/post/Df4nc-yEVgs</link><description>이제 복잡한 개념을 설명하는 졸라맨 애니메이션도 AI로 만들 수 있습니다.
+Genie 4는 소리까지 포함된 가상 세계를 실시간으로 생성하고, 탐험 중에도 날씨나 등장인물 등을 바꿀 수 있는데요.
 
-roadmap.sh를 만든 캄란 아흐메드가 'stick-scene'이라는 AI 스킬을 공개했는데요.
+이번에는 가상 세계 제작을 돕는 AI 에이전트와 다른 사람의 작품을 구경하고 수정해 공유하는 기능도 추가됐습니다.
 
-설명하고 싶은 내용을 입력하면 AI가 애니메이션에 필요한 코드까지 작성해 움직이는 영상을 만들어줍니다.
+Google AI Ultra 구독자 중 이용 대상자에게 순차적으로 제공됩니다.</description><pubDate>Wed, 18 Nov 2026 19:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5NQFjjtyo</guid></item><item><title>내용 :
+https://blog.google/innovation-and-ai/models-and-research/google-deepmind/g...</title><link>https://www.threads.net/@choi.openai/post/Df5NRWqjgjY</link><description>내용 :
+https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</description><pubDate>Wed, 18 Nov 2026 19:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5NRWqjgjY</guid></item><item><title>모든게 자동화 되는 시대입니다.
 
-예를 들어 어려운 프로그래밍 개념을 졸라맨이 등장하는 애니메이션으로 풀어낼 수 있는 겁니다.
+구글이 AI로 만든 서비스를 출시 이후에도 계속 관리하는 'Stitch Loop'를 공개했습니다.
 
-교육 자료뿐 아니라 발표나 콘텐츠 제작에도 활용해보면 좋을 것 같은데, 정말 시각화를 통해 쉽게 이해할 수 있는 시대인 것 같습니다.</description><pubDate>Wed, 18 Nov 2026 13:30:08 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df4nc-yEVgs</guid></item><item><title>깃허브 :
-https://github.com/nilbuild/stick-scene</title><link>https://www.threads.net/@choi.openai/post/Df4neWHkYGl</link><description>깃허브 :
-https://github.com/nilbuild/stick-scene</description><pubDate>Wed, 18 Nov 2026 13:30:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df4neWHkYGl</guid></item><item><title>Gemini</title><link>https://www.threads.net/@choi.openai/post/Df4i5J7jKJ1</link><description>Gemini</description><pubDate>Wed, 18 Nov 2026 12:55:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df4i5J7jKJ1</guid></item></channel></rss>
+기존 St...</title><link>https://www.threads.net/@choi.openai/post/Df5NPYajxZ2</link><description>모든게 자동화 되는 시대입니다.
+
+구글이 AI로 만든 서비스를 출시 이후에도 계속 관리하는 'Stitch Loop'를 공개했습니다.
+
+기존 Stitch가 제품 화면을 설계했다면, Stitch Loop는 실제 서비스 운영 데이터를 살펴보고 개선할 부분을 찾아냅니다.
+
+예를 들어 보안 취약점이나 속도 저하를 발견하면 수정 코드를 제안하고, 적용 후 실제로 개선됐는지도 확인합니다. 최종 적용은 사람이 결정합니다.
+
+180개 이상의 서비스 연동을 지원하며, 현재 대기자 신청을 받고 있습니다.</description><pubDate>Wed, 18 Nov 2026 19:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5NPYajxZ2</guid></item><item><title>등록 :
+https://stitch.google.com/loop/waitlist</title><link>https://www.threads.net/@choi.openai/post/Df5NQ-jjyoW</link><description>등록 :
+https://stitch.google.com/loop/waitlist</description><pubDate>Wed, 18 Nov 2026 19:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5NQ-jjyoW</guid></item></channel></rss>
