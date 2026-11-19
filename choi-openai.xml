@@ -1,49 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 18 Nov 2026 22:55:37 +0000</lastBuildDate><item><title>아마존 창업자 제프 베이조스(Jeff Bezos)는 자신이 이끄는 AI 스타트업 ‘프로메테우스(Prometheus)’가 구축한 단일 다중물리(M...</title><link>https://www.threads.net/@choi.openai/post/Df5h0LNDh3m</link><description>아마존 창업자 제프 베이조스(Jeff Bezos)는 자신이 이끄는 AI 스타트업 ‘프로메테우스(Prometheus)’가 구축한 단일 다중물리(Multiphysics) AI 모델을 통해 제조와 엔지니어링의 속도를 파괴적으로 앞당기고 있다고 밝혔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 19 Nov 2026 06:10:06 +0000</lastBuildDate><item><title>말 그대로 대규모 취약점 발견 시대가 시작된 것 같습니다.
 
-그는 과거 “엔지니어 10~20명이 6~9개월간 매달려야 했던 아날로그 칩과 라디오, 밸브 설계를 단 12시간 만에 해내고 있다”고 강조했습니다.
-수개월이 걸리던 복잡한 수치 시뮬레이션과 하드웨어 설계를 반나절 만에 끝내는 압도적인 성능 격차를 입증한 것입니다.
-나아가 프롬프트 한 줄만으로 화성 헬리콥터의 공기역학적 최적 구조까지 스스로 추론해 재설계하는 수준에 도달했습니다.
+PHP에 이어 전 세계 2억 2,500만 개 이상의 웹사이트에서 사용하는 NGINX...</title><link>https://www.threads.net/@choi.openai/post/Df6R98aCdwp</link><description>말 그대로 대규모 취약점 발견 시대가 시작된 것 같습니다.
 
-베이조스는 아직 AI가 본격적으로 침투하지 않은 제조업 분야에 거대한 기회가 열려 있다고 짚었습니다.
+PHP에 이어 전 세계 2억 2,500만 개 이상의 웹사이트에서 사용하는 NGINX에서도 치명적인 보안 취약점 2건이 발견됐습니다.
 
-그는 “향후 몇 년 안에 전체 제조 경제가 AI에 의해 완전히 탈바꿈할 것”이라며 산업 전반의 거대한 패러다임 전환을 예고했습니다.</description><pubDate>Wed, 18 Nov 2026 22:00:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5h0LNDh3m</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=KrVH-MKJviI</title><link>https://www.threads.net/@choi.openai/post/Df5h1pJjtrK</link><description>풀영상 :
-https://www.youtube.com/watch?v=KrVH-MKJviI</description><pubDate>Wed, 18 Nov 2026 22:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5h1pJjtrK</guid></item><item><title>아마존 창업자 제프 베이조스(Jeff Bezos)는 “모든 문명의 부는 발명에서 나온다”고 강조했습니다.
+Wiz는 Gemini 4 Carbon과 ChatGPT 5.6 Sol을 활용해 인증 없이 서버에서 코드를 실행할 수 있음을 확인했는데요.
 
-그는 자동차 엔진 블록을 주조하는 물...</title><link>https://www.threads.net/@choi.openai/post/Df5XirDAY-l</link><description>아마존 창업자 제프 베이조스(Jeff Bezos)는 “모든 문명의 부는 발명에서 나온다”고 강조했습니다.
+놀라운 건 취약점 하나가 2015년부터 존재했다는 점입니다.
 
-그는 자동차 엔진 블록을 주조하는 물리적 공장은 결코 가상화될 수 없지만, AI와 기술을 접목해 제조 효율을 극대화할 수 있다고 설명했습니다.
-기존에 9~12개월이 걸리던 복잡한 주조 부품 조달 기간이 1개월로 단축되면, 해당 기업의 수익성이 높아질 뿐 아니라 공급망 전체에 복리 효과가 확산된다는 분석입니다.
+AI가 오랫동안 발견되지 않았던 취약점까지 찾아내기 시작하면서 보안 업계도 바빠질 것 같습니다.</description><pubDate>Thu, 19 Nov 2026 05:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6R98aCdwp</guid></item><item><title>내용 :
+https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</title><link>https://www.threads.net/@choi.openai/post/Df6R_ImCTux</link><description>내용 :
+https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</description><pubDate>Thu, 19 Nov 2026 05:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6R_ImCTux</guid></item><item><title>또 PHP에서 심각한 보안 취약점이 발견됐습니다.
 
-6,000년 전 쟁기와 증기기관의 발명이 인류를 수렵·채집인에서 벗어나게 했듯, 발명가는 떠나도 그 발명품은 영원히 남아 인류 전체의 부를 쌓는 토대가 됩니다.
+PHP 보안팀이 11월 19일 긴급 보안 업데이트를 예고했는데요.
 
-베이조스는 자신이 이끄는 ‘프로메테우스(Prometheus)’의 궁극적인 목표가 바로 이 “꿈꾸고 만드는 발명 루프(invention loop)를 가속화하는 것”이라고 밝혔습니다.</description><pubDate>Wed, 18 Nov 2026 20:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5XirDAY-l</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=KrVH-MKJviI</title><link>https://www.threads.net/@choi.openai/post/Df5XkBMAbAJ</link><description>풀영상 :
-https://www.youtube.com/watch?v=KrVH-MKJviI</description><pubDate>Wed, 18 Nov 2026 20:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5XkBMAbAJ</guid></item><item><title>GTA 7은 이런 모습이지 않을까..?
+지원 중인 모든 PHP ...</title><link>https://www.threads.net/@choi.openai/post/Df6LGvYDb7J</link><description>또 PHP에서 심각한 보안 취약점이 발견됐습니다.
 
-지난달 공개된 구글의 가상 세계 생성 AI 'Genie 4'를 이제 Project Genie에서 직접 ...</title><link>https://www.threads.net/@choi.openai/post/Df5NQFjjtyo</link><description>GTA 7은 이런 모습이지 않을까..?
+PHP 보안팀이 11월 19일 긴급 보안 업데이트를 예고했는데요.
 
-지난달 공개된 구글의 가상 세계 생성 AI 'Genie 4'를 이제 Project Genie에서 직접 사용해 볼 수 있게 됐습니다.
+지원 중인 모든 PHP 버전에 영향을 주며, 가장 높은 위험 등급인 CRITICAL 취약점도 포함됐습니다.
 
-Genie 4는 소리까지 포함된 가상 세계를 실시간으로 생성하고, 탐험 중에도 날씨나 등장인물 등을 바꿀 수 있는데요.
+다만 해당 취약점은 기본 설정이 아닌 특수한 환경에서 발생한다고 합니다.
 
-이번에는 가상 세계 제작을 돕는 AI 에이전트와 다른 사람의 작품을 구경하고 수정해 공유하는 기능도 추가됐습니다.
+지난 10월에도 외부에서 서버의 코드를 실행할 수 있는 치명적인 취약점 2건이 발견됐었는데요.
 
-Google AI Ultra 구독자 중 이용 대상자에게 순차적으로 제공됩니다.</description><pubDate>Wed, 18 Nov 2026 19:00:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5NQFjjtyo</guid></item><item><title>내용 :
-https://blog.google/innovation-and-ai/models-and-research/google-deepmind/g...</title><link>https://www.threads.net/@choi.openai/post/Df5NRWqjgjY</link><description>내용 :
-https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</description><pubDate>Wed, 18 Nov 2026 19:00:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5NRWqjgjY</guid></item><item><title>모든게 자동화 되는 시대입니다.
+PHP를 운영 중이라면 이번 보안 업데이트도 확인해야겠습니다.</description><pubDate>Thu, 19 Nov 2026 04:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6LGvYDb7J</guid></item><item><title>내용 :
+https://www.php.net/?p=6419</title><link>https://www.threads.net/@choi.openai/post/Df6LIAljcU2</link><description>내용 :
+https://www.php.net/?p=6419</description><pubDate>Thu, 19 Nov 2026 04:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6LIAljcU2</guid></item><item><title>SpaceXSI 그록 봇의 수석 엔지니어 로런 탄(Lauren Tan)은 AI 에이전트 시대를 맞아 “소프트웨어 테스팅과 검증의 황금기에 진입하...</title><link>https://www.threads.net/@choi.openai/post/Df6Atw_At3m</link><description>SpaceXSI 그록 봇의 수석 엔지니어 로런 탄(Lauren Tan)은 AI 에이전트 시대를 맞아 “소프트웨어 테스팅과 검증의 황금기에 진입하고 있다”고 진단했습니다.
 
-구글이 AI로 만든 서비스를 출시 이후에도 계속 관리하는 'Stitch Loop'를 공개했습니다.
+과거에는 미세한 버그가 코드에 그대로 병합되는 문제 때문에 AI 에이전트를 온전히 신뢰하기 어려웠지만, 이제는 체계적인 검증 프로세스가 핵심 해법으로 자리 잡았습니다.
+실제로 최근에는 일일 AI 토큰 사용량의 70% 이상이 코드 작성이 아닌 결과물 ‘검증’에 투입되고 있을 정도입니다.
 
-기존 St...</title><link>https://www.threads.net/@choi.openai/post/Df5NPYajxZ2</link><description>모든게 자동화 되는 시대입니다.
+탄은 이러한 검증 기법들이 완전히 새로운 기술이 아니라, 기존에도 존재했지만 작성·유지보수 비용이 너무 높아 쉽게 쓰지 못했던 정통 소프트웨어 엔지니어링 도구들이라고 설명했습니다.
 
-구글이 AI로 만든 서비스를 출시 이후에도 계속 관리하는 'Stitch Loop'를 공개했습니다.
+결국 AI 에이전트가 이 비용을 획기적으로 낮춰주면서, 과거에는 경제성이 떨어져 시도조차 못 했던 수준의 전방위적 테스트와 검증이 일상화되고 있다는 분석입니다.</description><pubDate>Thu, 19 Nov 2026 02:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6Atw_At3m</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=O_zcc6Xl12g</title><link>https://www.threads.net/@choi.openai/post/Df6Aw_Zgncy</link><description>풀영상 :
+https://www.youtube.com/watch?v=O_zcc6Xl12g</description><pubDate>Thu, 19 Nov 2026 02:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6Aw_Zgncy</guid></item><item><title>🚨 와.. 또 늘었습니다..
 
-기존 Stitch가 제품 화면을 설계했다면, Stitch Loop는 실제 서비스 운영 데이터를 살펴보고 개선할 부분을 찾아냅니다.
+8월 하루 7,000달러어치였던 사용량이 10월 2만 3,000달러어치가 됐고, 사람이 2시간에서 4시간 걸리는 ...</title><link>https://www.threads.net/@choi.openai/post/Df5_D8xD-mG</link><description>🚨 와.. 또 늘었습니다..
 
-예를 들어 보안 취약점이나 속도 저하를 발견하면 수정 코드를 제안하고, 적용 후 실제로 개선됐는지도 확인합니다. 최종 적용은 사람이 결정합니다.
+8월 하루 7,000달러어치였던 사용량이 10월 2만 3,000달러어치가 됐고, 사람이 2시간에서 4시간 걸리는 연구 과제를 에이전트가 혼자 끝내는 비율은 7개월 만에 23%에서 46%로 두 배가 됐는데요.
 
-180개 이상의 서비스 연동을 지원하며, 현재 대기자 신청을 받고 있습니다.</description><pubDate>Wed, 18 Nov 2026 19:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5NPYajxZ2</guid></item><item><title>등록 :
-https://stitch.google.com/loop/waitlist</title><link>https://www.threads.net/@choi.openai/post/Df5NQ-jjyoW</link><description>등록 :
-https://stitch.google.com/loop/waitlist</description><pubDate>Wed, 18 Nov 2026 19:00:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5NQ-jjyoW</guid></item></channel></rss>
+재귀적 자기개선이 어디까지 왔는지 보여주는 오픈AI의 내부 보고서를 정리했습니다 🧵</description><pubDate>Thu, 19 Nov 2026 02:15:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5_D8xD-mG</guid></item><item><title>1/ 오픈AI가 사내 연구가 AI로 얼마나 빨라졌는지를 담은 두 번째 보고서 ‘Research acceleration: The jagged fr...</title><link>https://www.threads.net/@choi.openai/post/Df5_EoSD5Vq</link><description>1/ 오픈AI가 사내 연구가 AI로 얼마나 빨라졌는지를 담은 두 번째 보고서 ‘Research acceleration: The jagged frontier’를 공개했습니다.
+
+9월 첫 보고서에 이어 코딩 에이전트 사용량, 에이전트가 혼자 끝내는 과제 비율, 연구자들의 시간 배분과 설문, 모델 능력 지표까지 차트 10여 개로 보여주는데요.
+
+눈에 띄는 변화는 세 가지입니다.
+에이전트가 2시간에서 4시간짜리 연구 과제의 절반 가까이를 혼자 끝내게 됐지만 과제 종류에 따라 편차가 크고, 사용량은 기하급수적으로 늘고 있으며, 안전과 정렬 연구에 들어가는 사람의 시간이 가장 크게 늘었다는 겁니다.
+
+제목의 jagged frontier는 AI의 실력이 일마다 들쭉날쭉하다는 뜻입니다.</description><pubDate>Thu, 19 Nov 2026 02:15:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5_EoSD5Vq</guid></item><item><title>2/ 가장 먼저 볼 숫자는 사람 개입 없이 끝낸 과제 비율입니다.
+
+사람이 2시간에서 4시간 걸린다고 추정한 연구 과제에서 에이전트의 성공률은 ...</title><link>https://www.threads.net/@choi.openai/post/Df5_Fh_D22O</link><description>2/ 가장 먼저 볼 숫자는 사람 개입 없이 끝낸 과제 비율입니다.
+
+사람이 2시간에서 4시간 걸린다고 추정한 연구 과제에서 에이전트의 성공률은 3월 23%에서 10월 46%로 두 배가 됐고, 4시간에서 8시간짜리 과제는 13%에서 35%로 올랐는데요.
+
+15분 안쪽의 짧은 일은 이미 80% 안팎에서 성공하고, 과제가 길어질수록 성공률이 내려가는 계단 모양이 달마다 위로 올라가고 있습니다.
+
+오픈AI는 연구자들이 에이전트가 잘할 일을 골라 맡기는 경향도 함께 반영됐을 수 있다고 적었습니다.
+그래도 반나절짜리 연구 업무의 3분의 1을 사람 손 없이 끝내는 단계까지 7개월이 걸린 겁니다.</description><pubDate>Thu, 19 Nov 2026 02:15:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5_Fh_D22O</guid></item><item><title>3/ 보고서 제목처럼 실력은 일마다 다릅니다.
+
+8월부터 10월 중순까지 소통 업무는 69%, 분석은 58%를 혼자 끝냈지만 무언가를 만드는 구...</title><link>https://www.threads.net/@choi.openai/post/Df5_GZ7j8NY</link><description>3/ 보고서 제목처럼 실력은 일마다 다릅니다.
+
+8월부터 10월 중순까지 소통 업무는 69%, 분석은 58%를 혼자 끝냈지만 무언가를 만드는 구축 업무는 43%였는데요.
+
+세부 과제로 내려가면 학습 실행을 지켜보며 문제를 잡는 일은 79%, 기술 질문에 답하는 일은 72%였고, 추론과 서비스용 코드 작성은 25%, 평가와 강화학습, 에이전트 환경 만들기는 29%에 그쳤습니다.
+
+학습을 직접 띄우는 일도 35%였습니다.
+오픈AI는 이렇게 약한 영역이 남아 있는 한 전체 연구 속도를 붙잡는 병목이 될 수 있다고 적었습니다.
+
+AI 연구를 끝까지 자동화하려면 가장 약한 고리부터 풀려야 한다는 뜻입니다.</description><pubDate>Thu, 19 Nov 2026 02:16:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5_GZ7j8NY</guid></item></channel></rss>
