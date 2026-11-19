@@ -1,72 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 19 Nov 2026 06:10:06 +0000</lastBuildDate><item><title>말 그대로 대규모 취약점 발견 시대가 시작된 것 같습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 19 Nov 2026 17:04:05 +0000</lastBuildDate><item><title>🚨 와.. 구글 딥마인드는 이미 AGI 다음을 계산하고 있습니다.
 
-PHP에 이어 전 세계 2억 2,500만 개 이상의 웹사이트에서 사용하는 NGINX...</title><link>https://www.threads.net/@choi.openai/post/Df6R98aCdwp</link><description>말 그대로 대규모 취약점 발견 시대가 시작된 것 같습니다.
+딥마인드 인스티튜트가 지금 10억 달러가 드는 AI 작업이 10년 뒤 1,0...</title><link>https://www.threads.net/@choi.openai/post/Df7dpVDEYr5</link><description>🚨 와.. 구글 딥마인드는 이미 AGI 다음을 계산하고 있습니다.
 
-PHP에 이어 전 세계 2억 2,500만 개 이상의 웹사이트에서 사용하는 NGINX에서도 치명적인 보안 취약점 2건이 발견됐습니다.
+딥마인드 인스티튜트가 지금 10억 달러가 드는 AI 작업이 10년 뒤 1,000달러가 되고, 지금 돌리는 에이전트 하나당 지구 인구보다 많은 에이전트를 돌릴 수 있게 된다는 에세이를 냈는데요.
 
-Wiz는 Gemini 4 Carbon과 ChatGPT 5.6 Sol을 활용해 인증 없이 서버에서 코드를 실행할 수 있음을 확인했는데요.
+초지능으로 가는 네 갈래 길을 정리했습니다 🧵</description><pubDate>Thu, 19 Nov 2026 16:02:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df7dpVDEYr5</guid></item><item><title>1/ 구글 딥마인드 공동창업자이자 수석 AGI 과학자인 셰인 레그가 11월 19일(현지시각) 딥마인드 인스티튜트의 새 에세이 ‘What come...</title><link>https://www.threads.net/@choi.openai/post/Df7duQlD5yM</link><description>1/ 구글 딥마인드 공동창업자이자 수석 AGI 과학자인 셰인 레그가 11월 19일(현지시각) 딥마인드 인스티튜트의 새 에세이 ‘What comes after AGI’를 공개했습니다.
 
-놀라운 건 취약점 하나가 2015년부터 존재했다는 점입니다.
+글은 딥마인드 연구원 팀 게네바인이 썼는데, 첫머리부터 AGI가 손에 닿는 거리에 왔으니 그다음을 더는 미룰 수 없다고 적었습니다.
 
-AI가 오랫동안 발견되지 않았던 취약점까지 찾아내기 시작하면서 보안 업계도 바빠질 것 같습니다.</description><pubDate>Thu, 19 Nov 2026 05:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6R98aCdwp</guid></item><item><title>내용 :
-https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</title><link>https://www.threads.net/@choi.openai/post/Df6R_ImCTux</link><description>내용 :
-https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</description><pubDate>Thu, 19 Nov 2026 05:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6R_ImCTux</guid></item><item><title>또 PHP에서 심각한 보안 취약점이 발견됐습니다.
+이 에세이는 레그와 마커스 후터 등 14명이 6월에 낸 60쪽 보고서 ‘From AGI to ASI’를 바탕으로 하는데요.
 
-PHP 보안팀이 11월 19일 긴급 보안 업데이트를 예고했는데요.
+9월 출범한 딥마인드 인스티튜트가 AGI 이후의 세계를 연구하겠다고 밝힌 지 두 달 만에, 범용 초지능(ASI)으로 가는 길과 그 속도를 숫자로 정리했습니다.</description><pubDate>Thu, 19 Nov 2026 16:02:50 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df7duQlD5yM</guid></item><item><title>2/ 에세이는 지능을 하나의 연속선으로 봅니다.
 
-지원 중인 모든 PHP ...</title><link>https://www.threads.net/@choi.openai/post/Df6LGvYDb7J</link><description>또 PHP에서 심각한 보안 취약점이 발견됐습니다.
+인간 수준 AGI는 그 선 위의 한 점이고, ASI는 대규모 인간 전문가 집단이 몇 년 걸릴 ...</title><link>https://www.threads.net/@choi.openai/post/Df7dvKtDycH</link><description>2/ 에세이는 지능을 하나의 연속선으로 봅니다.
 
-PHP 보안팀이 11월 19일 긴급 보안 업데이트를 예고했는데요.
+인간 수준 AGI는 그 선 위의 한 점이고, ASI는 대규모 인간 전문가 집단이 몇 년 걸릴 과제를 더 적은 자원과 시간으로 꾸준히 넘어서는 시스템인데요.
 
-지원 중인 모든 PHP 버전에 영향을 주며, 가장 높은 위험 등급인 CRITICAL 취약점도 포함됐습니다.
+예시로 연구 분야 전체가 내는 과학적 진전을 훨씬 짧은 시간에 해내는 일, 칩 설계에서 대기업이 1년 동안 하는 개발을 해내는 일을 들었습니다.
 
-다만 해당 취약점은 기본 설정이 아닌 특수한 환경에서 발생한다고 합니다.
+이틀 전 오픈AI는 AMD 엔지니어들이 수년 다듬은 GPU 설계에서 1년치 진전을 5개월 만에 냈다고 발표했습니다.
 
-지난 10월에도 외부에서 서버의 코드를 실행할 수 있는 치명적인 취약점 2건이 발견됐었는데요.
+에세이가 초지능의 예시로 든 기준에 칩 설계 한 분야에서는 이미 가까이 다가선 셈이고, 이 기준이 사실상 모든 분야에서 충족되는 지점을 ASI로 봅니다.</description><pubDate>Thu, 19 Nov 2026 16:02:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df7dvKtDycH</guid></item><item><title>3/ 속도의 근거는 유효 연산입니다.
 
-PHP를 운영 중이라면 이번 보안 업데이트도 확인해야겠습니다.</description><pubDate>Thu, 19 Nov 2026 04:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6LGvYDb7J</guid></item><item><title>내용 :
-https://www.php.net/?p=6419</title><link>https://www.threads.net/@choi.openai/post/Df6LIAljcU2</link><description>내용 :
-https://www.php.net/?p=6419</description><pubDate>Thu, 19 Nov 2026 04:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6LIAljcU2</guid></item><item><title>SpaceXSI 그록 봇의 수석 엔지니어 로런 탄(Lauren Tan)은 AI 에이전트 시대를 맞아 “소프트웨어 테스팅과 검증의 황금기에 진입하...</title><link>https://www.threads.net/@choi.openai/post/Df6Atw_At3m</link><description>SpaceXSI 그록 봇의 수석 엔지니어 로런 탄(Lauren Tan)은 AI 에이전트 시대를 맞아 “소프트웨어 테스팅과 검증의 황금기에 진입하고 있다”고 진단했습니다.
+달러당 연산은 60년 동안 해마다 약 1.5배씩 늘었고, 같은 성능에 필요한 학습 연산은 알고리즘 개선으...</title><link>https://www.threads.net/@choi.openai/post/Df7dwLDj3nz</link><description>3/ 속도의 근거는 유효 연산입니다.
 
-과거에는 미세한 버그가 코드에 그대로 병합되는 문제 때문에 AI 에이전트를 온전히 신뢰하기 어려웠지만, 이제는 체계적인 검증 프로세스가 핵심 해법으로 자리 잡았습니다.
-실제로 최근에는 일일 AI 토큰 사용량의 70% 이상이 코드 작성이 아닌 결과물 ‘검증’에 투입되고 있을 정도입니다.
+달러당 연산은 60년 동안 해마다 약 1.5배씩 늘었고, 같은 성능에 필요한 학습 연산은 알고리즘 개선으로 해마다 3배에서 6배씩 줄었으며, AI 하드웨어 투자는 해마다 약 2.5배씩 커졌습니다.
 
-탄은 이러한 검증 기법들이 완전히 새로운 기술이 아니라, 기존에도 존재했지만 작성·유지보수 비용이 너무 높아 쉽게 쓰지 못했던 정통 소프트웨어 엔지니어링 도구들이라고 설명했습니다.
+세 요인을 곱하면 전 세계 유효 연산은 최소 해마다 10배, 5년이면 약 15만 배, 10년이면 100억 배가 됩니다.
 
-결국 AI 에이전트가 이 비용을 획기적으로 낮춰주면서, 과거에는 경제성이 떨어져 시도조차 못 했던 수준의 전방위적 테스트와 검증이 일상화되고 있다는 분석입니다.</description><pubDate>Thu, 19 Nov 2026 02:30:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6Atw_At3m</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=O_zcc6Xl12g</title><link>https://www.threads.net/@choi.openai/post/Df6Aw_Zgncy</link><description>풀영상 :
-https://www.youtube.com/watch?v=O_zcc6Xl12g</description><pubDate>Thu, 19 Nov 2026 02:30:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df6Aw_Zgncy</guid></item><item><title>🚨 와.. 또 늘었습니다..
+이 추세가 이어지면 10년 뒤에는 지금 돌리는 에이전트 하나당 같은 품질의 에이전트를 지구 인구보다 많이 돌릴 수 있는데요.
 
-8월 하루 7,000달러어치였던 사용량이 10월 2만 3,000달러어치가 됐고, 사람이 2시간에서 4시간 걸리는 ...</title><link>https://www.threads.net/@choi.openai/post/Df5_D8xD-mG</link><description>🚨 와.. 또 늘었습니다..
+전력과 반도체 공장 같은 현실의 상한을 감안해도 에이전트 규모가 2030년까지 1,000배, 10년 안에 10억 배 넘게 커질 수 있다고 계산했습니다.</description><pubDate>Thu, 19 Nov 2026 16:03:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df7dwLDj3nz</guid></item><item><title>Vercel이 여러 AI 에이전트가 함께 일할 수 있는 'Vercel Board'를 공개했습니다.
 
-8월 하루 7,000달러어치였던 사용량이 10월 2만 3,000달러어치가 됐고, 사람이 2시간에서 4시간 걸리는 연구 과제를 에이전트가 혼자 끝내는 비율은 7개월 만에 23%에서 46%로 두 배가 됐는데요.
+사람과 AI 에이전트가 작업을 공유하고, 담...</title><link>https://www.threads.net/@choi.openai/post/Df7dbt1iBEw</link><description>Vercel이 여러 AI 에이전트가 함께 일할 수 있는 'Vercel Board'를 공개했습니다.
 
-재귀적 자기개선이 어디까지 왔는지 보여주는 오픈AI의 내부 보고서를 정리했습니다 🧵</description><pubDate>Thu, 19 Nov 2026 02:15:40 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5_D8xD-mG</guid></item><item><title>1/ 오픈AI가 사내 연구가 AI로 얼마나 빨라졌는지를 담은 두 번째 보고서 ‘Research acceleration: The jagged fr...</title><link>https://www.threads.net/@choi.openai/post/Df5_EoSD5Vq</link><description>1/ 오픈AI가 사내 연구가 AI로 얼마나 빨라졌는지를 담은 두 번째 보고서 ‘Research acceleration: The jagged frontier’를 공개했습니다.
+사람과 AI 에이전트가 작업을 공유하고, 담당자를 정하고, 진행 상황을 확인할 수 있는 게시판인데요.
 
-9월 첫 보고서에 이어 코딩 에이전트 사용량, 에이전트가 혼자 끝내는 과제 비율, 연구자들의 시간 배분과 설문, 모델 능력 지표까지 차트 10여 개로 보여주는데요.
+예를 들어 한 에이전트가 코드 오류를 발견하면 다른 에이전트가 수정하고, 또 다른 에이전트가 검토하는 식입니다.
 
-눈에 띄는 변화는 세 가지입니다.
-에이전트가 2시간에서 4시간짜리 연구 과제의 절반 가까이를 혼자 끝내게 됐지만 과제 종류에 따라 편차가 크고, 사용량은 기하급수적으로 늘고 있으며, 안전과 정렬 연구에 들어가는 사람의 시간이 가장 크게 늘었다는 겁니다.
+Claude Code, Codex 등 서로 다른 도구도 연결할 수 있습니다.
 
-제목의 jagged frontier는 AI의 실력이 일마다 들쭉날쭉하다는 뜻입니다.</description><pubDate>Thu, 19 Nov 2026 02:15:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5_EoSD5Vq</guid></item><item><title>2/ 가장 먼저 볼 숫자는 사람 개입 없이 끝낸 과제 비율입니다.
+Vercel은 이미 내부 개발에 활용 중이며, v0의 소프트웨어 개발 시스템에서는 PR의 50% 이상을 자동 병합한다고 합니다.</description><pubDate>Thu, 19 Nov 2026 16:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df7dbt1iBEw</guid></item><item><title>내용 :
+https://vercel.com/blog/introducing-vercel-board</title><link>https://www.threads.net/@choi.openai/post/Df7deWriO8n</link><description>내용 :
+https://vercel.com/blog/introducing-vercel-board</description><pubDate>Thu, 19 Nov 2026 16:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df7deWriO8n</guid></item><item><title>23년도에도 AI로 수능 1등급이 가능하긴 했습니다.
 
-사람이 2시간에서 4시간 걸린다고 추정한 연구 과제에서 에이전트의 성공률은 ...</title><link>https://www.threads.net/@choi.openai/post/Df5_Fh_D22O</link><description>2/ 가장 먼저 볼 숫자는 사람 개입 없이 끝낸 과제 비율입니다.
+아시는 분들은 아시겠지만 23년 초부터 에이전트 사업을 시작했었고 수능 전에 NomaDa...</title><link>https://www.threads.net/@choi.openai/post/Df7awMKj-6_</link><description>23년도에도 AI로 수능 1등급이 가능하긴 했습니다.
 
-사람이 2시간에서 4시간 걸린다고 추정한 연구 과제에서 에이전트의 성공률은 3월 23%에서 10월 46%로 두 배가 됐고, 4시간에서 8시간짜리 과제는 13%에서 35%로 올랐는데요.
+아시는 분들은 아시겠지만 23년 초부터 에이전트 사업을 시작했었고 수능 전에 NomaDamas의 수능 국어 프로젝트를 보고 재미있어 보여서, 당시 개발 중인 에이전트에 이것저것 붙여서 직접 설계를 해봤기 때문에 압니다.
 
-15분 안쪽의 짧은 일은 이미 80% 안팎에서 성공하고, 과제가 길어질수록 성공률이 내려가는 계단 모양이 달마다 위로 올라가고 있습니다.
+물론, 순수 단일 모델 지능이 아닌 Tool Call과 현재의 에이전트 구조, 그리고 지금은 Swarm이라고 부르는 구조 때문에 비용이 많이 들긴 하지만 말이 안 되는 소리는 아닙니다.
 
-오픈AI는 연구자들이 에이전트가 잘할 일을 골라 맡기는 경향도 함께 반영됐을 수 있다고 적었습니다.
-그래도 반나절짜리 연구 업무의 3분의 1을 사람 손 없이 끝내는 단계까지 7개월이 걸린 겁니다.</description><pubDate>Thu, 19 Nov 2026 02:15:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5_Fh_D22O</guid></item><item><title>3/ 보고서 제목처럼 실력은 일마다 다릅니다.
-
-8월부터 10월 중순까지 소통 업무는 69%, 분석은 58%를 혼자 끝냈지만 무언가를 만드는 구...</title><link>https://www.threads.net/@choi.openai/post/Df5_GZ7j8NY</link><description>3/ 보고서 제목처럼 실력은 일마다 다릅니다.
-
-8월부터 10월 중순까지 소통 업무는 69%, 분석은 58%를 혼자 끝냈지만 무언가를 만드는 구축 업무는 43%였는데요.
-
-세부 과제로 내려가면 학습 실행을 지켜보며 문제를 잡는 일은 79%, 기술 질문에 답하는 일은 72%였고, 추론과 서비스용 코드 작성은 25%, 평가와 강화학습, 에이전트 환경 만들기는 29%에 그쳤습니다.
-
-학습을 직접 띄우는 일도 35%였습니다.
-오픈AI는 이렇게 약한 영역이 남아 있는 한 전체 연구 속도를 붙잡는 병목이 될 수 있다고 적었습니다.
-
-AI 연구를 끝까지 자동화하려면 가장 약한 고리부터 풀려야 한다는 뜻입니다.</description><pubDate>Thu, 19 Nov 2026 02:16:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df5_GZ7j8NY</guid></item></channel></rss>
+제가 당시 테스트하고 좋아서 올렸던 스토리가 남아 있네요.</description><pubDate>Thu, 19 Nov 2026 15:36:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df7awMKj-6_</guid></item><item><title>물론 당시에 직접 설계해서 치팅했을거라고 생각하지는 않습니다. 비용적인 부분도 있고 시간 자체도 오래걸리는 구조고 그냥 단일 모델 순수 지능으로...</title><link>https://www.threads.net/@choi.openai/post/Df7bY04j6Kz</link><description>물론 당시에 직접 설계해서 치팅했을거라고 생각하지는 않습니다. 비용적인 부분도 있고 시간 자체도 오래걸리는 구조고 그냥 단일 모델 순수 지능으로만 안되던시기지 만들래면 뭐..</description><pubDate>Thu, 19 Nov 2026 15:42:25 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df7bY04j6Kz</guid></item><item><title>새로운 역사의 시작</title><link>https://www.threads.net/@choi.openai/post/Df7XArNlQb4</link><description>새로운 역사의 시작</description><pubDate>Thu, 19 Nov 2026 15:04:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df7XArNlQb4</guid></item></channel></rss>
