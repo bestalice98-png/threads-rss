@@ -1,2 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Thu, 19 Nov 2026 22:30:27 +0000</lastBuildDate></channel></rss>
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 20 Nov 2026 05:53:42 +0000</lastBuildDate><item><title>Muse에 이메일 기능이 추가됐습니다.
+
+이제 Muse에 전용 이메일 주소를 만들고, AI가 사용자를 대신해 이메일을 보내거나 받을 수 있는데요...</title><link>https://www.threads.net/@choi.openai/post/Df86IwTAF8Y</link><description>Muse에 이메일 기능이 추가됐습니다.
+
+이제 Muse에 전용 이메일 주소를 만들고, AI가 사용자를 대신해 이메일을 보내거나 받을 수 있는데요.
+
+예를 들어 name@muse.ai 형태의 주소를 생성해 Muse가 이메일을 주고받도록 할 수 있습니다.
+
+프로필에서 메일 탭을 선택하거나 Muse에게 직접 요청하면 설정할 수 있습니다.
+
+현재 지원되는 국가의 모든 사용자에게 순차적으로 제공되고 있다고 합니다.</description><pubDate>Fri, 20 Nov 2026 05:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df86IwTAF8Y</guid></item><item><title>텐센트가 멀티모달 AI 모델 Hy4의 가중치를 공개했습니다.
+
+Hy4는 총 7,700억 개의 매개변수를 가진 MoE 모델로, 실제 추론에는 49...</title><link>https://www.threads.net/@choi.openai/post/Df8xSFsj6Rp</link><description>텐센트가 멀티모달 AI 모델 Hy4의 가중치를 공개했습니다.
+
+Hy4는 총 7,700억 개의 매개변수를 가진 MoE 모델로, 실제 추론에는 490억 개만 활성화됩니다.
+
+텍스트와 이미지 등 여러 형태의 정보를 처리할 수 있으며, 최대 100만 토큰의 긴 문맥을 지원하는데요.
+
+모델 가중치는 Hugging Face에서 이용할 수 있고, GGUF 형식도 제공됩니다.
+
+안전성 평가 결과를 담은 Hy4 System Card도 함께 공개되었습니다.</description><pubDate>Fri, 20 Nov 2026 04:12:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df8xSFsj6Rp</guid></item><item><title>허깅페이스 :
+https://huggingface.co/tencent/Hy4</title><link>https://www.threads.net/@choi.openai/post/Df8xSwpD534</link><description>허깅페이스 :
+https://huggingface.co/tencent/Hy4</description><pubDate>Fri, 20 Nov 2026 04:13:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df8xSwpD534</guid></item><item><title>오픈AI가 음성 AI 모델 GPT-Live-1.1을 API로 공개했습니다.
+
+GPT-Live-1.1은 지난 10월 15일부터 ChatGPT Pl...</title><link>https://www.threads.net/@choi.openai/post/Df8iLJDiY4F</link><description>오픈AI가 음성 AI 모델 GPT-Live-1.1을 API로 공개했습니다.
+
+GPT-Live-1.1은 지난 10월 15일부터 ChatGPT Plus와 Pro의 음성 기능에 적용된 모델인데요.
+
+여러 언어에서 발음과 억양이 더 자연스러워졌으며, 문자와 숫자를 정확히 이해하고 지시를 따르는 능력도 개선되었습니다.
+
+새롭게 추가된 Standby 기능은 5~60초 동안 대화가 없으면 대기 상태로 전환해 비용을 줄여줍니다.
+
+개발자들도 GPT-Live-1.1을 활용해 음성 AI 서비스를 만들 수 있게 되었습니다.</description><pubDate>Fri, 20 Nov 2026 02:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df8iLJDiY4F</guid></item><item><title>내용 :
+https://developers.openai.com/api/docs/models/gpt-live-1.1</title><link>https://www.threads.net/@choi.openai/post/Df8iMSfCRfd</link><description>내용 :
+https://developers.openai.com/api/docs/models/gpt-live-1.1</description><pubDate>Fri, 20 Nov 2026 02:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df8iMSfCRfd</guid></item><item><title>오픈AI가 ChatGPT 모바일 앱의 새로운 디자인을 테스트하고 있습니다.
+
+자주 사용하는 기능에 더 쉽게 접근할 수 있도록 화면 구성이 변경되...</title><link>https://www.threads.net/@choi.openai/post/Df8ZTIhjzr8</link><description>오픈AI가 ChatGPT 모바일 앱의 새로운 디자인을 테스트하고 있습니다.
+
+자주 사용하는 기능에 더 쉽게 접근할 수 있도록 화면 구성이 변경되는데요.
+
+Codex, Projects, Images 등을 하단 탭에 고정할 수 있고, 개인 AI 에이전트인 dot도 전용 탭으로 제공됩니다.
+
+우선 dot을 사용 중이거나 생성할 수 있는 Pro 사용자부터 적용되며, 설정의 'New ChatGPT Design'에서 켜고 끌 수 있습니다.
+
+향후 더 많은 사용자에게 확대할 예정이라고 합니다.</description><pubDate>Fri, 20 Nov 2026 00:44:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df8ZTIhjzr8</guid></item></channel></rss>
