@@ -1,40 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 20 Nov 2026 16:43:37 +0000</lastBuildDate><item><title>역사학자 유발 하라리(Yuval Noah Harari)는 AI 발전이 초래할 가장 큰 위협으로 킬러 로봇이나 바이러스 같은 특정 재난이 아닌, ...</title><link>https://www.threads.net/@choi.openai/post/Df-CQLpiqXu</link><description>역사학자 유발 하라리(Yuval Noah Harari)는 AI 발전이 초래할 가장 큰 위협으로 킬러 로봇이나 바이러스 같은 특정 재난이 아닌, 인류가 세상의 작동 원리를 완전히 이해하지 못하게 되는 ‘현실의 붕괴’를 꼽았습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 20 Nov 2026 22:02:09 +0000</lastBuildDate><item><title>🚨 속보) 와.. 정말 역사적인 하루입니다.
 
-그는 5~20년 내에 고도화된 AI가 금융, 정치, 과학 등 현대 문명을 지탱하는 핵심 시스템을 지배하면서 인간 지성의 이해 범위를 아득히 넘어설 것이라고 경고했습니다.
-결국 인류는 “도대체 세상에서 무슨 일이 벌어지고 있는지 전혀 이해하지 못하는 상태”에 빠지게 된다는 분석입니다.
+167년 동안 인류 최고의 수학자들이 아무도 넘지 못한 리만 가설이 AI와 함께 무너졌습니다.
 
-하라리는 이를 금융 시장의 논리에 삶이 통제되면서도 그 시스템의 존재조차 인식하지 못하는 가축(소, 닭)에 비유했습니다.
-수십억 마리의 가축이 보이지 않는 경제 시스템에 의해 운명이 결정되듯, 인류 역시 스스로 이해할 수 없는 “보이지 않는 통제의 계층(a layer of invisible control)” 아래 놓이게 될 것이 가장 두려운 미래라고 강조했습니다.</description><pubDate>Fri, 20 Nov 2026 16:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-CQLpiqXu</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=H43e72-2aAs</title><link>https://www.threads.net/@choi.openai/post/Df-CSu7Cnn1</link><description>풀영상 :
-https://www.youtube.com/watch?v=H43e72-2aAs</description><pubDate>Fri, 20 Nov 2026 16:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-CSu7Cnn1</guid></item><item><title>Linux 가상머신에서 호스트 서버의 메모리 127GB에 접근할 수 있는 취약점이 발견되었습니다.
+...</title><link>https://www.threads.net/@choi.openai/post/Df-rRcrE5mn</link><description>🚨 속보) 와.. 정말 역사적인 하루입니다.
 
-CVE-2026-99312는 AMD 프로세서...</title><link>https://www.threads.net/@choi.openai/post/Df97XTLDfX3</link><description>Linux 가상머신에서 호스트 서버의 메모리 127GB에 접근할 수 있는 취약점이 발견되었습니다.
+167년 동안 인류 최고의 수학자들이 아무도 넘지 못한 리만 가설이 AI와 함께 무너졌습니다.
 
-CVE-2026-99312는 AMD 프로세서에서 중첩 가상화 기능을 사용할 때 발생하는데요.
+힐베르트가 천 년 뒤에 깨어나면 가장 먼저 묻겠다던 바로 그 문제인데요.
 
-연구진은 DigitalOcean의 가상머신 내부에서 호스트 메모리 약 127GB를 읽는 데 성공했습니다.
+앤트로픽 수학자 레벤트 알푀게가 Claude와 함께 리만 가설의 증명을 공개했고, MIT 수학자가 하루 만에 독립 검증에 들어갔습니다 🧵</description><pubDate>Fri, 20 Nov 2026 21:58:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-rRcrE5mn</guid></item><item><title>1/ 앤트로픽의 수학자 레벤트 알푀게가 11월 20일(미국 시간) 개인 홈페이지에 4쪽짜리 글을 올리고 “Claude와 함께 리만 가설의 증명을...</title><link>https://www.threads.net/@choi.openai/post/Df-rSPPk4c1</link><description>1/ 앤트로픽의 수학자 레벤트 알푀게가 11월 20일(미국 시간) 개인 홈페이지에 4쪽짜리 글을 올리고 “Claude와 함께 리만 가설의 증명을 발견했다고 믿는다”고 밝혔습니다.
 
-클라우드 서버에서는 다른 고객의 데이터까지 노출될 수 있다는 의미입니다.
+같은 방법을 넓혀 더 강한 명제인 일반화된 리만 가설까지 증명했고, 시간이 더 있으면 확장된 리만 가설도 풀릴 거라고 적었는데요.
 
-취약점은 수정되었으며, 서버 운영자는 커널 업데이트나 중첩 가상화 비활성화가 필요합니다.</description><pubDate>Fri, 20 Nov 2026 15:00:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df97XTLDfX3</guid></item><item><title>내용 :
-https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.ht...</title><link>https://www.threads.net/@choi.openai/post/Df97YygjYuS</link><description>내용 :
-https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html</description><pubDate>Fri, 20 Nov 2026 15:00:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df97YygjYuS</guid></item><item><title>구글 딥마인드 수석부사장(SVP) 코라이 카부쿠오글루(Koray Kavukcuoglu)는 AI가 데이터 탐색부터 아키텍처 설계, 실험 검증, 훈...</title><link>https://www.threads.net/@choi.openai/post/Df937IICQtq</link><description>구글 딥마인드 수석부사장(SVP) 코라이 카부쿠오글루(Koray Kavukcuoglu)는 AI가 데이터 탐색부터 아키텍처 설계, 실험 검증, 훈련까지 전 과정을 스스로 수행하는 ‘재귀적 자기 개선(RSI)’의 현주소를 진단했습니다.
+증명 전체는 컴퓨터가 한 단계씩 검사하는 Lean 코드로 형식화해 14개 파일로 함께 공개했습니다.
 
-그는 버튼 하나만 누르면 차세대 모델이 자동으로 쏟아지는 완전 자동화 단계와는 아직 거리가 있다고 선을 그었습니다.
-현재는 전체 연구 파이프라인의 특정 영역(Pockets)에서만 모델이 스스로 가설을 세우고 실험하며 성능을 개선하는 수준입니다.
+1859년 베른하르트 리만이 처음 제기한 뒤 167년 동안 열려 있던 수학계 최대의 난제입니다.
 
-그럼에도 차세대 제미나이(Gemini) 개발에 있어 제미나이 자체가 가장 핵심적인 도구로 활용되고 있다고 밝혔습니다.
-그는 “제미나이에서 돌아가는 연산량의 일정 비율은 이미 에이전트의 통제하에 직접 실험을 수행하고 있다”며, AI 에이전트가 연구 개발의 실질적인 주체로 자리 잡으며 RSI에 점진적으로 다가가고 있음을 시사했습니다.</description><pubDate>Fri, 20 Nov 2026 14:30:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df937IICQtq</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=FORdPIWOH5k</title><link>https://www.threads.net/@choi.openai/post/Df938sgCV8g</link><description>풀영상 :
-https://www.youtube.com/watch?v=FORdPIWOH5k</description><pubDate>Fri, 20 Nov 2026 14:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df938sgCV8g</guid></item><item><title>뭐 이런 말도 안 되는 취약점이 있네요 ㅋㅋ..
+알푀게는 이 결과를 과학 전체에 훨씬 큰 무언가가 밝아 오는 새벽이라고 표현했습니다.</description><pubDate>Fri, 20 Nov 2026 21:59:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-rSPPk4c1</guid></item><item><title>2/ 리만 가설은 소수가 어떤 규칙으로 흩어져 있는지에 관한 문제입니다.
 
-PHP에서 HTTPS 주소의 's'를 대문자로 쓰면 암호화가 적용되지 않는 취약점이 발견되었습...</title><link>https://www.threads.net/@choi.openai/post/Df90erHCFa8</link><description>뭐 이런 말도 안 되는 취약점이 있네요 ㅋㅋ..
+2, 3, 5, 7처럼 1과 자기 자신으로만 나눠지는 소수는 얼핏 제...</title><link>https://www.threads.net/@choi.openai/post/Df-rTHlk-RA</link><description>2/ 리만 가설은 소수가 어떤 규칙으로 흩어져 있는지에 관한 문제입니다.
 
-PHP에서 HTTPS 주소의 's'를 대문자로 쓰면 암호화가 적용되지 않는 취약점이 발견되었습니다.
+2, 3, 5, 7처럼 1과 자기 자신으로만 나눠지는 소수는 얼핏 제멋대로 나타나는 것처럼 보이는데요.
 
-예를 들어 `file_get_contents('HTTPS://...')`를 실행하면 암호화되지 않은 HTTP로 요청을 보내 인증 토큰이나 전송 데이터가 노출될 수 있었는데요.
+리만은 1859년 8쪽 남짓한 논문에서 소수의 분포가 제타 함수라는 함수가 0이 되는 지점과 정확히 연결돼 있다는 걸 보였습니다.
 
-더 놀라운 건 약 20년간 존재했던 버그라는 점입니다.
+그리고 그 지점들이 모두 실수부가 2분의 1인 한 직선 위에 놓여 있을 거라고 추측했습니다.
 
-다행히 최신 PHP 버전에서는 수정되었으며, curl이나 Guzzle은 영향을 받지 않았다고 합니다.</description><pubDate>Fri, 20 Nov 2026 14:00:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df90erHCFa8</guid></item></channel></rss>
+이 추측이 맞으면 소수는 수학적으로 가능한 가장 고른 방식으로 퍼져 있다는 뜻이 됩니다.
+
+수많은 수학 논문이 "리만 가설이 참이라면"이라는 가정 위에 결과를 쌓아 왔고, 그 가정이 한꺼번에 정리로 바뀌는 순간입니다.</description><pubDate>Fri, 20 Nov 2026 21:59:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-rTHlk-RA</guid></item><item><title>3/ 이 문제의 중요성은 역사가 말해 줍니다.
+
+1900년 다비트 힐베르트는 20세기 수학이 풀어야 할 23개 문제를 발표하며 리만 가설을 8번...</title><link>https://www.threads.net/@choi.openai/post/Df-rT64E2--</link><description>3/ 이 문제의 중요성은 역사가 말해 줍니다.
+
+1900년 다비트 힐베르트는 20세기 수학이 풀어야 할 23개 문제를 발표하며 리만 가설을 8번에 넣었고, "천 년 동안 잠들었다 깨어나면 가장 먼저 리만 가설이 증명됐는지 묻겠다"는 말을 남겼는데요.
+
+2000년 클레이 수학연구소는 이 문제를 7대 밀레니엄 문제에 넣고 100만 달러를 걸었습니다.
+
+그 뒤 26년 동안 사람이 푼 밀레니엄 문제는 2003년 그리고리 페렐만의 푸앵카레 추측 하나뿐이었고, 그는 상금을 거절했습니다.
+
+컴퓨터로 확인한 영점만 처음 10조 개가 넘었지만 모두가 직선 위에 있다는 증명은 167년 동안 수학자들의 숙제로 남아 있었습니다.
+
+그 문제가 2026년 11월 AI와 함께 풀렸습니다.</description><pubDate>Fri, 20 Nov 2026 21:59:17 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-rT64E2--</guid></item><item><title>🚨 와.. 시X 미친.. 리만 가설 증명했다.
+
+앤트로픽의 연구원 Levent Alpöge가 Claude와 함께 167년간 풀리지 않았던 리만 ...</title><link>https://www.threads.net/@choi.openai/post/Df-ng7Qj_Rj</link><description>🚨 와.. 시X 미친.. 리만 가설 증명했다.
+
+앤트로픽의 연구원 Levent Alpöge가 Claude와 함께 167년간 풀리지 않았던 리만 가설을 증명했다고 주장했습니다.
+
+리만 가설은 소수가 어떤 규칙으로 분포하는지와 관련된 수학의 대표적인 난제인데요.
+
+같은 날 Alessandro Masullo가 AI 없이 작성한 940페이지 분량의 별도 증명도 공개됐습니다.</description><pubDate>Fri, 20 Nov 2026 21:26:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-ng7Qj_Rj</guid></item><item><title>내용 :
+https://alpo.ge/remark.pdf</title><link>https://www.threads.net/@choi.openai/post/Df-nhoLDzK3</link><description>내용 :
+https://alpo.ge/remark.pdf</description><pubDate>Fri, 20 Nov 2026 21:26:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-nhoLDzK3</guid></item><item><title>제이콥 콕슨(Jacob Coxon)은 초인적 AI 연구원이 등장해 알고리즘 개선이 자동화되면 “2027년 중반부터 2028년 중반 사이에 10년...</title><link>https://www.threads.net/@choi.openai/post/Df-hGsTEUP3</link><description>제이콥 콕슨(Jacob Coxon)은 초인적 AI 연구원이 등장해 알고리즘 개선이 자동화되면 “2027년 중반부터 2028년 중반 사이에 10년 치의 발전이 압축되어 일어날 것”이라고 전망했습니다.
+
+범용 지능이 스스로를 고도화할수록 새로운 과제를 학습하는 데이터 효율성도 극대화됩니다.
+그 결과 수학이나 코딩처럼 검증 가능한 영역을 넘어, 설득력 같은 인간 고유의 ‘소프트 스킬’까지 AI가 빠르게 흡수할 것이라는 분석입니다.
+
+특히 그는 일자리와 기업 경영의 근본적인 변화를 경고했습니다.
+미래에 AI 에이전트와 함께 회사를 운영하겠다는 발상은 순진한 착각이라며, “2028년 소프트웨어 기업을 운영하는 가장 좋은 방법은 당신이 하던 일을 에이전트에게 맡기는 것”이고, 결국 “CEO라는 직업마저 완전히 자동화될 것”이라고 단언했습니다.
+
+인간만의 비교 우위가 사라지는 특이점적 도약에 대비해야 할 시점입니다.</description><pubDate>Fri, 20 Nov 2026 20:30:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-hGsTEUP3</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=lwfewYL7X0o</title><link>https://www.threads.net/@choi.openai/post/Df-hH-iEW2y</link><description>풀영상 :
+https://www.youtube.com/watch?v=lwfewYL7X0o</description><pubDate>Fri, 20 Nov 2026 20:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-hH-iEW2y</guid></item><item><title>테슬라 CEO 일론 머스크(Elon Musk)는 휴머노이드 로봇 ‘옵티머스(Optimus)’가 향후 12~18개월 내에 쓰레기를 버리고 설거지까...</title><link>https://www.threads.net/@choi.openai/post/Df-W4_iCPHQ</link><description>테슬라 CEO 일론 머스크(Elon Musk)는 휴머노이드 로봇 ‘옵티머스(Optimus)’가 향후 12~18개월 내에 쓰레기를 버리고 설거지까지 해내는 가정용 작업 역량을 갖출 것이라고 밝혔습니다.
+
+음식물이 묻은 더러운 접시를 집어 잔여물을 닦아내고, 싱크대에서 세척·건조한 뒤 찬장에 안전하게 정리하는 일은 고도의 정밀 조작과 상황 판단이 요구되는 난제입니다.
+
+현재 전 세계 어떤 휴머노이드 로봇도 이러한 복합 가사 노동을 완벽히 수행하지 못하고 있지만, 머스크는 “12~18개월 안에는 옵티머스가 그 일들을 해낼 수 있을 것”이라고 내다봤습니다.
+
+단순 반복 공정을 넘어 비정형 환경에서의 미세 작업 능력이 상용화 임계점에 도달하면서, 가사 노동은 물론 물리적 노동 시장 전반의 자동화가 가속화될 전망입니다.</description><pubDate>Fri, 20 Nov 2026 19:00:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-W4_iCPHQ</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=DY8clym2-jQ</title><link>https://www.threads.net/@choi.openai/post/Df-W7ZXiIe7</link><description>풀영상 :
+https://www.youtube.com/watch?v=DY8clym2-jQ</description><pubDate>Fri, 20 Nov 2026 19:01:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/Df-W7ZXiIe7</guid></item></channel></rss>
