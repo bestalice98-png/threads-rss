@@ -1,83 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 21 Nov 2026 15:55:20 +0000</lastBuildDate><item><title>오픈AI 최고연구책임자(CRO) 마크 첸(Mark Chen)은 현재의 AI 수준을 “AI 연구 인턴(AI research interns)” 단계...</title><link>https://www.threads.net/@choi.openai/post/DgAcsrmiYF8</link><description>오픈AI 최고연구책임자(CRO) 마크 첸(Mark Chen)은 현재의 AI 수준을 “AI 연구 인턴(AI research interns)” 단계라고 정의했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sat, 21 Nov 2026 20:42:13 +0000</lastBuildDate><item><title>AI 해킹 에이전트를 가짜 정보로 속이는 보안 서비스 Shield가 공개되었습니다.
 
-실제로 코덱스(Codex)로 관리되는 연산 자원을 통해 코드 구현부터 실험 실행, 모니터링까지 연구 파이프라인의 상당 부분을 자동화하고 있습니다.
-다만 AI가 스스로 독창적인 아이디어를 내는 완전 자율 단계가 아니라, 연구자가 명확한 범위와 지시를 주었을 때 이를 대신 수행하는 수준입니다.
+OrcaRouter가 개발한 Shield는 공격을 차단하는...</title><link>https://www.threads.net/@choi.openai/post/DgBF5IaApBn</link><description>AI 해킹 에이전트를 가짜 정보로 속이는 보안 서비스 Shield가 공개되었습니다.
 
-특히 며칠간 막대한 토큰을 쏟아부어 자율 실험을 돌려도 결국 핵심 목표 달성에 실패할 때가 많습니다.
+OrcaRouter가 개발한 Shield는 공격을 차단하는 대신 가짜 서버 설정과 인증 정보를 제공해 AI가 엉뚱한 곳을 계속 탐색하도록 유도하는데요.
 
-결국 인간 연구자가 직접 결과를 해석하고 “AI가 미처 생각하지 못했을 질문을 던지며 방향을 제시해야” 연구가 본궤도에 오르며, 이 과정에서 인간의 역할이 여전히 핵심적임을 강조했습니다.</description><pubDate>Sat, 21 Nov 2026 14:30:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgAcsrmiYF8</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=h_aA1-R70E8</title><link>https://www.threads.net/@choi.openai/post/DgAcuF9CTcW</link><description>풀영상 :
-https://www.youtube.com/watch?v=h_aA1-R70E8</description><pubDate>Sat, 21 Nov 2026 14:30:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgAcuF9CTcW</guid></item><item><title>AI가 신약 후보를 고르는 의약화학자의 일을 얼마나 해낼 수 있을까요.
+예를 들어 AI가 웹사이트의 /.env 파일을 요청하면 실제 정보 대신 가짜 정보를 보여줍니다.
 
-오픈AI가 실제 논문과 특허 117건에서 뽑은 99문제로 그 실력을 쟀...</title><link>https://www.threads.net/@choi.openai/post/DgAHcFfmhzF</link><description>AI가 신약 후보를 고르는 의약화학자의 일을 얼마나 해낼 수 있을까요.
+OrcaRouter의 자체 테스트에서는 공격 유도율 87%, 가짜 정보 주입 성공률 83%를 기록했으며, 공격자의 작업 시간도 5배 늘어났다고 합니다.</description><pubDate>Sat, 21 Nov 2026 20:30:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgBF5IaApBn</guid></item><item><title>내용 :
+https://docs.orcarouter.ai/ko/security/shield/overview</title><link>https://www.threads.net/@choi.openai/post/DgBF8NVAuA5</link><description>내용 :
+https://docs.orcarouter.ai/ko/security/shield/overview</description><pubDate>Sat, 21 Nov 2026 20:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgBF8NVAuA5</guid></item><item><title>구글 딥마인드 수석부사장(SVP) 코라이 카부쿠오글루(Koray Kavukcuoglu)는 “우리는 AGI(범용인공지능)를 판별할 벤치마크 테스트...</title><link>https://www.threads.net/@choi.openai/post/DgA7qZsiTu3</link><description>구글 딥마인드 수석부사장(SVP) 코라이 카부쿠오글루(Koray Kavukcuoglu)는 “우리는 AGI(범용인공지능)를 판별할 벤치마크 테스트를 결코 갖지 못할 것”이라고 단언했습니다.
 
-오픈AI가 실제 논문과 특허 117건에서 뽑은 99문제로 그 실력을 쟀는데, 분자 구조 문제는 최상위 모델이 95% 넘게 맞혔습니다.
+그는 AGI가 시험 점수로 증명되는 개념이 아니라, 사람들이 실제로 유용하다고 느끼고 의사결정을 맡길 만큼 신뢰할 때 체감되는 현상이라고 설명했습니다.
+즉, AGI가 나아가야 할 ‘북극성(목표)’이라면, 실제 ‘제품(Products)’은 그곳에 도달하기 위해 밟고 건너가야 할 징검다리라는 분석입니다.
 
-MedChemBench의 점수와 다음 과제를 정리했습니다 🧵</description><pubDate>Sat, 21 Nov 2026 13:00:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgAHcFfmhzF</guid></item><item><title>1/ 오픈AI가 의약화학 추론 벤치마크 MedChemBench를 공개했습니다.
+단순 챗봇에서 출발한 AI는 이제 소프트웨어 엔지니어링과 코딩을 넘어 다양한 지식 노동 영역에서 실질적인 경제적 가치를 창출하는 단계로 진입하고 있습니다.
 
-의약화학은 질병 관련 단백질에 작용하는 분자를 설계하고, 합성하...</title><link>https://www.threads.net/@choi.openai/post/DgASfTMj-vg</link><description>1/ 오픈AI가 의약화학 추론 벤치마크 MedChemBench를 공개했습니다.
+카부쿠오글루는 “제품을 배제한 채 AGI를 구축하려는 시도는 결코 성공할 수 없다”며, 현실의 문제를 해결하는 ‘실용적 유용성’이야말로 지능을 정의하는 핵심 본질이라고 강조했습니다.</description><pubDate>Sat, 21 Nov 2026 19:00:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgA7qZsiTu3</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=FORdPIWOH5k</title><link>https://www.threads.net/@choi.openai/post/DgA7sCeCe0_</link><description>풀영상 :
+https://www.youtube.com/watch?v=FORdPIWOH5k</description><pubDate>Sat, 21 Nov 2026 19:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgA7sCeCe0_</guid></item><item><title>역사학자 유발 하라리(Yuval Noah Harari)는 지난 1년간 AI의 발전 속도가 자신의 기존 예측조차 뛰어넘어 훨씬 더 빠르게 가속화되...</title><link>https://www.threads.net/@choi.openai/post/DgAxWarigsu</link><description>역사학자 유발 하라리(Yuval Noah Harari)는 지난 1년간 AI의 발전 속도가 자신의 기존 예측조차 뛰어넘어 훨씬 더 빠르게 가속화되고 있다고 밝혔습니다.
 
-의약화학은 질병 관련 단백질에 작용하는 분자를 설계하고, 합성하고, 시험한 결과를 보고 다음에 어떤 화합물을 만들지 정하는 신약 개발의 핵심 단계인데요.
+역사는 대개 선형적으로 흐르지 않고 예상치 못한 방향으로 빗나가기 때문에, 하라리 역시 AI의 언어 정복과 기술 진보가 훨씬 더 긴 시간 규모에 걸쳐 전개될 것으로 내다봤습니다.
 
-오픈AI는 발표된 논문과 특허 117건에서 분자 구조 761개를 뽑아 99개 문제를 만들고, AI가 분자 구조를 읽고 실험 결과를 해석해 다음에 시험할 화합물을 고를 수 있는지 시험했습니다.
+하지만 실제 전개 양상은 레이 커즈와일(Ray Kurzweil)이나 닉 보스트롬(Nick Bostrom) 같은 기술 예측가들의 전망이 훨씬 더 앞당겨져 실현되는 이례적인 흐름을 보이고 있습니다.
 
-문제는 신약 후보를 고르는 리드 선택 48개, 구조 변화에 따른 활성 예측 26개를 중심으로 일곱 범주에 걸쳐 있고, 99개 가운데 85개가 여러 분야를 함께 다룹니다.</description><pubDate>Sat, 21 Nov 2026 13:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgASfTMj-vg</guid></item><item><title>2/ 이 벤치마크가 어려운 이유는 분자의 한 성질을 좋게 만들면 다른 성질이 나빠지는 일이 흔하기 때문입니다.
+특히 그는 과거 커즈와일이 2029년을 특이점의 분기점으로 지목했을 때 비현실적이라고 여겼으나, “지금 돌이켜보면 2029년이라는 예측조차 너무 보수적으로 느껴진다”며 AI 성능 돌파와 특이점 도래 시점이 예상보다 급격히 빨라지고 있음을 강조했습니다.</description><pubDate>Sat, 21 Nov 2026 17:30:32 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgAxWarigsu</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=H43e72-2aAs</title><link>https://www.threads.net/@choi.openai/post/DgAxYzoCvYC</link><description>풀영상 :
+https://www.youtube.com/watch?v=H43e72-2aAs</description><pubDate>Sat, 21 Nov 2026 17:30:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgAxYzoCvYC</guid></item><item><title>제이콥 콕슨(Jacob Coxon)은 늦어도 2028년 말이면 코딩과 기술은 물론 팟캐스팅이나 창작 영역까지 인간을 능가하는 “광범위한 초인적 ...</title><link>https://www.threads.net/@choi.openai/post/DgAnBI7j0jq</link><description>제이콥 콕슨(Jacob Coxon)은 늦어도 2028년 말이면 코딩과 기술은 물론 팟캐스팅이나 창작 영역까지 인간을 능가하는 “광범위한 초인적 지능(broadly superhuman intelligence)”이 등장할 것으로 전망했습니다.
 
-어떤 화합물은 질병 단백질을 강...</title><link>https://www.threads.net/@choi.openai/post/DgASgCgD0b9</link><description>2/ 이 벤치마크가 어려운 이유는 분자의 한 성질을 좋게 만들면 다른 성질이 나빠지는 일이 흔하기 때문입니다.
+그 핵심 분기점은 2027년으로, 이때 ‘초인적 AI 연구원’이 탄생하며 알고리즘 연구원 직무가 사실상 자동화될 것이라는 분석입니다.
+실제로 오픈AI의 노엄 브라운 역시 다다음 세대 AI가 자신의 업무를 대체할 수 있다고 언급한 바 있습니다.
 
-어떤 화합물은 질병 단백질을 강하게 막지만 몸에 잘 흡수되지 않거나 몸속에서 빠르게 분해되는데요.
-의약화학자는 비슷한 화합물을 여러 개 만들고 시험하면서 이 균형을 맞춰 갑니다.
-
-MedChemBench는 연구 프로그램의 특정 시점에 연구자가 가졌던 정보, 즉 표적 단백질과 연구 목표, 지금까지 시험한 화합물과 실험 결과를 주고 네 가지를 채점합니다.
-
-분자 구조를 정확히 재구성하는지, 근거로 결과를 설명하는지, 조건에 맞는 화합물을 고르는지, 수치를 맞게 예측하는지입니다.</description><pubDate>Sat, 21 Nov 2026 13:00:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgASgCgD0b9</guid></item><item><title>3/ 실제 문제 하나를 보면 감이 옵니다.
-
-항암 신약 표적으로 연구되는 단백질 PRMT5를 막는 화합물 연구에서, 모델은 이전 실험 결과를 보...</title><link>https://www.threads.net/@choi.openai/post/DgAHdHSjJjh</link><description>3/ 실제 문제 하나를 보면 감이 옵니다.
-
-항암 신약 표적으로 연구되는 단백질 PRMT5를 막는 화합물 연구에서, 모델은 이전 실험 결과를 보고 비슷한 화합물 세 개가 세포 안에서 PRMT5를 얼마나 막는지, 세포막을 얼마나 잘 통과하는지, 간 효소에 얼마나 빨리 분해되는지를 예측해야 합니다.
-
-모델에게 숨긴 실제 실험에서는 23번 화합물이 더 낮은 농도에서 PRMT5를 막았고, 24번 화합물은 세포막을 더 잘 통과하면서 간에서 더 천천히 분해됐는데요.
-
-예측이 실제 측정값에 가까울수록 부분 점수를 받습니다.
-표적을 세게 막는 분자와 몸속에서 오래 버티는 분자가 서로 다를 수 있다는 신약 개발의 핵심 고민을 그대로 문제로 옮긴 셈입니다.</description><pubDate>Sat, 21 Nov 2026 13:01:02 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgAHdHSjJjh</guid></item><item><title>오늘 자정 마감입니다.</title><link>https://www.threads.net/@choi.openai/post/DgAQAw_j76i</link><description>오늘 자정 마감입니다.</description><pubDate>Sat, 21 Nov 2026 12:39:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgAQAw_j76i</guid></item><item><title>AI가 혼자 해내는 일의 길이가 3.6개월마다 두 배로 늘고 있습니다.
-
-1년 반 전 1시간이던 최고 모델의 작업 시간은 GPT-6 Astra에...</title><link>https://www.threads.net/@choi.openai/post/DgALi2jD3-U</link><description>AI가 혼자 해내는 일의 길이가 3.6개월마다 두 배로 늘고 있습니다.
-
-1년 반 전 1시간이던 최고 모델의 작업 시간은 GPT-6 Astra에서 약 40시간이 됐고, 이 추세대로면 2027년 7월에는 사람이 200시간 걸리는 일까지 닿는데요.
-
-외부 평가기관 METR이 AI 능력이 빠르게 오르는 동시에 재기조차 어려워졌다고 밝힌 200쪽 분량의 보고서를 정리했습니다 🧵</description><pubDate>Sat, 21 Nov 2026 12:00:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgALi2jD3-U</guid></item><item><title>1/ AI 위험을 평가하는 비영리 기관 METR이 약 200쪽 분량의 연구 업데이트를 공개했습니다.
-
-제목은 'AI 연구 개발과 관련된 모델 능...</title><link>https://www.threads.net/@choi.openai/post/DgALjpzj0x7</link><description>1/ AI 위험을 평가하는 비영리 기관 METR이 약 200쪽 분량의 연구 업데이트를 공개했습니다.
-
-제목은 'AI 연구 개발과 관련된 모델 능력이 빠르게 좋아지고 있고, 측정하기는 점점 어려워지고 있다'인데요.
-
-Opus 5.5와 GPT-6 Astra까지 공개 모델을 시험한 결과, METR은 앞으로 2년 안에 AI 연구 개발이 급격히 빨라질 가능성을 지금의 공개 증거로는 배제할 수 없다고 결론 내렸습니다.
-
-METR이 말하는 급격한 가속은 능력이 빠르게 좋아져 사람이 새 AI의 위험을 제대로 이해하고 평가하고 대응하기 어려워지는 상황입니다.
-
-AI 위험을 가장 보수적으로 재 온 기관이 이 가능성을 공식 문서에 적었습니다.</description><pubDate>Sat, 21 Nov 2026 12:00:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgALjpzj0x7</guid></item><item><title>2/ METR은 그동안 '시간 지평'이라는 자로 AI를 재 왔습니다.
-
-사람이 몇 시간 걸리는 일을 AI가 50% 확률로 혼자 끝내는지를 보는 ...</title><link>https://www.threads.net/@choi.openai/post/DgALlNIj1cu</link><description>2/ METR은 그동안 '시간 지평'이라는 자로 AI를 재 왔습니다.
-
-사람이 몇 시간 걸리는 일을 AI가 50% 확률로 혼자 끝내는지를 보는 지표인데요.
-
-2025년 3월 처음 이 지표를 냈을 때 최고 모델 Claude 3.7 Sonnet의 시간 지평은 약 1시간이었습니다.
-
-1년이 안 돼 모델들은 최대 30시간짜리 과제가 들어 있던 기존 시험을 사실상 다 풀어 버렸고, 2026년 2월 제가 전한 GPT-5.2의 기록이 6.6시간이었습니다.
-
-그래서 METR은 최대 200시간짜리 과제 36개를 담은 새 시험 TH2를 만들었고, 최적화와 게임처럼 채점이 쉬운 과제와 판단이 필요한 과제를 나눠 넣었습니다.
-
-자가 짧아져 새 자를 만든 셈입니다.</description><pubDate>Sat, 21 Nov 2026 12:00:30 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgALlNIj1cu</guid></item><item><title>3/ 새 자로 재도 속도는 그대로였습니다.
-
-기존 시험과 새 시험을 합쳐 보면 최상위 모델의 시간 지평은 약 3.6개월, 날짜로 110일마다 두...</title><link>https://www.threads.net/@choi.openai/post/DgALmBdD3DH</link><description>3/ 새 자로 재도 속도는 그대로였습니다.
-
-기존 시험과 새 시험을 합쳐 보면 최상위 모델의 시간 지평은 약 3.6개월, 날짜로 110일마다 두 배가 됐는데요. 이전에 보고된 105일 추세와 거의 같습니다.
-
-그래프에서 GPT-6 Astra는 기존 시험의 최장 과제인 30시간 선을 넘어 약 40시간에 올라 있고, Opus 5.5도 비슷한 자리에 있습니다.
-
-METR은 이 추세를 그대로 늘리면 2027년 7월에 새 시험의 가장 긴 200시간짜리 과제까지 닿는다고 계산했습니다.
-
-공교롭게도 AI 2027 시나리오가 AI 연구 자동화가 본격화된다고 그린 시점과 겹칩니다.
-
-1년 반 만에 1시간이 40시간이 됐고, 다음 목표선은 8개월 뒤에 있습니다.</description><pubDate>Sat, 21 Nov 2026 12:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgALmBdD3DH</guid></item></channel></rss>
+현재 앤스로픽 내부 AI 연구·개발의 25%가 이미 ‘클로드(Claude)’를 통해 이뤄지고 있으며, AI 활용으로 인한 업무 속도 향상 폭도 3개월마다 2배씩 커져 현재 4~5배 수준에 달합니다.
+이 추세가 이어지면 2027년에는 생산성이 100배까지 폭증해 연구 자동화가 현실화될 것이라며, 주요 AI 연구소들 역시 2027년 중반에서 2028년 사이를 그 시점으로 보고 있다고 강조했습니다.</description><pubDate>Sat, 21 Nov 2026 16:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgAnBI7j0jq</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=lwfewYL7X0o</title><link>https://www.threads.net/@choi.openai/post/DgAnCjXjwoA</link><description>풀영상 :
+https://www.youtube.com/watch?v=lwfewYL7X0o</description><pubDate>Sat, 21 Nov 2026 16:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgAnCjXjwoA</guid></item></channel></rss>
