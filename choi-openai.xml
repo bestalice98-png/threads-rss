@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 22 Nov 2026 15:56:39 +0000</lastBuildDate><item><title>애플이 실시간 영상 생성 모델 FastFrames를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 22 Nov 2026 20:52:41 +0000</lastBuildDate><item><title>구글 딥마인드 SVP 코라이 카부쿠오글루(Koray Kavukcuoglu)는 제미나이(Gemini)가 고정된 단일 아키텍처에 머물지 않고 지능을...</title><link>https://www.threads.net/@choi.openai/post/DgDgfK8ESZV</link><description>구글 딥마인드 SVP 코라이 카부쿠오글루(Koray Kavukcuoglu)는 제미나이(Gemini)가 고정된 단일 아키텍처에 머물지 않고 지능을 추구하며 끊임없이 진화하는 시스템이라고 밝혔습니다.
+
+그는 제미나이의 연구 구조를 넓은 입구에서 수많은 아이디어를 실험하고 검증해 실제 제품으로 압축하는 ‘깔때기(funnel)’에 비유했습니다.
+
+현재의 모델은 6개월 전과 전혀 다르며, 5년 뒤에는 또 다른 새로운 아키텍처가 핵심이 될 것이라는 전망입니다.
+
+특히 “제미나이의 모든 세대는 수작업으로 조립되는 맞춤형(custom job) 모델”이라며, 수십억 명의 사용자에게 배포된 이후에도 고정되지 않고 연간 약 6개의 서로 다른 모델을 선보이며 성능을 극대화하고 있다고 강조했습니다.
+
+차세대 AI 아키텍처의 빠른 세대교체와 맞춤형 최적화가 모델의 학습 효율과 실전 성능을 결정짓는 핵심 경쟁력이 되고 있습니다.</description><pubDate>Sun, 22 Nov 2026 19:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDgfK8ESZV</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=FORdPIWOH5k</title><link>https://www.threads.net/@choi.openai/post/DgDggbsEYjm</link><description>풀영상 :
+https://www.youtube.com/watch?v=FORdPIWOH5k</description><pubDate>Sun, 22 Nov 2026 19:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDggbsEYjm</guid></item><item><title>제프리 힌튼(Geoffrey Hinton)은 현재의 AI 챗봇이 인간의 언어 습득 및 이해 원리를 설명하는 가장 뛰어난 모델이며, “실제로 인간...</title><link>https://www.threads.net/@choi.openai/post/DgDSwHNk43H</link><description>제프리 힌튼(Geoffrey Hinton)은 현재의 AI 챗봇이 인간의 언어 습득 및 이해 원리를 설명하는 가장 뛰어난 모델이며, “실제로 인간과 매우 유사한 방식으로 언어를 이해하고 있다”고 단언했습니다.
+
+그는 1985년에 시작한 신경망 모델이 본래 인간이 단어의 의미를 배우는 과정을 연구하기 위해 설계되었다고 설명했습니다.
+일부 언어학자들과 놈 촘스키가 AI의 언어 이해를 단순한 눈속임이나 통계적 흉내라고 폄하했지만, 정작 그들이 제시한 예시 문장조차 챗봇은 완벽히 이해해 냈다고 지적했습니다.
+
+힌튼은 “챗봇을 더 많이 사용해 볼수록 이들이 진정으로 이해하고 있음을 깨닫게 될 것”이라고 강조했습니다.
+따라서 AI가 아무것도 이해하지 못하므로 걱정할 필요가 없다는 낙관론자들의 주장은 명백히 틀렸다고 경고했습니다.</description><pubDate>Sun, 22 Nov 2026 17:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDSwHNk43H</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=JVuSYB9iqwo</title><link>https://www.threads.net/@choi.openai/post/DgDSx1Tk-av</link><description>풀영상 :
+https://www.youtube.com/watch?v=JVuSYB9iqwo</description><pubDate>Sun, 22 Nov 2026 17:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDSx1Tk-av</guid></item><item><title>애플이 실시간 영상 생성 모델 FastFrames를 공개했습니다.
 
 기존 영상 생성 AI는 결과를 기다려야 했지만, FastFrames는 영상을...</title><link>https://www.threads.net/@choi.openai/post/DgDE7GBCEch</link><description>애플이 실시간 영상 생성 모델 FastFrames를 공개했습니다.
 
@@ -28,28 +46,4 @@ Carbon과 Hydrogen 사이에 자리한 모델로, 100만 토큰 문맥과 코딩
 Carbon과 Hydrogen 사이에 자리한 모델로, 100만 토큰 문맥과 코딩·에이전트 성능을 내세웠습니다.
 출시 당시 Artificial Analysis 지능 지수에서 61점을 기록했습니다.
 
-이후 Antigravity 업데이트에는 Neon이 작업을 계획하고 Hydrogen이 실행하는 Orchestrator 모드도 추가됐습니다.</description><pubDate>Sun, 22 Nov 2026 12:44:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgC1cqiD0Dc</guid></item><item><title>Tencent Hunyuan이 1분 길이의 영상을 연속으로 생성하는 AI 모델 MovieRoll을 공개했습니다.
-
-기존 영상 생성 AI는 시간이...</title><link>https://www.threads.net/@choi.openai/post/DgCs84tibHG</link><description>Tencent Hunyuan이 1분 길이의 영상을 연속으로 생성하는 AI 모델 MovieRoll을 공개했습니다.
-
-기존 영상 생성 AI는 시간이 길어지면 인물의 얼굴이나 장면이 달라지는 문제가 있었는데요.
-
-MovieRoll은 이전 장면의 정보를 기억하면서 다음 영상을 생성합니다.
-
-예를 들어 10초마다 새로운 지시를 입력해도 같은 인물이 걷다가 물건을 집고 다시 이동하는 장면을 이어서 만들 수 있습니다.
-
-코드와 모델이 공개됐지만, 현재는 96GB급 GPU가 필요하다는 제약이 있습니다.</description><pubDate>Sun, 22 Nov 2026 11:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgCs84tibHG</guid></item><item><title>깃허브 :
-https://tencent-hunyuan.github.io/MovieRoll/</title><link>https://www.threads.net/@choi.openai/post/DgCs-K7CUet</link><description>깃허브 :
-https://tencent-hunyuan.github.io/MovieRoll/</description><pubDate>Sun, 22 Nov 2026 11:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgCs-K7CUet</guid></item><item><title>애플이 사진과 영상의 깊이를 추정하는 AI 모델 Depth Pro 2를 공개했습니다.
-
-일반 카메라로 촬영한 사진만으로도 어떤 물체가 가깝고 먼...</title><link>https://www.threads.net/@choi.openai/post/DgCir15iD1b</link><description>애플이 사진과 영상의 깊이를 추정하는 AI 모델 Depth Pro 2를 공개했습니다.
-
-일반 카메라로 촬영한 사진만으로도 어떤 물체가 가깝고 먼지, 카메라에서 얼마나 떨어져 있는지 추정할 수 있는데요.
-
-별도의 LiDAR 센서 없이 작동하며, 영상에서는 프레임마다 깊이 정보가 흔들리는 현상도 줄였습니다.
-
-예를 들어 일반 영상에 인물 뒤쪽만 흐리게 만드는 효과를 적용하거나, 3D 효과를 만드는 데 활용할 수 있습니다.
-
-모델은 허깅페이스에 공개되었습니다.</description><pubDate>Sun, 22 Nov 2026 10:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgCir15iD1b</guid></item><item><title>프로젝트 주소 :
-https://apple-aiml-research.github.io/ml-depth-pro-2/</title><link>https://www.threads.net/@choi.openai/post/DgCit-_CCSb</link><description>프로젝트 주소 :
-https://apple-aiml-research.github.io/ml-depth-pro-2/</description><pubDate>Sun, 22 Nov 2026 10:01:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgCit-_CCSb</guid></item></channel></rss>
+이후 Antigravity 업데이트에는 Neon이 작업을 계획하고 Hydrogen이 실행하는 Orchestrator 모드도 추가됐습니다.</description><pubDate>Sun, 22 Nov 2026 12:44:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgC1cqiD0Dc</guid></item></channel></rss>
