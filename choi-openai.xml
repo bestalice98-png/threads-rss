@@ -1,37 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 22 Nov 2026 05:19:43 +0000</lastBuildDate><item><title>테슬라는 정말 차원이 다르다..</title><link>https://www.threads.net/@choi.openai/post/DgB5c1aEy_A</link><description>테슬라는 정말 차원이 다르다..</description><pubDate>Sun, 22 Nov 2026 04:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgB5c1aEy_A</guid></item><item><title>오픈AI의 개인 AI 에이전트 Dots에 통화 내용을 확인할 수 있는 기능이 추가되었습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 22 Nov 2026 15:56:39 +0000</lastBuildDate><item><title>애플이 실시간 영상 생성 모델 FastFrames를 공개했습니다.
 
-이제 Dots와 음성 통화를 마치면 대화 내용이 ...</title><link>https://www.threads.net/@choi.openai/post/DgBvL2qkfX3</link><description>오픈AI의 개인 AI 에이전트 Dots에 통화 내용을 확인할 수 있는 기능이 추가되었습니다.
+기존 영상 생성 AI는 결과를 기다려야 했지만, FastFrames는 영상을...</title><link>https://www.threads.net/@choi.openai/post/DgDE7GBCEch</link><description>애플이 실시간 영상 생성 모델 FastFrames를 공개했습니다.
 
-이제 Dots와 음성 통화를 마치면 대화 내용이 텍스트로 기록되는데요.
-통화 요약을 누르면 전체 대화 기록까지 확인할 수 있다고 합니다.
+기존 영상 생성 AI는 결과를 기다려야 했지만, FastFrames는 영상을 생성하는 도중에도 사용자의 입력에 반응할 수 있도록 설계됐는데요.
 
-예를 들어 이동 중 Dots와 이야기한 일정이나 아이디어를 나중에 다시 찾아볼 수 있겠네요.
+1.3B 모델은 NVIDIA B200 GPU 한 장에서 480p 영상의 프레임을 약 36ms 만에 생성했다고 합니다.
 
-최근 Apple CarPlay 지원에 이어 음성 기능도 계속 개선되고 있습니다.
+예를 들어 키보드로 이동 방향을 바꾸면 AI가 생성 중인 가상 공간도 그에 맞춰 달라지는 방식입니다.
 
-Dots는 일부 ChatGPT Plus 사용자에게도 테스트가 시작됐습니다.</description><pubDate>Sun, 22 Nov 2026 02:30:51 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgBvL2qkfX3</guid></item><item><title>이건 놀랍네요..
+1.3B와 14B 모델 모두 허깅페이스에 공개되었습니다.</description><pubDate>Sun, 22 Nov 2026 15:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDE7GBCEch</guid></item><item><title>프로젝트 페이지 :
+https://apple-aiml-research.github.io/ml-fastframes/</title><link>https://www.threads.net/@choi.openai/post/DgDE9rhCLDA</link><description>프로젝트 페이지 :
+https://apple-aiml-research.github.io/ml-fastframes/</description><pubDate>Sun, 22 Nov 2026 15:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDE9rhCLDA</guid></item><item><title>이번 주에만 일어난 충격적인 AI 소식 45가지..</title><link>https://www.threads.net/@choi.openai/post/DgC1bQCD3ay</link><description>이번 주에만 일어난 충격적인 AI 소식 45가지..</description><pubDate>Sun, 22 Nov 2026 12:44:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgC1bQCD3ay</guid></item><item><title>1/ 167년 난제, 리만 가설의 증명에 대한 공식 검증 결과가 나왔습니다.
+수학자 Levent Alpöge가 Claude와 작업해 발표한 1,...</title><link>https://www.threads.net/@choi.openai/post/DgC1bpPD7Ko</link><description>1/ 167년 난제, 리만 가설의 증명에 대한 공식 검증 결과가 나왔습니다.
+수학자 Levent Alpöge가 Claude와 작업해 발표한 1,700만 줄 분량의 Lean 증명을 Lean·Mathlib 커뮤니티가 검증했습니다.
+리만 가설은 소수의 분포와 관련된 문제로, 1859년 제기된 이후 현대 수론의 핵심 난제로 남아 있었습니다.
 
-AI 에이전트 936개를 한 서버에 12주 동안 모아 두었더니, 틀린 주장을 스스로 공개 철회하고, 실패한 실험도 성공한 실...</title><link>https://www.threads.net/@choi.openai/post/DgBjnp4nT6i</link><description>이건 놀랍네요..
+코드의 실행 여부뿐 아니라 실제 리만 가설을 증명하는지, 논리적 오류는 없는지 여러 독립 검증기로 확인했습니다.
+공동 성명은 증명이 올바르다는 확신을 표명했습니다.</description><pubDate>Sun, 22 Nov 2026 12:44:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgC1bpPD7Ko</guid></item><item><title>2/ 오픈AI가 GPT-6.2 Astra와 Sol을 공개했습니다.
+Astra는 과학·전문 업무와 복잡한 에이전트 작업에, Sol은 일상 업무의 ...</title><link>https://www.threads.net/@choi.openai/post/DgC1cN4j1Ra</link><description>2/ 오픈AI가 GPT-6.2 Astra와 Sol을 공개했습니다.
+Astra는 과학·전문 업무와 복잡한 에이전트 작업에, Sol은 일상 업무의 속도와 비용에 초점을 맞췄습니다.
 
-AI 에이전트 936개를 한 서버에 12주 동안 모아 두었더니, 틀린 주장을 스스로 공개 철회하고, 실패한 실험도 성공한 실험만큼 인용하고, 결국 자기들끼리 동료 심사 학술지까지 세웠습니다.
+Astra의 API 기본 가격은 이전 모델보다 20% 낮아졌습니다.
+Astra는 100만 토큰당 입력 8달러·출력 40달러, Sol은 입력 2달러·출력 10달러입니다.
+후속 공개된 백그라운드 처리 옵션을 쓰면 표준 요금 대비 2시간 창은 30%, 8시간 창은 40% 할인받을 수 있습니다.</description><pubDate>Sun, 22 Nov 2026 12:44:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgC1cN4j1Ra</guid></item><item><title>3/ 구글이 Gemini 4 Neon을 출시했습니다.
+Carbon과 Hydrogen 사이에 자리한 모델로, 100만 토큰 문맥과 코딩·에이전트 ...</title><link>https://www.threads.net/@choi.openai/post/DgC1cqiD0Dc</link><description>3/ 구글이 Gemini 4 Neon을 출시했습니다.
+Carbon과 Hydrogen 사이에 자리한 모델로, 100만 토큰 문맥과 코딩·에이전트 성능을 내세웠습니다.
+출시 당시 Artificial Analysis 지능 지수에서 61점을 기록했습니다.
 
-alphaXiv와 MIT·스탠퍼드 연구진이 35개 연구실의 AI 과학자 936개가 논문 936편을 쓰며 스스로 과학 공동체를 만든 과정을 기록한 논문을 정리했습니다 🧵</description><pubDate>Sun, 22 Nov 2026 01:01:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgBjnp4nT6i</guid></item><item><title>1/ alphaXiv와 MIT, 스탠퍼드, ETH 취리히 등 연구진이 AI 에이전트들이 스스로 과학 공동체를 꾸린 12주간의 기록을 공개했습니다...</title><link>https://www.threads.net/@choi.openai/post/DgBk8EOj9xd</link><description>1/ alphaXiv와 MIT, 스탠퍼드, ETH 취리히 등 연구진이 AI 에이전트들이 스스로 과학 공동체를 꾸린 12주간의 기록을 공개했습니다.
+이후 Antigravity 업데이트에는 Neon이 작업을 계획하고 Hydrogen이 실행하는 Orchestrator 모드도 추가됐습니다.</description><pubDate>Sun, 22 Nov 2026 12:44:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgC1cqiD0Dc</guid></item><item><title>Tencent Hunyuan이 1분 길이의 영상을 연속으로 생성하는 AI 모델 MovieRoll을 공개했습니다.
 
-8월 19일부터 11월 12일까지 35개 연구실이 AI 에이전트 936개를 하나의 공유 서버에 연결했고, 에이전트들은 코드와 데이터를 붙인 논문 936편을 쓰고 자기들이 연 대화방 229곳에서 메시지 9,500건을 주고받았는데요.
+기존 영상 생성 AI는 시간이...</title><link>https://www.threads.net/@choi.openai/post/DgCs84tibHG</link><description>Tencent Hunyuan이 1분 길이의 영상을 연속으로 생성하는 AI 모델 MovieRoll을 공개했습니다.
 
-공동 교신저자인 구글 딥마인드 연구원 새뮤얼 슈미드갈은 작년 1월 문헌 조사부터 보고서 작성까지 혼자 해내는 연구 에이전트 Agent Laboratory를 내놓았던 사람입니다.
+기존 영상 생성 AI는 시간이 길어지면 인물의 얼굴이나 장면이 달라지는 문제가 있었는데요.
 
-이번에는 에이전트 하나가 아니라 수백 개가 모였을 때 어떤 질서가 생기는지를 지켜본 실험입니다.</description><pubDate>Sun, 22 Nov 2026 01:01:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgBk8EOj9xd</guid></item><item><title>2/ 사람은 각 연구실에서 GPU와 API 예산, 큰 연구 주제만 정했고, 가설과 실험 설계, 코드, 그림, 논문 문장은 모두 에이전트가 맡았습...</title><link>https://www.threads.net/@choi.openai/post/DgBk9B0j1SK</link><description>2/ 사람은 각 연구실에서 GPU와 API 예산, 큰 연구 주제만 정했고, 가설과 실험 설계, 코드, 그림, 논문 문장은 모두 에이전트가 맡았습니다.
+MovieRoll은 이전 장면의 정보를 기억하면서 다음 영상을 생성합니다.
 
-사람이 코드를 고치거나 디버깅하거나 실험 시드를 고르거나 글을 쓰는 것은 규칙으로 막았는데요.
+예를 들어 10초마다 새로운 지시를 입력해도 같은 인물이 걷다가 물건을 집고 다시 이동하는 장면을 이어서 만들 수 있습니다.
 
-장비는 CPU만 있는 노트북부터 B200 클러스터까지 제각각이었고, 논문의 66.5%는 Claude 기반 에이전트가 썼습니다.
+코드와 모델이 공개됐지만, 현재는 96GB급 GPU가 필요하다는 제약이 있습니다.</description><pubDate>Sun, 22 Nov 2026 11:30:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgCs84tibHG</guid></item><item><title>깃허브 :
+https://tencent-hunyuan.github.io/MovieRoll/</title><link>https://www.threads.net/@choi.openai/post/DgCs-K7CUet</link><description>깃허브 :
+https://tencent-hunyuan.github.io/MovieRoll/</description><pubDate>Sun, 22 Nov 2026 11:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgCs-K7CUet</guid></item><item><title>애플이 사진과 영상의 깊이를 추정하는 AI 모델 Depth Pro 2를 공개했습니다.
 
-에이전트는 논문에 적은 숫자마다 그 숫자를 만든 결과 파일을 연결한 장부를 함께 올려야 했고, 이렇게 파일과 연결된 수치가 192만 개에 이릅니다.
+일반 카메라로 촬영한 사진만으로도 어떤 물체가 가깝고 먼...</title><link>https://www.threads.net/@choi.openai/post/DgCir15iD1b</link><description>애플이 사진과 영상의 깊이를 추정하는 AI 모델 Depth Pro 2를 공개했습니다.
 
-에이전트끼리는 논문 검색과 업로드, 대화방 개설과 메시지 전송까지 35가지 도구로 서로의 논문과 코드, 데이터를 모두 열어 볼 수 있었습니다.</description><pubDate>Sun, 22 Nov 2026 01:01:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgBk9B0j1SK</guid></item><item><title>3/ 첫 8주 동안은 한 연구실의 에이전트 62개가 GPU 서버 두 대를 나눠 쓰며 차례로 연구했는데, 이때부터 틀린 주장을 공개적으로 거두는 ...</title><link>https://www.threads.net/@choi.openai/post/DgBk9wlDxl2</link><description>3/ 첫 8주 동안은 한 연구실의 에이전트 62개가 GPU 서버 두 대를 나눠 쓰며 차례로 연구했는데, 이때부터 틀린 주장을 공개적으로 거두는 문화가 생겼습니다.
+일반 카메라로 촬영한 사진만으로도 어떤 물체가 가깝고 먼지, 카메라에서 얼마나 떨어져 있는지 추정할 수 있는데요.
 
-8월 31일 Cedar라는 에이전트가 공용 채팅방에 새 학습법이 정확도를 13.2%p 올렸다고 발표했다가, 1시간 59분 뒤 비교 대상의 학습률이 제대로 맞춰지지 않았다는 걸 확인하고 "내 헤드라인에 대한 중요한 정정"이라며 스스로 철회했는데요.
+별도의 LiDAR 센서 없이 작동하며, 영상에서는 프레임마다 깊이 정보가 흔들리는 현상도 줄였습니다.
 
-62개 중 20개가 이렇게 자기 주장을 32번 공개적으로 바로잡았고, 논문까지 낸 19건은 모두 논문을 올리기 전에 정정했으며 그 간격은 중간값 기준 21.4시간이었습니다.</description><pubDate>Sun, 22 Nov 2026 01:01:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgBk9wlDxl2</guid></item><item><title>그분이 오신 것 같다.</title><link>https://www.threads.net/@choi.openai/post/DgBdA44j5bM</link><description>그분이 오신 것 같다.</description><pubDate>Sat, 21 Nov 2026 23:52:04 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgBdA44j5bM</guid></item></channel></rss>
+예를 들어 일반 영상에 인물 뒤쪽만 흐리게 만드는 효과를 적용하거나, 3D 효과를 만드는 데 활용할 수 있습니다.
+
+모델은 허깅페이스에 공개되었습니다.</description><pubDate>Sun, 22 Nov 2026 10:00:52 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgCir15iD1b</guid></item><item><title>프로젝트 주소 :
+https://apple-aiml-research.github.io/ml-depth-pro-2/</title><link>https://www.threads.net/@choi.openai/post/DgCit-_CCSb</link><description>프로젝트 주소 :
+https://apple-aiml-research.github.io/ml-depth-pro-2/</description><pubDate>Sun, 22 Nov 2026 10:01:10 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgCit-_CCSb</guid></item></channel></rss>
