@@ -1,72 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 23 Nov 2026 05:57:47 +0000</lastBuildDate><item><title>🚨 중국 Z.ai가 새로운 AI 모델 GLM-5.4를 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 23 Nov 2026 19:53:12 +0000</lastBuildDate><item><title>AMI Labs 회장 얀 르쿤(Yann LeCun)은 방대하고 연속적이며 노이즈가 많은 비라벨 데이터 환경, 즉 몇 줄의 방정식으로 단순화할 수...</title><link>https://www.threads.net/@choi.openai/post/DgGFO1KD0L4</link><description>AMI Labs 회장 얀 르쿤(Yann LeCun)은 방대하고 연속적이며 노이즈가 많은 비라벨 데이터 환경, 즉 몇 줄의 방정식으로 단순화할 수 없는 복잡한 시스템을 다루는 데 자신이 제안한 형태의 AI 모델(세계 모델)이 최적이라고 설명했습니다.
 
-모든 GLM Coding Plan 구독자가 사용할 수 있으며, 이미지 이해...</title><link>https://www.threads.net/@choi.openai/post/DgEpR_4D5zD</link><description>🚨 중국 Z.ai가 새로운 AI 모델 GLM-5.4를 공개했습니다.
+기존 유체역학 시뮬레이터는 비행기 날개 설계를 최적화하기 위해 수많은 반복 계산을 거쳐야 하는 고통스러운 과정이지만, 미분 가능한 신경망 모델로 추상화하면 양력을 극대화하고 항력을 최소화하는 형태를 단번에 최적화할 수 있습니다.
 
-모든 GLM Coding Plan 구독자가 사용할 수 있으며, 이미지 이해 기능이 추가되고 전반적인 코딩 성능이 개선됐다고 하는데요.
+그는 단순한 정밀 시뮬레이션보다 “최적화를 가능하게 하는 추상화 모델(세계 모델)을 구축하는 것이 핵심”이라고 강조했습니다.
 
-GLM-5.3보다 주간 사용 한도도 50% 늘어났습니다.
+나아가 이 개념을 제1형 당뇨병 치료에 적용해, 줄기세포가 인슐린을 분비하는 췌장 베타 세포로 분화하도록 유도하는 단백질 신호 경로를 모델링하고 행동 순서를 계획한다면, 방정식으로 풀 수 없는 생명과학과 난치병 치료 분야에서도 혁신적인 돌파구를 열 수 있다고 전망했습니다.</description><pubDate>Mon, 23 Nov 2026 19:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGFO1KD0L4</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=LYZCbAyssgw</title><link>https://www.threads.net/@choi.openai/post/DgGFQbzj6Oz</link><description>풀영상 :
+https://www.youtube.com/watch?v=LYZCbAyssgw</description><pubDate>Mon, 23 Nov 2026 19:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGFQbzj6Oz</guid></item><item><title>와.. AI가 과거 대화를 기억하는 방식이 달라지고 있습니다.
 
-초기 사용자 평가에서는 코드 오류와 보안 취약점을 찾아내는 능력이 좋은 평가를 받았지만, 복잡한 작업에서는 추론 시간이 길어진다는 지적도 있습니다.
+MemOS가 NVIDIA와 협력해 기억 기능을 모델 내부에 통합한 MemT-1....</title><link>https://www.threads.net/@choi.openai/post/DgF-VuvAnW2</link><description>와.. AI가 과거 대화를 기억하는 방식이 달라지고 있습니다.
 
-Claude Code에서는 `glm-5.4[1m]`으로 설정해 사용할 수 있습니다.</description><pubDate>Mon, 23 Nov 2026 05:36:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgEpR_4D5zD</guid></item><item><title>AI의 대부 제프리 힌튼(Geoffrey Hinton)은 디지털 지능이 인간보다 압도적인 성능을 낼 수밖에 없는 근본적인 이유로 ‘정보 공유 효...</title><link>https://www.threads.net/@choi.openai/post/DgEhyIyj07A</link><description>AI의 대부 제프리 힌튼(Geoffrey Hinton)은 디지털 지능이 인간보다 압도적인 성능을 낼 수밖에 없는 근본적인 이유로 ‘정보 공유 효율성’을 꼽았습니다.
+MemOS가 NVIDIA와 협력해 기억 기능을 모델 내부에 통합한 MemT-1.0-Pro를 공개했습니다.
 
-인간은 언어로 지식을 전달하는 데 한계가 있지만, 동일한 가중치 구조를 가진 디지털 AI들은 각기 다른 데이터를 학습한 뒤 연결 강도(가중치) 변화값만 평균 내어 즉시 동기화할 수 있습니다.
-힌튼은 “AI는 단순히 인간보다 10배 효율적인 것이 아니라, 정보를 공유하는 데 있어 수십억 배 더 효율적”이라고 분석했습니다.
+기존 AI의 기억 기능은 과거 대화를 외부 데이터베이스에 저장한 뒤, 필요할 때 관련 내용을 검색해 질문에 추가하는 방식이 일반적인데요.
 
-마치 대학생 1,000명이 각자 다른 과목 하나씩만 수강하고도 졸업할 때는 모든 과목의 지식을 공유하는 것과 같습니다.
-하드웨어 제조 비용과 전력 소모가 크더라도, 이러한 병렬 학습과 초고속 지식 복제 능력 덕분에 챗봇은 이미 인간보다 수천 배 많은 지식을 습득하며 지적 격차를 벌리고 있습니다.</description><pubDate>Mon, 23 Nov 2026 04:31:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgEhyIyj07A</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=JVuSYB9iqwo</title><link>https://www.threads.net/@choi.openai/post/DgEhw9CDxjd</link><description>풀영상 :
-https://www.youtube.com/watch?v=JVuSYB9iqwo</description><pubDate>Mon, 23 Nov 2026 04:31:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgEhw9CDxjd</guid></item><item><title>중국 Ant Group이 의료 특화 AI 모델 LingSante-3.1-flash를 공개했습니다.
+MemT-1.0-Pro는 Transformer 내부의 별도 메모리 구조에 과거 정보를 압축해 저장합니다. 이후에는 원본 대화를 다시 입력하지 않고 저장된 기억을 활용합니다.
 
-총 5,600억 개의 매개변수 중 작업마다 ...</title><link>https://www.threads.net/@choi.openai/post/DgEXVqSCpU2</link><description>중국 Ant Group이 의료 특화 AI 모델 LingSante-3.1-flash를 공개했습니다.
+자체 평가에서 MemT-1.0-Flash보다 기억력 관련 벤치마크 점수도 높았습니다. 
 
-총 5,600억 개의 매개변수 중 작업마다 250억 개를 활성화하는 MoE 모델인데요.
+기억 공간의 크기도 일정하게 유지됩니다. 다만 모든 대화를 원문 그대로 기억하는 방식은 아닙니다.</description><pubDate>Mon, 23 Nov 2026 18:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF-VuvAnW2</guid></item><item><title>허깅페이스 :
+https://huggingface.co/MemTensor/MemT-1.0-Pro</title><link>https://www.threads.net/@choi.openai/post/DgF-ZcCgu5N</link><description>허깅페이스 :
+https://huggingface.co/MemTensor/MemT-1.0-Pro</description><pubDate>Mon, 23 Nov 2026 18:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF-ZcCgu5N</guid></item><item><title>ㅋㅋㅋㅋㅋ 트럼프 진짜 미친 사람같네 ㅋㅋㅋ</title><link>https://www.threads.net/@choi.openai/post/DgF3pfXj8ey</link><description>ㅋㅋㅋㅋㅋ 트럼프 진짜 미친 사람같네 ㅋㅋㅋ</description><pubDate>Mon, 23 Nov 2026 17:01:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF3pfXj8ey</guid></item><item><title>🚨 와.. 11일 만에 공수가 완전히 바뀌었습니다.
 
-의료 질문에 답하는 것을 넘어 환자 기록 분석, 의학 논문 검색, 복잡한 진료 과정까지 지원합니다.
+스파이 의혹 속에 쫓겨났던 젠슨 황은 대통령이 직접 이사회에 전화를 건 끝에 '국보'라는 ...</title><link>https://www.threads.net/@choi.openai/post/DgF231lD0kR</link><description>🚨 와.. 11일 만에 공수가 완전히 바뀌었습니다.
 
-Ant Group의 자체 평가에서는 HealthBench Professional 등 3개 항목에서 GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon보다 높은 점수를 기록했다고 합니다.
+스파이 의혹 속에 쫓겨났던 젠슨 황은 대통령이 직접 이사회에 전화를 건 끝에 '국보'라는 말을 들으며 돌아왔고, 같은 주 역대 최대 상장의 종을 친 다리오 아모데이는 워싱턴포스트와 월스트리트저널, 옛 동료들의 집중 포화를 받고 있는데요.
 
-모델 가중치도 공개됐습니다.</description><pubDate>Mon, 23 Nov 2026 03:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgEXVqSCpU2</guid></item><item><title>허깅페이스 :
-https://huggingface.co/inclusionAI/LingSante-3.1-flash</title><link>https://www.threads.net/@choi.openai/post/DgEXYN7iuGF</link><description>허깅페이스 :
-https://huggingface.co/inclusionAI/LingSante-3.1-flash</description><pubDate>Mon, 23 Nov 2026 03:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgEXYN7iuGF</guid></item><item><title>메타 AI 수장이 원자폭탄 발견도 리만 가설에 비하면 숙제 수준이라고 적었습니다.
+젠슨의 복귀 뒤에 깔린 칩 패권의 계산과, 앤트로픽이 워싱턴의 판에서 어떤 카드가 됐는지 정리했습니다 🧵</description><pubDate>Mon, 23 Nov 2026 16:55:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF231lD0kR</guid></item><item><title>1/ 엔비디아가 11월 23일(미국 시간) 장이 열리기 전 젠슨 황의 사장 겸 CEO, 이사 복귀를 발표했습니다.
 
-원자폭탄을 만든 도시 로스앨러모스에서 물리학자 부모 밑에서 ...</title><link>https://www.threads.net/@choi.openai/post/DgENloXDwKc</link><description>메타 AI 수장이 원자폭탄 발견도 리만 가설에 비하면 숙제 수준이라고 적었습니다.
+공시를 보면 이사회 결의는 ...</title><link>https://www.threads.net/@choi.openai/post/DgF24fjDz5p</link><description>1/ 엔비디아가 11월 23일(미국 시간) 장이 열리기 전 젠슨 황의 사장 겸 CEO, 이사 복귀를 발표했습니다.
 
-원자폭탄을 만든 도시 로스앨러모스에서 물리학자 부모 밑에서 자란 알렉산더 왕이, AI와 함께 풀린 리만 가설을 인류 지성의 정점으로 부르며 초지능이 이미 오고 있다고 선언했는데요.
+공시를 보면 이사회 결의는 하루 전인 일요일 11월 22일에 이뤄졌고, 11월 12일 물러난 지 열흘 만이었는데요.
 
-앞으로 1년이 인류의 미래를 가른다고 적은 메타 최고 AI 책임자의 에세이를 정리했습니다 🧵</description><pubDate>Mon, 23 Nov 2026 01:35:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgENloXDwKc</guid></item><item><title>1/ 메타 최고 AI 책임자 알렉산더 왕이 '초지능이 오고 있다'는 제목의 에세이를 올렸습니다.
+이사회는 공시에 미국 정부 고위층의 의견을 들었고, 그 결과 그의 복귀가 국가안보 측면에서 안전하다고 확신한다고 적었습니다.
 
-첫 문장은 "앞으로 1년 동안 인류가 어떻게 ...</title><link>https://www.threads.net/@choi.openai/post/DgENmS3D1IF</link><description>1/ 메타 최고 AI 책임자 알렉산더 왕이 '초지능이 오고 있다'는 제목의 에세이를 올렸습니다.
+세마포에 따르면 트럼프는 이사회 회의에 직접 전화로 들어가 복귀를 설득했고, 스티븐 청 백악관 공보국장은 대통령이 완전히 관여했다며 우리는 우리의 천재들을 지켜야 한다고 밝혔습니다.
 
-첫 문장은 "앞으로 1년 동안 인류가 어떻게 행동하느냐가 우리가 살게 될 미래를 크게 좌우할 것"이었는데요.
+트럼프는 CNBC 인터뷰에서 이사회가 우리가 원한 대로 결정했다고 말했습니다.
 
-왕은 2016년 MIT를 그만두고 스케일 AI를 공동 창업해 AI 학습 데이터 시장을 키웠고, 2025년 메타가 스케일 AI 지분 49%를 143억 달러에 사들이면서 메타 슈퍼인텔리전스 랩을 맡았습니다.
+닷새 전만 해도 복귀에 선을 그었던 이사회가 주말 사이 만장일치로 돌아선 겁니다.</description><pubDate>Mon, 23 Nov 2026 16:55:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF24fjDz5p</guid></item><item><title>2/ 트럼프가 내세운 논리는 칩이었습니다.
 
-이 글은 올라온 지 몇 시간 만에 조회수 78만 회를 넘겼습니다.
+그는 CNBC 전화 인터뷰에서 이사회가 국가안보 문제를 보장해 달라고 했고, 정부가 아는 모든 것을...</title><link>https://www.threads.net/@choi.openai/post/DgF25UMD7AO</link><description>2/ 트럼프가 내세운 논리는 칩이었습니다.
 
-프런티어 AI 연구소를 이끄는 사람이 초지능의 도착을 현재형으로 선언한 글입니다.</description><pubDate>Mon, 23 Nov 2026 01:35:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgENmS3D1IF</guid></item><item><title>2/ 왕이 근거로 든 사건은 리만 가설 증명입니다.
+그는 CNBC 전화 인터뷰에서 이사회가 국가안보 문제를 보장해 달라고 했고, 정부가 아는 모든 것을 근거로 보장해 줬다고 말했는데요.
 
-앤트로픽 수학자 레벤트 알푀게가 Claude와 함께 공개하고 Lean과 Mathlib 커뮤...</title><link>https://www.threads.net/@choi.openai/post/DgENnKpDxPl</link><description>2/ 왕이 근거로 든 사건은 리만 가설 증명입니다.
+이어 젠슨을 두는 게 위협이냐고 묻는 사람들이 있지만, 위협은 그를 잃는 쪽이라고 했습니다. 젠슨의 머릿속에는 아무도 모르는 다른 칩들이 있다는 말도 덧붙였습니다.
 
-앤트로픽 수학자 레벤트 알푀게가 Claude와 함께 공개하고 Lean과 Mathlib 커뮤니티가 검증 결과를 내놓은 그 증명인데요.
+사흘 전 기자회견에서는 엔비디아의 칩이 너무 앞서 있고 복잡해서 베낄 수 없다고 했습니다.
 
-왕은 수학을 공부한 사람 대부분에게 이 증명은 지적 성취의 절대적 정점이고, 순수한 지적 역량으로 따지면 인류가 지금까지 이룬 모든 일을 넘어선다고 적었습니다.
+대통령에게 젠슨은 한 회사의 CEO를 넘어, 미국이 중국보다 앞서 있다는 사실을 몸에 지닌 사람이 된 겁니다.</description><pubDate>Mon, 23 Nov 2026 16:55:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF25UMD7AO</guid></item><item><title>3/ 시장은 바로 답했습니다.
 
-그는 로스앨러모스 국립연구소에서 일한 물리학자 부모 밑에서 자랐는데, 많은 물리학자가 원자폭탄의 발견도 리만 가설에 비하면 숙제 수준이라는 데 동의할 거라고 썼습니다.
+엔비디아 주가는 사임 전날 173.73달러에서 증권거래위원회 회계 조사 보도가 나온 11월 20일 125.53달...</title><link>https://www.threads.net/@choi.openai/post/DgF26JvD9Dn</link><description>3/ 시장은 바로 답했습니다.
 
-그리고 이 증명이 우리가 이해하지 못하는 외계 지성의 도움으로 완성됐다고 표현했습니다.
+엔비디아 주가는 사임 전날 173.73달러에서 증권거래위원회 회계 조사 보도가 나온 11월 20일 125.53달러까지 내려가 2008년 이후 최악의 한 주를 보냈는데요.
 
-원자폭탄의 도시에서 자란 사람이 그보다 큰 사건이라고 부른 겁니다.</description><pubDate>Mon, 23 Nov 2026 01:35:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgENnKpDxPl</guid></item><item><title>3/ 왕은 이 변화의 첫 신호를 2024년 12월로 잡았습니다.
+복귀가 발표된 23일에는 장중 33% 넘게 올라 160달러대 후반에서 거래됐습니다.
 
-오픈AI가 o3를 공개하며 미국 수학경시대회 AIME 2024에서 96.7%,...</title><link>https://www.threads.net/@choi.openai/post/DgENoAEj7Cw</link><description>3/ 왕은 이 변화의 첫 신호를 2024년 12월로 잡았습니다.
+엔비디아의 보증과 자금에 기대던 코어위브와 오라클도 함께 급등했고, CNBC는 젠슨의 복귀가 엔비디아의 AI 금융 공포를 덜어 줬다고 평가했습니다.
 
-오픈AI가 o3를 공개하며 미국 수학경시대회 AIME 2024에서 96.7%, 한 문제만 틀린 점수를 냈을 때인데요.
-
-수학 경시대회를 해 본 사람들에게 그 순간은 "이제 모든 게 바뀌겠구나" 싶은 순간이었다고 적었습니다.
-
-AIME의 가장 어려운 문제는 최고 수준의 엔지니어나 경영자가 매일 푸는 문제보다 지적으로 훨씬 어렵기 때문입니다.
-
-그는 그때부터 순수한 지능은 병목에서 벗어났고, 지난 2년은 분야별 지식과 맥락, 노하우의 빈칸을 채우는 시간이었다고 설명했습니다.
-
-그 사이 코딩은 거의 해결됐고, 강력한 사이버 능력과 에이전트 능력이 나타나 모델이 범용 조수가 됐다고 했습니다.</description><pubDate>Mon, 23 Nov 2026 01:35:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgENoAEj7Cw</guid></item></channel></rss>
+칩을 파는 회사가 고객의 돈줄까지 쥔 구조라, 젠슨 한 사람이 돌아오자 그 사슬 전체가 한꺼번에 살아난 겁니다.</description><pubDate>Mon, 23 Nov 2026 16:55:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF26JvD9Dn</guid></item></channel></rss>
