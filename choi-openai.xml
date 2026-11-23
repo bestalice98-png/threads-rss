@@ -1,49 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Sun, 22 Nov 2026 20:52:41 +0000</lastBuildDate><item><title>구글 딥마인드 SVP 코라이 카부쿠오글루(Koray Kavukcuoglu)는 제미나이(Gemini)가 고정된 단일 아키텍처에 머물지 않고 지능을...</title><link>https://www.threads.net/@choi.openai/post/DgDgfK8ESZV</link><description>구글 딥마인드 SVP 코라이 카부쿠오글루(Koray Kavukcuoglu)는 제미나이(Gemini)가 고정된 단일 아키텍처에 머물지 않고 지능을 추구하며 끊임없이 진화하는 시스템이라고 밝혔습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 23 Nov 2026 05:57:47 +0000</lastBuildDate><item><title>🚨 중국 Z.ai가 새로운 AI 모델 GLM-5.4를 공개했습니다.
 
-그는 제미나이의 연구 구조를 넓은 입구에서 수많은 아이디어를 실험하고 검증해 실제 제품으로 압축하는 ‘깔때기(funnel)’에 비유했습니다.
+모든 GLM Coding Plan 구독자가 사용할 수 있으며, 이미지 이해...</title><link>https://www.threads.net/@choi.openai/post/DgEpR_4D5zD</link><description>🚨 중국 Z.ai가 새로운 AI 모델 GLM-5.4를 공개했습니다.
 
-현재의 모델은 6개월 전과 전혀 다르며, 5년 뒤에는 또 다른 새로운 아키텍처가 핵심이 될 것이라는 전망입니다.
+모든 GLM Coding Plan 구독자가 사용할 수 있으며, 이미지 이해 기능이 추가되고 전반적인 코딩 성능이 개선됐다고 하는데요.
 
-특히 “제미나이의 모든 세대는 수작업으로 조립되는 맞춤형(custom job) 모델”이라며, 수십억 명의 사용자에게 배포된 이후에도 고정되지 않고 연간 약 6개의 서로 다른 모델을 선보이며 성능을 극대화하고 있다고 강조했습니다.
+GLM-5.3보다 주간 사용 한도도 50% 늘어났습니다.
 
-차세대 AI 아키텍처의 빠른 세대교체와 맞춤형 최적화가 모델의 학습 효율과 실전 성능을 결정짓는 핵심 경쟁력이 되고 있습니다.</description><pubDate>Sun, 22 Nov 2026 19:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDgfK8ESZV</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=FORdPIWOH5k</title><link>https://www.threads.net/@choi.openai/post/DgDggbsEYjm</link><description>풀영상 :
-https://www.youtube.com/watch?v=FORdPIWOH5k</description><pubDate>Sun, 22 Nov 2026 19:01:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDggbsEYjm</guid></item><item><title>제프리 힌튼(Geoffrey Hinton)은 현재의 AI 챗봇이 인간의 언어 습득 및 이해 원리를 설명하는 가장 뛰어난 모델이며, “실제로 인간...</title><link>https://www.threads.net/@choi.openai/post/DgDSwHNk43H</link><description>제프리 힌튼(Geoffrey Hinton)은 현재의 AI 챗봇이 인간의 언어 습득 및 이해 원리를 설명하는 가장 뛰어난 모델이며, “실제로 인간과 매우 유사한 방식으로 언어를 이해하고 있다”고 단언했습니다.
+초기 사용자 평가에서는 코드 오류와 보안 취약점을 찾아내는 능력이 좋은 평가를 받았지만, 복잡한 작업에서는 추론 시간이 길어진다는 지적도 있습니다.
 
-그는 1985년에 시작한 신경망 모델이 본래 인간이 단어의 의미를 배우는 과정을 연구하기 위해 설계되었다고 설명했습니다.
-일부 언어학자들과 놈 촘스키가 AI의 언어 이해를 단순한 눈속임이나 통계적 흉내라고 폄하했지만, 정작 그들이 제시한 예시 문장조차 챗봇은 완벽히 이해해 냈다고 지적했습니다.
+Claude Code에서는 `glm-5.4[1m]`으로 설정해 사용할 수 있습니다.</description><pubDate>Mon, 23 Nov 2026 05:36:59 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgEpR_4D5zD</guid></item><item><title>AI의 대부 제프리 힌튼(Geoffrey Hinton)은 디지털 지능이 인간보다 압도적인 성능을 낼 수밖에 없는 근본적인 이유로 ‘정보 공유 효...</title><link>https://www.threads.net/@choi.openai/post/DgEhyIyj07A</link><description>AI의 대부 제프리 힌튼(Geoffrey Hinton)은 디지털 지능이 인간보다 압도적인 성능을 낼 수밖에 없는 근본적인 이유로 ‘정보 공유 효율성’을 꼽았습니다.
 
-힌튼은 “챗봇을 더 많이 사용해 볼수록 이들이 진정으로 이해하고 있음을 깨닫게 될 것”이라고 강조했습니다.
-따라서 AI가 아무것도 이해하지 못하므로 걱정할 필요가 없다는 낙관론자들의 주장은 명백히 틀렸다고 경고했습니다.</description><pubDate>Sun, 22 Nov 2026 17:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDSwHNk43H</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=JVuSYB9iqwo</title><link>https://www.threads.net/@choi.openai/post/DgDSx1Tk-av</link><description>풀영상 :
-https://www.youtube.com/watch?v=JVuSYB9iqwo</description><pubDate>Sun, 22 Nov 2026 17:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDSx1Tk-av</guid></item><item><title>애플이 실시간 영상 생성 모델 FastFrames를 공개했습니다.
+인간은 언어로 지식을 전달하는 데 한계가 있지만, 동일한 가중치 구조를 가진 디지털 AI들은 각기 다른 데이터를 학습한 뒤 연결 강도(가중치) 변화값만 평균 내어 즉시 동기화할 수 있습니다.
+힌튼은 “AI는 단순히 인간보다 10배 효율적인 것이 아니라, 정보를 공유하는 데 있어 수십억 배 더 효율적”이라고 분석했습니다.
 
-기존 영상 생성 AI는 결과를 기다려야 했지만, FastFrames는 영상을...</title><link>https://www.threads.net/@choi.openai/post/DgDE7GBCEch</link><description>애플이 실시간 영상 생성 모델 FastFrames를 공개했습니다.
+마치 대학생 1,000명이 각자 다른 과목 하나씩만 수강하고도 졸업할 때는 모든 과목의 지식을 공유하는 것과 같습니다.
+하드웨어 제조 비용과 전력 소모가 크더라도, 이러한 병렬 학습과 초고속 지식 복제 능력 덕분에 챗봇은 이미 인간보다 수천 배 많은 지식을 습득하며 지적 격차를 벌리고 있습니다.</description><pubDate>Mon, 23 Nov 2026 04:31:35 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgEhyIyj07A</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=JVuSYB9iqwo</title><link>https://www.threads.net/@choi.openai/post/DgEhw9CDxjd</link><description>풀영상 :
+https://www.youtube.com/watch?v=JVuSYB9iqwo</description><pubDate>Mon, 23 Nov 2026 04:31:19 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgEhw9CDxjd</guid></item><item><title>중국 Ant Group이 의료 특화 AI 모델 LingSante-3.1-flash를 공개했습니다.
 
-기존 영상 생성 AI는 결과를 기다려야 했지만, FastFrames는 영상을 생성하는 도중에도 사용자의 입력에 반응할 수 있도록 설계됐는데요.
+총 5,600억 개의 매개변수 중 작업마다 ...</title><link>https://www.threads.net/@choi.openai/post/DgEXVqSCpU2</link><description>중국 Ant Group이 의료 특화 AI 모델 LingSante-3.1-flash를 공개했습니다.
 
-1.3B 모델은 NVIDIA B200 GPU 한 장에서 480p 영상의 프레임을 약 36ms 만에 생성했다고 합니다.
+총 5,600억 개의 매개변수 중 작업마다 250억 개를 활성화하는 MoE 모델인데요.
 
-예를 들어 키보드로 이동 방향을 바꾸면 AI가 생성 중인 가상 공간도 그에 맞춰 달라지는 방식입니다.
+의료 질문에 답하는 것을 넘어 환자 기록 분석, 의학 논문 검색, 복잡한 진료 과정까지 지원합니다.
 
-1.3B와 14B 모델 모두 허깅페이스에 공개되었습니다.</description><pubDate>Sun, 22 Nov 2026 15:00:03 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDE7GBCEch</guid></item><item><title>프로젝트 페이지 :
-https://apple-aiml-research.github.io/ml-fastframes/</title><link>https://www.threads.net/@choi.openai/post/DgDE9rhCLDA</link><description>프로젝트 페이지 :
-https://apple-aiml-research.github.io/ml-fastframes/</description><pubDate>Sun, 22 Nov 2026 15:00:24 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgDE9rhCLDA</guid></item><item><title>이번 주에만 일어난 충격적인 AI 소식 45가지..</title><link>https://www.threads.net/@choi.openai/post/DgC1bQCD3ay</link><description>이번 주에만 일어난 충격적인 AI 소식 45가지..</description><pubDate>Sun, 22 Nov 2026 12:44:38 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgC1bQCD3ay</guid></item><item><title>1/ 167년 난제, 리만 가설의 증명에 대한 공식 검증 결과가 나왔습니다.
-수학자 Levent Alpöge가 Claude와 작업해 발표한 1,...</title><link>https://www.threads.net/@choi.openai/post/DgC1bpPD7Ko</link><description>1/ 167년 난제, 리만 가설의 증명에 대한 공식 검증 결과가 나왔습니다.
-수학자 Levent Alpöge가 Claude와 작업해 발표한 1,700만 줄 분량의 Lean 증명을 Lean·Mathlib 커뮤니티가 검증했습니다.
-리만 가설은 소수의 분포와 관련된 문제로, 1859년 제기된 이후 현대 수론의 핵심 난제로 남아 있었습니다.
+Ant Group의 자체 평가에서는 HealthBench Professional 등 3개 항목에서 GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon보다 높은 점수를 기록했다고 합니다.
 
-코드의 실행 여부뿐 아니라 실제 리만 가설을 증명하는지, 논리적 오류는 없는지 여러 독립 검증기로 확인했습니다.
-공동 성명은 증명이 올바르다는 확신을 표명했습니다.</description><pubDate>Sun, 22 Nov 2026 12:44:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgC1bpPD7Ko</guid></item><item><title>2/ 오픈AI가 GPT-6.2 Astra와 Sol을 공개했습니다.
-Astra는 과학·전문 업무와 복잡한 에이전트 작업에, Sol은 일상 업무의 ...</title><link>https://www.threads.net/@choi.openai/post/DgC1cN4j1Ra</link><description>2/ 오픈AI가 GPT-6.2 Astra와 Sol을 공개했습니다.
-Astra는 과학·전문 업무와 복잡한 에이전트 작업에, Sol은 일상 업무의 속도와 비용에 초점을 맞췄습니다.
+모델 가중치도 공개됐습니다.</description><pubDate>Mon, 23 Nov 2026 03:00:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgEXVqSCpU2</guid></item><item><title>허깅페이스 :
+https://huggingface.co/inclusionAI/LingSante-3.1-flash</title><link>https://www.threads.net/@choi.openai/post/DgEXYN7iuGF</link><description>허깅페이스 :
+https://huggingface.co/inclusionAI/LingSante-3.1-flash</description><pubDate>Mon, 23 Nov 2026 03:00:33 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgEXYN7iuGF</guid></item><item><title>메타 AI 수장이 원자폭탄 발견도 리만 가설에 비하면 숙제 수준이라고 적었습니다.
 
-Astra의 API 기본 가격은 이전 모델보다 20% 낮아졌습니다.
-Astra는 100만 토큰당 입력 8달러·출력 40달러, Sol은 입력 2달러·출력 10달러입니다.
-후속 공개된 백그라운드 처리 옵션을 쓰면 표준 요금 대비 2시간 창은 30%, 8시간 창은 40% 할인받을 수 있습니다.</description><pubDate>Sun, 22 Nov 2026 12:44:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgC1cN4j1Ra</guid></item><item><title>3/ 구글이 Gemini 4 Neon을 출시했습니다.
-Carbon과 Hydrogen 사이에 자리한 모델로, 100만 토큰 문맥과 코딩·에이전트 ...</title><link>https://www.threads.net/@choi.openai/post/DgC1cqiD0Dc</link><description>3/ 구글이 Gemini 4 Neon을 출시했습니다.
-Carbon과 Hydrogen 사이에 자리한 모델로, 100만 토큰 문맥과 코딩·에이전트 성능을 내세웠습니다.
-출시 당시 Artificial Analysis 지능 지수에서 61점을 기록했습니다.
+원자폭탄을 만든 도시 로스앨러모스에서 물리학자 부모 밑에서 ...</title><link>https://www.threads.net/@choi.openai/post/DgENloXDwKc</link><description>메타 AI 수장이 원자폭탄 발견도 리만 가설에 비하면 숙제 수준이라고 적었습니다.
 
-이후 Antigravity 업데이트에는 Neon이 작업을 계획하고 Hydrogen이 실행하는 Orchestrator 모드도 추가됐습니다.</description><pubDate>Sun, 22 Nov 2026 12:44:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgC1cqiD0Dc</guid></item></channel></rss>
+원자폭탄을 만든 도시 로스앨러모스에서 물리학자 부모 밑에서 자란 알렉산더 왕이, AI와 함께 풀린 리만 가설을 인류 지성의 정점으로 부르며 초지능이 이미 오고 있다고 선언했는데요.
+
+앞으로 1년이 인류의 미래를 가른다고 적은 메타 최고 AI 책임자의 에세이를 정리했습니다 🧵</description><pubDate>Mon, 23 Nov 2026 01:35:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgENloXDwKc</guid></item><item><title>1/ 메타 최고 AI 책임자 알렉산더 왕이 '초지능이 오고 있다'는 제목의 에세이를 올렸습니다.
+
+첫 문장은 "앞으로 1년 동안 인류가 어떻게 ...</title><link>https://www.threads.net/@choi.openai/post/DgENmS3D1IF</link><description>1/ 메타 최고 AI 책임자 알렉산더 왕이 '초지능이 오고 있다'는 제목의 에세이를 올렸습니다.
+
+첫 문장은 "앞으로 1년 동안 인류가 어떻게 행동하느냐가 우리가 살게 될 미래를 크게 좌우할 것"이었는데요.
+
+왕은 2016년 MIT를 그만두고 스케일 AI를 공동 창업해 AI 학습 데이터 시장을 키웠고, 2025년 메타가 스케일 AI 지분 49%를 143억 달러에 사들이면서 메타 슈퍼인텔리전스 랩을 맡았습니다.
+
+이 글은 올라온 지 몇 시간 만에 조회수 78만 회를 넘겼습니다.
+
+프런티어 AI 연구소를 이끄는 사람이 초지능의 도착을 현재형으로 선언한 글입니다.</description><pubDate>Mon, 23 Nov 2026 01:35:06 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgENmS3D1IF</guid></item><item><title>2/ 왕이 근거로 든 사건은 리만 가설 증명입니다.
+
+앤트로픽 수학자 레벤트 알푀게가 Claude와 함께 공개하고 Lean과 Mathlib 커뮤...</title><link>https://www.threads.net/@choi.openai/post/DgENnKpDxPl</link><description>2/ 왕이 근거로 든 사건은 리만 가설 증명입니다.
+
+앤트로픽 수학자 레벤트 알푀게가 Claude와 함께 공개하고 Lean과 Mathlib 커뮤니티가 검증 결과를 내놓은 그 증명인데요.
+
+왕은 수학을 공부한 사람 대부분에게 이 증명은 지적 성취의 절대적 정점이고, 순수한 지적 역량으로 따지면 인류가 지금까지 이룬 모든 일을 넘어선다고 적었습니다.
+
+그는 로스앨러모스 국립연구소에서 일한 물리학자 부모 밑에서 자랐는데, 많은 물리학자가 원자폭탄의 발견도 리만 가설에 비하면 숙제 수준이라는 데 동의할 거라고 썼습니다.
+
+그리고 이 증명이 우리가 이해하지 못하는 외계 지성의 도움으로 완성됐다고 표현했습니다.
+
+원자폭탄의 도시에서 자란 사람이 그보다 큰 사건이라고 부른 겁니다.</description><pubDate>Mon, 23 Nov 2026 01:35:13 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgENnKpDxPl</guid></item><item><title>3/ 왕은 이 변화의 첫 신호를 2024년 12월로 잡았습니다.
+
+오픈AI가 o3를 공개하며 미국 수학경시대회 AIME 2024에서 96.7%,...</title><link>https://www.threads.net/@choi.openai/post/DgENoAEj7Cw</link><description>3/ 왕은 이 변화의 첫 신호를 2024년 12월로 잡았습니다.
+
+오픈AI가 o3를 공개하며 미국 수학경시대회 AIME 2024에서 96.7%, 한 문제만 틀린 점수를 냈을 때인데요.
+
+수학 경시대회를 해 본 사람들에게 그 순간은 "이제 모든 게 바뀌겠구나" 싶은 순간이었다고 적었습니다.
+
+AIME의 가장 어려운 문제는 최고 수준의 엔지니어나 경영자가 매일 푸는 문제보다 지적으로 훨씬 어렵기 때문입니다.
+
+그는 그때부터 순수한 지능은 병목에서 벗어났고, 지난 2년은 분야별 지식과 맥락, 노하우의 빈칸을 채우는 시간이었다고 설명했습니다.
+
+그 사이 코딩은 거의 해결됐고, 강력한 사이버 능력과 에이전트 능력이 나타나 모델이 범용 조수가 됐다고 했습니다.</description><pubDate>Mon, 23 Nov 2026 01:35:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgENoAEj7Cw</guid></item></channel></rss>
