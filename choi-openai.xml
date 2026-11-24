@@ -1,62 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Mon, 23 Nov 2026 19:53:12 +0000</lastBuildDate><item><title>AMI Labs 회장 얀 르쿤(Yann LeCun)은 방대하고 연속적이며 노이즈가 많은 비라벨 데이터 환경, 즉 몇 줄의 방정식으로 단순화할 수...</title><link>https://www.threads.net/@choi.openai/post/DgGFO1KD0L4</link><description>AMI Labs 회장 얀 르쿤(Yann LeCun)은 방대하고 연속적이며 노이즈가 많은 비라벨 데이터 환경, 즉 몇 줄의 방정식으로 단순화할 수 없는 복잡한 시스템을 다루는 데 자신이 제안한 형태의 AI 모델(세계 모델)이 최적이라고 설명했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Nov 2026 01:57:04 +0000</lastBuildDate><item><title>🚨 구글 딥마인드가 Gemini 4 에이전트 팀으로 미래 양자컴퓨터의 핵융합 시뮬레이션 비용을 11.8배 줄였다고 공식 발표했습니다.
 
-기존 유체역학 시뮬레이터는 비행기 날개 설계를 최적화하기 위해 수많은 반복 계산을 거쳐야 하는 고통스러운 과정이지만, 미분 가능한 신경망 모델로 추상화하면 양력을 극대화하고 항력을 최소화하는 형태를 단번에 최적화할 수 있습니다.
+아직 어...</title><link>https://www.threads.net/@choi.openai/post/DgGwLv9GFVA</link><description>🚨 구글 딥마인드가 Gemini 4 에이전트 팀으로 미래 양자컴퓨터의 핵융합 시뮬레이션 비용을 11.8배 줄였다고 공식 발표했습니다.
 
-그는 단순한 정밀 시뮬레이션보다 “최적화를 가능하게 하는 추상화 모델(세계 모델)을 구축하는 것이 핵심”이라고 강조했습니다.
+아직 어떤 컴퓨터로도 돌려 볼 수 없는 회로라 에이전트가 수학 증명으로 정답과 비용을 확인했고, 빛에 반응하는 분자와 신약 대사 효소 시뮬레이션 비용도 8배, 2.5배 낮췄는데요.
 
-나아가 이 개념을 제1형 당뇨병 치료에 적용해, 줄기세포가 인슐린을 분비하는 췌장 베타 세포로 분화하도록 유도하는 단백질 신호 경로를 모델링하고 행동 순서를 계획한다면, 방정식으로 풀 수 없는 생명과학과 난치병 치료 분야에서도 혁신적인 돌파구를 열 수 있다고 전망했습니다.</description><pubDate>Mon, 23 Nov 2026 19:00:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGFO1KD0L4</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=LYZCbAyssgw</title><link>https://www.threads.net/@choi.openai/post/DgGFQbzj6Oz</link><description>풀영상 :
-https://www.youtube.com/watch?v=LYZCbAyssgw</description><pubDate>Mon, 23 Nov 2026 19:00:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGFQbzj6Oz</guid></item><item><title>와.. AI가 과거 대화를 기억하는 방식이 달라지고 있습니다.
+에이전트 팀이 4시간마다 학회를 열며 기록을 갈아치운 구글의 양자 알고리즘 연구를 정리했습니다 🧵</description><pubDate>Tue, 24 Nov 2026 01:16:41 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGwLv9GFVA</guid></item><item><title>1/ 구글 딥마인드가 Gemini 4 에이전트 팀으로 양자 알고리즘을 개선한 연구를 발표했습니다.
 
-MemOS가 NVIDIA와 협력해 기억 기능을 모델 내부에 통합한 MemT-1....</title><link>https://www.threads.net/@choi.openai/post/DgF-VuvAnW2</link><description>와.. AI가 과거 대화를 기억하는 방식이 달라지고 있습니다.
+에이전트 팀이 만든 새 양자 회로는 핵융합 ...</title><link>https://www.threads.net/@choi.openai/post/DgGwTH1D-6P</link><description>1/ 구글 딥마인드가 Gemini 4 에이전트 팀으로 양자 알고리즘을 개선한 연구를 발표했습니다.
 
-MemOS가 NVIDIA와 협력해 기억 기능을 모델 내부에 통합한 MemT-1.0-Pro를 공개했습니다.
+에이전트 팀이 만든 새 양자 회로는 핵융합 시뮬레이션 비용을 11.8배, 빛에 반응하는 분자 시뮬레이션을 8배, 대부분의 의약품을 분해하는 효소 시토크롬 P450 계산을 2.5배 줄였고, 양자 산술 연산 arcsin은 290배, 그로버 탐색은 2.57배까지 다섯 문제 모두에서 기존 최고 기록을 넘었는데요.
 
-기존 AI의 기억 기능은 과거 대화를 외부 데이터베이스에 저장한 뒤, 필요할 때 관련 내용을 검색해 질문에 추가하는 방식이 일반적인데요.
+구글 퀀텀 AI 연구자까지 25명이 함께한 이 연구는 11월 6일 arXiv에 처음 올라온 뒤 두 번 개정됐고, 이번 발표와 함께 증명 라이브러리와 문제 명세, 검증된 해답을 GitHub에 Apache 2.0으로 풀었습니다.</description><pubDate>Tue, 24 Nov 2026 01:16:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGwTH1D-6P</guid></item><item><title>2/ 이 연구에 증명이 필요한 이유는 양자 알고리즘을 시험해 볼 기계가 아직 없기 때문입니다.
 
-MemT-1.0-Pro는 Transformer 내부의 별도 메모리 구조에 과거 정보를 압축해 저장합니다. 이후에는 원본 대화를 다시 입력하지 않고 저장된 기억을 활용합니다.
+유망한 응용은 오류를 바로잡은 논리 큐비트 수천...</title><link>https://www.threads.net/@choi.openai/post/DgGwT_Aj3bl</link><description>2/ 이 연구에 증명이 필요한 이유는 양자 알고리즘을 시험해 볼 기계가 아직 없기 때문입니다.
 
-자체 평가에서 MemT-1.0-Flash보다 기억력 관련 벤치마크 점수도 높았습니다. 
+유망한 응용은 오류를 바로잡은 논리 큐비트 수천 개로 연산을 10억~1000조 번 돌려야 하는데, 초기 오류 보정 양자컴퓨터가 감당할 연산은 100만 번 수준으로 봅니다.
 
-기억 공간의 크기도 일정하게 유지됩니다. 다만 모든 대화를 원문 그대로 기억하는 방식은 아닙니다.</description><pubDate>Mon, 23 Nov 2026 18:00:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF-VuvAnW2</guid></item><item><title>허깅페이스 :
-https://huggingface.co/MemTensor/MemT-1.0-Pro</title><link>https://www.threads.net/@choi.openai/post/DgF-ZcCgu5N</link><description>허깅페이스 :
-https://huggingface.co/MemTensor/MemT-1.0-Pro</description><pubDate>Mon, 23 Nov 2026 18:00:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF-ZcCgu5N</guid></item><item><title>ㅋㅋㅋㅋㅋ 트럼프 진짜 미친 사람같네 ㅋㅋㅋ</title><link>https://www.threads.net/@choi.openai/post/DgF3pfXj8ey</link><description>ㅋㅋㅋㅋㅋ 트럼프 진짜 미친 사람같네 ㅋㅋㅋ</description><pubDate>Mon, 23 Nov 2026 17:01:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF3pfXj8ey</guid></item><item><title>🚨 와.. 11일 만에 공수가 완전히 바뀌었습니다.
+그래서 연구진은 증명 언어 Lean에 정답 조건과 비용 조건을 정리로 적어 두고, 에이전트가 양자 프로그램과 그 증명을 함께 채워 넣게 했는데요.
 
-스파이 의혹 속에 쫓겨났던 젠슨 황은 대통령이 직접 이사회에 전화를 건 끝에 '국보'라는 ...</title><link>https://www.threads.net/@choi.openai/post/DgF231lD0kR</link><description>🚨 와.. 11일 만에 공수가 완전히 바뀌었습니다.
+에이전트가 정리 문장을 약하게 고치거나 정의를 바꾸고 공리를 추가해 검사를 피할 수 있어서, 제출물은 깨끗한 환경에서 외부 검증기가 고정된 명세와 다시 대조하고 통과한 해답만 모든 팀이 함께 보는 공유 위키에 올라갑니다.</description><pubDate>Tue, 24 Nov 2026 01:16:55 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGwT_Aj3bl</guid></item><item><title>3/ 2주 전 첫 논문을 정리할 때와 비교하면 결과가 그새 더 좋아졌습니다.
 
-스파이 의혹 속에 쫓겨났던 젠슨 황은 대통령이 직접 이사회에 전화를 건 끝에 '국보'라는 말을 들으며 돌아왔고, 같은 주 역대 최대 상장의 종을 친 다리오 아모데이는 워싱턴포스트와 월스트리트저널, 옛 동료들의 집중 포화를 받고 있는데요.
+11월 6일 1판에서 10.9배였던 핵융합 문제 비용 절감은 16...</title><link>https://www.threads.net/@choi.openai/post/DgGwUyaDxU2</link><description>3/ 2주 전 첫 논문을 정리할 때와 비교하면 결과가 그새 더 좋아졌습니다.
 
-젠슨의 복귀 뒤에 깔린 칩 패권의 계산과, 앤트로픽이 워싱턴의 판에서 어떤 카드가 됐는지 정리했습니다 🧵</description><pubDate>Mon, 23 Nov 2026 16:55:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF231lD0kR</guid></item><item><title>1/ 엔비디아가 11월 23일(미국 시간) 장이 열리기 전 젠슨 황의 사장 겸 CEO, 이사 복귀를 발표했습니다.
+11월 6일 1판에서 10.9배였던 핵융합 문제 비용 절감은 16일 3판에서 11.8배가 됐고, 필요한 논리 큐비트도 4,374개에서 4,338개로 줄었는데요.
 
-공시를 보면 이사회 결의는 ...</title><link>https://www.threads.net/@choi.openai/post/DgF24fjDz5p</link><description>1/ 엔비디아가 11월 23일(미국 시간) 장이 열리기 전 젠슨 황의 사장 겸 CEO, 이사 복귀를 발표했습니다.
+광화학 분자 시뮬레이션은 8.08배에서 8.22배로 올랐고, 병렬 그로버 탐색은 사흘 뒤 2판에서 1.41배가 2.55배로 뛴 뒤 3판에서 2.57배가 됐습니다.
 
-공시를 보면 이사회 결의는 하루 전인 일요일 11월 22일에 이뤄졌고, 11월 12일 물러난 지 열흘 만이었는데요.
+광화학 문제에서 1등 기록을 가진 팀이 바뀐 횟수도 일곱 번에서 여덟 번으로 늘었고, 1판에서 'LLM 에이전트'로만 적었던 모델도 2판부터 Gemini 4로 밝혔습니다.</description><pubDate>Tue, 24 Nov 2026 01:17:01 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGwUyaDxU2</guid></item><item><title>전 구글 수석부사장 빅 건도트라(Vic Gundotra)는 AI 전환기에 느끼는 불안을 두려워하지 말고, 직접 사용하며 기술 변화의 흐름에 올라...</title><link>https://www.threads.net/@choi.openai/post/DgGuchTE1AN</link><description>전 구글 수석부사장 빅 건도트라(Vic Gundotra)는 AI 전환기에 느끼는 불안을 두려워하지 말고, 직접 사용하며 기술 변화의 흐름에 올라타야 한다고 강조했습니다.
 
-이사회는 공시에 미국 정부 고위층의 의견을 들었고, 그 결과 그의 복귀가 국가안보 측면에서 안전하다고 확신한다고 적었습니다.
+인쇄기부터 증기기관, 자동차에 이르기까지 모든 거대한 기술 혁명은 급격한 변화와 불확실성을 동반했기에 늘 불안을 야기해 왔습니다.
 
-세마포에 따르면 트럼프는 이사회 회의에 직접 전화로 들어가 복귀를 설득했고, 스티븐 청 백악관 공보국장은 대통령이 완전히 관여했다며 우리는 우리의 천재들을 지켜야 한다고 밝혔습니다.
+하지만 그는 변호사든, 화학자든, 심장전문의든 직업과 분야를 막론하고 “두려워하지 말고 지금 당장 AI를 켜서 직접 다뤄보라”고 조언했습니다.
 
-트럼프는 CNBC 인터뷰에서 이사회가 우리가 원한 대로 결정했다고 말했습니다.
+일상과 업무에 AI를 직접 적용해 보는 것만이 급변하는 노동·산업 환경 속에서 도태되지 않고 발맞춰 나갈 수 있는 유일한 방법이라는 설명입니다.
 
-닷새 전만 해도 복귀에 선을 그었던 이사회가 주말 사이 만장일치로 돌아선 겁니다.</description><pubDate>Mon, 23 Nov 2026 16:55:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF24fjDz5p</guid></item><item><title>2/ 트럼프가 내세운 논리는 칩이었습니다.
+특히 복잡한 코딩이나 전문 지식 없이도 자연어로 대화하기만 하면 되는 만큼, “인류가 개발한 가장 경이로운 기술”을 직접 경험하며 활용 역량을 키워야 한다고 덧붙였습니다.</description><pubDate>Tue, 24 Nov 2026 01:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGuchTE1AN</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=nQpTIhVk7eM</title><link>https://www.threads.net/@choi.openai/post/DgGueCQk635</link><description>풀영상 :
+https://www.youtube.com/watch?v=nQpTIhVk7eM</description><pubDate>Tue, 24 Nov 2026 01:00:48 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGueCQk635</guid></item><item><title>MIT 물리학자 맥스 테그마크(Max Tegmark)는 AI의 ‘재귀적 자기 개선(RSI)’이 가져올 지능 폭발의 핵심 변수로 ‘속도(타임스케일...</title><link>https://www.threads.net/@choi.openai/post/DgGgpz1Emt1</link><description>MIT 물리학자 맥스 테그마크(Max Tegmark)는 AI의 ‘재귀적 자기 개선(RSI)’이 가져올 지능 폭발의 핵심 변수로 ‘속도(타임스케일)’를 꼽았습니다.
 
-그는 CNBC 전화 인터뷰에서 이사회가 국가안보 문제를 보장해 달라고 했고, 정부가 아는 모든 것을...</title><link>https://www.threads.net/@choi.openai/post/DgF25UMD7AO</link><description>2/ 트럼프가 내세운 논리는 칩이었습니다.
+인류 문명과 경제 규모가 두 배로 성장하는 데는 30~40년이 걸려 인간이 방향을 조종할 수 있지만, AI 개발에서 인간이 배제될수록 성능 배가 주기는 연 단위에서 월, 주, 나아가 하루 단위로 기하급수적으로 단축됩니다.
+원자 하나를 매일 두 배씩 365번 불리면 우주 전체 원자 수보다 많아지듯, 통제 불능의 초지수적 성장이 일어난다는 경고입니다.
 
-그는 CNBC 전화 인터뷰에서 이사회가 국가안보 문제를 보장해 달라고 했고, 정부가 아는 모든 것을 근거로 보장해 줬다고 말했는데요.
+테그마크는 인간 개입을 줄이는 과정을 원자로의 감속재 제거에 비유하며, “원자로에서 반응을 늦추는 흑연 제어봉을 계속 뽑아내다 보면 어느 순간 임계점에 도달해 순식간에 폭발해 버릴 것”이라고 강조했습니다.</description><pubDate>Mon, 23 Nov 2026 23:00:05 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGgpz1Emt1</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=J9WpNdQYYoo</title><link>https://www.threads.net/@choi.openai/post/DgGgrDJEm4s</link><description>풀영상 :
+https://www.youtube.com/watch?v=J9WpNdQYYoo</description><pubDate>Mon, 23 Nov 2026 23:00:15 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGgrDJEm4s</guid></item><item><title>전 구글 수석부사장 빅 건도트라(Vic Gundotra)는 레이 커즈와일의 특이점 예측이 가장 정확했다고 평가하며, 인간보다 백만 배 똑똑한 A...</title><link>https://www.threads.net/@choi.openai/post/DgGZ4X3kbR1</link><description>전 구글 수석부사장 빅 건도트라(Vic Gundotra)는 레이 커즈와일의 특이점 예측이 가장 정확했다고 평가하며, 인간보다 백만 배 똑똑한 AI가 암과 알츠하이머를 정복하고 인류에게 신처럼 숭배받는 미래가 멀지 않았다고 진단했습니다.
 
-이어 젠슨을 두는 게 위협이냐고 묻는 사람들이 있지만, 위협은 그를 잃는 쪽이라고 했습니다. 젠슨의 머릿속에는 아무도 모르는 다른 칩들이 있다는 말도 덧붙였습니다.
+특히 그는 “불과 12개월 안에 인간이 이해하기 어려울 정도로 스스로 진화하는 재귀적 자기 개선(RSI) AI가 등장할 것”이라고 단언했습니다.
 
-사흘 전 기자회견에서는 엔비디아의 칩이 너무 앞서 있고 복잡해서 베낄 수 없다고 했습니다.
-
-대통령에게 젠슨은 한 회사의 CEO를 넘어, 미국이 중국보다 앞서 있다는 사실을 몸에 지닌 사람이 된 겁니다.</description><pubDate>Mon, 23 Nov 2026 16:55:12 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF25UMD7AO</guid></item><item><title>3/ 시장은 바로 답했습니다.
-
-엔비디아 주가는 사임 전날 173.73달러에서 증권거래위원회 회계 조사 보도가 나온 11월 20일 125.53달...</title><link>https://www.threads.net/@choi.openai/post/DgF26JvD9Dn</link><description>3/ 시장은 바로 답했습니다.
-
-엔비디아 주가는 사임 전날 173.73달러에서 증권거래위원회 회계 조사 보도가 나온 11월 20일 125.53달러까지 내려가 2008년 이후 최악의 한 주를 보냈는데요.
-
-복귀가 발표된 23일에는 장중 33% 넘게 올라 160달러대 후반에서 거래됐습니다.
-
-엔비디아의 보증과 자금에 기대던 코어위브와 오라클도 함께 급등했고, CNBC는 젠슨의 복귀가 엔비디아의 AI 금융 공포를 덜어 줬다고 평가했습니다.
-
-칩을 파는 회사가 고객의 돈줄까지 쥔 구조라, 젠슨 한 사람이 돌아오자 그 사슬 전체가 한꺼번에 살아난 겁니다.</description><pubDate>Mon, 23 Nov 2026 16:55:18 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgF26JvD9Dn</guid></item></channel></rss>
+실제로 최신 모델은 프로그래밍 언어 '린(Lean)'을 통해 검증된 수학 증명을 내놓고도, 정작 인간 수학자들이 그 논리를 이해하는 데 수 주가 걸리는 수준에 도달했습니다. 그는 우리가 이미 기하급수적 성장 곡선 위에 올라타 있으며, 이는 두려우면서도 전율이 일만큼 경이로운 변화라고 강조했습니다.</description><pubDate>Mon, 23 Nov 2026 22:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGZ4X3kbR1</guid></item><item><title>풀영상 :
+https://www.youtube.com/watch?v=nQpTIhVk7eM</title><link>https://www.threads.net/@choi.openai/post/DgGZ56pkSd5</link><description>풀영상 :
+https://www.youtube.com/watch?v=nQpTIhVk7eM</description><pubDate>Mon, 23 Nov 2026 22:01:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgGZ56pkSd5</guid></item></channel></rss>
