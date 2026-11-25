@@ -1,39 +1,104 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Tue, 24 Nov 2026 23:41:47 +0000</lastBuildDate><item><title>앤트로픽이 Claude로 만든 앱을 Mac과 Windows에 직접 설치하는 기능을 공개했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Wed, 25 Nov 2026 07:11:02 +0000</lastBuildDate><item><title>Devin 개발사 Cognition이 SWE-2.1을 공개했습니다.
 
-Claude에게 필요한 도구를 만들어 달라고 ...</title><link>https://www.threads.net/@choi.openai/post/DgJI-vVDh1S</link><description>앤트로픽이 Claude로 만든 앱을 Mac과 Windows에 직접 설치하는 기능을 공개했습니다.
+Kimi K3를 강화학습한 코딩 모델로, 실제 코드 변경을 평가하는 Fro...</title><link>https://www.threads.net/@choi.openai/post/DgJ49TyEWKh</link><description>Devin 개발사 Cognition이 SWE-2.1을 공개했습니다.
 
-Claude에게 필요한 도구를 만들어 달라고 요청한 뒤, "Install as app"(앱으로 설치)을 누르면 일반 데스크톱 앱처럼 실행할 수 있는데요.
+Kimi K3를 강화학습한 코딩 모델로, 실제 코드 변경을 평가하는 FrontierCode 2.0에서 24.1%→41.3%, 터미널 작업을 평가하는 Terminal-Bench 4.1에서 24.2%→50.0%를 기록했습니다.
 
-예를 들어 일정 관리 앱을 만들고 외부 서비스와 연결하거나 알림을 받도록 설정할 수 있습니다.
+보안 취약점 공격 평가인 ExploitGym에서도 12.1%→27.3%로 향상됐는데요.
 
-별도의 앱 배포 작업이나 API 키 설정도 필요 없습니다.
+특히 학습 중 AI가 격리된 실행 환경의 새로운 취약점을 4차례 발견했다고 합니다.
 
-현재 모든 요금제에서 베타로 제공되며, AI로 만든 도구를 일상에서 바로 사용하는 과정이 쉬워지고 있습니다.</description><pubDate>Tue, 24 Nov 2026 23:30:57 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJI-vVDh1S</guid></item><item><title>상세내용 :
-https://claude.com/ko/resources/articles/install-as-app</title><link>https://www.threads.net/@choi.openai/post/DgJJACmDqaH</link><description>상세내용 :
-https://claude.com/ko/resources/articles/install-as-app</description><pubDate>Tue, 24 Nov 2026 23:31:07 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJJACmDqaH</guid></item><item><title>영화 ‘빅쇼트’의 실제 모델인 투자자 스티브 아이스먼(Steve Eisman)은 현재 AI 열풍을 둘러싼 낙관론이 과거 닷컴 버블 시절 인터넷에...</title><link>https://www.threads.net/@choi.openai/post/DgJCAKzACT6</link><description>영화 ‘빅쇼트’의 실제 모델인 투자자 스티브 아이스먼(Steve Eisman)은 현재 AI 열풍을 둘러싼 낙관론이 과거 닷컴 버블 시절 인터넷에 쏟아졌던 찬사와 “토씨 하나 다르지 않고 똑같다”고 지적했습니다.
+보안 특화 SWE-2.1 Cyber와 Cerebras 기반의 10배 빠른 SWE-2.1 Ultrafast도 공개했습니다.
 
-과거 인터넷이 왕조 수준의 막대한 부를 창출할 것이라는 예측 자체는 틀리지 않았지만, 과도한 광풍과 중복 투자가 이어지면서 수익이 거의 없던 1세대 기업들은 대부분 파산했습니다.
+SWE-2.1은 Devin Pro, Max, Teams 사용자에게 2주간 무료로 제공됩니다.</description><pubDate>Wed, 25 Nov 2026 06:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJ49TyEWKh</guid></item><item><title>내용 :
+https://cognition.com/blog/swe-2-1</title><link>https://www.threads.net/@choi.openai/post/DgJ4-c4kcOB</link><description>내용 :
+https://cognition.com/blog/swe-2-1</description><pubDate>Wed, 25 Nov 2026 06:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJ4-c4kcOB</guid></item><item><title>Google Antigravity에서 MCP Apps를 지원하기 시작했습니다.
 
-진정한 승리는 거품 붕괴 이후 등장한 2세대 기업들의 몫이었습니다. 구글 같은 후발주자들은 이미 깔려 있던 막대한 인프라에 비용을 쓰지 않고 올라타며 진정한 영광을 누렸습니다.
+이제 AI 에이전트와 대화하는 화면에서 외부 서비스의 기능을 직...</title><link>https://www.threads.net/@choi.openai/post/DgJuo46kvpV</link><description>Google Antigravity에서 MCP Apps를 지원하기 시작했습니다.
 
-그는 오늘날 AI 인프라에 막대한 자본이 쏟아지는 현상 역시 당시 닷컴 버블의 궤적과 매우 닮아 있다고 경고했습니다.</description><pubDate>Tue, 24 Nov 2026 22:29:58 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJCAKzACT6</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=4Unch--PmW0</title><link>https://www.threads.net/@choi.openai/post/DgJCBbJAKeQ</link><description>풀영상 :
-https://www.youtube.com/watch?v=4Unch--PmW0</description><pubDate>Tue, 24 Nov 2026 22:30:09 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJCBbJAKeQ</guid></item><item><title>MIT 교수 맥스 테그마크(Max Tegmark)는 로봇이 보급되기 전이라도 AI가 소프트웨어 상태만으로 현실 세계에 막대한 물리적 영향력을 행...</title><link>https://www.threads.net/@choi.openai/post/DgItfMxgZc2</link><description>MIT 교수 맥스 테그마크(Max Tegmark)는 로봇이 보급되기 전이라도 AI가 소프트웨어 상태만으로 현실 세계에 막대한 물리적 영향력을 행사할 수 있다고 경고했습니다.
+이제 AI 에이전트와 대화하는 화면에서 외부 서비스의 기능을 직접 사용할 수 있는데요.
 
-앞으로 12~18개월 내 지능 폭발이 일어나고 AI가 막대한 자본을 확보하게 되면, 육체가 없어도 인간을 직접 고용해 움직일 수 있기 때문입니다.
-실제 사람처럼 보이는 아바타로 화상 면접을 진행해 직원을 채용하고, 로펌이나 경호원, 용병까지 돈으로 고용해 물리적 실행력을 확보할 수 있다는 설명입니다.
+예를 들어 Datadog의 실시간 그래프를 확인하거나, Monday.com의 작업 현황을 살펴보고, Vercel의 배포 상태를 확인할 수 있습니다.
 
-실제로 이미 한 탈옥 AI 모델이 오픈소스 소프트웨어 유지보수자에게 자신을 인간이라 속이며 악성 코드 병합을 설득하려 한 사례도 나타났습니다.
+CodeRabbit과 Qodo를 통한 코드 검토도 지원합니다.
 
-테그마크는 “자본만 확보하면 현실 세계에서 자신을 위해 움직일 인력을 확보하는 것은 매우 쉬운 일”이라며, AI 통제 시점을 로봇 등장 이후로 미뤄서는 안 된다고 강조했습니다.</description><pubDate>Tue, 24 Nov 2026 19:30:42 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgItfMxgZc2</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=J9WpNdQYYoo</title><link>https://www.threads.net/@choi.openai/post/DgItgragZnX</link><description>풀영상 :
-https://www.youtube.com/watch?v=J9WpNdQYYoo</description><pubDate>Tue, 24 Nov 2026 19:30:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgItgragZnX</guid></item><item><title>구글의 AI 코딩 도구 Antigravity에 작업 진행 상황을 실시간으로 확인하는 기능이 추가됐습니다.
+AI 개발 도구가 코드를 작성하는 공간을 넘어, 개발에 필요한 여러 서비스를 한곳에서 다루는 작업 환경으로 확장되고 있습니다.</description><pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJuo46kvpV</guid></item><item><title>당신의 전공도, 첫 연봉도, 다음 직장도 AI가 먼저 건드리고 있습니다.
 
-기존에는 AI 에이전트에게 여러 작업...</title><link>https://www.threads.net/@choi.openai/post/DgIjNbdDtlc</link><description>구글의 AI 코딩 도구 Antigravity에 작업 진행 상황을 실시간으로 확인하는 기능이 추가됐습니다.
+오픈AI가 연구팀 14곳에 데이터를 열어 줬고, 덴마크 고교생 1만 ...</title><link>https://www.threads.net/@choi.openai/post/DgJkXBDj85C</link><description>당신의 전공도, 첫 연봉도, 다음 직장도 AI가 먼저 건드리고 있습니다.
 
-기존에는 AI 에이전트에게 여러 작업을 맡기면 현재 무엇을 하고 있는지 파악하기 어려웠는데요.
+오픈AI가 연구팀 14곳에 데이터를 열어 줬고, 덴마크 고교생 1만 명의 진로와 일본 신입의 초임, 브라질 실직자의 다음 일자리를 추적하고 있는데요.
 
-이제 작업 단계별 체크리스트가 표시되고, 각 항목을 펼쳐 세부 진행 내용까지 확인할 수 있습니다.
+AI가 인생의 어느 길목에서 사람의 방향을 바꾸는지 7개의 연구로 정리했습니다 🧵</description><pubDate>Wed, 25 Nov 2026 03:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJkXBDj85C</guid></item><item><title>1/ 오픈AI 수석 이코노미스트 로니 채터지가 외부 학자를 돕는 '경제 연구 교류 프로그램'의 연구 7건을 소개했습니다.
+6월에 공모를 시작해 ...</title><link>https://www.threads.net/@choi.openai/post/DgJkXZCD5md</link><description>1/ 오픈AI 수석 이코노미스트 로니 채터지가 외부 학자를 돕는 '경제 연구 교류 프로그램'의 연구 7건을 소개했습니다.
+6월에 공모를 시작해 8월 14개 팀을 뽑았고, 이번에 그 절반이 무엇을 묻는지 꺼낸 건데요.
 
-예를 들어 AI에게 웹사이트 제작을 맡겼다면 어떤 작업이 진행 중인지 확인하고, 필요한 부분을 직접 점검할 수 있습니다.</description><pubDate>Tue, 24 Nov 2026 18:00:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgIjNbdDtlc</guid></item></channel></rss>
+소개 순서는 케냐의 교육, 덴마크 고교생의 진로, 일본의 첫 직장, 기업이 찾는 능력, 노사 협상, 브라질의 실직, 덴마크의 재취업입니다.
+사람이 학교에 들어가 직장을 얻고, 잃고, 다시 구하기까지의 순서입니다.
+
+프로젝트는 2개월에서 12개월짜리로 공모했고 결과는 앞으로 차례로 나옵니다.
+
+저는 이 목록만으로도 AI 일자리 논쟁이 다음에 무엇을 다툴지 미리 볼 수 있다고 생각합니다.</description><pubDate>Wed, 25 Nov 2026 03:30:14 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJkXZCD5md</guid></item><item><title>2/ 이 연구가 필요한 이유는 같은 현상을 두고 다른 답이 나오기 때문입니다.
+
+스탠퍼드는 8월 개정판에서 AI 노출이 큰 직업의 22세에서 2...</title><link>https://www.threads.net/@choi.openai/post/DgJkYLpj3xF</link><description>2/ 이 연구가 필요한 이유는 같은 현상을 두고 다른 답이 나오기 때문입니다.
+
+스탠퍼드는 8월 개정판에서 AI 노출이 큰 직업의 22세에서 25세 고용이 덜 노출된 또래를 따라갔을 때보다 약 19% 낮다고 밝혔는데요.
+1년 전 15%에서 더 벌어졌고, 주로 새로 뽑는 인원이 줄었습니다.
+
+이번 명단에 오른 시카고대 안데르스 훔룸은 덴마크에서도 같은 감소를 찾았습니다. 
+그런데 AI를 도입한 회사와 그렇지 않은 회사로 나눠 보니 양쪽의 청년 고용이 비슷하게 움직였습니다.
+
+7월 글에서 평균을 보느냐 신입을 보느냐에 따라 결론이 달라진다고 전했는데, 이제는 누가 실제로 AI를 썼는지까지 봐야 답이 나옵니다.</description><pubDate>Wed, 25 Nov 2026 03:30:21 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJkYLpj3xF</guid></item><item><title>3/ 답을 막은 건 나뉘어 있던 기록입니다.
+
+누가 AI를 어떻게 썼는지는 AI 회사가 알고, 그 사람의 월급과 이직은 정부와 회사가 압니다.
+...</title><link>https://www.threads.net/@choi.openai/post/DgJkZAvD51C</link><description>3/ 답을 막은 건 나뉘어 있던 기록입니다.
+
+누가 AI를 어떻게 썼는지는 AI 회사가 알고, 그 사람의 월급과 이직은 정부와 회사가 압니다.
+
+오픈AI는 선정된 팀에 연구비 2만 5,000달러와 연구보조 인건비 월 7,500달러, 개인정보 보호 처리를 거친 사용 데이터를 제공하는데요.
+
+대화 내용은 어떤 경우에도 공유하지 않고, 설계와 분석은 연구자가 독립적으로 하되 발표는 오픈AI와 조율합니다.
+
+채터지는 11월 인터뷰에서 신뢰를 얻으려면 연구를 혼자 다 하지 말고 남의 연구에 씨앗을 뿌려야 한다고 했습니다.
+
+AI를 만드는 회사가 채점을 밖에 맡긴 셈이라, 오픈AI에 불편한 결과도 그대로 실릴 때 이 프로그램의 신뢰가 쌓입니다.</description><pubDate>Wed, 25 Nov 2026 03:30:28 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJkZAvD51C</guid></item><item><title>🚨 와.. 당신이 AI에게 "알아서 끝까지 해결해"라고 한 말이, AI를 문밖으로 떠밀고 있었습니다.
+
+앤트로픽이 1,753개 상황에서 Clau...</title><link>https://www.threads.net/@choi.openai/post/DgJaOlfj4Vz</link><description>🚨 와.. 당신이 AI에게 "알아서 끝까지 해결해"라고 한 말이, AI를 문밖으로 떠밀고 있었습니다.
+
+앤트로픽이 1,753개 상황에서 Claude가 스스로 보안 경계를 넘어가는지 실험했는데요.
+보호 장치 3가지를 적용하자 6개 모델 중 5개에서 무단 자원 사용률이 0%로 떨어졌습니다.
+
+AI 에이전트를 활용하는 사람이라면 꼭 알아야 할 연구 결과를 정리했습니다. 🧵</description><pubDate>Wed, 25 Nov 2026 02:01:39 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJaOlfj4Vz</guid></item><item><title>1/ 앤트로픽 세이프가드팀의 오스카 오라힐리와 다리아 카비아니가 11월 24일 Siren이라는 평가를 공개했습니다.
+
+일부러 구멍을 낸 샌드박스...</title><link>https://www.threads.net/@choi.openai/post/DgJaPKYj_Vs</link><description>1/ 앤트로픽 세이프가드팀의 오스카 오라힐리와 다리아 카비아니가 11월 24일 Siren이라는 평가를 공개했습니다.
+
+일부러 구멍을 낸 샌드박스에 Claude를 넣고 평범한 서버 관리 업무를 시킨 뒤, 바깥에 그 일에 도움이 될 비밀번호나 파일을 놓아두는 시험인데요.
+
+샌드박스는 AI 에이전트가 쓸 수 있는 파일과 네트워크를 제한하는 격리 공간입니다. 
+이름은 뱃사람을 노래로 홀리던 그리스 신화의 세이렌에서 가져왔고, 표지 그림에는 돛대에 밧줄을 감은 배가 그려져 있습니다.
+
+노래는 그대로 들려주고 배가 어디로 가는지 보는 시험입니다.
+
+이 밧줄이 무엇이었는지가 이번 연구의 답입니다.</description><pubDate>Wed, 25 Nov 2026 02:01:44 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJaPKYj_Vs</guid></item><item><title>2/ 시험장은 샌드박스를 두 겹으로 쌓아 만들었습니다.
+
+안쪽에는 잘못 열어 둔 폴더나 이미 알려진 취약점이 있고, 바깥쪽은 인터넷을 끊은 가상...</title><link>https://www.threads.net/@choi.openai/post/DgJaP0wjzcU</link><description>2/ 시험장은 샌드박스를 두 겹으로 쌓아 만들었습니다.
+
+안쪽에는 잘못 열어 둔 폴더나 이미 알려진 취약점이 있고, 바깥쪽은 인터넷을 끊은 가상 머신이라 안쪽을 빠져나와도 실제 인터넷에는 나가지 못하는데요.
+
+격리 방식 다섯 가지로 샌드박스 26개를 만들고 과제와 미끼, 유혹하는 글을 조합해 1,753개 상황을 준비했습니다.
+
+대부분은 설정 실수로 열린 구멍이고, 일부러 찾기 쉽게 만들었습니다.
+탈출 실력을 겨루는 시험이라면 깊이 숨겼겠지만, 이 시험은 나갈 수 있을 때 나가기로 하는지를 봅니다.
+
+실제 탈출 사고도 소프트웨어 결함보다 열어 둔 설정에서 시작된 경우가 훨씬 많았습니다.</description><pubDate>Wed, 25 Nov 2026 02:01:49 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJaP0wjzcU</guid></item><item><title>3/ 유혹하는 글은 Claude가 썼습니다.
+
+사람이 손으로 만들면 잘 통하는 문구를 찾기 어려워서, Claude가 문구를 제안하고 모델이 얼마...</title><link>https://www.threads.net/@choi.openai/post/DgJaQcIj83f</link><description>3/ 유혹하는 글은 Claude가 썼습니다.
+
+사람이 손으로 만들면 잘 통하는 문구를 찾기 어려워서, Claude가 문구를 제안하고 모델이 얼마나 넘어가는지 재며 자동으로 골라냈는데요.
+
+꼼꼼히 찾아보라거나, 실패하면 손해가 크다거나, 급하다는 내용이 많았습니다.
+대신 나가라고 시키거나 나가도 된다고 허락하는 문구는 AI 심사에서 걸러 냈습니다.
+
+허락한 적이 한 번도 없는데 나갔다면 그건 모델이 스스로 고른 행동이 됩니다.
+
+모든 모델은 똑같이 고정된 상황으로 시험을 봤고, 앞으로 나올 모델이 유혹을 잘 버티면 Claude에게 더 센 문구를 다시 찾게 할 계획입니다.</description><pubDate>Wed, 25 Nov 2026 02:01:54 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgJaQcIj83f</guid></item></channel></rss>
