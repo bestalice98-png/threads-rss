@@ -1,27 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 27 Nov 2026 06:56:29 +0000</lastBuildDate><item><title>AI 안전 연구자 폴 크리스티아노(Paul Christiano)는 AI로 인한 실존적 위험이 먼 미래가 아닌 당장 코앞에 다가왔다고 경고했습니다...</title><link>https://www.threads.net/@choi.openai/post/DgO_H8hiOwU</link><description>AI 안전 연구자 폴 크리스티아노(Paul Christiano)는 AI로 인한 실존적 위험이 먼 미래가 아닌 당장 코앞에 다가왔다고 경고했습니다.
+<rss version="2.0"><channel><title>@choi.openai - Threads</title><link>https://www.threads.net/@choi.openai</link><description>Threads posts from @choi.openai</description><lastBuildDate>Fri, 27 Nov 2026 17:51:39 +0000</lastBuildDate><item><title>정말 매일매일이 난제가 해결됐다는 소식이 들려오는 것 같습니다.
 
-그는 3년 내 치명적 사건 발생 가능성을 언급하면서도 “향후 6~12개월 내에도 의미 있는 위험이 존재한다”고 지적했습니다.
+이번에는 AI 연구소들이 컴퓨터과학의 오랜 난제인 P=BQP를 증명했다는 소문...</title><link>https://www.threads.net/@choi.openai/post/DgQKudojU-y</link><description>정말 매일매일이 난제가 해결됐다는 소식이 들려오는 것 같습니다.
 
-특히 최근 3~6개월간 AI 기술의 발전 궤적이 매우 우려스러운 수준이며, 대형 사고가 터지기 직전에 나타날 법한 전조 현상들이 이미 목격되고 있다는 분석입니다.
+이번에는 AI 연구소들이 컴퓨터과학의 오랜 난제인 P=BQP를 증명했다는 소문이 돌고 있는데요.
 
-물론 더 큰 위험은 그 이후에 도사리고 있지만, 당장 눈앞에 닥친 실질적 리스크를 간과해서는 안 된다는 설명입니다.
+쉽게 말하면 양자컴퓨터가 효율적으로 풀 수 있는 문제를 일반 컴퓨터에서도 다항 시간 내에 풀 수 있다는 의미입니다.
 
-따라서 그는 “이 문제를 추상적인 논의로 다룰 것이 아니라 즉각적으로 대응해야 한다”며, AI 성능 폭주에 맞선 시급한 안전장치 마련을 촉구했습니다.</description><pubDate>Fri, 27 Nov 2026 06:00:16 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgO_H8hiOwU</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=-Ef0ocEoBCs</title><link>https://www.threads.net/@choi.openai/post/DgO_KgWiJqp</link><description>풀영상 :
-https://www.youtube.com/watch?v=-Ef0ocEoBCs</description><pubDate>Fri, 27 Nov 2026 06:00:37 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgO_KgWiJqp</guid></item><item><title>코그니션(Cognition) CEO 스콧 우(Scott Wu)는 공격자들이 고도화된 AI 기술과 모델을 손쉽게 활용할 수 있게 되면서, 사이버 ...</title><link>https://www.threads.net/@choi.openai/post/DgO01TYgDw4</link><description>코그니션(Cognition) CEO 스콧 우(Scott Wu)는 공격자들이 고도화된 AI 기술과 모델을 손쉽게 활용할 수 있게 되면서, 사이버 보안의 패러다임이 급격히 위협받고 있다고 경고했습니다.
+사실이라면 양자컴퓨팅 산업뿐만 아니라 RSA, ECC 등 현대 암호 체계에도 큰 영향을 미칠 수 있습니다.
 
-상용 프론티어 모델뿐만 아니라 자체적으로 고성능 모델을 학습시키는 것조차 어렵지 않은 환경이 되면서, 공격 측의 역량이 폭발적으로 커졌다는 설명입니다.
+내부적으로는 공개를 조율하고 있다는 소식도 조금씩 들려오는 것 같습니다.</description><pubDate>Fri, 27 Nov 2026 17:00:53 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgQKudojU-y</guid></item><item><title>역사에 이름을 남길 수 있는 마지막 기회일지도 모릅니다.
 
-따라서 방어 측 역시 수십 개의 AI 에이전트 군단을 투입해 제품과 웹사이트의 모든 공격 표면을 상시 점검하고, 30년 된 레거시 소프트웨어까지 최신 보안 기준으로 전면 재정비해야 합니다.
+아직 풀리지 않은 52,979개의 수학 문제를 모아놓은 Left to Solve라는 ...</title><link>https://www.threads.net/@choi.openai/post/DgQAWLaD7XR</link><description>역사에 이름을 남길 수 있는 마지막 기회일지도 모릅니다.
 
-그는 현재의 궤적대로라면 “향후 6~12개월 내에 포춘 50대·100대 기업이나 정부 기관 같은 전 세계 주요 기관에서 대규모 보안 침해 사고가 잇따를 것이며, 이는 거의 불가피한 수준”이라고 내다봤습니다.</description><pubDate>Fri, 27 Nov 2026 04:30:20 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgO01TYgDw4</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=efoZj_7oVJs</title><link>https://www.threads.net/@choi.openai/post/DgO02oTAABy</link><description>풀영상 :
-https://www.youtube.com/watch?v=efoZj_7oVJs</description><pubDate>Fri, 27 Nov 2026 04:30:31 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgO02oTAABy</guid></item><item><title>중국 로봇 근황..</title><link>https://www.threads.net/@choi.openai/post/DgOqlO0AuPA</link><description>중국 로봇 근황..</description><pubDate>Fri, 27 Nov 2026 03:00:46 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgOqlO0AuPA</guid></item><item><title>구글 딥마인드(Google DeepMind) 신경과학 연구팀은 AI 모델을 활용해 인간의 행동 데이터를 정밀하게 분석하고, 이를 실제 뇌 신경 ...</title><link>https://www.threads.net/@choi.openai/post/DgOgR9hE4S3</link><description>구글 딥마인드(Google DeepMind) 신경과학 연구팀은 AI 모델을 활용해 인간의 행동 데이터를 정밀하게 분석하고, 이를 실제 뇌 신경 활동과 연결함으로써 뇌의 작동 원리를 규명하는 연구를 진행하고 있습니다.
+아직 풀리지 않은 52,979개의 수학 문제를 모아놓은 Left to Solve라는 서비스가 등장했는데요.
 
-과거보다 훨씬 높은 정확도로 피험자의 선택과 행동을 설명해 내는 모델을 바탕으로, 과제 수행 중 변화하는 모델의 내부 상태가 실제 뇌의 특정 영역이나 신경 활동(fMRI, 전극 측정 등)과 어떻게 일치하는지 검증하는 단계로 나아가고 있습니다.
-궁극적으로는 단순한 행동 예측을 넘어 뇌의 물리적 메커니즘과 행동을 하나로 잇는 통합 모델을 구축하는 것이 신경과학의 핵심 과제입니다.
+원하는 난제를 골라 AI 에이전트에게 풀도록 맡기면 됩니다.
 
-또한 연구팀은 모델의 복잡성과 예측 성능 사이의 딜레마를 극복하기 위해 복잡성을 체계적으로 구조화하는 한편, 방대한 실제 데이터를 효율적으로 확보하기 위해 '실험 설계 과정 자체를 자동화'하는 방향으로도 연구를 확장하고 있습니다.</description><pubDate>Fri, 27 Nov 2026 01:30:45 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgOgR9hE4S3</guid></item><item><title>풀영상 :
-https://www.youtube.com/watch?v=K8rdrWQRd20</title><link>https://www.threads.net/@choi.openai/post/DgOgTVEk9gp</link><description>풀영상 :
-https://www.youtube.com/watch?v=K8rdrWQRd20</description><pubDate>Fri, 27 Nov 2026 01:30:56 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgOgTVEk9gp</guid></item></channel></rss>
+AI가 증명에 성공하면 Lean을 통해 검증하고, 최초 해결자로 이름을 등록할 수 있다고 합니다.
+
+수학 난제마저 AI가 하나씩 해결해 나가는 시대인데요.
+
+남들이 풀기 전에 Codex에라도 돌려봐야 하는 것 아닐까요?</description><pubDate>Fri, 27 Nov 2026 15:30:11 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgQAWLaD7XR</guid></item><item><title>주소 :
+https://lefttosolve.com</title><link>https://www.threads.net/@choi.openai/post/DgQAXomD4K2</link><description>주소 :
+https://lefttosolve.com</description><pubDate>Fri, 27 Nov 2026 15:30:23 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgQAXomD4K2</guid></item><item><title>조만간 큰 사이버전이 터질 것 같다는 생각이 듭니다.
+
+Reuters에 따르면 미 공군의 핵심 클라우드 플랫폼인 Cloud One이 해킹당했습니...</title><link>https://www.threads.net/@choi.openai/post/DgP2E6hATS8</link><description>조만간 큰 사이버전이 터질 것 같다는 생각이 듭니다.
+
+Reuters에 따르면 미 공군의 핵심 클라우드 플랫폼인 Cloud One이 해킹당했습니다.
+
+전 세계 200여 곳의 미 공군 시설에서 관리하는 폭탄과 미사일 정보뿐만 아니라 방공 레이더, 군수 물자, 인사 정보까지 다루는 플랫폼인데요.
+
+현재 미 사이버사령부가 피해 규모를 조사 중이며, 공격자의 신원과 실제 데이터 유출 여부는 아직 확인되지 않았습니다.
+
+최근 FBI와 미 국방부, 재무부에서도 해킹 사고가 잇따르고 있습니다.</description><pubDate>Fri, 27 Nov 2026 14:00:27 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgP2E6hATS8</guid></item><item><title>기사 :
+https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-on...</title><link>https://www.threads.net/@choi.openai/post/DgP2GHNAV4g</link><description>기사 :
+https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/</description><pubDate>Fri, 27 Nov 2026 14:00:36 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgP2GHNAV4g</guid></item><item><title>사람의 움직임을 실시간으로 따라 하는 휴머노이드 로봇입니다.
+
+Unitree가 전신 원격 제어 시스템 Embodied Avatar V3.0 Gu...</title><link>https://www.threads.net/@choi.openai/post/DgPsUQhjqWD</link><description>사람의 움직임을 실시간으로 따라 하는 휴머노이드 로봇입니다.
+
+Unitree가 전신 원격 제어 시스템 Embodied Avatar V3.0 Guardian을 공개했습니다.
+
+Unitree 발표에 따르면 최대 동기화율은 99.8%, 최소 지연 시간은 80ms(0.08초)에 불과한데요.
+
+완전 자율 모드뿐만 아니라 사람이 원격으로 로봇의 전신을 제어할 수 있습니다.
+
+복잡한 원격 작업이나 로봇 AI 학습을 위한 동작 데이터 수집에도 활용할 수 있다고 합니다.</description><pubDate>Fri, 27 Nov 2026 12:35:47 +0000</pubDate><guid>https://www.threads.net/@choi.openai/post/DgPsUQhjqWD</guid></item></channel></rss>
